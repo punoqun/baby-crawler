@@ -6,7 +6,6 @@ import numpy as np
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import matplotlib
 from collections import Counter
-import numpy as np
 from matplotlib import pyplot as plt
 from matplotlib import dates
 import datetime
@@ -18,12 +17,15 @@ def draw_figure(canvas, figure):
     return figure_canvas_agg
     
 def TextLabel(text): return sg.Text(text+':', justification='r', size=(5,1))
-city_col = [[sg.Listbox(values=[], enable_events=True, size=(30,20),key='-CITY LIST-')]]
-dist_col = [[sg.Listbox(values=[], enable_events=True, select_mode='multiple', size=(30,20),key='-DIST LIST-')]]
-rest_col = [[sg.Listbox(values=[], enable_events=True, select_mode='multiple', size=(30,20),key='-REST LIST-')]]
+city = [[sg.Listbox(values=[], enable_events=True, size=(30,20),key='-CITY LIST-')]]
+
+city_col = [[sg.Frame('Cities', city, pad=(0,0))]]
+dist = [[sg.Listbox(values=[], enable_events=True, select_mode='multiple', size=(30,20),key='-DIST LIST-')]]
+dist_col = [[sg.Frame('Districts', dist, pad=(0,0))]]
+rest= [[sg.Listbox(values=[], enable_events=True, select_mode='multiple', size=(30,20),key='-REST LIST-')]]
+rest_col = [[sg.Frame('Restaurants', rest, pad=(0,0))]]
 button_col = [
                 [sg.Button("Get Dishes")],
-                [sg.Button('Update')],
                 [TextLabel('Min'),sg.Combo([0,1,2,3,4,5], size=(5, 6), default_value=0, key='min')],
                 [TextLabel('Max'),sg.Combo([0,1,2,3,4,5], size=(5, 6), default_value=5, key='max')],
                 [TextLabel('Date'),sg.Combo(['Day', 'Week', 'Month', 'Year'],default_value='Year', size=(5, 6), key='date')],
@@ -32,6 +34,8 @@ button_col = [
                 [sg.Button("Compare")],
                 [sg.Checkbox('Filter Comparison',key='filtre')],
                 [sg.Button("Analysis")],
+                [sg.HorizontalSeparator()],
+                [sg.Button('Update')],
                 [sg.HorizontalSeparator()],
                 
                 [TextLabel('Thread'),sg.Combo([1,2,3,4,5,6,7,8], size=(5, 6), default_value=1, key='thread')],
@@ -208,7 +212,7 @@ while True:
                     [sg.Canvas(key='-CANVAS-')]]
 
             # create the form and show it without the plot
-            window2 = sg.Window('Matplotlib Single Graph', layout2, location=(0,0), finalize=True, element_justification='center', font='Helvetica 12')
+            window2 = sg.Window('Analysis Graph', layout2, location=(0,0), finalize=True, element_justification='center', font='Helvetica 12')
 
             # add the plot to the window
             draw_figure(window2['-CANVAS-'].TKCanvas, fig)
