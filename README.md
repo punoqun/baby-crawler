@@ -41,4 +41,7 @@ pip install -r requirements.txt
 
 
 ## Screenshots
+**Default uses (Get Dishes and Comparison):**
 ![Alt text](https://i.ibb.co/YW80mTJ/image.png "Non-filter \"Get Dishes\" and \"Comparison\"")
+**Analysis:**
+![Alt text](https://i.ibb.co/WkWJdCS/image.png "Analysis")
