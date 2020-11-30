@@ -1,0 +1,33 @@
+food_id,food_name,food_price,food_category,food_score
+615faa6a-9478-4832-b504-5c9b9ff1c181,Patates Kızartması,"13,00 TL",Atıştırmalıklar,5.0
+c03f2822-5767-48bd-96ef-443e8a26bfe6,Elma Dilim Patates Kızartması,"13,00 TL",Atıştırmalıklar,5.0
+8ad15d37-3e20-424b-be81-8adf21b83d2d,Golden Chicken,"14,00 TL",Atıştırmalıklar,5.0
+72ec13a2-02b2-443f-a821-275918f5c289,Soğan Halkası (8 Adet),"8,00 TL",Atıştırmalıklar,5.0
+f20067e0-f57d-4bcc-9af4-256fa4e93fbf,Cajun Chicken,"16,00 TL",Atıştırmalıklar,5.0
+026a00af-125b-43aa-86ae-f6f72089f6d2,Mozzarella Sticks,"13,00 TL",Atıştırmalıklar,5.0
+531c836e-208b-42f6-8ff7-b753045d80b3,Fuel Oil,"18,50 TL",Atıştırmalıklar,5.0
+a8abeb62-02e9-4907-b114-94f33800eacc,Izgara Tavuk,"22,00 TL",Beyaz Etler,6.0
+c3236123-52c8-49ed-b6e4-f4137604653e,Soya Soslu Tavuk,"23,00 TL",Beyaz Etler,6.0
+ff385ec5-85be-49f1-8c2b-7089dd512a75,Köri Soslu Tavuk,"24,00 TL",Beyaz Etler,12.0
+1e9ee48b-b327-420d-a47b-e38105b45abb,Mantar Soslu Tavuk,"23,00 TL",Beyaz Etler,6.0
+13105059-80e9-4460-a149-65ea915f5129,Tavuk Şnitzel,"23,00 TL",Beyaz Etler,6.0
+0845b3bc-c46e-496e-8af0-212c44d79827,Meksika Usulü Acılı Tavuk,"23,00 TL",Beyaz Etler,11.0
+1eb80d0a-0d7d-48f0-9dae-4c81d1946fb1,Chicken Mushroom,"25,00 TL",Beyaz Etler,12.0
+1e7d0826-42d4-45e1-876f-d31cc37509bc,Tavuk Şiş,"21,00 TL",Beyaz Etler,6.0
+a0d4b552-cf1f-4b6a-892c-328013b95390,Hamburger,"25,00 TL",Burgerler,5.0
+cf24bba4-2753-42c3-ac3b-5e28b9633128,Cheeseburger,"26,00 TL",Burgerler,5.0
+45a15f75-8314-49dc-8883-91f34cbee7be,Chicken Burger,"24,00 TL",Burgerler,5.0
+33aa234f-7443-402e-87dc-b0e5df885904,Taxi Burger,"29,00 TL",Burgerler,5.0
+5e890a7a-aa92-45f4-bd1e-ec04214fa981,Mexican Burger,"26,00 TL",Burgerler,5.0
+7143951d-7905-48f2-939d-9fe5f3bf0f7d,American Burger,"28,00 TL",Burgerler,5.0
+a24353f9-6f2e-420f-821f-55b0563a4f9f,Sossiso Pizza,"27,00 TL",Pizzalar (1 - 2 Kişilik),6.0
+1f363d99-a219-46e4-9b1d-a050407463c4,BBQ Beef Pizza,"29,00 TL",Pizzalar (1 - 2 Kişilik),6.0
+e8dc6a25-35ff-4445-9b5c-0f553eaf19ef,BBQ Chicken Pizza,"28,00 TL",Pizzalar (1 - 2 Kişilik),6.0
+fb93304d-43ee-4420-a031-709b5d28edea,Kavurmalı Pizza,"34,00 TL",Pizzalar (1 - 2 Kişilik),6.0
+5d0d3180-2f6a-4904-87ff-539e21656738,Benzin Pizza,"28,00 TL",Pizzalar (1 - 2 Kişilik),6.0
+4588fb85-8355-417b-a9b7-96f4826737cc,Combo Pizza,"27,00 TL",Pizzalar (1 - 2 Kişilik),6.0
+73809f7d-c929-499c-b182-13fff9909a6c,Etli Dürüm,"23,00 TL",Dürümler,5.0
+6023c35e-68e1-455d-b9e3-755bf142b59e,Tavuklu Dürüm,"22,00 TL",Dürümler,5.0
+b79d450b-9a38-403a-b5c5-961f397f587d,Köfteli Dürüm,"22,00 TL",Dürümler,5.0
+4231b73b-4914-4c96-8e6e-fa2b87b13e25,Cheddarlı Etli Dürüm,"24,00 TL",Dürümler,5.0
+2641bfeb-cdcb-4309-a624-edc4ddc14c11,Su,"2,50 TL",İçecekler,5.0

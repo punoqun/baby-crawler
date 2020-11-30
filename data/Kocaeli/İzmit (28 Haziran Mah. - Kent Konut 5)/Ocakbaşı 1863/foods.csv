@@ -1,0 +1,30 @@
+food_id,food_name,food_price,food_category,food_score
+7029c114-c1d0-46b4-89f4-43300a5e8abd,2'li Lahmacun Menü,"18,00 TL",Menüler,22.0
+753bc252-2ca4-4a88-94be-a94df88e027a,5'li Lahmacun Menü,"40,00 TL",Menüler,22.0
+f701b6f7-7368-4111-bb10-e68e27baf688,10'lu Lahmacun Menü,"77,00 TL",Menüler,22.0
+916412f5-133e-465d-8587-aad85f7dd92c,Adana Kebap,"32,00 TL",Kebaplar,12.0
+568f0429-1514-469b-8940-c2569775669d,Urfa Kebap,"32,00 TL",Kebaplar,7.0
+21a184f2-8671-4698-a2dd-5c2be2042c32,Domatesli Kebap,"39,00 TL",Kebaplar,7.0
+31e2244f-3759-4d13-86a6-2889712adee7,Patlıcanlı Kebap,"42,00 TL",Kebaplar,7.0
+344288b8-5e47-42dc-9df1-0f8d52b8a58a,Yoğurtlu Kebap,"42,00 TL",Kebaplar,7.0
+3e0b6be4-84ad-407e-8786-cfaf8d8fa188,Siverek Kebap,"48,00 TL",Kebaplar,9.0
+4e4d9b6b-c27a-4e89-8b85-b41ef6436832,Haşhaş Kebap,"43,00 TL",Kebaplar,7.0
+5185d1ff-8fa9-45c0-80f2-395a0f1e9788,Sarma Beyti Kebap,"42,00 TL",Kebaplar,7.0
+52b0d32c-9327-4daa-b32a-0de4c665d670,Alinazik Kebap (Kıymadan),"42,00 TL",Kebaplar,7.0
+7834ba5c-712a-4505-876c-20b13e4917bb,Fıstıklı Kebap,"43,00 TL",Kebaplar,7.0
+a76ee882-c191-457e-96d5-70a156571434,Karışık Kebap (1 Kişilik),"55,00 TL",Kebaplar,6.0
+503f31ba-565b-4036-ac36-8f09f76d62d9,Tavuk Kanat,"27,00 TL",Izgaralar,6.0
+9fec4e54-05c6-4dd0-bd24-290384eae0f9,Tavuk Şiş,"27,00 TL",Izgaralar,5.0
+a3439b3f-f67d-44d1-896c-3de11f461e40,Ciğer Şiş,"42,00 TL",Izgaralar,7.0
+ccefbca7-223d-4b41-ba15-e4197cbfcd6d,Kuşbaşı Şiş,"40,00 TL",Izgaralar,5.0
+95F1CB5D-6F53-4F31-98F8-1F5BC0CCDFD4,Adana Dürüm,"17,00 TL",Dürümler,17.0
+A3EB250C-37E9-4E23-AEAF-DCD2E82425AA,Urfa Dürüm,"17,00 TL",Dürümler,12.0
+9A4D0DF4-DBF8-4145-A88E-61BF8821AC8D,Tavuk Dürüm,"17,00 TL",Dürümler,7.0
+17D4CA21-0E84-422A-95FA-2545DAD580D7,Ciğer Dürüm,"20,00 TL",Dürümler,9.0
+495DFEC4-0070-44A3-85D3-BF146CF9EDED,Kuşbaşı Dürüm,"20,00 TL",Dürümler,7.0
+4B0AEA41-F18C-4252-8C9A-196482CEB265,Lahmacun,"8,00 TL",Lahmacunlar,27.0
+B9EDD7C5-2E4C-4E40-9BBE-206765C621D3,Tabak Altı Lahmacun,"5,00 TL",Lahmacunlar,22.0
+13BDCB20-816A-4E84-A1D6-5B554BDE4880,Çiğ Köfte (300 gr.),"10,00 TL",Diğer Lezzetler,5.0
+74E72B3A-FC73-49AB-8ADD-DB83ED8C895E,Şıllık Tatlısı,"18,00 TL",Tatlılar,5.0
+01473637-F026-4449-898B-88195B8A604A,Künefe,"18,00 TL",Tatlılar,5.0
+86bb627c-61c6-4f8e-9da3-c9eda236741a,Poşet,"0,25 TL",Poşet,5.0

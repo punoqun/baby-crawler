@@ -1,0 +1,28 @@
+food_id,food_name,food_price,food_category,food_score
+e1ecc1b1-a947-4d6a-935b-5e1d5b5fcaa8,Tavuk Döner Dürüm Menü,"10,00 TL",Ekonomik Menüler,1.0
+401665a6-eb86-48a9-84b9-13b16a3c4d37,Menü 1,"15,00 TL",Ekonomik Menüler,22.0
+291c880b-dcb7-4546-a801-245e902e4e41,Menü 2,"16,00 TL",Ekonomik Menüler,17.0
+bfe58bed-ea0b-41ed-b9ef-d0d94b1cbdba,Menü 3,"19,00 TL",Ekonomik Menüler,5.0
+7d8662f2-0c33-4b57-9e6b-a4f67b1552eb,Menü 4,"20,00 TL",Ekonomik Menüler,7.0
+329e0d6b-7e53-4cda-8bd3-ea8ab7b302cd,Hamburger Menü,"18,00 TL",Ekonomik Menüler,4.0
+63f006d6-48a1-403a-ab0f-5129e2df7c79,Cheddarlı Et Döner Dürüm,"17,00 TL",Et Dönerler,-2.0
+14D5446D-8E6A-4611-B570-BFED1904ED11,Cheddarlı Zurna Et Döner Dürüm,"20,00 TL",Et Dönerler,0.0
+a4502d8b-0276-4e97-a512-ffa47b5d5a33,Et Döner,"19,00 TL",Et Dönerler,-2.0
+ade3d900-a250-416b-b91d-2ca1a78bd8af,Et Döner Dürüm,"14,00 TL",Et Dönerler,-2.0
+16cb20dd-fc76-49a6-a8ea-713886c7e247,İskender (Et Dönerden),"20,00 TL",Et Dönerler,4.0
+132148fc-39cc-444e-97da-eb38dd81816d,Kaşarlı Et Döner Dürüm,"17,00 TL",Et Dönerler,0.0
+86F3919C-0435-45A8-9B7F-28384673724C,Kaşarlı Zurna Et Döner Dürüm,"20,00 TL",Et Dönerler,2.0
+974de147-9ad3-4b66-b8ab-2a923d8f05ef,Sütlü Ekmek Arası Et Döner,"14,00 TL",Et Dönerler,-5.0
+8485ae37-404b-4379-bd56-ba0dc085b9ae,Zurna Et Döner Dürüm,"17,00 TL",Et Dönerler,0.0
+BA5E0EB8-05D5-4FF0-A2D7-86ED3CDD0FE1,Kaşarlı Zurna Tavuk Döner Dürüm,"16,00 TL",Tavuk Dönerler,5.0
+B977D5AB-7836-414B-9A18-641889EC2F1D,Cheddarlı Zurna Tavuk Döner Dürüm,"16,00 TL",Tavuk Dönerler,3.0
+7835dda5-a550-4b9b-8b49-c3025f42c632,Tavuk Döner,"16,00 TL",Tavuk Dönerler,1.0
+1a15ce04-663c-475f-9074-fccaf1c1b83f,İskender (Tavuk Dönerden),"17,50 TL",Tavuk Dönerler,4.0
+0b1107d6-eaf2-4148-8e76-762bec03e432,Cheddarlı Tavuk Döner Dürüm,"13,00 TL",Tavuk Dönerler,1.0
+f8ed2846-3839-4bc1-8727-62d8356f6ba7,Kaşarlı Tavuk Döner Dürüm,"13,00 TL",Tavuk Dönerler,3.0
+942195a4-1a44-447d-aa40-f759f43d1336,Sütlü Ekmek Arası Tavuk Döner,"10,00 TL",Tavuk Dönerler,-2.0
+d884698e-77d6-4db7-a4bf-2f9770f78783,Tavuk Döner Dürüm,"9,00 TL",Tavuk Dönerler,6.0
+29f6f0e8-3248-41b4-83ea-12e4ced6ac36,Zurna Tavuk Döner Dürüm,"13,00 TL",Tavuk Dönerler,8.0
+09cb94ce-4f6b-4c18-9233-c65eecbefb35,Hamburger,"7,00 TL",Burgerler,4.0
+BF7F0B29-4119-4807-BF4A-62AEDF4C7D8F,Ciğer Tantuni Dürüm,"8,00 TL",Ciğer Tantuniler,9.0
+ac77cd91-1efa-4930-bc5f-feb56cdcf197,Patates Kızartması,"7,50 TL",Yan Ürünler,4.0

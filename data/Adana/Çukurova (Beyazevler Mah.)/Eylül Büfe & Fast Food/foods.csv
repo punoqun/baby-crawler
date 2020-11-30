@@ -1,0 +1,34 @@
+food_id,food_name,food_price,food_category,food_score
+78d7c683-0764-4f7b-8080-0c1721b6bd67,Tost Ekmeğine Kaşarlı Tost,"6,00 TL",Tostlar,7.0
+59c5caa6-20d3-418e-b682-16b74bccd0c2,Sandviç Ekmeğine Kaşarlı Tost,"8,00 TL",Tostlar,7.0
+3e764c51-69cd-44fd-983a-6bc659ab41e8,Tost Ekmeğine Kaşarlı Sucuklu Tost,"8,00 TL",Tostlar,5.0
+fac9bf07-f45e-4028-a5c8-be8ae8e2dec3,Sandviç Ekmeğine Kaşarlı Sucuklu Tost,"10,00 TL",Tostlar,5.0
+76c4faa8-cb81-4b90-9e17-cd16664cab90,Ayvalık Tostu,"16,00 TL",Tostlar,11.0
+bf04c226-3b34-418f-8064-3fe0be6d37ae,Yumurtalı Karışık Tost,"14,00 TL",Tostlar,8.0
+9518a099-d2a0-4838-9a2c-4bba7243fa93,Simit Tost,"8,00 TL",Tostlar,6.0
+b4a5a87e-00c1-4569-8f5c-c5b8d1e9f6d9,Kaşarlı Otobüs Tost,"10,00 TL",Tostlar,7.0
+33845ffe-c747-45c4-b68b-a361245830ac,Kaşarlı Sucuklu Otobüs Tost,"12,00 TL",Tostlar,5.0
+36714136-4F0D-4CF4-B2AA-D1D6688A7180,Peynirli Gözleme,"14,00 TL",Gözlemeler,6.0
+793493FE-4EF8-4F1F-B262-2568A9BA785C,Kaşarlı Gözleme,"15,00 TL",Gözlemeler,7.0
+8cca3a1e-0998-4401-afe8-36ac1060f506,Patatesli Gözleme,"14,00 TL",Gözlemeler,6.0
+EBAB35DD-B2D2-42ED-AA91-74E844A51D69,Ispanaklı Gözleme,"15,00 TL",Gözlemeler,6.0
+424b7fe1-195e-435d-a72d-d58a4671fd71,Karışık Gözleme,"15,00 TL",Gözlemeler,8.0
+681B3D45-2A71-4FC1-AD48-39B0ECF9726C,Ispanaklı Tepsi Böreği (23 Dilim),"80,00 TL",Börekler,5.0
+C80F0178-AC0E-4108-A6A7-F812CDF2D859,Sıkma (5 Adet),"20,00 TL",Sıkmalar,16.0
+24f89008-7be5-4e7a-9185-bcedba2e0d9b,Sıkma (Adet),"4,00 TL",Sıkmalar,21.0
+3D52D978-FCCB-478D-A0F4-DD75C8DFA5CD,Kaşarlı Sıkma,"4,50 TL",Sıkmalar,22.0
+47437276-2688-43f2-af52-e14c8a84fbe4,Ekmek Arası Köfte,"16,00 TL",Sandviçler,7.0
+1587caa2-af38-4fd3-af35-d1d66a6023ed,Kaşarlı Köfte Burger,"15,00 TL",Burgerler,6.0
+da30b4ce-1a2f-43f2-ad18-3088409c02bf,Izgara Köfte,"20,00 TL",Izgaralar,5.0
+0f3d8264-da77-408f-b187-7355f20dea5c,Izgara Tavuk,"18,00 TL",Izgaralar,5.0
+8922693a-8adf-49da-8bb7-490aae84e791,Köri Soslu Tavuklu Makarna,"18,00 TL",Diğer Lezzetler,4.0
+f328864b-d10e-4177-ad6a-3c127f0596df,Eylül Special Dürüm,"20,00 TL",Diğer Lezzetler,5.0
+1f631bac-7eca-413b-8a0e-35a7561d0b75,Su,"1,50 TL",İçecekler,1.0
+51bc1555-1a9a-4920-ba51-8eac7ab91dea,Taze Sıkma Portakal Suyu,"6,00 TL",Vitamin Bar,16.0
+6527d4d6-d879-4408-b3a6-e641dea4d235,Taze Sıkma Greyfurt Suyu,"6,00 TL",Vitamin Bar,16.0
+f16d7424-7574-4007-916e-5ee9f6f80809,Taze Sıkma Nar Suyu,"7,00 TL",Vitamin Bar,18.0
+e693a51e-41cc-4d73-a4c2-644c26352c4f,Taze Sıkma Elma Suyu,"6,00 TL",Vitamin Bar,16.0
+1b9f89ec-0bf8-4901-8246-e2a52ada25ae,Taze Sıkma Havuç Suyu,"6,00 TL",Vitamin Bar,16.0
+5c311a48-27df-413f-a9e4-120d03d0dbd9,Muzlu Süt,"8,00 TL",Vitamin Bar,7.0
+D887A7AC-448E-49D4-9DA8-153E766E071A,Taze Sıkma Mandalina Suyu,"6,00 TL",Vitamin Bar,16.0
+e82ced74-652f-4454-9b20-a295767aa756,Poşet,"0,25 TL",Poşet,5.0

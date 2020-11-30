@@ -1,0 +1,38 @@
+food_id,food_name,food_price,food_category,food_score
+b4b78b42-36d0-4dad-aeaf-76b8618b8857,10'lu Lahmacun Menü,"80,00 TL",Menüler,10.0
+D4CB2F39-AD69-4E72-A7A7-7C07338DC0C9,3'lü Tavuklu Kaşarlı Pide Menü,"50,00 TL",Menüler,11.0
+501F4C51-6664-41D4-8BC5-79C922DABDD1,Çiğ Köfte (1 kg.) Menü,"50,00 TL",Menüler,5.0
+0D7F76B6-7383-4B4F-96F7-9DBBD73669A9,Lahmacun Menü 1,"23,00 TL",Menüler,28.0
+F0458144-D1D3-4686-A448-C64331521220,Lahmacun Menü 2,"25,00 TL",Menüler,13.0
+f40ee8b5-e64a-4bdb-98c5-d22175664dc3,Lahmacun,"8,00 TL",Lahmacunlar,15.0
+7c4df8a0-4082-45da-9237-3859daee3d66,Kaşarlı Lahmacun,"9,50 TL",Lahmacunlar,11.0
+93d0de36-325d-438e-99ab-e6393d83b9cf,Kaşarlı Pide,"16,00 TL",Pideler,7.0
+1dfa72d1-8829-48eb-966b-6c32c39a8b92,Kıymalı Pide,"18,00 TL",Pideler,6.0
+61d32c07-ab72-4680-8058-69870572a7d9,Sebzeli Kaşarlı Pide,"15,00 TL",Pideler,7.0
+69aba337-09bc-4158-9e1e-6fc80b98e143,Tavuklu Kaşarlı Pide,"16,00 TL",Pideler,16.0
+5ecdab37-71a5-47a4-98e8-4b509ae1a596,Kıymalı Kaşarlı Pide,"18,00 TL",Pideler,7.0
+221e790a-01fb-49af-bdd3-5ddbde6425c9,Kuşbaşılı Pide,"22,00 TL",Pideler,4.0
+d6b83479-4d9d-4623-9ea7-31f22528b493,Kuşbaşılı Kaşarlı Pide,"22,00 TL",Pideler,5.0
+1d7b98cb-16fd-43a7-8466-af2dc04d9f82,Kavurmalı Kaşarlı Pide,"25,00 TL",Pideler,7.0
+71C30A14-0600-4455-951C-5D972C7C4D14,Tavuklu Pide,"16,00 TL",Pideler,10.0
+06795380-853E-4FA9-B021-31EEA606A881,Kavurmalı Pide,"25,00 TL",Pideler,6.0
+05ff119f-491e-49e5-ae90-5d8ad7aab9d2,Karışık Pide,"22,00 TL",Pideler,4.0
+cd4c3100-90c6-4c33-a309-e69fe2af37ea,Sucuklu Kaşarlı Pide,"20,00 TL",Pideler,5.0
+2d1b5d1b-8763-444b-8ce4-89060f026e9c,Izgara Tavuk,"20,00 TL",Izgaralar,30.0
+19659ab3-f9e1-4350-a4b1-b42d361124db,Yarım Ekmek Arası Izgara Tavuk,"10,00 TL",Ekmek Arası Ürünler & Dürümler,34.0
+A4A81A74-368A-4004-AE63-34C9701BE176,3/4 Ekmek Arası Tavuk Izgara,"15,00 TL",Ekmek Arası Ürünler & Dürümler,32.0
+AD2ABBBA-9F67-40DE-9EA0-F9D76E9BCE5A,Tam Ekmek Arası Tavuk Izgara,"20,00 TL",Ekmek Arası Ürünler & Dürümler,32.0
+574c116a-0df7-427f-8ae9-ea61ccad2147,Izgara Tavuk Dürüm,"10,00 TL",Ekmek Arası Ürünler & Dürümler,38.0
+7255ca27-7db4-465a-a2cd-66d9d129c39e,Çiğ Köfte Dürüm,"5,00 TL",Çiğ Köfteler,8.0
+71a85f9f-ead4-4346-aba5-7b535424eb20,Çiğ Köfte (200 gr.),"10,00 TL",Çiğ Köfteler,5.0
+490cfe03-26b0-4d81-acab-54839286aea7,Çiğ Köfte (400 gr.),"20,00 TL",Çiğ Köfteler,5.0
+395daa1b-abed-49a4-9d05-9ef48ecd5e75,Çiğ Köfte (500 gr.),"25,00 TL",Çiğ Köfteler,5.0
+567f1e14-4252-4f5d-8c94-3616e6454eb2,Çiğ Köfte (750 gr.),"35,00 TL",Çiğ Köfteler,5.0
+a35723a2-4b96-417a-ab48-2db58d8ee1de,Çiğ Köfte (1 kg.),"50,00 TL",Çiğ Köfteler,5.0
+5BE259FA-1247-4374-8988-E1D62E2E84A2,Patates Kızartması,"6,00 TL",Yan Ürünler,5.0
+05A252A8-030A-4462-A402-837A8AE0805A,Tavuk Nugget,"8,00 TL",Yan Ürünler,25.0
+C37FB734-3651-426D-86E5-DC57775E484E,Soğan Halkası,"8,00 TL",Yan Ürünler,5.0
+39fe881f-dca2-4ca4-9209-2eed5ab0a0dd,Künefe,"10,00 TL",Tatlılar,7.0
+953a4b24-46ed-4da4-8142-e100eaee8a2e,Katmer,"12,00 TL",Tatlılar,6.0
+2fc9ac58-6a36-4f9c-b05f-15f00175fe72,Niğde Gazozu (25 cl.),"4,00 TL",İçecekler,5.0
+27cdea02-3b23-4521-bfbd-aa610f12b061,Poşet,"0,25 TL",Poşet,5.0

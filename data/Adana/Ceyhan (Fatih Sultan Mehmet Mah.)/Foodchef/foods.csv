@@ -1,0 +1,27 @@
+food_id,food_name,food_price,food_category,food_score
+ffbb6529-9cac-483a-b6ca-d07c9ae29793,Kids Burger Menü,"20,00 TL",Menüler,5.0
+f13436ee-0294-4a0a-b1fc-85da0ca5f9d3,Classic Burger Menü,"25,00 TL",Menüler,10.0
+1b03ecc3-76ce-4e30-9861-7e8a114164cd,Special 1 Burger Menü,"35,00 TL",Menüler,10.0
+b8a10f7c-6754-483a-9b0a-2a27bd15878d,Special 2 Burger Menü,"35,00 TL",Menüler,8.0
+5f3b5f02-a527-4b60-a04f-7b7e9e670e1d,Cheeseburger Menü,"28,00 TL",Menüler,4.0
+3d26b63d-43bc-4003-9f27-0e780cef0c11,Double Burger Menü,"33,00 TL",Menüler,10.0
+dd750331-edeb-4bd9-a9ff-423fa72d5c37,Mexico Burger Menü,"26,00 TL",Menüler,5.0
+38155dde-84bb-4873-a4db-d93a39ee9ab3,Chicken Burger Menü,"18,00 TL",Menüler,5.0
+494b995e-c78b-49ff-8fa3-4e9bbf27777b,Mushroom Burger Menü,"28,00 TL",Menüler,5.0
+9df60dcd-a84c-4766-ad1f-4d102dd9f51f,Cheeseburger,"28,00 TL",Burgerler,5.0
+BA669075-E424-423A-803D-79DD3096C0FB,Çıtır Tavuk,"24,00 TL",Beyaz Etler,5.0
+477c6cd3-bb71-4878-8144-4e7d2dfbaa4a,Köri Soslu Tavuk,"24,00 TL",Beyaz Etler,10.0
+0D1E35FD-9699-42BA-BDA6-D9C0D1CA2DAD,Mushroom Chicken,"24,00 TL",Beyaz Etler,5.0
+4BD9662E-108C-4CDA-B0B4-E0923499E144,Tavuk Çökertme,"24,00 TL",Beyaz Etler,5.0
+8186F4F1-0FB8-4723-AC6E-740DCB55A640,Tavuk Fajita,"24,00 TL",Beyaz Etler,5.0
+3F5758E1-F47D-44F6-82AA-4BA8BC07E6C4,Tavuk Şnitzel,"28,00 TL",Beyaz Etler,5.0
+7d2314eb-7d71-495e-9937-52a0afc5d6e6,Köri Soslu Penne,"20,00 TL",Makarnalar,5.0
+530d7e9b-862d-43ed-989d-f15a3021c241,Tavuklu Mantarlı Fettuccine,"20,00 TL",Makarnalar,5.0
+b4ef4c84-365d-4877-ac79-3e6f75eda46d,Biftekli Penne,"25,00 TL",Makarnalar,5.0
+6239ef26-d858-49c0-a15d-e1aa9134cba7,Ton Balıklı Penne,"20,00 TL",Makarnalar,5.0
+6aa7fdbb-ea42-41c9-93bd-5e6ddc7f1380,Tavuklu Mantarlı Penne,"20,00 TL",Makarnalar,5.0
+2dc6baf9-290b-415e-a479-d39748c97caa,Tavuklu Sezar Salatası,"20,00 TL",Salatalar,5.0
+79590381-013a-4b7d-bfa9-551ba370f64d,Biftekli Salata,"25,00 TL",Salatalar,5.0
+19baab33-9385-47a4-8c6c-62c4899854df,Akdeniz Salata,"15,00 TL",Salatalar,5.0
+d9230aa0-ecf4-423f-9056-f4591a780958,Ton Balıklı Salata,"20,00 TL",Salatalar,5.0
+9c7abe56-7450-4a7b-a335-26e1b2d62d82,Poşet,"0,25 TL",Poşet,5.0

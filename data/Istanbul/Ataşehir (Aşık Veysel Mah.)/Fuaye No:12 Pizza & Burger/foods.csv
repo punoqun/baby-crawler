@@ -1,0 +1,40 @@
+food_id,food_name,food_price,food_category,food_score
+5703f9b9-a0a6-4e52-bde0-623871fd475f,Klasik Burger (120 gr.),"22,50 TL",Burgerler,4.0
+415e0758-5ded-4a11-9584-91d741de4957,Tavuk Şnitzel (200 gr.),"26,25 TL",Ana Yemekler,5.0
+9bd39ec3-1a65-4bef-853d-44c12efbc25b,Izgara Sucuk (200 gr.),"26,25 TL",Ana Yemekler,5.0
+c9931130-5d84-47ad-a7ff-91ecf465752c,Izgara Köfte (200 gr.),"26,25 TL",Ana Yemekler,5.0
+ef79a463-0bc3-4de8-90be-fdcb46e8d795,Mantarlı Tavuk Izgara (200 gr.),"25,50 TL",Ana Yemekler,5.0
+F1EF9350-996D-45B6-ABBB-315AFC18CFA6,Dana Lokum (200 gr.),"48,75 TL",Ana Yemekler,5.0
+7c0d3ddb-98cf-48de-810a-92763d54013e,Ton Balıklı Pizza,"30,00 TL",Pizzalar (2 Kişilik),34.0
+1c4136eb-955f-4bb6-a569-cc1332a99506,Napolitan Pizza,"24,75 TL",Pizzalar (2 Kişilik),34.0
+5eb96eaf-7d82-4444-9995-2611bb0cf27c,Etobur Napolitan Pizza,"35,25 TL",Pizzalar (2 Kişilik),34.0
+5fea78f6-f5c7-4014-ab78-45106cd2e9c6,Roka Pizza,"27,00 TL",Pizzalar (2 Kişilik),34.0
+3fa3c95f-23df-4da7-9ecb-876f49fa78d5,4 Peynirli Pizza,"32,25 TL",Pizzalar (2 Kişilik),40.0
+67ba1e1c-56a2-4614-9b9f-03d5bb5b4303,Acılı 4 Peynirli Pizza,"33,00 TL",Pizzalar (2 Kişilik),35.0
+8827e6c2-50dd-4b3e-8e6e-68dbf1ca2081,Alaturka Pizza,"34,50 TL",Pizzalar (2 Kişilik),34.0
+a8238229-6ab9-4884-9d51-fd7546d9a931,Milano Pizza,"29,25 TL",Pizzalar (2 Kişilik),34.0
+3ccf7997-a0e6-483c-ba56-a43c7787478b,Monza Pizza,"30,75 TL",Pizzalar (2 Kişilik),35.0
+7da7915b-c843-4c9c-8a37-b1d07bf522ef,Hasankeyf Pizza,"31,50 TL",Pizzalar (2 Kişilik),34.0
+390716f6-8222-4bc6-8f5e-8ee23d5e3c58,Frankfurter Rulo,"24,75 TL",Rulolar,6.0
+45ac3c79-1428-4dbf-8e95-a0c334265d2e,Sebzeli Kepekli Rulo,"18,75 TL",Rulolar,5.0
+69612b52-5fde-488d-a82b-f0d977f991fe,Alaturka Rulo,"24,75 TL",Rulolar,5.0
+74c38607-251f-42b5-8769-a146c50df614,Ispanaklı Kepekli Rulo,"18,75 TL",Rulolar,5.0
+8972d281-62c4-4897-92b8-9aa42eb4a360,Tavuklu Mantarlı Rulo,"21,00 TL",Rulolar,5.0
+de142b42-391f-401e-a140-60c0d30b9161,Hasankeyf Rulo,"21,75 TL",Rulolar,5.0
+de28427e-9b56-45d7-afd1-4c122eb0cd32,Etli Mantarlı Rulo,"27,00 TL",Rulolar,5.0
+ed878370-057b-498d-8639-33cfd46df03f,Jambonlu Rulo,"21,00 TL",Rulolar,5.0
+0604b86f-21c6-40ea-bc77-9f7389356ec3,Alfredo Soslu Tavuklu Mantarlı Fettuccine,"27,00 TL",Makarnalar,4.0
+5ac02706-9a21-4782-9dde-2bd935f434ce,Pesto Soslu Fettuccine,"22,50 TL",Makarnalar,5.0
+7f90a459-1380-4333-a840-05f02d223b4e,Spaghetti Bolognese,"25,50 TL",Makarnalar,5.0
+fbc5abff-1c2d-4301-9aec-5f6c6e01e7c2,Penne Arrabbiata,"19,50 TL",Makarnalar,5.0
+34e7dff4-bd63-4367-b14e-f482330ad98c,Sade Patates Kızartması,"11,25 TL",Yan Ürünler,5.0
+6509045b-74d4-4c96-ac89-71504f0cc0b0,Parti Tabağı (2-4 Kişilik),"56,25 TL",Yan Ürünler,5.0
+aac243a9-c623-4472-8a36-f145f2ed972e,Cheddarlı Patates Kızartması,"14,25 TL",Yan Ürünler,4.0
+f977d4d4-5660-4a39-888d-457a54e2e500,Fuaye Tabağı,"56,25 TL",Yan Ürünler,11.0
+bfdfdee6-cc4c-43fb-8c34-24bf73e74bf9,Tavuklu Sezar Salata,"23,25 TL",Salatalar,7.0
+5dd4a251-f5f6-403f-8a59-c37d5365d92e,Ton Balıklı Salata,"24,75 TL",Salatalar,7.0
+91b2a157-2f7e-4927-9bbb-ae1b2f7a7702,Akdeniz Salata,"23,25 TL",Salatalar,7.0
+7f12a2eb-df9d-4cdf-8a2b-2a7081cd417c,Hellimli Roka Salatası,"22,50 TL",Salatalar,5.0
+ae599884-72b3-4e0e-81c4-82cec4d2cbc0,Mozzarellalı Roka Salatası,"22,50 TL",Salatalar,5.0
+40ade274-f428-49bc-80a8-f1e95d44917d,Mercimek Salatası,"22,50 TL",Salatalar,5.0
+8288fbcf-80b6-44e7-bd6e-58a11ebede6c,Tulum Peynirli Akdeniz Salata,"24,75 TL",Salatalar,6.0

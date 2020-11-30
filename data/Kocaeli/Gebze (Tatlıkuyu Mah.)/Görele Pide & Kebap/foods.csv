@@ -1,0 +1,67 @@
+food_id,food_name,food_price,food_category,food_score
+EB5E6494-8BA3-492D-A7D9-536D1DDDA260,Hamburger Menü,"30,00 TL",Menüler,7.0
+0BD85B97-EA2D-48C7-930A-4AEC015BF00F,Cheeseburger Menü,"35,00 TL",Menüler,5.0
+CF9DC37F-9353-4B6F-B0E5-2ABCADA6FDC9,Double Hamburger Menü,"40,00 TL",Menüler,7.0
+FB4170AD-B388-4F60-98BC-D2592C87C533,Double Cheeseburger Menü,"45,00 TL",Menüler,5.0
+0c0cc619-1734-4a5c-ab2e-1a0c12cb9c8d,10'lu Lahmacun Menü,"59,90 TL",Menüler,8.0
+4c48cceb-e641-467d-8f5e-345de3bedfce,2 Kişilik Pizza Menü,"39,99 TL",Menüler,8.0
+72AC3564-0D99-47DE-979B-C9F3D773C705,2'li Karışık Pide Menü,"45,00 TL",Menüler,15.0
+421e5f83-03f0-4e5a-842f-c76bda3276a5,Lahmacun,"6,00 TL",Fırın Ürünleri,13.0
+b5a50143-1c9b-4c7f-bc4e-0c3e7791a64d,Fındık Lahmacun,"3,00 TL",Fırın Ürünleri,8.0
+2613c76a-6369-473b-81bb-3e85d4a1d8bb,Kaşarlı Lahmacun,"7,00 TL",Fırın Ürünleri,8.0
+108d3cf9-0604-41d1-ab96-6c76e2438771,Peymacun,"7,00 TL",Fırın Ürünleri,5.0
+852A59AF-5242-48E9-93C4-34F71C388AF5,Beşi Bir Yerde Pide,"32,00 TL",Fırın Ürünleri,13.0
+ddadd346-0fc5-48ad-b16e-f5c15e6bc2ee,Peynirli Görele Pidesi,"23,00 TL",Fırın Ürünleri,7.0
+10bd9c73-8e8d-41a2-8aaa-483e7954aec6,Kavurmalı Görele Pidesi,"27,00 TL",Fırın Ürünleri,12.0
+54fa7402-2d48-4e87-a289-a7508f9ba3ce,Kıymalı Kaşarlı Görele Pidesi,"20,00 TL",Fırın Ürünleri,12.0
+0e69e198-28e2-4263-983f-94c118568a04,Kıymalı Görele Pidesi,"20,00 TL",Fırın Ürünleri,7.0
+764af867-d12d-4f52-b07c-fec79fdbcad0,Kuşbaşılı Pide,"20,00 TL",Fırın Ürünleri,18.0
+54fbcdd1-80f9-46fa-9e51-171c9668fbeb,Kaşarlı Pide,"18,00 TL",Fırın Ürünleri,13.0
+d2b74810-d776-4c88-bf51-c2126fe993e7,Karışık Pide,"22,00 TL",Fırın Ürünleri,15.0
+925e64df-9013-4f99-a925-8a5455019e4f,Pastırmalı Kaşarlı Pide,"35,00 TL",Fırın Ürünleri,13.0
+3c9716c6-288e-444e-a571-088976719421,Kaşarlı Sucuklu Pide,"20,00 TL",Fırın Ürünleri,13.0
+6a071eda-421c-4b03-b5dc-bf73afc00957,Kavurmalı Pide,"27,00 TL",Fırın Ürünleri,18.0
+bb0b83f4-7879-4db6-ac2d-7f872d787b64,Kavurmalı Kaşarlı Pide,"27,00 TL",Fırın Ürünleri,18.0
+698087f5-1567-4546-b57c-5de839711620,Atom Pide (4'lü),"30,00 TL",Fırın Ürünleri,13.0
+1d366179-56cd-4224-ad4a-084e286f9602,Sebzeli Kaşarlı Pide,"20,00 TL",Fırın Ürünleri,13.0
+ea3d678a-07b7-4ee3-b8a4-2635ff425135,Atom Pide (3'lü),"27,00 TL",Fırın Ürünleri,13.0
+56048f4d-92fd-4349-ac11-fbffe3ed731b,Trabzon Yağlısı,"23,00 TL",Fırın Ürünleri,4.0
+6db9a726-bc50-41b9-bcd5-decbf14fb3a8,Pastırmalı Karışık Pide,"32,00 TL",Fırın Ürünleri,15.0
+9BF627D2-33ED-4C48-9F6E-D28B6D66054F,Izgara Köfte,"23,00 TL",Izgaralar,6.0
+58F6B077-692A-4215-AC26-14BDF025C194,Izgara Tavuk,"20,00 TL",Izgaralar,10.0
+27c66650-af40-40cf-b45c-ef1b752e317f,Tavuk Kanat,"20,00 TL",Izgaralar,8.0
+de805985-3519-410b-b3b8-a0dc4f0d17af,Tavuk Şiş,"20,00 TL",Izgaralar,8.0
+6F81EA50-468E-4C6E-9D52-B7301E977E19,Görele Special Karışık,"45,00 TL",Izgaralar,10.0
+04556435-3EA7-430D-977D-6A6845C20185,Ege Pizza (Büyük),"30,00 TL",Pizzalar,4.0
+B5BEC8B4-842F-426E-92EC-D68CF6C7D188,Ege Pizza (Orta),"20,00 TL",Pizzalar,4.0
+0973E1DF-8DA5-4B0B-A2F6-BBED8A6B3AC5,Karışık Pizza (Büyük),"30,00 TL",Pizzalar,6.0
+12087F23-A719-4EAB-96FF-BEBEA631A2C5,Karışık Pizza (Orta),"20,00 TL",Pizzalar,6.0
+2dc62e37-7c66-4dd6-b988-c93daeac8e8d,Kavurmalı Pizza (Büyük),"40,00 TL",Pizzalar,9.0
+82876b4a-7427-4f69-a39d-7a05ca3bdb79,Kavurmalı Pizza (Orta),"27,00 TL",Pizzalar,9.0
+3F152E62-0073-47FB-96B6-BCA332802FA2,Kavurmalı Sucuklu Special Pizza (Büyük),"40,00 TL",Pizzalar,9.0
+57018EB1-D292-4433-917C-A46DD9DFD989,Kavurmalı Sucuklu Special Pizza (Orta),"27,00 TL",Pizzalar,9.0
+1b55692c-5abf-463e-b4d8-6844659d4f05,Mantarlı Pizza (Büyük),"30,00 TL",Pizzalar,4.0
+e0712724-fd23-4069-81c2-d83a3e2f745a,Mantarlı Pizza (Orta),"20,00 TL",Pizzalar,4.0
+D24AEA1E-A3DE-49D2-926F-ACEA04857A39,Margarita Pizza (Büyük),"30,00 TL",Pizzalar,4.0
+B546E06E-2114-4786-8289-3AFCE416294A,Margherita Pizza (Orta),"20,00 TL",Pizzalar,4.0
+83aecd39-c48f-421a-b99d-f47e79fb03a3,Sebzeli Pizza (Büyük),"30,00 TL",Pizzalar,4.0
+715c2771-5f62-416e-bf90-a735895a085a,Sebzeli Pizza (Orta),"20,00 TL",Pizzalar,4.0
+322825aa-6040-4bf8-b50a-dfec867c707c,Sucuklu Pizza (Büyük),"30,00 TL",Pizzalar,4.0
+40f483ff-e1ae-4c63-afd2-71535fcf88d3,Sucuklu Pizza (Orta),"20,00 TL",Pizzalar,4.0
+954031E0-20A7-46D5-BF6A-1E3344BB450C,Tavuklu Pizza (Büyük Boy),"33,00 TL",Pizzalar,4.0
+0A02F220-5D3C-4E9F-8975-5624BF25B7BB,Tavuklu Pizza (Orta),"22,00 TL",Pizzalar,4.0
+58A89995-E660-4194-B9C6-03ACAE5A0B35,Tavuk Şiş Dürüm,"20,00 TL",Dürümler,7.0
+EDCB3A14-7483-4A2E-A403-7C0D04B52405,Köfte Dürüm,"20,00 TL",Dürümler,3.0
+70398527-d71e-4fa2-8560-68b68c85e5d5,Parmak Patates Kızartması,"10,00 TL",Yan Ürünler,4.0
+bdd4cbd0-2de5-4189-adb1-cabd0d3b45a2,Akdeniz Salata,"14,00 TL",Salatalar,7.0
+0e8a15cd-9083-4b97-bac5-7f656d8416d3,Mevsim Salata,"14,00 TL",Salatalar,7.0
+accacbe1-fcbd-441e-9b6d-943ef9996f85,Kaşık Salata,"14,00 TL",Salatalar,7.0
+98D9A36F-3599-42D8-96C8-587CE995CA8A,Çoban Salata,"14,00 TL",Salatalar,7.0
+B0B5F19C-BE42-4749-8713-C31407A50935,Tavuklu Salata,"20,00 TL",Salatalar,7.0
+4D610C60-5838-4607-B91E-96F83B37ABB9,Ton Balıklı Salata,"20,00 TL",Salatalar,7.0
+DDB2BE01-E1B3-473C-8CC7-9F342843EFC3,Beyaz Peynirli Salata,"20,00 TL",Salatalar,7.0
+7633653B-490C-44F7-84DE-0F85387F86D0,Gavurdağı Salata,"20,00 TL",Salatalar,7.0
+2f842511-15c8-4e66-872a-7b4db90ad843,Künefe,"12,00 TL",Tatlılar,3.0
+f594add0-8f04-43b3-9c1a-ab2c84c81b2b,Katmer,"15,00 TL",Tatlılar,6.0
+373e8da8-0a41-40f2-948c-8aece478ed49,"Fanta (2,5 L.)","10,00 TL",İçecekler,5.0
+b5c75c9e-050c-4d4b-b4f2-4fc25cc35e41,Poşet,"0,25 TL",Poşet,5.0

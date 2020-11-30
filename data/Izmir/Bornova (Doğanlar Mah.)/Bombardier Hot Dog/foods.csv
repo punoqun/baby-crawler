@@ -1,0 +1,37 @@
+food_id,food_name,food_price,food_category,food_score
+70cfc89c-60c1-4d75-addf-13109e3a25d8,2'li Original Hot Dog Menü,"46,00 TL",Menüler,24.0
+6bb5a35d-7655-4cd8-95a4-0e8d986ef23a,2'li Cheddar Original Hot Dog Menü,"49,00 TL",Menüler,35.0
+e3ef4627-1c25-4cfc-9e74-32192bab2ddc,2'li Burger Menü,"60,00 TL",Menüler,5.0
+7016d925-cfc6-4ea7-b7e7-5310a9fd666d,Sweet Corn Hot Dog Menü,"67,00 TL",Menüler,28.0
+E057E85E-CF7A-44A4-9E0C-08190989164C,Köz Patlıcanlı Baby Enginarlı Pizza,"33,00 TL",Pizzalar,10.0
+059BACCD-9A7A-4769-B734-65E8F3E995EC,Mozzarella Bacon Pizza,"41,00 TL",Pizzalar,13.0
+ACE64250-EEB2-487F-8D26-A1A1EADFAC11,4 Peynirli Pizza,"39,00 TL",Pizzalar,12.0
+58E1A775-5984-460C-9EF1-F780E0406E15,Alaturka Pizza,"31,00 TL",Pizzalar,17.0
+9b75a107-8e37-49c5-b76c-19d1a3e3078b,Original Hot Dog,"21,00 TL",Hot Dogs,29.0
+91b3c7d4-6c0e-4ef9-ba67-48acc258605b,Cheddar Original Hot Dog,"23,00 TL",Hot Dogs,35.0
+3617965e-fc35-4015-8716-f1e4db3d15a7,Colorado Hot Dog,"23,00 TL",Hot Dogs,24.0
+45c57510-8871-4301-b923-18e322b08c42,Chili Pizza Hot Dog,"27,00 TL",Hot Dogs,30.0
+23c624c5-dce9-4a8b-8c1c-279c1540b81e,Crispy Hot Dog,"27,00 TL",Hot Dogs,26.0
+0303bf25-3a52-4126-b94e-914f12633cfd,Mac & Cheese Hot Dog,"27,00 TL",Hot Dogs,23.0
+3a60489f-4dc8-4ab8-8d04-9296afb37f7d,Cheddar Fajita Hot Dog,"27,00 TL",Hot Dogs,30.0
+a2fcbc47-6935-42a8-a421-501822556323,Hot Dog Pizza,"27,00 TL",Hot Dogs,30.0
+f3a67e12-2ab6-48a4-b5ac-b03a4af9bd65,Bacon Hot Dog,"31,00 TL",Hot Dogs,26.0
+50274460-cfcd-45b7-963e-d3149494cdc6,Colombian Hot Dog,"35,00 TL",Hot Dogs,23.0
+2a889da0-2c52-4c6e-a7ae-f1f6b18cbbff,Dream Team Hot Dog,"35,00 TL",Hot Dogs,24.0
+aff96e54-e677-415c-8584-dbc1671ac1c0,Mexican Wrap,"31,00 TL",Wraps,4.0
+df25ccd1-a7d2-41da-89be-f9b1ebb85a13,Bonfile Wrap,"39,00 TL",Wraps,4.0
+BD8FBF55-B135-41E6-A7B7-36A770EF07E4,Amazing Burger,"39,00 TL",Burgerler,5.0
+ee7efd78-60d2-47d3-979d-01e8ef3d27ee,Bomb Burger,"41,00 TL",Burgerler,7.0
+a90b1ab4-12f1-4cec-a170-030d7a88610a,Cheeseburger,"37,00 TL",Burgerler,5.0
+e671a5b6-1e1a-434e-92ef-df7b5ddd8052,Hamburger,"35,00 TL",Burgerler,5.0
+B710A6B6-ACB5-4A08-9945-6223B754EFDF,Sweet Burger,"39,00 TL",Burgerler,9.0
+B12FB4C9-DB74-463A-A73D-176942414D39,Chili Burger,"39,00 TL",Burgerler,5.0
+80ceb40b-2fce-45ad-ad38-bc8cc11049b1,Algida Classics Cookie Cup (105 ml.),"7,00 TL",Dondurmalar,7.0
+fa805c16-b0c0-4381-ad8d-8e745cf943db,Carte d'Or Premium Çikolata Cup (100 ml.),"8,00 TL",Dondurmalar,5.0
+417a594e-aaa1-40dc-8c8a-abcabd5445ce,Carte d'Or Premium Kaymak Cup (100 ml.),"8,00 TL",Dondurmalar,5.0
+b5a89811-297e-4de0-bc27-6636d645da16,Patates Kızartması,"16,00 TL",Yan Ürünler,2.0
+d31e8bf5-00ae-432b-ba32-37dc3a558d78,Kajun Baharatlı Patates Kızartması,"17,00 TL",Yan Ürünler,3.0
+35b041c6-1a5b-4422-8ebb-0e52c837611c,Cheddar Soslu Çıtır Patates,"19,00 TL",Yan Ürünler,7.0
+7491e63d-f91a-4833-a175-c405f3dbcea8,Parmesan & Biberiyeli Çıtır Patates,"19,00 TL",Yan Ürünler,0.0
+f0e15a75-15c5-4333-81db-a6e64f5367b0,Red Bull (25 cl.),"16,00 TL",İçecekler,5.0
+d1e9f4d7-5745-43d0-a564-d767cb425fad,Mexican Sos,"3,00 TL",Soslar,-3.0

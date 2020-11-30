@@ -1,0 +1,36 @@
+food_id,food_name,food_price,food_category,food_score
+869e66ca-4e9b-4db4-8e5d-fd4a10b401a5,İnce Kıyım Kokoreç,"30,00 TL",Kokoreçler,9.0
+65284791-5270-4ee2-828f-28bc0b6758ca,İnce Kıyım İzmir Kokoreç,"35,00 TL",Kokoreçler,9.0
+9a3e17bb-1c1a-48f7-ad78-d6dd68f1d367,Halka Kokoreç,"33,00 TL",Kokoreçler,9.0
+794f5917-d9ee-46bd-89a0-0d02fb1b134b,Çeyrek Ekmek Arası Kokoreç,"14,00 TL",Kokoreçler,7.0
+5287ea40-a317-4527-9149-f01127c7154a,Yarım Ekmek Arası Kokoreç,"21,00 TL",Kokoreçler,12.0
+c0ec9c0a-ceaf-4776-ba3d-d16338e52c95,Tam Ekmek Arası Kokoreç,"38,00 TL",Kokoreçler,8.0
+87f9c5a7-ccb7-4cf6-acf1-9f42d9f11252,Çeyrek Ekmek Arası İzmir Kokoreç,"19,00 TL",Kokoreçler,7.0
+f4397ee5-aabf-4228-91e3-9dbe8b3e4ab5,Yarım Ekmek Arası İzmir Kokoreç,"25,00 TL",Kokoreçler,7.0
+86fc76f9-eaa8-497b-ac97-7c75e3e2beb7,Tam Ekmek Arası İzmir Kokoreç,"42,00 TL",Kokoreçler,8.0
+d94c7514-a5e6-4f1f-a352-918786e238ca,Adana Kebap,"29,00 TL",Kebaplar & Izgaralar,5.0
+e54abf4a-9d9a-4c9e-9e89-99e25f1f7e85,Urfa Kebap,"29,00 TL",Kebaplar & Izgaralar,4.0
+79a8f496-e3d5-4d4d-9aff-60b11c815dc1,Izgara Köfte,"29,00 TL",Kebaplar & Izgaralar,5.0
+056e82b9-ffa9-48ab-9be3-f67856f9648a,Tavuk Kanat,"25,00 TL",Kebaplar & Izgaralar,7.0
+099c71c3-4fe6-4fcf-abf9-bfe9a31049ac,Tavuk Şiş,"25,00 TL",Kebaplar & Izgaralar,7.0
+3e91b73f-16ca-48bc-9997-d4879dba37b1,Karışık Kebap,"55,00 TL",Kebaplar & Izgaralar,4.0
+a18651fe-8adf-4f00-933c-0eeac03fbb4d,Midye Dolma,"1,50 TL",Dolmalar,3.0
+948ce351-319d-4002-8142-eae228f88cb5,Şırdan Dolması,"23,00 TL",Dolmalar,6.0
+ede8ae0e-3077-4401-aa6d-c2f9b38d5ded,Arnavut Ciğeri,"29,00 TL",Diğer Lezzetler,3.0
+d85dfd62-310a-4160-8705-6da50ae1a466,Tandır Kelle (Tam),"55,00 TL",Diğer Lezzetler,4.0
+ca681015-7a19-4a5e-a8f7-ddd40f8c8d0c,Tandır Kelle (Yarım),"29,00 TL",Diğer Lezzetler,4.0
+3b66bd14-0902-4627-9140-52321f7d6616,Yaprak Ciğer,"29,00 TL",Diğer Lezzetler,5.0
+f4605b56-9c13-4f05-9e1e-397a50b8d528,Tavuk Şiş Dürüm,"20,00 TL",Dürümler,3.0
+3253ff9b-3ba7-42b8-b639-f81d27e80f8e,Adana Dürüm,"22,00 TL",Dürümler,1.0
+71368a3e-0cc2-4fb9-bfc2-db93c3779433,Urfa Dürüm,"22,00 TL",Dürümler,0.0
+d68ab408-36e5-4c08-9bfc-7089ec7f2b9e,Ciğer Dürüm,"22,00 TL",Dürümler,1.0
+6a919fa7-a9c4-4845-b0f7-1df2259beb5f,Köfte Dürüm,"22,00 TL",Dürümler,1.0
+9a5bbfbf-bfbd-46e0-afec-1ef39770ea5e,Tam Ekmek Arası Köfte,"33,00 TL",Ekmek Arası Ürünler,3.0
+adc4cdd2-c0e1-4b78-809a-2bc0651a56b2,Yarım Ekmek Arası Köfte,"22,00 TL",Ekmek Arası Ürünler,2.0
+d87301bb-4580-41c1-8796-4c589a81e459,Çoban Salata,"15,00 TL",Salatalar & Mezeler,4.0
+4f48616f-62ee-45e1-860f-3696ee60868c,Mevsim Salata,"13,00 TL",Salatalar & Mezeler,4.0
+a957fc3d-e10f-48bd-87c6-15245c8a6bcd,Fırın Sütlaç,"15,00 TL",Tatlılar,5.0
+9b5a29e2-cfcf-4a59-99f3-d0667ae7dc45,Zerde Tatlısı,"15,00 TL",Tatlılar,5.0
+ac7ba9c7-093c-49de-b946-0feb970ba2d8,Közde Tavuk Kanat (1 kg.),"55,00 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+714642b8-60cb-485f-89f0-5782a93c8988,Közde Tavuk Şiş (1 kg.),"55,00 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+6b16d744-05d0-479e-97ab-709b9432a0db,Poşet,"0,25 TL",Poşet,5.0

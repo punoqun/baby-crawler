@@ -1,0 +1,38 @@
+food_id,food_name,food_price,food_category,food_score
+608b2c59-043f-4bd4-bad8-eb19ade54c6c,Pilav Üstü Et Döner Menü,"31,50 TL",Menüler,-7.0
+7f9903f3-3bee-43bc-b47c-9a3b31ee6bc0,Gobit Ekmek Arası Et Döner Menü,"23,50 TL",Menüler,-4.0
+f379008a-f389-42e7-9d33-dd19fb6145c4,İskender (Et Dönerden) Menü,"32,50 TL",Menüler,7.0
+37fd833c-9777-47c1-9395-fbc21119f69f,Karışık Pizza (Orta) Menü,"29,50 TL",Menüler,7.0
+7399e1be-644d-4526-b4c1-3fece2fc4646,Pilav Üstü Tavuk Döner Menü,"22,50 TL",Menüler,-3.0
+4808a397-c3b3-4cfc-9a36-55db5edf6f54,Tavuk Döner Menü,"18,50 TL",Menüler,0.0
+b7855ddb-25be-472f-b36c-3037ed034ef6,Gobit Ekmek Arası Tavuk Döner Menü,"17,50 TL",Menüler,-1.0
+059BA014-A135-4F71-BEE4-A0016015E9B0,Lahmacun Menü,"24,90 TL",Menüler,0.0
+44FF228A-AADC-4FE4-80C4-C0E40F1C10C8,Hatay Usulü Soslu Tavuk Döner Dürüm Menü,"19,50 TL",Menüler,13.0
+61f1622f-4281-46da-8776-3dc7e815e051,İskender (Et Dönerden),"26,00 TL",Et Dönerler,8.0
+87e0a4d4-0221-45be-9307-0ed041d01986,Pilav Üstü Et Döner,"25,00 TL",Et Dönerler,-6.0
+ba826ad2-5557-4f05-befb-f131e49414c9,Gobit Ekmek Arası Et Döner,"18,50 TL",Et Dönerler,-3.0
+cf805857-937c-4ec1-8deb-92560d4a8e08,Yoğurtlu Et Döner,"24,00 TL",Et Dönerler,-2.0
+5ee74810-0585-4756-94b2-7939743ce9d9,Tavuk Döner,"9,50 TL",Tavuk Dönerler,1.0
+f5817ff3-437f-4fe5-84b1-d2e59ae7bb4c,İskender (Tavuk Dönerden),"17,50 TL",Tavuk Dönerler,8.0
+fab8a0f9-3f1a-4ed5-ab64-a4489692224f,Pilav Üstü Tavuk Döner,"16,50 TL",Tavuk Dönerler,-2.0
+8b6acf9f-799e-4b7d-b6a6-abac44a8014f,Gobit Ekmek Arası Tavuk Döner,"9,50 TL",Tavuk Dönerler,5.0
+9fac9d77-be7f-465c-8cf8-d76ae8758cae,Hatay Usulü Soslu Tavuk Döner,"12,00 TL",Tavuk Dönerler,12.0
+a202c62b-1396-41e0-bb14-7090261a8140,Ekmek Arası Köfte,"16,00 TL",Ekmek Arası Ürünler,5.0
+787786CE-14D4-47A4-956E-078884EEAD57,Gobit Patso Sandviç,"10,00 TL",Ekmek Arası Ürünler,4.0
+3f6a11bd-2f5a-4dda-8f77-a1acc3001265,Patates Kızartması,"8,50 TL",Yan Ürünler,1.0
+2506c12d-379e-4181-b378-f72b7c15e2ac,Karamelli Trileçe,"6,00 TL",Tatlılar,5.0
+f37a76a4-f39e-4f9b-8bde-287c833d8640,Fırın Sütlaç,"9,00 TL",Tatlılar,5.0
+EB6F9D6D-F651-420A-A6B1-7E9192018DF7,Künefe,"9,90 TL",Tatlılar,5.0
+294BE8AF-D8DC-4A5F-80DF-791480F7B1D2,Dondurmalı Künefe,"14,90 TL",Tatlılar,5.0
+32A71BD3-56E4-41B0-B366-0E71BF2411B1,Katmer Tatlısı,"19,90 TL",Tatlılar,5.0
+3F7818AD-92DC-405B-B33D-364ABDB17FA5,Kadayıf Tatlısı,"6,50 TL",Tatlılar,5.0
+d8738da0-c885-4fca-ad0a-c97d25b0cdb1,Coca-Cola (20 cl.) (Cam Şişe),"5,00 TL",İçecekler,5.0
+2e2e130e-a701-4d48-b217-63abf12e4d8b,Ali Göde Şalgam Suyu (30 cl.),"4,00 TL",İçecekler,5.0
+29d98b4b-4bd0-4560-ae19-d4d80b2add86,Eker Yayık Ayran (30 cl.),"3,50 TL",İçecekler,4.0
+5051a677-2347-43e8-a9ac-7104a2bc6751,Et Döner (500 gr.),"75,00 TL",Kiloluk Dönerler (Pişirilmiş),-2.0
+80a40c24-960a-413c-be06-ed1276ff632a,Et Döner (1 kg.),"140,00 TL",Kiloluk Dönerler (Pişirilmiş),-2.0
+89765563-3494-4130-8AFA-845F12DA1814,Tavuk Döner (1 kg.),"70,00 TL",Kiloluk Dönerler (Pişirilmiş),1.0
+6F833B3D-4680-41F9-B881-4F6122105FD3,Tavuk Döner (500 gr.) (Pişirilmiş),"35,00 TL",Kiloluk Dönerler (Pişirilmiş),1.0
+DB726D3E-2697-4A0E-BF6D-7275F12D079B,Et Döner (250 gr.),"40,00 TL",Kiloluk Dönerler (Pişirilmiş),-2.0
+9D9FA266-FE97-4E65-98E3-1B16174DCC92,Tavuk Döner (250 gr.),"20,00 TL",Kiloluk Dönerler (Pişirilmiş),1.0
+ff4f8144-c535-4545-94e9-7b23b62bb778,Poşet,"0,25 TL",Poşet,5.0

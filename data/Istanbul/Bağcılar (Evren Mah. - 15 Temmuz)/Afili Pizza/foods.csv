@@ -1,0 +1,42 @@
+food_id,food_name,food_price,food_category,food_score
+43819654-62a6-4890-9b61-99c356577e58,Afilli Menü,"64,90 TL",Pizza Menüleri,9.0
+530A9E15-5F35-4CB6-9B09-E5A1921C1948,Patlı Menü,"32,90 TL",Pizza Menüleri,14.0
+6ee32090-5104-4372-8072-de3c9dccae90,Biz Bize Menü,"54,90 TL",Pizza Menüleri,9.0
+0241347c-f0c1-43a2-8c9f-b14cb6f82380,Cümbür Cemaat Menü,"74,90 TL",Pizza Menüleri,9.0
+44804a72-c955-43c2-8248-d87d028fec8a,Tatlı Menü,"32,90 TL",Pizza Menüleri,9.0
+c07f2d08-990e-4f88-8f26-a6d067ea5256,Patates Kızartması (Küçük),"8,90 TL",Aperitifler,11.0
+1d874f6a-98b0-4d9f-a214-a9f923c3b175,Patates Kızartması (Büyük),"11,90 TL",Aperitifler,11.0
+4B4159AE-AA03-4086-BF1D-276CF3DC5FD3,Soğan Halkası (10 Adet),"11,90 TL",Aperitifler,5.0
+d5b81ddd-1f4a-431f-aebb-062e49798fe9,Akdeniz Pizza (Orta),"29,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),37.0
+3252b1c4-3421-458a-9f4f-3a6fd859320b,Anzer Pizza (Orta),"29,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),37.0
+5ba7e02b-b4a6-4dba-a696-dfab3ca8b270,Aynı Terane Pizza (Orta),"27,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),37.0
+51d8d7d2-6a30-4f5e-b212-177d872b5076,Bol Sucuklu Pizza (Orta),"27,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),39.0
+556c6c46-df51-4098-82f7-2af7c2068140,Margherita Pizza (Orta),"27,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),37.0
+b6aff700-094c-4848-95b2-0268bfeae7fd,Peynirci Baba Pizza (Orta),"27,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),37.0
+6cc8a05f-d1d0-4a75-8021-0778f4686c7b,Reyiz Pizza (Orta),"34,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),37.0
+e6f35844-334b-458c-b556-62def6b8e49e,Şatafatlı Pizza (Orta),"34,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),37.0
+5b7217f9-a047-437d-8082-3b6e47deb747,Vego Pizza (Orta),"27,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),37.0
+9a0f0128-5a94-4666-8455-736269207a79,Vejo Pizza (Orta),"27,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),37.0
+c7f39f2b-2206-4e25-ae27-5b7ef0294d49,Akdeniz Pizza (Büyük),"39,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),37.0
+6ba2db26-31e5-4603-9eac-6c546da347bb,Anzer Pizza (Büyük),"39,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),37.0
+40029ecc-b080-47d4-8f29-c38f11dbbc70,Aynı Terane Pizza (Büyük),"39,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),37.0
+ac9eaeae-cc82-4ab1-abfd-1b9b5324d254,Bol Sucuklu Pizza (Büyük),"39,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),39.0
+d7dcad68-d3b8-4f5a-b727-6687af749692,Margherita Pizza (Büyük),"39,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),37.0
+db535731-2ed3-461c-8bb5-b91419f005f6,Peynirci Baba Pizza (Büyük),"39,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),37.0
+8d61f493-896b-4795-b345-e3a1aa5d9597,Reyiz Pizza (Büyük),"44,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),37.0
+618ba7ad-a108-495e-b3ea-790d188ae196,Şatafatlı Pizza (Büyük),"44,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),37.0
+20ca21d6-9430-4f3a-a260-c65db2508bbe,Vego Pizza (Büyük),"39,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),37.0
+f01b4956-f7c2-457e-a42d-121e35b56354,Vejo Pizza (Büyük),"39,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),37.0
+aba24230-0d97-430f-82ee-bbaf2e27bf51,Margherita Pizza (Jumbo),"44,90 TL",Jumbo Boy Pizzalar (3 - 4 Kişilik),37.0
+25d692da-d3e5-43ef-acb0-71b7fbcb10b9,Akdeniz Pizza (Jumbo),"47,90 TL",Jumbo Boy Pizzalar (3 - 4 Kişilik),37.0
+5b1483ff-766e-4fe1-bf55-2a6386ad4b2b,Peynirci Baba Pizza (Jumbo),"46,90 TL",Jumbo Boy Pizzalar (3 - 4 Kişilik),37.0
+eca9a05e-1288-433f-ab8f-a510dd318dd3,Aynı Terane Pizza (Jumbo),"44,90 TL",Jumbo Boy Pizzalar (3 - 4 Kişilik),37.0
+b9917294-cb33-4dc0-bb9a-023002c4f7bf,Vego Pizza (Jumbo),"44,90 TL",Jumbo Boy Pizzalar (3 - 4 Kişilik),37.0
+5c4ac368-cb28-494d-8dde-b6cf2556ac74,Vejo Pizza (Jumbo),"44,90 TL",Jumbo Boy Pizzalar (3 - 4 Kişilik),37.0
+ff019d0d-4e93-4367-ab70-4895735dc254,Reyiz Pizza (Jumbo),"49,90 TL",Jumbo Boy Pizzalar (3 - 4 Kişilik),37.0
+10080e3a-2163-4dd2-b7ce-caf8dc18c529,Şatafatlı Pizza (Jumbo),"49,90 TL",Jumbo Boy Pizzalar (3 - 4 Kişilik),37.0
+fa6b5fa7-b644-4dd1-99e2-daf73ba5cc74,Anzer Pizza (Jumbo),"49,90 TL",Jumbo Boy Pizzalar (3 - 4 Kişilik),37.0
+cbe1979d-6426-4257-85ef-0b3f064e63ae,Bol Sucuklu Pizza (Jumbo),"44,90 TL",Jumbo Boy Pizzalar (3 - 4 Kişilik),39.0
+79785038-e1e8-46f1-b1d7-31da582308b5,Niğde Gazozu (20 cl.),"4,90 TL",İçecekler,5.0
+86042e12-2dec-42c2-8389-7a6a42fb647e,Fruko (1 L.),"7,90 TL",İçecekler,5.0
+f3f25919-291d-45a6-8262-8371f6317d09,Poşet,"0,25 TL",Poşet,5.0

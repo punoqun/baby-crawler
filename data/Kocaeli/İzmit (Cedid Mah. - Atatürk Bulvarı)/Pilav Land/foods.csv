@@ -1,0 +1,26 @@
+food_id,food_name,food_price,food_category,food_score
+149d136a-2105-42bb-967d-6c4a17f4f3b6,Çiğ Köfte (1 kg.) Menü,"50,00 TL",Menüler,3.0
+858a5da4-5db4-4514-b8ba-b3ed7d2eeda9,Öğrenci Menü 1,"50,00 TL",Menüler,20.0
+d90058af-949c-4bf7-b0a2-36d259b51c20,Öğrenci Menü 2,"29,00 TL",Menüler,8.0
+844AE379-B494-4032-AF16-F936E913E3F9,Sporcu Menü 1,"20,00 TL",Menüler,18.0
+77827656-4547-45a4-a1db-21117fe53740,Sporcu Menü 2,"27,00 TL",Menüler,6.0
+8b7ab1f8-5a02-4283-a77e-4cc0cd8e61ed,Ciğerli Pilav,"11,00 TL",Pilavlar,12.0
+f2af01f5-ed6e-4a1a-ba11-41c65f7e789c,Karışık Pilav,"12,00 TL",Pilavlar,13.0
+e00ae83d-504e-440a-9894-92c0e5e25f66,Nohutlu Pilav,"8,00 TL",Pilavlar,13.0
+8b803d36-2a6d-49a4-8a43-e6e3a7826847,Pilav Üstü Tavuk Sote,"11,00 TL",Pilavlar,23.0
+ea20b102-645f-4cac-aa68-1015f0a9f333,Salatalı Pilav,"9,00 TL",Pilavlar,13.0
+5CC008A1-9907-4020-9299-DB4B109CDD58,Salatalı Tavuklu Pilav,"10,00 TL",Pilavlar,22.0
+9a3c0def-5520-42a5-ad0a-6f97d74f6431,Tavuklu Pilav,"9,00 TL",Pilavlar,22.0
+B626AF8E-E8F0-4638-9998-9F3989EAEA65,Çiğ Köfte Dürüm,"6,00 TL",Çiğ Köfteler,3.0
+DF913D37-789B-496B-94C3-606978DBF8E2,Duble Çiğ Köfte Dürüm,"9,00 TL",Çiğ Köfteler,3.0
+2971AF59-9F80-418E-9842-3DB1392CDFBD,Çiğ Köfte (200 gr.),"10,00 TL",Çiğ Köfteler,3.0
+617691A9-DF81-4AD3-872D-1C9114AE6477,Çiğ Köfte (400 gr.),"20,00 TL",Çiğ Köfteler,3.0
+BB56A600-4878-4CEB-BA16-BE4567D5D81A,Çiğ Köfte (500 gr.),"25,00 TL",Çiğ Köfteler,3.0
+B23464ED-FF11-42B3-B65B-B5FFE42D771D,Çiğ Köfte (750 gr.),"40,00 TL",Çiğ Köfteler,3.0
+5C8D468D-A4AF-41BB-ABFF-1F0A591FE8B2,Çiğ Köfte (1 Sıkım),"1,50 TL",Çiğ Köfteler,3.0
+0d5d03f4-8456-4198-a5a0-04ab72955405,Kuru Fasulye,"10,00 TL",Diğer Lezzetler,5.0
+d15dc529-e6ea-4253-97d8-3971a345e928,Tavuk Sote,"12,00 TL",Diğer Lezzetler,10.0
+7EC028F3-D8D0-48B4-9343-0A2B669698D1,Kase Yogurt,"2,50 TL",Diğer Lezzetler,5.0
+46FE2C66-6E35-4B96-BDC5-5690FB59714E,Çoban Salata,"7,00 TL",Salatalar,9.0
+bcdf9f80-6b5d-4d71-95b8-9465e732f1b9,Sütlaç,"7,00 TL",Tatlılar,5.0
+4ac03eac-c5ba-49a3-bc45-f6ffe869d9da,Poşet,"0,25 TL",Poşet,5.0

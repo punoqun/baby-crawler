@@ -1,0 +1,49 @@
+food_id,food_name,food_price,food_category,food_score
+7ce2b1a9-12b4-48dd-b17c-5fd008c5bd32,Adana Kebap,"28,00 TL",Kebaplar & Izgaralar,8.0
+01571a9a-641c-461f-a246-56b768d553dc,Urfa Kebap,"28,00 TL",Kebaplar & Izgaralar,8.0
+f1097b8a-912a-4e22-8f69-53f4bb1ed7f4,Domatesli Kebap,"36,00 TL",Kebaplar & Izgaralar,8.0
+5c419bb4-dbc5-4ca1-a43d-7f484edf8e0a,Patlıcanlı Kebap,"45,00 TL",Kebaplar & Izgaralar,8.0
+dc76f4e4-4f1a-48d9-a43f-e7cdfc1aa6e3,Vali Kebap,"60,00 TL",Kebaplar & Izgaralar,7.0
+04c3c6fc-e925-4a89-93be-90f0dd956c08,Can Kebap,"65,00 TL",Kebaplar & Izgaralar,11.0
+c5724266-360f-40ed-a0be-888a62717ef2,Karışık Kebap,"50,00 TL",Kebaplar & Izgaralar,6.0
+60307222-d5f7-4fd5-aaa3-ada1d0ebe435,Sarma Beyti,"42,00 TL",Kebaplar & Izgaralar,5.0
+4e6d3627-01ce-4e49-9abf-c0224328c28a,Alinazik (Kıymadan),"40,00 TL",Kebaplar & Izgaralar,5.0
+659b1211-6a99-4647-bdd8-a70069baf88b,Dana Çöp Şiş,"32,00 TL",Kebaplar & Izgaralar,5.0
+44cf2237-d36a-470b-a642-abd3532864d5,Kuzu Ciğer Şiş,"32,00 TL",Kebaplar & Izgaralar,5.0
+0cef4c28-e9a7-4a04-8965-44becd7a55e2,Izgara Kanat,"29,00 TL",Kebaplar & Izgaralar,5.0
+9182cda3-ae7c-4340-9d5b-e3270d40fb41,Tavuk Şiş,"22,00 TL",Kebaplar & Izgaralar,3.0
+11148dcc-39bd-47b1-bd8e-ebf6c6ab45a4,Et Döner,"28,00 TL",Et Dönerler,10.0
+627e9c30-1e96-4dde-b925-a959446ed580,Tombik Ekmek Arası Et Döner,"14,00 TL",Et Dönerler,17.0
+85e1904a-a87f-4d63-9c9d-595fb939224c,Pilav Üstü Et Döner,"32,00 TL",Et Dönerler,10.0
+c91e7132-b497-4491-9bcf-3c3a66add03d,İskender (Et Dönerden),"32,00 TL",Et Dönerler,6.0
+A3B2A989-F3F8-4A8F-87B0-91F9009176F0,Et Döner Dürüm,"22,00 TL",Et Dönerler,10.0
+552DE38E-3464-4056-B823-2234C607A07A,Acılı Lahmacun,"6,00 TL",Fırın Ürünleri,15.0
+4E2E6692-5313-4C32-B8F0-8FA3978CE875,Kaşarlı Lahmacun,"9,00 TL",Fırın Ürünleri,10.0
+18315A02-5E08-4E7C-B5CC-AAC9DBD849D8,Kuşbaşı Kaşarlı Pide,"32,00 TL",Fırın Ürünleri,6.0
+1550c36b-bb76-49dd-b091-4b85a4281386,Sarımsaklı Lahmacun,"10,00 TL",Fırın Ürünleri,10.0
+db9fcb96-9909-4f57-af09-4dfa086457f6,Lahmacun,"6,00 TL",Fırın Ürünleri,15.0
+165b9a87-acd3-497c-a730-74d8c2dd4dc5,Kaşarlı Sucuklu Pide,"24,00 TL",Fırın Ürünleri,6.0
+3170de31-bb64-4d52-bca6-7462b7bc625b,Bafra Usulü Kuşbaşılı Pide,"27,00 TL",Fırın Ürünleri,6.0
+02b2399e-0917-4e17-95c7-1b4dcc6df612,Bafra Usulü Kıymalı Pide,"20,00 TL",Fırın Ürünleri,6.0
+55bba9a8-7ff7-4856-b855-6f2f3f922cf6,Kıymalı Pide,"22,00 TL",Fırın Ürünleri,6.0
+7a3c7f4d-f453-4c15-a563-f71a49486b74,Bafra Usulü Kavurmalı Pide,"32,00 TL",Fırın Ürünleri,4.0
+826ded2c-a9ec-46c5-85a4-28ed766d781a,Kaşarlı Pide,"22,00 TL",Fırın Ürünleri,6.0
+83de0e96-a8d2-4f4b-ba8b-5352a6f8893c,Bafra Usulü Kaşarlı Pide,"20,00 TL",Fırın Ürünleri,6.0
+a151e634-2318-4bbd-844d-ba70ca74f09f,Bafra Usulü Kaşarlı Sucuklu Pide,"24,00 TL",Fırın Ürünleri,6.0
+a2c615c6-169c-45ed-9acd-c1433ff20820,Kavurmalı Pide,"32,00 TL",Fırın Ürünleri,4.0
+5d0f588e-d710-4b8f-8d03-53be5780899b,Sucuklu Pide,"24,00 TL",Fırın Ürünleri,6.0
+faf863ed-a30e-44d4-9436-1befe86a2ad4,Kuşbaşılı Pide,"30,00 TL",Fırın Ürünleri,6.0
+14a88902-7796-47bb-8559-afc554f1c651,Kahvaltı Tabağı,"15,00 TL",Kahvaltılıklar,5.0
+111759d5-c295-4e1e-9507-cc9618b85c18,Burger Künefe,"33,00 TL",Tatlılar,9.0
+2dea42c3-452c-40b6-9f2e-8b718b9b75e3,Fıstıkzade Hasır Künefe (2 Kişilik),"50,00 TL",Tatlılar,7.0
+33672a9f-729e-4adb-8885-d07f11b15526,Billuriye Künefe,"30,00 TL",Tatlılar,9.0
+3e77c362-93ae-46c1-b5c7-26de18ebef73,Klasik Künefe,"22,00 TL",Tatlılar,7.0
+65fd83cf-4627-403f-bdf5-68350d5b6579,Hasır Künefe,"25,00 TL",Tatlılar,7.0
+761c8a5e-fe20-429d-a63d-def2a9375316,Fıstıkzade Künefe,"29,00 TL",Tatlılar,9.0
+1ccdd139-0110-4bbe-becf-b39d02767cee,Antrikot (1 kg.),"135,00 TL",Kiloluk Ürünler (Belirtilen gramaj bilgileri ürünlerin çiğ halinin gramajıdır.),5.0
+637d04c7-eb08-402d-b75e-f8f9c709077c,Kül Bastı (1 kg.),"145,00 TL",Kiloluk Ürünler (Belirtilen gramaj bilgileri ürünlerin çiğ halinin gramajıdır.),5.0
+7f3b8ccd-d7a6-4e1b-a1aa-28966b91c706,Biftek (1 kg.),"135,00 TL",Kiloluk Ürünler (Belirtilen gramaj bilgileri ürünlerin çiğ halinin gramajıdır.),5.0
+8ef96eac-465b-47e9-b196-5f873e1cd7e7,Izgara Köfte (1 kg.),"100,00 TL",Kiloluk Ürünler (Belirtilen gramaj bilgileri ürünlerin çiğ halinin gramajıdır.),5.0
+9f906cad-6c12-4502-aeb8-63f893e31aee,Pirzola (1 kg.),"155,00 TL",Kiloluk Ürünler (Belirtilen gramaj bilgileri ürünlerin çiğ halinin gramajıdır.),5.0
+f8f7a9e4-f079-4204-80ee-316dad51ff55,Bonfile (1 kg.),"155,00 TL",Kiloluk Ürünler (Belirtilen gramaj bilgileri ürünlerin çiğ halinin gramajıdır.),5.0
+0dc108e7-43cc-4a02-a7ab-996b89a69e3b,Poşet,"0,25 TL",Poşet,5.0

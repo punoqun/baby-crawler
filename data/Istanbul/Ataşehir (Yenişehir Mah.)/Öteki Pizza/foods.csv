@@ -1,0 +1,38 @@
+food_id,food_name,food_price,food_category,food_score
+89e6f583-4fc8-4cd5-801e-ba466b53fcd5,2'li Alaturka Pizza (Büyük) Menü,"90,00 TL",Menüler,28.0
+82c40eab-6671-4cd9-a578-6f2998e2d903,2'li Alaturka Pizza (Orta) Menü,"75,00 TL",Menüler,28.0
+3a963ddb-9b6b-4b61-bfbf-4c91a2ef35ab,2'li Büyük Boy Pizza Menü,"85,00 TL",Menüler,30.0
+dbf3ea23-941d-4e60-a5c0-26ca6e66c31d,2'li Kampüs Pizza (Büyük) Menü,"88,00 TL",Menüler,28.0
+18a5e3fa-7294-459b-a8ae-fd3683fede54,2'li Kampüs Pizza (Orta) Menü,"72,00 TL",Menüler,28.0
+67ab2e0e-a627-4317-8929-052da07b6f81,2'li Orta Boy Akdeniz Pizza (Orta) Menü,"55,00 TL",Menüler,28.0
+ae6b73a3-eae6-4ccd-bd6f-800c32af2a51,2'li Orta Boy Barbekü Tavuk Pizza (Orta) Menü,"75,00 TL",Menüler,28.0
+4fbe0420-e8f7-4aec-b7ae-4cae1ef9e065,2'li Orta Boy Pizza Menü,"70,00 TL",Menüler,28.0
+05d9ca6a-1ec5-4bc7-8f08-5db1c01d2581,2'li Kahve Menü,"27,00 TL",Menüler,5.0
+af6f6dd4-f6e9-4b52-b21a-00e1a609a108,3'lü Orta Boy Pizza Menü,"95,00 TL",Menüler,28.0
+0037c08b-ac2c-4378-bd88-28e8a3663fb9,Büyük Boy Pizza Menü,"49,00 TL",Menüler,30.0
+f23528b2-db43-4bf8-927d-fa4e406da70f,Orta Boy Pizza Menü,"40,00 TL",Menüler,28.0
+E2110A0C-FFA5-4A0D-89F9-4C159D827B17,Et Dönerli Pizza (Orta),"40,00 TL",Pizzalar (26 cm.) (Orta Boy),29.0
+2BFCA76D-37D7-4E52-9845-107FA9DE7503,Et Dönerli Pizza (Büyük),"50,00 TL",Pizzalar (33 cm.) (Büyük Boy),29.0
+e3517ae3-37c9-4c4a-bb1b-f14041a39093,Sezar Salata,"27,00 TL",Salatalar,1.0
+a0945d35-b029-4fda-9f5e-6dc7e2250520,Akdeniz Salata,"29,00 TL",Salatalar,1.0
+8c75bf6f-12e5-4228-bc56-1d772f52f180,Ton Balıklı Salata,"28,00 TL",Salatalar,0.0
+606B6F4C-7451-48BC-B10C-C0C0C3A594F6,Ballı Cevizli Pasta,"17,00 TL",Tatlılar,5.0
+46F7508A-C71E-45B2-A3F0-88AB3A58DF8F,Ballı Fıstıklı Pasta,"17,00 TL",Tatlılar,5.0
+E67DA252-0865-4740-A346-D5D0DE4BDB2F,İspanyol Cheesecake (Dilim),"20,00 TL",Tatlılar,5.0
+c10b19e2-bb74-40d8-81dd-9e4cf621b581,Oreolu Cheesecake,"18,00 TL",Tatlılar,5.0
+1bf1aac0-517b-4731-b9ca-3f89a6841e33,Brownie,"19,00 TL",Tatlılar,5.0
+8b077869-6d74-488c-8222-c44bc355f193,Americano,"13,00 TL",Depo Coffee'den Sıcak & Soğuk Kahveler,5.0
+93f86632-b59e-4f1a-bf67-5104418ef1f4,Cappuccino,"14,00 TL",Depo Coffee'den Sıcak & Soğuk Kahveler,5.0
+8709a533-7e2e-4bc3-9b70-4516e8beecf3,Chocolate Cookie Kahve,"16,00 TL",Depo Coffee'den Sıcak & Soğuk Kahveler,5.0
+4557b674-d766-4b37-9033-d428cb9d24ca,Coconut Coffe,"16,00 TL",Depo Coffee'den Sıcak & Soğuk Kahveler,5.0
+9b06e784-850e-4e9c-a0f0-77f0b504c36b,Coffee Winter,"16,00 TL",Depo Coffee'den Sıcak & Soğuk Kahveler,5.0
+964f5e96-2db6-4fab-ae07-1a1be1445848,Filtre Kahve,"13,00 TL",Depo Coffee'den Sıcak & Soğuk Kahveler,5.0
+f046815a-715f-4eda-bd47-69ec22a6a987,Flat White,"15,00 TL",Depo Coffee'den Sıcak & Soğuk Kahveler,5.0
+ff14f84b-baf9-4319-acea-44628e697f0c,Irish Coffe,"16,00 TL",Depo Coffee'den Sıcak & Soğuk Kahveler,5.0
+0c959f9d-9862-4d2b-ad30-bbc9aff13dec,Karamelli Latte,"15,00 TL",Depo Coffee'den Sıcak & Soğuk Kahveler,5.0
+ebe5abd3-1ce5-41cc-ab87-d124c3eaeb0c,Latte,"14,00 TL",Depo Coffee'den Sıcak & Soğuk Kahveler,5.0
+27e4a48c-4888-431f-8e2a-f35ce2ac6b07,Mocha,"16,00 TL",Depo Coffee'den Sıcak & Soğuk Kahveler,5.0
+bd9a970c-af7d-42c8-96af-82bd9c38d8ef,Roasted Hazelnut Coffe,"16,00 TL",Depo Coffee'den Sıcak & Soğuk Kahveler,5.0
+f821de34-ffb0-4ad3-964d-ec6948b08cae,Vanilyalı Latte,"15,00 TL",Depo Coffee'den Sıcak & Soğuk Kahveler,5.0
+ccce65a7-7291-43ff-a3dd-a8ba3dcbb51a,Winter İs Coming,"16,00 TL",Depo Coffee'den Sıcak & Soğuk Kahveler,7.0
+606bcbb1-887a-4847-a881-069debddbe37,7UP (1 L.),"9,00 TL",İçecekler,5.0

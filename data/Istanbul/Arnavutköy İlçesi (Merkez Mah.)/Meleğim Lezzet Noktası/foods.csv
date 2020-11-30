@@ -1,0 +1,77 @@
+food_id,food_name,food_price,food_category,food_score
+69fd08cb-cf06-4118-8512-d527b6b65cbf,Menemen,"10,00 TL",Menemenler,5.0
+954775fd-a745-428f-a863-4323d6c1a4cc,Kavurmalı Menemen,"18,00 TL",Menemenler,5.0
+c42af0d0-95f6-4f8f-82eb-0f144cf9d34a,Sucuklu Kaşarlı Menemen,"18,00 TL",Menemenler,5.0
+cbe87125-7cc4-48c0-9046-5889bfe50770,Sucuklu Menemen,"15,00 TL",Menemenler,5.0
+cd11a857-c828-4936-ab1e-5ba17e89e974,Karışık Menemen,"20,00 TL",Menemenler,5.0
+045efd21-8a87-41f6-ac51-f344d1124273,"Patatesli Gözleme
+","10,00 TL",Gözlemeler,10.0
+094a34a2-c8ee-4137-a159-9904d2642d3a,"Kaşarlı Gözleme
+","15,00 TL",Gözlemeler,5.0
+45e23b3e-9578-4feb-8220-8b9c289bf588,"Ispanaklı Gözleme
+","10,00 TL",Gözlemeler,5.0
+dfec3408-993b-442d-a302-1d2d09a7e83e,"Kıymalı Gözleme
+","15,00 TL",Gözlemeler,5.0
+ed416a3a-8e8a-4c70-94fa-fcdae6dab8ae,"Peynirli Gözleme
+","10,00 TL",Gözlemeler,5.0
+01e9db1e-dbbb-4bb8-a37d-6125bb16ff7a,"Kavurmalı Kaşarlı Yumurtalı Pide
+","30,00 TL",Fırın Ürünleri,5.0
+02d37ea6-7e56-460c-bdb1-ed9977652d18,"Bozdoğan Peynirlisi
+Pide","20,00 TL",Fırın Ürünleri,5.0
+0e825cd2-683d-4365-8da7-81a9bac02873,"Kuşbaşılı Pide
+","25,00 TL",Fırın Ürünleri,5.0
+17cfe8b3-e4d8-4db3-8774-bc48803fdc01,"Kavurmalı Kaşarlı Pide
+","28,00 TL",Fırın Ürünleri,5.0
+27d86c41-cc89-4fbc-befb-f4839ca87e37,"Kuşbaşılı Kaşarlı Pide
+","28,00 TL",Fırın Ürünleri,5.0
+329b1b21-d32c-4c8a-985b-96fba508a144,"Lahmacun
+","7,00 TL",Fırın Ürünleri,10.0
+3cbcbe1d-4b74-4e61-ae8b-e5daf6b564c7,"Kıymalı Kaşarlı Yumurtalı Pide
+","22,00 TL",Fırın Ürünleri,5.0
+4b3e15f2-8528-4e14-85ab-3ab1928953d8,"Nazilli Gülü
+Pide","10,00 TL",Fırın Ürünleri,5.0
+5356daae-d069-4d31-84a6-1507e5edff46,"Kaşarlı Pide
+","15,00 TL",Fırın Ürünleri,5.0
+8003ecd2-33a5-42fa-b8d1-ed49372cfdab,"Yörük Göçtü
+Pide","18,00 TL",Fırın Ürünleri,5.0
+9872fb03-d2a2-4240-a308-e9ef731cc738,"Kıymalı Kaşarlı Pide
+","20,00 TL",Fırın Ürünleri,5.0
+b2545827-f8a2-47cd-b0de-c49df179e9b6,"Kavurmalı Pide
+","25,00 TL",Fırın Ürünleri,5.0
+c33b1840-cbf9-4f27-91f1-cc27a6318a17,"Kaşarlı Sucuklu Pide
+","18,00 TL",Fırın Ürünleri,5.0
+ca4bc379-aafa-445e-9ef8-1c017dc096d5,"Kaşarlı Sucuklu Yumurtalı Pide
+","20,00 TL",Fırın Ürünleri,5.0
+cf364aab-8b0e-4398-badb-b63be1c3e950,"Sebzeli Pide
+","18,00 TL",Fırın Ürünleri,5.0
+e8771be3-a97a-47b7-bbe3-fe89836d7441,"Tengül Veggie Pide
+","18,00 TL",Fırın Ürünleri,5.0
+ec4426f6-e60f-446f-8ec8-2401bfa8dfa0,"Daday Etli Ekmek
+","25,00 TL",Fırın Ürünleri,5.0
+ec9fc47c-6690-44f1-9eb4-944392d0162f,"Kıymalı Pide
+","18,00 TL",Fırın Ürünleri,5.0
+c9d821fd-0223-4b38-8ed3-d8807d516bba,"Coca-Cola (33 cl.)
+","5,00 TL",İçecekler,5.0
+df94ec97-f602-4cbc-a85a-9d36a56dd146,"Fanta (33 cl.)
+","5,00 TL",İçecekler,5.0
+b67c5d7f-3049-45ea-aae6-eda847f7b9e3,"Sprite (33 cl.)
+","5,00 TL",İçecekler,5.0
+a5d8c733-5036-44ca-92d2-1bb18811896e,"Cappy (33 cl.)
+","5,00 TL",İçecekler,5.0
+9474051f-43c4-4e35-aa60-42d79bfac012,"Fuse Tea (33 cl.)
+","5,00 TL",İçecekler,5.0
+9818fb79-9f95-4ea5-8e81-62fc447059ec,"Şalgam Suyu (33 cl.)
+","4,00 TL",İçecekler,5.0
+748a536f-ade3-438e-8ab7-4817d293fb39,"Ayran (30 cl.)
+","3,00 TL",İçecekler,5.0
+41af7fd4-4dba-4690-b3ac-92b8959134bc,"Ayran (20 cl.)
+","2,00 TL",İçecekler,5.0
+118508c2-f30a-4232-9fd9-cc3001c32eb6,"Şişe Ayran (20 cl.)
+","3,00 TL",İçecekler,5.0
+174a1fc9-c60d-48a5-b9c1-c3e3a869fe5a,"Limonlu Soda (20 cl.)
+","3,00 TL",İçecekler,5.0
+e9e348ec-5043-47d8-ba45-33d43413b506,"Soda (20 cl.)
+","2,50 TL",İçecekler,5.0
+eb699e45-a2ef-46d8-88ae-0627d13c9600,"Su (50 cl.)
+","2,00 TL",İçecekler,5.0
+fb3276ba-e581-48a4-a907-e14f217a1763,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,61 @@
+food_id,food_name,food_price,food_category,food_score
+47a668bf-173f-4cf5-916c-587ef54f1177,Reyhanlı Humus,"12,00 TL",Mezeler,16.0
+7938BDA7-8F69-44F9-9D41-EC181BDFEAD1,Cevizli Biber (250 gr.),"12,00 TL",Mezeler,21.0
+FC4A163A-3AC0-403A-864D-FEFE3FD38345,Haydari (250 gr.),"12,00 TL",Mezeler,7.0
+687C2DB5-0DC9-47C8-8181-85DC7BCA800F,Rus Salatası (250 gr.),"12,00 TL",Mezeler,7.0
+6D396BCB-7A0E-4A4D-80D8-039F93B58B91,Abugannuş (250 gr.),"12,00 TL",Mezeler,5.0
+15AF6C3D-81C5-472C-AA02-900C72EF791B,Biber Yoğurtlama (250 gr.),"10,00 TL",Mezeler,14.0
+D3F8B42A-D750-40CC-B89E-C28B18B03E5D,Mütebbel (250 gr.),"10,00 TL",Mezeler,3.0
+B773D217-11DD-41C5-9D09-29D33654E527,Zeytin Salatası (250 gr.),"10,00 TL",Mezeler,8.0
+70328B88-3399-44CF-8ECC-0916195B2934,Humus (200 gr.),"7,00 TL",Mezeler,14.0
+DDF2CA52-7E6C-48F8-87BE-1BCF1B902CBC,Humus (400 gr.),"12,00 TL",Mezeler,14.0
+97670EDD-A682-49AF-BFD5-A21A86290EF6,Özel Kahvaltılık Sos,"20,00 TL",Mezeler,7.0
+dc4228cf-ca85-47cd-bce4-26cfa11df411,Mütebbel,"7,00 TL",Mezeler,3.0
+0827874a-5a1a-46eb-b08a-3dc2e5ef24c6,Biber Yoğurtlama,"7,00 TL",Mezeler,14.0
+9b4bc656-93df-477f-a028-dca9efa874df,Cevizli Biber,"8,00 TL",Mezeler,21.0
+8dd65f12-00d7-4c91-925d-7c0cdc45b423,Abugannuş,"8,00 TL",Mezeler,5.0
+1289acd1-2d16-4441-99f4-2dbf4f04b11c,Bakla,"12,00 TL",Mezeler,4.0
+f6982c2b-695d-49ea-92ac-b9fcfd888b47,Süzme Yoğurt,"6,00 TL",Mezeler,7.0
+37ca883e-7ed9-4f91-a9bb-1e8ade4391c0,Zeytin Salatası,"7,00 TL",Mezeler,8.0
+93385be2-9357-4588-85bc-b607c78124fa,Rus Salatası,"8,00 TL",Mezeler,7.0
+085478b4-2ba1-4c54-b9e2-6172827a9425,Zeytinyağlı Yaprak Sarma,"12,00 TL",Mezeler,8.0
+fc2a4182-67e3-473e-84d3-2cdd1d6931be,Ordövr Tabağı,"25,00 TL",Mezeler,5.0
+d3cda61d-5f72-4de0-895d-f08232fd7048,Maydanozlu Tarator,"7,00 TL",Mezeler,9.0
+85b769d6-3587-4032-8c5d-138f49948149,Reyhanlı Humus (2 Kişilik),"22,00 TL",Mezeler,16.0
+e942325d-541d-4e76-8e06-f80cfc714d86,Reyhanlı Humus (500 gr.),"14,00 TL",Kiloluk Mezeler (500 gr.),16.0
+5BD51A60-A14E-4B57-B2EB-C2B2E30297F3,Cevizli Biber (500 gr.),"22,00 TL",Kiloluk Mezeler (500 gr.),21.0
+E94CC6A6-40BD-4EB8-BF30-6CF5674B06D4,Haydari (500 gr.),"22,00 TL",Kiloluk Mezeler (500 gr.),7.0
+300BC510-9858-48A5-87FF-471334497BB9,Rus Salatası (500 gr.),"22,00 TL",Kiloluk Mezeler (500 gr.),7.0
+B56A61E2-0817-4707-AF30-51B17E3D0567,Abugannuş (500 gr.),"22,00 TL",Kiloluk Mezeler (500 gr.),5.0
+8EE6A864-1AE2-4682-A7DA-8A06915A1E3F,Biber Yoğurtlama (500 gr.),"17,00 TL",Kiloluk Mezeler (500 gr.),14.0
+D766FB8E-03B8-4DE5-AF3C-E25A1AECEC7D,Mütebbel (500 gr.),"17,00 TL",Kiloluk Mezeler (500 gr.),3.0
+c2600515-5957-4e61-97b4-2c701e77e008,Reyhanlı Humus (1 kg.),"25,00 TL",Kiloluk Mezeler (1 kg.),16.0
+C44A1693-5540-446B-BCAE-BA0303E71C55,Cevizli Biber (1 kg.),"40,00 TL",Kiloluk Mezeler (1 kg.),21.0
+C7CD7EE1-A8EB-47B6-84B6-7CB9AAE3763B,Haydari (1 kg.),"40,00 TL",Kiloluk Mezeler (1 kg.),7.0
+2DB81486-7CFC-4864-B792-CF1931FB5BAA,Rus Salatası (1 kg.),"40,00 TL",Kiloluk Mezeler (1 kg.),7.0
+8F46857A-C149-4B64-AB7D-70E6773CA026,Abugannuş (1 kg.),"40,00 TL",Kiloluk Mezeler (1 kg.),5.0
+FA5C5DC0-BB92-484F-89D9-38B4CE70206D,Biber Yoğurtlama (1 kg.),"30,00 TL",Kiloluk Mezeler (1 kg.),14.0
+6B949E88-00A1-4834-9B93-3685C5F7F510,Mütebbel (1 kg.),"30,00 TL",Kiloluk Mezeler (1 kg.),3.0
+67C59E33-64A4-4FD9-8398-4EFA5E5DBF59,Kömbe (1 kg.),"30,00 TL",Diğer Lezzetler,5.0
+ED632406-6D50-465E-AF7E-9ED9B59DBF33,Hurmalı Kömbe (1 kg.),"35,00 TL",Diğer Lezzetler,5.0
+3C803052-712E-4651-9711-B3B5AB8B72C1,Cevizli Kömbe (1 kg.),"40,00 TL",Diğer Lezzetler,12.0
+39E65B09-6193-482E-8823-3176F7E175ED,Domates Salçası (1 kg.),"22,00 TL",Diğer Lezzetler,5.0
+2E13BC31-E30C-4607-AA98-5B904E6B92C0,Biber Salçası (1 kg.),"25,00 TL",Diğer Lezzetler,14.0
+68BC33C3-53D1-48FA-B980-B7A9241D224F,Çilek Reçeli,"18,00 TL",Diğer Lezzetler,5.0
+80706B89-B2F7-48AB-A999-473655E25B18,Üzüm Reçeli,"18,00 TL",Diğer Lezzetler,5.0
+E7A5D3D6-C619-4176-A5B6-9F82274E07FA,Kayısı Reçeli,"18,00 TL",Diğer Lezzetler,5.0
+0425ED31-7ADA-4BBF-A010-7C5D8DDB6DE9,Üzüm Pekmezi (1 L.),"30,00 TL",Diğer Lezzetler,5.0
+A7BAE8E1-AB27-4326-843C-11003EE68AD6,Tahin,"18,00 TL",Diğer Lezzetler,5.0
+93E1C432-7A06-4656-8D81-AFF157371DC4,Zeytinyağı (1 L.),"25,00 TL",Diğer Lezzetler,5.0
+2e88d000-be47-4ce8-bbc5-7ef66700304e,Ev Yapımı Mantı,"15,00 TL",Diğer Lezzetler,3.0
+f87de057-8c1e-4f26-8bbd-bd66a1de7f38,Katıklı Biberli Ekmek,"4,00 TL",Diğer Lezzetler,11.0
+7658f406-2ab3-471d-91ed-cc01506a1a84,Ekmek,"2,00 TL",Diğer Lezzetler,7.0
+3542eb6c-499d-4b9f-bf64-59831ffdfe0a,Kızartma İçli Köfte (Adet),"5,00 TL",Diğer Lezzetler,5.0
+E9848929-B587-4993-BD59-7AEA28DE6637,Kaytaz Böreği,"3,50 TL",Diğer Lezzetler,10.0
+7f52fcb8-559f-4da8-934a-1ab4d31aee5c,Kabak Tatlısı,"13,00 TL",Tatlılar,5.0
+a21d932c-0399-4c1a-ac93-a4b524a259cd,Pepsi (25 cl.),"4,00 TL",İçecekler,5.0
+551cd98b-374c-4c51-8efe-90cef31831d5,Lipton Ice Tea (25 cl.),"4,00 TL",İçecekler,5.0
+5b3a0da1-9c12-45a9-9ed6-3d19c8737fa5,Çamlıca Gazoz (20 cl.),"4,00 TL",İçecekler,5.0
+9AF03D3E-092E-45FB-97B8-33700A0E0351,Fruko (1 L.),"6,00 TL",İçecekler,5.0
+3b89a2fb-51ec-4c1b-bec7-9a2ec4a10010,"Su (1,5 L.)","2,50 TL",İçecekler,5.0
+4b126b25-0212-4c16-948e-8c5e67dc710d,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,21 @@
+food_id,food_name,food_price,food_category,food_score
+598c6302-62b9-44bf-92aa-9bc159128f06,Zümküfül Sandviç,"13,00 TL",Sandviçler,5.0
+5a77af6d-f412-4b77-aeb1-76f3837b2159,Sosisli Sandviç,"13,00 TL",Sandviçler,5.0
+43cf3019-ba13-4b91-bfd6-a3675935666f,Tavuk Burger,"7,00 TL",Burgerler,5.0
+812d7dfe-b0e5-43fc-a67d-3e78c072486a,Islak Hamburger,"9,00 TL",Burgerler,10.0
+fb0f07cb-2cae-44bc-b949-b4d5ac0d6173,Damar Çorbası,"16,00 TL",Çorbalar,5.0
+641af4b6-6a7a-4ff2-b22a-fdf0574126f5,Sade Kokoreç,"40,00 TL",Kokoreçler,7.0
+51d6dd67-ec44-4519-932b-4a9cdbfaf7d3,Çeyrek Ekmek Arası Sade Kokoreç,"16,00 TL",Kokoreçler,4.0
+08b5eb79-817d-4bd2-9dcd-eff638a5005c,Yarım Ekmek Arası Sade Kokoreç,"23,00 TL",Kokoreçler,9.0
+a60308d6-ab60-4062-8bab-7a1b13d65d5f,Midye Tava (2 Şiş),"11,50 TL",Midyeler,9.0
+cf3f45a5-d87a-47d7-b30f-a7a9c29172e1,Midye Tava (4 Şiş),"23,00 TL",Midyeler,9.0
+6db60922-9189-4084-8c63-97d9ede379f3,Midye Tava Sandviç,"10,00 TL",Midyeler,9.0
+1f1b41f5-e28d-4654-aabe-f7bda330d388,Midye Dolma (8 Adet),"12,00 TL",Midyeler,9.0
+4a83a74e-4a96-4b10-b2a7-f6fd18db58c1,Midye Dolma (Adet),"1,50 TL",Midyeler,14.0
+3c5bef5e-cec9-4dd8-b0bd-bb1452cc51bd,Çeyrek Ekmek Arası Böbrek Şiş,"7,00 TL",Ekmek Arası Ürünler,2.0
+412fec86-b358-4e59-aca1-d652fa8ddbc5,Yarım Ekmek Arası Böbrek Şiş,"13,00 TL",Ekmek Arası Ürünler,2.0
+c91fe611-6b5f-49db-86cc-ee68e0d0354f,Çıtır Tavuk,"9,00 TL",Yan Ürünler,5.0
+e827d19a-f6e0-4bf2-8a52-48f4b7462f7f,Sütlaç,"6,00 TL",Tatlılar,5.0
+61ea0533-443d-408d-a50b-286cd57b313d,Karamelli Trileçe,"13,00 TL",Tatlılar,5.0
+c2eafc77-0689-4fbe-baa1-a8a4e2f739d4,Su,"2,50 TL",İçecekler,5.0
+fd557b49-2089-480e-8f67-bd4f4b3ece05,Poşet,"0,25 TL",Poşet,5.0

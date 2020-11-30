@@ -1,0 +1,52 @@
+food_id,food_name,food_price,food_category,food_score
+86637f5d-4321-4173-a44e-cd1fe16f0997,Çiğ Köfte Dürüm Menü,"7,00 TL",Menüler,6.0
+C4AE00D0-227E-4E3B-8CFE-9D2BD5FFDE35,Sürprizli Dürüm Menü,"8,00 TL",Menüler,7.0
+eccc173d-da19-4365-89ea-1858e0c96b41,Çiğ Köfte Dürüm Menü 2,"8,00 TL",Menüler,12.0
+94391a7b-3ca0-43e4-b34d-7f9e8aaee5a8,Çiğ Köfte Dürüm Menü 3,"10,00 TL",Menüler,6.0
+09da4504-32cc-431c-b2aa-49b13fcdf5a9,Çiğ Köfte (500 gr.) Menü,"35,00 TL",Menüler,4.0
+7b57e85f-d569-4c3f-b1ae-42f68d4d9431,Çiğ Köfte (750 gr.) Menü,"45,00 TL",Menüler,4.0
+ae1048e0-6e3e-4480-b259-ddbc1b1e8f4a,Yaprak Sarmalı Çiğ Köfte Dürüm,"8,00 TL",Çiğ Köfteler,6.0
+8F3228E5-06CE-4632-B9B9-A735387BB5BA,Tavuk Şnitzelli Çiğ Köfte Dürüm,"8,50 TL",Çiğ Köfteler,6.0
+52e9e460-f23e-4b08-addc-4f488b4247d5,Midyeli Çiğ Köfte Dürüm,"8,50 TL",Çiğ Köfteler,6.0
+34EF9368-6D55-4323-84BD-95941456F6E1,Mega Çiğ Köfte Dürüm (160 gr.),"8,00 TL",Çiğ Köfteler,11.0
+7fdbdc26-482c-4529-adac-6b67cd4f3f8b,3 Lavaşlı Çiğ Köfte Dürüm,"12,00 TL",Çiğ Köfteler,6.0
+391f45ca-f792-4ad9-b4ea-24974ad54a7a,Çiğ Köfte Dürüm,"5,00 TL",Çiğ Köfteler,11.0
+ae506710-6ad9-4e58-893f-70a1c85dda25,Çiğ Köfte (600 gr.),"36,00 TL",Çiğ Köfteler,4.0
+90010b9e-1299-4edc-8a0f-5541f54add95,Çiğ Köfte (400 gr.),"22,00 TL",Çiğ Köfteler,4.0
+a6dedafc-3b7b-44ad-b93f-3d32152f97e9,Çiğ Köfte (200 gr.),"12,00 TL",Çiğ Köfteler,4.0
+3be2f385-b946-4cb4-adad-3a712f4ae828,Çiğ Köfte (1 kg.),"52,00 TL",Çiğ Köfteler,4.0
+fe26e9f2-b0cd-4e7c-afc0-1df55eadd669,Kaşarlı Ayvalık Tostu,"10,00 TL",Tostlar,5.0
+049ddb01-cd71-4356-9838-43bc2130f835,Karışık Ayvalık Tostu,"12,00 TL",Tostlar,5.0
+27b61975-7601-4782-b0e1-ebbe07f18b70,5'li Meze Tabağı,"20,00 TL",Mezeler,5.0
+2bae87f5-0488-4180-a62d-8441af0aead8,Acılı Atom,"8,50 TL",Mezeler,5.0
+93e5808a-1591-4e1a-b881-1b251c4e6002,Acılı Ezme,"8,50 TL",Mezeler,5.0
+f395fd65-71dc-46c4-bb87-7b5af9e521f2,Havuç Tarator,"8,50 TL",Mezeler,5.0
+3285562a-5b36-4cc6-a3eb-7c221f533d2a,Haydari,"8,50 TL",Mezeler,5.0
+1c97445a-48fe-4a70-9ba1-5eff8e56bf53,Patlıcan Ezme,"8,50 TL",Mezeler,5.0
+37daa880-9f25-41c1-913a-adcfd14fd20e,Rus Salatası,"8,50 TL",Mezeler,5.0
+55a8c924-4c29-44c3-be04-12b70f150eaf,Zeytinyağlı Sarma,"6,50 TL",Diğer Lezzetler,6.0
+ade6bb52-7977-4165-a628-af13e97b4457,Midye Dolma (Adet) (Küçük),"1,00 TL",Diğer Lezzetler,5.0
+582f1c11-6fad-40ce-91ba-419f3c61b4b9,Midye Dolma (Adet) (Orta),"1,25 TL",Diğer Lezzetler,10.0
+23fa43a6-373e-4eac-8e51-9d82f7fbcedc,Midye Dolma (Adet) (Büyük),"1,75 TL",Diğer Lezzetler,5.0
+f4306763-6906-41be-b28d-00880431f3f3,Midye Dolma (500 gr.),"17,00 TL",Diğer Lezzetler,5.0
+84501558-dd7c-497b-8361-1b22897c9bd4,Lavaş (Adet),"1,00 TL",Yan Ürünler,5.0
+34203fa4-a535-4509-8192-fb92df028d53,Limon (Adet),"2,50 TL",Yan Ürünler,7.0
+c05259aa-c1b4-4b66-959c-2590ee86d487,Iceberg Marul,"5,00 TL",Yan Ürünler,5.0
+d62306a9-bf07-4c9c-8fc8-c01aa9cdfe85,Brownie Kurabiye (Adet),"1,25 TL",Tatlılar,5.0
+105612bd-e831-43ff-af97-4a6625765222,Ağlayan Pasta,"4,50 TL",Tatlılar,6.0
+4c9146ea-b97f-4a78-b112-c543e7226a03,Çikolatalı Puding,"4,00 TL",Tatlılar,5.0
+AE245478-127D-4502-B961-163460D0F24B,Şambali Tatlısı (3 Dilim),"7,50 TL",Tatlılar,5.0
+94ff390a-50e6-49e8-bbd2-5acfdebac22b,Şambali Tatlısı (Dilim),"3,00 TL",Tatlılar,5.0
+3ab8c447-3b34-455d-98ef-5ecb8872dd2a,Çikolatalı Bisküvi Topu (Adet),"1,00 TL",Tatlılar,5.0
+56af5989-3550-4477-ba84-7456816fd0a2,Limonata,"1,50 TL",İçecekler,5.0
+157e6de5-f2a4-479a-867d-59bd27a08625,Karadut Suyu,"1,50 TL",İçecekler,5.0
+b21031f3-cd9f-4d98-a6a3-261804fdbbbe,Niğde Gazozu (25 cl.),"3,00 TL",İçecekler,5.0
+576421da-a8a1-4482-bc38-fdb03e84fc88,Hotline Enerji İçeceği,"4,00 TL",İçecekler,5.0
+dd450364-a8fe-4fc6-9d1d-44fe318be76e,Link (20 cl.),"2,00 TL",İçecekler,5.0
+25e78b07-03b1-472d-a0aa-8a0c6d5881cd,İçim Meyve Suyu (20 cl.),"2,00 TL",İçecekler,5.0
+7ff1caf1-129d-4330-b6f4-c520420a508f,Elmalı Soda (20 cl.),"3,00 TL",İçecekler,5.0
+3d0c3bfc-c4bb-4ba1-be6c-537f0b0ce5db,Çilekli Link (20 cl.),"2,00 TL",İçecekler,5.0
+91ea002b-fbdb-4efa-9d9f-dd1b17887905,Ayran (1 L.) (Cam Şişe),"10,00 TL",İçecekler,5.0
+c36420f4-7172-491d-b1d5-87d6706f97dc,Brownie Kurabiye (1 kg.),"35,00 TL",Kiloluk Ürünler,5.0
+a9beec4f-0099-4645-8eac-fcd7d1cce0b5,Zeytinyağlı Sarma (1 kg.),"40,00 TL",Kiloluk Ürünler,6.0
+8a906861-65d8-4a3d-8615-97a0bdce2af2,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,38 @@
+food_id,food_name,food_price,food_category,food_score
+bd33089d-159d-43f2-bdde-b870adf6aec4,Klasik Lahmacun,"12,50 TL",Lahmacunlar,14.0
+8a0e3cd6-4049-4dcf-8f3c-c0943768ba0d,Müdavim Lahmacun,"14,00 TL",Lahmacunlar,21.0
+2c30c173-ecc5-4202-8b1d-fb43e123631d,Bohça Pide (1 - 2 Kişilik),"48,00 TL",Açık Pideler,2.0
+cf397138-4e12-496b-81bd-94bc57676ad8,Pastırmalı Pide (Açık),"30,00 TL",Açık Pideler,-2.0
+5c6bbdba-3701-40eb-84d0-a71bd92c12f4,Çift Okka 1 Pide (Açık),"30,00 TL",Açık Pideler,-1.0
+ff452369-8ec4-4af8-b8ff-1a9d3f8d0375,Çift Okka 2 Pide (Açık),"20,00 TL",Açık Pideler,2.0
+37184f65-d64e-408f-8615-346fecb983e5,Çift Okka 3 Pide (Açık),"34,00 TL",Açık Pideler,0.0
+50b44f50-9651-45ac-9f33-5df401d3380a,Erzincan Tulumlu Patlıcanlı Pide (Açık),"20,00 TL",Açık Pideler,-2.0
+c004e202-75c7-4d57-8eef-94fd0a0ce288,Kıymalı Kolot Peynirli Pide (Açık),"22,00 TL",Açık Pideler,-2.0
+2f29fa41-1122-45db-9913-e31814f054a2,Kıymalı Pide (Açık),"20,00 TL",Açık Pideler,3.0
+3637d468-27cb-443e-94dd-e8ecdb1a275c,Kıymalı Yumurtalı Pide (Açık),"22,00 TL",Açık Pideler,-2.0
+49b7ff7c-059f-4009-80d6-d48ad042f9c5,Kuşbaşılı Kolot Peynirli Pide (Açık),"30,00 TL",Açık Pideler,-3.0
+41a8b616-54c8-4a8a-9f0a-6b8a062808bf,Kuşbaşılı Patlıcanlı Pide (Açık),"22,00 TL",Açık Pideler,-3.0
+d047711a-62c8-4737-b07b-6fc3ed53531d,Kuşbaşılı Pide (Açık),"28,00 TL",Açık Pideler,-3.0
+d801314f-be5d-4f46-b998-63023fa024a8,Patlıcanlı Pide (Açık),"17,00 TL",Açık Pideler,-2.0
+aceb2e51-0e18-43d6-90a4-63be3dc0b24d,Peynirli Pide (Açık),"20,00 TL",Açık Pideler,-2.0
+67bf68cc-2381-4b35-a251-0e66f918305d,Yağlı Yuvarlak Peynirli Pide (Açık),"25,00 TL",Açık Pideler,-1.0
+617d52f0-9c85-4c3a-ae53-5683c56ae6e4,Yağlı Yuvarlak Sosisli Pide (Açık),"28,00 TL",Açık Pideler,-1.0
+013f7fe6-ce14-43bd-9be0-c60867febad6,Yağlı Yuvarlak Sucuklu Pide (Açık),"30,00 TL",Açık Pideler,-1.0
+f980ddd8-3bf0-4bd9-a160-7e93e4788736,Yağlı Yuvarlak Kavurmalı Pide (Açık),"34,00 TL",Açık Pideler,1.0
+2817f898-0b86-4151-b451-f7a8225d14f3,Kavurmalı Pide (Kapalı),"32,00 TL",Kapalı Pideler,0.0
+f68effe4-108f-41d3-88a2-d0f2c01074a2,Kavurmalı Cheddar Peynirli Pide (Kapalı),"35,00 TL",Kapalı Pideler,0.0
+b57d4337-60c1-449f-861d-6485e46f61bc,Ispanaklı Peynirli Pide (Kapalı),"18,00 TL",Kapalı Pideler,-2.0
+2b820160-753b-4f4f-b481-6351fbe84f87,Kıymalı Pide (Kapalı),"26,00 TL",Kapalı Pideler,-2.0
+1604fe43-43bb-419c-b83f-6de427cf3e5d,Salçalı Peynirli Pide (Kapalı),"16,00 TL",Kapalı Pideler,-2.0
+be67a08c-e424-4280-b60c-69a443f1118c,Salçalı Peynirli Sucuklu Pide (Kapalı),"18,00 TL",Kapalı Pideler,-2.0
+c6f5686a-d336-42c2-b32a-9195a8ac92f7,Nazilli Gülü (3 Adet),"15,00 TL",Yöresel Lezzetler,5.0
+8c96b373-ee03-413d-8d43-d47bdb5fff31,Tahin & Bal & Kaymaklı Pide,"28,00 TL",Tatlılar,-2.0
+6d764936-0b31-458f-83fd-048838142d07,Tahinli Pide,"22,00 TL",Tatlılar,-2.0
+74d12059-04a3-4bd0-8e7c-ce66811a1d9b,Toblerone & Çilek Pide,"28,00 TL",Tatlılar,-2.0
+77fb2b1a-3f2a-469b-9dc5-9811f27315f2,Toblerone & Muz Pide,"28,00 TL",Tatlılar,-2.0
+43549995-3b9b-45d6-b1bf-b1f523d85124,Mini Toblerone & Muz Pide,"18,00 TL",Tatlılar,-2.0
+136623bb-b431-44b5-8fb5-d30bce126725,Mini Toblerone & Çilek Pide,"18,00 TL",Tatlılar,-2.0
+34a92643-8fa8-4eec-a1fa-19c3aecaf9e2,Mini Tahinli Pide,"14,00 TL",Tatlılar,-2.0
+961a6b12-d99f-44a1-a450-4abc92ba0957,Mini Tahin & Bal & Kaymaklı Pide,"18,00 TL",Tatlılar,-2.0
+5f1d1bed-8ccd-49eb-9c99-fd36ecd35ef7,Niğde Gazozu (25 cl.),"5,50 TL",İçecekler,5.0
+d57085ba-9e96-42f1-9344-fd482f48ebd2,Su,"3,00 TL",İçecekler,5.0

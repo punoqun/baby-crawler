@@ -1,0 +1,45 @@
+food_id,food_name,food_price,food_category,food_score
+9d5d4ac4-ce07-4cca-842d-22e211b35aad,Çıtır Tavuk Menü (500 gr.),"46,00 TL",Menüler,10.0
+b25bfad5-541b-45bf-bb57-4ff3f9cd3b7b,Tavuklu Breadliwich Menü 1,"29,00 TL",Menüler,6.0
+c7def87b-8136-4dd2-8ffc-b15b79d1652f,Köfteli Breadliwich Menü 1,"32,00 TL",Menüler,5.0
+d34557e8-5863-4272-8a87-b7759f773fa2,Çıtır Tavuk Menü (150 gr.),"28,00 TL",Menüler,5.0
+017573b5-414b-47e6-9624-8ba63232a559,Tavuklu Napoliten Soslu Breadliwich,"25,00 TL",Tavuklu Breadliwichs,5.0
+0526bfe4-c2ec-4a35-b5d5-23e9dda890fd,Tavuklu Mexico Soslu Breadliwich,"25,00 TL",Tavuklu Breadliwichs,5.0
+0dd0ca69-132f-4df7-892f-77aa159f856b,Tavuklu Kaşarlı Mantar Soslu Breadliwich,"25,00 TL",Tavuklu Breadliwichs,5.0
+8620720e-d5a7-4680-a81c-3abe9b5b0dfd,Tavuklu Cheddar Soslu Breadliwich,"25,00 TL",Tavuklu Breadliwichs,9.0
+8a9a2bf5-25c2-4a7a-ba8d-02f7dd1be624,Tavuklu Curry Soslu Breadliwich,"25,00 TL",Tavuklu Breadliwichs,5.0
+942a0bc1-4013-4402-bed0-367331590c04,Tavuklu Cafe de Paris Soslu Breadliwich,"25,00 TL",Tavuklu Breadliwichs,25.0
+350c2ee8-1c41-48e2-86f4-80aee7e5c6f7,Köfteli Curry Soslu Breadliwich,"27,00 TL",Köfteli Breadliwichs,4.0
+3e3ecfad-046e-4d5f-ac76-5077f3d599c5,Köfteli Cheddar Soslu Breadliwich,"27,00 TL",Köfteli Breadliwichs,3.0
+41eb287f-fbee-438b-a687-36c037d3de72,Köfteli Cafe de Paris Soslu Breadliwich,"27,00 TL",Köfteli Breadliwichs,19.0
+47edc7ed-e672-44c7-9cc0-6541b5eddd71,Köfteli Kaşarlı Mantar Soslu Breadliwich,"27,00 TL",Köfteli Breadliwichs,4.0
+51c90c07-dbcd-4c2e-99a3-1fc8bf150762,Köfteli Mexico Soslu Breadliwich,"27,00 TL",Köfteli Breadliwichs,4.0
+fffe1818-21cc-412e-ab9a-e7b84b5cd76c,Köfteli Napoliten Soslu Breadliwich,"27,00 TL",Köfteli Breadliwichs,4.0
+264e723c-e9ef-4599-9f91-54c270567e3e,Vejetaryen Breadlwich,"22,00 TL",Veggie Breadliwichs,5.0
+e7cdfe3b-8025-454d-befb-b7ed7cf62ab5,Çıtır Tavuk (150 gr.),"28,00 TL",Çıtır Tavuklar,5.0
+0A2CD47A-F3CA-4284-AF2B-956C729CFF71,Çıtır Tavuk (500 gr.),"35,00 TL",Çıtır Tavuklar,5.0
+6886d4de-8720-417e-920e-2416ed0f34f8,Napolitan Soslu Makarna,"17,00 TL",Makarnalar,5.0
+ac224229-43a7-4762-9ceb-42624b067527,Cheddar Soslu Makarna,"17,00 TL",Makarnalar,4.0
+5d4b10b0-59f3-4951-8b27-47d4679c75dd,Kaşarlı Mantar Soslu Makarna,"17,00 TL",Makarnalar,5.0
+f90f1354-c164-4626-a3eb-a9cde57800bf,Curry Soslu Makarna,"17,00 TL",Makarnalar,5.0
+296584c6-ebc5-42e1-afb3-da988c5d9917,Mexico Soslu Makarna,"17,00 TL",Makarnalar,5.0
+f77675d4-0fd0-482c-a2a5-4dd84dc43eba,Café de Paris Soslu Makarna,"17,00 TL",Makarnalar,20.0
+7A98FD8E-E3C9-4E18-87C9-23168BCAA39A,Hamburger (Büyük),"29,00 TL",Burgerler,5.0
+EC8196A6-DC0F-4989-ADC0-6CC59F750C83,Sosisli Sandviç,"10,00 TL",Sandviçler,7.0
+aad2a716-9a57-4354-b89b-151f7d72e823,Baharatlı Bol Patates Kızartması,"12,00 TL",Tekli Ürünler,7.0
+e25efcbb-4d71-42fc-9385-5a036cb3a78f,Küçük Salata,"4,00 TL",Tekli Ürünler,5.0
+4a681ff2-86a9-4792-9ce6-938ea66a4eb1,Salata Sosu,"4,00 TL",Tekli Ürünler,4.0
+07118de1-1489-4264-ab9a-282c46f4e757,Nar Ekşili Sos,"3,00 TL",Tekli Ürünler,4.0
+0b360068-4d75-4ad6-bf01-f4b3912eaf62,Sızma Zeytinyağı Sosu,"3,00 TL",Tekli Ürünler,4.0
+2d232935-13f1-437d-a5f1-75b9d546a042,Roll Ekmek (Adet),"1,00 TL",Tekli Ürünler,6.0
+C686AD9D-42AB-4CDB-97E7-818599B830FB,Köstebek Tatlısı,"17,00 TL",Tatlılar,5.0
+ED2B6D46-4938-4CF5-B40A-D25AE1B987F4,Red Velvet Orman Meyveli Pasta,"17,00 TL",Tatlılar,6.0
+3F22E10F-BC8E-4086-A0E9-691059203F49,Çilek & Beyaz Çikolata,"17,00 TL",Tatlılar,5.0
+94F48ECC-2804-4D7A-8774-0359B9EBFDD6,Antep Rüyası,"17,00 TL",Tatlılar,5.0
+33B31D73-898B-4338-8082-03BC36508AED,Devil's Fudge,"17,00 TL",Tatlılar,5.0
+6e6c0085-9e3c-4e6f-83c1-c5f78f090211,Frambuazlı Pasta,"17,00 TL",Tatlılar,6.0
+650ba196-75ac-4bd7-a015-3ff6cb1c23c6,Çilekli Pasta,"17,00 TL",Tatlılar,6.0
+6a1b856d-9b69-4196-b5ca-81a125ddbc50,Karamelli & Krokanlı Pasta,"17,00 TL",Tatlılar,6.0
+d2fa6137-d678-43c4-b852-ad3547dbddbd,Limonlu Cheesecake,"17,00 TL",Tatlılar,5.0
+b3f967c4-eb57-4013-b033-753441f0de9d,Frambuazlı Cheesecake,"17,00 TL",Tatlılar,5.0
+d3b33d5b-97c3-40dd-a0eb-a957ea3c25f3,Çilekli Limonata,"10,00 TL",İçecekler,5.0

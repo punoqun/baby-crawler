@@ -1,0 +1,38 @@
+food_id,food_name,food_price,food_category,food_score
+05157659-5051-4500-8335-23756e994cac,İzmir Kumru Menü,"22,00 TL",Menüler,5.0
+164f6ef5-3e22-45a0-b3b0-132f4f8ae0c1,Misafir Menü,"48,00 TL",Menüler,5.0
+44d2f67f-a55f-47a5-98b5-66f96a0d30bf,Yengen Menü,"20,00 TL",Menüler,5.0
+6f15aa8a-e844-4e1a-9b26-ee4e42c1aaa0,Patso Sandviç Menü,"16,00 TL",Menüler,5.0
+d4d4b99f-ba56-45a9-b660-cd98fa599331,Dürüm & Ayran Menü,"7,00 TL",Menüler,5.0
+9a53003b-10fa-454a-9d4a-f80940297600,Çiğ Köfte Dürüm,"6,00 TL",Çiğ Köfteler,10.0
+55ECAD1B-DFB0-44BB-864D-612140F3F3E2,Çiğ Köfte (1 kg.) (Garnitürsüz),"25,00 TL",Çiğ Köfteler,5.0
+1D4A5254-2B7B-4D22-B1D4-B823AC562AB0,Çiğ Köfte (500 gr.) (Garnitürsüz),"13,00 TL",Çiğ Köfteler,5.0
+fdc0a238-67d3-45e1-a9df-110610ba9f57,Mega Çiğ Köfte Dürüm,"8,00 TL",Çiğ Köfteler,10.0
+b3bb64bb-c98c-4a62-843c-4412a55bb5da,Çiğ Köfte (250 gr.),"12,00 TL",Çiğ Köfteler,5.0
+917e2ff2-3d25-413b-8e94-5a674bb84ac2,Çiğ Köfte (380 gr.),"17,00 TL",Çiğ Köfteler,5.0
+b33f3dd9-f6eb-4930-91ad-59e17a2e358b,Çiğ Köfte (500 gr.),"20,00 TL",Çiğ Köfteler,10.0
+d38ca683-4a64-47c8-abb4-4223771ab6a4,Çiğ Köfte (600 gr.),"25,00 TL",Çiğ Köfteler,5.0
+020d3525-8a7d-45b0-b822-1c0a713111ed,Çiğ Köfte (780 gr.),"30,00 TL",Çiğ Köfteler,5.0
+5ce5b2e2-43d3-405b-ac6f-19d19ea0f003,Çiğ Köfte (1 kg.),"40,00 TL",Çiğ Köfteler,5.0
+055a72e6-2c99-4ec0-8eaa-215470ba978d,Karışık Tost,"10,00 TL",Tostlar,5.0
+1b95e05d-1a9e-4285-9806-262f20f99aa6,Sucuklu Tost,"8,00 TL",Tostlar,5.0
+30bf9e35-4631-42f8-ad05-8e8f61c3c501,Cazgır Tost,"14,00 TL",Tostlar,5.0
+9373229f-3e7c-49e8-a899-80c84e40888c,Pin-Tost,"15,00 TL",Tostlar,5.0
+98691ba4-e37e-4c1e-8011-a91b9a8e3ce3,Çirkef Tost,"16,00 TL",Tostlar,5.0
+b2d5e279-7b79-488a-a529-3bef7dc5cefa,Bazlama Psikopat Tost,"16,00 TL",Tostlar,5.0
+b56367bf-ff5b-4f7f-93ee-9750a9ab9f92,Bazlama Tost,"12,00 TL",Tostlar,5.0
+d4986f30-b699-4898-95ff-d44a490e0aa0,Kaşarlı Tost,"8,00 TL",Tostlar,5.0
+d704ba1a-e0f3-4f04-9c4f-44ba054ec290,Psikopat Tost,"12,00 TL",Tostlar,5.0
+744b7788-e55b-4e50-bc86-f4894caf331a,Yengen Sandviç,"12,00 TL",Sandviçler,5.0
+d3f07d8e-0fd1-410d-a321-02dd12a4640d,İzmir Kumru Sandviç,"14,00 TL",Sandviçler,5.0
+fb23531b-1911-422d-a4b7-2fb6cd5fb4ac,Sosisli Patso Sandviç,"10,00 TL",Sandviçler,5.0
+A9F9A6C6-0EAF-4587-8218-51C9A491F279,Patso Sandviç,"8,00 TL",Sandviçler,5.0
+6ab911d4-8d1f-463f-b99e-0511db42a7f9,Soğan Halkası,"8,00 TL",Yan Ürünler,5.0
+842cc13b-ed46-4ea5-8e37-f46be188bf55,Tavuk Nugget,"8,00 TL",Yan Ürünler,5.0
+a55eea60-ad3b-439c-be65-2526620a9804,Patates Kızartması,"7,00 TL",Yan Ürünler,5.0
+D66CE415-7A54-4BD8-83D3-D19AAF19D725,Lavaş Ekmeği (Adet),"0,50 TL",Yan Ürünler,5.0
+87C55270-B30E-40C7-8CD7-75C09B8B6DDE,Salatalık Turşusu,"1,00 TL",Yan Ürünler,5.0
+EFC61B26-E91C-4974-BE14-D76D81416F9E,Cin Biberi,"1,00 TL",Yan Ürünler,5.0
+06769d3e-097a-4d86-a2f7-a5f35f5473e8,Beyoğlu Gazozu (20 cl.),"2,50 TL",İçecekler,5.0
+39432A77-9F78-47B5-84C3-A8BF18D3A873,Juss power Hits (50 cl.),"4,00 TL",İçecekler,5.0
+18638894-5456-4756-8405-94aba3877df5,Poşet,"0,25 TL",Poşet,5.0

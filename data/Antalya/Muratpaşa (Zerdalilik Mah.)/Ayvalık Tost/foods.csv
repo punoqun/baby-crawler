@@ -1,0 +1,51 @@
+food_id,food_name,food_price,food_category,food_score
+1a9c12fc-5aff-47f2-827a-7fa2b3cc614e,Menü 1,"25,00 TL",Menüler,3.0
+3548fdd8-b242-486f-88f2-0fda2e945df1,Menü 2,"26,00 TL",Menüler,-4.0
+50fc7cb1-4cfd-44a9-abfd-89095cefbc3b,Menü 3,"25,00 TL",Menüler,-3.0
+3a260f8d-ee71-47ee-8538-7b3718266c44,Menü 4,"28,00 TL",Menüler,2.0
+e04b316a-efe7-4ee3-b233-934f802dca80,Menü 5,"23,00 TL",Menüler,-7.0
+65bfbb38-f788-4d7d-b170-2e5530566f51,Menü 6,"19,00 TL",Menüler,3.0
+f242d1de-eeb3-477c-af32-143dc8d36ea2,Menü 7,"24,00 TL",Menüler,4.0
+5cd2ac86-dfaf-4722-8837-a485db528e5e,Menü 8,"25,00 TL",Menüler,2.0
+1788bd5d-7f31-4b9b-922d-6e6881eced4a,Menü 9,"28,00 TL",Menüler,4.0
+97a9fb78-474c-42a9-8293-43724228ab64,Menü 10,"28,00 TL",Menüler,14.0
+9eea49c8-9d0d-458d-901a-817ff2da6d73,Menü 11,"26,00 TL",Menüler,4.0
+9a609c35-f68e-48ce-bddb-c37baf825700,Menü 12,"30,00 TL",Menüler,4.0
+eb59c76a-e2d3-4321-a512-24ff21e34f4c,4'lü Kavurmalı Kaşarlı Ayvalık Tost Menü,"80,00 TL",Menüler,8.0
+4525b1a5-5ef6-4a0f-9efd-1ba0c00850e8,4'lü Süper Karışık Ayvalık Tost Menü,"76,00 TL",Menüler,22.0
+86a6472e-1d78-4f02-acf7-95ad71be376d,5'li Karışık Ayvalık Tost Menü,"80,00 TL",Menüler,9.0
+fb73dc59-3f6f-4e30-8fbb-0fdf71b01fef,5'li Köfteli Kaşarlı Ayvalık Tost Menü,"85,00 TL",Menüler,11.0
+a6dd6cdb-5db6-47ac-b23a-e3e88c453334,5'li Tulum Peynirli Kaşarlı Ayvalık Tost Menü,"75,00 TL",Menüler,11.0
+4807b5e5-e2be-455c-828d-4c5f932991e6,Kaşarlı Sucuklu Ayvalık Tostu & Ayran Menü,"20,00 TL",Menüler,11.0
+e54d2999-d223-4c7c-80c2-b5ad8c97ca0e,Yumurtalı Tost,"15,00 TL",Tostlar,8.0
+b297c3cd-33b3-4095-93ef-71836424a128,Ayvalık Ekmeğine Sucuk,"15,00 TL",Tostlar,4.0
+cf0acea8-d9d1-4ad2-9279-036a3a1411c9,Bol Döküm İzmir Eritme Tost,"22,00 TL",Tostlar,8.0
+0a5df721-a58c-4753-ab91-a97c5495ec1b,Duble Kaşarlı Tost,"18,00 TL",Tostlar,9.0
+3912aa96-7f53-439b-8dcd-bc0649c28c43,Ezine Peynirli Ayvalık Tostu,"13,50 TL",Tostlar,13.0
+f7bc39aa-511a-426d-98b9-272391e0dbaf,Mega Karışık Ayvalık Tostu,"16,00 TL",Tostlar,14.0
+aadadb18-5b7a-449c-86a6-ab898abc5e2f,Tavuk Dönerli Ayvalık Tostu,"13,00 TL",Tostlar,11.0
+f28ff778-89e3-4a45-903d-c4da7f5dcb16,Ton Balıklı Ayvalık Tostu,"18,00 TL",Tostlar,11.0
+fd59bf65-b6b8-4e1b-925b-83c43ec010c1,Tulum Peynirli Kaşarlı Ayvalık Tostu,"15,00 TL",Tostlar,12.0
+47b516a0-af71-4775-9310-d4be03fd120f,Tulum Peynirli Sucuklu Tost,"18,50 TL",Tostlar,8.0
+49085b3a-9b6c-44a9-aa67-63178c3534f7,Kavurmalı Yumurtalı Tost,"27,00 TL",Tostlar,5.0
+9b42286c-79fb-48fb-9d31-1aea0c5220b9,Pastırmalı Yumurtalı Tost,"28,00 TL",Tostlar,6.0
+46aa4715-bba1-4314-98da-d4e908a6e4b0,Mantı,"22,00 TL",Ev Yemekler,5.0
+661e57c1-5207-4027-a637-7f00263b79f4,Kaşarlı Patso Dürüm,"20,00 TL",Dürümler,8.0
+62268ac0-9aed-4a5c-81a3-d1c943d3500c,Pastırmalı Dürüm,"22,00 TL",Dürümler,3.0
+9ee3f0c9-8bfb-4d8d-87a5-19d2acfa55a8,Pastırmalı Kaşarlı Dürüm,"25,00 TL",Dürümler,4.0
+a62368d3-2e6d-483c-842c-1bbdacd9047b,Köfte Dürüm,"20,00 TL",Dürümler,4.0
+c681c632-2009-4233-99d9-35434dfe377d,Kumru Dürüm,"22,00 TL",Dürümler,5.0
+5349eb84-3762-4fed-aacb-7adfd72be989,Kavurmalı Dürüm,"21,00 TL",Dürümler,2.0
+98b7240e-d0ca-43ff-9411-0eea14341508,Tavuk Döner Dürüm,"15,00 TL",Dürümler,5.0
+bcb16134-6590-4911-9777-fdcbdd3be69f,Kavurmalı Kaşarlı Dürüm,"23,00 TL",Dürümler,3.0
+52d4f5f6-8b4d-4792-ae9a-cc5a0fc04d2f,Köfteli Kaşarlı Dürüm,"22,00 TL",Dürümler,6.0
+0af88022-4876-4efc-b21e-5a00f9f5a171,Soğan Halkası,"10,00 TL",Yan Ürünler,5.0
+49f466a1-2c3b-4cb3-8360-ceb8f70fd63b,Patates Kızartması,"10,00 TL",Yan Ürünler,1.0
+6a581a54-6418-4362-aaf9-d969c2bb3665,Elma Dilim Patates Kızartması,"11,00 TL",Yan Ürünler,1.0
+a8249224-d62f-4843-a01a-b5dff32237f6,Atıştırmalık Tabağı,"20,00 TL",Yan Ürünler,5.0
+ab830f2e-269c-47d5-a5ae-5eff84009a9b,Sütlaç,"6,00 TL",Tatlılar,5.0
+1088227a-baa7-43bc-ace3-e736d0ae1c85,Sakızlı Muhallebi,"6,00 TL",Tatlılar,5.0
+b93c7809-4b22-4e37-99e3-549dbd182acf,Çikolatalı Puding,"6,00 TL",Tatlılar,5.0
+787cadc2-badf-4b76-bd78-bdc2ba3911a9,Su,"3,00 TL",İçecekler,1.0
+f2f47ed3-088b-490b-9f92-97c57787cba9,Limonata,"6,00 TL",İçecekler,5.0
+8da4a1ad-02d3-4560-9abb-c0166ad3147f,Poşet,"0,25 TL",Poşet,5.0

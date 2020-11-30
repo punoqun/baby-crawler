@@ -1,0 +1,49 @@
+food_id,food_name,food_price,food_category,food_score
+0737314d-f3c0-4e57-886f-2e2305112083,Dil Çorbası,"35,00 TL",Çorbalar,5.0
+d61405cf-d5d4-413d-9eb1-d857a0aea83a,Dil Special Çorbası,"32,00 TL",Çorbalar,5.0
+d89c34f2-3119-420a-83d0-ed1b433d5b90,Şırdan Çorbası,"26,00 TL",Çorbalar,5.0
+C224CCDC-B56B-4683-8AFD-587B82A89575,Beykoz Special Çorbası,"37,00 TL",Çorbalar,7.0
+07be2f20-c1bf-4d06-9c1c-33870b7f1ee8,Tavuk Şiş,"36,00 TL",Kebaplar & Izgaralar,7.0
+23a8e539-f1d6-47b9-a1bf-5dfa4e7bcb85,İnegöl Köfte,"40,00 TL",Kebaplar & Izgaralar,15.0
+4b4ef4eb-5686-4009-b1d1-4e964418d8bf,Karışık Köfte,"42,00 TL",Kebaplar & Izgaralar,8.0
+516e6d2b-75a3-4479-9758-98eaa6726b8f,Çöp Şiş,"48,00 TL",Kebaplar & Izgaralar,5.0
+8c70dbc0-2cd1-4a80-b0e0-e383a05cad61,Tavuk Kanat,"37,00 TL",Kebaplar & Izgaralar,7.0
+bef5e7c2-26db-4218-ab06-982f8208c6b3,Kasap Köfte,"39,00 TL",Kebaplar & Izgaralar,8.0
+bf8e296b-ca98-4a59-b7e7-b140d3c26976,Ciğer Şiş,"43,00 TL",Kebaplar & Izgaralar,8.0
+dcdf3661-89a8-4070-8a16-2502845d8789,Kaşarlı Köfte,"40,00 TL",Kebaplar & Izgaralar,8.0
+6EC7616B-7A4A-4A25-B732-6296DF888E82,Urfa Kebap,"44,00 TL",Kebaplar & Izgaralar,4.0
+16314DDE-133A-4E58-AF3D-741F3C5E09AC,Adana Kebap,"44,00 TL",Kebaplar & Izgaralar,3.0
+d374fe24-bd43-4aca-96b6-b3ded1337a84,Etli Kuru Fasulye,"31,00 TL",Kıymalı & Etli Sebze Yemekleri,5.0
+e1e671ae-072c-41c2-9972-99938fe2a37c,Etli Yaprak Sarma,"29,00 TL",Kıymalı & Etli Sebze Yemekleri,4.0
+4d7bb6b1-969d-4542-a560-d7c16d2e00cf,Ispanak,"24,00 TL",Sebze Yemekleri,5.0
+941BB5B1-85AB-4CC2-A6A4-314F210A524D,Taze Yeşil Fasulye,"25,00 TL",Sebze Yemekleri,5.0
+235e3973-81f8-4bb9-a1cb-2a25355be05f,Dil Söğüş,"32,00 TL",Sakatatlar,5.0
+6aa4b574-c61a-4b1a-9da0-039cad950b6f,Kuzu Kokoreç,"40,00 TL",Sakatatlar,6.0
+987f0cc2-3193-45d7-b373-5a6c9b998837,Mumbar Dolma (Tereyağlı),"36,00 TL",Sakatatlar,4.0
+9c85fe60-a361-4cc3-b541-2ed11eacacb5,Şırdan Dolma (Tereyağlı),"25,00 TL",Sakatatlar,5.0
+a81e990f-b338-4c0a-b4f8-9e5d2daef5df,Şırdan Dolma (Soslu),"24,00 TL",Sakatatlar,5.0
+ad2965bc-44c4-4ede-91b2-2bbe949443f7,Mumbar Dolma (Soslu),"34,00 TL",Sakatatlar,4.0
+ae37e4b9-9d0a-4deb-a30b-2fa45ffd6f2a,Ciğer Tava,"41,00 TL",Sakatatlar,8.0
+b0a0a366-3c39-43c7-a132-6642320f3c20,Kuzu Kelle (Yarım),"35,00 TL",Sakatatlar,8.0
+5c747cd1-8366-4bf1-947b-dad96b1122bb,Pirinç Pilavı,"16,00 TL",Diğer Yemekler,6.0
+afc7b522-599e-4b05-9701-830fbc97f0f4,Patates Kızartması,"13,00 TL",Diğer Yemekler,1.0
+e863acf1-4655-4968-acb8-c8d951428418,Patates Püresi,"13,00 TL",Diğer Yemekler,1.0
+eb24743d-410a-48a5-bdf2-2071e4d09a3e,Kayseri Mantısı,"30,00 TL",Diğer Yemekler,5.0
+e37cdd6d-ccb7-49cf-a134-65993badab0e,Fasulyeli Pilav,"19,00 TL",Diğer Yemekler,5.0
+94060bfe-39c2-4d8f-ac6d-9493766979e1,Ekmek Arası Kasap Köfte,"38,00 TL",Ekmek Arası Ürünler,14.0
+9a206e47-6c20-4581-b4ba-b7aa7fa348e4,Ekmek Arası İnegöl Köfte,"39,00 TL",Ekmek Arası Ürünler,21.0
+0a134a3e-2838-4771-aa7f-6eca0c43e33f,Ekmek Arası Tavuk Şiş,"35,00 TL",Ekmek Arası Ürünler,13.0
+ce0d5a42-4f9c-4efa-a903-796ed2f1bc1c,Ekmek Arası Ciğer Şiş,"45,00 TL",Ekmek Arası Ürünler,14.0
+99fa9e83-c5bd-465b-bfa3-7b92d9618ecf,Ekmek Arası Çöp Şiş,"48,00 TL",Ekmek Arası Ürünler,11.0
+f6b61345-a827-4136-a23b-297187e76bf1,Ekmek Arası Kuzu Kokoreç,"40,00 TL",Ekmek Arası Ürünler,12.0
+8290e927-d258-4e2c-b837-43b5f5a1723f,Cacık,"13,00 TL",Yan Ürünler,5.0
+8a327ace-3a77-4d1c-8ebb-5e3fe42fa854,Yoğurt,"10,00 TL",Yan Ürünler,3.0
+0d5d993e-df61-4b4d-a73d-db4468f4937a,Tel Kadayıf,"18,00 TL",Tatlılar,4.0
+187147f5-c515-4dad-83b3-230b9b4ff905,Şekerpare,"18,00 TL",Tatlılar,5.0
+1f64dcf5-6c88-42a8-8bf0-9fc2ac8f3791,Kabak Tatlısı,"18,00 TL",Tatlılar,5.0
+6cba37b7-e66e-4d87-9523-ace54d826937,Aşure,"18,00 TL",Tatlılar,7.0
+7e50f1a2-9f2e-4c3b-b0c5-bb68d009c5ec,Kaymaklı Ekmek Kadayıfı,"21,00 TL",Tatlılar,11.0
+b77352a7-08f2-4790-a8c8-a829c2f242d5,Fırın Sütlaç,"18,00 TL",Tatlılar,7.0
+b5463f21-9acd-493a-bd9d-f54f2e36fe15,Sup,"18,00 TL",Tatlılar,7.0
+6d58d915-8acd-4566-b3cb-a886543295da,Çoban Salata,"17,00 TL",Salatalar,5.0
+a65c7676-02cf-4098-bd2c-884ae472e1d7,Mevsim Salata,"17,00 TL",Salatalar,5.0

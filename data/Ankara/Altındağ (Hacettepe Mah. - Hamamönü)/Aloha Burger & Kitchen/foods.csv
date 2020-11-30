@@ -1,0 +1,32 @@
+food_id,food_name,food_price,food_category,food_score
+f2f0039d-4b18-4bec-b693-7f1976caf149,Cheddar's Dream Burger,"30,00 TL",Burgerler,14.0
+cbb8b948-0d58-46f5-8c40-6fcea55ce093,Chicken Burger,"25,00 TL",Burgerler,16.0
+edadffaa-9d27-49fa-8668-a429af6e0d6c,Ci-Hot Burger,"30,00 TL",Burgerler,14.0
+614029d8-47d0-4168-a624-e60aba959f07,Ciobella Burger,"31,00 TL",Burgerler,14.0
+940c8e18-e8a8-4237-8f3e-002fb48af3a1,Colorado Burger,"35,00 TL",Burgerler,14.0
+cd3fa994-bfac-4e3f-9843-0d50e171b7ac,Deep Burger,"29,00 TL",Burgerler,14.0
+925bfff3-d065-4391-b9e5-c4fb0c20f4c6,Empire State Burger,"46,00 TL",Burgerler,16.0
+eb50d962-2fc6-4909-945a-23059397b5b6,Füme Burger,"30,00 TL",Burgerler,14.0
+db393def-aa9a-4050-b8a4-604f7f9f4866,Kilbourne Burger,"29,00 TL",Burgerler,14.0
+05a8d0de-bc8b-468a-8477-1369daaa1790,Ohio Burger,"33,00 TL",Burgerler,14.0
+2b968c13-48f8-4177-a779-c07b4f20d4ab,Veggie Burger,"25,00 TL",Burgerler,14.0
+F22E8AF8-39B7-4991-AB5A-C2FAC4466D1B,Veg Burger,"27,00 TL",Burgerler,12.0
+74FE6B3E-8EDF-46C7-B30E-F1483F7469BC,Veg Schnitzel Burger,"24,00 TL",Burgerler,12.0
+69f73009-84ce-47b7-afad-7f1a0de5a204,Izgara Tavuk,"26,00 TL",Ana Yemekler,6.0
+73be2323-e03d-47d7-948e-0683612b2f12,Patates Kızartması (1 Kişilik),"7,00 TL",Yan Ürünler,12.0
+7f863d6a-38db-46c1-8203-44bc9880148f,Patates Kızartması (2 Kişilik),"12,00 TL",Yan Ürünler,12.0
+53d1d939-c572-4dd6-baa9-4a0fe7c53cad,Soğan Halkası (120 gr.),"16,00 TL",Yan Ürünler,5.0
+983b0bb8-2183-4aa5-a2d7-eb6d7a27d0fd,Mozzarella Sticks (120 gr.),"16,00 TL",Yan Ürünler,5.0
+47631ddd-486d-48ff-9e83-97925a09b34d,Chicken Fingers (120 gr.),"16,00 TL",Yan Ürünler,7.0
+15fd915f-2b4b-48b5-a4a6-79da759b2372,Aloha Tabağı,"21,00 TL",Yan Ürünler,4.0
+bea943f5-7bb6-4195-8f67-52c8f30b02a3,Akdeniz Salatası,"15,00 TL",Salatalar,6.0
+82131aa4-c605-496e-a32c-e24e9f41f98c,Ton Balıklı Salata,"21,00 TL",Salatalar,5.0
+4890d223-da21-4984-9260-dd1ab0598932,Çıtır Mozzarella Peynirli Salata,"19,00 TL",Salatalar,5.0
+ee25f777-26e6-4cfe-b663-9640acfe9ea1,Izgara Tavuklu Salata,"23,00 TL",Salatalar,5.0
+d9cfaedc-10f1-4196-9405-1662e3446a7d,Sezar Salata,"26,00 TL",Salatalar,7.0
+75A7A777-F6EC-424D-99EF-2CF55808CAE8,Red Velvet,"14,00 TL",Tatlılar,5.0
+75866D94-97C7-424B-BFBC-11FED6B1E1C9,Schweppes Mandarin (25 cl.),"7,50 TL",İçecekler,5.0
+86b4154b-777f-4acc-a8f7-2fc9e5e9ed61,Niğde Gazozu (25 cl.),"6,50 TL",İçecekler,5.0
+19cbdb46-b80c-4788-bec0-070d453db3fe,Zafer Gazozu (25 cl.),"6,50 TL",İçecekler,5.0
+16281df0-e79f-42a2-84dc-0dd6216793bc,Sarımsaklı Mayonez Sos,"2,00 TL",Soslar,5.0
+d0380392-5b70-4679-85ae-afed4909c0cb,Poşet,"0,25 TL",Poşet,5.0

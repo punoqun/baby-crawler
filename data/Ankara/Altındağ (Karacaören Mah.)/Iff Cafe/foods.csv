@@ -1,0 +1,38 @@
+food_id,food_name,food_price,food_category,food_score
+01e4bf30-6bb7-45ea-b40d-757a47610eb2,Hamburger Menü,"25,00 TL",Menüler,5.0
+f4a15026-545b-4c48-a6d2-384f07c517c7,Cheeseburger Menü,"26,00 TL",Menüler,10.0
+9c9b536f-9693-4463-8067-4982caa8af7a,Kaşarlı Tost,"15,00 TL",Tostlar,5.0
+a2e37058-7df5-492e-94d2-75fc73591210,Sucuklu Tost,"16,00 TL",Tostlar,5.0
+bda4100a-9fbc-4bee-b550-acf8598aac7b,Karışık Tost,"16,00 TL",Tostlar,5.0
+4476fe1c-3f1a-49a8-8ed2-119817455449,Kaşarlı Bazlama Tost,"16,00 TL",Tostlar,5.0
+ace10baa-d90d-4804-9179-f3a2959d036e,Patatesli Gözleme,"14,00 TL",Gözlemeler,5.0
+5e762e8b-ccdc-4654-988b-724b6b8ae8fd,Kıymalı Gözleme,"15,00 TL",Gözlemeler,5.0
+1260fe9e-ccb6-4200-94cb-6fa337605497,Kaşarlı Gözleme,"14,00 TL",Gözlemeler,5.0
+580ebdba-0a36-47a0-9881-9acdda89bd98,Beyaz Peynirli Gözleme,"13,00 TL",Gözlemeler,5.0
+02F2C341-1213-4DE2-BCFC-94C193EE888A,Terbiyeli Tavuk Çorbası,"12,00 TL",Çorbalar,5.0
+F4EB51DB-599E-4622-BF0E-19A0933E5389,Arnavut Ciğeri (Dana),"20,00 TL",Ana Yemekler,5.0
+9F9CC3BB-FC5D-49AC-8DE0-4DCEA88189AF,Arnavut Ciğeri (Tavuk),"10,00 TL",Ana Yemekler,5.0
+5A95E98E-9C0D-4243-865A-4A9D93A7D7B5,Et Tantuni Dürüm,"18,00 TL",Tantuniler,7.0
+9B7CBA0F-210A-45BF-8D84-8981D5934AC2,Tavuk Tantuni Dürüm,"12,00 TL",Tantuniler,12.0
+FEC864AE-3E4C-49DC-BF7C-9222A18B1A14,Yarım Ekmek Arası Kokoreç,"28,00 TL",Kokoreçler,7.0
+347118FB-7EBF-490F-8D02-302F411F1D5B,Çeyrek Ekmek Arası Kokoreç,"15,00 TL",Kokoreçler,7.0
+8c922cb8-3c9d-4d1b-8a83-602963d911cc,Sucuklu Pizza,"23,00 TL",Pizzalar,5.0
+fed91f09-45a6-4123-9469-94e9ce25b4e8,Margarita Pizza,"23,00 TL",Pizzalar,5.0
+5abc2c80-4f2a-4938-8fe0-f280781b41d8,Karışık Pizza,"27,50 TL",Pizzalar,5.0
+2a8a8ca7-ed71-441f-8834-2e78a2cb174d,Dört Peynirli Pizza,"26,50 TL",Pizzalar,5.0
+f81d21c7-84cb-4c8d-ab3f-7f1f78a007f5,Ton Balıklı Pizza,"26,00 TL",Pizzalar,5.0
+ff865c6c-5bdc-47d6-b9e2-f888a02426c0,Etli Wrap,"25,00 TL",Wraps,5.0
+1d3c1561-7220-4237-a34d-62ae2f7f7e4a,Tavuklu Wrap,"23,00 TL",Wraps,5.0
+d21f6bd7-bdf0-42b3-87fd-8a34e61a51ff,Köfteli Wrap,"25,00 TL",Wraps,5.0
+12515d86-2ecd-4139-a020-d0730574103a,Fettuccine Alfredo,"21,00 TL",Makarnalar,5.0
+9d76411d-df72-45a6-b43d-a5ac0d131d87,Spaghetti Napolitan,"18,00 TL",Makarnalar,5.0
+22505dba-8937-457a-b7c0-e87b4f8d07ad,Bazlama Steak,"24,50 TL",Bazlamalar,5.0
+a045e401-f270-4856-bd6c-fe927508a408,Bazlama Tavuk,"22,00 TL",Bazlamalar,5.0
+f0dd871c-9777-4b69-8b5b-eb2c5aa2b6df,Patates Kızartması,"10,00 TL",Yan Ürünler,5.0
+e9461074-b712-4b8a-9739-13b9f3cfd728,Izgara Tavuklu Salata,"19,00 TL",Salatalar,5.0
+39ebf2d4-088c-4d17-8ad8-d90458b2165c,Izgara Biftek Salata,"22,00 TL",Salatalar,5.0
+fb9e846b-b1c4-4208-9a80-25304ff40fe0,Akdeniz Salata,"15,00 TL",Salatalar,5.0
+9b7b8ee3-47bd-425a-8e39-be0e434c241c,Çoban Salata,"8,00 TL",Salatalar,10.0
+ca03a563-403b-4fc3-942f-9e57b7fce204,Künefe,"17,00 TL",Tatlılar,5.0
+6cdc8889-3e48-4807-8ed3-519a27c5a860,Katmer Tatlısı,"22,00 TL",Tatlılar,5.0
+83e0a43e-24a1-4a4e-bfbf-c25a473ccce7,Poşet,"0,25 TL",Poşet,5.0

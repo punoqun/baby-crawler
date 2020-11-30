@@ -1,0 +1,69 @@
+food_id,food_name,food_price,food_category,food_score
+8b9dbbf8-6a8e-4af0-b9f3-5e662b4d08d1,Menü 1,"14,00 TL",Ekonomik Menüler,30.0
+45a32d19-4ec3-4c62-adfa-c3b952652bbb,Menü 2,"20,00 TL",Ekonomik Menüler,6.0
+cdc0f3e1-f870-4530-b729-0191a201df1d,Menü 3,"14,00 TL",Ekonomik Menüler,14.0
+0b9a2d46-e5ad-400c-90e6-c80422679cc5,Menü 4,"20,00 TL",Ekonomik Menüler,8.0
+8348299a-519a-4399-980c-da89985f0c6b,Menü 5,"26,00 TL",Ekonomik Menüler,10.0
+4b1c337f-3474-4681-b18f-16b555384d17,Menü 6,"26,00 TL",Ekonomik Menüler,7.0
+1667b576-537a-4020-904b-41d1c1b3e350,Menü 7,"38,00 TL",Ekonomik Menüler,7.0
+e75d9730-a1c0-4c73-921a-d482660130cc,Menü 8,"26,00 TL",Ekonomik Menüler,7.0
+d3e55f0a-f2c5-4287-95a8-9c6201cc0ce1,Arnavut Ciğeri Menü 1,"13,00 TL",Ekonomik Menüler,30.0
+d928d573-ccaf-47e4-b97e-5c71624b9e5c,Arnavut Ciğeri Menü 2,"20,00 TL",Ekonomik Menüler,6.0
+7b434566-205b-48bc-91c7-938e5e72c57b,Ekmek Arası Köfte Menü,"20,00 TL",Ekonomik Menüler,8.0
+4cced2ac-ad01-47b7-928f-753b1fdc0301,Et Döner Dürüm Menü,"27,00 TL",Ekonomik Menüler,32.0
+90360f6b-5a70-40d2-81c6-7b4191f338fc,Gobit Ekmek Arası Et Döner Menü,"25,00 TL",Ekonomik Menüler,37.0
+d7113175-f988-4e43-90f5-7e06dbecc9ab,Gobit Ekmek Arası Tavuk Döner Menü,"17,00 TL",Ekonomik Menüler,41.0
+b74265d5-54b6-4eb8-ab2d-0ecb08ce4b6d,Hatay Usulü Soslu Tavuk Döner Dürüm Menü,"17,00 TL",Ekonomik Menüler,38.0
+8ae99fcd-ad39-4f87-b0e9-cbd7c7a5f7bc,İskender (Et Dönerden) Menü,"32,00 TL",Ekonomik Menüler,5.0
+8c291600-2987-4857-af3e-f1f2ca841d00,İskender (Tavuk Dönerden) Menü,"22,00 TL",Ekonomik Menüler,5.0
+4d3dab89-7866-4fdd-9d63-992d438906ba,Pilav Üstü Arnavut Ciğeri Menü,"22,00 TL",Ekonomik Menüler,7.0
+29a3b07c-a928-453d-872b-920697cdae31,Pilav Üstü Et Döner Menü,"30,00 TL",Ekonomik Menüler,27.0
+4228344b-f88c-489c-8828-493cfeeac0bd,Pilav Üstü Izgara Köfte Menü,"22,00 TL",Ekonomik Menüler,7.0
+3754eb93-299a-447a-87ed-d918b397a5cc,Pilav Üstü Tavuk Döner Menü,"20,00 TL",Ekonomik Menüler,31.0
+e37eb7b6-4e22-4d2f-ae5a-86eb29d14c06,Tam Ekmek Arası Et Döner Menü 1,"25,00 TL",Ekonomik Menüler,53.0
+fc44cc0a-12f3-4723-8817-241bddc96267,Tam Ekmek Arası Et Döner Menü 2,"22,00 TL",Ekonomik Menüler,30.0
+1a3445f6-1803-4a8c-91ff-e3232eb1d4bd,Tam Ekmek Arası Tavuk Döner Menü,"17,00 TL",Ekonomik Menüler,35.0
+88ba531d-51e7-4e65-98a2-3623962a7909,Tavuk Şiş Menü,"23,00 TL",Ekonomik Menüler,19.0
+71DBF529-D7FD-4194-900F-29AE465A976B,Tavuk Kanat,"22,00 TL",Kebaplar & Izgaralar,17.0
+672D9EEF-C083-471E-97EB-B67C9FA91730,Tavuk Pirzola,"22,00 TL",Kebaplar & Izgaralar,17.0
+B2705596-9AC3-456B-9A25-CBFD3840E2A4,Tavuk Şiş,"17,00 TL",Kebaplar & Izgaralar,17.0
+A0DF9A92-D507-49E7-9BAB-9D1C6D79DF7F,Adana Beyti Kebap,"30,00 TL",Kebaplar & Izgaralar,5.0
+42C96C58-B034-4B03-9D3A-B7FCF963A0A3,Adana Kebap,"25,00 TL",Kebaplar & Izgaralar,5.0
+79C76D13-4435-4AD6-9446-B8182AB6CCB4,Ciğer Şiş,"22,00 TL",Kebaplar & Izgaralar,5.0
+9d3aad16-fc5f-4b22-8e1d-913cf70c34e4,İskender (Et Dönerden) (100 gr.),"25,00 TL",Et Dönerler,3.0
+bb1d047f-2d37-4d7c-87c8-f71dc48abc74,Pilav Üstü Et Döner (100 gr.),"25,00 TL",Et Dönerler,25.0
+4c51b695-b224-4117-a2e4-81cf4f37cf1f,Soslu Et Döner Dürüm (100 gr.),"18,00 TL",Et Dönerler,31.0
+8fbeb69e-6053-4dde-a86a-88d7198f5498,SSK Et Döner Dürüm (100 gr.) (Double),"22,00 TL",Et Dönerler,30.0
+bc5bea5b-c970-4c2c-9d6f-660f0b2b373c,Et Döner Dürüm (100 gr.),"20,00 TL",Et Dönerler,30.0
+54f3f6cd-1089-402a-9c86-5c2f4f8d34aa,Gobit Ekmek Arası Et Döner (80 gr.),"18,00 TL",Et Dönerler,35.0
+1969902c-9d6d-466b-9bb1-c9cb16302c96,Tam Ekmek Arası Et Döner (100 gr.),"20,00 TL",Et Dönerler,30.0
+c0a3193c-641b-4de0-82c5-6a84f72656e1,Tam Ekmek Arası Tavuk Döner (100 gr.),"9,00 TL",Tavuk Dönerler,39.0
+529d7aa4-51fa-42ba-bf5a-1ec625ef1694,Ankara Usulü Tavuk Döner Dürüm,"10,00 TL",Tavuk Dönerler,35.0
+659df751-e8f3-402f-ba9b-8799ae6adfa0,Ekmek Arası Goralı Tavuk Döner,"15,00 TL",Tavuk Dönerler,32.0
+2e4b3dfb-439f-425f-83b6-562a22a183f0,Hatay Usulü Soslu Tavuk Dürüm,"10,00 TL",Tavuk Dönerler,29.0
+2d4d95b3-49cc-41f2-b530-08882218af01,Lezzet 51 Special (100 gr.),"15,00 TL",Tavuk Dönerler,24.0
+e24ae546-7330-4b28-a3fc-bc6864e3db38,Pide Üstü Tavuk Döner (100 gr.),"14,00 TL",Tavuk Dönerler,29.0
+5bc0149f-9e55-4527-b5ce-9be7ed44cffe,İskender (Tavuk Dönerden) (100 gr.),"17,00 TL",Tavuk Dönerler,3.0
+3bf296e7-7aaa-4673-8439-22ea846a15cb,Pilav Üstü Tavuk Döner (100 gr.),"15,00 TL",Tavuk Dönerler,29.0
+130e22c2-86bb-432a-9ca2-c20bc8ad1b53,Tam Ekmek Arası Tavuk Döner (150 gr.),"14,00 TL",Tavuk Dönerler,34.0
+62f10ebe-575f-47f9-97cf-7ab85d5a4c8d,Tavuk Döner Dürüm (150 gr.),"14,00 TL",Tavuk Dönerler,34.0
+99e2ef51-255b-4494-b566-b609f0c52f7b,Hatay Usulü Soslu Çİft Lavaş Tavuk Döner Dürüm (120 gr.),"15,00 TL",Tavuk Dönerler,36.0
+91260709-296d-4987-b493-3fcd9f805240,Ekmek Arası Arnavut Ciğeri,"13,00 TL",Ekmek Arası Ürünler & Sandviçler,6.0
+963e3516-49a8-4388-ae4b-7bc740f9022b,Ekmek Arası Izgara Köfte,"13,00 TL",Ekmek Arası Ürünler & Sandviçler,6.0
+ACA58FB1-86E2-41B3-AA75-65559649EB93,Ekmek Arası Kokoreç,"20,00 TL",Ekmek Arası Ürünler & Sandviçler,6.0
+06D49677-E5A4-4DA4-A060-337293FF6ECE,Adana Dürüm,"16,00 TL",Dürümler,10.0
+4c223bb0-c9d7-4d2e-8dd5-6c8cb3067daf,Izgara Köfte Dürüm,"13,00 TL",Dürümler,10.0
+3dfd8ff2-3514-4cf9-8616-0e9a623b669d,Kaşarlı Köfte Dürüm,"15,00 TL",Dürümler,10.0
+e772d199-4887-4ab9-976d-475dcc31af18,Patates Kızartması,"5,00 TL",Yan Ürünler,6.0
+f329c923-2800-4aac-ab11-5e28a1dc149b,Soğan Halkası (8 Adet),"6,00 TL",Yan Ürünler,5.0
+79ff7ecb-d56c-48f1-adf6-e0bd57f9146d,Ketçap (10 gr.),"0,50 TL",Yan Ürünler,5.0
+99c49bf9-04cb-4927-9ab9-78f1f33a49dc,Profiterol,"7,00 TL",Tatlılar,5.0
+e15c7930-3380-4ded-bcd7-d1f997640fa8,Kazandibi,"7,00 TL",Tatlılar,5.0
+53f99117-42b6-44b0-9e2f-fbfd7e566f07,Sütlaç,"7,00 TL",Tatlılar,5.0
+028f8a66-539e-4c70-94c6-3e5b57655af5,Mag Tatlısı,"15,00 TL",Tatlılar,5.0
+d87045af-d84c-4f5c-a070-617a01d0dc2d,Fıstıklı Muhallebi,"7,00 TL",Tatlılar,5.0
+8756bdaf-9761-42d0-a353-e7e86f79bfce,Supangle,"7,00 TL",Tatlılar,5.0
+e050b1c5-2b06-421e-a6a2-7865efa4a282,İncirli Muhallebi,"7,00 TL",Tatlılar,5.0
+b0f11f56-3eb5-4a05-889d-ced8122ba8ba,Niğde Gazozu (25 cl.),"4,00 TL",İçecekler,5.0
+bae9d1a0-05af-4f5f-8ae6-c102543fd2b1,Su,"1,50 TL",İçecekler,7.0
+1e440f0a-c2d8-4adf-8bf1-0c879f327a39,Poşet,"0,25 TL",Poşet,5.0

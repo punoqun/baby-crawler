@@ -1,0 +1,37 @@
+food_id,food_name,food_price,food_category,food_score
+979f90a2-165f-4e36-94c3-414720e21c24,Menü 1,"110,00 TL",Menüler,14.0
+5985a218-cb2e-42a6-a545-271ee6c0b759,Menü 2,"27,00 TL",Menüler,9.0
+3f4f47d7-6d90-44b8-b2fa-9f68a51c8a1f,Menü 3,"26,00 TL",Menüler,7.0
+2267efcf-3afd-474b-953b-eb03360fedf5,Menü 4,"47,00 TL",Menüler,8.0
+4d87940a-d2ff-4e37-b5bb-2a8eb7b723b8,Menü 5,"53,00 TL",Menüler,14.0
+3b902782-ad0a-44b7-8c83-24f642bfa001,Tekli Tavuk Burger Menü,"19,00 TL",Menüler,5.0
+4cb23579-7b4b-4175-a680-49386dc336ba,2'li Tavuk Burger Menü,"27,00 TL",Menüler,5.0
+a4fc4f61-693b-4adf-a5e3-67a4e61be1ee,4'lü Tavuk Burger Menü,"47,00 TL",Menüler,5.0
+fc93d740-e8aa-40d1-8cd0-ba5ef6d2a8e6,Kumru Menü,"25,00 TL",Menüler,5.0
+3dc6d73b-1e8a-4747-a429-c6350a848741,Ayvalık Tostu Menü,"27,00 TL",Menüler,6.0
+543080f3-b2dd-47a1-953c-d4d3d2212467,Yengen Tost,"9,50 TL",Tostlar,5.0
+71e13e93-c016-4e67-b2e9-510163802695,Sucuklu Tost,"8,50 TL",Tostlar,5.0
+d89ae3e3-aa7d-4fcc-9e89-986037cbe557,Kaşarlı Tost,"7,00 TL",Tostlar,5.0
+f06475be-1b5e-4ece-ab6b-9c8ea95dc228,Ayvalık Tostu,"17,00 TL",Tostlar,6.0
+2e2bc8a9-b555-4bec-b591-957b6544051c,Karışık Tost,"9,50 TL",Tostlar,5.0
+b70d00e6-28ed-4212-9cf0-e45deb4b5bc1,Kaşarlı Patso Sandviç,"9,00 TL",Sandviçler,5.0
+a5e0a0ab-e020-4dc8-bc3d-a48c3af9d310,Sucuklu Patso Sandviç,"9,00 TL",Sandviçler,5.0
+5a662225-2580-4696-b752-ea25110460a0,Sosisli Sandviç,"9,00 TL",Sandviçler,12.0
+027765bd-e013-4a30-ada4-185e8b4ac349,Patso Sandviç,"8,00 TL",Sandviçler,5.0
+d9d7fec7-509c-4641-bd8b-ab167b038367,Yengen Sandviç,"10,00 TL",Sandviçler,5.0
+4c3816b6-ce3f-4537-9944-0a5e7cb23e3e,Rus Salatalı Sosisli Sandviç,"10,00 TL",Sandviçler,8.0
+34e2ec47-a0f0-4a51-9d56-c5be85bc00cb,Kumru Sandviç,"15,00 TL",Sandviçler,5.0
+fff8aae7-4055-4c67-96af-9075a6db7272,Hamburger,"9,00 TL",Burgerler,6.0
+446a7964-030a-4326-b8d6-eb7706d378db,Tavuk Burger,"9,00 TL",Burgerler,5.0
+154094aa-75d8-43ea-8d71-5e74a668f8b3,Cheeseburger,"16,00 TL",Burgerler,5.0
+1d9d2459-e95b-44bf-b555-ae4ffe55dc14,Rus Salatalı Hamburger,"10,00 TL",Burgerler,2.0
+c03618f4-b102-4d5e-90c5-8e818370d285,Patates Kızartması,"6,00 TL",Yan Ürünler,4.0
+42a8a96a-f653-47fc-bec7-a3d8b1debe2c,Soğan Halkası (5 Adet),"6,00 TL",Yan Ürünler,5.0
+82840448-a36a-41b8-baf4-6c09140fce5c,Soğan Halkası (10 Adet),"10,00 TL",Yan Ürünler,5.0
+5F4123C1-B77C-400C-823A-387FBD3860E9,Çikolatalı Sufle,"10,00 TL",Tatlılar,5.0
+76CCD902-7CE4-4E7A-8F31-D553CF8E7719,Marlenka,"18,00 TL",Tatlılar,5.0
+ba26c0de-2ef5-4157-b2cd-c85c89625244,Su,"1,50 TL",İçecekler,7.0
+4291417a-8f56-4d77-a737-3c234591768e,Ev Yapımı Limonata,"6,00 TL",İçecekler,3.0
+6cc745c2-daf3-4099-894d-427ebbed7586,Mayonez (10 gr.),"1,00 TL",Soslar,5.0
+d2f13f42-a56f-4052-871f-54d277ca57c6,Ketçap (10 gr.),"1,00 TL",Soslar,8.0
+85017b7f-89d3-44ed-a30b-09a656ee00af,Poşet,"0,25 TL",Poşet,5.0

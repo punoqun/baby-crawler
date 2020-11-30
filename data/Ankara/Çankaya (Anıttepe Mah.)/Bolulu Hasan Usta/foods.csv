@@ -1,0 +1,16 @@
+food_id,food_name,food_price,food_category,food_score
+39e667ff-7d07-4c6e-8e0c-369f168b22c1,Rulo Börek (Adet),"7,50 TL",Börekler,5.0
+dfd1f17f-94ed-402e-9c54-fe022715e7f1,Hindistan Cevizli Trileçe,"18,00 TL",Tatlılar,6.0
+f1075ac2-a775-4342-be33-7e22115f9abb,Antep Fıstıklı Kazandibi,"20,00 TL",Tatlılar,11.0
+b147ba88-69b0-4780-a9aa-68656f516bb7,Künefe,"24,00 TL",Tatlılar,6.0
+e72c57a4-8356-48e8-b941-8cf6614ef9df,Kaymaklı Künefe,"30,00 TL",Tatlılar,8.0
+a85a8c6c-1202-4e12-ac5b-9b78d9179cc6,Ekmek Kadayıfı (Kaymaksız),"18,00 TL",Tatlılar,6.0
+b15542e6-d539-439e-9cff-dce3967bdf8b,Kaymak (Porsiyon),"6,00 TL",Tatlılar,7.0
+5b40d304-3699-45cd-8e55-313a0a8c3dc6,Dondurma (Az),"15,00 TL",Dondurmalar,15.0
+9ac9c947-fcf7-4420-89bd-56f155a29eb2,Dondurma (Tam),"20,00 TL",Dondurmalar,15.0
+fa985591-81f2-4d6d-81d2-0a7c2ef0a85c,Dondurmalı Kağıt Helva,"21,00 TL",Dondurmalar,5.0
+e2ea4daa-5ee3-4c56-84cb-fef321fae661,Kavunlu Dondurma (Tam),"20,00 TL",Dondurmalar,15.0
+dc2f8cc8-7aed-4839-b25c-e3de3ccb67de,Badem Şekeri (500 gr.),"60,00 TL",Çikolatalar & Şekerler,5.0
+0a15f024-bfa8-4b37-a245-f62eac6631a6,Badem Şekeri (Paket) (75 gr.),"11,50 TL",Çikolatalar & Şekerler,5.0
+61d7cd3d-a4e0-4590-b45e-da5ecf61f550,Badem Şekeri (250 gr.),"30,00 TL",Çikolatalar & Şekerler,5.0
+240de219-9617-4f8b-8618-958006ce1e6b,Su,"3,50 TL",İçecekler,7.0

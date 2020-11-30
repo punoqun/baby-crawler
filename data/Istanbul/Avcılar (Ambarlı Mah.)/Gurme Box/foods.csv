@@ -1,0 +1,64 @@
+food_id,food_name,food_price,food_category,food_score
+5807974d-b035-448c-87be-1ea50548dde7,Aile Boyu Süper Et Tava Menü,"219,90 TL",Menüler,13.0
+ba668555-6c9e-4156-ab9d-9d0dafb6ef99,Aile Boyu Karışık Izgara Menü (2-3 Kişilik),"119,90 TL",Menüler,8.0
+e2f9a680-0b89-4cc1-9795-05b345e3b11e,Fitness Menü,"32,90 TL",Menüler,12.0
+e36f6673-1e35-4af1-b945-be145a7da37f,Izgara Antrikot Fitness Menü,"49,90 TL",Menüler,8.0
+01f3e6e8-f745-4527-ac24-80748576057e,Fitness Kahvaltı Tabağı,"34,90 TL",Kahvaltılıklar,3.0
+59762654-74b1-4582-ab0a-103aea5b98d2,Gurme Kahvaltı Tabağı,"43,90 TL",Kahvaltılıklar,5.0
+987B03C0-4442-4EE5-899C-D22A57EF4B8B,Beyaz Peynirli Omlet Tabağı,"34,90 TL",Kahvaltılıklar,4.0
+ACA3C09C-FBD1-43CD-AA87-54F67AAE79DE,Kaşarlı Omlet Tabağı,"34,90 TL",Kahvaltılıklar,5.0
+3ED0D461-DD93-4B38-87C5-2BD1B591568A,Sade Omlet Tabağı,"34,90 TL",Kahvaltılıklar,6.0
+F3DB89E0-CF59-44B6-81E1-7919E57F66EF,Sebzeli Omlet Tabağı,"34,90 TL",Kahvaltılıklar,5.0
+5B095229-D0F7-459B-9D1B-2881EACD05B3,Sucuklu Omlet Tabağı,"34,90 TL",Kahvaltılıklar,5.0
+9a40e054-c8d3-487b-9c6a-0d53b5c5aff6,Alaturka Dana,"52,90 TL",Kırmızı Etler,5.0
+4dc84b2e-15c7-4297-8dbd-e7ce368e4030,Deli Dana,"52,90 TL",Kırmızı Etler,5.0
+584904ee-3019-4f9f-9699-4f9dbeaf476b,Efsane Soslu Dana,"52,90 TL",Kırmızı Etler,13.0
+7e429af9-4451-48e8-8e67-f16268f250ef,Kajun Soslu Dana,"52,90 TL",Kırmızı Etler,5.0
+c679e523-9a9d-40d1-a29d-117836d69a0e,Meksika Soslu Dana,"52,90 TL",Kırmızı Etler,3.0
+4af0d29f-fdb2-4e47-a237-f8fbee49e6b0,Acıların Tavuğu,"33,90 TL",Beyaz Etler,5.0
+8744858F-2DD9-4851-92DA-F33513840684,Acılı But,"33,90 TL",Beyaz Etler,7.0
+40ADBAE1-ABAD-4235-8FFC-AAC095EEB5C5,4 Peynirli Tavuk,"34,90 TL",Beyaz Etler,8.0
+C5591EFD-B481-4926-BEEE-AFF49829A8AD,But Tava,"33,90 TL",Beyaz Etler,5.0
+fc843e0d-4481-489a-9772-f0eb8825f9b3,Alaturka Tavuk But,"33,90 TL",Beyaz Etler,6.0
+bbfa2a3a-178b-43e5-9115-0fb3b264a9dc,Barbekü Soslu Tavuk,"33,90 TL",Beyaz Etler,5.0
+16a7ac24-0635-4e61-b4bc-655626db5bc4,Café de Paris Soslu Tavuk,"34,90 TL",Beyaz Etler,115.0
+043528c6-de99-4eb3-9d70-58a553c6018f,Cheddar Soslu Tavuk,"34,90 TL",Beyaz Etler,8.0
+c0b15b94-cc07-4511-906e-6f0240725430,Efsane Tavuk,"33,90 TL",Beyaz Etler,14.0
+af5efbbd-ae60-4827-a519-d7672a44f4d2,Kajun Tavuk But,"33,90 TL",Beyaz Etler,6.0
+56f28379-396d-4a1c-ae1a-609faeccc25c,Meksika Soslu Tavuk,"33,90 TL",Beyaz Etler,4.0
+D94FA542-29D9-46D4-89E0-FF8903B3ED06,Cheddar Peynirli Tavuk Bonfile,"36,90 TL",Izgaralar,8.0
+B83752F4-3310-4ACD-B2EB-20151320BCC8,Cheddar Peynirli Tavuk But Lokum,"37,90 TL",Izgaralar,8.0
+ad2e4a74-edc7-4f68-8a5c-3c0d21bf80ef,Zırh Köfte,"39,90 TL",Izgaralar,5.0
+0054ca28-246c-41c0-829d-c50a9809be52,Penne Antrikot,"34,90 TL",Makarnalar,5.0
+7887bb49-fb60-4010-a54c-ec27d80c057d,Cheddar Penne,"29,90 TL",Makarnalar,7.0
+9f28213a-b42a-4200-b46b-d29e786d5490,4 Peynirli Makarna,"27,90 TL",Makarnalar,9.0
+b108c12c-e4d5-4b87-a937-201b155fb915,Sebzeli Penne,"25,90 TL",Makarnalar,5.0
+c23f3fb8-ee72-4465-9d75-cceae2edbdb6,Penne Jambon,"27,90 TL",Makarnalar,5.0
+db491245-bd01-43ef-a66d-d1c1a7e2a440,Körili Kaşarlı Makarna,"26,90 TL",Makarnalar,8.0
+14AA722C-3D51-44B3-98AE-259DD4D789F2,Fettuccine,"22,90 TL",Makarnalar,5.0
+CDA6066B-C5E4-4400-9728-3C1DC8E4FE87,Cheddarlı Patates,"16,90 TL",Yan Ürünler,8.0
+D1A1E3D5-FAD3-4989-9660-A2FEEBC809FB,Mozzarella Stick (6 Adet),"15,90 TL",Yan Ürünler,5.0
+3e0e7817-1b40-4c65-903f-76f49b542976,Kalem Börek (6 Adet),"16,90 TL",Yan Ürünler,5.0
+3762c1c1-55b4-456d-8ad8-864ef85c8d6e,Soğan Salkası (8 Adet),"9,90 TL",Yan Ürünler,8.0
+246479f6-e18f-479e-ba04-a473fde2bd88,Taneli Bardak Turşu,"5,00 TL",Yan Ürünler,5.0
+8285CED5-78BC-4AD0-9996-949EFFBE4F9C,Gurme Salata,"29,90 TL",Salatalar,7.0
+c1ad2616-7166-4b56-95c1-890bec1fdd99,Çıtır Tavuklu Salata,"29,90 TL",Salatalar,5.0
+a8e67373-df00-4d36-998b-54f7c8b26945,Kleopatra Salata,"29,90 TL",Salatalar,5.0
+13fc4d90-3911-4cf4-9d9e-3ee6dfaaf8a4,Ton Balıklı Salata,"30,90 TL",Salatalar,5.0
+2c2da295-bd69-4d13-b6e8-80161e4347ee,Algida Maraş Usulü Cup Dondurma (100 ml.),"7,90 TL",Dondurmalar,5.0
+62dc40b2-a64e-4ef9-bee0-6bb2c630b0e7,Algida Carte d'Or Mini Cup Çilekli Yoğurtlu (110 ml.),"7,90 TL",Dondurmalar,5.0
+9be748ff-7811-4211-991d-8dcd244553af,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"16,90 TL",Dondurmalar,5.0
+dba9ce9e-7355-4918-80bb-4cf28b21894e,Algida Carte d'Or Volcano Cup,"16,90 TL",Dondurmalar,5.0
+f77bdd1c-d012-4798-996f-d2ef93fc1517,Schweppes Mandalina (25 cl.),"6,50 TL",İçecekler,5.0
+cde353df-cce7-4a14-9d80-373d4e30225c,Taze Sıkma Nar Suyu (Bardak),"16,90 TL",Vitamin Bar,5.0
+02250d56-d3cb-499c-96ec-be87483ba7e5,Taze Sıkma Portakal Suyu (Bardak),"13,90 TL",Vitamin Bar,5.0
+d0ecf5f3-79ad-4097-b95a-f6a529de8e23,5'li Colorado Sos,"6,90 TL",Soslar,5.0
+ad17be01-a7c6-4d61-8f4d-6159680a2898,Colorado Acı Sos,"2,00 TL",Soslar,7.0
+0858904e-cde8-43b9-9022-b0e794e0a992,Colorado Ballı Hardal,"2,00 TL",Soslar,5.0
+1b96bd71-32b3-4e1a-9dd7-884180700dbf,Colorado Barbekü Sos,"2,00 TL",Soslar,4.0
+a3089ff6-b177-417d-b254-ba5da02ef341,Colorado Ketcap,"1,00 TL",Soslar,5.0
+10df4272-c01f-4fa6-809a-a0e39e0d8996,Colorado Mayonez,"1,00 TL",Soslar,5.0
+51ecdbfa-86d1-4399-8362-03315f63ec4a,Colorado Ranch Sos,"2,00 TL",Soslar,5.0
+587939d7-67d6-417f-9675-5e6ddd91df65,Colorado Sarımısaklı Mayonez,"2,00 TL",Soslar,5.0
+b55f1912-1dff-482a-a0f6-2e4115277a27,Ezme Gurme Acuka Sos,"5,00 TL",Soslar,7.0
+65196d18-1289-462b-9802-c685ccfc19cd,Poşet,"0,25 TL",Poşet,5.0

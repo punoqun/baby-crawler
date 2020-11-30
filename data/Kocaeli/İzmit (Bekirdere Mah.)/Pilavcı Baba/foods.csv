@@ -1,0 +1,23 @@
+food_id,food_name,food_price,food_category,food_score
+f1ce09ec-0917-46df-aa3e-02e8fe358c24,Doyuran Menü,"12,00 TL",Menüler,5.0
+e54c2dc4-008b-4d8c-aa74-1ebcc4887a43,2'li Tavuklu Pilav Menü,"18,00 TL",Menüler,12.0
+e9cb2884-2936-4a27-ba20-b515dfbb7ded,3'lü Tavuklu Pilav Menü,"27,00 TL",Menüler,7.0
+e28f72db-dda1-4f62-8999-2683034dc7e0,4'lü Tavuklu Pilav Menü,"35,00 TL",Menüler,7.0
+8EB413A2-18DD-47F0-9AE2-FC66811B05E7,Yarım Ekmek Arası Kaşarlı Tost,"8,50 TL",Tostlar,5.0
+C602A2A4-E4FA-4731-8BB3-DFDFAA3678B8,Yarım Ekmek Arası Sucuklu Kaşarlı Tost,"11,50 TL",Tostlar,5.0
+EE7885FE-6CE2-46BC-81E7-11727C02E2CD,Yarım Ekmek Arası Kavurmalı Tost,"16,00 TL",Tostlar,5.0
+6A59D1B8-2801-4706-839C-13AE9688CD40,Yarım Ekmek Arası Atom Tost,"18,50 TL",Tostlar,5.0
+37ff6925-2106-423d-a718-4b8e6877a23c,Nohutlu Pilav,"7,00 TL",Pilavlar,7.0
+f6f5ed54-8b7c-4f1d-9749-03c8f3f12287,Pilav Üstü Tavuk Döner,"10,00 TL",Pilavlar,7.0
+d4ef8906-dcd2-4aa1-9a1a-f03b16563fe2,Tavuklu Pilav,"8,00 TL",Pilavlar,12.0
+9d92f67d-08e7-4735-92f6-c78cefd1e36b,Tavuklu & Nohutlu Pilav,"8,00 TL",Pilavlar,12.0
+48ebe729-de67-4cc2-be8b-5b76f9ada3a9,Kavurmalı Pilav,"14,50 TL",Pilavlar,7.0
+deb9f14a-f23b-4579-84d6-87e9a9080229,Yarım Ekmek Arası Tavuk Döner,"7,00 TL",Tavuk Dönerler,6.0
+c29c2bff-9a4a-4ecc-a840-5a0040abfafb,Tam Ekmek Arası Tavuk Döner,"14,00 TL",Tavuk Dönerler,6.0
+e7d9c64f-7977-411d-8b40-67872ee53548,Sütlü Nuriye,"7,50 TL",Tatlılar,5.0
+B9E12F30-3BF8-4F1C-BC80-F5746BE56D20,Bal Badem Tatlısı,"6,50 TL",Tatlılar,5.0
+590E4179-6A63-4FC6-B16C-CE8382DC4BC2,Bal Badem Tatlısı (500 gr.),"15,00 TL",Tatlılar,5.0
+0e9c6009-f354-439c-9173-858d79416706,Burma Kadayıf,"7,50 TL",Tatlılar,5.0
+d75c6d3c-e746-42a5-b4d3-01b876bcd514,Sütlü Nuriye (500 gr.),"22,50 TL",Tatlılar,5.0
+324dbd18-245f-416d-a101-396672565e1d,Burma Kadayıf (500 gr.),"21,00 TL",Tatlılar,5.0
+70f3825d-360c-4dd7-ba40-9fa20692d375,Poşet,"0,25 TL",Poşet,5.0

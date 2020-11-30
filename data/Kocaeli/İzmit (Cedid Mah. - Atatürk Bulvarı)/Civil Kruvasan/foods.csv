@@ -1,0 +1,27 @@
+food_id,food_name,food_price,food_category,food_score
+175fe5d0-2649-465c-9e31-39d13b4a15f7,Somon Fümeli Kruvasan,"20,50 TL",Tuzlu Kruvasanlar,11.0
+2db232f6-0268-4863-a871-685f727f4ee8,Salamlı Kruvasan,"13,50 TL",Tuzlu Kruvasanlar,11.0
+487286c9-a6e2-4d9d-ab09-441e7cff9b87,Tavuklu Mantarlı Kruvasan,"13,75 TL",Tuzlu Kruvasanlar,11.0
+9b1f8897-1f9c-4330-9543-36acc534fa74,Sebzeli Kruvasan,"10,50 TL",Tuzlu Kruvasanlar,11.0
+aa7fe447-f0cb-48af-bd92-cbeb022a2284,Hindi Fümeli Kruvasan,"12,25 TL",Tuzlu Kruvasanlar,16.0
+b5b18084-6010-4307-ab74-4559c672be6d,Tavuklu Sezar Kruvasan,"13,75 TL",Tuzlu Kruvasanlar,11.0
+e379beac-6b41-4ff5-9312-d354d561ecad,Ton Balıklı Kruvasan,"13,25 TL",Tuzlu Kruvasanlar,11.0
+f2f18af0-bdcc-4851-a2b3-5698ee779132,Mozzarella Peynirli Kruvasan,"12,75 TL",Tuzlu Kruvasanlar,11.0
+ff64bada-5ef9-4494-87e3-94881b1d6731,Tulum Peynirli Kuruvasan,"12,00 TL",Tuzlu Kruvasanlar,5.0
+96C68F83-95A5-4149-A713-D69DB9253F86,Beyaz Peynirli Kruvasan,"12,75 TL",Tuzlu Kruvasanlar,11.0
+698F0871-DA37-4EC2-AE51-2981F3B4056B,Sucuklu & Kaşarlı Kruvasan,"12,50 TL",Tuzlu Kruvasanlar,11.0
+2c0be321-acc2-4afd-9ad6-e8c4eacbc2b0,Krem Şantili Kruvasan,"9,00 TL",Tatlı Kruvasanlar,11.0
+4b2983b1-847a-408e-82e7-7ab7903803d0,Ahududulu Kruvasan,"10,00 TL",Tatlı Kruvasanlar,11.0
+53dfcc58-ec67-4459-9ea1-7d00b7d3d726,Çikolatalı Muzlu Kruvasan,"11,00 TL",Tatlı Kruvasanlar,16.0
+8b5d97dc-91ae-466e-ac8f-07c5ddd0613e,Çilekli Kruvasan,"10,00 TL",Tatlı Kruvasanlar,11.0
+abc90558-8bd9-4422-9e8c-4a85eb1b0472,Portakallı Kruvasan,"10,00 TL",Tatlı Kruvasanlar,11.0
+b88b1546-35da-444c-807a-2fe91eb7ca45,Çilekli Çikolatalı Kruvasan,"11,25 TL",Tatlı Kruvasanlar,11.0
+A50B7D89-CABE-4190-A35C-EAD48380B5AB,Atom Kruvasan,"13,00 TL",Tatlı Kruvasanlar,16.0
+3D673607-4776-457A-9F2E-A77E0B01C7A7,Çikolatalı Kivili Kruvasan,"11,00 TL",Tatlı Kruvasanlar,11.0
+23e2d631-b256-4f38-9491-f8d2cca48ede,Çilekli Çikolatalı Turta,"8,50 TL",Tatlılar,7.0
+65e56086-81d5-4829-a664-d96ce4b6b1f5,Havuçlu Kek,"9,00 TL",Tatlılar,5.0
+a652bbfe-8e9b-44d7-b02e-40473de5b1eb,Elmalı Tarçınlı Kek,"9,00 TL",Tatlılar,5.0
+db477f55-22e5-4e2f-a3a1-7f8dcb6e2a11,Vişneli Turta,"8,50 TL",Tatlılar,7.0
+BE99ED82-1BBB-41FE-9392-D2013066E004,Büyük Kruvasan,"8,00 TL",Tatlılar,11.0
+153EA16C-12AB-4CDB-A310-EAC3FA7B1D92,Orman Meyveli Kruvasan,"13,00 TL",Tatlılar,11.0
+c9f30317-f7c8-4491-8d62-44b83ab0c08b,Poşet,"0,25 TL",Poşet,5.0

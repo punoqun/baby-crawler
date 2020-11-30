@@ -1,0 +1,75 @@
+food_id,food_name,food_price,food_category,food_score
+E247EBD3-6F4A-46DE-9AD4-D6AA21D49B1F,Mood İzmir Dürüm Menü 1,"16,50 TL",Menüler,26.0
+D4AF834E-0C93-438D-856E-EE88A24C2B5E,Mood İzmir Dürüm Menü 2,"19,00 TL",Menüler,11.0
+22434d8a-9ae4-4f42-bd57-f118e4e7d29d,Mood Mançurya Menü 1,"16,50 TL",Menüler,32.0
+395f9ca7-99b3-4797-9ac3-dadabffe1c12,Mood Mançurya Menü 2,"18,50 TL",Menüler,17.0
+765e15a2-8aac-44a6-ba32-9a60fb70f8d4,Mood Takoreç Menü 1,"16,50 TL",Menüler,30.0
+71eb4b9d-0eee-4c6c-98e5-a1c1f82a2086,Mood Takoreç Menü 2,"18,50 TL",Menüler,15.0
+CBED575D-DB0C-4C26-930C-E8E08A382914,Mood Patso Dürüm Menü 1,"13,00 TL",Menüler,28.0
+C29BD9BA-0A9E-413A-B810-BBA4F3564ABC,Mood Patso Dürüm Menü 2,"15,00 TL",Menüler,13.0
+050b5be0-fa26-414d-adbb-23632e48ad38,Anne Tostu,"9,50 TL",Tostlar,5.0
+1c17199e-252d-4a50-9ec1-e6e07c3dabc7,Karışık Tost,"10,00 TL",Tostlar,11.0
+6e992ef4-9aac-498c-8942-83d6ab178960,Kaşarlı Tost,"8,00 TL",Tostlar,8.0
+2a9afc23-c676-40e9-8c67-19ca225c672d,Sucuklu Tost,"9,00 TL",Tostlar,6.0
+77382239-448d-4006-b944-e79901392eff,Tırnak Pide Arası Anne Tostu,"9,50 TL",Tostlar,5.0
+60325262-590D-4027-8AC3-C61ECA7B89F6,Tırnak Pide Arası Karışık Tost,"10,00 TL",Tostlar,6.0
+451F1459-9B3C-4149-841F-FC7C05B3C3BD,Tırnak Pide Arası Kaşarlı Tost,"8,00 TL",Tostlar,8.0
+943E19CD-0CBA-4494-9D7D-F4DF3A4163B0,Tırnak Pide Arası Sucuklu Tost,"9,00 TL",Tostlar,6.0
+4fc5fd70-bb17-4233-97a6-037e176bd870,Tavuk Fajita,"16,00 TL",Ana Yemekler,9.0
+7941f9f4-972a-45eb-ae88-6cf03881e7f2,Kasap Köfte,"23,50 TL",Ana Yemekler,5.0
+7e35252f-c392-45cb-b1b8-bbbe6cf5040f,Ciğer Tava,"23,00 TL",Ana Yemekler,5.0
+a0bbf30f-683c-4130-ab1d-9e2df7571a7c,Kaşarlı Kasap Köfte,"25,00 TL",Ana Yemekler,7.0
+f54a5d6f-4e2b-4cb3-b21b-deb25f45abe7,Mantarlı Tavuk,"14,50 TL",Ana Yemekler,9.0
+70624D90-F60B-43DF-B843-2384986DA052,Köri Soslu Tavuk,"18,00 TL",Ana Yemekler,9.0
+a5e6c02f-6426-4e59-956a-80d670bab252,Barbekü Soslu Tavuk,"18,50 TL",Ana Yemekler,9.0
+ffd90329-d72c-49be-9051-ac3b0740cbf8,Izgara Tavuk,"13,50 TL",Ana Yemekler,9.0
+63E6140C-F90D-4F19-81BF-1570E2657BDC,Et Döner,"22,00 TL",Et Dönerler,8.0
+90BEB8AB-D6EF-4F69-B85B-49005498E1B6,Et Döner Dürüm,"15,00 TL",Et Dönerler,6.0
+856EA1BA-3BCE-4295-83DE-39C170D1DF97,Ekmek Arası Et Döner,"15,00 TL",Et Dönerler,8.0
+FF1EC660-302C-45AE-AAD6-61F070CA0143,Jumbo Et Döner,"17,50 TL",Et Dönerler,8.0
+14098870-b37d-48f3-b68d-f41369607577,Ekmek Arası Takoreç,"12,00 TL",Takoreçler,5.0
+b41e84ca-e5f7-48aa-ae25-b5d1c27cf53d,Takoreç Dürüm,"12,00 TL",Takoreçler,3.0
+b7a65909-0e7d-415a-94ae-253839ce8877,Yoğurtlu Takoreç,"14,50 TL",Takoreçler,5.0
+86a4b82e-3ade-4a57-8985-5591405b1235,Barbekü Soslu Tavuk Dürüm,"13,00 TL",Dürümler,7.0
+50d3176e-9548-4979-bc48-e37fb5470b3e,Ciğer Dürüm,"13,50 TL",Dürümler,3.0
+c6987f11-09fa-4e92-8af2-effd6f6cb395,Ciğerli & Köfteli Dürüm,"14,00 TL",Dürümler,3.0
+008f2bf8-ecd7-49f0-b52f-4cbec1425c40,Kasap Köfte Dürüm,"12,50 TL",Dürümler,3.0
+6c175e54-cfe9-409d-ae2b-9ec7db2cf860,Kaşarlı Kasap Köfte Dürüm,"14,00 TL",Dürümler,5.0
+997CD9CB-EC31-42E8-A915-ADB27179BC0C,Körili Tavuk Dürüm,"12,50 TL",Dürümler,7.0
+c4407be9-855c-4b66-9dff-3908f7d9a817,Mançurya Dürüm,"12,00 TL",Dürümler,10.0
+7ee4526a-c409-456d-ba22-b73286077e5b,Mantarlı Tavuk Dürüm,"11,50 TL",Dürümler,7.0
+09A78DF1-CC29-4D35-A582-34599059FADB,Sebzeli Mançurya Dürüm,"13,50 TL",Dürümler,5.0
+e99c6ca9-9db2-4760-9ba0-b7a4e78bc1d6,Tavuk Dürüm,"10,00 TL",Dürümler,7.0
+10d9c99b-311b-4895-8946-18a6fcb33af4,Tavuk Fajita Dürüm,"12,00 TL",Dürümler,7.0
+83f7847d-0fdb-421e-9ab5-3d2c8714a748,Jumbo Barbekü Soslu Tavuk Dürüm,"15,50 TL",Jumbo Dürümler,7.0
+ddd03957-3abd-4ad5-9069-ca0ba9cc1d5e,Jumbo İzmir Dürüm,"15,00 TL",Jumbo Dürümler,1.0
+27ECAAB5-A167-48BF-81C3-A09F83EF7BB8,Jumbo Körili Tavuk Dürüm,"15,00 TL",Jumbo Dürümler,7.0
+6bcca82f-67f9-40b4-9dbc-1bc76c92618b,Jumbo Mançurya Dürüm,"14,50 TL",Jumbo Dürümler,5.0
+efd6e366-d13f-4129-a80b-146461137689,Jumbo Mantarlı Tavuk Dürüm,"14,00 TL",Jumbo Dürümler,7.0
+e40f3994-94f4-46fb-969a-e05472072458,Jumbo Sebzeli Mançurya Dürüm,"16,00 TL",Jumbo Dürümler,5.0
+bbbe13bc-8dae-40aa-8b4e-9a47f6f8e18f,Jumbo Tavuk Dürüm,"12,50 TL",Jumbo Dürümler,7.0
+a1b7e49b-3975-40c7-9fac-cc64aa8deb10,Jumbo Tavuk Fajita Dürüm,"14,50 TL",Jumbo Dürümler,7.0
+667dd92c-460b-4d4c-96f2-fb113ff591ba,Ekmek Arası Barbekü Soslu Tavuk,"13,00 TL",Ekmek Arası Ürünler,9.0
+b2804e75-cbab-4ed8-b8cd-307410d47a59,Ekmek Arası Ciğer,"13,50 TL",Ekmek Arası Ürünler,5.0
+11e0a8fb-9423-47fe-bda1-4b1026ea27d0,Ekmek Arası Kasap Köfte,"12,50 TL",Ekmek Arası Ürünler,5.0
+f5c399cc-a390-4c45-8049-9a8c737ecb99,Ekmek Arası Kaşarlı Kasap Köfte,"14,00 TL",Ekmek Arası Ürünler,7.0
+EE25712A-AFAD-416B-B405-85EBB6A4774F,Ekmek Arası Körili Tavuk,"12,50 TL",Ekmek Arası Ürünler,9.0
+c9d1df1c-dc7a-4bb5-8945-a22055aeec41,Ekmek Arası Mantarlı Tavuk,"11,50 TL",Ekmek Arası Ürünler,9.0
+8f813bd5-85ab-47c0-a911-cc182ecb8b74,Ekmek Arası Tavuk,"10,00 TL",Ekmek Arası Ürünler,9.0
+6aec11a3-770c-4303-9644-c305fe9e396c,Ekmek Arası Tavuk Fajita,"12,00 TL",Ekmek Arası Ürünler,9.0
+6D6CF731-4822-4414-89D3-76CF0BD45AA0,Patso Dürüm,"9,00 TL",Sandviçler,3.0
+FEFD0693-715A-437F-A0A3-D081998AE262,İzmir Dürüm,"12,50 TL",Sandviçler,6.0
+66B2C64D-8BAF-4C78-A5DF-429580C84DF1,Turşu,"1,50 TL",Yan Ürünler,5.0
+c77e9aa2-e03d-4013-adb8-0c47d1be49e4,Soğan Halkası (9 Adet),"10,00 TL",Yan Ürünler,5.0
+eff89f4f-8cbb-4d06-9ff9-e39821d97526,Tavuk Nugget (9 Adet),"10,00 TL",Yan Ürünler,9.0
+b6e9cfcd-7543-41d7-9c07-362b062cc69b,Patates Kızartması,"6,00 TL",Yan Ürünler,3.0
+22bdcbf5-acaf-4a13-bedc-e05889534e16,Soğan Halkası (6 Adet),"7,50 TL",Yan Ürünler,5.0
+e5010348-62be-4c9d-8359-7d8b5f17eecb,Puf Böreği (5 Adet),"6,00 TL",Yan Ürünler,5.0
+256ee8b5-34d6-4a9a-b49f-584b7fa70efb,Tavuk Nugget (6 Adet),"7,50 TL",Yan Ürünler,9.0
+87d47cbb-926e-4473-8823-3804e9cc4f2f,Atıştırma Tabağı,"12,50 TL",Yan Ürünler,4.0
+62cd5572-1aea-4f90-aaf8-6d3a94629fb9,Eker Çikolatalı Puding,"2,50 TL",Tatlılar,5.0
+ae04102d-51f0-49d7-a2c9-79a99dc3899d,Eker Sütlaç,"2,50 TL",Tatlılar,5.0
+f6142ff2-a7fc-4b42-abab-5044fc83f55b,Eker Sakızlı Muhallebi,"2,50 TL",Tatlılar,5.0
+F21270DC-9EB6-4D9C-B760-2960B887586A,Doğuş Ice Tea Şeftali (25 cl.),"3,00 TL",İçecekler,5.0
+40EE4E22-D7AE-419C-83D4-7125CFACB363,Turşu Suyu (30 cl.),"3,50 TL",İçecekler,5.0
+fb80d4be-3c89-4e05-bebe-80d579ef93f1,Poşet,"0,25 TL",Poşet,5.0

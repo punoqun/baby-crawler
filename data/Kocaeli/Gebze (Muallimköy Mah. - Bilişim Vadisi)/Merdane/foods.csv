@@ -1,0 +1,58 @@
+food_id,food_name,food_price,food_category,food_score
+c97d5087-4d18-40c6-aae3-eca23f6a12a2,Kavurmalı Kaşarlı Tost,"18,00 TL",Tostlar,5.0
+2cd8fa0c-73b7-4165-9087-b0bd20b892cb,Karışık Tost,"16,00 TL",Tostlar,5.0
+23ee753e-0b90-45d1-a6cd-b230914b6b9a,Kaşarlı Tost,"13,00 TL",Tostlar,5.0
+bc9a930e-9d96-4b22-80fa-dee2fcdbb4e0,Beyaz Peynirli Tost,"12,00 TL",Tostlar,5.0
+a08b26e4-7986-4a54-81be-81358c389708,Karışık Ayvalık Tostu,"20,00 TL",Tostlar,5.0
+d4af01aa-dec9-4fca-a0b6-8222e95eca0e,Duble Sandviç Tost,"20,00 TL",Tostlar,5.0
+461195e6-38d7-4d73-886c-bcc6fac4ac0b,Hamburger,"25,00 TL",Burgerler,5.0
+548411b7-9ad1-4006-8034-9cb7cd9b895c,Cheeseburger,"25,00 TL",Burgerler,5.0
+4782e30a-a208-4e09-ad56-2fbef9a6bb2a,Hellim Burger,"25,00 TL",Burgerler,5.0
+f6f70e3f-bca4-4366-8588-73b2985efc23,Chicken Burger,"20,00 TL",Burgerler,5.0
+798A7507-71B7-4B52-B8A4-019C0164126C,Tatlı Karışık Kurabiye (500 gr.),"25,00 TL",Fırın Ürünleri,5.0
+a555ce59-e6c9-4f8b-9b8e-2c31696a39dd,Lahmacun,"6,00 TL",Fırın Ürünleri,11.0
+d14091e4-5c71-4232-a08e-7a0e50418c80,Kaşarlı Pide,"20,00 TL",Fırın Ürünleri,5.0
+8bbe18f3-ff8d-46e9-86e9-9c6d8eb4edf3,Trabzon Yağlısı,"22,00 TL",Fırın Ürünleri,6.0
+843eab92-d266-40a5-a6b9-9a39926c202c,Kuşbaşılı Kaşarlı Pide,"24,00 TL",Fırın Ürünleri,10.0
+6f5096bd-977a-4cef-8527-dee40caee1d2,Karadeniz Kavurma,"28,00 TL",Fırın Ürünleri,6.0
+0d6ecdc8-651b-4328-b615-57f0635675ed,Kuşbaşılı Pide,"24,00 TL",Fırın Ürünleri,5.0
+83a8431a-9eff-4437-9a30-644b0526a196,Konya Etli Ekmek,"22,00 TL",Fırın Ürünleri,4.0
+aa0a7654-d998-4f5f-9a6b-f1705d7a46fa,Kıymalı Pide,"20,00 TL",Fırın Ürünleri,5.0
+c20b696b-1994-4984-b837-370b183b93eb,Pastırmalı Pide,"30,00 TL",Fırın Ürünleri,5.0
+0c8a00ab-783f-4ec1-aba4-d2735d820893,Karışık Pide,"24,00 TL",Fırın Ürünleri,5.0
+e43fa8bd-f7fe-4ff9-9953-609b39418b46,Sucuklu Yumurtalı Pide,"22,00 TL",Fırın Ürünleri,5.0
+7771b8c5-35ac-4210-ae53-910091699551,Kapalı Kavurmalı Pide,"30,00 TL",Fırın Ürünleri,5.0
+e27dd02c-2967-4003-b584-91b22503b37d,Kaşarlı Mantarlı Pide,"22,00 TL",Fırın Ürünleri,5.0
+4de90e24-dd46-4c60-a604-e3c5a1ef10cb,Adana Kebap,"27,00 TL",Kebaplar & Izgaralar,5.0
+17c2356e-3644-418a-9f81-e220b3501d86,Urfa Kebap,"27,00 TL",Kebaplar & Izgaralar,5.0
+b3855a9e-7f7f-4f01-aa77-5bee9a1cfe75,Tavuk Şiş,"25,00 TL",Kebaplar & Izgaralar,5.0
+8c9cfdb8-8e90-4854-b3ac-8d919e820f47,Tavuk Kanat,"25,00 TL",Kebaplar & Izgaralar,6.0
+c096af27-b027-46bd-bd60-907fd6ec164a,Izgara Köfte,"27,00 TL",Kebaplar & Izgaralar,5.0
+62fe3766-357a-4aea-b0ea-b4548424ee09,Tavuk Pirzola,"25,00 TL",Kebaplar & Izgaralar,5.0
+fe635553-214b-4b94-8996-d5f632b0f978,Et Şiş,"40,00 TL",Kebaplar & Izgaralar,4.0
+68ffca70-3434-4cb6-86b0-463bbcfd62c2,Karışık Izgara,"60,00 TL",Kebaplar & Izgaralar,5.0
+8f33dc19-d8dd-4b9f-8ba4-9b91f32ec3f8,Dana Biftek,"40,00 TL",Kebaplar & Izgaralar,5.0
+be3249cd-9d25-4d0d-9712-e0da4de7286e,Kaşarlı Izgara Köfte,"26,00 TL",Kebaplar & Izgaralar,5.0
+ac8016b1-c04d-43d4-8808-9c52a56542ff,Fettuccine Alfredo,"25,00 TL",Makarnalar,5.0
+fc0543b8-7989-4f80-94e4-79530f5d0241,Etli Fettuccine,"30,00 TL",Makarnalar,4.0
+208f1e79-c4dc-492e-b764-572705f8d9ed,Penne Arrabbiata,"20,00 TL",Makarnalar,5.0
+43c663dc-9637-408f-ac42-34110ec72bc0,Spagetti Pomodore Napolitan,"20,00 TL",Makarnalar,5.0
+77a87b3a-fe68-412d-b0a5-cc71911b3687,Spagetti Bolonez,"25,00 TL",Makarnalar,5.0
+91c8ae76-a6c6-40e0-a661-0bc3e8778019,Etli Penne Pesto,"30,00 TL",Makarnalar,4.0
+d9629b65-ddb1-4a6d-999b-2a7a3c916d0e,Mantı,"22,00 TL",Makarnalar,11.0
+365D143B-C9DC-4CC6-8516-86FFC72ADD31,Cevizli Baklava (1 Kg.),"70,00 TL",Diğer Lezzetler,5.0
+c7ad8bae-b628-48f1-ab47-3bd9a6dfbca5,Sac Kavurma,"40,00 TL",Diğer Lezzetler,5.0
+48d5442b-00b6-4902-8675-f1ea50a81703,Çoban Kavurma,"40,00 TL",Diğer Lezzetler,5.0
+038e9a4d-6c2e-4e1a-845c-66ea8f4eb36a,Patates Kızartması,"12,50 TL",Yan Ürünler,5.0
+861276a5-58cd-4956-80ad-57332eeaee6d,"Fanta (2,5 L.)","10,00 TL",İçecekler,5.0
+8DE6B865-6FA6-4D5F-A416-43A3CC1723D2,Cevizli Baklava (500 gr.),"35,00 TL",Kiloluk Ürünler,5.0
+0A76E242-423D-40AA-A830-DFBBD0506D7E,Antep Fıstıklı Baklava (1 kg.),"85,00 TL",Kiloluk Ürünler,7.0
+3BB862D5-3C8C-4C73-9343-8979AC180EC1,Antep Fıstıklı Baklava (500 gr.),"45,00 TL",Kiloluk Ürünler,7.0
+F0F8F68F-5232-413E-955D-BEE5BF80B2A6,Antep Fıstıklı Midye Baklava (1 kg.),"100,00 TL",Kiloluk Ürünler,7.0
+27166357-97F8-41BA-8A3F-956054AEAD5E,Antep Fıstıklı Midye Baklava (500 gr.),"50,00 TL",Kiloluk Ürünler,7.0
+D9B7C7AD-FFB0-4227-A3DD-B8F6F0D02746,Antep Fıstıklı Şöbiyet (1 kg.),"90,00 TL",Kiloluk Ürünler,7.0
+5C6561D8-68DE-43E7-B68A-2AAEB0199EE9,Antep Fıstıklı Şöbiyet (500 gr.),"45,00 TL",Kiloluk Ürünler,7.0
+AF6959B2-DDA7-4563-A1FF-EBF5E9C09E9C,Cevizli Ev Baklavası (1 kg.),"70,00 TL",Kiloluk Ürünler,5.0
+A30C4A6C-9230-445A-A9DB-413001C01194,Cevizli Ev Baklavası (500 gr.),"35,00 TL",Kiloluk Ürünler,5.0
+6C9B94ED-471F-42B2-9D5B-28FB66C9471C,Tatlı Karışık Kurabiye (1 kg.),"50,00 TL",Kiloluk Ürünler,5.0
+270e9fbf-9d29-4c59-912a-7687b6dcc771,Poşet,"0,25 TL",Poşet,5.0

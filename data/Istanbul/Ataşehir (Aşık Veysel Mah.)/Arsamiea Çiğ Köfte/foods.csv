@@ -1,0 +1,54 @@
+food_id,food_name,food_price,food_category,food_score
+FE065238-A4AA-407A-83A9-52E68E33AE28,Çiğ Köfte Dürüm Menü,"11,90 TL",Menüler,3.0
+7D4BB14E-58A6-40D5-AD46-D512B1617DC0,Mega Çiğ Köfte Dürüm Menü,"14,90 TL",Menüler,2.0
+7F835C88-C394-4DEA-BA67-1C808E78EC6D,Double Çiğ Köfte Dürüm Menü,"17,90 TL",Menüler,1.0
+E95639F5-4DC7-44D1-BEAB-EAE4EFCDF000,Çiğ Köfte (500 gr.) (Garnitürsüz),"24,90 TL",Çiğ Köfteler,9.0
+2876D059-5509-450C-9708-5309719B7C91,Çiğ Köfte (1 kg.) (Garnitürsüz),"44,90 TL",Çiğ Köfteler,9.0
+dd99b2c5-e153-405e-98b7-c6a72fbb2b2f,Çiğ Köfte Dürüm,"7,49 TL",Çiğ Köfteler,8.0
+1BF9FC52-5222-49A6-AED3-00CB2E19CBE7,Mega Çiğ Köfte Dürüm (120 gr.),"11,90 TL",Çiğ Köfteler,2.0
+DC4E4093-8070-4E4E-99FA-E6E88000D091,Double Çiğ Köfte Dürüm (175 gr.),"14,90 TL",Çiğ Köfteler,1.0
+44c8b5f8-c3ec-459d-942a-b33a5ff78f62,Çiğ Köfte (250 gr.),"19,90 TL",Çiğ Köfteler,9.0
+23295bc8-154c-41ee-ba56-206734d7cb48,Çiğ Köfte (500 gr.),"29,90 TL",Çiğ Köfteler,14.0
+35445AA5-4666-4CA6-B824-E491A35C22D6,Çiğ Köfte (600 gr.),"34,90 TL",Çiğ Köfteler,9.0
+c64d7579-99bb-4544-852a-4b30b0bb177f,Çiğ Köfte (750 gr.),"39,90 TL",Çiğ Köfteler,9.0
+26deb0f5-4df8-414d-8fc6-32496fb8deaf,Çiğ Köfte (1 kg.),"54,90 TL",Çiğ Köfteler,9.0
+3429B7F4-BC30-4DF3-9E96-2CEAF7ED879A,Pirinç Pilavı,"14,90 TL",Pilavlar,5.0
+85A56843-E153-4ADD-91CA-811770A58476,Tavuklu Pilav,"19,90 TL",Pilavlar,5.0
+344A3CF2-D9F5-41CF-AB18-C668C6E19E94,Tavuklu Nohutlu Pilav,"19,90 TL",Pilavlar,5.0
+DEC1E1C3-EE11-4EE7-AF60-CFDF43A8A474,Ton Balıklı Pilav,"24,90 TL",Pilavlar,5.0
+21428846-0682-4089-B45E-BB5006ACA90C,Mısırlı Pirinç Pilavı,"22,90 TL",Pilavlar,5.0
+9818FE0D-6F3A-4755-9BB1-4E94C7A58836,Ciğerli Pirinç Pilavı,"29,90 TL",Pilavlar,5.0
+F8B88964-4BFD-4031-9985-20A7EE8D6D92,Kavurmalı Pilav,"29,90 TL",Pilavlar,5.0
+79D14AE5-B1B4-458E-8A5C-1EB404937EA3,Pilav Üstü Et Döner,"24,90 TL",Pilavlar,4.0
+93D28FAE-56FA-47C7-ADB6-C994E0514DD2,Pilav Üstü Tavuk Döner,"20,90 TL",Pilavlar,4.0
+61E599C3-1B24-4349-A0D1-DBE9AF3B784B,Nohutlu Pilav,"16,90 TL",Pilavlar,5.0
+638C912E-8F35-4F0F-8F44-FDEAA3C15A73,Pilav Üstü Kuru Fasulye,"19,90 TL",Pilavlar,5.0
+C7116D0D-3E05-4988-B12B-216B180F5C9A,Et Döner,"24,90 TL",Et Dönerler,4.0
+346B7CD6-D81F-4F54-AAB5-6DABBCB87410,Et Döner Dürüm,"20,90 TL",Et Dönerler,-3.0
+95946B57-1C8B-471D-BBEE-54355FAB5953,Tam Ekmek Arası Et Döner,"34,90 TL",Et Dönerler,4.0
+B08C10A9-B2FF-46C8-BEBC-4C176E251BD5,Tavuk Döner,"20,90 TL",Tavuk Dönerler,4.0
+3CFAFA7B-3076-4464-8025-20087AA3C825,Tavuk Döner Dürüm,"14,90 TL",Tavuk Dönerler,-3.0
+7E4903B6-244D-493F-9114-A1CD2B2D3401,Tam Ekmek Arası Tavuk Döner,"24,90 TL",Tavuk Dönerler,4.0
+54184B4F-D7B1-4DA1-8CFF-550658485B2F,Bardakta Karışık Turşu,"6,90 TL",Yan Ürünler,3.0
+821F1AB2-3372-46EF-A0B7-8A0E1145BC31,Yaprak Sarma (300 gr.),"19,90 TL",Yan Ürünler,5.0
+0C401785-1AA8-4662-AAFA-CA7C4DBA82BB,Kuru Fasulye,"21,90 TL",Yan Ürünler,5.0
+baf633ca-0cae-4975-bdab-cdc910b06d8e,İçli Köfte (Kızartma),"11,90 TL",Yan Ürünler,5.0
+5a129d2e-80d6-493d-a7d1-6c0735c4b08a,Midye Dolma (Adet),"1,79 TL",Yan Ürünler,10.0
+2517E708-3DC2-4804-A343-9CE2BD22747F,Midye Dolma (10 Adet),"16,90 TL",Yan Ürünler,5.0
+685C8348-B3F8-4C44-B764-4803A70FD5B9,Midye Dolma (20 Adet),"32,90 TL",Yan Ürünler,5.0
+9CC3624C-80EC-4B87-9CA6-AC91F31A14C7,Midye Dolma (30 Adet),"49,90 TL",Yan Ürünler,5.0
+FFACB5E9-29AD-4A1B-8015-8D532B78313E,Midye Dolma (50 Adet),"79,90 TL",Yan Ürünler,5.0
+264134C4-2B1F-477D-BC7F-5F563EEE6E79,Midye Dolma (100 Adet),"149,90 TL",Yan Ürünler,5.0
+04147428-7EC8-4FEB-A4B1-00F92F33BDEE,Eker Kazandibi,"12,90 TL",Tatlılar,5.0
+1BEC2AA7-0AE4-4BAB-96BD-ACC3ABE9F890,Eker Supangle,"12,90 TL",Tatlılar,5.0
+35B41CAF-C2E4-4EA0-B0CD-110242068E3D,Eker Profiterol,"12,90 TL",Tatlılar,5.0
+15F4BEAB-741E-4174-8C65-45733B3046F2,Eker Tavukgöğsü,"12,90 TL",Tatlılar,5.0
+74085B7F-A425-4B3E-A891-00A15D08FD39,Eker Sütlaç,"12,90 TL",Tatlılar,5.0
+80064F26-D135-4A7D-BEC9-6CBA51AAE2D6,Cevizli Burma Kadayıf,"12,90 TL",Tatlılar,5.0
+7959eb24-632c-4fe5-a766-424c8205c7f0,Coca-Cola Light (25 cl.),"5,90 TL",İçecekler,5.0
+1e09cf11-c683-4043-ba0d-e24af11151b5,Coca-Cola Şekersiz (25 cl.),"5,90 TL",İçecekler,5.0
+E61BD8CF-13B5-498A-B80A-98FC39D0CDDE,Fanta (25 cl.),"5,90 TL",İçecekler,5.0
+A9A9092C-0E5D-46C8-98A1-B5B954C05EB8,Sprite (25 cl.),"5,90 TL",İçecekler,5.0
+67BEA03A-B91E-4C64-8A31-C644531BF8BB,Eker Ayan (30 cl.),"4,90 TL",İçecekler,5.0
+568FC495-6304-46BC-8202-021A5885462D,Eker Yayık Ayran (1 L.),"13,90 TL",İçecekler,5.0
+97eadaeb-cc59-49e7-b76b-279704ad0b75,Poşet,"0,25 TL",Poşet,5.0

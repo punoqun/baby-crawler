@@ -1,0 +1,41 @@
+food_id,food_name,food_price,food_category,food_score
+f18ba255-8c2e-49f8-8c1b-a6b64eefc611,Çorbalı Ciğerli Pilav Menü,"37,00 TL",Menüler,0.0
+0575b16b-ad2b-4edc-84bb-14a19185146f,Çorbalı Köfteli Pilav Menü,"37,00 TL",Menüler,0.0
+3594164a-a4c6-4c88-8e25-76a611e3ce78,Çorbalı Kuru Fasulyeli Pilav Menü,"36,50 TL",Menüler,-1.0
+14841a73-aa9a-4ce9-80d5-ac2ff9e8e6e9,Çorbalı Tavuklu Pilav Menü,"37,00 TL",Menüler,1.0
+5776857b-896b-4aae-bad4-9ab43b6f3e04,Dana Ciğerli Pilav Menü,"31,50 TL",Menüler,0.0
+55102e2b-cc31-4dce-93ea-75027d66e7ef,Günün Menüsü,"37,50 TL",Menüler,10.0
+030abb3d-ea22-49c0-a312-a633170f75ea,Köfteli Pilav Menü,"31,50 TL",Menüler,0.0
+12e05f84-df9a-4bd8-91b9-e9475ca04258,Kuru Fasulyeli Pilav Menü,"25,50 TL",Menüler,4.0
+8da85ef5-19fb-4052-83f4-fd0a52077ee0,Nohutlu Pilav Menü,"24,50 TL",Menüler,-2.0
+dbe3b873-1563-474e-885b-6e493d9b6bc2,Pilav Üzeri Köri Soslu Tavuk Menü,"30,00 TL",Menüler,-2.0
+e21162b2-35dd-4722-b103-ac81599d1db7,Sade Pilav Menü,"24,00 TL",Menüler,0.0
+711c00af-fca6-48c1-9504-f8d0f0cae348,Sporcu Menü,"36,50 TL",Menüler,8.0
+e651f6f8-f44f-484c-9e02-652309d3670a,Tavuklu & Kuru Fasulyeli Pilav Menü,"29,00 TL",Menüler,0.0
+dc69e077-368e-4cff-992e-4e47f434c740,Tavuklu Pilav (50 Kişilik) Menü,"675,00 TL",Menüler,1.0
+b8801423-81dc-4ef0-8749-35dd246f5c30,Tavuklu Pilav Menü,"26,50 TL",Menüler,6.0
+f408333d-b686-4430-b74f-9fd4a07834e7,Ton Balıklı Pilav Menü,"30,00 TL",Menüler,0.0
+1a088e52-831d-40c0-b026-05fb41ebb7f1,Bulgur Pilavı,"21,00 TL",Pilavlar,7.0
+c616439c-ba08-4790-b01c-664b43224d5f,Bulgur Pilavı Üzeri Ciğer,"27,50 TL",Pilavlar,5.0
+cdfc28ae-2da9-4eb2-81c0-c833681252cb,Bulgur Pilavı Üzeri Kuru Fasulye,"23,00 TL",Pilavlar,3.0
+15222f17-e9ff-4149-a3c9-a62aee833916,Bulgur Pilavı Üzeri Tavuk,"23,00 TL",Pilavlar,6.0
+70ffe782-082c-4f70-8c2e-26be9d812eb3,Nohutlu Pirinç Pilavı (350 gr.),"20,00 TL",Pilavlar,3.0
+df9e5785-d035-46df-89e5-f5e6c42116c6,Pilav Üzeri Köri Soslu Tavuk (350 gr.),"27,00 TL",Pilavlar,-5.0
+1e0d4f71-e4b8-427d-a3fb-b9a98980d931,Tavuklu & Kuru Fasulyeli Pilav,"26,00 TL",Pilavlar,-3.0
+de172afa-3b74-41ac-a638-d16d9c55cd0c,Mevsim Salata,"12,50 TL",Salatalar,5.0
+a0a75939-4b54-44cf-b6eb-f2cadf4a460b,Tavuklu Mevsim Salata,"24,00 TL",Salatalar,6.0
+2708af18-7b9b-4ac1-a4f1-fb5181cfcf8c,Ton Balıklı Mevsim Salata,"27,00 TL",Salatalar,5.0
+d649185d-09dc-4726-8bf8-8386128ffdb5,Sütaş Yoğurt (150 ml.),"7,00 TL",Yan Ürünler,5.0
+bcd4fb35-8c01-476f-a450-75f332aa85d7,Biber Turşusu,"3,00 TL",Yan Ürünler,5.0
+35eedb33-07b0-4b51-884e-1616973938c5,Salatalık Turşusu,"3,00 TL",Yan Ürünler,5.0
+1912B233-DAFD-4740-B79D-5D2BCD5287D9,Beyaz Ekmek,"1,50 TL",Yan Ürünler,7.0
+235997a2-5778-4647-ac59-2ddfacfdebe2,Kepekli Ekmek,"1,50 TL",Yan Ürünler,7.0
+280D1429-AC6A-46CD-9256-10EDC8A4D8D4,Mısır,"2,50 TL",Yan Ürünler,5.0
+9C70EE15-5CA5-431E-98C4-7C691DB16527,Güveçte Fırın Sütlaç,"17,00 TL",Tatlılar,5.0
+334EA8F9-787A-4DC9-B018-19409BADBC66,Profiterol,"17,00 TL",Tatlılar,5.0
+118DF2D0-40A0-43A8-95D5-52E31E22FC16,Kazandibi,"17,00 TL",Tatlılar,5.0
+79d7a62e-c4d3-4216-95c3-85485f3ddba4,Cappy Karışık (33 cl.),"6,00 TL",İçecekler,5.0
+fb9e943c-cc59-4020-a3c4-bce0fdf1511c,Nohutlu Pilav (1 kg.),"39,00 TL",Kiloluk Ürünler,-5.0
+e649acdc-ec3a-4398-a171-1e7ed69f651d,Bulgur Pilavı (1 kg.),"39,00 TL",Kiloluk Ürünler,7.0
+5fec9c58-e223-480a-a209-014fdbff9605,Pilav (1 kg.),"39,00 TL",Kiloluk Ürünler,-3.0
+d922208e-ac1b-402c-a0ab-8fe546bd33fe,Poşet,"0,25 TL",Poşet,5.0

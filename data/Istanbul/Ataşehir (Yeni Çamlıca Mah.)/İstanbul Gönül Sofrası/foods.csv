@@ -1,0 +1,77 @@
+food_id,food_name,food_price,food_category,food_score
+e7f167eb-7e87-4801-8228-2e945774b8f9,10'lu Lahmacun Menü,"67,50 TL",Menüler,32.0
+b2e7d749-c930-4c1a-9b91-9f1fdd07d391,Izgara Köfte Sandviç,"18,00 TL",Sandviçler,3.0
+eaf54006-ddd6-4c74-ad9e-507cd6ca50fd,Soğuk Sandviç,"15,00 TL",Sandviçler,5.0
+648c509c-6d89-445f-a82c-0533b3c0d416,Tavuklu Sandviç,"15,00 TL",Sandviçler,7.0
+ef6dbe89-82e6-45f9-8337-af0583c7bc98,Ton Balıklı Sandviç,"16,88 TL",Sandviçler,5.0
+10d3fef5-6370-45a3-86bc-c96dbd045195,Beyaz Peynirli Gözleme,"15,00 TL",Gözlemeler,5.0
+3f24f4eb-71ba-4797-9224-92584c23f2e4,Kaşarlı Gözleme,"16,50 TL",Gözlemeler,3.0
+b2759400-d924-466f-900b-ec9b76397120,Patatesli Kaşarlı Gözleme,"18,00 TL",Gözlemeler,3.0
+c36e08e8-aa4a-4a31-a04d-1f30e5ab69c7,Sucuklu Gözleme,"19,50 TL",Gözlemeler,5.0
+32975146-1e04-4e02-9dd6-dc4ddf4773e8,Acılı Meksika Chicken,"24,00 TL",Beyaz Etler,6.0
+4df3ed1a-dff6-4e95-8e14-36443089d5d5,Izgara Tavuk Göğüs,"24,00 TL",Beyaz Etler,4.0
+67b15737-13e3-4897-923a-1a8c0117830c,Tavuk Şnitzel,"25,50 TL",Beyaz Etler,6.0
+a581163d-0f93-4a39-9bb1-55cf06eef877,Köri Soslu Tavuk,"27,00 TL",Beyaz Etler,8.0
+d6ec46b9-9314-43fb-8afb-0a89d2d79101,Barbekü Soslu Tavuk,"25,50 TL",Beyaz Etler,9.0
+da5361e6-83db-43a1-80a4-d7d95c78a59b,Hollanda Soslu Tavuk,"27,00 TL",Beyaz Etler,8.0
+235eaf56-9e56-4774-a15e-5be9b521e008,Dana Antrikot,"48,75 TL",Kırmızı Etler,5.0
+2bfec889-2d5d-4b5b-a745-47792f4bc49f,Kaşarlı Köfte,"27,75 TL",Kırmızı Etler,3.0
+5c4ec12c-b9a7-4a1f-abc1-875fa08946cc,Izgara Köfte,"26,25 TL",Kırmızı Etler,3.0
+bb657e1c-f0b3-48f4-a2e1-b3a2c4f20cbe,Mantarlı Bonfile,"51,00 TL",Kırmızı Etler,7.0
+c3084a64-7a2a-4eaa-a88c-495eccfcc85c,Izgara Bonfile,"48,75 TL",Kırmızı Etler,5.0
+181f2a05-15e5-44bd-81df-f88db382eac9,Veggie Lahmacun,"6,38 TL",Lahmacunlar,32.0
+1bfe1f0e-dd9c-4d73-9ccb-103046069d18,Lahmacun,"6,75 TL",Lahmacunlar,37.0
+63ae47f8-7676-425f-b1de-c079303661e5,Kaşarlı Lahmacun,"7,13 TL",Lahmacunlar,30.0
+87b43c0f-54a8-474c-87ae-b3dd26509ba4,Cevizli Lahmacun,"8,25 TL",Lahmacunlar,34.0
+8b97fab9-6cde-409b-9f33-a78093c3cd47,Antep Lahmacun,"7,13 TL",Lahmacunlar,43.0
+db2eb954-c19b-4e0b-9a1a-2fb463e2cc96,Urfa Lahmacun,"7,13 TL",Lahmacunlar,41.0
+e49bc164-8fb1-4fac-ad14-427e6d49fd1b,Harman Lahmacun,"6,75 TL",Lahmacunlar,32.0
+ebbf088c-dd27-4b0b-a4dc-c1d5d8a7d412,Fındık Lahmacun,"3,75 TL",Lahmacunlar,32.0
+063f3d5f-01d1-4bc9-85a0-2f66d7634fbc,Kaşarlı Pide,"20,25 TL",Pideler,3.0
+15dbdc26-6d3b-4b40-ac7c-82627d6f51e7,Sucuklu Pide,"21,00 TL",Pideler,4.0
+3d4e4035-4d98-42b6-b6e3-641184f270fb,Karışık Pide,"24,00 TL",Pideler,5.0
+8994185b-fc7e-42e4-ad53-ce9f41a92c13,Kavurmalı Pide,"27,00 TL",Pideler,4.0
+9ba2f081-92ce-4338-ac6b-aadb995f435f,Kıymalı Pide,"22,50 TL",Pideler,3.0
+a4f60b0e-de87-4d47-90c0-428bb1a6d3d1,Sucuklu Kaşarlı Pide,"22,50 TL",Pideler,3.0
+ff7542f3-68e5-4a44-b3e9-dc28454cad7b,Kuşbaşılı Pide,"25,50 TL",Pideler,4.0
+11de5b31-51f5-47f1-8938-7372a770062d,Gurme Burger,"27,75 TL",Burgerler,5.0
+874ec438-72b0-4cb9-af60-0135d3099a2a,Cheeseburger,"26,25 TL",Burgerler,5.0
+a2528dd4-a580-410f-9acb-a6036f849bc3,Hamburger,"24,00 TL",Burgerler,5.0
+d8484747-4ad8-402b-9a82-d8b0e57e249e,Dev Burger,"31,50 TL",Burgerler,5.0
+06e759ec-f331-41d5-b0be-51199c89df47,Margherita Pizza,"22,50 TL",Pizzalar,7.0
+22ddc4ef-e43b-4685-b33f-6316501f0de4,Mantarlı Pizza,"22,50 TL",Pizzalar,7.0
+a585fb1a-48a2-4b2b-9ff9-17d4ea7d784e,Gurme Pizza,"29,25 TL",Pizzalar,7.0
+a741bfec-409d-4642-ab95-4f0f9eaba071,Karışık Pizza,"27,75 TL",Pizzalar,8.0
+ade1c5cb-9344-4b2a-a282-3eb6b681e9a7,Dört Peynirli Pizza,"24,00 TL",Pizzalar,7.0
+c9244ab8-7c0e-4a03-82eb-41eea85d5ea6,Veggie Pizza,"22,50 TL",Pizzalar,7.0
+68adba26-452f-4d52-9304-5f6e26e0380a,Etli Wrap,"28,50 TL",Wraps,8.0
+7b940d46-f5e9-4ab2-855d-d36abf28af6a,Tavuklu Wrap,"27,00 TL",Wraps,7.0
+8aab4b24-fb3a-4a3d-a075-7caa83055a2c,Ispanaklı Krep,"22,50 TL",Krepler,5.0
+b15d9afd-0158-4d87-9352-c9a3aa90d29f,Etli Krep,"28,50 TL",Krepler,8.0
+cfb1d008-d4b8-4f25-9152-6ba76a3155ab,Tavuklu Krep,"27,00 TL",Krepler,7.0
+4cbe9bc0-d101-426a-bb97-7b41f1f4e12e,Penne Arrabbiata,"22,50 TL",Makarnalar,5.0
+4e0166eb-350c-408b-b0a3-5c8205cf0dfd,Spaghetti Bolognese,"24,00 TL",Makarnalar,5.0
+a5f1155a-fb6e-44be-807b-fb97b89103cd,Fettuccine Alfredo,"28,50 TL",Makarnalar,5.0
+7632c0a1-96cd-4386-ac3c-a207677802c8,Fettuccine Al Carne,"25,50 TL",Makarnalar,2.0
+ecb2a91f-35ca-4edb-9743-669aa95dc707,Spaghetti Napolitan,"22,50 TL",Makarnalar,5.0
+5a28fa3c-11bf-4ea0-a9f1-1fc811b95a0b,Ev Mantısı,"21,00 TL",Makarnalar,3.0
+245919e3-761b-43ca-b5c4-6af3bb16b744,Sebzeli Noodle,"22,50 TL",Makarnalar,9.0
+67f24abf-c727-47d9-be16-af2aaf53d2ef,Etli Noodle,"25,50 TL",Makarnalar,10.0
+fbb86b10-ec48-42ef-9444-7f00f9c9a201,Patates Kızartması,"13,50 TL",Aperitifler,7.0
+680ce3be-0533-47f6-a023-c1f297403b52,Duble Patates Kızartması,"15,00 TL",Aperitifler,7.0
+5aa8b9c8-bce0-4537-8a1f-af6dc23da082,Sigara Böreği (4 Adet),"12,00 TL",Aperitifler,7.0
+c93a82fa-978b-4c69-ba8a-56e844ce8f81,Paçanga Böreği (2 Adet),"16,50 TL",Aperitifler,5.0
+373d5582-8c75-41c6-b5eb-b7bc03056829,Soğan Halkası (12 Adet),"15,00 TL",Aperitifler,8.0
+ab72491d-822e-4bb5-a928-76f10875be8d,Sosis Tabağı,"16,50 TL",Aperitifler,5.0
+7a3b056e-d290-4f21-922b-e2d3c654387c,Chicken Fingers,"18,75 TL",Aperitifler,5.0
+3ade3870-00d7-44f8-8eee-866c58ca75a7,Karışık Atıştırma Tabağı,"26,25 TL",Aperitifler,6.0
+009eeaba-b44d-44de-b11d-3aee8aab8b54,Rokalı Tulum Salata,"21,75 TL",Salatalar,5.0
+558cceaa-aa42-4d24-9144-f80dc7071542,Hellim Salata,"21,75 TL",Salatalar,5.0
+61b369f3-1464-4a91-baaa-c3f643a23b05,Ton Balıklı Salata,"21,75 TL",Salatalar,5.0
+683cc496-258c-4be1-93fd-d5fecd715a45,Steak Salata,"24,75 TL",Salatalar,5.0
+ccd0884d-079e-4beb-9a57-1072583aaea8,Akdeniz Salata,"20,25 TL",Salatalar,5.0
+e9190956-7687-4f3c-9cc7-72d048d3a4a3,Sezar Salata,"22,50 TL",Salatalar,8.0
+18e82fae-01be-4ebf-9f4b-ef148abff5b2,Algida Maraş Usulü Cup Dondurma (100 ml.),"5,93 TL",Dondurmalar,5.0
+2364ab3e-c5de-463e-8e4e-22bb0c5ff895,Algida Maraş Usulü Dilim Dondurma (82 ml.),"5,93 TL",Dondurmalar,5.0
+C17B0E3D-23FA-4437-9C2C-671E00C0A574,Sütlaç (200 gr.),"7,50 TL",Tatlılar,5.0
+D4BE4E23-E3B5-4AE2-8EA4-C2321FA667CE,Damla Su (33 cl.),"2,25 TL",İçecekler,6.0

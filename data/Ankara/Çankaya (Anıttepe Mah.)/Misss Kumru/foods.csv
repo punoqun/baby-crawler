@@ -1,0 +1,60 @@
+food_id,food_name,food_price,food_category,food_score
+2a1a9f71-b3b0-419b-a131-1323aac29f9d,Ayvalık Tostu Menü,"20,00 TL",Menüler,9.0
+8C8EDF39-A613-4C7A-B015-6EB506C968F5,Karışık Kebap Menü,"40,00 TL",Menüler,6.0
+D75D5A5D-329C-48C6-8375-DDE31308441C,Barbekü Burger (100 gr.) Menü,"21,50 TL",Menüler,8.0
+dddb1dd4-57e6-4b74-8d54-ad62a219642c,Bazlama Tost Menü,"20,00 TL",Menüler,5.0
+87CFD4C6-C129-4F89-8FD1-40A46211A011,Beyaz Peynirli Köy Tostu Menü,"19,00 TL",Menüler,4.0
+3B0405E0-D718-4BF8-A8B9-AF2CCE3CA6FA,Cheese Burger (100 gr.) Menü,"21,50 TL",Menüler,8.0
+3A8BEAD5-4C0A-475B-8874-76DC16AC7A62,Çıtır Tavuk Sandviç Menü,"20,00 TL",Menüler,6.0
+B73A68D0-74E1-475E-AA0B-F56D194680CF,Dev Tost Menü,"21,00 TL",Menüler,5.0
+393CD31F-D640-46F3-ACF5-C289B88B809A,Double Barbekü Burger (200 gr.) Menü,"27,00 TL",Menüler,7.0
+31D32BFD-13F8-4471-9C12-202104FEE6CE,Double Cheese Burger (200 gr.) Menü,"27,00 TL",Menüler,7.0
+ADB87F00-2519-4C84-AED1-9DCFBE7EED06,Double Tavuk Burger Menu,"21,50 TL",Menüler,6.0
+11c904ff-248d-4c1f-8d3a-a635b092216b,Ekmek Arası Köfte Menü,"23,00 TL",Menüler,6.0
+ff08cc12-44dc-4252-b36a-cacb947fecf0,Ekmek Arası Sucuk Menü,"23,00 TL",Menüler,6.0
+49ea1538-1519-4e88-9921-b7ee6bf89952,Hamburger Menü,"21,00 TL",Menüler,8.0
+3be3cfb3-e09f-4149-8533-b3c4a6d53528,İzmir Kumru Dürüm Menü,"21,00 TL",Menüler,22.0
+77d5623e-bc2d-4eef-8d16-775ac5a4bbbc,İzmir Kumru Sandviç Menü,"20,00 TL",Menüler,25.0
+d581bb1d-b2c2-4f6b-aa88-a1668370ca36,Kare Tost Menü,"18,00 TL",Menüler,5.0
+E6DADE1C-7293-4273-B58F-D3AE591A3701,Kavurmalı Bazlama Tost Menü,"25,00 TL",Menüler,7.0
+AEA4958A-9C4A-4505-A88A-506FC0ED3322,Sosisli Sandviç Menü,"14,00 TL",Menüler,6.0
+12BC6551-478F-442D-B25F-5F5617A589BF,Tavuk Burger Menü,"17,00 TL",Menüler,8.0
+97926f6c-d188-4ba7-a8ed-4f145e450b58,Ayvalık Tostu,"12,00 TL",Tostlar,13.0
+2d81ad3c-af32-41e1-8627-7bbb1fd76f70,Karışık Bazlama Tost,"12,00 TL",Tostlar,4.0
+ED404674-D2CD-40F2-A1C6-BE8E12C6C2C0,Beyaz Peynirli Maydanozlu Bazlama Tost,"12,00 TL",Tostlar,4.0
+78ABE8FD-C1A7-47B1-AEE3-FBCF7E2FD5B4,Dev Tost,"13,00 TL",Tostlar,4.0
+8123B0D4-2FAB-4375-8CA3-985B7E704FEB,Kare Tost,"10,00 TL",Tostlar,4.0
+d9ee79a2-240f-4a3f-a419-a1523183266d,Karışık Tost,"8,00 TL",Tostlar,4.0
+41ad424d-b821-42bd-b674-c25ecc984459,Kaşarlı Tost,"8,00 TL",Tostlar,4.0
+EDBDA023-9A59-471B-9EB9-A21C770FF185,Kavurmalı Bazlama Tost,"18,00 TL",Tostlar,6.0
+3cc744a0-e177-45e6-8351-1675f2c779a3,Sucuklu Tost,"8,00 TL",Tostlar,4.0
+1213790f-5f87-4d2b-b5ba-fa737278b196,Ekmek Arası Patso,"9,00 TL",Sandviçler,7.0
+c0761b79-5265-47ad-a925-2a26eb2bf4b4,İzmir Kumru Dürüm,"13,00 TL",Sandviçler,21.0
+cfce05a2-1247-4315-8aee-ca9462db30f4,İzmir Kumru Sandviç,"12,00 TL",Sandviçler,24.0
+97B8B36A-E320-4689-BF53-0EFD0C792C68,Sosisli Patso Sandviç,"12,00 TL",Sandviçler,7.0
+62E741F7-C0AE-4121-B27A-9F9944E9B6A7,Çıtır Tavuk Sandviç,"12,00 TL",Sandviçler,5.0
+849E75DB-EF67-40A1-A71C-20370E45646F,Yengen Sandviç,"12,00 TL",Sandviçler,5.0
+EC96EF97-BF61-407F-B5C6-AA3FBCC5A4F1,Barbekü Burger,"13,50 TL",Burgerler,7.0
+A5925686-9486-40DF-B929-B52C6A2492DF,Big Tavuk Burger,"13,50 TL",Burgerler,7.0
+6BB59FCB-80BC-4347-B9A7-55759195C110,Cheese Burger,"13,50 TL",Burgerler,7.0
+050D569B-3785-40C2-BBF5-E5A30CB21C48,Double Barbekü Burger,"19,00 TL",Burgerler,6.0
+C8DDB42B-EAB7-410D-A2EC-1C250FFDE28C,Double Burger,"18,00 TL",Burgerler,6.0
+2DF32D7E-3986-4B7B-A991-21602A24FE14,Double Cheese Burger,"19,00 TL",Burgerler,6.0
+c35771fa-f619-4767-9936-1a5d3343db9d,Hamburger,"13,00 TL",Burgerler,7.0
+492FE38B-2694-4D7D-B85A-66FBFA543C13,Tavuk Burger,"9,00 TL",Burgerler,7.0
+204de7fd-a294-4435-a0b1-afbd7a294f73,Ciğer Şiş,"40,00 TL",Izgaralar,5.0
+d57974d7-48d9-4712-980c-a5f8f511a199,Et Şiş,"40,00 TL",Izgaralar,3.0
+39e0a0e3-af68-47b7-84e7-c24972fa4c17,Et Şiş Dürüm,"40,00 TL",Dürümler,5.0
+4C3FC68B-56F0-483E-A8FE-D21A7D9F72F5,Et Tantuni Dürüm,"20,00 TL",Ekmek Arası Ürünler,5.0
+5d0a0446-db49-4b05-bfe1-630097721c2e,Ekmek Arası Köfte,"15,00 TL",Ekmek Arası Ürünler,5.0
+73246188-b873-4edf-96ab-72297ff60306,Ekmek Arası Sucuk,"15,00 TL",Ekmek Arası Ürünler,5.0
+FA714D1A-1BD1-482F-A6E1-91F2B801323E,Extra Kaşar Peyniri,"1,00 TL",Yan Ürünler,5.0
+FF2995FD-9DF4-485C-B9C8-DCA85EA3FE46,Extra Chedar Peyniri,"1,50 TL",Yan Ürünler,5.0
+3E3B6EA6-1B66-4930-B03A-246E5CAD6D82,Çıtır Soğan Halkası (2 Adet),"3,00 TL",Yan Ürünler,5.0
+57F525A2-71B4-4735-A24A-1D3BADA5C308,Çıtır Tavuk (2 Adet),"3,00 TL",Yan Ürünler,5.0
+48782595-E6D9-478B-B888-13F1FD5F3C58,Çıtır Soğan Halkası (4 Adet),"5,00 TL",Yan Ürünler,5.0
+689C4BDD-72E4-41AA-B8F6-CC44C5967879,Çıtır Tavuk (4 Adet),"5,00 TL",Yan Ürünler,5.0
+7A5725F5-8AA5-42AD-B4E0-56A2BB8AD2E3,Çıtır Tavuk (6 Adet),"7,00 TL",Yan Ürünler,5.0
+297FF79C-43F0-4ADE-B2B9-A28707D50F49,Çıtır Soğan Halkası (6 Adet),"7,00 TL",Yan Ürünler,5.0
+7ff3c295-3565-4e4a-8550-49a482a9ec5f,Patates Kızartması,"7,00 TL",Yan Ürünler,4.0
+87d83ca8-459c-408c-ac84-732ff4595ca4,Poşet,"0,25 TL",Poşet,7.0

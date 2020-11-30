@@ -1,0 +1,64 @@
+food_id,food_name,food_price,food_category,food_score
+468f7ccd-bc08-4991-b488-5a1d0169f7ad,Kral Menü 1,"45,00 TL",Ekonomik Menüler,-2.0
+a3e640cd-63c1-4131-8786-b053ca6d7a15,Kral Menü 2,"55,00 TL",Ekonomik Menüler,5.0
+6edf65bb-102c-4f71-a9d3-0c33b84d78e4,Kral Menü 3,"80,00 TL",Ekonomik Menüler,7.0
+da68aa17-06cf-46bc-95d6-b9955fe3b563,Kral Menü 4,"100,00 TL",Ekonomik Menüler,3.0
+43f7bd94-12f0-4dae-8228-891068b352fc,Aile Boyu Menü (6-7 Kişilik),"170,00 TL",Ekonomik Menüler,6.0
+0921ffe7-ccc5-41d7-8077-444dcd3baeb2,Yarım Ekmek Arası Kokoreç Menü,"14,00 TL",Ekonomik Menüler,1.0
+679f6023-1be7-402a-aaec-166c2588c5e9,Tam Ekmek Arası Kokoreç Menü,"25,00 TL",Ekonomik Menüler,1.0
+c7cf460d-bf64-40bd-8bef-ed327800f9b6,3'lü Hatay Usulü Tavuk Döner Dürüm Menü,"38,00 TL",Ekonomik Menüler,-6.0
+3f08cd2f-82a3-48bb-a04a-6d250568fa9e,3'lü Adana Dürüm Menü,"40,00 TL",Ekonomik Menüler,2.0
+1799fcb8-d528-4fd7-8d72-9dd215c94d55,3'lü Yarım Ekmek Arası Kokoreç Menü,"45,00 TL",Ekonomik Menüler,1.0
+bb439cb6-5c14-4ff1-81db-f9d4b00a9e1d,5'li Hatay Usulü Tavuk Döner Dürüm Menü,"60,00 TL",Ekonomik Menüler,-6.0
+fe28c54e-7a42-49c9-b187-99937d83a47a,Ekonomik Karışık Tavuk Menü (4-5 Kişilik),"70,00 TL",Ekonomik Menüler,-2.0
+0e7c0c9e-edc8-462e-af60-e3c6d170ba2b,Kampüs Menü,"68,00 TL",Ekonomik Menüler,6.0
+0f92a3bf-b357-4d26-91c1-06733aba1cfb,5'li Yarım Ekmek Arası Kokoreç Menü,"65,00 TL",Ekonomik Menüler,1.0
+003e5f88-19df-48f6-b022-4e500515167c,5'li Adana Dürüm Menü,"65,00 TL",Ekonomik Menüler,2.0
+c4aabc98-c257-45a6-bde9-2d5b5c6261c5,Mega Menü,"70,00 TL",Ekonomik Menüler,6.0
+26513b14-b9bf-4d81-8235-7c7f11ee40b9,Mega Karışık Dürüm (5 Kişilik),"100,00 TL",Ekonomik Menüler,3.0
+75393213-f945-40bd-8dba-3634311868cf,Barbekü Menü,"100,00 TL",Ekonomik Menüler,6.0
+849f76c9-e4af-444a-8701-fe9e179074f8,Mega Karışık Tavuk Menü (8-10 Kişilik),"130,00 TL",Ekonomik Menüler,-2.0
+10aceeb3-d6f9-4ed6-aa08-f0953e42fa84,Mega Karışık Kral Menü,"130,00 TL",Ekonomik Menüler,6.0
+c6670a9b-dbba-43a7-a521-357eec35cb9d,Sporcu Menüsü 1,"20,00 TL",Sporcu Menüleri,-3.0
+65218006-fbaa-4c49-ad51-7dbb098372ad,Sporcu Menüsü 2,"23,00 TL",Sporcu Menüleri,-1.0
+2d3acc23-82f6-494c-9fe2-b98c1d5d5e02,Sporcu Menüsü 3,"28,00 TL",Sporcu Menüleri,6.0
+d2154b1d-453b-4d8e-b0da-347d19e16939,Sporcu Menüsü 4,"48,00 TL",Sporcu Menüleri,2.0
+14d86dd5-f82d-4942-bd2c-43d468d3ab11,Urfa Kebap,"24,00 TL",Kebaplar,5.0
+e0f359f3-3b99-4d8e-bb38-c954a696c931,Patlıcanlı Kebap,"24,00 TL",Kebaplar,5.0
+eae21a8f-7bf9-4a88-8ee3-729421a8425b,Adana Kebap,"24,00 TL",Kebaplar,3.0
+ed9da08b-1a1f-4b5e-8382-9b2e5b87043a,Domatesli Kebap,"24,00 TL",Kebaplar,5.0
+7cc9a499-0eb0-4b85-a64a-129fd6bffd79,Tavuk Adana,"20,00 TL",Kebaplar,-5.0
+21ead828-44b6-4ea6-8319-97a85d6e4900,Kuzu Kuşbaşı Şiş,"30,00 TL",Izgaralar,5.0
+7aab3b76-1272-4caf-873b-df83b67267bb,Pilav Üstü Özel Soslu Tavuk Ciğer,"20,00 TL",Izgaralar,-6.0
+8472faec-969d-4c6c-8494-e5dd189109e8,Burdur Şiş,"25,00 TL",Izgaralar,5.0
+ec62aaad-5202-4b79-ade2-89921b060baf,Izgara Köfte,"25,00 TL",Izgaralar,5.0
+ed55ab65-3686-4c0e-9697-fcffeea05c68,Köri Soslu Tavuk Şiş,"20,00 TL",Izgaralar,-3.0
+ee9d027d-6996-4002-9b6d-6512d5d88a5d,Kuzu Ciğer Şiş,"25,00 TL",Izgaralar,5.0
+c7f22959-ac2b-4ac2-884e-ee72cd09fd52,Tavuk Köfte,"20,00 TL",Izgaralar,-3.0
+2feb22c3-e6a3-42db-a620-db50e789fae6,Adana Dürüm,"15,00 TL",Dürümler,1.0
+33592761-40ba-484a-9452-992c52bef4cf,Urfa Dürüm,"15,00 TL",Dürümler,3.0
+3f3d9519-42c2-4bb0-b8b7-a213b0de9f20,Köfte Dürüm,"15,00 TL",Dürümler,3.0
+492a7ac2-4eb6-4c53-bf21-1a217c61e6fb,Kuzu Kuşbaşı Dürüm,"15,00 TL",Dürümler,3.0
+9b381f0b-d9f6-42e3-b2fa-d7d3d9e76468,Kuzu Ciğer Dürüm,"15,00 TL",Dürümler,3.0
+aa0ff76c-22f3-4026-a05a-69b48945ed3c,Burdur Şiş Dürüm,"15,00 TL",Dürümler,3.0
+e40f2a79-4dda-4c17-bd42-38957391db5c,Köri Soslu Tavuk Şiş Dürüm,"12,00 TL",Dürümler,-5.0
+12d12775-2185-4215-bd3f-9b937829feb7,Tavuk Adana Dürüm,"15,00 TL",Dürümler,-7.0
+74d45f98-f275-4d6a-8694-46daa57b873a,Tavuk Köfte Dürüm,"15,00 TL",Dürümler,-5.0
+aa20e679-ca04-478f-95e9-49e44b374f10,Tavuk Yürek Dürüm,"10,00 TL",Dürümler,-5.0
+7f18c5b7-c06f-4246-89ae-cb07724d652a,Kızarmış Piliç (Bütün),"25,00 TL",Kızarmış Piliçler,12.0
+c968c1c7-71a1-442a-a1b3-ae3ef12aae37,Kızarmış Piliç (Yarım),"18,00 TL",Kızarmış Piliçler,7.0
+51bc0d69-d78e-43cd-8788-3baa6951e9ae,Tavuk Döner Dürüm (100 gr.),"12,00 TL",Tavuk Dönerler,-5.0
+5e691de7-15b3-4db1-9fe2-870ba31e4dba,Pilav Üstü Tavuk Döner,"22,00 TL",Tavuk Dönerler,-5.0
+6aab443b-338e-4afd-b9e6-fa7908964324,Tam Ekmek Arası Tavuk Döner (100 gr.),"20,00 TL",Tavuk Dönerler,-7.0
+980c847c-398d-4f3a-b46e-89d0730ff1ce,Tam Ekmek Arası Köfte,"24,00 TL",Ekmek Arası Ürünler,1.0
+8d4b8f17-7ebb-4470-a4e2-fca9ebf3edba,Tavuk Sote,"25,00 TL",Diğer Lezzetler,-3.0
+19e1110a-1a6b-4d85-9012-600e221168ff,Lavaş,"2,00 TL",Yan Ürünler,2.0
+4cc6483d-e86c-4228-be8a-e9bcb2096611,Özel Soslu Tavuk Fileto (1 kg.),"35,00 TL",Kiloluk Ürünler (Pişirilmiş),-4.0
+64578255-2d9d-4a43-9731-0926ffa2fa35,Özel Soslu Tavuk Fileto (500 gr.),"20,00 TL",Kiloluk Ürünler (Pişirilmiş),1.0
+a65bad00-aa67-4a3f-b4f6-c48a920db1e3,Tavuk Kanat (1 kg.),"40,00 TL",Kiloluk Ürünler (Pişirilmiş),-2.0
+bcae3a47-f357-4bac-8ffd-651d1f51dff1,Tavuk Kanat (500 gr.),"25,00 TL",Kiloluk Ürünler (Pişirilmiş),-2.0
+c0476227-aa2d-48ce-8c2b-cf5c2f58a7c2,Tavuk Kelebek (500 gr.),"22,00 TL",Kiloluk Ürünler (Pişirilmiş),-3.0
+d2573665-8262-439e-844e-f85020575094,Tavuk Kelebek (1 kg.),"35,00 TL",Kiloluk Ürünler (Pişirilmiş),-3.0
+0ff87b89-be5e-4561-92a1-a89bb0c41e9e,Tavuk Baget (1 kg.),"35,00 TL",Kiloluk Ürünler (Pişirilmiş),-3.0
+e3cc780e-a527-4866-af0f-b723a3115ac1,Tavuk Baget (500 gr.),"20,00 TL",Kiloluk Ürünler (Pişirilmiş),-3.0
+7c9c81e9-969c-4a9f-8c9f-f0082feb225b,Poşet,"0,25 TL",Poşet,5.0

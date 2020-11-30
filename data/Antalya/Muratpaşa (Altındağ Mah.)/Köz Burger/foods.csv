@@ -1,0 +1,51 @@
+food_id,food_name,food_price,food_category,food_score
+9c809ff1-4b58-48c7-bd8c-798a9e2560d9,Arkadaş Cheeseburger Menü,"41,90 TL",Menüler,5.0
+9EA168CA-B00D-4C80-AFCA-9106D76FFC6E,Tavuk Döner Dürüm Menü,"14,90 TL",Menüler,10.0
+D8B4DD6F-7C60-481D-B26B-B0D161556921,Et Döner Dürüm Menü,"19,90 TL",Menüler,10.0
+518CC44B-FF53-479D-8EA4-DE4E9AF5965C,Abur Cubur Menü,"19,90 TL",Menüler,5.0
+0f75f8ec-e85c-4001-bfe9-ebfe2ada7fc7,Arkadaş Gurme Burger Menü,"42,90 TL",Menüler,5.0
+d0c52870-4a02-450a-b574-5a2624a1bdc4,Arkadaş Köz Burger Menü,"39,90 TL",Menüler,6.0
+bf8cbec4-5698-4550-90df-7ac5aa30cd0b,BBQ Deluxe Burger (110 gr.) Menü,"26,90 TL",Menüler,6.0
+1da08a1d-4c65-4a4d-9907-e27e829f13e2,BBQ Deluxe Burger Menü 1,"73,90 TL",Menüler,4.0
+e9cff728-42bc-4268-8ebc-28f5f1871834,BBQ Deluxe Burger Menü 2,"99,90 TL",Menüler,4.0
+3e89dc6b-96a6-4834-bcc7-a26aacd00ac5,Cheeseburger (110 gr.) Menü,"25,90 TL",Menüler,5.0
+6bec761f-059b-4740-b7bc-1c6cd9fdfb26,Cheeseburger Menü 1,"62,90 TL",Menüler,3.0
+f3bb6c5b-e0c1-4781-93a1-372efb881f0a,Cheeseburger Menü 2,"91,90 TL",Menüler,3.0
+cb612f80-a322-4236-96b2-05b9c52b4fd0,Soya Soslu Tavuklu Noodle Menü,"19,90 TL",Menüler,5.0
+f17f0d29-0a98-4861-af2e-2d7dfafec2fa,Köri Soslu Tavuklu Noodle Menü,"19,90 TL",Menüler,5.0
+4eec442c-46f7-40be-be8c-3be50b8c3bec,Mantar Soslu Tavuklu Noodle Menü,"19,90 TL",Menüler,5.0
+30eb80ba-2262-4054-9d9b-789fe00b8d7d,Çıtır Tavuk Menü,"24,90 TL",Menüler,5.0
+affaf346-c3ec-4141-ad6b-7178a9a7ad8a,Çocuk Burger Menü,"21,90 TL",Menüler,6.0
+fc247e2e-11d5-4254-9246-3eca3561d458,Crispy Chicken Burger Menü,"26,90 TL",Menüler,6.0
+4fccf312-049a-4042-b19b-4d8820510ff4,Crispy Chicken Burger Menü 1,"51,90 TL",Menüler,4.0
+fb78b191-9211-476e-a005-8c05fe7b3565,Crispy Chicken Burger Menü 2,"69,90 TL",Menüler,4.0
+14F9CC70-2EE8-4E65-9DD3-A0EF2060C799,Dublex Burger (150 gr.) Menü,"34,90 TL",Menüler,6.0
+A926609B-4AD0-4FA8-82CF-4B597F1AB6CE,Dublex Burger (220 gr.) Menü,"38,90 TL",Menüler,6.0
+19340069-c40d-4319-9b09-4b5087b164e4,Ekmek Arası Köfte Menü,"20,90 TL",Menüler,6.0
+7dd9a22d-62ef-4ab5-bf75-81662f3172f2,Gurme Burger (110 gr.) Menü,"26,90 TL",Menüler,5.0
+88dfd13f-9e9f-4d13-9faf-64e4f387d2fe,Gurme Burger Menü 1,"69,90 TL",Menüler,3.0
+0dde5dff-5037-4015-b4d4-225e56f8623a,Gurme Burger Menü 2,"94,90 TL",Menüler,3.0
+a6a375fa-1854-40f4-aa3d-c69fc8efdde3,Hotmex Burger Menü 1,"62,90 TL",Menüler,4.0
+7940b2a0-328f-4b97-955e-ce5586f5502c,Hotmex Burger Menü 2,"91,90 TL",Menüler,4.0
+f3c352f2-f554-4589-ba8a-685c4c98e2d9,Köz Burger (110 gr.) Menü,"24,90 TL",Menüler,6.0
+599385ab-aa8b-411e-a5d5-cf3aea057c41,Köz Burger Menü 2,"89,90 TL",Menüler,4.0
+38dd0c93-44ab-4c58-8e2c-5d88b5f04a09,Köz Burger Menü1,"59,90 TL",Menüler,6.0
+3065e050-388a-4dd8-8dc5-0018d201d5be,Köz Steak Burger Menü 1,"79,90 TL",Menüler,4.0
+f901709f-df09-46e3-9482-382bd6aac468,Köz Steak Burger Menü 2,"105,90 TL",Menüler,4.0
+14f20aad-1a33-4758-ba9a-12e204a71b32,Köz Texas Burger Menü,"41,90 TL",Menüler,6.0
+60753e31-95b0-4b70-8e2b-37f2e62b476e,Köz Texas Burger Menü 1,"85,90 TL",Menüler,4.0
+9462c3f5-fa03-4929-9a34-43c686d137cf,Köz Texas Burger Menü 2,"119,90 TL",Menüler,4.0
+1b9ff822-a0e9-4369-9553-fc0a3653788f,Mega Burger Menü,"45,80 TL",Menüler,6.0
+93ed096e-9add-4c24-9251-9efa96c0737a,Mega Burger Menü 1,"91,90 TL",Menüler,4.0
+aa4c00ed-2967-4905-a440-8b2db96d9e06,Mega Burger Menü 2,"129,90 TL",Menüler,4.0
+2505a4aa-2207-4add-bfac-55e449aa499b,Pastırmalı Cheeseburger (110 gr.) Menü,"27,90 TL",Menüler,5.0
+9e44b2ed-2c81-4c5f-b046-9d57b005a1a8,Pastırmalı Cheeseburger Menü 1,"68,90 TL",Menüler,3.0
+72101b93-72e5-45e2-b10e-1be974a3c599,Pastırmalı Cheeseburger Menü 2,"93,90 TL",Menüler,3.0
+8a75579e-2bc5-4521-bd59-2f571cb269cf,Pilav Üstü Köfte Menü,"25,90 TL",Menüler,11.0
+787ab762-e355-40b3-998e-e95f2c7505ab,Soğan Halkası (6 Adet),"6,00 TL",Yan Ürünler,5.0
+fd8062e1-df0f-4d76-b577-afaf083fbaeb,Soğan Halkası (12 Adet),"10,00 TL",Yan Ürünler,5.0
+9d4cedba-45ce-488a-bde7-d8655646c86b,Colorado Acı Sos,"2,00 TL",Soslar,5.0
+75a6a8fe-e9c1-4523-af21-a8c84f83f997,Colorado Ballı Hardal Sos,"2,00 TL",Soslar,5.0
+57f9a153-8fc4-4824-9b5c-2c46ea324a25,Colorado Barbekü Sos,"2,00 TL",Soslar,5.0
+8beee257-d8f3-41db-943a-614129f6608e,Colorado Ranch Sos,"2,25 TL",Soslar,5.0
+5241f5a4-e3f4-4e9b-a949-1fd2a4408a23,Poşet,"0,25 TL",Poşet,5.0

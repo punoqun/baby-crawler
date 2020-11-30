@@ -1,0 +1,127 @@
+food_id,food_name,food_price,food_category,food_score
+959fe586-7a5a-4922-8320-5576ac9b5a62,Funghi Pizza (1 Kişilik) Menü,"27,00 TL",Pizza Menüleri (1 Kişilik),9.0
+ba4e269c-1589-433a-b547-0c71f8aa2efb,Tavuklu Calzone Pizza (1 Kişilik) Menü,"29,00 TL",Pizza Menüleri (1 Kişilik),10.0
+9f55cf07-2a9e-4163-92aa-144bf983216f,Milano Pizza (1 Kişilik) Menü,"28,00 TL",Pizza Menüleri (1 Kişilik),9.0
+733ff486-3611-4ff7-955e-2a7f9a05b453,Dana Etli Pizza (1 Kişilik) Menü,"37,00 TL",Pizza Menüleri (1 Kişilik),9.0
+8988bd2e-a730-4173-bacf-fb0be6c1220d,Adana Usulü Acılı Kıymalı Pizza (1 Kişilik) Menü,"35,00 TL",Pizza Menüleri (1 Kişilik),11.0
+1d9b010b-57e1-4bc4-adea-9a5c9d147c86,Margherita Pizza (1 Kişilik) Menü,"27,00 TL",Pizza Menüleri (1 Kişilik),9.0
+f4da299d-b2ee-4855-bffc-eb731a2122a9,Al Tonno Pizza (1 Kişilik) Menü,"30,00 TL",Pizza Menüleri (1 Kişilik),10.0
+3bcfe340-3c66-4d23-9749-0e61105e7e22,Vegetable Pizza (1 Kişilik) Menü,"27,00 TL",Pizza Menüleri (1 Kişilik),9.0
+65c325a8-ede4-4f8a-bcc3-faf674167449,Chicken Pizza (1 Kişilik) Menü,"29,00 TL",Pizza Menüleri (1 Kişilik),9.0
+95080d71-9cdd-4acf-9027-fb7728f8ab22,Lina Pizza (1 Kişilik) Menü,"26,00 TL",Pizza Menüleri (1 Kişilik),14.0
+9f744083-0326-4a92-a191-de9e471910e9,Sucuklu Pizza (1 Kişilik) Menü,"28,00 TL",Pizza Menüleri (1 Kişilik),8.0
+5f55da7b-a3c8-4f80-94e1-0f5f88ac06e0,Ton Balıklı Sandviç Menü,"21,00 TL",Sandviç Menüleri,7.0
+026d88ad-3a20-4831-b89a-1b3ec70f9da4,Ekmek Arası Izgara Köfte Menü,"20,00 TL",Sandviç Menüleri,3.0
+d2dc24d1-d88c-4e25-b181-7a8460f9f2a2,Izgara Tavuklu Sandviç Menü,"18,00 TL",Sandviç Menüleri,6.0
+1b66aaf3-535d-4f84-aa1f-d7b671cb87cd,Kumru Sandviç Menü,"18,00 TL",Sandviç Menüleri,7.0
+2ae31853-518c-459d-ba4e-598334c97f3a,G-3 Sandviç Menü,"18,00 TL",Sandviç Menüleri,7.0
+0964945b-9a81-4029-9c05-025415b5da5e,Soğuk Sandviç Menü,"18,00 TL",Sandviç Menüleri,7.0
+ccc7beee-bcb7-44cc-a05d-476634547b6b,Hot Dog Sandviç Menü,"15,00 TL",Sandviç Menüleri,7.0
+c4320d8d-efa9-46d2-bb5b-de96d4cb5915,Barbekü Soslu Sandviç Menü,"17,00 TL",Sandviç Menüleri,7.0
+29acfd95-7f1b-4b2e-b440-f25b677ae254,Mexico Usulü Tavuk Dürüm Menü,"19,00 TL",Menüler,12.0
+ddd2c290-cbde-45c2-923d-a20225757b05,Mexico Usulü Et Dürüm Menü,"23,00 TL",Menüler,7.0
+0d336ac2-a749-4f60-b6e8-db79d8f54d33,Ton Balıklı & Mayonezli Dürüm Menü,"19,00 TL",Menüler,7.0
+e67d2c61-52ec-4fe8-ba74-82ea9a389b5a,Casa Antonio Dürüm Menü,"21,00 TL",Menüler,7.0
+bfd2e43f-03ee-48c2-ac46-ad1205a2a779,Chicken Wrap Menü,"19,00 TL",Menüler,7.0
+a58883b1-5a93-4b7a-bb2e-ef3e60d7a03c,Chicken Taqutios Menü,"21,00 TL",Menüler,7.0
+6d100c65-e449-4eda-8a72-3061f5bf8d6a,Et Fajita Dürüm Menü,"24,00 TL",Menüler,6.0
+a960909e-e9a5-471f-8698-83d7d0cb81fc,3'lü Lina Large Pizza Menü,"75,00 TL",Menüler,9.0
+cf4ef610-f2d0-4213-a793-9a8b858790a2,Patatesli Gözleme,"13,00 TL",Kahvaltılıklar,5.0
+6a2fc063-3e4e-4aea-9abb-f75bc34c610c,Kaşarlı Gözleme,"12,00 TL",Kahvaltılıklar,5.0
+6432676e-a08f-4cfe-a4ac-7c4d1c5ecc6b,Karışık Gözleme,"14,00 TL",Kahvaltılıklar,7.0
+3d1ef67f-25fc-49a3-9a69-0d501ca533d1,Yumurtalı Sade Menemen,"11,00 TL",Kahvaltılıklar,7.0
+c487539b-6101-4580-a5ec-349d308c2353,Kaşarlı Menemen,"12,00 TL",Kahvaltılıklar,6.0
+005e2cc9-0a7a-4b36-aad4-2f85716d8f1c,Karışık Menemen,"13,00 TL",Kahvaltılıklar,8.0
+1c6d6054-5341-4792-8135-3cf66f1c339f,Sade Omlet,"10,00 TL",Kahvaltılıklar,6.0
+c50d56e1-10c6-4759-95dd-2dd3a2b451f6,Kaşarlı Omlet,"10,00 TL",Kahvaltılıklar,5.0
+c5eeb06e-7544-4fef-bac7-3b5c34e24110,Karışık Omlet,"13,00 TL",Kahvaltılıklar,7.0
+f2c1aad7-3e11-4e32-b8e5-1de1960052b8,Kaşarlı Tost,"12,00 TL",Tostlar,5.0
+7517f5bb-2acc-4214-b544-28a0ffad9b3f,Karışık Tost,"14,00 TL",Tostlar,7.0
+1d5af5d2-942f-4b27-b637-403f1c9b98c0,Körili Tavuk,"21,00 TL",Beyaz Etler,2.0
+9eed77ca-d000-45b3-b261-29d0ce681832,Americano Chicken,"22,00 TL",Beyaz Etler,5.0
+8439b07c-2e87-405b-aa06-25fbe63d8341,Tavuk Sote,"21,00 TL",Beyaz Etler,4.0
+e8079563-099f-4c74-88d5-f57e22b07ddd,Izgara Tavuk,"21,00 TL",Beyaz Etler,2.0
+45893288-d489-47ea-ad9d-3e459a9c1f1e,Mexico Tavuk,"24,00 TL",Beyaz Etler,5.0
+c6d1ab4d-4181-4e94-ba94-9dbdf09c8ad1,Prenses Tavuk,"21,00 TL",Beyaz Etler,4.0
+fc76e8ff-74b3-4cbc-b993-67ab9075685d,Chinese Chicken,"23,00 TL",Beyaz Etler,5.0
+43996aa7-2e20-4000-88fd-f0ea59f3d575,Shangi Chicken,"24,00 TL",Beyaz Etler,5.0
+e7d16851-f3fd-4091-b098-fc861bd723cf,Tavuk Sac Kavurma (2 Kişilik),"44,00 TL",Beyaz Etler,4.0
+2e23d536-a7f8-4a9d-b136-b64dfed00e58,Tavuk Çökertme,"24,00 TL",Beyaz Etler,2.0
+10f59e58-16ca-4d97-8354-23a867ed9c25,Tavuk Papaya,"24,00 TL",Beyaz Etler,6.0
+341a1bde-40c0-4f7d-a3d3-2cb775ff3681,Chicken Tantana,"23,00 TL",Beyaz Etler,5.0
+8bb1208f-eb3f-4881-97fd-f66296fc4f56,Chicken Stroganoff,"23,00 TL",Beyaz Etler,5.0
+8e1db1b4-8de2-4a04-af46-764fbabb4539,Macar Kebabı,"26,00 TL",Beyaz Etler,5.0
+9a81d9ab-410d-4426-ae2d-b38ce791f991,Spanish Chicken,"20,00 TL",Beyaz Etler,5.0
+d124dc83-d48e-46da-b183-dac7a45756b0,Chicken Amaretto,"23,00 TL",Beyaz Etler,5.0
+3ead5b06-d174-4f93-85ce-d4271a8ee17b,Tavuk Şnitzel,"21,00 TL",Beyaz Etler,4.0
+02811936-f168-43a2-bf9a-9f0b4b1bfdc6,Tavuk Fajita,"25,00 TL",Beyaz Etler,4.0
+b4f5d7c5-9a51-473c-b9f0-d4bdaab5a1fa,Pilav Üstü Tavuk,"18,00 TL",Beyaz Etler,4.0
+690913b5-da8a-4124-8025-2980aa80cf34,Sepette Tavuk,"23,00 TL",Beyaz Etler,4.0
+4658c34c-989a-4101-80d4-508fe9227356,Chicken Sosyete,"23,00 TL",Beyaz Etler,5.0
+1b5d4729-dfeb-4930-9639-0a140c908d59,Şef'in Spesiyali Sanghi Steak,"38,00 TL",Kırmızı Etler,5.0
+41edc2f4-2393-46a0-a60b-4255c83fcef2,Et Çökertme,"35,00 TL",Kırmızı Etler,2.0
+93e226d4-40c4-42eb-9170-f3e358172d2f,Spanish Steak,"33,00 TL",Kırmızı Etler,5.0
+c9d24da4-d7ce-4315-a7f0-4f9f05b54ca8,Mushroom Steak,"35,00 TL",Kırmızı Etler,5.0
+8f9d46fc-0142-4da9-899e-a02747ac32d2,Indiana Steak,"30,00 TL",Kırmızı Etler,5.0
+fe919381-22d8-4cf1-92de-f2394bab8053,Izgara Köfte,"29,00 TL",Kırmızı Etler,3.0
+41d41572-e957-4b14-a3bc-06caf9049ee5,Fırında Kaşarlı Köfte,"30,00 TL",Kırmızı Etler,5.0
+cc98b60e-6c1d-4200-8778-54061a50f5c4,Sosyete Steak,"33,00 TL",Kırmızı Etler,5.0
+98c114e0-102d-40a3-a0d0-e9617d0c5b7b,Et Güveç,"35,00 TL",Kırmızı Etler,4.0
+78bd735c-d29c-45eb-bb54-39998c76d0f3,Pepper Steak,"36,00 TL",Kırmızı Etler,5.0
+dbe723ca-6fb0-4311-b968-792954d6818d,Mexico Steak,"35,00 TL",Kırmızı Etler,6.0
+425e49ab-751a-4893-a95f-9bde91f91ff3,Beef Stroganoff,"30,00 TL",Kırmızı Etler,5.0
+327f24e2-c11f-49bd-98d2-0bcbfa1fcc1f,Darende Kebabı,"30,00 TL",Kırmızı Etler,5.0
+23b42c0f-3560-4361-a007-55ad641d37a0,Et Sac Kavurma (2 Kişilik),"60,00 TL",Kırmızı Etler,4.0
+a0ecd691-b091-4f95-b0fd-5e3db6caafa2,Et Papaya,"35,00 TL",Kırmızı Etler,6.0
+a8d9e7e3-0c64-4ace-8774-98edd3c2a22f,Izgara Lokum Bonfile,"40,00 TL",Kırmızı Etler,3.0
+e51fc0ef-ed37-4f20-aaae-905d0923c96b,Viyana Et Şnitzel,"30,00 TL",Kırmızı Etler,4.0
+b2a72bb4-b915-4d24-8899-86f0fef25879,Et Fajita,"38,00 TL",Kırmızı Etler,4.0
+28f9c9a8-feec-40a6-8233-aa44c597ce98,Ev Yapımı Hamburger,"18,00 TL",Burgerler,5.0
+65239eb1-d3a1-4799-9ae3-b8494424709d,Ev Yapımı Cheeseburger,"20,00 TL",Burgerler,5.0
+57a9b529-bea8-4603-a475-b8349ab9c408,Ev Yapımı Chicken Burger,"16,00 TL",Burgerler,5.0
+6f00bd77-66d9-4b60-a668-3bb89b46d75c,Tereyağlı & Kaşarlı Kumpir,"17,00 TL",Kumpirler,6.0
+a4c125eb-6d33-494a-8c72-e24a66964b73,Tereyağlı & Kaşarlı & Sosisli Kumpir,"17,00 TL",Kumpirler,6.0
+6dbcc2c0-13dc-4f15-b8a2-35f909aea472,Karışık Kumpir,"18,00 TL",Kumpirler,13.0
+898aebb9-fa20-41d1-962c-1d1af617362b,Ton Balıklı Kumpir,"21,00 TL",Kumpirler,6.0
+c53389aa-6cd9-4c66-b31f-be423a668631,Tavuklu Kumpir,"18,00 TL",Kumpirler,7.0
+d5142fd9-c8ca-41b4-b691-c7e70e70ed09,Rus Salatalı Kumpir,"17,00 TL",Kumpirler,6.0
+27cda9c4-0e2e-462e-ae8b-fbc2d3ede1ae,Sucuklu Kumpir,"18,00 TL",Kumpirler,5.0
+07cf7fed-1e19-4768-b52c-3c99ea1c2416,Sebzeli Kumpir,"17,00 TL",Kumpirler,6.0
+362a1f93-1735-43f7-9777-577d4447ebfb,Sade Kumpir,"16,00 TL",Kumpirler,7.0
+eed61f29-755c-4248-bd21-c3f7539425bf,Körili Penne,"17,00 TL",Makarnalar,3.0
+e27d1380-2292-48f0-8d98-26076f7a12a0,Tavuklu Tagliatelle,"17,00 TL",Makarnalar,6.0
+712b66c8-38a9-4680-8a1d-464738a81508,Penne Arrabbiata,"14,00 TL",Makarnalar,5.0
+0679a089-a3ec-498f-990a-42bf8581f678,Fettuccine Alfredo,"19,00 TL",Makarnalar,6.0
+1207a9ee-adf8-4be9-934e-0350b76fba1a,Spaghetti Bolognese,"19,00 TL",Makarnalar,5.0
+7ab73795-7646-4227-87f4-5c03725e6055,Napolitan Soslu Makarna,"13,00 TL",Makarnalar,2.0
+bb0d6940-00d4-4fa2-ba47-31f82e977bb4,Bonfile Etli Fettuccine,"24,00 TL",Makarnalar,5.0
+bbb32c09-50d0-4c6b-9d30-6fe446269dd0,Penne Alla Carne,"24,00 TL",Makarnalar,5.0
+493f8991-16e2-4b33-ba9b-18637355a77a,Spaghetti Carbonara,"17,00 TL",Makarnalar,5.0
+9f5cb8e6-abd1-4719-8565-b813177bc1ca,Yoğurtlu Makarna,"15,00 TL",Makarnalar,4.0
+0d6ec731-6c88-455b-9c72-b3c85de0c3e8,Cheese Penne,"15,00 TL",Makarnalar,5.0
+59bd1360-6c15-49b6-9d23-5123755db233,Tagliatelle Al Tonno,"20,00 TL",Makarnalar,6.0
+c8f0372d-9701-42c6-b1f6-1338a4d593c7,Patates Kızartması,"8,00 TL",Yan Ürünler,3.0
+1f2a4bf6-e66c-4ef0-8f7d-d2c4ea130633,Sigara Böreği (5 Adet),"9,00 TL",Yan Ürünler,5.0
+60b4d261-098e-4b20-8bcf-8883b3c16c60,Soğan Halkası (9 Adet),"9,00 TL",Yan Ürünler,5.0
+33320fe5-9d0a-4161-8843-0e8883fa5805,Elma Dilim Patates Kızartması,"9,00 TL",Yan Ürünler,3.0
+18b0732a-fbce-461f-92a8-5afce597fefe,Lina Atıştırma Tabağı,"17,00 TL",Yan Ürünler,5.0
+7f69a227-4b82-4e63-aa75-69ba5a710b43,Izgara Sosis,"12,00 TL",Yan Ürünler,3.0
+93fd6b44-8b51-45e8-8de0-40b3c4019931,Izgara Tavuklu Salata,"21,00 TL",Salatalar,4.0
+6fed2904-c9f0-4094-939b-7b989a81980b,Beef Salata,"27,00 TL",Salatalar,5.0
+262e3c68-7763-484e-b4c5-f6233fa05656,Hellim Peynirli Salata,"25,00 TL",Salatalar,5.0
+8ff22c34-3abc-409c-a41d-04ff08ed279a,Ton Balıklı Salata,"21,00 TL",Salatalar,5.0
+e9110b79-fd9d-44f8-a790-a8c6eadf29d8,Çıtır Tavuklu Salata,"21,00 TL",Salatalar,6.0
+52e438f6-ab92-4fe5-9f06-25d94b42e9ec,Akdeniz Salata,"14,00 TL",Salatalar,5.0
+9d066685-beba-4c46-9cca-e2cc80c977a0,Keçi Peynirli Salata,"20,00 TL",Salatalar,5.0
+47496983-1ba2-422d-ab32-db24f8e598c8,Izgara Tavuklu Sezar Salata,"21,00 TL",Salatalar,4.0
+a57bdc76-9240-4b04-96a8-049b67d75550,Çoban Salata,"14,00 TL",Salatalar,5.0
+6c482ff1-9f36-4079-85fd-fa7dead227f5,Karışık Salata,"14,00 TL",Salatalar,7.0
+6e6a0bbe-f412-4492-8118-708a0af77b19,Limonlu Cheesecake,"15,00 TL",Tatlılar,5.0
+d6e26b89-467e-40ee-b4f5-a858af24f81e,Frambuazlı Cheesecake,"15,00 TL",Tatlılar,5.0
+ae781b28-9da1-4924-85f4-719ef5033810,Tiramisu,"15,00 TL",Tatlılar,5.0
+d05cef48-51f2-452d-9331-d2ba95293775,Künefe,"10,00 TL",Tatlılar,5.0
+b20f8e01-ee8c-4e2d-8d98-3a74fb454c30,Yaş Pasta (Dilim),"15,00 TL",Tatlılar,5.0
+fe69ad6b-2324-4247-a60d-5838f1843afe,Meyve Tabağı,"15,00 TL",Tatlılar,5.0
+1C86C10D-B457-4928-8AE6-89AAF35D06CC,Meşhur Bayram Kömbesi (1 kg.),"15,00 TL",Tatlılar,5.0
+d80c4866-a963-479e-bced-21a63b391847,Su,"2,00 TL",İçecekler,4.0
+8e0ba52e-dda0-463b-9359-69d26ce4d9bc,Poşet,"0,25 TL",Poşet,5.0

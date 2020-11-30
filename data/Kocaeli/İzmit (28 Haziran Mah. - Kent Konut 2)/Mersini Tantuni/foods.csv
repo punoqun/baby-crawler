@@ -1,0 +1,41 @@
+food_id,food_name,food_price,food_category,food_score
+1a000848-a5a1-495c-b809-0bee1e323fde,Menü 1,"16,00 TL",Ekonomik Menüler,6.0
+7e79fc31-ec1a-4097-bd9c-7da0a50561f8,Menü 2,"25,00 TL",Ekonomik Menüler,-1.0
+aa62f1a6-7665-49c5-b186-cb952bbeeda0,Menü 3,"21,00 TL",Ekonomik Menüler,10.0
+4e722b29-1faa-4d54-b056-b11c379e915d,Menü 4,"35,00 TL",Ekonomik Menüler,10.0
+6a1b9f67-7e49-49bd-9cb0-2085743f3c18,Menü 5,"18,00 TL",Ekonomik Menüler,4.0
+e1de8d9e-ccb8-4ffd-a3b3-c591b06c6b71,Menü 6,"23,00 TL",Ekonomik Menüler,6.0
+7cdf57c8-d766-4d68-b2e9-03ee523e2ebd,Yoğurtlu Biftek Tantuni,"19,00 TL",Biftek Tantuniler,18.0
+a497d4ae-471c-47fe-87dc-c03e38b27f32,Kaşarlı Biftek Tantuni Dürüm,"19,00 TL",Biftek Tantuniler,17.0
+687ec1ba-e304-4b8b-a801-d58855435c5e,Kaşarlı Yoğurtlu Biftek Tantuni,"22,00 TL",Biftek Tantuniler,20.0
+90bb665a-00bf-43e7-b7ed-ccfc632d10bc,Biftek Tantuni Dürüm,"16,00 TL",Biftek Tantuniler,15.0
+5a52bcf3-efb1-4929-bc50-3b296d8d939e,Yarım Ekmek Arası Biftek Tantuni,"16,00 TL",Biftek Tantuniler,7.0
+7aedecb8-6392-48bc-82ca-f24696f9f576,Kaşarlı Et Tantuni Dürüm,"18,00 TL",Et Tantuniler,16.0
+0462f105-a8bc-4fba-b161-33c30e9c40da,Yoğurtlu Et Tantuni,"18,00 TL",Et Tantuniler,17.0
+9788eee3-2fff-496c-a954-7a20e27d50bb,Kaşarlı Yoğurtlu Et Tantuni,"21,00 TL",Et Tantuniler,19.0
+0337dbf0-4853-4fc8-b405-970dcd7a3bfd,Yarım Ekmek Arası Et Tantuni,"15,00 TL",Et Tantuniler,6.0
+b2cf2a2e-cab8-42eb-9097-b3c0c0c4c981,Et Tantuni Dürüm,"15,00 TL",Et Tantuniler,19.0
+71fcf221-ec63-47b5-a9fd-d881cd0f9832,Yoğurtlu Tavuk Tantuni,"13,00 TL",Tavuk Tantuniler,16.0
+8b2d6b16-b906-4b4a-a634-5ba28535667e,Kaşarlı Tavuk Tantuni Dürüm,"13,00 TL",Tavuk Tantuniler,15.0
+37d5fc11-1c74-4af5-80bf-fc0ccbd563e4,Kaşarlı Yoğurtlu Tavuk Tantuni,"16,00 TL",Tavuk Tantuniler,18.0
+eb4aded1-91e5-4442-9d12-8475bd52280f,Tavuk Tantuni Dürüm,"10,00 TL",Tavuk Tantuniler,18.0
+fdd5d04c-eb5e-40ae-af5b-90654f530cac,Yarım Ekmek Arası Tavuk Tantuni,"10,00 TL",Tavuk Tantuniler,10.0
+72d271c7-d996-4c4d-b656-1c16c40a0f1e,Ekmek Arası Kaşarlı Tavuk Tantuni,"13,00 TL",Tavuk Tantuniler,4.0
+89a841c6-3399-4726-89e5-36b7d3cebf96,Çiğ Köfte Dürüm,"5,00 TL",Çiğ Köfteler,11.0
+e28e1bf2-fa18-4cf6-bba3-4314dd567701,Çiğ Köfte (200 gr.),"10,00 TL",Çiğ Köfteler,5.0
+08d8dab4-bc27-4e19-8b04-70ded4a1d06c,Çiğ Köfte (400 gr.),"20,00 TL",Çiğ Köfteler,5.0
+1e20b310-a5b5-497a-8bc5-610066f636f6,Çiğ Köfte (1 kg.),"50,00 TL",Çiğ Köfteler,5.0
+57c11acc-d08e-464f-9b3e-5fdf67e5c3e5,Patates Kızartması (Küçük),"6,00 TL",Yan Ürünler,6.0
+141fd3c3-c8e7-4e8a-b9f4-40795dc9f53c,Patates Kızartması (Orta),"9,00 TL",Yan Ürünler,6.0
+43f7cbb0-71c6-4407-a77c-53875284addb,Patates Kızartması (Büyük),"12,00 TL",Yan Ürünler,6.0
+5aec6d7b-e200-4d53-a08b-c13f810df99b,Eker Sütlaç,"6,00 TL",Tatlılar,5.0
+a208d1a4-de37-45b9-aa28-0c31d44ad2b7,Eker Profiterol,"6,00 TL",Tatlılar,5.0
+67d4bcd5-b03d-403f-b3d8-765ec0b9ecf6,Eker Supangle,"6,00 TL",Tatlılar,5.0
+d04c1573-6267-4097-b89e-772793331bea,Fırın Sütlaç,"10,00 TL",Tatlılar,5.0
+2bbeb741-c3fe-4b2c-8ca7-7572790475ed,Eker Kazandibi,"6,00 TL",Tatlılar,5.0
+93c66fb1-be7c-4e8d-9ea7-945890972805,Künefe,"12,00 TL",Tatlılar,3.0
+ffbb9274-5150-4b6d-99b0-dd883ee1d475,Niğde Gazozu,"3,50 TL",İçecekler,5.0
+03d746bf-baf9-40f6-8b79-9256a19d736a,Su,"1,50 TL",İçecekler,5.0
+e5ffadae-ae25-4fa3-b9d5-162a3abfb3d0,"Fanta (2,5 L.)","9,00 TL",İçecekler,5.0
+aac958ea-8b89-4dfc-a820-f3e2c4c7920a,Coca-Cola (2 L.),"5,50 TL",İçecekler,5.0
+3047bc5a-10b9-40d4-94dc-ccea810f0732,Poşet,"0,25 TL",Poşet,5.0

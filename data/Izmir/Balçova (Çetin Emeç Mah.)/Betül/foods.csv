@@ -1,0 +1,44 @@
+food_id,food_name,food_price,food_category,food_score
+1C966F1D-AEF7-43EC-9F2F-AC7FB85182DE,Frambuazlı Pasta (Adet),"22,00 TL",Adet Tatlılar,9.0
+243A9B03-BEBA-489E-8107-64B00F12DA48,Çilekli Pasta (Adet),"22,00 TL",Adet Tatlılar,9.0
+BB17B44A-3F80-43F4-BC68-77E5BBAEF208,Üçgen Çilekli Pasta (Adet),"20,00 TL",Adet Tatlılar,9.0
+5C016B6B-A3CF-4A07-9008-D5B7A46A5D16,New York Usulü Dilim Cheesecake(1 Kişilik),"19,00 TL",Cheesecakes,5.0
+EC1E2992-1B9E-4888-B04B-20F7D48BA24D,Bask Cheesecake (Dilim),"22,00 TL",Cheesecakes,7.0
+265F9309-3173-4B48-94FF-07150DB9483B,Supangle,"17,00 TL",Sütlü Tatlılar,5.0
+47F9C73E-48BB-4FFC-BB6F-630FB9310276,Profiterol,"17,00 TL",Sütlü Tatlılar,11.0
+86C7DD92-8E1D-480B-8E34-A1CD709ECCF1,Kazandibi,"17,00 TL",Sütlü Tatlılar,7.0
+E4F1D188-E552-43F0-9EDE-251702ADA4E7,Fırın Sütlaç,"15,00 TL",Sütlü Tatlılar,7.0
+3268BABF-9C65-4699-BE51-DEFC9B239C9F,Keşkül,"15,00 TL",Sütlü Tatlılar,5.0
+53FF47DB-AFC8-4802-A221-405C46DDA630,Aşure,"15,00 TL",Sütlü Tatlılar,5.0
+81550246-5FFB-41BD-962A-1F2D3C9EC54C,3’lü Makaron,"18,00 TL",Tatlılar,5.0
+92C6741C-7749-42E2-89E7-D9C59A4E910C,6’lı Makaron,"36,00 TL",Tatlılar,5.0
+5C7D7C06-C2BC-4135-AE43-34FF756C8B7B,Çilekli Tart (1 Kişilik),"16,50 TL",Tartoletler & Eklerler,7.0
+EE4C3125-49FD-4345-841B-3753E2CF09A7,Ananas Bademli Tart (1 Kişilik),"16,50 TL",Tartoletler & Eklerler,11.0
+683B8A14-7F85-4942-B04B-0D7CBA0CB1D0,Karışık Meyveli Tart (1 Kişilik),"16,50 TL",Tartoletler & Eklerler,7.0
+249A60B6-1C1B-405A-BFCB-5C0D8FAE4426,Love Brownie,"15,00 TL",Kekler & Brownies,10.0
+D613B557-2C0A-4C77-910D-CB78B6729856,Ev Keki (Bütün),"45,00 TL",Kekler & Brownies,5.0
+1E17B4C6-698E-4D58-B196-33A71F28BD9D,4 Kişilik Ananas Bademli Yaş Pasta,"56,00 TL",4 Kişilik Pastalar,21.0
+B98710F2-F2BC-48D5-B8B1-93503DC3DD52,4 Kişilik Çikolatalı Yaş Pasta,"56,00 TL",4 Kişilik Pastalar,20.0
+353C0C60-D428-42F3-9387-B8B24C57BE29,4 Kişilik Krokan Çikolatalı Yaş Pasta,"56,00 TL",4 Kişilik Pastalar,24.0
+7CCF8A1C-258F-46AD-9F8E-944D84D5E3E9,4 Kişilik Kestaneli Çikolatalı Yaş Pasta,"56,00 TL",4 Kişilik Pastalar,20.0
+3D75300F-A694-45F9-BAA7-88E8BC5F370F,4 Kişilik Meyveli Çikolatalı Yaş Pasta,"56,00 TL",4 Kişilik Pastalar,20.0
+087558CB-32FE-4E7D-9DF2-A0A623B2BF79,4 Kişilik Vişneli Çikolatalı Yaş Pasta,"56,00 TL",4 Kişilik Pastalar,20.0
+76838C76-132D-4029-8246-FD1C2925A6B9,6 Kişilik Meyveli Yaş Pasta,"84,00 TL",6 Kişilik Pastalar,13.0
+DE4605DF-EB35-440D-A8DD-F3A206AFF5C2,6 Kişilik Meyveli Çikolatalı Yaş Pasta,"84,00 TL",6 Kişilik Pastalar,16.0
+B45673A4-32C3-4B18-9B2E-06A8F01E16F4,6 Kişilik Orman Meyveli Çikolatalı Yaş Pasta,"84,00 TL",6 Kişilik Pastalar,16.0
+BEDC006A-AB87-480E-8FAB-53FF38BB5FA2,Acı Badem Kurabiye (1 Adet),"15,00 TL",İçecekler,5.0
+B91FFEF9-BAFA-4FDC-A117-169E00BC2A8D,Paket Mini Acı Badem (125 gr.),"17,50 TL",İçecekler,5.0
+A55D5E08-FF65-465E-BC7A-7CCF8A4DFDDE,Sade Beze (100 gr.),"12,50 TL",İçecekler,5.0
+54A501C5-F2FC-4B20-B6A1-196A81FCB76A,Çikolatalı Beze (100 gr.),"15,00 TL",İçecekler,9.0
+C80BFDB3-2B8C-4125-A1F8-198580AE083B,Caffe Latte (25 cl.),"14,00 TL",Sıcak Kahveler,5.0
+6F6B0ED5-8F2F-4C3E-8936-F416F932196B,Americano (25 cl.),"14,00 TL",Sıcak Kahveler,5.0
+EF03820C-CED5-4F1B-8A30-396E199676A8,Tatlı Kuru Pasta (250 gr.),"15,00 TL",Kiloluk Kuru Pastalar,11.0
+51196D7B-FB52-4F22-92B0-2EE53B094BFC,Tatlı Kuru Pasta (500 gr.),"27,50 TL",Kiloluk Kuru Pastalar,11.0
+D04D61C1-C9FE-4F8D-8A65-B4BA05E60607,Tatlı Kuru Pasta (1 kg.),"55,00 TL",Kiloluk Kuru Pastalar,11.0
+4EE0AD74-FA59-4EA1-B8DA-F8E9E192AA34,Tuzlu Kuru Pasta (250 gr.),"15,00 TL",Kiloluk Kuru Pastalar,11.0
+5A21D859-917E-41F2-9F02-0F4A46C0F3A8,Tuzlu Kuru Pasta (500 gr.),"27,50 TL",Kiloluk Kuru Pastalar,11.0
+FDD91671-2B4E-4B20-BEC7-1637D41ED031,Tuzlu Kuru Pasta (1 kg.),"55,00 TL",Kiloluk Kuru Pastalar,11.0
+F01ECB99-0441-4BD0-817A-5B68E5D4B940,Kandil Simidi (300 gr.),"17,50 TL",Kiloluk Kuru Pastalar,5.0
+1AEB151B-E88E-47A9-B1A7-9E02D026FAE7,Kandil Simidi (600 gr.),"33,00 TL",Kiloluk Kuru Pastalar,5.0
+ADD15864-9AC6-4A52-BD91-EC30C9D8CAA8,Kandil Simidi (1 kg.),"55,00 TL",Kiloluk Kuru Pastalar,5.0
+5fd80652-1eda-4243-a371-b08a1c4fd2a0,Poşet,"0,25 TL",Poşet,5.0

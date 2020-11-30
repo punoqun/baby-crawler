@@ -1,0 +1,59 @@
+food_id,food_name,food_price,food_category,food_score
+a49d1edf-32b7-4f8c-b84c-d8e26692d26a,15 cm. Sandviç Menü,"22,00 TL",Menüler,10.0
+8018996d-c447-4680-aa55-9cf6693e2543,30 cm. Sandviç Menü,"28,25 TL",Menüler,4.0
+3015ee52-9c41-4b28-86cd-185471fafaa3,3'lü Cookie Fırsatı,"9,00 TL",Menüler,8.0
+cc060b6e-240f-4163-b155-10f2c9dce0b8,12'li Cookie Fırsatı,"32,00 TL",Menüler,8.0
+49bd431e-2a5e-4973-9742-e996d4dbe4d1,Sucuklu Sandviç (15 cm.),"19,00 TL",Sandviçler (15 cm.),4.0
+503c3fa4-fc57-4c96-83f7-ee47b0b02a68,Subway Melt Sandviç (15 cm.),"21,75 TL",Sandviçler (15 cm.),5.0
+07b6a8d8-3eb2-455e-8dd9-abbb38051097,Sebze Keyfi Sandviç (30 cm.),"21,75 TL",Sandviçler (30 cm.),3.0
+4ec05de1-9bf2-4dd0-aa19-da5b7eda344d,Beyaz Peynir & Domates Sandviç (30 cm.),"22,50 TL",Sandviçler (30 cm.),5.0
+34ced65b-a7cd-4099-9f8f-123b5659ab30,Baharatlı İtalyan Sandviç (30 cm.),"25,00 TL",Sandviçler (30 cm.),6.0
+b42d43db-af0b-4755-bb45-2f21faa8a456,Hindi Göğüs Sandviç (30 cm.),"25,50 TL",Sandviçler (30 cm.),3.0
+bc4a41fc-f7f2-4858-8f09-ab905ea70bce,Sucuklu Sandviç (30 cm.),"28,00 TL",Sandviçler (30 cm.),5.0
+ac39e71f-84a0-4fd3-ac62-f2f4b4bf9c61,Hindi Jambon Sandviç (30 cm.),"31,00 TL",Sandviçler (30 cm.),3.0
+9ea4073f-09a4-45c7-ac6c-9a57221be973,Ton Balıklı Sandviç (30 cm.),"31,00 TL",Sandviçler (30 cm.),5.0
+e2934304-4831-4e1e-9839-c9aaa5ba99bf,İtalyan B.M.T Sandviç (30 cm.),"31,00 TL",Sandviçler (30 cm.),6.0
+e48a0f63-7c74-42f4-b949-9cb73851fb92,Subway Melt Sandviç (30 cm.),"31,50 TL",Sandviçler (30 cm.),6.0
+958df5d6-1746-4bb4-a5d0-e7d12a11088e,Teriyaki Tavuk Sandviç (30 cm.),"32,00 TL",Sandviçler (30 cm.),9.0
+9432a3eb-ee40-4862-9421-1dfcf622026d,Tavuk Fileto Sandviç (30 cm.),"31,50 TL",Sandviçler (30 cm.),4.0
+580ff16d-9d5e-43cd-80fd-e803d4922628,Subway Club Sandviç (30 cm.),"34,75 TL",Sandviçler (30 cm.),6.0
+ad9b86b2-f21f-434e-8ec9-8d86c5468511,Biftek Peynirli Sandviç (30 cm.),"34,75 TL",Sandviçler (30 cm.),4.0
+9f415a92-115a-4bcd-bb0b-f5985ba27197,Roastbeef Sandviç (30 cm.),"34,75 TL",Sandviçler (30 cm.),5.0
+76bb9a89-87d0-4e7a-b96e-6ccc72dc8fca,Tavuk Lokmalı Tombik Sub,"10,50 TL",Tombik Sub ve Sub Toasty Sandviçler,5.0
+3add0989-810e-4bef-abae-4290bbc9348d,Piliç Köfteli Tombik Sub,"10,50 TL",Tombik Sub ve Sub Toasty Sandviçler,6.0
+74fccb17-7246-4544-886a-20de0c955df4,Sebze Keyfi Dürüm,"15,50 TL",Dürümler,3.0
+d66d3222-2377-4cfb-87b7-d3c37c0dcda8,Baharatlı İtalyan Dürüm,"17,50 TL",Dürümler,6.0
+0d0b150a-6c74-4642-a09d-2926e44c2150,Hindi Göğüs Füme Dürüm,"17,75 TL",Dürümler,3.0
+9c56e560-c2cb-448b-a737-c8379a224683,Deniz Ürünleri - Yengeç Dürüm,"17,50 TL",Dürümler,4.0
+bc6155d6-1daf-4f65-b8f7-bb229a326895,Sucuklu Dürüm,"19,00 TL",Dürümler,5.0
+5f24abd0-11b6-40b2-820b-da2dbeead29f,Hindi But Jambon Dürüm,"21,25 TL",Dürümler,3.0
+8ec8b48b-5273-4b1f-8510-60ae17d103d4,Tuna Dürüm,"21,25 TL",Dürümler,4.0
+3b180eee-c730-4506-a79e-7746fdc6d676,Köfte Dürüm,"21,25 TL",Dürümler,6.0
+928ee634-92fd-497f-bd35-39122fab9a2e,Italian B.M.T. Dürüm,"21,25 TL",Dürümler,5.0
+2758702c-5d9a-4417-b2c0-b6dbe7152e99,Subway Melt Dürüm,"21,75 TL",Dürümler,6.0
+257f1a04-da3e-4fa8-86ed-847c9482b8e9,Teriyaki Tavuk Dürüm,"22,00 TL",Dürümler,4.0
+6343b1f4-d1c5-4fbe-bc9b-dd80db8033e1,Tavuk Fileto Dürüm,"21,75 TL",Dürümler,4.0
+3aefd709-a822-4413-8ea1-73f17c9da7e5,Subway Club Dürüm,"24,75 TL",Dürümler,6.0
+4d113521-e7b0-424c-b24a-90f8f0649ba6,Biftek & Peynir Dürüm,"24,75 TL",Dürümler,4.0
+d57d6691-8d03-4e86-b800-279b6e89638f,Mozzarella Peynirli Salata,"24,90 TL",Salatalar,5.0
+ab64ae11-aa87-4770-b4c8-9a9af770f4c9,Süzme Peynirli Salata,"24,90 TL",Salatalar,5.0
+dfec9971-6d12-4ad9-b91f-526dc03e8672,Köfte Salata,"25,25 TL",Salatalar,6.0
+75f6c822-6ac7-4df8-9d87-238b36a1f154,Hindi But Jambon Salata,"25,25 TL",Salatalar,3.0
+fd238ac7-3799-46c9-914d-d4caa8b359af,Subway Melt Salata,"25,75 TL",Salatalar,6.0
+a7c66c79-62ec-499d-b8f7-fcd42bede5d1,Cookies (3 Adet),"13,50 TL",Cips & Cookies,7.0
+1d9b0f5d-8b09-4e67-8cac-62bbffcd5394,Cookies (12 Adet),"48,00 TL",Cips & Cookies,6.0
+e4b3d0c2-0ba2-4a06-8303-ac73cda252d9,Sade Ruffles,"2,00 TL",Cips & Cookies,12.0
+e5b85b7e-0729-4965-adb4-d3bf9cfe1cd9,Baharatlı Doritos,"2,00 TL",Cips & Cookies,5.0
+4b507cbb-3f12-47db-ae8f-b9f7153f3cc1,Chicken Sub Dips,"9,90 TL",Yan Ürünler,6.0
+1119a4d0-1003-45aa-b973-6448bbaa78a2,Fırında Elma Dilim Patates (120 gr.),"8,90 TL",Yan Ürünler,5.0
+2d3aa867-abba-4971-90f9-a79e368f73d9,Coca-Cola (33 cl.),"5,50 TL",İçecekler,5.0
+549123ec-64a3-429b-a458-612b562670b7,Coca-Cola Light (33 cl.),"5,50 TL",İçecekler,5.0
+b47b8d0c-f189-475d-a3e8-e614dff21f62,Coca-Cola Şekersiz (33 cl.),"5,50 TL",İçecekler,5.0
+ddc7fa8d-b27f-43ad-be5d-02acbd5337f4,Fanta (33 cl.),"5,50 TL",İçecekler,5.0
+7b7772b5-d439-41c1-85b4-84125d2be6de,Cappy (33 cl.),"5,50 TL",İçecekler,5.0
+942c8880-da58-4739-a472-80803b71a6cf,Fuse Tea (33 cl.),"5,50 TL",İçecekler,5.0
+fa08a531-ea4a-4a5f-8a0b-5bfd892de766,Ayran (30 cl.),"5,00 TL",İçecekler,6.0
+06ef1031-7bd5-436d-b920-3fcbe8638210,Meyveli Soda,"2,50 TL",İçecekler,5.0
+cad833fa-1c10-4296-aa50-82c11b06164e,Soda,"3,00 TL",İçecekler,5.0
+dceca0e5-b916-49b7-92ef-3b4e6950542b,Su,"2,00 TL",İçecekler,10.0
+2e73e82e-dcc0-4eab-ba90-f1bd56e800fc,Poşet,"0,25 TL",Poşet,5.0

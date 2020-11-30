@@ -1,0 +1,38 @@
+food_id,food_name,food_price,food_category,food_score
+5495e966-0636-4f38-8baf-abf5a5f14b43,Lahmacun,"6,00 TL",Lahmacunlar,12.0
+c19a460f-ddc3-4fc5-b251-e11d2e799ce6,Kaşarlı Pide,"20,00 TL",Pideler,13.0
+754ae862-2226-4fb3-85d5-d155ad641b08,Mantarlı Kaşarlı Pide,"23,00 TL",Pideler,13.0
+86e94681-6065-437e-927f-2936be0ac6ef,Kıymalı Pide,"22,00 TL",Pideler,6.0
+e43c0e3b-84fe-4a62-9a1f-515f296e93cf,Kıymalı Kaşarlı Pide,"23,00 TL",Pideler,7.0
+32bf69c3-7f9d-44e4-ae00-9b0218989947,Peynirli Pide,"20,00 TL",Pideler,12.0
+8d482717-4d29-479a-a0b1-7b077f8b813d,Sucuklu Pide,"22,00 TL",Pideler,11.0
+b308efcc-a46a-408a-b535-b46645c84fad,Sucuklu Kaşarlı Pide,"23,00 TL",Pideler,12.0
+9c36cf8e-2846-4ad9-8818-e7f57ff2bc92,Kavurmalı Pide,"24,00 TL",Pideler,8.0
+83d4aca3-b245-493e-8d2a-06c3043bb5a6,Kuşbaşılı Pide,"24,00 TL",Pideler,16.0
+3e7213b7-f14e-4e23-93f7-714100e219cc,Karışık Pide,"25,00 TL",Pideler,13.0
+2db12f06-9700-4eaf-b7bb-93fd9fb7d4bb,Kuşbaşılı Kaşarlı Pide,"25,00 TL",Pideler,22.0
+414f3f87-27fb-4ffc-9e8d-b9d1a6fe7341,Kavurmalı Kaşarlı Pide,"25,00 TL",Pideler,14.0
+5a0c3a46-0672-4729-a2cc-51166fcda43d,Dört Mevsim Pide,"25,00 TL",Pideler,10.0
+006949ee-0430-4ccd-9c0c-2df101d50686,Görele Yağlısı Pide,"20,00 TL",Pideler,11.0
+e66ef57c-8c1c-445a-b5c1-88069236c45d,Adana Kebap,"25,00 TL",Kebaplar,5.0
+a140c7f0-4e3e-4a67-8744-4d32823236b2,Urfa Kebap,"25,00 TL",Kebaplar,5.0
+daed4cd9-0316-4560-9c45-82f60e5d7ae7,Yoğurtlu Kebap (Kıymadan),"30,00 TL",Kebaplar,5.0
+699bc4f0-ae45-4a59-af00-75fa887cd513,Tavuk Şiş,"22,00 TL",Izgaralar,7.0
+37a94800-2ad7-49b0-a0b6-4eb4181ec75e,Tavuk Kanat,"22,00 TL",Izgaralar,7.0
+b84be9bd-aa59-486f-955a-11e810feb542,Izgara Köfte,"25,00 TL",Izgaralar,5.0
+e913c15f-928e-440f-a55b-f491498b7a72,Tavuk Şiş Dürüm,"15,00 TL",Dürümler,7.0
+d93180d5-4a6f-466d-8eec-28c62d1b88a9,Adana Dürüm,"16,00 TL",Dürümler,5.0
+d675431d-ad5e-4e88-be6a-071b2a7140c5,Urfa Dürüm,"16,00 TL",Dürümler,5.0
+14955d2a-a3eb-4433-be67-7661a7c6f6fc,Kaşarlı Tavuk Şiş Fırın Dürüm,"16,00 TL",Dürümler,7.0
+10594a99-17af-4f7a-b06e-2e7bb18297ac,Kaşarlı Adana Fırın Dürüm,"18,00 TL",Dürümler,5.0
+f2a5bc1c-88ef-41a4-bc1f-1bc4f788323c,Kaşarlı Urfa Fırın Dürüm,"18,00 TL",Dürümler,5.0
+3e52f54d-71ca-48ba-b860-b735b5db1a35,Yarım Ekmek Arası Köfte,"16,00 TL",Ekmek Arası Ürünler,5.0
+7e852411-344c-468e-a7e2-af59270d4c28,Tulum Peynirli Salata,"13,00 TL",Salatalar,4.0
+2e0abc0a-8540-4a63-b1e1-3d6168113a70,Mevsim Salata,"12,00 TL",Salatalar,3.0
+a685562f-36d0-48ca-a244-398b70e15ded,Çoban Salata,"9,00 TL",Salatalar,4.0
+6850d8af-4b52-4807-953b-755ee1fe2cbc,Ezme Salata,"9,00 TL",Salatalar,4.0
+9D724841-1E4A-4032-B6CA-3A6349F014E7,Semizotu,"13,50 TL",Yan Ürünler,5.0
+84D731E1-6928-41D3-A764-524622907E79,Ezme,"13,50 TL",Yan Ürünler,5.0
+94056D79-1F3D-4A43-A66A-8D65D4F03BF0,Kuru Cacık,"13,50 TL",Yan Ürünler,3.0
+86de8d55-3af0-4d1a-90c5-bc47e6f65da6,Yoğurt,"8,00 TL",Yan Ürünler,5.0
+9c685ec2-3654-4efc-94ed-2991b4a2428d,Bulgur Pilavı,"6,00 TL",Yan Ürünler,5.0

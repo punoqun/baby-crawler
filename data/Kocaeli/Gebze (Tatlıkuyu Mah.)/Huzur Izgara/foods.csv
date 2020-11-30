@@ -1,0 +1,31 @@
+food_id,food_name,food_price,food_category,food_score
+cfcedd9e-941a-47e9-9239-58847b9feaa4,Adana Kebap,"30,00 TL",Kebaplar,-3.0
+111043e2-1476-4d0b-9e2c-ab3512bc38da,Urfa Kebap,"30,00 TL",Kebaplar,1.0
+2e1d335a-6e58-4391-9d4e-6b60b0aa4273,Tavuk Şiş,"20,00 TL",Izgaralar,3.0
+600c1321-5395-46b5-bbf2-5dc1453cbde2,Tavuk Kanat,"23,00 TL",Izgaralar,4.0
+5ea724c6-28d5-4427-899d-13dbbfcc2192,Izgara Köfte,"24,00 TL",Izgaralar,3.0
+8838db14-b9b3-481a-a83b-19fcf19035da,Karışık Izgara,"33,00 TL",Izgaralar,4.0
+a29296ab-ccf3-4187-93fa-04cd3e6c9245,Tavuk Pirzola,"20,00 TL",Izgaralar,4.0
+67F2EA2E-5DE7-4460-8BC9-63B013A92B6E,Yarım Ekmek Arası Izgara Köfte,"15,00 TL",Ekmek Arası Ürünler,1.0
+0ED74FDA-58BF-4939-A613-DE68B3154AB4,Tam Ekmek Arası Izgara Köfte,"22,00 TL",Ekmek Arası Ürünler,-1.0
+a3706c38-6fe6-4aaf-98c5-1e283a5662e3,Adana Dürüm,"18,00 TL",Dürümler,5.0
+2d38086e-c67a-4e73-bb05-dca63bace7b8,Urfa Dürüm,"18,00 TL",Dürümler,4.0
+161ab2f3-7d66-4019-a55b-79d93241aa1b,Tavuk Şiş Dürüm,"15,00 TL",Dürümler,4.0
+7768006e-4753-48e1-85d2-89ad14675a1e,Tavuk Döner Dürüm,"10,00 TL",Dürümler,7.0
+5a79b8e2-6011-4b50-bf53-10e1c40eab5b,Hamsi Tava,"25,00 TL",Balıklar,4.0
+e01e9f75-e9a8-4b5e-ab9f-e7ca951dc2f1,Pilav Üstü Tavuk Döner,"17,00 TL",Tavuk Dönerler,-5.0
+6e3109d7-6c46-4e51-8d92-d5e6571a4d9f,Tam Ekmek Arası Tavuk Döner,"14,00 TL",Tavuk Dönerler,-3.0
+542e2ab4-8a07-44af-b680-8bd347ff5008,Yarım Ekmek Arası Tavuk Döner,"7,00 TL",Tavuk Dönerler,-1.0
+c40d46dd-d764-46d7-905f-85e9473b0e69,Pilav,"7,00 TL",Diğer Lezzetler,-1.0
+b10ae886-484c-4465-b12d-1858a726ec90,Pilav Üstü Kuru Fasulye,"8,00 TL",Diğer Lezzetler,-1.0
+008b230b-7049-4895-befa-a5607fe0bf1c,Kuru Fasulye,"12,00 TL",Diğer Lezzetler,5.0
+f308b490-fe1c-4b24-aa71-f5ae1d71aeb8,Taze Fasulye,"12,00 TL",Diğer Lezzetler,5.0
+e10b31bd-e61e-4eca-8325-cf1e284533cb,Çoban Salata,"5,00 TL",Salatalar,5.0
+00d45393-92d3-433b-8779-c0551ed13f6b,Fırın Sütlaç,"8,00 TL",Tatlılar,5.0
+3fbe2e43-0cef-475f-9212-b891a15211a9,Yedigün (20 cl.),"4,00 TL",İçecekler,5.0
+78a6f5a5-e558-4aa2-8edb-6f2c67e2a5ee,Fruko (20 cl.),"4,00 TL",İçecekler,5.0
+b432b5c9-34bf-413a-a5ad-1cb579845e55,Pepsi (2 L.),"10,00 TL",İçecekler,5.0
+0a5eface-f6a3-47fd-b001-bbba0264ce9a,Yedigün (2 L.),"10,00 TL",İçecekler,5.0
+273cebd7-9ad1-4f50-b2f0-30849d963b48,Çıtır Tavuk (500 gr.),"25,00 TL",Kiloluk Ürünler,3.0
+166c7c05-4aff-4998-9e8c-096439607072,Tavuk Pirzola (500 gr.),"35,00 TL",Kiloluk Ürünler,4.0
+9fbb6572-ba39-40c1-8712-45dd07a3e27f,Tavuk Kanat (1 kg.),"60,00 TL",Kiloluk Ürünler,4.0

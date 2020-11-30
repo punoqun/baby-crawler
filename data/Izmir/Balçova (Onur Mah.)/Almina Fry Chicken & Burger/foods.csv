@@ -1,0 +1,59 @@
+food_id,food_name,food_price,food_category,food_score
+75b8a23f-2487-4e26-9bac-13819f6ebd57,Cheddarlı Izgara Bonfile Dürüm Menü,"25,00 TL",Ekonomik Menüler,10.0
+EDBFE01D-EE1A-449A-9796-731190957D1D,Mexican Tavuk Schnitzel Wrap Menü,"27,00 TL",Ekonomik Menüler,8.0
+667c8379-b28c-4792-8dc5-480e9b8c661a,Almina Cheese Köfte Dürüm Menü,"28,00 TL",Ekonomik Menüler,8.0
+85f45ce3-fe7f-4638-b0a9-a28d83ea9e42,Almina Acılı Cheddarlı Çıtır Dürüm Menü,"27,00 TL",Çıtır Tavuk Menüleri,10.0
+eeea7e92-0867-4e72-853b-6db9ce31a9ac,Almina BBQ Cheddarlı Çıtır Dürüm Menü,"27,00 TL",Çıtır Tavuk Menüleri,11.0
+6d955148-9188-4880-8e3c-38c05615242f,Almina Çıtır Burger Menü,"27,00 TL",Çıtır Tavuk Menüleri,5.0
+bdcf9cd8-4e36-492d-8ca0-2b9b712bbb3b,Almina Çıtır Dürüm Menü 1,"27,00 TL",Çıtır Tavuk Menüleri,29.0
+fc7c8fc1-3abb-4a4c-80a2-8c121d76d7ea,Bi Tatlı Acı Cheddarlı Dürüm Menü,"27,00 TL",Çıtır Tavuk Menüleri,12.0
+88b33a60-273e-4ea4-bd02-7da9d6520e4f,BBQ Cheeseburger Menü,"28,00 TL",Burger Menüleri,5.0
+8c66f596-dc43-4218-b932-9c3ef52732d3,Cheeseburger Menü,"28,00 TL",Burger Menüleri,5.0
+69ea8ad8-56e7-45a8-b8cc-5e6ac62c092d,Hamburger Menü,"28,00 TL",Burger Menüleri,5.0
+ba36f8ff-cb78-4e50-a965-bacb94392855,Maxi Cheeseburger Menü,"36,00 TL",Burger Menüleri,5.0
+56bf2f89-2b60-4c79-8c8a-ef3c73703052,Mexican Burger Menü,"28,00 TL",Burger Menüleri,6.0
+23cd8696-b8dc-49f6-bd4c-717d8860cdf6,Acılı Tavuk Dönerli Patso Dürüm Menü,"22,00 TL",Patatesli Menüler,13.0
+9F1F534B-C81A-4BE2-99BF-07030B034BA2,Bi Tatlı Acı Izgara Tavuklu Patso Dürüm Menü,"27,00 TL",Patatesli Menüler,16.0
+3008f161-7c0b-437d-85a7-e520f0ef81f7,Almina Bi Tatlı Acı Tavuk Dönerli Patso Dürüm Menü,"22,00 TL",Patatesli Menüler,16.0
+e4963b86-bc75-41fa-97c5-2d5a47222bf3,Almina Cheddarlı & Tavuk Dönerli Patso Dürüm Menü,"22,00 TL",Patatesli Menüler,19.0
+63925e03-f767-46fb-b169-470280c32cb5,BBQ Tavuk Döner Patso Dürüm Menü,"22,00 TL",Patatesli Menüler,14.0
+CBB0D702-DCE7-4C44-882A-B80BC9808FB1,Izgara Tavuklu Patso Dürüm Menü,"25,00 TL",Patatesli Menüler,14.0
+05270265-C2DD-4AAC-8A59-8EBF088E484D,Soğanlı Cheddarlı Tavuk Dönerli Patso Dürüm Menü,"22,00 TL",Patatesli Menüler,14.0
+06e5eb4e-4e65-418c-a3e9-0d53871af515,Sosisli Patso Dürüm Menü,"22,00 TL",Patatesli Menüler,14.0
+494800e9-9b37-487b-a4ae-f1c2eb4e9519,Almina Chicken Cheese Burger,"15,00 TL",Chicken Burgerler,4.0
+1d6f3f0b-2972-4c5a-b161-132ca3c0290a,BBQ Cheddarlı Çıtır Burger,"15,00 TL",Chicken Burgerler,5.0
+0bbd532e-380f-451b-90c8-a117bd2db85e,BBQ Cheeseburger,"17,00 TL",Burgerler,5.0
+9a9f79f4-975d-48c7-bc89-bf66f0ef07f9,Cheeseburger,"17,00 TL",Burgerler,5.0
+06981530-685f-4303-be7a-61f6e0115976,Hamburger,"17,00 TL",Burgerler,5.0
+0109f67f-bbbe-4455-9fa3-dc8165443499,Maxi Cheeseburger,"25,00 TL",Burgerler,5.0
+f27ae57c-0a45-4e84-a2b0-9283fbfbcb5f,Mexican Burger,"17,00 TL",Burgerler,6.0
+bfdec0b0-ce31-4ebd-a4d1-b16a128e8e91,Almina Acılı Cheddarlı Çıtır Dürüm,"15,00 TL",Çıtır Dürümler,10.0
+1E0FCB28-BCF1-4DD4-AAD2-78C5DB02AEB5,Almina Hindi Adana Patso Dürüm,"15,00 TL",Çıtır Dürümler,14.0
+c11aeccf-3e00-4468-a9d4-92a3c6d12d3f,Almina BBQ Cheddarlı Çıtır Dürüm,"15,00 TL",Çıtır Dürümler,11.0
+22ea08fd-d23b-4a15-b1a2-cb5a2f12fbf0,Almina Cheddarlı Çıtır Dürüm,"15,00 TL",Çıtır Dürümler,11.0
+e32f8e6f-8b67-4429-af21-50865965223a,Almina Cheese Köfte Dürüm,"17,00 TL",Çıtır Dürümler,8.0
+9522d7b6-aba4-46a2-819a-e3dee1b30d1a,Almina Çıtır Dürüm,"15,00 TL",Çıtır Dürümler,11.0
+90c4b90c-a438-4bc4-95ae-78090f3792ef,Almina Mega Çıtır Dürüm,"23,00 TL",Çıtır Dürümler,11.0
+75beeba6-4f68-4f82-8ef8-374194ac5f2f,Bbq Cheddarlı Izgara Tavuk Bonfile Dürüm,"15,00 TL",Çıtır Dürümler,10.0
+9597312e-816a-40d3-8fa3-698608df740d,Bi Tatlı Acı Cheddarlı Dürüm,"15,00 TL",Çıtır Dürümler,12.0
+a5eea97e-0541-4d41-b71f-bb5ba0ee63f6,Cheddarlı Izgara Tavuk Bonfile Dürüm,"15,00 TL",Çıtır Dürümler,10.0
+a709ca20-2934-403d-922f-b07d77c7a2cb,Almina Bi Tatlı Acı Tavuk Dönerli Patso Dürüm,"13,00 TL",Patatesli Ürünler,16.0
+f1ff6006-5d02-459e-a37a-de1d2d37f96d,Almina Cheddarlı & Tavuk Dönerli Patso Dürüm,"13,00 TL",Patatesli Ürünler,19.0
+c26906b0-d323-4e1c-9b12-4496ac098034,Almina Çıtır Tavuklu Patso Dürüm,"15,00 TL",Patatesli Ürünler,20.0
+bbaa7a77-2ffd-4ec7-9dda-d3f0f2485350,BBQ Izgara Tavuklu Patso Dürüm,"15,00 TL",Patatesli Ürünler,14.0
+29d4c90b-8644-4887-aa5a-d5b6c0bc7608,BBQ Tavuk Döner Patso Dürüm,"13,00 TL",Patatesli Ürünler,14.0
+60a760a3-0001-4eba-a3d5-d3ea6b05a63b,Cheddar Peynirli Patatesli Çıtır Dürüm,"10,00 TL",Patatesli Ürünler,11.0
+8d79e57f-55aa-4c46-996b-a91c24939253,Cheddarlı Izgara Tavuklu Patso Dürüm,"15,00 TL",Patatesli Ürünler,14.0
+b2c74bee-7fc2-4aa6-a571-4b08f810ac6e,Cheddarlı Köfteli Patso Dürüm,"15,00 TL",Patatesli Ürünler,14.0
+420d3bd0-0016-4e59-b575-b6328b03498f,Kaşarlı Tavuk Dönerli Patso Dürüm,"13,00 TL",Patatesli Ürünler,14.0
+53759925-9764-409e-b31e-62c974f0db97,Mega Tavuk Dönerli Patso Dürüm,"21,00 TL",Patatesli Ürünler,14.0
+00dd92b3-00a5-4217-b8c4-e0f7d6302ecf,Ranch Soslu Tavuk Dönerli Patso Dürüm,"13,00 TL",Patatesli Ürünler,15.0
+0d978e50-aa78-40e4-ab2e-51994b24970b,Sosisli Almina Patso BBQ Çıtır Dürüm,"13,00 TL",Patatesli Ürünler,15.0
+afe5577b-64a7-4601-8bbf-2dc63a24e678,Sosisli Almina Patso Bi Tatlı Acı Çıtır Dürüm,"13,00 TL",Patatesli Ürünler,17.0
+a187b38d-e36b-4f88-8c11-4d52d4195ff9,Sosisli Almina Patso Çıtır Dürüm,"13,00 TL",Patatesli Ürünler,15.0
+dd861e06-ff9d-4e39-8308-9e81ced3f965,5 Baharatlı Patates Kızartması,"8,00 TL",Yan Ürünler,10.0
+3bebaf15-ac45-48ff-8929-f3f913342344,Elma Dilim Patates Kızartması,"8,00 TL",Yan Ürünler,4.0
+df6f9f3a-67d9-435c-9eba-2276bd9d11d5,Patates Kroket (8 Adet),"9,00 TL",Yan Ürünler,4.0
+f0eabdcf-2bf3-4718-ad9b-d84112810b9a,Cheddar Peynirli Patates Kızartması,"12,00 TL",Yan Ürünler,4.0
+2495128b-5604-4072-a90a-718d677f9967,Tavuk Baharatı,"1,00 TL",Soslar,6.0
+b2cf9689-6209-467e-866d-528d44d8eb2e,Poşet,"0,25 TL",Poşet,7.0

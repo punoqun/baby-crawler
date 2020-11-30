@@ -1,0 +1,37 @@
+food_id,food_name,food_price,food_category,food_score
+5909bfb1-0495-4a62-ac87-d7f046df81a7,Et Dönerli Pide Menü,"26,00 TL",Menüler,3.0
+2a0d3347-1c17-4a8c-8a89-f51b930e9435,Tahinli Pide Menü,"22,00 TL",Menüler,3.0
+D53C7D00-D410-4179-9A69-CB81E7EDDF6C,Tost Menü,"23,00 TL",Menüler,4.0
+274C0216-CE9D-4966-925D-A56EA186DA09,Pizza Menü,"32,00 TL",Menüler,8.0
+3D9C2FD1-2A1E-40E9-88BC-E5C7A1AA3339,Dopdolu,"8,50 TL",Kahvaltılıklar,5.0
+43e0def8-a0cd-4a74-911f-680fb9e94dec,Haşlanmış Yumurta,"4,00 TL",Kahvaltılıklar,5.0
+A5777A16-2854-48B5-9477-225A2AE21619,Kaşarlı Tost,"12,00 TL",Tostlar,4.0
+8378A41B-A2AB-4263-9A9F-CA8FB4E38C22,Salamlı & Kaşarlı Bazlama Tost,"15,00 TL",Tostlar,4.0
+E49D1461-4F44-4428-B652-946CD7F93D9B,Karışık Tost,"13,00 TL",Tostlar,4.0
+7a19c154-ac66-4210-8dda-b32bfeae538f,Ayvalık Ekmeğine Karışık Tost,"15,00 TL",Tostlar,5.0
+01D377D1-FDF6-403B-B202-365E4709766D,Adana Usulü Kaşarlı Su Böreği (1 kg.),"65,00 TL",Börekler,3.0
+046C2BEC-2784-47B1-B82C-F9DCA9D4D0E2,Adana Su Böreği (3 kg.),"160,00 TL",Börekler,3.0
+BEDBCFFC-D5D1-432E-8609-2600763FA628,Adana Usulü Kaşarlı Su Böreği (500 gr.),"33,00 TL",Börekler,3.0
+095bee27-f1ef-4124-b980-5a8517ed6d21,Limonlu Cheesecake,"16,00 TL",Tatlılar,10.0
+785a967d-40f8-44d6-a00a-4eba7cc8d1ed,Kar Topu Pasta,"16,00 TL",Tatlılar,5.0
+ae8b5ed1-f204-42c0-a540-487775a7a277,Nutella Kek Pops,"16,00 TL",Tatlılar,5.0
+E4D1DF08-1563-424A-A71C-E7326A4975FA,Oreolu Cheesecake,"16,00 TL",Tatlılar,5.0
+39ED3D1C-82D9-4042-A333-85FF752C9A32,Sufle,"16,00 TL",Tatlılar,3.0
+BBBACE9D-B1E7-45B6-B7C4-4FC75B0E6704,Brownie (Dilim),"16,00 TL",Tatlılar,5.0
+0814301D-B236-4C56-8660-18EF017725D7,Bitter Çikolatalı Profiterol Pasta,"16,00 TL",Tatlılar,5.0
+689c580b-1645-4244-9c80-c1d95c05d29c,Beyaz Çikolatalı Profiterol Pasta,"16,00 TL",Tatlılar,5.0
+37A1C533-2A71-464F-B4AF-DF87E1BC4F08,Orman Meyveli Pasta,"16,00 TL",Tatlılar,5.0
+C33282C5-4135-4001-817A-A6A5A07C2FD2,Beyaz Çikolatalı Profiterollü Pasta (6 - 8 Kişilik),"90,00 TL",Pastalar (6 - 8 Kişilik),5.0
+2113DF89-7477-42CC-A697-57C972C7868B,Siyah Çikolatalı Profiterollü Pasta (6 - 8 Kişilik),"90,00 TL",Pastalar (6 - 8 Kişilik),5.0
+4005F39F-D79F-479C-BC53-1F7D371C87F4,Karışık Krokanlı Pasta (6 - 8 Kişilik),"90,00 TL",Pastalar (6 - 8 Kişilik),5.0
+a9cc3f04-153d-4b5c-a3ec-eedd3ff0b248,Limonata,"10,00 TL",İçecekler,5.0
+484a135e-19d1-4aed-a88d-a570d3d2c8a8,Taze Sıkma Portakal Suyu,"15,00 TL",İçecekler,7.0
+37d3fd00-e0fd-45b2-8633-fb456d853699,Americano,"12,00 TL",İçecekler,6.0
+25fba7d4-a7c9-447e-83ee-aba43f1a9340,Karışık Kurabiye (500 gr.),"35,00 TL",Kiloluk Ürünler,5.0
+5ab7810f-252b-410e-90f1-518fa5a30959,Elmalı Kurabiye (500 gr.),"35,00 TL",Kiloluk Ürünler,5.0
+789aca4f-c60e-4f6c-8c3a-b1c6d03cdcb9,Dereotlu Zeytinli Kurabiye (500 gr.),"35,00 TL",Kiloluk Ürünler,5.0
+799bf6f7-6105-471d-9345-df9686675833,Dereotlu Peynirli Kurabiye (500 gr.),"35,00 TL",Kiloluk Ürünler,5.0
+bbd7f615-166a-4cdf-8601-770fe2dd6695,Fındıklı Parça Çikolatalı Kurabiye (500 gr.),"35,00 TL",Kiloluk Ürünler,5.0
+c956594f-5dd4-412b-9473-b65b5f93366e,Çikolatalı Kurabiye (500 gr.),"35,00 TL",Kiloluk Ürünler,5.0
+e904e908-449e-44c1-8fae-a2aa12d4fcf7,İncirli Kurabiye (500 gr.),"35,00 TL",Kiloluk Ürünler,5.0
+d98fd2d4-2a4f-4561-bf8b-bb96319da1ec,Poşet,"0,25 TL",Poşet,5.0

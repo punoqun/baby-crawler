@@ -1,0 +1,28 @@
+food_id,food_name,food_price,food_category,food_score
+d5b3699b-d512-4944-a143-69cb0501074c,Sporcu Menü 1,"22,00 TL",Menüler,3.0
+ecc759a3-8932-4d7d-b8be-898de0a6b81c,Sporcu Menü 2,"25,00 TL",Menüler,6.0
+c1cadee4-49d5-44bb-a0f0-2590f62fbed3,Öğrenci Menü,"40,00 TL",Menüler,5.0
+c6786376-09f1-43b7-8aa1-ef51eaf38eef,Sade Pilav,"8,00 TL",Pilavlar,5.0
+57BF60D5-37D6-4CBB-B1AF-4877DD237B91,Pilav Üstü Tavuk Sote,"12,00 TL",Pilavlar,5.0
+9d2b7690-4fd6-4816-808b-c56be7c74d0f,Nohutlu Pilav,"8,00 TL",Pilavlar,9.0
+6dad30aa-14bb-4604-83b1-ca465f5ee997,Fasulyeli Pilav,"9,00 TL",Pilavlar,5.0
+13bf0d9d-c981-4f34-bb8b-8fd301f0f951,Salatalı Pilav,"9,00 TL",Pilavlar,3.0
+b66e9b68-4bd8-4fa7-940e-9326c8fccb01,Tavuklu Pilav,"9,00 TL",Pilavlar,10.0
+9ee4379e-cbec-4019-aaab-d11a5ea60e20,Nohutlu Tavuklu Pilav,"9,00 TL",Pilavlar,14.0
+0ac5f7ea-e359-49dd-aaa0-b989a34eb6b1,Tavuklu Salatalı Pilav,"10,00 TL",Pilavlar,8.0
+037519b9-091c-49ae-b829-3fa8782e32e7,Tavuklu Fasulyeli Pilav,"10,00 TL",Pilavlar,5.0
+e577ca79-da0d-499b-8506-3890fdb64850,Tavuklu Ciğerli Pilav,"11,00 TL",Pilavlar,5.0
+e64c1b38-d0da-4a42-8160-934751538669,Ciğerli Pilav,"15,00 TL",Pilavlar,5.0
+7c267be1-c195-4fb7-8561-b2fb152679c9,Karışık Pilav,"13,00 TL",Pilavlar,5.0
+f168ab0d-3f57-4322-a705-3d6273babbd5,Çiğ Köfte (250 gr.),"12,50 TL",Çiğ Köfteler,5.0
+da511a0d-e899-4236-89fc-fcd7d86b2dd7,Çiğ Köfte (500 gr.),"25,00 TL",Çiğ Köfteler,5.0
+fe1a8490-8129-4ae8-b42f-561d04a281c0,Çiğ Köfte (1 kg.),"50,00 TL",Çiğ Köfteler,5.0
+7ef6af5f-73c9-47a9-9612-8d62be1b4f18,Kuru Fasulye,"10,00 TL",Diğer Lezzetler,4.0
+6C1AD677-6B22-47E0-9DB1-B3399BE03F88,Tavuk Sote,"13,00 TL",Diğer Lezzetler,5.0
+A69F71DE-A165-4D94-BCA1-4D25900C324C,Çoban Salata,"7,00 TL",Salatalar,5.0
+05e13200-0802-4e30-a117-a4399e85eec1,Supangle,"6,00 TL",Tatlılar,5.0
+7154df48-ab10-4609-b8cc-c51472d37cfa,Profiterol,"6,00 TL",Tatlılar,5.0
+16f5e57f-b387-4bb4-88f7-9d7bb2d5860b,Fırın Sütlaç,"8,00 TL",Tatlılar,5.0
+6556b5f2-883d-4ba7-8261-c2b073c68812,Kıbrıs Tatlısı,"8,00 TL",Tatlılar,5.0
+DC307263-F6DD-4391-9E16-FFF66245C5BD,Yayık Ayran (20 cl.),"6,00 TL",İçecekler,5.0
+1b3178f9-f50c-4604-a577-211c5feca51c,Poşet,"0,25 TL",Poşet,5.0

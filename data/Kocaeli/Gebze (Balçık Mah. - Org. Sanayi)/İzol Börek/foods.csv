@@ -1,0 +1,41 @@
+food_id,food_name,food_price,food_category,food_score
+04b0c2f5-829c-48ac-b6f9-74e0a18ef64f,3'lü Bergama Köfte Burger Menü,"81,00 TL",Menüler,5.0
+ce2cfe01-d3df-45f3-93b7-08a1043be91d,3'lü Karışık Tost Menü,"57,50 TL",Menüler,11.0
+5d7dc10e-bbda-490d-89bf-c0e7dbb7c9fa,4'lü Bergama Köfte Burger Menü,"108,00 TL",Menüler,5.0
+e28cf401-6e39-43d0-be19-8878422fc232,4'lü Karışık Tost Menü,"77,50 TL",Menüler,11.0
+4eecf38b-5647-499c-bba5-344c625a21cc,5'li Bergama Köfte Burger Menü,"130,00 TL",Menüler,5.0
+4894e170-6949-4d63-8ea7-75c978c47a9e,5'li Karışık Tost Menü,"105,00 TL",Menüler,11.0
+a64c0911-001d-4535-bd15-06c308fb9563,Bergama Köfte Burger Menü,"29,00 TL",Menüler,5.0
+0124309b-c0d0-4c10-a8cd-10d7ba348ff4,Cheeseburger Menü,"31,50 TL",Menüler,5.0
+67c6ec21-fea1-46b4-9eb7-7cb29e598983,Hamburger Menü,"29,50 TL",Menüler,5.0
+616a2766-c254-4ddb-aeac-9db93a28a358,Karışık Tost Menü 1,"20,50 TL",Menüler,11.0
+ff0e9080-0e47-4819-8b99-5d58adfb9fa6,Karışık Tost Menü 2,"22,50 TL",Menüler,11.0
+3a2bb064-a593-4ca0-a324-90d35f8adc01,Kaşarlı Tost Menü 1,"21,00 TL",Menüler,10.0
+4677e329-c1ad-4d5c-a484-a11afbb31b03,Kaşarlı Tost Menü 2,"21,00 TL",Menüler,10.0
+febee4d4-a166-433b-91c6-320da31325b9,Kavurmalı Kaşarlı Tost Menü 1,"28,50 TL",Menüler,10.0
+f95cc1f2-ceaa-436a-a4bf-0a208c188c9a,Kavurmalı Kaşarlı Tost Menü 2,"29,00 TL",Menüler,10.0
+7e19dbfb-2a74-4446-8825-5745bc123624,Sucuklu Tost Menü 1,"21,00 TL",Menüler,10.0
+c5e18905-522d-428f-93b3-416e03274a9e,Sucuklu Tost Menü 2,"21,00 TL",Menüler,15.0
+3c7a07fb-dc09-4dfe-a29f-76ffa81e3630,Peynirli Adana Böreği (200 gr.),"13,00 TL",Börekler,10.0
+B7C6D29C-DE86-4EC5-8278-A41B5DFAFA2B,Mantarlı Börek (200 gr.),"16,00 TL",Börekler,7.0
+FCA6348E-4F9A-42F6-B66B-FA0F0FCA80A0,Kıymalı Adana Su Böreği (200 gr.),"16,00 TL",Börekler,5.0
+FF63AB57-F8FE-486C-9441-B751C7651952,Pastırmalı Adana Böreği (200 gr.),"18,00 TL",Börekler,5.0
+A79186AB-D1E4-4CBC-958D-F08176460006,Patatesli Börek (200 gr.),"15,00 TL",Börekler,7.0
+cb5a3904-36da-4eb4-91c9-54f77635fc07,Hamburger,"22,00 TL",Burgerler,5.0
+c11be087-4535-41b4-b4c8-4a546f772706,Bergama Köfte Burger,"22,00 TL",Burgerler,5.0
+3a29b343-d92c-4f17-8c12-a142a046c213,Patates Kızartması,"7,00 TL",Yan Ürünler,7.0
+65e0d36d-966b-4372-b1bf-61e9a5b43baf,Double Patates Kızartması,"9,00 TL",Yan Ürünler,7.0
+055af484-d9ed-471a-b63e-ef174a6d9390,Elma Dilim Patates Kızartması,"9,00 TL",Yan Ürünler,7.0
+6ed8b358-a26a-4cf1-bd3d-37028074a076,Soğan Halkası (6 Adet),"9,00 TL",Yan Ürünler,5.0
+0A2DBAAB-6AAB-4794-A8C7-6555A4D9704C,Patates Kızartması (Jumbo),"13,00 TL",Yan Ürünler,7.0
+d920e6da-1dbe-4e32-9bd4-e284a7afe7b7,Söğüş Tabağı,"7,00 TL",Yan Ürünler,5.0
+8afaf7bf-6a0d-4b11-b94c-3a7977447d8b,Duble Söğüş Tabağı,"9,50 TL",Yan Ürünler,5.0
+4a20e98d-3667-48a5-9ce4-a31c28abd90b,Süper Söğüş Tabağı,"13,00 TL",Yan Ürünler,5.0
+3cf7801d-e6b0-4ba7-a96f-d3deb8c8dbf9,Fıstıklı Baklava (1 kg.),"85,00 TL",Kiloluk Ürünler,5.0
+9770f439-1be2-4300-be80-1dc173a37964,Cevizli Baklava (1 kg.),"75,00 TL",Kiloluk Ürünler,5.0
+f6570ede-b190-482f-ab45-26648e00b54e,Peynirli Adana Böreği (1 kg.),"50,00 TL",Kiloluk Ürünler,5.0
+7905A464-0E5A-4C57-85CE-E5801317000A,Kıymalı Börek (1 kg.),"65,00 TL",Kiloluk Ürünler,7.0
+364A2A7C-D1DB-4101-B08C-3D6561833AD0,Mantarlı Börek (1 kg.),"65,00 TL",Kiloluk Ürünler,7.0
+30CDDC3D-56F1-4E66-9A5D-DEE0303E1421,Pastırmalı Börek (1 kg.),"70,00 TL",Kiloluk Ürünler,7.0
+08360029-30AC-4BC8-BCD6-0FE5CAC430E2,Patlıcanlı Börek (1 kg.),"65,00 TL",Kiloluk Ürünler,7.0
+74b80fb7-28d5-4f8d-adb3-d27bff183155,Poşet,"0,25 TL",Poşet,5.0

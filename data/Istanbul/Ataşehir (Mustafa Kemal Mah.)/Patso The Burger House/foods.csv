@@ -1,0 +1,58 @@
+food_id,food_name,food_price,food_category,food_score
+f77bd685-8844-4f01-ad8e-1bb8be0e84c0,Menü 1,"20,25 TL",Menüler,32.0
+3d47a35c-e53f-49b3-aec3-c54ddc897993,Menü 2,"22,50 TL",Menüler,12.0
+4a8cfbcc-a48e-41b5-8b88-e552ed7f9390,Menü 3,"20,25 TL",Menüler,12.0
+71bb3879-3972-4918-b7c6-506d21c279f9,Menü 4,"20,25 TL",Menüler,7.0
+f80be81a-cec5-4e1b-a04a-1ecc03ac1f40,Menü 5,"12,75 TL",Menüler,7.0
+7196d592-e084-4f0c-a9da-58b4f8fa34a6,Menü 6,"16,50 TL",Menüler,7.0
+f0dee126-44b9-40bd-93fe-095a3ae34d9e,Menü 7,"11,25 TL",Menüler,7.0
+b6701cff-acd8-4091-bc1d-7b4b9c3ac6ff,Menü 8,"20,25 TL",Menüler,7.0
+d71ed180-b227-4624-b40a-1205cf38a0e1,Menü 9,"26,25 TL",Menüler,7.0
+6368a0f9-efd7-4496-9e84-842a52faa72d,Menü 10,"21,75 TL",Menüler,26.0
+c5bf4f8c-bfb0-4a64-9744-2079f61caaed,Menü 11,"24,75 TL",Menüler,7.0
+6a735d5e-b552-4600-8711-8d0b41eb1442,Menü 12,"20,25 TL",Menüler,7.0
+762c7c8d-5fe5-4f0a-bd70-b3a3bc0c7a84,Menü 13,"22,50 TL",Menüler,7.0
+56ba2986-dc1e-4d03-98ad-ddbece01e927,Menü 14,"22,50 TL",Menüler,7.0
+3e1d6fe2-bf4e-49a0-9916-779156fbbd2b,Kaşarlı Tost,"6,38 TL",Tostlar,11.0
+33e42e70-6e80-4b37-82b9-f8405b014f00,Karışık Tost,"9,75 TL",Tostlar,9.0
+e6da9057-b44e-4af6-b306-d3ff2349c33d,The Tost,"14,25 TL",Tostlar,12.0
+174782b9-8b04-493b-9bd5-e25a3dd53e68,Ayvalık Tostu,"14,25 TL",Tostlar,6.0
+b66c6de7-ecad-4141-908e-d8e63871a11a,Süper Karışık Tost,"17,25 TL",Tostlar,11.0
+721ad3fd-f959-4763-b987-b93cbf0c3b7b,Süper Ayvalık Tost,"18,75 TL",Tostlar,10.0
+21a57939-3359-4863-bd4c-105af2a4625a,Köfteli Patso,"19,50 TL",Patsolar,6.0
+bc186929-4cb0-4525-b449-1661d48e4418,Kaşarlı Köfteli Patso,"18,75 TL",Patsolar,8.0
+1ae6b591-f819-4957-aad9-5509b2a880ca,Schnitzel Patso,"16,50 TL",Patsolar,6.0
+51db45b4-4560-4661-b96c-a3808b2026ff,The Patso,"17,25 TL",Patsolar,9.0
+a3832189-4af6-49ff-a51b-a4e6461f9abf,Patso,"11,25 TL",Patsolar,11.0
+b6644fce-d27c-4c13-8fcd-24a617f1b551,Sosisli Patso,"15,00 TL",Patsolar,14.0
+399a553d-bb31-48c2-9789-7139640e4556,Sosisli Kaşarlı Patso,"17,25 TL",Patsolar,11.0
+dcda7b89-57c3-4566-a9d4-cfce1c77dec6,Kaşarlı Patso,"14,25 TL",Patsolar,8.0
+b2ab5d04-4f4d-492c-95e5-6175230e6d24,Sucuklu Patso,"16,50 TL",Patsolar,6.0
+ec8ee68d-816b-4852-a1ef-b4931922d6a8,Karışık Patso,"19,50 TL",Patsolar,6.0
+ebffb3f7-1ed9-4f3a-83a8-0d30345afe3f,Amerikan Salatalı Sosisli Patso Sandviç,"18,00 TL",Patsolar,11.0
+07F74337-41F6-4E00-9CCF-03C5FBC2DB8A,Kaşarlı the Patso,"18,75 TL",Patsolar,13.0
+46734F18-6E22-4018-99B4-C005804EAEF9,Piliç Cordon Bleu Patso,"20,25 TL",Patsolar,6.0
+48b993d6-58b9-484b-a080-d05d0d411ece,Sosisli Sandviç,"6,75 TL",Sandviçler,15.0
+2e01894e-08fb-4d23-8908-3d01792273be,Sosisli Goralı Sandviç,"9,75 TL",Sandviçler,10.0
+e70a5b9a-ece0-4d5b-9718-40ac5394961c,Çılgın Sosisli Sandviç,"12,00 TL",Sandviçler,10.0
+7507107c-43d9-4a0e-bd4a-1139fb8265e8,Kumru Sandviç (Büyük),"18,75 TL",Sandviçler,7.0
+412c7d3f-c9fb-41e4-8542-73a08ed99192,Hamburger,"16,50 TL",Burgerler,5.0
+afe8ad91-5359-4db6-99b6-a0deaf3a0b92,The Burger,"26,25 TL",Burgerler,8.0
+0c53dc7a-b878-4675-9cb3-a4a158590b30,Big Burger,"22,50 TL",Burgerler,5.0
+56fa55e0-ccce-4171-8e27-3c4eddfade92,Cheeseburger,"22,50 TL",Burgerler,5.0
+33f50d67-a10f-4263-b8ad-a17711ec8911,Tavuk Burger,"15,75 TL",Burgerler,5.0
+0c02fb2f-344a-4343-b09f-1cce90eee1c6,Izgara Köfte,"20,25 TL",Izgaralar,5.0
+9648fe0c-6974-4778-886c-510c99019fb8,Izgara Kaşarlı Köfte,"21,75 TL",Izgaralar,7.0
+14e2914f-8266-41f4-8be4-42c1be29c915,Safranbolu Mantısı (250 gr.),"18,75 TL",Diğer Lezzetler,7.0
+86D4BEF7-E2BE-401A-BAAC-4C5E1A5EC2DE,Menemen,"15,00 TL",Diğer Lezzetler,5.0
+beaaede0-2bf1-474a-b261-ae0b98ea167c,Yarım Ekmek Arası Sucuk,"16,50 TL",Ekmek Arası Ürünler,5.0
+daaf259f-a0d1-49ab-a939-e21aa9d1ad2a,Izgara Köfte Sandviç,"15,00 TL",Ekmek Arası Ürünler,7.0
+5fb5c39f-c74d-4e11-9056-952531b929d4,Izgara Kaşarlı Köfte Sandviç,"17,25 TL",Ekmek Arası Ürünler,9.0
+e11c35cd-de04-4158-ad56-115636b91bc4,Soğan Halkası (8 Adet),"9,00 TL",Yan Ürünler,5.0
+c465c0c1-e457-4adc-b7f2-6e70f0799cb9,Tavuk Nugget (6 Adet),"11,25 TL",Yan Ürünler,5.0
+4A0AE6F5-7FFE-444A-AFEF-6BA63770FAF4,Hamsiköy Sütlaç,"11,25 TL",Tatlılar,5.0
+8dea370e-7a33-46d2-b106-afba981fe97d,Coca-Cola (30 cl.),"6,00 TL",İçecekler,5.0
+c3878e54-ab0c-4606-8811-c7ff38c771c6,Fanta (30 cl.),"6,00 TL",İçecekler,5.0
+b3f40e7d-6058-4c70-9f5b-2c3aadd342b8,Limonata,"7,50 TL",Vitamin Bar,7.0
+d6b30533-f181-417d-995e-516122b0ddad,Taze Sıkma Portakal Suyu,"10,50 TL",Vitamin Bar,5.0
+82e435ed-059b-4772-9e64-8da729b4e22b,Poşet,"0,25 TL",Poşet,5.0

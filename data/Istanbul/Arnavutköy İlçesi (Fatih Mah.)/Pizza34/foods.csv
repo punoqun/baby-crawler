@@ -1,0 +1,39 @@
+food_id,food_name,food_price,food_category,food_score
+9143CA05-4CC3-4202-95F7-BC528734BEBB,Ekonomik Menü,"49,99 TL",Menüler,5.0
+cc7a6e7d-bb3d-4f18-a821-5866f8181457,2'li Orta Boy Pizza Menü 1,"59,99 TL",Menüler,-1.0
+D548578F-A2DC-4B17-B304-AB07A17FD5F0,Acil Servis Menü,"69,99 TL",Menüler,6.0
+94A9C54F-CF02-4C3F-93CE-CB1B47371E64,Çılgın İkili Menü,"54,99 TL",Menüler,5.0
+414D58D4-FB54-4570-9DDC-1FCD30EAE4B8,Tek Başına Menü,"29,99 TL",Menüler,5.0
+0f45187e-386b-4f09-ab0c-81495a239984,Maç Menüsü,"49,99 TL",Menüler,5.0
+11511725-5903-4094-A0A5-7449E29C0758,Esnaf Menü,"49,99 TL",Menüler,5.0
+6bf41edc-6d78-48f3-ba50-025a507bf046,2'li Orta Boy Pizza Menü 2,"54,99 TL",Menüler,-3.0
+de5df9d0-7931-46d7-84ee-af47faf737e6,Meksika Pollo Pizza (Küçük),"22,90 TL",Küçük Boy Pizzalar (1 Kişilik),-4.0
+25b3e052-3a2d-46fa-8054-d8595649455c,Kavurmalı Pizza (Küçük),"23,90 TL",Küçük Boy Pizzalar (1 Kişilik),0.0
+dee0fdcf-6dfe-413e-b850-ad09383a9a1a,Formaggi Pizza (Küçük),"21,90 TL",Küçük Boy Pizzalar (1 Kişilik),-4.0
+3ce4dd78-42b7-4631-92ad-3c1dc1a94a28,Margarita Pizza (Küçük),"17,90 TL",Küçük Boy Pizzalar (1 Kişilik),-4.0
+c9fe7bb0-f556-4f99-ac46-4a58077f8441,Ton Balıklı Pizza (Küçük),"19,90 TL",Küçük Boy Pizzalar (1 Kişilik),-3.0
+cb85b2c1-c488-45ae-a2c5-b32afdad8f1e,Meksika Pollo Pizza (Orta),"29,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),-4.0
+CD0BFBBB-031A-4683-933A-3F1B74BA2C29,Bonfileli Pizza (Orta),"36,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),-4.0
+B9B35626-54FA-4D8F-861A-13AE6E3D3E6E,Dönerli 34 Pizza (Orta),"29,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),2.0
+41d39e07-544d-434d-a452-2e464b5b9699,Kavurmalı Pizza (Orta),"31,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik),0.0
+d175465d-c8c5-4843-8498-f471421c135e,Formaggi Pizza (Orta),"28,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),-4.0
+fc2565cd-0cad-4222-be89-1a912c0656d2,Margarita Pizza (Orta),"23,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),-4.0
+c56ce0f1-4cfa-49d0-9a22-b407acad7050,Ton Balıklı Pizza (Orta),"26,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),-3.0
+c5a075f3-f6cc-4835-9409-7fd8c718b032,Meksika Pollo Pizza (Büyük),"38,90 TL",Büyük Boy Pizzalar (2- 3 Kişilik),-4.0
+67C8050E-AA78-484E-B966-234988EA7487,Bonfileli 34 Pizza (Büyük),"46,90 TL",Büyük Boy Pizzalar (2- 3 Kişilik),2.0
+265FA483-3EB6-4D77-B8DF-F05A171FEA6A,Dönerli 34 Pizza (Büyük),"39,90 TL",Büyük Boy Pizzalar (2- 3 Kişilik),2.0
+e8e0fd67-28bf-487a-b788-df329e38458a,Kavurmalı Pizza (Büyük),"39,90 TL",Büyük Boy Pizzalar (2- 3 Kişilik),0.0
+db9a00df-6c4c-4e99-a8a0-d3c8f295cbb9,Formaggi Pizza (Büyük),"37,90 TL",Büyük Boy Pizzalar (2- 3 Kişilik),-4.0
+b7f035a2-4872-404e-b9c6-c02143556e6c,Margarita Pizza (Büyük),"32,90 TL",Büyük Boy Pizzalar (2- 3 Kişilik),-4.0
+3aeafc85-4558-41f2-b4c3-d69bd255d38f,Ton Balıklı Pizza (Büyük),"36,90 TL",Büyük Boy Pizzalar (2- 3 Kişilik),-3.0
+059F0CB2-D344-4EFD-9392-8B2FC11B8501,Mozzarella Sticks (4 Adet),"14,90 TL",Yan Ürünler,5.0
+B0322985-CD8E-49AF-8F31-D1D7A9B7F971,Mozzarella Sticks (6 Adet),"19,90 TL",Yan Ürünler,5.0
+4A2298E3-626A-4D4E-B1BB-5D5E07D96ECE,Mozzarella Sticks (9 Adet),"25,90 TL",Yan Ürünler,5.0
+0EDD0EBE-DBE7-4940-83B0-347C98EE43E0,Soğan Halkası (10 Adet),"13,90 TL",Yan Ürünler,3.0
+6E917ED0-49D9-40F8-B16B-0000D5271B5D,Soğan Halkası (15 Adet),"19,90 TL",Yan Ürünler,3.0
+0b397df3-fd5f-4c1c-ac73-506b18ba79c7,Parmak Dilim Patates Kızartması,"9,00 TL",Yan Ürünler,4.0
+374f4053-df79-4251-92f6-94df041e1b3b,Çıtır Tavuk But,"19,99 TL",Yan Ürünler,5.0
+8cd8d2d9-1ecc-4faa-906b-b1adaa242d3a,Tavuk Bonfile,"19,99 TL",Yan Ürünler,6.0
+fac4fdf4-04a4-4af1-9f8a-8d6e5317f03f,Acılı Tavuk Kanat,"19,99 TL",Yan Ürünler,2.0
+46DAFBDC-4240-4AB0-B357-A13E5DE88F84,Calzone Tatlı,"19,99 TL",Tatlılar,5.0
+796398f9-0c90-478c-84ad-254211eb087f,Poşet,"0,25 TL",Poşet,5.0

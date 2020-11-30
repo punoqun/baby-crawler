@@ -1,0 +1,48 @@
+food_id,food_name,food_price,food_category,food_score
+40e0d977-1842-42f1-a228-44b0ca1ed82a,Izgara Köfte Dürüm Menü,"14,18 TL",Menüler,10.0
+4dae6756-7749-40b5-a5d7-da19b3642a82,Adana Dürüm Menü,"18,68 TL",Menüler,34.0
+4ffcdc29-860c-4c4a-b298-4e99c99b2373,Urfa Dürüm Menü,"18,68 TL",Menüler,7.0
+69925c16-045d-4537-a211-6a7f445fd816,Izgara Sucuk Dürüm Menü,"16,43 TL",Menüler,9.0
+d2f585c1-7774-4d1e-9b49-fbbfe832512e,Tavuk Şiş Dürüm Menü,"12,38 TL",Menüler,37.0
+E6ED7A4C-592C-4ACE-B9B1-FAACB4645469,Terbiyeli Kemik Suyu Çorbası,"9,75 TL",Çorbalar,5.0
+ACF3F286-A0E1-4D6E-8AC4-0100DD8383D2,Az Terbiyeli Kemik Suyu Çorbası,"6,75 TL",Çorbalar,5.0
+1886E5DD-3CBE-4394-82C9-1BBF175DBF04,Az Kelle Paça Çorbası,"11,63 TL",Çorbalar,5.0
+4a6c0c07-d78b-4b14-9745-110c6e951499,Adana Kebap,"26,93 TL",Kebaplar & Izgaralar,25.0
+6d00bba4-78f4-435a-a50e-2983316ecf02,Urfa Kebap,"26,93 TL",Kebaplar & Izgaralar,3.0
+a98fa616-ee1d-4485-ab9b-f3e2946c0cba,Tavuk Şiş Izgara,"18,68 TL",Kebaplar & Izgaralar,32.0
+d7619e87-ae54-4662-984e-32adb4f62c10,Izgara Köfte,"26,18 TL",Kebaplar & Izgaralar,7.0
+e8c5401a-25de-4dcd-9f7e-4dbe6c9f0c68,Adana Dürüm,"17,18 TL",Dürümler,29.0
+4e7f5904-e39a-488a-ba3f-6dab08dd0319,Abart Adana Dürüm,"26,25 TL",Dürümler,38.0
+8c9f8d13-06c8-4282-b042-989a22e98420,Urfa Dürüm,"17,18 TL",Dürümler,7.0
+fe025dd1-543e-4f41-8153-c73dfb54a420,Abart Urfa Dürüm,"26,25 TL",Dürümler,16.0
+c77c0b4c-44b6-45c0-813a-068f772acfb5,Izgara Sucuk Dürüm,"17,18 TL",Dürümler,9.0
+73a916ff-5596-40b3-8178-1c3469e3ea3b,Abart Izgara Sucuk Dürüm,"26,25 TL",Dürümler,18.0
+f10bef05-1e55-4bd8-a68f-321999858725,Izgara Köfte Dürüm,"12,38 TL",Dürümler,10.0
+92a9e7e1-ffbf-434a-9dcf-4c78f489e438,Abart Izgara Köfte Dürüm,"18,75 TL",Dürümler,19.0
+36751963-7ed4-4b58-8ab6-516af48ab675,Tavuk Şiş Dürüm,"11,93 TL",Dürümler,32.0
+b6c52826-0111-46f4-8b4e-5316973fd472,Abart Tavuk Şiş Dürüm,"18,00 TL",Dürümler,46.0
+e502dce3-8d59-4366-82b1-bd3ad49e8c9d,Füme Kaburga Cheddar Dürüm,"22,50 TL",Dürümler,16.0
+0c0a5bbf-50f2-4c14-ba0b-3edd0565a3f5,Frankfurter Sosis Cheddarlı Dürüm,"19,88 TL",Dürümler,14.0
+67979f91-f391-4944-919b-c4b5e9f6519f,Patates Kızartması Dürüm,"7,88 TL",Dürümler,8.0
+f400d60d-c6d7-4902-afc4-4a67a6b80797,Abart Yengen Dürüm,"30,38 TL",Dürümler,25.0
+ea16b73f-fa62-4e51-9a83-ba65ee9dacc6,Abart Füme Kaburga Cheddarlı Dürüm,"36,38 TL",Dürümler,25.0
+b4f966d4-a1b1-4f30-8b57-b7de4d33e9de,Abart Frankfurter Sosis Cheddarlı Dürüm,"33,75 TL",Dürümler,23.0
+63f0e895-66df-431d-beb5-69c4d5af0cd2,Salçalı Kaşarlı Dürüm,"11,18 TL",Dürümler,8.0
+30ec1b15-50f0-48ba-a5e9-4779b3b97fb3,Salçalı Sucuklu Kaşarlı Dürüm,"16,13 TL",Dürümler,9.0
+B88973BB-C764-4B02-8585-776A1D321565,Klasik Lahmacun Dürüm,"11,18 TL",Dürümler,8.0
+BE533E3E-E619-4789-BA3C-C6BF544D31D9,Acılı Klasik Lahmacun Dürüm,"11,18 TL",Dürümler,8.0
+AE7ADF97-C2D9-418C-B834-E518E336A425,Lahmacun Arası Adana Dürüm,"29,93 TL",Dürümler,29.0
+E24165DE-79DA-4B0E-9216-2A719E3C1F29,Abart Lahmacun Arası Adana Dürüm,"37,43 TL",Dürümler,38.0
+2D2EEFC8-3EF3-4E56-8E6D-A993C1328367,Lahmacun Arası Urfa Dürüm,"29,93 TL",Dürümler,7.0
+187912E0-2CFC-49FE-8CB0-AB2409D74EC7,Abart Lahmacun Arası Urfa Dürüm,"37,43 TL",Dürümler,16.0
+56731b61-483d-42b7-97bf-b012ed55aae5,Kemalpaşa Tatlısı,"9,38 TL",Tatlılar,5.0
+5f96ecab-e00d-4b34-b159-fc704e39395b,Abart Nutella Dürüm,"13,43 TL",Tatlılar,20.0
+ca2c48b5-34cf-4145-a754-c11016117443,Nutella Dürüm,"9,38 TL",Tatlılar,11.0
+1534575A-6BB7-428C-9D5C-01D1915E9383,Algida Maraş Dondurmalı Supangle,"10,88 TL",Tatlılar,5.0
+58CD809D-CC53-48E2-9B37-AD5F48D5CF34,Algida Maraş Usulü Cup Dondurma (100 ml.),"4,88 TL",Tatlılar,5.0
+6aefd5b0-4a19-487f-a46f-29f32983cc70,Patates Kızartması (200 gr.),"8,18 TL",Yan Ürünler,5.0
+b0b16245-e561-4f83-841a-084766cc5b8a,Kaşarlı Çoban Salata,"10,88 TL",Yan Ürünler,5.0
+8206eed7-39c6-464a-8d3b-7348f0659a10,Haydari,"5,25 TL",Yan Ürünler,5.0
+54f8caaa-c4b1-4328-8736-390b08274bc6,Acı Hardal Sos,"2,25 TL",Yan Ürünler,5.0
+7e0c35c9-c792-4d14-95db-7f6bb3d02013,Adanus Şalgam Suyu (25 cl.),"4,88 TL",İçecekler,5.0
+0628f374-7b6c-4abe-bb3b-b739515d91c6,Poşet,"0,25 TL",Poşet,5.0

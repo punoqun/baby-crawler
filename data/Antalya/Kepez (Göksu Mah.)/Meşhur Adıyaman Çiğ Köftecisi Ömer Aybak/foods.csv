@@ -1,0 +1,36 @@
+food_id,food_name,food_price,food_category,food_score
+75a385eb-897f-44d2-85b5-226e5daff780,Akdeniz Tost,"8,00 TL",Tostlar,7.0
+B05C12C7-AF80-43AF-BBC7-C91F654E11C5,2'li Karışık Tost,"20,00 TL",Tostlar,7.0
+28480031-CC59-4FF1-82F7-F99A208408E0,2'li Kaşarlı Bazlama Tost,"17,00 TL",Tostlar,7.0
+fe164deb-c01d-4c12-8626-ed3fe71b6b86,Çift Kaşarlı Tost,"10,00 TL",Tostlar,7.0
+9c3d6003-a8f4-4830-8757-71e3f41b9b7d,Karışık Tost,"12,00 TL",Tostlar,7.0
+392db275-160b-4514-9486-35af1a3d3e03,Kaşarlı Bazlama Tost,"10,00 TL",Tostlar,7.0
+1f44bf89-e170-4554-a344-7b2993530b83,Kaşarlı Tost,"8,00 TL",Tostlar,7.0
+66ca7d5a-8ba6-4b9a-9de1-9391ff81b421,Sucuklu Tost,"10,00 TL",Tostlar,7.0
+C01D5950-EE77-4776-A868-8BD4B2A2FEA8,Domates & Biber Salçası (700 gr.),"20,00 TL",Ev Yapımı Ürünler,4.0
+BC256948-CAEF-446A-805E-8E599EF41627,Patlıcan Kurusu (100 gr.),"12,00 TL",Ev Yapımı Ürünler,5.0
+E10163E8-6E30-455A-916B-7CEB7C805852,Patlıcan & Biber Kurusu (100 gr.),"12,00 TL",Ev Yapımı Ürünler,5.0
+78630651-F965-4204-8999-5EECAD37A5F3,Yeşil Fasulye Kurusu (100 gr.),"12,00 TL",Ev Yapımı Ürünler,7.0
+A4D08650-430D-45A6-953A-A6D14448393E,Karadut Reçeli (400 gr.),"12,00 TL",Ev Yapımı Ürünler,5.0
+8DEF7994-CFE3-4CB1-A2CF-34D78CDA7355,Biber Turşusu (400 gr.),"12,00 TL",Ev Yapımı Ürünler,5.0
+8A4EDF91-24CC-4ABE-AE35-8ADF633379F6,Kayısı Reçeli (400 gr.),"12,00 TL",Ev Yapımı Ürünler,5.0
+03060EE4-2A5A-4E63-87C2-87D3976FA454,Sarı Erik Kompostosu (500 gr.),"12,00 TL",Ev Yapımı Ürünler,5.0
+B1BC61A0-A501-449D-A075-DD3FE53ED5BB,Beyaz Kiraz Kompostosu (1 kg.),"12,00 TL",Ev Yapımı Ürünler,5.0
+76B6BDBB-7261-4FDD-9101-2180EE3617CD,Kahvaltılık Sos (400 gr.),"12,00 TL",Ev Yapımı Ürünler,5.0
+a1d6a0cc-6485-4881-8a10-5d06b39dc815,Domates Salçası 1000 gr,"20,00 TL",Ev Yapımı Ürünler,4.0
+439F5957-ACE1-4515-BA55-C3FAAE8F5BE1,Kurukahveci Mehmet Efendi Türk Kahvesi (100 gr.),"7,00 TL",Yan Ürünler,5.0
+A64A08CA-F712-405B-80AD-FA539A0B1017,Nar Ekşisi (1 L.),"13,00 TL",Yan Ürünler,6.0
+8E9D3DA4-287D-4A94-BB50-9A4BB3E2D805,Midye Dolma (30 Adet),"33,00 TL",Yan Ürünler,4.0
+febb1fa0-507e-4a54-ae9d-398db12e8392,Midye Dolma (10 Adet),"12,50 TL",Yan Ürünler,4.0
+c5c3b5ac-4411-46dd-acc4-d548660a9b44,Midye Dolma (Adet),"1,50 TL",Yan Ürünler,4.0
+82a24999-0706-4294-943e-2b0f7f21482b,Limon (Adet),"2,00 TL",Yan Ürünler,5.0
+976bbea3-cf99-481c-b44f-e2c874181d62,Yeşillik,"5,00 TL",Yan Ürünler,7.0
+d6430e52-2fad-4654-b6da-f1162a72ce7e,Revani,"5,00 TL",Tatlılar,5.0
+8aa91b06-274a-482a-a604-461498d7d202,Islak Kek,"5,00 TL",Tatlılar,5.0
+123421df-43fa-4e51-a1b0-871abd2a2b38,Eker Puding,"2,00 TL",Tatlılar,5.0
+9e8a51f6-10fb-47d4-926b-3573606e5abf,Eker Sütlaç,"2,00 TL",Tatlılar,5.0
+C39D9E61-FF9C-4906-83C2-FE163F842D24,Sade Maden Suyu (20 cl.),"1,50 TL",İçecekler,5.0
+63D0CB89-A7E6-4306-AB86-3873ABC7466E,Meyve Suyu (20 cl.),"1,25 TL",İçecekler,5.0
+8ED86B5F-1388-41CA-ACDE-979D11817F88,Niğde Gazozu (25 cl.),"3,00 TL",İçecekler,5.0
+6bee12e4-d397-4294-b7fe-0d6ae971c25a,Turşu Suyu (20 cl.),"2,00 TL",İçecekler,5.0
+c45418e6-b5f5-480b-8cce-4f12aeb5a06a,Poşet,"0,25 TL",Poşet,5.0

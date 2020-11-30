@@ -1,0 +1,69 @@
+food_id,food_name,food_price,food_category,food_score
+be86be05-b2c2-4825-86dc-3b8e672c350a,Ekmek Arası Sebzeli Kokoreç Menü 1,"26,00 TL",Kokoreç Menüleri,44.0
+3B0E7663-1673-43CF-914E-A03FC3F35BD1,Ekmek Arası Sebzeli Kokoreç Menü 2,"50,00 TL",Kokoreç Menüleri,38.0
+09f804fd-46f3-4ab5-98fb-9657477bdd5a,Kokoreç Menü 1,"26,00 TL",Kokoreç Menüleri,41.0
+E22CA5FF-4905-478A-939F-3094375090CF,Kokoreç Menü 3,"50,00 TL",Kokoreç Menüleri,27.0
+8A9C3355-33BD-4363-9868-98D454B16401,Kokoreç Menü 4,"73,00 TL",Kokoreç Menüleri,30.0
+f59cc2bc-1ec2-4e81-ab1a-42714bade665,Ekmek Arası Izgara Köfte Menü 1,"24,00 TL",Ekmek Arası Menüleri,22.0
+23D76C13-0F31-4443-9D1C-2B366B147EBC,Ekmek Arası Izgara Köfte Menü 2,"46,00 TL",Ekmek Arası Menüleri,15.0
+a0fd2351-5f24-435c-85c9-f104733f7f7f,Ekmek Arası Izgara Sucuk Menü 1,"24,00 TL",Ekmek Arası Menüleri,21.0
+E62DD4CB-F843-4CCA-90C6-F86E77F98C71,Ekmek Arası Izgara Sucuk Menü 2,"46,00 TL",Ekmek Arası Menüleri,14.0
+80596517-3e4c-407a-b1e6-d407116fc6ab,Ekmek Arası Izgara Tavuk Menü 1,"22,00 TL",Ekmek Arası Menüleri,18.0
+FA70B2B4-6ECD-4E9E-91E4-A11C60E1FC59,Ekmek Arası Izgara Tavuk Menü 2,"42,00 TL",Ekmek Arası Menüleri,11.0
+f2437399-94ab-418d-86a3-d4dc1984613a,Ekmek Arası Antrikot Menü 1,"32,00 TL",Ekmek Arası Menüleri,20.0
+44746589-f018-4fae-90c1-441fdf590f53,Ekmek Arası Antrikot Menü 2,"37,00 TL",Ekmek Arası Menüleri,13.0
+32692791-09ED-44F2-93F1-9DC0F651CD8F,Ekmek Arası Antrikot Menü 3,"62,00 TL",Ekmek Arası Menüleri,4.0
+FC23167F-9DD7-48B8-8014-75E8F864EBEF,Ekmek Arası Antrikot Menü 4,"72,00 TL",Ekmek Arası Menüleri,7.0
+B47806E5-7B96-4175-B5B2-7F28DEC3DF8C,Coco Crazy Mix Dürüm Menü,"30,00 TL",Dürüm Menüleri,7.0
+f0a042b9-4ea6-48cc-9127-29d3784736c6,Kuzu Kelle Söğüş Dürüm Menü,"29,00 TL",Dürüm Menüleri,8.0
+8E9D88B3-237D-4386-A708-D8DB4B291B32,Kuzu Yürek Dürüm Menü,"24,00 TL",Dürüm Menüleri,7.0
+B5B3CF96-2156-4DDE-B2E4-837F18BCF73D,Sebzeli Kuzu Kokoreç Dürüm Menü,"26,00 TL",Dürüm Menüleri,33.0
+0318f8eb-cb64-458a-bbfc-1659bedc2e86,Cajun Baharatlı Tavuk Dürüm Menü 1,"18,00 TL",Ekonomik Menüler,22.0
+2C2BC735-9804-4A12-A6CC-8E1BB848AE70,Cajun Baharatlı Tavuk Dürüm Menü 2,"20,00 TL",Ekonomik Menüler,16.0
+7E01334A-0E40-45BD-B55F-41AE885D4BA0,Cajun Baharatlı Tavuk Dürüm Menü 3,"38,00 TL",Ekonomik Menüler,7.0
+2FAD929D-8F17-4846-9F25-7C8552DB69C7,Cajun Baharatlı Tavuk Dürüm Menü 4,"24,00 TL",Ekonomik Menüler,10.0
+185D09B3-63F6-4361-A49A-4CC6B94FEBB6,Cajun Menü 1,"25,00 TL",Ekonomik Menüler,22.0
+b2baab19-0e99-4ab7-829e-c3396793f6b0,Cajun Menü 2,"28,00 TL",Ekonomik Menüler,16.0
+0d43f89a-d5e7-4e58-abed-7a1c0bedcdc1,Cajun Menü 3,"53,00 TL",Ekonomik Menüler,7.0
+b43e154c-0177-4141-9d8c-c020bb1c3e5b,Cajun Menü 4,"73,00 TL",Ekonomik Menüler,10.0
+991d6aed-8231-4eba-bb1f-3cfd3fa879a4,Cajun Menü 5,"23,00 TL",Ekonomik Menüler,13.0
+6780b7a1-341d-40c4-9ecd-fb55be480c13,Cocorech Karışık Tabak Menü,"46,00 TL",Ekonomik Menüler,5.0
+13f963e4-b2e5-462f-a2b2-9fcf9e43c1ea,Kuzu Kelle Söğüş Menü 1,"30,00 TL",Ekonomik Menüler,18.0
+a8213d03-a5d5-495f-84e4-dceba322e8e3,Kuzu Kelle Söğüş Menü 2,"43,00 TL",Ekonomik Menüler,11.0
+bd969017-ae65-4085-8189-d64e2388a2fb,Ekmek Arası Izgara Kuzu Uykuluk & Kokoreç,"31,00 TL",Kokoreçler,35.0
+12CF20EB-AB31-463C-946D-A08A2B709232,Ekmek Arası İzmir Kokoreç,"33,00 TL",Kokoreçler,46.0
+98fde98c-9456-451c-b996-99cc81996c9c,Ekmek Arası Kokoreç,"22,00 TL",Kokoreçler,39.0
+760a1c0c-6146-43f0-9b32-0d339b4b9797,Ekmek Arası Kokoreç Hellim,"26,00 TL",Kokoreçler,34.0
+06e854cc-8fc2-4237-ad67-55143e006dce,Ekmek Arası Kontrfileli Kokoreç,"30,00 TL",Kokoreçler,34.0
+861ffa72-2885-4a18-8d83-45164f1bcb47,Ekmek Arası Sebzeli Kokoreç,"22,00 TL",Kokoreçler,34.0
+c0c5c2b8-99f7-416b-9a0d-8d37930a191a,Ekmek Arası Uykuluklu Kokoreç,"31,00 TL",Kokoreçler,36.0
+8AD5DBED-3A9F-4A18-AA44-3556F2CFD77A,Kokoreç Mega Mix,"34,00 TL",Kokoreçler,31.0
+B60DED24-E1FF-4A70-8AD7-56AE5895FDB8,Tam Ekmek Arası Kokoreç,"42,00 TL",Kokoreçler,34.0
+CFC830F8-1640-4C5E-B66A-7B4530DF58C6,Yarım Ekmek Arası Cheddarlı Kokoreç,"24,00 TL",Kokoreçler,32.0
+9a3cb37f-2881-4e57-b894-fff920fa3a23,Yarım Ekmek Arası Kokoreç,"20,00 TL",Kokoreçler,32.0
+BFA32BCF-F95A-4B1D-B01A-2F4C9D4F6F2D,Yarım Ekmek Arası Kokoreç Hellim,"24,00 TL",Kokoreçler,32.0
+48B716E4-4063-4605-91C4-EDC9F0294262,Yarım Ekmek Arası Kontrfileli Kokoreç,"28,00 TL",Kokoreçler,32.0
+873d1f39-0a88-481a-9d77-9da4f041d755,Yarım Ekmek Arası Sebzeli Kokoreç,"20,00 TL",Kokoreçler,32.0
+F4D98CC7-28CF-4081-B83C-98FC642BCA1C,Yarım Ekmek Arası Uykuluklu Kokoreç,"27,00 TL",Kokoreçler,34.0
+68EFF40E-903D-4CB9-BB60-D33912A33D2B,Ekmek Arası Kuzu Kelle Söğüş,"26,00 TL",Ekmek Arası Ürünler,9.0
+50cf01d4-39f9-4b84-997d-6e11e35d12ac,Ekmek Arası Izgara Köfte,"20,00 TL",Ekmek Arası Ürünler,10.0
+47BB4F72-0D6A-478F-A6BE-128CEC46EF17,Ekmek Arası Izgara Kuzu (120 gr.),"27,00 TL",Ekmek Arası Ürünler,8.0
+3B0545FC-1C47-4415-92CB-D4BFE33B5397,Ekmek Arası Izgara Kuzu (170 gr.),"34,00 TL",Ekmek Arası Ürünler,8.0
+96f07624-3708-4390-abdf-c523c13b55b8,Ekmek Arası Izgara Sosis,"21,00 TL",Ekmek Arası Ürünler,8.0
+372cf68d-c810-4038-b09f-fb34f71afd80,Ekmek Arası Izgara Tavuk,"17,00 TL",Ekmek Arası Ürünler,6.0
+dfe8e5a3-c8fd-40c9-a09c-59ba6bf6af0e,Ekmek Arası Karışık Patso,"14,00 TL",Ekmek Arası Ürünler,11.0
+2109e83b-b4eb-4adb-8741-5e5dcd15acf1,Ekmek Arası Karışık Sandviç,"22,00 TL",Ekmek Arası Ürünler,8.0
+3faffa16-6354-4800-a3d7-c72923333f61,Ekmek Arası Kaşarlı Sucuk,"23,00 TL",Ekmek Arası Ürünler,8.0
+dd577ca7-2b2b-4fc8-910b-23c6660df666,Ekmek Arası Antrikot (120 gr.),"28,00 TL",Ekmek Arası Ürünler,8.0
+e101edfa-2e68-483f-b145-e978f433e8db,Ekmek Arası Antrikot (170 gr.),"33,00 TL",Ekmek Arası Ürünler,8.0
+F4322DAF-167A-43A2-B212-C7752BC1A32B,Ekmek Arası Kuzu Yürek,"21,00 TL",Ekmek Arası Ürünler,13.0
+94905fba-78d9-456e-b6ab-0b280392cab0,Ekmek Arası Mix Sandviç (Sıcak),"25,00 TL",Ekmek Arası Ürünler,8.0
+529e9bb0-130d-4eb7-a790-ef84c463ee05,Ekmek Arası Sucuk,"20,00 TL",Ekmek Arası Ürünler,9.0
+a4c0cb37-2b61-48a8-92c6-ba73eddc5079,Ekmek Arası Sucuk Hellim,"24,00 TL",Ekmek Arası Ürünler,9.0
+1D0564A3-B038-47B8-8A7C-698B2BB3CACE,Tam Ekmek Arası İnegöl Köfte,"38,00 TL",Ekmek Arası Ürünler,10.0
+6DFF6AD9-4ADD-4042-BCF1-7DAB82494833,Tam Ekmek Arası Izgara Tavuk,"30,00 TL",Ekmek Arası Ürünler,6.0
+e61b057e-27ee-438d-9389-a11cd1487620,Midye Dolma (20 Adet) (L),"37,00 TL",Midyeler,-1.0
+DB7578E6-2BCD-4A64-8650-BD3C25783CED,Midye Dolma (20 Adet) (XL),"44,90 TL",Midyeler,-1.0
+4618eb83-5bf3-4b85-a726-acbe2123c251,Patates Kızartması,"9,90 TL",Yan Ürünler,5.0
+bc4b4389-65f9-47a8-9884-ee1970fc0bf9,Tandır Lavaş (Adet),"1,00 TL",Yan Ürünler,5.0
+01BA9E98-5BD2-4E1D-8139-47101C2163B0,İçim Vişne (33 cl.),"5,00 TL",İçecekler,5.0

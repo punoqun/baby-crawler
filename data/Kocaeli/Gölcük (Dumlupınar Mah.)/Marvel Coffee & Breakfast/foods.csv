@@ -1,0 +1,66 @@
+food_id,food_name,food_price,food_category,food_score
+9040053d-3e20-4043-bd21-e93820baf078,Kaşar Peynirli Tost,"13,00 TL",Tostlar,5.0
+cb74bff9-4872-4968-a739-36c3b342ae63,Salamlı Kaşarlı Tost,"17,00 TL",Tostlar,5.0
+9cab61d2-5924-4951-8aa0-eaa62d31698e,Sucuklu Tost,"17,00 TL",Tostlar,5.0
+6daf544e-ee34-4f87-bdfc-56a8ce4c9cfe,Sucuklu Kaşarlı Tost,"17,00 TL",Tostlar,5.0
+21a036d7-b373-4589-9895-6870e2b4d231,Kavurmalı Kaşarlı Tost,"20,00 TL",Tostlar,10.0
+9001b2a5-39cd-4781-8687-8369a417fcb0,Ayvalık Tostu,"22,50 TL",Tostlar,5.0
+917dad46-092f-4d13-876e-b1d738e1446f,3 Peynirli Tost,"15,00 TL",Tostlar,7.0
+1b16461d-c4a5-4a72-a816-ed769a8b8980,Atıştırma Tabağı,"32,50 TL",Aperitifler,5.0
+f38d0ffb-c953-46ee-904c-7ce2348a5b29,Çıtır Tavuk Parçaları,"16,00 TL",Aperitifler,5.0
+6646001b-40fd-45d3-a4df-6288c20650a2,Paçanga Böreği (2 Adet),"20,00 TL",Aperitifler,5.0
+9de3b3c6-5172-4285-b5b2-285ff9f24de1,Sigara Böreği (5 Adet),"17,50 TL",Aperitifler,5.0
+f5881022-f9c7-49b2-b7e1-92132569f4ef,Izgara Hellim Peyniri (4 Adet),"15,00 TL",Aperitifler,5.0
+5d632bc3-7e7a-4a43-a48b-a833c4f46499,Patates Kızartması,"13,00 TL",Aperitifler,5.0
+6cfa9c4a-51cd-4730-8038-a3bc9f4435f9,Elma Dilim Patates Kızartması,"12,50 TL",Aperitifler,5.0
+456b9283-e95c-4cb2-9e85-bfc1daeea280,Sosis Tabağı,"20,00 TL",Aperitifler,5.0
+0f1e9866-074d-47f3-90e2-17a8d81f4209,Peynir Tabağı,"22,00 TL",Aperitifler,5.0
+8fe42541-315e-474f-88d7-6353c00bec73,Chicken Wrap,"25,00 TL",Wraps,5.0
+4a42638b-7b10-4011-8eef-0403feda69c7,Köfteli Wrap,"28,00 TL",Wraps,5.0
+c6a70a5a-c624-4b49-b64b-7b7cf30e702d,Marvel Burger,"27,90 TL",Burgerler,5.0
+e0de12fb-3f0b-4393-b044-d6217e4f6ea8,Marvelous Burger,"30,90 TL",Burgerler,5.0
+ba5131cd-2acc-417d-ac31-20d01c5b7393,Mushroom Burger,"29,90 TL",Burgerler,5.0
+097000ff-4ead-4795-a8ad-479529eac5cd,Marvel Royal Burger,"28,90 TL",Burgerler,5.0
+20428c25-7f47-432c-93b3-1c189d85cff3,Double Cheeseburger,"30,90 TL",Burgerler,10.0
+4332285f-78bf-4fd3-90b6-d812256dc2b6,Chicken Burger,"23,90 TL",Burgerler,5.0
+df245417-0a48-4eaa-86c5-eec364b0ca47,Double Chicken Burger,"26,90 TL",Burgerler,5.0
+a1fa98f0-b5e0-4975-90d3-1de9b4ef5751,Köri Soslu Tavuk,"29,90 TL",Beyaz Etler,5.0
+8b2866d2-12c2-42d1-8b02-975b32547131,Soya Soslu Tavuk,"29,90 TL",Beyaz Etler,5.0
+8ffe0c51-93aa-46ea-a394-b3d494da53e4,Beşamel Soslu Tavuk,"29,90 TL",Beyaz Etler,5.0
+e82914c2-80fe-4c59-abbe-12aeb7231243,Kremalı Mantarlı Tavuk,"29,90 TL",Beyaz Etler,5.0
+67eb587f-d1c0-46db-87c0-3b9e03cfde43,Barbekü Soslu Tavuk,"29,90 TL",Beyaz Etler,5.0
+8234640a-e1a2-4604-8063-1f1b0a9d83ab,Meksika Soslu Tavuk,"29,90 TL",Beyaz Etler,5.0
+bf5a1a1e-1e07-4cb2-97be-2561ecba7791,Tavuk Külbastı,"29,90 TL",Beyaz Etler,5.0
+ffce95a9-3915-4467-9724-da0c8ba02957,Tavuk Şnitzel,"25,90 TL",Beyaz Etler,5.0
+f4b5a11c-0fcb-46c6-95ef-db4d7f9c34c9,Çıtır Tavuk,"25,90 TL",Beyaz Etler,5.0
+f0e401fb-0cf3-4737-8c77-df49d9176a2a,Barbekü Soslu Tavuklu Pizza (Orta),"30,00 TL",Orta Boy Pizzalar (1 Kişilik),11.0
+7a62e14c-8415-4427-ab92-024c8925a22b,Karışık Pizza (Orta),"30,00 TL",Orta Boy Pizzalar (1 Kişilik),16.0
+2a025e54-6d1d-426c-8f17-f0eb82ab6263,Margherita Pizza (Orta),"28,00 TL",Orta Boy Pizzalar (1 Kişilik),11.0
+4dcd5f6f-ba96-4c11-9390-dfa1a0ee1778,Veggie Pizza (Orta),"28,00 TL",Orta Boy Pizzalar (1 Kişilik),11.0
+bd6058e4-3c06-4080-ae3e-07f6963fa95a,Barbekü Soslu Tavuklu Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (1-2 Kişilik),11.0
+6339ceba-08bb-4504-ace1-837a9696fc81,Karışık Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (1-2 Kişilik),11.0
+66bbbfc0-16b0-47d1-a957-3d47f12321e2,Margherita Pizza (Büyük),"33,00 TL",Büyük Boy Pizzalar (1-2 Kişilik),11.0
+7a33e726-8ce5-4cc0-ae49-4199c80722cb,Spaghetti Napolitan,"22,50 TL",Makarnalar,5.0
+803d4cc7-c06e-4436-aaa6-b36729226aad,Spaghetti Bolognese,"22,50 TL",Makarnalar,5.0
+327fc300-d45a-4295-a4c4-841eb7563e41,Mantarlı Tavuklu Penne,"29,90 TL",Makarnalar,5.0
+d6a926cc-f3fd-4039-bcc6-b3a8546f0367,Mushroom Penne,"27,90 TL",Makarnalar,5.0
+cbd16fb6-6516-45c8-a1f1-6e3585b471f8,Penne Arrabbiata (Acılı),"22,50 TL",Makarnalar,5.0
+a1c0c716-0b57-4d17-99ad-aa0e6354fd70,Mantı,"23,00 TL",Makarnalar,5.0
+66f73f7c-1846-407e-b400-a1e8d2ea7b9e,Tavuklu Sezar Salata,"27,00 TL",Salatalar,5.0
+b11acf14-2221-47e9-8ae9-d1536c8b8994,Çıtır Tavuklu Salata,"27,00 TL",Salatalar,5.0
+ea46ba74-5d0c-4716-bd3d-489c78af463a,Ton Balıklı Salata,"28,50 TL",Salatalar,5.0
+169a4967-2f5c-4c2a-b66d-899a8e4f3588,Beyaz Peynirli Salata,"22,50 TL",Salatalar,5.0
+a47bf27e-76d1-44fd-a1b7-486d71c5cf22,Izgara Hellim Salatası,"27,00 TL",Salatalar,5.0
+d575c36d-c853-4b2a-8c96-91b2cb4263f4,Izgara Köfteli Salata,"30,00 TL",Salatalar,5.0
+d03a8aa6-d8f5-47d2-a3ce-5c3635b67182,Marvel Waffle,"19,90 TL",Tatlılar,5.0
+6ad738ad-8435-435f-b45b-fcbf4115061b,Limonlu Cheesecake,"15,00 TL",Tatlılar,5.0
+8d4e693f-b709-446c-9942-d108625f2da7,Frambuazlı Cheesecake,"15,00 TL",Tatlılar,5.0
+03ea7d1d-5163-43be-acdf-6367e1242c2f,Çikolatalı Smoothie,"18,50 TL",Smoothies & Milkshakes,5.0
+c03e509a-43c5-4cb7-8703-4c5dbfe7d0a7,Süt,"4,00 TL",İçecekler,5.0
+9eeeeb9e-0110-4137-96ed-c5bb9e5e5132,Taze Sıkma Portakal Suyu,"13,00 TL",Vitamin Bar,5.0
+fdfba575-b210-4e5d-b35d-43eee6495353,Taze Sıkma Elma Suyu,"13,00 TL",Vitamin Bar,5.0
+cd8cd3bf-a078-48cc-adb4-c296135d29b9,Taze Sıkma Havuç Suyu,"13,00 TL",Vitamin Bar,5.0
+91f92a9b-fdc6-4d5c-8837-3128703bd0f2,Marvel Mix,"17,50 TL",Vitamin Bar,5.0
+57038a94-f24c-435f-a721-68306f9a87d5,Detox Rabbit,"16,50 TL",Vitamin Bar,5.0
+8e08ef7b-119d-4103-a069-efe2f1854645,Detox Life,"16,50 TL",Vitamin Bar,5.0
+56ad6cd0-6a36-476e-ae88-9ca17b160352,Poşet,"0,25 TL",Poşet,5.0

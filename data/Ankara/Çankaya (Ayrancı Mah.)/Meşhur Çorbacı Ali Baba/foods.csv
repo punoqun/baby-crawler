@@ -1,0 +1,34 @@
+food_id,food_name,food_price,food_category,food_score
+6cd35d86-f1a5-4187-9571-b5c5bbef5716,Adana Kebap,"35,00 TL",Kebaplar & Izgaralar,5.0
+2f1b0bab-dc34-4fa1-b38b-d4a5fb7bbb99,Urfa Kebap,"35,00 TL",Kebaplar & Izgaralar,5.0
+0c64e24e-6492-4a21-9537-a9d524e7574f,Izgara Köfte,"30,00 TL",Kebaplar & Izgaralar,5.0
+8aacfc11-f0b2-4f39-bbfc-da4ad6a930dc,Tavuk Şiş,"28,00 TL",Kebaplar & Izgaralar,5.0
+3a51f596-922b-4ffa-8d66-14f275305ba4,Tavuk Pirzola,"28,00 TL",Kebaplar & Izgaralar,5.0
+ebe1cef0-e4a6-4afa-8f93-f4534020469e,Ekmek Arası Köfte,"23,00 TL",Ekmek Arası Ürünler,5.0
+0572ca92-aa6f-452a-9154-eb2a7ee8f372,Ekmek Arası Arnavut Ciğeri,"20,00 TL",Ekmek Arası Ürünler,10.0
+e34b8bef-0cac-43c1-ba44-2806af49040a,Ekmek Arası Tavuk Pirzola,"23,00 TL",Ekmek Arası Ürünler,5.0
+95A28E21-7B94-4459-96B6-778C49771589,Ekmek Arası Acılı Köfte,"23,00 TL",Ekmek Arası Ürünler,5.0
+05078af8-5e2b-42e1-903c-5b65430895ed,Ekmek Arası Tavuk Döner (100 gr.),"18,00 TL",Tavuk Dönerler,5.0
+82E76D81-8558-42F0-A685-81959D34DCA2,Antakya Usulü Acı Soslu Tavuk Döner Dürüm,"19,00 TL",Tavuk Dönerler,5.0
+956D062B-4A65-466E-89E7-9AFA855057A4,Antakya Usulü Fesleğen Soslu Tavuk Döner Dürüm,"21,00 TL",Tavuk Dönerler,5.0
+12D1EA02-DF82-48ED-A301-50CF4A2DEDB5,Antakya Usulü Hardallı Tavuk Döner Dürüm,"21,00 TL",Tavuk Dönerler,5.0
+8EB5A8C7-A05D-4259-8F45-185EACD708FE,Antakya Usulü Kaşarlı Acı Soslu Tavuk Döner Dürüm,"22,00 TL",Tavuk Dönerler,5.0
+EAA66DB6-94A3-43E3-BE1F-68583C265DF7,Antakya Usulü Kaşarlı Fesleğenli Tavuk Döner Dürüm,"24,00 TL",Tavuk Dönerler,5.0
+D0B9394D-4E79-4B02-B9A3-3F26BDB113CC,Antakya Usulü Kaşarlı Hardal Soslu Tavuk Döner Dürüm,"24,00 TL",Tavuk Dönerler,5.0
+2C494D9B-07DA-4172-BD98-AE8AB54599F5,Antakya Usulü Kaşarlı Körili Tavuk Döner Dürüm,"23,00 TL",Tavuk Dönerler,5.0
+B50851D8-F720-4544-868A-8CA2AB048DED,Antakya Usulü Kaşarlı Safran Soslu Tavuk Döner Dürüm,"24,00 TL",Tavuk Dönerler,5.0
+8BB56A69-3346-47E5-A567-6B64EB828D97,Antakya Usulü Kaşarlı Tavuk Döner Dürüm,"21,00 TL",Tavuk Dönerler,5.0
+4783962E-40A2-4B72-9D3A-137E51550F84,Antakya Usulü Köri Soslu Tavuk Döner Dürüm,"20,00 TL",Tavuk Dönerler,5.0
+A3B48C3C-3A17-4E78-8FF0-AABA70FB246D,Antakya Usulü Safran Soslu Tavuk Döner Dürüm,"21,00 TL",Tavuk Dönerler,5.0
+C0A3BB56-1AFE-4AD2-856F-16EF6BA86F60,Antakya Usulü Tavuk Döner Dürüm,"18,00 TL",Tavuk Dönerler,5.0
+E5C13A03-67FD-4A50-8622-0029A469FA29,Tavuk Schnitzel,"28,00 TL",Diğer Lezzetler,5.0
+8B5C22BB-5917-4E2B-9474-1B4B13B677AB,Arnavut Ciğeri,"27,00 TL",Diğer Lezzetler,5.0
+D9EC11A8-9950-40A8-A95D-E428DC234944,Midye Dolma (Büyük Boy) (15 Adet),"35,00 TL",Diğer Lezzetler,5.0
+D80D3D2A-6F88-40C7-901C-614DEA9851A5,Midye Dolma (Küçük Boy) (15 Adet),"20,00 TL",Diğer Lezzetler,5.0
+8A6165A1-496D-4FD9-90DA-5B0FBB679826,Midye Dolma (500 gr.),"45,00 TL",Diğer Lezzetler,5.0
+574a74d3-c791-4f47-b972-80130c0d6248,Adana Dürüm,"23,00 TL",Dürümler,5.0
+4f9b66d5-5d4c-4c81-869c-464f0a618578,Urfa Dürüm,"23,00 TL",Dürümler,5.0
+12c049a5-f444-4be5-8ab0-a51b2eeac71d,Izgara Köfte Dürüm,"22,00 TL",Dürümler,5.0
+f60fdc6a-e3e5-4870-8120-46ef0bf11f30,Tavuk Şiş Dürüm,"20,00 TL",Dürümler,5.0
+c39c8ab6-d93a-4ed8-9bde-8ce8341259fe,Arnavut Ciğeri Dürüm,"20,00 TL",Dürümler,5.0
+6f8c1b22-c5e7-4073-8b9f-83529104fbae,Poşet,"0,25 TL",Poşet,5.0

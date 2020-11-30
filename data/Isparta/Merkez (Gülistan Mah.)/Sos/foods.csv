@@ -1,0 +1,39 @@
+food_id,food_name,food_price,food_category,food_score
+5f67dca2-5cb0-4c8a-ad95-023b54f3cfdf,Kahvaltı Tabağı 1,"26,00 TL",Kahvaltılıklar,13.0
+3efe8e3e-cfe7-4fee-967d-a38c1af2210c,Kahvaltı Tabağı 2,"21,00 TL",Kahvaltılıklar,7.0
+781ab9f1-fab7-475d-9932-d26cb746dec0,Kahvaltı Tabağı 3,"15,00 TL",Kahvaltılıklar,7.0
+3f51af42-45e9-42c0-b230-d86d17cfd4a2,Adana Kebap,"28,00 TL",Kebaplar & Izgaralar,5.0
+6D78E360-9264-4570-9FE0-888F488EDBF7,Isparta Şiş Kebap,"23,00 TL",Kebaplar & Izgaralar,3.0
+05cff7ab-9445-4daf-aca9-d0f90a3fb069,Adana Dürüm,"15,00 TL",Dürümler,5.0
+b50cb592-11cc-465b-9817-0d5b759f172e,Izgara Köfte Dürüm,"13,00 TL",Dürümler,4.0
+79232c60-1c45-4a2e-ab6d-0798b58af9cf,Şiş Köfte Dürüm,"13,00 TL",Dürümler,4.0
+8a92baa7-c513-4e26-a851-54b4f2588572,Izgara Sucuk Dürüm,"13,00 TL",Dürümler,5.0
+aeba67ea-0366-4f6c-9aa5-e6b914331989,Tavuk Dürüm,"10,50 TL",Dürümler,10.0
+e7d8ebd0-a4cc-487c-a90a-1f0c40c0db92,Ekmek Arası Adana Kebap,"15,00 TL",Ekmek Arası Ürünler,5.0
+bc95cccb-ce02-4fd5-91ae-df8da4420941,Ekmek Arası Et,"18,00 TL",Ekmek Arası Ürünler,4.0
+0112755b-18af-4289-ba4f-f89b6f62eed2,Ekmek Arası Izgara Köfte,"13,00 TL",Ekmek Arası Ürünler,4.0
+2c1ecab4-9137-47c1-bccf-2e9da61bb860,Ekmek Arası Şiş Köfte,"13,00 TL",Ekmek Arası Ürünler,4.0
+a99148f7-b59b-4e7d-bf0a-9087a3c7f953,Ekmek Arası Izgara Sucuk,"13,00 TL",Ekmek Arası Ürünler,5.0
+a6609e2e-1f94-4d5f-b8d8-2c6ea610456e,Ekmek Arası Tavuk,"10,50 TL",Ekmek Arası Ürünler,5.0
+2afb32c0-23ae-4a30-b6df-e49638b45582,Soğan Söğüş,"3,00 TL",Yan Ürünler,5.0
+10b7aa19-1888-402a-8f7a-e6c8adb37f0e,Ketçap (10 gr.),"1,00 TL",Yan Ürünler,5.0
+d692b087-cbaf-4901-be82-516aa9414ee2,Domates Söğüş,"3,00 TL",Yan Ürünler,5.0
+83b3d362-8af8-4528-8ecd-7aa40c7d4d28,Limon (3 Dilim),"1,50 TL",Yan Ürünler,5.0
+eb951e9d-3ecd-400c-a15f-a5da4515bba7,Marul,"3,00 TL",Yan Ürünler,5.0
+e4b9d78a-ffde-4421-980e-3197b8119c9f,Jalapeno Biberi,"3,00 TL",Yan Ürünler,5.0
+69f41a5e-d49c-4de1-95a6-6d6e937e6eea,Pirinç Pilavı,"6,00 TL",Yan Ürünler,5.0
+d94f8b02-fe64-4b13-a6b0-a30caeb69d95,Bulgur Pilavı,"6,00 TL",Yan Ürünler,5.0
+72f03cec-131e-463f-bb45-bf6ffaf858d7,Süzme Yoğurt,"6,00 TL",Yan Ürünler,5.0
+0c8b2751-47ab-416d-b055-9e8b5509e8eb,Cacık,"6,00 TL",Yan Ürünler,5.0
+90277613-1114-4f74-8e9d-6a2b65401f65,Patates Kızartması,"4,00 TL",Yan Ürünler,5.0
+67db4fe4-6c64-4b43-8757-6bfada3e0eec,Lavaş (Adet),"1,75 TL",Yan Ürünler,5.0
+ce36b8e3-3127-43a6-9089-d0c9bd1c3e80,Pide Ekmek (Adet),"1,50 TL",Yan Ürünler,5.0
+904d5cdc-ae2b-49c9-9f48-b5948a07e4b7,Çoban Salata,"6,00 TL",Salatalar,5.0
+50ade35a-0e34-49d6-9245-5ca488c84cd3,Fırın Sütlaç,"10,00 TL",Tatlılar,7.0
+7dbb2f06-fa68-4474-8114-3785d3711f9d,Cevizli Kadayıf,"10,00 TL",Tatlılar,5.0
+8a2de052-36b2-489b-8c84-462018ab23a5,Kaymaklı Cevizli Kadayıf,"14,00 TL",Tatlılar,10.0
+581c6809-fdce-40e6-9519-980ca230fded,Antep Fıstıklı Kadayıf,"12,00 TL",Tatlılar,5.0
+f0e0f466-9e91-42e5-94d3-0d9ed6666223,Kaymaklı Antep Fıstıklı Kadayıf,"16,00 TL",Tatlılar,5.0
+E27C9F30-D8E3-4BF9-8C33-D1F5B2960323,Benda Gazoz (25 cl.) (Cam Şişe),"4,50 TL",İçecekler,5.0
+69c8ad5a-803e-435b-bfc8-e4921d7906c9,Su,"1,00 TL",İçecekler,5.0
+15bd7ec8-6b0f-486f-973e-ac779208471f,Poşet,"0,25 TL",Poşet,5.0

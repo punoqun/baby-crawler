@@ -1,0 +1,197 @@
+food_id,food_name,food_price,food_category,food_score
+2599b2c8-9987-4e6b-a796-a1d746de9845,Açma (4 Adet),"16,00 TL",Kahvaltılıklar,5.0
+0adf75bf-fd06-433c-ad0e-49026b3119fd,Peynirli Pastane Sandviç,"10,00 TL",Kahvaltılıklar,6.0
+a22b937b-2f48-4b4d-b3e0-8ac8d14455c4,Kaşarlı Pastane Sandviç,"10,75 TL",Kahvaltılıklar,6.0
+9bd876b6-8f70-45c6-a73c-a0d5d9eda792,Tahinli Çörek,"10,75 TL",Kahvaltılıklar,5.0
+8084F9A9-3947-43DD-B37D-BC3CA1EC2150,Tereyağlı Simit,"5,00 TL",Kahvaltılıklar,3.0
+AF433727-5271-4657-85EF-51B2D44B86E0,Çekirdekli Simit,"6,50 TL",Kahvaltılıklar,4.0
+6A1AF3EE-D5FB-480D-B1A5-313BFAFC0E55,Pastane Simidi,"3,00 TL",Kahvaltılıklar,6.0
+581F2B11-7EDF-40FF-B162-35DC8130912F,Kesme Çörek,"4,75 TL",Kahvaltılıklar,5.0
+4C32632B-1493-4629-AC50-7D00C96EBF0E,Pide,"7,50 TL",Kahvaltılıklar,5.0
+630588D8-C6CB-4B67-B109-29ECE48E439E,Tahinli Cevizli Çörek,"10,75 TL",Kahvaltılıklar,5.0
+81F9FFD6-457E-4E5C-9743-1DB4DD5A9B6C,Paskalya,"6,50 TL",Kahvaltılıklar,5.0
+B6B11A9B-7736-4E28-B379-B14458D418DE,Karışık Açma (2 Adet),"8,00 TL",Kahvaltılıklar,5.0
+CA35A256-F919-43ED-87BF-B98FE63A3A4A,Ay Çöreği,"4,75 TL",Kahvaltılıklar,5.0
+51BEF8E7-EE09-4AA1-89B8-B3192B9EF21D,Karışık Poğaça (3 Adet),"9,00 TL",Kahvaltılıklar,5.0
+84eaa829-962a-4cf1-ab17-8c8ad1982dac,Ispanaklı Parmak Börek (3 Dilim),"16,75 TL",Börekler,6.0
+1f82a281-c07b-47a7-bdaf-1e349375e5a5,Kıymalı Parmak Börek (3 Dilim),"16,75 TL",Börekler,6.0
+fa39340c-95ee-4566-92a2-992453bceb07,Patatesli Parmak Börek (3 Dilim),"16,75 TL",Börekler,6.0
+6ffeac42-e651-4698-b486-472170e51459,Peynirli Parmak Börek (3 Dilim),"16,75 TL",Börekler,6.0
+c1ffa140-23a6-40c0-975e-04edede4bbd8,Kıymalı Karaköy Böreği,"17,00 TL",Börekler,10.0
+983215a2-8dbf-41ea-8abd-99949a76b609,Peynirli Karaköy Böreği,"17,00 TL",Börekler,5.0
+a8681100-978b-4388-ba09-1e15da02dd74,Susamlı Kandil Simidi,"3,00 TL",Kandil Simitleri,5.0
+16d5e4b7-fba0-44cf-b2f1-7acc4c8c3166,Sade Kandil Simidi,"3,00 TL",Kandil Simitleri,7.0
+a1c67a20-870e-4629-9679-5d3c04a75d1c,Kandil Simidi (6 Adet),"18,00 TL",Kandil Simitleri,5.0
+17b2d4b3-13bd-47c3-af13-2a0b1d9dc9fe,Kandil Simidi (10 Adet),"30,00 TL",Kandil Simitleri,5.0
+74D5089E-9DC1-409A-84FA-FB809C58E2DE,İzmir Bomba,"5,00 TL",Tatlılar,2.0
+8df709c6-82f5-4809-afe4-6a7a1cdc539d,Karamelli Trileçe,"16,00 TL",Tatlılar,5.0
+069e3083-ea90-47b1-936f-0e33bc057771,Çikolata Dolgulu Şelale Kek,"15,00 TL",Tatlılar,5.0
+04cb23a3-caf6-4d70-828b-776581f9264d,Acı Badem Kurabiyesi (Adet),"16,00 TL",Tatlılar,5.0
+11a6ed9f-54ad-41a9-b23c-f33d13fd5ca8,Çikolatalı Ekler,"20,75 TL",Tatlılar,5.0
+4ccc597d-56a3-4c7e-9623-3f425f126ddb,Limonlu Pasta (Dilim),"20,75 TL",Tatlılar,2.0
+604c9176-60da-4ac2-a0a1-6b98f7819437,Fıstık Drajeli Pasta (Dilim),"20,75 TL",Tatlılar,3.0
+806f16fa-3969-4a94-9f53-cfe137bdf1b7,Karışık Meyveli Pasta (Dilim),"20,75 TL",Tatlılar,2.0
+11908d79-d81c-4184-92f5-db20672a5fff,Meyveli Petifür,"20,75 TL",Tatlılar,5.0
+eb08f27d-3555-44f7-86b4-ed0312706417,Karamelli Ekler,"20,75 TL",Tatlılar,5.0
+3da3af3d-6acf-40ac-8b22-2ce533358330,Beyaz Kremalı & Çilekli Pasta (Dilim),"20,75 TL",Tatlılar,2.0
+948137d8-4873-4c20-a855-50533b994aee,Limonlu Ekler,"20,75 TL",Tatlılar,5.0
+17c2d50b-ce91-41a1-a47c-1b438c82c436,Parça Çikolatalı Pasta (Dilim),"20,75 TL",Tatlılar,2.0
+73a2c127-ff73-4bdb-9d9b-ff4450f06acc,Milföy Pasta (Dilim),"20,75 TL",Tatlılar,2.0
+74c31d1c-5ba4-4541-b967-473b0f36d266,Ibiza Pasta,"23,00 TL",Tatlılar,2.0
+3d4f371d-5121-40ee-9c49-ad388c3f6355,Malaga Pasta (Dilim),"23,00 TL",Tatlılar,2.0
+aca66865-2e24-46cd-9ce6-037204e5d1ad,Cheesecake,"23,00 TL",Tatlılar,4.0
+0831fbf8-188e-45a6-9ec7-f70d46882584,Tiramisu,"23,00 TL",Tatlılar,5.0
+90a6fc3b-3876-4797-af02-d9d51c50bd29,Mini Acı Badem Kurabiyesi (Paket),"23,50 TL",Tatlılar,5.0
+a7c21443-bd2e-4c75-a296-cdbbe485326e,Cevizli Baklava,"17,50 TL",Şerbetli Tatlılar,-1.0
+90D76FE9-3960-4AFD-9883-3DFF772233AF,Güllaç (Dilim),"17,50 TL",Şerbetli Tatlılar,5.0
+4D24375E-9E17-47F3-886F-B7EA3EA419E6,Şekerpare (4 Dilim),"14,00 TL",Şerbetli Tatlılar,5.0
+102A4E29-20E1-4DDF-956A-5DA85631CDFF,Kalburabastı (4 Dilim),"14,00 TL",Şerbetli Tatlılar,5.0
+0128E5DE-8699-40D4-8C3B-0380FFDA22B7,Lor Tatlısı (3 Dilim),"14,00 TL",Şerbetli Tatlılar,5.0
+B7BD4DC9-56A3-4449-9311-40FD4128B423,Lokma (200 gr.),"14,00 TL",Şerbetli Tatlılar,5.0
+5C2042B9-31E1-465A-9048-D180E69A888F,Tulumba Tatlısı (200 gr.),"14,00 TL",Şerbetli Tatlılar,5.0
+3fcd5c9e-9c2c-41e7-9842-e9ca9c1336d2,Fıstıklı Baklava,"24,50 TL",Şerbetli Tatlılar,0.0
+c10eb2b6-2f9f-4173-83b2-2737b3b2fbf9,Fıstıklı Özel Baklava,"24,50 TL",Şerbetli Tatlılar,2.0
+9e5222b4-2de7-4b08-a26a-97408cbf1d59,Kuru Baklava,"24,50 TL",Şerbetli Tatlılar,-2.0
+1bd2b5fe-a3af-4768-b4c5-1885a556c522,Şöbiyet,"24,50 TL",Şerbetli Tatlılar,5.0
+741c0441-242d-427d-bfd6-cc5f0380c7e8,Aşure,"22,00 TL",Kasede Tatlılar,4.0
+4b5d4d5a-659b-42ae-8a86-0e405caed900,Çilekli Şarlot,"20,75 TL",Kasede Tatlılar,5.0
+479f29b2-8142-4c65-ae2c-940ed5f98a8e,Kazandibi,"20,75 TL",Kasede Tatlılar,5.0
+a9da98bc-e831-49ad-b512-d1fc12feb40d,Keşkül,"20,75 TL",Kasede Tatlılar,4.0
+b887f60a-92e1-4469-8414-1067b008405e,Meyveli Şarlot,"20,75 TL",Kasede Tatlılar,5.0
+a101a72a-03f2-4c83-bfbf-8fe8b0e15b87,Profiterol,"20,75 TL",Kasede Tatlılar,9.0
+22664f1a-85ec-422f-b1b7-3ff24edba636,Sakızlı Muhallebi,"20,75 TL",Kasede Tatlılar,5.0
+af85c218-eec4-4900-8844-50e561984768,Supangle,"20,75 TL",Kasede Tatlılar,5.0
+77a52e18-4d4c-4ece-8aaa-aa9417aeb844,Sütlaç,"20,75 TL",Kasede Tatlılar,5.0
+1271aba6-30df-4b5f-80fc-082921f79d2c,Çikolatalı Biscotti Puding,"23,00 TL",Kasede Tatlılar,5.0
+F79979A5-E95F-4948-A153-1BE1576F5ADD,Çilekli Biscotti Puding,"23,00 TL",Kasede Tatlılar,5.0
+7C6C2426-7DEF-427A-B875-062C927776B9,Muzlu Biscotti Puding,"23,00 TL",Kasede Tatlılar,5.0
+4C8B217F-0F88-499B-A27A-77E6DBA36FF9,Sade Kalıp Kek,"40,00 TL",Kalıp Kekler,8.0
+38826642-46ca-49d7-b955-5814d8c45e6b,Çikolatalı Kalıp Kek,"40,00 TL",Kalıp Kekler,6.0
+556ba348-9201-48c0-b342-7f5ef10e11a7,Bademli Kalıp Kek,"40,00 TL",Kalıp Kekler,6.0
+df507c18-1837-4cbb-b8ca-1c54d02a7502,Meyveli Kalıp Kek,"40,00 TL",Kalıp Kekler,6.0
+3250aedb-f7e1-435e-b3ef-3e1f89f6bde5,Üzümlü Kalıp Kek,"40,00 TL",Kalıp Kekler,6.0
+7be44fb1-366d-48d1-b3e2-2204ed1b2f7e,Limonlu Kalıp Kek,"40,00 TL",Kalıp Kekler,6.0
+5f02d725-c5ad-483f-8e80-2e712f4451e6,Krokanlı Kek,"45,00 TL",Kalıp Kekler,6.0
+999812f8-ae7b-4575-8ae9-a715e0f023b1,Spesiyal Çikolata (500 gr.),"85,00 TL",Çikolatalar,4.0
+040a6344-e0bd-44eb-94ab-984e2cc11793,Madlen Çikolata (500 gr.),"62,50 TL",Çikolatalar,4.0
+7acc7a2e-970e-4f43-a6fa-cd83aa54b894,Karışık Draje Çikolata (500 gr.),"100,00 TL",Çikolatalar,4.0
+55CBBD71-5723-46CD-9AF5-9300830E2EA7,Portakallı Draje Çikolata (500 gr.),"85,00 TL",Çikolatalar,4.0
+17A04B2C-7C8E-447E-8713-0341FFC281B7,Üzümlü Draje Çikolata (500 gr.),"85,00 TL",Çikolatalar,4.0
+8C2F9D07-F59D-4267-A774-B6831140BEB9,Kahveli Draje Çikolata (500 gr.),"100,00 TL",Çikolatalar,4.0
+C61E4399-CFE8-45FF-91DC-FD7FF29C4FD8,Fıstık Şekeri Çikolata (500 gr.),"100,00 TL",Çikolatalar,5.0
+19AF9B3E-A418-4FAB-AFEE-F970CE093269,Badem Draje Çikolata (500 gr.),"100,00 TL",Çikolatalar,4.0
+6A6C72FA-0F49-4161-B6C9-65A26F0D59B6,Badem Şekeri (500 gr.),"100,00 TL",Çikolatalar,5.0
+f4b44b76-1f1b-4379-aa4e-b538c159dd45,Badem Krokanlı Pasta (3-4 Kişilik),"55,00 TL",Pastalar (No.0) (Küçük Boy),2.0
+B1EB298B-E02E-4463-92C7-82894AE70C03,Venedik Pasta (3-4 Kişilik),"65,00 TL",Pastalar (No.0) (Küçük Boy),2.0
+9F12A2E0-8ED1-4183-B553-9F82C42FDAF3,New York Pasta (3-4 Kişilik),"65,00 TL",Pastalar (No.0) (Küçük Boy),2.0
+F94AF75D-440F-495C-B93F-091910899996,Japonias Pasta (3-4 Kişilik),"65,00 TL",Pastalar (No.0) (Küçük Boy),2.0
+561ED8A7-3ED4-4D3E-BD39-4E49B3A05A4F,Kırmızı Kadife Pasta (3-4 Kişilik),"65,00 TL",Pastalar (No.0) (Küçük Boy),2.0
+d7bfb06c-42a6-485f-8df2-deee0794fa54,Bademli Ananaslı Pasta (3-4 Kişilik),"55,00 TL",Pastalar (No.0) (Küçük Boy),2.0
+b12a2fe3-6060-4230-9070-3f69e7bb16dc,Beyaz Kremalı Çilekli Pasta (3-4 Kişilik),"60,00 TL",Pastalar (No.0) (Küçük Boy),2.0
+133510b6-3c3a-4962-8632-64db423b9027,Beyaz Kremalı Karışık Meyveli Pasta (3-4 Kişilik),"65,00 TL",Pastalar (No.0) (Küçük Boy),2.0
+d7d07f59-de43-4633-a381-a4fd9817bc02,Beyaz Kremalı Muzlu Pasta (3-4 Kişilik),"60,00 TL",Pastalar (No.0) (Küçük Boy),2.0
+6a508542-eda4-4b41-9ced-a7c7e1f37ab9,Çikolatalı Çilekli Pasta (3-4 Kişilik),"60,00 TL",Pastalar (No.0) (Küçük Boy),2.0
+fdd5f37b-b1d8-47ba-be2a-994a4ffc3a11,Çikolatalı Fıstık Drajeli Pasta (3-4 Kişilik),"55,00 TL",Pastalar (No.0) (Küçük Boy),3.0
+3281d135-30b5-4ea2-9c69-db4f23ae517b,Çikolatalı Karışık Meyveli Pasta (3-4 Kişilik),"65,00 TL",Pastalar (No.0) (Küçük Boy),2.0
+cf299886-27a0-4f0b-83e1-77790a85bfda,Çikolatalı Muzlu Pasta (3-4 Kişilik),"55,00 TL",Pastalar (No.0) (Küçük Boy),2.0
+4c93cfe2-927f-49eb-8bd8-e6ac6b3e0e63,Çikolatalı Vişneli Pasta (3-4 Kişilik),"55,00 TL",Pastalar (No.0) (Küçük Boy),2.0
+c27fe941-1dc3-4fdc-93fa-a62cc46b804e,Dağ Meyveli Pasta (3-4 Kişilik),"65,00 TL",Pastalar (No.0) (Küçük Boy),1.0
+0a977413-3dff-4026-9765-5e7ae2d56ed6,Frambuazlı Böğürtlenli Pasta (3-4 Kişilik),"55,00 TL",Pastalar (No.0) (Küçük Boy),2.0
+444e92b5-0450-414d-85b8-176425c17227,Frambuazlı Drajeli Pasta (3-4 Kişilik),"55,00 TL",Pastalar (No.0) (Küçük Boy),2.0
+4907d38c-cab1-41d8-9064-dba23c1d4e93,Frambuazlı Pasta (3-4 Kişilik),"55,00 TL",Pastalar (No.0) (Küçük Boy),2.0
+4eb6a201-140f-4169-9aa0-5f6ae01a59c7,Kestaneli Pasta (3-4 Kişilik),"55,00 TL",Pastalar (No.0) (Küçük Boy),2.0
+a9e1266d-a24d-4059-9dd0-277c03a788cc,Oreolu Çilekli Pasta (3-4 Kişilik),"65,00 TL",Pastalar (No.0) (Küçük Boy),2.0
+2fcbbb05-26f4-4b75-a0fa-895bdad205e3,Orman Meyveli Pasta (3-4 Kişilik),"65,00 TL",Pastalar (No.0) (Küçük Boy),2.0
+73ff2c8a-d576-451a-9d6e-840b23eb7c8b,Parça Çikolatalı Pasta (3-4 Kişilik),"55,00 TL",Pastalar (No.0) (Küçük Boy),2.0
+bb9426e3-9239-4b60-a299-121c379c9eb2,Profiterol Pasta (3-4 Kişilik),"55,00 TL",Pastalar (No.0) (Küçük Boy),1.0
+180d3d32-58bd-4daf-b70e-cc4da9dc0cec,Sacher Pasta (6-8 Kişilik),"95,00 TL",Pastalar (No.1) (Orta Boy),2.0
+257128A3-3653-4F0A-B7F5-00872701A122,Venedik Pasta (6-8 Kişilik),"115,00 TL",Pastalar (No.1) (Orta Boy),2.0
+E4D28797-1561-4BCD-951F-B4C5FBA47469,New York Pasta (6-8 Kişilik),"115,00 TL",Pastalar (No.1) (Orta Boy),2.0
+E075925E-0304-4BC6-B818-D5AD6EF0EE48,Japonias Pasta (6-8 Kişilik),"115,00 TL",Pastalar (No.1) (Orta Boy),2.0
+CD1C36FC-E672-4BFB-8818-47A34FA92E4A,Kırmızı Kadife Pasta (6-8 Kişilik),"115,00 TL",Pastalar (No.1) (Orta Boy),2.0
+F8678189-D0EF-453E-952C-08120BEC2F9F,Profiterol Pasta (6-8 Kişilik),"90,00 TL",Pastalar (No.1) (Orta Boy),1.0
+56463c39-e07b-4296-9287-3c0c1c87fea2,Bademli Ananaslı Pasta (6-8 Kişilik),"95,00 TL",Pastalar (No.1) (Orta Boy),2.0
+6cd1fb55-8a2e-4647-b9a9-3c2b1d070d1c,Beyaz Kremalı Çilekli Pasta (6-8 Kişilik),"95,00 TL",Pastalar (No.1) (Orta Boy),2.0
+d9337aca-ead3-42b0-99ca-6ecae361efbb,Beyaz Kremalı Karışık Meyveli Pasta (6-8 Kişilik),"110,00 TL",Pastalar (No.1) (Orta Boy),2.0
+6ed0847d-647f-484f-9a33-a0c7570eecc7,Beyaz Kremalı Muzlu Pasta (6-8 Kişilik),"95,00 TL",Pastalar (No.1) (Orta Boy),2.0
+1457792a-6cd1-4629-bd83-d5d3f7c5e123,Cheese Tart (6-8 Kişilik),"65,00 TL",Pastalar (No.1) (Orta Boy),4.0
+3e5f6861-f33d-4c47-9281-db6d0aed12d0,Çikolata Çilekli Pasta (6-8 Kişilik),"95,00 TL",Pastalar (No.1) (Orta Boy),1.0
+6e6995b7-1c99-4f5e-8111-90b9d4f68355,Çikolata Karışık Meyveli Pasta (6-8 Kişilik),"110,00 TL",Pastalar (No.1) (Orta Boy),1.0
+3064cee9-ccab-4bd9-a6b9-4fd4b8823cbc,Çikolata Muzlu Pasta (6-8 Kişilik),"95,00 TL",Pastalar (No.1) (Orta Boy),1.0
+d98c11fe-14e8-43c8-ad40-6702d52b5385,Çikolatalı Vişneli Pasta (6-8 Kişilik),"95,00 TL",Pastalar (No.1) (Orta Boy),2.0
+6edcb9d7-b9b8-425d-a2ea-743403474126,Frambuazlı Böğürtlenli Pasta (6-8 Kişilik),"95,00 TL",Pastalar (No.1) (Orta Boy),2.0
+2af890e0-43a5-4629-af6f-e8c4f7876c11,Frambuazlı Drajeli Pasta (6-8 Kişilik),"95,00 TL",Pastalar (No.1) (Orta Boy),2.0
+d48ae64b-7185-4e5e-bcbf-528bac5ed4b2,Kestaneli Pasta (6-8 Kişilik),"100,00 TL",Pastalar (No.1) (Orta Boy),2.0
+3a272532-5b31-473e-89c3-6dcbe74f6819,Limonlu Cheesecake (6-8 Kişilik),"85,00 TL",Pastalar (No.1) (Orta Boy),4.0
+90afcca9-25b9-4605-9224-c6dd03737e72,Limonlu Pasta (6-8 Kişilik),"90,00 TL",Pastalar (No.1) (Orta Boy),2.0
+66ef6760-caec-4c29-b6fc-e713ef8abd10,Oreolu Çilekli Pasta (6-8 Kişilik),"115,00 TL",Pastalar (No.1) (Orta Boy),2.0
+f2310b65-6f3a-4ff5-8d71-0d084d1dfc91,Orman Meyveli Pasta (6-8 Kişilik),"120,00 TL",Pastalar (No.1) (Orta Boy),2.0
+8c5935b4-d51f-43b3-931c-18616c34cd65,Özel Kremalı Çilekli Pasta (6-8 Kişilik),"120,00 TL",Pastalar (No.1) (Orta Boy),4.0
+5b1dacbe-2d7f-4259-8929-7aa2402d82bb,Parça Çikolatalı Pasta (6-8 Kişilik),"95,00 TL",Pastalar (No.1) (Orta Boy),2.0
+cf7a243d-7c11-4caa-bf5c-c2d120b8cdc3,Tiramisu (6-8 Kişilik),"75,00 TL",Pastalar (No.1) (Orta Boy),5.0
+929ad409-9595-4a7f-8bd9-7623799c8aa7,Çikolatalı Çilekli Pasta (10-12 Kişilik),"150,00 TL",Pastalar (No.2) (Büyük Boy),2.0
+12a2cae8-a1dd-4576-b8b1-87802e174425,Çikolatalı Karışık Meyveli Pasta (10-12 Kişilik),"150,00 TL",Pastalar (No.2) (Büyük Boy),2.0
+a21e2392-58c0-4ff6-9e93-0b1236014f2a,Çikolatalı Muzlu Pasta (10-12 Kişilik),"150,00 TL",Pastalar (No.2) (Büyük Boy),2.0
+063dd8b6-6670-47ca-bb35-3d949a2e5615,Badem Krokanlı Pasta (10-12 Kişilik),"150,00 TL",Pastalar (No.2) (Büyük Boy),2.0
+7bfe05fd-3a0a-4689-a9fb-4db55652a0d2,Çikolatalı Vişneli Pasta (10-12 Kişilik),"150,00 TL",Pastalar (No.2) (Büyük Boy),2.0
+ed5c3fdc-96bc-4c95-80aa-ed80714753e3,Beyaz Kremalı Çilekli Pasta (10-12 Kişilik),"150,00 TL",Pastalar (No.2) (Büyük Boy),2.0
+54fb388f-07cd-449c-9fc7-d6f0b74789af,Frambuazlı Pasta (10-12 Kişilik),"150,00 TL",Pastalar (No.2) (Büyük Boy),2.0
+ef250186-2b41-415e-97af-5200f744a26c,Beyaz Kremalı Karışık Meyveli Pasta (10-12 Kişilik),"150,00 TL",Pastalar (No.2) (Büyük Boy),2.0
+043a935d-64d9-444b-a295-28c222b6a76c,Kestaneli Pasta (10-12 Kişilik),"150,00 TL",Pastalar (No.2) (Büyük Boy),2.0
+7a196340-adaf-4445-bb5c-4d588a26cbc3,Limonlu Pasta (10-12 Kişilik),"150,00 TL",Pastalar (No.2) (Büyük Boy),2.0
+ece1b9aa-b59e-4bff-ac0a-b7f659d20d19,Beyaz Kremalı Muzlu Pasta (10-12 Kişilik),"150,00 TL",Pastalar (No.2) (Büyük Boy),2.0
+b666f14a-9b99-46d9-b3d6-67e3947de0bc,Parça Çikolatalı Pasta (10-12 Kişilik),"150,00 TL",Pastalar (No.2) (Büyük Boy),2.0
+f5b6e102-15ec-4667-938c-9d681f91f20d,Portakallı Fıstık Drajeli Pasta (10-12 Kişilik),"150,00 TL",Pastalar (No.2) (Büyük Boy),3.0
+589e70a2-8981-4b30-bcb5-282724eba7e8,Su,"3,00 TL",İçecekler,4.0
+bec79b55-c153-44e8-87c8-469c48f7f661,Taze Sıkma Portakal Suyu (50 cl.),"20,00 TL",İçecekler,5.0
+a193ad23-6211-47d0-95d9-f56d27c1579c,Dondurma (1 kg.),"75,00 TL",Dondurmalar,5.0
+4c4e4821-542b-409b-b3be-ced0d9f6fca6,Fıstıklı Baklava (500 gr.),"50,00 TL",Kiloluk Tatlılar,0.0
+73a9df94-0202-4485-bede-deaac984d03b,Cevizli Baklava (500 gr.),"40,00 TL",Kiloluk Tatlılar,-1.0
+f6068d22-aaa2-489a-8806-e29435a533a4,Kuru Baklava (500 gr.),"55,00 TL",Kiloluk Tatlılar,-2.0
+c2dfd858-63cc-457d-b0c0-2d1ca7a03608,Şöbiyet (500 gr.),"52,50 TL",Kiloluk Tatlılar,5.0
+0d22dd2a-5f2d-4742-95b3-8bbc217c69ad,Fıstıklı Özel Baklava (500 gr.),"52,50 TL",Kiloluk Tatlılar,7.0
+225c4d5e-3e07-4989-90f3-f4f71b7fffcd,Kestane Şekeri (500 gr.),"70,00 TL",Kiloluk Tatlılar,5.0
+a63e7ad8-77e5-42f5-9d77-9a2449b3d060,Kestane Şekeri (1 kg.),"140,00 TL",Kiloluk Tatlılar,5.0
+6E353EA0-3284-40EA-846F-2F1C0F9D1622,Güllaç (1 kg.),"55,00 TL",Kiloluk Tatlılar,5.0
+2F9FA742-AF41-4DAF-950C-921FF3EC3250,Güllaç (600 gr.),"33,00 TL",Kiloluk Tatlılar,5.0
+96EABD63-E40A-4672-A222-068B5BD90FAD,Şekerpare (1 kg.),"55,00 TL",Kiloluk Tatlılar,5.0
+2F2270F1-3DA4-43B5-9DD6-26ADD3822112,Kalburabastı (1 kg.),"55,00 TL",Kiloluk Tatlılar,5.0
+9A388872-9370-418C-BC15-D0D0543DA970,Lor Tatlısı (1 kg.),"55,00 TL",Kiloluk Tatlılar,5.0
+AD799DEE-A61D-4076-9F29-5289F925B376,Tulumba Tatlısı (1 kg.),"55,00 TL",Kiloluk Tatlılar,5.0
+45A673BE-5BBC-4979-BA31-81AEFA128C89,Lokma (1 kg.),"55,00 TL",Kiloluk Tatlılar,5.0
+98121678-6A3E-4674-96E9-1694CB08F093,Şekerpare (500 gr.),"27,50 TL",Kiloluk Tatlılar,5.0
+8644A009-7714-471B-BD07-39AE5DE4C77A,Kalburabastı (500 gr.),"27,50 TL",Kiloluk Tatlılar,5.0
+D7805785-C83D-4638-BC8C-EF6CA0FAFBA9,Lor Tatlısı (500 gr.),"27,50 TL",Kiloluk Tatlılar,5.0
+280C0E6D-4410-4C2E-B828-DCE13B24B905,Tulumba Tatlısı (500 gr.),"27,50 TL",Kiloluk Tatlılar,5.0
+DD70F05B-0D7E-4959-BCF3-459FCF44C554,Lokma (500 gr.),"27,50 TL",Kiloluk Tatlılar,5.0
+37eb9b45-dac1-4385-808e-b3cf4781f063,Vişneli Mekik Kek (500 gr.),"37,50 TL",Kiloluk Kekler,6.0
+a7ca99ec-d1d8-45c9-a058-86c62ef7844d,Çikolatalı Mekik Kek (500 gr.),"37,50 TL",Kiloluk Kekler,6.0
+93fa0001-86a7-4ecd-ad63-101556c18ff5,Bademli Mekik Kek (500 gr.),"37,50 TL",Kiloluk Kekler,6.0
+0e247f11-3d63-4685-92a5-0fce616043aa,Fıstıklı Mekik Kek (500 gr.),"45,00 TL",Kiloluk Kekler,7.0
+e893bc9d-da22-40d1-a587-a95ad0adc85a,Su Böreği (500 gr.),"25,00 TL",Kiloluk Börekler (Pişirilmiş),4.0
+24eb682d-e35d-488f-b4ce-3248caf21f87,Parmak Börek (500 gr.),"25,00 TL",Kiloluk Börekler (Pişirilmiş),6.0
+7f6098bb-aae6-451a-8c7b-5556feb8d071,Maraş Böreği (500 gr.),"25,00 TL",Kiloluk Börekler (Pişirilmiş),6.0
+ff19d510-f02f-4fd5-8ff3-6420c053ac85,Karaköy Böreği (500 gr.),"30,00 TL",Kiloluk Börekler (Pişirilmiş),5.0
+42F2E66D-D778-4768-8BBD-3B20C3701E25,Kıymalı Karaköy Böreği (1 kg.),"60,00 TL",Kiloluk Börekler (Pişirilmiş),5.0
+59DAEF3A-AFE7-43C8-AD01-09A5D4351193,Maraş Peynirli Börek (1 kg.),"50,00 TL",Kiloluk Börekler (Pişirilmiş),7.0
+68ea4dcd-d196-41fa-b090-17b517cfc233,Peynirli Karaköy Böreği (1 kg.),"60,00 TL",Kiloluk Börekler (Pişirilmiş),5.0
+74412a2e-d786-4cc5-b087-6190e68cd107,Selanik Gevreği (500 gr.),"37,50 TL",Kiloluk Atıştırmalıklar,5.0
+71920c6c-de22-4ccb-a49b-212ef364e232,Bademli Gevrek (500 gr.),"37,50 TL",Kiloluk Atıştırmalıklar,5.0
+4bc58539-f33f-4ed7-b58a-0b2e0e1023d5,İnce Gevrek (500 gr.),"25,00 TL",Kiloluk Atıştırmalıklar,5.0
+bf487d6a-8e1e-4471-a84d-6775755e3277,Batonsale (500 gr.),"25,00 TL",Kiloluk Atıştırmalıklar,5.0
+27e8e9c2-40a9-412d-9eea-b8245f2364ec,Karışık Tatlı Kuru Pasta (500 gr.),"38,00 TL",Kiloluk Atıştırmalıklar,1.0
+5c58dbe9-3432-4c08-a585-1f8f1f814b72,Karışık Tuzlu Kuru Pasta (500 gr.),"25,00 TL",Kiloluk Atıştırmalıklar,0.0
+a76925c0-13f8-4641-b0ee-db2967d8c91e,Tava Pizza (500 gr.),"32,50 TL",Kiloluk Atıştırmalıklar,5.0
+25a89dff-3566-4bf0-9c6d-0147d43c1835,Sakallı Tuzlu Kuru Pasta (500 gr.),"25,00 TL",Kiloluk Atıştırmalıklar,0.0
+dc08cdc0-67f6-4330-8845-95289bc19289,Sakallı Tuzlu Kuru Pasta (1 kg.),"50,00 TL",Kiloluk Atıştırmalıklar,0.0
+6E725F40-3E5D-4775-B1CD-3514F9ABA6FF,Çekirdekli Çubuk (500 gr.),"40,00 TL",Kiloluk Atıştırmalıklar,5.0
+A861CBD6-91EE-4668-BDE5-D489274335BD,Susamlı Halka (500 gr.),"25,00 TL",Kiloluk Atıştırmalıklar,5.0
+CD0F3745-47CC-4D3B-83A5-0D25162C07BD,Çörekotlu Baton Sale ( 500 gr.),"25,00 TL",Kiloluk Atıştırmalıklar,4.0
+5962AB34-7D98-4438-B108-863B26BC8A37,Balayı Kurabiye (500 gr.),"60,00 TL",Kiloluk Atıştırmalıklar,5.0
+1545F5EF-C549-45E6-82B6-738A4DFBE066,Egzotik (500 gr.),"60,00 TL",Kiloluk Atıştırmalıklar,5.0
+32126C0B-2280-40CE-A516-BD33468FA6C7,Silpat (500 gr.),"35,00 TL",Kiloluk Atıştırmalıklar,5.0
+75A1CD77-46E5-4B52-B3DF-C447C4BEACED,Kavala Kurabiye (500 gr.),"35,00 TL",Kiloluk Atıştırmalıklar,5.0
+3F24DD07-0781-4650-A70B-512E33E7690C,Çay Kurabiyesi (500 gr.),"35,00 TL",Kiloluk Atıştırmalıklar,5.0
+9998E584-32CF-4829-A533-FC031DFFB76E,Elma Dolgulu Kurabiye (500 gr.),"35,00 TL",Kiloluk Atıştırmalıklar,5.0
+6603542F-20D0-4A3F-B3B2-14625D9E1168,Filorantin (500 gr.),"35,00 TL",Kiloluk Atıştırmalıklar,5.0
+985c4d63-21b3-4dd9-931e-af8447ef90f4,Poşet,"0,25 TL",Poşet,5.0

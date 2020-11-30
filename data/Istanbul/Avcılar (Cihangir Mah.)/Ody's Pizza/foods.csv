@@ -1,0 +1,53 @@
+food_id,food_name,food_price,food_category,food_score
+46a012b2-6f2c-4f0a-94dc-ce39e9e382d5,Menü 1,"50,00 TL",Menüler,20.0
+6297414a-4b6d-4ed6-ba68-cdf8fc36f598,Menü 2,"52,00 TL",Menüler,5.0
+7c3ed75f-37e8-4d6b-9b10-2f45b527553a,Alaturka Pizza (Küçük),"31,00 TL",Küçük Boy Pizzalar (24 cm.),21.0
+c2e06fdc-3558-4ccb-ad02-4dd1d98993dd,Barbeque Chicken Pizza (Küçük),"28,00 TL",Küçük Boy Pizzalar (24 cm.),21.0
+dcbe54f9-6b7d-4554-a5c6-4c3f6ced2768,Cheddar Sosis Pizza (Küçük),"30,00 TL",Küçük Boy Pizzalar (24 cm.),21.0
+e9440ade-ebc9-47e3-9142-2435db4d12a0,Diavola Pizza (Küçük),"30,00 TL",Küçük Boy Pizzalar (24 cm.),21.0
+e43c12fc-e477-43d1-b197-a90e347abf42,Et Dönerli Pizza (Küçük),"30,00 TL",Küçük Boy Pizzalar (24 cm.),21.0
+f560c63b-c7e5-4f9b-ae86-1138cccd3457,Funghi Mix Pizza (Küçük),"32,00 TL",Küçük Boy Pizzalar (24 cm.),21.0
+5d569a16-89cf-4758-8993-5faa8d1382ff,Funghi Pizza (Küçük),"29,00 TL",Küçük Boy Pizzalar (24 cm.),21.0
+f9807a43-e3d6-42b2-9e3d-3160421b4385,Fungo di Pepperoni Pizza (Küçük),"35,00 TL",Küçük Boy Pizzalar (24 cm.),242.0
+6c27e093-65b7-43d9-96ff-39c6439207a7,Jalapeno Chicken Pizza (Küçük),"28,00 TL",Küçük Boy Pizzalar (24 cm.),21.0
+4bc38dbb-d55e-4f84-8d0c-18fe7b0e962b,Kavurmalı Pizza (Küçük),"32,00 TL",Küçük Boy Pizzalar (24 cm.),24.0
+4d50dcf0-a47a-4eeb-b135-243ca50ff770,Margherita Pizza (Küçük),"26,00 TL",Küçük Boy Pizzalar (24 cm.),21.0
+649e01a9-1b23-4dbf-94e3-068d5ad3abe8,Mediterraneo Pizza (Küçük),"32,00 TL",Küçük Boy Pizzalar (24 cm.),21.0
+50e864c2-5e4e-4091-b6e7-9589164fcba9,Mista Pizza (Küçük),"35,00 TL",Küçük Boy Pizzalar (24 cm.),25.0
+51860723-bc66-401f-ac98-bb31a2d86af6,Ortolana Pizza (Küçük),"29,00 TL",Küçük Boy Pizzalar (24 cm.),21.0
+51eff9c0-3c5b-4e57-a6d8-51db0ed1ee38,Pastırmalı Pizza (Küçük),"44,00 TL",Küçük Boy Pizzalar (24 cm.),21.0
+9ebef4ce-33fe-4845-94f4-c815c721dc3d,Pepperoni Pizza (Küçük),"31,00 TL",Küçük Boy Pizzalar (24 cm.),21.0
+9f32ea96-e065-4037-bca2-eaa52dd2a482,Pesto Chicken Pizza (Küçük),"28,00 TL",Küçük Boy Pizzalar (24 cm.),21.0
+a19c3ed3-4844-4f29-aee9-098b57f68a9f,Pieno di Vitello Pizza (Küçük),"35,00 TL",Küçük Boy Pizzalar (24 cm.),242.0
+b2013929-7366-461f-8cc4-e9035a2b24b2,Portobello Pizza (Küçük),"39,00 TL",Küçük Boy Pizzalar (24 cm.),21.0
+11714c10-51a4-40ca-86a2-cb6e644b9301,Quattro Formaggi Pizza (Küçük),"33,00 TL",Küçük Boy Pizzalar (24 cm.),21.0
+2cdeb519-9f4c-442e-8b62-a48d8d8e7415,Salmone Pizza (Küçük),"43,00 TL",Küçük Boy Pizzalar (24 cm.),21.0
+2600fc65-cc95-4860-97fa-13799233612d,Tonno Pizza (Küçük),"30,00 TL",Küçük Boy Pizzalar (24 cm.),21.0
+268a5eac-bd80-42e3-8484-3d7801328594,Vegan Pizza (Küçük),"26,00 TL",Küçük Boy Pizzalar (24 cm.),21.0
+31c6b061-3c2e-40bd-a84b-61808032652d,Vejetaryen Pizza (Küçük),"26,00 TL",Küçük Boy Pizzalar (24 cm.),23.0
+f4c9cbaf-a879-4a6b-b26b-ea87e2f1d70e,Alaturka Pizza (Büyük),"40,00 TL",Büyük Boy Pizzalar (33 cm.),21.0
+5f1b2857-a62a-416e-bcc1-bc9239434c08,Barbeque Chicken Pizza (Büyük),"39,00 TL",Büyük Boy Pizzalar (33 cm.),21.0
+358e284f-adef-45bb-b373-cd881064db65,Cheddar Sosis Pizza (Büyük),"37,00 TL",Büyük Boy Pizzalar (33 cm.),21.0
+1aa01b3d-b3b8-410e-8eda-29d3b8f15be1,Diavola Pizza (Büyük),"39,00 TL",Büyük Boy Pizzalar (33 cm.),21.0
+605cbac8-b3d9-4380-ae2f-997fd725856d,Et Dönerli Pizza (Büyük),"40,00 TL",Büyük Boy Pizzalar (33 cm.),21.0
+00b0cf73-8320-4ae7-8882-1e58943ca004,Funghi Mix Pizza (Büyük),"43,00 TL",Büyük Boy Pizzalar (33 cm.),21.0
+ff1ae0da-1dcc-426c-ba6c-5b1b33ea3086,Funghi Pizza (Büyük),"37,00 TL",Büyük Boy Pizzalar (33 cm.),21.0
+4d0747d6-5ac2-4478-9481-8c9edcba4825,Fungo di Pepperoni Pizza (Büyük),"43,00 TL",Büyük Boy Pizzalar (33 cm.),242.0
+315195bc-b082-462e-8121-769bfe7cca47,Jalapeno Chicken Pizza (Büyük),"39,00 TL",Büyük Boy Pizzalar (33 cm.),21.0
+4e6a5f2e-78d5-4f18-bd69-58a690c173e5,Kavurmalı Pizza (Büyük),"44,00 TL",Büyük Boy Pizzalar (33 cm.),24.0
+d93337fe-27c9-41e1-af03-a0fe592a562c,Margherita Pizza (Büyük),"38,00 TL",Büyük Boy Pizzalar (33 cm.),21.0
+37339905-c756-4c5f-9904-4fbc0585e6cd,Mediterraneo Pizza (Büyük),"40,00 TL",Büyük Boy Pizzalar (33 cm.),21.0
+37191dd0-f9b2-48be-b5f8-3b47880ac34a,Mista Pizza (Büyük),"44,00 TL",Büyük Boy Pizzalar (33 cm.),30.0
+1f9acaee-3e93-4bc8-b8d8-a40a3cee96c9,Ortolana Pizza (Büyük),"38,00 TL",Büyük Boy Pizzalar (33 cm.),21.0
+945228d6-4fe0-4a6e-aa5e-a5beaed1e269,Pastırmalı Pizza (Büyük),"51,00 TL",Büyük Boy Pizzalar (33 cm.),21.0
+c1e83b8b-f238-42e6-a65a-5f36d05c162f,Pepperoni Pizza (Büyük),"39,00 TL",Büyük Boy Pizzalar (33 cm.),21.0
+a67d5b4a-9cc8-4549-94d7-03d44163d41d,Pesto Chicken Pizza (Büyük),"39,00 TL",Büyük Boy Pizzalar (33 cm.),21.0
+2bf687e6-5d4f-439d-97a7-bbb19084d638,Pieno di Vitello Pizza (Büyük),"44,00 TL",Büyük Boy Pizzalar (33 cm.),247.0
+ad62eca7-6a27-4e4f-b917-dc691cbb9c11,Portobello Pizza (Büyük),"46,00 TL",Büyük Boy Pizzalar (33 cm.),21.0
+1696d1b0-a070-4bb5-a8ae-5b7cefc2c71e,Quattro Formaggi Pizza (Büyük),"41,00 TL",Büyük Boy Pizzalar (33 cm.),26.0
+5c1c4c72-f336-4e20-8903-8ab8fed40711,Tonno Pizza (Büyük),"39,00 TL",Büyük Boy Pizzalar (33 cm.),21.0
+9413891f-18de-4767-997b-194831544ce6,Vegan Pizza (Büyük),"38,00 TL",Büyük Boy Pizzalar (33 cm.),21.0
+d20a6932-e2ae-4ba6-bde7-cfa27d2350db,Vejetaryen Pizza (Büyük),"38,00 TL",Büyük Boy Pizzalar (33 cm.),23.0
+2d28e37a-ef97-4c97-b708-330beb848e6b,Chocolate Banana Calzone,"21,00 TL",Tatlılar,9.0
+ca5cf8b8-6384-4da1-8db5-fb688d0bd741,Chocolate Oreo Pizza,"21,00 TL",Tatlılar,21.0
+452c8a4a-e6fb-445f-85f8-f79a8102ebc8,Poşet,"0,25 TL",Poşet,5.0

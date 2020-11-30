@@ -1,0 +1,68 @@
+food_id,food_name,food_price,food_category,food_score
+D8B5A0F6-7C9E-4095-9FC4-78E15D827AE0,BBQ Tavuk Köri,"58,00 TL",BBQ Smokers,8.0
+14595B82-AB35-4498-954E-5CD70F26DC5C,BBQ Tavuk Zurih,"58,00 TL",BBQ Smokers,8.0
+01543144-4DD0-4B38-BCD7-09264FBF36A4,BBQ Dilim Brisked,"90,00 TL",BBQ Smokers,5.0
+C05B3D34-BBA0-4537-B0A2-41ECA020A79F,BBQ Cafe de Paris,"90,00 TL",BBQ Smokers,137.0
+280B505F-6214-4D66-9964-0604C4521D4D,BBQ Cheddar Brisked,"90,00 TL",BBQ Smokers,5.0
+E66B1334-7640-4CA6-88CA-D1B253C61417,Cheddar Brisked Sandviç,"58,00 TL",BBQ Smokers,5.0
+6C37A36E-ACB0-4744-B4CB-42E752EE56B4,Tiftik Brisked Sandviç,"58,00 TL",BBQ Smokers,5.0
+32efd150-e8c7-4a57-bbf9-836027c94886,Kaşarlı Sandviç,"21,00 TL",Sandviçler,5.0
+795c4f6b-d56b-4e74-a314-0f3f47174970,Somonlu Sandviç,"27,00 TL",Sandviçler,9.0
+62c8a416-a52f-425b-aaa0-7ee5f3dc4995,Salamlı Kaşarlı Sandviç,"23,00 TL",Sandviçler,5.0
+ce9137e7-1405-4cbb-8ac3-e12f8291cf13,Beyaz Peynirli Sandviç,"22,00 TL",Sandviçler,6.0
+6EAF05F5-5956-4326-8886-4F3EEEB23805,Linguine Gamberi,"67,00 TL",Makarnalar,5.0
+B0BED192-ABF5-4FEC-B8AF-60CB3A42A849,Alman Kral Ekmeği (König Ludwing) (750 gr.),"20,00 TL",Ekmekler,5.0
+58FA44E3-63FE-4F69-B05C-0411651195CC,Akdeniz Ekmeği (Pizza Quick) (450 gr.),"16,00 TL",Ekmekler,5.0
+DF5FB453-E887-4BC9-9336-286C8B512414,Fransız Baget (350 gr.),"8,00 TL",Ekmekler,5.0
+62DD2903-6B63-4A0F-8529-BCB45C2D573A,Ahududulu Cheesecake (Dilim),"24,00 TL",Cheesecakeler,10.0
+76ec7290-cae9-4b66-b36f-e5a40a762770,Bask Cheesecake (Bütün),"180,00 TL",Cheesecakeler,19.0
+4a47528b-c8ba-43f6-815a-7f94104c2759,Limonlu Cheesecake (Bütün),"180,00 TL",Cheesecakeler,10.0
+5484bc3a-4396-489a-a35b-89a93b05b41a,Limonlu Cheesecake (Dilim),"24,00 TL",Cheesecakeler,10.0
+7b1b6b0c-47a0-4d85-85df-a0832da46d3f,Nutellalı Kaymaklı Cheesecake (Bütün),"180,00 TL",Cheesecakeler,11.0
+d62c4117-0f76-4939-b13d-0e5f956383a6,Nutellalı Kaymaklı Cheesecake (Dilim),"24,00 TL",Cheesecakeler,16.0
+c25090fe-213e-46f2-8fc6-f66f7ad91e5b,Snickers Cheesecake (Bütün),"180,00 TL",Cheesecakeler,10.0
+268a62e4-d374-40d0-8851-ccd124e01ec8,Snickers Cheesecake (Dilim),"24,00 TL",Cheesecakeler,10.0
+596e894e-70a2-4c1d-8883-db8edc5db5eb,Susamlı Tahinli Kahke Kurabiye (200 gr.),"19,00 TL",Diğer Lezzetler,17.0
+a9ad9008-02e4-4266-8031-0ef67ebe4c66,Fıstıklı Fildişi Beyoğlu Çikolatası (100 gr.),"32,00 TL",Diğer Lezzetler,5.0
+b6bc48e5-ad1a-4f19-98e8-84571107a20f,Susamlı Mini Simit (200 gr.),"19,00 TL",Diğer Lezzetler,5.0
+c1842f2c-c1ae-4e3e-b850-c40e121b6532,Fındıklı Bitter Beyoğlu Çikolatası (100 gr.),"28,00 TL",Diğer Lezzetler,5.0
+dd101f3c-b642-4961-b219-7ed8d7b00785,Baton Sale (200 gr.),"19,00 TL",Diğer Lezzetler,5.0
+701130a3-8d1a-4d6c-8520-44d54c9ac428,Waffle (Açık),"44,00 TL",Adet Pastalar,6.0
+4C54A01F-9F9F-4986-A0B2-C099C651DF1C,Budapeşte Pasta Dilim (Çilekli),"24,00 TL",Adet Pastalar,11.0
+C3B3090C-60F8-4CBA-BB9B-92821BE90163,Ekler (1 kg.),"75,00 TL",Adet Pastalar,5.0
+1B5B10F1-C01D-404F-B445-493F7532681A,Ekler (500 gr.),"39,00 TL",Adet Pastalar,5.0
+C34136EA-03BB-407E-85B3-F604B42D431F,Muzlu Rulo Pasta (Dilim),"24,00 TL",Adet Pastalar,11.0
+9c6b26f9-29d8-45ee-8923-c65c66170b42,Budapeşte Pasta (No. 1) (6-8 Kişilik),"130,00 TL",Pastalar (No. 1) (6-8 Kişilik),11.0
+ed75a95b-f620-4f91-9ba8-fc11a652f85c,Sütlü Filtre Kahve,"24,00 TL",Sıcak Kahveler,6.0
+e50bb05f-600b-4961-8119-c7921b5e4f91,Guatemala (250 gr.),"50,00 TL",Çekirdek Kahveler,5.0
+c85a94ad-4813-4704-a538-802a05e31297,Guatemala (500 gr.),"100,00 TL",Çekirdek Kahveler,5.0
+96466fd5-2140-4e95-8c37-97a078f89547,Kenya (250 gr.),"60,00 TL",Çekirdek Kahveler,5.0
+a597676d-0b4a-4fc2-97aa-4ce8367d582d,Kenya (500 gr.),"120,00 TL",Çekirdek Kahveler,5.0
+a59ad33a-8819-4af7-bbbb-5b9c07b0c2c1,Etiyopya (250 gr.),"60,00 TL",Çekirdek Kahveler,5.0
+b1c8b0ff-bf34-438d-af57-c13809819a94,Etiyopya (500 gr.),"120,00 TL",Çekirdek Kahveler,5.0
+1636079a-6100-4db0-96a4-2fb6622aabed,Kolombiya (250 gr.),"55,00 TL",Çekirdek Kahveler,5.0
+25bb6dc3-7b85-4529-9a80-22cc7f7b7dfe,Kolombiya (500 gr.),"110,00 TL",Çekirdek Kahveler,5.0
+28c9e93c-841d-41ca-8df7-779055726776,Türk Kahvesi (100 gr.),"10,00 TL",Çekirdek Kahveler,5.0
+191217d2-4bef-4f16-ab6d-9696d7b95d33,Türk Kahvesi (250 gr.),"25,00 TL",Çekirdek Kahveler,5.0
+32860aab-fbb2-4b9d-83e7-ddbe889c1c11,Sıcak Çikolata,"27,00 TL",Sıcak İçecekler,4.0
+d6241bae-5c40-40d5-9d94-bc53ba1fea96,Sıcak Süt,"10,00 TL",Sıcak İçecekler,5.0
+60d2302d-6b62-4496-b16f-6c04fcb22190,Fuse Tea (25 cl.),"10,00 TL",İçecekler,5.0
+d095703b-02b8-4f50-a21b-16b39f842ecd,Schweppes Mandarin (25 cl.),"12,00 TL",İçecekler,5.0
+e8f5b504-b24c-481c-b6d5-ae92c5b6504b,Schweppes Bitter Lemon (25 cl.),"12,00 TL",İçecekler,5.0
+69d4460b-7cc1-4725-a492-ae8746e45712,Sade Soda (20 cl.),"10,00 TL",İçecekler,9.0
+d326c8b5-5ab1-44fd-b797-d185d133ffd9,Red Bull (25 cl.),"21,00 TL",İçecekler,5.0
+7247ff07-9408-41a9-a922-86d486c62574,Red Bull Sugarfree (25 cl.),"21,00 TL",İçecekler,5.0
+39b667d5-fbb2-4ac7-b88e-ec69257b1cb6,Taze Sıkma Portakal Suyu,"23,00 TL",Vitamin Bar,9.0
+41a5c2e8-47c4-4e99-ad86-6366a2b73b92,Taze Sıkma Havuç Suyu,"23,00 TL",Vitamin Bar,9.0
+72168c93-92eb-4c5e-87b9-232c5f3b492e,Taze Sıkma Elma Suyu,"23,00 TL",Vitamin Bar,9.0
+6f55fa7d-1ebd-420d-9027-79a46e73c3e7,Taze Sıkma Meyve Suyu,"37,00 TL",Vitamin Bar,9.0
+e1dec253-de6f-44ee-87e7-05b2bb481bd5,Klasik Limonata,"24,00 TL",Vitamin Bar,5.0
+a618b924-d180-4383-88d1-1779fe6c2feb,Naneli Limonata,"26,00 TL",Vitamin Bar,5.0
+71ae5ef2-7acb-464b-b391-37a01c4de4e8,Çilekli Limonata,"26,00 TL",Vitamin Bar,5.0
+22985ada-fa63-4071-b1a4-e811cc5cd15c,Pinky Social Milkshake,"32,00 TL",Milkshakes,4.0
+4bd237f0-b6b1-40e5-8019-62c0dafe1fcf,Crazy Peppermint Milkshake,"34,00 TL",Milkshakes,5.0
+c720ab4b-c79e-4507-bb98-76cfe5c19204,Oreolu Milkshake,"34,00 TL",Milkshakes,5.0
+372e602a-5b5a-4e58-b5cb-92a79d6c3726,Tatlı Tuzlu Karışık Kurabiye (1 kg.),"84,00 TL",Kiloluk Kurabiyeler,29.0
+39879df1-9b07-407a-84e2-8efadca1711d,Tuzlu Kurabiye (500 gr.),"35,00 TL",Kiloluk Kurabiyeler,13.0
+5fa797c9-44ff-4b43-91c9-4a4c12d52905,Tatlı Tuzlu Karışık Kurabiye (500 gr.),"42,00 TL",Kiloluk Kurabiyeler,29.0
+f382888d-b420-4019-af05-1ed4ec44fcd4,Tuzlu Kurabiye (1 kg.),"70,00 TL",Kiloluk Kurabiyeler,13.0

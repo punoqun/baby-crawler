@@ -1,0 +1,42 @@
+food_id,food_name,food_price,food_category,food_score
+09129c18-047a-42e3-82b3-df6f2d0eabfd,Ekonomik Menü 1,"60,00 TL",Ekonomik Menüler,7.0
+757d65b4-0714-4acc-a9a5-f76e439a535a,Ekonomik Menü 2,"68,00 TL",Ekonomik Menüler,7.0
+1576fa88-56fe-4e48-90cc-0792b41a33bf,Aile Menü,"75,00 TL",Ekonomik Menüler,5.0
+ce32050e-617e-4bc4-8510-6bf2d31fb4f8,Kallavi Pizza (Büyük) Menü,"75,00 TL",Ekonomik Menüler,7.0
+94efbf19-b7b7-4026-83d6-96efb4f98a05,3'lü Star (Orta) Pizza Menü,"75,00 TL",Ekonomik Menüler,7.0
+ee2d6744-70a1-4d0b-b1f3-573162ff6d36,2'li Dolu Dolu Pizza (Orta) Menü,"60,00 TL",Ekonomik Menüler,7.0
+339c08e0-cfb6-42eb-b1c6-e1e5fc7c809c,2'li Karışık Pizza (Orta) Menü,"60,00 TL",Ekonomik Menüler,7.0
+706b258f-ecb8-4f39-89b2-9ae5ea167e97,3'lü Amigo Pizza (Orta) Menü,"70,00 TL",Ekonomik Menüler,7.0
+15ffabf9-1dd9-45e5-af8a-b622f6f2da79,3'lü Dolu Dolu Pizza (Orta) Menü,"95,00 TL",Ekonomik Menüler,7.0
+3c7a4f21-0eda-424a-8f6b-552ef7c4e758,3'lü Karışık Pizza (Orta) Menü,"85,00 TL",Ekonomik Menüler,7.0
+42057a33-d908-48a1-a2f8-de80e4071bb3,3'lü Sucuk Sever Pizza (Küçük) Menü,"55,00 TL",Ekonomik Menüler,7.0
+788bf4ca-d85d-48c2-a9e5-fe17e07278fe,6'lı Karışık Pizza (Orta) Menü,"190,00 TL",Ekonomik Menüler,7.0
+d9beae25-be20-4757-9f53-064e6d226463,Karışık Pizza (Orta) Menü,"40,00 TL",Ekonomik Menüler,7.0
+417edc6d-04ce-47a4-8dac-e0c1c2eb3934,Parti Menü,"110,00 TL",Ekonomik Menüler,5.0
+1a4f147b-2ba7-4c4d-a183-9a1246ad1764,Tavuk Kanat Menü,"28,00 TL",Ekonomik Menüler,5.0
+0acb4830-a3be-4682-8b68-e9f28be5d68c,2'li Efsane Pizza (Orta) Menü,"60,00 TL",Menüler,7.0
+1ce879b1-8155-4402-aa9f-39f38ff02817,2'li Gurme Pizza (Orta) Menü,"75,00 TL",Menüler,7.0
+1eefccf1-8e22-4ec0-ae22-990eb5770350,2'li Gurme Pizza (Büyük) Menü,"115,00 TL",Menüler,7.0
+248275d3-25eb-4072-8397-e36b202307bf,2'li Gurme Pizza (Küçük) Menü,"50,00 TL",Menüler,7.0
+2a79713c-ac23-48b1-b8aa-512fa93275bf,2'li Kallavi Pizza (Orta) Menü,"70,00 TL",Menüler,7.0
+2c94737b-4bcb-4319-ae2a-85b54f6aed36,2'li Kallavi Pizza (Büyük) Menü,"100,00 TL",Menüler,7.0
+3524139b-d12c-428c-8b9d-b03d1f91ffbf,Star Menü,"48,00 TL",Menüler,5.0
+35375215-7051-4cb8-ad24-c7a602119148,2'li Efsane Pizza (Büyük) Menü,"80,00 TL",Menüler,7.0
+5dbe7f39-4491-4595-b1b8-4ced59c08a4b,2'li Kallavi Pizza (Küçük) Menü,"45,00 TL",Menüler,7.0
+5e0566d3-0044-4437-85bb-43dae3223e67,Tavuk Menü,"60,00 TL",Menüler,5.0
+b7701ffd-7761-45d9-9eae-9512e5eb1067,Sufle Menü,"43,00 TL",Menüler,5.0
+be1bbf5a-eccb-42bc-ad84-d4f795dfabc2,Combo Menü,"30,00 TL",Menüler,5.0
+ca9d4195-7e25-4fce-824b-b21fa7c648f6,2'li Efsane Pizza (Küçük) Menü,"40,00 TL",Menüler,7.0
+604c866c-08dd-4d74-851d-14808042edb4,Dönerli Pizza (Küçük),"26,00 TL",Pizzalar (1 Kişilik),7.0
+4c2aabd9-958a-4920-aa69-76d2c7112b66,Hero's Extra Pizza (Küçük),"22,00 TL",Pizzalar (1 Kişilik),7.0
+ac22192e-ea57-4239-8332-6755d4407735,Dönerli Pizza (Orta),"40,00 TL",Pizzalar (2 Kişilik),7.0
+d72ade9e-734c-4b91-a2d8-f52d7ab93ad3,Hero's Extra Pizza (Orta),"33,00 TL",Pizzalar (2 Kişilik),7.0
+7041fb38-fc33-44ce-a142-9a791b74944a,Dönerli Pizza (Büyük),"56,00 TL",Pizzalar (3 Kişilik),7.0
+44d743f9-6711-4592-9d70-945fe5c4af59,Hero's Extra Pizza (Büyük),"42,00 TL",Pizzalar (3 Kişilik),7.0
+194382ce-b474-4ea2-ae73-9ad4d13c560d,Patates Kızartması (150 gr.),"6,00 TL",Yan Ürünler,5.0
+72500a57-c3d0-40b7-b874-a11fbbbc616e,Patates Kızartması (250 gr.),"10,00 TL",Yan Ürünler,5.0
+996eb459-655d-40d3-80b8-56a40b8ecfda,Elma Dilim Patates Kızartması,"10,00 TL",Yan Ürünler,5.0
+06d75a76-0b8c-4677-9c1c-dda1feef3d97,Tavuk Fileto (4 Adet),"22,00 TL",Yan Ürünler,5.0
+5ed2b20a-cf79-403b-83e4-a608578012be,Tavuk Nugget (4 Adet),"5,00 TL",Yan Ürünler,5.0
+00aad966-26e2-4549-95fb-7444c688fd5c,Sufle,"12,00 TL",Tatlılar,5.0
+456630d2-eec0-4ed8-95b5-b5287609b461,Poşet,"0,25 TL",Poşet,5.0

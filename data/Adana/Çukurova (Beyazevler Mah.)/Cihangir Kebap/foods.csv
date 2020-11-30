@@ -1,0 +1,59 @@
+food_id,food_name,food_price,food_category,food_score
+d050461f-b151-4763-a1f8-a17317eec0aa,Kıymalı Pide,"27,00 TL",Fırın Ürünleri,6.0
+36842774-0dbb-4286-b345-a0ff04b73067,Kıymalı Kaşarlı Pide,"27,00 TL",Fırın Ürünleri,6.0
+b3409053-d996-44bd-bf98-053c36e67ad4,Kaşarlı Sucuklu Pide,"27,00 TL",Fırın Ürünleri,6.0
+27fd4b80-a28f-4c06-b418-b8d9067c804f,Kuşbaşılı Pide,"27,00 TL",Fırın Ürünleri,7.0
+69ee2b64-459a-48d5-a9c7-b6a59046b277,Tavuklu Pide,"27,00 TL",Fırın Ürünleri,6.0
+0cc6de94-70f2-41c2-9ea1-aeebd4dbe41e,Tavuklu Kaşarlı Pide,"27,00 TL",Fırın Ürünleri,6.0
+9f94dd19-4df6-4232-8654-ecc8e3100db8,Karışık Pide,"27,00 TL",Fırın Ürünleri,13.0
+29005e0e-2aa4-4aa6-bba8-4eb35356a260,Adana Dürüm,"24,00 TL",Dürümler,7.0
+b2e0657d-6156-430f-bc3a-d812b92d6428,Et Şiş Dürüm,"24,00 TL",Dürümler,5.0
+7e9bc276-94d5-4c67-bb1f-db16370127dc,Çöp Şiş Dürüm,"24,00 TL",Dürümler,5.0
+cf2f1b70-77f9-4648-a1cd-29d0b4c4ba2d,Ciğer Şiş Dürüm,"24,00 TL",Dürümler,5.0
+bc7051a4-9c36-468e-840e-c9e9730c987d,Tavuk Şiş Dürüm,"24,00 TL",Dürümler,3.0
+3d092f63-b866-4f0e-a423-c15b2bf395a2,Et Tava,"50,00 TL",Diğer Lezzetler,5.0
+706c19ba-61d0-43b6-9669-978404e3d718,Et Pirzola Tava,"52,00 TL",Diğer Lezzetler,5.0
+0b97d939-8b4b-4cf3-9dba-a7e70df70f51,Klasik Fıstıklı Künefe (1 Kişilik),"23,00 TL",Tatlılar,6.0
+be84c4be-49ed-4948-af30-fcd2686b6408,Klasik Fıstıklı Künefe (2 Kişilik),"45,00 TL",Tatlılar,6.0
+5d0710be-fb93-43f6-80a4-0091ba1cc518,Klasik Fıstıklı Künefe (3 Kişilik),"65,00 TL",Tatlılar,6.0
+8cce5894-a8e4-44d4-8e9d-6eaf5900009e,Klasik Fıstıklı Künefe (4 Kişilik),"85,00 TL",Tatlılar,6.0
+58e300f5-677a-43a1-8c09-e93e40ed1c4a,Karışık 4'lü Künefe (2 Kişilik),"50,00 TL",Tatlılar,13.0
+934efcef-dc57-44d5-8ad9-6f81a1aa0eca,Karışık 4'lü Künefe (3 Kişilik),"70,00 TL",Tatlılar,13.0
+bc9ce1fb-3833-4588-9167-e27f34a9cd4d,Karışık 4'lü Künefe (4 Kişilik),"90,00 TL",Tatlılar,13.0
+9cfaf3cd-0907-4f32-b5f9-5e028211a8a8,Karışık 4'lü Künefe (6 Kişilik),"130,00 TL",Tatlılar,13.0
+4579c531-bd2e-497b-940d-6790646eadbc,Sultanzade Künefe (2 Kişilik),"50,00 TL",Tatlılar,6.0
+095de91f-52b5-4749-81c1-48be1d803be2,Sultanzade Künefe (3 Kişilik),"70,00 TL",Tatlılar,6.0
+627656ff-840a-4523-a7db-e88aca14c6f2,Sultanzade Künefe (6 Kişilik),"130,00 TL",Tatlılar,6.0
+e5d455d0-3bb8-48d6-a3af-fee16bd765f0,Hatay Künefe (1 Kişilik),"18,00 TL",Tatlılar,6.0
+deeced6b-b29c-4371-be10-e8060f34f968,Hatay Künefe (2 Kişilik),"35,00 TL",Tatlılar,6.0
+e71f412c-cb7f-41b5-9629-698fc1266ac5,Hatay Künefe (3 Kişilik),"50,00 TL",Tatlılar,6.0
+204f4ad2-59e1-4d4c-879a-931fd82d2a9c,Hatay Künefe (4 Kişilik),"65,00 TL",Tatlılar,6.0
+f9f12a79-8486-49ee-b976-952cf27a8519,Hatay Künefe (6 Kişilik),"90,00 TL",Tatlılar,6.0
+2d504dd7-5030-46d8-8db4-60ec4c3a469d,Cevizli Künefe (1 Kişilik),"18,00 TL",Tatlılar,6.0
+e0000811-2afc-40e9-a445-44a5e0079064,Cevizli Künefe (2 Kişilik),"35,00 TL",Tatlılar,6.0
+cfe9eba4-f3f6-4a04-9281-864fb1927a82,Cevizli Künefe (3 Kişilik),"50,00 TL",Tatlılar,6.0
+5a536b6c-801b-4f94-a9f6-591b3d0b5059,Cevizli Künefe (4 Kişilik),"65,00 TL",Tatlılar,6.0
+b77c7692-5f41-4205-8a42-cffabb9abfbc,Cevizli Künefe (6 Kişilik),"90,00 TL",Tatlılar,6.0
+b09eaa57-7e78-4faa-adba-bb0ea9fd3f23,Çikolatalı Künefe (1 Kişilik),"20,00 TL",Tatlılar,6.0
+3cb25e19-705e-4cb0-87a8-d7292865f3e8,Çikolatalı Künefe (2 Kişilik),"38,00 TL",Tatlılar,6.0
+36910ce4-83ff-4bfc-8dc0-7dcf965ae152,Çikolatalı Künefe (3 Kişilik),"55,00 TL",Tatlılar,6.0
+5b490792-2eb0-46e4-8803-93f581984108,Çikolatalı Künefe (4 Kişilik),"70,00 TL",Tatlılar,6.0
+bcff6301-5bc4-4d35-adf7-7aafe25f0309,Çikolatalı Künefe (6 Kişilik),"100,00 TL",Tatlılar,6.0
+590dd971-4f48-4547-870c-9eb136282ec3,Yarı Peynirli Yarı Fıstıklı Künefe (1 Kişilik),"23,00 TL",Tatlılar,6.0
+04896c8f-d1f0-46c6-9896-532ad2fb44dc,Yarı Peynirli Yarı Fıstıklı Künefe (2 Kişilik),"45,00 TL",Tatlılar,6.0
+2fe2790e-e15f-4f70-a760-a1bc5e7cdc5a,Yarı Peynirli Yarı Fıstıklı Künefe (3 Kişilik),"65,00 TL",Tatlılar,6.0
+84d12eeb-a6c6-429b-9f2c-9fd51898634e,Yarı Peynirli Yarı Fıstıklı Künefe (4 Kişilik),"85,00 TL",Tatlılar,6.0
+7200910f-0762-4640-b05d-b1e71e58eb2e,Yarı Peynirli Yarı Fıstıklı Künefe (6 Kişilik),"120,00 TL",Tatlılar,6.0
+c73eac9a-6bac-4bdf-97a0-bc8b61f9be91,Hasır Künefe (1 Kişilik),"23,00 TL",Tatlılar,6.0
+ffdf8700-1094-4ed6-8b00-0807f71c905b,Hasır Künefe (2 Kişilik),"45,00 TL",Tatlılar,6.0
+0473b100-7da1-4a28-9f9d-2ff7275b76f1,Hasır Künefe (3 Kişilik),"65,00 TL",Tatlılar,6.0
+73804243-9df7-4fdf-ac9d-84c6b4ce3915,Hasır Künefe (4 Kişilik),"85,00 TL",Tatlılar,6.0
+05a97e89-8931-46bb-a2a7-5f5c69d9eeef,Hasır Künefe (6 Kişilik),"120,00 TL",Tatlılar,6.0
+1eeda74f-bf63-4819-ae28-deedb88dba08,Yarı Hatay Yarı Hasır Künefe (1 Kişilik),"23,00 TL",Tatlılar,6.0
+4cd29dce-7555-4246-af7d-74bb06661a2c,Yarı Hatay Yarı Hasır Künefe (2 Kişilik),"45,00 TL",Tatlılar,6.0
+5ffd069a-b20b-4a23-b8fc-cda044b0eb89,Yarı Hatay Yarı Hasır Künefe (3 Kişilik),"65,00 TL",Tatlılar,6.0
+8b6b23c7-ed2c-4260-93d0-a4e0b7b9cb17,Yarı Hatay Yarı Hasır Künefe (4 Kişilik),"85,00 TL",Tatlılar,6.0
+c10d3adc-8d10-402c-9529-681c528b4914,Yarı Hatay Yarı Hasır Künefe (6 Kişilik),"120,00 TL",Tatlılar,6.0
+cc0407b2-5bd2-4311-b87a-05ff618ff988,"Yörüksüt Ayran (29,5 cl.)","4,00 TL",İçecekler,4.0
+e92e6474-a77c-4b39-9ca5-2dce3929ab10,Su (1 L.),"4,00 TL",İçecekler,5.0
+ac893f80-a57d-4353-bebb-3b36a8a968ee,Poşet,"0,25 TL",Poşet,5.0

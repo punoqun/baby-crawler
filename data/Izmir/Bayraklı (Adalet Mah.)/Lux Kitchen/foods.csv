@@ -1,0 +1,82 @@
+food_id,food_name,food_price,food_category,food_score
+858e5a4e-130a-4ff8-9cf0-9cd40cc0f692,Lux Tost Menü,"26,00 TL",Menüler,11.0
+c0868eb3-0a14-41fd-8b1a-9291ad5c51a7,Kaşarlı Gözleme Menü,"22,00 TL",Menüler,4.0
+55386b87-0ec9-4848-8357-b7d9af5a8c29,Otlu Lorlu Gözleme Menü,"24,00 TL",Menüler,5.0
+0b75755b-a231-4868-8dd5-46fe2bbc23b1,Patatesli Gözleme Menü,"24,00 TL",Menüler,5.0
+75154636-5c12-4dd5-8851-fd395d251ec2,Kaşarlı Sucuklu Gözleme Menü,"26,00 TL",Menüler,4.0
+341e5358-3fe4-4151-a4db-b1fa2d0139c4,Tavuklu Gözleme Menü,"26,00 TL",Menüler,3.0
+083152a8-f3a9-465e-8774-22f1559e790d,Kahvaltı Tabağı,"32,00 TL",Başlangıçlar,5.0
+44346183-fa56-4c57-89a0-7837c02b6a9f,Sigara Böreği (8 Adet),"16,00 TL",Başlangıçlar,5.0
+e6ba3cbf-c629-4a0f-aa1c-596e5db0f7e8,Omlet,"18,00 TL",Başlangıçlar,5.0
+fef191fc-1590-450a-bbd1-d1d28dd614a7,Kaşarlı Menemen,"18,00 TL",Başlangıçlar,4.0
+5bcff4ef-c00d-43d1-998b-51e2968a888a,Pancake Tabağı,"22,00 TL",Başlangıçlar,9.0
+816f2fc8-8892-42b6-8bd4-7d52ae9467ff,Cajun Tavuk,"27,00 TL",Arasıcaklar,6.0
+147e46f4-e96d-4aa8-9ef1-c677f8370180,Cheddar Soslu Çıtır Tavuk Sepeti,"27,00 TL",Arasıcaklar,6.0
+6816cb0b-9b6f-4b38-812c-5e8fe7eb1167,Ara Sıcak Sepeti,"35,00 TL",Arasıcaklar,7.0
+9c97e0ba-ca90-4b01-ac84-133aefc1b78b,Patates Kızartması,"13,00 TL",Arasıcaklar,3.0
+8320c9d4-5a3d-4d41-b7cc-2d0b23b424f3,Baharatlı Patates Kızartması,"13,00 TL",Arasıcaklar,3.0
+f48e32b2-48a1-4728-8ffc-cfc9f14db093,Soğan Halkası (10 Adet),"15,00 TL",Arasıcaklar,5.0
+6da7c197-2eab-4ea5-9255-a245fd5ec121,Elma Dilim Patates,"15,00 TL",Arasıcaklar,3.0
+8b1848d0-b0dd-4093-bcc6-59e1c59f7b16,Baharatlı Elma Dilim Patates,"15,00 TL",Arasıcaklar,3.0
+04fecd48-7a1a-4c20-952d-4967c047da42,Patates Püresi,"13,00 TL",Arasıcaklar,3.0
+f88e4daa-8d63-411c-832b-8d604136afcf,Chicken Burger,"24,00 TL",Burgerler,7.0
+fb465ef6-b9fa-47d9-a5cd-8889af41c620,Classic Burger,"27,00 TL",Burgerler,7.0
+838597a0-1822-4b71-89be-85c91fbfba29,Cheeseburger,"29,00 TL",Burgerler,5.0
+64e3dcad-994a-43da-b9ca-d165a91de2ed,Steak Burger,"34,00 TL",Burgerler,7.0
+bd4e9fdd-652d-407c-94ff-51841f3214c7,Lux Burger,"37,00 TL",Burgerler,7.0
+1b639f1e-5fe7-43db-ac38-c4fd14c2f289,Veggie Wrap,"24,00 TL",Wraplar,5.0
+e15cfca4-ccbe-46f2-9c02-e88edc4e0d99,Chicken Wrap,"27,00 TL",Wraplar,5.0
+176b94c2-af76-422c-b6a0-e57ef39110e8,Meat Ball Wrap,"30,00 TL",Wraplar,5.0
+2f0765c3-9f78-468e-93e3-e9edb3603a5b,Beef Wrap,"34,00 TL",Wraplar,3.0
+3e4224cc-7d53-41ea-8d80-900caf002432,Schnitzel,"28,00 TL",Şnitzeller,5.0
+cf774d4b-b854-49a7-9135-b6b7d0f6a29a,Köri Soslu Schnitzel,"30,00 TL",Şnitzeller,9.0
+5924e37e-ef75-42ea-8ec2-bdce17319d42,Meksika Soslu Schnitzel,"30,00 TL",Şnitzeller,5.0
+e19aae40-edef-4377-8d77-214e43701184,Mantar Soslu Schnitzel,"30,00 TL",Şnitzeller,3.0
+d5dddcf2-451e-41eb-8b9d-fe0dee89f75f,Akdeniz Soslu Schnitzel,"30,00 TL",Şnitzeller,5.0
+d13ee887-143d-4d55-930b-cb536cfa79eb,Tavuk Izgara,"30,00 TL",Beyaz Etler,9.0
+0ed9827d-d073-4eaa-aa38-3095b550d48b,Cheddar Soslu Tavuk,"30,00 TL",Beyaz Etler,6.0
+cef521c3-39a9-4aa3-9d4c-fe0125ddfd0d,Tikka Masala Soslu Tavuk,"30,00 TL",Beyaz Etler,6.0
+b0654e5c-1fd2-4bf1-8b6d-6bb51d92c74a,Bernard Soslu Tavuk,"30,00 TL",Beyaz Etler,6.0
+5745b08d-e0f5-453b-a561-5f814bcd2df9,Cafe De Paris Soslu Tavuk,"30,00 TL",Beyaz Etler,10.0
+eb310acd-1e5e-4940-b9cc-789ddbd029b8,Mantar Kremalı Tavuk,"28,00 TL",Beyaz Etler,6.0
+ab2935ba-4dcf-4138-925e-b682930ba0d3,Meksika Usulü Tavuk,"28,00 TL",Beyaz Etler,6.0
+1d34d5aa-d3bb-46e6-ae95-5a4411962bf3,Sebzeli Köri Soslu Tavuk,"28,00 TL",Beyaz Etler,8.0
+fe6c8706-7748-44d8-a13d-8b0d3decf9dc,Uzak Doğu Usulü Tavuk,"28,00 TL",Beyaz Etler,6.0
+8acd5b4a-7644-4273-879b-b24d8163e067,Barbekü Soslu Tavuk,"28,00 TL",Beyaz Etler,6.0
+b1013c07-ef6c-428c-91c3-cb194ba1fbbd,Limonlu Kremalı Tavuk,"28,00 TL",Beyaz Etler,8.0
+a728b314-54e1-444f-8225-df38f59d6b1f,Dağ Kekikli Tavuk,"28,00 TL",Beyaz Etler,6.0
+a3c2b6c1-5fee-4323-b9bd-f60c0623825f,Izgara Köfte,"32,00 TL",Kırmızı Etler,10.0
+1c95c420-0105-4591-bc23-e62292333766,Izgara Antrikot,"50,00 TL",Kırmızı Etler,8.0
+d408e521-7d11-46dd-a7f7-07ff59cac57a,Izgara Bonfile,"60,00 TL",Kırmızı Etler,14.0
+be9e70a6-1c70-434b-9e48-92f92c45d1fe,Cafe De Paris Soslu Antrikot,"55,00 TL",Kırmızı Etler,4.0
+706e3841-afce-4775-869e-04475b46498f,Et Sote,"55,00 TL",Kırmızı Etler,8.0
+dd253935-b6d7-4651-aab1-41fdb701a228,Beef Stroganof,"55,00 TL",Kırmızı Etler,3.0
+7eb43886-762f-453d-b705-1fe8125c5785,Beef Tikka Masalla,"55,00 TL",Kırmızı Etler,3.0
+addc1118-f6e0-4a3d-84aa-950e17880d03,Meksika Soslu Bonfile,"55,00 TL",Kırmızı Etler,11.0
+9dbd6f05-22b4-4164-99b2-e6cf4ad998aa,Mantar Soslu Bonfile,"55,00 TL",Kırmızı Etler,9.0
+8D959E98-A415-417E-B657-0AC606D15F86,Beef Noodle,"38,00 TL",Noodles,-3.0
+3A5C5282-3EA0-4F03-9886-BF14AC433A2C,Chicken Noodle,"28,00 TL",Noodles,-2.0
+3A0ABD77-B26C-4FA0-99EC-9BD563C2FB1C,Shrimp Noodle,"36,00 TL",Noodles,-2.0
+521E73F7-F4F8-4245-9755-B6C15EC0FEED,Vejeterian Noodle,"25,00 TL",Noodles,-2.0
+86663b78-92fe-4af0-9d17-cd57ad2b20df,Karidesli Spaghetti,"36,00 TL",Makarnalar,5.0
+9d3d4d34-20f2-4303-b137-b6ff42c8ea92,Spaghetti Bolognese,"30,00 TL",Makarnalar,5.0
+4f89838a-ce79-4373-8e16-33fdb6e0cc15,Köri Soslu Penne,"28,00 TL",Makarnalar,12.0
+16b2ebf2-0ef6-4b61-9b79-046f7d86c981,Pesto Penne,"28,00 TL",Makarnalar,8.0
+fe64086c-6aed-4ec2-b84a-ba5e4f79f40d,Fettuccine Alfredo,"28,00 TL",Makarnalar,7.0
+1ef5eaa1-b2df-4165-85a6-8cd3b0b00131,Kayseri Mantısı,"28,00 TL",Makarnalar,5.0
+97c054ed-d433-4f6d-b641-3d54d3a758ca,Penne Alfredo,"26,00 TL",Makarnalar,15.0
+d46f2567-f195-4b08-ab48-91ebed1077c9,Spaghetti Napoliten,"24,00 TL",Makarnalar,5.0
+d7a5aafd-8dae-4316-bb95-bc3f525b055d,Pilav Üstü Tavuk Döner,"25,00 TL",Pilavlar,5.0
+28617ed6-298c-410b-ba8b-675faa89f6c8,Pilav Üstü Tavuk Sote,"25,00 TL",Pilavlar,5.0
+b8d3c705-49da-4a2d-8c93-7fd939d3ae83,Pilav Üstü Et Döner,"30,00 TL",Pilavlar,7.0
+bf46f27b-29ac-44d4-8c59-f68d87f5ff94,Pirinç. Pilavı (200 gr.),"15,00 TL",Pilavlar,5.0
+0c8d9edd-c4a6-4d7a-b500-217c12dca7e4,Shrimp Salata,"28,00 TL",Salatalar,7.0
+d8ef1f2c-d79e-4a30-b38b-71a5445a7ddb,Izgara Beef Salata,"28,00 TL",Salatalar,8.0
+b81ef17a-8d63-4a27-8a88-f37a681c34d5,Tavuk Şnitzelli Salata,"28,00 TL",Salatalar,8.0
+a0fbf8cf-e3b2-4526-b084-e82fe0ba2d0a,Tavuklu Sezar Salata,"28,00 TL",Salatalar,5.0
+288aa14a-a8d9-487c-ad0d-9361c2107a1b,Tuna Salata,"26,00 TL",Salatalar,7.0
+5db08318-8946-4581-a261-62e85ec640a6,Greek Salata,"24,00 TL",Salatalar,7.0
+0e870dcb-c10b-4c7c-858c-510f63133bad,Hellim Salata,"24,00 TL",Salatalar,7.0
+36a2ef8c-dc5b-4930-920b-544b5a354860,Akdeniz Salata,"24,00 TL",Salatalar,7.0
+0df6697f-56fb-4df3-8be5-24a213fe4a99,Frambuazlı Cheesecake,"18,00 TL",Tatlılar,5.0
+f8795d8d-75ad-4f62-9f48-e34e971c4bf4,Poşet,"0,25 TL",Poşet,5.0

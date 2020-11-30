@@ -1,0 +1,36 @@
+food_id,food_name,food_price,food_category,food_score
+b77f3f5c-77fa-4325-a222-0546d3194534,Tavuk Tantuni Menü,"17,00 TL",Menüler,17.0
+2c03fb8b-0355-4c48-a165-33dd0bee473a,Et Tantuni Menü,"23,00 TL",Menüler,19.0
+5c9d6680-731a-40ae-a5ba-b5cc228a8f43,Double Et Menü,"37,00 TL",Menüler,5.0
+dad326eb-269d-46ce-892a-5bbe29da04d7,Double Tavuk Menü,"27,00 TL",Menüler,3.0
+635608be-7cfc-4106-8e4b-8bdf762e478b,Bomba Menü,"64,00 TL",Menüler,5.0
+9e8375ee-e8d0-43aa-b175-6693cd347f0c,Kokoreç Menü,"20,00 TL",Menüler,7.0
+10f9a290-982d-4ab0-a4af-3367833828e2,Karışık Tantuni Menü,"32,00 TL",Menüler,19.0
+21dd2131-707a-42a8-8a8e-ee8b21c29315,Ekmek Arası Izgara Köfte Menü,"23,00 TL",Menüler,2.0
+2dfd5114-60ea-420c-b05d-31d7c1b3b67a,Mantuni,"25,00 TL",Et Tantuniler,5.0
+4dbf4493-6ab9-4a11-b9ea-b15abae5525c,Ekmek Arası Et Tantuni,"15,00 TL",Et Tantuniler,16.0
+dd6df191-955c-4cda-9a12-b46b75a45b20,Et Tantuni Dürüm,"15,00 TL",Et Tantuniler,26.0
+16d314bc-0c01-4969-9f3a-2fab2351350c,Kaşarlı Et Tantuni Dürüm,"17,00 TL",Et Tantuniler,24.0
+d907ac0c-0328-4dd1-a7e2-ff0fe2a31353,Mega Et Tantuni Dürüm,"17,00 TL",Et Tantuniler,23.0
+fc46bace-2071-4ec1-883c-37f98dbb9fee,Yoğurtlu Et Tantuni,"17,00 TL",Et Tantuniler,20.0
+4a2e7288-a7ca-4f24-8bbe-631722dc07d8,Ekmek Arası Tavuk Tantuni,"10,00 TL",Tavuk Tantuniler,14.0
+aa0147c1-669e-47e4-9791-e04c070288d5,Kaşarlı Tavuk Tantuni Dürüm,"12,00 TL",Tavuk Tantuniler,22.0
+1b46130a-d44b-450d-b37d-64786643d2e2,Mega Tavuk Tantuni Dürüm,"12,00 TL",Tavuk Tantuniler,21.0
+29d1084e-4ae3-4987-8539-3855dec41f1d,Tavuk Tantuni Dürüm,"10,00 TL",Tavuk Tantuniler,24.0
+96f83a9e-8027-4169-be91-835b76c4cea2,Yoğurtlu Tavuk Tantuni,"13,00 TL",Tavuk Tantuniler,23.0
+a7b516d0-7bac-4adf-a032-c934859e986f,Ekmek Arası Kokoreç,"13,00 TL",Kokoreçler,4.0
+8ff666e7-ed0a-4c48-b146-5c7346bfa813,Ekmek Arası Izgara Köfte,"14,00 TL",Ekmek Arası Ürünler,2.0
+13F99C3F-7235-463E-91A2-AFB6B3E1EEA5,Ekmek Arası Sucuk,"9,00 TL",Ekmek Arası Ürünler,4.0
+04bd8120-ab87-4041-a010-988f3bbb4c95,Patates Kızartması,"8,00 TL",Yan Ürünler,8.0
+940b9c97-d977-49af-9831-beb2f9c082a0,Dondurmalı Künefe,"17,00 TL",Tatlılar,13.0
+60085a2b-7f6d-4be2-bc16-c55f9b67836f,Fıstıklı Burma Kadayıf,"15,00 TL",Tatlılar,4.0
+a24b6458-39da-45ee-a649-020f82132713,Kaymaklı Künefe,"17,00 TL",Tatlılar,12.0
+8afa3b82-aff9-4d97-ae1d-1178dfed7263,Sade Künefe,"14,00 TL",Tatlılar,14.0
+4b196c0b-f003-4414-bb4d-8595698a7c95,Maraş Dondurması (250 gr.),"10,00 TL",Dondurmalar,7.0
+53059a19-40c5-4b1c-8886-73ceb7758a48,Maraş Dondurması (500 gr.),"20,00 TL",Dondurmalar,7.0
+dc75b009-ec20-4097-a9fa-7c78b9e667fb,Süt Kaymağı (200 gr.),"15,00 TL",Dondurmalar,5.0
+27b7b362-8cd8-4675-a0a7-7d75ffe331c8,Su,"2,00 TL",İçecekler,7.0
+1a03e9f3-8006-486f-ae80-db35d9010e1f,Cevizli Baklava (250 gr.),"8,00 TL",Kiloluk Tatlılar,5.0
+7d3c1adf-8366-45fb-9de0-2723e0ccc392,Cevizli Baklava (500 gr.),"15,00 TL",Kiloluk Tatlılar,5.0
+63ddec78-8f19-4834-9d2d-6f0ea6090636,Künefe (1 kg.),"56,00 TL",Kiloluk Tatlılar,14.0
+ca958e80-4bad-45ef-b882-e00d4b44eb6d,Poşet,"0,25 TL",Poşet,5.0

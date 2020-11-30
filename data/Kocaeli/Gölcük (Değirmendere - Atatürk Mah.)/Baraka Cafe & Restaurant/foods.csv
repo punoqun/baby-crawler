@@ -1,0 +1,48 @@
+food_id,food_name,food_price,food_category,food_score
+0a1a0eec-150d-4ee1-95a5-5070762691a8,Pesto Soslu Cevizli Pizza (26 cm.) (8 Dilim),"30,00 TL",Pizzalar,9.0
+2d478b31-140c-41cd-8956-032b12494d2e,Pastırmalı Pizza (26 cm.) (8 Dilim),"35,00 TL",Pizzalar,9.0
+2d7403dc-becb-48e5-91fe-2a452bda6ecc,Karışık Pizza (26 cm.) (8 Dilim),"28,00 TL",Pizzalar,14.0
+33ae73a1-b5e9-445d-8ebc-5887c8ee12fa,Tavuklu Pizza (26 cm.) (8 Dilim),"32,00 TL",Pizzalar,9.0
+33f1b964-7b76-4a8c-8dc0-3c223eb8bd6a,Ton Balıklı Pizza (26 cm.) (8 Dilim),"32,00 TL",Pizzalar,14.0
+3f80b9a1-96c6-42e2-a4c2-8042b3e0b835,Kavurmalı Pizza (26 cm.) (8 Dilim),"35,00 TL",Pizzalar,9.0
+48917120-dcd5-499e-a9c6-63f0fc4355fb,4 Peynirli Pizza (26 cm.) (8 Dilim),"30,00 TL",Pizzalar,9.0
+4e5f75b2-199d-48ea-8e75-d3c166f627eb,Margherita Pizza (26 cm.) (8 Dilim),"25,00 TL",Pizzalar,9.0
+5c7eb122-2b86-499a-9e1e-035d63649f62,Baraka A'la Pizza (26 cm.) (8 Dilim),"36,00 TL",Pizzalar,16.0
+974750c9-d302-48cb-bd10-4faaa82094ec,Köfteli Pizza (26 cm.) (8 Dilim),"35,00 TL",Pizzalar,9.0
+a47d190f-36a7-4915-b842-33884f04c1ca,Mantarlı Pizza (26 cm.) (8 Dilim),"25,00 TL",Pizzalar,9.0
+eb812476-90ad-4528-accf-ad124728d3b9,Vejetaryen Pizza (26 cm.) (8 Dilim),"26,00 TL",Pizzalar,9.0
+eea35f06-f66d-4327-a5e3-4fd125779221,Napoliten Pizza (26 cm.) (8 Dilim),"25,00 TL",Pizzalar,9.0
+1668676e-dc59-47ec-ac6a-23bacc2c97e2,Cheeseburger,"28,00 TL",Burgerler,5.0
+268bdcd9-6e71-4247-a6d2-1abd8cc02875,Chef Burger,"32,00 TL",Burgerler,5.0
+49f913b0-0e20-4bcf-9161-2946f556f017,Wood Shed Burger,"37,00 TL",Burgerler,5.0
+6ebf8026-86c6-46c0-a7d2-58f16ed1b74a,Chicken Burger,"25,00 TL",Burgerler,5.0
+82304188-d654-4b5f-a55a-22a246ff2481,Hamburger,"27,00 TL",Burgerler,4.0
+df637d71-939e-4d7d-b00e-138a88a0b259,Baraka Burger,"28,00 TL",Burgerler,7.0
+DCE33E2E-09AB-445A-A23D-80B3454674D1,Spaghetti Bolognese,"30,00 TL",Makarnalar & Mantılar,5.0
+7D7E9361-3776-4E39-AF42-E3C9F2056984,Spaghetti Napoliten,"22,00 TL",Makarnalar & Mantılar,5.0
+0220591B-84FB-4CB3-BDA4-0EBB5B0898A9,Penne Arrabbiata,"24,00 TL",Makarnalar & Mantılar,5.0
+962C4C04-9B8B-48E4-8B5C-D9805AFD9A5F,Penne Tavuk,"28,00 TL",Makarnalar & Mantılar,5.0
+5823861C-277C-49BD-956F-3D68D51529F2,Baraka Special Tavuklu Makarna,"30,00 TL",Makarnalar & Mantılar,7.0
+63BAE94F-E713-45B3-921E-140D7B8FF39B,Baraka Specıal Ton Balıklı Makarna,"30,00 TL",Makarnalar & Mantılar,7.0
+494AE4AE-E687-4BE3-BF8E-7C4C0F4B4237,Köri Soslu Makarna,"28,00 TL",Makarnalar & Mantılar,5.0
+BD9F404A-555D-4D5D-87A3-4CEFA769DEDC,Mantı,"26,00 TL",Makarnalar & Mantılar,5.0
+2b800aac-3f68-4729-9e3a-bd2a2570e313,Tavuklu Sezar Salata,"31,00 TL",Salatalar,5.0
+38d927c8-0ffe-407a-b4bf-f5b0d616b755,Tavuklu Cevizli Salata,"31,00 TL",Salatalar,5.0
+9dba7494-1421-40a2-ad10-64f6136d2db3,Köri Soslu Salata,"31,00 TL",Salatalar,5.0
+a617c306-2f69-4fd9-a588-97b36fd2dd95,Çıtır Tavuk Salata,"31,00 TL",Salatalar,5.0
+a8f3ffa8-c7d0-4e7f-a429-47545177cf94,Beyaz Peynirli Salata,"25,00 TL",Salatalar,5.0
+ca7fbd69-66d7-47d5-a42c-0d457b4831f2,Hellim Peynirli Salata,"27,00 TL",Salatalar,5.0
+dfa761bd-850d-406a-a90b-34ef983ca978,Ton Balıklı Salata,"29,00 TL",Salatalar,5.0
+f2b20ba8-8a2c-4101-bda0-1dfa633a5e44,Akdeniz Salata,"25,00 TL",Salatalar,5.0
+21ba4317-3e2b-4eae-b009-4f33e7c8bae3,Elma Dilim Patates Kızartması,"12,00 TL",Atıştırmalıklar,6.0
+42b15066-ccf6-4368-99a1-56b4c555256c,Pişi (5 Adet),"10,00 TL",Atıştırmalıklar,5.0
+4842bbf9-4935-440f-8eed-353134943423,Soğan Halkası (7 Adet),"12,00 TL",Atıştırmalıklar,5.0
+839e07fe-d2d8-4cb0-8e54-588db3e435b4,Sigara Böreği (5 Adet),"14,00 TL",Atıştırmalıklar,5.0
+9e3d06fc-654e-41de-9093-6462779a25df,Baraka Tabağı,"32,00 TL",Atıştırmalıklar,7.0
+b6a4e356-bfb4-4e40-86db-165cccf2b1c9,Paçanga Böreği,"22,00 TL",Atıştırmalıklar,5.0
+e0399fd6-86d0-4968-b27d-aab5e8567e6c,Parmak Patates Kızartması,"10,00 TL",Atıştırmalıklar,5.0
+eacfc204-5a8a-417b-8976-7d1cf95c9f06,Sosis Tabağı,"18,00 TL",Atıştırmalıklar,5.0
+B7FC2576-97C8-46F4-A1FC-13513E6CD7E1,Taze Sıkma Portakal Suyu,"15,00 TL",İçecekler,5.0
+31B552F8-B58F-440F-921A-BCAFA5F75444,Taze Sıkma Nar Suyu,"16,00 TL",İçecekler,5.0
+79D36399-6E12-43BD-8B9A-1D2514397CD5,Atom,"20,00 TL",İçecekler,5.0
+2457a27a-28f3-43c1-bd9c-b61312a9e3bd,Poşet,"0,25 TL",Poşet,5.0

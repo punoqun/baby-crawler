@@ -1,0 +1,29 @@
+food_id,food_name,food_price,food_category,food_score
+9c101e59-3f8a-40c0-9cf6-569020fe1ccb,10'lu Kıymalı Pide Menü,"130,00 TL",Menüler,5.0
+27f316ff-1b12-4ada-8ca8-e42f692c8660,10'lu Lahmacun Menü,"100,00 TL",Menüler,9.0
+cf00ebf4-bb9b-4a7d-8fa1-4fbcf40081fe,Adana Dürüm Menü,"15,00 TL",Menüler,5.0
+edecd495-cdbe-480f-a5f4-191651e21913,Kıymalı Pide Menü,"15,00 TL",Menüler,5.0
+35b43341-2958-4fe3-a44d-5bbaab8ba10a,Tavuk Şiş Dürüm Menü,"15,00 TL",Menüler,5.0
+d6180a09-8f9e-49c6-ac35-cdddbe30b99c,Urfa Dürüm Menü,"15,00 TL",Menüler,5.0
+019c0a40-e57c-45d7-83d2-4aad27592edd,Adana Kebap,"27,00 TL",Izgara & Köfteler,5.0
+6906b792-4a6f-47cf-87df-da6d41d4cc05,Tavuk Şiş,"24,00 TL",Izgara & Köfteler,5.0
+5c520bbc-f4a4-47d3-928c-6123ac63493f,Urfa Kebap,"27,00 TL",Izgara & Köfteler,5.0
+73c335e3-06db-4b14-a364-2dfc45957ccd,Fındık Lahmacun,"6,00 TL",Fırın Ürünleri,11.0
+c6802dd1-979a-4d0c-aaf8-2016b497e526,Kaşarlı Lahmacun,"12,00 TL",Fırın Ürünleri,9.0
+62a80538-19fc-42ab-a6be-cb859ab297af,Antep Lahmacun,"15,00 TL",Fırın Ürünleri,9.0
+86ec5bfe-079b-48d8-a99f-f8ee8d0255c8,Lahmacun,"10,00 TL",Fırın Ürünleri,14.0
+5732261f-7d2f-4d8f-a932-40deff4e331b,Kuşbaşılı Pide,"20,00 TL",Fırın Ürünleri,7.0
+324f8031-d0f7-4d1d-b5fc-b46c742128cc,Kıymalı Kaşarlı Pide,"15,00 TL",Fırın Ürünleri,5.0
+d998be6e-bcab-4cf6-abe8-826bf3e1bee5,Sucuklu Pide,"15,00 TL",Fırın Ürünleri,5.0
+ce9af56b-3ffd-45f3-bfbc-192364188eaf,Sucuklu Kaşarlı Pide,"17,00 TL",Fırın Ürünleri,5.0
+fc48e88d-2635-41ed-be22-d5418ea9ef67,Kıymalı Yumurtalı Pide,"13,00 TL",Fırın Ürünleri,10.0
+8439e824-3d4a-4a4b-9fdc-31c5854cece7,Kuşbaşılı Kaşarlı Pide,"22,00 TL",Fırın Ürünleri,7.0
+fcaf21f2-952a-49cf-9bd2-60899a5fa562,Kaşarlı Pide,"15,00 TL",Fırın Ürünleri,5.0
+d7a3da3a-991e-4b7a-8bba-e447a453a5bc,Kıymalı Pide,"13,00 TL",Fırın Ürünleri,10.0
+4ca6a820-6c99-4957-ae8e-174e7d3707ba,Kiremitte Köfte,"26,00 TL",Kiremitte Ürünler,5.0
+73f6e8ec-ea95-4a94-ac06-dcc3b2392989,Kiremitte Tavuk,"22,00 TL",Kiremitte Ürünler,5.0
+c78bd83c-61f2-49d1-8f7e-6fd4ced2f75d,Kiremitte Kaşarlı Köfte,"28,00 TL",Kiremitte Ürünler,5.0
+f9d3e5dd-e90c-425c-a041-787cb0897b86,Kiremitte Kaşarlı Tavuk,"24,00 TL",Kiremitte Ürünler,5.0
+3fa282b6-6646-4791-ac66-8859f25d22a7,Fırında Sütlaç,"6,00 TL",Tatlılar,5.0
+DF9875C9-982A-49FA-97D7-5F214C248529,Kemalpaşa Tatlısı,"6,00 TL",Tatlılar,5.0
+19f91c67-5429-4a42-b81b-63d2b0d9eae2,Poşet,"0,25 TL",Poşet,5.0

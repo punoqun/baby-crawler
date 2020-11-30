@@ -1,0 +1,90 @@
+food_id,food_name,food_price,food_category,food_score
+f6da0cac-273f-47c2-9f0f-055448aa2f27,Sigara Böreği Menü,"9,00 TL",Menüler,7.0
+a3bb1c89-0fec-4940-9bd1-1f5fc9e46959,Karamelli Trileçe Menü,"14,00 TL",Menüler,5.0
+c3b275d9-8adc-4262-90fd-3b15448ac15a,Öğrenci Gözleme Menü,"60,00 TL",Menüler,5.0
+2d0a9c51-794e-4069-9ae2-770e4c698043,4'lü Poğaça Menü,"10,00 TL",Menüler,4.0
+99c0a682-6288-40bc-80ce-0339fcd13907,Nisa Menü 1,"12,00 TL",Menüler,5.0
+d2d8a438-5ed8-4f48-a738-9cf3cecdfc7f,Nisa Menü 2,"17,00 TL",Menüler,5.0
+294d546a-51dc-401f-a962-412abc2ef807,Nisa Menü 3,"33,00 TL",Menüler,5.0
+0904cd48-0f2f-4404-92c8-4aec9dae0073,Tatlı Menü,"12,00 TL",Menüler,5.0
+645096c7-7468-4312-b0a9-bb27bbd9a5de,4 Kişilik Pasta Menü,"41,00 TL",Menüler,7.0
+1fc34bfc-e3df-4fa8-8a57-41359c42011c,6 Kişilik Pasta Menü,"52,00 TL",Menüler,6.0
+c832dc91-cde5-4742-bc55-1cd71d9f2a29,5'li Gözleme Menü,"37,00 TL",Menüler,5.0
+7d0e69d0-f805-430f-ae4d-502e1c30bcda,Gözleme & Trileçe Menü,"19,00 TL",Menüler,5.0
+6b0bf626-6402-4b18-adc4-d57103230f55,Kahvaltı Tabağı 1,"16,00 TL",Kahvaltılıklar,7.0
+4D1B18CC-46C8-4404-A34A-E79EDE8FAE66,Ev Yapımı Patatesli Börek (Dilim),"4,00 TL",Kahvaltılıklar,5.0
+A6B2231F-26C5-4BCC-8A8F-364D58905823,Ev Yapımı Peynirli Börek (Dilim),"4,00 TL",Kahvaltılıklar,5.0
+88433a01-3df9-4196-8ebd-b118695c9215,Kahvaltı Tabağı 2,"19,00 TL",Kahvaltılıklar,7.0
+11cb1e09-9c38-46ac-b928-583533c1d988,Nisa Kahvaltı Tabağı,"15,00 TL",Kahvaltılıklar,7.0
+95f93887-03b3-4aa9-b88b-c8990bdbb66b,Sigara Böreği (5 Adet),"5,00 TL",Kahvaltılıklar,12.0
+530a9504-e4c3-4185-a567-8e5e58dfe89b,Simit,"2,00 TL",Kahvaltılıklar,5.0
+b84ed721-0284-432a-99be-1ad70ba82db4,Haşlanmış Yumurta,"2,00 TL",Kahvaltılıklar,5.0
+9f0bf5ce-8549-48e5-a8e0-6b964d775567,Sade Açma,"2,00 TL",Kahvaltılıklar,5.0
+8a8d9457-9413-4617-94fa-0df44ad678b6,Peynirli Açma,"2,00 TL",Kahvaltılıklar,5.0
+1a9a62a1-2f46-4fa0-9872-d5da8d7ac7ae,Patatesli Açma,"2,00 TL",Kahvaltılıklar,5.0
+bea822c7-13a0-472b-b457-f084504f1aaf,Cevizli Nokul,"2,50 TL",Kahvaltılıklar,7.0
+2ba35b28-1120-408f-95ee-1b61b7f72503,Kaşarlı Poğaça,"2,00 TL",Kahvaltılıklar,8.0
+dfd69f06-a1d5-4ddc-862b-bcdc6828e5eb,Peynirli Poğaça,"2,00 TL",Kahvaltılıklar,4.0
+f447549a-f8a1-4ecb-9169-3b4814260ca2,Patatesli Poğaça,"2,00 TL",Kahvaltılıklar,4.0
+36100b4e-4cb2-4345-912b-5caa5e90c692,Zeytinli Poğaça,"2,00 TL",Kahvaltılıklar,4.0
+75614588-42e9-4841-b8d7-343c9b477cb4,Çikolatalı Poğaça,"2,00 TL",Kahvaltılıklar,4.0
+421c52a9-4b9b-43bd-909b-ca1d9586159b,Üçgen Peynir (Adet),"1,25 TL",Kahvaltılıklar,5.0
+2a66b46c-f791-406b-88ad-15ac300b30e7,Beyaz Peynirli Domatesli Gözleme,"10,00 TL",Gözlemeler,4.0
+12eba966-c9ea-456c-88cb-d67051201092,Kabaklı Gözleme,"8,00 TL",Gözlemeler,5.0
+f7e0385e-326a-4e5e-a2c5-99e4df552b3e,Çikolatalı Gözleme,"8,00 TL",Gözlemeler,5.0
+c62c74ae-b161-4f1b-bed4-9a7411b57713,Domatesli Kaşarlı Gözleme,"10,00 TL",Gözlemeler,3.0
+708b3476-111d-466e-bda0-37d4431018f6,Haşhaşlı Tahinli Gözleme,"9,00 TL",Gözlemeler,5.0
+ab023272-e8a4-4774-9b0a-924c6c9026ab,Ispanaklı Gözleme,"9,00 TL",Gözlemeler,5.0
+02c557aa-1f88-4120-bb79-194a73ad0e86,Ispanaklı Kaşarlı Gözleme,"9,50 TL",Gözlemeler,4.0
+4e3276a0-30ec-457b-8550-d19849f9aa61,Ispanaklı Peynirli Gözleme,"9,50 TL",Gözlemeler,5.0
+9aa21b39-163c-44f1-b669-d8581ec09366,Kaşarlı Gözleme,"8,00 TL",Gözlemeler,4.0
+3728ac1b-e334-4c3b-a12b-02679b829581,Kaşarlı Yumurtalı Gözleme,"10,00 TL",Gözlemeler,4.0
+2009063c-0364-4c25-b835-32d637f105c3,Patatesli Gözleme,"8,00 TL",Gözlemeler,5.0
+1ab4ff1a-d876-4b02-8915-53fe65f9cf08,Patatesli Kaşarlı Gözleme,"10,00 TL",Gözlemeler,4.0
+c8eed82a-0199-435a-b94a-bcd2a7d736da,Peynirli Gözleme,"8,00 TL",Gözlemeler,5.0
+66840962-addc-42b4-b969-e7f96cbceef0,Sosisli & Kaşarlı Gözleme,"10,00 TL",Gözlemeler,4.0
+133af2e7-eb59-4d31-b5c1-71ba0c83cb68,Sucuklu Kaşarlı Domatesli Gözleme,"11,00 TL",Gözlemeler,3.0
+707131bc-9f1b-4b2e-89f5-c0bbeca36d46,Sucuklu Kaşarlı Gözleme,"10,00 TL",Gözlemeler,4.0
+3762059b-9f8b-482e-94ee-72beaf6e9d8f,Sucuklu Kaşarlı Yumurtalı Gözleme,"11,00 TL",Gözlemeler,4.0
+df9bd0fa-3b58-49e7-a315-e7d4af6c6b93,Sucuklu Yumurtalı Gözleme,"10,00 TL",Gözlemeler,5.0
+0b042ae1-9146-4e21-a8ad-0670b71b7dd4,Yumurtalı Gözleme,"8,00 TL",Gözlemeler,5.0
+c4e00f5c-2f95-440e-afba-2ab660007f8b,Yumurtalı Patatesli Gözleme,"10,00 TL",Gözlemeler,5.0
+f1131216-4e88-4df4-bf0c-64c38eb74f43,Kızarmış Dana Sosis,"8,00 TL",Yan Ürünler,5.0
+f74cd8ee-be67-4ece-bea6-0862754204c4,Portakallı Kurabiye,"2,00 TL",Kuru Pastalar,5.0
+36c75164-0947-443d-8d7c-def3e55dc1ae,Üzümlü Kurabiye,"2,00 TL",Kuru Pastalar,5.0
+0f97caa5-af24-4f11-8ed3-ce5990030398,Un Kurabiyesi,"1,25 TL",Kuru Pastalar,5.0
+df9822dd-1ca8-45d8-9f9a-2f3b7f60eaf9,Profiterol,"10,00 TL",Tatlılar,5.0
+AAFA1ECE-B729-4995-A34D-D64A0E964CD0,Frambuazlı Pasta (Dilim),"10,00 TL",Tatlılar,7.0
+42bd1973-a4b9-4055-9338-e860b9f35ffd,Ekler (Adet),"3,00 TL",Tatlılar,12.0
+8c331fd0-60ba-4e5b-80d8-d758876c447b,Çikolatalı Yaş Pasta (Dilim),"10,00 TL",Tatlılar,7.0
+cc496a0f-80c9-478e-a7b3-e5c3323508d5,Maraş Dondurma (1 kg.),"45,00 TL",Dondurmalar,5.0
+3336c80f-46b5-4d07-a802-8149c4695be7,Frambuazlı Pasta (2 Kişilik),"25,00 TL",Pastalar (2 Kişilik),7.0
+623e12b7-d626-4f41-92d9-488a807bc1c9,Frambuazlı Çikolatalı Yaş Pasta (4 Kişilik),"35,00 TL",Pastalar (4 Kişilik),7.0
+b7ac16b5-db52-4060-a562-4be845e2ab30,Çikolatalı Pasta (6 Kişilik),"45,00 TL",Pastalar (6 Kişilik),7.0
+c99e838e-3bfb-48fc-a798-5f67319a2154,Frambuazlı Pasta (6 Kişilik),"45,00 TL",Pastalar (6 Kişilik),7.0
+55ba13ef-90ab-4158-be54-e8ea248458bb,Meyveli Pasta (6 Kişilik),"45,00 TL",Pastalar (6 Kişilik),7.0
+63f04024-1fa3-4f66-8412-5fc835dc9e00,Karamelli Pasta (6 Kişilik),"45,00 TL",Pastalar (6 Kişilik),7.0
+612ee443-bc62-4e31-a377-c0001d3d8980,Talaş Pasta (6 Kişilik),"45,00 TL",Pastalar (6 Kişilik),7.0
+5dedc00e-66fb-4597-874d-df8e044a91d2,Frambuazlı Çikolatalı Yaş Pasta (6 Kişilik),"45,00 TL",Pastalar (6 Kişilik),7.0
+34e5d5ff-671e-415a-ad00-0713d70bfe73,Çikolatalı Pasta (8 Kişilik),"55,00 TL",Pastalar (8 Kişilik),7.0
+1f883280-cf47-4eff-9bdf-acdb44b48915,Frambuazlı Pasta (8 Kişilik),"55,00 TL",Pastalar (8 Kişilik),7.0
+973fba66-41c6-4fee-aef7-1285124e916b,Meyveli Pasta (8 Kişilik),"55,00 TL",Pastalar (8 Kişilik),7.0
+2f999b3f-6de7-423a-a141-9e694c5acddf,Karamelli Pasta (8 Kişilik),"55,00 TL",Pastalar (8 Kişilik),7.0
+cfc3547c-c667-492b-8109-ae917b16af0d,Talaş Pasta (8 Kişilik),"55,00 TL",Pastalar (8 Kişilik),7.0
+43e891c8-7e67-47fe-b086-99bddf08fe6b,Çikolatalı Yaş Pasta (10 Kişilik),"70,00 TL",Pastalar (10 Kişilik),7.0
+8eb309cb-6394-436a-9522-2763ff018afe,Muzlu & Çilekli Yaş Pasta (10 Kişilik),"70,00 TL",Pastalar (10 Kişilik),7.0
+00d7f06e-c30e-4683-a4e9-82a1505188c8,Frambuazlı Çikolatalı Yaş Pasta (10 Kişilik),"70,00 TL",Pastalar (10 Kişilik),7.0
+bb524427-2110-4f69-bc1f-9b3be06c9b5f,Su,"2,00 TL",İçecekler,5.0
+1de73c2e-a17a-4dd4-9928-e0364a57383e,Cappy (1 L.),"6,50 TL",İçecekler,5.0
+9d8f86c2-1e0d-402a-9af1-70a081a5a004,Limonata (1 L.),"6,50 TL",İçecekler,5.0
+ce075b64-a0fd-4bb6-b4d6-247115977197,"Fanta (2,5 L.)","9,00 TL",İçecekler,5.0
+f0f42159-fabb-42cf-aeb5-000ce9b897f5,Karışık Kuru Pasta (1 kg.),"35,00 TL",Kiloluk Kuru Pastalar,7.0
+9aad5743-75b0-4317-9f27-07892cd5e556,Karışık Kuru Pasta (500 gr.),"17,00 TL",Kiloluk Kuru Pastalar,7.0
+a05cd1db-5111-468c-995d-689ec73d583b,Karışık Kuru Pasta (300 gr.),"12,00 TL",Kiloluk Kuru Pastalar,7.0
+0ad6c454-9831-459d-be0d-128f67c39475,Cevizli Sarı Burma (1 kg.),"40,00 TL",Kiloluk Tatlılar,5.0
+6cc85d05-d0b7-42a3-903e-5b79d5c65c39,Cevizli Sarı Burma (500 gr.),"20,00 TL",Kiloluk Tatlılar,5.0
+5463d74c-81c5-4924-b5e8-1e37dddfdb82,Cevizli Sarı Burma (250 gr.),"10,00 TL",Kiloluk Tatlılar,5.0
+eef23d96-7b73-4d4f-bc00-760c4b64ecc6,Cevizli Tepsi Baklava (4 kg.),"150,00 TL",Kiloluk Tatlılar,5.0
+4e3516c3-cb99-4579-8580-be6063872ad2,Sarı Burma Tepsi (4 kg.),"150,00 TL",Kiloluk Tatlılar,5.0
+de859d3f-cb82-474e-95f7-f72025efaf2d,Profiterol (500 gr.),"25,00 TL",Kiloluk Tatlılar,5.0
+1fd23038-34dc-45bf-8f05-e76ea765a2b9,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,40 @@
+food_id,food_name,food_price,food_category,food_score
+31cad64a-c020-40a1-903c-d2855ed2d5c2,Balık Kokoreç (2 Kişilik),"35,25 TL",Ara Sıcaklar,20.0
+341edaca-dbb0-4d66-a03e-cca70a9d8088,Lagunya (Adet),"8,25 TL",Ara Sıcaklar,5.0
+420d94bf-9150-4b6f-9027-8173d50bd1a8,Fesleğenli Levrek Marin,"29,25 TL",Ara Sıcaklar,7.0
+5b304071-1ca9-49fa-9ee5-d2a76d05a8fe,Hardallı Levrek Marin,"29,25 TL",Ara Sıcaklar,7.0
+652bc328-7ecd-489e-be69-ea8e0a171460,Uskumru Çiroz,"27,75 TL",Ara Sıcaklar,5.0
+7579085c-fa19-4490-a4e4-52acd41ae188,Izgara Halka Kalamar (6 Adet),"54,00 TL",Ara Sıcaklar,2.0
+8b383589-48f1-46d6-a198-dc24aeb970c5,Kadayıflı Levrek Sarma (Adet),"16,50 TL",Ara Sıcaklar,7.0
+8d9fd936-66ae-4f84-96ef-6e964e556d83,Yengeç Bacağı (Adet),"9,00 TL",Ara Sıcaklar,10.0
+aa7074b8-41de-4d95-a258-c8a4803a86b1,Balık Köftesi (Adet),"9,75 TL",Ara Sıcaklar,20.0
+bd3cb9bf-7b95-4cf4-b564-6535abac062f,Tereyağlı Karides Güveç (2 Kişilik),"58,50 TL",Ara Sıcaklar,5.0
+efabf538-ccb3-4687-afd5-c26f93c583c7,Tereyağlı Karides,"56,25 TL",Ara Sıcaklar,5.0
+34b6cc28-ce29-4994-9d37-c963f366deda,Rum Böreği (Adet),"9,75 TL",Börekler,5.0
+b567dae5-79b9-41ad-9018-c5607e8a79e4,Paçanga Böreği (Adet),"10,50 TL",Börekler,7.0
+056fd3fe-d3b6-4233-bfab-49c5e3223b90,Hamsi Tava,"39,00 TL",Tavada Balıklar,20.0
+71827842-35aa-4224-b210-a9f6805fc3c9,Mezgit Tava,"48,75 TL",Tavada Balıklar,5.0
+ecaadafe-f6d5-4341-950f-03c11673d527,Kalamar Tava,"54,75 TL",Tavada Balıklar,4.0
+f04c89aa-8df6-409f-b33a-909a11a59bde,İstavrit Tava,"39,00 TL",Tavada Balıklar,5.0
+13736027-f5cc-4a34-b233-1de2e0f95c29,Izgara Levrek (350 - 400 gr.),"46,50 TL",Izgara Balıklar,10.0
+1e43cfa1-2b55-43eb-b055-4be55054dea0,Izgara Çipura (350 - 400 gr.),"44,25 TL",Izgara Balıklar,8.0
+37fde4cd-f6d9-4a7c-8a47-77d4e87e2d8b,Izgara Hamsi,"42,75 TL",Izgara Balıklar,18.0
+cc0c480f-addd-46d9-8a78-70c3a4734ae8,Tandır Levrek (250 gr.),"49,50 TL",Tandırda Balıklar,12.0
+a7e5c372-51fd-4279-9db1-cc1b48276aee,Ayvalık Kabak Tarator,"16,50 TL",Mezeler,5.0
+1223ec91-19c7-4325-ad39-1dfccd124542,Bademli Datça Mezesi,"20,25 TL",Mezeler,5.0
+fb57e2d9-60a9-4649-8c1a-fda03df6bdd7,Ege Otları Kavurma,"22,50 TL",Mezeler,9.0
+3caf67c4-3ee9-4d38-b375-62f90e0791a1,Köpeoğlu,"18,00 TL",Mezeler,5.0
+29c9cfc8-23e9-4c84-ad71-89fa0002553e,Közlenmiş Biber,"18,00 TL",Mezeler,5.0
+12989660-47f5-4ac5-b5fa-2b5b863fe744,Semizotu,"18,00 TL",Mezeler,5.0
+a55f1fc3-0744-4685-b552-5f0d8a00a736,Ekmek Arası Uskumru,"24,00 TL",Ekmek Arası Ürünler,15.0
+822FB3F3-93EC-4C40-B791-27450A12C51A,Ekmek Arası Balık Köfte,"32,25 TL",Ekmek Arası Ürünler,25.0
+75dd7a26-01bf-44d7-b0c4-ea1cc0c92003,Karışık Turşu,"16,50 TL",Yan Ürünler,5.0
+56d3827a-0baf-4d21-91c5-0ccebded5701,Meyhane Salatası,"14,25 TL",Salatalar,5.0
+84fe6578-2ee2-43c1-818a-e2b8e6c2945c,Peynirli Mevsim Salata,"14,25 TL",Salatalar,6.0
+98817f24-acef-43d7-a80a-5e1f5e4b0a50,Mevsim Salata,"12,75 TL",Salatalar,7.0
+a1310390-d527-4db2-aa7a-9c965ac0ad40,Çoban Salata,"15,00 TL",Salatalar,7.0
+b885ebc5-b4da-4299-b102-c5530290fc2a,Karidesli Çoban Salata,"36,75 TL",Salatalar,7.0
+13c236ce-9b93-4883-bc65-690eaf559343,Izgara Hamsi (1 kg.),"89,25 TL",Kiloluk Balıklar (Pişirilmiş),18.0
+29aded51-976d-40ca-8f46-a8b18dcd7bb3,İstavrit Tava (1 kg.),"89,25 TL",Kiloluk Balıklar (Pişirilmiş),5.0
+5ae3494f-d1e4-474e-b00f-d3c9db8b45cb,Hamsi Tava (1 kg.),"89,25 TL",Kiloluk Balıklar (Pişirilmiş),20.0
+74283fd5-1175-4156-bcb8-015ca4f2152b,Poşet,"0,25 TL",Poşet,5.0

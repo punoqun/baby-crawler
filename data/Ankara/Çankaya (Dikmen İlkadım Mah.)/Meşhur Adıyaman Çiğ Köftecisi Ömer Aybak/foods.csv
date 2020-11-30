@@ -1,0 +1,48 @@
+food_id,food_name,food_price,food_category,food_score
+5493cde6-bc73-4051-a390-f53c31109bf4,5'li Çiğ Köfte Dürüm Menü,"35,00 TL",Ekonomik Menüler,3.0
+f1416e88-7c30-401d-a0fd-baa5de0226c9,10'lu Çiğ Köfte Dürüm Menü,"50,00 TL",Ekonomik Menüler,3.0
+016EDE63-73F8-4555-A86E-29A21B44A038,Çiğ Köfte Dürüm Menü 2,"7,50 TL",Menüler,7.0
+3b573e1b-963f-4609-acc5-6204a8e38673,Çiğ Köfte Dürüm Menü 1,"15,00 TL",Menüler,24.0
+07afa2f7-b978-47d4-88da-80e4df255d60,2'li Çiğ Köfte Dürüm Menü,"18,50 TL",Menüler,3.0
+e46b9310-6890-4e1a-86a5-bdef17e0f755,Çiğ Köfte (200 gr.) Menü,"17,00 TL",Menüler,3.0
+0432BD2B-4242-48D2-99C8-7A96F89CB5A1,Dana Arnavut Ciğeri Dürüm Menü,"14,00 TL",Menüler,5.0
+f675a30f-3488-43d2-a9da-b3f336653782,Tavuklu Pilav Menü,"14,00 TL",Menüler,4.0
+a44c0c7b-e91a-4894-969d-84ba7972bec6,Mega Çiğ Köfte Dürüm,"8,50 TL",Çiğ Köfteler,8.0
+24a726ba-1665-494a-82e5-4d9a84f19fbb,Çiğ Köfte (800 gr.),"37,00 TL",Çiğ Köfteler,3.0
+93a931b3-ea6b-4725-a090-48a96f0f7387,Çiğ Köfte (1 kg.),"45,00 TL",Çiğ Köfteler,3.0
+bf5a9692-91de-4725-a7ef-198c11e299c5,Dana Arnavut Ciğeri Dürüm,"12,00 TL",Diğer Lezzetler,5.0
+abc8edbb-c468-459e-ae43-08bfb1607273,Tavuklu Pilav,"13,00 TL",Diğer Lezzetler,4.0
+be9eb747-c8c3-4dc2-a31b-bafd591be359,Midye Dolma (Büyük Boy) (10 Adet),"16,00 TL",Diğer Lezzetler,8.0
+c5f41224-9329-475e-bc7e-b34b6c640f17,İzmir Midye Dolma (Adet),"1,25 TL",Diğer Lezzetler,13.0
+dc035a0d-0c1d-47c5-a795-83e14413ecc7,İzmir Midye Dolma (10 Adet),"12,00 TL",Diğer Lezzetler,8.0
+2401c6be-e9b9-4b26-acf5-1cd3fc0cf727,İzmir Midye Dolma (30 Adet),"33,00 TL",Diğer Lezzetler,8.0
+e6972765-2d39-4b5c-a796-2b07e205522d,İzmir Midye Dolma (50 Adet),"50,00 TL",Diğer Lezzetler,8.0
+43eea8fd-329f-44af-a0aa-356a516087b8,Kızartma İçli Köfte (Adet),"5,50 TL",Diğer Lezzetler,7.0
+005ba8f9-0b98-4946-96bf-9b344513c6c9,Hatay Usulü Kızartma İçli Köfte (3 Adet),"15,00 TL",Diğer Lezzetler,7.0
+5a947a2c-223a-4a4b-b2ba-8afd192f1a27,Zeytinyağlı Yaprak Sarma (200 gr.),"8,00 TL",Diğer Lezzetler,7.0
+4ba05adc-89dd-47db-a5dc-1e1bb2ce6172,Zeytinyağlı Yaprak Sarma (300 gr.),"12,00 TL",Diğer Lezzetler,7.0
+73332fa0-1d0f-4f56-9e02-4ea10d389d96,Zeytinyağlı Yaprak Sarma (500 gr.),"18,00 TL",Diğer Lezzetler,7.0
+f32f7de9-836e-4a4a-b718-043677b7969a,Tarator,"8,00 TL",Mezeler,5.0
+901b0490-c736-4d10-a7f3-3eba134d05c7,Şakşuka,"12,00 TL",Mezeler,5.0
+a0cbe76d-ac8a-4fa7-ac11-f0ef6ca02eaa,Rus Salatası,"9,00 TL",Mezeler,5.0
+ce2fa4ba-a82d-4f31-8c33-a1917fbd1a63,Arnavut Ciğeri (100 gr.),"12,00 TL",Mezeler,5.0
+6E7AEECC-70EE-46D6-A949-4B6EC6B128D4,Atom,"11,00 TL",Mezeler,5.0
+57b523b2-3b15-4e3c-aec7-18e526662333,Lavaş Ekmeği (Adet),"0,75 TL",Ekstralar,3.0
+f99799eb-debe-438f-9c8e-6bde163c4a69,Cin Biberi,"3,00 TL",Ekstralar,5.0
+d4b7db82-836c-4757-89b7-761df9126bd8,Iceberg Marul (Yarım),"2,50 TL",Ekstralar,5.0
+0eafb70f-801a-4e20-9d54-e229abf03ed6,Limon (Adet),"2,00 TL",Ekstralar,5.0
+616eaac1-12bc-4506-85d6-a0935d41f15d,Kornişon Turşu,"3,50 TL",Ekstralar,6.0
+9bee4356-e16d-481b-8b62-24b2d0524e3e,Bardakta Turşu (20 cl.),"3,00 TL",Ekstralar,5.0
+027eb179-4954-467f-815b-65226e4f7609,Halka Tatlı,"2,50 TL",Tatlılar,1.0
+110b93d5-3d73-456a-bdcb-ceabd69cd1fb,Bal Badem Tatlısı (Adet),"1,50 TL",Tatlılar,7.0
+d4685ba9-72b0-4f9c-a5e5-23280b73903b,Bal Badem Tatlısı (6 Adet),"9,00 TL",Tatlılar,7.0
+89cc5bcf-05cb-43c9-b06c-61d9f84c0b6c,Burma Kadayıf,"5,00 TL",Tatlılar,5.0
+45177800-cd6d-427b-8511-1666135c8fde,Erzurum Dolma Kadayıfı,"5,00 TL",Tatlılar,5.0
+448090f7-38d8-4177-a21c-b5a259e4e8e0,Eker Sütlaç,"3,50 TL",Tatlılar,4.0
+6a76eada-2a85-43b2-b97c-f22da86caf95,Eker Sakızlı Muhallebi,"3,50 TL",Tatlılar,4.0
+d88eab78-7dd8-4bea-98c7-e77d1c614c10,Eker Çikolatalı Puding,"3,50 TL",Tatlılar,4.0
+6a8af4ca-dd05-4598-8305-75388ae747fa,Eker Kazandibi,"3,50 TL",Tatlılar,4.0
+95ad4f27-8f48-42d1-9270-58f1fccc7707,Eker Yayık Ayran (30 cl.),"3,50 TL",İçecekler,10.0
+ce19e6a3-d5a0-4560-bb30-c29781ac85ff,Kuru Üzüm Şırası (1 L.),"13,00 TL",İçecekler,5.0
+d4c01668-3e8c-43b2-a83c-7674d08c27d0,Zeytinyağlı Yaprak Sarma (1 kg.),"35,00 TL",Kiloluk Ürünler,7.0
+0df286c2-3aa3-4e3e-a4e1-8b713a326254,Poşet,"0,25 TL",Poşet,5.0

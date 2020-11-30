@@ -1,0 +1,52 @@
+food_id,food_name,food_price,food_category,food_score
+add850f2-611f-4685-b5a4-20c91471ffcd,5'li Tavuk Tantuni Menü,"71,00 TL",Ekonomik Menüler,11.0
+21f1be43-6eb8-408f-8cb2-9e669fa2b905,10'lu Tavuk Tantuni Menü,"135,00 TL",Ekonomik Menüler,11.0
+3d75d35f-3997-4e55-963d-d573957c8beb,10'lu Et Tantuni Menü,"185,00 TL",Ekonomik Menüler,7.0
+ce20910f-1442-44ab-b408-5e2ef65e1ba6,5'li Et Tantuni Menü,"96,00 TL",Ekonomik Menüler,7.0
+cb7d3a86-f21c-4631-b24c-e68831b810ba,Menü 1,"51,00 TL",Ekonomik Menüler,17.0
+434048ac-561e-4e1a-97b5-61ac61ff4810,Menü 2,"73,00 TL",Ekonomik Menüler,8.0
+300bfa3a-b9d9-4f04-ba92-1cc61636d7e5,Menü 3,"61,00 TL",Ekonomik Menüler,4.0
+251d2036-5aee-4cd5-b4e7-8756aac5ea75,Menü 4,"93,00 TL",Ekonomik Menüler,10.0
+2b1f175d-bb47-48e4-887e-a45b304472c1,Menü 5,"22,00 TL",Ekonomik Menüler,9.0
+6829a6a9-251c-4965-82c8-041828c4d52a,Menü 6,"61,00 TL",Ekonomik Menüler,5.0
+cce03b19-80b8-4619-b726-87aa2c822dec,Menü 7,"50,00 TL",Ekonomik Menüler,5.0
+f9862cdf-f28c-4b8b-b74e-67858eff1900,Menü 8,"28,00 TL",Ekonomik Menüler,9.0
+7ce5b637-b21f-4ff6-97e5-843e25dffeae,Ekmek Arası Et Tantuni,"18,00 TL",Et Tantuniler,6.0
+4b44bd14-8938-4b77-bc3d-4bca30e122f9,Et Tantuni Dürüm,"18,00 TL",Et Tantuniler,12.0
+23a51808-182d-41e0-8a5a-ef6bb7dafabe,Yoğurtlu Et Tantuni,"25,00 TL",Et Tantuniler,9.0
+935a9be5-7484-4f1d-b4b8-b6f1c7b867ec,Ekmek Arası Tavuk Tantuni,"12,00 TL",Tavuk Tantuniler,15.0
+922aaba7-d9c7-4682-bb19-026489423977,Tavuk Tantuni Dürüm,"12,00 TL",Tavuk Tantuniler,16.0
+0713c464-6462-4362-a620-a30b6b700eb1,Yoğurtlu Tavuk Tantuni,"20,00 TL",Tavuk Tantuniler,13.0
+985AC09B-64B4-4656-9BE5-BF927634F37F,Ciğer Dürüm,"22,00 TL",Dürümler,5.0
+5648DCFC-086C-406C-8088-CD7733604641,Adana Dürüm,"19,00 TL",Dürümler,11.0
+91A94EE2-4767-46C8-944B-984FBCB210B6,Urfa Dürüm,"19,00 TL",Dürümler,5.0
+499DB0A6-3803-4409-B34B-62B6E8845562,Tavuk Şiş Dürüm,"18,00 TL",Dürümler,9.0
+8D739FFC-18EC-40D3-91F9-25D5F602D8A6,Çöp Şiş Dürüm,"35,00 TL",Dürümler,5.0
+D31F42C4-2A10-4F5B-8734-75DCA812B118,Adana Kebap,"25,00 TL",Kebaplar & Izgaralar,12.0
+C3390A53-97CD-4013-B426-E4A1E375FA0F,Urfa Kebap,"25,00 TL",Kebaplar & Izgaralar,6.0
+658540FA-33CB-4542-B449-E75006AA0F73,Sarma Beyti Kebap,"30,00 TL",Kebaplar & Izgaralar,4.0
+63F02575-3742-459C-AC50-DAE420316096,Çöp Şiş,"35,00 TL",Kebaplar & Izgaralar,5.0
+5C5B89E6-F84E-47D4-95DC-70450F948A15,Kuzu Şiş,"30,00 TL",Kebaplar & Izgaralar,5.0
+D5F0C023-2406-4596-9F13-3B9915EA4A86,Ciğer Şiş,"35,00 TL",Kebaplar & Izgaralar,5.0
+CFFA4562-4DF4-4F97-9DC3-CB2802DE76E0,Tavuk Şiş,"25,00 TL",Kebaplar & Izgaralar,9.0
+21FB13E7-53CF-4324-9F9E-15A4BC520BA0,Tavuk Pirzola,"25,00 TL",Kebaplar & Izgaralar,9.0
+203C34B7-8976-429F-A8A0-5156ED1F26CD,Çıtır Tavuk,"25,00 TL",Kebaplar & Izgaralar,9.0
+EEF830C5-FA45-45A0-8BEE-F12451B2C46A,Izgara Tavuk Kanat,"25,00 TL",Kebaplar & Izgaralar,12.0
+DAE6AFA0-7443-4C0C-8DBE-108FF476E446,Izgara Tavuk,"25,00 TL",Kebaplar & Izgaralar,9.0
+D8C53754-1661-4ECF-B5B9-28647410CAB6,Karışık Izgara,"45,00 TL",Kebaplar & Izgaralar,5.0
+59E008DF-B46F-4613-BC1B-A0060B369EC5,Izgara Tavuk Kanat (1 kg.),"50,00 TL",Kiloluk Izgaralar (Pişirilmiş),12.0
+AF49A224-DFE2-4D82-977F-B6D9D1C5BA39,Izgara Tavuk (1 kg.),"50,00 TL",Kiloluk Izgaralar (Pişirilmiş),9.0
+163CF6A0-6C64-4F51-9EF1-57062AF1B580,Tavuk Pirzola (1 kg.),"50,00 TL",Kiloluk Izgaralar (Pişirilmiş),9.0
+2E29748C-F853-442C-91B8-6B86937CF455,Çıtır Tavuk (1 kg.),"50,00 TL",Kiloluk Izgaralar (Pişirilmiş),9.0
+B7E492E0-D36B-46E4-99B6-3991F2182FD7,Tavuk Şiş (1 kg.),"50,00 TL",Kiloluk Izgaralar (Pişirilmiş),9.0
+53869FDC-C1FE-44C6-8F99-FCBAD4A73273,Izgara Tavuk Kanat (500 gr.),"30,00 TL",Kiloluk Izgaralar (Pişirilmiş),12.0
+DA37715C-F94D-4686-92CE-8F2BD4FC74BF,Tavuk Şiş (500 gr.),"30,00 TL",Kiloluk Izgaralar (Pişirilmiş),9.0
+58BEDBBC-A2FC-4728-9300-7881878B81F2,Tavuk Pirzola (500 gr.),"30,00 TL",Kiloluk Izgaralar (Pişirilmiş),9.0
+47164CA7-91A5-4614-9BBA-6CFA2CF2E339,Izgara Tavuk (500 gr.),"30,00 TL",Kiloluk Izgaralar (Pişirilmiş),9.0
+DC02EFEC-9222-44A3-A7EB-6EB78BE9D68E,Çıtır Tavuk (500 gr.),"30,00 TL",Kiloluk Izgaralar (Pişirilmiş),9.0
+aa6016f6-e1ad-4abc-b1f9-7ccb77df6398,Çiğ Köfte Dürüm,"5,00 TL",Çiğ Köfteler,5.0
+8f88a892-5a53-47c7-ac5e-35f1e502a8c3,Çiğ Köfte (7 Sıkım),"7,00 TL",Çiğ Köfteler,5.0
+06959a1b-21c1-4ca1-98d3-28f29c41b569,Çiğ Köfte (14 Sıkım),"14,00 TL",Çiğ Köfteler,5.0
+769a1f43-b2ab-470e-84e9-e76879d4cde8,Hatay Künefe,"15,00 TL",Tatlılar,6.0
+BB9FB427-B06E-4BE7-8A4D-D6D9096E5138,Kadayıf,"15,00 TL",Tatlılar,5.0
+56bb1bfb-8654-4015-9b4a-40422f517f02,Poşet,"0,25 TL",Poşet,5.0

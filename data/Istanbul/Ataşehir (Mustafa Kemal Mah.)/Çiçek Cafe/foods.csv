@@ -1,0 +1,24 @@
+food_id,food_name,food_price,food_category,food_score
+9EB708C5-8497-45C1-857A-D65C9DD09B3F,Lahmacun,"10,00 TL",Lahmacunlar,5.0
+c178919b-08e0-4689-b6c9-7f058df14484,Çiğ Köfte Dürüm,"6,00 TL",Çiğ Köfteler,24.0
+b386441e-6dc0-41db-a8c6-879ed32523b9,Double Çiğ Köfte Dürüm,"15,00 TL",Çiğ Köfteler,19.0
+927e6706-c383-4ff2-8e19-fd0931bf02d8,Çiğ Köfte (200 gr.),"14,00 TL",Çiğ Köfteler,18.0
+2a3e6211-4895-470e-9084-decf59b00f00,Çiğ Köfte (400 gr.),"29,00 TL",Çiğ Köfteler,23.0
+ddac3f29-473a-4810-8c44-8cbd07829bfb,Çiğ Köfte (500 gr.),"34,00 TL",Çiğ Köfteler,23.0
+0a507e64-36a9-4f05-b2b6-7c0ca3e80b00,Çiğ Köfte (1 kg.),"49,00 TL",Çiğ Köfteler,18.0
+f46dfd1e-4b3b-4296-9b25-f377e1f4aa15,Çiğ Köfte (1 kg.) (Garnitürsüz),"44,00 TL",Çiğ Köfteler,18.0
+0b115218-c1f0-49b8-bf7e-dfd906102cce,Tombik Ekmek Arası Tavuk Döner,"18,00 TL",Tavuk Dönerler,10.0
+32652f71-8108-4337-b7d1-d8b16984a44d,Adana Kebap,"45,00 TL",Kebaplar,3.0
+48aef28b-a1fa-45f6-ab48-83205ada3a2b,Urfa Kebap,"45,00 TL",Kebaplar,5.0
+b6e51236-6dc5-46e4-b579-95809bccfe69,Urfa Dürüm,"35,00 TL",Dürümler,6.0
+5d4e4442-b514-4a8a-b5c0-0b824337c6d7,Adana Dürüm,"35,00 TL",Dürümler,4.0
+7fbed756-d0a8-485d-afcc-b845a8836a95,Lavaş,"0,80 TL",Yan Ürünler,4.0
+b28676d5-28ae-4ff5-a0cf-938da99513b1,Göbek Marul (Yarım),"5,00 TL",Yan Ürünler,6.0
+511bf4f5-0feb-4951-a8ce-5c196ee335ae,Göbek Marul (Tam),"10,00 TL",Yan Ürünler,6.0
+17925cfd-ac61-4934-bb0c-1daddc89637f,Karışık Tavuk Izgara (500 gr.),"45,00 TL",Kiloluk Ürünler (Pişirilmiş),8.0
+60b5b12b-eacf-48e3-8ea4-0c40ec4f2d9f,Karışık Tavuk Izgara (1 kg.),"75,00 TL",Kiloluk Ürünler (Pişirilmiş),8.0
+C7B4D69A-474D-438B-87DC-743AF6BA7362,Cevizli Baklava (1 kg.),"99,00 TL",Kiloluk Tatlılar,5.0
+1162fa48-8be5-473f-b2a7-afb589ddef2b,Fıstıklı Baklava (1 kg.),"99,00 TL",Kiloluk Tatlılar,5.0
+4ec3ad5b-2362-4ab0-9fe6-b07582296d23,Cevizli Baklava (500 gr.),"49,00 TL",Kiloluk Tatlılar,5.0
+40C0DC7D-CD1F-46F8-8B7F-5F7CEEC29FB8,Fıstıklı Baklava (500 gr.),"49,00 TL",Kiloluk Tatlılar,5.0
+55f42c6e-e8b9-4962-8de9-57682a93004d,Poşet,"0,25 TL",Poşet,5.0

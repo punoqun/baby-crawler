@@ -1,0 +1,37 @@
+food_id,food_name,food_price,food_category,food_score
+acafdcad-9410-41a2-ace6-903d36857b71,Kaşarlı Tost,"6,00 TL",Tostlar,6.0
+81aef916-69a1-42d4-bc2c-cdf74213fa60,Sucuklu Tost,"7,00 TL",Tostlar,5.0
+0ec68165-c58d-4fe7-88d8-6e3fa41e7ef4,Yengen Tost,"7,50 TL",Tostlar,5.0
+2d4bc69d-bc06-42b0-8701-ef8383d57101,Sucuklu Patso Sandviç,"8,50 TL",Sandviçler,5.0
+ba4b44f2-f937-4415-a191-7f105934085d,Kaşarlı Patso Sandviç,"8,00 TL",Sandviçler,11.0
+d842f389-4414-42b4-95ee-5fd341a227e8,Sosisli Sandviç,"7,00 TL",Sandviçler,5.0
+7eb09939-55f9-491b-8c6d-e60717f5776f,Amerikanlı Sandviç,"6,00 TL",Sandviçler,5.0
+9ccdd572-e9d5-419b-a238-ec0575816f5b,Goralı Sandviç,"8,00 TL",Sandviçler,3.0
+3b6cb972-5055-402a-8339-52de0bb7a157,Tavuklu Kaşarlı Sandviç,"10,00 TL",Sandviçler,6.0
+62ed57c5-f7a3-4cea-a099-2a65136fa54a,Patso Sandviç,"10,00 TL",Sandviçler,5.0
+562bd6ab-a918-4712-aecc-1e1de9f04547,Kumru Sandviç,"10,00 TL",Sandviçler,8.0
+a84361c0-befb-46d4-a2d9-ca562aaf513e,Hamburger,"7,50 TL",Burgerler,4.0
+f6c5c192-c054-4335-abb2-a3ebb3439645,Cheeseburger,"8,50 TL",Burgerler,5.0
+69e38947-4057-419b-848c-b45d9597ffaa,Lüks Burger,"8,50 TL",Burgerler,4.0
+47a59780-d51f-4f89-bd33-fd8ec6df0a15,Islak Hamburger,"7,50 TL",Burgerler,14.0
+76ad1621-f680-48ee-87f7-953eac9988d6,Izgara Köfte,"30,00 TL",Kebaplar & Izgaralar,3.0
+E4500F41-C4D3-485A-B9B1-5A524B1DF3E0,Izgara Köfte (1 kg.) (Pişirilmiş),"140,00 TL",Kebaplar & Izgaralar,3.0
+6f7d10ba-5051-47da-8e55-6251ef0868e5,Yarım Ekmek Arası Köfte,"20,00 TL",Ekmek Arası Ürünler,1.0
+f590f63c-87fa-4ce6-a317-12bce0b0469f,Zeytinyağlı Yaprak Sarma (250 gr.),"12,00 TL",Diğer Lezzetler,5.0
+c880cc76-a6c4-4f93-868f-38bf47f4bfde,Çiğ Köfte Dürüm,"5,00 TL",Çiğ Köfteler,0.0
+9855ab67-0326-46e2-8553-a884483e98d7,Mega Çiğ Köfte Dürüm,"7,00 TL",Çiğ Köfteler,0.0
+26d182a1-04cb-43fb-b7b1-22862fc42eae,Ultra Mega Çiğ Köfte Dürüm,"9,00 TL",Çiğ Köfteler,0.0
+d3ea6690-e06e-478d-a56d-b2ac47ba474d,Duble Çiğ Köfte Dürüm,"11,00 TL",Çiğ Köfteler,0.0
+2f5890c1-f935-4a72-b8fb-525a87f2f7b8,Çiğ Köfte (200 gr.),"10,00 TL",Çiğ Köfteler,0.0
+9b55d64a-4ddd-46ba-a69b-840d9d33ec59,Çiğ Köfte (400 gr.),"20,00 TL",Çiğ Köfteler,0.0
+8dd3ede0-bb95-4076-861c-bcd54ac08ed6,Çiğ Köfte (500 gr.),"25,00 TL",Çiğ Köfteler,0.0
+2172acbe-8c79-4550-b7eb-d692f71d2c94,Çiğ Köfte (800 gr.),"40,00 TL",Çiğ Köfteler,0.0
+5cbc20e6-1414-4b8f-9923-e6093ee764b4,Çiğ Köfte (1 kg.),"50,00 TL",Çiğ Köfteler,0.0
+125b6d35-cd87-4287-bf9a-70effed7f945,Kaymaklı Kemalpaşa Tatlısı,"12,00 TL",Tatlılar,5.0
+bcaabdee-04dd-44b5-ba68-cef7fbc9cd24,Tahinli Kemalpaşa Tatlısı,"12,00 TL",Tatlılar,5.0
+a3444778-4c73-444b-825e-1bb58a80d3dd,Fırın Sütlaç,"12,00 TL",Tatlılar,5.0
+698953d4-bd55-494d-b7c9-0838ede35392,Atom Fırın Sütlaç,"17,00 TL",Tatlılar,5.0
+745a721c-d0c6-4b2f-957c-1dc430777cc0,Zeytinyağlı Yaprak Sarma (1 kg.),"40,00 TL",Kiloluk Ürünler,5.0
+2223ae93-6e6c-4414-b144-e203018d9c74,Zeytinyağlı Yaprak Sarma (500 gr.),"20,00 TL",Kiloluk Ürünler,5.0
+A2AE46C7-602B-4599-AF6E-EEE7096C6729,Izgara Köfte (500 gr.) (Pişirilmiş),"80,00 TL",Kiloluk Ürünler,3.0
+2f34ee64-eba1-4c72-9404-4938f4e82c65,Poşet,"0,25 TL",Poşet,5.0

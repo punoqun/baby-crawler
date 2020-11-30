@@ -1,0 +1,42 @@
+food_id,food_name,food_price,food_category,food_score
+a44f2a49-a85b-4c1f-933c-79c48ed6d15c,Mekik Dilim Fıstıklı Baklava,"31,00 TL",Şerbetli Tatlılar (Porsiyon),11.0
+575bbf51-64a0-427f-818a-f4fa31a2a6af,Cevizli Baklava,"23,00 TL",Şerbetli Tatlılar (Porsiyon),15.0
+4ddd2879-5ab4-46a4-998e-5a8b9f327bf1,Bülbül Yuvası (Dilim),"6,00 TL",Şerbetli Tatlılar (Dilim),5.0
+6fe8c606-c799-49b7-9568-9b187207f8b4,Supangle,"20,00 TL",Sütlü Tatlılar,4.0
+d90b67cf-4ab4-4f7d-9774-41ea67e3c084,Antep Fıstıklı Lokum (400 gr.),"40,00 TL",Lokumlar & Çikolatalar,5.0
+b5ea7ac9-1623-4e47-b57c-474e19f19a30,Karışık Lokum (300 gr.),"44,00 TL",Lokumlar & Çikolatalar,5.0
+da0dbb8f-4889-4f87-b958-417223a26100,Sultan Lokum (250 gr.),"44,00 TL",Lokumlar & Çikolatalar,5.0
+f5ecc645-ca32-42cb-8565-ce006b36d3df,İncirli Cevizli Lokum (300 gr.),"44,00 TL",Lokumlar & Çikolatalar,7.0
+b52a88b0-ed0b-4fdb-b18f-1e8e516c6e84,Gül Aromalı Lokum (300 gr.),"31,00 TL",Lokumlar & Çikolatalar,9.0
+0a5a433e-46d3-4931-b321-888dc86b8446,Fındıklı Lokum (300 gr.),"36,00 TL",Lokumlar & Çikolatalar,5.0
+85807bc9-1dc9-4b50-adfd-42c99eabf79c,Madlen Çikolata (384 gr.),"76,00 TL",Lokumlar & Çikolatalar,6.0
+7646754f-bcf7-41e6-97ea-8f273bd4f643,Çikolata Kaplı Antep Fıstıklı Lokum (160 gr.),"39,00 TL",Lokumlar & Çikolatalar,6.0
+036851e0-6d66-43ce-a0a6-86b066a9d49a,Nar Aromalı Antep Fıstıklı Lokum (300 gr.),"47,00 TL",Lokumlar & Çikolatalar,5.0
+8d36f1cb-8ed1-4b19-8aa8-459ef485d27d,Sarma Karışık Meyve Aromalı Lokum (250 gr.),"33,00 TL",Lokumlar & Çikolatalar,5.0
+93261252-4746-4f84-b03b-8bc2b3ef0090,Çikolata Kaplı Saray Helvası (190 gr.),"18,00 TL",Lokumlar & Çikolatalar,6.0
+22923fd6-b5d3-4c1d-bf8f-0376b3826e4b,Kestane Şekeri (330 gr.),"72,00 TL",Lokumlar & Çikolatalar,5.0
+3f16a141-308f-4eca-8ca9-2c60fbe0dbc5,Antep Fıstıklı Lokum (300 gr.),"44,00 TL",Lokumlar & Çikolatalar,5.0
+a9a77c33-5351-4806-b3ae-9f39d3690c33,Duble Antep Fıstıklı Lokum (200 gr.),"44,00 TL",Lokumlar & Çikolatalar,5.0
+4cbc326f-e63d-45ce-98aa-e446095b7ce2,Saray Helvası (475 gr.),"33,00 TL",Lokumlar & Çikolatalar,5.0
+7579d292-f019-4fce-a3ca-14d339756bd8,Madlen Çikolata (600 gr.),"104,50 TL",Lokumlar & Çikolatalar,6.0
+a7867e40-8171-4b7f-9390-f15a0e7a10f7,Spesiyal Çikolata (600 gr.),"132,00 TL",Lokumlar & Çikolatalar,6.0
+907c6243-d515-4c02-8847-e5174f02a5d2,Fıstıklı Kesme Dondurma (500 gr.),"50,00 TL",Dondurmalar,3.0
+41b40a15-a7ea-4752-aecf-b76cc6d1a1cd,Sade Kesme Dondurma (500 gr.),"33,00 TL",Dondurmalar,7.0
+f1a3dd1e-ab93-447f-af47-9dd2f82de685,Coca-Cola (33 cl.),"8,00 TL",İçecekler,5.0
+465230f1-1465-4f97-842e-a0d176e6f2eb,Coca-Cola Light (33 cl.),"8,00 TL",İçecekler,5.0
+6ebee3f5-2004-4918-854c-68a745b7c85d,Coca-Cola Şekersiz (33 cl.),"8,00 TL",İçecekler,5.0
+22504054-08a3-40f8-b99d-ac8180c9ada2,Fanta (33 cl.),"8,00 TL",İçecekler,5.0
+4a03e076-1181-4b75-8b3f-16594f15af7f,Sprite (33 cl.),"8,00 TL",İçecekler,5.0
+97a7fe35-e3bb-4da9-855e-d7ed800d3aec,Cappy (33 cl.),"8,00 TL",İçecekler,5.0
+834e2e2b-2345-491e-93c1-28bf53855637,Fuse Tea (33 cl.),"8,00 TL",İçecekler,5.0
+c3e5c465-497e-4cb3-8f51-1f7dd4e48bfa,Limonlu Soda (20 cl.),"7,00 TL",İçecekler,5.0
+3c94c3a6-32cd-4659-9232-af25e048cf89,Soda (20 cl.),"7,00 TL",İçecekler,5.0
+8225280a-6bbb-4152-af57-becdae33cb5d,Su (50 cl.),"4,00 TL",İçecekler,3.0
+28189035-69ad-4e22-b35f-551e0e840580,İstanbul Şerbet,"20,00 TL",İçecekler,5.0
+aa912563-a865-43ad-a6a2-08cd9f2301ee,Peynirli Su Böreği (1 kg.),"72,00 TL",Kiloluk Börekler,3.0
+9edc0286-df75-468a-be15-18533bea73e4,Cevizli Baklava (250 gr.),"28,00 TL",Şerbetli Tatlılar (250 gr.),15.0
+73ea1135-ecc3-4003-8050-a609d30ebe67,Cevizli Baklava (500 gr.),"55,00 TL",Şerbetli Tatlılar (500 gr.),15.0
+517f25b9-4d87-4f4e-8e91-036f60090412,Cevizli Baklava (1 kg.),"109,00 TL",Şerbetli Tatlılar (1 kg.),15.0
+38c58307-a16b-40ed-a816-5ce455ff1934,Fıstıklı Özel Kare Baklava (1 kg.),"165,00 TL",Şerbetli Tatlılar (1 kg.),11.0
+a7bb981e-f43a-4643-bd94-90741b6fa990,Mini Ekler (500 gr.),"40,00 TL",Diğer Tatlılar,5.0
+f8137515-f404-49c8-95e3-4d5054edc6bd,Mini Ekler (1 kg.),"75,00 TL",Diğer Tatlılar,5.0

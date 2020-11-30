@@ -1,0 +1,24 @@
+food_id,food_name,food_price,food_category,food_score
+0141b186-7772-47d3-8455-ef5fa8316023,Kırmızı Beyaz Menü,"43,00 TL",Menüler,3.0
+D7151C3A-DB6C-4D5D-A73E-C993F982A502,Kırmızı Menü,"56,00 TL",Menüler,3.0
+F7A4CE66-258B-48CE-A2A0-AB3C0A31DA8E,Beyaz Menü,"40,00 TL",Menüler,3.0
+32b01681-3011-4c2b-b7ab-c50e6d199c20,Menü 1,"28,00 TL",Menüler,30.0
+93cfea38-b3df-46f7-b082-a430d1cbd0a5,Menü 2,"32,00 TL",Menüler,9.0
+2423abc0-b861-40eb-b5d7-c537fe2a50b7,Menü 3,"32,00 TL",Menüler,7.0
+2e2347a9-06a2-4331-95af-9952c2e8a37f,Menü 4,"21,00 TL",Menüler,4.0
+0d1d80bc-cb0f-4b26-ae2e-7b7d828e7905,Menü 5,"27,00 TL",Menüler,2.0
+B8C8F564-E40A-4FFF-B084-CD7DFAC2B09A,Menü 7,"102,00 TL",Menüler,5.0
+fa416001-0b60-428c-9cdc-3d51fd006119,Adana Dürüm,"24,00 TL",Dürümler,59.0
+01c7f8ea-4a53-47ff-ba2e-b57867b6bed5,Kuzu Ciğer Dürüm,"28,00 TL",Dürümler,19.0
+bb14d93c-f5ab-4e70-ae64-407949f30387,Kuzu Şiş Dürüm,"28,00 TL",Dürümler,19.0
+51ccc3ad-89a4-4229-af05-e322aaa300da,Tavuk Şiş Dürüm,"16,00 TL",Dürümler,32.0
+c885d838-ff81-417f-9519-08f4af13b5e4,Izgara Köfte Dürüm,"23,00 TL",Dürümler,20.0
+a4dffb3e-8c57-4268-a510-f56bbfe24d9d,Ekmek Arası Izgara Köfte,"23,00 TL",Ekmek Arası Ürünler,9.0
+B1B9754C-9F59-4145-9205-C87E1D9B59E9,Sütlaç (100 gr.),"5,00 TL",Tatlılar,5.0
+EC76E5F9-2B7E-470B-B19B-EFA6992CE656,Kazandibi (100 gr.),"5,00 TL",Tatlılar,5.0
+88434AB4-2E03-445B-9BD9-7C705A9727AF,Keşkül (100 gr.),"5,00 TL",Tatlılar,5.0
+827EFA82-1D1F-43FB-B975-3A8C9A3F95B6,İrmik Helvası,"5,00 TL",Tatlılar,5.0
+AC911643-81D6-4536-A29D-6E11F0058525,Puding (100 gr.),"5,00 TL",Tatlılar,5.0
+7870ED3B-5DEF-4B40-BA6C-DFEA7D4007B9,Fanta (25 cl.),"4,50 TL",İçecekler,5.0
+77864130-CA08-474B-90BA-7D0C08C1EEE0,Sprite (25 cl.),"4,50 TL",İçecekler,5.0
+9d7b2f85-181c-43c9-824a-ab22b4f3d8b5,Poşet,"0,25 TL",Poşet,4.0

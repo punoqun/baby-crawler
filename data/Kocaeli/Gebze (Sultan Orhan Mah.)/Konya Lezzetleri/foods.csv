@@ -1,0 +1,29 @@
+food_id,food_name,food_price,food_category,food_score
+53396616-e6a3-4afa-b878-16801359e3fb,Kuşbaşılı Pide,"23,00 TL",Pideler,6.0
+4e296130-05e8-496c-ba03-6646cf98e670,Kıymalı Kaşarlı Mevlana Pide,"24,00 TL",Pideler,6.0
+4b5749d2-f847-4aa0-b37a-541656196333,Kuşbaşılı Kaşarlı Mevlana Pide,"26,00 TL",Pideler,11.0
+3de07a8b-9f9a-4b4d-8609-c709624c5338,Peynirli Pide,"20,00 TL",Pideler,6.0
+c02bbde7-56ef-457a-a4f1-04e8ca5366d9,Peynirli Sebzeli Pide,"23,00 TL",Pideler,6.0
+b6533896-7e50-420f-835a-148be36d9931,Peynirli & Sebzeli & Mantarlı Pide,"24,00 TL",Pideler,6.0
+12e949e3-931e-44e6-bcc6-20ce8d2e4ca7,Sucuklu Kaşarlı Mevlana Pide,"24,00 TL",Pideler,6.0
+2b4d4595-a04e-42cd-a839-271f0597068a,Ispanaklı Kaşarlı Mevlana Pide,"20,00 TL",Pideler,6.0
+08a1fd4b-462c-4bce-a909-95353580e51b,Kavurmalı Kaşarlı Mevlana Pide,"28,00 TL",Pideler,6.0
+852208e8-a0c5-4b41-8547-74925aaf4219,Bıçak Arası Pide,"25,00 TL",Pideler,11.0
+d33b0916-9874-4ad1-9d84-daaa50845f86,Bıçak Arası Mevlana Pide,"28,00 TL",Pideler,6.0
+cc21fbe7-5243-4445-9120-7e2603ab9616,Adana Kebap,"24,00 TL",Kebaplar & Izgaralar,7.0
+b3c969a5-05d5-44a5-aad8-8fcb0f0930c9,Urfa Kebap,"24,00 TL",Kebaplar & Izgaralar,5.0
+55c663b1-118f-4027-9de3-3c82b9d8915f,Tavuk Şiş,"21,00 TL",Kebaplar & Izgaralar,3.0
+11fdb7df-eae5-4c0c-8c29-709f99b0a8a7,Tavuk Kanat,"23,00 TL",Kebaplar & Izgaralar,3.0
+37105e63-75e1-46fc-8623-34260d7d1658,Kuzu Şiş,"39,00 TL",Kebaplar & Izgaralar,5.0
+e9b5c08b-8607-4d2f-ac53-df99327cfdcb,Çöp Şiş,"40,00 TL",Kebaplar & Izgaralar,5.0
+e0889fd9-8017-482e-91ac-90d007dacca7,Izgara Köfte,"22,00 TL",Kebaplar & Izgaralar,4.0
+04d7c33b-9092-433c-9702-bd96e2caad66,Fırın Kebabı,"40,00 TL",Diğer Lezzetler,5.0
+008c5829-fde0-44fb-a1a7-a7b169d72802,Tirit Kebabı,"37,00 TL",Diğer Lezzetler,5.0
+915d1713-359b-4aa9-b3fd-77a34ee1b93d,Et Sac Kavurma,"42,00 TL",Diğer Lezzetler,10.0
+4829cb4d-ea1e-42cd-be10-8b8575d3ba87,Çoban Salata,"9,00 TL",Salatalar,5.0
+3ee3a506-6e74-4a51-afca-0ed6c9d2664b,Fırın Sütlaç,"10,00 TL",Tatlılar,5.0
+a888c891-594c-40bd-99c8-7eee877e9ae1,Sac Arası,"14,00 TL",Tatlılar,5.0
+e8d13f31-699d-48d7-a2c2-ecd8d3efd556,Künefe,"14,00 TL",Tatlılar,5.0
+29ca8930-e386-4049-86cb-387f2bf4d631,Limonlu Soda,"3,50 TL",İçecekler,5.0
+7067e061-948f-4e19-b581-e7331a950959,Su,"2,00 TL",İçecekler,7.0
+9540db11-d73c-4694-b9e6-0ca3ef10a962,Poşet,"0,25 TL",Poşet,5.0

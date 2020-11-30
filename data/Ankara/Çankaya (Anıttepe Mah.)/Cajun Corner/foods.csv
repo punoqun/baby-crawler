@@ -1,0 +1,50 @@
+food_id,food_name,food_price,food_category,food_score
+97127410-b17d-4e65-b77e-07d0d3ccb860,Menü 1,"29,50 TL",Ekonomik Menüler,21.0
+de3ad86c-cbb9-4aa2-979f-30119d811f80,Menü 2,"56,00 TL",Ekonomik Menüler,15.0
+8ebceb20-ba93-4212-9128-f93a7e234694,Menü 3,"79,00 TL",Ekonomik Menüler,9.0
+e28e9d58-812d-417f-8a98-7934a503ab8b,Menü 4,"96,00 TL",Ekonomik Menüler,13.0
+6247fef9-8186-4433-a525-3ce60ccb2ad6,Menü 5,"25,00 TL",Ekonomik Menüler,14.0
+f090f35c-bc7e-4574-a221-bb06543bfee9,Menü 6,"35,00 TL",Ekonomik Menüler,6.0
+173c2b88-9900-4802-ab31-38a2c47a97ee,Menü 7,"28,50 TL",Ekonomik Menüler,5.0
+f8aa5354-b852-4474-936f-8a13cee8db23,Menü 8,"34,00 TL",Ekonomik Menüler,7.0
+a89ce62f-0718-486e-9bc9-92a108a244d4,Menü 9,"32,00 TL",Ekonomik Menüler,9.0
+5320d0d5-398c-4216-b491-e0e173643bf1,Double Corner Sosisli Menü,"29,50 TL",Ekonomik Menüler,7.0
+a3b11eca-ba36-4e60-aeb5-e17d38b13e1c,Cajun Hot Wings Menü,"30,50 TL",Ekonomik Menüler,4.0
+0f5ae8c5-5bd5-40d6-bac2-2bb9e7d45542,Acılı Cajun Baharatlı Tavuk Sepeti Menü,"30,50 TL",Ekonomik Menüler,1.0
+95EA92FB-2BE0-4A9B-A694-129777374A45,Acılı Cajun Baharatlı Tavuk Sepeti,"28,00 TL",Başlangıçlar,-1.0
+40f43ae6-c09d-4246-b399-3543c339f377,Baharatlı Soğan Halkası,"15,00 TL",Başlangıçlar,5.0
+8276606F-9A44-4A86-9726-3D99230D29D2,Baharatlı Soğan Halkası (6 Adet),"8,00 TL",Başlangıçlar,5.0
+9d6ef08a-1fc2-4020-8221-cfca54ff81bb,Cajun Baharatlı Tavuk Dürüm,"23,00 TL",Başlangıçlar,2.0
+91d91172-991f-4d68-b581-da28e9faaee9,Cajun Baharatlı Tavuk Sepeti,"27,00 TL",Başlangıçlar,5.0
+e7f40925-1356-4102-beb8-70122d61ca3f,Kaşarlı Mantarlı Cajun Şiş,"29,50 TL",Başlangıçlar,2.0
+d628291e-65c2-4621-af88-7d780936d0f6,Hamburger,"29,50 TL",Burgerler,5.0
+27eb44d9-b3c1-47ab-97f4-cf97f9e1c06d,Cheeseburger,"29,50 TL",Burgerler,5.0
+08cbc9ec-4607-4908-9e79-83efe589492c,Ranchero Burger,"32,50 TL",Burgerler,5.0
+f0f883aa-3d6e-4b5c-bf03-c948338779e0,Onion Rings Burger,"32,50 TL",Burgerler,5.0
+7476954a-e2d2-4dda-a3b8-b65f63ce1235,Cajun Burger,"23,50 TL",Burgerler,2.0
+c191dcdf-bfa8-4fd6-967a-42d83d5ec47f,Double Corner Burger,"45,00 TL",Burgerler,5.0
+62725917-b68c-4d37-8dd5-7203b417312b,Bazlamalı Tavuk,"33,00 TL",Ana Yemekler,3.0
+6dfe6f6f-45f8-47ad-a340-ac46860e52b4,Bazlamalı Biftek,"36,00 TL",Ana Yemekler,5.0
+621ee449-2367-4a3e-b9c3-98a056f662a2,Tavuk Burrito,"30,00 TL",Ana Yemekler,3.0
+42783910-b0e5-499c-88a6-5e3b5b82e2be,Beef Burrito,"35,00 TL",Ana Yemekler,5.0
+12410f4b-ef77-43b1-a872-9db8b99a1d8f,Beef Quesadilla,"36,00 TL",Ana Yemekler,5.0
+f4ff4a52-b844-4048-8af7-15deb7c3874a,Ranchero Dürüm,"32,50 TL",Dürümler,7.0
+5acdefc0-66f3-43e4-84fc-5cf6fb704e4e,Kaşarlı Antrikot Dürüm,"34,50 TL",Dürümler,7.0
+10a8b7e3-da0b-4bf9-97bf-6d8446ef2f0b,Sebzeli Noodle,"26,00 TL",Noodles,4.0
+b11a4f9c-d5d9-4695-b48e-726c64a18a1e,Dana Etli Noodle,"29,50 TL",Noodles,4.0
+0dd9ac55-0e4e-4d98-818f-a6898265b508,Çilekli Donut,"8,50 TL",Donutlar,3.0
+606a226a-edf5-44df-86d6-83d11fc3245e,Çİkolatalı Donut,"8,50 TL",Donutlar,3.0
+c89f6bc9-c9de-4637-803a-15a31db3f70a,Milky Zebra Donut,"8,50 TL",Donutlar,3.0
+4f5878f7-4459-4811-aa27-3bf91a3542bb,Queen V Donut,"8,50 TL",Donutlar,3.0
+e3bb67fb-67a0-4715-9050-6d56775ee15c,Raspberry Bliss Donut,"8,50 TL",Donutlar,3.0
+2a0c2c9f-cadc-406f-a913-97c4592e7b06,Strawjell Jam Donut,"8,50 TL",Donutlar,3.0
+9bbdd716-c776-4e1a-9857-6ddd297ab23b,Algida Maraş Usulü Cup Dondurma (100 ml.),"5,50 TL",Dondurmalar,5.0
+21800fb6-5977-4d91-bada-d93dfe8255e2,Algida Carte d'Or Mini Cup Çikolata Karnavalı (110 ml.),"7,50 TL",Dondurmalar,5.0
+569ac82f-89ef-4315-a220-382b2bae8dae,Algida Carte d'Or Mini Cup Çilekli Yoğurtlu (110 ml.),"7,50 TL",Dondurmalar,5.0
+e7d3b79a-8f51-4e6f-b9a3-dcad96ac2b6e,Dr. Pepper (33 cl.),"13,00 TL",İçecekler,5.0
+e89ff74b-53da-4655-a954-836f328fa6d8,Schweppes (25 cl.),"6,50 TL",İçecekler,5.0
+81b27470-ad37-4d2b-8ae2-6b4903b24b9a,Su,"2,50 TL",İçecekler,5.0
+A19651BB-7B9F-439D-B10B-07D4967E0EAE,Schweppes (1 L.),"10,00 TL",İçecekler,5.0
+2c995f00-3cd9-4774-a47e-66f81af36a66,"Fanta (2,5 L.)","13,00 TL",İçecekler,5.0
+2EB627BD-BF1A-4D00-93D2-81311787F8D1,"Sprite (2,5 L.)","13,00 TL",İçecekler,5.0
+83fd9f9e-edf1-49da-9325-88a32e28a440,Poşet,"0,25 TL",Poşet,5.0

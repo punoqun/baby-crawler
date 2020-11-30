@@ -1,0 +1,54 @@
+food_id,food_name,food_price,food_category,food_score
+cc60682c-7c8c-48c2-aa40-26a5d4775d0d,Menü 1,"19,00 TL",Ekonomik Menüler,24.0
+c5357793-9609-4d4f-a633-66f11b0062a6,Menü 3,"80,00 TL",Ekonomik Menüler,2.0
+fc38d837-7283-49ad-ad2b-a4416a5e6943,Menü 4,"75,00 TL",Ekonomik Menüler,6.0
+204ebea2-1f64-4113-adc3-4ece94f9b63d,Menü 5,"125,00 TL",Ekonomik Menüler,7.0
+131ec18c-c6a8-423a-9810-638f906921f0,Özaydın Special Menü,"75,00 TL",Ekonomik Menüler,6.0
+c38baf67-be2a-407c-bd84-d6a9cc2716e3,Pide Menü,"19,00 TL",Ekonomik Menüler,16.0
+cbecfb9d-9917-41dc-bad0-d0cc39279f1b,"Pide Menü (1,5 porsiyon)","27,00 TL",Ekonomik Menüler,16.0
+566e1f91-91cb-4b40-bfc8-6adabecd7287,2'li Lahmacun Menü,"27,00 TL",Ekonomik Menüler,7.0
+OZAY010301,Fındık Lahmacun,"8,00 TL",Lahmacunlar,6.0
+OZAY010302,Lahmacun,"13,00 TL",Lahmacunlar,11.0
+OZAY010303,Kıymalı & Kaşarlı Lahmacun,"14,00 TL",Lahmacunlar,9.0
+OZAY010102,Kıymalı Pide,"17,00 TL",Pideler,23.0
+DD2EC642-D351-443A-B9A0-1018DD9FFD2D,Salamlı Kaşarlı Pide,"20,00 TL",Pideler,15.0
+411E3928-6874-4578-A9F8-3DA9CF2AD01C,Kuşbaşılı Yumurtalı Pide,"24,00 TL",Pideler,16.0
+43DB2270-3EF7-42A2-8A0D-C2D95DFA9C4D,Kuşbaşılı Mantarlı Pide,"24,00 TL",Pideler,17.0
+5F955D92-8DA7-4C28-B8A8-317A4E0BDAB8,Kuşbaşılı Mantarlı Kaşarlı Pide,"26,00 TL",Pideler,17.0
+F29EB8F5-F13A-49C8-80D6-89D3C31BB9FA,Kıymalı Kaşarlı Mantarlı Pide,"22,00 TL",Pideler,19.0
+D8012862-FCED-4E87-BA30-BD0619677430,Kıymalı Mantarlı Pide,"20,00 TL",Pideler,19.0
+58EE850C-90F4-4E82-8FDA-2F33D12C9E38,Sucuklu Yumurtalı Kaşarlı Pide,"20,00 TL",Pideler,15.0
+5103d3c3-6533-4290-b7cd-29ed9b0ce49b,Kıymalı Yumurtalı Pide,"17,00 TL",Pideler,18.0
+OZAY010111,Kıymalı Kaşarlı Pide,"20,00 TL",Pideler,18.0
+58824af7-9dfa-4a2b-85b4-4192b858f7d4,Kıymalı Kaşarlı Yumurtalı Pide,"22,00 TL",Pideler,18.0
+OZAY010103,Peynirli Yumurtalı Pide,"17,00 TL",Pideler,15.0
+OZAY010104,Kaşarlı Pide,"18,00 TL",Pideler,15.0
+OZAY010105,Kuşbaşılı Pide,"23,00 TL",Pideler,16.0
+OZAY010108,Ispanaklı Peynirli Pide,"17,00 TL",Pideler,15.0
+21488c48-6025-45c4-84ec-e4ba609ee72f,Peynirli Maydanozlu Yumurtalı Pide,"18,00 TL",Pideler,15.0
+2474d2a6-c20f-4989-b285-f513da166516,Sebzeli Pide,"18,00 TL",Pideler,15.0
+OZAY010109,Kaşarlı Yumurtalı Pide,"18,00 TL",Pideler,15.0
+a0bfba9b-b31c-4a6e-b75e-b5f35d315306,Ispanaklı Kaşarlı Pide,"18,00 TL",Pideler,15.0
+OZAY010110,Kuşbaşılı Kaşarlı Pide,"25,00 TL",Pideler,21.0
+OZAY010112,Mantarlı Kaşarlı Pide,"20,00 TL",Pideler,16.0
+OZAY010113,Sucuklu Kaşarlı Pide,"20,00 TL",Pideler,15.0
+OZAY010115,Tavuklu Kaşarlı Pide,"24,00 TL",Pideler,15.0
+2e49285c-a3ac-4d31-ad63-3d2f13bb32ff,Sürmeli Yumurtalı Pide,"17,00 TL",Pideler,15.0
+25dea4f1-3a2b-4d5e-bea3-31a7ea6d5dde,Kıymalı Sürmeli Yumurtalı Pide,"17,00 TL",Pideler,18.0
+8dd2140d-4b24-4c28-8902-217627d83c98,Acı Turşu Biberli Pide,"20,00 TL",Pideler,15.0
+95f3bd4c-be5e-49a7-a476-b39e0e99a26a,Pidezza,"20,00 TL",Pideler,5.0
+OZAY010503,Tavuk Şiş,"30,00 TL",Kebaplar & Izgaralar,5.0
+8d0a4f7c-fedf-4f2d-b701-d688c45059a5,Izgara Köfte,"30,00 TL",Kebaplar & Izgaralar,5.0
+OZAY010703,Tavuk Şiş Dürüm,"17,00 TL",Dürümler,5.0
+OZAY010704,Izgara Köfte Dürüm,"17,00 TL",Dürümler,5.0
+OZAY010401,Kiremitte Köfte,"30,00 TL",Kiremitte Ürünler,5.0
+OZAY010402,Kiremitte Kaşarlı Köfte,"30,00 TL",Kiremitte Ürünler,5.0
+OZAY010403,Kiremitte Tavuk Sote,"28,00 TL",Kiremitte Ürünler,5.0
+OZAY010404,Kiremitte Kaşarlı Tavuk Sote,"32,00 TL",Kiremitte Ürünler,5.0
+OZAY010405,Kiremitte Kaşarlı Mantar,"30,00 TL",Kiremitte Ürünler,6.0
+bd4d31e2-8ce2-4f8f-8944-e9241f0eb6c6,Pizza Veggie,"28,00 TL",Pizzalar,5.0
+OZAY010601,Karışık Pizza,"30,00 TL",Pizzalar,5.0
+9A840A27-065D-4C6E-B449-E239C417D1F8,Katmer Tatlısı,"17,00 TL",Tatlılar,7.0
+OZAY011002,Tahinli Pide,"22,00 TL",Tatlılar,15.0
+baa28902-3c9e-44d9-a355-4a1c1e47df86,Niğde Gazozu (25 cl.),"5,00 TL",İçecekler,5.0
+54c9cdae-26e3-470b-b05e-da552f3c3511,Poşet,"0,25 TL",Poşet,5.0

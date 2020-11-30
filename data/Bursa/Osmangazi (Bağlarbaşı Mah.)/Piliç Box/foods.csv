@@ -1,0 +1,84 @@
+food_id,food_name,food_price,food_category,food_score
+6b9b8587-c5ab-40ce-8971-e8d8d7b63de4,Çevirme Tavuk Tandır Menü,"29,50 TL",Menüler,3.0
+5bf645ab-17c7-4e19-bc11-4aa66d13637a,Gamer Menü,"80,00 TL",Menüler,5.0
+e4248e32-5f8f-429f-8b2d-3837d973a641,Piliç Çevirme (Çeyrek) Menü,"25,50 TL",Menüler,4.0
+ff9aa631-c518-4390-90bb-0a8ee11658bf,Piliç Çevirme Bonfile Menü,"27,50 TL",Menüler,4.0
+933a4eb8-c742-4a36-94c7-e9cc64db57cc,Piliç Çevirme Kalçalı But Menü,"27,50 TL",Menüler,5.0
+1ff8bfe2-b616-4578-bddc-1affc9c94dff,Yarım Piliç Çevirme Menü,"27,50 TL",Menüler,4.0
+8145125f-91cc-4407-a3dd-57ab09610f91,Atom Ekmek Arası Köfte Menü,"21,50 TL",Kampanyalı Menüler,3.0
+31a71213-5b97-439b-8ea8-6db419c9f2eb,Atom Ekmek Arası Tavuk Döner Menü,"21,50 TL",Kampanyalı Menüler,3.0
+f93fe2fd-c026-447d-92a8-67702fc1f4ea,Atom Ekmek Arası Tavuk Menü,"21,50 TL",Kampanyalı Menüler,3.0
+ba688947-bbcc-41fc-940d-ce3132491a83,Ekspres Burger Menü,"24,00 TL",Kampanyalı Menüler,4.0
+ace93124-ae67-4df5-a9e7-780ac5eac7ca,Köfte Dürüm Menü,"24,00 TL",Kampanyalı Menüler,3.0
+552381ce-5e21-49ca-997c-7ff9cf080b73,Tavuk Döner Dürüm Menü,"21,50 TL",Kampanyalı Menüler,3.0
+05a44b9c-cd62-4b34-996f-5ee96979af15,Tavuk Pirzola Dürüm Menü,"24,00 TL",Kampanyalı Menüler,3.0
+5514aec6-f790-4376-a4b5-585b491ed339,Tombik Ekmek Arası Tavuk Döner Menü,"21,50 TL",Kampanyalı Menüler,3.0
+0622b2cb-c98d-405d-aa5b-3261e9c007b9,Tombik Ekmek Arası Tavuk Pirzola Menü,"24,00 TL",Kampanyalı Menüler,3.0
+2bd65941-d4f9-45eb-bdac-59ea8d6247e3,Maç Menüsü (1 Kişilik),"24,00 TL",Çıtır Menüler,5.0
+806077f6-1a08-424d-9000-d4f6fa465e0e,Kovada Çıtır Tavuk Menü (Tek Kişilik),"27,50 TL",Çıtır Menüler,5.0
+635c4d53-7413-49ff-a905-21c7f1d8b02e,Çıtır Kanat Menü,"28,50 TL",Çıtır Menüler,8.0
+981eb9c4-f968-42ad-9bda-5875e87a029a,Çıtır Kök Kanat Menü,"28,50 TL",Çıtır Menüler,8.0
+f1bbdf6a-e333-4492-9a5e-7b0d28610e22,Çıtır Lokum Menü,"28,50 TL",Çıtır Menüler,7.0
+1b645588-7334-45be-b667-25fcff037ebf,Çıtır Tavuk Parçaları Menü,"28,50 TL",Çıtır Menüler,5.0
+1da9c8bd-524e-4d8d-b67c-e97d48735861,Çıtır Karışık Tek Kişilik Menü,"29,50 TL",Çıtır Menüler,7.0
+74c65982-411e-4e64-8cc6-d0709d513121,Maç Menüsü (2 Kişilik),"45,00 TL",Çıtır Menüler,5.0
+f3547944-fae5-4cbc-9723-6f2f1cb95c98,Kovada Çıtır Tavuk Menü (İki Kişilik),"49,50 TL",Çıtır Menüler,5.0
+18075c8c-41b4-4434-ac73-064b710fbb36,Çıtır Karışık İki Kişilik Menü,"52,50 TL",Çıtır Menüler,7.0
+d80af10f-10d5-4421-aeaf-1f126c141122,Plaza Kahvaltı,"18,50 TL",Kahvaltılıklar,8.0
+8b55f179-f7e0-4aa3-ba32-79b8dd677850,Fit Omlet,"17,50 TL",Kahvaltılıklar,5.0
+46645c4d-aca5-4ba7-a537-151cbdb31066,Karışık Omlet,"17,50 TL",Kahvaltılıklar,5.0
+f5abd673-8eb6-4e3f-a928-1fa0298919e6,Menemen,"17,50 TL",Kahvaltılıklar,9.0
+a6f48e12-fd7d-47e1-87ea-146367a5fd09,Kaşarlı Omlet,"17,50 TL",Kahvaltılıklar,5.0
+fbf6b249-077c-4990-96da-0e389319571e,Kalçalı But Çevirme,"20,00 TL",Piliç Çevirmeler,6.0
+29ab5e1c-8fe1-4f33-957b-8474d6d503ce,Piliç Çevirme (Tam) (2 Adet),"58,00 TL",Piliç Çevirmeler,4.0
+9e0db01b-1cf6-4ad7-8615-7a58ea463b40,Piliç Çevirme (Yarım),"16,50 TL",Piliç Çevirmeler,4.0
+318d12a9-ac16-4d0b-b03b-72b9cec64946,Tavuk Bonfile Çevirme,"20,00 TL",Piliç Çevirmeler,3.0
+b828df87-6f02-4f17-a5c1-64c965d047b7,Tavuk Tandır Çevirme,"26,50 TL",Piliç Çevirmeler,3.0
+6a1b4aeb-ab84-4ee8-a4da-c9a74f11d020,Süper Soya Soslu Tavuk Tava,"28,50 TL",Tavada Ürünler,15.0
+cabe6a38-a1f1-43cc-a2e8-3d408539cb10,Süper Piliç Çoban Kavurma,"28,50 TL",Tavada Ürünler,14.0
+3737b5ea-258e-420b-97ae-2d53734cbace,Acı Soslu Tavuk Tava,"28,50 TL",Tavada Ürünler,5.0
+be2990e0-7fbc-4866-b81b-728d5f6b4336,Ekstrem Tavuk Tava,"29,50 TL",Tavada Ürünler,5.0
+a9b4deb9-4227-4cd3-80b5-e9b19c3f5a62,Pideli Köfte,"24,50 TL",Izgaralar,3.0
+455b2973-bec4-4fe9-8a96-06e566060ed3,Izgara Köfte,"27,50 TL",Izgaralar,3.0
+bea69fca-3495-44e7-b4df-39c22e7d7712,Süper Lokum,"29,50 TL",Izgaralar,15.0
+480a18f9-ac96-4f3b-b694-6a3fc5dbeb7c,Süper Tavuk Kanat,"29,50 TL",Izgaralar,14.0
+afbd7a82-a002-46d5-823f-777a4389b40f,Süper Tavuk Pirzola,"29,50 TL",Izgaralar,13.0
+e06533b3-8533-4c7c-b474-82f7314e4f2b,Karışık Tavuk Izgara,"35,00 TL",Izgaralar,3.0
+047ccb58-76bc-46fd-a8ac-67d0d733880d,Karışık Tavuk Kanat,"41,00 TL",Izgaralar,4.0
+a3424d13-0800-4e98-814d-2b82c8b7f3b4,Baget Ekmek Arası Tavuk Döner,"13,50 TL",Tavuk Dönerler,5.0
+6b41a29f-7bcd-46d1-afc8-f41aebbc6c8b,Pilav Üstü Tavuk Döner,"22,00 TL",Tavuk Dönerler,4.0
+6db2eb4e-aaf4-46f1-b3b6-6589625eb8a8,Ekspres Burger,"22,00 TL",Burgerler,4.0
+b21806eb-6880-42ce-8870-4341f45ccf97,Yarım Ekmek Arası Köfte,"17,50 TL",Ekmek Arası Ürünler,3.0
+220c6148-d7bc-49c3-9de4-6a23452a2959,Baget Ekmek Arası Izgara Köfte,"16,50 TL",Ekmek Arası Ürünler,5.0
+b47aa03a-cab2-4f53-8ae5-e9e9533ff4d1,Baget Ekmek Arası Tavuk Pirzola,"16,50 TL",Ekmek Arası Ürünler,5.0
+129c54ea-f110-4c42-918d-455aec32520c,Baget Ekmek Arası Körili Tavuk,"17,50 TL",Ekmek Arası Ürünler,5.0
+b4dcd2bd-deff-4582-abb5-4ebc433022e2,Baget Ekmek Arası Kekikli Kremalı Tavuk,"17,50 TL",Ekmek Arası Ürünler,5.0
+2fa7d02b-7437-4b91-8261-8cd08ace3ee4,Kremalı Mantarlı Penne,"19,00 TL",Makarnalar,5.0
+d2953bc8-c262-4c4b-acc7-0e8d9d8995fd,Patates Kızartması,"12,00 TL",Yan Ürünler,5.0
+cd703fe0-a49d-4ad0-b291-07587d7be06e,Duble Patates Kızartması,"17,50 TL",Yan Ürünler,5.0
+a0bcb905-3343-4eac-a8c7-54a32dd0bd84,Mozzarella Sticks (8 Adet),"16,00 TL",Yan Ürünler,5.0
+a1ef7715-c284-4066-b812-ccbfb4189be9,Patatesli Tavuk Tenders,"22,50 TL",Yan Ürünler,3.0
+7a0dfd50-c164-498b-9c3b-d41dabd4abcb,Sigara Böreği (5 Adet),"9,50 TL",Yan Ürünler,5.0
+e204d2e4-cfbd-498e-a4ae-bfb5ad9dd28d,Soğan Halkası (10 Adet),"12,50 TL",Yan Ürünler,5.0
+af2a9bd1-1f6f-4f03-85c3-ae552dfa3f9d,Yoğurt,"6,00 TL",Yan Ürünler,5.0
+b70ccd29-2768-4ffe-96a3-927e9bd570b2,Bulgur Pilavı,"9,50 TL",Yan Ürünler,6.0
+9a44e828-7ead-4618-8593-ea0ffe4a05c1,Pirinç Pilavı,"9,50 TL",Yan Ürünler,5.0
+a983d692-6182-43d3-870b-c3b0d2111fdb,Beyaz Peynirli Salata,"22,00 TL",Salatalar,8.0
+0a550bd8-d142-4f32-9b54-6e0c9b851710,Çıtır Tavuklu Salata,"24,00 TL",Salatalar,9.0
+0803aef1-199c-4c91-b174-96d4d5dd1bc3,Izgara Hellim Salata,"25,00 TL",Salatalar,8.0
+ea29d478-05f7-4a19-bff2-a15980e6e303,Mevsim Salatası,"14,50 TL",Salatalar,5.0
+7e11f098-b8ea-4a3b-827a-6597f9d7a93b,Tavuklu Salata,"24,00 TL",Salatalar,7.0
+90f11cde-a3ee-48b8-84b2-19cb1d8709c3,Eker Puding,"4,50 TL",Tatlılar,5.0
+a65c2184-2406-4a18-b430-043750f5ed1e,Frambuazlı Cheesecake (Dilim),"14,00 TL",Tatlılar,6.0
+a56ff793-cbb8-4c42-9e69-fa8c717ebdc4,Limonlu Cheesecake (Dilim),"14,00 TL",Tatlılar,5.0
+270ad055-959a-47d7-9afe-8f82ba841234,Sırlı Tatlı,"6,00 TL",Tatlılar,5.0
+7ffd5322-c7f1-4c19-b720-892761b05289,Uludağ Efsane Gazoz (25 cl.),"5,00 TL",İçecekler,5.0
+4a8e6fd5-bcaf-4cf8-9008-c00016252d39,Şıra (25 cl.),"7,00 TL",İçecekler,5.0
+4b046ae3-3770-4234-80c3-270685f3253e,Tavuk Kanat (1 kg.),"60,00 TL",Kiloluk Ürünler (Pişirilmiş),4.0
+4b45eb58-732a-4a27-b45d-c494348aa7b6,Izgara Köfte (1 kg.),"95,00 TL",Kiloluk Ürünler (Pişirilmiş),3.0
+fe03aa53-7898-4109-9c21-25ba254e471a,Acılı Ketçap,"2,00 TL",Soslar,5.0
+556eafa4-4a13-4811-a1fd-b225ccb7411b,Green Dip Sos,"2,00 TL",Soslar,5.0
+786d6a67-9ecd-4795-a622-8715f7679a04,Hellmann's Ketçap,"1,00 TL",Soslar,5.0
+df408779-c65d-4bd2-bcc6-d401b3304000,Hellmann's Mayonez,"1,00 TL",Soslar,5.0
+baa9c641-b8d8-4e18-85f0-f9ca5ca74fc4,Purple Dip Sos,"2,00 TL",Soslar,5.0
+7643bef2-6800-4b52-8707-b2d76c479b91,Poşet,"0,25 TL",Poşet,5.0

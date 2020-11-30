@@ -1,0 +1,73 @@
+food_id,food_name,food_price,food_category,food_score
+9ec4f2b6-1db7-4c99-947c-4c3f20f0b8a9,Beyaz Rüya Menü 1,"24,00 TL",Mezelig Menüleri,20.0
+aaa07b5a-d94f-4eea-bf2c-39bcf9dfb8e9,Beyaz Rüya Menü 2,"39,00 TL",Mezelig Menüleri,4.0
+51974901-bc54-4a7e-88c4-5c79690acccc,Patlıcan Aşkına Menü,"25,00 TL",Mezelig Menüleri,4.0
+20e69962-2f3d-4e0d-8c51-a6879fa655a0,Çiğ Börek Menü,"37,50 TL",Mezelig Menüleri,19.0
+00f4cf04-c760-4684-a567-cac36e60f9e0,Küçük Çilingir Menü,"45,00 TL",Mezelig Menüleri,5.0
+cce80586-e9e4-4d5e-9673-1ff082d791f9,Büyük Çilingir Menü,"65,00 TL",Mezelig Menüleri,5.0
+e8b41522-7ad5-4ac5-9160-964acc4540c4,MezeLig Zeytinyağlı Menü,"37,50 TL",Mezelig Menüleri,5.0
+d5f3b1e8-405a-4d28-8f40-a6c7116565fd,Altın Günü Menü,"24,00 TL",Mezelig Menüleri,5.0
+39c78cfa-572b-443c-87eb-2035400c0ee9,Acılı Ezme (100 gr.),"5,15 TL",Mezeler,5.0
+fa11f85c-40fb-4abe-9b12-a0ec7830f730,Arnavut Ciğeri (100 gr.),"8,95 TL",Mezeler,5.0
+2beb1f50-6c6f-4ae2-bd83-dda8b4e659fe,Atom (100 gr.),"5,15 TL",Mezeler,7.0
+465a32cb-8279-42cb-8e10-365cbe74d440,Babagannuş (100 gr.),"5,55 TL",Mezeler,5.0
+7f5d7f31-eadf-4897-a2bb-e20adf85833e,Beluga Mercimek Piyazı (100 gr.),"5,35 TL",Mezeler,7.0
+f6ee382e-155a-45fc-b484-6659d63dd91e,Börülce Piyazı (100 gr.),"5,15 TL",Mezeler,5.0
+8197b586-e39c-4a74-9cc4-d4a90e1d8b0d,Çerkez Tavuğu (100 gr.),"8,95 TL",Mezeler,4.0
+d7ae340c-2fa1-4a2c-8329-3bf199bc0a8a,Cunda Ezmesi (100 gr.),"6,35 TL",Mezeler,5.0
+a49f33ff-782d-4bd4-a88c-5cfefceb274e,Fava (100 gr.),"5,55 TL",Mezeler,5.0
+705a2ea8-9d3f-426d-a303-6d479d0207d8,Firik Bulgurlu Kuru Cacık (100 gr.),"5,15 TL",Mezeler,1.0
+581e9cca-82b7-41b8-86cd-29aa7e911529,Girit Ezme (100 gr.),"6,35 TL",Mezeler,5.0
+bef43855-ba70-4a66-bfad-47ee05c8a60b,Havuç Tarator (100 gr.),"5,15 TL",Mezeler,8.0
+14558f69-23f0-4454-a3df-2711d9541b7c,Haydari (100 gr.),"5,15 TL",Mezeler,6.0
+bb752a19-503a-4ddf-a550-0a15ce3c5b22,Humus (100 gr.),"5,55 TL",Mezeler,7.0
+fbf4620a-e177-4d82-ac80-ba24201247f2,Kabak Mücver (Adet),"4,00 TL",Mezeler,5.0
+4f3211be-0782-40b4-b573-47bf19278c04,Kabak Şayan (100 gr.),"5,35 TL",Mezeler,5.0
+01c4476b-9dcb-447f-90c3-fcc3597492cb,Kereviz Salatası (100 gr.),"5,15 TL",Mezeler,5.0
+400e5fbc-d9b6-4ac3-9a61-42b3fbfe7047,Kısır (100 gr.),"4,85 TL",Mezeler,4.0
+8bdf8800-91d1-48d8-b065-b845dcae3e06,Köpoğlu (100 gr.),"5,75 TL",Mezeler,13.0
+76b06d20-2f60-44b6-b68a-ed23e241e6de,Köz Biber Salatası (100 gr.),"6,35 TL",Mezeler,5.0
+deda3ab4-fa76-4492-823c-43dc95951b4b,Köz Patlıcan Salata (100 gr.),"6,15 TL",Mezeler,4.0
+F686899D-E53B-4F9A-BE7A-55F771E0EE67,Makarna Salatası (200 gr.),"12,50 TL",Mezeler,5.0
+1FCDD15F-5D68-460C-9FDE-1A3C2A9F6975,Maş Fasülye Piyazı,"5,55 TL",Mezeler,5.0
+aac1f080-3354-4d15-95e7-1ad160746dea,Mayonezli Hardal Soslu Patates Salatası (100 gr.),"5,55 TL",Mezeler,5.0
+c5d7f5e0-c0f8-4ff7-aae5-b06c97c27358,Mayonezli Tavuk Salatası (100 gr.),"6,55 TL",Mezeler,5.0
+b6539acd-43cd-438d-810f-ef4d2af1ea43,Mercimek Köftesi (100 gr.),"5,15 TL",Mezeler,7.0
+dec68f0c-d2a8-4f1f-8df7-a15ac4906a53,Paşa Ezmesi (100 gr.),"5,55 TL",Mezeler,5.0
+3cc9128e-2765-4ee1-bb08-e10ae35fb50c,Patates Salatası (100 gr.),"4,85 TL",Mezeler,6.0
+762DE45C-6ED6-4E9E-9CBE-E0E0E03A11B0,Peynirli Kapya Sarma (100 gr.),"6,55 TL",Mezeler,7.0
+ee53bb47-8c06-476e-a0ab-6f398c4ce46d,Rus Salatası (100 gr.),"4,85 TL",Mezeler,4.0
+1657f8a2-e9c9-4f4a-9d74-e044348b5660,Şakşuka (100 gr.),"5,55 TL",Mezeler,7.0
+e1a0a4fe-d0ae-4a64-8223-831296a5200a,Semizotu Salatası (100 gr.),"5,15 TL",Mezeler,5.0
+47F1915F-8E32-4983-AEC5-C17599DEDE79,Susamlı Tahinli Köz Patlıcan (100 gr.),"6,35 TL",Mezeler,4.0
+0CEFB062-F721-4B60-AF0D-EE7F2AB21637,Tahinli Susamlı Közlenmiş Patlıcan,"6,35 TL",Mezeler,4.0
+e719cc83-2705-4ca9-9945-950ef20c6e0b,Yoğurtlu Köz Patlıcan (100 gr.),"6,15 TL",Mezeler,3.0
+8218751c-5f45-4c4e-ab99-2d4aa13a0a0f,Yunan Cacık (100 gr.),"5,55 TL",Mezeler,4.0
+5a2ff2f0-ff2e-4f5e-bd86-86291430450e,Kuru Biber Dolması (100 gr.),"6,55 TL",Zeytinyağlılar,2.0
+5b7a0bdd-84af-4767-8614-1271109a390f,Kuru Patlıcan Dolması (100 gr.),"6,55 TL",Zeytinyağlılar,1.0
+711d9299-5973-4556-8159-7b48e2d0967d,Zeytinyağlı Barbunya (100 gr.),"5,55 TL",Zeytinyağlılar,5.0
+61873a2f-bf38-477e-aa28-9f4b068ebba2,Zeytinyağlı Biber Dolması (100 gr.),"6,15 TL",Zeytinyağlılar,5.0
+93b9b334-eee5-4e3a-8c42-68c1a2a60517,Zeytinyağlı Enginar (100 gr.),"15,00 TL",Zeytinyağlılar,5.0
+37108482-bd49-4442-a14b-75bd58dafa62,Zeytinyağlı Lahana Sarma (100 gr.),"6,15 TL",Zeytinyağlılar,7.0
+dcbb42f1-304f-4671-9e85-9d20ac92901b,Zeytinyağlı Taze Fasulye (100 gr.),"6,15 TL",Zeytinyağlılar,4.0
+939bf8d6-c018-4e5f-bc12-98237a71741c,Zeytinyağlı Yaprak Sarma (100 gr.),"7,55 TL",Zeytinyağlılar,7.0
+6f5fad57-38b9-4504-8a8e-e31b9ec5cb37,Çiğ Köfte (100 gr.),"7,85 TL",Çiğ Köfteler,19.0
+e8262f99-ef2b-44ea-bd8f-252fef6cba70,Çiğ Köfte (500 gr.),"35,50 TL",Çiğ Köfteler,19.0
+b18b91cf-d688-4c3f-9936-1489a5a987a6,Midye Dolma (Adet),"1,50 TL",Diğer Lezzetler,7.0
+98092419-5fa7-4621-9c9d-28a244903576,Beyoğlu Turşusu (100 gr.),"3,50 TL",Diğer Lezzetler,5.0
+b8d0a451-51fe-4e7c-9db8-2e564446c3d6,Beyaz Peynir,"8,00 TL",Diğer Lezzetler,5.0
+87d23901-7774-4629-9638-8299cf79f006,Eski Kaşar Peyniri,"8,50 TL",Diğer Lezzetler,5.0
+61dc28ae-65fa-4a8a-93b5-9dfb142b127d,Kızartma İçli Köfte (Adet),"7,00 TL",Diğer Lezzetler,6.0
+4dc552cf-bdf2-45c1-ba93-7bc76076eba5,Ev Yapımı Kıymalı Çiğ Börek (Adet),"7,50 TL",Diğer Lezzetler,26.0
+0c46a4b4-b99a-4877-86d7-343ffdc87637,Ev Yapımı Mantı,"23,50 TL",Diğer Lezzetler,10.0
+aa8d3883-381b-40ce-9602-707ffeffec72,İrmik Helvası (150 gr.),"10,00 TL",Tatlılar,5.0
+278bf84f-5dfa-448b-a2bd-f7e5e23a7b44,Ev Baklavası,"10,00 TL",Tatlılar,7.0
+ecdca255-26c4-4a4a-9318-a20105699292,Un Helvası (150 gr.),"10,00 TL",Tatlılar,5.0
+c158f9a5-91a1-46e4-89c3-32dd19b21375,Limonlu Cheesecake (Dilim),"14,00 TL",Tatlılar,5.0
+4ef70998-914e-49ce-9026-5438592427dc,Algida Maraş Usulü Cup Dondurma (100 ml.),"6,00 TL",Dondurmalar,5.0
+3e8b9538-44dc-4d94-a3b8-9292c41b703f,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"13,00 TL",Dondurmalar,5.0
+63ae7d0c-b117-44bf-83b1-abb5fe1f309d,Algida Maraş Dondurmalı Supangle,"13,00 TL",Dondurmalar,5.0
+3f301081-6e1d-4705-a737-23cd5fd0b843,Algida Carte d'Or Volcano Cup (160 ml.),"14,00 TL",Dondurmalar,5.0
+4ea4880a-08a1-4c90-9264-f1770b97fb5f,Acılı Şalgam Suyu (30 cl.),"4,50 TL",İçecekler,5.0
+53ec1a84-80f0-477c-8251-28b3b917e2d8,Acılı Şalgam Suyu (1 L.),"10,00 TL",İçecekler,5.0
+26c6e077-4c6f-498f-9c50-dedc1900afdd,Poşet,"0,25 TL",Poşet,5.0

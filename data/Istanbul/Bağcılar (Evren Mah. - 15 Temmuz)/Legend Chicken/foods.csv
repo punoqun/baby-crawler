@@ -1,0 +1,16 @@
+food_id,food_name,food_price,food_category,food_score
+cb3e559b-d1f4-4e26-a01c-93d652ec8985,Hamburger,"17,00 TL",Burgerler,11.0
+9b744f8b-d7aa-4029-97f8-95cfc14dd6c4,Cheeseburger,"18,50 TL",Burgerler,5.0
+067e511b-a0cf-4461-a89c-3ea2758b9a76,Mexican Burger,"18,50 TL",Burgerler,5.0
+9c8e5b06-cc19-4bdc-8b88-9e013f88bd39,Chicken Burger,"15,00 TL",Burgerler,5.0
+622acdec-79e1-40c2-aceb-fd22dd562495,Tavuk Lokum (6 Adet),"10,00 TL",Tavuklar,4.0
+3d268dfe-59e9-405f-aa58-0d11cc609385,Tavuk Kanat (Adet),"4,00 TL",Tavuklar,7.0
+2f784a44-88e5-49ab-a594-3f104c786dab,Tavuk Kanat (5 Adet),"17,50 TL",Tavuklar,7.0
+257f7bf6-da3b-4cde-90f4-1727c61dad1e,Kemiksiz Tavuk (Adet),"4,00 TL",Tavuklar,4.0
+88b2b458-04fd-46f6-8571-c60ddc2c676e,Kemiksiz Tavuk (5 Adet),"17,50 TL",Tavuklar,4.0
+858b2c1c-7b63-4586-a9f1-0d1a539f19a1,Tavuk Wrap,"15,00 TL",Wraps,4.0
+40aba09d-2b65-4e9a-87ca-919d04d2197d,Soğan Halkası (3 Adet),"4,00 TL",Yan Ürünler,6.0
+2d5fe1c0-879c-44be-989f-f0f46a376587,Soğan Halkası (6 Adet),"7,00 TL",Yan Ürünler,6.0
+fbf39b09-54ae-4dfb-bdbf-8cc81f39bb4d,Patates Kızartması,"4,50 TL",Yan Ürünler,5.0
+36c6e590-037c-41fb-a8f6-6069ffb87ee5,Ekmek,"2,00 TL",Yan Ürünler,5.0
+f721e761-6d9e-4dd6-9704-0ef068d001ae,Poşet,"0,25 TL",Poşet,5.0

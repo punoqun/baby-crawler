@@ -1,0 +1,81 @@
+food_id,food_name,food_price,food_category,food_score
+71eb4c74-8d4a-4f84-92c8-a8aced07cd4c,Ev Yapımı Köfte Menü,"40,00 TL",Menüler,11.0
+CC7F2F08-4DA6-4752-A30A-F8689AB2C5AD,Tavuklu Pilav & Ayran Menü,"20,00 TL",Menüler,5.0
+6444a0e0-516c-44f5-bcf8-f6d2652361ef,Sigara Böreği,"15,00 TL",Börekler,5.0
+74A03768-7648-43D5-871D-AC22D14A6ACB,Pastırmalı Paçanga Böreği,"20,00 TL",Börekler,5.0
+25174d17-52b3-42ad-bbba-a6ee2791969a,Mantı,"28,00 TL",Ana Yemekler,8.0
+76facb10-17c6-495c-9d84-ad2edbbe9a9e,Kızartma İçli Köfte (Adet),"10,00 TL",Ana Yemekler,9.0
+BB46F2DB-F424-4476-BD2A-0E10B8879C5F,Cevizli Kızartma İçli Köfte,"12,00 TL",Ana Yemekler,19.0
+AB43C436-542F-4F23-9FED-BC010B307F30,Ev Yapımı Tavuklu Pilav,"17,00 TL",Ana Yemekler,7.0
+FE0EDA96-BFF2-434A-AA57-4008572A750D,Buğday Salatası,"15,00 TL",Mezeler,5.0
+ACB3C8B4-3875-46C2-8EBE-7D8D17F0A4BE,Nuraniye,"16,00 TL",Mezeler,5.0
+F2CDE79E-7343-4A9C-A744-049A222342B9,Kabak Borani,"17,00 TL",Mezeler,5.0
+2A258EDF-6CD0-479D-9722-46C2F9802B2F,Kuru Cacık,"15,00 TL",Mezeler,5.0
+9FF49CA7-C631-4433-833D-3978D7C6F1F5,Köpoğlu,"17,00 TL",Mezeler,5.0
+513A51E3-64A4-41CE-928C-C351B1708108,Paçanga Böreği,"18,00 TL",Mezeler,5.0
+A4EA8B1A-6E12-4436-8C7B-10997B8BAFC2,Yoğurtlu Yeşilbiber,"17,00 TL",Mezeler,3.0
+bef2e31f-e076-41ef-83a7-ded37a136979,Atom,"15,00 TL",Mezeler,5.0
+E40255E7-DEB7-4B7B-B5E2-D2AE7FFB92EB,Mor Lahana Salatası,"15,00 TL",Mezeler,5.0
+92928497-1be4-4237-9bfa-561fa58bc976,Babagannuş,"17,00 TL",Mezeler,5.0
+e4dc860c-e69f-43fd-89f5-d103c7c4fc47,Cacık,"10,00 TL",Mezeler,5.0
+da70c7ce-30e1-4796-87eb-8e67d2e293d3,Çerkez Tavuğu,"18,00 TL",Mezeler,9.0
+664f928e-66f3-4d01-8731-74579f9b377c,Haydari,"15,00 TL",Mezeler,5.0
+011e2498-7bd7-411d-81d0-f128f2e09a36,Kabak Salatası,"18,00 TL",Mezeler,5.0
+bfd3148d-616a-4002-8814-9ecced453059,Kısır,"15,00 TL",Mezeler,8.0
+a0e21b2f-eb3e-4f94-a33d-73e9a75e3859,Köz Biber,"18,00 TL",Mezeler,3.0
+110bf952-2aab-4c17-b4a5-06fbaf344dae,Makarna Salatası,"15,00 TL",Mezeler,4.0
+15f5b975-1902-468b-894b-26e59a9c9cd3,Mercimek Köftesi,"15,00 TL",Mezeler,1.0
+3a01a502-4b67-4952-aac0-566e71fe4bd2,Nohut Salatası,"15,00 TL",Mezeler,4.0
+bb08a453-a10f-4946-a39e-23ab8e15a951,Patates Salatası,"15,00 TL",Mezeler,3.0
+438061bc-0c98-474e-aaef-4b9de4724464,Şakşuka,"15,00 TL",Mezeler,5.0
+0bfd8192-bba7-4ec8-9946-cd6b70736845,Tarator,"15,00 TL",Mezeler,5.0
+639FEA76-2F04-4DA5-87CB-ECD2FCCD221A,Yoğurtlu Köz Patlıcan,"18,00 TL",Mezeler,3.0
+36882F10-AB11-46C4-BDF3-A7E3A87803E1,Zeytinyağlı Taze Fasulye,"18,00 TL",Mezeler,7.0
+928a15a2-9da2-44a7-94da-faee3a3a2e3a,Atom (250 gr.),"18,75 TL",Mezeler (250 gr.),5.0
+A2F06BFA-8E69-437A-A553-2D4CAAB03A28,Yoğurtlu Yeşilbiber (250 gr.),"20,00 TL",Mezeler (250 gr.),3.0
+de1f05fb-0a7f-4a8e-b964-934937eaf0b2,Babagannuş (250 gr.),"20,00 TL",Mezeler (250 gr.),5.0
+1e1894a2-84da-48c6-9ac5-bc832ee82f75,Çerkez Tavuğu (250 gr.),"18,75 TL",Mezeler (250 gr.),9.0
+17c13792-7104-49a8-a882-2c8ab71534fb,Haydari (250 gr.),"18,75 TL",Mezeler (250 gr.),5.0
+4223bec3-3f35-470e-8a1d-071d1c16ec0b,Kabak Salatası (250 gr.),"18,75 TL",Mezeler (250 gr.),5.0
+3713541e-0851-4b0a-a5be-0300de2d8bdc,Kısır (250 gr.),"18,75 TL",Mezeler (250 gr.),8.0
+2ceddc74-56c3-452d-a39c-6852ea4697d3,Köz Biber (250 gr.),"20,00 TL",Mezeler (250 gr.),3.0
+53685f47-8c68-4361-ae45-a049d7159f43,Makarna Salatası (250 gr.),"18,75 TL",Mezeler (250 gr.),4.0
+53d2dccc-fb0e-4969-b1d1-f2778bd054f2,Mercimek Köfte (250 gr.),"18,75 TL",Mezeler (250 gr.),0.0
+242DF345-1092-43E8-82C6-7A56956B7F22,Mor Lahana (250 gr.),"18,75 TL",Mezeler (250 gr.),5.0
+97e9f7f7-8afa-4cf5-b260-2b5afed3c17c,Nohut Salatası (250 gr.),"18,75 TL",Mezeler (250 gr.),4.0
+81738E69-71D0-4C5E-A11E-F0A66195FB42,Patates Salatası (250 gr.),"18,75 TL",Mezeler (250 gr.),3.0
+8c285b85-4c8a-4c5a-b162-dd5fbf14f98e,Şakşuka (250 gr.),"18,75 TL",Mezeler (250 gr.),5.0
+8cd48211-0286-4bfd-8d58-072a22ed82e3,Tarator (250 gr.),"18,75 TL",Mezeler (250 gr.),5.0
+C8C75DB2-E71D-46D6-8A6D-896E6DD72591,Yoğurtlu Köz Patlıcan (250 gr.),"20,00 TL",Mezeler (250 gr.),3.0
+9D9AB1A8-8A2F-4999-B119-AF44CB5F65BE,Zeytinyağlı Taze Fasulye (250 gr.),"18,75 TL",Mezeler (250 gr.),7.0
+e0e67e9f-5ffd-4c2b-948b-87364beede99,Karamelli Trileçe,"18,00 TL",Tatlılar,5.0
+26163931-9c61-439f-b8bc-b61a5b897bd6,Islak Kek,"15,00 TL",Tatlılar,5.0
+562f9a4b-1579-45e6-95b2-c3c74e2971ee,Atom (500 gr.),"37,50 TL",Mezeler (500 gr.),5.0
+1A8F8DC1-5A85-4711-9BD4-365E70969A8D,Zeytinyağlı Taze Fasulye (500 gr.),"37,50 TL",Mezeler (500 gr.),7.0
+b251ccdf-f054-493d-a731-e8f0564761f6,Babagannuş (500 gr.),"40,00 TL",Mezeler (500 gr.),5.0
+b98dabe9-4144-4dfb-8e77-b29d6dd43352,Çerkez Tavuğu (500 gr.),"37,50 TL",Mezeler (500 gr.),9.0
+06db7e1b-d18f-4d30-8d50-4d823e944e12,Haydari (500 gr.),"37,50 TL",Mezeler (500 gr.),5.0
+a9e4ee74-da79-40d3-9420-81a1cd7eb2a3,Kabak Salatası (500 gr.),"37,50 TL",Mezeler (500 gr.),5.0
+62d6f288-3189-4fae-932f-c8ef4690e0df,Kısır (500 gr.),"37,50 TL",Mezeler (500 gr.),8.0
+e59a4e37-637a-43f6-ac8d-70366ac48216,Köz Biber (500 gr.),"40,00 TL",Mezeler (500 gr.),3.0
+be02c7fd-aaab-4532-9b56-de19690a1b19,Makarna Salatası (500 gr.),"37,50 TL",Mezeler (500 gr.),4.0
+6df2fbfb-6f55-4c6a-ae50-348d5c2e722a,Mercimek Köfte (500 gr.),"37,50 TL",Mezeler (500 gr.),0.0
+51172875-C56B-4079-A26A-7D075C4087DA,Mor Lahana (500 gr.),"37,50 TL",Mezeler (500 gr.),5.0
+31c60ad2-1b42-437b-ab96-e5d1db21981f,Nohut Salatası (500 gr.),"37,50 TL",Mezeler (500 gr.),4.0
+2D03BC97-8DDE-45EE-B56A-9D0FD179A95F,Patates Salatası (500 gr.),"37,50 TL",Mezeler (500 gr.),3.0
+6fc8dc7d-b752-4999-ae23-f8a1a2051dbc,Şakşuka (500 gr.),"37,50 TL",Mezeler (500 gr.),5.0
+85712ea5-3ba8-4cb1-b133-c7313223c448,Tarator (500 gr.),"37,50 TL",Mezeler (500 gr.),5.0
+c7de5471-dba4-4b30-9356-5c0a0c2cb0d8,Atom (1 kg.),"75,00 TL",Mezeler (1 kg.),5.0
+bbea09b5-9b5e-4ca0-b285-f7f3b356f229,Çerkez Tavuğu (1 kg.),"75,00 TL",Mezeler (1 kg.),9.0
+f891b47c-2265-4bd5-a001-990b8ecd5d6a,Haydari (1 kg.),"75,00 TL",Mezeler (1 kg.),5.0
+cef4a0d7-86fd-4809-b25e-941367bb8da8,Kabak Salatası (1 kg.),"75,00 TL",Mezeler (1 kg.),5.0
+43486ea2-a9cb-4d4d-a455-64abbc4c94e4,Kısır (1 kg.),"75,00 TL",Mezeler (1 kg.),8.0
+ad60d17a-e2bd-4d8f-bf71-54a228e112d9,Köz Biber (1 kg.),"80,00 TL",Mezeler (1 kg.),3.0
+923c75f3-a72c-465d-b342-dcc7c545c348,Mercimek Köftesi (1 kg.),"75,00 TL",Mezeler (1 kg.),1.0
+218f0cab-247b-4617-a1d8-06dc0119ee65,Nohut Salatası (1 kg.),"75,00 TL",Mezeler (1 kg.),4.0
+c73ab122-22fd-4775-97b0-45edc76fa8a2,Tarator (1 kg.),"75,00 TL",Mezeler (1 kg.),5.0
+79263935-2AE5-44F5-8857-24E6DDBA7DC4,Hindistan Cevizli Kurabiye (250 gr.),"17,50 TL",Kiloluk Kurabiyeler,10.0
+A1B84A5C-13E0-4BC4-A2DA-905357E728A5,Hindistan Cevizli Kurabiye (500 gr.),"35,00 TL",Kiloluk Kurabiyeler,10.0
+0670f201-f1b1-42be-a26c-e6551cf52940,Tuzlu Kurabiye (250 gr.),"17,50 TL",Kiloluk Kurabiyeler,5.0
+F0399F43-E8B2-4C1F-8DB4-5D26B58B42F0,Tuzlu Kurabiye (500 gr.),"35,00 TL",Kiloluk Kurabiyeler,5.0
+ae335db6-5d9a-4271-9dc0-91462b02b4a5,Poşet,"0,25 TL",Poşet,5.0

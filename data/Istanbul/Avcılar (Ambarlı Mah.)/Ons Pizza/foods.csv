@@ -1,0 +1,97 @@
+food_id,food_name,food_price,food_category,food_score
+10833f79-e343-46b0-854a-26af6039b6ef,Cheeseburger,"26,00 TL",Burgerler,10.0
+3207932f-5c0e-40dc-8fb8-e7b85d8b802c,Avokado Burger,"28,00 TL",Burgerler,7.0
+3777188B-5B0C-480A-92E5-21C0FEBCE90E,Fırın Tavuk Burger,"24,00 TL",Burgerler,5.0
+9388c944-67d3-4d8c-851c-cb105e92bb4c,Pons Chicken Burger,"24,00 TL",Burgerler,7.0
+4140bd09-3e1f-4c3f-a87b-a36f0ab35534,Mexico Burger,"26,00 TL",Burgerler,7.0
+8f1f73c7-d16f-4d41-83b1-0722ad2dae76,Nons Steak Burger,"27,00 TL",Burgerler,12.0
+b0542246-5ae5-45d8-ba17-04016ab47bf0,Staff Burger,"26,00 TL",Burgerler,7.0
+d0a96732-baea-4634-b826-7cebf5fda3fb,Avokado Pizza (Küçük),"29,00 TL",Küçük Boy Pizzalar (24 cm.),1.0
+b7d6e2ab-aa32-470f-8441-e2cdef03f05a,Marinara Pizza (Küçük),"26,00 TL",Küçük Boy Pizzalar (24 cm.),1.0
+43d6d5ff-ba4a-429d-821e-d908821b028d,Hawaii Pizza (Küçük),"27,00 TL",Küçük Boy Pizzalar (24 cm.),1.0
+54D61AD5-CF22-4E5F-85F5-17CF56CF8577,Kavurmalı Pizza (Küçük),"30,00 TL",Küçük Boy Pizzalar (24 cm.),-1.0
+fd633013-f314-45b0-8ae6-50cd394f05e7,Calzone Pizza (Kapalı) (Küçük),"26,00 TL",Küçük Boy Pizzalar (24 cm.),1.0
+f52c9ffe-9d27-41da-afd8-a79bb232dd2b,Cheeser Pizza (Küçük),"27,00 TL",Küçük Boy Pizzalar (24 cm.),1.0
+9a38993a-2643-40f7-8a88-64b058380ce6,Cruz Pizza (Küçük),"27,00 TL",Küçük Boy Pizzalar (24 cm.),1.0
+327b57ab-9d61-40d2-a906-1d8113bdc41a,Della Pizza (Kapaı) (Küçük),"28,00 TL",Küçük Boy Pizzalar (24 cm.),1.0
+86d8d891-b1e0-45fc-959c-b4f0eaf26d90,Fidelite Pizza (Küçük),"26,00 TL",Küçük Boy Pizzalar (24 cm.),1.0
+714d23a0-6e65-4fec-be66-0cd537976249,Klasik Pizza (Küçük),"27,00 TL",Küçük Boy Pizzalar (24 cm.),1.0
+f46225f9-72d8-487d-bdf4-b963bdaedd82,Margherita Pizza (Küçük),"25,00 TL",Küçük Boy Pizzalar (24 cm.),1.0
+2b50bff7-f128-44fc-b270-96687906655e,Mexican Pizza (Küçük),"27,00 TL",Küçük Boy Pizzalar (24 cm.),1.0
+dcb46c9a-d864-4956-b7e6-a9a2ade8a92b,Napolitan Pizza (Küçük),"26,00 TL",Küçük Boy Pizzalar (24 cm.),1.0
+64429b99-76eb-4de7-9530-5fc14653069c,Orient Pizza (Küçük),"27,00 TL",Küçük Boy Pizzalar (24 cm.),1.0
+79e7a21e-8273-41c3-b762-e56577806ca2,Pepperoni Pizza (Küçük),"27,00 TL",Küçük Boy Pizzalar (24 cm.),1.0
+0b7d376b-68b0-4950-be36-f81232efb635,Pesto Pizza (Küçük),"27,00 TL",Küçük Boy Pizzalar (24 cm.),1.0
+6486feaa-5902-4f97-982e-634bffa7f515,Pumpkin Pizza (Küçük),"28,00 TL",Küçük Boy Pizzalar (24 cm.),1.0
+29b57eaa-b38e-45d8-a631-8d71feb6a862,Salami Pizza (Küçük),"26,00 TL",Küçük Boy Pizzalar (24 cm.),1.0
+415a3df1-3b44-415d-a94f-de6b55a0ca84,Sicilian Pizza (Acılı) (Küçük),"28,00 TL",Küçük Boy Pizzalar (24 cm.),1.0
+d81f8f2e-8da1-45d0-8b4e-b6a7df46a4c1,Süper Pizza (Küçük),"28,00 TL",Küçük Boy Pizzalar (24 cm.),3.0
+2d7b4661-10fb-4c28-8c40-ec4f2be37b07,Tontons Pizza (Küçük),"27,00 TL",Küçük Boy Pizzalar (24 cm.),1.0
+067e77e6-4b86-4a57-9f8f-a4e2bb534fcc,Vega Full Pizza (Küçük),"28,00 TL",Küçük Boy Pizzalar (24 cm.),1.0
+9a16d5fa-6348-4f1d-8ef6-49e9aef4343b,Veggie Pizza (Küçük),"27,00 TL",Küçük Boy Pizzalar (24 cm.),1.0
+84793cc3-f347-44d7-98ad-09f84c51e52d,Avokado Pizza (Orta),"34,00 TL",Orta Boy Pizzalar (28 cm.),1.0
+0fd4b558-ee9a-463c-ab6a-dcac27a5be2d,Marinara Pizza (Orta),"30,00 TL",Orta Boy Pizzalar (28 cm.),1.0
+a94444e2-d546-4669-b741-72734e61de39,Hawaii Pizza (Orta),"32,00 TL",Orta Boy Pizzalar (28 cm.),1.0
+f435ad57-9422-4cdb-aeba-4000752687d6,Bonfile Pizza (Orta),"33,00 TL",Orta Boy Pizzalar (28 cm.),1.0
+9be41c99-7143-4f04-a4f2-a9e1a59c630a,Calzone Pizza (Kapalı) (Orta),"31,00 TL",Orta Boy Pizzalar (28 cm.),1.0
+c0f402e6-ba1b-4218-8ea1-bfc2e267805d,Cheeser Pizza (Orta),"31,00 TL",Orta Boy Pizzalar (28 cm.),1.0
+826a13fb-78c5-4cfb-be68-f959e3b670fc,Cruz Pizza (Orta),"31,00 TL",Orta Boy Pizzalar (28 cm.),1.0
+242634c7-1592-4e78-9511-5c43eb90661a,Della Pizza (Kapaı) (Orta),"31,00 TL",Orta Boy Pizzalar (28 cm.),1.0
+0237b117-1534-44f1-9fab-6c622c89313a,Fidelite Pizza (Orta),"31,00 TL",Orta Boy Pizzalar (28 cm.),1.0
+62fbbab5-5b66-439e-b4ae-f696e39d5b9d,Klasik Pizza (Orta),"31,00 TL",Orta Boy Pizzalar (28 cm.),1.0
+bcdc55f1-b722-4519-b4ae-211903b43cbb,Margherita Pizza (Orta),"28,00 TL",Orta Boy Pizzalar (28 cm.),1.0
+bf36adb2-3cc9-40be-b58b-9139d80a5181,Mexican Pizza (Orta),"32,00 TL",Orta Boy Pizzalar (28 cm.),1.0
+ec503559-57e1-4643-b089-f1e69114aeb2,Napolitan Pizza (Orta),"31,00 TL",Orta Boy Pizzalar (28 cm.),1.0
+6eb0fcf2-2276-4bfc-88cf-faa7e74570ee,Orient Pizza (Orta),"32,00 TL",Orta Boy Pizzalar (28 cm.),1.0
+b7571cda-218c-4705-8ec1-719d8996d37a,Pepperoni Pizza (Orta),"31,00 TL",Orta Boy Pizzalar (28 cm.),1.0
+344895ab-fd73-4abf-b1f9-3af48162d691,Pesto Pizza (Orta),"32,00 TL",Orta Boy Pizzalar (28 cm.),1.0
+d4ab3273-74e9-462e-8f90-cac395146de4,Pumpkin Pizza (Orta),"32,00 TL",Orta Boy Pizzalar (28 cm.),1.0
+6bbd7a90-32b0-4521-92da-d62c93a7bc3b,Salami Pizza (Orta),"30,00 TL",Orta Boy Pizzalar (28 cm.),1.0
+e00f2e90-377c-47f7-acfb-55671fd7da10,Sicilian Pizza (Acılı) (Orta),"32,00 TL",Orta Boy Pizzalar (28 cm.),1.0
+7e8403bf-02b9-4286-be83-f25e9e2e2d2b,Süper Pizza (Orta),"32,00 TL",Orta Boy Pizzalar (28 cm.),3.0
+1d492164-bf2e-4cb9-9a85-56399cf01dbf,Tontons Pizza (Orta),"32,00 TL",Orta Boy Pizzalar (28 cm.),1.0
+5fcf874b-c5af-4f10-b3f5-7673487498e5,Vega Full Pizza (Orta),"32,00 TL",Orta Boy Pizzalar (28 cm.),1.0
+bce728ac-6e72-4f55-ad1c-034728ed3245,Veggie Pizza (Orta),"30,00 TL",Orta Boy Pizzalar (28 cm.),1.0
+39ee0cef-ffc5-4c36-9f29-922c45bb9029,Marinara Pizza (Büyük),"34,00 TL",Büyük Boy Pizzalar (32 cm.),1.0
+faabb475-f4d0-4517-a06d-80568d8f5e2b,Hawaii Pizza (Büyük),"38,00 TL",Büyük Boy Pizzalar (32 cm.),1.0
+83E031CC-6C24-429E-893F-592E50E1625F,Ons Gurme Pizza,"35,00 TL",Büyük Boy Pizzalar (32 cm.),1.0
+AC8D1666-7AAB-4689-9B3D-DD1CA56847E0,Patso Gurme Pizza,"37,00 TL",Büyük Boy Pizzalar (32 cm.),1.0
+5b87a1a8-3d51-4020-9520-2a84cbf35c12,Avokado Pizza (Büyük),"40,00 TL",Büyük Boy Pizzalar (32 cm.),1.0
+1774fd88-15ac-4791-a864-1a7da1eae63c,Bonfile Pizza (Büyük),"40,00 TL",Büyük Boy Pizzalar (32 cm.),1.0
+37c6c85f-eeb4-4c0e-82f0-4905a2213a86,Calzone Pizza (Kapalı) (Büyük),"35,00 TL",Büyük Boy Pizzalar (32 cm.),1.0
+a01272bf-9a3a-4f91-b15b-6a4bca71f789,Cheeser Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (32 cm.),1.0
+8d810d01-a1cf-4a1c-9ae8-97bb22f3b7e8,Cruz Pizza (Büyük),"37,00 TL",Büyük Boy Pizzalar (32 cm.),1.0
+f9708198-9277-4427-b9d6-49434e40a39c,Della Pizza (Kapalı) (Büyük),"38,00 TL",Büyük Boy Pizzalar (32 cm.),1.0
+65ad6feb-582f-4077-9577-efe11b147886,Fidelite Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (32 cm.),1.0
+4dc92f81-d810-41da-a7ae-faab35a61f36,Klasik Pizza (Büyük),"37,00 TL",Büyük Boy Pizzalar (32 cm.),1.0
+674dc7ef-5055-4e92-8a62-7025e5785005,Margherita Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (32 cm.),1.0
+db069c94-0fb4-486e-9731-b911674bc8f4,Mexican Pizza (Büyük),"37,00 TL",Büyük Boy Pizzalar (32 cm.),1.0
+9ca9c378-4948-4c65-97d7-76003188e797,Napolitan Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (32 cm.),1.0
+ea211289-1d57-4806-8b81-05979f715616,Orient Pizza (Büyük),"37,00 TL",Büyük Boy Pizzalar (32 cm.),1.0
+34daadcb-1fa0-47fb-9927-88c43f1775d3,Pepperoni Pizza (Büyük),"37,00 TL",Büyük Boy Pizzalar (32 cm.),1.0
+7b715b66-7839-4349-90bb-58a3ddac330d,Pesto Pizza (Büyük),"36,00 TL",Büyük Boy Pizzalar (32 cm.),1.0
+232ab1b4-10d4-4f57-8584-ae4c498ecde6,Pumpkin Pizza (Büyük),"37,00 TL",Büyük Boy Pizzalar (32 cm.),1.0
+da6e722e-4de1-4a4a-b0dc-3f3add02e3f8,Salami Pizza (Büyük),"36,00 TL",Büyük Boy Pizzalar (32 cm.),1.0
+1fd3261b-b70b-4201-a35c-3d9956e72a4a,Sicilian Pizza (Acılı) (Büyük),"38,00 TL",Büyük Boy Pizzalar (32 cm.),1.0
+1137e17a-0565-4cdc-9b61-06ba3a6c06a4,Süper Pizza (Büyük),"39,00 TL",Büyük Boy Pizzalar (32 cm.),8.0
+ee52b2c8-2f1e-4e3f-92a7-9efd588b52f0,Tontons Pizza (Büyük),"36,00 TL",Büyük Boy Pizzalar (32 cm.),1.0
+28c9f148-58d7-4fea-8d87-4f07466a5852,Vega Full Pizza (Büyük),"38,00 TL",Büyük Boy Pizzalar (32 cm.),1.0
+22697195-58c8-4956-bba6-3295a73df09a,Veggie Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (32 cm.),1.0
+a5de68fe-26c6-47ce-98ae-19283b004a6c,Fırın Patates (300 gr.),"8,00 TL",Yan Ürünler,11.0
+a0a75d2e-1f4a-460f-badf-3b886a903867,Patates Kızartması,"8,00 TL",Yan Ürünler,11.0
+7bce1e3f-5f26-4a43-8c9c-e38436b11bac,Yağsız Patates Kızartması,"8,00 TL",Yan Ürünler,11.0
+efa06bef-f650-4dee-a72d-49cd57ed25bc,Çıtır Tavuk (Büyük) (5 Adet),"14,00 TL",Yan Ürünler,3.0
+855273d3-47f7-493b-b872-31785a0241c1,Çıtır Tavuk (7 Adet),"10,00 TL",Yan Ürünler,3.0
+28de5d6b-8a0e-430f-aead-9f992d6af713,Sarımsaklı Ekmek,"12,00 TL",Yan Ürünler,6.0
+beb6bc8b-8039-4343-8dcf-698c95315044,Elma Dilim Patates Kızartması (200 gr.),"8,00 TL",Yan Ürünler,11.0
+9ce7e3be-38b9-4f6b-88b8-273c31bf8800,Algida Maraş Usulü Cup Dondurma (100 ml.),"5,00 TL",Dondurmalar,5.0
+66c0f6be-df4d-4578-8eb3-63802e9370bf,Carte d'Or Mini Cup Çilekli Yoğurtlu (110 ml.),"8,50 TL",Dondurmalar,5.0
+3E68328C-C0EE-41C5-B03A-2FD505270F66,Algida Carte d'Or Mini Cup Çikolata Karnavalı (110 ml.),"8,50 TL",Dondurmalar,5.0
+e5e621d5-3177-44f0-b165-e2ea39927d56,Carte d'Or Dondurmalı Volcano,"14,00 TL",Dondurmalar,5.0
+27e685fd-5c42-4d62-ae64-b1c6072b960d,Antep Fıstıklı Katmer,"13,00 TL",Tatlılar,6.0
+69b94549-ebb3-4a14-80c3-14e2a58f020b,Tahinli Pizza (Kapalı),"16,00 TL",Tatlılar,-1.0
+c3c17d13-10e9-4e82-be1f-bf545d98ffe2,Cheesecake,"13,00 TL",Tatlılar,5.0
+556382b7-d8a8-434c-885c-f1bbe63dd7fa,Sufle,"12,00 TL",Tatlılar,7.0
+6bccbe89-f920-4188-83b8-fa61087cafa3,Cappy (25 cl.),"5,00 TL",İçecekler,5.0
+65835b94-ebd2-4e27-b00e-c4633421e2f8,Schweppes (1 L.),"7,00 TL",İçecekler,5.0
+0ab92b83-dd73-4c7c-8a54-18cd3e6a0096,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,150 @@
+food_id,food_name,food_price,food_category,food_score
+10b4956f-0458-4b76-8e11-251e000bad99,2'li Kahve Menü,"25,00 TL",Menüler,31.0
+ae6831cd-ffe4-4a21-bca1-123cd75d2844,2'li Kahve & Tatlı Menü,"39,00 TL",Menüler,28.0
+e04f7c7f-6ddc-4391-8135-52a8296ee0bd,Atıştırmalık Menü,"25,00 TL",Menüler,10.0
+5f4c81de-dd1f-414b-a49e-aeae8a890ba0,Kafein Kafası Menü,"89,00 TL",Menüler,5.0
+3d875698-75ec-4620-9353-23277c161340,3'lü Büyük Boy Sıcak Kahve Menü,"35,00 TL",Menüler,28.0
+e48f3e3e-80ae-427b-85ca-f8f3c306d01f,2'li Dünya Çayları Menü,"22,00 TL",Menüler,5.0
+43fa7748-97a0-40b1-9971-a482880845cb,Çaylı Kahveli Menü,"21,00 TL",Menüler,5.0
+9c0b5491-5a30-464e-a333-3759e1d5477b,Çay Saati Menü,"47,00 TL",Menüler,5.0
+22402aba-76e8-4929-a041-cafaed440385,Americano,"13,00 TL",Espresso Bar,5.0
+c28aa3df-e1b2-4710-a403-29105f48ac17,Double Americano,"15,00 TL",Espresso Bar,5.0
+ad10a301-2d9a-49ca-ae80-33616f902aff,Cappuccino,"14,00 TL",Espresso Bar,5.0
+9cc2032f-122e-4867-a69d-9fce2c73d69e,Latte,"14,00 TL",Espresso Bar,11.0
+a847f513-5522-4a32-876a-2328bf3956b7,Flat White,"15,00 TL",Espresso Bar,5.0
+ffe6cfa7-fb63-4931-b1ed-e4a32628211f,Karamel Latte,"15,00 TL",Espresso Bar,6.0
+609d8909-6411-402d-a932-494b0ff9da60,Vanilya Latte,"15,00 TL",Espresso Bar,6.0
+eb0b6563-dd1f-4e3b-98d2-0f896441f247,Latte Macchiato,"14,00 TL",Espresso Bar,6.0
+f494e54e-c52e-4209-9766-ccb7af2cdf2f,Mocha,"15,00 TL",Espresso Bar,5.0
+69306739-1158-434f-905a-6ae9575d1aba,White Chocolate Mocha,"16,00 TL",Espresso Bar,5.0
+91f7b602-d4f3-4d9d-bd14-660fd6854e0a,Benjamin,"16,00 TL",Depo Special's,5.0
+6de56575-807c-4c27-9cbb-62c29e55f3e4,Coffee Coco,"16,00 TL",Depo Special's,5.0
+063c2dc0-95ce-401b-9a0f-fc2e00b6c1cb,Mint Chocolate,"16,00 TL",Depo Special's,5.0
+74b4e5a5-27f2-4a3e-ac10-669657bbc153,Irish Coffee,"16,00 TL",Depo Special's,5.0
+74793a4a-59a0-49be-b366-33c9590b40d7,Jonglör,"16,00 TL",Depo Special's,5.0
+a4264aba-3337-4e9b-8d41-af5e8629973e,Chocolate Coockie,"16,00 TL",Depo Special's,5.0
+20afee28-ab32-4d13-8dd0-9bd664eef831,Roasted Hazelnut,"16,00 TL",Depo Special's,5.0
+4a47fb3d-1a8e-41ef-ad34-0d6a7d7438e4,Maple Up,"16,00 TL",Depo Special's,5.0
+4e05ebfc-b758-4b36-a030-dffd24ea6a73,Nutella Coffee,"17,00 TL",Depo Special's,5.0
+d16ba9e0-f790-487a-93f5-8d68343e5d98,Coffee Winter,"16,00 TL",Depo Special's,5.0
+b383074d-4e19-4510-a36b-65dad1e136cb,Marsmallow Coffee,"17,00 TL",Depo Special's,5.0
+d54a57b4-2b6a-49ae-954e-2db9e9706587,Winter Is Coming,"16,00 TL",Depo Special's,5.0
+8fdea5ba-4217-4cef-8e20-bde6e1b197bc,Sıcak Çikolata,"13,00 TL",Depo Special's,7.0
+91393748-ab5d-45fc-b63c-9debc2adaf69,Salep,"13,00 TL",Depo Special's,5.0
+4548aa21-e6e0-43ee-b64f-b53f631ec4d6,Cold Brew Coffee (Soğuk),"16,00 TL",Filtre Kahveler,8.0
+c9728c6f-b6ba-45b3-ac91-ade3519a3703,Filtre Kahve,"13,00 TL",Filtre Kahveler,27.0
+8865c24b-d811-4a4c-aee5-28ae3d436f87,Ice Americano,"14,00 TL",Ice Coffees,4.0
+8d25f52f-c983-4521-9bf0-14c2a1fdcda8,Ice Latte,"15,00 TL",Ice Coffees,5.0
+de1d0078-5125-4dcc-bc9b-ef308abbe4a5,Ice Karamel Latte,"17,00 TL",Ice Coffees,5.0
+9ff1ad4f-b243-4964-ba79-d885ef4bf51a,Ice Vanilya Latte,"17,00 TL",Ice Coffees,5.0
+ba1aa7f9-4289-42fd-afde-a6aa9ee2c58a,Ice Mocha,"17,00 TL",Ice Coffees,4.0
+8fe1a186-caac-4e99-a349-a0990857eee9,Ice White Chocolate Mocha,"17,00 TL",Ice Coffees,4.0
+0b77ef3f-8716-475a-b01c-141312dde8b4,Ice Benjamin Coffee,"17,00 TL",Ice Coffees,4.0
+e4e509c7-63c4-4811-833c-af8c02147096,Ice Chocolate Cookie,"17,00 TL",Ice Coffees,4.0
+ee6be112-01b6-43a8-9c62-2928804b09f8,Ice Coffee Coco,"17,00 TL",Ice Coffees,4.0
+52b1cbfc-6cc7-4b03-8e8a-f5e1c99a139b,Ice Irish Coffee,"17,00 TL",Ice Coffees,4.0
+e13294e1-1b0a-4f27-9ce2-df636fa47a06,Ice Maple Up,"17,00 TL",Ice Coffees,4.0
+c23d9cf5-1de2-4364-9de6-a35ff6075f01,Ice Roasted Hazelnut,"17,00 TL",Ice Coffees,4.0
+a54f419c-faf9-475e-9411-f58cecb862f5,Chai Tea Latte,"13,00 TL",Çaylar,6.0
+e3b3ee66-8271-414e-aebb-1554065f2d2f,Yeşil Çay,"13,00 TL",Çaylar,5.0
+2adf3acd-5d7b-4b4e-996a-7afd29d98ea5,Kış Çayı,"13,00 TL",Çaylar,5.0
+a2d09c3c-bee2-42d3-8496-18c2b7344dad,Rooibos Vanilya,"13,00 TL",Çaylar,5.0
+260e13a8-6934-4061-b899-e1039c39e0f3,Roobios Earl Grey,"13,00 TL",Çaylar,5.0
+3828fe8b-7ac8-4b2a-a799-d0867f669061,Yaseminli Beyaz Çay,"13,00 TL",Çaylar,5.0
+d3e0d85b-cac0-44f2-865d-50f5455c3e26,Darjeeling,"13,00 TL",Çaylar,5.0
+ad75cbd1-c524-443e-b46b-3d9a65cd5807,Green Dragon,"13,00 TL",Çaylar,5.0
+3e149f17-4ebe-4d05-ab05-7fbd76b9055c,Milk Oolong,"13,00 TL",Çaylar,5.0
+6f27cb53-f1de-4adf-b0a9-4ba1e4949569,Masala,"13,00 TL",Çaylar,5.0
+0816c1df-85b6-4f6b-9ead-45ea883c342c,Eylül,"13,00 TL",Çaylar,5.0
+1c4823ef-c2f5-4207-9e62-ff21a23039af,Benjamin Çay,"13,00 TL",Çaylar,5.0
+e8745700-a26e-419f-b7b2-a88160d10c89,Detoks,"13,00 TL",Çaylar,5.0
+fcec10d1-29c9-4c15-a6b7-248113fe1d8a,Meditasyon,"13,00 TL",Çaylar,5.0
+f62134ed-b2de-4a91-92fc-90497f4ec31a,Up,"13,00 TL",Çaylar,5.0
+94fc2ee3-d75f-4a9f-89cf-2a6202f226db,Red Forest,"13,00 TL",Çaylar,5.0
+45997f4e-5966-4d80-9dc2-19d2f044daeb,Relax Çayı,"13,00 TL",Çaylar,5.0
+18166089-8f5a-4caa-973d-64a11cd07e42,Tropical Green,"13,00 TL",Çaylar,5.0
+7ef72490-1517-4825-8c99-63283b999c87,Orman Meyveli Chiller,"17,00 TL",Frozen,5.0
+20a1faff-c7f8-448f-bdad-c1f45d34be7b,Mangolu Chiller,"17,00 TL",Frozen,5.0
+71e70740-efe2-41b9-821e-54af942f1483,Yeşil Elmalı Chiller,"17,00 TL",Frozen,5.0
+6f15fe0f-1aff-4687-8bc3-45c71a3b22c5,Coco & Şeftali Chiller,"17,00 TL",Frozen,5.0
+e53e1a61-57cb-4b43-992b-82ff2776d32b,Frambuaz & Kavun Chiller,"17,00 TL",Frozen,5.0
+cb656dbd-2d95-4c0d-9d76-3d3e483bf942,Ananas & Limon Chiller,"17,00 TL",Frozen,9.0
+39b4084d-bcbd-448f-a18e-36884da5ba57,Passion Fruit Chiller,"17,00 TL",Frozen,5.0
+bc8b8c63-e214-4568-89b1-235e7a05a9c5,Kaşarlı Tost,"11,00 TL",Tostlar,10.0
+ea7fb340-3c56-4040-85c1-72d97f9e3fcd,Karışık Tost,"13,00 TL",Tostlar,10.0
+fbe0b18d-0829-45c5-8ea8-da6e0a946d1b,Depo Tost,"15,00 TL",Tostlar,9.0
+847840c5-70df-4363-a67c-f05ddb0fcc74,Ege Sandviç,"16,00 TL",Sandviçler,5.0
+45ac818c-0592-48db-abb5-2c3ad7a093ad,Hindi Fümeli Sandviç,"17,00 TL",Sandviçler,7.0
+2091bf76-9861-4e7d-849d-8166719eb1d0,Ton Balıklı Sandviç,"19,00 TL",Sandviçler,4.0
+99c3a082-21e1-412f-9b0c-6daa0e54fd0f,4 Peynirli Pizza (Orta),"38,00 TL",Orta Boy Pizzalar,8.0
+a7157492-a13c-4fce-9c36-04ee570bcae7,Akdeniz Pizza (Orta),"30,00 TL",Orta Boy Pizzalar,9.0
+3bfaf732-6dfa-49b2-bc0e-d53effcc6b9e,Alaturka Pizza (Orta),"40,00 TL",Orta Boy Pizzalar,9.0
+bdbc4369-afc6-479d-a095-5217dd2e3b7f,Ananaslı Pizza (Orta),"41,00 TL",Orta Boy Pizzalar,13.0
+cf0061ed-0328-44eb-8680-af7945769b4e,Barbekü Tavuk Pizza (Orta),"41,00 TL",Orta Boy Pizzalar,9.0
+fb38c231-249a-4a5b-8404-b75836d3846c,Benjamin Pizza (Orta),"38,00 TL",Orta Boy Pizzalar,9.0
+5569b807-e67a-4f30-b901-ad35477aad36,Bonfile Pizza (Orta),"45,00 TL",Orta Boy Pizzalar,9.0
+4e465c68-fcc6-4388-b8d9-a1467263df42,Et Dönerli Pizza (Orta),"40,00 TL",Orta Boy Pizzalar,9.0
+b82a0557-cdd5-4031-986b-f059e61545b6,Ispanaklı Pizza (Orta),"37,00 TL",Orta Boy Pizzalar,9.0
+f65dc82c-1225-4360-8bbc-77c6047b38a0,Kampüs Pizza (Orta),"38,00 TL",Orta Boy Pizzalar,9.0
+d789b3c4-5751-46a6-8c54-b9bb02b3e1c8,Kavurmalı Pizza (Orta),"47,00 TL",Orta Boy Pizzalar,9.0
+1f161178-0bab-4814-ab26-5e162453537f,Kokoreç Pizza (Orta),"60,00 TL",Orta Boy Pizzalar,9.0
+a5153c41-38a9-4506-96c7-594d7a277ab2,Mantarlı Pizza (Orta),"30,00 TL",Orta Boy Pizzalar,9.0
+3ac26278-2b26-4a24-bb4f-ca9f2e346e9a,Margherita Pizza (Orta),"32,00 TL",Orta Boy Pizzalar,9.0
+d68d2a0a-9721-4d52-b71d-d7d1bb6141ab,Meat Lovers Pizza (Orta),"45,00 TL",Orta Boy Pizzalar,9.0
+d20e9319-a09e-440c-9961-8ab74cb0c772,Milona Pizza (Orta),"40,00 TL",Orta Boy Pizzalar,9.0
+32bd6578-a3e9-477c-9942-bc5c3b1aa173,Öteki Pizza (Orta),"40,00 TL",Orta Boy Pizzalar,9.0
+c217ac72-f6cc-4fce-8a0f-12e3cc9bc391,Palermo Pizza (Orta),"40,00 TL",Orta Boy Pizzalar,9.0
+2fe24dcd-6f79-4454-9d4e-0d748bbc2df7,Patırmalı & Sucuklu Pizza (Orta),"47,00 TL",Orta Boy Pizzalar,9.0
+3ec70694-d122-413f-a95e-61fe2ab178e5,Pompei Pizza (Orta),"43,00 TL",Orta Boy Pizzalar,9.0
+e06a8687-bb28-4256-8085-71bfbec7b510,Positano Pizza (Orta),"40,00 TL",Orta Boy Pizzalar,9.0
+b3577d93-287d-41b2-924c-43a7d4e46346,Roma Pizza (Orta),"34,00 TL",Orta Boy Pizzalar,9.0
+40922262-edca-47d6-bc6a-704541f20ea7,Sicilian Pizza (Orta),"32,00 TL",Orta Boy Pizzalar,9.0
+4c9f8da4-830a-4c40-a262-d4aa522f790f,Siena Pizza (Orta),"42,00 TL",Orta Boy Pizzalar,9.0
+57d57bfc-5a04-4d4a-b056-6554d80ed92a,Sorrento Pizza (Orta),"38,00 TL",Orta Boy Pizzalar,9.0
+77472f6c-27d9-4076-bec6-8a081fa45856,Sucuklu Pizza (Orta),"38,00 TL",Orta Boy Pizzalar,9.0
+44fa0b86-9110-4f95-a433-55479c7c170c,Super Vegan Pizza (Orta),"37,00 TL",Orta Boy Pizzalar,9.0
+bba71603-296c-41dd-b9fe-39a8b68be30e,Ton Balıklı Pizza (Orta),"44,00 TL",Orta Boy Pizzalar,8.0
+2f74e921-3431-4754-a819-fc45f6944371,Vegan Pizza (Orta),"30,00 TL",Orta Boy Pizzalar,9.0
+c2cc28d4-4bb9-45c4-a49c-4f0bb00505e5,Veggie Pizza (Orta),"35,00 TL",Orta Boy Pizzalar,9.0
+edf49ae8-4342-4404-a8b7-abf1602b5706,4 Peynirli Pizza (Büyük),"49,00 TL",Büyük Boy Pizzalar,8.0
+67c09d63-8c58-4a9e-b8fe-db888f9476ef,Akdeniz Pizza (Büyük),"40,00 TL",Büyük Boy Pizzalar,9.0
+99a61588-2907-42ac-853a-7f80b8344363,Alaturka Pizza (Büyük),"49,00 TL",Büyük Boy Pizzalar,9.0
+1dc8433a-fa21-4d47-a3aa-72a3838ac82c,Ananaslı Pizza (Büyük),"52,00 TL",Büyük Boy Pizzalar,13.0
+f524a634-caf7-4f17-8aa8-05c40c63b462,Barbekü Tavuk Pizza (Büyük),"52,00 TL",Büyük Boy Pizzalar,9.0
+12adc8c5-e22a-4ac8-9940-e518ad4e9174,Benjamin Pizza (Büyük),"48,00 TL",Büyük Boy Pizzalar,9.0
+1a2cde4d-b8c1-4deb-8521-9478de424a19,Bonfile Pizza (Büyük),"57,00 TL",Büyük Boy Pizzalar,9.0
+3abcb1b5-2644-41de-9fb6-ef4517af0c4e,Et Dönerli Pizza (Büyük),"50,00 TL",Büyük Boy Pizzalar,9.0
+f3a2e94a-36b5-41bf-8e0e-791ae26cf3a4,Ispanaklı Pizza (Büyük),"47,00 TL",Büyük Boy Pizzalar,9.0
+89db0523-c3be-4059-b382-44e04e973608,Kampüs Pizza (Büyük),"47,00 TL",Büyük Boy Pizzalar,9.0
+b131cefb-4b45-4ad9-93a4-8c531a5e1b61,Kavurmalı Pizza (Büyük),"58,00 TL",Büyük Boy Pizzalar,9.0
+8c4e780f-5120-4abf-9525-01b1086247db,Kokoreç Pizza (Büyük),"85,00 TL",Büyük Boy Pizzalar,9.0
+e6bf1ad7-aa61-4ff0-99e2-75e2e41e9a20,Mantarlı Pizza (Büyük),"40,00 TL",Büyük Boy Pizzalar,9.0
+9cb51811-d3ac-4241-a26f-43a697f4a5ff,Margherita Pizza (Büyük),"39,00 TL",Büyük Boy Pizzalar,9.0
+b24fb465-c75e-4d74-a1e2-21aeda2d34f5,Meat Lovers Pizza (Büyük),"55,00 TL",Büyük Boy Pizzalar,9.0
+959128f8-658e-49ea-8387-626fde7c5924,Milona Pizza (Büyük),"49,00 TL",Büyük Boy Pizzalar,9.0
+2cd14747-6ecd-4617-a1f9-a420b18f44a8,Öteki Pizza (Büyük),"50,00 TL",Büyük Boy Pizzalar,9.0
+78157dca-b9bf-4975-bf49-0afe946ca5bc,Palermo Pizza (Büyük),"49,00 TL",Büyük Boy Pizzalar,9.0
+f9e3c830-3e21-4614-9f3b-c4bc6424acd9,Patırmalı & Sucuklu Pizza (Büyük),"58,00 TL",Büyük Boy Pizzalar,9.0
+c9763362-29cc-44cb-b4eb-68c389a8ad5e,Pompei Pizza (Büyük),"54,00 TL",Büyük Boy Pizzalar,9.0
+5a78cede-f35a-4fa8-b6a9-c2704eb68aa6,Positano Pizza (Büyük),"52,00 TL",Büyük Boy Pizzalar,9.0
+96c4c3ad-d748-4a12-8bd2-327c349a3e8f,Roma Pizza (Büyük),"46,00 TL",Büyük Boy Pizzalar,9.0
+e2bc5ee7-5722-4ca2-ba27-67cf50ce3aa6,Sicilian Pizza (Büyük),"42,00 TL",Büyük Boy Pizzalar,9.0
+4c99ef8b-f896-4b7c-9da7-f6b8651497bf,Siena Pizza (Büyük),"52,00 TL",Büyük Boy Pizzalar,9.0
+03979680-acf4-44c6-8763-394294339a0e,Sorrento Pizza (Büyük),"48,00 TL",Büyük Boy Pizzalar,9.0
+4d1d3906-325d-4f0e-8dcc-4ec458973a75,Sucuklu Pizza (Büyük),"48,00 TL",Büyük Boy Pizzalar,9.0
+ac4398ae-b0c6-4d6f-a7f2-7bf4621e7e11,Super Vegan Pizza (Büyük),"46,00 TL",Büyük Boy Pizzalar,9.0
+aec1cab2-34a0-49fb-b334-a069bf4c0354,Ton Balıklı Pizza (Büyük),"55,00 TL",Büyük Boy Pizzalar,8.0
+c04554f3-2a11-4730-80cf-6a2ece83136f,Vegan Pizza (Büyük),"39,00 TL",Büyük Boy Pizzalar,9.0
+11cdb452-824d-4c42-8c89-3103f626d64e,Veggie Pizza (Büyük),"45,00 TL",Büyük Boy Pizzalar,9.0
+e6437f50-62cf-4d96-88a5-eb5ad80fb2f0,Ton Balıklı Salata,"26,00 TL",Salatalar,4.0
+a1d0e32a-daa2-4662-9c4f-c8182af29072,Sezar Salata,"25,00 TL",Salatalar,5.0
+929ffaa5-66ae-4c46-b1c1-1ca4fc0c4b14,Akdeniz Salata,"27,00 TL",Salatalar,5.0
+FC1CC5DF-0C0E-42EA-B5E6-9E5B147FE6CF,Brownie,"19,00 TL",Tatlılar,7.0
+47E8E054-A2F0-4223-B098-29E895B7B186,Oreo Cheesecake,"20,00 TL",Tatlılar,5.0
+e1c5545d-dc56-4291-961a-1d0be6498a8d,Ballı Cevizli,"17,00 TL",Tatlılar,6.0
+d28e79ea-ad74-4cf3-9401-64c0aa2c8070,Ballı Fıstıklı,"17,00 TL",Tatlılar,6.0
+a49366c5-b426-4b34-9852-65650ed47341,Bella Vista,"17,00 TL",Tatlılar,5.0
+b17f6419-ed6a-4faf-bfb6-fa9e39e3a8ac,Latte Pasta,"17,00 TL",Tatlılar,9.0
+283db8ff-972c-4e40-a8d9-eb627fd72c2b,Mozaik Pasta,"15,00 TL",Tatlılar,8.0
+1110430a-c34a-49ec-a28e-632c933b8637,İspanyol Cheesecake,"20,00 TL",Tatlılar,5.0
+b7111637-df83-4473-a568-849ad18b7da3,Poşet,"0,25 TL",Poşet,5.0

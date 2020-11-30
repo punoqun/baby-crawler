@@ -1,0 +1,48 @@
+food_id,food_name,food_price,food_category,food_score
+6ad6018c-494b-406c-8e04-48ba60cd63c5,2'li Kanka Menü,"54,90 TL",Avantajlı Menüler,5.0
+898c3e4e-451a-428f-b4bf-02625440eaa2,3'lü Kanka Menü,"79,90 TL",Avantajlı Menüler,5.0
+3a522aea-71aa-448e-b754-f1516fd041f3,2'li Tavuk Sever Menü,"50,90 TL",Avantajlı Menüler,5.0
+a0404071-276f-4b37-be19-3515cdadb454,2'li Hot Dog Menü,"37,90 TL",Avantajlı Menüler,5.0
+43fcac45-609a-4798-ae24-c24238b11862,2'li Islak Hamburger Menü,"23,90 TL",Avantajlı Menüler,2.0
+538dd4c8-bb50-4358-ba47-7d90d54943b5,3'lü Islak Hamburger Menü,"32,90 TL",Avantajlı Menüler,2.0
+96f610f4-2364-4d6b-b87c-88360777b986,2'li Sandviç Menü,"39,90 TL",Avantajlı Menüler,5.0
+3133d01b-306e-44c6-9716-2b3d5cd96fdf,King Menü,"89,90 TL",Avantajlı Menüler,5.0
+7899428e-ff3a-4b9a-9752-65d200c57e8f,Mini Aile Menü,"75,90 TL",Avantajlı Menüler,5.0
+088aaa60-92eb-4430-8dd9-6ab25a12f308,Midi Aile Menü,"102,90 TL",Avantajlı Menüler,5.0
+aef87c14-7dab-4403-bc2d-74edf7186d1d,Maksi Aile Menü,"122,90 TL",Avantajlı Menüler,5.0
+cbf5f952-4428-46e5-bc50-f9bbbdc8e33d,Çocuk Menüsü,"21,90 TL",Avantajlı Menüler,5.0
+0bdda77b-6f78-4968-a771-a393ef84e47e,Double Cheeseburger,"37,90 TL",Burgerler,5.0
+bf5a128e-70bd-4055-bfa6-2ef1287298de,Tjiuana Burger (Acılı),"26,90 TL",Burgerler,6.0
+18f1b9b9-5aa1-4438-b5c8-2b0b45451d68,Bly the Kid Burger,"29,90 TL",Burgerler,6.0
+4982280d-e21c-4bfc-b793-78950994b5af,Bigger Burger,"29,90 TL",Burgerler,6.0
+aa8415eb-b478-49df-9b16-e94157ff6b69,Protein Burger,"25,90 TL",Burgerler,6.0
+39880de7-f88d-48bd-a0cf-37126f1df6b9,Hawaii Burger,"29,90 TL",Burgerler,6.0
+57a711ca-74ae-444a-8015-3ef68106cb98,Ottoman Burger,"32,90 TL",Burgerler,6.0
+39357768-ca61-4f6a-b70b-f2499d48c50a,Rokfor Burger,"26,90 TL",Burgerler,6.0
+3fe24cc7-d9f4-42a9-a480-6269bd2618eb,Kıbrıs Burger,"25,90 TL",Burgerler,6.0
+2356dada-8bcf-4b1b-900a-321ba27cc31c,Kavurmalı Burger,"34,90 TL",Burgerler,6.0
+01a2e3e6-d374-47b3-a1a4-af569dfe49dd,Adios Burger,"23,90 TL",Burgerler,6.0
+e306aacc-1269-4a98-9a9a-c3b1040fcecf,Houston Burger,"64,90 TL",Burgerler,6.0
+22d720b4-c947-4d31-8746-557cf53ddc8b,Roast Beef Burger,"44,90 TL",Burgerler,6.0
+c4068ce2-6d5c-4deb-afa1-028997184548,Chicken Burger,"23,90 TL",Burgerler,6.0
+a16909fe-1e16-4cb2-a2bd-ba2681e9154a,Hot Chicken Burger,"25,90 TL",Burgerler,6.0
+65b12ba5-e8a9-4cf4-9000-742378bab0dd,Classic Islak Hamburger,"9,90 TL",Islak Hamburgerler,2.0
+897f5052-f0ad-43af-a7d4-a7cddfb347d2,Diana Islak Hamburger,"9,90 TL",Islak Hamburgerler,2.0
+40d59c8a-a40d-493a-a1f9-463979eeb87a,Mexico Islak Hamburger,"9,90 TL",Islak Hamburgerler,2.0
+19e6bc18-9650-401f-8e6f-0eb4fd16e312,Diana Hot Dog,"18,90 TL",Hot Dogs,5.0
+320c126a-b112-4a5c-9931-d1470d9da0d1,Classic Hot Dog,"16,90 TL",Hot Dogs,5.0
+7cd83489-044a-49ab-bcce-2ceb200680c3,Mexico Hot Dog,"18,90 TL",Hot Dogs,5.0
+3582c934-6089-4fde-af9a-5187636a1e0f,Soğan Halkası (6 Adet),"9,00 TL",Yan Ürünler,5.0
+3b884ac3-41db-494e-9c15-02306d449963,Acılı Tavuk,"11,00 TL",Yan Ürünler,5.0
+47a593d8-9a5e-4c76-915a-627d37b12930,Patates Kızartması,"8,00 TL",Yan Ürünler,10.0
+589edbce-cb9c-47e9-b095-e80d8fe0f0f8,Aperitif Tabağı,"18,00 TL",Yan Ürünler,5.0
+6fd96c32-4573-43ba-ac55-768815a89516,Patates Kroket,"7,00 TL",Yan Ürünler,10.0
+e65a4616-d15f-4aab-86d9-b6b8f87566c9,Çıtır Tavuk,"11,00 TL",Yan Ürünler,5.0
+ea7a9ddc-9547-40c5-9a4e-897409910365,Ev Yapımı Mozzarella Sticks (6 Adet),"12,00 TL",Yan Ürünler,5.0
+b5387f83-b975-4da0-b5a0-e2924dcaf73a,Ev Yapımı Sufle,"9,90 TL",Tatlılar,4.0
+4FBDEFAB-8E83-417F-9769-13DA31C51B0C,Algida Carte d'Or Mini Cup Çikolata Karnavalı (110 ml.),"8,00 TL",Dondurmalar,5.0
+816FD0F6-1B95-43DB-AAFF-D3AD5FB037DC,Algida Carte d'Or Mini Cup Çilekli Yoğurtlu (110 ml.),"8,00 TL",Dondurmalar,5.0
+2EDA2503-82C1-47CD-83C0-6FD57252EF7F,Magnum Cup (100 ml.),"11,90 TL",Dondurmalar,5.0
+C1A62BC3-C5E3-4DC9-8B93-1A85D986A5E7,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"12,90 TL",Dondurmalar,5.0
+42941255-869f-47d9-8857-897f55c4e8b2,Algida Maraş Usulü Cup Dondurma (100 ml.),"8,00 TL",Dondurmalar,5.0
+96de22c9-0cc7-41f5-ba62-2cf158cd4a78,Poşet,"0,25 TL",Poşet,5.0

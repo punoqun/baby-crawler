@@ -1,0 +1,40 @@
+food_id,food_name,food_price,food_category,food_score
+f7492f05-52b3-4426-9e24-51067442493b,Aİle Menü (5 Kişilik),"160,00 TL",Menüler,9.0
+01b1cb7e-1c9e-418c-94ef-0c4c007c308d,Adana Dürüm Menü,"14,00 TL",Dürüm Menüleri,11.0
+d2670c39-97eb-4b93-9d49-ec4e721b85b8,Urfa Dürüm Menü,"14,00 TL",Dürüm Menüleri,10.0
+bacb1228-de31-4036-b87f-44a28bc563b9,Kuzu Şiş Dürüm Menü,"16,00 TL",Dürüm Menüleri,8.0
+eff0aae1-cb4b-46f3-9c07-fdc1b0168b82,Ciğer Şiş Dürüm Menü,"16,00 TL",Dürüm Menüleri,10.0
+176e8b5f-043b-4af3-b76c-c0bd7256f233,Tavuk Şiş Dürüm Menü,"12,00 TL",Dürüm Menüleri,19.0
+9f8d087c-d485-4787-8277-f0244e37a6f9,Adana Kebap,"28,00 TL",Kebaplar,5.0
+602120c6-e810-4705-88cf-de473f3e14f3,Urfa Kebap,"28,00 TL",Kebaplar,9.0
+882cba43-d403-4b8c-b10e-c5eaf7b6df6a,Sarma Beyti Kebap,"35,00 TL",Kebaplar,11.0
+ee726ac5-02e9-434b-9433-5df1a5ad6bd9,Domatesli Kebap,"30,00 TL",Kebaplar,9.0
+dd9f4bd2-477b-499b-8002-6c7e946022c8,Patlıcanlı Kebap,"35,00 TL",Kebaplar,9.0
+e4f6207e-a20d-44b0-97f4-7e0ae1115c00,Bozo Special Kebap,"85,00 TL",Kebaplar,11.0
+4c3ff775-a8e1-4e85-9b3c-b1866cd6f36b,Kuşbaşılı Pide,"20,00 TL",Pideler,9.0
+ba8aecf7-abe2-4458-8f11-45ffb13640c5,Kuşbaşılı Kaşarlı Pide,"22,00 TL",Pideler,10.0
+f942d49d-f51f-406f-88e1-2b934caf03bd,Kıymalı Pide,"20,00 TL",Pideler,9.0
+fa3ffb96-0a00-42fa-9263-780e28a1e791,Kıymalı Kaşarlı Pide,"22,00 TL",Pideler,10.0
+393ae8ad-bf39-473a-b923-0068ef852a40,Kıymalı Yumurtalı Pide,"22,00 TL",Pideler,9.0
+0b3a83bb-37fc-4259-8538-7566c30681ac,Karışık Pide,"25,00 TL",Pideler,9.0
+e1d738d7-b29b-4f76-bd13-53fa0d40ecfb,Mevlana Pide,"25,00 TL",Pideler,9.0
+4dbce95d-bb3d-4f6b-83aa-00c2b08a2319,Lahmacun,"6,00 TL",Lahmacunlar,9.0
+56e160f0-9aec-444d-abd9-c13d2ca623ee,Özel Lahmacun,"8,00 TL",Lahmacunlar,6.0
+185d10b4-1957-4b2c-8140-dd8b31974e52,Ciğer Şiş,"32,00 TL",Izgaralar,5.0
+4c20af2a-2248-4f0c-919a-a2cadeb9fd59,Çöp Şiş,"32,00 TL",Izgaralar,5.0
+f119899f-0bcc-4d22-8de8-90e50c2085ee,Kuzu Şiş,"32,00 TL",Izgaralar,3.0
+7126b484-5644-40ce-9b4a-adb13ec09a68,Tavuk Şiş,"25,00 TL",Izgaralar,9.0
+3449bb91-c9dd-47e0-9272-6a11860783a1,Tavuk Kanat,"25,00 TL",Izgaralar,9.0
+517f6719-9392-4b11-b353-cee2e129b562,Izgara Tavuk,"25,00 TL",Izgaralar,9.0
+d6d353f3-59cb-4d5b-8cd9-34124912c6ac,Tavuk Kelebek,"25,00 TL",Izgaralar,9.0
+daeb9b1a-4feb-45e7-9c21-5055116a753d,Tavuk Pirzola,"25,00 TL",Izgaralar,9.0
+ec955e59-5aaa-4a8a-951e-ae27d636f885,Dana Bonfile,"80,00 TL",Izgaralar,5.0
+72fab620-f96c-4601-9f4a-6993d8485bd9,Bozo Steak,"85,00 TL",Izgaralar,7.0
+3f7b0f0a-d244-4890-9171-a760aef3fa66,Kuzu Pirzola,"60,00 TL",Izgaralar,3.0
+e7f3c74b-71de-4f97-8076-647791099007,Tavuk Fajita,"29,00 TL",Diğer Lezzetler,8.0
+dd8a0a85-8439-4c49-8d3e-066d76cdb741,Dana Bonfile Fajita,"35,00 TL",Diğer Lezzetler,4.0
+d6a10f40-87b1-4cf5-9c6c-8770dd9cc3b1,Combo Fajita,"35,00 TL",Diğer Lezzetler,4.0
+dee58337-ff78-4973-9ff1-6c3b6cb9b6eb,Köri Soslu Tavuk,"35,00 TL",Diğer Lezzetler,9.0
+c0d9ac16-3d9c-4b00-bae5-d1cfe93276d7,Yarım Ekmek Arası Köfte,"15,00 TL",Diğer Lezzetler,7.0
+282286be-fd77-4bbb-84f0-ed9612654990,Fıstıklı Baklava,"18,00 TL",Tatlılar,5.0
+a70a2fa9-98ec-4673-a4a2-b413b1e82b2c,Poşet,"0,25 TL",Poşet,6.0

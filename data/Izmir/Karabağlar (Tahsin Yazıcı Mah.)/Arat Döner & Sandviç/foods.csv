@@ -1,0 +1,76 @@
+food_id,food_name,food_price,food_category,food_score
+d8d3f855-07d1-4663-b3af-d29530e3ea68,Ayvalık Tostu Menü,"23,90 TL",Menüler,4.0
+06266f51-8834-4935-804a-61a1981449d0,Cheeseburger Menü,"25,90 TL",Menüler,3.0
+990B1309-39D0-4351-A51E-95F884C76C34,Cheeseburger Menü 2,"21,00 TL",Menüler,1.0
+3024467d-c17d-4700-9d2e-bb0bcac35ae0,Double Burger Menü,"27,90 TL",Menüler,9.0
+3fe703cb-1662-4202-a104-810d02854162,Hamburger Menü,"24,90 TL",Menüler,3.0
+D52B66C2-B91E-4B8D-8925-11FA2DB98113,Hamburger Menü 3,"21,00 TL",Menüler,-2.0
+be62084b-fcde-4cf1-b614-5dc242c21f2e,Jumbo Karışık Sandviç Menü,"26,90 TL",Menüler,11.0
+DA71E2D5-BC9A-4DA7-B14D-99D0D296575C,Jumbo Karışık Sandviç Menü 2,"21,00 TL",Menüler,5.0
+1d543eee-4231-445f-ad7c-deb64d3257a4,Karışık Hamburger Menü,"24,90 TL",Menüler,2.0
+5964d12a-7037-4709-9b7c-761d85015f50,Kumru Sandviç Menü,"24,90 TL",Menüler,13.0
+49212a18-353f-4735-8bf5-40b00bf2bd0e,Pastırmalı Kaşarlı Sandviç Menü,"27,90 TL",Menüler,12.0
+FD1E56EE-6F24-41CF-853A-9888AEAEE2BF,Tavuk Döner Dürüm (100 gr.) Menü,"13,00 TL",Menüler,10.0
+7E262C86-7978-45AD-A23D-1977F5D6B4F5,Tavuk Döner Dürüm (150 gr.) Menü,"15,00 TL",Menüler,10.0
+8cb4505c-ffdb-43f9-8fbc-ba653f86ae68,Tavuk Döner Dürüm Menü,"17,90 TL",Menüler,10.0
+55f7f3b3-b236-484e-945d-d07b4e3e535a,Tavuk Döner Menü,"19,90 TL",Menüler,10.0
+7AC68122-32FE-4843-A5C6-0754BBCD2CB8,Tombik Ekmek Arası Tavuk Döner (100 gr.) Menü,"13,00 TL",Menüler,12.0
+B66488BF-1FC2-4FF5-9CFA-23403D92DB5C,Tombik Ekmek Arası Tavuk Döner (150 gr.) Menü,"15,00 TL",Menüler,12.0
+b1a2c830-d2b6-4391-8160-2591322b87df,Tombik Ekmek Arası Tavuk Döner Menü,"17,90 TL",Menüler,12.0
+B760844C-8014-4C0B-9E0D-26C96E44E3EF,Yarım Ekmek Arası Tavuk Döner (140 gr.) Menü,"15,00 TL",Menüler,11.0
+25347310-B055-4935-9A74-3EFB2C317272,Yarım Ekmek Arası Tavuk Döner (80 gr.) Menü,"13,00 TL",Menüler,11.0
+bb591f3b-3235-4011-80ef-0dd58d93ae1d,Yarım Ekmek Arası Tavuk Döner Menü,"15,90 TL",Menüler,11.0
+57a625a3-4404-4c64-ac7f-ffcd07a181f0,Yumurtalı Karışık Sandviç Menü,"25,90 TL",Menüler,10.0
+9bd1045b-9da5-4736-9e30-4ec1eac2f5bc,Yumurtalı Kavurmalı Kaşarlı Sandviç Menü,"27,90 TL",Menüler,9.0
+385574ba-5c1b-4712-9287-a46a5228326a,Yumurtalı Pastırma Sayaslı Sandviç Menü,"27,90 TL",Menüler,12.0
+423fb97f-789d-4d25-ac34-20565d67a70f,Tavuk Döner Dürüm,"12,00 TL",Tavuk Dönerler,11.0
+84e505a5-bc6c-431c-a8a5-43fa476e4acd,Tombik Ekmek Arası Tavuk Döner,"12,00 TL",Tavuk Dönerler,13.0
+8516bb28-55f3-4c10-94cf-e05a155543a3,Yarım Ekmek Arası Tavuk Döner,"10,00 TL",Tavuk Dönerler,12.0
+a39fd203-146f-45cf-96f4-60890db6fe63,Tavuk Döner,"15,00 TL",Tavuk Dönerler,11.0
+a9077457-c954-4b32-be7f-87427a2bd2aa,Ayvalık Tostu,"17,90 TL",Tostlar,5.0
+61df4b33-c55a-4810-b933-69153d6799a9,Cheddarlı Sandviç,"13,00 TL",Sandviçler,12.0
+d64349f5-d253-4a6f-a24b-66e32d930627,Jumbo Karışık Sandviç,"19,90 TL",Sandviçler,12.0
+830669ad-408d-4fc7-a99e-b00f1efab8c4,Karışık Sayaslı Sandviç,"18,90 TL",Sandviçler,11.0
+d65a93e0-e87b-47b2-bad8-dada4b69b1b1,Kaşarlı Sandviç,"13,00 TL",Sandviçler,12.0
+124f7182-e80b-4d26-a700-a31a9db8670e,Kavurma Cheddar Sandviç,"21,90 TL",Sandviçler,10.0
+c90b38b1-9079-4e77-bd6a-e6dde9bf532b,Kavurmalı Karışık Sandviç,"21,90 TL",Sandviçler,9.0
+51009924-3a3e-4c3a-bc8d-bb3abd30a37f,Kavurmalı Kaşarlı Sandviç,"21,90 TL",Sandviçler,10.0
+fff72a16-f9f1-4f85-99c7-f0a817d1fa12,Kavurmalı Sandviç,"21,90 TL",Sandviçler,10.0
+98e6266c-a93b-47d8-835d-2c8b28092dea,Kavurmalı Sayaslı Sandviç,"21,90 TL",Sandviçler,10.0
+133bfb02-91ff-4e2d-a9c1-a025f6867760,Osmanlı Sucuğu Kaşarlı Sandviç,"20,90 TL",Sandviçler,12.0
+adfea7ba-6d04-4354-8c09-564f87ee8794,Osmanlı Sucuklu Sandviç,"19,90 TL",Sandviçler,12.0
+f12384e9-9549-4de1-8874-532eae6c4ca8,Pastırmalı Karışık Sandviç,"21,90 TL",Sandviçler,12.0
+b1f59ae6-ad04-47d9-ac22-7d97828565fb,Pastırmalı Kaşarlı Sandviç,"21,90 TL",Sandviçler,13.0
+4cd3b9aa-fe21-4b87-9641-9d0db49be07b,Pastırmalı Sandviç,"21,90 TL",Sandviçler,13.0
+321de903-f3e1-4028-9aa3-cd0ec7f0ee30,Pastırmalı Sayaslı Sandviç,"21,90 TL",Sandviçler,13.0
+3fc7d67c-0bcf-4052-bca8-11f405121ed4,Pastırmalı Sucuklu Kaşarlı Sandviç,"21,90 TL",Sandviçler,13.0
+a51aec34-a5d2-492e-9fed-a45596b1f31e,Salamlı Kaşarlı Sandviç,"16,90 TL",Sandviçler,12.0
+f646505a-f7eb-4194-b6f3-e86bfe5b9da9,Salamlı Sandviç,"13,00 TL",Sandviçler,12.0
+6e634486-ae0a-42e5-b862-6cf8dda04ded,Salamlı Sayaslı Sandviç,"16,90 TL",Sandviçler,12.0
+239ed649-1e7d-4463-ab9d-7561781efa08,Sosisli Kaşarlı Sandviç,"16,90 TL",Sandviçler,12.0
+9eee0f85-608b-448d-babc-e20af18f38a3,Sosisli Sandviç (Sıcak),"13,00 TL",Sandviçler,12.0
+c2df0f8e-5698-456c-8b87-1acf2c0834a0,Sosisli Sayaslı Sandviç,"16,90 TL",Sandviçler,12.0
+c2240b4e-3dac-4ffa-80b0-1ca256625ae8,Sucuklu Cheddarlı Sandviç,"16,90 TL",Sandviçler,12.0
+909cec5b-200e-4b7a-9328-0bea5601231b,Sucuklu Kaşarlı Sandviç,"16,90 TL",Sandviçler,12.0
+7a32c19b-f888-42d5-b43e-b8ac315752fd,Sucuklu Kaşarlı Sayaslı Sandviç,"18,90 TL",Sandviçler,12.0
+ad31924e-72c5-475a-a020-6b61329868de,Sucuklu Sandviç,"13,00 TL",Sandviçler,12.0
+fef3ebc2-3437-48ca-87c9-dc9f8eb0e02e,Sucuklu Sayaslı Sandviç,"16,90 TL",Sandviçler,12.0
+f789ef20-198b-4901-81b8-35a8bc835e8c,Yumurta Osmanlı Sucuğu Kaşar Sandviç,"22,90 TL",Sandviçler,14.0
+45f1d20a-487c-46d6-b909-b28a081ceab2,Yumurtalı & Pastırmalı & Sucuklu & Kaşarlı Sandviç,"22,90 TL",Sandviçler,13.0
+25a7c67f-00c9-4ad4-8d06-f326c3d9ad6c,Yumurtalı Karışık Kavurmalı Sandviç,"22,90 TL",Sandviçler,9.0
+7ce8316e-2c87-440a-9142-363221d2b631,Yumurtalı Karışık Pastırmalı Sandviç,"22,90 TL",Sandviçler,12.0
+842040e8-177e-4730-ac36-a0a7274f6750,Yumurtalı Karışık Sandviç,"19,90 TL",Sandviçler,11.0
+e3969bc5-c452-42c4-a8fc-811b8a109ad1,Yumurtalı Karışık Sayaslı Sandviç,"20,90 TL",Sandviçler,11.0
+7b019590-b46a-4972-8f43-12ea35bc060e,Yumurtalı Kavurmalı Cheddarlı Sandviç,"23,90 TL",Sandviçler,10.0
+09086631-ffa7-4da6-94a9-c2781c2c31e1,Yumurtalı Kavurmalı Kaşarlı Sandviç,"23,90 TL",Sandviçler,10.0
+56b4b570-39eb-453f-9a51-1d46c85c182f,Yumurtalı Kavurmalı Sayaslı Sandviç,"23,90 TL",Sandviçler,10.0
+9bdd0c2b-675a-4d55-94e0-4ef1c20d4ccf,Yumurtalı Pastırmalı Kaşarlı Sandviç,"23,90 TL",Sandviçler,13.0
+0d1d8614-ef60-4c29-a93e-8b33e7fe27f3,Yumurtalı Pastırmalı Sayaslı Sandviç,"23,90 TL",Sandviçler,13.0
+4bcd9395-5584-4537-800b-719b5d3f839b,Yumurtalı Salamlı Kaşarlı Sandviç,"19,90 TL",Sandviçler,12.0
+96068ea6-4024-41fb-9192-95df94f32d08,Yumurtalı Salamlı Sayaslı Sandviç,"19,90 TL",Sandviçler,12.0
+a2158969-1c1a-4856-87c5-65d9bf8b7ca3,Yumurtalı Sosisli Kaşarlı Sandviç,"19,90 TL",Sandviçler,12.0
+8881eeab-9ed6-44bf-b1db-b9c786b034b8,Yumurtalı Sucuklu Kaşarlı Sandviç,"19,90 TL",Sandviçler,12.0
+5c5773bb-5714-48ba-9e2b-48988a71caca,Yumurtalı Sucuklu Sayaslu Sandviç,"19,90 TL",Sandviçler,12.0
+44cd2e12-d746-4699-ae6d-cd415bc51920,Double Burger,"26,90 TL",Burgerler,5.0
+44f65090-05d8-4432-86ba-c1ed335e2f55,Cheeseburger,"19,90 TL",Burgerler,4.0
+b5e318a2-1023-441e-a646-ba8620358332,Hamburger,"18,90 TL",Burgerler,4.0

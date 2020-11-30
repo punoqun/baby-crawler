@@ -1,0 +1,33 @@
+food_id,food_name,food_price,food_category,food_score
+2e5a61a3-cb84-438f-b7b8-dad03cbb2117,Kaşarlı Mini Pizza,"7,00 TL",Kahvaltılıklar,7.0
+49c4adc7-21df-434a-82e3-bb6f0d110ea6,Sucuklu Mini Pizza,"8,00 TL",Kahvaltılıklar,5.0
+aed27e42-b9bb-489b-8101-cc69081503eb,Kıymalı Kaşarlı Mini Pizza,"8,00 TL",Kahvaltılıklar,9.0
+2bb4a886-7a19-4de1-a9b6-758ee950192a,Kıymalı Kır Pidesi,"3,50 TL",Kır Pideleri,18.0
+4f9030ea-99d3-4879-9723-be5ae1f542fd,Patatesli Kır Pidesi,"3,50 TL",Kır Pideleri,16.0
+f9dfbb08-67ac-43a1-a0d2-f2c5f9f35c3c,Peynirli Kır Pidesi,"3,50 TL",Kır Pideleri,11.0
+b857bcf1-c335-4fac-a914-1dc35f77fab4,Kaşarlı Pide,"16,00 TL",Pideler,2.0
+228E9D9A-6862-4701-B27F-88DD00F8BB2D,Mevlana Pide,"18,00 TL",Pideler,0.0
+9B618F82-8F47-4418-9B28-704765DA261A,Ispanaklı Kıymalı Kaşarlı Pide,"7,50 TL",Pideler,4.0
+26E73428-7059-4495-B203-7ADE0D9D139F,Ispanaklı Peynirli Kaşarlı Pide,"7,50 TL",Pideler,2.0
+607811a2-060a-41c8-a3f9-a5f47ac02b34,Kıymalı Pide,"18,00 TL",Pideler,2.0
+66fd0fc6-69c0-4377-95f4-357294c9083f,Patatesli Kaşarlı Pide,"15,00 TL",Pideler,2.0
+7b9eca25-4ae8-48e2-a7e8-2eea6a012962,Mantarlı Kaşarlı Pide,"16,00 TL",Pideler,3.0
+44b1b36e-cf35-4ef1-9567-141e94f59a82,Tavuklu Kaşarlı Pide,"16,00 TL",Pideler,3.0
+fffdc469-c522-4388-b184-f0fb03bcaf7b,Sucuklu Pide,"20,00 TL",Pideler,0.0
+1ef15d34-6077-403e-ac43-c707e40aa583,Kaşarlı Sucuklu Pide,"20,00 TL",Pideler,2.0
+c9536ac3-4b84-48a2-97c6-14af41ac01ba,Kıymalı Kaşarlı Pide,"19,00 TL",Pideler,4.0
+f1c38a80-57ab-49d8-984f-a88dd355361c,Kuşbaşılı Kaşarlı Pide,"22,00 TL",Pideler,3.0
+d96f6272-b600-42a8-924e-923e9e799f7b,Karışık Pide,"22,00 TL",Pideler,0.0
+347cb963-0746-4459-9773-feedb419360c,Kavurmalı Kaşarlı Pide,"22,00 TL",Pideler,0.0
+791cc0ec-1775-46ea-a3aa-c6d79eb739cf,Kavurmalı Pide,"22,00 TL",Pideler,-2.0
+257694f4-5f68-4618-82fc-a732303dd1fe,Sofram Spesiyal Pizza (Küçük),"22,00 TL",Pizzalar,5.0
+2f79664c-c8e7-4ae6-bfe5-63fe13ac2db3,Mantarlı Kaşarlı Sote,"18,00 TL",Diğer Lezzetler,8.0
+78eea73c-d006-410a-8e9c-5881fd159c90,Et Sote,"22,00 TL",Diğer Lezzetler,4.0
+c48367ed-4a2b-47d0-9f95-c0cfbf699637,Tavuk Sote,"18,00 TL",Diğer Lezzetler,6.0
+8A5A5290-E11B-4A42-B68E-EB1EDC51A3F7,Çoban Salata,"6,00 TL",Salatalar,4.0
+306f5487-7bd6-421f-9fec-8c58267d9eb7,Fırın Sütlaç,"8,00 TL",Tatlılar,5.0
+758042cd-3471-44e8-9e03-78f0addec402,Künefe,"10,00 TL",Tatlılar,6.0
+fcc68567-89dc-4d09-95e9-498cfd0c7a8f,Antep Katmer Tatlısı,"12,00 TL",Tatlılar,6.0
+354b9027-183d-4a82-bb48-b6b35370f7a3,Uludağ Limonata (33 cl.),"3,50 TL",İçecekler,5.0
+282BF8A1-A465-4018-A81F-44D767809524,"Su (1,5 L.)","4,00 TL",İçecekler,7.0
+eb6cbf92-3637-41e6-bef7-a24668d696d2,Poşet,"0,25 TL",Poşet,5.0

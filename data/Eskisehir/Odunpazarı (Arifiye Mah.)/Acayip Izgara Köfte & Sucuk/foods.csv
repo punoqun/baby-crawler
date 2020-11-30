@@ -1,0 +1,70 @@
+food_id,food_name,food_price,food_category,food_score
+d344a785-53f1-4a4a-9b16-b81ce2365244,Bazlama Ekmek Arası Doy Doy Izgara Sucuk Menü 1,"31,50 TL",Menüler,11.0
+d68bf785-2523-4c85-bcd8-e19b4aeb54ce,Bazlama Ekmek Arası Doy Doy Izgara Sucuk Menü 2,"25,90 TL",Menüler,-1.0
+08cb5dc5-f2fc-4a1c-a484-f02bfe5fc676,Bazlama Ekmek Arası Izgara Sucuk Menü 1,"30,80 TL",Menüler,11.0
+028c8da4-b74e-4633-ba59-aa5855687912,Bazlama Ekmek Arası Izgara Sucuk Menü 2,"25,90 TL",Menüler,-1.0
+4f42e050-1fc9-45a1-a0a7-a735a46da3ad,Bazlama Ekmek Arası Izgara Tavuk Menü 1,"30,80 TL",Menüler,14.0
+3ff67126-2c43-4801-806f-2d349ad9cd0e,Bazlama Ekmek Arası Izgara Tavuk Menü 2,"25,90 TL",Menüler,2.0
+64867f48-67b7-41e6-85cc-1b6e5d375377,Bazlama Ekmek Arası Tavuk Şnitzel Menü 1,"29,40 TL",Menüler,16.0
+cbefe3ca-6c1b-4e66-8735-8bf45a251ab4,Bazlama Ekmek Arası Tavuk Şnitzel Menü 2,"23,80 TL",Menüler,3.0
+84a1bfa1-eea8-400c-aabd-61a44837f5b1,Yarım Ekmek Arası Izgara Sucuk Menü 1,"29,40 TL",Menüler,8.0
+69810f68-895a-45c8-8c1e-21796527c266,Yarım Ekmek Arası Izgara Sucuk Menü 2,"23,80 TL",Menüler,-4.0
+2c82e96d-488c-4e4e-ae34-316af4d95e15,Yarım Ekmek Arası Izgara Tavuk Menü 1,"29,40 TL",Menüler,11.0
+fea94428-b2a7-45cd-9ced-cda5b1ed1c15,Yarım Ekmek Arası Izgara Tavuk Menü 2,"23,80 TL",Menüler,-1.0
+11780a4b-9c56-4a3f-8bf3-d04d131be24c,Yarım Ekmek Arası Tavuk Şnitzel Menü 1,"28,70 TL",Menüler,13.0
+7d21e8be-c734-4b9e-b247-fa7d754a77d2,Yarım Ekmek Arası Tavuk Şnitzel Menü 2,"23,10 TL",Menüler,0.0
+dcbdb77f-41a8-48ba-b0ac-0c453b4a5d41,King Sporcu Menü,"30,10 TL",Sporcu Menüleri,17.0
+66e31741-7ef5-4738-a97f-2d05c7379e59,Köfte Menü 1,"21,00 TL",Sporcu Menüleri,15.0
+2338a05d-0852-424b-95e4-a89b83861897,Köfte Menü 2,"24,50 TL",Sporcu Menüleri,2.0
+29d3697a-6921-44a9-bbdd-6ac64ccb3887,Tavuklu Menü 1,"20,30 TL",Sporcu Menüleri,11.0
+8dba523a-313e-4496-a8f6-754b2a91d760,Tavuklu Menü 2,"21,00 TL",Sporcu Menüleri,3.0
+f188a71a-6c84-4392-a0ac-7a6cbd98b833,Hamburger Menü 1,"28,00 TL",Burger Menüleri,16.0
+b1583698-3096-4422-b36a-6a2b7298a71b,Hamburger Menü 2,"22,40 TL",Burger Menüleri,3.0
+1e60ceaf-92a5-44d3-9574-6295e62c380a,Bazlama Ekmek Arası Köfte Menü 1,"30,80 TL",Köfte Menüleri,18.0
+23b0a5b8-3b73-4480-b791-1b3af3602c6e,Bazlama Ekmek Arası Köfte Menü 2,"25,20 TL",Köfte Menüleri,5.0
+362d6bad-fb7e-4d76-ae0f-415e98d2f324,Yarım Ekmek Arası Köfte Menü 1,"29,40 TL",Köfte Menüleri,15.0
+eb3e4182-7266-4b1c-bd43-f40b1bd7cb7f,Yarım Ekmek Arası Köfte Menü 2,"23,80 TL",Köfte Menüleri,2.0
+0e584f3a-d85c-4055-beb7-f41796ff989f,3 Peynirli Patso Sandviç,"13,30 TL",Sandviçler,6.0
+2d52ce25-4691-462d-b061-c9246ce09f2a,Hodri Meydan Sandviç,"12,60 TL",Sandviçler,5.0
+389b52c2-42db-40ab-b94a-80eea944a736,Tavuk Kavurma Sandviç,"12,60 TL",Sandviçler,7.0
+e34533a1-1368-4151-bd0a-6f6e2a477ad3,Mantarlı Kaşarlı Tavuk Kavurma Sandviç,"12,60 TL",Sandviçler,7.0
+04d3dd5d-46f9-4f2c-adbf-86ab136613e8,Tavuk Nugget Sandviç,"11,20 TL",Sandviçler,7.0
+1a8b2074-462f-463e-be5a-22bbec18d577,Yumurtalı Sosisli Patso Sandviç,"12,60 TL",Sandviçler,6.0
+a3147783-d96b-4f73-bfb3-1e038d21cb07,Yumurtalı Sucuklu Patso Sandviç,"12,60 TL",Sandviçler,6.0
+b21bd2d7-0b7d-42be-bf1f-2492e73c3535,Yumurtalı Kaşarlı Patso Sandviç,"12,60 TL",Sandviçler,6.0
+cfcc7d7c-dd89-49f8-9f51-a5b9ce87f251,Yumurtalı King Patso Sandviç,"14,70 TL",Sandviçler,11.0
+7f54f5da-eda4-4863-a172-8ab727a2ac90,Hamburger,"12,60 TL",Burgerler,10.0
+fe56342d-3239-4e92-ac11-40bde1377c1e,King Burger,"19,60 TL",Burgerler,10.0
+ca46e357-f547-4981-b14c-e543de473fd9,Cheeseburger,"13,30 TL",Burgerler,5.0
+d4b05253-159f-431b-b749-a669eb1cd9c1,Acayip Hamburger 1,"13,30 TL",Burgerler,18.0
+ead98221-c82b-40f7-a361-c73141c6a343,Acayip Hamburger 2,"14,00 TL",Burgerler,5.0
+11047741-ad1e-4853-a14a-4dc28a75cc81,Yarım Ekmek Arası Izgara Sucuk,"14,00 TL",Ekmek Arası Ürünler,2.0
+3473261c-6e7e-4ab0-a1a6-5c5ec99eae95,Bazlama Ekmek Arası Izgara Tavuk,"15,40 TL",Ekmek Arası Ürünler,8.0
+4b4e0da9-804b-46bf-9562-4fa5861b44e7,Bazlama Ekmek Arası Tavuk Şnitzel,"14,00 TL",Ekmek Arası Ürünler,10.0
+5529c5e0-1026-4277-9f48-6765f98d3845,Yarım Ekmek Arası Izgara Tavuk,"14,00 TL",Ekmek Arası Ürünler,5.0
+b62cc7a2-e632-4b2d-8651-3f0859158119,Yarım Ekmek Arası Tavuk Şnitzel,"13,30 TL",Ekmek Arası Ürünler,7.0
+ce1cbbea-ff9c-4670-9c9c-1f415e24fcd5,Bazlama Ekmek Arası Izgara Sucuk,"15,40 TL",Ekmek Arası Ürünler,5.0
+e4decece-6d63-417d-b3f9-923b526c4379,Yarım Ekmek Arası Köfte,"14,00 TL",Ekmek Arası Ürünler,14.0
+f4a00e4c-a4ac-40fb-99e4-72f0ee6c0dee,Bazlama Ekmek Arası Doy Doy Izgara Sucuk,"16,10 TL",Ekmek Arası Ürünler,5.0
+850413d9-0bdd-4f20-9ac0-b8d934ce0037,Ekmek Arası Izgara Tavuk & Sucuk,"14,00 TL",Ekmek Arası Ürünler,4.0
+ec2d3a9d-3487-457c-829e-b6b916fd3a5f,Bazlama Ekmek Arası Izgara Tavuk & Sucuk,"16,10 TL",Ekmek Arası Ürünler,7.0
+5710e51e-1902-497b-9208-534df901b101,Bazlama Ekmek Arası Köfte,"15,40 TL",Köfteler,12.0
+f8450c1d-9dc6-4fce-abad-14dd810c6a9e,Yarım Ekmek Arası Izgara Sucuk & Köfte,"14,00 TL",Köfteler,6.0
+8e9e9d1a-d04f-4e3e-a346-cba0cd6b82d9,Bazlama Ekmek Arası Izgara Sucuk & Köfte,"16,80 TL",Köfteler,9.0
+b5488049-856c-4bdc-9120-d8ef016503bd,Köfte Dürüm,"14,00 TL",Köfteler,9.0
+945030be-ff6d-465a-8ec0-6794120cd4c4,Aacayip Tava,"23,10 TL",Tavalar,3.0
+017ec48f-77fb-48ea-b40e-2148333f28ce,Abone Tava,"17,50 TL",Tavalar,3.0
+8a14fae6-e45b-448a-add6-bb28f4f18107,Sosis Tava,"15,40 TL",Tavalar,3.0
+d1746a04-f845-4427-a1c1-637cfbcf8d15,Patates Kızartması,"7,00 TL",Yan Ürünler,3.0
+16d60abe-6df5-469c-85a3-e74dbd2e49ba,Keyif Tabağı,"21,00 TL",Yan Ürünler,5.0
+1e4b9c91-8ac2-4d97-93b3-b0abb9c898f3,Pirinç Pilavı,"7,00 TL",Yan Ürünler,5.0
+c62f1b16-7a81-4b56-93b5-de1ddd7c245f,Patates Kroket (6 Adet),"7,00 TL",Yan Ürünler,3.0
+192b583d-e850-4f63-b5ba-974d2279c97d,Sigara Böreği (6 Adet),"7,00 TL",Yan Ürünler,5.0
+a7b91a12-3dae-41da-82d7-e2f569523064,Soğan Halkası (6 Adet),"7,00 TL",Yan Ürünler,4.0
+697574bc-718b-4f63-85cd-d24995424833,Kazandibi,"5,60 TL",Tatlılar,5.0
+22d9ddd5-5093-445f-881f-09e5644bdeef,Cappy Limonata (33 cl.),"5,60 TL",İçecekler,5.0
+38CBB154-AC09-4CE9-859F-7D518C769505,Şalgam (30 cl.),"5,60 TL",İçecekler,5.0
+93c7ff64-f9b5-4b9d-a1b8-4861112693e3,Freşa (25 cl.),"3,50 TL",İçecekler,5.0
+28F4F862-FBD1-48F6-A476-F871ED9BB12D,"Su (1,5 L.)","4,90 TL",İçecekler,4.0
+A015D503-A9EE-4851-AE08-58A734104605,Su (5 L.),"8,40 TL",İçecekler,4.0
+77cf81d8-486d-4b75-9281-c8636e210756,Poşet,"0,25 TL",Poşet,5.0

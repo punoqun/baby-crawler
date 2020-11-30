@@ -1,0 +1,135 @@
+food_id,food_name,food_price,food_category,food_score
+a952fb17-1174-46a6-ba42-4c72ddb6db38,Ekmek Arası Sucuk Menü,"20,00 TL",Menüler,3.0
+56d13e0d-3051-4700-b88c-e98b66488a1f,Sosisli Sandviç Menü,"16,00 TL",Menüler,5.0
+b50efa86-492d-4998-94ed-b2ecc7f878f7,Ton Balıklı Sandviç Menü,"20,00 TL",Menüler,5.0
+88c4d065-e162-4c01-a32a-3318c0f429a7,Tavuklu Sandviç Menü,"20,00 TL",Menüler,3.0
+49f852f9-6780-4c66-8668-91c1eef71073,Kumru Sandviç Menü,"20,00 TL",Menüler,6.0
+f564d2aa-f2b9-45e9-a60a-f8270def57fb,Ekmek Arası Köfte Menü,"24,00 TL",Menüler,5.0
+c327d8c2-e139-4ae2-b879-4f8ad68f79fe,Meksika Dürüm Menü,"24,00 TL",Menüler,6.0
+b8afa367-ccfa-4148-847b-ce1cc146357e,Double Burger Menü,"22,00 TL",Burger Menüleri,5.0
+434e0619-4417-4d06-88cb-9ca3c32a21b5,Gökkuşağı Burger Menü,"25,00 TL",Burger Menüleri,5.0
+4b2d5a31-a7d3-429b-8493-7e65c31924ec,Hamburger Menü,"20,00 TL",Burger Menüleri,5.0
+81e13e94-e8cd-46de-b4d3-4e8f6e8f1264,Cheeseburger Menü,"21,00 TL",Burger Menüleri,5.0
+edb9be72-c3b9-46f3-83f3-dac2648e4b13,Chicken Burger Menü,"18,00 TL",Burger Menüleri,5.0
+23e92407-d159-44a9-bd5c-44ed33cf6ff7,Barbekü Soslu Burger Menü,"25,00 TL",Burger Menüleri,5.0
+feed00ba-70c2-453b-bb4f-d607b3bbc00e,Tavuklu Pizza (Küçük Boy) Menü,"26,00 TL",Küçük Boy Pizza (13 cm.) Menüleri,2.0
+9db068fd-5e17-49f4-97e3-95558b4f16aa,Gökkuşağı Pizza (Küçük Boy) Menü,"26,00 TL",Küçük Boy Pizza (13 cm.) Menüleri,4.0
+422912e9-844b-4a13-94fa-5abb440aa29c,Ton Balıklı Pizza (Küçük Boy) Menü,"29,00 TL",Küçük Boy Pizza (13 cm.) Menüleri,4.0
+5013eb76-d82c-4468-b06f-c21fbe955275,Tavuklu Pizza (Orta Boy) Menü,"29,00 TL",Orta Boy Pizza (18 cm.) Menüleri,2.0
+f1f368c0-eaef-4d3d-b086-4db944148c2b,Gökkuşağı Pizza (Orta Boy) Menü,"29,00 TL",Orta Boy Pizza (18 cm.) Menüleri,4.0
+e0f15734-9761-42e6-98b1-46061cfb5ce7,Ton Balıklı Pizza (Orta Boy) Menü,"33,00 TL",Orta Boy Pizza (18 cm.) Menüleri,4.0
+0f780912-0562-46bd-b641-f106cb3d2e76,Tavuklu Pizza (Büyük Boy) Menü,"35,00 TL",Büyük Boy Pizza (21 cm.) Menüleri,2.0
+9791e06f-04b1-43d3-9ed5-e1ecc161eaa4,Gökkuşağı Pizza (Büyük Boy) Menü,"35,00 TL",Büyük Boy Pizza (21 cm.) Menüleri,4.0
+da54d1ad-6751-4be2-b3af-fb1571af83ac,Ton Balıklı Pizza (Büyük Boy) Menü,"37,00 TL",Büyük Boy Pizza (21 cm.) Menüleri,4.0
+1f7a904c-710a-4814-ad90-4c69fce1d9f0,Gökkuşağı Pizza (Aile Boyu) Menü,"49,75 TL",Aile Boyu Pizza Menüleri,4.0
+075f0987-711f-4dc2-b84e-65287d01ab63,Tavuklu Pizza (Aile Boyu) Menü,"49,75 TL",Aile Boyu Pizza Menüleri,2.0
+484f9662-10bb-47d8-8f50-360e832535b5,Ton Balıklı Pizza (Aile Boyu) Menü,"52,50 TL",Aile Boyu Pizza Menüleri,4.0
+7f3c3aa1-439c-4e2c-8a6d-db7fcf43f612,Çocuk Köfte Burger Menü,"20,00 TL",Çocuk Menüleri,5.0
+226c011a-309b-421e-ae11-3bbaff630df4,Çocuk Tavuk Burger Menü,"17,00 TL",Çocuk Menüleri,3.0
+f6334099-bc73-4580-98c8-55eed0319721,Kahvaltı Tabağı,"26,00 TL",Kahvaltılıklar,5.0
+26033b84-2b14-49b9-bd24-3a7e31059390,Kaşarlı Omlet,"12,00 TL",Kahvaltılıklar,5.0
+43e8cbc8-1475-4cd8-9e3b-acdf3bd0b340,Sucuklu Omlet,"12,00 TL",Kahvaltılıklar,5.0
+6f33e879-b42b-4b7d-8cc0-bdf7abaadb6e,Karışık Omlet,"15,00 TL",Kahvaltılıklar,5.0
+7f6631d6-75c8-491f-acc5-f813462d0dd0,Menemen,"15,00 TL",Kahvaltılıklar,3.0
+6eac04f8-b83e-4b41-b18c-1dbc01c70d19,Kaşarlı & Beyaz Peynirli Gözleme,"12,00 TL",Kahvaltılıklar,5.0
+5867963e-1487-4a98-96c4-85b7e2dec4ec,Kaşarlı Tost,"11,00 TL",Tostlar,5.0
+3e7b4403-f4d5-4efc-9556-091ed21770d9,Sucuklu Tost,"10,00 TL",Tostlar,5.0
+d7734beb-2045-41dc-bd6e-8d6d1241826d,Karışık Tost,"13,00 TL",Tostlar,5.0
+b3d90f90-532f-4314-b538-69218763f577,Ayvalık Tostu,"15,00 TL",Tostlar,5.0
+c0110a6d-06aa-432d-b399-036a26576a91,Antakya Tostu,"14,00 TL",Tostlar,5.0
+9faa3a1e-1641-47cf-bc2f-15ff7f23749d,Yengen Tost,"14,00 TL",Tostlar,5.0
+67aa870a-9df7-403e-8db3-32705c6e2f64,Double Burger,"14,00 TL",Burgerler,5.0
+3ab24616-c95f-4db1-a7bc-26d857ab4e32,Gökkuşağı Burger,"18,00 TL",Burgerler,5.0
+aa956367-6f07-4c76-bb66-fb96c8da7b7d,Hamburger,"12,00 TL",Burgerler,5.0
+9ef6b06c-eef1-4c97-93b9-276d2349b22b,Cheeseburger,"13,00 TL",Burgerler,5.0
+7c77c1be-843e-491f-aff5-587fcf14e7ba,Chicken Burger,"13,00 TL",Burgerler,5.0
+146bc285-30be-4696-a549-7b590520be2d,Barbekü Soslu Burger,"18,00 TL",Burgerler,5.0
+12942c11-fc5a-4b2e-a232-d2ca3a70a243,Kumru Sandviç,"13,00 TL",Sandviç & Ekmek Arası Ürünler,6.0
+2cac4f32-3251-48b4-a401-4d3481d43f9b,Tavuklu Sandviç,"13,00 TL",Sandviç & Ekmek Arası Ürünler,3.0
+d5b69e94-2c0c-43ad-91ab-de0f5d530ab9,Ekmek Arası Sucuk,"13,00 TL",Sandviç & Ekmek Arası Ürünler,3.0
+da7a09f8-dfd4-4e46-a7c9-c7602fa4fabc,Sosisli Sandviç,"10,00 TL",Sandviç & Ekmek Arası Ürünler,5.0
+460a7ad3-1a40-47c0-b54b-a0495ace8a8b,Ton Balıklı Sandviç,"15,00 TL",Sandviç & Ekmek Arası Ürünler,5.0
+7f4c8f1a-c4e1-41bd-a9f3-6f14e9b94c42,Soğuk Sandviç,"13,00 TL",Sandviç & Ekmek Arası Ürünler,5.0
+93f681da-ace3-4369-8166-88841070603e,Ekmek Arası Köfte,"18,00 TL",Sandviç & Ekmek Arası Ürünler,5.0
+90153e67-9590-429e-aa78-271e4ec1cff6,Sade Köfte,"30,00 TL",Kırmızı Etler,5.0
+60a31446-f424-41aa-8745-c49991ecc1e1,Parmesan Soslu Bonfile,"35,00 TL",Kırmızı Etler,5.0
+6dde840b-f97b-4fc2-a05a-a59b83a91221,Demi Glace Soslu Lokum,"35,00 TL",Kırmızı Etler,5.0
+f1157a60-25b5-4a5e-9afe-8f40f6a631bc,Izgara Tavuk,"25,00 TL",Beyaz Etler,3.0
+de9f0e45-0dac-4093-9945-ed313ed11e0b,Izgara Tavuk But,"25,00 TL",Beyaz Etler,3.0
+bce9220d-6948-4f67-9422-8fd414b806d1,Köri Soslu Tavuk,"27,50 TL",Beyaz Etler,3.0
+b073030f-3507-4c9e-9b6a-e5446d3e0687,Papaya Tavuk,"25,00 TL",Beyaz Etler,3.0
+1ae5ebae-eae4-4565-8153-9d93d127c168,Meksika Soslu Tavuk,"30,00 TL",Beyaz Etler,4.0
+cbe4f1b8-33b2-4d37-ad5b-db5657953019,Tavuk Sepeti,"25,00 TL",Beyaz Etler,3.0
+f942cc44-b84b-4009-af10-f86514f3f33a,Margherita Pizza (Küçük),"15,00 TL",Küçük Boy Pizzalar (13 cm.),4.0
+da713459-0859-48c7-adce-279b74aa7366,Americana Pizza (Küçük),"17,00 TL",Küçük Boy Pizzalar (13 cm.),4.0
+17d23850-7c05-489b-84c7-8e0aa4178a1e,Veggie Pizza (Küçük),"17,00 TL",Küçük Boy Pizzalar (13 cm.),4.0
+75bea956-675c-4086-ba8a-03b974aa3f46,Tavuklu Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (13 cm.),2.0
+9b42633d-30b1-4ea9-a472-11b905f33914,Gökkuşağı Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (13 cm.),4.0
+dda04360-bbef-4dbe-9681-cdb5496e1896,Ton Balıklı Pizza (Küçük),"22,00 TL",Küçük Boy Pizzalar (13 cm.),4.0
+86f4df5d-54b2-47fb-9df0-349a1f72b968,Italiano Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (13 cm.),4.0
+1a2aa739-7b55-4f21-ba6a-df51eafb0840,Akdeniz Pizza (Küçük),"17,00 TL",Küçük Boy Pizzalar (13 cm.),4.0
+7dc84294-8b38-49b1-b5c3-f00331aba967,Turkish Pizza (Küçük),"22,00 TL",Küçük Boy Pizzalar (13 cm.),4.0
+e7e3e7bb-b3dd-4cd6-b4e8-5ba9921e35b6,Acılı Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (13 cm.),4.0
+52b0e837-0667-469d-a417-0ebd04066d64,Mangal Pizza (Küçük),"24,00 TL",Küçük Boy Pizzalar (13 cm.),4.0
+c181ebe7-7077-464b-b20c-dadd01e9c8e1,Margherita Pizza (Orta),"18,00 TL",Orta Boy Pizzalar (18 cm.),4.0
+3f802bb6-2f68-4b9d-8e0c-d79457feb868,Americana Pizza (Orta),"20,00 TL",Orta Boy Pizzalar (18 cm.),4.0
+6043e610-7586-4acf-9b62-a9baf10e7396,Veggie Pizza (Orta),"20,00 TL",Orta Boy Pizzalar (18 cm.),4.0
+902e0391-1f56-4897-bbb0-e59a71731844,Tavuklu Pizza (Orta),"22,00 TL",Orta Boy Pizzalar (18 cm.),2.0
+212c563e-f05a-40a8-be2f-1e85f21b055e,Gökkuşağı Pizza (Orta),"22,00 TL",Orta Boy Pizzalar (18 cm.),4.0
+3628e36a-b6c4-4ad5-8333-78e943be4055,Ton Balıklı Pizza (Orta),"26,00 TL",Orta Boy Pizzalar (18 cm.),4.0
+d659bc8d-c8e1-49e7-9af4-f8f2ad3ef547,Italiano Pizza (Orta),"22,00 TL",Orta Boy Pizzalar (18 cm.),4.0
+164f67f7-9c90-4f19-b63f-a4a562d00d15,Akdeniz Pizza (Orta),"20,00 TL",Orta Boy Pizzalar (18 cm.),4.0
+43f71562-c954-43c3-9558-b23fef136a0c,Turkish Pizza (Orta),"26,00 TL",Orta Boy Pizzalar (18 cm.),4.0
+b3a5ddf1-5e54-4dd3-a1f0-8647287f9ed6,Acılı Pizza (Orta),"22,00 TL",Orta Boy Pizzalar (18 cm.),4.0
+a7db1eec-9d81-4cdb-a12b-5efe7aa552df,Mangal Pizza (Orta),"28,00 TL",Orta Boy Pizzalar (18 cm.),4.0
+fc7bed51-7e2a-462a-b7ae-4b92911a0946,Margherita Pizza (Büyük),"23,00 TL",Büyük Boy Pizzalar (21 cm.),4.0
+56be54b4-fbbe-4ad3-ab1e-d9b38f0df5e2,Americana Pizza (Büyük),"26,00 TL",Büyük Boy Pizzalar (21 cm.),4.0
+00d1af0d-d20e-4764-9495-7b24a0cdfdd0,Veggie Pizza (Büyük),"26,00 TL",Büyük Boy Pizzalar (21 cm.),4.0
+4d411ced-17d9-451c-b4ca-a2d999457c15,Tavuklu Pizza (Büyük),"30,00 TL",Büyük Boy Pizzalar (21 cm.),2.0
+02d7c0a0-c7b4-4bba-a360-dfe7bcc02c9b,Gökkuşağı Pizza (Büyük),"30,00 TL",Büyük Boy Pizzalar (21 cm.),4.0
+73c5006e-1902-4bfc-acc7-8de3de2af6b7,Ton Balıklı Pizza (Büyük),"32,00 TL",Büyük Boy Pizzalar (21 cm.),4.0
+3b5ff8cd-0d3c-4997-89ee-3d12c9937836,Italiano Pizza (Büyük),"30,00 TL",Büyük Boy Pizzalar (21 cm.),4.0
+9bce870d-8e60-4f5f-a386-5bdafe6e320a,Akdeniz Pizza (Büyük),"26,00 TL",Büyük Boy Pizzalar (21 cm.),4.0
+5085b8a0-9d10-4b6a-9160-8d56cd89aaaa,Turkish Pizza (Büyük),"30,00 TL",Büyük Boy Pizzalar (21 cm.),4.0
+2a5ad8dd-ba7b-47a8-902d-4b06fc5de475,Acılı Pizza (Büyük),"26,00 TL",Büyük Boy Pizzalar (21 cm.),4.0
+956346ac-2e22-4b0f-acfd-f1cca71b2139,Mangal Pizza (Büyük),"32,00 TL",Büyük Boy Pizzalar (21 cm.),4.0
+3648dda1-0055-4bdb-9c7c-0ee783ebfbac,Tavuklu Mantarlı Krep,"20,00 TL",Krepler,9.0
+32433ffb-b5b9-40de-a5d0-5eb609f7e646,Etli Mantarlı Krep,"24,00 TL",Krepler,6.0
+864b6542-b77c-4f7d-9069-c0cf797ef336,Spaghetti Napolitan,"17,00 TL",Makarnalar,5.0
+8c9bb14a-7843-45a6-8a3e-b2589ce95920,Spaghetti Bolognese,"20,00 TL",Makarnalar,5.0
+7abd6838-e45f-4902-933c-712d9a9ed40e,Ton Balıklı Spaghetti,"20,00 TL",Makarnalar,5.0
+aded9069-dae8-4cc8-962f-5383ad48349c,Tavuklu Mantarlı Fettuccine,"22,00 TL",Makarnalar,4.0
+ac2fdb18-5b6d-46d4-9c8c-9b595dbc0cfe,Penne Arrabbiata,"17,00 TL",Makarnalar,5.0
+777b40bd-0340-47fe-b379-ac9b94044e4e,Pesto Soslu Makarna,"20,00 TL",Makarnalar,5.0
+dbcea064-0de0-49f3-a059-ddaa7c9a7d3e,Karışık Kumpir,"18,00 TL",Kumpirler,8.0
+783cff76-bda8-419c-99c1-fd4de872f257,Ton Balıklı Kumpir,"20,00 TL",Kumpirler,3.0
+888935b3-57ca-4bdf-a2ce-9b84d8410b52,Tavuklu Kumpir,"20,00 TL",Kumpirler,1.0
+599d9f10-10f8-4245-8e71-f60f2aef18e8,Patates Kızartması (Küçük Boy),"6,00 TL",Yan Ürünler,7.0
+d613b5e0-63f0-4a24-810a-2cfe157b7ef4,Patates Kızartması (Orta Boy),"10,00 TL",Yan Ürünler,7.0
+eeb8863b-1532-4f04-b664-45383e7b12fa,Patates Kızartması (Büyük Boy),"15,00 TL",Yan Ürünler,7.0
+d7a4be23-dbc0-4d70-95b2-ecdc30ac02df,Elma Dilim Patates Kızartması (Küçük Boy),"7,50 TL",Yan Ürünler,7.0
+2e96df3d-5ab3-4a45-97b2-13960548bf4a,Elma Dilim Patates Kızartması (Orta Boy),"12,50 TL",Yan Ürünler,7.0
+d5523727-f242-4966-94bc-b00725171fef,Elma Dilim Patates Kızartması (Büyük Boy),"17,50 TL",Yan Ürünler,7.0
+4bcb7096-14f2-4864-8e1f-b1db6c60b759,Soğan Halkası (8 Adet),"10,00 TL",Yan Ürünler,5.0
+4846fb31-8140-45bd-afea-01b025416bac,Soğan Halkası (14 Adet),"15,00 TL",Yan Ürünler,5.0
+645b5f37-7b46-4976-8e0c-0fb0f161843a,Peynirli Sigara Böreği (6 Adet),"12,00 TL",Yan Ürünler,5.0
+ff6bc1ae-e4e7-44b0-be13-41807dffccbd,Avcı Böreği,"18,00 TL",Yan Ürünler,5.0
+6061f50e-bfb3-40b7-9ec8-a307e1f7fde5,Paçanga Böreği,"18,00 TL",Yan Ürünler,5.0
+261941cb-a7f1-4001-b562-5feba2304466,Mevsim Salata,"12,00 TL",Salatalar,5.0
+6873e13b-032e-4deb-b4b7-c0b1dc180385,Ton Balıklı Salata,"25,00 TL",Salatalar,5.0
+085507ea-3421-4646-bbe9-05e6feec78fd,Tavuklu Salata,"20,00 TL",Salatalar,3.0
+6fb6a206-1adf-44f2-b6e0-aff98a6e4645,Etli Salata,"25,00 TL",Salatalar,5.0
+f96005c4-3e20-4835-b693-05ee639408a8,Rus Salatası,"9,00 TL",Salatalar,5.0
+be7d490e-b1f0-4926-9bc7-d92df4c98e3e,Künefe,"12,00 TL",Tatlılar,5.0
+30d06416-b480-443b-8ec7-79e40ca79573,Waffle,"15,00 TL",Tatlılar,10.0
+e46ad676-89ac-4d4b-a52c-755dab8a9bb2,Tiramisu,"12,00 TL",Tatlılar,5.0
+518542e7-99ee-4c37-9f39-b90d29d7cee7,Yedigün Portakal (33 cl.),"5,00 TL",İçecekler,5.0
+c09260f9-1012-468f-a939-f243f0f8aa67,Tamek (33 cl.),"5,00 TL",İçecekler,5.0
+dc459534-edc8-4912-85aa-d60e811a145c,Su,"1,50 TL",İçecekler,3.0
+092f7c18-9602-44db-86ad-8a9f79d6e959,Taze Sıkma Portakal Suyu,"10,00 TL",Vitamin Bar,5.0
+3d5e8bf0-b5ac-46bb-ae71-8309f232613c,Taze Sıkma Elma Suyu,"10,00 TL",Vitamin Bar,5.0
+eb6356f3-7d92-41e2-a4dc-7de08aee5089,Taze Sıkma Havuç Suyu,"10,00 TL",Vitamin Bar,5.0
+f3a75a64-2182-4ff8-bd26-eff20a1578fa,Taze Sıkma Nar Suyu,"10,00 TL",Vitamin Bar,5.0
+9ba80053-3e23-4cb1-aca9-334611410db6,Muzlu Süt,"7,50 TL",Vitamin Bar,5.0
+122788b6-0909-40c4-89b7-6b65785fab14,Meyve Kokteyli,"10,00 TL",Vitamin Bar,5.0
+47c0ea5d-cb07-4914-af0e-b5bc9e8a3b49,Poşet,"0,25 TL",Poşet,5.0

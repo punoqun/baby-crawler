@@ -1,0 +1,78 @@
+food_id,food_name,food_price,food_category,food_score
+f1b09004-d22e-4294-9435-dffb2c7cf68e,2'li Ayvalık Tostu Menü,"39,90 TL",Avantajlı Menüler,4.0
+40EAA37F-3B91-49A3-AB0D-DD694DB375A2,Tavuk Dönerli Kaşarlı Tost Menü,"20,50 TL",Avantajlı Menüler,9.0
+3f3961e7-eeef-481c-b6b8-bd62f6f5c367,2'li Kavurmalı Kaşarlı Ayvalık Tostu Menü,"47,90 TL",Avantajlı Menüler,9.0
+9725fafb-9400-49d0-8706-3a1d3db2f6b4,2'li Köfteli Kaşarlı Ayvalık Tostu Menü,"41,90 TL",Avantajlı Menüler,4.0
+24d2a5a0-577f-459d-8565-4f462d6cad49,2'li Kumru Menü,"39,90 TL",Avantajlı Menüler,10.0
+1d1905a8-006e-4f1c-b77a-71e3481d82f5,2'li Süper Menü,"49,90 TL",Avantajlı Menüler,24.0
+7a61252c-4203-48e0-ade8-36beeaa407fc,Ayvalık Mega Special Tost Menü 2,"25,50 TL",Avantajlı Menüler,11.0
+f7f1f5ff-251f-4056-8a46-f699d3c8415d,Ayvalık Patso Tost Menü,"19,50 TL",Avantajlı Menüler,6.0
+36db80e8-2f75-4af5-9d7b-619853703de4,Bergama Tulum Peynirli Tost Menü,"24,50 TL",Avantajlı Menüler,7.0
+fa2a5189-f6e5-4dfc-9814-acda39d0657f,Beyaz Peynirli Kaşarlı Ayvalık Tostu Menü,"21,00 TL",Avantajlı Menüler,4.0
+3b3a60cd-f1a2-4042-9742-8e324cc7ca75,Ezine Peynirli & Sucuklu Tost Menü,"26,50 TL",Avantajlı Menüler,7.0
+c658ccd5-ad2b-4cc1-860a-dfd6a47f01f5,Ezine Peynirli Tost Menü,"24,50 TL",Avantajlı Menüler,7.0
+037102ca-5751-4a7e-8408-a6c862b40f11,Kavurmalı Sucuklu Tost Menü,"27,00 TL",Avantajlı Menüler,12.0
+63ad9b29-7f81-474e-94d4-5d63d0fd5126,Kavurmalı Tost Menü,"25,00 TL",Avantajlı Menüler,12.0
+2DA28278-1338-4D2D-B98A-1DD5B9CF7CC6,Kral Menü,"21,75 TL",Avantajlı Menüler,7.0
+75a573b4-c6a6-451d-a728-0c7b59e16b81,Pastırmalı Kavurmalı Kaşarlı Tost Menü,"32,00 TL",Avantajlı Menüler,12.0
+8e39127f-a8b7-48ee-996a-cd25d8849f21,Pastırmalı Tost Menü,"25,00 TL",Avantajlı Menüler,7.0
+a475d783-2f3c-468e-a605-fce49bdb6ce8,Sosisli Patso Tost Menü,"23,00 TL",Avantajlı Menüler,7.0
+b41e8d24-3419-470e-8a31-08547e359658,Süper Kumru Menü,"29,00 TL",Avantajlı Menüler,27.0
+d6436a8f-4f7b-4cc6-a651-4d5451f21baa,Tulumlu Sucuklu Ayvalık Tostu Menü,"26,50 TL",Avantajlı Menüler,4.0
+fbe613df-6321-4b08-a93f-37b780f1e261,Zengin Kahvaltı Tabağı,"30,00 TL",Kahvaltılıklar,5.0
+315c4dd4-200b-4c9d-ba77-911b9280fdb2,Ekonomik Kahvaltı Tabağı,"16,00 TL",Kahvaltılıklar,5.0
+76b2c8a6-002e-46df-a3ac-1c8ed2c1da3a,Simit Tabağı 1,"15,00 TL",Kahvaltılıklar,14.0
+8586c420-a7d1-4bcd-a7da-1493dc1a961e,Simit Tabağı 2,"15,00 TL",Kahvaltılıklar,10.0
+dc736bbe-a114-4fd5-a73d-33669fd07c7e,Simit Tabağı 3,"15,00 TL",Kahvaltılıklar,4.0
+22544a3c-d62e-4023-9e2a-cdeabf07f9aa,Simit (Adet),"3,00 TL",Kahvaltılıklar,5.0
+872997ee-805d-4392-86a8-33efa075c3d2,Süper Kumru,"21,00 TL",Ayvalık Tostları,25.0
+e3d3033c-f7ce-49f7-863c-ec7aefe61003,Ayvalık Mega Special Tost,"17,00 TL",Ayvalık Tostları,4.0
+923531F1-452E-4B6C-BF37-38C6D2E7C04F,Tavuk Dönerli Kaşarlı Tost,"12,50 TL",Ayvalık Tostları,7.0
+f61c93bb-c12a-49ec-a6e8-eb0d79b7e560,Ayvalık Patso Tost,"12,00 TL",Ayvalık Tostları,4.0
+a3780a98-e65d-49d2-a7db-adff11240d52,Ayvalık Sucuk Ekmek,"14,00 TL",Ayvalık Tostları,3.0
+7f9a2467-7a04-4cd1-8f99-5460355389ec,Bergama Tulum Peynirli Tost,"16,50 TL",Ayvalık Tostları,5.0
+25fdce33-bc9f-425e-8dfa-4e09be272028,Beyaz Peynirli Kaşarlı Ayvalık Tostu,"13,00 TL",Ayvalık Tostları,2.0
+25bc0221-6a5a-4b78-bc88-7a88035add62,Et Dönerli Kaşarlı Tost,"18,50 TL",Ayvalık Tostları,6.0
+66f3a801-72b0-4925-8b48-1802ffce76de,Ezine Peynirli & Sucuklu Tost,"18,50 TL",Ayvalık Tostları,5.0
+9fa2e6b1-f32c-445c-a990-540dd3bfe69d,Ezine Peynirli Tost,"16,50 TL",Ayvalık Tostları,5.0
+ddda9420-ec59-412e-b5a0-5a57967f46ef,Kavurmalı Sucuklu Tost,"19,00 TL",Ayvalık Tostları,10.0
+4434bb17-1933-43e3-971e-c82669b4e747,Kavurmalı Tost,"17,00 TL",Ayvalık Tostları,10.0
+9c924da0-4fdd-489d-874d-399b1f2416b6,Kendi Tostunu Kendin Yap 1,"4,25 TL",Ayvalık Tostları,14.0
+5d629ab8-744d-478d-8b8c-d95e5606ccf5,Pastırmalı Kavurmalı Kaşarlı Tost,"23,00 TL",Ayvalık Tostları,10.0
+549d3cbd-5a2d-4777-b3ba-a2b1b1cd6bee,Pastırmalı Tost,"17,00 TL",Ayvalık Tostları,5.0
+d93a2034-c12a-4730-ba41-cdbabb787e5c,Sosisli Patso Tost,"15,00 TL",Ayvalık Tostları,5.0
+9efe4145-2d52-4fef-81ec-249cd1347c21,Tulumlu Sucuklu Ayvalık Tostu,"18,50 TL",Ayvalık Tostları,2.0
+057df2fd-bda3-44bd-8e81-53cf51bbb634,Hot Dog Sandviç,"11,00 TL",Sandviçler & Ekmek Arası Ürünler,5.0
+93abc341-db24-4fc6-b00e-a929a04a35a7,Sosisli Patso Sandviç,"11,50 TL",Sandviçler & Ekmek Arası Ürünler,5.0
+dcff77af-c2fc-46b6-87de-149eff3bf8bd,Goralı Sandviç,"12,00 TL",Sandviçler & Ekmek Arası Ürünler,5.0
+a23e1c9c-96ba-487e-869c-fed44a3cf9ed,Patso Sandviç,"10,00 TL",Sandviçler & Ekmek Arası Ürünler,5.0
+4e050710-042c-4832-81c2-3ea0e69035ec,Sucuklu Patso Sandviç,"11,50 TL",Sandviçler & Ekmek Arası Ürünler,5.0
+218e1acc-e10f-4013-818b-34296e9202c5,Kaşarlı Salamlı Sandviç,"11,50 TL",Sandviçler & Ekmek Arası Ürünler,5.0
+b25fbd6c-de65-4b60-9d35-f2633b4f4427,Beyaz Peynirli Sandviç,"11,00 TL",Sandviçler & Ekmek Arası Ürünler,5.0
+C81B6AA3-9958-46AE-B499-76BAD64F5D2E,Döküm Sandviç,"13,50 TL",Sandviçler & Ekmek Arası Ürünler,5.0
+30DD2830-D4EC-4B30-ADE3-EE775DB27D91,Izgara Tavuk Kanat,"22,50 TL",Izgaralar,7.0
+A7B6358A-5D15-480F-BF9B-BBE0B8E5D193,Adana Kebap,"25,00 TL",Izgaralar,5.0
+38ED40B0-9085-449B-A590-855B8B22CF68,Karışık Izgara,"45,00 TL",Izgaralar,7.0
+10DD0757-EBD0-43F4-9E5F-40639FA655A1,Ekmek Arası Izgara Ciğer Şiş,"15,00 TL",Izgaralar,3.0
+776D756F-E2CE-402F-8D6F-548EAC68506C,Izgara Ciğer Şiş Dürüm,"15,50 TL",Izgaralar,3.0
+0756F7C7-E4B0-465C-BE44-E596A96838F2,Ekmek Arası Izgara Şiş Köfte,"13,00 TL",Izgaralar,3.0
+01A3D7BA-C0F4-4121-B2E4-81B6749D4795,Izgara Şiş Köfte Dürüm,"13,50 TL",Izgaralar,3.0
+021A7B3C-C4CF-47ED-A940-7FA47D432BDD,Izgara Köfte Dürüm,"13,50 TL",Izgaralar,3.0
+2B156A12-6627-4A68-B456-D258326EE30B,Karışık Atıştırmalık,"15,00 TL",Yan Ürünler,9.0
+d4006b74-ae34-4964-a26c-854e9c28a368,Sosis Kızartması (8 Adet),"10,00 TL",Yan Ürünler,5.0
+0779a730-fa64-4f95-ac0d-d5d5d23decc0,Bask Burnt Cheesecake (165 gr.),"15,50 TL",Tatlılar,5.0
+1ad41aec-9053-46ef-a861-f9c3e661b82a,Çikolatalı Pasta (135 gr.),"13,50 TL",Tatlılar,7.0
+07a8de59-984e-4db0-8b57-eafd7c4eeef2,Limonlu Cheesecake (160 gr.),"13,50 TL",Tatlılar,5.0
+5f0d1241-dc1e-44c4-8013-0f5a4eb26f9c,Frambuazlı Cheesecake (160 gr.),"13,50 TL",Tatlılar,5.0
+b84dc8d0-b092-4c28-8b6a-0322eaa0c986,Orman Meyveli Pasta (145 gr.),"13,50 TL",Tatlılar,7.0
+bef549c9-d841-459d-89ed-1f11ecfe3306,Kara Orman Meyveli Pasta (140 gr.),"13,50 TL",Tatlılar,7.0
+56fd5e8d-594c-4aa9-a14e-9da0fa559d5d,Fıstık Rüyası Pasta (140 gr.),"15,50 TL",Tatlılar,7.0
+bae51ac1-4eae-47ae-a385-e75d0a46b5df,Sufle (115 gr.),"12,50 TL",Tatlılar,5.0
+166D3AAE-495A-4EAE-BBA7-B58AF6639047,Aroma Meyve Suyu (20 cl.),"4,50 TL",İçecekler,5.0
+6ec91be3-276b-424f-bb20-0e54bd74482a,Niğde Gazozu (20 cl.),"4,50 TL",İçecekler,5.0
+4d307f56-8970-4cce-9eb9-7d3494ffd0b9,Zafer Gazozu (20 cl.),"4,50 TL",İçecekler,5.0
+69c5970e-c7f0-45f4-86b4-423cac01c60a,Su,"2,00 TL",İçecekler,10.0
+60957f1f-33c3-4d9c-bcf8-3e9140cd9b19,Taze Sıkılmış Portakal Suyu (30 cl.),"9,00 TL",Vitamin Bar,7.0
+68fbdef3-9779-488d-bab1-bdf2a203f357,Muzlu Süt (20 cl.),"3,50 TL",Vitamin Bar,5.0
+5dd811ce-f96a-41ba-beaf-16a8c8f1cb64,Kakaolu Süt (20 cl.),"3,50 TL",Vitamin Bar,5.0
+6c495101-be32-4f9c-8c1f-5363245a88cb,Poşet,"0,25 TL",Poşet,5.0

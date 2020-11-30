@@ -1,0 +1,93 @@
+food_id,food_name,food_price,food_category,food_score
+08fdd8c3-bba8-4fee-8d2d-247b2021b816,İspanyol Soğan Halkası,"20,00 TL",Başlangıçlar,5.0
+3506555d-351e-45fe-9a34-59db3490ec69,Cajun Chicken Basket,"23,00 TL",Başlangıçlar,10.0
+4b303be1-481c-4ffa-a8a0-1ffa1882e0ee,Parmak Patates Kızartması,"18,00 TL",Başlangıçlar,5.0
+89ac7d95-1b98-43f7-a991-c21723e64dba,Mozzarella Stick,"21,00 TL",Başlangıçlar,5.0
+b689eb8c-532b-4d2c-85a3-167dfbe2f33e,Combo Basket,"30,00 TL",Başlangıçlar,5.0
+34f30207-ba28-4818-b6d2-cf2a6c3784d4,Köri Soslu Tavuk,"38,00 TL",Beyaz Etler & Kırmızı Etler,7.0
+c8f94c0d-45e5-4433-a159-3e4b7aca074f,Schnitzel Tavuk,"37,00 TL",Beyaz Etler & Kırmızı Etler,5.0
+c33ae418-e956-4d13-8c0c-e4b8d4526b6f,Tavuk Krep,"36,00 TL",Beyaz Etler & Kırmızı Etler,5.0
+57ea380c-47ef-48c4-a704-70a50ae4bc9b,Ranc Beef,"46,00 TL",Beyaz Etler & Kırmızı Etler,5.0
+b69f47d1-ec78-4c0e-a11c-76a542d005a7,Penne Arrabbiata,"28,00 TL",Makarnalar,5.0
+ae520331-65ef-438b-8b5b-1452ab199cd9,Spaghetti Bolognese,"30,00 TL",Makarnalar,5.0
+02c5dcd0-859e-460e-9823-d8e8162cca63,Fettuccine Chicken Alfredo,"29,00 TL",Makarnalar,5.0
+911d0918-792d-4610-899f-9d95d39f6e37,Gürze,"39,00 TL",Makarnalar,5.0
+9acdbdea-272d-47b9-adc0-4905a4e3de26,Kızarmış Mantı,"35,00 TL",Makarnalar,8.0
+1b5f399b-a779-4f7c-8678-87defb2f659d,Karidesli Noodle,"49,00 TL",Noodles,4.0
+5b395292-6b1a-4270-91ee-f81962a771d9,Chicken Noodle,"34,00 TL",Noodles,4.0
+41893d25-9d92-47b4-99f2-6674c6f97eab,Ranc Beef Noodle,"40,00 TL",Noodles,4.0
+a1af01b4-165e-48c0-bc8c-af45d639d9fb,Etli Fajita,"49,00 TL",Fajitas,5.0
+10d83fd2-52cc-4bb5-ae92-31f8d990eafe,Tavuklu Fajita,"43,00 TL",Fajitas,4.0
+40da83a0-e93c-4aff-b1e7-0cfa9075f3f7,Kombo Fajita,"47,00 TL",Fajitas,5.0
+622174a6-1b09-4b8d-b673-a93640e8c112,Saba Nigiri,"13,00 TL",Nigiris,5.0
+84a74965-c352-49a4-ba3f-707c239daa23,Maguro Nigiri,"15,00 TL",Nigiris,5.0
+2d5689f5-33e0-4734-9a85-da9cd97300b7,Suzuki Nigiri,"14,00 TL",Nigiris,5.0
+863047d1-bc98-491d-879c-189bd000a130,Sake Nigiri,"15,00 TL",Nigiris,3.0
+4f9ea31c-24fa-4425-8315-7da8e7888421,Sake Avokado Nigiri,"16,00 TL",Nigiris,3.0
+2596b005-cc68-4cb2-b413-195b559f354f,Ebi Nigiri,"16,00 TL",Nigiris,5.0
+a2b614b1-012a-41fc-9412-5aae58777805,Kani Nigiri,"13,00 TL",Nigiris,5.0
+a965f825-5ce2-4958-bd57-721e268acf7a,Unagi Nigiri,"22,00 TL",Nigiris,5.0
+06c84b83-71ed-4b8a-a3db-609df7f70d60,Nigiri Mix (7 Adet),"80,00 TL",Nigiris,5.0
+fc00a4de-8338-4e9e-8b2b-5218b841b032,Nigiri Mix (9 Adet),"100,00 TL",Nigiris,5.0
+c52ec71b-caf4-4429-8a48-c5961badb0f5,Nigiri Mix (11 Adet),"120,00 TL",Nigiris,5.0
+b14c9998-f8b7-4b3d-a675-985e01219664,Maguro Roll (6 Adet),"32,00 TL",Sushi Rolls,5.0
+82d898dc-76bc-496e-af67-fae577fd52a2,Kappa Roll (Adet),"25,00 TL",Sushi Rolls,5.0
+a144e761-2a16-4faa-8731-fc401a35a982,Ebi Roll (6 Adet),"33,00 TL",Sushi Rolls,5.0
+f4258cbf-e9d6-4b2b-a08e-d83c69c523fb,Kani Roll (6 Adet),"28,00 TL",Sushi Rolls,5.0
+de55f36a-d546-4bed-aa38-2fc9d2571b75,Sake Roll (6 Adet),"33,00 TL",Sushi Rolls,3.0
+31c8b457-8264-4440-beb1-ebd8775a0c80,Saba Roll (6 Adet),"26,00 TL",Sushi Rolls,5.0
+c8bf8033-afe5-49ac-9cdd-b3318b375716,Avokado Ebi Roll (6 Adet),"36,00 TL",Sushi Rolls,5.0
+81863d10-ee1b-4613-bed0-93f6d97a7667,Avokado Sake Roll (6 Adet),"34,00 TL",Sushi Rolls,3.0
+9d184ea8-6db2-42b0-96c8-486fc9dd25f1,Avokado Takuan Roll (6 Adet),"33,00 TL",Sushi Rolls,5.0
+1e218c3b-be45-4cfd-b3f4-a5a3b7bef6d4,Spicy Kani Roll (6 Adet),"32,00 TL",Sushi Rolls,5.0
+919299b1-b4a3-451b-935b-b2eaf40c7f73,Sake Sashimi (6 Adet),"30,00 TL",Sashimis (6 Adet),3.0
+87de887b-a9bc-4b59-932b-28678bd01f01,Maguro Sashimi (6 Adet),"30,00 TL",Sashimis (6 Adet),5.0
+08388354-c18c-4ce0-baba-53f534d59afb,Suzuki Sashimi (6 Adet),"30,00 TL",Sashimis (6 Adet),5.0
+333a6b56-0c01-4059-89df-3e79d0ea2002,Saba Sashimi (6 Adet),"28,00 TL",Sashimis (6 Adet),5.0
+ed491a02-100e-4314-a5e9-571596657943,Sashimi Mix (6 Adet),"30,00 TL",Sashimis (6 Adet),5.0
+f187482a-2843-4dfc-8c0c-6911d1f591cf,Green Dragon,"48,00 TL",Özel Rolls,5.0
+4e940aab-006e-4b88-9896-410bd1be7c38,Philadelphia Roll,"48,00 TL",Özel Rolls,5.0
+ecf7275d-a65d-4251-b287-10a0df3b8cc5,Rainbow Roll,"48,00 TL",Özel Rolls,5.0
+9eef4307-b6f0-40c1-a566-1274bd3e6813,Norvegian Roll,"43,00 TL",Özel Rolls,5.0
+a76cfaf5-0745-4a68-8d88-2e05d1d8877a,Bonito Roll,"46,00 TL",Özel Rolls,5.0
+7a67bc4c-6de4-44f1-bcd8-969319f0aa73,California Roll,"46,00 TL",Özel Rolls,5.0
+365b85e6-61f4-4334-92eb-a36b0bc5c2c6,Scandinavian Roll,"48,00 TL",Özel Rolls,5.0
+6caab4fd-1788-4cb6-a3ae-462b48467f79,Hot California,"52,00 TL",Pişmiş Rolls,5.0
+889f1d5f-7b1d-491f-9ce1-a12f2d7da1a2,Justo Prawns Roll,"55,00 TL",Pişmiş Rolls,6.0
+54e57333-131c-4988-85a9-4faf75ad3ddd,Hot Philadelphia Roll,"53,00 TL",Pişmiş Rolls,5.0
+e90fb58b-3ed4-454a-8e95-a876c37f343b,Meksikan Pizza,"42,00 TL",Pizzalar,5.0
+edac6263-25ef-46a9-a8db-05f478c29b28,Justo Pizza,"42,00 TL",Pizzalar,6.0
+8399b9ba-bb74-4f83-b6f0-aba779633789,Alla Diavola Pizza,"40,00 TL",Pizzalar,5.0
+499cb600-de19-489c-a719-25999db258a9,Pollo BBQ Pizza,"38,00 TL",Pizzalar,5.0
+993d8712-c946-4d6e-9a99-0c1423f98e8b,Margarita Pizza,"35,00 TL",Pizzalar,5.0
+0ea1b9e7-d2db-4fc0-84fe-86d82499aa7e,Sebzeli Wrap,"26,00 TL",Wraps,7.0
+13c690da-9f5e-4962-b716-cb292e9eba98,Chicken Wrap,"29,00 TL",Wraps,7.0
+2851ed04-4965-49d2-98a0-c4cdacc4452c,Wrap Mit Salsa,"33,00 TL",Wraps,7.0
+aad31608-9027-4117-8805-c210ef4989ad,Sezar Wrap,"30,00 TL",Wraps,7.0
+052a9f0f-46eb-4aa1-846e-42464aac7ef7,Justo Burger,"35,00 TL",Burgerler,11.0
+41f47e5c-9e2c-4f7b-9d80-a2f9ec2281ba,Karamelize Burger,"32,00 TL",Burgerler,5.0
+167c74a3-31a0-4729-88f5-889f395caa1f,Klasik Burger,"29,00 TL",Burgerler,5.0
+9fd0894b-e9fa-4f35-bbef-4d725391b7c6,Cheeseburger,"30,00 TL",Burgerler,14.0
+7cc4494f-4425-421d-a9fb-9162cad2c66a,Tavuklu Sezar Salata,"29,00 TL",Salatalar,5.0
+864ad1ea-9319-4039-a14e-e38ab808e2ad,Keçi Peynirli Salata,"28,00 TL",Salatalar,6.0
+9db0ebed-196c-45aa-8bb8-91d41b045caa,Ton Balıklı Salata,"29,00 TL",Salatalar,6.0
+a58a3503-fd5d-4cd6-8bc3-6ff02536bd38,Somon Füme Salata,"32,00 TL",Salatalar,6.0
+ff92d53a-a311-4bca-a316-880c525e0cdb,Mantarlı Tavuk Salata,"28,00 TL",Salatalar,6.0
+6013f0ce-bddc-4635-b4f4-a3c7ced6f269,Profiterol,"21,00 TL",Tatlılar,5.0
+0687394d-0837-48bd-a962-8bbf8839e7eb,Napolyon Cup,"18,00 TL",Tatlılar,5.0
+77f5479a-4f49-4628-9372-b7271952899a,Sufle,"20,00 TL",Tatlılar,5.0
+6ea7ebf9-7f40-4f41-a946-5c8c0f05f3a7,Sade Dondurma,"18,00 TL",Tatlılar,5.0
+83a3aaa9-d7e0-417c-b21d-cdd0d30c1f91,Bask Cheesecake,"22,00 TL",Tatlılar,7.0
+b9e49200-fbc1-41cb-96c7-cff2f619fd4c,Taze Sıkma Portakal Suyu,"18,00 TL",Fresh Bar,7.0
+66f7b972-22ec-45b7-b549-42aebe171fc6,Taze Sıkma Havuç Suyu,"17,00 TL",Fresh Bar,7.0
+bd40f063-5b1b-4823-8eec-5b2a37a9da91,Taze Sıkma Elma Suyu,"18,00 TL",Fresh Bar,7.0
+302af419-4d5c-45b7-936a-11d75be445c8,Taze Sıkma Nar Suyu,"20,00 TL",Fresh Bar,7.0
+03787ca4-11c0-432b-8717-15c273467d1c,Atom,"30,00 TL",Fresh Bar,5.0
+28f49fe3-3da9-441c-a224-8407931612a4,Karpuzlu Frozen,"14,00 TL",Frozens,7.0
+ac22fdf5-e5d5-42fb-b0d9-01db9bf519e5,Çilekli Frozen,"14,00 TL",Frozens,7.0
+cf901fac-a9c5-4f0c-a3f0-0cd1c0787021,Kavunlu Frozen,"14,00 TL",Frozens,7.0
+9e55f1c6-7ba2-456d-b760-814d19579080,Ahududu & Böğürtlen Frozen,"14,00 TL",Frozens,7.0
+b0584e22-92f7-43ab-a1a9-4733f4778c87,Passion Fruit Frozen,"15,00 TL",Frozens,7.0
+b92f55bb-ca7a-4c7d-b7c2-deb845cd478c,Churchill,"7,00 TL",İçecekler,5.0
+0af45481-c5b5-4b15-9cc4-bc9e52bf995b,Red Bull (50 cl.),"15,00 TL",İçecekler,5.0
+fb2e3ce4-1c28-41b8-a98c-54ebb088fd6d,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,43 @@
+food_id,food_name,food_price,food_category,food_score
+52491224-6642-43ca-af36-411b1742a6b9,Jambon Cheeseburger Menü,"34,00 TL",Menüler,5.0
+FB1EAE00-7A28-41A6-8A32-51CE04DF5EE5,Donutlu Arzillo Menü,"45,00 TL",Menüler,7.0
+5522E126-0830-4A1E-B0F0-3644DA693385,Donutlu Mock Mac Menü,"40,00 TL",Menüler,5.0
+0f252a18-8878-4779-879a-1e0312ae01e8,2'li Kajun Tavuk Burger Menü,"48,00 TL",Menüler,20.0
+e517e800-166d-4277-b032-ec78f12a1f16,Arzillo Smoke Burger Menü,"37,50 TL",Menüler,25.0
+3311f1cf-7c07-4d37-aa82-e2185d7b2346,Cheeseburger Menü 1,"39,90 TL",Menüler,36.0
+53cf59a7-8ccb-468c-9691-b2ad791310c4,Cheeseburger Menü 2,"31,90 TL",Menüler,12.0
+f84808eb-54d4-4b6d-b1b3-977cc5c22d01,Mock Mac Burger Menü,"33,00 TL",Menüler,16.0
+a18b55e7-1c5f-4c02-813e-4102e6ae2c2f,2'li Classic Burger Menü,"53,00 TL",Menüler,16.0
+CEFF07B1-006D-4321-AFEB-EE4309E83A96,Patates Kroket Sepeti,"16,50 TL",Atıştırmalıklar,20.0
+340a3928-b986-4622-a732-8b6030168245,All in Basket,"26,00 TL",Atıştırmalıklar,219.0
+5891d0b9-158e-4cbe-87d8-505e560a9658,Soğan Halkası (8 Adet),"15,50 TL",Atıştırmalıklar,8.0
+358f63aa-406a-430b-89be-2bfafc4b8c4b,Mozzarella Sticks (5 Adet),"19,00 TL",Atıştırmalıklar,5.0
+c8ad78a7-4eb7-49db-af34-05e5dd407dd4,Sosis Sepeti,"21,00 TL",Atıştırmalıklar,6.0
+e7996510-f60b-4234-9539-b3b45738a67a,Mock Mac Burger (130 gr.),"29,50 TL",Burgerler,16.0
+A6FCB580-9FD4-49F5-B86F-7387C2C96AFE,BBQ Kajun Tavuk Burger,"22,50 TL",Burgerler,20.0
+4d31d92b-e995-46f5-8a46-6e7a227c9e24,Big Art Burger (300 gr.),"47,00 TL",Gurme Burgerler,16.0
+662039c6-bcc6-4d9f-bc38-e35749a5a8a7,Double Robin's Burger (260 gr.),"47,50 TL",Gurme Burgerler,18.0
+fc4eecc3-85b0-498d-849a-9c0402b6c2f2,Eros Burger (130 gr.),"34,50 TL",Gurme Burgerler,16.0
+7671dd13-02ef-4779-a0cd-f883b2ca6d43,Hot Arzillo Burger (130 gr.),"34,50 TL",Gurme Burgerler,18.0
+13F48BF2-F215-4147-81BC-6A983E4F8F95,Jr. Art Burger (100 gr.),"25,00 TL",Gurme Burgerler,16.0
+925535E2-9E68-46E5-88EB-CF1279CD7555,Veggie Classic Burger,"25,00 TL",Veggie Burgerler,19.0
+2BD02E09-30B4-4301-8C39-4087B9FC6BEF,Veggie Mushroom Burger,"29,00 TL",Veggie Burgerler,19.0
+A76F5736-FFDF-480F-BA47-77A9260A476F,Veggie Köz Burger,"30,00 TL",Veggie Burgerler,19.0
+A170065D-1A19-478A-B0EB-43DD116652F9,Veggie Is An Art Burger,"28,00 TL",Veggie Burgerler,30.0
+396E054E-0930-42B8-A453-88DE11C79B94,Veggie Schnitzel Classic Burger,"24,50 TL",Veggie Burgerler,19.0
+56619EC8-13FA-45D8-BC6E-E9AA0E9F2AE0,Veggie Schnitzel Mushroom Burger,"28,50 TL",Veggie Burgerler,19.0
+F1312FA6-7703-4E5C-9FB2-D5DF1B699E06,Veggie Schnitzel Köz Burger,"29,50 TL",Veggie Burgerler,19.0
+25b35125-a452-4f52-b081-3a846d0a0511,Veggie Köfte Burger,"22,00 TL",Veggie Burgerler,18.0
+3a59b0c6-2ca5-48df-9b39-4b30d9fd74d4,Veggie Schnitzel Burger,"21,50 TL",Veggie Burgerler,19.0
+a3b7c6fc-da88-49c6-b5af-a93cf2557511,Veggie Schnitzel Dürüm,"22,00 TL",Dürümler,8.0
+A4BBAB41-22CB-4054-88CE-E4A4896E990E,Nutellalı Donut,"15,00 TL",Tatlılar,5.0
+21AD50BD-DEF5-436C-BA7F-87EB22687499,Yaban Mersinli Donut,"15,00 TL",Tatlılar,5.0
+F8AC9B98-3CAD-4344-AB83-4E9820DBC589,Vanilyalı Donut,"15,00 TL",Tatlılar,5.0
+4EF33D00-8043-4357-BADF-C29B849CA55B,Beyaz Çikolatalı Brownie,"15,50 TL",Tatlılar,5.0
+A7C48451-4ABA-4A59-8749-5561DE1AE14B,Cookie,"10,00 TL",Tatlılar,5.0
+c93e45e9-0e0f-4dcd-9df1-3a53d6ef9a44,Amerikan Burger Sos,"1,75 TL",Soslar,20.0
+71053473-f70f-4165-9b31-2b100cf65da3,Arc Sos,"1,00 TL",Soslar,9.0
+be8d9655-4d46-47b8-9507-5d7449bd5e2f,Colorado Garlic Sos,"1,75 TL",Soslar,9.0
+fb6e7ece-d77b-403e-bdf7-96a144c628f4,Colorado Hot Chilli Sos,"1,75 TL",Soslar,9.0
+83348F90-62A4-4C3D-925D-F77E5DA5D85F,Mock Mac Sosu,"2,00 TL",Soslar,5.0
+6699592c-30ee-455f-b3fb-c4e06c516157,Poşet,"0,25 TL",Poşet,5.0

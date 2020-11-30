@@ -1,0 +1,40 @@
+food_id,food_name,food_price,food_category,food_score
+6CC9FA16-09F1-4809-BCEF-A360A516C330,Hatay Usulü Soslu Tavuk Döner Dürüm Menü,"27,00 TL",Ekonomik Menüler,4.0
+d9f6f488-d46d-4dad-a8ec-d9960724f856,Adana Kebap,"24,00 TL",Kebaplar,4.0
+52539b19-83e9-4416-aff0-8e96319fe322,Urfa Kebap,"24,00 TL",Kebaplar,5.0
+7aa3bd65-039f-4603-b5c9-43ecb09d00e9,Beyti Kebap,"29,00 TL",Kebaplar,5.0
+acfcf459-23c6-496f-93af-ba642f1952dc,Patlıcanlı Kebap,"29,00 TL",Kebaplar,5.0
+aa9cad4b-5e50-4feb-b6c0-f15299b41d5c,Domatesli Kebap,"29,00 TL",Kebaplar,5.0
+53790fd0-5bad-4947-b540-1981b1947306,Abugannuş Kebap,"45,00 TL",Kebaplar,5.0
+1e684ca7-14b3-4af5-988c-e558c9626e76,Kuzu Şiş,"45,00 TL",Kebaplar,5.0
+81da806d-e4bc-4f0a-818e-7da96df637bd,Cartlak Kebabı,"29,00 TL",Kebaplar,5.0
+e7e54566-bea0-4ffe-ae36-2449f4499e6b,Fıstıklı Kebap,"35,00 TL",Kebaplar,5.0
+866a69da-9822-49c0-a647-ea570d033944,Karışık Izgara,"49,00 TL",Kebaplar,4.0
+6b14507c-ac84-42ee-b832-5d49c1048eac,Sac Kavurma,"40,00 TL",Kebaplar,5.0
+a76bd0e9-0ba9-467e-9dbb-f7abb70b6cfa,Tavuk Şiş,"19,00 TL",Kebaplar,4.0
+b809e973-fd27-4e38-a890-ae8a9fad3681,Tavuk Kanat,"22,00 TL",Kebaplar,4.0
+b9a6834b-b488-4b5a-9389-e6ee95fcd97e,Tavuk Pirzola,"24,00 TL",Kebaplar,4.0
+3219bb4d-4e6b-4981-a418-a7f5bd3d8cf4,Tavuk Germeç,"24,00 TL",Kebaplar,4.0
+85998ce9-bf5d-4cad-83a0-e77b762db4d9,Özel Antep Lahmacun (2 Adet),"22,00 TL",Lahmacunlar,9.0
+b2fb790f-3ecc-4e54-8359-30ad284d2c22,Urfa Lahmacun (2 Adet),"22,00 TL",Lahmacunlar,4.0
+20d9691b-b477-47da-b995-61045f0c56bb,Kıymalı Pide,"18,00 TL",Pideler,9.0
+06af4c58-bc4b-4ff1-b0c8-7e227932939b,Kuşbaşılı Pide,"22,00 TL",Pideler,4.0
+06bc4cbc-828c-4ccf-9e78-5cdd68de7ef1,Kaşarlı Pide,"20,00 TL",Pideler,4.0
+2ea81f54-83e4-4c22-86ea-c68c4a5aaaf3,Beyaz Peynirli Pide,"20,00 TL",Pideler,4.0
+b64ca3f7-3ad9-49ec-926c-99b7effd3fa9,Karışık Pide,"25,00 TL",Pideler,4.0
+b301b972-2147-4a6e-9f43-7d9fce62b671,Sucuklu Pide,"20,00 TL",Pideler,4.0
+94e2fcf6-c6c9-484f-a4a8-595472320e06,İskender (Et Dönerden),"30,00 TL",Et Dönerler,3.0
+c395029e-54d6-48e4-a1cf-01959a03571d,Et Döner,"25,00 TL",Et Dönerler,10.0
+FC627B17-39E4-42EF-8B41-38C64DA4DD64,Hatay Soslu Tavuk Döner Dürüm,"15,00 TL",Tavuk Dönerler,4.0
+c30fa93c-0bd5-4c40-a547-c13b1bb88331,Kiremitte Köfte,"27,00 TL",Kiremitte Ürünler,5.0
+ff6ed9c7-06cd-465a-9914-d9d0caab9a68,Kiremitte Kuzu Şiş,"45,00 TL",Kiremitte Ürünler,5.0
+176bedad-7de2-4c85-a554-b56057ef3358,Kiremitte Tavuk Şiş,"22,00 TL",Kiremitte Ürünler,4.0
+40de201b-f84e-4e5d-90e4-bd75a15a66fd,Kızartma İçli Köfte,"9,00 TL",Yan Ürünler,5.0
+29449409-0187-4113-AA1B-0F967D0B6B18,Supangle,"10,00 TL",Tatlılar,5.0
+A03597D4-948D-4A0B-95D2-ACDC2409495C,Profiterol,"10,00 TL",Tatlılar,5.0
+A5BF4393-4F78-43C6-8F20-B297C214B431,Sütlaç,"10,00 TL",Tatlılar,5.0
+39BAFE47-8DE9-4ADC-A899-6F52BF552CCE,Kazandibi,"10,00 TL",Tatlılar,5.0
+2104B957-7B78-4320-9358-5864E1739BBB,Keşkül,"10,00 TL",Tatlılar,5.0
+809d860f-518e-4f18-8e13-7732688e597f,Künefe,"15,00 TL",Tatlılar,3.0
+b2a8f65c-4d00-446a-9055-e1fa645bfc75,Doğanay Şalgam Suyu (33 cl.),"5,00 TL",İçecekler,5.0
+979c6a3c-1e42-40f0-9166-2632483008d0,Poşet,"0,25 TL",Poşet,5.0

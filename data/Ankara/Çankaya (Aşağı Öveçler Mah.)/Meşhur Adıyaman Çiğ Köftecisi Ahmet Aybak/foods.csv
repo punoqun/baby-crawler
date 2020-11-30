@@ -1,0 +1,61 @@
+food_id,food_name,food_price,food_category,food_score
+7DD493DB-0EBF-4D42-B2C0-3A2552DBC066,Tavuk Pilav Menü,"14,50 TL",Menüler,6.0
+64CFAD3A-F9FD-4633-8E11-37A97C67AC7E,2'li Tavuk Pilav Menü,"30,00 TL",Menüler,6.0
+5D4EABEC-9E0C-48A8-8B8B-3079AABA8A6C,Mega Çiğ Köfte Dürüm Menü 5,"21,50 TL",Menüler,27.0
+7A90984E-D2D7-41D9-ACBC-B589A3490DC3,Mega Çiğ Köfte Dürüm Menü 2,"19,50 TL",Menüler,29.0
+ac3aeb1b-a2fa-4705-974f-bbf529aed51a,2'li Mega Çiğ Köfte Dürüm Menü 2,"31,50 TL",Menüler,29.0
+1bdb3bd3-063a-4705-8574-9d80da96c8a6,Menü 2,"98,00 TL",Menüler,8.0
+D443BEF9-BD02-40EC-8831-D6DC44D02252,"Menü 2,5","44,00 TL",Menüler,5.0
+439b96ff-fa55-4d9c-aa8f-2cf5dbb5ec98,Menü 3,"45,00 TL",Menüler,5.0
+a9a76ea8-1eb1-4a3e-b37b-3a6c90e08e9c,Menü 4,"59,00 TL",Menüler,5.0
+572D85F3-FA76-420B-848B-A945C8D3C0A8,"Menü 4,5","39,50 TL",Menüler,5.0
+38411E1D-8FF7-4E63-9FCF-89FAC53124B9,Menü 5,"50,00 TL",Menüler,4.0
+6f4616d7-adfa-46b7-a9e9-b71c71c15e01,Mega Çiğ Köfte Dürüm Menü,"19,50 TL",Menüler,27.0
+94c15683-a13a-40b0-a4ae-edc262b0461b,2'li Mega Çiğ Köfte Dürüm Menü,"27,50 TL",Menüler,27.0
+726cea66-b028-4428-b3de-2e991ce71347,4'lü Mega Çiğ Köfte Dürüm Menü,"55,50 TL",Menüler,27.0
+cd51e49a-1d05-412b-bb26-cd2bafe64b79,2'li Çiğ Köfte Dürüm Menü 1,"19,50 TL",Menüler,71.0
+1e5222f3-289c-4784-bab1-db5a1b883caf,2'li Çiğ Köfte Dürüm Menü 2,"23,50 TL",Menüler,29.0
+c96f12cc-c063-476e-a4e5-0aa5968e98dc,2'li Çiğ Köfte Dürüm Menü 3,"29,50 TL",Menüler,27.0
+e13e1583-c5d7-4af5-8be2-915f1f362f0b,3'lü Çiğ Köfte Dürüm Menü,"20,50 TL",Menüler,27.0
+a718a834-9f8f-4147-9b9f-ca2215df3552,5'li Çiğ Köfte Dürüm Menü,"34,50 TL",Menüler,27.0
+3BE1B208-877C-4957-980B-961278B71FA3,Çiğ Köfte (300 gr.) Menü,"34,00 TL",Menüler,27.0
+291fd042-eccc-4050-9f91-65f0ffb291c0,Çiğ Köfte (400 gr.) Menü 1,"48,00 TL",Menüler,71.0
+2bb8ff18-461f-4e01-8110-e48daeaddf83,Çiğ Köfte (400 gr.) Menü 2,"48,00 TL",Menüler,30.0
+22E9690A-6E0B-4DAE-A30C-AA6639E68515,Çiğ Köfte (400 gr.) Menü 3,"33,00 TL",Menüler,27.0
+A92ECE0F-1416-4D81-A5ED-8096F07082E2,Çiğ Köfte (500 gr.) Menü,"35,50 TL",Menüler,27.0
+32f616fd-e5ad-4866-87c5-c109672b18e7,Çiğ Köfte (600 gr.) Menü,"44,50 TL",Menüler,27.0
+AC8FB398-145B-4ECF-BB80-F03B67BA78AE,Çiğ Köfte (600 gr.) Menü 2,"48,00 TL",Menüler,30.0
+81C4A863-9170-46F2-A7D3-5A0B48C914C7,Çiğ Köfte (600 gr.) Menü 3,"39,00 TL",Menüler,27.0
+E535C6E5-AC26-427A-AAB1-1BCC1CCCC3E2,Çiğ Köfte (800 gr.) Menü,"48,00 TL",Menüler,27.0
+9D86C6DE-63CB-4340-B773-8566EEDE4173,Çiğ Köfte (800 gr.) Menü 2,"56,00 TL",Menüler,30.0
+F0DBA048-D0B9-4914-821B-083B601EEFBB,Süpermen Menü,"99,00 TL",Menüler,5.0
+26B5E36D-CA96-4251-A03C-0193E5903118,Bizim Menü,"82,00 TL",Menüler,5.0
+2204dc49-0b65-4add-82c5-e13588ad8eb8,Mega Çiğ Köfte Dürüm,"8,00 TL",Çiğ Köfteler,32.0
+855ee544-191c-4b60-9de4-5feb976cf4c9,Çiğ Köfte (400 gr.),"19,00 TL",Çiğ Köfteler,32.0
+8652d0b4-00b4-45c9-8819-87d37559401a,Çiğ Köfte (600 gr.),"26,00 TL",Çiğ Köfteler,32.0
+f4d2ace1-4aaa-4739-84d5-a062c1cae317,Çiğ Köfte (800 gr.),"33,00 TL",Çiğ Köfteler,27.0
+2b5e830c-6c25-476b-a9a9-028f5d1e62a4,Arnavut Ciğeri Dürüm,"13,00 TL",Dürümler,5.0
+8c7921a7-c3cf-40c7-9714-b99e5c90c63a,Tam Ekmek Arası Arnavut Ciğeri,"22,00 TL",Ekmek Arası Ürünler,5.0
+8a7ea514-df1d-4b91-bdf4-8361b1ee51bc,Patlıcan Salatası (200 gr.),"9,00 TL",Mezeler,5.0
+c88b5e65-c0ce-4119-9c83-5f2d3fe62184,Dana Arnavut Ciğeri (500 gr.),"45,00 TL",Mezeler,5.0
+2086AE8B-AC1F-4FC3-8CE0-9B0348B3CC7B,Tavuklu Pilav (250 gr.),"12,00 TL",Yan Ürünler,4.0
+b137e5e2-40f3-4491-b088-a4ea753d61f5,Kızartma İçli Köfte (10 Adet),"49,00 TL",Yan Ürünler,18.0
+8d4e2cf8-2bb9-468d-bdcb-cbc3c1c6244b,Kızartma İçli Köfte (5 Adet),"24,50 TL",Yan Ürünler,18.0
+D1FA624E-3989-4CB5-B813-E91B6452015B,Kızartma İçli Köfte (3 Adet),"14,50 TL",Yan Ürünler,18.0
+b8ba7c87-100a-4732-a7d1-53d760904247,Kızartma İçli Köfte (Adet),"5,00 TL",Yan Ürünler,18.0
+78445a99-7a32-4d30-93cc-faecf2229777,Limon (Adet),"2,00 TL",Yan Ürünler,5.0
+f70afe74-0e55-423d-b527-4dc2380addfa,Acı Biber Turşusu,"2,50 TL",Yan Ürünler,5.0
+9ea3d891-2c24-4890-a954-bda8d02958e3,Salatalık Turşusu,"2,50 TL",Yan Ürünler,5.0
+8fa426f1-1cfc-47f8-bf78-36da25be5dea,Lavaş Ekmeği (Adet),"0,75 TL",Yan Ürünler,13.0
+27621e44-ba34-449f-baa4-f4bb18eeca65,Çikolatalı Muzlu Puding,"3,00 TL",Tatlılar,5.0
+905d1992-f709-464f-ac94-654040b306a4,Bal Badem Tatlısı (6 Adet),"9,00 TL",Tatlılar,4.0
+cfec2cb2-601f-4a85-99fe-83d152d02312,Bal Badem Tatlısı (500 gr.),"17,50 TL",Tatlılar,4.0
+297d4905-a080-4169-97fe-9e26d6ceb443,Bal Badem Tatlısı (1 kg.),"35,00 TL",Tatlılar,4.0
+8946d6e1-23ee-4dc1-a0a8-c69ac321147d,Niğde Gazozu (20 cl.),"3,50 TL",İçecekler,5.0
+0848294b-2e77-4ea4-a376-dce8808b489c,Doğanay Şalgam Suyu (33 cl.),"4,00 TL",İçecekler,5.0
+f8f7f491-0ee2-4317-a1aa-8698cfbb8668,Altın Koza Şalgam Suyu (25 cl.),"4,50 TL",İçecekler,5.0
+f008d020-e950-4d76-943a-c404ccc53f6e,Uludağ Limonata Şekersiz (1 L.),"7,00 TL",İçecekler,5.0
+5c2c9ee5-ed38-4d4b-a325-d860fec8cbfb,Doğanay Şalgam Suyu (1 L.),"8,50 TL",İçecekler,5.0
+4b73d51e-a1a6-48d4-9db3-352fd017d98c,Altın Koza Şalgam Suyu (1 L.),"9,00 TL",İçecekler,5.0
+4237fcd3-4a61-4abb-8f7b-8bd596b0a097,Zeytinyağlı Yaprak Sarma (500 gr.),"20,00 TL",Kiloluk Ürünler,8.0
+29c3b4ed-7fdb-42a0-ad7e-2b54ce40e62a,Poşet,"0,25 TL",Poşet,5.0

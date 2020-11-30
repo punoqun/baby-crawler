@@ -1,0 +1,51 @@
+food_id,food_name,food_price,food_category,food_score
+199dd7c7-cf16-40b0-a396-ec6abd271094,3'lü Dürüm & Trileçe Menü,"26,00 TL",Ekonomik Menüler,6.0
+d34f7182-415d-4c67-8d9c-ad6507cf5b68,3'lü Dürüm Menü,"26,00 TL",Ekonomik Menüler,11.0
+035fa55f-af2a-4ba6-ac3f-e5ae706958bd,3'lü Tavuk Döner Dürüm Menü,"20,00 TL",Ekonomik Menüler,8.0
+3565a694-30c8-453c-98b2-e21d0ec469d2,Dürüm Menü 1,"23,00 TL",Ekonomik Menüler,18.0
+24d723d7-07fd-496a-9468-1aeb148bd384,Dürüm Menü 2,"20,00 TL",Ekonomik Menüler,9.0
+52e58bdf-c6dc-42ab-991c-467aac6a080e,Et Döner Menü 1,"28,99 TL",Ekonomik Menüler,19.0
+b1063a3f-5b71-4dac-89df-8f36f4ba5c75,Et Döner Menü 2,"26,99 TL",Ekonomik Menüler,10.0
+906d50b5-99e5-4ad6-8f67-d40e6dfe01b9,Beyti Et Döner Menü,"28,99 TL",Ekonomik Menüler,7.0
+66092406-8db2-40d5-96aa-2fdc5be78d9b,Popüler Special Menü,"29,00 TL",Ekonomik Menüler,4.0
+8f09114e-7989-4d75-aac9-b05cb93f31ea,Tavuk Bonfile (1 kg.) (Pişirilmiş) Menü,"74,00 TL",Ekonomik Menüler,3.0
+85f10ce0-a926-48de-b57a-24e414ed4199,Tavuk Döner Dürüm & Tatlı Menü,"19,90 TL",Ekonomik Menüler,8.0
+cd45a213-82c2-4e59-b4a9-ffe5b6a5e852,Tavuk Döner Dürüm Menü 1,"15,99 TL",Ekonomik Menüler,20.0
+a28bd33d-5a16-4d44-b97b-cf3730ef6cc4,Tavuk Döner Dürüm Menü 2,"15,00 TL",Ekonomik Menüler,11.0
+e937fc45-d8f4-4b0b-8b0e-eae5169dae3d,Tavuk Döner Dürüm Menü 3,"25,00 TL",Ekonomik Menüler,14.0
+6d495104-42c4-4cac-bffa-c8a2e8a31001,Tavuk Şiş (1 kg.) (Pişirilmiş) Menü,"69,00 TL",Ekonomik Menüler,3.0
+548d7c1a-bdd6-4904-a909-0333adf9ffff,Zurna Tavuk Döner Dürüm Menü,"15,00 TL",Ekonomik Menüler,13.0
+9b6817e2-a8c5-41de-b4fe-76c0a1dd4bc6,Pilav Üstü Tavuk Döner,"18,00 TL",Tavuk Dönerler,7.0
+437856d0-12a4-4546-b80c-9193d9970b01,Tavuk Döner Beyti,"19,00 TL",Tavuk Dönerler,7.0
+5ec9edc2-4749-4960-9f51-b949e02520d8,Tavuk İskender,"19,00 TL",Tavuk Dönerler,5.0
+e1581092-7726-4cac-8b4f-1a981578a224,Zurna Tavuk Döner Dürüm,"15,00 TL",Tavuk Dönerler,9.0
+c5f06dfe-d903-4e22-aa60-72ae0da5d3b5,Gobit Ekmek Arası Tavuk Döner,"13,00 TL",Tavuk Dönerler,8.0
+aadbd7b1-ba9b-41e3-a1e7-d9df4250f26c,Süper Gobit Ekmek Arası Tavuk Döner,"16,00 TL",Tavuk Dönerler,8.0
+7f007cec-c4f4-4cb0-b148-8bd68fc9fdc3,Cheddarlı Tavuk Döner Dürüm,"15,00 TL",Tavuk Dönerler,9.0
+27ddff3c-1ebc-4634-b9e1-f1ac602e8af4,Cheddarlı Zurna Tavuk Döner Dürüm,"16,00 TL",Tavuk Dönerler,9.0
+119bf4f5-a453-4979-ae09-827af64040e1,Popüler Atom Tavuk Döner Dürüm,"18,00 TL",Tavuk Dönerler,14.0
+fc4fd322-8168-4c70-a5f9-6fc50a2d1c3d,İskender (Et Dönerden),"28,99 TL",Et Dönerler,6.0
+3F6A8735-334B-4F63-84AA-6145D3AC6FBF,Pilav Üstü Et Döner,"28,99 TL",Et Dönerler,8.0
+12286a92-e750-45d5-8e57-958b53fffcf6,Tam Ekmek Arası Et Döner,"23,99 TL",Et Dönerler,9.0
+47d7d087-1b92-49da-8fd3-5a3a2d667c7c,Et Döner Dürüm,"20,99 TL",Et Dönerler,10.0
+1b6e70b8-4473-45a4-9dd2-964cfdec9fc9,Izgara Köfte (200 gr.),"24,00 TL",Izgaralar & Kebaplar,2.0
+3cee04ee-19ef-4b73-9ee6-18f1edd16ae0,Tavuk Biftek,"22,00 TL",Izgaralar & Kebaplar,4.0
+5da34bd7-6a6a-4263-acfd-3409a0bb0e25,Karışık Izgara,"26,00 TL",Izgaralar & Kebaplar,3.0
+5f0268a3-8760-4ba5-814a-b13a455f2803,Tavuk Şiş,"22,00 TL",Izgaralar & Kebaplar,4.0
+03046421-479d-428b-a6eb-874a03351490,Köfte Dürüm,"22,00 TL",Dürümler,6.0
+9bfde01a-2690-4ca5-bc91-5925bde1ea31,Patates Kroket,"8,00 TL",Yan Ürünler,10.0
+b6bd13db-7e57-4716-bd47-4ef2a6eb690c,Ezme,"1,50 TL",Yan Ürünler,5.0
+51fe6f9d-3c5d-4ac9-bab5-35e19f94fd16,Ezme (250 gr.),"6,00 TL",Yan Ürünler,5.0
+27ace865-6b73-4a6a-9648-9fe1ea6069a5,Yoğurt,"6,00 TL",Yan Ürünler,5.0
+4e16c134-085a-4a41-9429-03d1b58bf85c,Patates Kızartması,"7,00 TL",Yan Ürünler,10.0
+74bca071-09db-42cd-ad61-e7d6a273ed2b,Duble Mevsim Salata,"6,00 TL",Yan Ürünler,5.0
+bd28b68a-d49c-4e1a-abb5-9ad946de8b11,Pilav,"6,00 TL",Yan Ürünler,5.0
+5cfb83b8-cf89-421b-b55f-4bcc747a13c0,Magnum Badem (100 ml.),"10,00 TL",Dondurmalar,5.0
+5dc7c0de-c4dd-402d-ab41-c668a277b9ec,Algida Carte d'Or Mini Cup Çikolata Karnavalı (110 ml.),"6,00 TL",Dondurmalar,5.0
+c330a2d5-81dd-488d-906a-b6429d33c79c,Carte d'Or Premium Kaymak Cup (100 ml.),"7,00 TL",Dondurmalar,5.0
+fc1a522b-29f1-45c0-8ef6-a7652c2c5028,Algida Maraş Usulü Cup Dondurma (100 ml.),"6,00 TL",Dondurmalar,5.0
+197b39a2-dea9-4dfc-b0a6-167ed29793ef,Frambuazlı Trileçe,"7,00 TL",Tatlılar,5.0
+b762b7f3-9fbc-4e1a-80ea-e479a851f1e1,Karamelli Trileçe,"7,00 TL",Tatlılar,5.0
+78631799-9A99-49E8-9CEB-80EF699F0275,Fıstıklı Cevizli İrmik Helvası,"7,00 TL",Tatlılar,5.0
+e816192f-4c9e-4b1b-a01a-a7a5df1ce889,Doğanay Şalgam Suyu (33 cl.),"4,00 TL",İçecekler,5.0
+f0a0c37f-acaa-4b71-b692-bdd0fca914a0,Poşet,"0,25 TL",Poşet,5.0

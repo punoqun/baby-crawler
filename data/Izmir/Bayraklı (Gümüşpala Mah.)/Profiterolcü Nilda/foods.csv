@@ -1,0 +1,39 @@
+food_id,food_name,food_price,food_category,food_score
+d887bcca-233e-4af5-96f7-96d7cb86eb4d,Nilda Menü,"12,00 TL",Ekonomik Menüler,5.0
+437d66b8-882c-48c6-8740-d163055eaa4b,Eko Paket,"100,00 TL",Ekonomik Menüler,3.0
+3e46ab6d-95b1-4ef2-9c77-4a723d68fda7,Süper Paket,"195,00 TL",Ekonomik Menüler,14.0
+6fe3ca23-5754-4766-914f-06e8618c827f,Öğrenci Paketi,"24,00 TL",Ekonomik Menüler,5.0
+89f31e01-9949-4a7d-97eb-dfa6cd606180,Mini Paket,"16,00 TL",Ekonomik Menüler,3.0
+5c93a2b8-5e92-45ea-991b-e0adc498cd70,Midi Paket,"50,00 TL",Ekonomik Menüler,3.0
+18eb2b08-b119-4b62-98b2-a4b22ae01575,Yaz Serinliği (Mini),"24,00 TL",Ekonomik Menüler,5.0
+3fcf447c-7ba7-46cf-9da7-8a66e7b6759a,Yaz Serinliği (Midi),"47,50 TL",Ekonomik Menüler,5.0
+c8d3a09d-df65-4a67-8dbb-d7911388098e,Yaz Serinliği (Ekler),"24,00 TL",Ekonomik Menüler,5.0
+74654c4b-33e0-4ed8-8edc-41c694e1f3b1,Yaz Serinliği (Aile Boyu),"82,50 TL",Ekonomik Menüler,5.0
+e293f4f5-11a7-4ed0-b7ef-10d05a70cb9a,Kavunlu Ekler (Adet) (Küçük),"2,00 TL",Ekler,12.0
+b463c2ad-7a16-4d62-801a-691fbe4c4ca8,Vanilyalı Craquelin (Adet),"4,00 TL",Craquelin,5.0
+0dedf8ea-0053-4bf6-8daa-f7468eda4ce0,Çilekli Craquelin (Adet),"4,00 TL",Craquelin,6.0
+a97a003b-27e8-4ec7-af83-16e28f70a8b3,Antep Fıstıklı Makaron,"6,00 TL",Macarons,3.0
+437732f8-b052-4c4e-a562-c07e7180f14e,Böğürtlenli Makaron,"6,00 TL",Macarons,5.0
+e1b549a8-e2bf-4ab2-8b43-e62a9a24e0ea,Çilekli Makaron,"6,00 TL",Macarons,6.0
+B052F350-B55F-46F6-B581-8094E7F11101,Fişek Ekler (1 Kişilik),"17,50 TL",Ekler Pasta,12.0
+394daee1-4d4c-426a-b4a6-6b141a62e7a4,Profiterol Spesiyal (Karışık) (180 gr.),"13,50 TL",Kiloluk Profiteroller,5.0
+9336ac37-3178-46fe-9f3b-b7039363a496,Profiterol Special (Karışık) (250 gr.),"17,50 TL",Kiloluk Profiteroller,5.0
+7755981d-99cc-47a9-8aa5-e4e8cd6880d5,Profiterol Special (Karışık) (500 gr.),"35,00 TL",Kiloluk Profiteroller,5.0
+b3a1d468-df59-4dee-8097-283938ac28fa,Profiterol Special (Karışık) (1 kg.),"70,00 TL",Kiloluk Profiteroller,5.0
+7b2f4501-3aa6-4faa-84de-7d7ceef6d424,Supangle (1 kg.),"70,00 TL",Kiloluk Supangleler,4.0
+f8c638ac-5754-4cbd-a090-4a037be3506c,Supangle (500 gr.),"35,00 TL",Kiloluk Supangleler,4.0
+3584f610-97ad-4c6d-83c0-da848e4b4e89,Supangle (250 gr.),"17,50 TL",Kiloluk Supangleler,4.0
+978902d0-b057-48f2-ba30-7ebf8f9c149c,Ekler Karışık (Küçük) (250 gr.),"17,50 TL",Kiloluk Ekler,12.0
+62fa1c08-f090-44b0-b283-a6cff48a68bf,Ekler Kavunlu (250 gr.),"17,50 TL",Kiloluk Ekler,12.0
+3448c88d-6499-42e0-9b97-4a29ea739e15,Ekler Karışık (Küçük) (500 gr.),"35,00 TL",Kiloluk Ekler,12.0
+60619444-bbdb-44c8-934e-5dee08655ed5,Ekler Karışık (750 gr.),"52,50 TL",Kiloluk Ekler,12.0
+f3c9f790-bfa2-4bdf-8ff0-5a60a189cd7d,Ekler Karışık (Küçük) (1 kg.),"70,00 TL",Kiloluk Ekler,12.0
+65197a91-90a3-41c8-aebd-481af250ad49,Coca-Cola Şekersiz (25 cl.),"7,50 TL",İçecekler,5.0
+d0f56906-aae9-4ddd-a955-41b694bfa958,Ev Yapımı Limonata (33 cl.),"9,00 TL",İçecekler,7.0
+051b5b9d-5758-4423-8bf1-b466d4e473d2,Sırma Maden Suyu,"5,00 TL",İçecekler,5.0
+22572246-8291-4d9d-a8a4-0d7e506acbee,Sırma Su (50 cl.),"2,50 TL",İçecekler,8.0
+684b11cf-e411-46e2-b862-6e311d91785d,Ev Yapımı Limonata (1 L.),"15,00 TL",İçecekler,7.0
+579b050c-140b-44c5-9d17-d7e903ae847e,Pınar Süt (20 cl.),"5,00 TL",İçecekler,5.0
+3e19346f-5ec2-40e6-bc42-81357fcb172c,Pınar Çilekli Süt (18 cl.),"5,00 TL",İçecekler,6.0
+2b645ed5-97ba-4dfd-855f-3fea62364ef7,Pınar Çikolatalı Süt (18 cl.),"5,00 TL",İçecekler,3.0
+a9ce0eed-a32e-4479-9a9f-d5634dff60ea,Poşet,"0,25 TL",Poşet,5.0

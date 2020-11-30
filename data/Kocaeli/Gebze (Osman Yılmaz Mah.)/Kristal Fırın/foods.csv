@@ -1,0 +1,40 @@
+food_id,food_name,food_price,food_category,food_score
+c2431c3d-caa8-498d-bb50-954c231f5514,Alinazik,"46,00 TL",Ana Yemekler,5.0
+e69e0499-e7a5-40ab-b7ff-b15b499dbabc,Kekikli Beef Sote,"48,00 TL",Ana Yemekler,5.0
+3052fc23-a150-40ac-8f0b-20cd5ad92eb0,Patlıcan Bonfile,"58,00 TL",Ana Yemekler,5.0
+afa344a8-8b4d-45a4-a55a-acfad6a8d3da,Combo Fajita,"42,00 TL",Ana Yemekler,5.0
+5322c28f-5fa7-41c6-9e4e-20fae65abd09,Çökertme Kebabı,"46,00 TL",Ana Yemekler,5.0
+3325f92d-125f-45ae-becc-002edf940802,Dana Lokum,"60,00 TL",Ana Yemekler,5.0
+3688f5d6-e24f-4b6f-ac7c-e9f4794d23f9,Dana Şaşlık,"55,00 TL",Ana Yemekler,5.0
+b7349145-b853-4b7c-9fa5-6dd72ad329a0,Steak Fajita,"47,00 TL",Ana Yemekler,5.0
+7968a5ae-0485-4d48-b07c-c45b14a690c2,Bursa Pideli Köfte,"34,00 TL",Ana Yemekler,5.0
+982a4d4c-d0be-4c0e-86d3-bf9535b08250,Beğendili Izgara Köfte,"34,00 TL",Ana Yemekler,5.0
+9fb13f93-67ff-42a1-a3cf-e07784860f3b,Izgara Köfte,"34,00 TL",Ana Yemekler,5.0
+8ac6a9d6-e955-4ed5-b374-b5e9ae8e9756,Kremalı Mantar Soslu Tavuk,"30,00 TL",Ana Yemekler,2.0
+d8b84be2-7450-4cf3-9cf0-b652c3af63d4,Mantarlı & Soyalı Tavuk Sote,"29,00 TL",Ana Yemekler,4.0
+156d5eea-97b9-4d6d-a0e2-efa2dbb907b3,Mantarlı Acılı Tavuk But,"32,00 TL",Ana Yemekler,4.0
+e222c144-4c3a-45bd-85e9-930acc1d764c,Mushroom Chicken,"33,00 TL",Ana Yemekler,5.0
+75d321fa-6e15-4550-8e44-b1a80bcc315e,Beğendili Tavuk Dilimleri,"29,00 TL",Ana Yemekler,4.0
+e6f1c18e-4670-4c47-ad56-beeea0c9dfca,Köri Soslu Tavuk,"29,00 TL",Ana Yemekler,10.0
+d8cfd86a-d42b-4d9d-a3de-6bd36b97e29d,Sweet Chili Soslu Tavuk,"32,00 TL",Ana Yemekler,4.0
+d2590ea7-bcf0-461d-837e-5e7be1bd59e2,Tavuk Fajita,"33,00 TL",Ana Yemekler,4.0
+3530b2cd-a8de-4380-b241-9df0362e418d,Tavuk Şnitzel,"31,00 TL",Ana Yemekler,4.0
+5d05ab76-08f1-43c3-bcce-f3d277c11369,Kasap Burger,"35,00 TL",Burgerler,5.0
+f5482520-68e7-4a0b-b180-28eda979bdec,Penne con Carne,"29,00 TL",Makarnalar,5.0
+5cffce85-207e-4c8a-ae7e-a6a80b7dcad9,Penne Pesto,"25,00 TL",Makarnalar,5.0
+14d3bc01-d026-4fca-89db-bff1f30a7e42,Etli Sandviç,"26,00 TL",Sandviçler,5.0
+88adc2d7-ebed-424f-9629-2d3d2a3d6bda,Tavuklu Sandviç,"24,00 TL",Sandviçler,4.0
+4b411b08-785f-4f7a-a285-838cf5301589,İtalyan Sandviç,"22,00 TL",Sandviçler,5.0
+0bcde075-fbf7-442c-940c-d5f985226d56,Tavuklu Wrap,"24,00 TL",Wraps,4.0
+0562b56e-09ac-458c-8b3c-9d3d5696f0f8,Biftekli Wrap,"29,00 TL",Wraps,5.0
+4aa32e7c-aa6a-4490-bee2-f5ef7431453b,Köfteli Wrap,"26,00 TL",Wraps,5.0
+0899df76-e8ee-4ffc-9f9b-86d4a5850ace,Ton Balıklı Salata,"30,00 TL",Salatalar,4.0
+80412355-15e7-4110-95d0-0b8a08560f34,Izgara Tavuklu Salata,"29,00 TL",Salatalar,3.0
+e9f11311-b321-480b-8bce-e5a4d9d9a5f7,Anne Patates,"15,50 TL",Yan Ürünler,3.0
+cd5a2287-993a-4493-a3a9-5b41e8ef3ec2,Parmak Patates Kızartması,"13,50 TL",Yan Ürünler,3.0
+2106549f-a871-4885-ba19-912c25f67a5d,Cheddar Soslu Parmak Patates Kızartması,"17,00 TL",Yan Ürünler,3.0
+399b6805-42d5-46a5-9579-7ea36bec3fed,Antep Fıstıklı Baklava (1 kg.),"100,00 TL",Kiloluk Tatlılar,5.0
+91016c43-e221-4bb1-9364-9609b0771d47,Cevizli Baklava (1 kg.),"80,00 TL",Kiloluk Tatlılar,5.0
+636c7f4c-3e9f-45e4-8cb1-61e39e8ac18c,Cevizli Ev Baklavası (1 kg.),"90,00 TL",Kiloluk Tatlılar,5.0
+ab983576-cd36-464c-a375-fbaac2fd15d0,Midye Baklava (1 kg.),"135,00 TL",Kiloluk Tatlılar,5.0
+e4a4f1f7-c089-49e5-8eaf-4db50b059643,Poşet,"0,25 TL",Poşet,5.0

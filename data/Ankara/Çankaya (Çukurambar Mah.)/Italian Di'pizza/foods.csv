@@ -1,0 +1,45 @@
+food_id,food_name,food_price,food_category,food_score
+2d73e434-f12d-47ca-b968-07357fda27be,3'lü Dilim Pizza Menü,"28,00 TL",Ekonomik Menüler,38.0
+ef449389-4304-428a-bf11-af57db75c8aa,5'li Dilim Pizza Menü,"41,00 TL",Ekonomik Menüler,38.0
+947bec98-e09c-479e-a3df-19aaeb5ece88,Pizza Menü,"65,00 TL",Ekonomik Menüler,34.0
+8fb73abf-d95c-4846-80d5-6c406526f91a,12'li Dilim Pizza Menü,"82,00 TL",Ekonomik Menüler,38.0
+92baafa4-7a7d-4253-9bfe-b0fd97e6aae3,2'li Pizza & Tatlı Menü,"136,00 TL",Ekonomik Menüler,34.0
+88784299-14e5-47d3-a116-059ff1da1193,3'lü Pizza Menü (42 cm.),"145,00 TL",Ekonomik Menüler,34.0
+440d73a9-55e1-4c35-80a0-c462cb86058d,5'li Pizza Menü (42 cm.),"240,00 TL",Ekonomik Menüler,34.0
+070bbf07-f9d3-49c8-a813-3d93af712bb1,Cuma Menüsü,"56,00 TL",Günlük Menüler,5.0
+ad082a8e-6b17-48c2-95bd-f5af663f1202,Margherita Pizza,"50,00 TL",Pizzalar (42 cm.) (8 Dilim),34.0
+e11ff7da-481d-422c-94f2-13acc79a9739,Napolitan Pizza,"50,00 TL",Pizzalar (42 cm.) (8 Dilim),34.0
+ee2e63fc-524d-4e40-8270-50e5dcdc2ba4,Speedy Pizza,"50,00 TL",Pizzalar (42 cm.) (8 Dilim),35.0
+615d5275-46b2-448d-beb1-0a813ab6138d,Karışık Pizza,"50,00 TL",Pizzalar (42 cm.) (8 Dilim),35.0
+0dc08696-529a-4a84-bd7c-1101d730b59c,Hawaii Pizza,"50,00 TL",Pizzalar (42 cm.) (8 Dilim),38.0
+973559ca-4e23-4dc1-a64f-3848b51ea159,Quattro Formaggi Pizza,"50,00 TL",Pizzalar (42 cm.) (8 Dilim),37.0
+da4ad95a-f97b-4fe5-9897-6607b5a24041,Tonnoe Cipolle Pizza,"50,00 TL",Pizzalar (42 cm.) (8 Dilim),34.0
+d8584383-9eca-4eeb-94ac-e4dff358ee4a,Diavola Pizza,"50,00 TL",Pizzalar (42 cm.) (8 Dilim),34.0
+7dafdf41-194d-425a-90e9-0c1eb6ff8212,Funghi Pizza,"50,00 TL",Pizzalar (42 cm.) (8 Dilim),34.0
+d9e4f216-c1f0-4ceb-9b04-bab5434e2972,Vittoria Pizza,"50,00 TL",Pizzalar (42 cm.) (8 Dilim),34.0
+ec55d415-6675-459d-ba90-c7134abfb241,Margherita Dilim Pizza,"6,50 TL",Dilim Pizzalar,38.0
+cc573ce5-8278-47d7-a1e7-acf09a5cab6b,Napolitan Dilim Pizza,"6,50 TL",Dilim Pizzalar,38.0
+53cad0fc-8bd0-43a3-9c58-edb740f13a6b,Speedy Dilim Pizza,"6,50 TL",Dilim Pizzalar,39.0
+35969762-ec3f-4151-a397-d871f4cefbec,Karışık Dilim Pizza,"6,50 TL",Dilim Pizzalar,44.0
+6ec9b202-0c2c-49ac-a804-be5c7855b60e,Hawaii Dilim Pizza,"6,50 TL",Dilim Pizzalar,42.0
+9a27ab31-f125-44ea-95ab-5c3a38eb4ed0,Quattro Formaggi Dilim Pizza,"6,50 TL",Dilim Pizzalar,41.0
+bb7c0e47-951b-4469-9321-585de2ac74f7,Tonnoe Cipolle Dilim Pizza,"6,50 TL",Dilim Pizzalar,38.0
+d9e10971-7ee0-41b5-a693-d929eb0cb5c5,Diavola Dilim Pizza,"6,50 TL",Dilim Pizzalar,38.0
+71309529-f017-4d31-808c-76b587ab2b98,Funghi Dilim Pizza,"6,50 TL",Dilim Pizzalar,43.0
+451bbb11-3872-4d86-b72b-82b100a123f5,Vittoria Dilim Pizza,"6,50 TL",Dilim Pizzalar,43.0
+99f0adb5-093e-4800-b937-57b720beed11,Güveçte Çikolatalı Sufle,"20,00 TL",Tatlılar,12.0
+5f246c80-6da1-4942-8270-6e89c1097803,Eker Sütlaç,"4,00 TL",Tatlılar,5.0
+9ca5d9c2-63a8-49e0-8660-d81ea23ed33d,Eker Kazandibi,"4,00 TL",Tatlılar,5.0
+69dda2af-c56f-485a-8f1d-e63b1d22878c,Eker Puding,"4,00 TL",Tatlılar,5.0
+2607d744-09a9-40e0-89b7-08a9c1c03306,Algida Maraş Usulü Cup Dondurma (100 ml.),"6,00 TL",Dondurmalar,5.0
+34feffdc-9d18-448e-8d39-d981c8f1cd1a,Algida Carte d'Or Mini Cup Çikolata Karnavalı (110 ml.),"6,00 TL",Dondurmalar,5.0
+d1912a46-1e3e-41f1-aeb4-6154a6cac9b2,Algida Carte d'Or Mini Cup Çilekli Yoğurtlu (110 ml.),"6,00 TL",Dondurmalar,5.0
+274782a0-b24a-40ae-b14c-a0f87364710d,Algida Maraş Usulü Dilim Dondurma (82 ml.),"6,00 TL",Dondurmalar,10.0
+d05a4e60-30bc-4425-81be-aacf930a2533,Carte d'Or Premium Çikolata Cup (100 ml.),"6,00 TL",Dondurmalar,5.0
+8bb59751-e9d1-4153-88cc-ce0ad657b911,Carte d'Or Premium Kaymak Cup (100 ml.),"6,00 TL",Dondurmalar,5.0
+975dfed6-abe7-4a6e-893f-68d617500c1d,Schweppes Limon (33 cl.),"6,50 TL",İçecekler,5.0
+8e809265-6e93-4ec8-9f71-49dcd39e6fee,Schweppes Mandalin (33 cl.),"6,50 TL",İçecekler,5.0
+0b60862f-f0dc-450d-9a2d-6b2c26ad96fb,Niğde Gazozu (25 cl.),"4,00 TL",İçecekler,5.0
+ddf55365-82ba-464c-ac3d-9f1b29fb06ec,Limonlu Soda,"3,00 TL",İçecekler,5.0
+272c0903-8ba6-4dd3-bf90-2453caaca15f,Su,"2,00 TL",İçecekler,14.0
+4595c3cc-99d7-40cd-8ce9-b03e7024faaf,Red Bull (25 cl.),"9,00 TL",İçecekler,5.0

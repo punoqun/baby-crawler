@@ -1,0 +1,32 @@
+food_id,food_name,food_price,food_category,food_score
+bc77e194-ea0f-4317-ba9b-e0cf9ed265d8,Yarım Ekmek Arası Kaşarlı Tost,"7,99 TL",Tostlar,1.0
+8de04cd6-fb86-418f-a545-09a5e1c6dd1c,Yarım Ekmek Arası Karışık Tost,"8,99 TL",Tostlar,1.0
+0b090f82-d164-4478-95dd-5cf83660f69c,3/4 Ekmek Arası Kaşarlı Tost,"10,99 TL",Tostlar,2.0
+17398be6-0101-46ac-aa63-ab05f9d60b3d,3/4 Ekmek Arası Karışık Tost,"11,99 TL",Tostlar,2.0
+ee8c0d56-9584-403c-8127-df1858c675d8,Yarım Ekmek Arası Kavurmalı Kaşarlı Tost,"11,99 TL",Tostlar,0.0
+a1030b4e-a8d1-42cd-a0b7-cd7c00748700,3/4 Ekmek Arası Kavurmalı Kaşarlı Tost,"16,99 TL",Tostlar,1.0
+f91f96e1-deb1-4f0a-acaa-801be2d87ed9,Yarım Ekmek Arası Patso,"7,99 TL",Patso Sandviçler,3.0
+f2a14e5f-00d5-42fb-b117-83356c26ac8b,Yarım Ekmek Arası Kaşarlı Patso,"8,99 TL",Patso Sandviçler,3.0
+8ed54e58-8e00-428f-96f3-e26280fb9330,Sosisli Patso,"9,99 TL",Patso Sandviçler,11.0
+d40e3e44-9628-4e22-9f00-2c8afe958225,Sucuklu Patso,"9,99 TL",Patso Sandviçler,5.0
+5fcc91f8-d6e4-446e-865f-00846d6f3874,Köfteli Patso,"12,99 TL",Patso Sandviçler,5.0
+39dcdb70-7a9e-42e0-bbfd-c957b8b07b69,3/4 Ekmek Arası Patso,"10,99 TL",Patso Sandviçler,4.0
+9f3bcc6e-d580-4887-8718-a7edd316b101,3/4 Ekmek Arası Kaşarlı Patso,"12,99 TL",Patso Sandviçler,4.0
+5afd4c14-5820-4dba-9c11-f23d15f8ab5a,Sosisli Sandviç,"5,99 TL",Sandviçler,6.0
+782488ab-5d40-4953-8d64-fd56cd0911e1,Yarım Ekmek Arası Tavuk Sucuk,"8,99 TL",Sucuklar,2.0
+ba2fdd73-beb7-4a88-be53-a150141b17a6,Yarım Ekmek Arası Kaşarlı Tavuk Sucuk,"9,99 TL",Sucuklar,2.0
+6cf36e1e-7a52-4509-9735-98480dde2255,3/4 Ekmek Arası Tavuk Sucuk,"11,99 TL",Sucuklar,3.0
+97cee7b9-acc4-4041-baf4-80deb7bd4e4f,3/4 Ekmek Arası Kaşarlı Tavuk Sucuk,"13,99 TL",Sucuklar,3.0
+716ed1db-c7f1-4e14-8669-080672de0d65,Yarım Ekmek Arası Dana Sucuk,"13,99 TL",Sucuklar,2.0
+748bccbc-797c-4952-bfd3-ca766d7e6948,Yarım Ekmek Arası Kaşarlı Dana Sucuk,"15,99 TL",Sucuklar,2.0
+d559214a-8d60-4600-b472-3341aa3178d4,3/4 Ekmek Arası Dana Sucuk,"19,99 TL",Sucuklar,3.0
+5c2867da-5eae-47eb-be56-73a4b025180c,3/4 Ekmek Arası Kaşarlı Dana Sucuk,"21,99 TL",Sucuklar,3.0
+f0d807e2-55ba-4529-81c8-5080a8a9fe0b,Tam Ekmek Arası Dana Sucuk,"25,99 TL",Sucuklar,3.0
+e9b7c3c1-26fe-4344-9259-daf7343ed77d,Yarım Ekmek Arası Köfte,"11,99 TL",Köfteler,0.0
+9daa049d-3e30-415c-8854-f22c5a44c375,Yarım Ekmek Arası Kaşarlı Köfte,"13,99 TL",Köfteler,0.0
+9d0de0bb-f2d5-400b-a698-993a456b8b7d,3/4 Ekmek Arası Köfte,"16,99 TL",Köfteler,1.0
+73d0157b-cb30-400b-96b4-b924e3021c30,3/4 Ekmek Arası Kaşarlı Köfte,"18,99 TL",Köfteler,1.0
+1bd78370-106c-4819-942e-339ab95ea459,3/4 Ekmek Arası Kumru,"16,99 TL",Ekmek Arası Ürünler,7.0
+f7e1c464-919a-429f-956f-2ae3c9caf37b,Yarım Ekmek Arası Kumru,"11,99 TL",Ekmek Arası Ürünler,6.0
+b7067c77-b42d-4444-ac3e-d8e07495be0e,Cappy (20 cl.),"5,00 TL",İçecekler,5.0
+e003872d-bfb8-47ff-8741-56d12ecafa03,Poşet,"0,25 TL",Poşet,5.0

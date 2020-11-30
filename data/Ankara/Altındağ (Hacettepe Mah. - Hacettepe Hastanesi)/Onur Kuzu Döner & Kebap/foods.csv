@@ -1,0 +1,57 @@
+food_id,food_name,food_price,food_category,food_score
+96610f25-8839-4780-9f70-3d2061e6a3ec,Tavuk Kanat,"20,00 TL",Izgaralar,12.0
+1f882644-042d-499e-86e6-317b9b1a43b6,Kuzu Antrikot,"38,00 TL",Izgaralar,6.0
+B2DD84CD-29B4-4CE1-8F14-7086AB0EDF2F,Tavuk But Biftek,"22,00 TL",Izgaralar,11.0
+3c0122fa-ce14-4b4c-8d9a-6c193920d116,Kuzu Döner Dürüm (100 gr.),"28,00 TL",Dönerler,7.0
+da401826-8a28-4f5f-ba90-7f248ddaf474,Ekmek Arası Adana Kebap (130 gr.),"20,00 TL",Ekmek Arası Ürünler,41.0
+94ae247b-af19-4ec8-b22f-70f70888e39d,Ekmek Arası Kasap Sucuk (200 gr.),"25,00 TL",Ekmek Arası Ürünler,6.0
+3BA29B79-5E33-4EF4-8C4B-695826E7FF52,Ekmek Arası Tavuk But Biftek (200 gr.),"22,00 TL",Ekmek Arası Ürünler,12.0
+525276bc-5b3d-42f2-b510-88f8c6bd13ed,Ekmek Arası Kasap Köfte (140 gr.),"18,00 TL",Ekmek Arası Ürünler,11.0
+33b004c7-565c-4f8a-ae56-f8fdb70defa6,Ekmek Arası Kuzu Antrikot (200 gr.),"38,00 TL",Ekmek Arası Ürünler,7.0
+5e80334b-a778-4d4b-af6d-11dcae83f839,Ekmek Arası Kuzu Böbrek Şiş (130 gr.),"17,00 TL",Ekmek Arası Ürünler,7.0
+6de055c1-6775-4927-a1dc-f46ec3762d21,Ekmek Arası Kuzu Ciğer Şiş (130 gr.),"25,00 TL",Ekmek Arası Ürünler,9.0
+d8bc24b6-36ba-4ac2-80e3-c6cf6260a78f,Ekmek Arası Kuzu Çöp Şiş (130 gr.),"28,00 TL",Ekmek Arası Ürünler,7.0
+848bf250-e8e0-4c87-ac2d-c51d142432d7,Ekmek Arası Kuzu Yürek Şiş (130 gr.),"17,00 TL",Ekmek Arası Ürünler,9.0
+59416132-aeb9-495c-9305-c3150dfcb433,Ekmek Arası Spesiyal Kemiksiz Kuzu Kaburga Şiş (130 gr.),"27,00 TL",Ekmek Arası Ürünler,7.0
+fa8e7d64-8c55-47df-b4bd-e6a8aa7ad3c3,Ekmek Arası Tavuk Çöp Şiş (130 gr.),"17,00 TL",Ekmek Arası Ürünler,12.0
+7a4c870e-2d57-4645-b07e-6b077d60342f,Ekmek Arası Urfa Kebap (130 gr.),"20,00 TL",Ekmek Arası Ürünler,6.0
+281b0bf3-535c-4df9-88a3-3cc9dc68246e,Ekmek Arası Uykuluk (130 gr.),"25,00 TL",Ekmek Arası Ürünler,6.0
+64908e1a-359a-40f6-95a3-00d7b9cf854a,Adana Dürüm (130 gr.),"20,00 TL",Dürümler,47.0
+42bbb13f-700e-405b-a31d-adcd990c7f76,Kasap Sucuk Dürüm (200 gr.),"25,00 TL",Dürümler,7.0
+A4613619-B969-4EB4-A444-5B203B540042,Tavuk Buttan Biftek Dürüm (200 gr.),"22,00 TL",Dürümler,13.0
+720534f8-21c5-4a6a-96ef-2c37af07225c,Kasap Köfte Dürüm (140 gr.),"18,00 TL",Dürümler,7.0
+3a5df276-5e96-42a9-884a-7e46c083563e,Kuzu Antrikot Dürüm (200 gr.),"38,00 TL",Dürümler,8.0
+da15d4ed-76da-4765-a09a-a97cc229e6d7,Kuzu Böbrek Şiş Dürüm (130 gr.),"17,00 TL",Dürümler,8.0
+fa20c46b-29e8-45e4-a417-96dd51f83f29,Kuzu Ciğer Şiş Dürüm (130 gr.),"25,00 TL",Dürümler,10.0
+37f9d8c7-39e3-4ae6-b7b4-586f4f2361fd,Kuzu Çöp Şiş Dürüm (130 gr.),"28,00 TL",Dürümler,8.0
+63fd6e53-7553-4642-abd8-6bfc8850d378,Kuzu Yürek Şiş Dürüm (130 gr.),"17,00 TL",Dürümler,10.0
+91da9d98-6729-4138-9542-bd4d87977f62,Spesiyal Kemiksiz Kuzu Kaburga Şiş Dürüm (130 gr.),"27,00 TL",Dürümler,8.0
+931f07f0-e64f-4a08-a0de-ad4488c1f8fb,Tavuk Çöp Şiş Dürüm (130 gr.),"17,00 TL",Dürümler,18.0
+4567cb56-5eab-4664-830a-f222d92069b1,Urfa Dürüm (130 gr.),"20,00 TL",Dürümler,7.0
+2a0b715d-5202-493e-b087-491eb0095fb9,Uykuluk Dürüm (130 gr.),"25,00 TL",Dürümler,7.0
+85fbfb25-ad9c-4b1a-973a-495cbcb37b9e,Kızartma İçli Köfte (12 Adet),"75,00 TL",Diğer Lezzetler,9.0
+b7d1d348-b7fa-42f1-b593-31b0098e0e44,Kızartma İçli Köfte (6 Adet),"38,00 TL",Diğer Lezzetler,9.0
+20179af7-049b-4010-be94-1248840c6482,Kızartma İçli Köfte (Adet),"7,00 TL",Diğer Lezzetler,9.0
+bc3d4b94-e090-468e-9868-cc2a8720bde5,Manda Yoğurdu,"15,00 TL",Yan Ürünler,5.0
+90c3647d-7200-4970-aeef-08455cd793e6,Ekstra Lavaş (Adet),"2,00 TL",Yan Ürünler,8.0
+62aa7dab-8b9a-4b32-b773-2e48da3c2b7b,Coca-Cola Şekersiz (20 cl.),"3,50 TL",İçecekler,5.0
+41c55bb8-bf7d-4a4d-aa1a-1ba9e7e08108,Uludağ Gazoz (25 cl.),"5,00 TL",İçecekler,5.0
+1be5f3c2-b59b-4aef-873b-a208f95515fc,San Pellegrino (25 cl.),"8,00 TL",İçecekler,5.0
+0b70c8ff-a6c8-48b1-b29c-a3ed04ce7bd0,Dimes (25 cl.),"5,00 TL",İçecekler,5.0
+75c537e5-3cd1-48f7-b216-b22ed711a7b0,Altınkoza Şalgam Suyu (25 cl.),"5,00 TL",İçecekler,5.0
+01f051b0-aa8d-437b-af21-596960773631,"Sütaş Tombul Ayran (29,5 cl.)","3,00 TL",İçecekler,5.0
+24f2095c-c361-450d-be46-2d16fac7743d,Erikli Su (50 cl.),"2,00 TL",İçecekler,7.0
+69e9d222-eaa5-4fe6-8cc7-6fe467f8f75a,Kasap Köfte (1 kg.) (Pişirilmiş),"110,00 TL",Kiloluk Ürünler,5.0
+6218f3c9-6992-4678-bd06-85c0035dbd43,Kasap Köfte (500 gr.) (Pişirilmiş),"60,00 TL",Kiloluk Ürünler,5.0
+f18c0460-624b-454b-b1e7-5f2ed9664c8d,Kasap Sucuk (1 kg.) (Pişirilmiş),"120,00 TL",Kiloluk Ürünler,5.0
+e29c9b40-3766-4edb-b88e-2e41e14721a8,Kasap Sucuk (500 gr.) (Pişirilmiş),"65,00 TL",Kiloluk Ürünler,5.0
+a05f5d05-78e5-45b5-b737-623f47590de1,Spesiyal Kemiksiz Kuzu Kaburga (1 kg.) (Pişirilmiş),"160,00 TL",Kiloluk Ürünler,6.0
+2a69fddf-f3e9-4dc6-8ca1-5f998f8ed7b8,Spesiyal Kemiksiz Kuzu Kaburga (500 gr.) (Pişirilmiş),"85,00 TL",Kiloluk Ürünler,6.0
+C77F058E-8D87-4027-86E1-DAFE992937DF,Tavuk Buttan Biftek ( 500 gr.) (Pişirilmiş),"60,00 TL",Kiloluk Ürünler,11.0
+5FE9E9AF-61B9-4FC1-9060-0FB456B679DB,Tavuk Buttan Biftek (1 kg.) (Pişirilmiş),"110,00 TL",Kiloluk Ürünler,11.0
+e30f0769-ce0d-479d-a314-5c6fb7c09487,Tavuk Kanat (1 kg.) (Pişirilmiş),"90,00 TL",Kiloluk Ürünler,12.0
+1a21d620-2e79-423d-9fc2-88a9487f85ce,Tavuk Kanat (500 gr.) (Pişirilmiş),"50,00 TL",Kiloluk Ürünler,12.0
+00b05bc7-e18d-4e41-974e-4f3022b3bb1f,Tavuk Şiş (1 kg.) (Pişirilmiş),"100,00 TL",Kiloluk Ürünler,11.0
+a0d42c64-8a99-47d1-9f67-ef70efc99c2f,Tavuk Şiş (500 gr.) (Pişirilmiş),"55,00 TL",Kiloluk Ürünler,11.0
+08f148c7-4f21-4d16-8b18-264b7a6a5d26,Zırh Adana Kebap (1 kg.) (Pişirilmiş),"140,00 TL",Kiloluk Ürünler,40.0
+e785df83-9cc7-4274-a0fa-77e87b329690,Zırh Adana Kebap (500 gr.) (Pişirilmiş),"75,00 TL",Kiloluk Ürünler,40.0

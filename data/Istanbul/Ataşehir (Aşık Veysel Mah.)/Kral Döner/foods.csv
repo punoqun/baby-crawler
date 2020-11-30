@@ -1,0 +1,62 @@
+food_id,food_name,food_price,food_category,food_score
+2316ed93-66df-4ed6-a669-0ccb0bcfbfd7,Menü 1,"18,00 TL",Ekonomik Menüler,35.0
+876ea20a-ce3c-4dae-b396-4c5fdd6b7938,Menü 2,"17,00 TL",Ekonomik Menüler,5.0
+17b22835-8318-4be8-aaa5-c42c47d22d41,Menü 3,"22,00 TL",Ekonomik Menüler,4.0
+1244a29f-fafb-4494-9406-dd5426172bdb,Menü 4,"24,00 TL",Ekonomik Menüler,4.0
+f1fa0e84-58a3-4214-85d3-7fb6740e91c7,Menü 5,"28,00 TL",Ekonomik Menüler,9.0
+05b6661a-0802-4e0c-8fb2-e0e67121fbff,Menü 6,"33,00 TL",Ekonomik Menüler,6.0
+143b271f-411f-4328-ad90-ac1b1ea63f10,Menü 7,"25,00 TL",Ekonomik Menüler,5.0
+a3c9364c-eb5b-4cd2-85a4-e748ce8e18a6,Menü 8,"36,00 TL",Ekonomik Menüler,5.0
+4b4bb905-e2c0-4c1e-90a3-b69e5d99a5b2,2'li Combo Menü,"45,00 TL",Ekonomik Menüler,5.0
+54b68e83-b7d2-4f5a-9d92-5eef3798d54e,2'li Efsane Menü,"54,00 TL",Ekonomik Menüler,19.0
+d02434b3-2453-49c2-b7b3-4d2df09c2b2a,Zurna Show Menü,"66,00 TL",Ekonomik Menüler,11.0
+d031e895-0dfc-4036-9cd7-eff75769a0c3,5'li Tam Ekmek Arası Tavuk Döner Menü,"103,00 TL",Ekonomik Menüler,8.0
+d34a361f-4587-457c-9bf9-6074127609c3,6'lı Tavuk Döner Dürüm Menü,"100,00 TL",Ekonomik Menüler,12.0
+85a23d07-58e9-44a4-96af-c1ec512e6f91,10'lu Tam Ekmek Arası Tavuk Döner Menü,"195,00 TL",Ekonomik Menüler,8.0
+53cac3b9-3138-42c1-a88b-a971aeb87cb2,5'li Tombik Ekmek Arası Tavuk Döner Menü,"65,00 TL",Ekonomik Menüler,10.0
+802329a8-7d95-4567-aff1-78c949d297b5,Tombik Ekmek Arası Tavuk Döner Menü,"17,00 TL",Ekonomik Menüler,10.0
+e3866ba8-4854-41c7-ac97-3be7f802d0d4,Kaşarlı Tavuk Döner Dürüm Menü,"22,00 TL",Ekonomik Menüler,11.0
+40821c87-5b39-4ca3-aa3c-85f4b0b5edd2,Tavuk Döner (500 gr.) Menü,"85,00 TL",Ekonomik Menüler,9.0
+6a2f056f-ee40-461b-9810-3fc22e44012f,Tavuk Döner (1 kg.) Menü,"180,00 TL",Ekonomik Menüler,9.0
+21d0285e-13dc-4b68-a1a0-bad97855e5e0,Tavuk Döner,"17,00 TL",Tavuk Dönerler,9.0
+ba842aa2-7621-4222-8d15-0ee6ecd58c03,Yarım Ekmek Arası Tavuk Döner (55 gr.),"7,00 TL",Tavuk Dönerler,13.0
+8617d198-3422-4b86-a21a-f0d3797b499e,Tombik Ekmek Arası Tavuk Döner (65 gr.),"8,00 TL",Tavuk Dönerler,10.0
+b1c158f6-ae33-49cb-9fa6-f62f16463217,Yarım Ekmek Arası Kaşarlı & Patatesli Tavuk Döner,"11,00 TL",Tavuk Dönerler,6.0
+770576e9-e551-4c5c-87b6-d2459b6a6400,3/4 Ekmek Arası Tavuk Döner (90 gr.),"12,00 TL",Tavuk Dönerler,8.0
+e8cdbd71-3aa7-430a-89cf-2f87557131e3,Tombik Ekmek Arası Kaşarlı & Patatesli Tavuk Döner,"12,00 TL",Tavuk Dönerler,8.0
+1bc813a6-76b4-47ed-8929-edf82abeeb89,Hatay Soslu Tavuk Döner Dürüm (100 gr.),"13,00 TL",Tavuk Dönerler,10.0
+a8115acf-80fd-4113-9037-4cac4b70d3c0,Hatay Usulü Kaşarlı Tavuk Döner Dürüm (105 gr.),"14,00 TL",Tavuk Dönerler,4.0
+acaac4de-a96a-470a-8f20-a96af433bedb,Tam Ekmek Arası Tavuk Döner (110 gr.),"14,00 TL",Tavuk Dönerler,8.0
+48ba71de-5961-4940-8947-4f289241fac5,Donas Tavuk Döner Dürüm (105 gr.),"16,00 TL",Tavuk Dönerler,12.0
+BCA901FF-EA38-4452-8557-18C076F84964,Cheddar King Tavuk Döner Dürüm,"17,00 TL",Tavuk Dönerler,12.0
+51697a85-96f0-4a11-9fc9-63b4aaef68e1,3/4 Ekmek Arası Kaşarlı & Patatesli Tavuk Döner,"18,00 TL",Tavuk Dönerler,6.0
+ae4c791f-ef4f-467f-9cbc-7734e3f5b2ef,Tam Ekmek Arası Kaşarlı & Patatesli Tavuk Döner,"20,00 TL",Tavuk Dönerler,6.0
+80bf8265-a21e-4246-ad3a-f08b97b5378e,Pilav Üstü Tavuk Döner (120 gr.),"20,00 TL",Tavuk Dönerler,9.0
+41df016d-5183-4995-bc46-65e9460d6780,Kaşarlı & Patatesli Zurna Tavuk Döner Dürüm,"25,00 TL",Tavuk Dönerler,16.0
+ac69da7a-af37-42c9-a9f5-ce7778f18514,Özel Hatay Soslu Bazuka Tavuk Döner Dürüm,"28,00 TL",Tavuk Dönerler,5.0
+f9423bbf-057f-45e3-8a7d-4487dd8a71d2,Özel Hatay Soslu Kaşarlı Bazuka Dürüm,"31,00 TL",Tavuk Dönerler,0.0
+4c6e157d-4ce9-4d4e-bebf-fb5e1470f51e,Patatesli & Kaşarlı Özel Hatay Soslu Bazuka Dürüm,"34,00 TL",Tavuk Dönerler,-1.0
+70B03ABA-6E67-446C-B424-9E0E63A88A92,Jumbo Tavuk Döner Dürüm,"19,00 TL",Tavuk Dönerler,12.0
+fcc8b42b-375c-43d2-9f8d-bac343548a52,Sebzeli Dürüm,"10,00 TL",Sebzeli Dürümler,8.0
+ba95f032-b935-429c-93cd-82a4e6a21a21,Sebzeli Zurna Dürüm,"16,00 TL",Sebzeli Dürümler,14.0
+E1117C7E-0FE5-411A-9874-7AD469587E28,Izgara Köfte,"24,00 TL",Köfteler,5.0
+8B6A8388-3C6F-454B-AB93-B71167DF51D6,Pilav Üstü Izgara Köfte,"28,00 TL",Köfteler,5.0
+F8C1E1A1-0F58-4531-B77F-E8642DF7590D,Yarım Ekmek Arası Izgara Köfte,"12,00 TL",Köfteler,4.0
+6D6A7623-01E1-4D6B-8DB6-23D86D7A4E76,Üç Çeyrek Izgara Köfte,"18,00 TL",Köfteler,4.0
+226258D5-5626-406B-A86D-BFC94A357D50,Tam Ekmek Arası Izgara Köfte,"24,00 TL",Köfteler,4.0
+C9F27FE9-AA14-47C2-AFA0-55BCF7C48C8D,Tombik Ekmek Arası Izgara Köfte,"15,00 TL",Köfteler,6.0
+573B4F7B-F9D5-4D73-A2F6-97B87846D29D,Köfte Dürüm,"22,00 TL",Köfteler,8.0
+5FF13ECC-0BD2-4F99-89A9-A5EC29BF4FC6,Zurna Köfte Dürüm,"34,00 TL",Köfteler,14.0
+b1d72368-d56f-4fbf-9e46-d2629fd274f1,Tavuklu Kaşarlı Patso Sandviç,"17,00 TL",Sandviçler,5.0
+5adec93b-1d35-4c52-a033-72cc29c5f351,Patso Sandviç,"10,00 TL",Sandviçler,6.0
+be704dab-4579-4568-884e-d8738e21711f,Kaşarlı Patso Sandviç,"13,00 TL",Sandviçler,5.0
+75E25871-2A45-4B64-8C3F-A0B20876C2A8,Tavuklu Patso Sandviç,"14,00 TL",Sandviçler,6.0
+82e72ca6-9bba-4654-9a39-407e7303b49b,Elma Dlim Patates Kızartması (Küçük),"8,00 TL",Yan Ürünler,4.0
+57c6c662-dedc-40dc-9293-a37e12786ad0,Soğan Halkası (6 Adet),"8,00 TL",Yan Ürünler,7.0
+76e4f602-306c-4bba-84e8-c0e7ce507f54,Soğan Halkası (12 Adet),"16,00 TL",Yan Ürünler,7.0
+e8a1a5c7-6e7d-4dd5-affe-12222d039600,Patates Tava (250 gr.),"11,00 TL",Yan Ürünler,4.0
+920C79E3-0215-42D6-A610-B9B1A0D9425E,Patates Tava (125 gr.),"5,00 TL",Yan Ürünler,4.0
+b1015e1c-6c9c-4b35-84ae-775621d8522b,Pirinç Pilavı,"8,00 TL",Yan Ürünler,5.0
+6AEEE670-6D0A-42FE-8886-B567689E091E,Sütaş Tatlımmm Muzlu Puding,"3,00 TL",Tatlılar,5.0
+28255F96-A04E-4D27-997F-AF4B9E00EB43,Sütaş Tatlımmm Puding,"3,00 TL",Tatlılar,5.0
+401c454e-5d0e-455e-ab3a-b703cb25d804,Poşet,"0,25 TL",Poşet,5.0

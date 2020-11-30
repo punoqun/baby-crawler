@@ -1,0 +1,31 @@
+food_id,food_name,food_price,food_category,food_score
+420cad93-f0d9-4fcc-b391-e086a6194dbb,Adana Kebap,"27,00 TL",Kebaplar & Izgaralar,4.0
+5bda5a6e-3a7c-4ad3-991e-a4c6f8cc3d20,Urfa Kebap,"27,00 TL",Kebaplar & Izgaralar,5.0
+624cea0c-1610-458f-bf07-4e26ab94c179,Tavuk Şiş,"25,00 TL",Kebaplar & Izgaralar,11.0
+26505650-f431-427b-a4e7-b325e4e14ab5,Tavuk Kanat,"25,00 TL",Kebaplar & Izgaralar,6.0
+9bfa2558-bfd6-4d89-87d3-ca4834e86484,Sarma Beyti Kebap,"32,00 TL",Kebaplar & Izgaralar,5.0
+87b72194-cbad-451c-ac12-92c737c1fdfd,Domatesli Kebap,"32,00 TL",Kebaplar & Izgaralar,5.0
+bdb8c29d-2f6f-4a0e-83e2-1d88ca55c992,Karışık Kebap,"60,00 TL",Kebaplar & Izgaralar,7.0
+670cbb4c-14cf-4677-b444-6fe4e3554bcc,Odun Ateşinde Et Döner,"30,00 TL",Et Dönerler,3.0
+3e7fbff0-4d70-4cd7-9538-407bc7174871,Odun Ateşinde Pilav Üstü Et Döner,"33,00 TL",Et Dönerler,3.0
+e7c509fd-bdb9-453c-a9a6-196f443b7379,İskender (Et Dönerden),"32,50 TL",Et Dönerler,5.0
+7301d951-6322-49c1-9455-0e67ac7e90b9,Yarım Ekmek Arası Et Döner,"20,00 TL",Et Dönerler,3.0
+2ea2eae1-d25c-4412-ac88-9f54068bc1a0,Tam Ekmek Arası Et Döner,"25,00 TL",Et Dönerler,3.0
+8A97BD0D-356A-4939-B23D-8CD743BDE705,Tombik Ekmek Arası Et Döner,"20,00 TL",Et Dönerler,3.0
+6c8c4246-8744-44d8-a26c-e8119000453d,Kaşarlı Et Döner Dürüm,"25,00 TL",Et Dönerler,6.0
+71E67D8F-7C78-45E4-B1E3-9AFE5333C74C,Et Döner Dürüm,"22,00 TL",Et Dönerler,6.0
+198BC111-143A-4338-927A-840F88642E19,Lahmacun,"7,00 TL",Fırın Ürünleri,21.0
+7a6fb124-bce7-4ed2-a7e7-7eb7b655830e,Kaşarlı Pide,"20,00 TL",Fırın Ürünleri,5.0
+ad17d4bd-567d-4a8b-9ef7-dd6aa1335b88,Kıymalı Pide,"22,00 TL",Fırın Ürünleri,7.0
+899e8c48-23d8-4829-a9ed-842b4b3d96d8,Sucuklu Kaşarlı Pide,"24,00 TL",Fırın Ürünleri,5.0
+9191f55f-fc8d-4b53-b2a4-829047c57f2a,Kuşbaşılı Pide,"24,00 TL",Fırın Ürünleri,5.0
+0e90a052-a3f5-40d0-a820-ac634c43eb71,Karışık Pide,"24,00 TL",Fırın Ürünleri,7.0
+a9535d60-623b-494a-bd13-6152bf88a548,Kavurmalı Pide,"34,00 TL",Fırın Ürünleri,5.0
+87560dfc-39cf-4f82-b298-1c16d59e6ca2,Adana Dürüm,"20,00 TL",Dürümler,7.0
+2847fa48-94e3-4d5b-bb8d-979641c54a7b,Urfa Dürüm,"20,00 TL",Dürümler,13.0
+60a0c6d3-e724-4e02-8121-d4ac9bfead4c,Tavuk Şiş Dürüm,"20,00 TL",Dürümler,9.0
+b3627a4d-fddd-476e-87f3-4793fc8fc8b9,Kars Kaşarlı Dürüm,"22,00 TL",Dürümler,8.0
+146afc52-08e5-4387-b0d3-fb8a767f8e79,"Fanta (2,5 L.)","12,00 TL",İçecekler,5.0
+338f4ff3-3de0-4bde-9b15-7faec02ec8ca,Tavuk Kanat (1 kg.),"47,00 TL",Kiloluk Ürünler (Pişirilmiş),6.0
+5bfc289f-58f9-4815-92d0-01b47f0dc626,Tavuk Şiş (1 kg.),"47,00 TL",Kiloluk Ürünler (Pişirilmiş),6.0
+5f243faf-6425-4269-b849-b9c9d4e5a92b,Poşet,"0,25 TL",Poşet,5.0

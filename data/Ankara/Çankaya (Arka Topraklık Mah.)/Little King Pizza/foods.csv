@@ -1,0 +1,117 @@
+food_id,food_name,food_price,food_category,food_score
+1b0b4f6e-8d3b-44c7-bb50-c6179f288036,Süper Menü,"65,00 TL",Promosyonlu Menüler,7.0
+0c2499d2-7804-4769-a00e-1331bca4044f,Özel Menü 1,"49,00 TL",Promosyonlu Menüler,14.0
+ec865f7f-6a95-4924-afaf-ca0ca52cf68b,Özel Menü 2,"65,00 TL",Promosyonlu Menüler,2.0
+0f5ebaa2-86e2-49b7-87af-ba37dd3a5a4d,Özel Menü 3,"75,00 TL",Promosyonlu Menüler,9.0
+57038caa-00c7-4fcf-bf1c-f24f512354dd,3 Adet Orta Boy Pizza,"69,00 TL",Promosyonlu Menüler,14.0
+8a92b7e9-a36a-4c75-b9f6-5ffa422b2234,2 Küçük Boy Pizza Menü,"37,00 TL",Ekonomik Menüler,8.0
+70335444-b522-4ec0-a283-ffe42aa27b76,2 Orta Boy Pizza Menü,"41,00 TL",Ekonomik Menüler,6.0
+5fcc2195-7ca1-447c-a084-d5733b2bb1bb,2 Büyük Boy Pizza Menü,"64,00 TL",Ekonomik Menüler,10.0
+90476e47-2e09-4d1d-9612-6224d0de0b8b,2 Küçük Boy Pizza & İçecek (1 L.) Menü,"42,00 TL",Ekonomik Menüler,8.0
+d94cf18b-8f75-4099-a568-fef87d347fa2,2 Orta Boy Pizza & İçecek (1 L.) Menü,"56,00 TL",Ekonomik Menüler,6.0
+6d570b0e-6dfa-48a8-a49e-7ae9ca312bbd,2 Büyük Boy Pizza & İçecek (1 L.) Menü,"68,00 TL",Ekonomik Menüler,15.0
+933fe379-4a69-4cb4-ab86-cd15e6f30e51,"3 Büyük Boy Pizza & Coca-Cola (2,5 L.) Menü","108,00 TL",Ekonomik Menüler,18.0
+cb76d295-e499-48bb-b560-155d761120fa,Küçük Menü,"31,00 TL",Ekonomik Menüler,5.0
+b6bb145e-805e-4a35-9132-7c28b09da781,Orta Menü,"42,00 TL",Ekonomik Menüler,3.0
+0f047985-11ba-424a-834d-c81005352c58,Orta Menü 2,"49,00 TL",Ekonomik Menüler,-2.0
+84b71a89-9b44-406f-b3d2-a3b41c49894c,Büyük Menü,"59,00 TL",Ekonomik Menüler,7.0
+0bc74860-33b1-4945-8ea4-eaeba85d1a58,Orta Boy Pizza Menü,"37,00 TL",Ekonomik Menüler,11.0
+f512e6d3-7ddf-47be-8722-d4bd7644f8f4,Büyük Boy Pizza Menü,"48,00 TL",Ekonomik Menüler,15.0
+117e6908-1761-4d4b-8f0a-141c89306170,Genç Menüsü,"54,00 TL",Ekonomik Menüler,5.0
+2f1aee82-6997-4c73-93eb-30163636ef16,King Menü 1,"55,00 TL",Ekonomik Menüler,12.0
+5b239b08-9920-4924-962e-fc1078cee1de,Maç Keyfi Menü 1,"85,00 TL",Ekonomik Menüler,12.0
+14c56501-e3d1-412c-be82-5a21372fea46,Maç Keyfi Menü 2,"90,00 TL",Ekonomik Menüler,0.0
+4eabf5f9-9cbd-4a1a-a145-53cb20c2e24c,Maç Keyfi Menü 3,"108,00 TL",Ekonomik Menüler,7.0
+583b820f-2582-4c16-872b-8961f0981c63,Öğrenci Menüsü,"37,00 TL",Ekonomik Menüler,5.0
+fd83f4cc-6088-481d-adf1-2f2ecf0a34ec,Sandviç Menü,"21,00 TL",Ekonomik Menüler,5.0
+dc373d7f-6114-4df9-8d09-a577904d0398,Special Menü 1,"21,00 TL",Ekonomik Menüler,12.0
+439aaf72-c868-4049-a6ac-15399ef110d5,Nugget Menü,"21,00 TL",Ekonomik Menüler,4.0
+fe0ba184-a838-44f7-9a12-ba8f4d45c45f,Burger Menü,"23,00 TL",Ekonomik Menüler,5.0
+a8fad7cf-9a66-41f5-9c81-c3035384c2fb,Kumpir Menü,"31,00 TL",Ekonomik Menüler,6.0
+e07cb2a6-c753-466e-8ac7-52c03da16722,Akdeniz Pizza (Küçük),"21,50 TL",Küçük Boy Pizzalar (22 cm. - 4 Dilim),13.0
+7dcbf0fb-9ae4-4987-83c6-156c395f4673,Classic Pizza (Küçük),"21,50 TL",Küçük Boy Pizzalar (22 cm. - 4 Dilim),13.0
+6e5490b8-2d1f-4a4a-85f0-d2941d6533d7,Chicken's Pizza (Küçük),"21,50 TL",Küçük Boy Pizzalar (22 cm. - 4 Dilim),13.0
+f19d9796-6eec-46b9-9edc-23469e91998e,Çiftlik Evi Pizza (Küçük),"21,50 TL",Küçük Boy Pizzalar (22 cm. - 4 Dilim),13.0
+bf6939ae-0ab5-464c-935b-2c759779af19,Denizde Güneş Pizza (Küçük),"21,50 TL",Küçük Boy Pizzalar (22 cm. - 4 Dilim),13.0
+560b87b0-9214-4275-97bf-5c878b00f994,Dönerli Pizza (Küçük),"21,50 TL",Küçük Boy Pizzalar (22 cm. - 4 Dilim),13.0
+3bb79b78-2718-41bc-8ddf-74f321031df5,Et Sevenler Pizza (Küçük),"21,50 TL",Küçük Boy Pizzalar (22 cm. - 4 Dilim),13.0
+ba5017a4-13f5-4c24-bb59-791ed09d7dce,İtalyan Soslu Pizza (Küçük),"21,50 TL",Küçük Boy Pizzalar (22 cm. - 4 Dilim),14.0
+e296cef7-f3fb-4c07-a26e-8a20d2729b28,Karışık Pizza (Küçük),"21,50 TL",Küçük Boy Pizzalar (22 cm. - 4 Dilim),17.0
+c820ab15-636c-4a7f-ab60-bb8a8657445e,King Hot Pizza (Küçük),"21,50 TL",Küçük Boy Pizzalar (22 cm. - 4 Dilim),13.0
+311f373e-e273-4462-b272-423e34903cdf,King Pizza (Küçük),"21,50 TL",Küçük Boy Pizzalar (22 cm. - 4 Dilim),13.0
+970ce66f-69fa-4cd2-9e62-84088e6ca986,Meksika Ateşi Pizza (Küçük),"21,50 TL",Küçük Boy Pizzalar (22 cm. - 4 Dilim),13.0
+bbf316c1-4d5e-47ed-bde2-36c668ace442,Peynir Sevenler Pizza (Küçük),"21,50 TL",Küçük Boy Pizzalar (22 cm. - 4 Dilim),13.0
+8f374256-acb7-49e6-967c-101609ed94c9,Sebzeli Pizza (Küçük),"21,50 TL",Küçük Boy Pizzalar (22 cm. - 4 Dilim),13.0
+11aad5ed-3bcf-45ed-9241-11273a5dd1ea,Sucuk Sevenler Pizza (Küçük),"21,50 TL",Küçük Boy Pizzalar (22 cm. - 4 Dilim),13.0
+0570b4d6-2dce-4486-8352-27196c82fc2c,Turkish Pizza (Küçük),"21,50 TL",Küçük Boy Pizzalar (22 cm. - 4 Dilim),13.0
+ed648436-5766-4b69-b7d2-528b13d4c04e,King Sabah Güneşi Pizza (Küçük),"21,50 TL",Küçük Boy Pizzalar (22 cm. - 4 Dilim),13.0
+b4f40c1a-cf02-44db-abda-c0db40e92a3e,King Ispanak Sevenler (Küçük),"21,50 TL",Küçük Boy Pizzalar (22 cm. - 4 Dilim),5.0
+efe0b822-a386-46ec-bf25-047e37259a48,Akdeniz Pizza (Orta),"29,90 TL",Orta Boy Pizzalar (26 cm. - 6 Dilim),13.0
+355f57a5-ac82-4e48-b5c7-f5812e9ded6e,King Kavurmalı Pizza (Orta),"36,00 TL",Orta Boy Pizzalar (26 cm. - 6 Dilim),17.0
+eee7bee2-daa8-4830-9e14-c9d59383bc07,King Kaburgalı Pizza (Orta),"36,00 TL",Orta Boy Pizzalar (26 cm. - 6 Dilim),10.0
+99a45a5a-9657-463a-9c41-e52797791b65,King 5 Peynirli Pizza (Orta),"36,00 TL",Orta Boy Pizzalar (26 cm. - 6 Dilim),16.0
+1fa661a3-5485-4580-971b-d03859f54448,King Ispanak Sevenler (Orta),"29,90 TL",Orta Boy Pizzalar (26 cm. - 6 Dilim),5.0
+df2a5e05-734b-4be4-b973-55d75b2b7648,Classic Pizza (Orta),"29,90 TL",Orta Boy Pizzalar (26 cm. - 6 Dilim),13.0
+bf65f6f2-518c-40bd-8837-6e9ebf1ef195,Chicken's Pizza (Orta),"29,90 TL",Orta Boy Pizzalar (26 cm. - 6 Dilim),13.0
+71c775fb-cd7b-434e-b3b2-26c72af4268e,Çiftlik Evi Pizza (Orta),"29,90 TL",Orta Boy Pizzalar (26 cm. - 6 Dilim),13.0
+49e692bb-388c-4c2a-81ea-9b00bab94218,Denizde Güneş Pizza (Orta),"29,90 TL",Orta Boy Pizzalar (26 cm. - 6 Dilim),13.0
+a3343a8c-adcc-4199-a47b-42738cf9d97d,Dönerli Pizza (Orta),"29,90 TL",Orta Boy Pizzalar (26 cm. - 6 Dilim),13.0
+404a90a7-3797-437a-85d2-6c34233f44f4,Et Sevenler Pizza (Orta),"29,90 TL",Orta Boy Pizzalar (26 cm. - 6 Dilim),13.0
+f12b1c00-1eaf-4b4b-b964-e77b54665728,İtalyan Soslu Pizza (Orta),"29,90 TL",Orta Boy Pizzalar (26 cm. - 6 Dilim),14.0
+cad0b778-0aa8-4635-9937-6413344a089a,Karışık Pizza (Orta),"39,90 TL",Orta Boy Pizzalar (26 cm. - 6 Dilim),17.0
+52aedf0f-38b7-4e4c-9041-7942a7f685eb,King Hot Pizza (Orta),"29,90 TL",Orta Boy Pizzalar (26 cm. - 6 Dilim),13.0
+7bfb2bd8-f2a9-4681-84a3-e228924505f2,King Pizza (Orta),"29,90 TL",Orta Boy Pizzalar (26 cm. - 6 Dilim),13.0
+7220939f-f901-487b-988d-9b57a6b719a0,Meksika Ateşi Pizza (Orta),"29,90 TL",Orta Boy Pizzalar (26 cm. - 6 Dilim),13.0
+3efd023d-6680-4c7f-a448-1f36fe74cf85,Peynir Sevenler Pizza (Orta),"29,90 TL",Orta Boy Pizzalar (26 cm. - 6 Dilim),13.0
+44bb7be7-9f2b-4997-a18c-d3d37a0b6fc0,Sebzeli Pizza (Orta),"29,90 TL",Orta Boy Pizzalar (26 cm. - 6 Dilim),13.0
+ef625976-065a-44ae-9cbf-9f4ee831e912,Sucuk Sevenler Pizza (Orta),"29,90 TL",Orta Boy Pizzalar (26 cm. - 6 Dilim),13.0
+70019fbf-d723-496c-824b-1c5228150285,Turkish Pizza (Orta),"29,90 TL",Orta Boy Pizzalar (26 cm. - 6 Dilim),13.0
+fc83ef88-753c-43d3-bd50-46d2c6eba385,King Sabah Güneşi Pizza (Orta),"29,90 TL",Orta Boy Pizzalar (26 cm. - 6 Dilim),13.0
+97701017-5112-4c6b-a701-5c856b35f375,İtalyan Soslu Pizza (Büyük),"42,00 TL",Büyük Boy Pizzalar (36 cm. - 8 Dilim),14.0
+a18c179b-5489-4c69-b5fc-a9467c032fbe,King Kavurmalı Pizza (Büyük),"46,00 TL",Büyük Boy Pizzalar (36 cm. - 8 Dilim),17.0
+fc81a26d-7ec9-4f71-b4f2-826d37bf141b,King Kaburgalı Pizza (Büyük),"46,00 TL",Büyük Boy Pizzalar (36 cm. - 8 Dilim),10.0
+0f6cc50c-6250-4211-8871-e012f2e4c742,King Kıymalı Pizza (Büyük),"46,00 TL",Büyük Boy Pizzalar (36 cm. - 8 Dilim),13.0
+87b7e4e1-631c-489a-9091-be9ad0b99bc1,King Dilli Pizza (Büyük),"46,00 TL",Büyük Boy Pizzalar (36 cm. - 8 Dilim),13.0
+ccf208e3-d0fc-477a-bad3-aa22045f69f6,King 5 Peynirli Pizza (Büyük),"46,00 TL",Büyük Boy Pizzalar (36 cm. - 8 Dilim),16.0
+9a10c446-4e6b-491b-8592-b0d9d6fac7c7,King Ispanak Sevenler (Büyük),"42,00 TL",Büyük Boy Pizzalar (36 cm. - 8 Dilim),5.0
+2185d347-b8c2-4c29-92f0-88e756c409e1,Dönerli Pizza (Büyük),"42,00 TL",Büyük Boy Pizzalar (36 cm. - 8 Dilim),13.0
+aa48bcb0-7d10-4f81-b442-7f78b09cf395,Çiftlik Evi Pizza (Büyük),"42,00 TL",Büyük Boy Pizzalar (36 cm. - 8 Dilim),13.0
+5e9334b4-b1ed-4994-8c1d-839021517d55,King Pizza (Büyük),"42,00 TL",Büyük Boy Pizzalar (36 cm. - 8 Dilim),13.0
+062f6e20-5e76-4e19-9507-0a339f7098cc,King Hot Pizza (Büyük),"42,00 TL",Büyük Boy Pizzalar (36 cm. - 8 Dilim),13.0
+dbe9261e-f882-40cc-8ede-70a18e44d069,Denizde Güneş Pizza (Büyük),"42,00 TL",Büyük Boy Pizzalar (36 cm. - 8 Dilim),13.0
+8385624c-5b7d-49ea-a4d0-cfc9762224e5,Meksika Ateşi Pizza (Büyük),"42,00 TL",Büyük Boy Pizzalar (36 cm. - 8 Dilim),13.0
+4066f2ba-72d7-4b5e-a51d-6cd51da3b5ce,Chicken's Pizza (Büyük),"42,00 TL",Büyük Boy Pizzalar (36 cm. - 8 Dilim),13.0
+601a7b50-0232-4203-ba76-be40317dd096,Sebzeli Pizza (Büyük),"42,00 TL",Büyük Boy Pizzalar (36 cm. - 8 Dilim),13.0
+d8ee9138-8e4d-42ab-94ee-6ce55114c698,Akdeniz Pizza (Büyük),"42,00 TL",Büyük Boy Pizzalar (36 cm. - 8 Dilim),13.0
+da4311a2-29ac-4429-8a2e-bb2f3c4f5992,Peynir Sevenler Pizza (Büyük),"42,00 TL",Büyük Boy Pizzalar (36 cm. - 8 Dilim),13.0
+6b15bec5-3f84-415e-9df6-13e4b06eb16c,Sucuk Sevenler Pizza (Büyük),"42,00 TL",Büyük Boy Pizzalar (36 cm. - 8 Dilim),13.0
+4efdf460-29a2-4be6-97df-8971cfb54c11,Turkish Pizza (Büyük),"42,00 TL",Büyük Boy Pizzalar (36 cm. - 8 Dilim),13.0
+dee80b65-bed4-4492-a3d7-5918f67717fa,Et Sevenler Pizza (Büyük),"42,00 TL",Büyük Boy Pizzalar (36 cm. - 8 Dilim),13.0
+11dcbf68-7a97-4650-b807-8736bddaf7f9,Karışık Pizza (Büyük),"42,00 TL",Büyük Boy Pizzalar (36 cm. - 8 Dilim),22.0
+c894c1c8-f80e-4e27-8913-28993c8cab20,Classic Pizza (Büyük),"42,00 TL",Büyük Boy Pizzalar (36 cm. - 8 Dilim),13.0
+2db8c086-6e45-4280-b51f-abc79fde8c57,King Sabah Güneşi Pizza (Büyük),"42,00 TL",Büyük Boy Pizzalar (36 cm. - 8 Dilim),13.0
+69988469-c63c-49a9-9d1d-70d5cd5f3a18,Sarımsaklı Ekmek,"10,50 TL",Specialler,4.0
+a2589377-1b30-4b4f-97e4-72e1aa90dd57,Soğan Halkası (10 adet),"10,50 TL",Specialler,5.0
+a02b1767-7ff0-4d38-884e-253ae878bbe6,Parmak Patates Kızartması,"10,50 TL",Specialler,2.0
+b138e405-c795-4fc8-b734-6c56f347a6a5,Elma Dilim Patates Kızartması,"10,50 TL",Specialler,4.0
+b1287435-c072-4a10-a740-31bded71401a,Güveçte Mantar,"10,50 TL",Specialler,5.0
+452695af-813b-4309-a234-3d54a37c81da,Tavuk Nugget,"12,00 TL",Specialler,4.0
+c26e0f34-cb12-4970-aad0-d21d84d08248,Sade Kumpir,"26,00 TL",Kumpirler,6.0
+441b8ab7-d6fe-4c48-936e-3397610b0fd0,Sosisli Kumpir,"27,00 TL",Kumpirler,6.0
+09102c14-03bc-48c8-b38d-b83d8648defa,Karışık Kumpir,"28,00 TL",Kumpirler,15.0
+e2ff73c7-cbeb-4cf6-a385-c0de0a698bff,Ton Balıklı Kumpir,"29,00 TL",Kumpirler,4.0
+8a4b9617-55b0-4e39-be2f-83272ecd79c0,Mevsim Salata,"18,00 TL",Salatalar,3.0
+973ccf93-e552-44ef-8c98-ef08d3beadf1,Ton Balıklı Salata,"21,00 TL",Salatalar,1.0
+349c546a-3922-409d-99a4-ab22f64b2d6e,Hellim Peynirli Salata,"21,00 TL",Salatalar,3.0
+70e24b6b-cd07-49fa-a999-087137ed8b6c,Kıtır Piliçli Salata,"21,00 TL",Salatalar,1.0
+32e117ac-1994-4869-b93b-45df9fa7c062,Baget Ekmeğine Jambonlu Sandviç,"18,00 TL",Sandviçler & Burgerler,5.0
+f3345485-6049-4427-9c2a-600c7b6a0296,Baget Ekmeğine Ton Balıklı Sandviç,"18,00 TL",Sandviçler & Burgerler,3.0
+41c2a804-cfba-42e1-8742-fd18b054839d,Baget Ekmeğine Kıtır Piliçli Sandviç,"18,00 TL",Sandviçler & Burgerler,3.0
+f5726330-0e3a-40ea-afcc-3d8d1322d614,Hamburger,"14,00 TL",Sandviçler & Burgerler,4.0
+4129581e-ce5b-459a-bac5-f6f8a2c973f8,Cheeseburger,"15,00 TL",Sandviçler & Burgerler,5.0
+fdaacba4-6dac-4577-9550-1c1903d73f45,Sosisli Sandviç,"18,00 TL",Sandviçler & Burgerler,5.0
+c8cdc6da-ac50-4a6c-87ae-d7a457499255,Tiramisu,"14,00 TL",Tatlılar,5.0
+03a84af5-ba80-4236-b7b4-af4f9a401548,Çikolatalı Parfe,"14,00 TL",Tatlılar,3.0
+2509cfe4-fa5a-4521-b123-fb5c6bf349dd,Su,"4,50 TL",İçecekler,19.0
+3688a032-1cc1-42f7-a462-5eae1aea9c5a,"Fanta (2,5 L.)","13,00 TL",İçecekler,5.0
+eac1ae9b-ec5e-4ab8-91f1-47b49f5010ed,Poşet,"0,25 TL",Poşet,5.0

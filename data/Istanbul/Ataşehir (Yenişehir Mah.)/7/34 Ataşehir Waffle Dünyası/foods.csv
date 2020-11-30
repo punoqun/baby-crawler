@@ -1,0 +1,23 @@
+food_id,food_name,food_price,food_category,food_score
+197E951B-1710-4623-ADF5-9C475AD7528B,Menü 1,"28,00 TL",Menüler,2.0
+9D22E1DB-CC03-4AD4-AD3C-830991A9F057,Menü 2,"41,00 TL",Menüler,2.0
+13155BC6-7A10-4312-B908-EB4CDEFA9516,Menü 3,"51,00 TL",Menüler,1.0
+30131EA1-E008-4C87-9B95-6A5F4C796FD7,Menü 4,"81,00 TL",Menüler,6.0
+2EA39955-FF97-4EFD-921F-2CE6F575A737,Menü 5,"68,00 TL",Menüler,3.0
+2D4A8CE3-7C6D-491B-9D30-080EEBDB2DBC,Menü 6,"46,00 TL",Menüler,5.0
+5B722E3B-A42A-42BC-854F-84DC87AECA91,Aile Menüsü,"106,00 TL",Menüler,5.0
+2D5117B7-C560-4D3E-A2D6-139196094B6C,Bomba Menü,"46,00 TL",Menüler,5.0
+276d49ce-891b-499b-b1c7-0fb68e251e4e,Çift Katlı Waffle,"41,00 TL",Waffles,18.0
+a6086eba-88ea-41b3-8401-f1ff6cdc7454,Doğum Günü Waffle (2-3 Kişilik),"41,00 TL",Waffles,24.0
+46FA48C9-0575-4311-BA17-1033217DEF8A,Sade Mag,"19,00 TL",Waffles,5.0
+ce7d6417-4b36-4605-af50-1becbdf9a886,Sandviç Waffle,"24,00 TL",Waffles,24.0
+c9826048-4274-46f3-856d-e80ee117417c,Tabakta Waffle,"25,00 TL",Waffles,24.0
+a44597e0-cc74-4c9c-b687-c1d8a4a9ef64,Fırın Sütlaç,"17,00 TL",Tatlılar,5.0
+2F056BEE-B87E-4D05-9983-8833618CDAD4,Kıbrıs Tatlısı,"19,00 TL",Tatlılar,5.0
+78ffd546-0a93-40f6-9a8b-03d2daf27d27,Kazandibi,"17,00 TL",Tatlılar,4.0
+1c313ec4-b368-4a56-b27d-d96b44bf50f3,Karamelli Trileçe,"17,00 TL",Tatlılar,5.0
+d9ddfdcc-fe5b-4ddf-9b56-bbadbb1200c0,Frambuazlı Trileçe,"17,00 TL",Tatlılar,5.0
+AA103FA2-F492-4D27-A9EE-198642C0D698,Taze Sıkma Nar Suyu,"17,00 TL",İçecekler,7.0
+9FFC8108-9B1E-4471-A96C-3297EF84A6EB,Taze Sıkma Atom,"19,00 TL",İçecekler,7.0
+F70B5E0E-9DAD-4438-AB73-C9C9A374C954,Taze Sıkma Portakal Suyu,"17,00 TL",İçecekler,7.0
+331793f9-e47f-4412-ac29-daa9f5dc1802,Poşet,"0,25 TL",Poşet,5.0

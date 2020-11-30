@@ -1,0 +1,39 @@
+food_id,food_name,food_price,food_category,food_score
+00fd4670-8590-44b6-bcbe-29d0477af0bf,Pişi,"2,90 TL",Kahvaltılıklar,10.0
+0eba6fdc-ba66-4e1d-8953-6f58b836e080,Gubate Tabağı,"20,00 TL",Kahvaltılıklar,5.0
+0f75d2f7-d24f-4d8d-9347-a47b4f820a91,Premium Serpme Kahvaltı (2 Kişilik),"100,00 TL",Kahvaltılıklar,10.0
+127fc376-357a-4f23-b11c-d5f6be3bbbcf,Kayseri Serpme Kahvaltı (2 Kişilik),"90,00 TL",Kahvaltılıklar,5.0
+3dc23853-9748-4b9c-8573-31aa67f0f088,Pastırmalı Yumurta,"19,90 TL",Kahvaltılıklar,6.0
+724aa62b-7e16-412c-a45f-4d8eb0e69b30,Kavurmalı Yumurta,"19,90 TL",Kahvaltılıklar,4.0
+74fb9601-263d-43a2-8ed9-4ee2c102e8ec,Pişi Tabağı,"20,00 TL",Kahvaltılıklar,10.0
+795bf9dd-43c4-4190-a3b9-6f9545159261,Çocuk Tabağı,"18,00 TL",Kahvaltılıklar,5.0
+7f6786d7-f1f6-426a-b163-2b4134e08f9e,Kuymak,"24,90 TL",Kahvaltılıklar,3.0
+90071a99-5278-469a-8fe3-bbbdbbf43df1,Aşk Serpmesi (2 Kişilik),"120,00 TL",Kahvaltılıklar,5.0
+9e072680-8531-446a-9e9d-1eaadccffe77,Öğrenci Tabağı,"18,00 TL",Kahvaltılıklar,7.0
+b7b00097-a193-4c19-8ddb-e7062ae93072,Acuka Tabağı,"27,00 TL",Kahvaltılıklar,5.0
+ce3d1925-87bd-4d36-a0f0-988425a1589e,Hanedan Serpme (2 Kişilik),"140,00 TL",Kahvaltılıklar,5.0
+f0fe44ff-65f6-4005-bdfd-37ae24c31e0c,Çerkes Serpme Kahvaltı (2 Kişilik),"90,00 TL",Kahvaltılıklar,5.0
+f47285d0-a7b6-4e67-8666-8f9edae319be,Pankek Tabağı,"25,00 TL",Kahvaltılıklar,5.0
+ed0aff9c-e9e6-4c2c-8bee-6542ae373be6,Kaşarlı Tost,"16,90 TL",Tostlar,5.0
+f41baf66-7932-4bf0-8f5e-5403acdd01ce,Karışık Tost,"19,90 TL",Tostlar,5.0
+04febccd-60b7-405e-bf2f-ef48d1903858,Karışık Gözleme,"25,00 TL",Gözlemeler,7.0
+1f5da6d5-04fe-4cad-9063-90b350d7cb6c,Ispanaklı Gözleme,"20,00 TL",Gözlemeler,7.0
+269a78cf-5dbb-45c1-951d-faf32910103a,Sucuklu Kaşarlı Gözleme,"20,00 TL",Gözlemeler,6.0
+54ce9a26-3ae7-4375-830c-1e5fa72b2fda,Peynirli Gözleme,"18,00 TL",Gözlemeler,7.0
+71a5ec21-f291-46c1-b74c-1b2339bdae52,Patatesli Gözleme,"20,00 TL",Gözlemeler,7.0
+758248d5-2945-461a-8b1b-4e843b7c26b9,Pastırmalı Gözleme,"25,00 TL",Gözlemeler,9.0
+7a99212c-d98c-4321-8b0b-c02f798b9a77,Velibah Tabağı,"20,00 TL",Gözlemeler,5.0
+0ba16141-efe3-42f8-a293-673b4fde8f83,Kayseri Mantısı,"30,00 TL",Ana Yemekler,5.0
+87bdca33-1441-45a7-af0e-c888f6584aa1,Çerkes Mantısı,"30,00 TL",Ana Yemekler,5.0
+d116910c-2b47-4bd7-9496-c44daebfbedf,Gurize,"35,00 TL",Ana Yemekler,5.0
+13be84d1-2b23-40f7-ace0-9e4bf5d698de,Yağ Mantısı,"30,00 TL",Ana Yemekler,5.0
+e686ddaf-0db2-40fb-8eb3-2f9f725d8cf0,Yağlama,"30,00 TL",Ana Yemekler,5.0
+57217c18-322b-4ad0-b964-76c416b5d914,Kayseri Tabağı,"35,00 TL",Ana Yemekler,5.0
+715705fc-c9aa-49ea-972f-fe83d2a4cf3c,Zeytinyağlı Yaprak Sarma (350 gr.),"20,00 TL",Ana Yemekler,5.0
+2112f5a5-cac2-4dd8-83ee-33ea05edc966,Kuru Dolma,"19,90 TL",Ana Yemekler,5.0
+c231f347-26db-4b1a-91ac-6535240c99b6,Kızartma İçli Köfte,"22,90 TL",Ana Yemekler,5.0
+9652810a-1d6b-4195-9649-1810da99ab4f,Sosis Tabağı,"14,90 TL",Aperitifler,5.0
+e195db81-a563-421c-b560-8f3e3007605d,Patates Kızartması,"20,00 TL",Aperitifler,5.0
+4fd821f8-43b0-4ae2-8c85-ba619076df43,Sufle,"18,90 TL",Tatlılar,5.0
+e7d411e2-4c9e-41d4-9817-ae0352e479b9,Antep Katmer Tatlısı,"22,00 TL",Tatlılar,5.0
+662beaf3-9adc-4132-a99c-3ed5ce5d6f65,Taze Sıkma Limonata,"9,90 TL",Vitamin Bar,5.0

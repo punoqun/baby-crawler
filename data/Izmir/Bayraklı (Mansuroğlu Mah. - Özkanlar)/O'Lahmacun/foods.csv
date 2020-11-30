@@ -1,0 +1,54 @@
+food_id,food_name,food_price,food_category,food_score
+37626ad7-1be6-48cc-b4bf-eb23fd8ca60a,Beyaz Ezogelin Çorbası,"13,00 TL",Çorbalar,5.0
+bf9ffea5-4344-443e-bbbe-1df6b7eddbb8,Fındık Lahmacun,"10,00 TL",Lahmacunlar,46.0
+822bff2e-a944-4e00-bebe-7c6114d35f6d,Lahmacun,"13,00 TL",Lahmacunlar,51.0
+6bd1732b-262a-45ae-aaa6-76a843836998,Kaşarlı Lahmacun,"15,50 TL",Lahmacunlar,49.0
+075f66f2-2ea4-4715-8ba3-146d91375b95,Sarımsaklı Lahmacun,"14,50 TL",Lahmacunlar,57.0
+ab88e28a-c297-4825-80b8-4b3f256f767a,Tane Cevizli Nar Ekşili Lahmacun,"15,50 TL",Lahmacunlar,55.0
+965d54a1-5a1a-43f5-bb5b-d9a38c9b53cc,Kıymalı Pide,"21,00 TL",Pideler,14.0
+7B92DD84-0AC9-4B38-956C-6CA453B67146,Beyaz Peynirli & Kaşarlı & Yumurtalı Pide,"23,00 TL",Pideler,18.0
+BFC263EE-0AFF-4C5C-A868-56EB2C4FA68F,Otlu Peynirli Mantarlı Pide,"23,00 TL",Pideler,12.0
+5618F95E-BB25-4BB1-A147-8A511C975A22,Otlu Peynirli Sebzeli Pide,"25,00 TL",Pideler,12.0
+7711c48e-9870-4d5c-a655-7c4e08c19d1c,Kıymalı Kaşarlı Pide,"23,00 TL",Pideler,17.0
+edf30219-c63d-48d3-9c82-15418b9bbf73,Kıymalı Yumurtalı Pide,"22,00 TL",Pideler,14.0
+3d09df86-a2ae-474b-9894-0415e75708ba,Kıymalı Kaşarlı Yumurtalı Pide,"24,00 TL",Pideler,17.0
+ac80c038-f234-4d55-aa3a-4ca7cb37af4f,Kuşbaşılı Pide,"28,00 TL",Pideler,15.0
+06bf220f-bf4b-4740-b618-3fec49208f69,Kuşbaşılı Yumurtalı Pide,"29,00 TL",Pideler,15.0
+93797fe4-e652-4c8f-bb71-70811341109a,Kuşbaşılı Kaşarlı Pide,"31,00 TL",Pideler,18.0
+f7db5ce8-7f08-4bc1-bb0e-5b5fb8efa19d,Kavurmalı Yumurtalı Pide,"30,00 TL",Pideler,15.0
+16b05f4e-080a-416d-98b3-e1c2502123eb,Kavurmalı Kaşarlı Pide,"32,00 TL",Pideler,18.0
+9f4dd49c-75fd-4e0f-8ab4-e68ef06fb36f,Kaşarlı Pide,"22,00 TL",Pideler,18.0
+990831c8-1d81-4bca-8bff-81cfeede6a59,Kaşarlı Yumurtalı Pide,"23,00 TL",Pideler,18.0
+703188c3-bb24-4e77-b1b9-5f297f0a2d7f,Sebzeli Kaşarlı Pide,"24,00 TL",Pideler,18.0
+809126d9-57f2-4488-9b9f-37de0b565fc5,Beyaz Peynirli Pide,"20,00 TL",Pideler,15.0
+17d00548-f08c-477f-bb7f-df19df569e55,Beyaz Peynirli Yumurtalı Pide,"22,00 TL",Pideler,15.0
+23bcc48d-3bfc-47e1-8ff8-37a4d839b0dd,Beyaz Peynirli Kaşarlı Pide,"22,00 TL",Pideler,18.0
+23fc1390-4242-4207-b206-b97d1d01a0f0,Otlu Peynirli Pide,"20,00 TL",Pideler,12.0
+3e90a212-fde5-426a-846b-e6546d09f730,Otlu Peynirli Yumurtalı Pide,"22,00 TL",Pideler,12.0
+d53e23ce-75c5-485c-baf4-73eb1b228f1a,Otlu Mantarlı Pide,"22,00 TL",Pideler,12.0
+f04e4cc9-27ed-4600-99de-8eefc8f9fdad,Mantarlı Kaşarlı Pide,"23,00 TL",Pideler,18.0
+5eb04c77-1a3e-453f-a565-eece6fc4bc84,Mantarlı Kaşarlı Yumurtalı Pide,"24,00 TL",Pideler,18.0
+36b0a5b5-356e-4a2b-84e0-009ca8468ca0,Sucuklu Yumurtalı Pide,"25,00 TL",Pideler,15.0
+03d5d1e5-1b76-4266-a42c-1d1f31bc3a8c,Sucuklu Kaşarlı Pide,"26,00 TL",Pideler,18.0
+e50104e2-b715-45f8-af7c-a70fac9fc369,Sucuklu Kaşarlı Yumurtalı Pide,"27,00 TL",Pideler,18.0
+8748a7f8-cde9-4828-9020-55400ff6390c,Pastırmalı Yumurtalı Pide,"30,00 TL",Pideler,13.0
+434b9a57-3816-4ea3-902e-5aa06efbf599,Pastırmalı Kaşarlı Pide,"32,00 TL",Pideler,16.0
+78530223-0056-4054-9a31-86b7bc1ec619,Pastırmalı Kaşarlı Yumurtalı Pide,"34,00 TL",Pideler,16.0
+3b02b415-c6cb-491d-8e5d-dc0b59fe31f5,Fransız Pidesi,"25,00 TL",Pideler,7.0
+cb206980-a083-4e5e-9377-78734ca26bc9,Yumurtalı Fransız Pidesi,"26,00 TL",Pideler,7.0
+02a6aa57-d4c3-40b2-ac2f-4c24f4108f80,Kiremitte Köfte,"26,00 TL",Diğer Lezzetler,5.0
+940f6127-f6ac-4da6-b617-9e966ee4932f,Kiremitte Kaşarlı Köfte,"28,00 TL",Diğer Lezzetler,8.0
+94f45d09-3e94-4282-acae-472dc3619d51,Kilis Tava,"28,00 TL",Diğer Lezzetler,5.0
+5fd504fd-bf21-4738-aa55-5aaca75608e4,O' Salata,"13,00 TL",Salatalar,5.0
+128effcf-6b74-49c2-83e0-be0d64474897,Kavurmalı Salata,"24,00 TL",Salatalar,5.0
+FEBD372A-D851-43F8-A849-21C84FD00430,Köfteli Salata,"22,00 TL",Salatalar,5.0
+5a635238-83e9-4871-836a-212f046d6170,Leyla,"11,00 TL",Tatlılar,7.0
+0faced6d-dbbe-411c-8846-6a3370165e5a,Dondurmalı Leyla,"13,00 TL",Tatlılar,7.0
+100b1f1a-6b8f-44ef-be99-efe287770558,Künefe,"16,00 TL",Tatlılar,3.0
+1a0c3048-436d-4a77-9744-777e7178f952,Dondurmalı Künefe,"18,00 TL",Tatlılar,3.0
+7b5629fe-7169-4f0c-bab1-165f09cb7a88,Katmer,"18,00 TL",Tatlılar,11.0
+3ebcbef3-d460-45e2-98ea-e0816ff1a7d9,Dondurmalı Katmer,"20,00 TL",Tatlılar,11.0
+60da16d5-d5a6-42f5-91ba-f459a1efa8e4,Dondurmalı Fıstıklı Kadayıf,"20,00 TL",Tatlılar,5.0
+3d690c73-747a-404e-8816-797e9f129971,Vanilyalı Dondurma (4 Top),"10,00 TL",Tatlılar,5.0
+eff87cf7-3961-48ec-9e48-d9a0a3be8cb0,Su,"2,00 TL",İçecekler,6.0
+99a93c71-88db-4d08-ae1f-80656b38ddba,Poşet,"0,25 TL",Poşet,5.0

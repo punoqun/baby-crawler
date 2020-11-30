@@ -1,0 +1,26 @@
+food_id,food_name,food_price,food_category,food_score
+d093f838-8072-419b-b444-d7cb70d9c71c,Karışık Bazlama Tost,"16,00 TL",Tostlar,12.0
+3c31d682-3320-44dd-ba2a-3cefb98109ac,Sebzeli Bazlama Tost,"20,00 TL",Tostlar,7.0
+f4d26f09-b627-4209-b4b0-65b01f7b80f5,Kaşarlı Bazlama Tost,"15,00 TL",Tostlar,5.0
+48d8090a-a4e7-44df-bcd3-b273f8c73766,Sucuklu Kaşarlı Bazlama Tost,"16,00 TL",Tostlar,10.0
+23569ff6-4e4e-4d44-a656-08c0c5fc7a84,Hamburger,"25,00 TL",Burgerler,5.0
+de3c9fc0-1a60-4a6d-b136-242de2914c12,Cheeseburger,"26,00 TL",Burgerler,5.0
+0350dc79-8c8d-4cf2-b862-6b3b44cef054,Margherita Pizza,"23,00 TL",Pizzalar (30 cm.),4.0
+e215dff5-381c-4855-aa41-039b1abafdb1,Ton Balıklı Pizza,"25,00 TL",Pizzalar (30 cm.),4.0
+f35022ab-452d-4342-8e25-88ba8d2479f3,Et Dönerli Pizza,"25,00 TL",Pizzalar (30 cm.),4.0
+dd1aeaaa-c356-4e46-899a-e74f12171ffb,Mexican Pizza,"25,00 TL",Pizzalar (30 cm.),4.0
+2cd3cfc1-8c69-4896-911a-1780ca73edf4,Karışık Pizza,"25,00 TL",Pizzalar (30 cm.),11.0
+764ba788-3b96-4ef4-9ccf-cf77932c99d1,Capriccio Pizza,"25,00 TL",Pizzalar (30 cm.),4.0
+13a8d3a4-9210-4155-a936-b23654492bbb,Sucuklu Pizza,"25,00 TL",Pizzalar (30 cm.),4.0
+b5b08082-87b8-47b8-abfd-45a992541c6e,Spaghetti Napolitan,"23,00 TL",Makarnalar,5.0
+97755ca9-5b2d-4d95-8b2e-778774f6f444,Spaghetti Bolonez,"25,00 TL",Makarnalar,5.0
+27707182-8708-4e30-a21d-a5146ed2eeac,Penne Al Arrabbiata,"25,00 TL",Makarnalar,5.0
+2e9f9ff9-1c12-4e41-8feb-2f28391ca012,Karidesli Penne,"30,00 TL",Makarnalar,5.0
+f3947dce-248c-4fa1-96e0-023f63943e5f,Mantarlı Tavuklu Tortellini,"27,00 TL",Makarnalar,5.0
+fd1f7913-d432-48de-88ec-f72b762b9059,Ton Balıklı Penne,"27,00 TL",Makarnalar,5.0
+9b1ad662-56ff-426f-a9a8-01ce30c7923d,Tavuklu Sezar Salata,"25,00 TL",Salatalar,5.0
+509f767b-8665-477c-a7e7-28576e064fea,Ton Balıklı Salata,"25,00 TL",Salatalar,5.0
+b321961b-8926-4033-9f60-bd6816f2cb77,Akdeniz Salata,"20,00 TL",Salatalar,5.0
+7ee2eceb-c559-4685-8d83-b409b68e91df,Çoban Salata,"15,00 TL",Salatalar,5.0
+2eb14cfb-a585-493e-96a2-98078c38ba92,Çıtır Tavuk Salata,"23,00 TL",Salatalar,5.0
+850320eb-1068-4483-93cb-487b9c4b3bb8,Poşet,"0,25 TL",Poşet,5.0

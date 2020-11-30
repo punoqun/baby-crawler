@@ -1,0 +1,45 @@
+food_id,food_name,food_price,food_category,food_score
+2b6c379d-d6e3-469a-8775-b5d0ce4a18ec,Kumru Sandviç Menü,"18,00 TL",Menüler,21.0
+64aa662a-c8ae-42ac-bc81-9080b849f3d4,Ayvalık Tostu Menü,"18,00 TL",Menüler,20.0
+d47da4d4-f2db-4f29-8dbc-4ec822c7fe62,Ekmek Arası Köfte Menü,"22,00 TL",Menüler,6.0
+83b45b4d-0321-46a4-a231-c58ce8dab293,Köyüm Tost Menü,"19,00 TL",Menüler,8.0
+6a8e0137-64cf-4bfe-9c07-15a8c0a5e275,Izgara Tavuk Sandviç Menü,"17,50 TL",Menüler,5.0
+2e86df16-88a9-44d6-904d-011ee632acdf,Egeli Tost Menü,"16,00 TL",Menüler,6.0
+1ae1031d-72f9-4ad7-a7cb-04a97ad416e3,Dev Egeli Tost Menü,"19,00 TL",Menüler,8.0
+eacafad8-3a47-41ef-b90d-25df8eb213d1,Kavurmalı Tost Menü,"24,00 TL",Menüler,8.0
+83f599d5-4682-4fbf-ac8b-c02a792f0aee,Ekmek Arası Tavuk Tantuni Menü,"17,00 TL",Menüler,1.0
+d966d95a-688a-43a6-a006-add871e0b2ab,Tavuk Tantuni Dürüm Menü,"17,00 TL",Menüler,0.0
+8502c361-2de3-4b6c-84de-69d121473985,Ekmek Arası Et Tantuni Menü,"22,00 TL",Menüler,1.0
+42413b69-004e-4939-8a81-fbd93af4e21a,Et Tantuni Dürüm Menü,"22,00 TL",Menüler,0.0
+d6ba8835-33f1-491b-82c9-e4ad669b25f9,Hamburger Menü,"17,00 TL",Menüler,4.0
+84caa77f-e964-4376-9c12-0b2dacf6c6fd,Dev Burger Menü,"23,00 TL",Menüler,7.0
+75198433-819f-4b4d-907f-695d7194f61b,Cajun Baharatlı Tavuk Menü,"23,00 TL",Menüler,3.0
+14755603-015d-4982-9266-6fdfab86fc64,Cajun Soslu Kova Menü,"55,00 TL",Menüler,5.0
+22e3579a-5c03-4dfc-983d-7c5629d7a4d3,Ayvalık Tostu,"11,00 TL",Tostlar,25.0
+2e2b23d4-e066-4138-ac8c-692344dc5e4f,Köyüm Tost,"12,00 TL",Tostlar,8.0
+b4457c91-acb6-4a9f-bf1d-1035a2348114,Dev Egeli Tost,"12,00 TL",Tostlar,8.0
+ccd42660-2484-46e4-be83-9008f30e74ea,Egeli Tost,"9,50 TL",Tostlar,6.0
+d5502879-f615-4e48-8b89-6e7a731dcbd0,Kavurmalı Tost,"17,50 TL",Tostlar,8.0
+47c8fb68-4151-4ad1-bb33-04431dbcfc19,Sosisli Sandviç,"8,00 TL",Sandviçler,7.0
+3bcbe52b-51d6-4262-9fd4-f93ed2ab30f2,Arnavut Ciğerli Sandviç,"15,00 TL",Sandviçler,5.0
+79f48b67-56cd-4947-8697-7ec5d1ed653d,İzmir Kumru Sandviç,"11,00 TL",Sandviçler,20.0
+41707e4d-7a56-4a27-af48-d8be3a199583,Izgara Köfte Sandviç,"15,00 TL",Sandviçler,7.0
+80122ead-9231-486f-b17e-cfc14fd3286b,Izgara Tavuk Sandviç,"11,00 TL",Sandviçler,5.0
+d6ac5d10-c6e8-4c11-ab2e-6fd8a9f7028d,Hamburger,"10,00 TL",Burgerler,4.0
+807d6d93-231b-4892-9fd3-583e1b990f34,Dev Burger,"16,00 TL",Burgerler,7.0
+65a7eaa2-e993-4ba4-b8e4-b9cec6a3fbe7,Izgara Tavuk,"16,00 TL",Izgaralar,5.0
+bb4a7490-9a20-400e-8d68-295e7855be14,Izgara Köfte,"17,50 TL",Izgaralar,7.0
+ed46c2c9-7df7-45b8-aeae-a9029c2b3271,Yoğurtlu Tavuk Tantuni,"16,00 TL",Tavuk Tantuniler,2.0
+fc536ef8-62b7-474e-a3c5-3b55171e12bb,Tavuk Tantuni Sandviç,"10,50 TL",Tavuk Tantuniler,0.0
+486d8c3f-d453-44bf-9157-f3c3ba5dee82,Tavuk Tantuni Dürüm,"10,50 TL",Tavuk Tantuniler,0.0
+e74702f3-ca7b-4786-a6c4-53c4cb9d54d9,Et Tantuni Sandviç,"15,50 TL",Et Tantuniler,0.0
+2ef80ea0-41e8-4862-b787-c4dd4e3d6610,Et Tantuni Dürüm,"15,50 TL",Et Tantuniler,0.0
+fc5bba49-d592-4457-a17a-abfd51a17029,Tavuk But & Pilav,"13,50 TL",Pilavlar,1.0
+9afc6dae-e7b0-42e8-8c26-7fd02eccd03a,Nohutlu Pilav,"7,50 TL",Pilavlar,3.0
+a42dfa0e-e3f7-4962-b58e-e770be081d09,Tavuklu Pilav,"11,00 TL",Pilavlar,3.0
+6189d645-f580-4086-b2a2-2b5d8904477a,Arnavut Ciğeri,"21,00 TL",Diğer Lezzetler,5.0
+8f9e1fc3-d415-404a-990d-967f434c6bbe,Cajun Baharatlı Tavuk (10 Adet),"17,00 TL",Diğer Lezzetler,3.0
+d3b6fda6-04f9-4aca-8a2b-e2ff36aba980,Patates Kızartması,"7,00 TL",Yan Ürünler,1.0
+f68f3aa6-9fd2-4ac7-8ddc-4fe0d2f3a2dd,Sosis Tabağı,"11,50 TL",Yan Ürünler,5.0
+fe22561f-1e03-4618-a867-e5545da7b095,Su,"2,00 TL",İçecekler,6.0
+4b285ffd-4f60-4dec-add0-c79473b55c77,Poşet,"0,25 TL",Poşet,4.0

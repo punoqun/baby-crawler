@@ -1,0 +1,59 @@
+food_id,food_name,food_price,food_category,food_score
+1cfe488b-3c5a-4edf-a31d-a0c243c4fed3,Kahvaltı Tabağı,"25,00 TL",Kahvaltılıklar,5.0
+487b1ab6-3b71-4d2c-a203-e3847a4ebb61,Çakallı Menemen,"14,00 TL",Kahvaltılıklar,7.0
+5d577fe2-27de-4424-9f26-2ebea525b3eb,Sade Omlet,"10,00 TL",Kahvaltılıklar,5.0
+9ea076a1-c64c-487f-bc42-77c91aac9bf5,Kaşarlı Omlet,"12,00 TL",Kahvaltılıklar,8.0
+eeb3f09f-3d00-41ee-8aee-877de19ce32d,Sucuklu Yumurta,"15,00 TL",Kahvaltılıklar,5.0
+D7F0137F-6727-4B88-AF93-E4040346F028,Kıymalı Yumurta,"15,00 TL",Kahvaltılıklar,5.0
+18BDEF07-AEA6-496A-9039-569135EF3F05,Öğrenci Kahvaltı,"12,00 TL",Kahvaltılıklar,5.0
+911c291a-3cad-4af9-8452-0519d03f183e,Karışık Tost,"12,00 TL",Tostlar,7.0
+dee30161-6f3e-4f56-af0e-ed33735cf9e3,Ayvalık Tostu,"15,00 TL",Tostlar,29.0
+ed918c5c-911e-4e12-9d1f-f50e5831bc2d,Kaşarlı Tost,"10,00 TL",Tostlar,10.0
+CF9FF8AB-372D-4EE3-90CB-AFF0A16EA9DC,Patso Tost,"12,00 TL",Tostlar,7.0
+A4F1CF2F-B9DA-4614-992E-07BEB95E4449,Dana Sucuklu Tost,"15,00 TL",Tostlar,7.0
+B87E33E8-B803-4D6A-82D5-AAEB680F295D,Dana Sucuklu Karışık Tost,"17,00 TL",Tostlar,7.0
+0d03db48-a5a4-4b64-9396-f2a2d499caa4,Ton Balıklı Sandviç,"15,00 TL",Sandviçler,5.0
+6bbf5fd1-4c2a-4154-9495-a7feab66e23b,Soğuk Sandviç,"10,00 TL",Sandviçler,5.0
+9c83d7bf-894d-4836-a8d2-eab8efc55e87,İzmir Sandviç,"14,00 TL",Sandviçler,5.0
+d5a58c43-7818-4f05-902a-817078b79b44,Ekmek Arası Sucuk,"12,00 TL",Sandviçler,6.0
+787dd670-1018-41df-b734-eeb41483ec25,Kıymalı Gözleme,"15,00 TL",Gözlemeler,7.0
+aacdd0d4-6b89-460b-8e72-ef906287b92d,Peynirli Gözleme,"12,00 TL",Gözlemeler,7.0
+b5cc9968-30d2-4393-afc2-27d4ae605916,Patatesli Gözleme,"12,00 TL",Gözlemeler,12.0
+1569A11D-2B7A-4669-B2AB-9F1762A50CBA,Sucuklu Gözleme,"12,00 TL",Gözlemeler,7.0
+07333538-68C5-4428-BC5F-623358FEF15D,Kaşarlı Gözleme,"12,00 TL",Gözlemeler,10.0
+3E03ADE8-F81D-4C65-A3C6-9CBF957178B2,Karışık Gözleme,"15,00 TL",Gözlemeler,7.0
+61159715-470c-492a-8ac7-761d79f6c06d,Kaşarlı Köfte,"20,00 TL",Kebaplar & Izgaralar,6.0
+a80ae6db-a6ee-4fe6-a56d-cfc45e6826ed,Tavuk Kanat,"20,00 TL",Kebaplar & Izgaralar,8.0
+ca802bc0-4781-4be1-9b32-3ac300a6b565,Kasap Köfte,"20,00 TL",Kebaplar & Izgaralar,3.0
+C5F54DF9-0C4D-4931-B7FD-F379423BE828,Tavuk Pirzola,"20,00 TL",Kebaplar & Izgaralar,8.0
+43F1E1C8-B56E-425B-9263-4E5483DD5FF1,Adana Kebap,"25,00 TL",Kebaplar & Izgaralar,7.0
+1EF9D688-AE39-46D4-B20B-138E12E0EC21,Et Şiş,"25,00 TL",Kebaplar & Izgaralar,5.0
+FE415048-ACB3-48E7-9133-605544AA2D2A,Ciğer Şiş,"25,00 TL",Kebaplar & Izgaralar,5.0
+71A2975D-2B2D-4107-BCCB-B22FC0540478,Tavuk Şiş,"20,00 TL",Kebaplar & Izgaralar,8.0
+A3B75B03-8B1E-4C4A-8567-B35DD6A11011,Tavuk Sote,"20,00 TL",Ana Yemekler,8.0
+8f7e79bd-1401-4f6e-ab48-51b42889b073,Sac Kavurma,"25,00 TL",Ana Yemekler,5.0
+714AE301-46A9-4F7E-B8AB-35BA82BF8626,Ciğer Sac Kavurma,"25,00 TL",Ana Yemekler,5.0
+B8874EEE-1A96-4C47-92A4-053E4E288222,Ciğer Sote,"25,00 TL",Ana Yemekler,5.0
+C29864B3-5577-48A8-B077-EC2E179E74AD,Hamburger,"15,00 TL",Burgerler,9.0
+F2F42BB4-9FA7-4F6A-9EF8-CD33E72FED37,Tavuk Burger,"12,00 TL",Burgerler,8.0
+6401A8E5-47EB-4D0B-8B77-2F5AFFEF4590,Adana Dürüm (100 gr.),"15,00 TL",Dürümler,7.0
+FE665E7D-1D26-43DC-B307-B2B0BB331F18,Et Şiş Dürüm,"15,00 TL",Dürümler,5.0
+D67D5226-F154-428C-897F-A065DF9A0C50,Nohut Dürüm,"10,00 TL",Dürümler,7.0
+84D286FF-6B8B-4C70-8F99-E333B3A95EAD,Ciğer Dürüm,"15,00 TL",Dürümler,5.0
+a7c0c564-03c3-4abc-8fdc-05d5536a1ce8,Kasap Köfte Dürüm,"14,00 TL",Dürümler,3.0
+66be3041-4b3e-4655-8979-f0aa4568a648,Kaşarlı Köfte Dürüm,"16,00 TL",Dürümler,6.0
+e22d8fbb-1f33-48d6-b5a0-4b48c29b4906,Tavuk Şiş Dürüm,"12,00 TL",Dürümler,8.0
+02f5e451-e15d-4cd0-a22d-d38d60c711f7,Kremalı Makarna,"15,00 TL",Makarnalar,5.0
+c9972b58-1c46-47d5-afdf-8fe41b5f4a76,Kıymalı Makarna,"15,00 TL",Makarnalar,5.0
+dd7642e5-5634-486e-9e07-6338b75d246d,Domates Soslu Makarna,"12,00 TL",Makarnalar,5.0
+fb089c56-5e96-4751-a0cd-00b1f73d594d,Ton Balıklı Makarna,"15,00 TL",Makarnalar,5.0
+C764CD9E-86DC-4CEB-A9DA-B044AC834C1D,Peynirli Makarna,"12,00 TL",Makarnalar,5.0
+01182E29-B3E8-4CF9-AFAF-F3947EA9E561,Iced Latte,"7,00 TL",Soğuk Kahveler,5.0
+76010989-2E15-4457-8124-B66056982C47,Pepsi Twist (33 cl.),"5,00 TL",İçecekler,5.0
+CA64DE3F-F68D-4633-80B6-13A5F322CF84,Yedigün (20 cl.),"3,00 TL",İçecekler,5.0
+FEA02D7B-C1D9-4FE2-96B7-048141FA3BF1,Fruko (20 cl.),"3,00 TL",İçecekler,5.0
+BA4E5D5D-06EA-43A5-A44B-1915B5E33AD4,Yedigün Blue (1 L.),"6,00 TL",İçecekler,5.0
+44487af6-ea33-457e-b0ba-0ecb28e4ecad,Fruko (1 L.),"6,00 TL",İçecekler,5.0
+87ad8f76-cc21-46c0-b1cf-83c2d8191d83,7UP (1 L.),"6,00 TL",İçecekler,5.0
+F414F24F-16F4-44AE-898C-744ED35F00DF,"Su (1,5 L.)","2,50 TL",İçecekler,7.0
+e6e067e3-7dcf-491f-baaa-f54a065da584,Poşet,"0,25 TL",Poşet,3.0

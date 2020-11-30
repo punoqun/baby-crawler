@@ -1,0 +1,117 @@
+food_id,food_name,food_price,food_category,food_score
+d9e73e4f-e7e6-43f3-bb64-e37d28336a14,Duble Karışık Sandviç Menü,"21,00 TL",Promosyon Menüler,3.0
+b6de05d2-01e6-4883-83dc-53563be381c9,2'li Full Karışık Patso Menü,"35,00 TL",Promosyon Menüler,4.0
+532a87ee-fe69-4ca8-baee-9f0ea980b68a,3'lü Antakya Tavuk Döner Dürüm (Çift Lavaş) Menü,"39,00 TL",Promosyon Menüler,4.0
+1df22e15-5a26-4a61-a28f-ca4dbd82e739,4'lü Antakya Tavuk Döner Dürüm (Çift Lavaş) Menü,"50,00 TL",Promosyon Menüler,4.0
+c74b66d1-f8d4-4f50-955e-0dd5ce9b9a52,4'lü Ekstra Tavuk Döner Menü,"50,00 TL",Promosyon Menüler,5.0
+38688826-e7db-4e0b-b0e1-e72ca4e10a0a,5'li Antakya Tavuk Döner Dürüm (Çift Lavaş) Menü 1,"61,00 TL",Promosyon Menüler,12.0
+edc2eac7-b7c3-4916-bc29-b7732c3e741e,5'li Antakya Tavuk Döner Dürüm (Çift Lavaş) Menü 2,"68,00 TL",Promosyon Menüler,3.0
+eccc31e9-7161-4708-aec0-68c5394112a0,Antakya Tavuk Döner Dürüm (Çift Lavaş) Menü 1,"14,00 TL",Promosyon Menüler,12.0
+4b95249e-8fd3-4574-bf93-485724cd9e48,Ayvalık Tost Menü,"20,00 TL",Promosyon Menüler,3.0
+6e83b890-240e-4975-a49f-5a5a1435a659,2'li Duble Karışık Sandviç Menü,"45,00 TL",Promosyon Menüler,3.0
+a6535a5c-2edc-4cfe-afbd-298782a438b4,Chef Çılgın Menü,"70,00 TL",Promosyon Menüler,3.0
+2a3c5e5f-6934-4b84-a083-434281553354,Chef Grup Menü,"55,00 TL",Promosyon Menüler,3.0
+3cd9bdcd-44d4-4e77-8577-d093fc7f067e,Chef Maxi Menü 1,"22,00 TL",Promosyon Menüler,12.0
+b3ee947d-262b-4ebc-8a36-086e00a88f5a,Chef Maxi Menü 2,"23,00 TL",Promosyon Menüler,4.0
+726b3647-4bff-4c59-a314-eb1d3115c685,Chef Özel Köfte Menü,"31,00 TL",Promosyon Menüler,3.0
+d0a8f67d-e67f-43e7-a2c3-7ab0a45d2b76,Chef Tavuk Döner Dürüm (Çift Lavaş) Menü,"14,00 TL",Promosyon Menüler,1.0
+e9ec8762-5db7-46d0-977d-b9734001c77c,Çift Lavaş Et Döner Dürüm Menü,"24,00 TL",Promosyon Menüler,-2.0
+1a17b38f-9edf-48f8-b795-76e535a5c54e,Çift Lavaş Tavuk Döner Dürüm Menü,"20,00 TL",Promosyon Menüler,-1.0
+d8b052a8-91f9-4f70-a485-8c633034620b,İskender Menü (Et Dönerden),"37,00 TL",Promosyon Menüler,3.0
+2cdacc20-4296-4bb3-af7b-a14aaf481fca,İskender Menü (Tavuk Dönerden),"31,00 TL",Promosyon Menüler,3.0
+027f5780-773f-4e69-bc84-aa77d3581311,Menü 2,"35,00 TL",Promosyon Menüler,3.0
+67e71657-6ccd-4eeb-947e-23252ee4cdbb,Özel Ekmek Arası Izgara Köfte Menü,"24,00 TL",Promosyon Menüler,0.0
+68799400-7be2-4696-90ac-0706ee2e1602,Özel Ekmek Arası Izgara Tavuk Menü,"23,00 TL",Promosyon Menüler,1.0
+cd8c8f46-ffd0-462c-963a-4b697761348d,Chef Çiğ Köfte Menü 1,"32,00 TL",Çiğ Köfte Menüleri,17.0
+20956051-ca43-40f0-a0be-6ba18728cb08,Chef Çiğ Köfte Menü 2,"57,00 TL",Çiğ Köfte Menüleri,9.0
+efc9be21-5c0d-40ce-b12d-e2efcf053d30,Çiğ Köfte Dürüm Menü 1,"7,00 TL",Çiğ Köfte Menüleri,18.0
+60f58714-fad8-404e-b896-d367d52287af,Çiğ Köfte Dürüm Menü 2,"13,00 TL",Çiğ Köfte Menüleri,5.0
+0e250d43-a580-4730-bdc3-0f7d4f38ef5f,Çiğ Köfte Dürüm Menü 3,"9,00 TL",Çiğ Köfte Menüleri,8.0
+C67F5816-8A52-4A8B-91DC-85556EFB02B7,Çig Köfte Dürüm Menü 4,"9,00 TL",Çiğ Köfte Menüleri,7.0
+8c278ba9-071f-4a29-aa38-7ddf60fe62f4,Çiğ Köfte (200 gr.) Menü,"13,00 TL",Çiğ Köfte Menüleri,9.0
+ea4d3e4f-073b-4ea8-9cca-9a8b8ea8117d,Çiğ Köfte (400 gr.) Menü,"26,00 TL",Çiğ Köfte Menüleri,9.0
+668a8258-abb8-4b85-88d7-33b5366cade2,Çiğ Köfte (500 gr.) Menü,"30,00 TL",Çiğ Köfte Menüleri,9.0
+89d7ee42-bb77-457c-8a1e-c41ebb483f12,Çiğ Köfte (1 kg.) Menü,"65,00 TL",Çiğ Köfte Menüleri,9.0
+2fa15383-d8ca-4611-b8cb-def16a1b3364,Hamburger Menü 1,"22,00 TL",Menüler,13.0
+c68c120f-4d1c-41a2-b20f-885419e1a279,2'li Antakya Tavuk Döner Dürüm Menü,"28,50 TL",Menüler,4.0
+FEAC4CC6-434E-4A45-87C2-ABFF3B387D0A,Antakya Tavuk Döner Dürüm Menü,"14,50 TL",Menüler,4.0
+2e5c28d3-c31d-4c57-b0f0-9d0d2b0ecd9f,Çift Lavaşlı Et Döner Dürüm Menü,"19,00 TL",Menüler,0.0
+fd130921-fa94-48c8-8d74-9dc9a01008e0,Ayvalık Tostu,"12,00 TL",Tostlar,5.0
+0F42C231-7694-4717-9C82-DCC9B00C1D7F,3/4 Ekmek Arası Ayvalık tostu,"18,00 TL",Tostlar,2.0
+bcd1b176-2f35-45f3-b93d-5dd39f6574c4,Chef Süper Karışık Sandviç,"17,00 TL",Sandviçler,7.0
+4d680fe1-92d8-49d5-ace7-f693e1dfb682,Sucuklu Kaşarlı Karışık Sandviç,"14,00 TL",Sandviçler,4.0
+8563638f-f62e-4009-a40c-522734e58fea,Yumurtalı Duble Karışık Sandviç,"15,50 TL",Sandviçler,5.0
+74aebe25-9fc2-4c58-9b5b-57ed46c76721,Duble Karışık Sandviç,"14,00 TL",Sandviçler,10.0
+5957d2b9-8106-46c4-ab32-856fc67f5f85,Çılgın Karışık Sandviç,"17,00 TL",Sandviçler,5.0
+158e8048-2479-41ba-b3c4-b1f643b65dda,Duble Kaşarlı Karışık Sandviç,"18,00 TL",Sandviçler,4.0
+f493cdb9-3b3e-4b16-9b27-0ea23b9ecf9d,Rus Salatalı Karışık Sandviç,"16,00 TL",Sandviçler,8.0
+e519d864-8bc7-4330-a45d-a4a60b060c40,Patso Sandviç,"10,00 TL",Sandviçler,6.0
+6149001e-16ff-4ae7-ad01-d7a1983e3e75,Sosisli Patso Sandviç,"12,50 TL",Sandviçler,6.0
+f454987c-ea62-4008-af02-e74046343664,Sucuklu Patso Sandviç,"12,50 TL",Sandviçler,6.0
+602fac66-d72d-4196-a379-15f97aa98e32,Kaşarlı Patso Sandviç,"12,50 TL",Sandviçler,5.0
+b6a22766-8437-4b30-a820-b404cd235157,Salamlı Patso Sandviç,"12,50 TL",Sandviçler,6.0
+2971e625-fae5-4e70-8bc5-00647f6713bc,Tavuklu Patso Sandviç,"13,00 TL",Sandviçler,6.0
+d4878a8c-3b05-4091-9ad0-18d30f3ee9b1,Yumurtalı Patso Sandviç,"12,50 TL",Sandviçler,6.0
+734e3b7f-c6df-445b-b559-74209075b6aa,Etli Patso Sandviç,"16,00 TL",Sandviçler,6.0
+aa9f7df8-3002-4809-9203-7935b880ad06,Köfteli Patso Sandviç,"15,00 TL",Sandviçler,6.0
+207ce362-0740-4520-9e3a-53b37c6d7da2,Chef Full Karışık Patso Sandviç,"14,00 TL",Sandviçler,6.0
+ec1ed2fb-921e-49c1-a5ef-05c4b956a8af,Sucuklu Kaşarlı Patso Sandviç,"13,50 TL",Sandviçler,5.0
+50b89c58-45c4-4f64-b071-89a5c4b08f27,Sosisli Kaşarlı Patso Sandviç,"13,50 TL",Sandviçler,5.0
+0b052614-c824-492e-99d9-cb8da5a33028,Salamlı Kaşarlı Patso Sandviç,"13,50 TL",Sandviçler,5.0
+43de7e85-5997-4fe2-b7a9-c80da403d346,Full Karışık Sandviç,"13,00 TL",Sandviçler,5.0
+984778c9-c5f5-49c8-88c8-dbab954c8691,Hamburger,"15,00 TL",Burgerler,7.0
+7bb6107b-c582-415e-adb6-aa9cda257981,Duble Hamburger,"27,00 TL",Burgerler,7.0
+65832711-5af3-4f82-8b3d-c90737d99231,Cheeseburger,"20,00 TL",Burgerler,5.0
+8a77d8d0-caea-4dfa-a370-f43a05070f8b,Duble Cheeseburger,"37,00 TL",Burgerler,5.0
+2a1a651f-9bdc-4dd7-a307-1067c02d2a7f,İskender (Et Dönerden),"26,00 TL",Et Dönerler,5.0
+8b2821e4-a3b3-451d-9740-ee5c4504b167,Sade Et Döner,"27,00 TL",Et Dönerler,7.0
+2cda5110-94b0-439a-855a-3e94922b71a9,Et Döner Dürüm,"16,00 TL",Et Dönerler,2.0
+da30b5e9-ccdf-4241-844b-639373d817a5,Kaşarlı Et Döner Dürüm,"20,00 TL",Et Dönerler,1.0
+cb25a32c-c962-4330-a411-d51b58cd4cd0,Rus Salatalı Et Döner Dürüm,"18,00 TL",Et Dönerler,5.0
+a690a9ab-d85b-4b8a-9011-3abffab56345,Yarım Ekmek Arası Kaşarlı Et Döner,"20,00 TL",Et Dönerler,2.0
+4467df9c-c932-4d07-9c93-bb4a109f6ec1,Yarım Ekmek Arası Rus Salatalı Et Döner,"18,00 TL",Et Dönerler,6.0
+af3f8853-b106-4ad6-bf2b-b3d4dba01525,Özel Ekmek Arası Et Döner,"16,00 TL",Et Dönerler,3.0
+b6609db6-7fb0-4696-93cb-8e10a40f668d,3/4 Ekmek Arası Et Döner,"24,00 TL",Et Dönerler,3.0
+4b30b6a4-df8f-48af-baf6-80c08eb5a871,İskender (Tavuk Dönerden),"21,00 TL",Tavuk Dönerler,5.0
+b38570e9-83dd-4bdf-abd7-ff744171aa5f,Sade Tavuk Döner,"22,00 TL",Tavuk Dönerler,8.0
+a307b770-a48c-49db-9a7d-4eb5e5c9aa77,Antakya Tavuk Döner Dürüm,"11,00 TL",Tavuk Dönerler,11.0
+83202da9-f268-460b-884d-e1dd926595bb,Kaşarlı Antakya Tavuk Döner Dürüm,"15,00 TL",Tavuk Dönerler,5.0
+46b9f2ba-bda9-4c65-a31b-59ba5cb712eb,Özel Tavuk Döner Dürüm,"11,00 TL",Tavuk Dönerler,3.0
+8051146f-0052-45af-9fd1-b8cdaa00637c,Kaşarlı Ekstra Tavuk Döner,"15,00 TL",Tavuk Dönerler,6.0
+ac9244b9-1e83-4b31-b4a3-57222697d611,Rus Salatalı Ekstra Tavuk Döner,"13,50 TL",Tavuk Dönerler,10.0
+6e298a68-ce83-4cad-92f5-bfa27c7b0679,Chef Tavuk Döner Dürüm,"11,00 TL",Tavuk Dönerler,3.0
+68780170-49ba-4d5c-b9a3-fa8820f601be,Kaşarlı Chef Tavuk Döner Dürüm,"15,00 TL",Tavuk Dönerler,2.0
+b027b5fd-7a7b-4b82-aa69-f783a9aeb873,3/4 Ekmek Arası Tavuk Döner,"16,50 TL",Tavuk Dönerler,4.0
+4bfd6fc7-5caa-489b-ab96-d2d1aa664797,Rus Salatalı Chef Tavuk Döner Dürüm,"13,50 TL",Tavuk Dönerler,6.0
+5ea61ddd-e770-4906-9f88-3a73403bf59b,Chef Özel Ekmek Arası Tavuk Döner,"11,00 TL",Tavuk Dönerler,4.0
+a287fa99-e936-402f-9609-734ee9a797c8,Kaşarlı Chef Özel Ekmek Arası Tavuk Döner,"15,00 TL",Tavuk Dönerler,3.0
+57d47d9b-f880-4be1-b5a7-67b413b7c6d7,Rus Salatalı Chef Özel Ekmek Arası Tavuk Döner,"13,50 TL",Tavuk Dönerler,7.0
+1ee64ff8-d959-49e2-98b4-3b4ae6f8a8f6,Yarım Ekmek Arası Özel Ekstra Tavuk Döner,"11,00 TL",Tavuk Dönerler,4.0
+e3a11c5b-5e43-426a-b634-fc2f2320cd8b,Yarım Ekmek Arası Kaşarlı Ekstra Tavuk Döner,"15,00 TL",Tavuk Dönerler,3.0
+5b05cc8d-76d6-46f6-94ce-5d4a249bdf11,Yarım Ekmek Arası Rus Salatalı Ekstra Tavuk Döner,"13,50 TL",Tavuk Dönerler,7.0
+5a093e5c-21af-4f0d-92d1-aac106deb34f,Izgara Köfte,"27,00 TL",Izgaralar,5.0
+aece3f80-1de9-4758-9d59-2a7b3bad93d7,Izgara Tavuk,"26,00 TL",Izgaralar,6.0
+a0d5fd81-2f58-4751-9fa3-eb736edc984d,Antakya Usulü Izgara Tavuk,"14,00 TL",Izgaralar,9.0
+214b4640-777b-4025-9f43-718aeb11e7b6,3/4 Ekmek Arası Izgara Köfte,"22,50 TL",Ekmek Arası Ürünler,2.0
+c6c25074-f48f-4e53-83b9-73a3c51ea55b,3/4 Ekmek Arası Izgara Tavuk,"21,00 TL",Ekmek Arası Ürünler,3.0
+563949f6-9514-42e4-a8c2-a51b06091eaa,Özel Ekmek Arası Izgara Köfte,"15,00 TL",Ekmek Arası Ürünler,2.0
+54cfec28-19ce-4261-b17d-3f4fb216a15b,Özel Ekmek Arası Izgara Tavuk,"14,00 TL",Ekmek Arası Ürünler,3.0
+f240f927-a7ba-4499-bcd4-845c5e6a8cd8,Özel Ekmek Arası Kaşarlı Izgara Köfte,"19,00 TL",Ekmek Arası Ürünler,1.0
+dd8c6145-2b5c-460a-bfef-bc46cb339af2,Özel Ekmek Arası Kaşarlı Izgara Tavuk,"18,00 TL",Ekmek Arası Ürünler,2.0
+89182DC5-19B2-495F-A4B4-02F74A3B306B,Çiğ Köfte Dürüm (100 gr.),"5,00 TL",Çiğ Köfteler,7.0
+43d2de54-df03-47f7-8e7d-f26ede75ad48,Çiğ Köfte (Yarım),"10,00 TL",Çiğ Köfteler,11.0
+2908e4f8-06d9-4c00-b4cf-41c31c089c98,Çiğ Köfte (Tam),"20,00 TL",Çiğ Köfteler,11.0
+5177bb95-2618-4d79-a55e-773d09980a6f,Çiğ Köfte (1 kg.),"50,00 TL",Çiğ Köfteler,11.0
+1770db8c-bbe0-4dbb-9d5f-a3c2050bb630,Patates Kızartması,"11,00 TL",Yan Ürünler,1.0
+3AE8728B-DD6A-42FE-B4EB-C6600952B936,Mayonez (12 gr.),"0,75 TL",Yan Ürünler,6.0
+00F42282-C955-477A-B5AD-7AE17640058B,Nar Ekşisi (12 gr.),"0,75 TL",Yan Ürünler,5.0
+604B1FBB-FD08-4561-8537-23C424FA0DE6,Salatalık Turşusu,"4,00 TL",Yan Ürünler,5.0
+B866AF80-1CF1-4BA4-B0C8-66AF75B2CB98,Biber Turşusu,"0,50 TL",Yan Ürünler,5.0
+1448A601-7520-45C1-9637-D4C58C05FEAB,Lavaş,"1,50 TL",Yan Ürünler,3.0
+c5cc3136-a6d1-4028-bd49-1d3572754517,Fırın Sütlaç,"7,00 TL",Tatlılar,5.0
+c4577a6a-3daa-4d0a-a25d-209c9eade77a,Kazandibi,"7,00 TL",Tatlılar,5.0
+eaf2ed00-ed7b-4c77-80f4-82caa4d652e6,Supangle,"7,00 TL",Tatlılar,5.0
+a892d0f6-b3ef-4be8-86ac-8b0b154e5ad1,Profiterol,"7,00 TL",Tatlılar,5.0
+75ea16d3-f438-4766-8252-8a61daf4ca19,Niğde Gazozu (25 cl.),"4,00 TL",İçecekler,5.0
+335c4ce0-f5b2-4da1-8503-6278485f5c83,Su,"1,50 TL",İçecekler,9.0
+2f9ded68-aee8-438e-9006-d749b6c2e23d,Poşet,"0,25 TL",Poşet,5.0

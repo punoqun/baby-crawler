@@ -1,0 +1,42 @@
+food_id,food_name,food_price,food_category,food_score
+74b2961d-4ac7-42c5-9c68-9667fbd96d0d,İmparator Lahmacun (2 Adet) (Büyük),"14,00 TL",Fırın Ürünleri,20.0
+b9d8ccbe-bfc8-461c-adab-f2782c036dda,Antep Lahmacun (2 Adet),"16,00 TL",Fırın Ürünleri,11.0
+66BBB27B-031C-4730-BB19-02228290759A,İmparator Lahmacun (Büyük),"7,00 TL",Fırın Ürünleri,20.0
+7e5c8d18-db76-4927-9f7d-ccc321d800b5,Karadeniz Pidesi,"20,00 TL",Fırın Ürünleri,4.0
+2342118e-e645-4e45-871f-d8db57149393,Karışık Pide,"22,00 TL",Fırın Ürünleri,11.0
+c140d8f8-f91b-4199-af1d-fdd0522ca0d6,Kavurmalı Kaşarlı Pide,"22,00 TL",Fırın Ürünleri,11.0
+a3ffa68b-6ee2-4f1e-92f2-9f27aa473f01,Kıymalı Kaşarlı Pide,"20,00 TL",Fırın Ürünleri,11.0
+d0a49183-1b91-4094-ac54-e95b364e08b8,Kıymalı Pide,"19,00 TL",Fırın Ürünleri,9.0
+723f34a1-fae0-49ed-85ae-70ef7848c735,Konya Usulü Etli Pide,"20,00 TL",Fırın Ürünleri,9.0
+de4d8b9f-fd35-4b87-b041-2f8c813aced2,Kuşbaşılı Kaşarlı Pide,"22,00 TL",Fırın Ürünleri,10.0
+5f3e5148-8536-442d-a996-195383c72104,Kuşbaşılı Pide,"20,00 TL",Fırın Ürünleri,8.0
+2bc174eb-9806-44a7-b264-ac158d5c90ed,Pastırmalı Kaşarlı Pide,"22,00 TL",Fırın Ürünleri,9.0
+9f6dc8f1-d8a6-4cef-ade7-86d6855baec9,Sucuklu Kaşarlı Pide,"20,00 TL",Fırın Ürünleri,11.0
+ed85a97b-f4aa-4704-9ce9-6c8910f571a4,Ton Balıklı Pizza (20 cm.),"19,00 TL",Küçük Boy Pizzalar (20 cm.),40.0
+9B99EABC-F132-4645-A774-FE41E01412EA,Kavurmalı Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (20 cm.),40.0
+5c74961b-0a20-414c-9fd3-4e545d104f86,Karışık Pizza (20 cm.),"17,50 TL",Küçük Boy Pizzalar (20 cm.),42.0
+a9418c23-ce2f-4598-9cba-5e0c969b1cb5,İtalyan Pizza (20 cm.),"17,50 TL",Küçük Boy Pizzalar (20 cm.),40.0
+31fc8d99-8056-44bf-bd93-7510ed693347,Margherita Pizza (20 cm.),"17,50 TL",Küçük Boy Pizzalar (20 cm.),40.0
+5a267f05-908e-496e-8ce8-233193b242f1,Veggie Pizza (20 cm.),"17,50 TL",Küçük Boy Pizzalar (20 cm.),40.0
+cb2cf29c-08b2-48b9-94be-7e30c49d75ad,Karışık Pizza (25 cm.),"21,00 TL",Orta Boy Pizzalar (25 cm.),42.0
+156edc55-f030-4379-9c08-d94965233185,Ton Balıklı Pizza (25 cm.),"23,00 TL",Orta Boy Pizzalar (25 cm.),40.0
+F787D4F4-79B7-4092-B61A-24EEF0EA1742,Kavurmalı Pizza (Orta),"23,00 TL",Orta Boy Pizzalar (25 cm.),40.0
+806b3e25-31ec-491a-8c3f-be61661fcfd4,İtalyan Pizza (25 cm.),"21,00 TL",Orta Boy Pizzalar (25 cm.),40.0
+9ac35d8e-71f7-4ac0-b442-84ec0360ae5a,Margherita Pizza (25 cm.),"21,00 TL",Orta Boy Pizzalar (25 cm.),40.0
+c3495b3a-2fa0-4600-b125-b0b4d59870c7,Veggie Pizza (25 cm.),"21,00 TL",Orta Boy Pizzalar (25 cm.),40.0
+da4bffbb-77bf-4c87-be46-97f86e8170d8,Karışık Pizza (30 cm.),"25,00 TL",Büyük Boy Pizzalar (30 cm.),47.0
+9d809d7e-908e-4122-8bba-a19b2278356f,Ton Balıklı Pizza (30 cm.),"27,00 TL",Büyük Boy Pizzalar (30 cm.),40.0
+CE170EE7-27F5-423D-B64A-384C9C5342ED,Kavurmalı Pizza (Büyük),"27,00 TL",Büyük Boy Pizzalar (30 cm.),40.0
+fdeef234-8022-43da-9877-050dacc9c5ec,İtalyan Pizza (30 cm.),"25,00 TL",Büyük Boy Pizzalar (30 cm.),40.0
+0490962b-02b8-4699-b9bd-a686fec2dde4,Margherita Pizza (30 cm.),"25,00 TL",Büyük Boy Pizzalar (30 cm.),40.0
+8f193e02-c755-4cc6-aee0-9727f3350959,Veggie Pizza (30 cm.),"25,00 TL",Büyük Boy Pizzalar (30 cm.),40.0
+e89ef230-ea8f-4a8a-994b-0fb6d511a7e3,Sac Tava,"32,00 TL",Diğer Lezzetler,5.0
+cd23d232-5c6c-4db3-99de-e1f5b1a32a47,Güveçte Et,"32,00 TL",Diğer Lezzetler,2.0
+b4e40ff8-d7b9-48ee-805d-1035cfe8099c,Güveçte Tavuk,"30,00 TL",Diğer Lezzetler,5.0
+36b46dbc-e404-4657-9dee-a37a044fdd12,Kızartma İçli Köfte (Adet),"7,00 TL",Yan Ürünler,3.0
+EDCBE070-19B2-4A32-831A-59D8B75605E6,Çiğ Köfte (200 gr.),"17,00 TL",Yan Ürünler,5.0
+80EE7C71-42D2-4742-9D76-63D72BB34CDF,Patates Kızartması,"6,00 TL",Yan Ürünler,5.0
+3055f235-24bd-4c1c-83a4-5a8a82c56afe,Çiğ Köfte (6 Sıkım),"9,00 TL",Yan Ürünler,5.0
+0E3E9254-4074-4101-BBF7-88F98A87C75A,Soğan Salatası,"1,00 TL",Yan Ürünler,4.0
+C13A1379-D36D-4661-8093-E78898ECCD97,Mevsim Salata,"1,00 TL",Yan Ürünler,6.0
+e8be06aa-495e-4a9a-aefa-f2444cbab8d2,Poşet,"0,25 TL",Poşet,5.0

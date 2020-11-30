@@ -1,0 +1,43 @@
+food_id,food_name,food_price,food_category,food_score
+a9cec621-c45f-48a9-b2fa-7e18daefdafe,Pattonion Burger,"23,90 TL",Burgerler,3.0
+80a12c6a-88b0-4993-b0d7-df2187fbade9,Zuccuk Burger,"27,90 TL",Burgerler,3.0
+dabb089f-b76f-47a3-b2f7-da55edf0d7e4,Deep Sea Burger,"27,90 TL",Burgerler,3.0
+02ba75ef-9bfb-4bbf-94a6-67e9d6f234f0,Hot Doggie,"26,90 TL",Hot Dogs,6.0
+73615446-80B1-4E36-A2EE-E0DEE45FCDEE,Pane Kalamar Halkası (100 gr.),"39,90 TL",Aperitifler,5.0
+1F95FBE6-2DFB-47B6-8BBD-36FB5770C13F,Çıtır Tavuk Fileto (100 gr.),"11,90 TL",Aperitifler,7.0
+7F99D840-9F61-4AFC-802B-DEAB50D7DE7D,Cheese Fingers (4 Adet),"13,90 TL",Aperitifler,6.0
+94773499-40D4-404D-BACE-DF5078F8E7E9,Fish Fingers (4 Adet),"21,90 TL",Aperitifler,5.0
+79F0BBB7-0709-4FB9-81A8-25CA3FF5BDA3,Sheriff's Kızartma İçli Köfte,"14,90 TL",Aperitifler,1.0
+2A8787F7-3BE9-4D08-B60F-748D375D6137,Sheriff's Paçanga Böreği,"14,90 TL",Aperitifler,5.0
+b6cce8ce-bfda-4d88-9eb4-9185b812d1f7,Akdeniz Lokumu (4 Adet),"15,90 TL",Aperitifler,7.0
+be2f4b0e-59c9-47a0-a53e-4823c2fd3a67,Sheriff Fish Fingers (4 Adet),"21,90 TL",Aperitifler,5.0
+83f1ec12-f331-44d2-beba-6919b00e79da,Sheriff Fish Fingers (6 Adet),"30,90 TL",Aperitifler,5.0
+58277603-86f9-43e6-9c00-569e9bc40771,Sheriff Pane Kalamar Halkası (100 gr.),"39,90 TL",Aperitifler,5.0
+ae75bf49-d0fb-4608-807d-fd4683cb7ef4,Sheriff Parmak Patates Kızartması (200 gr.),"9,90 TL",Aperitifler,12.0
+fb48e83d-ca60-4722-b893-76518aaefc46,Sheriff Parmak Patates Kızartması (300 gr.),"12,90 TL",Aperitifler,12.0
+cef8d59a-cfb0-4040-afc8-0583d7af3852,Sheriff Parmak Patates Kızartması (400 gr.),"15,90 TL",Aperitifler,12.0
+8e919687-f437-445b-be5f-ef875fc56c00,Sheriff Parmak Patates Kızartması (500 gr.),"17,90 TL",Aperitifler,12.0
+b8fd5eb4-f071-416b-bd47-b74cc65b9cb9,Sheriff Cheese Fingers (4 Adet),"13,90 TL",Aperitifler,6.0
+3ce3033c-1b26-4490-8d42-b98bf20bcaac,Sheriff Cheese Fingers (6 Adet),"18,90 TL",Aperitifler,6.0
+e5e3b9ac-5629-4883-b3c8-1d66854af01d,Sheriff Cheese Fingers (8 Adet),"23,90 TL",Aperitifler,6.0
+056b676e-a4f0-4ad1-a1dc-48cc7d4d9b57,Sheriff Cheese Fingers (12 Adet),"31,90 TL",Aperitifler,6.0
+d5cc17d5-d973-4592-b1f0-33f52f8c69e3,Sheriff Çıtır Tavuk Fileto (100 gr.),"11,90 TL",Aperitifler,7.0
+942a9ad7-f1af-41e2-b2cd-669dd8f5182a,Sheriff Çıtır Tavuk Fileto (200 gr.),"19,90 TL",Aperitifler,7.0
+2ace533e-13b3-4c69-8868-a90c8ad1eaa1,Sheriff Çıtır Tavuk Fileto (300 gr.),"27,90 TL",Aperitifler,7.0
+ce25d362-ba59-4a6f-ac85-118e430283c4,Algida Maraş Usulü Cup Dondurma (100 ml.),"5,00 TL",Dondurmalar,5.0
+D2D11BEC-FA63-4F5F-BBF4-AA16CB55E3AD,Magnum Double Karadut Böğürtlen (95 ml.),"8,00 TL",Dondurmalar,5.0
+24789F27-5CCD-456B-AD37-D97E62958237,Magnum Classic (100 ml.),"7,50 TL",Dondurmalar,4.0
+8634A7AB-0393-4E1E-8D33-3043DD7B0C56,Algida Cornetto Disc Oreo (140 ml.),"7,00 TL",Dondurmalar,5.0
+757C1D7B-872D-4FFE-A255-C8217B10F1D3,Algida Cornetto Disc Milka (140 ml.),"7,00 TL",Dondurmalar,5.0
+31E2C1DF-CB80-4911-9C8C-686FA0A0BF89,Algida Cornetto Disc Vanilla & Karamel (140 ml.),"7,00 TL",Dondurmalar,6.0
+EBFBCF9A-3854-402F-9F57-966494AE7C8A,Algida Carte d'Or Volcano Cup,"10,00 TL",Dondurmalar,5.0
+EAF129FD-A140-4633-90DD-4A761090168F,Algida Carte d'Or Mini Cup Çikolata Karnavalı (110 ml.),"5,00 TL",Dondurmalar,5.0
+885F89F9-FB0E-4A6A-B18E-0391853FA33F,Algida Carte d'Or Mini Cup Çilekli Yoğurtlu (110 ml.),"5,00 TL",Dondurmalar,5.0
+BB4A1A4F-3621-40D5-BDFE-E08FEBE46260,Algida Unicornetto (135 ml.),"5,50 TL",Dondurmalar,5.0
+0c138039-3057-47ef-9863-0800a91849bf,Coca-Cola Energy (25 cl.),"7,90 TL",İçecekler,5.0
+b172dfe6-1234-4a7c-94a1-bc4a367af1c6,Uludağ Gazoz (25 cl.),"5,90 TL",İçecekler,5.0
+e5660188-b34a-43ff-8f3d-0524b80aed61,Uludağ Portakallı Gazoz (25 cl.),"5,90 TL",İçecekler,5.0
+badd373b-e90f-484f-8596-8ee57bcff9fe,Uludağ Limonata (25 cl.),"5,90 TL",İçecekler,5.0
+4eda80bf-12e3-4960-a487-0b0b1baed2f9,Schweppes Bitter Lemon (25 cl.),"5,90 TL",İçecekler,5.0
+aac943af-b230-4435-bda7-4af38461f271,Schweppes Mandarin (25 cl.),"5,90 TL",İçecekler,5.0
+f79602c7-eefb-4a1e-a302-743b3c4633ed,Su (40 cl.),"2,90 TL",İçecekler,7.0

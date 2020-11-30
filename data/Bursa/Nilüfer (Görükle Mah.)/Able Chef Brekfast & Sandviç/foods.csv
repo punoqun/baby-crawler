@@ -1,0 +1,84 @@
+food_id,food_name,food_price,food_category,food_score
+9ad1a02e-75e1-481e-bbb0-2fe7d48d954f,2'li Special Tost Menü,"35,00 TL",Menüler,24.0
+7706f6cf-48ed-4651-8fa8-455c6378eaae,2'li Klasik Tost Menü,"28,00 TL",Menüler,25.0
+18dad3b2-4af2-453a-a8d7-85ebe4cb2de0,2'li Gözleme Menü,"33,00 TL",Menüler,5.0
+1fd7ba28-9b89-4005-93ad-ad580ed9c98c,2'li Atom Ekmek Arası Et Kavurma Menü,"35,00 TL",Menüler,5.0
+abe7f7d3-a22f-471b-8874-192a3bb941d4,2'li Atom Ekmek Arası Kumru Menü,"28,00 TL",Menüler,9.0
+c1ab910b-33d5-4b92-9e26-2dcdcc26be5a,2'li Atom Ekmek Arası Köfte Menü,"33,00 TL",Menüler,3.0
+4214cd2b-47d7-43c9-a8ce-4d68d9cc3aeb,Sade Omlet,"8,00 TL",Omletler,5.0
+32240b12-caaa-463d-96cd-584b7946aad9,Sucuklu Omlet,"10,00 TL",Omletler,5.0
+cf63e82d-c0ea-4386-a797-eaec0e4b9997,Kaşarlı Omlet,"10,00 TL",Omletler,5.0
+e0abe613-9911-4514-a724-502f9cdb13bc,Sucuklu Kaşarlı Omlet,"11,00 TL",Omletler,5.0
+ffe853c4-9cfa-4261-808a-1b671cfeab3e,Kavurmalı Omlet,"14,00 TL",Omletler,5.0
+9a5b9e66-a834-41e2-b887-3ab66629a9d6,Pastırmalı Omlet,"15,00 TL",Omletler,5.0
+2135a730-c041-421f-b3ec-de4c4b5e76bd,Bazlama Ekmeğine Atom Tost,"15,00 TL",Bazlama Tostlar,27.0
+4f7a1d5c-7ca9-46ad-9b45-387157131aea,Bazlama Ekmeğine Spesiyal Tost,"15,00 TL",Bazlama Tostlar,29.0
+4fbc17f7-a015-4dba-abf2-2a808bcdad2e,Bazlama Ekmeğine Yumurtalı Karışık Tost,"14,00 TL",Bazlama Tostlar,29.0
+5c1daa3f-5366-4f1a-a17b-99759981bc4a,Bazlama Ekmeğine Yumurtalı Kavurmalı Tost,"17,00 TL",Bazlama Tostlar,27.0
+663a4073-7af4-4fa0-aa1f-9fd67275ccc0,Bazlama Ekmeğine Sucuklu Tost,"11,00 TL",Bazlama Tostlar,27.0
+9e5c7230-0560-47e4-81ca-bfedcc7b01bf,Bazlama Ekmeğine Karışık Tost,"12,00 TL",Bazlama Tostlar,29.0
+a455cefe-dcb9-4cbc-9989-b26624201981,Bazlama Ekmeğine 3 Peynirli Tost,"14,00 TL",Bazlama Tostlar,69.0
+db94dd75-a997-4e09-82ec-d6e239313bfe,Bazlama Ekmeğine Yumurtalı Kaşarlı Tost,"12,00 TL",Bazlama Tostlar,27.0
+e06066f8-786b-4973-8c5a-70a281cf75c9,Bazlama Ekmeğine Kaşarlı Tost,"11,00 TL",Bazlama Tostlar,27.0
+6bc9426f-7b7e-4aa0-9629-82c2a59461a4,Bazlama Ekmeğine Kavurmalı Kaşarlı Tost,"16,00 TL",Bazlama Tostlar,27.0
+f5992185-7610-4e54-bec4-59b97e030035,Bazlama Ekmeğine Pastırmalı Kaşarlı Tost,"16,00 TL",Bazlama Tostlar,27.0
+33119eae-45fe-4442-a6f4-b499eab840a7,Bazlama Ekmeğine Chef Special,"16,00 TL",Bazlama Tostlar,8.0
+1e9f7bfd-f527-43bb-bfc2-d69f4a953b1d,Bazlama Ekmeğine Füme Etli Kaşarlı Tost,"15,00 TL",Bazlama Tostlar,27.0
+0a813863-9981-4ea5-8ee3-b83512a98e38,Bazlama Ekmeğine 3 Beyazlı Tost,"14,00 TL",Bazlama Tostlar,67.0
+5f94cdd4-edc5-4579-9e5b-d4fb454ada51,Bazlama Ekmeğine Protein Tost,"17,00 TL",Bazlama Tostlar,27.0
+955cbc03-bfb1-4886-ab62-5565db32b138,Bazlama Ekmeğine Meksika Tost,"14,00 TL",Bazlama Tostlar,27.0
+87fe1003-ab6d-436a-bf2e-07932ff5a4e8,Bazlama Ekmeğine Acısever Tost,"17,00 TL",Bazlama Tostlar,27.0
+5365a761-e170-4607-bf51-d5cadb78f39e,Bazlama Ekmeğine Sucuklu Protein Tost,"15,00 TL",Bazlama Tostlar,27.0
+5b2dc585-07cb-4443-afbf-2668d4170c06,Bazlama Ekmeğine Acılı Başkan Tost,"17,00 TL",Bazlama Tostlar,27.0
+38d9e4e8-5f00-40d7-978a-38133098329b,Bazlama Ekmeğine Eti Bol Tost,"17,00 TL",Bazlama Tostlar,32.0
+3a3af831-db0e-4f7e-bb27-c5b712fc3bdc,3 Peynirli Tost,"12,00 TL",Tostlar,65.0
+b148927c-f954-41c1-a03d-b0b665fddd91,Atom Tost,"13,00 TL",Tostlar,23.0
+3b78d2d6-d36f-4866-9f7b-9b5ae2053bac,Karışık Tost,"10,00 TL",Tostlar,30.0
+fa89c762-c38f-44fb-890e-8df41b423760,Kaşarlı Tost,"9,00 TL",Tostlar,23.0
+c9e24b77-f82c-4127-9737-858cb44d05c8,Spesiyal Tost,"13,00 TL",Tostlar,25.0
+933bca58-4522-48bc-b411-3edf84d0af50,Sucuklu Tost,"9,00 TL",Tostlar,23.0
+a7dad00f-e734-4529-b2ab-f34d26a87419,Yumurtalı Karışık Tost,"12,00 TL",Tostlar,25.0
+540aece4-b02c-4f42-a100-d11e6d0a5cb6,Yumurtalı Kaşarlı Tost,"10,00 TL",Tostlar,23.0
+20000148-3b54-4bb9-b489-1b370cc9b1ff,Yumurtalı Kavurmalı Tost,"15,00 TL",Tostlar,23.0
+a38e0e3e-d362-4cdf-a263-8c8999000baa,Yumurtalı Sucuklu Tost,"10,00 TL",Tostlar,23.0
+335b9c99-f8d5-4530-bd87-299cc09c0118,Yumurtalı Tost,"9,00 TL",Tostlar,23.0
+a43d2715-7b1b-4a5c-8a6f-0d9eae78227a,Kavurmalı Kaşarlı Tost,"16,00 TL",Tostlar,23.0
+27d3817b-32db-4321-bed9-be35a1c20dac,Pastırmalı Kaşarlı Tost,"15,00 TL",Tostlar,23.0
+6c655795-4dc4-46c2-9957-33a5d08593ce,Chef Special,"15,00 TL",Tostlar,4.0
+fffe563c-ae0e-4b1a-a888-bb210baa1c25,Füme Etli Kaşarlı Tost,"14,00 TL",Tostlar,23.0
+fafe6a4b-352a-4c41-848b-ae8910dc27b2,3 Beyazlı Tost,"12,00 TL",Tostlar,63.0
+3d5126d1-b69a-4b67-b023-135b2d151037,Protein Tost,"15,00 TL",Tostlar,23.0
+5004c829-47d7-4392-8310-4e7072753a67,Meksika Tost,"13,00 TL",Tostlar,23.0
+5cc896b3-06d0-47d1-a90b-365401d505e2,Acısever Tost,"15,00 TL",Tostlar,23.0
+458b6d18-3f7f-4c8d-9da5-13ed41d258a4,Sucuklu Protein Tost,"15,00 TL",Tostlar,23.0
+2facb284-bfc1-44ed-913c-319b03cdc3b9,Acılı Başkan Tost,"15,00 TL",Tostlar,23.0
+544be62f-9184-4149-a909-b06d6b56104e,Eti Bol Tost,"15,00 TL",Tostlar,28.0
+8a1ee113-a1b3-4ff7-8b89-cc6450c5d04f,Ekmek Arası Anne Köftesi,"13,00 TL",Ekmek Arası Ürünler,5.0
+b498c359-bd84-49b8-bde9-c400f9ce0689,Bazlama Ekmek Arası Anne Köftesi,"15,00 TL",Ekmek Arası Ürünler,9.0
+9d87ce8e-b88f-460f-9771-89d7dcc1014c,Atom Ekmek Arası Et Kavurma,"14,00 TL",Ekmek Arası Ürünler,3.0
+a490d475-37a1-4afb-a649-423a1ae5e3d4,Bazlama Ekmek Arası Et Kavurma,"15,00 TL",Ekmek Arası Ürünler,7.0
+6272cce8-b701-43fa-8a9d-a9cf80cbae42,3 Peynirli Gözleme,"14,00 TL",Gözlemeler,45.0
+92bca032-5875-4e5f-8fca-263c9548ed72,Çikolatalı Gözleme,"15,00 TL",Gözlemeler,6.0
+7df147d7-ea8d-4674-9d93-d21d9d70ab0e,Kaşarlı Gözleme,"12,00 TL",Gözlemeler,3.0
+ab459a96-938e-4ff4-94ea-43f4ad9c21b7,Kavurmalı Kaşarlı Gözleme,"17,00 TL",Gözlemeler,3.0
+4c1b971c-4250-46c2-a781-1e2a16a11b3b,Kumru Gözleme,"14,00 TL",Gözlemeler,7.0
+e0ac2d05-d811-4689-84c5-eb9cbb7b43a6,Sosisli Gözleme,"12,00 TL",Gözlemeler,3.0
+31991557-bb61-45e4-ad4c-91ac5099842c,Sosisli Kaşarlı Gözleme,"13,00 TL",Gözlemeler,3.0
+393ffa6e-20e4-4ba1-a632-45aa90c34ea1,Sucuklu Gözleme,"13,00 TL",Gözlemeler,3.0
+3e858665-5a8d-45eb-a293-885c9ce19af1,Sucuklu Kaşarlı Gözleme,"13,00 TL",Gözlemeler,3.0
+00bd9ad0-54b6-451e-b099-7ab357f9721c,Sosisli Sandviç,"10,00 TL",Sandviçler,7.0
+13dceb1b-e085-4ea4-ba8e-2ed859379c61,Kaşarlı Sosisli Sandviç,"11,00 TL",Sandviçler,7.0
+1e79edb6-d5f7-4c8f-9eeb-efe37707a786,Şnitzel Sandviç,"10,00 TL",Sandviçler,7.0
+217030f0-0950-43c4-811d-19f2cc70a6a1,Kendi Sandviçini Kendin Yap,"5,00 TL",Sandviçler,5.0
+25759fbc-464b-482a-927d-230df5ef2777,Anadolu Sandviç,"10,00 TL",Sandviçler,7.0
+69d16c4e-38de-4442-8d74-563212895e01,Ekmek Arası Sucuk,"11,00 TL",Sandviçler,6.0
+98cc5b2b-a2ab-43c9-86c5-213d2a927c45,Bazlama Ekmeğine Kumru Sandviç,"12,00 TL",Sandviçler,15.0
+a0608181-99a1-48ac-947c-f38d0577e18f,Kumru Sandviç,"11,00 TL",Sandviçler,16.0
+b090ccce-20fc-41cf-b17e-7e536a87bfa5,Bazlama Ekmeğine Kaşarlı Sosisli Sandviç,"12,00 TL",Sandviçler,11.0
+d5cb6b66-a071-46d3-a5cb-ab91cb58ed6d,Bazlama Ekmeğine Anadolu Sandviç,"12,00 TL",Sandviçler,11.0
+8f11c78e-78f5-4cff-bd9a-e130de540d5a,Kıymalı Mantı,"15,00 TL",Mantılar,5.0
+527cf264-1d4f-498d-b67d-a0676eba7bbb,Rus Salatası,"10,00 TL",Aperitifler,5.0
+6ec4cc4b-51c7-4c5d-894d-d471869c8388,Çerez Tabağı,"15,00 TL",Aperitifler,5.0
+aed135b6-5dcd-4f1b-ae60-3fef74aa58f4,Kızartma Tabağı,"15,00 TL",Aperitifler,5.0
+53978a9d-1417-4c03-86df-71e2e2c68e8b,Double Patates Kızartması,"7,00 TL",Aperitifler,7.0
+ad525457-e38a-40f4-8169-5407376c7b63,Poşet,"0,25 TL",Poşet,5.0

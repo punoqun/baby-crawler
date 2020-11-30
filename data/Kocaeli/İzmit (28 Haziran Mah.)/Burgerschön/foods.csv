@@ -1,0 +1,49 @@
+food_id,food_name,food_price,food_category,food_score
+602353b3-bb47-408a-aa00-f42c1c5e3e27,Sosisli Sandviç Menü,"28,50 TL",Sandviç Menüleri,8.0
+55ba66e4-7b32-40e2-ab32-c64e6e928e43,Jön Tavuk Menü,"17,50 TL",Sandviç Menüleri,21.0
+18d5e383-52f1-4a42-989d-bb0512381677,Jambonlu Burger (60 gr.) Menü,"26,50 TL",Burger Menüleri,15.0
+2fbb7c9d-432a-4609-8d9d-28d31f63965a,Fümeli Burger (120 gr.) Menü,"37,50 TL",Burger Menüleri,15.0
+476fc568-4c92-423e-b4d8-8b55c82ff703,Hamburger (60 gr.) Menü,"23,00 TL",Burger Menüleri,19.0
+6a86b7d9-3b74-4f6f-b9fc-550cd1c3f15f,Hellim Peynirli Burger (120 gr.) Menü,"35,00 TL",Burger Menüleri,17.0
+8a241cfe-3900-4dbd-bbd9-fbe1deb8bef4,Hamburger (120 gr.) Menü,"29,50 TL",Burger Menüleri,24.0
+8ddd54e1-0e4a-4089-92bc-834954feea33,Pastırmalı Burger (120 gr.) Menü,"37,50 TL",Burger Menüleri,15.0
+94ae95b2-29ce-4099-a859-d723709b7923,Cheeseburger (120 gr.) Menü,"32,50 TL",Burger Menüleri,15.0
+9ef5a8e9-45e7-499e-8b85-9d3f517cc090,Cheeseburger (60 gr.) Menü,"25,00 TL",Burger Menüleri,10.0
+c9c52b43-c49f-4c4c-9086-9ad4a6eacef9,Schön Burger Menü,"48,50 TL",Burger Menüleri,17.0
+cc906884-698d-4abb-9479-d9aeb053ad84,Jambonlu Burger (120 gr.) Menü,"35,00 TL",Burger Menüleri,15.0
+cf7fb29c-374f-4aa0-a0b4-e11f6a497295,Pastırmalı Burger (60 gr.) Menü,"27,50 TL",Burger Menüleri,15.0
+d2f2f5e4-ed56-4950-a3ba-652e10d71eed,Fümeli Burger (60 gr.) Menü,"27,50 TL",Burger Menüleri,15.0
+d37710c8-db6d-48fc-a220-f0ad8d35d611,Hellim Peynirli Burger (60 gr.) Menü,"27,50 TL",Burger Menüleri,17.0
+d4aa873b-220d-4fa0-8cf9-1562a3b9c47a,Tavuk Burger Menü,"21,00 TL",Burger Menüleri,21.0
+dfa411f8-744e-4030-9885-afc54a9deb5d,Sosisli Sandviç,"21,00 TL",Sandviçler,5.0
+2b102a57-c3bc-4925-8217-ab4cfaf388b7,Hamburger (60 gr.),"11,00 TL",Burgerler (60 gr.),16.0
+dbc5ec2e-6f40-46f1-9234-46eae2222fda,Cheeseburger (60 gr.),"13,00 TL",Burgerler (60 gr.),7.0
+f7d97e8a-2a98-475a-ac59-e046456c9638,Fümeli Burger (60 gr.),"15,00 TL",Burgerler (60 gr.),12.0
+2c8a03cf-69d1-4e9f-9516-3dc019c46708,Pastırmalı Burger (60 gr.),"15,00 TL",Burgerler (60 gr.),12.0
+5977ca82-0d1b-4be8-95d1-11be335971af,Hellim Peynirli Burger (60 gr.),"14,00 TL",Burgerler (60 gr.),14.0
+89e78315-5a12-4c46-b9db-ec34ed6ed48a,Jambonlu Burger (60 gr.),"14,00 TL",Burgerler (60 gr.),12.0
+392b9109-22fc-40df-86ad-29f77c7c9dd7,Hamburger (120 gr.),"18,50 TL",Burgerler (120 gr.),16.0
+f607d07c-8005-42db-80b8-8506f7173cc3,Cheeseburger (120 gr.),"21,50 TL",Burgerler (120 gr.),7.0
+ddc5059a-9696-415d-807e-7547e34ce596,Fümeli Burger (120 gr.),"27,50 TL",Burgerler (120 gr.),12.0
+3336eebd-373c-463f-8132-b75222e7f81a,Pastırmalı Burger (120 gr.),"26,00 TL",Burgerler (120 gr.),12.0
+bdeba021-7ea6-437d-b6f1-2d8a7feed79a,Hellim Peynirli Burger (120 gr.),"24,00 TL",Burgerler (120 gr.),14.0
+55824ea8-5ae6-4dff-ace4-a345bcbeacf7,Jambonlu Burger (120 gr.),"24,00 TL",Burgerler (120 gr.),12.0
+45f62ac1-b760-4ade-a9f5-64836939395d,Schön Burger,"39,00 TL",Diğer Burgerler,14.0
+cea6dcb7-7259-44bf-aac6-c6e2b99e7cf3,Tavuk Burger,"10,00 TL",Diğer Burgerler,18.0
+21932b9c-d27a-489c-805d-5de22cb0129e,Çıtır Top (12 Adet),"9,00 TL",Aperitifler,5.0
+56ca6542-9a51-4b0a-8f3f-92ef3bf082fb,Patates Kızartması (200 gr.),"9,00 TL",Aperitifler,13.0
+d4490e0d-7901-4c01-8856-6c3e01763dfa,Soğan Halkası (8 Adet),"9,00 TL",Aperitifler,5.0
+e95693f9-fb28-410b-9d14-d19f91c15a21,Tavuk Nugget (6 Adet),"9,00 TL",Aperitifler,11.0
+73cc42bb-119c-448d-8722-8bb21005f4bc,Hellim Salata,"19,90 TL",Salatalar,7.0
+845edd25-0ca4-47dc-a650-b7c761b60384,Ton Balıklı Salata,"19,90 TL",Salatalar,5.0
+6556d082-51fe-48f8-a9bc-616e32922526,Tavuklu Salata,"19,90 TL",Salatalar,5.0
+9b7d1300-8844-4073-bd00-9adcce254126,Mevsim Salata,"19,90 TL",Salatalar,5.0
+cb9da31a-f89d-4453-afdd-7e648b14f4a6,Sufle,"11,50 TL",Tatlılar,8.0
+912FEF56-FF81-496A-B71C-C272A46C9901,Algida Maraş Usulü Dondurmalı Supangle (125 ml),"13,00 TL",Dondurmalar,5.0
+70A420B3-A7DA-4E43-938C-1AB59DA2ED83,Carte d'Or Monoportion Çikolata Karnavalı (105 ml.),"7,00 TL",Dondurmalar,5.0
+EB6442BC-D42A-4CC1-9A56-338734ED0D7D,Carte d'Or Monoportion Çilek Yoğurt (105 ml.),"7,00 TL",Dondurmalar,5.0
+2C8DDEA0-CDEB-4572-9D7E-090DEF5C7F14,Algida Carte d'Or Volcano Cup (160 ml.),"13,00 TL",Dondurmalar,5.0
+783f4431-6a95-4280-af3b-f4492f0eeb95,Vanilyalı Milkshake,"6,00 TL",Milkshakes,1.0
+928dd61e-7906-4cdb-9f16-f07a2f9652d5,Muzlu Milkshake,"6,00 TL",Milkshakes,1.0
+97fce9cd-f549-4de5-b3ec-3debd766f07b,Çilekli Milkshake,"6,00 TL",Milkshakes,1.0
+ea3e3414-723a-4ae5-a830-de19072e6cb0,Kakaolu Milkshake,"6,00 TL",Milkshakes,1.0

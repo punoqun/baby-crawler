@@ -1,0 +1,35 @@
+food_id,food_name,food_price,food_category,food_score
+61E4373D-3663-4B1E-A7CC-CC6B2BECC303,Dana Sucuklu Tost Menü,"18,00 TL",Menüler,9.0
+a8ec2496-39b8-4da9-8fe0-3894872a5c01,XL Kahvaltı Tabağı,"25,00 TL",Kahvaltılıklar,9.0
+a63f65b3-9bda-47c3-a7e9-c9b1cfcf0f89,Özel Yumurtalı Simit Tava,"15,00 TL",Kahvaltılıklar,2.0
+bd98ca0b-4396-417b-bba5-c408ae3a6289,Sucuklu Menemen,"12,00 TL",Menemenler,21.0
+d9cb6b0a-c118-4e46-b154-78b392cd8940,Kaşarlı Menemen,"12,00 TL",Menemenler,19.0
+fc614377-0736-4da6-9ac0-a703cb2b5fe3,Karışık Menemen,"14,00 TL",Menemenler,26.0
+4996d710-fb99-4a22-9fe2-7a89509a6dd8,Sahanda Tereyağlı Yumurta,"10,00 TL",Sahanda Yumurtalar & Omletler,5.0
+c5a5dc54-64ad-42f1-a164-cb8252416e6b,Biberli Yumurta,"11,00 TL",Sahanda Yumurtalar & Omletler,5.0
+493ba85e-84d6-47f8-bd29-feae4461e87a,Kaşarlı Yumurta,"10,00 TL",Sahanda Yumurtalar & Omletler,5.0
+39201e10-e843-4f34-9ad6-07b22ea411f3,Sosisli Yumurta,"11,00 TL",Sahanda Yumurtalar & Omletler,5.0
+fe86201d-a883-484e-9399-bcba3eb46fcb,Patatesli Yumurta,"11,00 TL",Sahanda Yumurtalar & Omletler,5.0
+01ff8c73-45c9-440d-b7ca-15008c48c04b,Sucuklu Yumurta,"14,00 TL",Sahanda Yumurtalar & Omletler,7.0
+6eaea5cd-f06f-40aa-8a9c-2e363e5e5d67,Sucuklu Kaşarlı Yumurta,"15,00 TL",Sahanda Yumurtalar & Omletler,7.0
+8c16b011-d80a-452a-b296-9f2d25ec41cf,Sade Omlet,"10,00 TL",Sahanda Yumurtalar & Omletler,5.0
+f2fa2b00-00d7-4255-a29b-0c4487a7a7bb,Kaşarlı Omlet,"11,00 TL",Sahanda Yumurtalar & Omletler,5.0
+79f8ff03-d01d-4abe-a0cb-1820b3da0fe1,Sucuklu Omlet,"12,50 TL",Sahanda Yumurtalar & Omletler,7.0
+0afe8cb2-5b32-4721-ae87-0cf5f8eac728,Sosisli Omlet,"11,00 TL",Sahanda Yumurtalar & Omletler,5.0
+584b5d54-630c-4e0b-81bf-b4cdc120441c,Karışık Omlet,"14,00 TL",Sahanda Yumurtalar & Omletler,7.0
+A0B8988A-AED0-4C73-B26E-EF07AD172901,Ekşimikli Biberli Yumurta,"12,00 TL",Sahanda Yumurtalar & Omletler,5.0
+ae5198fe-f347-46e3-a3de-03baa0e3170a,Kaşarlı Tost,"9,00 TL",Tostlar,7.0
+5f6599c2-9592-48a5-ab35-48b28344f13d,Sucuklu Tost,"10,00 TL",Tostlar,9.0
+cf9f51a1-6981-4075-9fcd-c1f0f8998782,Patso Sandviç,"11,00 TL",Sandviçler,5.0
+7c6532e2-cc8d-42eb-a981-2eb693bb6eae,Patka Sandviç,"10,00 TL",Sandviçler,7.0
+e8552a3e-0e53-4c97-9a3c-79956c6132a7,Köfte Sandviç,"10,00 TL",Sandviçler,5.0
+3b1a3f4c-4e34-4b90-962a-301bc6cad68a,Soğuk Sandviç,"10,00 TL",Sandviçler,5.0
+3cd4df0f-e491-4474-9f38-fbe1f52fe835,Kaşarlı Sosisli Patso Sandviç,"12,00 TL",Sandviçler,5.0
+6ac76130-3050-48b1-9330-fd46b7090f93,Kumru Sandviç,"12,00 TL",Sandviçler,4.0
+acddd105-2e75-4fa9-902e-26bb6f864a12,Patates Kızartması (Küçük),"10,00 TL",Yan Ürünler,4.0
+d4720e42-6d76-4579-87f1-e63d42cd5e56,Patates Kızartması & Sosis (Küçük),"11,00 TL",Yan Ürünler,4.0
+906A34AA-29D6-4738-8E66-C594594F9ED7,Patates Tabağı (Büyük),"12,00 TL",Yan Ürünler,4.0
+C599BFA9-C975-4B05-A312-3CE61FF88B02,Patates & Sosis Tabağı (Büyük),"14,00 TL",Yan Ürünler,4.0
+93f88374-6412-4e3e-9d6f-dc0c99073ead,Atıştırma Tabağı,"15,00 TL",Yan Ürünler,5.0
+e79809b7-9d95-49e4-b5e6-22b6ae77e81c,XL Atıştırma Tabağı,"30,00 TL",Yan Ürünler,5.0
+cb4fb798-0073-48a9-893f-24abddf74efa,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,79 @@
+food_id,food_name,food_price,food_category,food_score
+f9aa5540-a99b-4365-ba4d-f09f1f62e587,Menü 1,"34,90 TL",Ekonomik Menüler,33.0
+22a56827-7663-4353-9d2c-77dd396221fe,Menü 2,"39,90 TL",Ekonomik Menüler,20.0
+aff26624-813c-4c05-80c8-0d9d7cc975cd,Menü 3,"69,90 TL",Ekonomik Menüler,12.0
+91d2cbf0-bfce-41d4-9315-4ed68f0396fc,Menü 4,"79,90 TL",Ekonomik Menüler,6.0
+39f85547-c1ba-49db-b011-ca0ac641f955,Menü 5,"43,90 TL",Ekonomik Menüler,16.0
+1bf80187-ed8d-446e-a07a-3dd141bd66a1,Menü 6,"48,90 TL",Ekonomik Menüler,6.0
+0d50d09e-a4b1-40b2-b1f0-4b345d9dc7ce,Menü 7,"87,90 TL",Ekonomik Menüler,6.0
+31328cdd-c7b0-4441-9a50-b7a84fb62007,Menü 8,"97,90 TL",Ekonomik Menüler,5.0
+1de7937e-4a66-4448-be19-31f575dbc4b5,Menü 9,"84,90 TL",Ekonomik Menüler,8.0
+e0842280-f52b-4733-bff6-20609e49568c,Menü 10,"94,90 TL",Ekonomik Menüler,19.0
+53f84b05-7784-4b1c-935a-34e07b32c6a9,Menü 11,"99,90 TL",Ekonomik Menüler,6.0
+f79224c6-6177-4524-b48d-45d40b8ddf75,Menü 12,"108,90 TL",Ekonomik Menüler,6.0
+21ffd568-3f64-48a5-adc9-8de0248275e9,Kampüs Pizza (Orta),"32,90 TL",Standart Orta Boy Pizzalar,30.0
+80a93d75-0dda-4e73-a6e3-bd40c7e9df00,Acılı Pizza (Orta),"32,90 TL",Standart Orta Boy Pizzalar,30.0
+c5485bdc-dde2-416a-b532-c17f7187baf0,Karışık Pizza (Orta),"32,90 TL",Standart Orta Boy Pizzalar,33.0
+04841a6d-9439-4cf1-b4f6-e6f2a1dd065c,Akdeniz Ateşi Pizza (Orta),"32,90 TL",Standart Orta Boy Pizzalar,30.0
+1d8f9c97-56dc-4c81-a93f-7f706b33a346,Barbekü Pizza (Orta),"32,90 TL",Standart Orta Boy Pizzalar,30.0
+8f324213-2b29-4152-af0f-45f1551a6f8a,Veggie Pizza (Orta),"32,90 TL",Standart Orta Boy Pizzalar,30.0
+f6e1973f-525f-443c-8440-771cbd636754,Extra Extra Pizza (Orta),"32,90 TL",Standart Orta Boy Pizzalar,31.0
+ddf63004-2348-47a2-a801-c43e307ae589,Extra Sucuklu Pizza (Orta),"32,90 TL",Standart Orta Boy Pizzalar,31.0
+f382a29a-1df0-4c58-9728-1bc8615c9d3c,İtalyan Pizza (Orta),"32,90 TL",Standart Orta Boy Pizzalar,30.0
+fa9bc5c7-5570-4534-892f-eaffbfb68773,Margarita Pizza (Orta),"32,90 TL",Standart Orta Boy Pizzalar,31.0
+fccaed68-a3a1-4295-8252-9e5d34749f12,Mexican Pizza (Orta),"32,90 TL",Standart Orta Boy Pizzalar,30.0
+1939537e-3356-4148-a2d2-190adba513d3,Sucuklu Pizza (Orta),"32,90 TL",Standart Orta Boy Pizzalar,30.0
+bcb6acb4-0255-47a5-b2a9-987ab26c8eda,Sosisli Pizza (Orta),"32,90 TL",Standart Orta Boy Pizzalar,29.0
+75f7da97-2332-44b5-a91d-8bb118d7fb57,Salamlı Pizza (Orta),"32,90 TL",Standart Orta Boy Pizzalar,30.0
+00dd986e-3f2a-413e-a18a-b1ebd8fcece5,Türk Usulü Pizza (Orta),"32,90 TL",Standart Orta Boy Pizzalar,32.0
+3e0a8d27-1f52-4137-8f9c-0d1d824b978b,Kumru Pizza (Orta),"32,90 TL",Standart Orta Boy Pizzalar,34.0
+50ba395e-087b-4590-a1a3-1960028329e0,Mangal Sucuklu Pizza (Orta),"32,90 TL",Standart Orta Boy Pizzalar,30.0
+9df0f8ec-558c-48ec-ac07-c508a845ade3,Bol Malzemeli Pizza (Orta),"32,90 TL",Standart Orta Boy Pizzalar,32.0
+d2b47ac7-ae0e-4e24-b966-0e470f8a5634,Kampüs Pizza (Büyük),"37,90 TL",Standart Büyük Boy Pizzalar,30.0
+a2fe991d-da57-446d-9b34-b6d8e5e1c854,Acılı Pizza (Büyük),"37,90 TL",Standart Büyük Boy Pizzalar,30.0
+5d6c7a78-80e8-4f1e-b781-59ec2d7f3d8f,Karışık Pizza (Büyük),"37,90 TL",Standart Büyük Boy Pizzalar,33.0
+25a78b2b-3cfb-4faf-930f-7d604940dee8,Akdeniz Ateşi Pizza (Büyük),"37,90 TL",Standart Büyük Boy Pizzalar,30.0
+07facce4-9597-4a07-98b6-0de6374f7ac8,Barbekü Pizza (Büyük),"37,90 TL",Standart Büyük Boy Pizzalar,30.0
+a2fe75de-67d6-417a-a663-a653e28c5a87,Veggie Pizza (Büyük),"37,90 TL",Standart Büyük Boy Pizzalar,30.0
+b4c349fc-5537-43b7-a105-1616cb0fca97,Extra Extra Pizza (Büyük),"37,90 TL",Standart Büyük Boy Pizzalar,31.0
+b7fb63f3-c32e-4843-aea2-2ecfd73d8cbd,Extra Sucuklu Pizza (Büyük),"37,90 TL",Standart Büyük Boy Pizzalar,31.0
+af9941c5-5ca0-42e8-9236-9c7775d9f12e,İtalyan Pizza (Büyük),"37,90 TL",Standart Büyük Boy Pizzalar,30.0
+e2d409e0-18b4-4561-b590-1264727bb75f,Margarita Pizza (Büyük),"37,90 TL",Standart Büyük Boy Pizzalar,31.0
+4daebd5e-11bb-4672-b2b8-357b16b7f1e2,Mexican Pizza (Büyük),"37,90 TL",Standart Büyük Boy Pizzalar,30.0
+4c3f0056-1be4-4a5b-805f-9c8d3b5c3682,Sucuklu Pizza (Büyük),"37,90 TL",Standart Büyük Boy Pizzalar,30.0
+4df04786-926c-4cae-9629-3e35492ba10d,Sosisli Pizza (Büyük),"37,90 TL",Standart Büyük Boy Pizzalar,29.0
+d22b0539-d846-405f-97fa-7229bc3b054c,Salamlı Pizza (Büyük),"37,90 TL",Standart Büyük Boy Pizzalar,30.0
+83c95f66-c451-4811-87ac-cc693c405555,Türk Usulü Pizza (Büyük),"37,90 TL",Standart Büyük Boy Pizzalar,32.0
+2ce98add-c0a7-48da-abff-64f832fc7e06,Kumru Pizza (Büyük),"37,90 TL",Standart Büyük Boy Pizzalar,34.0
+6ee08c1a-06bb-4af6-bc0f-0a2adad5bedb,Mangal Sucuklu Pizza (Büyük),"37,90 TL",Standart Büyük Boy Pizzalar,30.0
+6ccba20a-9598-43c2-8c1c-14c512a5bf0a,Bol Malzemeli Pizza (Büyük),"37,90 TL",Standart Büyük Boy Pizzalar,32.0
+4dcbf993-cf05-4c1f-ae47-6bd0c8e9151c,Balos Spesiyal Pizza (Orta),"39,90 TL",Gurme Orta Boy Pizzalar,31.0
+fbd2d82d-de3f-451a-872e-45bb4aaeb6bd,Füme Kaburga Pizza (Orta),"39,90 TL",Gurme Orta Boy Pizzalar,30.0
+AFF00579-FBEA-4939-923B-8AEA86A5121B,Acılı Dönerli Pizza (Orta),"39,90 TL",Gurme Orta Boy Pizzalar,30.0
+BBE6D471-AB40-4AC8-B536-C502F72E6DC0,Tavuklu Acılı Pizza (Orta),"39,90 TL",Gurme Orta Boy Pizzalar,30.0
+5fc156b4-386e-40fb-89be-3d11ba0f074c,Döner Spesiyal Pizza (Orta),"37,90 TL",Gurme Orta Boy Pizzalar,30.0
+3581ff85-9a27-4877-ba24-a8c2aee5d5cc,Ton Balıklı Pizza (Orta),"37,90 TL",Gurme Orta Boy Pizzalar,30.0
+f1883dea-7080-4e51-b4df-e9e6a50975d5,Barbekü Steak Pizza (Orta),"39,90 TL",Gurme Orta Boy Pizzalar,30.0
+7cfe58ad-a8dc-4404-bfff-bebbf1b57b9d,Barbekü Chicken Pizza (Orta),"37,90 TL",Gurme Orta Boy Pizzalar,30.0
+65491d5b-89b5-488f-bf4d-7a7792481163,Black & White Pizza (Orta),"39,90 TL",Gurme Orta Boy Pizzalar,30.0
+c8347d0d-fe9f-4a54-9908-73caa1d454fb,Turkish Pizza (Orta),"39,90 TL",Gurme Orta Boy Pizzalar,30.0
+446c341e-20ce-4c4c-a4a7-87ebcd2c6584,Çikolatalı Sufle,"9,90 TL",Tatlılar,11.0
+79B59C5E-DE1D-479B-BC00-3C82C16F7F1F,Limonlu Cheesecake,"15,00 TL",Tatlılar,5.0
+FCCB5A2A-8477-49F6-AD97-25B92286A1BF,Balos Cheesecake,"15,00 TL",Tatlılar,6.0
+AC3FD393-6760-48A4-B91A-CF1D15BD46F4,Frambuazlı Cheesecake,"15,00 TL",Tatlılar,5.0
+8F4749C5-D9DD-4410-9BCC-7A409D0665BD,Supangle,"9,90 TL",Tatlılar,5.0
+4DAAD922-9D4E-4786-A77D-61840AA52491,Profiterol,"9,90 TL",Tatlılar,5.0
+492351B9-4F7A-4492-8B6E-A8377146BEA0,Kazandibi,"9,90 TL",Tatlılar,5.0
+A0BFFC57-F25C-49D4-9D91-1B0DA4EBE5F7,Sütlaç,"9,90 TL",Tatlılar,5.0
+CA8346F3-81C4-4C9A-A82A-E849657A461A,Kıbrıs Tatlısı,"9,90 TL",Tatlılar,5.0
+17ab3e27-9766-4f22-97af-dffd1d1e7983,Patates Kızartması,"9,90 TL",Yan Ürünler,6.0
+6bc71432-9896-4f72-bf3d-17f19c44b580,Soğan Halkası,"9,90 TL",Yan Ürünler,4.0
+aa9d2636-93fd-4bc0-abee-1fbd41f2dd9b,Fuse Tea Karpuz (33 cl.),"6,50 TL",İçecekler,5.0
+ffa8b690-464f-49de-896e-0192103be078,Fuse Tea Mango & Ananas (33 cl.),"6,50 TL",İçecekler,5.0
+47291c14-a069-4260-8ac4-122b902130a1,Fuse Tea Limon (33 cl.),"6,50 TL",İçecekler,5.0
+402F9278-F2F9-4C43-A53F-5ACAAE0153E5,Beypazarı Soda (20 cl.),"3,00 TL",İçecekler,5.0
+07266208-1563-4C77-A527-6F411797F65F,Beypazarı Limonlu Soda (20 cl.),"4,00 TL",İçecekler,5.0
+20e782ea-18f7-4a0f-b31d-a94fb6d465c9,Fuse Tea Karpuz (1 L.),"8,50 TL",İçecekler,5.0
+eaace705-2c33-4f65-94e7-fe0624dfeb04,Fuse Tea Mango & Ananas (1 L.),"8,50 TL",İçecekler,5.0
+110bc973-fa62-4956-9cfe-c3d14473bfd2,Fuse Tea Limon (1 L.),"8,50 TL",İçecekler,5.0
+6290e5bb-fdd0-494f-a1a4-301f684c611f,Poşet,"0,25 TL",Poşet,5.0

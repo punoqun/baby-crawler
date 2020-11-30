@@ -1,0 +1,42 @@
+food_id,food_name,food_price,food_category,food_score
+222a9274-e27d-461f-add4-9e2df74be73d,2'li Ayvalık Tost Menü,"41,00 TL",Menüler,10.0
+f7b4d576-e320-4288-95de-95a652221f04,2'li Full Sandviç Menü,"41,00 TL",Menüler,10.0
+cc964d4d-ec78-4af9-ada5-7ad93ed7463e,2'li Jumbo Maxi Sandviç Menü,"41,00 TL",Menüler,11.0
+eb25814c-d2c1-4d2c-b154-0cc4dca70d30,Ayvalık Tostu Menü,"29,90 TL",Menüler,10.0
+d271be1b-7a25-4a7f-809a-f50500ea81b4,Bazlama Ekmeğine Köfte Menü,"32,00 TL",Menüler,5.0
+ac096bc0-b429-4ccc-a85e-df3e8a0c93a4,Bazlama Ekmeğine Sucuklu Kaşarlı Tost Menü,"29,90 TL",Menüler,12.0
+40087d68-4336-4418-902f-2a413bc91b97,Bazlama Ekmeğine Tavuk Döner Menü,"29,90 TL",Menüler,10.0
+5a569ce2-46b8-4b05-afff-1388af711a7b,Bazlama Ekmek Arası Kaşarlı Tavuklu Sandviç Menü,"29,90 TL",Menüler,9.0
+6fb2bffe-7326-4ea9-8534-e0bf0f606f0f,Cheeseburger Menü,"34,50 TL",Menüler,5.0
+799746d3-d2ba-488c-96da-8036e5ba60c9,Dürüm Sandviç (30 cm.) Menü,"29,90 TL",Menüler,10.0
+c696f0a3-4117-426e-9c50-b5fdc277bba3,Farklı İkili Menü,"46,00 TL",Menüler,5.0
+31c5cb40-034e-434e-8ed5-934c94d0153f,Full Karışık Sandviç Menü,"29,90 TL",Menüler,10.0
+65d3f8c2-6c31-4e8f-9f26-e3db967ad845,Hamburger Menü,"31,00 TL",Menüler,4.0
+413668db-a6a8-4704-9b74-0db9069fff64,Köfte Dürüm Menü,"33,00 TL",Menüler,5.0
+19c35c02-2c49-464a-95fd-6f6ede06355a,Maxi Karışık Sandviç Menü,"29,90 TL",Menüler,14.0
+9aef2cb5-b9b2-48d2-b320-bec293045ab9,Sandviç Menü,"29,90 TL",Menüler,10.0
+54ea607a-7817-4215-85c3-fdcd98bf9f93,Sucuklu & Kaşarlı Ayvalık Tostu Menü,"29,90 TL",Menüler,10.0
+234ae342-b8ff-4c13-be84-7294f630f59e,Sucuklu Kaşarlı Dürüm (30 cm.) Menü,"29,90 TL",Menüler,5.0
+aba4861f-22aa-42ca-a7d5-22d7ad3b992f,Sucuklu Kaşarlı Sandviç Menü,"29,90 TL",Menüler,10.0
+b9478230-9371-46c2-bdbc-4a5c895ddcc0,Sucuklu Maxi Sandviç Menü,"29,90 TL",Menüler,9.0
+28617768-28aa-442d-bd64-57bde8dd18f9,Tavuk Döner Dürüm (30 cm.) Menü,"28,50 TL",Menüler,10.0
+09033c24-9549-4dc2-a058-b801c2f23b69,Yarım Ekmek Arası Tavuk Döner Menü,"28,50 TL",Menüler,9.0
+a8bdb2c4-fa6b-4815-9d44-159ef2071232,Ayvalık Ekmeğine Kaşarlı Tost,"18,90 TL",Tostlar,10.0
+935854e6-3a2f-429a-b2fd-9c6e55432b15,Ayvalık Tostu,"18,90 TL",Tostlar,10.0
+3720bc5c-c696-4524-a67b-f8998619c81a,Sucuklu & Kaşarlı Ayvalık Tostu,"18,90 TL",Tostlar,10.0
+4251c2ee-9d14-4b9d-88de-366668a26596,Sosisli Ayvalık Tostu,"18,90 TL",Tostlar,10.0
+9177ef26-f4e5-4ca7-b0a8-56b40fa3f2f6,Full Sandviç,"19,90 TL",Sandviçler,10.0
+6416497a-a05b-4a6d-a495-a8437585b15f,Maxi Karışık Sandviç,"19,90 TL",Sandviçler,14.0
+a5d2dc0f-ab7d-42bf-91f3-406867f926eb,Hamburger,"29,90 TL",Burgerler,4.0
+5eb52d8b-0709-4ce8-8c0a-c5b02da09ac4,Toprak Cheeseburger,"31,90 TL",Burgerler,5.0
+45b13fca-e69b-42b6-8ed4-e274f3ee2154,Sucuklu Kaşarlı Dürüm,"22,50 TL",Dürümler,5.0
+92c4f251-3148-4500-b9f8-75a5faf5bf9f,Sandviç Dürüm (30 cm.),"22,50 TL",Dürümler,10.0
+7f99a994-afcb-46b2-bda4-168af1f36166,Tavuk Döner Dürüm (30 cm.),"22,50 TL",Dürümler,10.0
+c0e175fe-0967-4f7c-b721-fdde3729dd1a,Köfte Dürüm (30 cm.),"25,50 TL",Dürümler,5.0
+76f4f044-aed0-4b96-9f9b-1bd6abf232b6,Patates Kızartması (Küçük),"11,00 TL",Yan Ürünler,10.0
+626ff7eb-18e4-4b1e-a151-dedd7a045880,Patates Kızartması (Büyük),"19,90 TL",Yan Ürünler,10.0
+bb831d0b-a6e6-4a5b-9ccb-dce66d48d880,Mozaik Pasta,"7,95 TL",Tatlılar,10.0
+32dbcf3f-329a-4ed4-8740-851fc01fe96d,Niğde Gazozu (25 cl.),"5,25 TL",İçecekler,5.0
+a512ef44-0252-454e-8bdb-596f8fa5090e,"Su (0,5 cl.)","2,50 TL",İçecekler,5.0
+9af153b0-4f09-49cb-94e2-a8d008a39aa1,Soda (25 cl.),"3,75 TL",İçecekler,5.0
+4d535635-125f-49b1-adcd-7560d6708216,Poşet,"0,25 TL",Poşet,5.0

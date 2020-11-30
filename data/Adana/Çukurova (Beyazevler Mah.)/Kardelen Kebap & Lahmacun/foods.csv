@@ -1,0 +1,28 @@
+food_id,food_name,food_price,food_category,food_score
+9999e324-9a34-45b2-b138-a6e0312f6267,Tavuk Kıyma Dürüm Menü,"10,00 TL",Menüler,18.0
+37139b31-a21a-4c64-829a-599029878c55,Kuzu Çöp Şiş,"24,00 TL",Kebap & Izgaralar,5.0
+42d5e595-04fe-4c05-a893-e77f4f93548d,Kemiksiz Tavuk,"24,00 TL",Kebap & Izgaralar,14.0
+58556d54-da58-4533-b91d-c0b2268c1c25,Kuzu Kuşbaşı Şiş,"24,00 TL",Kebap & Izgaralar,15.0
+62e7091c-049b-4f60-b75b-2e93253cf1e2,Beyti Kebap,"26,00 TL",Kebap & Izgaralar,11.0
+ba937fe8-ae1e-44a3-8150-c71de1f6f7e7,Kemikli Tavuk,"24,00 TL",Kebap & Izgaralar,14.0
+c4246816-f7a0-4158-b1dc-2a84f57a9cd8,Adana Kebap,"24,00 TL",Kebap & Izgaralar,17.0
+ea9a3cd9-7542-452f-a088-dcb4274d1adb,Tavuk Kıyma Kebap,"15,00 TL",Kebap & Izgaralar,17.0
+54c32eab-d7bb-47d9-b4bd-98ec405cb789,Antep Lahmacun (3 Adet),"15,00 TL",Fırın Ürünleri,32.0
+e2d755a8-0018-47fb-85ed-ceda09fc7a31,Adana Lahmacun (5 Adet),"12,00 TL",Fırın Ürünleri,38.0
+4556b814-6ea5-4583-b448-6ededd4afc0d,Kıymalı Pide,"15,00 TL",Fırın Ürünleri,9.0
+b469a2f7-eb08-4a50-923e-491caa30e817,Kıymalı Kaşarlı Pide,"17,00 TL",Fırın Ürünleri,9.0
+324539ad-3a35-4db4-90de-e1c1098295ee,Tavuklu Pide,"13,00 TL",Fırın Ürünleri,9.0
+ba85e49b-58ba-40c7-902e-5eb7143aada1,Tavuklu Kaşarlı Pide,"15,00 TL",Fırın Ürünleri,9.0
+8312129e-7ee6-481c-820b-25d6d101e55d,Kaşarlı Pide,"15,00 TL",Fırın Ürünleri,9.0
+36c753db-5303-452a-89e0-74f6dcf03012,Kuşbaşılı Pide,"15,00 TL",Fırın Ürünleri,15.0
+f1bae2ce-0994-4983-8c4b-1deeae79a9b7,Mevlana Pide,"17,00 TL",Fırın Ürünleri,12.0
+1871a74c-8df9-4e6b-9118-bcf5bc482e9d,Kaşarlı Sucuklu Pide,"17,00 TL",Fırın Ürünleri,9.0
+6f6c2eab-7bc3-403b-88dc-7b0b7f7b9cba,Adana Dürüm,"15,00 TL",Dürümler,18.0
+120dc838-fc50-4030-8d08-e0e458435006,Kuşbaşı Dürüm,"15,00 TL",Dürümler,15.0
+d9fb8ad2-c1c9-475e-bd0d-260e70a1a894,Tavuk Şiş Dürüm,"12,00 TL",Dürümler,14.0
+a1c9e050-0cac-452a-a22e-7b0639579b3c,Kaşarlı Tavuk Tava,"24,00 TL",Diğer Lezzetler,14.0
+d4400d99-00b8-40a9-9ce4-4f3219b8d52e,Tavuk Tava,"22,00 TL",Diğer Lezzetler,14.0
+e2287a0e-0271-4b35-8542-7ef9b9d209ab,Et Tava,"26,00 TL",Diğer Lezzetler,5.0
+e6be26bd-81c4-4138-a955-ee7fcc5e82b6,Kaşarlı Et Tava,"28,00 TL",Diğer Lezzetler,5.0
+b621b21c-04eb-4e66-bde6-eac5e14c5e14,Su,"1,50 TL",İçecekler,5.0
+8d924cdb-390e-49f2-9440-be2e7371282a,"Yedigün (2,5 L.)","8,00 TL",İçecekler,5.0

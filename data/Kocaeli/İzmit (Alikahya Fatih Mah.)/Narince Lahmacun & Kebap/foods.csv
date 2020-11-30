@@ -1,0 +1,36 @@
+food_id,food_name,food_price,food_category,food_score
+4e7d090b-428d-4a2e-a6eb-031e4c8834ae,Çiğ Köfte Menü,"20,00 TL",Menüler,5.0
+219E586C-118E-4F25-8A2F-015C8329A5EE,Izgara Köfte Dürüm Menü,"20,00 TL",Menüler,5.0
+716ED643-4973-4EE1-BC9B-C3DDA3BFA39B,Karışık Pide Menü,"24,00 TL",Menüler,4.0
+8ebee58e-58da-4823-950f-e421dc09adb1,Kavurmalı Pide Menü,"28,00 TL",Menüler,4.0
+5b7142f8-9b54-4462-b9c0-691584d5cc6a,Kebap Menü 1,"27,00 TL",Menüler,9.0
+72D1A472-0F36-4D29-AD45-371274C85A36,Kebap Menü 2,"30,00 TL",Menüler,7.0
+BDEEF337-6896-41CE-9C26-2E6290ADEAC3,Kuşbaşılı Pide Menü,"25,00 TL",Menüler,2.0
+d69af703-507a-4de7-b05a-94cb86155ebf,Lahmacun,"7,00 TL",Fırın Ürünleri,14.0
+528a210e-9ca1-42e1-a49f-de59b2c0ee87,Etli Ekmek,"27,00 TL",Fırın Ürünleri,3.0
+cdf3ec32-aa32-4d9b-835b-322d418d2fad,Karışık Pide,"22,00 TL",Fırın Ürünleri,3.0
+a94c1aa4-9613-4282-8858-ce2942992b0c,Kaşarlı Pide,"20,00 TL",Fırın Ürünleri,3.0
+43e6eedc-ae78-40c5-84ec-4081441ac370,Kavurmalı Kaşarlı Pide,"25,00 TL",Fırın Ürünleri,3.0
+152077E6-4962-46BC-91E8-C1485E354B42,Kıymalı Kaşarlı Pide,"20,00 TL",Fırın Ürünleri,3.0
+8627f569-6522-47c9-b42e-d16c4ab5bf98,Kıymalı Kuşbaşılı Pide,"22,00 TL",Fırın Ürünleri,1.0
+9c776c70-a9ed-4965-80e7-06ef69754768,Kıymalı Pide,"20,00 TL",Fırın Ürünleri,3.0
+8229866c-4bfb-4dfb-9eeb-f67a9562d6d7,Kuşbaşılı Kaşarlı Pide,"23,00 TL",Fırın Ürünleri,1.0
+16ade933-ae39-43eb-902c-9c1f9e2673ce,Kuşbaşılı Pide,"23,00 TL",Fırın Ürünleri,1.0
+cff19d15-9158-41bc-a4ab-730a4c464423,Sucuklu Pide,"20,00 TL",Fırın Ürünleri,3.0
+49962ef6-38e7-4bc9-a6f4-96499b5ca885,Adana Kebap,"30,00 TL",Kebaplar,6.0
+c6903d5c-91c6-4a15-95bc-876eb0d0cf67,Urfa Kebap,"30,00 TL",Kebaplar,5.0
+11E122A8-0872-46C1-B47E-F290F791373C,Patlıcan Kebabı,"35,00 TL",Kebaplar,5.0
+83a542fd-3e3b-4764-ad8d-2c39895dc6e7,Fırın Beyti Kebap,"35,00 TL",Kebaplar,7.0
+DE940A2B-7473-4A01-8D5A-B696AAE993C3,İskender Kebap,"35,00 TL",Kebaplar,8.0
+6b6a4354-3f4c-436f-b4fa-f3f2a5c49e21,Tavuk Kanat,"22,00 TL",Izgaralar,5.0
+fe19e587-5063-4811-8596-613dadd4377a,Tavuk Şiş,"22,00 TL",Izgaralar,5.0
+a17fb249-6853-4d05-8203-f85923148322,Karışık Izgara,"60,00 TL",Izgaralar,4.0
+2CBE2B57-0F94-4A32-B113-7BDB112E6BE9,Izgara Köfte,"22,00 TL",Izgaralar,4.0
+073b31e5-a5a4-4db9-b558-24626606a029,Adana Dürüm,"18,00 TL",Dürümler,9.0
+8c5a56b4-b7d3-46e4-9ee8-d4104f895c99,Urfa Dürüm,"18,00 TL",Dürümler,3.0
+11A29CDC-8C27-4309-AEBC-61E37ED99C86,Köfte Dürüm,"18,00 TL",Dürümler,5.0
+29f8c2a8-23ec-4417-9626-d4428903d188,Sütlaç,"7,00 TL",Tatlılar,10.0
+806ea42e-7712-4eeb-9c85-983b8f2436de,Künefe,"12,00 TL",Tatlılar,4.0
+C4BE8472-F992-44EB-87E6-49F053D837F2,Katmer Tatlısı,"15,00 TL",Tatlılar,5.0
+4234105b-b609-4080-aaab-233c23ed283b,"Fanta (2,5 L.)","11,00 TL",İçecekler,5.0
+698b1907-131e-4722-a2d1-a965bb8559d7,Poşet,"0,25 TL",Poşet,5.0

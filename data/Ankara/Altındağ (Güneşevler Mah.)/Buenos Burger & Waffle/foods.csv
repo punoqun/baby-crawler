@@ -1,0 +1,34 @@
+food_id,food_name,food_price,food_category,food_score
+00910c67-b3c5-4120-870c-64de94b8224d,Maxi Burger Menü,"31,90 TL",Menüler,8.0
+26ee14c1-b89b-478d-b326-830d07affe4d,2!li Maxi Burger Menü,"58,90 TL",Menüler,8.0
+c9bc769b-28e6-465f-96ea-60f78632349b,Obur Burger Menü,"36,90 TL",Menüler,11.0
+ed0b77e7-b9bb-4cd7-834d-6a1d3efd1643,2'li Obur Burger Menü,"69,90 TL",Menüler,6.0
+56be1ff9-cf93-4a43-aaeb-07cb46a0e9f8,3'lü Maxi Burger Menü,"88,90 TL",Menüler,8.0
+01f47108-01f5-455e-827f-50c399082982,3'lü Obur Burger Menü,"102,90 TL",Menüler,6.0
+5e9fe5bf-5daa-43a3-9e43-a783b26f86c0,Hellim Peynirli Double Burger,"47,90 TL",Burgerler,6.0
+f8b29631-fb67-49aa-b99a-c5229c8a3a00,Gurme Double Burger,"47,90 TL",Burgerler,6.0
+d2a6472a-dece-48ba-9d08-5aff7684e8e6,Boğaziçi Medium Burger,"18,00 TL",Medium Burgerler,6.0
+60ac2a14-9f23-417d-868d-b0760effa2db,Çamlıca Cheddarlı Medium Burger,"19,00 TL",Medium Burgerler,6.0
+6e7ef655-8c27-4861-8101-92d83afbf2c7,Topkapı Barbekü Soslu Medium Burger,"19,90 TL",Medium Burgerler,4.0
+35e18a4c-928b-4068-826d-fde509fd918e,İstanbul Gurme Medium Burger,"20,50 TL",Medium Burgerler,6.0
+430e7343-9141-4b1f-ad30-d3dd84df0221,Yedigöller Maxi Burger,"26,00 TL",Maxii Burgerler,8.0
+bafb1a91-8a68-4d2c-a361-93fe156acd1f,Abant Cheddarlı Maxi Burger,"26,50 TL",Maxii Burgerler,7.0
+6e6bcd89-f7a4-4b00-8061-2defc209eda4,Gölcük Barbekü Soslu Maxi Burger,"26,50 TL",Maxii Burgerler,6.0
+2f9a8656-7c1d-40d0-a8e9-79827ec9cabe,Kapadokya Obur Burger,"31,00 TL",Obur Burgerler,6.0
+29898856-a0ca-484f-997b-9a4048f0d408,Pamukkale Obur Burger,"31,90 TL",Obur Burgerler,6.0
+6d058591-0e87-4168-8d54-e5e9f33f32ca,Uzungöl Acılı Obur Burger,"31,90 TL",Obur Burgerler,6.0
+862a5d2f-a7ee-427e-8eac-0f864446b2ed,Aspendos Patlıcanlı Burger,"26,90 TL",Spesiyal Burgerler,5.0
+fcf3a878-b213-4fe3-a394-9cf4c9fab11a,Göbeklitepe Sarımsaklı Burger,"26,90 TL",Spesiyal Burgerler,6.0
+dccd9115-7f24-4a1d-b745-dd6365cbef0f,Kapadokya Köz Biberli Burger,"26,90 TL",Spesiyal Burgerler,6.0
+53d20c01-2b68-4035-8c40-21479348731e,Kelebekler Vadisi Karışık Süper Burger,"27,90 TL",Spesiyal Burgerler,8.0
+3cb35d08-4ed2-4b2e-a2b5-8b6ffded50a2,Balıklıgöl Acılı Burger,"26,90 TL",Spesiyal Burgerler,6.0
+b4aba538-7e00-4f7a-a262-fbb24d38154d,Lavanta Vadisi Burger,"27,90 TL",Spesiyal Burgerler,6.0
+ef8dca51-7f27-4bd9-b0dd-a277463f4946,Bonus Tavuk Burger,"23,00 TL",Tavuk Burgerler,6.0
+db1cb08d-18f7-42e6-b24d-9e056abf2cf0,Bonus Cheddarlı Tavuk Burger,"23,90 TL",Tavuk Burgerler,6.0
+6fe260b3-aa9b-43ea-ad65-bed1c3ac7270,Bonus Tavuk BBQ Burger,"23,90 TL",Tavuk Burgerler,6.0
+d046af5e-b152-4d8b-9a63-86afc73be8ff,Bonus Gurme Tavuk Burger,"24,90 TL",Tavuk Burgerler,6.0
+1d5eb857-be89-4193-a67f-df9eb94b1d54,Bonus Kajun Tavuk Burger,"22,90 TL",Tavuk Burgerler,6.0
+311cb726-13d6-4c64-81aa-1aca71ab65a6,Patates Kızartması,"10,00 TL",Yan Ürünler,7.0
+f2760b47-fa96-4d0a-8102-65dd4fc6c2aa,Soğan Halkası (10 Adet),"10,00 TL",Yan Ürünler,4.0
+BFB48739-C576-4715-BA1D-03CD250F6CF2,Cajun Baharatlı Çıtır Tavuk,"22,90 TL",Yan Ürünler,5.0
+38d0b083-64a1-42fb-8359-b0ffdc25babc,Limonlu Cheesecake,"13,00 TL",Tatlılar,5.0

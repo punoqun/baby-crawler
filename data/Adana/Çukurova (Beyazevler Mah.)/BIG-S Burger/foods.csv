@@ -1,0 +1,59 @@
+food_id,food_name,food_price,food_category,food_score
+2b96d873-6075-4d65-9d41-c6ccb96fdc64,Susamlı Çıtır Tavuk Menü,"24,00 TL",Menüler,6.0
+c3741ec4-aa4c-41e9-b031-b570278671ce,Combo Tabağı Menü,"35,00 TL",Menüler,6.0
+d6d34832-05ea-41b2-acf5-cec32012a58a,Ortaya Karışık Menü,"85,00 TL",Menüler,6.0
+ec01518d-be4b-41f0-86ba-86872b6ccf3e,Ortaya Karışık Tavuk Burger Menü,"78,00 TL",Menüler,8.0
+af3da94a-8f03-4b42-8b7f-e0ab003df3a3,2'li Arkadaş Menü,"55,00 TL",Menüler,6.0
+fe34e664-8815-488c-bbac-ab2fe7f7389f,King Menü,"31,00 TL",Menüler,11.0
+d35b9cef-eb4a-42bf-abbd-5a0554d402fc,2'li Tavuk Burger Menü,"55,00 TL",Menüler,8.0
+f38bfeb6-2c2f-4274-b5e9-e792347ddc47,Tavuk King Menü,"28,00 TL",Menüler,7.0
+c19f9656-cc57-4559-93b5-9bc60b00e7a2,Classic Burger,"25,00 TL",Burgerler,6.0
+f6aa1e80-433d-4021-b5aa-b0c0d7defbea,Cheeseburger,"28,00 TL",Burgerler,10.0
+0a80f9a3-4fd0-447c-9699-f3fab04a9db8,BIG-S Acuka Burger,"29,00 TL",Burgerler,6.0
+3dfbc388-13d4-4692-9eb9-62e084ac2f9a,Creamy Mushroom Burger,"29,00 TL",Burgerler,7.0
+9c483160-2884-468e-843f-f7acc7085661,Mexico 1 Burger,"29,00 TL",Burgerler,19.0
+a71130c4-9077-4c56-94d7-8a4f54d798a6,Lomo Saltado Burger,"29,00 TL",Burgerler,6.0
+9cfceaaa-974e-495f-9ac8-e5bf5ba8e544,BBQ 1 Burger,"29,00 TL",Burgerler,24.0
+64d83f97-8ac2-4915-888c-254534ca2e05,BBQ 2 Burger,"29,00 TL",Burgerler,7.0
+c238d307-29d1-4dbd-b069-0273a8a03d62,King Burger,"29,00 TL",Burgerler,6.0
+82e6201b-76c0-4bc3-ae4f-8ce0d0928263,Mexico 2 Burger,"29,00 TL",Burgerler,7.0
+4a63170e-0336-4dbf-8ea1-d1596d2c28f5,Mush Mush Burger,"29,00 TL",Burgerler,8.0
+3868044b-f114-4a3e-b3e1-cfc561dccafa,Hot Dog Burger,"29,00 TL",Burgerler,6.0
+9d498cd2-d68d-446a-b303-db178c0a7859,Pastrami Burger,"29,00 TL",Burgerler,6.0
+9917734d-4ef5-4e2f-b164-37ce1d2425b4,Terzetto Burger,"30,00 TL",Burgerler,6.0
+2165E27A-5DC4-4158-AF46-0FF1A9AC8D20,Köz Patlıcan Burger (100 gr.),"30,00 TL",Burgerler,6.0
+1d2ae734-6597-4cf8-b895-55bb3931747c,Torti Bigs Burger,"30,00 TL",Burgerler,6.0
+2d9e19d7-1400-4a9d-9bef-aecb02cc253f,BIG-S Kepekli Burger,"30,00 TL",Burgerler,6.0
+28e593d6-ca7b-41ce-8445-08655b878a7c,Mushroom Mozzarella Burger,"31,00 TL",Burgerler,7.0
+3658b862-bff5-4fd6-bec0-ace4324d48cc,Mushroom Cheddar Burger,"31,00 TL",Burgerler,7.0
+e33a7f5d-5f7b-4491-ab83-eacc80876b19,Lokum Burger,"38,00 TL",Burgerler,4.0
+2c1732bd-a5e6-495e-a920-fb3ee3adbdae,Big Steak Burger,"43,00 TL",Burgerler,7.0
+2cfb5e0d-5948-4b1f-8854-b6284b9d5e1a,BIG-S Double Cheeseburger,"43,00 TL",Burgerler,5.0
+26699b06-47dc-440f-966c-e20c0b724360,BIG-S Protein Burger,"73,00 TL",Burgerler,10.0
+CB779C2E-F0D6-48B6-AD8C-940F7BD8951A,Tavuk Barbekü Burger,"26,00 TL",Tavuk Burgerler,9.0
+69167d3d-3932-4b3e-afed-08ef7411a0d2,Tavuk Barbekü 2 Burger,"26,00 TL",Tavuk Burgerler,10.0
+8AF9642E-8A5D-422E-831C-ED69F5506EA3,Tavuk Mushroom Burger,"26,00 TL",Tavuk Burgerler,8.0
+97A80EB3-8C26-4AD3-9BF5-2CDCD35EDA08,Tavuk King Burger,"26,00 TL",Tavuk Burgerler,7.0
+B663276D-AF20-448E-AC16-EB89DE45102C,Tavuk Lomo Saltado Burger,"27,00 TL",Tavuk Burgerler,7.0
+F27983C5-B32F-4C70-89E5-0C3E48FFF3BC,Tavuk Pastrami Burger,"27,00 TL",Tavuk Burgerler,7.0
+0D3C0FAA-061B-40E3-B1A5-63E37976B266,Tavuk Köz Patlıcan Burger,"26,00 TL",Tavuk Burgerler,7.0
+B9838FA9-1A86-4D27-9141-378DD8692D83,Tavuk Big's Diyet Burger,"28,00 TL",Tavuk Burgerler,7.0
+24B5F180-1320-496C-A66F-27AFD6272CCD,Tavuk Acuka Burger,"26,00 TL",Tavuk Burgerler,7.0
+0CEA27C2-C5E9-4A73-8022-A908C55AED17,Tavuk Double Cheeseburger,"30,00 TL",Tavuk Burgerler,6.0
+D616A8A6-CBFD-47D5-A900-2A2D52ADD06D,Tavuk Mexico 1 Burger,"26,00 TL",Tavuk Burgerler,20.0
+A376BC51-F229-4B2D-BCDD-18C0BD16641A,Tavuk Mexico 2 Burger,"26,00 TL",Tavuk Burgerler,8.0
+2BB38412-24DC-4F74-9F40-2FC2F028E8E9,Tavuk Mush Mush Burger,"25,00 TL",Tavuk Burgerler,9.0
+A4B578C6-D8D2-4A83-9138-D4D796955342,Tavuk Hot Dog Burger,"27,00 TL",Tavuk Burgerler,7.0
+B1A62AB1-DE41-4B09-AC57-DA3A673E5762,Tavuk Mushroom Cheddar Burger,"28,00 TL",Tavuk Burgerler,8.0
+3C0FE60F-1B69-4054-9A28-4D2D895B4482,Tavuk Protein Burger,"50,00 TL",Tavuk Burgerler,11.0
+756CB541-E777-4374-AE1F-5B9818848044,Tavuk Classic Burger,"24,00 TL",Tavuk Burgerler,7.0
+15739D87-2BAA-4DD3-86D1-10C0250C4EC4,Tavuk Cheeseburger,"27,00 TL",Tavuk Burgerler,6.0
+E008CA5A-6AB2-4FE0-B7B2-A49D9ED85186,Tvk Mushroom Mozzarella Burger,"28,00 TL",Tavuk Burgerler,7.0
+0308364D-3BF7-419F-AA14-34B09CE11CA6,Tvk Terzetto Burger,"26,00 TL",Tavuk Burgerler,6.0
+DE665FA6-6E08-4157-B356-C356293D37D9,Tvk Torti Big-S Burger,"29,00 TL",Tavuk Burgerler,6.0
+327abe0d-f751-4576-b97a-590a70f628eb,Combo Tabağı,"30,00 TL",Diğer Lezzetler,5.0
+b46e5d7d-7932-417e-88ec-b0dcc67bf01a,Soğan Halkası (8 Adet),"10,00 TL",Yan Ürünler,5.0
+00fe4de6-0fca-4f70-9351-f49cea03e10d,Parmak Patates Kızartması,"15,00 TL",Yan Ürünler,16.0
+791FAD41-20E9-4367-A591-34AC3E15E2DF,Nugget (10 Adet),"12,00 TL",Yan Ürünler,6.0
+2DEBE17B-A802-4321-A866-9A1ED65752ED,Big-S Çıtır Tavuk (8 Adet),"14,00 TL",Yan Ürünler,5.0
+76c36db0-7d93-421e-ac70-d5c4b0780edb,Mozzarella Sticks (8 Adet),"16,00 TL",Yan Ürünler,5.0

@@ -1,0 +1,44 @@
+food_id,food_name,food_price,food_category,food_score
+FBA96ADB-9579-4F92-AE61-6688E769A4C5,Çıtır Shots Menü,"23,50 TL",Menüler,23.0
+56F278B2-84B5-4FB3-AD3D-3545AABC5015,Çıtır Tavuk Sandviç,"23,50 TL",Menüler,37.0
+7D5F5FA4-133F-4669-9FB6-DE7048695BCC,Çıtır Kemiksiz Jr. Menü,"21,50 TL",Menüler,28.0
+93535210-85B4-41EB-913D-C5EE37D447D7,1 Kişilik Çıtır Kemiksiz + 4 Menü,"39,50 TL",Menüler,73.0
+0ABB0FBD-5FFD-4E58-9C75-58650811D673,1 Kişilik Çıtır Kanat + 4 Menü,"43,00 TL",Menüler,68.0
+4843707a-f5d8-4cd1-b365-fa0f47cf8b45,Karışık Çıtır Menü (1 Kişilik),"33,00 TL",Menüler,23.0
+9bd809ba-a561-4c39-9df3-b6527e8a2421,Karışık Çıtır Menü (2 Kişilik),"64,00 TL",Menüler,23.0
+7d7df528-6140-4519-8df7-767a634f8c52,Çıtır Kanat Menü (1 Kişilik),"30,00 TL",Menüler,23.0
+405c9b9d-5736-4d6d-b6be-8854c8ac83a3,Çıtır Kanat Menü (2 Kişilik),"58,00 TL",Menüler,23.0
+e9cdacf6-6b27-48ef-bd90-b8af8af3d3fe,Çıtır Kemiksiz Menü (1 Kişilik),"27,50 TL",Menüler,33.0
+e2c1822d-0b40-45ad-906a-f00e37247761,Çıtır Kemiksiz Menü (2 Kişilik),"53,00 TL",Menüler,33.0
+935ab925-45bb-4923-8a78-6e3f8993f6bd,Klasik Burger Menü,"32,00 TL",Burger Menüleri,15.0
+33bb35cb-8616-4ccb-8b4f-f5d9bab2db3a,Mega Burger Menü,"39,50 TL",Burger Menüleri,16.0
+92c085bd-00a5-4a91-8e16-98892ef3d9b7,Cheeseburger Menü,"34,00 TL",Burger Menüleri,13.0
+520307d5-300e-432c-a9ff-c898d3d6fb53,Louisiana Burger Menü,"33,00 TL",Burger Menüleri,15.0
+7f75beee-f7d9-4509-ac69-e87d8d4397a4,Çıtır Tavuk Burger Menü,"28,00 TL",Burger Menüleri,47.0
+b96d61c4-6da0-4e57-848b-f347e88087a1,Mega Çıtır Tavuk Burger Menü,"35,50 TL",Burger Menüleri,48.0
+596b5f00-f60a-4a46-8a16-95cb8b8f4715,Louisiana Çıtır Tavuk Burger Menü,"29,00 TL",Burger Menüleri,47.0
+04c1f55d-1253-49e8-ab39-599ec080e068,Gurme Tavuk Burger Menü,"29,00 TL",Burger Menüleri,35.0
+c1fda254-a349-4f1a-b3d1-ba21f858da09,Mega Gurme Tavuk Burger Menü,"36,50 TL",Burger Menüleri,36.0
+311695ad-53a6-4302-8e3a-588755690f3b,Louisiana Gurme Tavuk Burger Menü,"30,00 TL",Burger Menüleri,35.0
+c8ee402e-f2c4-439a-9dc4-8f5b73903289,Kahvaltı Tabağı,"24,00 TL",Kahvaltılıklar,7.0
+5da17888-c087-4b1f-8cf3-6db13b4a9a08,Beyaz Peynirli Gözleme,"17,00 TL",Gözlemeler,5.0
+5ecda03e-56a7-4e49-9e7c-1dbb72195330,Kaşarlı Gözleme,"18,00 TL",Gözlemeler,10.0
+d0e8c362-a2ba-4e7f-947d-22d13be86658,Tavuk Stroganoff,"27,50 TL",Ana Yemekler,25.0
+de2ce447-6458-48f6-bc63-83c4c889315d,Köri Soslu Tavuk,"27,50 TL",Ana Yemekler,22.0
+ad7c356d-3a55-4a43-a935-a8e8d1a980b9,Beşamel Soslu Tavuk,"28,50 TL",Ana Yemekler,28.0
+18dd4804-6814-463e-9db4-b41e65f28e5b,Tavuk Şnitzel,"27,50 TL",Ana Yemekler,25.0
+bcfa800a-6eca-4014-8193-35b733c51c46,Şavurma Wrap,"23,00 TL",Wraps,4.0
+3b66676f-1da2-4d75-8ab0-66ecee3512b0,Çıtır Tavuklu Wrap,"25,00 TL",Wraps,16.0
+ef6dc6dc-2fb2-46b7-99ae-a1fd9019b1b6,Patates Kızartması,"15,00 TL",Yan Ürünler,17.0
+05884166-5cde-41b6-9aa6-aadf32eee414,Elma Dilim Patates Kızartması,"18,00 TL",Yan Ürünler,17.0
+0be4b678-a48d-449f-9f5d-acb40a484d5d,Sosis Tabağı,"18,00 TL",Yan Ürünler,7.0
+5986c01b-5cd3-4761-8512-17c21bafb092,Sigara Böreği (7 Adet),"18,00 TL",Yan Ürünler,5.0
+f9d63f16-2125-41d4-8d62-d0d730259420,Soğan Halkası (10 Adet),"15,00 TL",Yan Ürünler,5.0
+e67e1681-d02a-4500-a780-467fb46d891b,Lezzet Sepeti,"42,00 TL",Yan Ürünler,26.0
+f3e61e2d-d076-4df7-94ab-3c613c701b54,Çikolatalı Mozaik Pasta (Dilim),"19,00 TL",Tatlılar,4.0
+af0997a8-54d6-4871-94f0-34fb50a22571,Cevizli Brownie,"19,00 TL",Tatlılar,7.0
+612f5a40-c4f5-4b78-9250-a71b1ac354c1,Su,"3,50 TL",İçecekler,4.0
+6fb4ca68-7cec-41f4-9f78-a1f609616093,Sweet Chili Sos (20 ml.),"1,50 TL",Soslar,11.0
+120d51df-13a0-4ef5-b2dc-21c1e67c700f,Garlic Sos (20 ml.),"1,50 TL",Soslar,11.0
+0143cfde-2f2c-4cca-a81d-4983af7185f8,Hot Chili Sos (20 ml.),"1,50 TL",Soslar,11.0
+c66cead3-e03e-446f-8bac-c6f930d52f96,Poşet,"0,25 TL",Poşet,5.0

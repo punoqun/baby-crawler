@@ -1,0 +1,32 @@
+food_id,food_name,food_price,food_category,food_score
+7c3188db-de9b-4a28-94f8-262828f341fe,Bol Etli Kelle Paça Çorbası,"32,00 TL",Çorbalar,12.0
+d8cf58d7-7985-4844-99eb-ea98bbd740ad,Tavuk Şiş,"24,00 TL",Izgaralar,2.0
+f78cc721-6cb1-463a-b230-f69ecf0e3a2b,Tavuk Kanat,"25,00 TL",Izgaralar,2.0
+862ce8de-fd78-4d77-a940-29b412570478,Ciğer Şiş,"30,00 TL",Izgaralar,5.0
+c96ffec2-6910-4845-90eb-51e18a92d0fa,Çöp Şiş,"30,00 TL",Izgaralar,4.0
+f2c2fd03-4f6e-4775-92e6-77bfa0e5958b,Adana Kebap,"28,00 TL",Kebaplar,3.0
+e7348200-0192-4319-94e5-dc89ed0a9b50,Urfa Kebap,"28,00 TL",Kebaplar,5.0
+efce979c-a665-48cc-a12f-5cbf42aab008,Karışık Kebap,"60,00 TL",Kebaplar,6.0
+4e332843-f4a7-4d4e-afcc-68423b8fd485,Sarma Beyti Kebap,"30,00 TL",Kebaplar,5.0
+5e14f568-4c6b-4f44-a5f7-5c4e8452ea85,Urfa Dürüm,"18,00 TL",Dürümler & Ekmek Arası Ürünler,0.0
+693e847b-a983-4987-8cb5-9481f183216c,Tavuk Şiş Dürüm,"15,00 TL",Dürümler & Ekmek Arası Ürünler,-3.0
+6d71e04d-03e9-47eb-8b95-8860427501b0,Çöp Şiş Dürüm,"20,00 TL",Dürümler & Ekmek Arası Ürünler,-1.0
+059926be-c4eb-4588-a234-cf65b6c7c814,Adana Dürüm,"17,00 TL",Dürümler & Ekmek Arası Ürünler,3.0
+ac83c1c3-722c-4caf-bfa6-8403e0f4764d,Mumbar Dolması,"30,00 TL",Diğer Lezzetler,5.0
+7423ac0d-1be2-46f6-a776-69134727be8d,Kokoreç,"35,00 TL",Diğer Lezzetler,5.0
+2a8b8679-0e4c-4b6d-ad88-991f7a6f70f0,Tandır Halka Kokoreç,"35,00 TL",Diğer Lezzetler,5.0
+fb1da901-5bbd-4478-96b4-2593b4629d75,Kelle Tandır (Bütün),"50,00 TL",Diğer Lezzetler,8.0
+299bcca2-6ec7-458c-ac38-745082914178,Kelle Tandır (Yarım),"30,00 TL",Diğer Lezzetler,8.0
+e5a2f422-1ac1-4762-92f0-0bb42b31f726,Pide Ekmek (Adet),"2,00 TL",Yan Ürünler,5.0
+8a71ed97-62ed-4c5a-af9c-8507315ad340,Mag Tatlısı,"17,00 TL",Tatlılar,5.0
+5b641b1c-52ff-4064-aae6-31c0fb3091b2,Dr. Trileçe Supangle,"14,00 TL",Tatlılar,5.0
+7A12B481-A74E-426E-B8C2-BFB9F989D744,Fıstıklı Gül Katmer,"20,00 TL",Tatlılar,5.0
+dfb6aac2-51e9-492d-b75b-8b3fbc4d04ee,Diyarbakır Cevizli Kadayıf,"10,00 TL",Tatlılar,5.0
+e092d5d1-348a-4cc4-9779-6ce7bbdc6d46,Karamelli Trileçe,"14,00 TL",Tatlılar,5.0
+92506122-c293-424a-a3e9-f09332e14835,Frambuazlı Trileçe,"14,00 TL",Tatlılar,5.0
+3bf67d5c-a2b2-4649-9d84-42cc99f1614b,Kıbrıs Tatlısı,"14,00 TL",Tatlılar,5.0
+404ccc81-ebd8-4b41-b8fc-980b20e6c861,Profiterol,"12,00 TL",Tatlılar,5.0
+5aea3304-cb52-41ac-8443-5ee655055cc9,Kazandibi,"14,00 TL",Tatlılar,5.0
+8cd743f4-5e81-48c4-9d64-831cff88ceff,Künefe,"14,00 TL",Tatlılar,6.0
+394cc178-8e1c-40ba-9daf-7c47d8581939,Katmer,"17,00 TL",Tatlılar,5.0
+dd163733-5e72-4ebd-9999-e3ad61938dae,Su (30 cl.),"2,00 TL",İçecekler,4.0

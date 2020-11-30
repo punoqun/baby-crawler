@@ -1,0 +1,33 @@
+food_id,food_name,food_price,food_category,food_score
+2de53145-3df6-4b77-b3ca-67d22855172e,Çürük Paça Çorbası,"30,00 TL",Çorbalar,5.0
+5549d255-1a71-4fc6-882b-a13a89d931f9,Beyin Paça Çorbası,"28,00 TL",Çorbalar,5.0
+3ba9900f-08d4-47d0-91b4-881546fb677c,Izgara Köfte,"35,00 TL",Kebaplar & Izgaralar,5.0
+4780750d-e2f8-4054-a304-7618916ab572,Karışık Izgara,"70,00 TL",Kebaplar & Izgaralar,5.0
+56b31e4a-a92e-42d0-bc7a-bd048d883d32,Tavuk Kanat,"35,00 TL",Kebaplar & Izgaralar,7.0
+6f9ce1e4-8e97-4f86-b21a-b274616eb299,Tavuk Şiş,"32,00 TL",Kebaplar & Izgaralar,5.0
+baafdcf3-1ed6-478e-bb86-23cb62c7ac44,Çöp Şiş,"48,00 TL",Kebaplar & Izgaralar,5.0
+c8f550ab-6fa0-4423-8c42-f0151a279f3a,Ciğer Şiş,"48,00 TL",Kebaplar & Izgaralar,7.0
+e2c90f51-0b9b-4800-bc4d-fe2745348aa7,Adana Kebap,"40,00 TL",Kebaplar & Izgaralar,9.0
+84b96b12-7b32-4fdf-bdfb-c24db0ffc403,Kokoreç,"35,00 TL",Kokoreçler,5.0
+a9f4924d-1ee3-4ae7-b1b4-e9dd2a40d831,Yarım Ekmek Arası Kokoreç,"22,00 TL",Kokoreçler,5.0
+54a8cb71-8515-4462-b191-3689dbaf2e73,Mumbar,"45,00 TL",Diğer Lezzetler,5.0
+58ec197e-1ff7-498a-a34a-69fd9317c31f,Yaprak Ciğer,"35,00 TL",Diğer Lezzetler,7.0
+6470e1f4-20a7-4230-aeab-cef4d8a8da65,Tereyağlı Mumbar,"50,00 TL",Diğer Lezzetler,5.0
+66be61b0-0e02-4330-92f9-3492c7c8c42c,Şırdan,"20,00 TL",Diğer Lezzetler,10.0
+7db05e68-08a7-4353-93e9-9649ee7bc249,Kelle Söğüş,"55,00 TL",Diğer Lezzetler,5.0
+81a6ec84-a3c3-460f-9538-a90e2d0b55c0,Arnavut Ciğeri,"30,00 TL",Diğer Lezzetler,5.0
+89af4cf1-aae2-4c85-a698-9486aa77c276,Kırkkat,"14,00 TL",Diğer Lezzetler,5.0
+3ba6de65-c419-4fbe-a09a-8de532240626,Et Sac Tava,"55,00 TL",Sac Tavalar,5.0
+6d5628f2-7df6-4220-ab59-beba212b52b8,Tavuk Sac Tava,"45,00 TL",Sac Tavalar,5.0
+890de66b-9178-485a-ba30-432cbd71727e,Adana Dürüm,"25,00 TL",Dürümler,7.0
+91fdaa46-2afb-4a26-9157-ee083dd6d3ba,Kelle Söğüş Dürüm,"25,00 TL",Dürümler,3.0
+c48ec377-170b-43be-ad87-46512fc76c9c,Ciğer Şiş Dürüm,"30,00 TL",Dürümler,5.0
+ccf79448-2813-4e4d-ae6c-2130f8f14671,Tavuk Şiş Dürüm,"25,00 TL",Dürümler,3.0
+d2dc429e-3b51-4caa-9682-0e0380c97373,Çöp Şiş Dürüm,"30,00 TL",Dürümler,3.0
+0f7401e6-803c-4916-b28a-de3ebfbb4cb9,Katmer,"20,00 TL",Tatlılar,5.0
+7f7e163b-764c-4a76-ad00-2ae36f8f454d,Künefe,"15,00 TL",Tatlılar,5.0
+f0c10161-f88e-4680-88ab-fcf311e1b5b2,Fırın Sütlaç,"10,00 TL",Tatlılar,5.0
+6d8513a3-1722-4709-b113-1f248e4bc6ae,Tamek (33 cl.),"6,00 TL",İçecekler,5.0
+887ee00f-89be-4283-916e-73db5c7ddfb3,Fruko (1 L.),"12,00 TL",İçecekler,5.0
+3704235e-2b30-4651-b3a8-9e8aa31dc069,7UP (1 L.),"12,00 TL",İçecekler,5.0
+7fec41db-199f-4c24-897c-af06fad0bcb0,Poşet,"0,25 TL",Poşet,5.0

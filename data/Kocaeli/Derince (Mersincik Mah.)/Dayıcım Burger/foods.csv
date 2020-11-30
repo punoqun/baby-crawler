@@ -1,0 +1,27 @@
+food_id,food_name,food_price,food_category,food_score
+d10db43b-061f-4d3b-ba80-1b5058b39b35,2'li Hamburger Menü,"27,00 TL",Ekonomik Menüler,7.0
+00aace62-d60d-4a7a-b101-29fb001ed342,Sosisli Menü,"53,00 TL",Ekonomik Menüler,3.0
+ed800e88-1c4b-490a-a9b9-53c8e993cdd8,Cheeseburger Menü,"26,00 TL",Ekonomik Menüler,1.0
+9432b968-dcad-453c-b3a8-55944b443229,4'lü Hamburger Menü,"47,00 TL",Ekonomik Menüler,7.0
+81579f61-2d6b-4f64-8b26-6553c276ef15,10'lu Hamburger Menü,"110,00 TL",Ekonomik Menüler,2.0
+4a4cc8b5-383b-4e54-83dc-4f7632d14928,Tavuk Burger Menü,"19,00 TL",Ekonomik Menüler,5.0
+68a58a56-646f-4ef7-ab2d-acadef708bbb,2'li Tavuk Burger Menü,"27,00 TL",Ekonomik Menüler,5.0
+c2bc86bc-dc28-4b90-83b9-1a652fdce85c,4'lü Tavuk Burger Menü,"47,00 TL",Ekonomik Menüler,5.0
+edd24058-f7cc-47d6-9e89-59f45933bb1c,Kumru Sandviç Menü,"25,00 TL",Ekonomik Menüler,3.0
+5de375f3-c339-4e4e-afb3-ef01ce9db5e7,Yengen Tost,"9,50 TL",Tostlar,3.0
+ba327f43-9cc6-40da-a084-8f81cb50d608,Sucuklu Tost,"8,50 TL",Tostlar,5.0
+48ddfc54-f289-453f-8c82-d4680b8508b4,Kaşarlı Tost,"7,00 TL",Tostlar,5.0
+540061e7-eb71-4c7f-9ae7-3af85d7745cb,Ayvalık Tostu,"17,00 TL",Tostlar,5.0
+a2deecc5-80e8-4da1-980d-fd3295791413,Kaşarlı Patso Sandviç,"9,00 TL",Sandviçler,3.0
+af5cff5a-5123-44e4-a4bd-6ed0a569b378,Sucuklu Patso Sandviç,"9,00 TL",Sandviçler,3.0
+a800143a-06a5-4fbf-8331-347061a2c7be,Sosisli Sandviç,"9,00 TL",Sandviçler,5.0
+218d1ca7-6087-4d46-81bb-18f34d074dda,Patso Sandviç,"8,00 TL",Sandviçler,3.0
+8a434340-d63c-45b6-be1c-66e954e0003f,Yengen Sandviç,"10,00 TL",Sandviçler,3.0
+1c60e27d-13f1-4403-973e-1e01fb72ec40,Kumru Sandviç,"15,00 TL",Sandviçler,5.0
+b200a63e-d8df-4528-a5b8-f158d3a6f645,Hamburger,"9,00 TL",Burgerler,9.0
+6c6a94f4-beeb-451a-98bc-1c38d12f6590,Cheeseburger,"16,00 TL",Burgerler,3.0
+a0d30a4b-586a-416a-80d4-39b7bcfd460c,Tavuk Burger,"9,00 TL",Burgerler,7.0
+0cbeb4bd-e20e-495e-a16b-a844cc3dac20,Patates Kızartması,"6,00 TL",Yan Ürünler,6.0
+b9f6d7fc-d3ce-4ce8-9b38-d42ffb09affd,Su,"2,00 TL",İçecekler,6.0
+078fc26b-3b11-4000-afbc-ef8343198d00,Ev Yapımı Limonata,"6,00 TL",İçecekler,5.0
+4ffc3e50-7fb2-4be7-abec-c1f14aec6811,Poşet,"0,25 TL",Poşet,5.0

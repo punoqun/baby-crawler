@@ -1,0 +1,52 @@
+food_id,food_name,food_price,food_category,food_score
+206bf0ff-e47e-44d2-a28d-8587b8322239,Fingers Menü,"23,90 TL",Menüler,6.0
+bb0dd1ba-e18d-4240-9e88-833f74df1ba0,Murphy Menü,"23,90 TL",Menüler,12.0
+13038ab2-3834-4916-94a7-171435112d07,Bungo Menü,"23,90 TL",Menüler,6.0
+4d4f031d-89ce-41a0-8f67-0a8ba3077745,Alt Menü,"24,90 TL",Menüler,6.0
+0a6f6287-954f-48e3-8b31-57f52687acb6,Eko Menü,"18,50 TL",Menüler,6.0
+a520db10-b89a-4ae6-88e5-abfe9021c63a,Ortapanya Menü,"29,90 TL",Menüler,6.0
+3a98d826-b234-4e87-854f-3c7684c10095,Ultra Menü,"49,90 TL",Menüler,6.0
+bb2e2846-b76e-4129-af6a-6f8c9c92cf44,Grande Menü,"59,90 TL",Menüler,6.0
+14046174-d44d-409b-8b25-2bebe155ba62,Bizbize Büyük Menü,"69,90 TL",Menüler,11.0
+8a22e6a1-7e92-4bdf-9711-0239bf15d4dd,Bizbize Orta Menü,"59,90 TL",Menüler,6.0
+5644c343-f9d3-4fd7-9fd2-ff380189363d,Büyükpanya Menü,"39,90 TL",Menüler,6.0
+7c6460b1-1803-4154-92d1-249c632cd693,Extra Menü,"28,50 TL",Menüler,10.0
+c2f5d72f-a922-4e5c-897c-bce6e9ed76a7,Orta Boy Pizza Menü,"39,90 TL",Menüler,15.0
+9d1a479d-eac5-4edb-ae2e-93114b3f474a,Büyük Boy Pizza Menü,"49,90 TL",Menüler,15.0
+5f14402b-cdeb-4843-8910-02001921ccec,Mantarlı Pizza (Küçük),"16,90 TL",Küçük Boy Pizzalar (1 Kişilik),14.0
+79b4e076-66bd-4688-9e19-80cabf90619d,Veggie Pizza (Küçük),"16,90 TL",Küçük Boy Pizzalar (1 Kişilik),14.0
+c6ef960f-5cf7-495d-bf86-8329522a4f7e,Karışık Pizza (Küçük),"16,90 TL",Küçük Boy Pizzalar (1 Kişilik),14.0
+c2c8db00-f443-444d-9c14-5c2c235bd98e,Margherita Pizza (Küçük),"16,90 TL",Küçük Boy Pizzalar (1 Kişilik),14.0
+86117f8b-bbc9-4c23-b76b-df53d46832be,Mantarlı Pizza (Orta),"27,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),14.0
+21298b3f-cd9e-4cf7-baeb-b9cad707cd4f,Veggie Pizza (Orta),"27,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),14.0
+da4e3881-32e7-4398-be03-5d5d1e071d20,Karışık Pizza (Orta),"27,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),14.0
+18705035-3f7e-4d17-8043-86cabe54d9f2,Margherita Pizza (Orta),"27,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),14.0
+34b11bb7-98aa-4c45-b505-4ff7a2c0ebfd,Mantarlı Pizza (Büyük),"37,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),14.0
+9ec43ed8-4c9e-4995-be66-dd95d0c1ad00,Veggie Pizza (Büyük),"37,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),14.0
+0b2018d3-aa6e-4b97-9b95-3723fe384319,Karışık Pizza (Büyük),"37,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),14.0
+aa93d227-20ed-4903-8c4a-1091a0b908e3,Margherita Pizza (Büyük),"37,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),14.0
+014eda78-3719-46af-ac28-00d1ea6931d5,BBQ Chicken Pizza (Büyük),"39,50 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),14.0
+2bcd2d30-633e-436b-9a22-dbfd3c464627,Elma Dilim Patates Kızartması,"15,00 TL",Yan Ürünler,8.0
+aa3af224-1d51-4a4b-9a69-c6e9bee9671e,Patates Kızartması,"11,00 TL",Yan Ürünler,8.0
+f5f775ae-1aa8-4929-b90b-1276ef2a7ed8,Chicken Fingers (3 Adet),"15,00 TL",Yan Ürünler,5.0
+7ec22794-5c49-44ca-aac0-6963a65812e0,Chicken Morfel (5 Adet),"10,00 TL",Yan Ürünler,5.0
+12066b8c-a7b9-4826-8f9a-d500f21a1ca8,Chicken Nuggets (3 Adet),"7,50 TL",Yan Ürünler,5.0
+ae688577-96d7-41fb-97bb-637636a1e93e,Chicken Nuggets (6 Adet),"15,00 TL",Yan Ürünler,5.0
+c5c7b6ce-c357-410d-a036-270da66cf963,Fırında Mantar,"12,00 TL",Yan Ürünler,4.0
+917d8e67-3c5a-4436-82f6-5d78b62d50b0,Soğan Halkası,"6,00 TL",Yan Ürünler,6.0
+f23635e2-5380-4d0f-98b7-8385971df0bd,Mozzarellalı Sarımsaklı Ekmek,"12,00 TL",Yan Ürünler,5.0
+bd290730-e341-4e61-b230-c9742905935a,Mozzarellalı Sucuklu Ekmek,"15,00 TL",Yan Ürünler,5.0
+fe72c2ce-2954-4d15-a63a-e5b76eca96eb,Ege Salatası,"12,50 TL",Salatalar,5.0
+59f4cc76-270c-460a-b0dc-bec58597c658,Chicken Salata,"12,50 TL",Salatalar,5.0
+4121a4fe-2871-4373-9305-53010e9ab447,Çıtır Salata,"12,50 TL",Salatalar,5.0
+debff4f5-dba3-47c5-9ce6-ce9432fe7fca,Sufle,"11,90 TL",Tatlılar,5.0
+7aaf8464-2d84-4dcf-9dbb-1cc054326944,Sütlaç,"7,00 TL",Tatlılar,5.0
+31cb2ade-2b0b-4166-83e4-b33c9c17cf32,Profiterol,"7,00 TL",Tatlılar,5.0
+a302c523-e7b3-4d5f-863a-df2bd8222927,Supangle,"7,00 TL",Tatlılar,5.0
+5f4c7ba4-72d6-44f5-9bb4-e6913255a7b8,Tamek (33 cl.),"6,00 TL",İçecekler,5.0
+2a3a5cc1-b722-433a-8e64-f8bca084b10a,Niğde Gazozu (25 cl.),"4,00 TL",İçecekler,5.0
+2aea1a18-b94b-480d-bd0b-2fb12e74e184,Su,"1,50 TL",İçecekler,5.0
+6ab0f01f-c626-4110-8546-941e92aa0851,Fruko (1 L.),"7,00 TL",İçecekler,5.0
+aa2910ea-c821-4d51-8af5-5cf4f085a528,Morfel Sos,"1,50 TL",Soslar,5.0
+0B71D655-A1EE-4710-BA53-EF1483A852D9,Barbekü (BBQ) Sos,"2,00 TL",Soslar,5.0
+9ccb2cda-bf0d-4c62-9014-bb36c10dc9a8,Poşet,"0,25 TL",Poşet,5.0

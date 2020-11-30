@@ -1,0 +1,27 @@
+food_id,food_name,food_price,food_category,food_score
+bed3945f-127b-4963-b9d3-bf8cc544e3df,Pilav Üstü Tavuk Menü,"20,00 TL",Menüler,-14.0
+fb60bbe7-d661-4043-910e-2458f5614d5b,Ekmek Arası Köfte Menü,"25,00 TL",Menüler,1.0
+692f6dbe-02ca-4275-9e86-d845e534e41c,Kaşarlı Tost,"12,00 TL",Tostlar,2.0
+98986081-65ea-44fc-92d0-679a6e515fcf,Sucuklu Tost,"13,00 TL",Tostlar,4.0
+f462a913-79c3-4cd2-a0b1-727ad6343ca9,Karışık Tost,"15,00 TL",Tostlar,4.0
+6e83a95e-2ec3-444b-a908-54bc99895cee,Karışık Gözleme,"18,00 TL",Gözlemeler,4.0
+89db6f57-5a92-4626-889f-fa377a4f3874,Kaşarlı Gözleme,"15,00 TL",Gözlemeler,2.0
+ca4985b2-ba0a-411d-9cfc-8d8d38d73f56,Sucuklu Gözleme,"15,00 TL",Gözlemeler,4.0
+05c0b426-4099-4a4f-839d-891da7d93995,Izgara Tavuk,"25,00 TL",Izgaralar,7.0
+98ee402a-42ab-41e5-b357-a913223c2ec0,Ciğer Tava,"30,00 TL",Izgaralar,-3.0
+af44b3cf-4698-4bfd-8de1-570ce1c4abac,Izgara Köfte,"32,00 TL",Izgaralar,2.0
+e215ae66-eddf-456d-9ed9-d5ac33dc2163,Ciğer Şiş,"30,00 TL",Izgaralar,2.0
+a04c6c6a-d247-484d-8c40-223caf76fd15,Kuru Fasulye,"25,00 TL",Ana Yemekler,7.0
+BEB4C182-0A39-4C2F-A470-C4CBDBBDAD74,Köri Soslu Mantarlı Tavuk,"25,00 TL",Ana Yemekler,-1.0
+77EBBCD2-8932-4980-AAB7-6F229F642405,Dağ Kekikli Kremalı Tavuk,"25,00 TL",Ana Yemekler,3.0
+C3C79374-1D3A-44E1-ADFA-3DE6F07D907E,Acılı Tavuk,"25,00 TL",Ana Yemekler,1.0
+2370AEE5-43C9-45D0-8BCE-B7857CD698E4,Wrap Chicken,"23,00 TL",Ana Yemekler,5.0
+196fbb9e-1cd1-4a22-a754-14cdd7707ea7,Ekmek Arası Tavuk,"17,00 TL",Ekmek Arası Ürünler & Dürümler,1.0
+2030ae39-86f6-4fe1-8446-815b19c9e572,Ciğer Dürüm,"20,00 TL",Ekmek Arası Ürünler & Dürümler,2.0
+657041b4-012b-4cbe-900d-f6db300525ee,Ekmek Arası Ciğer,"20,00 TL",Ekmek Arası Ürünler & Dürümler,-4.0
+34C91C1E-08B5-4F7A-B329-F67D9EE03C8A,Nohut Dürüm,"17,00 TL",Ekmek Arası Ürünler & Dürümler,8.0
+dc51dafb-e6f2-4305-8cad-0c92afd9fe4b,Tavuk Burger,"15,00 TL",Burgerler,3.0
+3143d026-db67-42c7-b9ca-058b49577393,Patates Kızartması,"8,00 TL",Yan Ürünler,3.0
+32be90c6-701a-44bf-9a15-91d645697e57,Sigara Böreği (6 Adet),"8,00 TL",Yan Ürünler,5.0
+ceb5caf6-bce6-47fa-b5fa-fd69d5372fe0,Duble Patates Kızartması,"10,00 TL",Yan Ürünler,3.0
+7dc84db0-aa19-42bd-aa84-e69a94b39c10,Poşet,"0,25 TL",Poşet,5.0

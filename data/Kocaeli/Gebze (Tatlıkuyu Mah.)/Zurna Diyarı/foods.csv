@@ -1,0 +1,24 @@
+food_id,food_name,food_price,food_category,food_score
+0cee286c-ecb6-490a-86c3-a27f809078bc,Menü 1,"20,00 TL",Menüler,17.0
+adb55d2b-e139-4127-8a26-a5f42117b4b4,Menü 2,"23,00 TL",Menüler,10.0
+316e3019-10da-4e6e-a93b-58c2e79b992b,Menü 3,"23,00 TL",Menüler,9.0
+92151dbb-4299-4092-a438-1df284b9b817,Menü 4,"26,00 TL",Menüler,9.0
+1fb341f8-e148-4cae-a226-ff374594ae58,Menü 5,"25,00 TL",Menüler,10.0
+677e8afc-3123-4198-9484-b91615995dab,Menü 6,"11,50 TL",Menüler,6.0
+90e0dd62-2ca0-4ff6-8a72-113b396b9191,Soslu Zurna Tavuk Döner Dürüm,"14,00 TL",Zurna Dürümler (70 cm.),16.0
+9674d7e3-f6ed-45dc-9276-42b3ab5ac814,Kaşarlı Zurna Tavuk Döner Dürüm,"18,00 TL",Zurna Dürümler (70 cm.),11.0
+18c1bec5-24da-4868-9efa-0ae5aac5c087,Full Zurna Tavuk Döner Dürüm,"20,00 TL",Zurna Dürümler (70 cm.),16.0
+464a0589-7192-4b13-b4c5-93eafc90c29e,Zurna Patso Dürüm,"11,00 TL",Zurna Dürümler (70 cm.),17.0
+736578c9-a918-47af-900e-a4994df0b95e,Kaşarlı Zurna Patso Dürüm,"15,00 TL",Zurna Dürümler (70 cm.),17.0
+87da1ac8-1cee-42d5-a8d7-a775a8068999,Soslu Tavuk Döner Dürüm,"8,00 TL",Dürümler (35 cm.),6.0
+76cf30ca-9bdb-4607-9a10-be19de9ea769,Kaşarlı Tavuk Döner Dürüm,"10,00 TL",Dürümler (35 cm.),1.0
+5da52791-2e45-4c9f-b6d3-e899e2074d7f,Patso Dürüm,"6,00 TL",Dürümler (35 cm.),7.0
+c29e144f-3e34-4b56-b62b-f53cb88f5f98,Kaşarlı Patso Dürüm,"8,00 TL",Dürümler (35 cm.),7.0
+98f1a222-7c1d-4c35-aaf9-13f306f31c96,Full Tavuk Döner Dürüm,"11,00 TL",Dürümler (35 cm.),1.0
+d5428585-9b42-41bf-881f-898141183415,Tavuk Döner,"15,00 TL",Tavuk Dönerler,-2.0
+911f5155-a923-47dc-ac0b-0b51a2f92477,Sütlaç,"4,00 TL",Tatlılar,5.0
+f55d66f9-5a07-4207-a143-24f28dcc157b,Puding,"4,00 TL",Tatlılar,5.0
+4ccb3133-69b7-47c6-be4d-f376029116d6,"Ayran (29,3 cl.)","3,00 TL",İçecekler,6.0
+8ccc715d-4db4-407a-9b5a-864d5d7f3e8b,Limonlu Soda,"3,00 TL",İçecekler,5.0
+16bc8978-e41d-4a17-b79b-8509b6c3456b,Su,"1,50 TL",İçecekler,5.0
+10d85e4c-f8f1-4c2b-8049-7506f90ffe51,Poşet,"0,25 TL",Poşet,5.0

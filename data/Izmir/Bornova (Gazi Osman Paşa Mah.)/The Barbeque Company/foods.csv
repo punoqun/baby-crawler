@@ -1,0 +1,79 @@
+food_id,food_name,food_price,food_category,food_score
+ac82fd51-0542-43ed-8612-cc21240a6828,Alens Hot Dog,"18,90 TL",Hot Dogs,7.0
+b58eab54-42b8-4612-ab5b-a90c82d5abbd,Barbeque Cheddar Hot Dog,"18,50 TL",Hot Dogs,12.0
+62daf9e6-4684-4d84-b202-230128d3a7e6,Casablanca Hot Dog,"24,90 TL",Hot Dogs,7.0
+e0569003-dc48-4f56-acbd-0815153d28a6,Chicago Style Hot Dog,"21,90 TL",Hot Dogs,7.0
+95b1602a-4b0d-40fe-bad9-e84f36c09135,Classic White Hot Dog,"14,90 TL",Hot Dogs,7.0
+070a094f-aab0-4dc4-9908-8c05135c1dca,Crab Mac & Cheese Hot Dog,"27,90 TL",Hot Dogs,7.0
+eaf06e2d-085e-4022-8f2e-8edce4269d5f,Frankfurter Hot Dog,"17,50 TL",Hot Dogs,7.0
+13cb4189-fafe-47c0-a59f-0258f8f3ccc4,Lviv Hot Dog,"19,90 TL",Hot Dogs,7.0
+7219c788-86cd-4609-b3f9-cf1cffd280f6,Mexico Hot Dog,"24,90 TL",Hot Dogs,7.0
+00f5f719-115d-4e53-8226-0157863a6248,Milano Hot Dog,"24,90 TL",Hot Dogs,7.0
+a50de24e-8135-4e8f-9290-890ae9298c97,Moscow Hot Dog,"21,90 TL",Hot Dogs,7.0
+17004f33-f71c-472a-ac8a-136c4f4ccb8c,New York Hot Dog,"24,90 TL",Hot Dogs,7.0
+471b1407-859f-49e7-98e6-39b94045ad5b,Seattle Hot Dog,"24,90 TL",Hot Dogs,7.0
+3c3157cb-3be8-4da9-a7c4-d36f916921ed,Sofia Style Hot Dog,"19,90 TL",Hot Dogs,7.0
+23dfe9f8-6093-459e-a2ef-f1794fa5021a,Southwestern Hot Dog,"23,90 TL",Hot Dogs,7.0
+1d15dc21-f1b3-4849-8c64-85868f4fd089,Stockholm Hot Dog,"22,90 TL",Hot Dogs,7.0
+dbf2acde-df43-4ac0-9946-62f059372352,Tafo Style Hot Dog,"18,90 TL",Hot Dogs,7.0
+891675b2-44cf-47c2-80de-44cca5c445c5,Texas Hot Dog,"22,90 TL",Hot Dogs,7.0
+c7657aec-581b-4860-9bb9-64f06a0bcfaf,The Barbeque Hot Dog,"20,00 TL",Hot Dogs,12.0
+3754b0c1-1da8-4d8c-99a7-c4efa6594a5a,Tijuana Hot Dog,"22,90 TL",Hot Dogs,7.0
+f021fb80-ea35-4690-99c3-14e4d1979d6a,Wiener Hot Dog,"21,50 TL",Hot Dogs,7.0
+1fef183a-b321-4fc3-89bc-f522b07cbad7,Al Capone Burger,"38,50 TL",Burgerler,4.0
+20f3c8fe-be08-4b6b-9f66-82bbbad15782,Angus Steak Burger,"44,00 TL",Burgerler,4.0
+7cc2182d-d165-4375-bd5f-bba4e170b379,Carma Burger,"31,90 TL",Burgerler,4.0
+9cba4b33-a58d-4c69-b758-4f180dbfe601,Cheeseburger,"27,90 TL",Burgerler,5.0
+6bb78935-5175-4779-959c-535139f1b3f8,Classic Burger,"25,90 TL",Burgerler,4.0
+444f18d2-067d-4466-a908-9de7a5fb1e02,Hungry Burger,"37,90 TL",Burgerler,4.0
+23607276-0ae0-4b46-98a6-ecbd1dd82fb0,Kentucky Burger,"25,90 TL",Burgerler,4.0
+eaca0283-899b-4622-b419-e1200c0f7ff3,Lokum Burger,"46,00 TL",Burgerler,4.0
+109eac0c-a785-494b-92b4-b2f5134dc769,New York Burger,"36,90 TL",Burgerler,4.0
+1ae0f95b-20d1-4cce-a214-66a28e78f27d,Smoked Burger,"32,90 TL",Burgerler,4.0
+11870d95-7e95-48b3-88f2-796503973dd3,Stockholm Burger,"36,90 TL",Burgerler,4.0
+bc0b3b04-72cc-4a6b-b9e6-7de29ecf9ced,XXL Burger,"42,00 TL",Burgerler,4.0
+912ae434-6c42-4fed-9914-a1f3fe20fa9a,Barbekü Köfteli Sandviç,"20,00 TL",Sandviçler,7.0
+9031252a-56b6-476d-ae19-cbf53a86866e,Barbekü Tavuklu Sandviç,"19,00 TL",Sandviçler,7.0
+63570b1d-4246-446d-bf6b-1b805549ce21,Çemberde Kavurmalı Yumurtalı Sandviç,"21,00 TL",Sandviçler,5.0
+d0baeef6-ebb6-4b61-bd9b-aac82c5907a3,Karışık Sandviç,"17,90 TL",Sandviçler,11.0
+258a7751-6d2b-4f3d-a4b3-4ac8720d153b,Soğuk Sandviç,"17,50 TL",Sandviçler,4.0
+332d2292-d755-440e-a4ee-4162ac041390,3 Mantarlı Tavuk,"34,00 TL",Beyaz Etler,7.0
+31e7be36-1c9f-43e5-9397-0e9a279caf35,Barbekü Soslu Tavuk,"24,90 TL",Beyaz Etler,7.0
+fdc4efdf-3953-4729-8db6-45bd63e1d8a1,Beğendili Tavuk,"25,90 TL",Beyaz Etler,5.0
+4922814f-2c7f-4cdd-83b7-5f9615c75dd4,Chili Tavuk,"25,00 TL",Beyaz Etler,5.0
+038d4e26-00ab-4cde-beed-5f2dadb86093,Izgara Tavuk,"22,00 TL",Beyaz Etler,5.0
+f010df97-8a23-498b-85c8-a257b6aac0cc,Köri Soslu Tavuk,"25,50 TL",Beyaz Etler,7.0
+140ca140-850f-498a-a526-64f0faf371fb,Mantar Soslu Tavuk,"23,90 TL",Beyaz Etler,5.0
+eedd561e-d26a-40c8-9f44-da24e2d4916b,Mexican Tavuk,"26,00 TL",Beyaz Etler,5.0
+58364f62-e64b-4b50-b67a-f5334a094af6,Soya Soslu Tavuk,"24,00 TL",Beyaz Etler,5.0
+89499a0c-1da8-4189-8276-57fa04d54f73,Sweet Chili Soslu Tavuk,"26,00 TL",Beyaz Etler,5.0
+5b1fcae4-546f-4bc7-93ca-ab8f7a744fc1,Tavuk Fajita,"26,00 TL",Beyaz Etler,5.0
+4f8e445c-db71-455a-bbfe-0f9050b9a308,Tavuk Külbastı,"26,00 TL",Beyaz Etler,5.0
+5d524887-83b0-4e6f-a20e-80773c91a0b2,Wiener Schnitzel,"29,90 TL",Beyaz Etler,5.0
+db50d73f-6637-41ff-bac1-ffc896ff1ec2,3 Mantarlı Bonfile,"49,00 TL",Kırmızı Etler,7.0
+281fa554-e29e-48df-9d33-c8a720b47aaa,Antrikot Sarma,"49,00 TL",Kırmızı Etler,5.0
+7f934718-9d0b-4f2c-a8b4-a4c62a489f42,Balkan Usulü Izgara Köfte,"29,00 TL",Kırmızı Etler,3.0
+74dbba0a-b60f-4e72-b518-3af2d9f5a17f,Bratwurst Sausage,"29,00 TL",Kırmızı Etler,5.0
+a8b36361-1be7-40ce-836b-19ebb2d9b493,Café de Paris Bonfile,"49,00 TL",Kırmızı Etler,46.0
+cccdad8d-e806-4e6a-b5b3-62990022be01,Cumberland Sausage,"29,00 TL",Kırmızı Etler,5.0
+037ccf9d-6f5d-49d1-8adc-b49656e0a661,Dana Lokum,"57,00 TL",Kırmızı Etler,3.0
+a33ccafe-ed03-41ff-a850-807f623e4803,Dana Madalyon,"55,00 TL",Kırmızı Etler,3.0
+b2a18a89-b516-4759-9d73-06e588fe2747,Dana Pirzola,"51,00 TL",Kırmızı Etler,3.0
+b45d6edc-00e8-4645-808f-e174ccb4fa72,Et Fajita,"49,00 TL",Kırmızı Etler,3.0
+4810dad9-a6b0-4aa7-ade5-cfcec52da790,Frankfurter Sausage,"29,00 TL",Kırmızı Etler,5.0
+da149f8e-f4ad-4b09-912e-d8a944242507,Izgara Köfte,"29,00 TL",Kırmızı Etler,3.0
+8cb687fa-e98d-4253-9635-c8b758d6f2fb,Kasap Köfte,"32,00 TL",Kırmızı Etler,4.0
+ffff5661-a55b-4218-894d-6b7546c395e6,New York Steak,"49,00 TL",Kırmızı Etler,5.0
+96d13430-41b9-4be5-a448-5c990fe4b89c,Chicken Mac & Cheese,"26,00 TL",Makarnalar,5.0
+9a7f3ec2-95cb-43d4-be52-b8884794a7eb,Crab Mac & Cheese,"23,00 TL",Makarnalar,5.0
+3503f72e-d324-4687-a8f2-0a2d06ce7dfb,Texas Mac & Cheese,"25,00 TL",Makarnalar,5.0
+ce20939e-d4cc-45f6-97b7-75f333a7e06b,Penne Alfredo,"19,90 TL",Makarnalar,5.0
+77800cf1-afc6-469f-bec3-3270910d1f85,Penne Arrabbiata,"17,90 TL",Makarnalar,5.0
+281f42be-909b-4c14-bb34-b753d5cd6c83,Penne Napolitan,"18,00 TL",Makarnalar,5.0
+95ba6580-608b-4ddd-aab5-876429e1228e,Penne Curry,"19,00 TL",Makarnalar,5.0
+554cd1c0-84be-448a-80f8-6501cdcc4cbe,Penne Bolognese,"19,90 TL",Makarnalar,5.0
+6083e6a2-80fa-4346-8dec-d400dc64c88f,Patates Kızartması (Büyük),"11,90 TL",Yan Ürünler,4.0
+f116b154-3849-41fc-ab17-5132dc6b69e5,Patates Kızartması (Küçük),"7,90 TL",Yan Ürünler,4.0
+3503c654-f3ae-434c-b716-b43887c89c45,Patates Kızartması (Orta),"9,90 TL",Yan Ürünler,4.0
+374545f4-f3fa-430d-9ab2-6015b620c326,Patates Kızartması (Süper),"14,90 TL",Yan Ürünler,4.0
+8a321c44-0a69-4215-b27a-13f6dabc9eb0,Poşet,"0,25 TL",Poşet,5.0

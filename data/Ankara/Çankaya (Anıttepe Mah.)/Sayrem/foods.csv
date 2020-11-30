@@ -1,0 +1,29 @@
+food_id,food_name,food_price,food_category,food_score
+cdc9a487-9e40-48c2-9807-8467e3e0684b,2'li Et Menü,"78,50 TL",Ekonomik Menüler,3.0
+c4536a1f-a1ed-4435-bdc2-7210bed5b94a,2'li Tavuk Menü,"58,50 TL",Ekonomik Menüler,2.0
+db8152b4-3ad4-43d0-9561-9ea74dd5e5b1,Et & Sütlaç Menü,"49,50 TL",Ekonomik Menüler,4.0
+728f4f23-b863-425c-8a18-1122e9323b5d,Köfte & Sütlaç Menü,"42,50 TL",Ekonomik Menüler,7.0
+8fedff34-2a11-44b9-86d3-1539fe379092,Tavuk & Sütlaç Menü,"39,50 TL",Ekonomik Menüler,3.0
+57130b8f-256d-4fbf-8f9a-924a0bd078a0,Beşamel Soslu Tavuk,"27,50 TL",Beyaz Etler,1.0
+d785ac07-8933-4c83-a349-4dee5cbdfdff,Cheddar Soslu Tavuk,"27,50 TL",Beyaz Etler,0.0
+5b4f06e5-7bdb-4323-9451-8e975738433a,Haşhaşlı Mozzarella Peynirli Tavuk,"26,50 TL",Beyaz Etler,1.0
+f33ea6be-b39d-4c4a-9e85-fea4280c371b,Meksika Soslu Tavuk,"26,50 TL",Beyaz Etler,1.0
+53c92dfc-7b76-4daf-9a3e-ea7358fdd135,Tatlı Ekşi Soslu Tavuk,"26,50 TL",Beyaz Etler,1.0
+39109424-02ce-470d-ab6e-03f4272ca6d9,Tavuk Çökertme,"28,00 TL",Beyaz Etler,-1.0
+2bc46f7c-14fc-40b6-b98f-711696982c97,Tavuklu Hünkar Beğendi,"27,50 TL",Beyaz Etler,8.0
+ed30c468-d7a8-46f7-8622-56b0a5d5e271,Et Çökertme,"36,50 TL",Kırmızı Etler,0.0
+ca9192b1-5664-4454-9c0d-d06becdaa146,Etli Hünkarbeğendi,"36,50 TL",Kırmızı Etler,5.0
+0da588ca-717d-4368-a427-abd571a202a4,Izgara Köfte,"30,50 TL",Kırmızı Etler,5.0
+cae9f2be-320d-49f1-aa50-66f2b8b86d47,Kaşarlı Köfte,"30,50 TL",Kırmızı Etler,5.0
+7dbc07ac-f6b2-4235-b38f-fa90b63ccbc9,Sayrem Makarnası,"16,50 TL",Makarnalar,11.0
+f79bf3d9-760f-43a8-bd3e-5e71877243b6,Cheddar Soslu Fettuccine,"18,50 TL",Makarnalar,4.0
+28ab5572-87b6-4ca3-b418-7732619d2361,Soğan Halkası,"15,50 TL",Yan Ürünler,5.0
+f8e6e0a4-0a8a-436f-a4b7-fe11e20e6c08,Elma Dilim Patates Kızartması,"15,50 TL",Yan Ürünler,6.0
+10419647-c810-4cea-b8db-9d39394ae27c,Patates Kroket,"15,50 TL",Yan Ürünler,6.0
+41d9b934-8eed-4c4d-b476-b444d01b0b95,Karman Çorman,"21,50 TL",Yan Ürünler,5.0
+77a41f39-3968-44ef-9aaa-ca623b628941,Special Salata,"22,00 TL",Salatalar,7.0
+498b38a7-ca7b-497d-b00c-a6a9749b485c,Ton Balıklı Salata,"22,00 TL",Salatalar,7.0
+d17ae7cb-7002-42d6-997a-106d51d8b37b,Fırın Sütlaç,"12,00 TL",Tatlılar,6.0
+e68d9f83-5445-4bae-98fd-67a3b5bf7872,Schweppes (25 cl.),"7,00 TL",İçecekler,5.0
+855ed359-4554-4b9a-b73f-142843170e57,Su,"2,00 TL",İçecekler,7.0
+6e9f2140-b329-40d3-80ea-33053194d451,Poşet,"0,25 TL",Poşet,5.0

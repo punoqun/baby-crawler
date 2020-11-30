@@ -1,0 +1,49 @@
+food_id,food_name,food_price,food_category,food_score
+e4625ad8-4d6f-474e-91be-ccc8eda42252,Sucuk Menüsü,"24,00 TL",Ekonomik Menüler,4.0
+7fdec2bd-bca8-4533-9961-ac6c827bba93,Kokoreç Menüsü,"24,00 TL",Ekonomik Menüler,21.0
+8312dbd0-da70-4adf-bac4-7a4ac76d9618,Köfte Menüsü,"24,00 TL",Ekonomik Menüler,14.0
+4ce57656-a94c-46d1-9d18-2b20bcac947a,Adana Dürüm Menü,"23,00 TL",Ekonomik Menüler,17.0
+314277f9-f5b3-409d-8f81-d0ccc5114bed,Urfa Dürüm Menü,"23,00 TL",Ekonomik Menüler,6.0
+6259f446-69c0-42b4-8436-6f58e150470a,Tavuk Şiş Dürüm Menü,"23,00 TL",Ekonomik Menüler,4.0
+8507aaa9-94bf-49ea-948c-fd18dbd070b0,Tavuk Kanat (1 kg.) Menü,"85,00 TL",Ekonomik Menüler,4.0
+a260590c-3878-4d7e-aeb7-12767f51ac14,Tavuk Şiş (1 kg.) Menü,"85,00 TL",Ekonomik Menüler,4.0
+b1353035-1656-4205-b669-9cbc4e84caf8,Izgara Köfte (1 kg.) Menü,"100,00 TL",Ekonomik Menüler,14.0
+f96117cb-8255-411e-8ab2-424401279b4e,Yarım Ekmek Arası Kokoreç,"15,00 TL",Kokoreçler,26.0
+b2639e4a-9eeb-4fd8-9e6e-8009c930ccb5,Yarım Ekmek Arası Kokoreç (Sade),"17,00 TL",Kokoreçler,21.0
+dd057412-1bab-4195-9cf6-f3c26e23cb11,Yarım Ekmek Arası İzmir Usulü Kokoreç (Sade),"19,00 TL",Kokoreçler,19.0
+822634b6-bf74-4d25-ac88-582bfcd10db1,3/4 Ekmek Arası Kokoreç,"22,00 TL",Kokoreçler,21.0
+8702560c-62a2-4812-ac02-73f6d6e3ee0a,3/4 Ekmek Arası Kokoreç (Sade),"24,00 TL",Kokoreçler,21.0
+b6aea46f-a332-4382-919f-031da732f638,3/4 Ekmek Arası İzmir Usulü Kokoreç (Sade),"26,00 TL",Kokoreçler,19.0
+f72cffe3-b358-4840-89d8-5047e3700fe2,Tam Ekmek Arası Kokoreç,"28,00 TL",Kokoreçler,20.0
+2261311f-36fd-45a9-b855-03d937d4ce9c,Tam Ekmek Arası Kokoreç (Sade),"32,00 TL",Kokoreçler,20.0
+f0f1c36e-6245-45e3-ae57-1bfb7009e064,Tam Ekmek Arası İzmir Usulü Kokoreç (Sade),"36,00 TL",Kokoreçler,18.0
+2d1a034a-1877-4a08-9898-f2104133ad32,Kokoreç,"30,00 TL",Kokoreçler,21.0
+555b8809-f8a7-4c28-8d7e-99ac755fdae3,Kokoreç (Sade),"35,00 TL",Kokoreçler,21.0
+2669c6b3-329f-4fe8-bc47-f766d72e77f8,İzmir Usulü Kokoreç (Sade),"36,00 TL",Kokoreçler,19.0
+3f2f01eb-3dbf-4128-913e-66adf5d044fd,Halka Kokoreç,"45,00 TL",Kokoreçler,21.0
+45b63558-63bc-4cb8-a30e-cd41572c8c3c,Adana Kebap,"25,00 TL",Kebaplar & Izgaralar,23.0
+3b19e775-eab5-4cb4-bc6b-ccb47fd759f7,Urfa Kebap,"25,00 TL",Kebaplar & Izgaralar,12.0
+3656484c-ae7a-4b69-9a87-e8189898102c,Tavuk Şiş,"24,00 TL",Kebaplar & Izgaralar,4.0
+0f34d07b-c080-4261-ae8a-f8e67203bcef,Tavuk Kanat,"25,00 TL",Kebaplar & Izgaralar,4.0
+1c930d03-8d76-49eb-b997-57d3f751c727,Et Şiş,"30,00 TL",Kebaplar & Izgaralar,7.0
+6cd123e6-1abd-416c-9d24-db9d68de50c5,Ciğer Şiş,"30,00 TL",Kebaplar & Izgaralar,5.0
+ae8709f1-edbe-4cff-8174-17a4546a03bf,Tavuk Şiş Dürüm,"14,00 TL",Dürümler,4.0
+a412a92e-d21e-4b2a-8821-db1f7fcb7905,Et Şiş Dürüm,"18,00 TL",Dürümler,7.0
+7a2bbacf-a428-4b36-bef3-dc68768f64c2,Adana Dürüm,"15,00 TL",Dürümler,17.0
+d3174cf3-0b16-4175-b617-520f5d892aa6,Urfa Dürüm,"15,00 TL",Dürümler,6.0
+5f2f18b6-cfe1-443c-807e-412af58335f0,Ciğer Şiş Dürüm,"18,00 TL",Dürümler,5.0
+b4ebba36-f82f-446d-949a-cccaaeea11ce,Izgara Köfte,"30,00 TL",Köfteler,14.0
+8e965575-5fbe-467b-bd99-23d7fe08dfea,Yarım Ekmek Arası Izgara Köfte,"15,00 TL",Köfteler,14.0
+988f863b-3834-4cae-9c9e-0a73da8b5c40,Tam Ekmek Arası Izgara Köfte,"28,00 TL",Köfteler,13.0
+b76f50a7-8d09-4970-badc-5db296255d36,3/4 Ekmek Arası Izgara Köfte,"22,00 TL",Köfteler,14.0
+699d0325-e867-433e-af8b-4349a2639758,Izgara Sucuk,"30,00 TL",Sucuklar,4.0
+2af96965-8c8b-43a2-a651-e647c82e3982,3/4 Ekmek Arası Sucuk,"22,00 TL",Sucuklar,4.0
+ff2c6469-0835-4bd5-8bc6-d32c8d7a1201,Yarım Ekmek Arası Sucuk,"15,00 TL",Sucuklar,4.0
+a156f9c7-e4a4-45f7-9daa-15122f78f959,Tam Ekmek Arası Sucuk,"28,00 TL",Sucuklar,3.0
+f8171cc3-c3eb-4a52-a28f-640535586b6a,Kızartma Cevizli İçli Köfte (Adet),"8,00 TL",Yan Ürünler,15.0
+aab13078-3f36-448b-88c3-1d7e51c95063,Kızartma İçli Köfte (Adet),"8,00 TL",Yan Ürünler,15.0
+a14de9d7-5f01-4dde-a0a9-dbd92bc4e489,Midye Dolma (Adet),"1,50 TL",Yan Ürünler,6.0
+d4823707-362d-4b41-9202-fc5093d7e085,Midye Dolma (7 Adet),"10,00 TL",Yan Ürünler,6.0
+d1e6c812-df5a-4f91-b6fa-584c1bf5597e,Hayrabolu Peynir Tatlısı,"8,00 TL",Tatlılar,5.0
+C4D83928-D359-451E-804D-AF718E272CCE,Katmer Tatlısı,"17,00 TL",Tatlılar,5.0
+2a3b02ab-9f99-4c44-877e-822661ab579b,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,30 @@
+food_id,food_name,food_price,food_category,food_score
+e5a6d89b-a72c-40a7-9828-3768a746cd05,Ekmek Arası Tereyağlı Ödemiş Köfte Menü,"16,50 TL",Menüler,-9.0
+2ce6a815-11c2-42bf-8774-a32deb9a1c32,Tereyağlı Ödemiş Köfte Menü,"22,50 TL",Menüler,3.0
+8254d1b7-f98c-4541-b6e7-44621cd18630,Kömürde Özel Cadde Karışık Sandviç Menü,"16,50 TL",Menüler,10.0
+7d53a8f2-30d4-4904-b612-da6138e40c27,Kömürde Özel Cadde Maxi Karışık Sandviç Menü,"17,25 TL",Menüler,10.0
+e4abefc6-1fba-42d5-a371-c12c601a5e62,Kömürde Özel Cadde XXL Karışık Sandviç Menü,"18,00 TL",Menüler,10.0
+d41b879d-4c17-4e82-9483-e2c850ab6e6d,Kömürde Çeşme Kumru Sandviç Menü,"18,00 TL",Menüler,3.0
+00ddea21-bd12-43c3-ac62-9829481ea63c,Kömürde Sayaslı Çeşme Kumru Sandviç Menü,"20,25 TL",Menüler,3.0
+9c3575a8-e431-40d4-acf4-f5a4abad0d71,Kömürde Ekmek Arası Sucuk Menü,"16,50 TL",Menüler,-10.0
+edca87b8-5572-46b3-a4ef-2e57d567de51,Kaşarlı Ayvalık Tostu Menü,"12,94 TL",Menüler,7.0
+ff15e2d4-9a41-4978-a27a-1cf6342c22ca,Karışık Ayvalık Tostu Menü,"13,88 TL",Menüler,15.0
+9e949308-d73f-44aa-94a3-aff415c4b67c,Kaşarlı Ayvalık Tostu,"10,88 TL",Tostlar,7.0
+22b1b3f2-1948-4b25-b6ad-1a5ffc3380f0,Karışık Ayvalık Tostu,"12,00 TL",Tostlar,20.0
+3d0a04ec-8e8c-4395-b8c5-4bb2ab547cfa,Kömürde Cadde Karışık Sandviç,"15,00 TL",Sandviçler,10.0
+0acbecd8-47a1-4c7e-8da4-1aa5aaae3c15,Kömürde Cadde Maxi Karışık Sandviç,"15,75 TL",Sandviçler,15.0
+24f13dc6-225f-4323-83c2-b7c14092b20c,Kömürde Cadde XXL Karışık Sandviç,"15,75 TL",Sandviçler,15.0
+d53114a3-eb3e-4c69-8c73-a724a07d2a07,Kömürde Çeşme Kumru Sandviç,"15,75 TL",Sandviçler,3.0
+91b24d84-d090-4aa2-b233-ac0220d4a60b,Kömürde Sayaslı Çeşme Kumru Sandviç,"18,00 TL",Sandviçler,3.0
+821fbf18-6501-472e-ad94-2cc1c2576411,Cadde Özel Mega Sandviç,"20,06 TL",Sandviçler,10.0
+2dfd9f33-7cb8-4732-8766-84b2c053383d,Yengen Sandviç,"15,75 TL",Sandviçler,3.0
+d8fae04d-a3aa-4fd5-9f7e-7a1cdba64465,Tereyağlı Ödemiş Köfte,"21,00 TL",Izgaralar,3.0
+0bc5f773-3df2-4182-bab3-1cc5cd3a18b6,Izgara Köfte,"21,00 TL",Izgaralar,4.0
+1d74e481-5fa1-4f08-9182-49e19729f47d,Ekmek Arası Tereyağlı Ödemiş Köfte,"14,25 TL",Ekmek Arası Ürünler,-9.0
+c3c6f3dd-f9f8-4600-b0df-d8a30d38fa21,Kömürde Ekmek Arası Sucuk,"13,88 TL",Ekmek Arası Ürünler,-10.0
+de32450a-55bb-4bba-bf49-1bc33f699696,Kutu Patates Kızartması,"5,25 TL",Yan Ürünler,-1.0
+91626e10-3af3-43e7-8b9a-b9c786fc4505,Patates Kızartması,"7,50 TL",Yan Ürünler,1.0
+4eb126c3-f529-482b-83c8-eef245ab880a,Duble Patates Kızartması,"10,13 TL",Yan Ürünler,1.0
+b8a45cd6-2970-4866-b61e-30bda3c51d57,Kızartma İçli Köfte (Adet),"3,00 TL",Yan Ürünler,4.0
+758c7368-473b-44c2-aed6-68d0785508ee,Su,"2,25 TL",İçecekler,1.0
+bfc6cdd6-a1d5-46a8-98f8-53241b90e766,Poşet,"0,25 TL",Poşet,5.0

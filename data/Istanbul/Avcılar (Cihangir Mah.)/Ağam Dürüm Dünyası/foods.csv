@@ -1,0 +1,52 @@
+food_id,food_name,food_price,food_category,food_score
+a91899f0-844e-4bb2-bf81-f080bdae5d90,Tuzlama,"27,00 TL",Çorbalar,5.0
+61d39752-196f-4fc8-80ae-c0fdfc8f21f5,Sarma Beyti Kebap,"35,00 TL",Kebaplar,5.0
+62c0739e-3dd1-44c7-96c3-999afdcb85fe,Patlıcanlı Kebap,"37,00 TL",Kebaplar,5.0
+77764bfc-436f-43d4-8491-f3cf6fc9d40b,Urfa Kebap,"28,00 TL",Kebaplar,5.0
+8656b688-7f61-4ffd-b4ed-c053a1fb6a6e,Adana Kebap,"29,00 TL",Kebaplar,0.0
+bdcaa769-5587-4a3a-946d-7b9f5b76434e,Domatesli Kebap,"37,00 TL",Kebaplar,5.0
+c93e4596-2dac-4b35-bbf6-f93ae3326cf0,Altı Ezmeli Kebap (Kıymadan),"39,00 TL",Kebaplar,5.0
+ce090567-c4a6-4f44-955e-3bea86f38412,Karışık Et Kebap,"60,00 TL",Kebaplar,8.0
+0ddaac91-a397-4304-a8f2-fa1c682cf0e8,Izgara Sucuk,"29,00 TL",Izgaralar,7.0
+10df5487-7867-43ad-b702-c0ac11cf1d84,Tavuk Şiş,"27,00 TL",Izgaralar,5.0
+2ff4b99d-2477-4fea-ab9b-082b93e17110,Ezmeli Çöp Şiş,"40,00 TL",Izgaralar,3.0
+3dfabce2-b0da-4441-ba40-f5638c7f442b,Çöp Şiş,"37,00 TL",Izgaralar,3.0
+460f0dcf-8720-4f99-8078-8f736a0a517a,Izgara Köfte,"28,00 TL",Izgaralar,11.0
+59881481-4f38-4531-b336-dff066b7b2a8,Tavuk Bonfile,"27,00 TL",Izgaralar,5.0
+6c872636-6f9b-4aea-b429-7598e8ec92bd,Tavuk Pirzola,"27,00 TL",Izgaralar,5.0
+aa2c7f1c-1a8d-4b97-9998-c0e9cad66107,Tavuk Kanat,"27,00 TL",Izgaralar,5.0
+ba99d270-c6cc-4b98-9e6d-79ecc0f5b01a,Kaşarlı Izgara Köfte,"30,00 TL",Izgaralar,11.0
+d094d20c-5d2a-4faf-912b-85cca75f7eb4,Karışık Tavuk Izgara,"28,00 TL",Izgaralar,13.0
+e6f71e48-7dd7-4bf8-b30a-232f9907199d,Tavuk Yaprak Kanat,"30,00 TL",Izgaralar,5.0
+36fd806c-98ec-4549-86e3-15975e708250,Tavuk Sote,"30,00 TL",Tavada Ürünler,5.0
+6c4cfa6d-7e8b-4f69-add1-9ab4fef79f40,Sac Tava,"37,00 TL",Tavada Ürünler,5.0
+ec026c1b-dbea-459d-9ba0-b681456b6a32,Çoban Kavurma,"37,00 TL",Tavada Ürünler,5.0
+fae6ce43-54bb-4e8e-ab8c-b91af3f70f52,Tava Et Sote,"37,00 TL",Tavada Ürünler,7.0
+ecd54782-2cd5-4ad3-b5b9-7dfa433ab540,Kiremitte Tavuk,"30,00 TL",Diğer Lezzetler,5.0
+08692f8a-b60a-49e1-899e-9ccb3634b552,Adana Dürüm,"18,00 TL",Dürümler,9.0
+490d5c69-9499-429b-a994-dcf60682c51a,Çöp Şiş Dürüm,"19,00 TL",Dürümler,7.0
+5158b09c-3777-4a09-ae0f-aa750bd8abc6,Tavuk Şiş Dürüm,"18,00 TL",Dürümler,9.0
+5f71d581-9263-4231-903e-54dd35a48996,Izgara Sucuk Dürüm,"19,00 TL",Dürümler,11.0
+b4948edc-c1ce-4384-ae98-2a2231ae3c5a,Izgara Köfte Dürüm,"18,00 TL",Dürümler,15.0
+c70ec2f2-d054-4946-92d9-9a1acb30012c,Urfa Dürüm,"18,00 TL",Dürümler,9.0
+b21b534b-7950-48b8-922c-8c91a13ca4a3,Jumbo Adana Dürüm,"27,00 TL",Dürümler,5.0
+a6035ac7-ea1f-4528-a32c-45de55236860,Jumbo Çöp Şiş Dürüm,"37,00 TL",Dürümler,8.0
+72ab374a-22c8-41fe-b026-c8bcf127f28d,Jumbo Tavuk Şiş Dürüm,"27,00 TL",Dürümler,10.0
+2b797abf-8861-4d04-b3da-f92bc30d7476,Jumbo Izgara Sucuk Dürüm,"37,00 TL",Dürümler,12.0
+6aea3ae1-4dba-4ba7-83b8-a629da9c0e46,Jumbo Izgara Köfte Dürüm,"27,00 TL",Dürümler,16.0
+10e86246-ddf5-4738-ba3f-e94c34f28819,Jumbo Urfa Dürüm,"27,00 TL",Dürümler,10.0
+c71bace9-8a79-45a7-a0dc-ed3e9ae49f3b,Yarım Ekmek Arası Izgara Köfte,"18,00 TL",Ekmek Arası Ürünler,11.0
+143dea05-951a-4d15-bfeb-d413b3081986,Tam Ekmek Arası Izgara Köfte,"27,00 TL",Ekmek Arası Ürünler,11.0
+ac079983-3d1c-4db6-bb20-3c19782a8ba4,Yarım Ekmek Arası Izgara Sucuk,"19,00 TL",Ekmek Arası Ürünler,7.0
+7003cbd9-727c-41d8-af52-156570c44488,Tam Ekmek Arası Izgara Sucuk,"28,00 TL",Ekmek Arası Ürünler,7.0
+411190b2-c7d5-41b1-9962-8da6b9c9e41b,Haydari,"10,00 TL",Mezeler,5.0
+75492897-2b8e-4cce-8bf9-c2eb8ebd4af5,Yoğurt,"10,00 TL",Mezeler,5.0
+9a6b189f-f9ab-43ff-85c6-e82ed23ac9f7,Cacık,"10,00 TL",Mezeler,5.0
+dc4e552f-be50-435d-b0dc-9238d9ed6e83,Acılı Ezme,"10,00 TL",Mezeler,5.0
+f7cce42e-29d0-4ce6-951b-c6ce96b06abf,Çoban Salata,"10,00 TL",Salatalar,5.0
+2aee99e7-48ac-4619-b4a4-d1beeb865604,Sütlaç,"15,00 TL",Tatlılar,5.0
+3c2743e3-9453-4f34-822c-5127f880fb51,Künefe,"18,00 TL",Tatlılar,6.0
+8561490c-e71c-4780-b1be-05f9648bf45d,Katmer,"20,00 TL",Tatlılar,4.0
+fc23fbe9-524f-4292-ad95-5bee07183ca5,"Fanta (2,5 L.)","13,00 TL",İçecekler,5.0
+8c9904e3-c413-420f-82a9-66c7b537cf06,"Sprite (2,5 L.)","13,00 TL",İçecekler,5.0
+e52e7dea-520c-4266-bfcc-2133fcbe4a3e,Poşet,"0,25 TL",Poşet,5.0

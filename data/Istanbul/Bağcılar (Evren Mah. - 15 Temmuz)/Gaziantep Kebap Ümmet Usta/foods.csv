@@ -1,0 +1,22 @@
+food_id,food_name,food_price,food_category,food_score
+0097bcb1-498b-48cc-a31c-2bf3adedf0ae,Adana Kebap,"25,00 TL",Kebaplar,8.0
+5cb2367e-c04a-4fa5-9941-72c5e75fc1b4,Urfa Kebap,"25,00 TL",Kebaplar,9.0
+7e351a3d-4735-4081-a997-3ded88282170,Patlıcanlı Kebap,"35,00 TL",Kebaplar,9.0
+9ba10032-963e-4220-8d71-1c0f865f8fbd,Domatesli Kebap,"35,00 TL",Kebaplar,9.0
+e5ca94f7-ac1e-45e2-afa7-ceb03eb3e3b7,Karışık Kebap,"60,00 TL",Kebaplar,9.0
+a30a9f99-6df7-41e4-8a19-f7faee8d8119,Ciğer Şiş,"30,00 TL",Izgaralar,5.0
+81f956d3-2fe6-40fb-9a7b-6fedfbf19ada,Tavuk Şiş,"25,00 TL",Izgaralar,5.0
+180291db-e6cb-4d73-a53f-6c95e57e114f,Çöp Şiş,"30,00 TL",Izgaralar,5.0
+facbe206-739b-450e-9423-12f8c85ca337,Tavuk Kanat,"25,00 TL",Izgaralar,5.0
+f173dc93-98e1-416d-9a9a-778ac24a0802,Adana Dürüm,"15,00 TL",Dürümler,7.0
+84d22f95-f781-447a-91fb-76e13f4cf0e6,Urfa Dürüm,"15,00 TL",Dürümler,3.0
+8de0f0ff-b3dd-464e-98f9-7ce64ffa6e8d,Ciğer Şiş Dürüm,"18,00 TL",Dürümler,3.0
+6f5f0693-4005-47b7-8410-55c36190b4b1,Çöp Şiş Dürüm,"18,00 TL",Dürümler,3.0
+af24ef61-def7-4d99-8078-6e985490ab62,Tavuk Şiş Dürüm,"15,00 TL",Dürümler,3.0
+11C48A51-A085-402D-8A42-E17352BD85CC,Kızartma İçli Köfte (Adet),"7,00 TL",Yan Ürünler,5.0
+ad84aa32-e480-46af-b828-0562fc3e0ced,Çoban Salata (1 Kişilik),"10,00 TL",Salatalar,5.0
+4951907c-347d-4d26-848c-ea87b89e7f35,Çoban Salata (2 Kişilik),"17,00 TL",Salatalar,5.0
+a549abde-5d44-471e-9890-5af5dfdb06a6,Künefe,"12,00 TL",Tatlılar,10.0
+e5b5e304-a560-4b10-bb2f-5fcbccc5a759,Tavuk Şiş (1 kg.) (Pişirilmiş),"55,00 TL",Kiloluk Ürünler,5.0
+fc893996-e24a-4b1a-a7cf-50076afce7cd,Tavuk Kanat (1 kg.) (Pişirilmiş),"60,00 TL",Kiloluk Ürünler,5.0
+d08e6478-be5c-46e0-883b-8011f6fa64f6,Poşet,"0,25 TL",Poşet,3.0

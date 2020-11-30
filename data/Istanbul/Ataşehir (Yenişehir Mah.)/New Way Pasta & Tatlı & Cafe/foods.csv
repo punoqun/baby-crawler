@@ -1,0 +1,45 @@
+food_id,food_name,food_price,food_category,food_score
+04f1a14c-6f57-4e19-98e2-454027a6a85b,Hamburger Menü,"30,90 TL",Menüler,6.0
+F436D6F0-B13B-4BD9-BC49-E7DDBCFCF69F,Sosisli Patso Sandviç,"20,00 TL",Tostlar & Sandviçler,6.0
+05025F72-43E7-4246-8F04-684037FA221C,Beyaz Peynirli Kaşarlı Tost,"20,00 TL",Tostlar & Sandviçler,3.0
+890b0d28-b8ee-4943-a2e6-58e4b75928fb,Sosis Tabağı,"20,00 TL",Ana Yemekler,5.0
+F0A3CB0C-8D59-43A3-AB2F-EF09CD8EB05D,Tavuklu Sezar Salatası,"25,00 TL",Ana Yemekler,5.0
+0E2454FE-F8FC-4D43-BA5A-293BE2373527,Ton Balıklı Salata,"25,00 TL",Ana Yemekler,5.0
+FA78C046-EF23-49F5-8946-FF12E44D3F6B,Ege Salata,"25,00 TL",Ana Yemekler,5.0
+5BDBDD17-C6C5-4124-B6B4-0ED5BCFF46E1,Patates Kızartması (Büyük),"14,90 TL",Yan Ürünler,5.0
+9CFFA166-8877-44B4-944E-C6CCE90E2624,Bask Cheesecake (Dilim),"16,90 TL",Tatlılar,2.0
+D2896E16-F8AB-4E15-B502-ABC4FB3262CA,Cevizli Midye Baklava,"20,00 TL",Tatlılar,22.0
+4C86C4FA-967C-41FD-A123-5619EC1FB04A,Künefe,"25,00 TL",Tatlılar,7.0
+8AF81DD0-68EF-4324-A335-1CA6BF59D8F5,Antep Fıstıklı Çikolatalı Sütlü Baklava (Soğuk),"27,00 TL",Tatlılar,24.0
+3B339199-C3BB-4765-8FDD-897B756E7D25,Frambuazlı Cheesecake (Dilim),"16,90 TL",Tatlılar,3.0
+6B5E37FA-4862-4A36-9AB2-879855F96F28,Cevizli Baklava (4 Dilim),"18,00 TL",Tatlılar,17.0
+0B580405-0317-4A94-AFDB-E2EEF987C653,Dondurmalı Tatlı Tabağı,"35,00 TL",Tatlılar,12.0
+A963F624-EEE0-4E01-A16D-22377153C873,Gaziantep Katmeri,"25,00 TL",Tatlılar,5.0
+6F6CBF92-575A-49F2-945E-6055F32C076B,Profiterollü Pasta (Tek Kişilik),"16,00 TL",Tek Kişilik Pastalar,21.0
+76F44975-CC78-412B-8B7D-F2867E703F64,Beypazarı Soda (20 cl.),"6,00 TL",İçecekler,5.0
+5C9D9A77-8B0D-4FD1-8527-D705E21CB809,Vişneli Soda (20 cl.),"6,00 TL",İçecekler,5.0
+3D9255A4-437C-4619-ADD7-F17F8ABF3276,Elmalı Soda (20 cl.),"7,00 TL",İçecekler,5.0
+f837d228-8931-47c0-83f2-06b0743c3b4e,Sade Maraş Dondurması (1 kg.),"60,00 TL",Kiloluk Dondurmalar,9.0
+F97191FB-06A5-4224-B573-D9160B5369A5,Muzlu Dondurma (500 gr),"30,00 TL",Kiloluk Dondurmalar,7.0
+F09005FB-1F57-450E-990A-31ADAC08237B,Portakallı Dondurma (500 gr),"30,00 TL",Kiloluk Dondurmalar,7.0
+C14B9C1A-D33B-41CC-B038-D5EECE71BD03,Oreolu Dondurma (500 gr.),"30,00 TL",Kiloluk Dondurmalar,7.0
+3568FACB-6EAA-4578-AAB6-7B49FAC09607,Sade Maraş Dondurma (250 gr.),"15,00 TL",Kiloluk Dondurmalar,11.0
+27B94725-A561-47E9-B16D-C6E577F1770B,Oreolu Maraş Dondurma (150 gr.),"18,00 TL",Kiloluk Dondurmalar,7.0
+8DB9EEFA-DA62-4302-9295-6A6F516EC482,Çilekli Maraş Dondurma (150 gr.),"18,00 TL",Kiloluk Dondurmalar,9.0
+656B4AC0-9B04-4B0A-A934-A14E1EB3829E,Damla Sakızlı Maraş Dondurma (150 gr.),"18,00 TL",Kiloluk Dondurmalar,7.0
+90725312-58F0-4444-AC56-0C290A3AAAB0,Muzlu Maraş Dondurma (150 gr.),"18,00 TL",Kiloluk Dondurmalar,7.0
+B85C7E3E-7A62-48FD-8500-663999B049A6,Kestaneli Maraş Dondurma (150 gr.),"18,00 TL",Kiloluk Dondurmalar,7.0
+519EBDD0-59F5-4775-9668-F03356763491,Antep Fıstıklı Çikolatalı Sütlü Baklava (500 gr.),"47,50 TL",Kiloluk Tatlılar,24.0
+A0170C37-256E-4CC3-A15D-7AE8C785E225,Antep Fıstıklı Çikolatalı Sütlü Baklava (1 kg.),"95,00 TL",Kiloluk Tatlılar,24.0
+49086102-2B35-4F8F-AF95-8E6DEA80085F,Cevizli Midye Baklava (1 kg),"70,00 TL",Kiloluk Tatlılar,22.0
+D079496E-3553-4D12-AC91-3187F83EA749,Cevizli Midye Baklava (500 gr.),"35,00 TL",Kiloluk Tatlılar,22.0
+E7EA94A0-EAA5-456F-B792-9D78C722E5F8,Fıstıklı Kadayıf (500 gr.),"40,00 TL",Kiloluk Tatlılar,11.0
+BBB04295-936B-4922-9149-4EEB63E1205A,Tatlı Kuru Pasta (1 kg.),"55,00 TL",Kiloluk Kuru Pastalar,30.0
+DC3695B8-C521-4179-A7DB-167697DB06D9,Tatlı Kuru Pasta (500 gr.),"27,50 TL",Kiloluk Kuru Pastalar,30.0
+DD1B797D-6B1A-4517-8536-FD68034029C7,Tuzlu Kuru Pasta (1 kg.),"55,00 TL",Kiloluk Kuru Pastalar,24.0
+8FDDE729-7EE3-4D81-96F1-4A8F1125761D,Tuzlu Kuru Pasta (500 gr.),"27,50 TL",Kiloluk Kuru Pastalar,24.0
+b55ff971-0d75-479e-bc0e-2a28ba537209,Su Böreği (1 kg.),"60,00 TL",Kiloluk Börekler (Pişirilmiş),3.0
+2ba3141c-4149-446b-b02d-fcef643bce5e,Su Böreği (500 gr.),"30,00 TL",Kiloluk Börekler (Pişirilmiş),3.0
+CFFC7964-B7D3-4991-A67F-55B96CC7D46D,Sütlü Madlen Çikolata (500 gr.),"70,00 TL",Kiloluk Çikolatalar,6.0
+3E292D6C-CB8B-447D-A57C-EC57CC04823A,Sütlü Çikolatalı Draje (500 gr),"60,00 TL",Kiloluk Çikolatalar,5.0
+f582984a-b373-4b11-99c2-39a3bd0ad0d4,Poşet,"0,25 TL",Poşet,5.0

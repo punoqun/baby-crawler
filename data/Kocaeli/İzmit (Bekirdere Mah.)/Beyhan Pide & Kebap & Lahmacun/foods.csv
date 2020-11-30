@@ -1,0 +1,40 @@
+food_id,food_name,food_price,food_category,food_score
+c9edaede-931e-4d83-aa43-eb0e11c804b5,Lahmacun,"7,00 TL",Fırın Ürünleri,24.0
+46dd0b30-3509-47cf-bdbc-3acf83dcdee9,Mantarlı Pide,"18,00 TL",Fırın Ürünleri,13.0
+c2eface5-4912-4606-bfe2-c6cea6a7a79a,Antep Usulü Lahmacun,"8,00 TL",Fırın Ürünleri,24.0
+8f379dfd-fc00-470d-b053-f8aa5e5b2bcd,Kaşarlı Pide,"18,00 TL",Fırın Ürünleri,13.0
+74815bad-5966-4b59-8ffd-0a5e9197b1da,Sucuklu Pide,"18,00 TL",Fırın Ürünleri,13.0
+962f75f4-c8e6-40af-b322-137b16cae046,Kıymalı Pide,"18,00 TL",Fırın Ürünleri,14.0
+864c7084-a8b4-4765-b974-bd93f304c576,Kuşbaşılı Pide,"21,00 TL",Fırın Ürünleri,11.0
+c1c05e30-a340-4040-b126-604c07f395c0,Karışık Pide,"21,00 TL",Fırın Ürünleri,16.0
+6c99f940-43e5-4138-a40a-357f0ffa15db,Kavurmalı Pide,"25,00 TL",Fırın Ürünleri,12.0
+b841f1af-f749-40f1-b883-0c65ed633887,Adana Kebap,"28,00 TL",Kebaplar,11.0
+d8419c37-8847-439b-9bac-4401e6d2768a,Sarma Beyti Kebap,"35,00 TL",Kebaplar,6.0
+8763b37d-1294-4070-81ad-8490500c4686,Urfa Kebap,"28,00 TL",Kebaplar,6.0
+99fc19b8-22da-400e-a95a-638aa9b682cc,Fırın Beyti Kebap,"35,00 TL",Kebaplar,6.0
+09acc214-f61e-4725-9557-eab1e7530c13,Yoğurtlu Beyti Kebap,"35,00 TL",Kebaplar,6.0
+2a98010e-3035-4f55-906c-aacacdb294f6,Alinazik Kebap (Et Şişten),"48,00 TL",Kebaplar,6.0
+369fcbe2-2408-495b-8fc0-e15fd5636b07,Alinazik Kebap (Kıymadan),"37,00 TL",Kebaplar,6.0
+b7b762f3-2403-487c-afb5-9c3b35031bb8,Patlıcanlı Kebap,"35,00 TL",Kebaplar,6.0
+12eb9df4-3157-46d6-ab15-2480ff3b37c5,Domatesli Kebap,"35,00 TL",Kebaplar,6.0
+0c713779-5736-4d4f-a5b1-ddc2c4115a5a,Karışık Kebap,"60,00 TL",Kebaplar,9.0
+fe911da2-231a-454e-9b86-5b3019fd7206,Tavuk Göğüs Şiş,"25,00 TL",Izgaralar,7.0
+8048e012-9e34-47bb-883e-299a378e06a3,Tavuk Kanat,"25,00 TL",Izgaralar,5.0
+7cecefcb-a573-46d2-b026-99f113fa0d79,Kuzu Ciğer Şiş,"30,00 TL",Izgaralar,3.0
+cb835b2e-b673-4504-aa24-97fe26ddeee2,Kuzu Şiş,"45,00 TL",Izgaralar,5.0
+c92d1d0e-17eb-4fbb-91fc-5f20d8532a70,Akçaabat Köfte,"28,00 TL",Izgaralar,7.0
+d884294c-22bc-4989-b368-e9fbc65e93e9,Adana Dürüm,"23,00 TL",Dürümler,10.0
+013dbb9a-34d6-49b6-b2d5-cc736fbb0642,Urfa Dürüm,"23,00 TL",Dürümler,5.0
+44009a3f-5902-4a2f-a6d7-3bacb4c498e6,Yarım Ekmek Arası Köfte,"14,00 TL",Ekmek Arası Ürünler,6.0
+9fa3fe42-cc49-4601-a047-c3177f6b3acd,Tam Ekmek Arası Köfte,"28,00 TL",Ekmek Arası Ürünler,7.0
+3d040627-f449-4f6e-b920-aa2b2742988f,Cevizli Fıstıklı İçli Köfte (3 Adet),"18,00 TL",Yan Ürünler,9.0
+30282A89-EACB-4640-8ED8-3AF6C7BD444A,Çiğ Köfte (12 Sıkım),"12,00 TL",Yan Ürünler,7.0
+6d4bdac6-65d4-49e5-b223-d448ca77c982,Künefe,"15,00 TL",Tatlılar,6.0
+38480d2c-af15-4476-bb5c-1e77a6a90c5f,Fırın Sütlaç,"10,00 TL",Tatlılar,5.0
+27e223a1-c156-4927-b715-ebee453b11cb,Algida Maraş Usulü Cup Dondurma (105 ml.),"6,00 TL",Dondurmalar,5.0
+53DB254E-A05A-4290-90A9-B80942758D68,Carte d'Or Dondurmalı Volcano,"10,00 TL",Dondurmalar,5.0
+75bb2113-b9be-48b6-8a32-cc367a8e6c2e,Niğde Gazozu (25 cl.),"5,00 TL",İçecekler,5.0
+be368b74-2c53-4c93-8a8c-d0bfad65c297,"Fanta (2,5 L.)","10,00 TL",İçecekler,5.0
+d7e0f42d-fa4c-474c-af7c-b0de3153674e,Akçaabat Köfte (500 gr.),"60,00 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+88dbb8bc-cef0-4ad2-bc1a-f4b4cb54f8c0,Akçaabat Köfte (1 kg.),"100,00 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+71e8c49b-cc3d-4e77-968f-e3f6b24908f0,Poşet,"0,25 TL",Poşet,5.0

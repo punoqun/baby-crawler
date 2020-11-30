@@ -1,0 +1,37 @@
+food_id,food_name,food_price,food_category,food_score
+e1379872-75bf-4b4e-9d94-9d469706f266,Ekmek Arası Izgara Köfte Menü,"31,00 TL",Ekonomik Menüler,11.0
+c099bd6d-04b9-47b1-ae47-61a0ebc3a261,Tavuk Şiş Dürüm Menü,"18,00 TL",Ekonomik Menüler,21.0
+59a1b262-2d0f-4443-9921-14d08681f7fd,Special 7'm Menü,"37,50 TL",Ekonomik Menüler,5.0
+f8539b7a-5b36-4c32-bc26-f6166b118550,Adana Dürüm Menü,"25,00 TL",Ekonomik Menüler,46.0
+89fa1456-1a8b-43d4-86e2-4eb24cae7847,Izgara Köfte (1 kg.) (Pişirilmiş) Menü,"90,00 TL",Ekonomik Menüler,8.0
+4f24a42d-9c6d-4f9b-9ad6-ca4f17061ea5,Izgara Tavuk Kelebek (1 kg.) (Pişirilmiş) Menü,"90,00 TL",Ekonomik Menüler,14.0
+376f826a-f8e6-4dfb-95a7-263343e16e1c,Izgara Kanat (1 kg.) (Pişirilmiş) Menü,"90,00 TL",Ekonomik Menüler,4.0
+cc649e58-4973-4c01-a335-6da49b593e0d,Kuzu Ciğer Şiş Dürüm Menü,"29,50 TL",Ekonomik Menüler,25.0
+9d048969-9e2d-485e-93dd-d3cfc4dee01f,Et Şiş Dürüm Menü,"29,50 TL",Ekonomik Menüler,10.0
+8defb348-82da-4430-8cab-c1207fcd695a,4'lü Dürüm Menü,"79,00 TL",Ekonomik Menüler,11.0
+508958ea-5a5e-4d3e-84c1-7d4be727acb6,3'lü Adana Dürüm Menü,"75,00 TL",Ekonomik Menüler,41.0
+442e7c0c-b420-4d70-bb4d-0e704851d908,Sporcu Menü,"27,00 TL",Ekonomik Menüler,4.0
+50c4cd77-993a-4c1f-8e6d-6ea806a6a83f,Adana Dürüm,"22,00 TL",Dürümler,46.0
+8c059bcf-f492-404e-b8af-6d5dcfb97ec4,Yürek Dürüm,"23,00 TL",Dürümler,11.0
+0458DF06-BF86-4631-8485-7CFD7CF363D6,Ciğer Kavurma Dürüm,"20,00 TL",Dürümler,25.0
+0f617a92-632a-45db-8596-4397dc2ad1fc,Kuzu Ciğer Şiş Dürüm,"26,00 TL",Dürümler,25.0
+56b2b10d-68bc-4819-af24-ed0f6aca94e3,Et Şiş Dürüm,"26,00 TL",Dürümler,10.0
+708ccdcc-df9c-478c-b2d4-74b1551e6aec,Tavuk Şiş Dürüm,"15,00 TL",Dürümler,26.0
+442bd797-09ac-4c7a-8ec9-9ca083b5ef09,Yürek,"37,00 TL",Izgaralar,5.0
+4e400e10-9b86-420a-a83a-6eddabae205e,Tavuk Şiş,"30,00 TL",Izgaralar,15.0
+7cacc204-e940-4337-a1ed-ed0d0fac2920,Special 7'm,"35,00 TL",Izgaralar,5.0
+9b0b4b9c-ce19-44ed-b0f7-e004dded5ad9,Yarım Ekmek Arası Izgara Köfte,"22,00 TL",Ekmek Arası Ürünler,11.0
+ce3904e1-e0d7-47d4-8a5a-583d63dcfa60,Çiğ Köfte (15 Sıkım),"20,00 TL",Çiğ Köfteler,9.0
+DA8E1DB3-9629-4F26-8B81-AF60FEBFF4EA,Ciğer Kavurma,"9,00 TL",Diğer Lezzetler,19.0
+145fe5a5-83af-453b-a1ed-16a582c1904f,Adana İrmik Helvası,"10,00 TL",Tatlılar,35.0
+81a506c2-5fc1-4b16-ba45-29c10cf04bee,Dondurmalı İrmik Helvası,"12,00 TL",Tatlılar,5.0
+367fa13f-08d0-4e03-8290-c35a4c84038d,Ev Yapımı Sütlaç,"10,00 TL",Tatlılar,5.0
+E09287ED-BF48-417D-A7E7-5AE032975D84,Kıbrıs Tatlısı,"10,00 TL",Tatlılar,6.0
+9E347FAE-6B5D-43A4-A0D6-015853680D22,Turşu Suyu (30 cl.),"7,00 TL",İçecekler,5.0
+2209a05d-02d4-4952-ae2a-0dfdf14a6e49,Ankara Gazozu (25 cl.),"5,00 TL",İçecekler,5.0
+2F8874FF-708B-434E-8E11-E2E2CE1F85B9,Ev Yapımı Limonata,"7,00 TL",İçecekler,5.0
+e412da5b-f521-49ab-9d22-cdd98cff1b64,Ev Yapımı Adana Şalgam Suyu,"7,00 TL",İçecekler,35.0
+559fb717-f296-4edc-a152-d0a60909d1a7,Izgara Köfte (1 kg.) (Pişirilmiş),"85,00 TL",Kiloluk Ürünler,8.0
+42005653-bd8c-4dbb-802f-2ca78e353d35,Izgara Tavuk Kelebek (1 kg.) (Pişirilmiş),"85,00 TL",Kiloluk Ürünler,14.0
+d2be2e16-b067-4906-9a4a-ada71b397505,Izgara Kanat (1 kg.) (Pişirilmiş),"85,00 TL",Kiloluk Ürünler,4.0
+9d22ec5f-97d2-48fe-8273-1d77d4a72910,Poşet,"0,25 TL",Poşet,5.0

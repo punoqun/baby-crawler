@@ -1,0 +1,32 @@
+food_id,food_name,food_price,food_category,food_score
+7aed99b7-dc21-4179-b0c1-6112f87238ab,B + B Menü,"24,90 TL",Menüler,30.0
+e8244db6-b6ce-4527-b3cb-11cb02de99f0,2'li Chicken Burger Menü,"23,90 TL",Menüler,7.0
+0dda2f88-3cda-4742-ac71-d7b1c48b6bdd,2'li Hamburger Menü,"29,90 TL",Menüler,12.0
+f148dbec-d383-44f4-9db2-286f701f5c54,3'lü Chicken Burger Menü,"32,90 TL",Menüler,7.0
+29d6c43a-af13-4a46-87b7-a11d3c099710,3'lü Hamburger Menü,"35,90 TL",Menüler,7.0
+3e2eee3a-1da1-4961-a37d-0e7ebdb2496d,Mix Menü,"39,90 TL",Menüler,4.0
+dd26f2b7-81cb-480d-9bc5-fdd69a9ff17e,Mix L Menü,"49,90 TL",Menüler,15.0
+37dfba3b-9f88-4c72-a670-755e5a7c206e,Mix XL Menü,"59,90 TL",Menüler,9.0
+d5c58d71-b72b-4fbf-9db3-fa33e666d47d,Argentina Burger,"59,90 TL",Burgerler,7.0
+1e710045-4089-4390-bdf4-79bd01165193,Aim Burger,"37,90 TL",Burgerler,7.0
+835c1ee5-8149-4083-ad59-381f6cc070f8,Mar Burger,"35,90 TL",Burgerler,7.0
+69bfc70e-1cc6-4571-b569-135e7e178a26,Cresp Burger,"29,90 TL",Burgerler,7.0
+5a11ec38-554a-48ac-944c-d94220e74d64,Batis Burger,"27,90 TL",Burgerler,7.0
+25d6dc73-d536-428d-a11d-fde7e14ee0bc,Mes Burger,"28,90 TL",Burgerler,7.0
+1e614d17-1f45-46ef-be25-3cb4193f422e,Moren Burger,"28,90 TL",Burgerler,7.0
+779ceaf3-2bc7-42e9-8091-b72fbc0fb387,Pastırmalı Burger,"14,90 TL",Burgerler,7.0
+93a74e75-11ad-40a2-b2b8-c9035a7c25f2,Mix Chicken Burger,"14,90 TL",Burgerler,10.0
+8c9c4da9-c12a-4d08-a3fe-c0dda10bf469,Fümeli Burger,"14,90 TL",Burgerler,7.0
+dc565a55-2440-4809-b6d5-a3009444cfe0,Jambonlu Burger,"13,90 TL",Burgerler,7.0
+526960ab-d549-4666-9d51-f5c10842fa02,Cheeseburger,"12,90 TL",Burgerler,5.0
+15c7aed1-8810-44c9-a251-f914c0003d36,Hamburger,"11,90 TL",Burgerler,8.0
+dd8c0cfe-523e-4eab-bfda-f067aca4bda4,Chicken Burger,"9,90 TL",Burgerler,9.0
+47a6d78d-82e7-4926-9e33-27655ad1a2b8,Mix L Kumru Sandviç,"19,90 TL",Sandviçler,19.0
+e8a3841a-3b31-4bcf-8d3d-27d4d6949803,Mix XL Kumru Sandviç,"24,90 TL",Sandviçler,8.0
+c7ed531a-7d58-42dd-be3a-2cc4e429ffc3,Patates Kızartması,"9,00 TL",Yan Ürünler,4.0
+f424e57a-4af7-4b94-a2d5-f8bc7c834c3c,Soğan Halkası (8 Adet),"9,00 TL",Yan Ürünler,8.0
+3654fc73-3b55-43fb-839e-fa6c543d3e49,Tavuk Nugget (6 Adet),"9,00 TL",Yan Ürünler,5.0
+8b59117d-f2f1-4d1d-b8c3-5105bc677329,Mozzarella Peyniri (5 Adet),"14,00 TL",Yan Ürünler,5.0
+2e2ac4ee-848c-4f54-9186-3a49838820cc,Çıtır Tavuk Topları (12 det),"10,00 TL",Yan Ürünler,5.0
+b877be34-e4a1-46e8-8ac9-029d1d98a95c,Argentina Keyif Sepeti,"25,00 TL",Yan Ürünler,5.0
+4e23542c-7de4-4f7b-987b-4750a146d83e,Poşet,"0,25 TL",Poşet,5.0

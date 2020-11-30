@@ -1,0 +1,39 @@
+food_id,food_name,food_price,food_category,food_score
+221f7307-3f31-44f8-b0db-da78870b1c85,Sade Kumpir,"20,00 TL",Kumpirler,29.0
+4dcf767b-130e-42eb-ac49-a497c65873ce,2 Malzemeli Kumpir,"23,00 TL",Kumpirler,32.0
+0ea9f581-5cec-4812-9d0e-28bbbeeca554,5 Malzemeli Kumpir,"26,00 TL",Kumpirler,36.0
+91e4a439-4c05-475f-9b74-b7cf66439583,Full Karışık Kumpir,"29,00 TL",Kumpirler,33.0
+1575334f-5126-4da6-9113-321d2fa024d9,Adana Kebap (200 gr.),"42,00 TL",Kebaplar,18.0
+94efe6fc-9b7b-42d1-b5c6-c918e0f3501c,Urfa Kebap (200 gr.),"42,00 TL",Kebaplar,15.0
+93655b28-8b2d-4a2c-8edb-fad4957ef810,Karışık Kebap (450 gr.),"70,00 TL",Kebaplar,13.0
+0691f881-96c6-455c-ae86-cf8c83c9abea,Tavuk Şiş (300 gr.),"39,00 TL",Izgaralar,21.0
+b2ea6aec-81a5-4bda-a677-97dc3a63868d,Tavuk Kanat (350 gr.),"39,00 TL",Izgaralar,23.0
+debef117-8ae3-4dbc-ab61-8e831c7ddeb3,Çöp Şiş (250 gr.),"52,00 TL",Izgaralar,11.0
+01496d19-bdcb-40f8-b68c-76478f2f6217,Kuzu Ciğer Şiş (250 gr.),"50,00 TL",Izgaralar,7.0
+19cb27d0-60cf-4f4c-a728-72e9621fb08d,Kuzu Şiş (250 gr.),"56,00 TL",Izgaralar,7.0
+e7ff2861-e652-4525-b81f-a25760370bd9,Izgara Köfte (250 gr.),"40,00 TL",Izgaralar,5.0
+581f13e9-3172-432e-9b30-4b7b0a5045cd,Izgara Sucuk (250 gr.),"52,00 TL",Izgaralar,5.0
+5269d525-7286-4851-8c5b-fc9639a5100d,Izgara Kaşarlı Sucuk (250 gr.),"52,00 TL",Izgaralar,6.0
+266db43a-9f72-4ca8-b7af-d13613341537,Et Tantuni Dürüm,"25,00 TL",Et Tantuniler,14.0
+15311eee-51dc-4e8c-b298-d27784355f5e,Adana Dürüm (110 gr.),"28,00 TL",Dürümler,23.0
+716cdbca-7acc-4320-9813-beb242db0ddd,Urfa Dürüm (110 gr.),"28,00 TL",Dürümler,15.0
+82d2bf77-ff4e-47fc-a9b4-02211d7a4314,Tavuk Şiş Dürüm (150 gr.),"27,00 TL",Dürümler,31.0
+20eae253-c5a2-4f5e-a829-2720520b768b,Çöp Şiş Dürüm (110 gr.),"30,00 TL",Dürümler,21.0
+cb23ef8c-31f5-449d-a4d8-1e58dd7883d0,Ciğer Şiş Dürüm (110 gr.),"30,00 TL",Dürümler,15.0
+6551017a-56af-4921-9909-4e8d46ef44fc,Kuzu Şiş Dürüm (110 gr.),"33,00 TL",Dürümler,17.0
+931140ec-a05f-4488-ae32-45aa83951619,Karışık Dürüm (160 gr.),"44,00 TL",Dürümler,13.0
+6d3a56c6-628b-4898-a608-a46b7b5ce94e,Doydum Dürüm (240 gr.),"46,00 TL",Dürümler,17.0
+a04927b6-9c1d-46d6-85bc-95073bff7a0a,Izgara Köfte Dürüm (150 gr.),"28,00 TL",Dürümler,15.0
+b2b4c841-373d-4df6-ae1e-e6c358420aa4,Izgara Sucuk Dürüm,"32,00 TL",Dürümler,15.0
+3600cddd-0648-4253-8c49-656519d9545b,Izgara Kaşarlı Sucuk Dürüm,"32,00 TL",Dürümler,16.0
+9064472b-5dd5-48a1-9661-bd09fb27ac79,Yarım Ekmek Arası Izgara Köfte,"28,00 TL",Ekmek Arası Ürünler,5.0
+623ff93c-24d7-4af0-a593-e68da1782d7d,Çiğ Köfte (150 gr.),"15,00 TL",Çiğ Köfteler,12.0
+8fc5eb78-d792-4f23-98bd-05013adf18ec,Çiğ Köfte (300 gr.),"24,00 TL",Çiğ Köfteler,12.0
+a6b77878-3b3b-4c18-9a6b-c737a5c7ffa8,Patates Kızartması,"15,00 TL",Yan Ürünler,11.0
+ec89cf04-0a4b-4c26-a8f4-09e169491e9c,Çoban Salata,"17,00 TL",Salatalar,5.0
+6fd315e8-b7ce-49c6-b596-3e8989fb6c91,Gavurdağı Salatası,"22,00 TL",Salatalar,5.0
+8890cce0-4d09-4821-a4e9-63fe2a7e8983,Antep Katmer,"30,00 TL",Tatlılar,5.0
+ba15592e-cf22-42d1-9a31-3b9dd5a487f3,Hatay Künefe,"20,00 TL",Tatlılar,4.0
+4c93b079-db94-4f05-8a2d-08f77b4751f4,Sade Çikolatalı Waffle,"22,00 TL",Tatlılar,0.0
+89218735-c685-4bcb-a1bb-5163014c68a9,Waffle,"30,00 TL",Tatlılar,1.0
+6d6155aa-d57c-423f-8b4c-2a0004b4a0b3,Poşet,"0,25 TL",Poşet,5.0

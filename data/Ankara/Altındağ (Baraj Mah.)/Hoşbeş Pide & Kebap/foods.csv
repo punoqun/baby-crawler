@@ -1,0 +1,43 @@
+food_id,food_name,food_price,food_category,food_score
+17903db9-77e2-46f4-b0d7-019ecf68721b,Et Döner Menü,"20,00 TL",Menüler,5.0
+619991c2-74a1-41d9-aa4c-30c7d07f97b8,Ekmek Arası Et Döner (100 gr.) Menü,"20,00 TL",Menüler,8.0
+47fb581d-3115-40ba-857e-0083c24cb0b2,Et Döner Dürüm (100 gr.) Menü,"20,00 TL",Menüler,5.0
+ebe481af-f14c-4011-b60a-b3ea8e547f26,Ekmek Arası Tavuk Döner (100 gr.) Menü,"8,00 TL",Menüler,8.0
+94eb5ad0-9e29-4db5-a917-2637916e5159,Tavuk Döner Dürüm (100 gr.) Menü,"9,00 TL",Menüler,5.0
+cebad317-0d88-4884-949c-c5279c26ae43,Adana Kebap,"19,00 TL",Kebaplar & Izgaralar,6.0
+1f10af5f-12fd-4ea9-8122-0f032b1bf65c,Beyti Sarma Kebap (Et Dönerden),"22,00 TL",Kebaplar & Izgaralar,6.0
+9fd3b3e0-02da-4429-a6ab-2effafe447c6,Beyti Sarma Kebap (Adana Kebaptan),"22,00 TL",Kebaplar & Izgaralar,6.0
+362b8300-038c-4e1b-8384-8bf323dceb92,Izgara Köfte,"19,00 TL",Kebaplar & Izgaralar,0.0
+3423f173-c94e-4791-ba57-3e73fab84981,Tavuk Kanat,"19,00 TL",Kebaplar & Izgaralar,3.0
+d4e49263-d7fb-4a65-b0eb-83be581013f5,Tavuk Şiş,"18,00 TL",Kebaplar & Izgaralar,3.0
+91dc7503-a3ae-4469-9dca-8882a6cd11ec,Lahmacun,"9,00 TL",Fırın Ürünleri,21.0
+0941b154-4864-4856-a9b8-bc944ea22e87,Tavuk Dönerli Pide (Kapalı),"18,00 TL",Fırın Ürünleri,7.0
+d515bc04-6d48-4e3b-af5b-0a5cbc13711d,Et Dönerli Pide (Kapalı),"24,00 TL",Fırın Ürünleri,12.0
+d6940c6e-50a4-4976-8e78-75f2598fb441,Kıymalı Pide,"16,00 TL",Fırın Ürünleri,9.0
+deb24c62-d8ca-4ee6-9fa9-39b2ed607ae6,Kuşbaşılı Pide,"22,00 TL",Fırın Ürünleri,9.0
+db29bbe1-db1f-4b99-aec0-20938b73a6a1,Kaşarlı Pide,"18,00 TL",Fırın Ürünleri,9.0
+1da6ac17-32fe-4459-91d6-b83575c570e8,Karışık Pide,"22,00 TL",Fırın Ürünleri,9.0
+126cb0c3-faa6-42c2-9095-2eb725987d21,Sucuklu Pide,"18,00 TL",Fırın Ürünleri,9.0
+da7df449-7b19-4705-9903-5281a5089646,Çorum Pidesi,"18,00 TL",Fırın Ürünleri,4.0
+7a2dfda3-25e0-4dec-b4d1-f6891eecc9d3,Kıymalı Pide (50 Adet),"600,00 TL",Fırın Ürünleri,9.0
+e9ba7c5a-618a-4e25-a1fc-3adf8e743ada,Tereyağlı İskender (Et Dönerden),"22,00 TL",Et Dönerler,4.0
+a062405e-5356-4ebc-b873-b581dc21544b,Pilav Üstü Et Döner,"22,00 TL",Et Dönerler,6.0
+ffc7e141-ddef-4325-af6f-ef18ed36f90f,Tereyağlı İskender (Tavuk Dönerden),"17,00 TL",Tavuk Dönerler,4.0
+6919af5b-8581-4884-a4f4-448b373c5b4e,Pilav Üstü Tavuk Döner,"17,00 TL",Tavuk Dönerler,1.0
+11867cf3-5c9a-4118-a171-3e1b756031d6,Kiremitte Köfte,"19,00 TL",Kiremitte Ürünler,0.0
+eeaa8c13-e91a-401f-b851-b33943ea2b51,Kiremitte Tavuk Şiş,"19,00 TL",Kiremitte Ürünler,3.0
+1d08457b-110d-4bf9-9dc0-4af979541fb6,Adana Dürüm,"19,00 TL",Dürümler,6.0
+614d4e5d-9a77-467b-9bba-8f89d0094dc8,Pirinç Pilavı,"8,00 TL",Yan Ürünler,5.0
+f9c62926-4e57-4760-b80d-d9757a79a75f,Lavaş,"3,00 TL",Yan Ürünler,5.0
+A375698F-F9A9-4C08-BF44-08D040536ADA,Bulgur Pilavı,"8,00 TL",Yan Ürünler,3.0
+30dc7397-faae-4f0f-889a-5f8e0532a744,Hatay Künefe,"10,00 TL",Tatlılar,4.0
+8DEC0B67-D307-48DC-9E14-8BAE8ED58EDF,Coca-Cola Lime,"5,00 TL",İçecekler,5.0
+516669ff-7dab-4028-b86c-efe0c57bd98b,Limonlu Meyveli Soda (20 cl.),"2,00 TL",İçecekler,5.0
+BEDBCB85-0DC6-41A4-BBFA-0BCF98B63E9A,Su (1.5 L.),"3,00 TL",İçecekler,5.0
+d1063c3e-c7aa-437f-991e-7547ad81c7f3,"Fanta (2,5 L.)","12,00 TL",İçecekler,5.0
+6D01D53D-CE1E-402C-8F2F-684CAA255E47,Su (5 L.),"6,00 TL",İçecekler,5.0
+691f559d-4d34-4645-bdb8-ac86b43e0e24,Tavuk Döner (1 kg.) (Pişirilmiş),"50,00 TL",Kiloluk Ürünler (Pişirilmiş),0.0
+69fbd20b-bf24-45ee-97c5-389f1a2d11d6,Tavuk Döner (500 gr.) (Pişirilmiş),"30,00 TL",Kiloluk Ürünler (Pişirilmiş),0.0
+572FC4B7-C814-4B5D-B6E8-D4D897252628,Et Döner (1 kg.) (Pişirilmiş),"160,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+7837418F-F594-43AE-BEDC-02B5725FE8AC,Et Döner (500 gr.) (Pişirilmiş),"90,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+13356caa-aa7e-4dee-a68a-8c175987818f,Poşet,"0,25 TL",Poşet,5.0

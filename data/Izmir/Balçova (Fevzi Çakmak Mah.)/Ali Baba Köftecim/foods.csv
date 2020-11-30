@@ -1,0 +1,33 @@
+food_id,food_name,food_price,food_category,food_score
+17108FF9-1899-4A72-B25B-B8667CBDA31E,1 Kişilik Tavuk Döner Menü,"20,00 TL",Ekonomik Menüler,-2.0
+19e753a5-74e9-4f2c-b5ac-bfc55a34077f,1 Kişilik Patuk Menü,"22,00 TL",Ekonomik Menüler,1.0
+8101a795-a1db-48dd-9c19-791930a877e1,2 Kişilik Patuk Menü,"40,00 TL",Ekonomik Menüler,1.0
+a1ffda3b-2e82-47ed-a6f4-3ec5d704006d,Ekmek Arası Köfte Menü (1 Kişilik),"22,00 TL",Ekonomik Menüler,5.0
+32a78a06-98e8-45e9-8e8a-1e2e675a57d9,2 Kişilik Köfte Menü,"40,00 TL",Ekonomik Menüler,3.0
+db0fbd84-154c-4c87-8b0b-8b00eab3cf6d,2 Kişilik Tavuk Menü,"40,00 TL",Ekonomik Menüler,-2.0
+1e96a4ab-510f-4193-8c1f-52a6521481f8,2 Kişilik Hamburger Menü,"40,00 TL",Ekonomik Menüler,1.0
+cf7bd15c-22db-4d1f-b217-b3e116645f5b,1 Kişilik Menü,"22,00 TL",Ekonomik Menüler,1.0
+de06fb09-c04a-436e-9915-810ed0c919f4,2 Kişilik Boşnak Dürüm Menü,"45,00 TL",Ekonomik Menüler,1.0
+680061b8-c9f4-4c3d-9bdc-f979aa5aac5b,2 Kişilik Sucuk Menü,"40,00 TL",Ekonomik Menüler,1.0
+3cc9d56a-40c8-46a3-ae4a-0d553a6bdc0a,1 Kişilik Boşnak Dürüm Menü,"25,00 TL",Ekonomik Menüler,1.0
+4df0c9c6-2196-40bd-a94b-1bd07c077e2a,1 Kişilik Sucuk Menü,"20,00 TL",Ekonomik Menüler,1.0
+2dbc1b3a-5e72-49fa-a078-7d1823125675,Izgara Köfte Menü,"110,00 TL",Ekonomik Menüler,5.0
+26407bac-f9b6-4b30-9f5b-50f7c60e92c9,Tavuk Menü (1 Kişilik),"22,00 TL",Ekonomik Menüler,0.0
+31180943-83ac-4ac9-a714-3fdcc6bcddfb,Ali Baba Hamburger,"17,00 TL",Burgerler,5.0
+1de4cc0f-496c-4153-a5e0-f2c29c8df9dc,Ali Baba Cheeseburger,"20,00 TL",Burgerler,6.0
+7dd70c4d-ec83-4e02-9ceb-7a10f6621f0f,Izgara Köfte,"30,00 TL",Izgaralar,12.0
+50f04be9-a3f4-4ab5-bee5-2cbcf288e7a7,Tavuk Şiş,"30,00 TL",Izgaralar,2.0
+3ffdd914-6dcb-4dfe-aa64-c97852101939,Karışık Izgara,"50,00 TL",Izgaralar,5.0
+5534a91b-2089-4cd9-a5e0-2e5d031003b7,Izgara Sucuk,"30,00 TL",Izgaralar,5.0
+7ffb5bac-9d1a-4dc2-b3d2-f99153bb55fc,Patuk Dürüm,"17,00 TL",Dürümler,5.0
+f58fa83a-273a-49f4-b52a-8d3af22bc12d,Ali Baba Köfte Dürüm,"15,00 TL",Dürümler,12.0
+0febd033-d337-417a-afd0-931c8a025aa0,Ali Baba Tavuk Dürüm,"15,00 TL",Dürümler,2.0
+d482bc5a-6cc1-4de1-afe7-b1afdf31fe37,Ali Baba Sucuk Dürüm,"15,00 TL",Dürümler,5.0
+b59f2e37-4f7e-4e79-bbc1-58e4e149d766,Ali Baba Yarım Ekmek Arası Köfte,"15,00 TL",Ekmek Arası Ürünler,5.0
+998478d2-7da9-42c7-8ceb-2ae227bbe55b,Ali Baba Yarım Ekmek Arası Tavuk,"15,00 TL",Ekmek Arası Ürünler,0.0
+3227c8b1-68aa-4eee-92ca-fb54adc4bb2d,Ali Baba Yarım Ekmek Arası Sucuk,"15,00 TL",Ekmek Arası Ürünler,3.0
+c7bc87c3-db91-46d1-98f3-bf6591de2ea2,Kepek Ekmeğine Ayvalık Tostu,"17,00 TL",Tostlar,5.0
+e22183af-81ec-4487-9682-2ae21ac5913d,Freşa Meyveli Soda,"5,00 TL",İçecekler,5.0
+e0b0a0da-ba0e-4a32-9e3b-e436a63a9bdf,Freşa Sade Soda,"5,00 TL",İçecekler,5.0
+e3be209c-9b5f-4ef0-a451-f062a29cacae,Sırma Su (33 cl.),"5,00 TL",İçecekler,5.0
+bd3a23a4-a115-4d32-9af1-15f51a5cb83f,Damla Su,"3,00 TL",İçecekler,5.0

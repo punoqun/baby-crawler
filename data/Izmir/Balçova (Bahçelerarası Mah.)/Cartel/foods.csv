@@ -1,0 +1,63 @@
+food_id,food_name,food_price,food_category,food_score
+276b5d1b-9ec6-4790-be78-26d17fa25657,Set Menü 1 (18 Pcs.),"120,00 TL",Set Menüler,7.0
+194cfdce-fd64-4c73-97b7-46ff367fca14,Set Menü 2 (20 Pcs.),"130,00 TL",Set Menüler,5.0
+01717fba-edaf-4644-b106-5d7da83e0f0d,Set Menü 3 (26 Pcs.),"155,00 TL",Set Menüler,5.0
+5779d693-ebf9-4697-963d-06e88cbefbed,Set Menü 4 (34 Pcs.),"165,00 TL",Set Menüler,5.0
+0f8b8835-d873-4a1a-ad71-8a0ce167729e,Ebi Nigiri,"18,00 TL",Nigiri Sushi (1 Pcs.),5.0
+e828bd0f-9475-403a-b686-b92cf87690ea,Kani Nigiri,"15,00 TL",Nigiri Sushi (1 Pcs.),5.0
+f2c2422f-73a0-4bc9-ba3b-46b1e47ea712,Sake Nigiri,"18,00 TL",Nigiri Sushi (1 Pcs.),5.0
+631e333c-450e-4ec0-acf5-a4b76f9f9f06,Sake Avokado Nigiri,"19,00 TL",Nigiri Sushi (1 Pcs.),5.0
+f05290cf-3588-4c38-8a69-53a38c7a46dd,Suzuki Nigiri,"16,00 TL",Nigiri Sushi (1 Pcs.),5.0
+5577c9f5-0a79-4d0b-aae4-9f5785305533,Unagi Nigiri,"25,00 TL",Nigiri Sushi (1 Pcs.),5.0
+ac50addd-f399-4059-851f-046d1de1668a,Tobiko Nigiri,"25,00 TL",Nigiri Sushi (1 Pcs.),5.0
+aa72fe2d-6b38-4722-bead-c39335606f97,Sake Sashimi,"65,00 TL",Sashimi (5 Pcs.),5.0
+0b0d73e6-4597-4b1a-a8a3-0a027f18be16,Suzuki Sashimi,"57,00 TL",Sashimi (5 Pcs.),5.0
+3be7d73a-b55f-4df8-b1f7-01ef52f490fa,Ebi Sashimi,"70,00 TL",Sashimi (5 Pcs.),5.0
+34dc272a-5eb8-4a1f-ba03-d9402a5bb313,Unagi Sashimi,"85,00 TL",Sashimi (5 Pcs.),5.0
+B5DAEA5B-8DB0-4E87-B11F-B5EE137E5594,Sashimi Mix,"65,00 TL",Sashimi (5 Pcs.),5.0
+abeb10a7-8769-46a1-9a56-bacefe8f17e6,Kappa Maki,"27,00 TL",Maki Roll (6 Pcs.),5.0
+e081c6ec-bf87-4d07-8d3e-57b35c4a47af,Avokado Maki,"28,00 TL",Maki Roll (6 Pcs.),5.0
+7f78f07b-609f-415f-807f-ed121d9df7dd,Kani Maki,"31,00 TL",Maki Roll (6 Pcs.),5.0
+3b4063ba-1703-4ffb-ad16-b2f57acf7ecc,Sake Maki,"36,00 TL",Maki Roll (6 Pcs.),5.0
+333dbba8-264c-4ab1-b28d-0ceb67462073,Sake Avokado Maki,"38,00 TL",Maki Roll (6 Pcs.),5.0
+0288168b-3a27-4af2-add4-3c42df455021,Spicy Sake Maki,"37,00 TL",Maki Roll (6 Pcs.),5.0
+47f678ae-7664-489b-b952-0daf5e34405f,Ebi Maki,"36,00 TL",Maki Roll (6 Pcs.),5.0
+E9F484DA-1664-46D0-B218-EF939667EB16,Unagi Maki (6 pcs.),"44,00 TL",Maki Roll (6 Pcs.),5.0
+298A6B59-11E0-410C-96B3-E0C787301BCB,Unagi Avocado Maki (6 Pcs.),"45,00 TL",Maki Roll (6 Pcs.),5.0
+5714de31-812f-46db-bb5b-1ef3aa8d2df5,Crunch Crab Roll,"42,00 TL",Cooked Roll (8 Pcs.),10.0
+1164cc67-2ed6-4dee-a93f-a830660612d0,Crispy Sake Roll,"44,00 TL",Cooked Roll (8 Pcs.),5.0
+a5e541e6-4ca9-4e99-9549-4a4c7317b9fb,No – Rice Roll,"57,00 TL",Cooked Roll (8 Pcs.),5.0
+d8bf2a4b-712f-4c75-a068-d90aa36b7be9,Ebiten Roll,"52,00 TL",Cooked Roll (8 Pcs.),10.0
+554906a2-4c12-48d3-b033-25c3234639f3,Ebiten California Roll,"54,00 TL",Cooked Roll (8 Pcs.),5.0
+152c8745-827a-4e2e-8a38-23eb675fa408,İstanbul Roll,"60,00 TL",Cooked Roll (8 Pcs.),5.0
+419e1562-19fb-42ec-a350-5a0a33a593b3,Dragon Roll,"60,00 TL",Cooked Roll (8 Pcs.),5.0
+51a75071-f3bf-4f13-b606-e98eb84ecf12,Crispy Boston Roll,"55,00 TL",Cooked Roll (8 Pcs.),5.0
+767bd806-bb1e-422c-a1fc-c5e70d2352cd,Crispy California Roll,"55,00 TL",Cooked Roll (8 Pcs.),5.0
+AF97706B-CB79-4956-9704-5D03FCE06BBE,İzmir Roll,"62,00 TL",Cooked Roll (8 Pcs.),10.0
+e7d5903b-fbf6-4db8-bcfd-17f0cdac7617,California Roll,"50,00 TL",Special Roll (8 Pcs.),5.0
+05ae849e-27e2-40cd-8560-3fd3550b458e,California Sake Roll,"51,00 TL",Special Roll (8 Pcs.),5.0
+a47ae584-e0a6-4d35-b39c-c5d51f6cf820,Spicy California Roll,"51,00 TL",Special Roll (8 Pcs.),5.0
+78c37ce7-2340-4af9-bc45-b327a609027b,Sesame Roll,"48,00 TL",Special Roll (8 Pcs.),5.0
+a7251465-058c-4be0-9975-d344576772ca,Boston Roll,"48,00 TL",Special Roll (8 Pcs.),5.0
+4c44f19d-85d6-4e43-bca8-b5d22d187575,Philadelphia Roll,"48,00 TL",Special Roll (8 Pcs.),5.0
+57708825-6c2c-45e4-8911-fcf5e6fbbe33,Spicy Philadelphia Roll,"49,00 TL",Special Roll (8 Pcs.),5.0
+754608a7-5e57-4adc-9a14-71a7f6970ec9,Tiger Roll,"52,00 TL",Special Roll (8 Pcs.),5.0
+5f7be2a8-175d-41c3-8f0e-13d2ff668a80,Cartel Roll,"58,00 TL",Special Roll (8 Pcs.),5.0
+c6b591b0-df5d-463d-9103-22ce53d330d3,Rainbow Roll,"55,00 TL",Special Roll (8 Pcs.),5.0
+CD58E704-722F-4D45-805E-F1853579AE72,Alaska Roll (8 Pcs.),"50,00 TL",Special Roll (8 Pcs.),5.0
+A833DE70-762F-4EED-A830-DB20B9CFF29C,Yuzu Roll,"58,00 TL",Special Roll (8 Pcs.),5.0
+e9dec28e-404c-41fb-9d46-fceae88a92fe,Tiramisu,"18,00 TL",Tatlılar,5.0
+2edd4e16-02af-4ba3-9796-5f0f4b7199a1,Frambuazlı Cheesecake,"18,00 TL",Tatlılar,5.0
+307e7016-8226-498a-86d0-e9da69418465,Redbull (25 cl.),"15,00 TL",İçecekler,5.0
+596B9EF0-8BA7-4E94-96DE-7E3404D36B9A,Espresso,"11,00 TL",Kahveler,5.0
+332AF067-BE8D-482C-A435-714795CFB717,Double Espresso,"13,00 TL",Kahveler,5.0
+4EB3A99B-7866-4CB6-A3E5-CC5A3375F076,Americano,"17,00 TL",Kahveler,5.0
+C78B04F3-D1BD-4DF0-A51A-B4D1B775A27E,Cafe Latte,"19,00 TL",Kahveler,5.0
+84DF667A-B96C-4D59-BD43-0553FCBE864C,Cappuccino,"19,00 TL",Kahveler,5.0
+C115AAA7-889B-4D9E-82A0-F8B47BDA4348,Flat White,"19,00 TL",Kahveler,5.0
+133048C7-A011-4F2F-93EB-47D3429D45B9,Cortado,"19,00 TL",Kahveler,5.0
+530BBA29-522E-4AAD-8EC1-21E3FBF1D72F,White Chocolate Mocha,"22,00 TL",Kahveler,5.0
+90C788AD-8339-475C-B142-1E1D11C9DA0E,White Chocolate,"19,00 TL",Kahveler,5.0
+C8DA5737-26FF-46D5-A6FD-CC2F417409EC,Hot or Ice Chocolate,"19,00 TL",Kahveler,6.0
+C09E1BA9-78A9-4739-B27A-86E990F87849,Chai Tea Latte,"19,00 TL",Kahveler,5.0
+3b584830-5aa6-4f85-b495-349737ec79cf,Poşet,"0,25 TL",Poşet,5.0

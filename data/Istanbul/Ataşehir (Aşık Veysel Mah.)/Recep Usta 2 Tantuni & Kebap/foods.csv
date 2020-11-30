@@ -1,0 +1,36 @@
+food_id,food_name,food_price,food_category,food_score
+7940f344-3203-4789-8451-7814ea77eb4b,Dürüm Menü,"21,00 TL",Menüler,3.0
+bd7f282a-b708-4b94-8b92-9c5bd8c3f1ed,Adana Kebap,"22,50 TL",Kebaplar,5.0
+656ed0e4-9e79-4873-988c-d4dbd864c0a8,Et Şiş,"27,75 TL",Kebaplar,4.0
+84a379bc-4eb0-4e44-a36e-be85c63c7631,Urfa Kebap,"22,50 TL",Kebaplar,5.0
+1c0bca11-faad-4c74-828d-8798053420eb,Çöp Şiş,"27,75 TL",Kebaplar,5.0
+3051f943-cb45-412d-b246-995c54901390,Ciğer Şiş,"30,00 TL",Kebaplar,5.0
+39b2eebf-30b0-4cca-a1ea-ce4dbc90b23d,Tavuk Kanat,"20,25 TL",Kebaplar,6.0
+3c54b0f2-09ba-4e56-bc81-4104c48c8f04,Tavuk But Şiş,"18,75 TL",Kebaplar,6.0
+e71d7ec0-24c2-4d5c-9caf-2aaa7eab73f1,Karışık Kebap (1 Kişilik),"37,50 TL",Kebaplar,5.0
+f6b0079e-5ab9-492f-8dce-1e63131f9a15,Karışık Kebap (2 Kişilik),"75,00 TL",Kebaplar,5.0
+b1ec2dfe-9f7f-498a-9798-b11c8fe49dbd,Tavuk Şiş Dürüm,"13,50 TL",Dürümler,4.0
+0eaa572c-10ae-43c0-adc5-089fa77b6f1c,Urfa Dürüm,"15,00 TL",Dürümler,3.0
+abafb876-de07-460d-befd-c696b5ec0298,Çöp Şiş Dürüm,"18,75 TL",Dürümler,3.0
+ea71c8cb-fd01-4e52-af6b-2db028ac80e7,Adana Dürüm,"15,00 TL",Dürümler,3.0
+bd83e923-6c49-461c-947e-5c4fb650fe38,Ciğer Şiş Dürüm,"21,00 TL",Dürümler,3.0
+cc0c9fb7-cfa3-4c61-9bc1-7397d99225fd,Et Tantuni Dürüm,"13,50 TL",Et Tantuniler,6.0
+af886e6f-fac8-4ef4-8b8c-21adec7faa7c,Ekmek Arası Et Tantuni,"13,50 TL",Et Tantuniler,5.0
+b2895976-5ffb-4f45-9c33-deee9fdd459f,Yoğurtlu Et Tantuni,"16,50 TL",Et Tantuniler,2.0
+1b3e47b9-77bf-4593-bdfe-44eaffc4a885,Tavuk Tantuni Dürüm,"9,00 TL",Tavuk Tantuniler,8.0
+4d661f46-1887-4325-b2cc-9014ac0d01ac,Ekmek Arası Tavuk Tantuni,"9,00 TL",Tavuk Tantuniler,12.0
+43e910e8-da94-4cb7-adde-2b65d53fd380,Yoğurtlu Tavuk Tantuni,"12,00 TL",Tavuk Tantuniler,4.0
+22bf2234-b62a-4354-9343-6b83529f5e3d,Çoban Salata,"9,75 TL",Salatalar,5.0
+e81e1092-0afa-4b7b-b070-ab0c8b3454ff,Yeşil Salata,"9,75 TL",Salatalar,5.0
+c4953c68-f395-4332-8560-53a23ec63374,Pimpirim Salata,"13,50 TL",Salatalar,5.0
+5c58c0a5-b005-4e05-a783-730297f5fb13,Kırmızılahana Turşusu,"9,00 TL",Mezeler,5.0
+08e9d8d4-0ec1-461d-8cad-3aa0deaf3058,Yoğurtlu Patlıcan,"10,50 TL",Mezeler,4.0
+17a7510b-0012-4c7e-b3b2-cafd4b3e2fba,Acılı Ezme,"9,00 TL",Mezeler,5.0
+925a0478-0dec-4e48-ab0a-5a0daa1206eb,Frambuazlu Trileçe,"7,50 TL",Tatlılar,5.0
+49ab00d4-6712-4184-bc48-ef16bc95fdde,Karamelli Trileçe,"7,50 TL",Tatlılar,5.0
+2c8cacfc-0fd4-4248-919e-b7b267925a66,Kıbrıs Tatlısı,"7,50 TL",Tatlılar,5.0
+f0663d2b-2de7-41db-9cc2-36dd26b6d5a7,Supangle,"7,50 TL",Tatlılar,5.0
+e6b80db5-a003-4041-a5c6-54b3eb386dcd,Tavukgöğsü,"7,50 TL",Tatlılar,5.0
+eb524d6d-5ae0-43d1-9e84-c80016c7eef8,Havuç Dilimli Baklava,"11,25 TL",Tatlılar,5.0
+2d5e3fff-cf4a-4157-91c1-ef2999b1e253,Cappy Karışık (33 cl.),"4,50 TL",İçecekler,5.0
+0d7cd241-dc8c-428a-b0bf-3e9c4f6cc5d1,Poşet,"0,25 TL",Poşet,5.0

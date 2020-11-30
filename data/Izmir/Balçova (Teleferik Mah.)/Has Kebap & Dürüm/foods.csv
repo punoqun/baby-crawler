@@ -1,0 +1,57 @@
+food_id,food_name,food_price,food_category,food_score
+98e7d91d-0b15-4618-8a7a-bb2688738318,Karışık Menü,"40,00 TL",Promosyon Menüleri,10.0
+70b9dc1d-0e77-4f68-b568-0a7e576a4971,Has Menü,"32,00 TL",Promosyon Menüleri,8.0
+29a3558b-9c0f-4a2f-8669-cc58c94dbda1,Adana Dürüm Menü,"24,00 TL",Promosyon Menüleri,39.0
+7a1bbbe1-d671-4800-b641-cd57af546861,Yarım Ekmek Arası Cheddarlı Köfte Menü,"25,00 TL",Promosyon Menüleri,7.0
+50d98698-d9ca-430e-99a1-f7540110efec,Yarım Ekmek Arası Kaşarlı Köfte Menü,"25,00 TL",Promosyon Menüleri,7.0
+2128c745-13dc-490c-a865-2883d80bd0e5,Yarım Ekmek Arası Köftem Menü,"24,00 TL",Promosyon Menüleri,6.0
+6ca8ad4f-9890-4911-9bdb-f99dceefa4b4,Cheddarlı Izgara Tavuk Göğüs Menü,"26,00 TL",Promosyon Menüleri,17.0
+ff1e6189-866a-43c1-9f81-eecd45da3795,Genç Menü,"17,00 TL",Promosyon Menüleri,6.0
+aa8c5e84-2c1e-4dea-811e-055cd78b84cb,Süper Menü,"20,00 TL",Promosyon Menüleri,12.0
+d5c330a4-19a0-4832-9255-f7421d5a910c,Eti Bol Menü,"40,00 TL",Promosyon Menüleri,5.0
+52c2caba-66fd-42af-867c-179269aba6cf,Doyum Menü,"65,00 TL",Promosyon Menüleri,6.0
+c468288e-10ef-43f4-8dc9-fe97e890bb93,Ekonomik Menü,"40,00 TL",Promosyon Menüleri,6.0
+9b2df05d-5d4c-405f-bcda-53828bcab448,Esnaf Menü,"20,00 TL",Promosyon Menüleri,6.0
+2803bc70-d8d4-4068-9868-a0fe2f77a33f,Fenomen Menü,"35,00 TL",Promosyon Menüleri,6.0
+6ca0c6c9-5629-449f-af3e-24bff61a147f,Hot Kebap Menü,"45,00 TL",Promosyon Menüleri,8.0
+3a3866ce-7e7d-4179-ab2d-0dfd2c24daec,Lezzet Menü,"35,00 TL",Promosyon Menüleri,25.0
+afc358dc-8c58-4ad4-81dc-8e5f03b0d598,Öğrenci Menüsü,"75,00 TL",Promosyon Menüleri,5.0
+c3085156-db28-4d1e-ba53-6bc3eb73981d,Sports Menü,"24,00 TL",Promosyon Menüleri,6.0
+18e463c6-18c1-478a-8b5c-097272a01ff8,Kuzu Şiş,"39,00 TL",Kebap & Izgaralar,7.0
+a844a595-f9bf-4fb7-93f1-8819823d8d0f,Ciğer Şiş,"34,00 TL",Kebap & Izgaralar,7.0
+70191697-c6d9-4245-97a0-d4d810f2a5ab,Izgara Köfte,"34,00 TL",Kebap & Izgaralar,6.0
+8153b255-2346-4fd8-8dd7-e1fae6a37c03,Adana Kebap,"34,00 TL",Kebap & Izgaralar,35.0
+1d675976-312c-484c-9dda-7e0853a4bda6,Urfa Kebap,"34,00 TL",Kebap & Izgaralar,8.0
+f267d512-2e53-403a-90b7-9359127ed19e,Patlıcanlı Kebap,"40,00 TL",Kebap & Izgaralar,7.0
+f67da79a-b281-4582-a140-ef19bad057cb,Karışık Kebap,"60,00 TL",Kebap & Izgaralar,11.0
+375b7d93-d15b-4e2e-a53d-380ec5bc8341,Tavuk İncik Şiş,"30,00 TL",Kebap & Izgaralar,15.0
+66727860-ff3b-4481-9311-a63c82da7afb,Kanat,"25,00 TL",Beyaz Etler,5.0
+505783f8-5830-477d-9d16-25464f5973a7,Izgara Tavuk Göğüs,"24,00 TL",Beyaz Etler,16.0
+bfe48dec-7319-492d-83c4-1b8444ffd1a5,Tavuk Pirzola,"24,00 TL",Beyaz Etler,16.0
+6e364bb5-58ee-4113-9e64-abcb16fd9b0e,Kaşarlı Izgara Tavuk Göğüs,"25,00 TL",Beyaz Etler,16.0
+4391261e-cc06-4df6-87d5-b379994bcbc3,Karışık Izgara Tavuk,"20,00 TL",Beyaz Etler,20.0
+850496fc-c8de-442b-9ff6-e3f7d32c28c8,Tavuk Kelebek,"24,00 TL",Beyaz Etler,16.0
+02cc9a4b-27fd-49f0-9ffc-759a1f234998,Tavuk Göğüs Şiş,"23,00 TL",Beyaz Etler,16.0
+23b428a7-2f1d-4bd6-b2fa-212b683a0481,BBQ Soslu Karışık Izgara,"20,00 TL",Beyaz Etler,9.0
+f5061aad-29f4-490d-8264-83356e1a0d3c,Kaşarlı Tavuk İncik Dürüm,"20,00 TL",Dürümler,25.0
+b2166bfd-d3a8-48f1-98b5-68fdb856facd,Adana Dürüm,"18,00 TL",Dürümler,43.0
+04a66a91-d944-4ede-ba8e-0bdd606c3e62,Urfa Dürüm,"18,00 TL",Dürümler,16.0
+33b39e6f-ec83-4e98-b4d2-85148cf41bcb,Kuzu Şiş Dürüm,"25,00 TL",Dürümler,17.0
+62029849-3bc3-4704-96ac-421404de9cd2,Ciğer Şiş Dürüm,"18,00 TL",Dürümler,17.0
+d1deae73-896b-4a7a-afd8-fd71422bbab3,Tavuk İncik Şiş Dürüm,"17,00 TL",Dürümler,30.0
+490d5d54-54de-4ba0-ac2c-26b4b30ee55e,Çöp Şiş Dürüm,"24,00 TL",Dürümler,11.0
+d2013dcc-9cbf-478b-bca3-2c412d80732c,Izgara Köfte Dürüm,"18,00 TL",Dürümler,16.0
+e49829ef-41dc-4dd9-a1d6-fc3c5978994b,Adana Dürüm (Duble),"36,00 TL",Dürümler,38.0
+23c341b4-bfbe-47e8-9dd6-81a7acbc7baf,Urfa Dürüm (Duble),"36,00 TL",Dürümler,16.0
+d7fd25f4-9eb6-48e2-bf92-61250d73d4de,Tavuk İncik Şiş Dürüm (Duble),"34,00 TL",Dürümler,25.0
+04334e31-94be-4009-9204-ff9299e3cb3d,Yarım Ekmek Arası Tavuk Şiş,"17,00 TL",Ekmek Arası Ürünler,16.0
+87df76fb-b46e-4d36-a090-26371bef8611,Közlenmiş Soğan,"5,00 TL",Yan Ürünler,4.0
+9ffa6e4e-ffb1-4de3-99f1-3e188b383bfe,Elma Dilim Patates,"12,00 TL",Yan Ürünler,10.0
+a16ce45f-66ed-4dbc-89dc-de6b9a9b3e0a,Patates Kızartması,"8,00 TL",Yan Ürünler,10.0
+3dd603d1-f1d8-4b62-95ab-603dc7afe6c8,Bulgur Pilavı,"5,00 TL",Yan Ürünler,6.0
+0c30968c-8ebb-41f6-a299-db726593aa33,Lavaş (Adet),"2,00 TL",Yan Ürünler,4.0
+4d75dcca-af21-4aa1-87b6-7c87f7ef25fa,Mevsim Salata,"10,00 TL",Salatalar,7.0
+449ab670-e506-4494-8644-8e757cf183c5,Antep Ezme,"8,00 TL",Salatalar,5.0
+af2fd014-e66f-48e6-b07d-ca70e385ab08,Nar Ekşili & Sumaklı Soğanlı Çoban Salata,"10,00 TL",Salatalar,7.0
+fcdc0f69-57f1-4240-97fb-345995876eb6,Niğde Gazozu (25 cl.),"4,00 TL",İçecekler,7.0
+454d8ba5-b8f5-4d6a-a0d6-ae22cc8cf9b8,Poşet,"0,25 TL",Poşet,5.0

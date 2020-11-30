@@ -1,0 +1,21 @@
+food_id,food_name,food_price,food_category,food_score
+21ff121d-4fc0-48b3-8dbc-3c7efeb9b56e,Et Döner,"25,00 TL",Et Dönerler,2.0
+4a11df1d-8c13-4178-b9c8-f50043faa993,Pilav Üstü Et Döner,"24,00 TL",Et Dönerler,1.0
+59af9ebf-4ddb-4f72-b091-54414405ffae,Yarım Ekmek Arası Et Döner,"12,00 TL",Et Dönerler,-1.0
+4d813bc2-92ef-493f-a9d7-97f1658c3c51,3/4 Ekmek Arası Et Döner,"18,00 TL",Et Dönerler,-1.0
+9e738c2a-5705-401a-8685-bba3076924ed,Et Döner Dürüm,"15,00 TL",Et Dönerler,0.0
+b68c59a9-40ea-45e9-8b2d-895b3e754367,Tombik Ekmek Arası Et Döner,"15,00 TL",Et Dönerler,-1.0
+d33857ee-f638-4667-99d7-e0269abd85a9,Tam Ekmek Arası Et Döner,"24,00 TL",Et Dönerler,-1.0
+064f7c3c-bfbf-4ac1-98a6-c03078714918,Et Döner Burger,"8,00 TL",Et Dönerler,2.0
+58db8bae-c8e2-4a68-b636-6fb0a0f24aa6,Tavuk Döner,"16,00 TL",Tavuk Dönerler,1.0
+6b7a8d3b-aa86-48d9-ae4a-9f96d573b118,Pilav Üstü Tavuk Döner,"15,00 TL",Tavuk Dönerler,0.0
+73281097-c9f3-40aa-abaf-ab2b307f0d7b,Yarım Ekmek Arası Tavuk Döner,"7,00 TL",Tavuk Dönerler,-2.0
+300a9dec-601f-4047-a62a-c10f94b5b87e,3/4 Ekmek Arası Tavuk Döner,"10,00 TL",Tavuk Dönerler,3.0
+17f6cc30-01fd-4ddd-abd8-f343d6b1cfcc,Tavuk Döner Dürüm,"9,00 TL",Tavuk Dönerler,-1.0
+68d5ddb5-9cd2-4afa-a31d-fbd7720dbce3,Tombik Ekmek Arası Tavuk Döner,"9,00 TL",Tavuk Dönerler,3.0
+d37228b1-c5e4-4454-8649-817723cdc7d3,Tam Ekmek Arası Tavuk Döner,"13,00 TL",Tavuk Dönerler,3.0
+9275c2c2-abff-41eb-8339-9245523406b8,Tavuk Döner Burger,"5,00 TL",Tavuk Dönerler,1.0
+166F6B29-BB18-4AA0-B24C-0E53DEFE1393,Niğde Gazozu (25 cl.),"3,50 TL",İçecekler,5.0
+8A56D1B9-961E-45F8-B83A-225E76D89186,Limonata,"3,50 TL",İçecekler,5.0
+1bf1c1e6-8bf7-41ec-aa46-8768c6470532,Su,"1,50 TL",İçecekler,5.0
+1a387f7c-94bb-48ed-85f3-a25c6daafbb9,Poşet,"0,25 TL",Poşet,5.0

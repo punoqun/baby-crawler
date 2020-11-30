@@ -1,0 +1,61 @@
+food_id,food_name,food_price,food_category,food_score
+c1f8b9a7-4964-42e1-9483-2cb50077041c,Menü 1,"20,50 TL",Menüler,30.0
+6e1d3356-e4b4-47cc-8526-5811d03001c8,Menü 2,"17,00 TL",Menüler,4.0
+efaeb412-bb3c-49eb-8877-ae8469f7d227,Menü 3,"19,00 TL",Menüler,6.0
+fa17c2eb-8e59-440d-9d66-0a9f44933317,Menü 4,"19,00 TL",Menüler,5.0
+72279dc2-80c4-4139-8c04-1a6cd967f93b,Menü 5,"20,00 TL",Menüler,9.0
+a9328b8b-10fc-40c0-a32d-1fb753185100,Menü 6,"20,00 TL",Menüler,6.0
+b3577aa3-aa62-4af1-8316-7ad53d06a935,Menü 7,"20,50 TL",Menüler,5.0
+0a80a571-56ef-4045-8049-3a47e5271cbc,Menü 8,"20,50 TL",Menüler,7.0
+b3926bcb-d19b-4189-a309-016f967c72c4,Menü 9,"25,00 TL",Menüler,4.0
+e32eb062-3fa0-40df-996a-7fbcb035baea,Menü 10,"25,00 TL",Menüler,22.0
+a0c75043-71a9-4666-8191-401c4c8b721a,Menü 11,"19,00 TL",Menüler,5.0
+a35d2503-f456-4ffa-bced-0e14a57cbb3d,Menü 12,"18,00 TL",Menüler,5.0
+495a43c1-d5e2-4146-8e95-3e3e53336beb,Menü 13,"18,00 TL",Menüler,6.0
+10d6de33-4455-4176-aeb1-786f9792c17e,Menü 14,"14,00 TL",Menüler,5.0
+290e9d7b-71ff-44c5-b68d-ccb23a0ddbaf,Menü 15,"14,00 TL",Menüler,5.0
+e2274da6-def2-49b7-93b5-07e804bed9a2,Menü 16,"34,00 TL",Menüler,6.0
+b6b04d59-eb7a-4e89-ae4a-854c51540efa,Menü 17,"34,00 TL",Menüler,5.0
+b3ee7150-0545-4790-9c87-1c713b386426,Menü 18,"34,00 TL",Menüler,7.0
+552de03c-a022-4ceb-a162-27bfa61a282b,Menü 19,"34,00 TL",Menüler,5.0
+c5405011-a862-46ee-a71c-e82fecb50d0b,Menü 20,"42,00 TL",Menüler,7.0
+3dc53b84-df6b-471d-bdad-b11f9b578328,Menü 21,"30,00 TL",Menüler,5.0
+a9fae56f-ff32-4baf-a640-8c5b492957f4,Menü 22,"28,00 TL",Menüler,5.0
+80fe9e64-3895-477a-bbc0-b00b490555a6,Menü 23,"50,00 TL",Menüler,5.0
+64635f55-fbc6-484b-8f1d-f0247ea45928,Menü 24,"43,00 TL",Menüler,5.0
+0bb0d21d-7819-4ed5-8ad4-e8518f80a711,Menü 25,"60,00 TL",Menüler,5.0
+b475769b-286e-40fa-bb37-29ee04909816,Menü 26,"78,00 TL",Menüler,5.0
+a3958309-2710-4782-85bc-1c4a439b1eaf,Menü 27,"90,00 TL",Menüler,5.0
+aa9a7173-73b4-4603-822a-23363651ec99,Menü 28,"121,00 TL",Menüler,5.0
+35e4a9c9-75ae-41d9-8200-a3cb4dc307ab,Menü 29,"171,00 TL",Menüler,5.0
+685fbe03-9981-4ba7-aef7-261b64f71ac7,Tavuk Şiş Dürüm Menü,"26,00 TL",Menüler,16.0
+a503d4bb-b99c-4405-b541-cef9636eea50,Adana Dürüm Menü,"30,00 TL",Menüler,36.0
+f6613624-6ea2-4ded-acef-13bc953f3387,Köfte Dürüm Menü,"30,00 TL",Menüler,9.0
+7470d472-0b0b-4639-bbad-cebb71334193,Adana Dürüm,"16,00 TL",Dürümler,41.0
+17ea858d-bcd6-4dab-88a9-67501382d42b,Ciğer Şiş Dürüm,"16,50 TL",Dürümler,17.0
+78fcc06f-59f2-44df-bd4b-c3599787bf19,Izgara Köfte Dürüm,"15,00 TL",Dürümler,9.0
+416e4777-f21f-4e12-9f26-16c1e562cbe7,Izgara Sucuk Dürüm,"16,00 TL",Dürümler,10.0
+44f2a0cd-f464-4b8e-9280-66657c667ca4,Kuşbaşı Dürüm,"21,00 TL",Dürümler,12.0
+057d7a28-0a8c-4842-aff0-253dcbc993df,Tavuk Şiş Dürüm,"12,50 TL",Dürümler,21.0
+32394a34-1d12-46cc-b016-1f198955ca1d,Adana Kebap,"29,50 TL",Kebaplar & Izgaralar,31.0
+C00F9CD5-7A20-4AF3-B1C6-9A8D5843C9DE,Karışık Izgara,"46,00 TL",Kebaplar & Izgaralar,9.0
+a3a7e3bc-0053-4a62-96b7-14e01af2ba83,Ciğer Şiş,"30,00 TL",Kebaplar & Izgaralar,7.0
+ade4e19d-f9a5-466a-88f6-837532cd96a4,Izgara Köfte,"30,00 TL",Kebaplar & Izgaralar,4.0
+171d2e6d-2f13-4353-afe0-d85659ea30ed,Izgara Sucuk,"30,00 TL",Kebaplar & Izgaralar,5.0
+0e60d459-b5c0-44a4-bf97-98b122bc137f,Kuşbaşı Şiş,"38,00 TL",Kebaplar & Izgaralar,8.0
+1761fe02-a49a-41fa-a2cb-0479995624e4,Tavuk Kanat,"26,00 TL",Kebaplar & Izgaralar,8.0
+eb3d2c9f-676b-490b-80c8-dc4c1803f44a,Tavuk Şiş,"24,00 TL",Kebaplar & Izgaralar,11.0
+3dcbf18f-1aed-4174-9539-eb2ccd576c85,Karışık Izgara (2 Kişilik),"79,00 TL",Kebaplar & Izgaralar,9.0
+18f436e8-a9df-4db2-9d1d-4b644b21e572,Karışık Izgara (3 Kişilik),"109,00 TL",Kebaplar & Izgaralar,9.0
+5068d549-e2f1-4403-9cb6-9a2e3d8c4302,Karışık Izgara (4 Kişilik),"149,00 TL",Kebaplar & Izgaralar,9.0
+6E4F8071-47D1-4E3E-B968-5E444FEBB7F5,Jumbo Ekmek Arası Tavuk Döner,"14,00 TL",Tavuk Dönerler,12.0
+b15e44ae-df6d-4930-ae33-1231f1b1cee1,Jumbo Tavuk Döner Dürüm,"14,00 TL",Tavuk Dönerler,15.0
+7f84f886-a5fa-4817-8523-e1b8b05e719d,Ekmek Arası Tavuk Döner,"10,00 TL",Tavuk Dönerler,12.0
+45510818-0dcd-4eb8-ba65-7d6e43c44950,Pilav Üstü Tavuk Döner,"15,00 TL",Tavuk Dönerler,8.0
+5865aac0-8740-471d-9a0b-4f1e34b00a63,Tavuk Döner Dürüm,"10,00 TL",Tavuk Dönerler,15.0
+dd8c1f28-6566-42b6-aa83-bdde0d6fef39,Eker Kazandibi,"3,00 TL",Tatlılar,5.0
+efd7d83f-105f-4232-9c35-fd624505d7e2,Eker Sütlaç,"3,00 TL",Tatlılar,5.0
+bce8072f-6170-4540-81c2-81836288fc72,Eker Çikolatalı Puding,"3,00 TL",Tatlılar,5.0
+6ec21006-2c9e-4b9a-86fa-aea3b8decdcb,Eker Sakızlı Muhallebi,"3,00 TL",Tatlılar,5.0
+f361e248-8599-4d07-83e8-19b61929449a,Niğde Gazozu (25 cl.),"4,00 TL",İçecekler,5.0
+83284f53-7e86-4db8-92fc-f4d49f8b6b01,Poşet,"0,25 TL",Poşet,5.0

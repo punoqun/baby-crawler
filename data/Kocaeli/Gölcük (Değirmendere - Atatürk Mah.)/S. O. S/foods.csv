@@ -1,0 +1,56 @@
+food_id,food_name,food_price,food_category,food_score
+c7f87ca1-0fef-4eb3-b97e-7fea2f0bb7d4,2'li Chıcken Burger Menü,"22,00 TL",Menüler,4.0
+50B69ECD-9674-42A5-B496-A91ACBF403FF,2'li Yarım Ekmek Arası Tavuk Tantuni Menü,"20,00 TL",Menüler,4.0
+857f6200-83b2-4bba-b7b3-72a0e79ac344,3'lü Chıcken Burger Menü,"26,00 TL",Menüler,4.0
+4e8e430e-6e06-4de4-8131-bdc4dc393dfb,Amerikanlı Patso Sandviç Menü,"14,00 TL",Menüler,3.0
+5bd12504-44f8-49b0-97b6-9f0cc9e95524,Dana Burger Menü,"25,00 TL",Menüler,4.0
+67446ffb-aea1-4dda-827c-d83cd129cffa,Hepsi Benim Menü,"22,00 TL",Menüler,4.0
+6fe22156-d113-405d-b9a2-10200fa7eb08,Kavurmalı Kaşarlı Tost Menü,"24,00 TL",Menüler,2.0
+aafd3694-1155-4ad0-9346-3db2149b93a7,Kumru Sandviç Menü,"22,00 TL",Menüler,5.0
+3bf108a1-4605-4be7-8a10-86733fc579df,Öksüz Doyuran Menü,"25,00 TL",Menüler,15.0
+734577a2-492d-4ff6-a33c-5479223099df,Yarım Ekmek Arası Şnitzel Menü,"16,00 TL",Menüler,0.0
+a44dc832-d4f7-430c-af67-0437e90a8e65,Menemen,"15,00 TL",Kahvaltılıklar,5.0
+cc15eec7-7f1f-4765-a72a-fca29005fed5,Kaşarlı Tost,"10,00 TL",Tostlar,3.0
+6cfa2dd6-d69d-4e48-8bb1-a32f1511b5f6,Kaşarlı Sucuklu Tost,"10,00 TL",Tostlar,3.0
+6eae029d-695a-448a-b88f-81f649efe885,Ayvalık Tostu,"15,00 TL",Tostlar,5.0
+b7692470-ba58-4393-aaba-7caa225e851d,Beyaz Peynirli & Domatesli Tost,"12,00 TL",Tostlar,4.0
+1a08347a-9573-4a03-8689-8aff6f0b371d,Kavurmalı Tost,"18,00 TL",Tostlar,4.0
+cc75a002-5897-4709-993b-eb9c434617dc,Kaşarlı Kavurmalı Tost,"20,00 TL",Tostlar,3.0
+74a3d3dd-2501-490d-88d7-4f1f4002d390,Jambonlu Kaşarlı Tost,"13,00 TL",Tostlar,3.0
+08332c37-fdba-49d0-83d9-6a59f77ab150,Double Chıcken Burger,"13,00 TL",Burgerler,5.0
+80a9c09a-20f2-4723-953a-7c444efbea05,Dana Burger,"10,00 TL",Burgerler,5.0
+d5aa9f6c-4c13-49c3-8fc5-347ba5e60871,Double Dana Burger,"15,00 TL",Burgerler,5.0
+008c76de-b7b5-45a7-a4c7-db171781abec,Amerikanlı & Sosisli Sandviç,"9,00 TL",Sandviçler,6.0
+9a36f98a-d672-4054-9fb2-f457a1b4f1d2,Kumru Sandviç,"15,00 TL",Sandviçler,6.0
+93dca084-3212-41b9-b6ed-7376559ad8d7,Sosisli Sandviç,"9,00 TL",Sandviçler,6.0
+dea6dff7-26b3-4f4c-af62-9e9a0a3cd8cb,Soğuk Sandviç,"5,00 TL",Sandviçler,4.0
+12af11a3-88f2-4bed-82fe-dbb467230643,Goralı Sandviç,"9,00 TL",Sandviçler,4.0
+aadfd61c-d161-4daf-bd3c-34f2b4ebeff0,Sucuklu Patso,"9,00 TL",Patsolar,4.0
+05f74219-3e9e-4f07-a471-63d696dfb9ce,Sosisli Patso,"9,00 TL",Patsolar,10.0
+d9eb5604-9a1f-418b-a2c1-9db43231dbdc,Amerikanlı Patso,"9,00 TL",Patsolar,4.0
+a6b867a8-e692-4417-a578-9ea8f299a957,Salamlı Patso,"9,00 TL",Patsolar,4.0
+3ecb1def-7acf-4706-9cd0-a4ff7826a2e9,3/4 Ekmek Arası Tavuk Döner,"13,00 TL",Tavuk Dönerler,4.0
+6f9e291b-7bdc-4f73-9be2-f89a5ac8e3ab,Tam Ekmek Arası Tavuk Döner,"15,00 TL",Tavuk Dönerler,3.0
+3824dcc5-d9b6-49c2-aa18-c9c146316369,Yarım Ekmek Arası Tavuk Döner,"9,00 TL",Tavuk Dönerler,4.0
+ad3469e0-b7fb-497d-8f78-dbac2b9a41bc,Kaşarlı Tavuk Döner Dürüm,"12,00 TL",Tavuk Dönerler,9.0
+3f92caee-aa9b-48c1-8561-37611bfb6c99,Pilav Üstü Tavuk Döner,"18,00 TL",Tavuk Dönerler,8.0
+7e881e57-4fe4-4df6-aa4e-8d993d730712,Tavuk Döner Dürüm,"10,00 TL",Tavuk Dönerler,15.0
+0526e2a1-7ef5-4c9e-a019-04765dc84fbc,Yarım Ekmek Arası Tavuk Tantuni,"11,00 TL",Tavuk Tantuniler,5.0
+1798e631-f119-484b-b15b-f23e63bb2410,Üç Çeyrek Ekmek Arası Tavuk Tantuni,"15,00 TL",Tavuk Tantuniler,5.0
+0292fbfc-ec7f-41b8-9902-d278cfde36e9,Tam Ekmek Arası Tavuk Tantuni,"17,00 TL",Tavuk Tantuniler,4.0
+a172f34b-2107-4968-a710-d13abe3dcc3a,Tavuk Tantuni Dürüm,"12,00 TL",Tavuk Tantuniler,11.0
+eed90c5b-34b4-43c5-ac8d-c9f9ec703f75,Öksüz Doyuran,"20,00 TL",Dürümler & Ekmek Arası Ürünler,11.0
+dc6f8430-a773-488f-b60c-b9ec71ae6a59,Kavurmalı Kaşarlı Dürüm,"20,00 TL",Dürümler & Ekmek Arası Ürünler,6.0
+a21c8b85-709b-4551-a992-c891dc830bb7,Sucuk Ekmek,"15,00 TL",Dürümler & Ekmek Arası Ürünler,1.0
+609fecc0-c719-49be-b23f-16c8f3bb84c1,Sucuk Dürüm,"15,00 TL",Dürümler & Ekmek Arası Ürünler,7.0
+07e6d0a4-ac12-41b2-8b2d-67bf02b38a5a,Kaşarlı & Sucuklu Dürüm,"17,00 TL",Dürümler & Ekmek Arası Ürünler,6.0
+5bade700-e286-42ca-9ad9-9c95debd6c87,Yarım Ekmek Arası Köfte,"15,00 TL",Dürümler & Ekmek Arası Ürünler,1.0
+c049ae00-7c97-4076-bf7a-285e5588ee80,Yarım Ekmek Arası Tavuk Şnitzel,"12,00 TL",Dürümler & Ekmek Arası Ürünler,5.0
+5e7b3ad6-873f-4e90-bf1d-1cc8e55d8f24,Schnitzel (2 Adet),"15,00 TL",Yan Ürünler,5.0
+5ce8cc7d-9097-4500-baa0-6be026dee1cb,Patates Kızartması (Küçük),"7,00 TL",Yan Ürünler,6.0
+fa20447e-838d-4693-b613-adbf09e8f60e,Supangle,"8,00 TL",Tatlılar,5.0
+63a4f93b-7e00-4bdb-8780-490f68044bf1,Kazandibi,"8,00 TL",Tatlılar,5.0
+bc485e81-14bd-4af5-ac67-9cd7ffe9f720,Profiterol,"8,00 TL",Tatlılar,5.0
+3ca81327-064a-4b42-b43f-a2038d86c195,Sütlaç,"8,00 TL",Tatlılar,5.0
+60de94bf-e59a-4d6a-be66-848e5c9a7876,Su,"1,50 TL",İçecekler,5.0
+f9843d14-155d-432b-a381-721957d9b4e8,Poşet,"0,25 TL",Poşet,5.0

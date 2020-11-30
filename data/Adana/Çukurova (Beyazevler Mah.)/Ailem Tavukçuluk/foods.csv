@@ -1,0 +1,33 @@
+food_id,food_name,food_price,food_category,food_score
+1dd8d824-ac10-4903-855e-3651a8702dc2,Tavuk Çevirme (Yarım) Menü,"18,00 TL",Menüler,9.0
+279f796f-f7cc-46ed-879d-334296922eb5,Tavuk Çevirme (Bütün) Menü,"35,00 TL",Menüler,14.0
+E3CE65CA-D922-42DD-A9C4-5BF993FC5134,Kızarmış Sarma Menü,"25,00 TL",Menüler,4.0
+E19CAF05-62A9-4383-A7A8-EF209CDB65D4,Tavuk Çevirme (Bütün) (Garnitürlü) Menü,"30,00 TL",Menüler,9.0
+BAF5F13E-6559-426D-9B4B-3B8C84B2B0B9,Kızarmış Piliç Menü,"35,00 TL",Menüler,7.0
+CE3BDDC6-CF7B-41E1-BB13-86A831A4C42D,Chicken Man Menü,"16,00 TL",Menüler,5.0
+BDF7D190-BC08-481A-A191-E554B9AE7DB4,Chicken Man Karışık Kova Menü,"40,00 TL",Menüler,5.0
+5839FD19-2259-4F37-B09B-CB52793686FB,Sporcu Menüsü,"30,00 TL",Menüler,5.0
+8F15C07B-7A1B-43EB-BF2E-38AA64ABBB32,Kızarmış Tavuk Göğüs Menü (1 kg.),"35,00 TL",Menüler,12.0
+984f0339-89cc-4dfe-b49b-064bc4802c83,İlikli Mercimek Çorbası,"10,00 TL",Çorbalar,5.0
+479a5746-440d-4b5b-84aa-7091745deba3,Soğan Salatalı Tavuk Sandviç,"12,00 TL",Sandviçler,9.0
+bb977f26-d9fb-4e41-884f-365d5524c2fd,Karamelize Soğan Soslu Tavuk Sandviç,"12,00 TL",Sandviçler,11.0
+e20b7914-5b8a-4ab7-b701-aae08e962099,Karamelize Soğan Soslu Kaşarlı Tavuk Sandviç,"16,00 TL",Sandviçler,11.0
+013449BB-B103-454A-9B38-14A9AE388324,Karamelize Soğan Soslu Tavuk Döner,"12,00 TL",Sandviçler,11.0
+D704FB11-129B-4682-8FD5-E965CA877595,Karamelize Soğan Soslu Kaşarlı Tavuk Döner,"16,00 TL",Sandviçler,11.0
+22b309d5-d54d-470a-9c8d-2361f4b650b6,Tavuk Çevirme (Yarım),"14,00 TL",Tavuk Çevirmeler,9.0
+4e42089c-b40d-4102-8b1c-279197c04dd6,Tavuk Çevirme (Bütün),"23,00 TL",Tavuk Çevirmeler,14.0
+A96C19E1-603E-456E-B8AA-E0F2F883AF7F,Kızarmış Kanat (1 kg.),"35,00 TL",Tavuk Çevirmeler,13.0
+72CF89D4-C8A6-4DC1-8ACE-0487CF49E575,Tavuklu Pilav (300 gr.),"8,00 TL",Tavuk Çevirmeler,9.0
+06B25CC4-2D7B-4D2D-9C33-BE13B9DFFD5C,Kızarmış Baget,"18,00 TL",Tavuk Çevirmeler,8.0
+896cc0f6-428b-456d-b015-7ef4d0ad3849,Kızarmış Tavuk Sarma,"6,00 TL",Diğer Lezzetler,8.0
+5bdff1d6-14c9-4eb2-ab3e-d411abea2c86,Patates Kızartması,"6,00 TL",Yan Ürünler,19.0
+39a93ff9-d3d0-4dde-aa74-6e78946ba38e,Patates Kızartması (1 kg.),"30,00 TL",Yan Ürünler,19.0
+d417a5fb-30b5-4840-adc7-5ffceb692118,Soğan Halkası (6 Adet),"6,00 TL",Yan Ürünler,5.0
+70a0df84-be58-4601-ae7c-74a8c331fddb,Soğan Halkası (1 kg.),"30,00 TL",Yan Ürünler,5.0
+12585aed-c2bf-4008-9b66-12a7692ec953,Pide Ekmek,"2,00 TL",Yan Ürünler,7.0
+306b5a08-f04a-418a-b11f-b2fd4222c89a,Gobit Ekmek,"1,50 TL",Yan Ürünler,7.0
+D5F6B9EF-5674-4294-AB9D-15F85BF362BB,Mevsim Salatası,"6,00 TL",Salatalar,5.0
+6FF0FCF0-BD6F-428D-BFDA-E6F108C0F50F,Chicken Man Salata,"8,00 TL",Salatalar,6.0
+e8865c82-80c3-43f5-8a58-7d3cd2771ad5,"Pepsi (1,5 L)","7,00 TL",İçecekler,5.0
+71fe862b-a678-43e2-96c7-e636af3c4f9a,Pepsi (2.5 L),"9,00 TL",İçecekler,5.0
+0007a360-ec18-4926-b823-68a601efec8c,Poşet,"0,25 TL",Poşet,5.0

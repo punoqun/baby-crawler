@@ -1,0 +1,33 @@
+food_id,food_name,food_price,food_category,food_score
+1aea6d49-a092-45b6-bf2b-e1298a70ec47,Menü 1,"8,00 TL",Menüler,6.0
+3a9b67a4-da84-4b13-8137-bb874956eada,Menü 2,"50,00 TL",Menüler,5.0
+f537efb6-2a93-45fe-a9ff-236d367866e1,Menü 3,"42,00 TL",Menüler,6.0
+117AD4EC-963E-4EF0-9E99-C3F04CE9D9BF,Tavuklu Nohutlu Pilav Menü,"15,00 TL",Menüler,5.0
+6481c3ee-ef9a-4ad7-a96c-0c7aec4ec4c7,Çiğ Köfte Dürüm,"7,00 TL",Çiğ Köfteler,14.0
+40067c18-a811-4563-a923-864cad722dd7,Çiğ Köfte (500 gr.),"25,00 TL",Çiğ Köfteler,14.0
+40af1f40-02f8-4cb9-8e03-583844e44c3b,Çiğ Köfte (600 gr.),"30,00 TL",Çiğ Köfteler,9.0
+ccac9539-3181-4828-8eea-f265f8d1727f,Çiğ Köfte (800 gr.),"40,00 TL",Çiğ Köfteler,9.0
+0fe42158-f008-454e-aaac-79d48e56fd0b,Çiğ Köfte (1 kg.),"50,00 TL",Çiğ Köfteler,9.0
+7AD01072-D38E-4B00-A6FD-AAFBFB61028D,Izgara Köfte (200 gr.),"29,00 TL",Köfteler,5.0
+05F6FDF8-A64B-4C38-AF36-2A64CB90E58C,Izgara Köfte (500 gr.),"62,00 TL",Köfteler,5.0
+2C8E06E5-63F7-4460-B6C5-CB43FB470131,Yarım Ekmek Arası Izgara Köfte,"15,00 TL",Köfteler,5.0
+6C013655-B4E3-428F-BC1B-7C8F206F005D,Tam Ekmek Arası Izgara Köfte,"29,00 TL",Köfteler,3.0
+f496d579-3bbf-454c-aec2-748dc16be7a1,Midye Dolma (Adet),"1,50 TL",Midye Dolmalar,11.0
+061f0a43-c243-4f52-bbfb-fc9ed94a9b9a,Midye Dolma (10 Adet),"12,00 TL",Midye Dolmalar,6.0
+1082cfde-f41c-47c0-9dc6-363a36fc4ff0,Midye Dolma (18 Adet),"22,00 TL",Midye Dolmalar,6.0
+6f4481d2-a64b-4091-911f-6efd1a6e5bc4,Nar Ekşisi (1 L.),"13,00 TL",Yan Ürünler,5.0
+8e3442cb-ba88-4a37-9573-d29374832828,Yarım Göbek Marul,"3,00 TL",Yan Ürünler,5.0
+0bf5992b-fa5f-420f-b44d-f3522b28879b,Lavaş (4 Adet),"1,50 TL",Yan Ürünler,3.0
+2cadf788-0a4d-428d-bf59-b5a1b4bd4891,Limon ( Adet),"2,00 TL",Yan Ürünler,5.0
+5c12919e-3b51-4c18-93bd-dfc259b01807,Tam Göbek Marul,"6,00 TL",Yan Ürünler,3.0
+88ab9bda-acc8-46b5-bccc-fae7d09db5dc,Zeytinyağlı Yaprak Sarma (200 gr.),"12,50 TL",Yan Ürünler,5.0
+7de353d5-716e-40e4-94d8-9556fffa075a,Zeytinyağlı Yaprak Sarma (500 gr.),"25,00 TL",Yan Ürünler,5.0
+e5517f37-70a0-43d3-a9bb-921a9b56be40,Zeytinyağlı Yaprak Sarma (1 kg.),"40,00 TL",Yan Ürünler,5.0
+e8a08f06-4b1c-442f-abf8-6468e4fd0a4b,Ballı Badem (8 Adet),"10,00 TL",Tatlılar,5.0
+4abbb885-dc09-4631-83e0-5d49a05b1884,Hamsiköy Sütlaç,"10,00 TL",Tatlılar,5.0
+5b0d15f4-6db7-4ba5-947f-1e91870995b3,Profiterol,"10,00 TL",Tatlılar,5.0
+cf03675d-3060-4260-b75a-74f9fdc31d6c,Ballı Badem (4 Adet),"15,00 TL",Tatlılar,5.0
+7088D75A-9669-4AFA-9AB2-AF14EE28D35E,Didi (25 cl.),"4,00 TL",İçecekler,5.0
+1D4FAF44-6925-4F72-B4A8-CCC148D81599,Cappy (20 cl.),"4,00 TL",İçecekler,5.0
+af8ec50d-c67a-4d58-a5a8-58aaafbf6689,Limonata (25 cl.),"4,00 TL",İçecekler,5.0
+d1d2bfb3-e036-47f5-a80b-4dfd17bd6853,Poşet,"0,25 TL",Poşet,5.0

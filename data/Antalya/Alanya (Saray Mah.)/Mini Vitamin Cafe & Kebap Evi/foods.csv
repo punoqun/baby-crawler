@@ -1,0 +1,24 @@
+food_id,food_name,food_price,food_category,food_score
+9b898aa6-38b4-4648-a128-8ebbb7eb7640,Cheeseburger Menü,"32,00 TL",Menüler,5.0
+89f269f0-8bcb-49b1-ac6d-4575f81223b6,Hamburger Menü,"30,00 TL",Menüler,10.0
+8ad18ca4-ff87-4714-a708-2f5667a68d3c,Menemen,"17,00 TL",Kahvaltılıklar,5.0
+e1829778-cf7d-40a2-8c59-9c5fd89459e0,Sade Omlet,"13,00 TL",Kahvaltılıklar,5.0
+853f08b0-89d6-4f6f-b0c8-59399671b812,Adana Kebap,"37,00 TL",Kebaplar & Izgaralar,5.0
+c5f78c32-538c-468e-b14f-1451456f7b71,Ciğer Şiş,"37,00 TL",Kebaplar & Izgaralar,5.0
+1583db9b-e088-435c-bd4f-1df4e17d3584,Et Şiş,"40,00 TL",Kebaplar & Izgaralar,5.0
+7e47ac65-71fd-4bba-b1a5-786909005b04,Izgara Köfte,"37,00 TL",Kebaplar & Izgaralar,3.0
+3276a397-4001-4304-bc35-fbf41730b714,Tavuk Şiş,"37,00 TL",Kebaplar & Izgaralar,4.0
+4fdc584f-dd1d-4019-a9fa-0a6ef31c212b,Hamsi Tava,"32,00 TL",Balıklar,5.0
+71ff51ee-502e-47a7-b072-818cd1c06d7c,Çipura,"37,00 TL",Balıklar,5.0
+2193c1c9-77bf-4aa3-b523-7c9b31dab51e,Adana Dürüm,"16,00 TL",Dürümler,7.0
+51b1e430-828c-4428-a258-03aee7be016c,Ciğer Şiş Dürüm,"16,00 TL",Dürümler,7.0
+21944f14-f061-41da-ab1c-c40eadb24aae,Et Şiş Dürüm,"18,00 TL",Dürümler,7.0
+bc11c097-5023-4713-9f89-03eb79f366ec,Tavuk Şiş Dürüm,"16,00 TL",Dürümler,6.0
+5cd6852c-d76f-42c5-9f3a-9927ea3576c4,Yarım Ekmek Arası Köfte,"16,00 TL",Ekmek Arası Ürünler,3.0
+8897f504-f789-4d3d-a869-5de0102a3fdc,Hamburger,"16,00 TL",Burgerler,5.0
+fc5328cd-d5b8-4e82-8341-bac592592e89,Cheeseburger,"18,00 TL",Burgerler,5.0
+33ed1af0-4805-4fbe-bc48-34131110d71d,Tavuk Döner Dürüm,"12,00 TL",Tavuk Dönerler,15.0
+0e1541b3-21c0-464c-97f9-e50d81f8549c,Tavuk Döner,"26,00 TL",Tavuk Dönerler,8.0
+f098e8f1-3e0e-40d1-b822-a73be98b0baa,Patates Kızartması,"13,00 TL",Yan Ürünler,5.0
+CC4607A1-FCEA-4BF8-B7FD-2CF17ED40764,Niğde Gazozu (25 cl.),"5,00 TL",İçecekler,5.0
+b08f23bc-5772-4ef9-be75-efe608d33cb6,Poşet,"0,25 TL",Poşet,5.0

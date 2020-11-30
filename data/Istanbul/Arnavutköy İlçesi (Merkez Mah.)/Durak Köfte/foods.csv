@@ -1,0 +1,16 @@
+food_id,food_name,food_price,food_category,food_score
+08bec7b2-7156-463d-84be-5e516cdbbd9d,Izgara Köfte,"18,00 TL",Izgaralar,8.0
+de6c4790-4f71-4750-af80-44238b7a6c10,Izgara Tavuk,"18,00 TL",Izgaralar,7.0
+4187a839-d314-476e-b2ca-17aa25fe3286,Tavuk İncik,"18,00 TL",Izgaralar,7.0
+54f64d64-9c29-43d5-b7e2-64640a56e3f0,Tavuk Kanat,"18,00 TL",Izgaralar,7.0
+65147ef0-ffc3-4eba-b101-d4a132650bbb,Tavuk Dürüm,"8,00 TL",Dürümler,7.0
+a6d25b26-e5e0-4fde-8dba-11b85d169e73,İncik Dürüm,"8,00 TL",Dürümler,5.0
+b3b8c929-7887-4666-8328-239a6fa55ca3,Köfte Dürüm,"8,00 TL",Dürümler,13.0
+c39d85a3-e742-42d8-a54f-dae3fcd82a58,Zurna Tavuk Dürüm,"16,00 TL",Dürümler,8.0
+a311d53b-699b-4c0d-a99c-0181b1579711,Zurna İncik Dürüm,"16,00 TL",Dürümler,6.0
+61ac9d2e-4624-4a8e-aac4-7ea7cb0c50d4,Zurna Köfte Dürüm,"16,00 TL",Dürümler,9.0
+48de2e44-b5f2-4b34-ac68-4a1baecf98f2,Yarım Ekmek Arası Tavuk,"6,00 TL",Ekmek Arası Ürünler,12.0
+6be191bf-b932-4338-ba1a-dc51ada1c5e9,Yarım Ekmek Arası Köfte,"8,00 TL",Ekmek Arası Ürünler,13.0
+1190f87c-baad-4807-ac26-cbdb4b98cc35,Yarım Ekmek Arası Tavuk İncik,"8,00 TL",Ekmek Arası Ürünler,7.0
+8cb90617-e19a-494a-a419-eb68cd25f4e5,Su,"1,50 TL",İçecekler,5.0
+abb85941-7a88-448e-9fd5-901e52f965a8,Poşet,"0,25 TL",Poşet,5.0

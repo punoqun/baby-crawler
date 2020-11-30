@@ -1,0 +1,39 @@
+food_id,food_name,food_price,food_category,food_score
+3a9db728-844d-4c02-8b09-0ab33060eb75,Jumbo Tavuk Döner Dürüm Menü,"18,00 TL",Menüler,2.0
+9f608b6f-aede-47dd-9638-af075fe7dae5,Jumbo Et Döner Dürüm Menü,"24,50 TL",Menüler,3.0
+75b7a281-e35b-40d5-905e-17a90ec90120,Maxi Et Döner Dürüm Menü,"27,00 TL",Menüler,2.0
+776cd6c3-b73e-4ab4-9afa-a77f097960a0,Maxi Tavuk Döner Dürüm Menü,"19,00 TL",Menüler,1.0
+0f6e1812-450f-46a0-ae88-e532fd92286d,Et Döner Dürüm Menü,"19,00 TL",Menüler,2.0
+488afc8a-8fb8-4aaf-8b71-b23f0b7d5589,Tavuk Döner Dürüm Menü,"12,50 TL",Menüler,1.0
+86c65945-6b37-421c-99e9-3eb77d63466e,Pilav Üstü Et Döner Menü,"26,00 TL",Menüler,3.0
+a0e6c87e-0f70-4ed8-9610-d0b33af1b834,Pilav Üstü Tavuk Döner Menü,"18,50 TL",Menüler,2.0
+73d0c820-8279-4ee0-be92-2fd9d7184cac,Tavuk Döner Menü,"17,50 TL",Menüler,2.0
+e32af4be-a210-4169-9a20-0e3a8caf8402,Et Döner Menü,"25,00 TL",Menüler,3.0
+8caab198-29a5-4bfb-8cdd-1d8172e40869,Tavuk Döner Dürüm,"10,00 TL",Tavuk Dönerler,7.0
+573fc5f5-4c96-432e-9666-6344f604b780,Jumbo Tavuk Döner Dürüm,"14,50 TL",Tavuk Dönerler,3.0
+a449c7f2-7e22-44a8-b9a6-c86d846c4060,Kaşarlı Tavuk Döner Dürüm,"13,00 TL",Tavuk Dönerler,1.0
+44a65225-9e68-4427-a41f-5b223716c998,Maxi Tavuk Döner Dürüm,"15,50 TL",Tavuk Dönerler,7.0
+93dc5d27-0f44-4f3a-b656-5067776f9aae,Yarım Ekmek Arası Tavuk Döner,"6,00 TL",Tavuk Dönerler,3.0
+6c53c4e6-ed9f-4a45-acfe-7c68b1d55059,Tombik Ekmek Arası Tavuk Döner,"7,50 TL",Tavuk Dönerler,3.0
+78f70160-1471-43df-b0c9-53d3d282e8ac,3/4 Ekmek Arası Tavuk Döner,"9,00 TL",Tavuk Dönerler,3.0
+3c6fbc48-286e-4842-ba71-6136d8625589,Tam Ekmek Arası Tavuk Döner,"12,00 TL",Tavuk Dönerler,4.0
+056847b0-3b37-4ba7-892d-411692a465b5,Tavuk Döner Sandviç,"6,50 TL",Tavuk Dönerler,3.0
+cded9cd8-9f93-4e71-8e0d-ed7761aec5f0,Et Döner Dürüm,"17,00 TL",Et Dönerler,3.0
+12408ae5-fa75-4755-978b-f3b5f6678e62,Jumbo Et Döner Dürüm,"21,00 TL",Et Dönerler,4.0
+89d65a89-801a-4dd0-b1c0-3855323d7e8f,Kaşarlı Et Döner Dürüm,"20,00 TL",Et Dönerler,2.0
+e03fd17f-9c53-4c71-b7f6-b4f8b26aaee2,Maxi Et Döner Dürüm,"23,50 TL",Et Dönerler,3.0
+13d062df-9a09-440c-a6a4-e4d42c2a8a61,Yarım Ekmek Arası Et Döner,"11,50 TL",Et Dönerler,4.0
+18e46425-9f82-4207-b333-e04efdd1bd02,3/4 Ekmek Arası Et Döner,"16,00 TL",Et Dönerler,4.0
+10eebc95-7fa6-490d-907f-aed2d1d2c3f1,Tam Ekmek Arası Et Döner,"22,00 TL",Et Dönerler,5.0
+6b20df4a-fc0b-4e94-8c62-9ba5ba1899c8,Tombik Ekmek Arası Et Döner,"13,00 TL",Et Dönerler,4.0
+1148363e-aff8-43ab-867e-250e855a32be,Et Döner Sandviç,"12,00 TL",Et Dönerler,4.0
+c1772ee2-6b92-455e-8229-e836e65398e7,Pirinç Pilavı,"5,00 TL",Diğer Lezzetler,5.0
+80dc6180-e54f-4534-a4ca-dd1a482ebb6a,Patso Tabağı,"10,00 TL",Diğer Lezzetler,6.0
+6159a3f4-71f8-4c1d-b6a7-c28ed444d93b,Patso Külahı,"5,50 TL",Diğer Lezzetler,6.0
+c5916e7b-0698-4c75-8c3e-6b0acd1ab04b,Yarım Ekmek Arası Patso Sandviç,"8,50 TL",Diğer Lezzetler,6.0
+5c85ae74-83ab-4b24-b5c0-6b4804479c3e,Tavuklu Patso,"10,00 TL",Diğer Lezzetler,6.0
+6b20372d-e34d-4e58-a8b5-b960d24a6e6a,Patso Dürüm,"9,00 TL",Diğer Lezzetler,5.0
+024d5c3d-24b4-4ef3-9ab1-d4d4ae145757,Carte d'Or Premium Kaymak Cup (100 ml.),"9,00 TL",Dondurmalar,5.0
+8bbff9e1-a6c1-4def-a289-120fe9159aca,Algida Carte d'Or Volcano Cup,"17,00 TL",Dondurmalar,5.0
+b4b05c44-99cb-40c7-a1a4-492145fd082a,Pepsi Twist (33 cl.),"5,00 TL",İçecekler,5.0
+a1737882-1c08-48ed-9a54-7b443dad51b7,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,39 @@
+food_id,food_name,food_price,food_category,food_score
+0a9910ed-874c-4105-a5a8-f2e090fc7d9e,Kaşarlı Sucuklu Bazlama Tost,"17,50 TL",Tostlar,14.0
+233e17c9-9caa-440f-aee8-86172dd98b2c,Beyaz Peynirli Domatesli Tost,"14,50 TL",Tostlar,8.0
+357a4636-0a38-441c-bc3b-44df95cd3a99,Kavurmalı Kaşarlı Bazlama Tost,"18,50 TL",Tostlar,8.0
+49925c30-a8d3-4d41-b5e4-dc14b46628e3,Kaşarlı Tost,"13,50 TL",Tostlar,8.0
+7324e378-1197-42ae-95dd-207b3efcd285,Kaşarlı Bazlama Tost,"16,50 TL",Tostlar,8.0
+938325ac-41af-4b1c-a4b8-49ac515bebb9,Sucuklu Tost,"15,50 TL",Tostlar,9.0
+bc4d4897-1c8f-4d3c-80c3-5951fb422b38,Karışık Tost,"17,00 TL",Tostlar,9.0
+330ee5cd-287d-4d3b-8f24-7a4afa183c59,Kaşarlı Gözleme,"16,00 TL",Gözlemeler,5.0
+5d326714-4003-4293-8d9a-5df43fcc6142,Beyaz Peynirli Gözleme,"14,00 TL",Gözlemeler,5.0
+92cecd19-f6cd-44fb-8d70-15f9c44d1d5c,Patatesli Gözleme,"15,50 TL",Gözlemeler,5.0
+c122d168-d856-4b0c-8920-2a4e9f90aa2b,Ispanaklı Gözleme,"15,50 TL",Gözlemeler,5.0
+e1bf7f0e-45f8-4f3f-a1fa-068a3dd699b8,Karışık Gözleme,"20,50 TL",Gözlemeler,6.0
+f1d593cf-fc11-4467-bb65-6dd586a8c780,Kıymalı Gözeleme,"15,00 TL",Gözlemeler,5.0
+7c936490-9d3a-492e-bd1d-8b95431b3fc7,Üç Peynirli Sandviç,"16,00 TL",Sandviçler,5.0
+d21c0755-22d5-44d8-ab7f-42b68df00880,Beyaz Peynirli Sandviç,"14,50 TL",Sandviçler,5.0
+dad20ab5-e29c-4932-801d-4333f9ee456c,Ton Balıklı Sandviç,"17,00 TL",Sandviçler,5.0
+1b55472d-caa4-40a8-9360-57376b57578a,Etli Durak Pizza,"27,00 TL",Pizzalar,18.0
+2f9e2a6d-dabb-4d9c-aa9c-f18643202a62,Sucuklu Pizza,"22,00 TL",Pizzalar,14.0
+49281ae3-b109-4f69-8156-94fee6fa5980,Mantarlı Pizza,"22,00 TL",Pizzalar,13.0
+59a3e056-d045-4366-b87f-0a84d38f6368,Vejetaryen Pizza,"22,00 TL",Pizzalar,13.0
+61beaa90-b800-4217-b2a0-67e864a58af6,Tavuklu Durak Pizza,"23,00 TL",Pizzalar,13.0
+772ac6c3-c434-4464-bb26-f47ad1f2e6e7,Karışık Pizza,"24,00 TL",Pizzalar,19.0
+7c332f19-909b-4943-ab34-9ee19de15d59,Kavurmalı Pizza,"24,00 TL",Pizzalar,13.0
+90f1ef64-710b-460d-aa20-79f60b240b2e,Üç Peynirli Pizza,"21,50 TL",Pizzalar,13.0
+c819b7af-56e2-4077-8c38-7e90785229d4,Margherita Pizza,"20,50 TL",Pizzalar,13.0
+33deb5e4-a9ae-44b3-8184-dc8afeac3f45,Klasik Burger,"23,00 TL",Burgerler,5.0
+abe844e8-e1b9-4f0e-9c63-be88eb863d15,Buffalo Burger,"29,50 TL",Burgerler,5.0
+be4c8f8a-55a4-48dc-ae3b-7296b36e961d,Cheeseburger,"24,00 TL",Burgerler,7.0
+fcef35e6-9d3a-4e25-ad60-2e6a0cc81cea,Duraklatan Burger,"29,50 TL",Burgerler,5.0
+62d068c1-3176-4e96-9231-f7b6dcb6ebdd,Ekmek Arası Sucuk,"20,50 TL",Ekmek Arası Ürünler,6.0
+adf58d14-89c4-4f6c-99aa-269df4454dce,Ekmek Arası Köfte,"18,50 TL",Ekmek Arası Ürünler,5.0
+376ab868-1528-4829-9cb7-3671c0e43908,Tavuklu Mantarlı Dürüm,"22,50 TL",Dürümler,5.0
+472fa2bd-4b6a-4b27-9d09-8e65fa74574a,Beğendili Tavuk Dürüm,"24,00 TL",Dürümler,5.0
+6b243fca-7c17-48f8-81a3-fca0c302e68f,Etli Dürüm,"27,00 TL",Dürümler,5.0
+70f9ab07-a266-4ab0-9a84-9b453d4aaf86,Köfte Dürüm,"24,00 TL",Dürümler,5.0
+bf319712-d762-4049-a9ed-52bb83e50091,Sebzeli Dürüm,"18,50 TL",Dürümler,5.0
+f4569ec9-fe80-4eaa-b23a-187f227d8003,Ayran (50 cl.),"4,00 TL",İçecekler,5.0
+3810f13b-c288-4051-9ca0-dcbb57623124,Poşet,"0,25 TL",Poşet,5.0

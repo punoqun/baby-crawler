@@ -1,0 +1,63 @@
+food_id,food_name,food_price,food_category,food_score
+0d9bac8b-6797-482f-9e1b-8391269e7750,Adana Dürüm Menü,"29,00 TL",Ekonomik Menüler,3.0
+109d62c6-ed5b-4ece-9426-6a3b4b2c9f4c,Lahmacun Menü,"26,00 TL",Ekonomik Menüler,8.0
+b63ccce9-9cf4-4728-bc5a-7bf456683aa0,Adana Kebap,"27,00 TL",Kebaplar,3.0
+34091477-b98e-471b-8715-7b6cb0491f2e,Urfa Kebap,"27,00 TL",Kebaplar,5.0
+554d168c-d911-459c-a87c-4a76430baa71,İskender (Kebaptan),"30,00 TL",Kebaplar,5.0
+3ab11230-b19b-4e5f-ba9d-429ebf227a80,Yoğurtlu Adana Kebap,"30,00 TL",Kebaplar,3.0
+0465c04c-98f1-4d94-b09b-ef1836c722d0,Beyti Kebap,"30,00 TL",Kebaplar,6.0
+5ebda0f0-46b5-4c2b-9ff1-13974d41251b,Patlıcanlı Kebap,"32,00 TL",Kebaplar,5.0
+72e09f23-7421-4b62-84f9-cba27fe008e1,Mantarlı Kebap,"30,00 TL",Kebaplar,5.0
+6a4cea50-708a-4572-ab8c-07fb1f5e755b,Domatesli Kebap,"30,00 TL",Kebaplar,5.0
+2b15577f-87b5-41e4-8495-251e2847b01f,Karışık Kebap,"75,00 TL",Kebaplar,5.0
+f8968fa0-43f9-4234-afb9-47dbe5de6d46,Şiş Köfte,"27,00 TL",Izgaralar,5.0
+2f27183f-0657-4147-97ce-392e454bdbcf,Tavuk Şiş,"27,00 TL",Izgaralar,3.0
+062621ab-21dc-4979-bcba-bea060230dfd,Tavuk Kanat,"27,00 TL",Izgaralar,3.0
+a3be94ab-8f9e-433a-80de-4f68867fc602,Izgara Köfte,"27,00 TL",Izgaralar,5.0
+7d7ed184-66f1-458a-85de-b0d3235b2621,Kiremitte Köfte,"27,00 TL",Kiremitte Ürünler,5.0
+dd909d44-90a6-4581-add7-964941d64e28,Kiremitte Kuşbaşı,"28,00 TL",Kiremitte Ürünler,5.0
+e5e249f3-d469-452e-8c26-28708219a54c,Kiremitte Tavuk,"27,00 TL",Kiremitte Ürünler,3.0
+f4e95062-02a7-476b-9201-93eec63116dc,Kiremitte Mantar,"24,00 TL",Kiremitte Ürünler,5.0
+d4587697-e15f-4f4c-b815-8b09d3acdc20,Adana Dürüm,"28,00 TL",Dürümler,3.0
+f558ac28-7cc0-43b9-950d-5eaaf66319f3,Urfa Dürüm,"28,00 TL",Dürümler,5.0
+58d51517-2d7f-4b80-80b4-cc610dd0e614,Tavuk Şiş Dürüm,"28,00 TL",Dürümler,3.0
+fa90f403-d9e0-486b-bb31-8a58f832ad5c,Izgara Köfte Dürüm,"28,00 TL",Dürümler,5.0
+ee1ec818-1617-4ae2-a84f-845474afec51,Lahmacun,"13,00 TL",Etli Pideler,8.0
+20f43474-0479-4020-a757-ca4eed32d81c,Kıymalı Pide (Açık),"23,00 TL",Etli Pideler,4.0
+864934bd-d445-45c9-a036-20f0c2a9a99d,Kıymalı Kaşarlı Pide (Açık),"27,00 TL",Etli Pideler,4.0
+45c5a13e-c87e-49cb-bb33-1d6b20348169,Kıymalı Kaşarlı Mantarlı Pide (Açık),"28,00 TL",Etli Pideler,4.0
+a30eb8cb-ccd5-4c2d-824a-1a332a18bbcd,Kıymalı Domatesli Biberli Pide (Açık),"25,00 TL",Etli Pideler,4.0
+9c0a58a2-e133-4b02-ac29-0b2b1ad81fd1,Kıymalı Domatesli Biberli Kaşarlı Pide (Açık),"27,00 TL",Etli Pideler,4.0
+cafa5c39-594e-4e85-83b9-1404ecef4b7d,Kuşbaşılı Pide (Açık),"28,00 TL",Etli Pideler,4.0
+3f1ede38-5a00-469a-921b-bbbac04de0a3,Kuşbaşılı Mantarlı Pide (Açık),"29,00 TL",Etli Pideler,4.0
+0f6a9fc5-39b3-4d1c-be4c-d4e58554b1dd,Kuşbaşılı Kaşarlı Pide (Açık),"29,00 TL",Etli Pideler,4.0
+23fb91b8-6a62-4056-b5b1-f4c060947795,Kuşbaşılı Mantarlı Kaşarlı Pide (Açık),"31,00 TL",Etli Pideler,4.0
+817a1959-1a91-4af9-a2ed-997b1789c591,Sucuklu Pide (Açık),"26,00 TL",Etli Pideler,4.0
+20661f8b-ee5f-475a-a611-1884ce669804,Sucuklu Biber & Domatesli Pide (Açık),"27,00 TL",Etli Pideler,4.0
+bbe32428-6406-46a1-b3d3-3f72beeb3b5c,Sucuklu Kaşarlı Pide (Açık),"27,00 TL",Etli Pideler,4.0
+bfcb2f9e-89fb-4315-a903-f4199b289dbf,Karadeniz Pide (Kapalı),"24,00 TL",Etli Pideler,4.0
+b5d6ae37-5867-47b6-a67b-9bb300c6754f,Karışık Pide (Açık),"30,00 TL",Etli Pideler,4.0
+55a91a56-4542-4bd1-bda0-2e63835ccc88,Tavuklu Pide (Açık),"24,00 TL",Tavuklu Pideler,4.0
+6ee7b493-4e91-4a83-8fbe-80750a5a4795,Tavuklu Kaşarlı Pide (Açık),"25,00 TL",Tavuklu Pideler,4.0
+5009c590-0416-478f-98df-723076301ef4,Tavuklu Mantarlı Pide (Açık),"25,00 TL",Tavuklu Pideler,4.0
+b600c4c2-69ff-4622-a591-96140a6d467f,Tavuk Mantarlı Kaşarlı Pide (Açık),"24,00 TL",Tavuklu Pideler,2.0
+0573da01-5d4a-4b5b-a150-b79377a2e04f,Kaşarlı Pide (Açık),"26,00 TL",Peynirli Pideler,4.0
+402d960b-336b-4fe6-8ade-ca99a7196ab0,Kaşarlı Pide (Kapalı),"26,00 TL",Peynirli Pideler,4.0
+bd3951a2-99c1-410e-9a8a-f8d4d9195dc3,Kaşarlı Mantarlı Pide (Açık),"27,00 TL",Peynirli Pideler,4.0
+534b346f-3211-4681-a815-d80461244687,Kaşarlı Domatesli Biberli Mantarlı Pide (Açık),"27,00 TL",Peynirli Pideler,4.0
+406c09db-df4c-4139-bc62-54c31d12350f,Kaşarlı Domatesli Biberli Pide (Açık),"26,00 TL",Peynirli Pideler,4.0
+1b0cead2-4e78-47a8-8f47-2cd5bc320e45,Beyaz Peynirli Pide (Açık),"24,00 TL",Peynirli Pideler,4.0
+23f54b86-d3c3-4f48-a007-f149d323d871,Beyaz Peynirli Kaşarlı Pide (Açık),"26,00 TL",Peynirli Pideler,4.0
+61b57da0-60ec-4126-96bd-67fc8f8a49cf,Beyaz Peynirli Domatesli Biberli Pide (Açık),"26,00 TL",Peynirli Pideler,4.0
+641fb211-1d10-4e24-ad7d-03504c4524d1,Beyaz Peynirli Kaşarlı Domatesli Biberli Pide (Açık),"27,00 TL",Peynirli Pideler,4.0
+92ab0e16-db7c-48f5-bab9-1d0c72f12c94,Ispanaklı Pide (Açık),"24,00 TL",Sebzeli Pideler,4.0
+b69e5710-8edd-4755-b20e-8c3ef78fb7d9,Ispanaklı Beyaz Peynirli Pide (Açık),"24,00 TL",Sebzeli Pideler,4.0
+67fff3fd-2ca9-4aee-9a9d-1c83635bc858,Ispanaklı Kıymalı Pide (Açık),"24,00 TL",Sebzeli Pideler,4.0
+44b7bb47-b359-47ef-8772-5b982d22703b,Ispanaklı Sucuklu Pide (Açık),"24,00 TL",Sebzeli Pideler,4.0
+a2879d06-4f79-477d-b0be-e251e8214059,Ispanaklı Kaşarlı Pide (Açık),"24,00 TL",Sebzeli Pideler,4.0
+81eb4722-ec04-46ac-ace1-6e3f183f5953,Mantarlı Pide (Açık),"25,00 TL",Sebzeli Pideler,4.0
+cbb81be9-37bc-4056-8a40-e52ae3f07feb,Special Elit Pide (Açık),"31,00 TL",Special Pideler,4.0
+b448f29f-1a80-4a9d-bbc8-5f46329bf55c,Dört Mevsim Pide (Açık),"31,00 TL",Special Pideler,4.0
+3601d165-ab03-4f47-822f-9a2509e596ce,Künefe,"11,00 TL",Tatlılar,5.0
+ce976310-329f-4a84-95de-37bd9f3dfaac,"Fanta (2,5 L.)","11,00 TL",İçecekler,5.0
+c446000e-e07d-4c7b-9aec-042fb89f1776,Poşet,"0,25 TL",Poşet,5.0

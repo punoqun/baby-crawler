@@ -1,0 +1,49 @@
+food_id,food_name,food_price,food_category,food_score
+c6021f78-7544-46c9-85b4-5c7ef236c709,Ayrılmaz 2'li Menü,"43,90 TL",Menüler,5.0
+d4564484-ba59-41d9-b3a6-1000c99ffd71,Çıtır Tavuk Döner Burger Menü,"18,50 TL",Menüler,4.0
+ed684891-c334-44ca-be49-a4e06bd833f2,Çıtır Tavuk Döner Dürüm Menü,"18,50 TL",Menüler,6.0
+46362115-82ca-4845-aec7-abff79c86b65,Ekonomik Menü,"18,50 TL",Menüler,10.0
+ee09afbd-dede-4812-9e51-199bfcfbb9d1,Et Döner Burger Menü,"27,50 TL",Menüler,4.0
+13882c23-8da4-4c8e-9653-f0860b5befa0,Et Döner Dürüm Menü,"25,50 TL",Menüler,6.0
+3e4c4a11-e1de-45ef-bb3d-bd19e214de14,Et Döner Sandviç Menü,"27,50 TL",Menüler,4.0
+e48c6dd7-7c21-46a2-8a65-0c64c6a010d2,Gobit Ekmek Arası Et Döner Menü,"27,50 TL",Menüler,4.0
+3403150d-67c6-4e58-a500-758bd4bd7170,Gobit Ekmek Arası Tavuk Döner Menü,"18,50 TL",Menüler,4.0
+1448780f-6342-41c1-a52e-9d185aed7ca2,Hamburger Menü,"22,90 TL",Menüler,5.0
+2aed8a17-f50f-48f0-b8d0-bc8242364d79,Hot Shot Menü,"17,90 TL",Menüler,5.0
+a4905f7e-b8f2-45f2-a99b-62f5fc9c5bb1,Kırmızı Beyaz Menü,"41,50 TL",Menüler,5.0
+183cc4ce-c5bc-43da-b0c3-8b5282fb54f4,Rollstar Et Döner Dürüm Menü,"27,50 TL",Menüler,6.0
+0860c920-6ce8-4a8a-ad1c-dfd283608ca8,Rollstar Tavuk Döner Dürüm Menü,"18,50 TL",Menüler,6.0
+5cf131c4-e0fb-4af1-8e54-01af65cab4ad,Rollstar Twin Menü,"32,90 TL",Menüler,5.0
+7f0a4010-a5dc-49b2-ba0e-fa9683ffb011,SR Large Menü,"20,90 TL",Menüler,10.0
+77c5ca65-21a0-441b-83ea-b9e3075ed619,SR Medium Menü,"18,50 TL",Menüler,5.0
+0aa3d3a7-ace8-4d4e-bb84-31da3ff0fef0,SR Small Menü,"16,50 TL",Menüler,5.0
+6853bf47-4ec3-4a8c-afd9-7a5bab3249c5,Tavuk Döner Burger Menü,"18,50 TL",Menüler,4.0
+70d202e5-303d-413d-be15-f40cf307a953,Tavuk Döner Dürüm Menü,"18,50 TL",Menüler,6.0
+96b8a33a-4322-49f9-ba5f-c52b5eb1d100,Tavuk Döner Sandviç Menü,"17,50 TL",Menüler,4.0
+fecf5f53-4e04-4ec5-9512-073769bd239f,Tavuk Fileto Menü,"28,50 TL",Menüler,5.0
+3bc33939-a08b-44e1-bdd2-11ebd75d7a6d,Tavuk Döner Dürüm,"12,50 TL",Tavuk Dönerler,11.0
+c0c4521f-6546-4891-aff5-03534910b02c,Gobit Ekmek Arası Tavuk Döner,"12,50 TL",Tavuk Dönerler,4.0
+7bdf8ac1-900b-4093-9305-ddd0ff27a684,Tavuk Döner Sandviç,"9,90 TL",Tavuk Dönerler,4.0
+daac6dca-8ad9-4084-9cb4-389dabab144e,Rollstar Tavuk Döner Dürüm,"12,50 TL",Tavuk Dönerler,6.0
+18fe6371-2847-4aa8-91f1-3a13f94bc586,Çıtır Tavuk Döner Dürüm,"12,50 TL",Tavuk Dönerler,6.0
+ce42fd19-7cca-491f-9c2c-2a0cd6914e80,Çıtır Tavuk Döner Burger,"12,50 TL",Tavuk Dönerler,4.0
+f023c5d6-cc6b-4dbf-8717-ae8e2e49a30a,Tavuk Döner Burger,"12,50 TL",Tavuk Dönerler,4.0
+9980e1ec-c371-4c20-b77a-fb6325a3a62a,Tavuk Döner,"17,50 TL",Tavuk Dönerler,4.0
+2eb9ca39-db5d-4e64-911d-f343f3483349,İskender (Tavuk Dönerden),"18,50 TL",Tavuk Dönerler,3.0
+ebe1a71b-314c-4232-9a5e-9aea295a08a5,Tavuk Döner Beyti,"18,50 TL",Tavuk Dönerler,4.0
+e3b95dfb-0c41-4798-af91-89eb7fd852cc,Et Döner Dürüm,"17,90 TL",Et Dönerler,6.0
+944e2c6a-a0c4-4e44-971d-a39b35a35297,Et Döner Burger,"18,90 TL",Et Dönerler,4.0
+2cc90999-a08e-49fb-9a66-4f39bed803e7,Gobit Ekmek Arası Et Döner,"18,90 TL",Et Dönerler,4.0
+7abcd7c1-2bbc-44d9-a84c-6c9f85ac3331,Et Döner Sandviç,"18,90 TL",Et Dönerler,4.0
+f2854a34-72d0-431f-9250-df6b1b3eba6b,Rollstar Et Döner Dürüm,"18,90 TL",Et Dönerler,6.0
+4c8024ca-aa32-4ff9-a94e-32d2c834f003,Et Döner,"24,90 TL",Et Dönerler,4.0
+6c1c681f-168c-46c3-8ea7-1436de243e37,İskender (Et Dönerden),"27,50 TL",Et Dönerler,3.0
+6e72a463-2e5f-4128-b164-68cfe238eb63,Et Döner Beyti,"26,50 TL",Et Dönerler,4.0
+8275b567-2b16-4987-8ded-4f5191a008fb,Gobit Ekmek Arası Köfte,"19,90 TL",Köfteler,5.0
+125fa79c-655f-4fa1-861a-9eba27e2be24,Hot Shot,"9,00 TL",Yan Ürünler,5.0
+177fa21e-b092-4dac-9d00-d1dfad0f3f48,Baharatlı Patates Kızartması,"5,00 TL",Yan Ürünler,4.0
+60d25b00-2a6b-4a4e-b8c4-6a68e2d07ea1,Tavuk Fileto,"14,90 TL",Yan Ürünler,5.0
+b7e2f19c-5c47-409d-a6a0-f9105089ce41,Soğan Halkası,"5,00 TL",Yan Ürünler,5.0
+eb76fa10-05d6-49fc-9edd-71eb35ab94c8,Profiterol,"5,00 TL",Tatlılar,5.0
+41B8CAA1-FD77-49F3-88FC-BD128ABDE7D3,Supangle,"5,00 TL",Tatlılar,5.0
+c38f8038-b3b5-482d-b8fe-535bc1d7c9a6,Poşet,"0,25 TL",Poşet,5.0

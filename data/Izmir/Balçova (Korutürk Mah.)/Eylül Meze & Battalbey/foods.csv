@@ -1,0 +1,44 @@
+food_id,food_name,food_price,food_category,food_score
+5348d56c-aa24-46d4-a1a5-fb8328c7b528,Tavuklu Pilav Menü,"13,00 TL",Ekonomik Menüler,5.0
+3b934964-99dc-4bf1-96b8-ca17bd1fc824,Şnitzelli Çiğ Köfte Dürüm Menü,"13,00 TL",Ekonomik Menüler,0.0
+f4552f74-7337-4829-a7b8-6e7662af18be,Midyeli Çiğ Köfte Dürüm Menü,"11,00 TL",Ekonomik Menüler,0.0
+07B4EA36-9544-41D2-B75F-C796B7CBB892,Zeytinyağlı Yaprak Sarma (250 gr.),"19,00 TL",Mezeler,15.0
+DE1F362D-FA18-486C-A8D5-B81E6A86CB33,Kızartma İçli Köfte (3 Adet),"25,00 TL",Mezeler,5.0
+CA4F4A97-EF28-4FD0-926A-3B53ADEA37F3,Kızartma İçli Köfte (5 Adet),"40,00 TL",Mezeler,5.0
+71D32304-0451-4499-BE47-6228B4D5D7C7,Zeytinyağlı Yaprak Sarma (1 kg.),"45,00 TL",Mezeler,15.0
+8E9F009F-2629-4966-8A71-A2034DF7C8F7,Zeytinyağlı Yaprak Sarma (500 gr.),"25,00 TL",Mezeler,15.0
+5b9be618-52be-474d-a647-47e647878011,Havuç Tarator (285 gr.),"17,00 TL",Mezeler,5.0
+48878ba4-af61-433b-af1f-8be44ce8f6ce,Kızartma İçli Köfte (Adet),"9,50 TL",Mezeler,5.0
+bf0789a0-4110-4f4b-9806-4b59140d05d8,Mercimek Köftesi (1 kg.),"45,00 TL",Mezeler,3.0
+ff071770-1098-492f-84ba-1bd9eea59d18,Mercimek Köftesi (200 gr.),"15,00 TL",Mezeler,3.0
+90A6B0DC-BFE2-435F-9B99-88CC324950E3,Mücver (125 gr.),"10,00 TL",Mezeler,7.0
+6A63314C-17B7-4E3E-A55B-51D39E61B909,Mücver (250 gr.),"18,00 TL",Mezeler,7.0
+0c0c3920-63a6-4594-ab14-701af4b241a2,Şakşuka (285 gr.),"17,00 TL",Mezeler,4.0
+ab6c7009-9b3d-4f8d-af3e-8d4cf77ba91b,Şakşuka Meze (1 kg.),"70,00 TL",Mezeler,6.0
+2C564E25-B200-49B0-ABAE-D7C43F630947,Süzme Yoğurt (300 gr.),"20,00 TL",Mezeler,5.0
+1de73262-9e5d-41b9-be73-c0feab21973b,Çiğ Köfte Dürüm,"6,00 TL",Çiğ Köfteler,5.0
+9124f565-914f-4761-b94a-8ac5a615bcce,Çiğ Köfte (200 gr.),"12,50 TL",Çiğ Köfteler,2.0
+172b1472-074e-4dc2-9c5e-26642aa9e521,Şnitzelli Çiğ Köfte Dürüm,"10,00 TL",Spesiyal Çiğ Köfteler,5.0
+58d6eb73-cb7c-451d-9163-1bf811fd016b,Midyeli Çiğ Köfte Dürüm,"10,00 TL",Spesiyal Çiğ Köfteler,0.0
+fa51900b-48fa-4a0f-b3cc-b595ae8f762c,Rus Salatalı Çiğ Köfte Dürüm,"12,00 TL",Spesiyal Çiğ Köfteler,0.0
+15b78f9d-fb8f-4a95-8cf9-1a4fea2872bd,Atomlu Çiğ Köfte Dürüm,"12,00 TL",Spesiyal Çiğ Köfteler,0.0
+c10a5b97-b9f0-464d-8c5a-d0a2b6260c34,Patlıcan Ezmeli Çiğ Köfte Dürüm,"12,00 TL",Spesiyal Çiğ Köfteler,-1.0
+ffd4a0ce-aa1c-4399-aa42-87c0a4184e21,Havuç Taratorlu Çiğ Köfte Dürüm,"12,00 TL",Spesiyal Çiğ Köfteler,0.0
+fa5fd0d2-a36f-4fcc-a0f1-6b239281cbb5,Şakşukalı Çiğ Köfte Dürüm,"12,00 TL",Spesiyal Çiğ Köfteler,0.0
+852e4068-9c67-4b39-ae7c-1286b18ce1fd,Izgara Köfte,"34,00 TL",Köfteler,5.0
+1c45ab68-276f-4f3c-a0be-30e1be5f1d06,Ekmek Arası Köfte,"19,00 TL",Köfteler,7.0
+c89767ad-80b6-479e-b9a4-c0aefe29be4b,Midye Dolma (250 gr.),"20,00 TL",Midyeler,5.0
+210d1b66-b870-4356-93d3-c13855281cb2,Midye Dolma (500 gr.),"35,00 TL",Midyeler,5.0
+027db865-8cae-4eb2-8f76-d137ce46a0e6,Tavuklu Pilav,"11,00 TL",Diğer Lezzetler,5.0
+5931a547-4b46-4573-aa98-58df77e53f52,Iceberg Marul (Adet),"6,00 TL",Ekstralar,5.0
+8d3a6f74-f97a-4bfa-ad0a-1427d20e525a,Lavaş (Adet),"0,70 TL",Ekstralar,8.0
+e28429ce-ca0a-4666-b62e-7ca0be432a14,Limon (Adet),"2,00 TL",Ekstralar,5.0
+eb0edfd9-a81d-4982-90aa-5d57a5a8f5f2,Karamelli Trileçe,"6,00 TL",Tatlılar,5.0
+81ee26f8-412a-4b17-bbf5-653adbd05a1b,Çikolatalı Brownie,"9,50 TL",Tatlılar,5.0
+e3666a6e-ac7e-4926-94ff-02ffeffdd7f7,Niğde Gazozu (25 cl.),"5,00 TL",İçecekler,5.0
+be97124b-7d2b-4439-a503-ab4b8dce83f1,Su,"2,00 TL",İçecekler,5.0
+b86bc5a8-5bea-435f-be1e-12c49c965a6d,Mercimek Köftesi (500 gr.),"30,00 TL",Kiloluk Mezeler,3.0
+06071949-08f2-4f72-8785-98818eef7e0e,Şakşuka (500 gr.),"35,00 TL",Kiloluk Mezeler,4.0
+D9974057-759F-4894-BCBE-A820D0AB1DF7,Mücver (1 kg.),"50,00 TL",Kiloluk Mezeler,7.0
+42B8B8CA-70E1-4434-8D49-EEC399907865,Mücver (500 gr.),"28,00 TL",Kiloluk Mezeler,7.0
+6f889eed-fbf6-4e93-9869-a81c2839f4b4,Poşet,"0,25 TL",Poşet,5.0

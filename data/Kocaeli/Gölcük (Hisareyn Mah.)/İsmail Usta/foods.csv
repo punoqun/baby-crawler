@@ -1,0 +1,36 @@
+food_id,food_name,food_price,food_category,food_score
+cc22b585-7b2f-4e3e-84f6-c82276b3f6ad,Karışık Pide Menü,"27,00 TL",Menüler,5.0
+d09765f7-c038-44ec-978d-a0f9b4ca463b,Lahmacun Menü,"12,00 TL",Menüler,5.0
+6ac64584-22d7-4b86-896a-c073f6e8782a,Lahmacun,"7,00 TL",Lahmacunlar,10.0
+d53f1e66-b538-43d9-bc34-ca5bce6040b4,Kaşarlı Lahmacun,"8,00 TL",Lahmacunlar,5.0
+2228c541-7f02-4436-9937-84cd7e89cd2d,Fındık Lahmacun,"5,00 TL",Lahmacunlar,5.0
+c0a08084-0b07-4cca-8e50-5dd7c5bfd00c,Kaşarlı Pide,"20,00 TL",Pideler,5.0
+78bd72d3-ad32-4a6f-869f-1efc759c97b8,Kıymalı Pide,"20,00 TL",Pideler,5.0
+c4f9d6a7-bd78-4885-a27a-49b52df8b0de,Kuşbaşılı Pide,"22,00 TL",Pideler,5.0
+ff400521-b199-4220-ba96-123dd817cdb1,Kavurmalı Kaşarlı Pide,"27,00 TL",Pideler,5.0
+ef06f508-16fa-412f-8d4f-2f8654528848,Sucuklu Pide,"22,00 TL",Pideler,5.0
+c17813c3-d900-4215-bce8-e72a8a857700,Karışık Pide,"22,00 TL",Pideler,5.0
+b09ed715-0c61-454e-86ba-ea48843e95be,Yağlı Yuvarlak Pide,"22,00 TL",Pideler,5.0
+ac8d1b12-67c7-4d29-b8f2-ade1030e1184,Tavuk Döner,"15,00 TL",Tavuk Dönerler,5.0
+3296c80e-3fca-4345-905c-6044fdc6d3f4,Tavuk Döner Dürüm,"15,00 TL",Tavuk Dönerler,5.0
+3fecb816-6ce9-406b-85c8-c4512869a230,Tombik Ekmek Arası Tavuk Döner,"10,00 TL",Tavuk Dönerler,5.0
+20d10f96-3193-4145-b9df-be8707814c73,Yarım Ekmek Arası Tavuk Döner,"7,00 TL",Tavuk Dönerler,5.0
+12f7db94-66e5-40bf-a46c-e7c3b6aa9e7c,3/4 Ekmek Arası Tavuk Döner,"12,00 TL",Tavuk Dönerler,5.0
+23555d63-8e1d-47ec-bd30-f493fdc9b68c,Tam Ekmek Arası Tavuk Döner,"15,00 TL",Tavuk Dönerler,5.0
+2d4b157f-9264-4896-98eb-d42bcbb434d4,Adana Kebap,"20,00 TL",Izgaralar & Kebaplar,5.0
+7298c765-7917-41cf-a1c2-0f43bbe0c28f,Urfa Kebap,"20,00 TL",Izgaralar & Kebaplar,5.0
+7ccd8dc9-62e4-4e27-81b0-661fc047f4c3,Izgara Köfte,"20,00 TL",Izgaralar & Kebaplar,5.0
+fc0e4168-72cd-4a07-ae26-be7002c0b4ed,Kiremitte Köfte,"20,00 TL",Kiremitte Ürünler,5.0
+2b05cfb6-fd5a-4c92-8f27-6b912b03853d,Kiremitte Kavurma,"25,00 TL",Kiremitte Ürünler,5.0
+c390a8d8-b889-4e11-bb88-5e14f15a0ebf,Kiremitte Mantar,"10,00 TL",Kiremitte Ürünler,5.0
+005e6993-b658-46ac-bf62-d4d6bd570518,Adana Dürüm,"20,00 TL",Ekmek Arası Ürünler & Dürümler,5.0
+ac3d9850-82df-4277-a891-6210e7509e86,Urfa Dürüm,"20,00 TL",Ekmek Arası Ürünler & Dürümler,5.0
+e731d71e-44b7-4ce3-bb80-3e4758a10176,Köfte Dürüm,"20,00 TL",Ekmek Arası Ürünler & Dürümler,5.0
+1bbc9559-b195-4345-bd9e-22a86ef6d82c,Yarım Ekmek Arası Köfte,"10,00 TL",Ekmek Arası Ürünler & Dürümler,5.0
+62812e34-d960-49a0-89ca-157ef319f4dd,3/4 Ekmek Arası Köfte,"18,00 TL",Ekmek Arası Ürünler & Dürümler,5.0
+1c550719-1fa5-4124-8c63-4caa6f9ef666,Tam Ekmek Arası Köfte,"20,00 TL",Ekmek Arası Ürünler & Dürümler,5.0
+01de5d90-366c-4378-a0bf-b573613b4e34,Künefe,"12,00 TL",Tatlılar,10.0
+7641C0D9-8930-4018-8F47-31E4F4E99929,Sütlaç,"10,00 TL",Tatlılar,5.0
+f445ce1c-7768-43a2-8c95-8e192a23f882,Kadayıf Dolması,"10,00 TL",Tatlılar,5.0
+3D6B51B8-211F-4F20-B620-8F2D9981676C,Niğde Gazozu (20 cl.),"4,00 TL",İçecekler,5.0
+6a061b66-c635-4b43-92af-d2a7c4fc5c28,Poşet,"0,25 TL",Poşet,5.0

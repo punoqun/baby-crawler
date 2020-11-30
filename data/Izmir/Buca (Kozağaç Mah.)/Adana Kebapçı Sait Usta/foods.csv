@@ -1,0 +1,25 @@
+food_id,food_name,food_price,food_category,food_score
+225bb1fc-b1d7-40c5-833f-f93b242d9cf7,Tavuk Şiş Menü,"24,00 TL",Menüler,6.0
+45c6c7b8-143f-4418-b51b-ed9afe2cd74a,Izgara Köfte Menü,"25,00 TL",Menüler,9.0
+7f30b212-82fd-4332-90b0-3b9e5b14a291,Izgara Köfte (500 gr.) Menü,"35,00 TL",Kiloluk Menüler (Pişirilmiş),9.0
+4d4587ba-2968-40be-b1ce-f172caafa7ab,Tavuk Kanat (500 gr.) Menü,"30,00 TL",Kiloluk Menüler (Pişirilmiş),7.0
+049b9e23-055e-4d8b-a1ed-b5cbbe057870,Tavuk Pirzola (500 gr.) Menü,"30,00 TL",Kiloluk Menüler (Pişirilmiş),4.0
+6245a41f-b06f-4c9f-aeda-b0fc0b3ab8b8,Tavuk Bonfile (500 gr.) Menü,"30,00 TL",Kiloluk Menüler (Pişirilmiş),7.0
+4b6b7f1d-fc15-4bed-bbf0-1c7c73e65ab8,Adana Kebap,"23,00 TL",Kebaplar & Izgaralar,2.0
+a6a6044a-7837-4d33-ac12-ff6db71bbb2d,Urfa Kebap,"23,00 TL",Kebaplar & Izgaralar,3.0
+ab05c2f8-e5a0-4d84-bb3e-b17e5aa7176c,Tavuk Kanat,"20,00 TL",Kebaplar & Izgaralar,7.0
+e0d019c3-0e78-46f0-b0bc-53982caee6da,Domatesli Kebap,"28,00 TL",Kebaplar & Izgaralar,3.0
+761579c7-d8f7-4c5e-8079-a273ca75fe9f,Adana Dürüm,"13,00 TL",Dürümler,2.0
+c8b6d0ea-3c52-49c6-9ebb-93ec746e6e1a,Urfa Dürüm,"13,00 TL",Dürümler,3.0
+78c89f7a-7ed2-495d-92ac-af56ecb3d8b9,Tavuk Şiş Dürüm,"12,00 TL",Dürümler,9.0
+50bfceee-fdb1-471d-a794-1187727c0da1,Köfte Dürüm,"12,00 TL",Dürümler,7.0
+f1336244-eaee-4746-b438-e322f83103b8,Çiğ Köfte Dürüm,"5,00 TL",Dürümler,7.0
+ef2c28ac-1eb7-432f-8900-6dd49976d970,Çiğ Köfte (250 gr.),"12,00 TL",Yan Ürünler,9.0
+2DA7DAAC-A432-46EC-A400-F75EB3FA33DF,Patates Kızartması,"10,00 TL",Yan Ürünler,5.0
+569CA29C-9E09-46B3-8275-963566CBC477,Lavaş Ekmeği (Adet),"2,00 TL",Yan Ürünler,4.0
+7FE2F616-AEC7-43E8-B845-000DADE055CC,Niğde Gazozu (25 cl.),"4,00 TL",İçecekler,5.0
+abb35f72-2a1f-4eab-980c-60c693919be6,Izgara Köfte (1 kg.),"50,00 TL",Kiloluk Ürünler (Pişirilmiş),9.0
+2344a6b2-031e-4cad-afab-39d0f1c7e86d,Tavuk Kanat (1 kg.),"40,00 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+7dbd3d6e-fd00-4965-9f4c-d881e73b1be3,Tavuk Pirzola (1 kg.),"40,00 TL",Kiloluk Ürünler (Pişirilmiş),4.0
+b208a22f-c6f1-4b47-af35-2fe66baa012c,Tavuk Bonfile (1 kg.),"40,00 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+b34c56bf-1c2e-480f-9711-ccdb6b902b8a,Poşet,"0,25 TL",Poşet,5.0

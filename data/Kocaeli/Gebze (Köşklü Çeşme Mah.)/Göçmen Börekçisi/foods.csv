@@ -1,0 +1,58 @@
+food_id,food_name,food_price,food_category,food_score
+1d0844d3-e1de-44a5-bd2e-fe906cdbea40,Kıymalı Göçmen Böreği,"12,00 TL",Börekler,19.0
+afe3ff66-1cc2-4872-bf31-62f0b1557d38,Peynirli Göçmen Böreği,"12,00 TL",Börekler,7.0
+6c8fb819-e8a7-49b1-baf4-0050cb5db1c3,Patatesli Göçmen Böreği,"12,00 TL",Börekler,6.0
+96e933b8-bd8f-461a-8685-99de97bfb19b,Ispanaklı Göçmen Böreği,"12,00 TL",Börekler,7.0
+6161cafc-1b2a-49ac-b9c8-3807b5a8c2ca,Küt Böreği,"10,00 TL",Börekler,12.0
+c7ab79f5-d495-4769-8351-91ae41e9f2f9,Su Böreği,"15,00 TL",Börekler,3.0
+e34f82da-959d-43b9-983e-5c93af204af5,Kaşarlı Adana Su Böreği,"14,00 TL",Börekler,3.0
+651d03b2-2abd-4d0f-b0d7-f358c0fe5afc,Kavurmalı Kaşarlı Adana Su Böreği,"16,00 TL",Börekler,3.0
+6a30b339-8bb4-4900-9ad6-83afbf5ef625,Lor Peynirli Osmanlı Yığma Su Böreği,"12,00 TL",Börekler,5.0
+e7f9a554-31f2-4724-8743-cb294e087fd1,Bayramoğlu Tereyağlı Açma,"5,00 TL",Açmalar & Poğaçalar & Simitler,7.0
+ac6113ad-2538-4cd0-a1f3-457ccbfbfcc6,İçli Açma,"5,00 TL",Açmalar & Poğaçalar & Simitler,12.0
+0fb85a21-9f71-4697-a4f1-934ba6a1cfdb,Simit,"3,50 TL",Açmalar & Poğaçalar & Simitler,5.0
+13b5733a-2a06-4874-bf08-4c3d8353aa4e,Dereotlu Havuçlu Poğaça,"4,00 TL",Açmalar & Poğaçalar & Simitler,5.0
+11f2fd7b-50cc-48aa-8989-23eb55e3b4de,Ev Poğaçası (1 kg.),"45,00 TL",Açmalar & Poğaçalar & Simitler,5.0
+d6237712-a8d1-4bab-bdd1-7c654b819973,Peynirli Sandviç,"12,50 TL",Sandviçler,7.0
+38ebb995-5358-487c-a75b-0ce0f3563069,Kaşarlı Sandviç,"12,50 TL",Sandviçler,7.0
+826aca83-811a-463a-9197-70e3c268e247,Karışık Simit Pizza,"10,00 TL",Diğer Lezzetler,5.0
+c91a2c56-b898-484c-afc9-fba2f8111680,Karışık Klasik Pizza,"10,00 TL",Diğer Lezzetler,5.0
+1d5d69f4-23e0-4c93-9646-25ffba44b727,Ekler (250 gr.),"12,00 TL",Tatlılar,9.0
+A0573036-B665-4BB3-AD66-30EBA6989C5B,Çilekli Pasta (Dilim),"18,00 TL",Tatlılar,5.0
+71F53831-7A4E-484C-B71B-DBE4FE7AD280,Supangle (150 gr.),"18,00 TL",Tatlılar,5.0
+907F13C0-A7A1-45AE-BB32-816C28FAD73E,Profiterol (200 gr.),"18,00 TL",Tatlılar,5.0
+48091034-AAE9-43D0-81FF-CD2B0C0B92AE,Çilekli Rulo Pasta,"15,00 TL",Tatlılar,5.0
+E3837AC3-05A7-42BD-9493-5259C29E822E,Muzlu Rulo Pasta,"15,00 TL",Tatlılar,5.0
+7F651094-AE97-478E-8198-D87F861A8F7E,Karamelli Triliçe,"12,00 TL",Tatlılar,5.0
+85BA762F-159F-47ED-82AF-8F9D2ABB2640,Frambuazlı Triliçe,"12,00 TL",Tatlılar,5.0
+F89541A8-7289-40D9-8754-A5253A7D2827,Mini Rulo Pasta,"12,00 TL",Tatlılar,5.0
+66ab15ef-d3c0-4081-933b-5495527ffaaf,Ispanaklı Göçmen Böreği (2 Kişilik),"25,00 TL",Kiloluk Börekler (Pişirilmiş),7.0
+e7e0b1f0-066d-43d9-9514-19f828870054,Ispanaklı Göçmen Böreği (3-4 Kişilik),"46,00 TL",Kiloluk Börekler (Pişirilmiş),7.0
+8285ee8a-3bc8-4294-a36c-708b7ce08192,Kaşarlı Adana Su Böreği (2 Kişilik),"26,00 TL",Kiloluk Börekler (Pişirilmiş),3.0
+91840325-ea91-4ad9-b837-24d6c5474a07,Kaşarlı Adana Su Böreği (3-4 Kişilik),"48,00 TL",Kiloluk Börekler (Pişirilmiş),3.0
+eb24906d-7ce4-49e8-8224-f6a1cad07db5,Kavurmalı Kaşarlı Adana Su Böreği (2 Kişilik),"30,00 TL",Kiloluk Börekler (Pişirilmiş),3.0
+8b3334ce-6e5c-4e3f-89d2-81a0534be14e,Kavurmalı Kaşarlı Adana Su Böreği (3-4 Kişilik),"60,00 TL",Kiloluk Börekler (Pişirilmiş),3.0
+04dddb37-55f5-4b81-a6a9-fffdc2f22b1e,Kıymalı Göçmen Böreği (2 Kişilik),"25,00 TL",Kiloluk Börekler (Pişirilmiş),14.0
+f64eaac5-6e5e-47b5-8491-fa6896032f41,Kıymalı Göçmen Böreği (3-4 Kişilik),"46,00 TL",Kiloluk Börekler (Pişirilmiş),14.0
+06f0cfd0-8ae7-4aec-b609-20d225c4855f,Küt Böreği (2 Kişilik),"22,00 TL",Kiloluk Börekler (Pişirilmiş),7.0
+84dbb30f-95e2-4362-ae86-c7bacb99fbf1,Küt Böreği (3-4 Kişilik),"38,00 TL",Kiloluk Börekler (Pişirilmiş),7.0
+21ee5ac4-862a-436f-ad52-4be2545e3afc,Lor Peynirli Osmanlı Yığma Su Böreği (2 Kişilik),"24,00 TL",Kiloluk Börekler (Pişirilmiş),5.0
+c3d76c5c-72a6-4295-9c4d-5456e7137f28,Lor Peynirli Osmanlı Yığma Su Böreği (3-4 Kişilik),"44,00 TL",Kiloluk Börekler (Pişirilmiş),5.0
+eebbdd55-c897-4d50-b9d3-fafab5a2e601,Mantarlı Kaşarlı Osmanlı Yığma Su Böreği (2 Kişilik),"24,00 TL",Kiloluk Börekler (Pişirilmiş),7.0
+d5f0b647-80b6-42b9-abce-f5fc06e6040b,Mantarlı Kaşarlı Osmanlı Yığma Su Böreği (3-4 Kişilik),"44,00 TL",Kiloluk Börekler (Pişirilmiş),7.0
+bdd9838c-0e3a-4af3-b094-40e8626d1d6b,Patatesli Göçmen Böreği (2 Kişilik),"25,00 TL",Kiloluk Börekler (Pişirilmiş),6.0
+73108fb0-4823-40df-9cf1-ac8a81c13633,Patatesli Göçmen Böreği (3-4 Kişilik),"46,00 TL",Kiloluk Börekler (Pişirilmiş),6.0
+1189e9dc-d8a7-476f-85c3-7b29f29f816d,Peynirli Göçmen Böreği (2 Kişilik),"25,00 TL",Kiloluk Börekler (Pişirilmiş),7.0
+79a8b749-d21a-42b8-b61c-eee7244c6022,Peynirli Göçmen Böreği (3-4 Kişilik),"46,00 TL",Kiloluk Börekler (Pişirilmiş),7.0
+9eb6a1a1-6f52-4a01-af4c-db23c5d319da,Su Böreği (2 Kişilik),"26,00 TL",Kiloluk Börekler (Pişirilmiş),3.0
+63ac294d-ad14-4303-a298-c20223d66298,Su Böreği (3-4 Kişilik),"48,00 TL",Kiloluk Börekler (Pişirilmiş),3.0
+aeef31a8-e668-42a4-a07f-1aa05c2557b2,Kıymalı Göçmen Böreği (10-12 Kişilik),"110,00 TL",Tepsi Börekler (Pişirilmiş),14.0
+a1cd3f03-56e6-4de3-b0b0-1a7095c67a31,Peynirli Göçmen Böreği (10-12 Kişilik),"110,00 TL",Tepsi Börekler (Pişirilmiş),7.0
+bea85761-5aef-4625-b0b4-873270f84d37,Patatesli Göçmen Böreği (10-12 Kişilik),"110,00 TL",Tepsi Börekler (Pişirilmiş),6.0
+c74bca4b-b44b-481a-8685-f2c53b93aa13,Ispanaklı Göçmen Böreği (10-12 Kişilik),"110,00 TL",Tepsi Börekler (Pişirilmiş),7.0
+9793587a-3c63-4d4b-8076-efbd06778e5c,Küt Böreği (10-12 Kişilik),"90,00 TL",Tepsi Börekler (Pişirilmiş),7.0
+ec60f79e-145d-44a7-bdf7-369547d31012,Su Böreği (11-13 Kişilik),"120,00 TL",Tepsi Börekler (Pişirilmiş),3.0
+41a75dae-9c60-432c-9e30-552be4b489c9,Kaşarlı Adana Su Böreği (10-12 Kişilik),"130,00 TL",Tepsi Börekler (Pişirilmiş),3.0
+859f9ae9-0e25-4016-9221-892faa9a6c1a,Kavurmalı Kaşarlı Adana Su Böreği (10-12 Kişilik),"200,00 TL",Tepsi Börekler (Pişirilmiş),3.0
+3395d2a1-1594-4741-9c5b-58e5e37c1ee3,Lor Peynirli Osmanlı Yığma Su Böreği (15-17 Kişilik),"175,00 TL",Tepsi Börekler (Pişirilmiş),5.0
+1c23e916-50a1-47a7-b4e5-116ff40c96c5,Mantarlı Kaşarlı Osmanlı Yığma Su Böreği (15-17 Kişilik),"175,00 TL",Tepsi Börekler (Pişirilmiş),7.0

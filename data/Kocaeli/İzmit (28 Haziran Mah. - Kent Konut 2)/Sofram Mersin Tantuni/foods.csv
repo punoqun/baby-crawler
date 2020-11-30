@@ -1,0 +1,36 @@
+food_id,food_name,food_price,food_category,food_score
+96213d29-e9f4-4830-95ee-820c6ed6818a,Et Tantuni Dürüm,"15,00 TL",Et Tantuniler,-3.0
+321304db-3f78-4908-aa0b-19e7e066ded6,Yarım Ekmek Arası Et Tantuni,"15,00 TL",Et Tantuniler,-10.0
+0d801ce7-cfdb-43d9-bf33-d4da91fe93c9,Yoğurtlu Et Tantuni,"18,00 TL",Et Tantuniler,-9.0
+5b4fb394-3f06-457b-b4e7-5a89b7bf5f28,Tavuk Tantuni Dürüm,"10,00 TL",Tavuk Tantuniler,13.0
+3ee025ac-695c-4407-99d0-278e8c7afc27,Yarım Ekmek Arası Tavuk Tantuni,"10,00 TL",Tavuk Tantuniler,6.0
+52c7edb4-5674-4266-816d-5a970eaff542,Yoğurtlu Tavuk Tantuni,"13,00 TL",Tavuk Tantuniler,2.0
+49c9e6eb-58dc-4995-93e9-92ccb50f2717,Kıymalı Kır Pidesi,"3,50 TL",Kır Pideleri,10.0
+9cae607f-66d2-4163-8cb5-6254546611d4,Peynirli Kır Pidesi,"3,50 TL",Kır Pideleri,5.0
+22abe265-e925-4a06-85be-af898175404e,Patatesli Kır Pidesi,"3,50 TL",Kır Pideleri,7.0
+d602ccc4-3176-40b9-80cb-3f2d18fc7a17,Kuşbaşılı Kaşarlı Pide,"22,00 TL",Pideler,4.0
+a933096f-4aa1-4e69-936f-b9e929cedaf6,Kaşarlı Pide,"16,00 TL",Pideler,4.0
+015d15e5-a90b-46da-987b-3d2616733120,Patatesli Kaşarlı Pide,"15,00 TL",Pideler,6.0
+c2619988-5f37-4649-85ea-de6bc76fca30,Mantarlı Pide,"16,00 TL",Pideler,4.0
+43aa0f62-5329-4334-a8dd-c5229ad5880d,Kavurmalı Pide,"22,00 TL",Pideler,4.0
+39be0eda-b91c-4b91-8dba-af021d8abcc3,Sucuklu Pide,"20,00 TL",Pideler,4.0
+b527b197-4e67-4142-b99d-17b3e371828a,Sucuklu Kaşarlı Pide,"20,00 TL",Pideler,4.0
+586a0e16-0780-444f-973e-6147b2c8f76e,Kıymalı Kaşarlı Pide,"19,00 TL",Pideler,4.0
+3649b49a-e6d7-4ba3-a9af-b0d3672f7202,Ispanaklı Kıymalı Pide,"15,00 TL",Pideler,5.0
+cd154582-2d70-46cb-85ec-8ed8a9935433,Ispanaklı Beyaz Peynirli Pide,"15,00 TL",Pideler,5.0
+241ec0d8-4127-46a2-a946-c3198f22954d,Ispanaklı Kaşar Peynirli Pide,"15,00 TL",Pideler,5.0
+71c726e1-e8da-42cb-ab51-7195cc6ab1fb,Karışık Pide,"22,00 TL",Pideler,4.0
+82903959-3cce-4469-9314-bfa12c85da01,Kıymalı Karadeniz Pide (Kapalı),"19,00 TL",Pideler,4.0
+1283d023-f05b-4a24-b363-bd0a769354e7,Tavuklu Kaşarlı Pide,"16,00 TL",Pideler,6.0
+d07601f6-b5cb-4056-97ad-e91796c1cb17,Kiremitte Et Sote,"22,00 TL",Kiremitte Ürünler,0.0
+bdbbb2e7-192b-45bc-9ed3-800a467056f4,Kiremitte Tavuk Sote,"18,00 TL",Kiremitte Ürünler,11.0
+36528ede-065c-4922-8c31-7aad2d5adaae,Kiremitte Mantar Sote,"18,00 TL",Kiremitte Ürünler,5.0
+c728fa57-b632-4a49-9b92-f4f4abcc8006,Patates Kızartması,"9,00 TL",Yan Ürünler,6.0
+86e8bb91-9cfe-4b33-937d-e12d3f6153eb,Çıtır Soğan Halkası,"9,00 TL",Yan Ürünler,2.0
+ebb4d67e-0c0f-431b-a090-466fc27192b7,Künefe,"10,00 TL",Tatlılar,3.0
+56e647c0-3d8e-4790-b387-7c9892f914a0,Fırın Sütlaç,"8,00 TL",Tatlılar,7.0
+1a2e81e4-2265-40df-b0ab-062d80d8aa16,Antep Katmer,"12,00 TL",Tatlılar,9.0
+b2c9653c-8f1f-44b1-854e-1e3b95bc2bef,Doğanay Şalgam Suyu (33 cl.),"3,50 TL",İçecekler,5.0
+178946d1-2322-4ad8-a237-2d9f9720bac8,Limonlu Soda,"3,00 TL",İçecekler,5.0
+ae3c5ae8-1779-4dcb-a47d-1f33c67e45ee,Su,"1,25 TL",İçecekler,7.0
+4744a47a-5bb3-46b4-b44d-f9dbdea690c3,Poşet,"0,25 TL",Poşet,5.0

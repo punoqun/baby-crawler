@@ -1,0 +1,55 @@
+food_id,food_name,food_price,food_category,food_score
+80842980-cfd5-4af3-b56c-96991fb83503,Parti Seti 1,"170,00 TL",Menüler,12.0
+ed385a81-b622-4e2e-88d1-90a857ead95f,Mic Taco Menü,"85,00 TL",Menüler,13.0
+5a658b5d-6a0a-4086-b6d4-3c0098e19532,Sade Que Papas,"18,00 TL",Nachos,9.0
+096dbdff-45c5-4e4c-bae1-68a8f76f1742,Kıymalı Que Papas,"29,00 TL",Nachos,7.0
+7161992a-4f69-412c-ae55-0a9424e5f0bc,Cajun Chicken Canasta,"29,00 TL",Nachos,4.0
+fb73d209-0482-4df7-bcba-5815106d9736,Totopos Con Salsa,"20,00 TL",Nachos,5.0
+6c2b3c02-6a8f-4c07-98f5-2abe716c5651,Cheddar Dip Nachos,"24,00 TL",Nachos,8.0
+d73c6402-82fc-40b7-a97a-d4cffe57ddfe,Guacamola Dip Nachos,"21,00 TL",Nachos,8.0
+98046d6e-a6a3-4640-9afe-324d63d88538,Sade Nachos,"26,00 TL",Nachos,10.0
+b39eebf1-08a6-4399-ba90-b451825b7579,Etli Nachos,"33,00 TL",Nachos,16.0
+880f0a4b-7f35-4553-8e32-ad9ac33bf7ec,Tavuklu Nachos,"29,00 TL",Nachos,11.0
+e56dfc63-fce7-4ba8-a2e3-e03e5e99aed7,Kıymalı Nachos,"31,00 TL",Nachos,8.0
+76d69687-e588-4aae-ab40-726f8579dfe2,Sade Nachos Supreme,"26,00 TL",Nachos,10.0
+a26e25a5-a020-4578-bc40-1b6d0072b93e,Etli Nachos Supreme,"33,00 TL",Nachos,16.0
+ba015490-8273-4615-b332-b1f59cd8e088,Tavuklu Nachos Supreme,"29,00 TL",Nachos,11.0
+ef2d8de9-8f39-4c74-b9c6-711d60e1e25c,Kıymalı Nachos Supreme,"31,00 TL",Nachos,8.0
+d0c787d2-85a0-4c91-a4fc-c1c4bc2c8806,Ispanaklı Taco,"22,00 TL",Tacos,11.0
+1ca73fc0-9820-43b4-acc8-6b4030687f94,Kıymalı Taco,"30,00 TL",Tacos,9.0
+1da054dd-6f86-4194-802e-8f38e936ed71,Etli Taco,"33,00 TL",Tacos,22.0
+857fd747-e13b-470f-b665-8339719e524f,Tavuklu Taco,"29,00 TL",Tacos,12.0
+f4df44cf-48aa-4edb-be70-41a1d1d42ebc,Etli Tacos Fuertes,"33,00 TL",Tacos,13.0
+301219aa-4f9f-4b21-ba8d-3810d3075860,Tavuklu Tacos Fuertes,"28,00 TL",Tacos,8.0
+bff3cd75-2565-4235-a19a-3162b9104971,Kıyma Tacos Fuertes,"30,00 TL",Tacos,5.0
+4d0f9a9f-4f46-4fd5-8f1e-1310931b0648,Etli Chipotle Hard Tacos,"33,00 TL",Tacos,17.0
+434aec5b-01c5-4cb1-b722-b8db240bf285,Tavuklu Chipotle Hard Tacos,"29,00 TL",Tacos,12.0
+9e95836f-5605-444d-8a56-54c6266dfb59,Etli Taco Del,"35,00 TL",Tacos,17.0
+c575a9d2-a42a-4123-ac83-4e0a270670a1,Tavuklu Taco Del,"29,00 TL",Tacos,12.0
+c19d7ee5-8899-4370-8fdd-01ed16bcf23d,Cajun Chicken Tacos,"30,00 TL",Tacos,4.0
+727f7c86-b38b-4d92-93e0-087c8424af6e,Tempura Shrimps Tacos,"44,00 TL",Tacos,5.0
+fa502b84-e5dd-47e2-af42-ea49918eb1ad,Teriyaki Bonfile Taco,"40,00 TL",Tacos,9.0
+e5af6150-b065-47b4-ab16-3bb13cc51859,Acılı Avokadolu Tavuklu Taco,"39,00 TL",Tacos,12.0
+701e0d9a-a26e-4702-9e36-50011242f8e2,Veggie Taco,"33,00 TL",Tacos,9.0
+7ab7f13b-6a47-4fcc-a637-5ef4238e083b,Mexican Burger,"39,00 TL",Burgerler,5.0
+3f8cb79b-e74f-4409-9453-fa6b9a029709,Sweet & Spicy Burger,"37,00 TL",Burgerler,5.0
+694c52b8-29c6-4a05-b810-36bbde0e5a37,Tavuklu California Style Burritos,"35,00 TL",Burritos,12.0
+c4676013-91ca-4d06-a8c7-bf8df7af146c,Etli California Style Burritos,"40,00 TL",Burritos,17.0
+54b21bbb-bcd1-4abb-849a-c4cca23aad72,Kıymalı California Style Burritos,"36,00 TL",Burritos,4.0
+62fd8ee9-ac29-4411-b016-7e5dd54b71c9,Tavuklu Mexican Rice Burrito,"35,00 TL",Burritos,9.0
+86a9be07-88ec-4489-b862-a831c104ee1c,Etli Mexican Rice Burrito,"40,00 TL",Burritos,14.0
+fd7d000c-0d93-4ddd-b80d-df8b9a06145d,Tavuklu Burrito BBQ Pablano,"35,00 TL",Burritos,9.0
+56354da7-686e-4ac1-b1d7-cea3b073cbca,Etli Burrito BBQ Pablano,"40,00 TL",Burritos,14.0
+a757a49a-6ebd-402b-91e9-ad4d07dfa854,Etli Quesadilla,"40,00 TL",Quesadillas,15.0
+fb0c6ef9-3df2-45ce-9257-c12d25f1521f,Tavuklu Quesadilla,"35,00 TL",Quesadillas,10.0
+aad8ad74-f336-4c35-8a4e-25c865acb6a1,Sebzeli Quesadilla,"25,00 TL",Quesadillas,7.0
+ff80846b-33fa-4875-8e1a-ff7ea271d0c7,Etli Fajita,"66,00 TL",Fajitas,13.0
+309b994a-9ce0-44ae-92f4-c6b2ccde5d28,Tavuklu Fajita,"48,00 TL",Fajitas,8.0
+fa2f8101-6031-457b-8a64-aef626e03c26,Combo Fajita,"60,00 TL",Fajitas,5.0
+4b1a7504-c9ca-459a-8abd-babd04cbf89e,Bask Cheesecake,"24,00 TL",Tatlılar,5.0
+aab898b0-98d7-4b01-8135-f3f04bad0e88,Churros,"20,00 TL",Tatlılar,5.0
+20f0626b-27f3-448d-aae1-2bf6ffd4b3c9,Schweppes (33 cl.),"8,00 TL",İçecekler,5.0
+3352c47b-5481-4415-b624-538eb1a361a8,Perrirer Soda (20 cl.),"10,00 TL",İçecekler,5.0
+3b7e4d31-6628-4a51-ab1b-77ede67b617a,Ev Yapımı Limonata,"7,00 TL",İçecekler,5.0
+6e980812-cd14-4659-b731-dbd5221da785,Red Bull (25 cl.),"15,50 TL",İçecekler,5.0
+8a7cb151-2cde-42f0-a7cf-a0df7b5b4481,Poşet,"0,25 TL",Poşet,5.0

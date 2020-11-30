@@ -1,0 +1,81 @@
+food_id,food_name,food_price,food_category,food_score
+9417c9ee-fbc2-41fe-a7fb-0a07a7263f77,Rio Tost Menü,"17,00 TL",Menüler,-1.0
+fd1aba2e-905c-485d-a8a3-e4b021e5dd68,Rio Hamburger Menü,"20,00 TL",Menüler,0.0
+8317e878-d7ac-4d06-a90f-029b345b6df7,2'li Rio Hamburger Menü,"35,00 TL",Menüler,5.0
+5e16ce2c-4ba0-4ad2-b0e4-d628eca35072,3'lü Rio Hamburger Menü,"45,00 TL",Menüler,0.0
+6a4ce99b-673c-4cb9-b748-c8caf903c14a,Rio Big Burger Menü,"25,00 TL",Menüler,2.0
+69d2df84-45bc-4e3b-91f3-d7cda3a58113,Rio Cheeseburger Menü,"23,00 TL",Menüler,2.0
+a92c24ea-ee08-4710-891c-e0ff554c3e76,Rio Chicken Burger Menü,"18,00 TL",Menüler,2.0
+b533dd61-90d2-493a-83ad-9928c105e5f6,Rio Pizza Menü,"27,00 TL",Menüler,16.0
+ee50b50d-546b-4e26-9e4f-c189c8cf459b,2'li Rio Pizza Menü,"50,00 TL",Menüler,11.0
+312e7127-7896-42fa-955d-65a177e65fa1,3'lü Rio Pizza Menü,"55,00 TL",Menüler,11.0
+d9ab20e2-fb4e-42c2-bec3-c872ff2f1b81,Rio Full Pizza Menü,"40,00 TL",Menüler,11.0
+0950671c-6072-4354-b871-fa3b1dbb72a4,Süper 2'li Menü,"57,00 TL",Menüler,9.0
+bfc3e80d-780a-43b5-bc67-a93aab64ebea,Rio Wrap Menü,"27,00 TL",Menüler,2.0
+1cac321f-4308-466c-92cf-a9eaf5287a9c,Kaşarlı Gözleme,"15,00 TL",Gözlemeler,5.0
+70547f01-ce13-43ab-9401-da7490d264e2,Sucuklu Kaşarlı Gözleme,"15,00 TL",Gözlemeler,5.0
+ebe0a136-023d-41ce-888a-c48aad07e60d,Beyaz Peynirli Gözleme,"15,00 TL",Gözlemeler,5.0
+ffb88a57-f52f-4f00-8dac-d5bfddd0a5ce,Patatesli Kaşarlı Gözleme,"15,00 TL",Gözlemeler,5.0
+2037e616-508a-445c-b284-efc647fdceaf,Kaşarlı Tost,"14,00 TL",Tostlar,2.0
+8c87f5b1-ecf6-42cd-b402-8613e70b94d4,Sucuklu Tost,"14,00 TL",Tostlar,2.0
+cd9b4180-7a93-4f30-ab82-23ed7fbf9295,Rio Special Tost,"16,00 TL",Tostlar,2.0
+e61f229f-e22f-4b4b-a662-8e126c67363c,Karışık Tost,"14,00 TL",Tostlar,2.0
+1868917E-FD62-46E9-82D6-FB388D543EAF,Selami Şef Tost,"17,00 TL",Tostlar,2.0
+1439d347-1b3a-4b98-8f0d-6474ba16f5ff,Parmak Patates Kızartması,"9,00 TL",Atıştırmalıklar,6.0
+57f499f4-e8f6-40c5-b3a9-91dd0c9c69b4,Sosis Tabağı,"12,00 TL",Atıştırmalıklar,5.0
+72c89096-aecd-4105-80f5-c094d660712c,Kalem Börek (6 Adet),"13,00 TL",Atıştırmalıklar,5.0
+741d8264-7f28-45b2-8f58-dd14dd11d64e,Soğan Halkası (6 Adet),"10,00 TL",Atıştırmalıklar,5.0
+acece410-6eb0-4229-ac1b-614de6c3667c,Nugget (6 Adet),"11,00 TL",Atıştırmalıklar,5.0
+cb450850-d300-470f-8463-9abbc961506d,Elma Dilim Patates Kızartması,"10,00 TL",Atıştırmalıklar,6.0
+fc87030d-ca23-4162-87e3-3157a5a234f0,Rio Deluxe Tabağı,"22,00 TL",Atıştırmalıklar,5.0
+0dfe0b46-f637-4c59-bbc2-d139ccc6e306,Hamburger,"17,00 TL",Burgerler,3.0
+187d5871-1514-4334-b7a3-34233aab39c1,Chicken Burger,"17,00 TL",Burgerler,5.0
+1d9b81e3-89a8-4bbb-9504-0dfb13a62572,Rio Burger,"27,00 TL",Burgerler,5.0
+4df06c10-9129-4373-aaa6-7ff27c2ab91b,Cheeseburger,"19,00 TL",Burgerler,5.0
+fb571d02-979d-40ec-97fe-7570633126a8,Big Burger,"22,00 TL",Burgerler,5.0
+d2373b5f-9e27-43c5-b7e4-c53d90468ab2,Selami Şef Burger,"24,00 TL",Burgerler,5.0
+371b4cd8-2ea2-4bf6-ad3a-8c126eb4b6c5,Mexican Tavuk,"26,00 TL",Beyaz Etler,5.0
+9d40335b-0377-4987-a331-a0f5cd5b9553,Kremalı Mantarlı Tavuk,"24,00 TL",Beyaz Etler,5.0
+adc2afd7-17b8-408f-857a-abf60de1ef8c,BBQ Soslu Tavuk,"24,00 TL",Beyaz Etler,5.0
+b25a8852-7507-4f7f-b05e-846faefaee26,Izgara Tavuk,"26,00 TL",Beyaz Etler,5.0
+c02301b6-7a92-4636-b598-ad7c5716baa8,Beğendili Tavuk,"26,00 TL",Beyaz Etler,5.0
+ddeccf1a-053e-42ef-97a6-8472fe7cfda1,Köri Soslu Tavuk,"24,00 TL",Beyaz Etler,5.0
+b22f9a44-ffe4-429f-8255-24599b41dcee,Tavuk Şiş,"26,00 TL",Beyaz Etler,5.0
+7200a7bd-2402-4149-8535-b8a47eb3e8c4,Tavuk Çökertme,"26,00 TL",Beyaz Etler,5.0
+9e084e56-d6b2-47ca-b317-eaaa61627026,Selami Şef Tavuk Sarma,"30,00 TL",Beyaz Etler,5.0
+10a866ff-c74c-4bb6-b1a7-9227f1907c42,Izgara Köfte,"26,00 TL",Kırmızı Etler,5.0
+608f154a-2a33-4276-b6d5-1604545ae981,Beğendili Köfte,"29,00 TL",Kırmızı Etler,5.0
+59f23e7a-e1c6-43a3-8995-f504cbd0edc7,Mexican Steak,"29,00 TL",Kırmızı Etler,5.0
+1c7aa295-b929-4b74-9cca-4ee514bf1bc1,Dana Külbastı,"32,00 TL",Kırmızı Etler,5.0
+384c8d4f-27a0-4fc5-9121-603eb82ca15d,Çökertme Kebabı,"32,00 TL",Kırmızı Etler,5.0
+1f3dd564-8ab1-4eb8-9f63-6bd4ff2e19a8,Pizza Mexicana (Orta Boy),"21,00 TL",Pizzalar (1 Kişilik),14.0
+6a9ece88-ab18-42ee-83b1-3b5ddbb47dd4,Special Pizza (Orta Boy),"21,00 TL",Pizzalar (1 Kişilik),14.0
+8222bb6f-ef2d-49ec-b519-9333e93f52c7,Veggie Pizza (Orta Boy),"21,00 TL",Pizzalar (1 Kişilik),14.0
+b4f0820c-235f-4cdc-9d33-085f4391e628,Köfteli Pizza (Orta Boy),"24,00 TL",Pizzalar (1 Kişilik),14.0
+bc5e986b-6a53-43f3-ab60-b9b38e97044f,Kavurmalı Pizza (Orta Boy),"24,00 TL",Pizzalar (1 Kişilik),14.0
+ef54652d-31ea-4211-8f62-a1bb7cf81955,Rio Pizza (Orta Boy),"26,00 TL",Pizzalar (1 Kişilik),14.0
+f8072b51-4b21-4dba-b309-2ec4cd2f1ba3,Rio Margherita Pizza (Orta Boy),"21,00 TL",Pizzalar (1 Kişilik),14.0
+0b1d19bf-2167-47de-967c-2d6a06b18967,Köfte Wrap,"24,00 TL",Wraps,5.0
+7928f8a9-4e4f-4824-a4a3-28c4ee332972,Etli Wrap,"24,00 TL",Wraps,5.0
+b12c22aa-6854-44f2-8964-80254f224b9a,Tavuklu Wrap,"22,00 TL",Wraps,5.0
+c184ad7e-8c9f-46bf-aebe-087895b9ed2d,Rio Wrap,"27,00 TL",Wraps,5.0
+d9f9be07-6263-45e3-ae37-b06847f8a008,Mexican Wrap,"22,00 TL",Wraps,5.0
+15645d05-58af-4285-ae91-48a4c3357d11,Akdeniz Salata,"17,00 TL",Salatalar,7.0
+888194bb-a950-482b-8791-3ee8fc7df28c,Çıtır Tavuk Salata,"17,00 TL",Salatalar,7.0
+92cfb5b5-ef6c-4109-9fa1-b9171d0455ac,Sezar Salata,"17,00 TL",Salatalar,7.0
+d246e1e1-6ee0-4187-b3c4-39f2d01bced5,Hellim Peynirli Salata,"17,00 TL",Salatalar,7.0
+f7bcb2ad-f412-474a-918b-17219ba2e77a,Ton Balıklı Salata,"17,00 TL",Salatalar,7.0
+02ec3d61-4699-4166-825a-bfa83c38e2ec,Meyve Tabağı,"19,00 TL",Tatlılar,5.0
+7bb44702-37e6-4650-b617-a3e188835837,Künefe,"14,00 TL",Tatlılar,2.0
+8498f275-192f-4c61-b8bb-8ab1e698cf4a,Waffle,"17,00 TL",Tatlılar,9.0
+f3c5e86c-0aa9-4e6e-adb3-3b06d181a8a8,Sufle,"14,00 TL",Tatlılar,5.0
+0F57B3E8-1CFF-4C36-A2AA-84DB725F9A03,Kırmızı Kadife Pasta (Dilim),"14,00 TL",Tatlılar,5.0
+51b14970-95e7-424d-b119-5d7000ceecfb,Coca-Cola Şekersiz (25 cl.),"5,00 TL",İçecekler,5.0
+bb92087d-f12d-4e28-af1d-bde45ce7e821,Fanta (25 cl.),"5,00 TL",İçecekler,5.0
+bc61cacf-7321-4e31-8e85-84aaa9350435,Sprite (25 cl.),"5,00 TL",İçecekler,5.0
+bc47324e-5292-4570-97c2-1be63c11ab63,Cappy (25 cl.),"5,00 TL",İçecekler,5.0
+fc2994d5-4d8c-4aa3-ac96-05eec36d49c5,Fuse Tea (25 cl.),"5,00 TL",İçecekler,5.0
+e47e0e38-dd46-440f-b8b1-4834e2edf63a,Uludağ Gazoz (25 cl.),"5,00 TL",İçecekler,5.0
+eff1a677-17dc-4865-8cd9-c059e4a2b648,Uludağ Portakallı Gazoz (25 cl.),"5,00 TL",İçecekler,5.0
+122c0b72-692b-4053-a0a3-c993e7996214,Uludağ Frutti Extra (20 cl.),"5,00 TL",İçecekler,5.0
+cbeb0dcd-208e-4c0d-a2fe-f1d2026f978a,Poşet,"0,25 TL",Poşet,5.0

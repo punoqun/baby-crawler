@@ -1,0 +1,28 @@
+food_id,food_name,food_price,food_category,food_score
+7915e635-b0b0-4103-8d83-6448b01c8f88,Tavuklu Pilav (300 gr.) & Tatlı Menü,"14,00 TL",Ekonomik Menüler,19.0
+af763e0a-03a7-4689-a715-490ae6dc41bb,Sporcu Menü,"21,00 TL",Ekonomik Menüler,9.0
+2E5105D6-0E1C-4B92-889D-A15AD56F589E,Patatesli Gözleme,"10,00 TL",Gözlemeler,5.0
+7D11F01D-BF29-4D4A-ADA4-8C2D705D76A8,Peynirli Gözleme,"10,00 TL",Gözlemeler,5.0
+F7C9F784-BB81-47C1-9940-456F5584EB82,Kaşarlı Gözleme,"12,00 TL",Gözlemeler,5.0
+9C24F125-F4B6-4C04-8418-CB5A7AC2C525,Kaşarlı Tost,"12,00 TL",Tostlar,5.0
+7946E798-509A-48D6-9E52-B4BBA9C5752A,Sucuklu Tost,"12,00 TL",Tostlar,5.0
+504AAA83-0E1D-47DF-B572-DAEFA1AFEA3C,Karışık Tost,"13,00 TL",Tostlar,5.0
+32496176-D283-4AE9-9C0E-28FA49E4CC2F,Kahveci Tost,"14,00 TL",Tostlar,5.0
+CB8A577C-F3CD-4F7D-B7C7-00CC4D79B187,Yumurtalı Tost,"15,00 TL",Tostlar,5.0
+425C92A3-73DC-4BFF-A7C0-0FB77E83068D,Atom Tost,"17,00 TL",Tostlar,7.0
+d5e7c0e4-146c-4853-89d9-b7b9cfb16cb5,Nohutlu Pilav (300 gr.),"10,00 TL",Pilavlar,9.0
+dbdc0362-d3f4-4182-a752-75b02855ec4c,Tavuklu Pilav (300 gr.),"11,00 TL",Pilavlar,20.0
+E01006C0-C6EB-429E-ACDD-2C5DC466C59E,Pilav Üstü Ciğer Kavurma,"16,00 TL",Pilavlar,9.0
+b1a21e1c-9284-49fa-bcf1-74b0d17a2e6e,Pilav & Kavurma,"19,00 TL",Pilavlar,9.0
+7b04051f-b166-418e-877b-bab32b6e0075,Pilav & Et Döner,"16,00 TL",Pilavlar,8.0
+A823E6C8-F886-48BD-8CE4-FD04AC502CAF,Kokoreç,"25,00 TL",Ana Yemekler,9.0
+D3C38B18-3880-48DA-B225-2B6DAFDC5C4B,Izgara Köfte,"25,00 TL",Ana Yemekler,5.0
+2DA86C10-6EBB-4BF1-9716-AF7F5916D242,Yoğurtlu Mantı,"17,00 TL",Ana Yemekler,5.0
+C51FD87D-F7F4-4A4A-BD36-75ED858CCA8D,Sosisli Yengen Sandviç,"14,00 TL",Sandviçler,5.0
+89047317-8B1B-4171-881C-FD294E05400F,İzmir Sandviç,"17,00 TL",Sandviçler,5.0
+F7C9623A-7719-4ECB-A147-426F8141B289,İzmir Ertime Sandviç,"20,00 TL",Sandviçler,5.0
+8273D314-0B93-43EB-9799-8756E3DE0773,Ekmek Arası Kokoreç,"15,00 TL",Ekmek Arası Ürünler,8.0
+7BA2893A-6948-4C9A-B4DB-315BDF433209,Ekmek Arası Ciğer Kavurma,"12,00 TL",Ekmek Arası Ürünler,3.0
+F8B75D15-5C93-4784-803A-83DA1107B7B8,Ekmek Arası Köfte,"15,00 TL",Ekmek Arası Ürünler,4.0
+A84466D3-35C3-4166-AF75-B1B74A08B8B4,Ekmek Arası Sucuk,"15,00 TL",Ekmek Arası Ürünler,4.0
+9c63d992-b4f0-454c-9970-8d1c100eaa29,Poşet,"0,25 TL",Poşet,3.0

@@ -1,0 +1,46 @@
+food_id,food_name,food_price,food_category,food_score
+0e940de4-2f24-4023-be59-00df704704c1,Su Böreği (1 kg.),"45,00 TL",Börekler,7.0
+0ecca930-112e-4d6d-bb4f-7df743a7eaca,Sucuklu Börek (1 kg.),"30,00 TL",Börekler,5.0
+3815b2f2-1051-4a52-944f-4758673d08e8,Patatesli Börek (1 kg.),"30,00 TL",Börekler,4.0
+409c9cfe-4958-4fc9-b031-346df3a1930d,Zeytinli Börek (1 kg.),"30,00 TL",Börekler,5.0
+489ce085-4f52-48a0-8485-012e7fa4a162,Peynirli Börek (1 kg.),"30,00 TL",Börekler,4.0
+f0af0168-0e8b-4ae7-9190-f6edda9f929c,Sigara Böreği (1 kg.),"30,00 TL",Börekler,4.0
+45916493-50b9-45c4-97d6-9a58216f33be,Fıstıklı Kaymaklı Milföy Börek (1 kg.),"30,00 TL",Börekler,5.0
+5d163130-44b9-47c1-b89b-600fbba0e878,Çikolatalı Pasta (6 Kişilik),"45,00 TL",Pastalar,11.0
+d5de6d80-d0a5-4c99-9603-321c68fc946e,Meyveli Pasta (6 Kişilik),"45,00 TL",Pastalar,3.0
+cd532daa-f9e7-4011-8965-d46bf2085c7c,Meyveli Pasta (8 Kişilik),"55,00 TL",Pastalar,3.0
+f660c2bf-66ba-485c-a38b-614289aa78ef,Çikolatalı Pasta (8 Kişilik),"55,00 TL",Pastalar,6.0
+acd849c1-286b-4af5-b9d2-f9b7cd3b4b93,Meyveli Pasta (10 Kişilik),"65,00 TL",Pastalar,3.0
+c811a6cf-0fe9-4e17-b05c-abdbfe76b4d4,Çikolatalı Pasta (10 Kişilik),"65,00 TL",Pastalar,6.0
+145f651e-1c3a-4ef4-b233-013fead2832d,Alman Pastası (5 Adet),"20,00 TL",Tatlılar,10.0
+01c57bbc-a60e-400d-ba5e-5598b2213c73,Karamelli Trileçe (5 Dilim),"25,00 TL",Tatlılar,10.0
+fad7a168-938c-41ae-bada-688b3c7aea55,Ekler (1 kg.),"45,00 TL",Tatlılar,8.0
+ea46f62c-75aa-4157-ad34-e37c06f5ad78,Islak Kek (5 Dilim),"25,00 TL",Tatlılar,6.0
+272bbded-1593-407c-9f69-02ecbe9ab425,Uğur Böceği Pasta (Adet),"15,00 TL",Tatlılar,5.0
+e119ff27-d326-4f29-b239-c0e4cc5e47a5,Fıstıklı Tereyağlı Mekik Kek (500 gr.),"45,00 TL",Tatlılar,6.0
+FE4DCCBB-C6D6-445C-9D52-6FAA25D5CBB3,Ekler (500 gr.),"22,50 TL",Tatlılar,13.0
+067E8753-B8C7-4D24-9D64-10297CA10F07,Çilekli Mag,"20,00 TL",Tatlılar,5.0
+08ff8706-dad6-40fb-9500-0d7d2db00baf,Şekerli Kurabiye ( 1 kg.),"40,00 TL",Tatlılar,1.0
+4b8e1269-a45b-478d-8191-89c424a98166,Katmer,"30,00 TL",Tatlılar,3.0
+6cb2585a-502b-4c45-b450-e69c2f38e9c8,Tuzlu Kuru Pasta (1 kg.),"35,00 TL",Tatlılar,5.0
+9f3ad43c-6822-42c6-80d1-f4fc07c5bdfb,Çıtır Simit (5 Adet),"15,00 TL",Poğaça & Açmalar,5.0
+A92C75E9-1BC9-4FCA-87A9-F1F05A662A80,Tereyağlı Çıtır Simit (5 Adet),"20,00 TL",Poğaça & Açmalar,5.0
+181a8a21-7b2b-4ed2-a766-928ba54ca22e,Susamlı Simit (5 Adet),"18,50 TL",Poğaça & Açmalar,5.0
+f0742b39-b5c3-4bcb-a2bb-c4455eb542b1,Sade Açma (5 Adet),"18,50 TL",Poğaça & Açmalar,5.0
+826d66b0-ce95-4495-81da-695379e77adc,Peynirli Açma (5 Adet),"20,00 TL",Poğaça & Açmalar,4.0
+c2e43ed3-a7b7-4e0a-b6c2-2fcd9a0ad51f,Kaşarlı Açma (5 Adet),"22,50 TL",Poğaça & Açmalar,5.0
+3a2efd57-e3be-45aa-9efc-32c95c399661,Kaşarlı Poğaça (1 kg.),"30,00 TL",Poğaça & Açmalar,5.0
+853057f1-8918-4c0d-98f0-d4d2ea3ca96a,Beyaz Peynirli Poğaça (1 kg.),"30,00 TL",Poğaça & Açmalar,4.0
+a6a8835f-28b5-464e-8e89-fb97ccf0415a,Sosisli Poğaça (1 kg.),"30,00 TL",Poğaça & Açmalar,5.0
+6ace35c6-0a55-4df6-a5c9-33081471056b,Zeytinli Poğaça (1 kg.),"30,00 TL",Poğaça & Açmalar,5.0
+82abd325-c70e-467a-8bd0-82e7aa27ef3a,Patatesli Poğaça (1 kg.),"30,00 TL",Poğaça & Açmalar,4.0
+30b82401-29cc-4cb8-8fb6-8a77840d8d72,Karadeniz Poğaçası (1 kg.),"30,00 TL",Poğaça & Açmalar,6.0
+bef9d10c-da26-4eb7-a864-a257d5feed66,Çubuk Simit (1 kg.),"33,00 TL",Kiloluk Ürünler,5.0
+29ee0575-b6af-4152-b803-3b0dd97c8cc2,Kandil Simiti (1 kg.),"35,00 TL",Kiloluk Ürünler,5.0
+9ebd5ffa-34cf-4e85-84ea-5ba6d29e31c7,Köy Kahkesi (1 kg.),"30,00 TL",Kiloluk Ürünler,5.0
+53050434-18bf-4e7b-9587-92c387e79766,Tarsus Çöreği (1 kg.),"30,00 TL",Kiloluk Ürünler,5.0
+e5c68f64-2e13-4dae-8a9c-ed149e55a5d7,Special Fıstıklı Çikolata Topu (1 kg.),"75,00 TL",Kiloluk Ürünler,6.0
+d86f9f07-1f58-4836-ae57-cf26eab8f710,Special Fındıklı Çikolata Topu (1 kg.),"55,00 TL",Kiloluk Ürünler,6.0
+b636fcf8-a7e0-4730-beaf-b88d390916a3,Elmalı Kurabiye (1 kg.),"40,00 TL",Kiloluk Ürünler,6.0
+05db5689-6385-40e8-a87c-7e97a18d35be,Fıstıklı Kerebiç (1 kg.),"75,00 TL",Kiloluk Ürünler,5.0
+ac66cc6b-56d9-4601-bf2a-e83cbf02c93e,Poşet,"0,25 TL",Poşet,5.0

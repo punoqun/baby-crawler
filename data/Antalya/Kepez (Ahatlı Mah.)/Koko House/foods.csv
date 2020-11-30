@@ -1,0 +1,37 @@
+food_id,food_name,food_price,food_category,food_score
+4CA0A4F8-142E-4FD7-8C89-B4369443A472,3'lü Yarım Ekmek Arası Kuzu Kokoreç Menü,"96,00 TL",Menüler,12.0
+7C3F57FC-6065-4944-B605-67978301E732,3'lü Yarım Ekmek Arası Dana Kokoreç Menü,"64,00 TL",Menüler,2.0
+87A1363D-E616-4AA7-9670-D9CCA1941341,3'lü Yarım Ekmek Arası Izgara Köfte Menü,"72,00 TL",Menüler,-1.0
+479F9EAE-E22D-440A-A5B6-64073EE1F09F,3'lü Yarım Ekmek Arası Izgara Sucuk Menü,"72,00 TL",Menüler,1.0
+2FCD511D-7BA8-49D3-B374-D822E5E0396F,Kuzu Kokoreç Menü,"34,00 TL",Menüler,16.0
+E256E0B1-2771-46A5-A0EE-CD89F346DA0A,Dana Kokoreç Menü,"22,00 TL",Menüler,6.0
+03BB4C52-F082-4A07-9B05-2AF0023CA3F9,3/4 Ekmek Arası Kuzu Kokoreç,"42,66 TL",Kokoreçler,12.0
+BAB73D66-2ABF-4617-B68B-2229F67EDDAA,3/4 Ekmek Arası Dana Kokoreç,"26,66 TL",Kokoreçler,2.0
+A166F6B7-0AC0-4D25-B931-5E56F12C2989,Çeyrek Ekmek Arası Dana Kokoreç,"12,00 TL",Kokoreçler,0.0
+2DB4F2D8-7442-48C7-B0BE-25AFAC5EA21C,Çeyrek Ekmek Arası Kuzu Kokoreç,"17,33 TL",Kokoreçler,10.0
+80C06D34-F634-4368-B17D-DF0D2DE6AC5B,Yarım Ekmek Arası Dana Kokoreç,"18,66 TL",Kokoreçler,7.0
+AF38F543-7A41-458C-AAE7-BB346178CCAE,Yarım Ekmek Arası Kuzu Kokoreç,"29,33 TL",Kokoreçler,17.0
+27BECF0D-250A-4575-B626-CEE7A814A209,3/4 Ekmek Arası Sebzeli Kuzu Kokoreç,"29,33 TL",Kokoreçler,12.0
+B5C4513E-E8B8-4B20-94E1-FB678A30B7DA,Yarım Ekmek Sebzeli Kuzu Kokoreç,"21,33 TL",Kokoreçler,12.0
+68CD8A07-CE86-4C0E-A4D8-364D65F3C859,Tavuk Kanat,"32,00 TL",Ana Yemekler,1.0
+5A829A84-5BAE-4296-855F-F8C106ADE8CF,Tavuk Kelebek,"32,00 TL",Ana Yemekler,1.0
+7E73579B-7892-4876-B353-A6AA14A19722,Köfte (1 kg.),"100,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+e4b94d7d-4b31-4012-8e00-d21e990fa8e7,Yarım Ekmek Arası Izgara Köfte,"21,33 TL",Ekmek Arası Ürünler,-1.0
+f838604b-12e8-4c64-9c00-0b4321c3fbb1,Yarım Ekmek Arası Izgara Sucuk,"21,33 TL",Ekmek Arası Ürünler,1.0
+04b75ebf-0283-42d7-aca9-fb04ffb389ac,Çeyrek Ekmek Arası Izgara Sucuk,"13,33 TL",Ekmek Arası Ürünler,-1.0
+b3ec85da-ad06-4798-bc94-d892a9030499,Çeyrek Ekmek Arası Izgara Köfte,"13,33 TL",Ekmek Arası Ürünler,-3.0
+f681acbb-9c64-4644-b195-d7c8a8a8ca9d,3/4 Ekmek Arası Izgara Köfte,"32,00 TL",Ekmek Arası Ürünler,-1.0
+f67e1a55-2158-4f99-8940-40f06db9f0b2,3/4 Ekmek Arası Izgara Sucuk,"32,00 TL",Ekmek Arası Ürünler,1.0
+DBF106BC-9E2C-4B58-AD2B-9CEBAD2DCCF9,Adana Dürüm,"20,00 TL",Dürümler,5.0
+0BCD511D-AA58-45F7-B420-7334C4FCC319,Köfte Dürüm,"20,00 TL",Dürümler,5.0
+c5172e9a-697e-4921-b751-51dd291b16e5,Midye Dolma (Adet),"1,66 TL",Midye Dolmalar,14.0
+E67EBB66-F2FE-456C-ACFE-61F9DD09D449,Midye Dolma Kampanyası (30 Adet),"40,00 TL",Midye Dolmalar,9.0
+75C78F65-4E1B-44D7-9F2D-183BBBAE5908,Midye Dolma Kampanyası (50 Adet),"66,66 TL",Midye Dolmalar,9.0
+1673f1c7-8c65-4ef4-a41c-e321430f04ec,Midye Dolma (250 gr.),"24,00 TL",Midye Dolmalar,9.0
+43200037-34ef-43a8-a6cb-0d68f2f02b2d,Midye Dolma (500 gr.),"45,33 TL",Midye Dolmalar,9.0
+2424a1bc-0351-471b-84e3-db9e4008ef17,Midye Dolma (750 gr.),"64,00 TL",Midye Dolmalar,9.0
+55eed3a6-b98f-44f2-b004-4fa781f9f040,Midye Dolma (1 kg.),"73,33 TL",Midye Dolmalar,9.0
+0C982BF7-C37C-4340-8A91-D99F45B04EE8,Niğde Gazozu (25 cl.),"5,33 TL",İçecekler,5.0
+E1B4FD08-E4DB-43B3-B82E-1A3D3DC9F949,Acılı Turşu Suyu (25 cl.),"5,33 TL",İçecekler,6.0
+6CB05E16-A970-4DB8-8929-615014CDCD27,Turşu Suyu (25 cl.),"5,33 TL",İçecekler,6.0
+bf84836b-912d-413c-b9e1-a5c23f5f0052,Poşet,"0,25 TL",Poşet,5.0

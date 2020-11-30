@@ -1,0 +1,34 @@
+food_id,food_name,food_price,food_category,food_score
+6cd29421-abcf-44c5-9af0-41d4e9d95771,Adana Kebap,"27,00 TL",Kebaplar & Izgaralar,3.0
+d3b0008e-c853-4ae6-a166-bcc4b5eadfd0,Urfa Kebap,"27,00 TL",Kebaplar & Izgaralar,5.0
+3c0939bb-9c85-4331-99f5-955130ec2a60,Çöp Şiş,"38,00 TL",Kebaplar & Izgaralar,5.0
+1fd5209e-2e3e-464b-81c8-ad1a6d234604,Tavuk Kanat,"30,00 TL",Kebaplar & Izgaralar,5.0
+09074d5e-8d86-42a6-b27e-0419fc3383b3,Tavuk Şiş,"24,00 TL",Kebaplar & Izgaralar,5.0
+a7b27565-728e-44c4-8874-489658dfaa39,Adana Dürüm,"16,00 TL",Dürümler,2.0
+55b90fad-5ea3-45b6-84d6-80d1b0220443,Urfa Dürüm,"16,00 TL",Dürümler,4.0
+978c17ff-7e73-4342-b4ba-c2fc276c6455,Çöp Şiş Dürüm,"20,00 TL",Dürümler,4.0
+fa90c2d6-1419-48dd-b284-72f2948e6657,İçi Bol Çöp Şiş Dürüm,"25,00 TL",Dürümler,5.0
+7aae0435-1ac1-43ef-89f9-56c58cf446cd,Tavuk Şiş Dürüm,"14,00 TL",Dürümler,4.0
+1131e5ad-8091-4a6d-808d-ef5713a62940,Kızartma İçli Köfte,"8,00 TL",Yan Ürünler,7.0
+038b4844-478e-446a-ad80-c28bc7ad9421,Klasik Künefe,"17,00 TL",Künefeler,15.0
+ea36ea0f-0538-4dec-9248-18e086d7da0c,Dondurmalı Künefe,"23,00 TL",Künefeler,10.0
+8f351890-97b0-4f45-9487-c84a9b9b2253,Kaymaklı Künefe,"22,00 TL",Künefeler,15.0
+a77f9e4e-068f-4fc3-a8af-831584b61318,Paşa Künefe,"25,00 TL",Künefeler,10.0
+593ce34d-5a9e-415b-b866-572e2e1d0a6a,İçi Fıstıklı Künefe,"27,00 TL",Künefeler,10.0
+df7fa0f7-0deb-465a-acc1-0f3cfd9cbcdc,Muzlu Künefe,"25,00 TL",Künefeler,10.0
+56c3c897-3dfc-4a8f-8b87-b173436d1d43,Hasır Künefe,"25,00 TL",Künefeler,15.0
+adffcf95-e260-471f-bf0d-7a28dfa07a03,Çikolatalı Künefe,"25,00 TL",Künefeler,10.0
+86261232-2f2b-4ce9-8f7c-13b4ead152df,Billuriye,"28,00 TL",Künefeler,7.0
+fc3c2edc-9d71-4531-b04f-650418620d69,Special Künefe,"25,00 TL",Künefeler,10.0
+e00e93ff-a66c-46f3-8f10-986cca744e6f,Fıstık Ezmeli Künefe,"30,00 TL",Künefeler,10.0
+0cf2c5f3-f627-4679-bf43-3fd1822f0eab,Cennet Çamuru,"28,00 TL",Künefeler,5.0
+32aec3a1-8aad-462b-95fc-d957a08996e1,Fıstıkzade,"30,00 TL",Künefeler,5.0
+aeea527c-c058-47b2-acec-2cec7f22be8d,Yarı Fıstık Yarı Billuriye,"110,00 TL",Künefeler,7.0
+5c4a26de-53e2-46b5-ae86-a2983d153fa7,Yarı Hasır Yarı Billuriye,"100,00 TL",Künefeler,7.0
+21c35c65-e03c-4601-adf8-d9cf704416d7,Yarı Fıstık Yarı Peynir,"100,00 TL",Künefeler,5.0
+629f3459-158c-4780-b8d2-1485421bb20a,Yarı Hasır Yarı Special,"100,00 TL",Künefeler,5.0
+cde505e5-0fad-4193-895e-71ce06b6af56,Katmer,"29,00 TL",Katmerler,8.0
+5f1f332b-2116-492e-ac83-fae442823099,Dondurmalı Sarma Katmer,"33,00 TL",Katmerler,8.0
+3b285911-c929-4302-8404-d7cf7994f94a,Simit Katmer,"35,00 TL",Katmerler,8.0
+5a3970d3-cccc-4cf3-a1a4-8acc977ca70a,Tavuk Kanat (1 kg.),"70,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+9429ef6a-f2c7-4f1d-9d95-96f48ed5a65d,Poşet,"0,25 TL",Poşet,5.0

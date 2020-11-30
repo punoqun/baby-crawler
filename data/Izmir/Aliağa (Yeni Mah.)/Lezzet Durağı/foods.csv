@@ -1,0 +1,60 @@
+food_id,food_name,food_price,food_category,food_score
+4d26b7f3-3404-4081-9050-f73d620fc72e,Izgara Köfte,"28,00 TL",Izgaralar,11.0
+6f253813-5e13-4bbb-a8fc-f4da1d39507b,Tavuk Kanat,"25,00 TL",Izgaralar,8.0
+8d903130-9d62-4092-b476-1681265a0461,Tavuk İncik,"25,00 TL",Izgaralar,9.0
+7EA31A7C-DAA3-4FEE-A5F1-EB0A03E5E1F6,Tavuk Pirzola,"25,00 TL",Izgaralar,9.0
+899AC262-8FB4-4252-B936-7BC49B52AFAD,Tavuk Kelebek,"25,00 TL",Izgaralar,9.0
+e917bbed-9da6-469a-83c3-aa08bb438931,Tavuk İncik (1 kg.),"45,00 TL",Kiloluk Ürünler,9.0
+beca3a56-e91f-40eb-934c-4dec4001033f,Tavuk Kanat (1 kg.),"45,00 TL",Kiloluk Ürünler,8.0
+00fcfffd-d0aa-4b20-bf58-747281d2e173,Tavuk Kelebek (1 kg.),"45,00 TL",Kiloluk Ürünler,9.0
+b8d5f1a2-9ba9-4cd0-8c74-2baffbf9ac27,Karışık Tavuk Izgara (1 kg.),"45,00 TL",Kiloluk Ürünler,9.0
+DDE38803-9B27-49E0-AC96-3D66C25EB2DC,Izgara Köfte (1 kg.),"85,00 TL",Kiloluk Ürünler,11.0
+BA60ABD8-BA3F-4A9C-86CC-0DC7927A1F2C,Tavuk Pirzola (1 kg.),"45,00 TL",Kiloluk Ürünler,9.0
+4a965ff2-b81d-4cfd-b93f-f7062e44aa45,Yarım Ekmek Arası Kuzu Kokoreç,"20,00 TL",Kokoreçler,7.0
+2aba050c-62e4-4065-af70-d9993c72deca,Yarım Ekmek Arası Kokoreç,"20,00 TL",Kokoreçler,4.0
+8e61a777-1fc7-476a-b3c5-76be7e45356e,3/4 Ekmek Arası Kokoreç,"30,00 TL",Kokoreçler,4.0
+e8e30421-ac09-4e95-84d8-39e36f5ee2da,Tam Ekmek Arası Kokoreç,"40,00 TL",Kokoreçler,4.0
+4e2b1017-0d5d-46ba-8306-15a1f1ff8349,Tabakta Kuzu Kokoreç,"35,00 TL",Kokoreçler,4.0
+16ae8dbd-357b-4511-b2b7-105d9278a9cc,Yarım Ekmek Arası Tavuk İncik,"14,00 TL",Ekmek Arası Ürünler,12.0
+5bc7563c-023b-4d33-aaea-7d795110bc7b,Yarım Ekmek Arası Kasap Köfte,"15,00 TL",Ekmek Arası Ürünler,14.0
+74ee22a6-6c25-4650-af9c-6fbd6fe57146,Yarım Ekmek Arası Kasap Sucuk,"14,00 TL",Ekmek Arası Ürünler,6.0
+e0860346-a8c5-4c00-ac0d-c82995c579f8,Yarım Ekmek Arası Kaşarlı Kasap Sucuk,"14,00 TL",Ekmek Arası Ürünler,6.0
+2aa065ec-5759-47d1-8734-13961dd7461a,Ciğer Kuzu Dürüm,"18,00 TL",Ekmek Arası Ürünler,6.0
+F6878C93-D104-4805-94B7-906DC5A74C70,3/4 Ekmek Arası Köfte,"20,00 TL",Ekmek Arası Ürünler,9.0
+74BA3ACD-247C-4FE0-970A-1CC9076FD386,Tam Ekmek Arası Köfte,"28,00 TL",Ekmek Arası Ürünler,9.0
+0F6B4E79-6D3C-4B3C-B650-B8EA2E582E8A,3/4 Ekmek Arası İncik,"20,00 TL",Ekmek Arası Ürünler,3.0
+B2C5F973-9A2C-4F7E-A46C-5F26169F5F18,Tam Ekmek Arası İncik,"28,00 TL",Ekmek Arası Ürünler,3.0
+93FE4B0A-5DFE-47C6-B9DE-25D1E8C304C2,Yarım Ekmek Arası Kuzu Ciğer,"18,00 TL",Ekmek Arası Ürünler,4.0
+492FD172-434A-4279-A8DF-422B631988C5,3/4 Ekmek Arası Kuzu Ciğer,"27,00 TL",Ekmek Arası Ürünler,4.0
+39F29DC5-8C77-4117-B77C-99A3DACBF29E,Tam Ekmek Arası Kuzu Ciğer,"34,00 TL",Ekmek Arası Ürünler,4.0
+99386083-C07F-4FEA-B1C9-6632E14B04D7,3/4 Ekmek Arası Kasap Sucuk,"21,00 TL",Ekmek Arası Ürünler,6.0
+799B474D-1B73-4332-8DC7-A289EA55ADA6,Tam Ekmek Arası Kasap Sucuk,"26,00 TL",Ekmek Arası Ürünler,6.0
+A3166D82-8D50-4F04-9C4E-13F9A8A0AAAE,3/4 Ekmek Arası Kaşarlı Kasap Sucuk,"22,00 TL",Ekmek Arası Ürünler,6.0
+A2CD5660-9B8B-4400-BE3E-BA9322DD0854,Tam Ekmek Arası Kaşarlı Kasap Sucuk,"27,00 TL",Ekmek Arası Ürünler,6.0
+12537325-185e-44e2-ad9d-3af80ad0e2d9,Söğüş Dürüm,"27,00 TL",Söğüşler,1.0
+6a4ec979-2d29-4d1c-abe6-cd20768d3c82,Söğüş,"40,00 TL",Söğüşler,1.0
+1116D240-9A14-48D2-B871-F6E5D437A580,Battalbey Çiğ Köfte Dürüm (100 gr.),"6,00 TL",Çiğ Köfteler,11.0
+C7598956-F693-45E9-BDC6-B2B589AE407A,Battalbey Çiğ Köfte (400 gr.),"18,00 TL",Çiğ Köfteler,11.0
+2C70A611-8C9B-4E76-8A32-08C23653CA83,Battalbey Çiğ Köfte (600 gr.),"27,00 TL",Çiğ Köfteler,11.0
+5D9523A9-E157-419F-B3C6-95F80F70F9D0,Battalbey Çiğ Köfte (800 gr.),"36,00 TL",Çiğ Köfteler,11.0
+AFC0CA0A-9EBC-4B33-9336-0988E1FA8CA6,Battalbey Çiğ Köfte (1 kg.),"45,00 TL",Çiğ Köfteler,11.0
+3E35F0B8-2BB9-4EB6-B230-71B959E835C0,Ekmek,"2,00 TL",Yan Ürünler,3.0
+192C736A-14F2-4A10-8884-DBA4C7B2F742,Cevizli Baklava (1 kg.),"40,00 TL",Tatlılar,5.0
+08C4465E-3DDD-4044-84CA-C5694057E242,Cevizli Baklava (4 Adet),"10,00 TL",Tatlılar,5.0
+EB0C8B3A-3F38-4BA5-A0A1-AC90F71F7CF7,Cevizli Baklava (500 gr.),"20,00 TL",Tatlılar,5.0
+2F62FC1E-E114-4777-8824-D83AB80173D9,Cevizli Burma (1 kg.),"45,00 TL",Tatlılar,5.0
+F9B3B92D-829F-4E80-8B11-40E95D7C7A5A,Cevizli Burma (5 Adet),"10,00 TL",Tatlılar,5.0
+43CE8462-5EA6-476D-899D-EFA55013A7D9,Cevizli Burma (500 gr.),"22,50 TL",Tatlılar,5.0
+7B54E7D4-5700-43AC-B1B3-163434C15A17,Cevizli Kadayıf (1 kg.),"50,00 TL",Tatlılar,5.0
+1105449C-7156-48EC-90CC-8FBD0D230D00,Cevizli Kadayıf (2 Adet),"15,00 TL",Tatlılar,5.0
+585DC60C-EBB5-4D15-91DF-485C6B2AA980,Cevizli Kadayıf (500 gr.),"25,00 TL",Tatlılar,5.0
+6EF21ADE-E3BA-44B2-B7BB-D3862D9E0F00,Cevizli Midye Baklava (1 Kg),"50,00 TL",Tatlılar,5.0
+2ADC6432-1C82-46FF-B2D9-7AEED51C4DD5,Cevizli Midye Baklava (4 Adet),"15,00 TL",Tatlılar,5.0
+6B8601F9-7B42-4C47-88B2-B5E39AF55F17,Cevizli Midye Baklava (500 gr.),"25,00 TL",Tatlılar,5.0
+CB3C6DC1-61A3-446E-ABC7-FF2DFB8F2C94,Cevizli Prens Tatlısı (1 Kg),"45,00 TL",Tatlılar,5.0
+41310D39-317B-4B14-B29B-9DB9D903382B,Cevizli Prens Tatlısı (5 Adet),"10,00 TL",Tatlılar,5.0
+E7287984-A07D-40D8-B562-2FCCEBA9823B,Cevizli Prens Tatlısı (500 gr.),"22,50 TL",Tatlılar,5.0
+02DF6819-A2B5-474D-BBCC-294510DFCA12,Şöbiyet (1 kg.),"45,00 TL",Tatlılar,5.0
+E5DA5ED9-07A1-48CF-A063-F5D5E0C50E13,Şöbiyet (4 Adet),"10,00 TL",Tatlılar,5.0
+53B435D5-4C39-4295-AB0D-8DD00E8897A7,Şöbiyet (500 gr.),"22,50 TL",Tatlılar,5.0
+29fd6d6f-105d-4cc3-9253-25d8b364021f,Poşet,"0,25 TL",Poşet,5.0

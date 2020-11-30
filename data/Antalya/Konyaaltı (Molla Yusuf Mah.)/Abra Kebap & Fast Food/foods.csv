@@ -1,0 +1,42 @@
+food_id,food_name,food_price,food_category,food_score
+77cf3308-a209-4d28-88c1-0171b80e8a05,Doyur Beni Menüsü,"38,00 TL",Menüler,5.0
+7b644f02-8b2a-4ae7-a203-140c8ecb6bf1,2'li Tavuk Döner Dürüm Menü,"30,00 TL",Menüler,2.0
+B8F5EA0A-8BCD-4239-813A-57A2CE924761,Duble Adana Dürüm Menü,"21,00 TL",Menüler,12.0
+8E9AB28D-6593-4FA8-BDBD-A92078863FAC,Duble Urfa Dürüm Menü,"21,00 TL",Menüler,4.0
+DE6E5F85-9E4E-4FAC-92E2-161A28851D32,Kuşbaşı Dürüm Menü,"22,00 TL",Menüler,4.0
+08FD47C9-F4C7-4308-BEE8-8FB36FC98AB5,Ekmek Arası Izgara Köfte,"15,00 TL",Kebaplar & Izgaralar,11.0
+2B1DABC3-03BD-44EF-AFE3-7DFF4DC18832,2'li Ekmek Arası Izgara Köfte,"28,00 TL",Kebaplar & Izgaralar,11.0
+1D596525-3086-4576-9C9B-1476A990F35C,Tam Ekmek Arası Izgara Köfte,"19,00 TL",Kebaplar & Izgaralar,13.0
+ffc38728-48de-4463-bcee-115f23d8316f,Adana Kebap,"24,00 TL",Kebaplar & Izgaralar,13.0
+fb075d2d-8a21-411c-b1af-dda1750158d4,Urfa Kebap,"24,00 TL",Kebaplar & Izgaralar,5.0
+238d1006-93a9-47c2-b947-7f976a5e9c4f,Izgara Köfte,"22,00 TL",Kebaplar & Izgaralar,11.0
+e10b4366-de33-434d-aab3-059b3d46a8a6,Ciğer Şiş,"26,00 TL",Kebaplar & Izgaralar,5.0
+af32a2e3-3686-4e8f-90b6-2cffbe5e6185,Tavuk Şiş,"19,00 TL",Kebaplar & Izgaralar,3.0
+cedef77c-71d0-43db-b968-7d196038c198,Kuzu Şiş,"26,00 TL",Kebaplar & Izgaralar,5.0
+a3c5b077-754d-4648-9830-23e346c0ea7d,Tavuk Kelebek,"22,00 TL",Kebaplar & Izgaralar,3.0
+66b2bc92-4d4b-4663-9b3c-882038aa11ab,Tavuk Kanat,"22,00 TL",Kebaplar & Izgaralar,3.0
+f5f823db-1973-4a61-8a2f-09e449c57792,Karışık Izgara,"45,00 TL",Kebaplar & Izgaralar,5.0
+28bf8caa-c632-4cff-ad03-c908cf380df6,Ekmek Arası Tavuk Döner,"13,00 TL",Tavuk Dönerler,3.0
+13683c3b-0774-41c7-b5d6-113bdaec8c59,Tavuk Döner Dürüm,"15,00 TL",Tavuk Dönerler,2.0
+de83ee11-bbff-467a-9cf2-46952d341679,Tam Ekmek Arası Tavuk Döner,"16,00 TL",Tavuk Dönerler,10.0
+73107c0c-c0e6-4237-9b6c-e5a35c4f9e4b,Tavuk Döner,"18,00 TL",Tavuk Dönerler,3.0
+B53CFDE3-728E-44AA-A5B3-93D26FCBF5D6,2'li Tam Ekmek Arası Tavuk Döner,"25,00 TL",Tavuk Dönerler,5.0
+F858E8AF-E8AC-4F18-94DB-FE15E6E17CD3,2'li Yarım Ekmek Arası Tavuk Döner,"24,00 TL",Tavuk Dönerler,3.0
+cc6ccd2a-117d-4018-96bc-7d9c26a323df,Adana Dürüm,"16,00 TL",Dürümler,17.0
+6b7558fa-3b8c-4028-a66d-590de5725cf9,Urfa Dürüm,"14,00 TL",Dürümler,4.0
+7f0e3957-d059-44e2-a982-2eb8f8e1231b,Köfte Dürüm,"14,00 TL",Dürümler,10.0
+cb6489f3-78f3-400e-88f9-8c990fccca98,Ciğer Dürüm,"17,00 TL",Dürümler,4.0
+18420798-ce21-4376-ac9b-4ad09f10c408,Tavuk Dürüm,"14,00 TL",Dürümler,2.0
+90903be6-4fc2-4b47-9f1e-86a37bdda0f2,Kuzu Şiş Dürüm,"18,00 TL",Dürümler,9.0
+FC5CEB18-D1E4-4C75-8519-72D5F1A9FBCE,2'li Adana Dürüm,"30,00 TL",Dürümler,12.0
+AFBF9722-9DDD-49FA-9F13-D809E7AB903E,Adana Dürüm Menü,"19,00 TL",Dürümler,12.0
+c654e449-711f-47d0-a7a1-d3758dd3b6d3,Tavuk Şiş Dürüm,"13,00 TL",Dürümler,2.0
+AF1C6EB3-8A72-4D6B-A1F7-D327BD8D0A3D,Mankafa Gazoz (25 cl.),"4,00 TL",İçecekler,5.0
+50D9A5F5-9DA6-4E86-AA7F-1EC88E3590CB,Zencefilli Gazoz (25 cl.),"4,00 TL",İçecekler,5.0
+A28D70F3-D42A-4492-A2C0-4C639C1A96F9,Sade Gazoz (25 cl.),"4,00 TL",İçecekler,5.0
+27684c35-3435-426e-87cd-4c8622a501b4,Bırrr Tea Şeftali (25 cl.),"4,00 TL",İçecekler,5.0
+6B965FA7-0554-41C8-8890-B29026D25445,"Su (1,5 L.)","3,75 TL",İçecekler,5.0
+CCC772A0-02C5-4B22-98D8-1683D87A05B5,Su (5 L.),"7,50 TL",İçecekler,5.0
+a089a1c1-7e16-4eae-836f-d4257bdb3ece,Tavuk Kelebek (500 gr.),"30,00 TL",Kiloluk Ürünler (Pişirilmiş),3.0
+d3814083-454f-4d68-a199-945d58a56ca3,Tavuk Kanat (500 gr.),"30,00 TL",Kiloluk Ürünler (Pişirilmiş),3.0
+c38ab8cc-8b0f-4499-938b-867a2bca74c5,Poşet,"0,25 TL",Poşet,5.0

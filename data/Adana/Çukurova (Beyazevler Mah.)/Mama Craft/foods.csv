@@ -1,0 +1,52 @@
+food_id,food_name,food_price,food_category,food_score
+66ccc816-c3bd-4128-981f-520e10704af2,Mama Sandviç,"28,95 TL",Sandviçler,6.0
+357a43a3-59fc-470f-9848-530f7758a757,Bacon BBQ Burger,"36,95 TL",Burgerler,10.0
+94a1b681-0258-4e46-92d9-11bf2795cc53,BBQ Burger,"34,95 TL",Burgerler,5.0
+6e919d54-f61b-49f7-89e2-704d4db08d22,Big Craft Burger,"39,95 TL",Burgerler,12.0
+7b330af4-37bb-48d7-ac80-84b3a3e6fd09,Bullmix Burger,"46,95 TL",Burgerler,5.0
+b6ba4629-4bcd-47bf-bd1f-33fa9ce3f0d3,Cheeseburger,"31,95 TL",Burgerler,10.0
+F5E6F0C2-178C-433A-B17A-3FA78FF061BC,Chicken Burger,"26,95 TL",Burgerler,5.0
+ac14185c-d021-4760-9620-ec5e407fd808,Classic Burger,"29,95 TL",Burgerler,5.0
+3a823c17-3740-4150-bbe1-9211763ed473,Combo Turco Burger,"39,95 TL",Burgerler,5.0
+C3C484B8-E9DD-40E7-BF9B-0239953BCF63,Doping Burger,"47,95 TL",Burgerler,5.0
+28B5DB9B-46B4-4812-A2C4-0FC676B09BE6,Double Craft Burger,"49,95 TL",Burgerler,5.0
+74BB0139-064E-49F5-B9A0-8A758FC8B5CF,Double Master Burger,"40,95 TL",Burgerler,5.0
+5A0FFFE5-BE57-4B0E-AD53-80B17D2937AF,Egg Burger,"32,95 TL",Burgerler,5.0
+7f740d2a-50fb-4338-b54f-2ee149a6c156,Garlic Much Burger,"34,95 TL",Burgerler,5.0
+20a42cea-06ce-4db2-98c6-7ef8adc14d32,Hawaii Burger,"31,95 TL",Burgerler,5.0
+45ABE327-84E4-4685-9170-1D629FEEEE83,İnjeet Burger,"32,95 TL",Burgerler,5.0
+21730306-92E4-4269-99FC-0F9BC6C834F6,Mozzerella Bar Burger,"36,95 TL",Burgerler,5.0
+7a6d3102-4ecf-4961-bf28-c320cfc1d873,Mr. Bacon Burger,"41,95 TL",Burgerler,5.0
+F0BBF8F7-9710-4EA5-A05B-B1D26455231E,Onion Rings Burger,"37,95 TL",Burgerler,5.0
+2AC553FB-3EBC-4030-943E-3CDE295E4B9D,Patato Sticks Burger,"35,95 TL",Burgerler,5.0
+4383009b-6e25-44f2-b123-87288ce6e028,Peppitos Hot Burger,"33,95 TL",Burgerler,3.0
+ceb25ad8-4384-455b-9c9e-c7cbb064cbf7,Pick Beets Burger,"32,95 TL",Burgerler,5.0
+75657187-6CFA-4E42-81FF-DD21494E6F31,Rokfor Mushroom Burger,"32,95 TL",Burgerler,5.0
+f636e17d-1311-486a-b1f8-9e614075e099,Smash Lokum Burger,"37,95 TL",Burgerler,5.0
+4f0a1b29-096c-4f94-b836-4e967e04d6c6,Smurfs Burger,"37,95 TL",Burgerler,5.0
+868EB04C-9D47-4571-8E6C-06EF0449FE9E,Tereyağlı Burger,"32,95 TL",Burgerler,5.0
+D4F3AC59-99D1-4184-909E-F0D906B66221,Tike Burger,"35,95 TL",Burgerler,5.0
+FDFFDA93-9B3D-4806-9184-DB1C10C1C0C3,Vegan Burger,"28,95 TL",Burgerler,5.0
+48C41BD0-AA20-48E7-836D-AAE5E8DD642B,Veggie Burger,"28,95 TL",Burgerler,5.0
+a6540795-1a0e-4bd3-b4c9-9b4ea93cd4f1,White Russian Burger,"34,95 TL",Burgerler,5.0
+030cdcf7-3a86-4b79-819f-21bbdad0fe26,Patates Kızartması,"18,95 TL",Yan Ürünler,10.0
+91309e8c-a6bc-4cc6-ac35-ee323ac78e11,Soğan Halkası (12 Adet),"18,95 TL",Yan Ürünler,5.0
+d43eb85a-11e6-4c00-9833-1e2fe8433357,Mozzarella Sticks (10 Adet),"23,95 TL",Yan Ürünler,5.0
+7e0a0e60-f0b3-4e29-b3e5-9ef635ac67cf,Izgara Sosis Tabağı,"23,00 TL",Yan Ürünler,5.0
+C28E0E6B-4A71-4AD6-940C-9BA3E7BB49A1,Cheddar Soslu Patates Kızartması,"21,95 TL",Yan Ürünler,10.0
+7019CD21-9DCE-446A-9C1E-B413C1D261EB,Mama Craft Combo,"30,95 TL",Yan Ürünler,6.0
+E672A5F0-8C6D-4991-8F79-CFDD70632B2E,Beef Wrap,"39,95 TL",Yan Ürünler,5.0
+417C0C35-92CD-498A-B465-B5449258FD80,Köri Soslu Tavuklu Penne,"26,95 TL",Makarnalar,5.0
+D78A0AE3-B35D-4EE6-8718-35DE0F620053,Fettuccine Alfredo,"26,95 TL",Makarnalar,5.0
+07AECBD2-C353-4118-BE54-42627EB5E7A3,Penne Arrabbiata,"26,95 TL",Makarnalar,5.0
+8DB798CE-D72B-4F4C-B2A5-E9B080561F6A,Spaghetti Bolognese,"26,95 TL",Makarnalar,5.0
+0B1FE89B-3E62-4A3F-BEE0-9268ABAF9E02,Sıcak Bonfile Salata,"39,95 TL",Salatalar,7.0
+11EB57DF-1311-41A1-8654-91396A39DFB9,Izgara Hellim Peynirli Salata,"34,95 TL",Salatalar,5.0
+8D15C418-E87D-4566-A756-0CD13B2CEB19,Tavuklu Salata,"34,95 TL",Salatalar,5.0
+4C6BFD3D-5ABC-4870-B269-8A57958C9FD6,Akdeniz Salata,"27,95 TL",Salatalar,5.0
+002C4DAA-83D9-4B94-AC47-B4E801B421D3,Tulum Peynirli Salata,"30,95 TL",Salatalar,5.0
+7F5603FB-19E4-4901-8D3D-03A449A9EDC2,Sezar Salata,"29,95 TL",Salatalar,5.0
+762cb472-ce03-4014-8726-65bf29d35efb,Coca-Cola Şekersiz (25 cl.),"7,00 TL",İçecekler,5.0
+39f70cc0-1ff5-456f-b74f-f461d9509398,Fanta (25 cl.),"7,00 TL",İçecekler,5.0
+f99de503-e9ea-4a06-97d8-078b130f9e5d,Sprite (25 cl.),"7,00 TL",İçecekler,5.0
+f410e9ba-46b6-4769-829a-bedf6c54613d,Poşet,"0,25 TL",Poşet,5.0

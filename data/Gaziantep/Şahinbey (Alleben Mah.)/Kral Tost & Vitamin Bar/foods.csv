@@ -1,0 +1,38 @@
+food_id,food_name,food_price,food_category,food_score
+1A07CF9A-5F5D-4EAA-9253-7F2CBF34F3E6,Sucuklu Tost Menü,"17,00 TL",Menüler,4.0
+63984A43-15B9-4D39-9E65-097F9577F545,Double Kaşarlı & Sucuklu Tost Menü,"22,00 TL",Menüler,4.0
+9406f1a9-5d75-47bb-b447-50469fd93a47,Hamburger Menü,"18,00 TL",Menüler,6.0
+785c3a07-2f3e-48db-beb1-940a7003ea18,Cheeseburger Menü,"18,00 TL",Menüler,5.0
+8e7d30d6-a4db-4f86-9fd0-8b009f760b00,Ekmek Arası Kasap Köfte Menü,"15,00 TL",Menüler,2.0
+38fb779c-eae5-4729-8aed-226d4939fbe6,Kasap Köfte Burger Menü,"19,00 TL",Menüler,2.0
+19299aa5-d4bb-4073-8f90-204a33ad7e1b,Kasap Köfte Cheeseburger Menü,"20,00 TL",Menüler,2.0
+A741E287-9507-413D-B3E2-AD5CBD055974,Kasap Sucuklu Kaşarlı Tost Menü,"20,00 TL",Menüler,2.0
+A556FCA8-A577-46FB-A006-A8854590C369,Kasap Sucuklu Kaşarlı Yumurtalı Menü,"22,00 TL",Menüler,3.0
+5B7ABC64-A517-4603-B883-21090376EBEB,Kasap Sucuklu Tost Menü,"17,00 TL",Menüler,2.0
+40F221FE-5EE0-41DB-861A-296E8046F0F3,Karışık Tost Menüsü,"16,00 TL",Menüler,7.0
+4E2A6B2D-F852-4C7C-B4F2-BBECA40B3D34,Kaşarlı Tost Menü,"15,00 TL",Menüler,4.0
+40481C2E-ACAD-4A94-AE4C-36D1A5AA58CB,Kumru Tost,"16,00 TL",Tostlar,4.0
+58722659-46bf-4f35-8b15-3fa0b5c087a3,Çift Kaşarlı Tost,"15,00 TL",Tostlar,6.0
+8C1B1616-3F73-4715-B4BD-50C0DE5DDBFD,Çikolatalı Muzlu Tost,"10,00 TL",Tostlar,4.0
+3745E499-811E-43E2-868A-008B6A4F4289,Kasap Sucuklu & Kaşarlı Tost,"15,00 TL",Tostlar,2.0
+9F6FC432-8EA5-45BA-89F8-0D4665160A06,Kasap Sucuklu & Kaşarlı & Yumurtalı Tost,"17,00 TL",Tostlar,2.0
+71913FE8-97DC-4F54-8FCD-29B4BE65DF94,Kasap Sucuklu Tost,"13,00 TL",Tostlar,2.0
+0A95FAA2-5C4A-4050-82CF-BF6A61035F6F,Kasap Sucuklu & Yumurtalı Tost,"14,00 TL",Tostlar,2.0
+1c855818-39ba-4eb9-adee-151d0be75fd7,Kaşarlı Tost,"10,00 TL",Tostlar,4.0
+78163c4e-7129-43c3-9c89-df63d9671f26,Kavurmalı Kaşarlı Tost,"19,00 TL",Tostlar,4.0
+E4C30C95-E33A-4920-BC22-0A66494DDE3F,Sucuklu Yumurtalı Tost,"10,00 TL",Tostlar,4.0
+B0ABE488-2D85-4BAC-A279-7BAFE09FC5F8,Yumurtalı Kaşarlı Sucuklu Tost,"13,00 TL",Tostlar,4.0
+4ba48115-22b4-4af0-abcc-5441cbe82397,Kaşarlı Sandviç,"7,00 TL",Sandviçler & Ekmek Arası Ürünler,5.0
+fde249b2-d077-49d3-a138-8661aedd954e,Karışık Sandviç,"8,00 TL",Sandviçler & Ekmek Arası Ürünler,3.0
+81c0c856-786d-4844-9ba1-2350d7b0cfda,Ekmek Arası Kasap Köfte,"13,00 TL",Sandviçler & Ekmek Arası Ürünler,2.0
+223695a1-609b-418f-ae75-4f4df8a0cf58,Hamburger,"14,00 TL",Burgerler,6.0
+5f222a0b-a65d-470f-8735-dd4a350be0ff,Cheeseburger,"15,00 TL",Burgerler,5.0
+D1D66525-9D02-4A34-8F9C-08E738BD5349,Kasap Köfteli Hamburger,"15,00 TL",Burgerler,4.0
+F83D8F07-ED70-47AA-9008-4DF02AC2B40A,Kasap Köfteli Cheeseburger,"16,00 TL",Burgerler,3.0
+BE3D7DB8-3888-4AF0-AC54-60BB7C53A5E2,Yedigün (20 cl.),"3,50 TL",İçecekler,5.0
+B04FA6DA-B5F5-43F7-A4EB-5234CD66237D,Fruko (20 cl.),"3,50 TL",İçecekler,5.0
+ed9346b1-b460-42fb-93e2-6d916880e905,Taze Sıkma Havuç Suyu,"7,00 TL",Vitamin Bar,5.0
+2a3bfb0b-cf3f-4855-b3bc-cb50c27c3b8c,Taze Sıkma Mandalina Suyu,"7,00 TL",Vitamin Bar,5.0
+a657cb72-a13a-4c62-b586-017aa6602f23,Taze Sıkma Nar Suyu,"8,00 TL",Vitamin Bar,5.0
+7dff03ab-6c10-45bc-9e07-0b0f7adc2f64,Muzlu Milkshake,"7,00 TL",Milkshakes,5.0
+ff65ae7d-d11d-42b8-92d6-e52cf1a352a5,Çilekli Milkshake,"7,00 TL",Milkshakes,5.0

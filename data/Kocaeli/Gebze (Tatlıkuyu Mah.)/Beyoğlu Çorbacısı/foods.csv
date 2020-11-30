@@ -1,0 +1,21 @@
+food_id,food_name,food_price,food_category,food_score
+d3cfdf38-3670-41c0-9787-f7546265bc75,Beyoğlu Spesiyal Çorba,"36,00 TL",Çorbalar,7.0
+cb4dc245-a935-4378-8748-5e01538d1b2d,Köfte Dürüm,"23,00 TL",Dürümler,3.0
+14e9bebd-46ac-476b-8067-4dd2073d0f6f,Karışık Izgara,"75,00 TL",Izgaralar,5.0
+d1484156-ea9a-4f25-be24-92bac923f010,Izgara Köfte Dürüm,"20,00 TL",Izgaralar,3.0
+80020d7f-cb2b-40c2-9b09-4f19588d9365,Izgara Tavuk Pirzola,"28,00 TL",Izgaralar,6.0
+d1e71975-67e1-4740-90b3-f73d50f764e2,Kuzu Küşleme,"60,00 TL",Izgaralar,5.0
+e6742499-4e54-403b-a9ed-a1e715ec1a1c,Kuzu Pirzola,"75,00 TL",Izgaralar,5.0
+5b65133d-0069-4197-acd5-948c14c05112,Izgara Köfte,"28,00 TL",Izgaralar,5.0
+91ce4253-69f3-48a9-88d1-a8a2acdae4db,Ciğer Tava,"30,00 TL",Diğer Lezzetler,5.0
+cedd7b26-494d-4aaa-b680-97d1a6d748b7,Et Sac Kavurma,"35,00 TL",Diğer Lezzetler,5.0
+90352c14-e779-4bde-b61f-c74e59b0afa2,Haydari,"9,00 TL",Mezeler,5.0
+cbe72abd-08b1-4001-8425-48384cef020d,Acılı Ezme,"6,00 TL",Mezeler,7.0
+5fa269f9-1963-46e6-a2c0-3aaeaaeae898,Yoğurt,"9,00 TL",Mezeler,4.0
+cf63e36e-b492-4a71-ad24-2a89ff3f78a2,Çoban Salata,"10,00 TL",Salatalar,4.0
+e7503d72-f0d1-4826-a2d0-b1b8371fb778,Beyoğlu Spesiyal Tatlı,"15,00 TL",Tatlılar,4.0
+d21470ab-316f-4370-9b51-da7a7a7c5f46,Hamsiköy Sütlacı,"12,00 TL",Tatlılar,5.0
+cbaebaf4-b0f1-445a-940c-92e0a5ed807b,Katmer,"22,00 TL",Tatlılar,5.0
+31df7f4e-5e02-48c2-a713-2d0cc0c596dc,Künefe,"17,00 TL",Tatlılar,5.0
+9888a2fc-b15c-411f-b0c2-1870848fe1ac,Su,"3,00 TL",İçecekler,9.0
+8d1e7b8f-4e9d-4609-97c2-190008a46bce,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,47 @@
+food_id,food_name,food_price,food_category,food_score
+71dadfbb-31e7-40ca-baf3-dca04b286f2d,Grup Menü 1,"45,00 TL",Menüler,14.0
+2269f05a-ffac-469c-8360-d1839f7db3f7,Grup Menü 2,"70,00 TL",Menüler,2.0
+345825df-21d5-456f-a1ed-f65c9cae975c,Grup Menü 3,"26,00 TL",Menüler,2.0
+85ab71fe-cffe-4bad-bdaa-af14acddc55f,Grup Menü 4,"55,00 TL",Menüler,7.0
+33539e8d-2ffe-400f-8f20-45bd7d43deaf,Menü 1,"11,00 TL",Menüler,14.0
+f368d15d-02fb-4ed0-a153-0b375e60aa63,Menü 2,"10,00 TL",Menüler,2.0
+fa825c80-a98f-4b54-a574-7d5e41a5d865,Menü 3,"14,00 TL",Menüler,2.0
+0d1dbb1b-8200-48e3-b5b3-8126dbcf99ab,Menü 4,"10,00 TL",Menüler,7.0
+ff9bcba1-e59f-46e4-8eae-cdd57c281fce,Menü 5,"13,00 TL",Menüler,2.0
+910104cc-ce4f-43b4-ae50-6b808a17d3dc,Çiğ Köfte Dürüm,"6,00 TL",Çiğ Köfteler,13.0
+4A48F50B-1AF4-4D50-859F-14B4021ED13B,Mega Çiğ Köfte Dürüm (160 gr.),"8,50 TL",Çiğ Köfteler,13.0
+76680E72-8C2C-442E-B3AF-51A90C1172F5,Şanlı Çiğ Köfte Dürüm (200 gr.),"10,50 TL",Çiğ Köfteler,8.0
+03C88CFA-8427-4401-8268-B8E5E02056E8,Çiğ Köfte (200 gr.),"11,00 TL",Çiğ Köfteler,6.0
+FF1F074C-EB23-4941-952E-240655428575,Çiğ Köfte (400 gr.),"17,50 TL",Çiğ Köfteler,6.0
+7d82527a-4ed7-44ab-a493-e83ec24109d5,Çiğ Köfte (500 gr.),"20,00 TL",Çiğ Köfteler,6.0
+AAD2D7EF-F6F4-4DAA-AB07-0077D531D6B5,Çiğ Köfte (600 gr.),"25,00 TL",Çiğ Köfteler,6.0
+5F71B620-B268-4E4C-A345-CD1EB5D7F8EE,Çiğ Köfte (800 gr.),"32,50 TL",Çiğ Köfteler,6.0
+675c8e27-db13-4524-ac04-b8ebf8f392e8,Çiğ Köfte (1 kg.),"40,00 TL",Çiğ Köfteler,6.0
+B8A14EF8-6A8B-4E8E-B229-0C51C4BF9481,Yoğurtlu Mantar (200 gr.),"9,50 TL",Mezeler,5.0
+906DBC6D-A82D-4191-9E91-F3A2DA5A2F5B,Sarımsaklı Yoğurt,"9,50 TL",Mezeler,5.0
+84535DB5-DA97-4CDC-8172-8CE0B510FE15,Arnavut Ciğeri (150 gr.),"15,00 TL",Mezeler,5.0
+D48C5DCB-F206-4834-8027-DEEAD39655E0,Atom (200 gr.),"9,50 TL",Mezeler,5.0
+86890BFF-2963-49D3-B8DF-9C97F147FFD8,İtalyan Salata (200 gr.),"9,50 TL",Mezeler,5.0
+9b92b366-cd9b-4b2a-9c1f-f47a8e6fd38d,Patlıcan Salatası,"9,50 TL",Mezeler,5.0
+E99C527B-B497-470E-ADA3-CDF4F5736867,Rus Salatası (200 gr.),"7,50 TL",Mezeler,5.0
+FB7C9214-C55B-4C8F-87E8-A102A7EADC0C,Şakşuka (200 gr.),"9,50 TL",Mezeler,5.0
+C137FB07-504A-4710-A7A8-90C86936F1F0,Naneli Haydari (200 gr.),"9,50 TL",Mezeler,5.0
+222E896C-57BC-4519-B9B6-0E5B8F26C251,Tavuk Ciğer (150 gr.),"9,50 TL",Mezeler,5.0
+70e5bd01-8d21-4047-8bab-2ac130445d84,Lavaş (Adet),"0,75 TL",Yan Ürünler,2.0
+FE66233A-9F31-4D50-9F43-583732075AB3,Nar Ekşisi Sos,"0,75 TL",Yan Ürünler,6.0
+C516E40C-1814-4B4B-94DA-8F0EC94E30BD,Acı Sos (Küçük),"0,75 TL",Yan Ürünler,5.0
+061E8F74-08AE-40C3-B353-435D5F1C79D9,Limon (Adet),"1,50 TL",Yan Ürünler,5.0
+7B179D4A-A379-4351-BCDF-512BE51DACCE,Iceberg Marul (Adet),"7,50 TL",Yan Ürünler,3.0
+25d721b4-c747-4478-b6b4-6f6f2aade125,Kızartma İçli Köfte (Adet),"5,00 TL",Yan Ürünler,0.0
+747e45bd-da3e-4dd2-8cd8-9baffc00040b,Midye Dolma (Büyük),"1,75 TL",Yan Ürünler,18.0
+d545520e-a4b1-4dec-8075-e47cf0304732,Sütlü Burma Kadayıf,"5,00 TL",Tatlılar,9.0
+7bcaa2d9-8e86-4c54-92b6-3178ee7c99be,Cevizli Baklava,"6,00 TL",Tatlılar,7.0
+B88AA75C-1528-42E8-A534-A7D2659CE059,Eker Çikolatalı Puding (100 gr.),"3,00 TL",Tatlılar,5.0
+610D69AB-A625-4DC7-B441-EF831426AB34,Eker Kazandibi (100 gr.),"3,00 TL",Tatlılar,5.0
+1C3CB979-DB1A-4E91-A353-566F2AE83C41,Eker Sakızlı Muhallebi (100 gr.),"3,00 TL",Tatlılar,5.0
+E05514A4-2048-4CD6-BE38-84AF63F89634,Eker Sütlaç (100 gr.),"3,00 TL",Tatlılar,5.0
+31ebcf66-f9e9-411c-9f5e-51c4ec8fb44d,Bal Badem Tatlısı,"5,00 TL",Tatlılar,5.0
+d84d521d-c131-4367-826b-7ddfc935594e,"Eker Ayran (17,5 cl.)","1,50 TL",İçecekler,5.0
+d9223e23-4554-48d9-a059-9f62813855a2,Sütlü Burma Kadayıf (1 kg.),"35,00 TL",Kiloluk Ürünler,9.0
+8192c07e-5f2f-4409-8945-e8a783af509f,Cevizli Baklava (1 kg.),"45,00 TL",Kiloluk Ürünler,7.0
+8a1a2a86-8feb-481b-b8b3-7bf3d53cc033,Bal Badem Tatlısı (1 kg.),"40,00 TL",Kiloluk Ürünler,5.0

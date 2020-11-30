@@ -1,0 +1,42 @@
+food_id,food_name,food_price,food_category,food_score
+14F3DCEE-47AD-42E6-926E-966203724B82,Tavuk Döner Menü,"11,25 TL",Menüler,6.0
+865C45A8-30E5-4C0F-9220-1945C08CC1F0,Izgara Köfte Menü,"22,50 TL",Menüler,1.0
+0263ca2d-b518-4c35-88b8-82e294dcf84f,Dondurmalı Menü 1,"24,00 TL",Dondurmalı Menüler,5.0
+a3d7d9c0-a922-4d52-ba9d-857ba6b67469,Dondurmalı Menü 2,"21,00 TL",Dondurmalı Menüler,2.0
+64f66f2e-4ecb-4c6b-b564-06eaf3e32837,Dondurmalı Menü 3,"20,25 TL",Dondurmalı Menüler,3.0
+7ef73fb4-597f-4aa2-8f28-e5cc5b2cb396,Dondurmalı Menü 4,"18,75 TL",Dondurmalı Menüler,1.0
+4e9a0b3e-39c3-40bd-a5cc-90beee371f1a,Yarım Ekmek Arası Kokoreç,"16,50 TL",Kokoreçler,28.0
+a7272030-bc1e-47ad-893c-8e17ca8ec58e,Çeyrek Ekmek Arası Kokoreç,"11,25 TL",Kokoreçler,24.0
+8bf36e63-34bb-4402-9882-1840b21ef268,Kokoreç,"26,25 TL",Kokoreçler,24.0
+f391ae7f-d71e-4afc-94ea-5c53c752eb41,Yarım Ekmek Arası Sebzeli Kokoreç,"18,00 TL",Kokoreçler,25.0
+cf180e46-a00c-411f-8f9f-b74a7a1c1ae1,Sebzeli Kokoreç Dürüm,"16,50 TL",Kokoreçler,24.0
+5fa1af94-9c36-4e21-9aec-fc55e44582fd,Sebzeli Kokoreç,"16,50 TL",Kokoreçler,26.0
+190eb27c-3ff6-479a-bff7-7105f1845398,Yarım Ekmek Arası Duble Kokoreç (2 Halka),"33,00 TL",Kokoreçler,23.0
+21F71356-40AD-40CB-B7A6-2470EECA8123,3/4 Ekmek Arası Kokorec,"25,50 TL",Kokoreçler,5.0
+E0CB2AFD-AB3B-4C2C-B6AC-02E4EFC03371,Tam Ekmek Arası İri Kıyım Kokoreç,"33,00 TL",Kokoreçler,24.0
+37C3CFE0-A9F8-4CA2-BDE6-156A156F2F2C,Tam Ekmek Arası İstanbul Usulü Kokoreç,"33,75 TL",Kokoreçler,24.0
+DE3D7755-D7F0-4052-96A7-F2E1A5846065,Tam Ekmek Arası İnce Kıyım Kokoreç,"33,00 TL",Kokoreçler,24.0
+59A3C1B4-6CB6-44A0-88D2-2D678938D605,Tam Ekmek Arası Izgara Halka Kokoreç,"33,75 TL",Kokoreçler,24.0
+56EB0853-07A6-4CB3-918B-2578A4B186DD,Kokoreç Tantuni Dürüm,"18,75 TL",Kokoreçler,23.0
+2757B7E6-2D98-4181-B650-C0D7174AAD0C,Sade Kokoreç,"26,25 TL",Kokoreçler,23.0
+bf42b6cc-d05e-4c58-8fba-d99a433b4895,Yarım Ekmek Arası Tavuk Döner,"7,50 TL",Tavuk Dönerler,7.0
+8a83629d-f3dd-488d-9632-d56a3fca6c10,Çeyrek Ekmek Arası Tavuk Döner,"7,50 TL",Tavuk Dönerler,8.0
+282a78b9-e3ca-4743-84d1-1614a1b8ef04,Pilav Üstü Tavuk Döner,"15,00 TL",Tavuk Dönerler,8.0
+E026DBF6-0AF8-4B36-B88E-0C0365579D56,Tam Ekmek Arası Tavuk Döner,"15,00 TL",Tavuk Dönerler,8.0
+A148BF3F-8E40-4A63-951F-3D8914FD4B17,3/4 Ekmek Arası Tavuk Döner,"11,25 TL",Tavuk Dönerler,8.0
+C8FE661E-D512-43DE-9B2A-8DC6FE771369,Tavuk Döner Dürüm,"7,50 TL",Tavuk Dönerler,11.0
+47A237AF-5013-48C5-9393-F4554437E0C6,Tavuk Döner Dürüm (Çift Lavaş),"9,00 TL",Tavuk Dönerler,6.0
+4682f1a5-03a5-41aa-a0e9-85859fb5bb47,Yarım Ekmek Arası Sucuk,"12,00 TL",Ekmek Arası Ürünler,4.0
+ab4d96c0-1935-444c-b55c-39fe848d5a34,Çeyrek Ekmek Arası Sucuk,"7,50 TL",Ekmek Arası Ürünler,5.0
+e34bdb46-8a37-4b0e-911e-59642250a5d5,Yarım Ekmek Arası Köfte,"12,00 TL",Ekmek Arası Ürünler,2.0
+c1b6018b-7b30-4497-a604-6a3f4a00cd8e,Çeyrek Ekmek Arası Köfte,"7,50 TL",Ekmek Arası Ürünler,3.0
+3DAE0D19-D16E-45A4-91FE-F51CCEA8879A,Yarım Ekmek Arası Kasap Sucuk,"12,00 TL",Ekmek Arası Ürünler,4.0
+9756EDAD-0EE8-4764-9FAC-20474A5CEAF0,Tam Ekmek Arası Kasap Sucuk,"24,00 TL",Ekmek Arası Ürünler,5.0
+0fb9ad47-3e9f-49f8-bdaa-4efa453a0858,Söğüş Dürüm,"20,25 TL",Diğer Lezzetler,1.0
+09814890-1c83-457c-b355-a5e19039fc4b,Karışık Söğüş,"27,75 TL",Diğer Lezzetler,3.0
+0d514db7-2c91-44d0-9bc5-e1c26b25918a,Algida Maraş Usulü Cup Dondurma (100 ml.),"3,00 TL",Dondurmalar,5.0
+1c29c36d-69c1-4d86-8939-e991c1337798,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"9,00 TL",Dondurmalar,5.0
+0b52455e-2a55-4bc5-8553-96511f28270f,Carte d'Or Dondurmalı Volcano,"9,75 TL",Dondurmalar,5.0
+edf3450b-880b-48eb-81a5-c53b75b93b27,Yedigün Portakal (33 cl.),"4,50 TL",İçecekler,5.0
+91489fe7-4c12-4638-b6c5-a7c1c1275dbf,Yedigün Portakal (1 L.),"6,00 TL",İçecekler,5.0
+0cbac361-430d-44f7-8016-bb6d14ae9776,Poşet,"0,25 TL",Poşet,5.0

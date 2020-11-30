@@ -1,0 +1,57 @@
+food_id,food_name,food_price,food_category,food_score
+d8bd9bcc-5373-4186-a46f-913e956f011f,4'lü Kavurmalı Kaşarlı Tost Menü,"65,00 TL",Ekonomik Menüler,-4.0
+6759c3c7-e78d-4f38-a14f-f166c4563a21,4'lü Süper Karışık Tost Menü,"62,00 TL",Ekonomik Menüler,-4.0
+4a77f2b6-1d3b-48b0-8ae5-dc74df466795,4'lü Mega Karışık Tost Menü,"55,00 TL",Ekonomik Menüler,-8.0
+749dc6f3-8b82-464a-a68d-b29b05602de9,4'lü Kaşarlı Köfte Menü,"62,00 TL",Ekonomik Menüler,2.0
+7d670a4f-d4da-4460-9e69-e3956c112fb0,5'li Karışık Tost Menü,"60,00 TL",Ekonomik Menüler,-8.0
+cecc1c24-ee5f-4006-8751-9c596fe8a8ac,2'li Süper Karışık Ayvalık Tostu Menü,"35,00 TL",Ekonomik Menüler,-6.0
+c753964b-2b21-4a57-bf2c-4fa37bfe39d7,Karışık Menü,"34,00 TL",Ekonomik Menüler,3.0
+fe84318a-1b1e-480a-b193-ec2fb10a079c,Mega Karışık Menü,"16,00 TL",Ekonomik Menüler,3.0
+0829ac44-c929-4791-8bfd-106935d38e62,Kaşarlı Sucuklu Ayvalık Tostu Menü,"12,50 TL",Ekonomik Menüler,-11.0
+7df0a7c7-b8be-462a-9bdb-9c99328daeea,Kaşarlı Patso Menü,"15,50 TL",Ekonomik Menüler,2.0
+f4bd1918-15cc-47a3-87ac-e44b057b7aba,Tulum Peynirli Kaşarlı Ayvalık Tostu Menü,"16,50 TL",Ekonomik Menüler,-11.0
+f5ec65eb-3328-4767-8853-cf028816d142,Menü 1,"24,00 TL",Ekonomik Menüler,14.0
+336adca6-034c-45b8-980a-a0d0a0798df6,Menü 2,"25,00 TL",Ekonomik Menüler,0.0
+9388E35A-D5D0-4E1F-B76A-12D89A0E28E4,Menü 3,"17,00 TL",Ekonomik Menüler,1.0
+A20A6C3A-F672-4F81-A4F5-077FB0546817,Menü 4,"25,00 TL",Ekonomik Menüler,4.0
+E1613B89-1A3A-4D19-89CE-06F3C86FE88F,Menü 5,"21,00 TL",Ekonomik Menüler,3.0
+BF9483A4-B2CC-4452-8A4C-85AE8205C1B3,Menü 6,"18,00 TL",Ekonomik Menüler,8.0
+6BF0A077-FF9F-4D67-BB1F-4269C9064FCE,Menü 7,"21,50 TL",Ekonomik Menüler,5.0
+FAB4435A-FB97-45B1-9800-83BBD66CE109,Menü 8,"22,50 TL",Ekonomik Menüler,5.0
+4C2FCD67-665A-418D-811F-5FF1B981BA1B,Menü 9,"25,50 TL",Ekonomik Menüler,2.0
+E6BBDA46-C2B3-43E2-9061-7326007046F0,Menü 10,"25,00 TL",Ekonomik Menüler,13.0
+1C181808-1C1C-4922-AF53-45BAE8F330BF,Menü 11,"23,00 TL",Ekonomik Menüler,6.0
+11CC2AB6-1919-4A03-8A61-6E301CD49CD9,Menü 12,"28,00 TL",Ekonomik Menüler,5.0
+a56204c8-1cf5-4abe-a3b1-7b1002a146fd,Şnitzelli Ayvalık Tostu Menü,"20,00 TL",Ekonomik Menüler,-10.0
+ac05516a-0361-4d38-98b4-76d8f993e7f7,Ayvalık Tavuk Döner Menü 1,"9,00 TL",Tavuk Döner Menüleri,0.0
+2d08f70b-cafe-422b-b4ce-b7a15996f37b,Ayvalık Tavuk Döner Menü 2,"12,00 TL",Tavuk Döner Menüleri,-14.0
+751E9D8D-D097-4FD5-9DBF-963C05A938B6,Ayvalık Tavuk Döner (150 gr.) Menü 1,"14,00 TL",Tavuk Döner Menüleri,0.0
+c659380b-6883-4c5e-ae14-f7a3d22c6808,Ayvalık Tavuk Döner (150 gr.) Menü 2,"15,00 TL",Tavuk Döner Menüleri,-14.0
+dca6b3d4-d408-44ee-9493-0c7747644bb0,Kahvaltı Tabağı,"20,00 TL",Kahvaltılıklar,7.0
+7E07E949-5866-4E84-AB14-8B422D7E372A,Ayvalık Eritme Tost,"20,00 TL",Ayvalık Tostları,-18.0
+9FFD12F4-F3F0-4FB5-BEA0-5AF69402C906,Ayvalık Tavuk Dönerli Tost,"13,00 TL",Ayvalık Tostları,-18.0
+C5B562DA-7806-43D8-97B0-0F983C9E2634,Bergama Tulumlu Ayvalık Tost,"13,00 TL",Ayvalık Tostları,-18.0
+1b916464-5d3e-4ad3-b727-0d70258cc5bb,Çikolatalı Ayvalık Tostu,"8,00 TL",Ayvalık Tostları,-8.0
+540E6EEF-B7B2-485F-90B8-D749D1397EAA,Ezine Peynirli Ayvalık Tostu,"12,50 TL",Ayvalık Tostları,-8.0
+850dada3-331c-4deb-95d1-ff3e8a03a887,Mega Karışık Ayvalık Tostu,"14,50 TL",Ayvalık Tostları,-8.0
+430391cb-cacd-412c-8a26-9805f5ae7da3,Süper Ayvalık Ekmeğine Mangal Sucuk,"18,00 TL",Ayvalık Tostları,-7.0
+7af945fa-ac88-47d6-8cfd-b1dfa367f74d,Süper Kavurmalı Kaşarlı Ayvalık Tostu,"25,00 TL",Ayvalık Tostları,0.0
+f2f0fc3e-e111-49cb-b9a0-e62437411813,Ton Balıklı Ayvalık Tostu,"15,00 TL",Ayvalık Tostları,-6.0
+950b6242-6650-4a06-9c93-cca9552cc7fe,Tulum Peynirli Kaşarlı Ayvalık Tostu,"13,00 TL",Ayvalık Tostları,-9.0
+63b61e48-ecc1-45fb-8780-617dcaa03c4a,Ekmek Arası Sucuk,"14,00 TL",Ekmek Arası Ürünler & Sandviçler,1.0
+b6b0b442-7413-4a8d-864c-99f7728f10c3,Ekmek Arası Kavurma & Sucuk,"20,00 TL",Ekmek Arası Ürünler & Sandviçler,6.0
+229f56b3-797d-4247-b322-4a12c442d18e,Sosisli Patso Sandviç,"14,00 TL",Ekmek Arası Ürünler & Sandviçler,1.0
+80f35602-7e2e-4a43-a74a-a57224ff9eb0,Kavurmalı Kaşarlı Dürüm,"20,00 TL",Dürümler,9.0
+3030a1ec-9ddd-4ddb-b804-9c1ce0a7a1f9,Köfteli Kaşarlı Dürüm,"18,00 TL",Dürümler,4.0
+104e6fc6-bbb4-4ff5-b8bd-51dc22fbd947,Kumru Dürüm,"20,00 TL",Dürümler,4.0
+e70983d5-87f2-4f11-b478-135076c33d00,Pastırmalı Dürüm,"20,00 TL",Dürümler,5.0
+adde8656-0e08-4d6f-b57c-c49f027ab2a8,Patso Dürüm,"15,00 TL",Dürümler,5.0
+0d681862-a97d-4aa0-a790-2ce4ca543722,Kaşarlı Patso Dürüm,"14,00 TL",Dürümler,4.0
+d4660fc8-7ea6-46e0-8f2a-6beeb3cc6fef,Patates Kızartması,"8,00 TL",Yan Ürünler,1.0
+1560cca8-45e4-4ba8-a64b-063305e11cf7,Elma Dilim Patates Kızartması,"9,00 TL",Yan Ürünler,1.0
+26f424aa-9777-407b-920d-55f8efb62b4e,Soğan Halkası,"9,00 TL",Yan Ürünler,5.0
+73de3f54-a5d3-4105-8896-9c8da2a83240,Karışık Atıştırmalık Tabağı,"15,00 TL",Yan Ürünler,5.0
+508b27f9-fd3e-4ab9-bb09-728cfdf9e7ff,Sütlaç,"4,00 TL",Tatlılar,3.0
+fae6fb37-3c56-4aca-82cc-93760a5c0114,Sakızlı Muhallebi,"4,00 TL",Tatlılar,5.0
+11c3083a-12f8-4e0e-9a5d-9ba22ebed262,Algida Maraş Usulü Cup Dondurma (100 ml.),"6,00 TL",Tatlılar,5.0
+3bd8628e-0b4c-4e00-93d4-6f9e55927aca,Poşet,"0,25 TL",Poşet,5.0

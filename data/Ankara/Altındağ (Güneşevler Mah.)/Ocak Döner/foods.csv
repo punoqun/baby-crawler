@@ -1,0 +1,27 @@
+food_id,food_name,food_price,food_category,food_score
+f5ec6a56-d4de-41de-9d76-27f8c1dc3340,Tavuk Döner,"11,25 TL",Tavuk Dönerler,15.0
+6FAD48C1-4372-4DD3-A485-CBD356094ABA,Tavuk Döner (500 gr.),"26,25 TL",Tavuk Dönerler,15.0
+52A3B282-6262-4095-9611-2B9BA910D0C7,Tavuk Döner (1 kg.),"48,75 TL",Tavuk Dönerler,15.0
+be460615-5553-4048-b072-2aefbda88e6e,Pilav Üstü Tavuk Döner,"12,75 TL",Tavuk Dönerler,25.0
+60b176fc-c825-4af9-b818-f43b14705ba0,Hatay Usulü Soslu Tavuk Döner Dürüm,"9,75 TL",Tavuk Dönerler,27.0
+f171b594-daf3-40fa-8ce0-bf48e9214627,Ekmek Arası Tavuk Döner,"7,13 TL",Tavuk Dönerler,18.0
+39a24687-d827-45dc-905c-ab8018f5dca6,Menü 1,"15,00 TL",Menüler,21.0
+97a387ca-c382-41d3-adc9-c4a381e2526a,Menü 2,"15,00 TL",Menüler,4.0
+17cbf572-31f4-4690-9852-e9d0bd2f6eb2,Menü 3,"15,75 TL",Menüler,2.0
+2f71e688-0054-43be-9a6b-38b0c21f35d1,Menü 4,"17,25 TL",Menüler,4.0
+fa340248-a41b-4386-959d-3345ed0d02bb,Menü 5,"17,25 TL",Menüler,9.0
+3b115df5-b6c8-4b22-a1f0-98ef4f51cb3e,Menü 6,"18,75 TL",Menüler,5.0
+310fd13a-b2aa-4be6-beeb-65392989e060,Menü 7,"20,25 TL",Menüler,7.0
+1e770131-b175-44ec-8bb9-40f76e62a208,Menü 8,"16,50 TL",Menüler,5.0
+8392c1bb-0989-41a1-8e4c-e2b73e09bb52,Menü 9,"17,25 TL",Menüler,7.0
+4c4afd3c-879e-43f7-8254-a30f1542a49d,Menü 10,"15,00 TL",Menüler,11.0
+6cbc58ac-53cc-4bc2-985f-08341d437aad,Menü 11,"18,00 TL",Menüler,7.0
+0fabe51e-2da7-4dd6-a66c-0d81ba71ed44,Ekmek Arası Tavuk Döner Menü,"13,50 TL",Menüler,18.0
+92682924-f158-4e9c-bc83-efb05caa493b,Izgara Köfte,"14,25 TL",Köfteler,4.0
+dcebb626-0af6-433f-8b45-e61ba46c9777,Pilav Üstü Izgara Köfte,"15,75 TL",Köfteler,10.0
+6b274425-51a1-4142-899f-b2c1e38a9ae3,Soslu Izgara Köfte Dürüm,"12,00 TL",Köfteler,5.0
+5b957fb3-6a83-46d6-a21d-90f4cada17af,Ekmek Arası Izgara Köfte,"12,75 TL",Köfteler,7.0
+c898aa40-c6da-4124-b763-437dabe11a20,Arnavut Ciğeri,"11,25 TL",Ciğerler,7.0
+e393533a-526a-4946-b435-2b1db2400e9a,Pilav Üstü Arnavut Ciğeri,"12,00 TL",Ciğerler,13.0
+5ea78856-b03e-4f33-be72-dbf893847545,Ekmek Arası Arnavut Ciğeri,"9,75 TL",Ciğerler,10.0
+0c87b164-c8bb-4b32-979c-4e31e9f4808c,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,42 @@
+food_id,food_name,food_price,food_category,food_score
+62d3d4ae-c555-4823-92aa-24073781c555,Hot Shot Menü,"21,90 TL",Cajun Tavuk Menüler,4.0
+9eb55c4c-7054-432a-8f13-7d0185ccbbd7,Cajun Tenders Menü,"23,90 TL",Cajun Tavuk Menüler,12.0
+b06c2389-2ce1-4eb3-9a38-f5cd0aa772d1,Çıtır Kanat (6'lı) Menü,"26,90 TL",Cajun Tavuk Menüler,5.0
+b4af6428-a46e-47e7-b7fb-482fca71b1f6,Çıtır Kanat (8'li Menü),"28,90 TL",Cajun Tavuk Menüler,6.0
+d7cf75ae-12bc-4a87-bee6-310e351f6143,Çıtır Kanat (10'lu) Menü,"30,90 TL",Cajun Tavuk Menüler,5.0
+42ef6b34-c664-4379-8bb4-1e2ca2681d99,Izgara Köfte Dürüm Menü,"17,90 TL",Dürüm Menüler,4.0
+0e6ef308-b2ee-4d6f-8c4d-7d837aaf33c4,Kaşarlı Izgara Köfte Dürüm Menü,"18,90 TL",Dürüm Menüler,4.0
+79f7ace1-81a3-4039-af11-6baeee50ffdd,Cheddarlı Izgara Köfte Dürüm Menü,"19,90 TL",Dürüm Menüler,4.0
+90d341ab-5249-47e9-a569-7a6d11b4fe3e,Izgara Tavuk Dürüm Menü,"17,90 TL",Dürüm Menüler,7.0
+bd222fbc-49b0-4370-8510-12c4a1e858f5,Kaşarlı Izgara Tavuk Dürüm Menü,"18,90 TL",Dürüm Menüler,7.0
+ccd594d6-869d-4eb9-8557-73394f801c31,Cheddarlı Izgara Tavuk Dürüm Menü,"19,90 TL",Dürüm Menüler,7.0
+94c2ab33-8fe2-4d71-b351-e371e438e858,Ekmek Arası Izgara Köfte Menü,"17,90 TL",Ekmek Arası Menüler,3.0
+9d929afc-0296-48f7-94e1-5803390536a4,Ekmek Arası Kaşarlı Izgara Köfte Menü,"18,90 TL",Ekmek Arası Menüler,3.0
+97348a86-5573-468c-b0bd-8b9c149828e5,Ekmek Arası Cheddarlı Izgara Köfte Menü,"19,90 TL",Ekmek Arası Menüler,3.0
+ba8cd5a8-2c1a-4c4d-a10e-0ace4dbd42a1,Ekmek Arası Izgara Tavuk Menü,"16,90 TL",Ekmek Arası Menüler,6.0
+c83061e2-6031-4300-9e31-c2a2d8ed1fb2,Ekmek Arası Kaşarlı Izgara Tavuk Menü,"18,90 TL",Ekmek Arası Menüler,6.0
+ecfe0bd0-421d-4f54-a42e-b9ebfafd4ab2,Ekmek Arası Cheddarlı Izgara Tavuk Menü,"19,90 TL",Ekmek Arası Menüler,6.0
+68f1c583-d82a-448e-a1bc-5fcf5e2d3ed0,Cajun Burger,"21,90 TL",Burgerler,11.0
+9c43253c-70c5-4644-8751-e656b71bbbb3,Hamburger,"22,90 TL",Burgerler,29.0
+e8474b02-9bbf-4fd6-9a8c-5ed0ac50aeac,Cheeseburger,"24,90 TL",Burgerler,9.0
+0b3ff1df-d203-4632-9574-f2f69816d0f5,Double Cheeseburger,"33,90 TL",Burgerler,4.0
+8961c00e-52d6-46af-8674-4144d653f69a,Karamelize Burger,"25,90 TL",Burgerler,10.0
+bda8c61e-7a67-4263-bfa7-ec44cf4b3f57,Füme Burger,"28,90 TL",Burgerler,8.0
+89412b28-b721-4df1-a6e4-7abde4047e33,Classic Burger,"22,90 TL",Burgerler,8.0
+0f49935c-a4ea-4e86-976e-7d882bc10814,Double Classic Burger,"30,90 TL",Burgerler,8.0
+85c4620d-b1b4-4228-996c-36682eb4b2df,Texas Burger,"26,90 TL",Burgerler,8.0
+9395ea4d-484f-4c46-8385-39605c89a78b,Black Burger,"34,90 TL",Burgerler,8.0
+503bb55f-41f0-4578-bdc1-07d3dc51d335,Efsane Dürüm,"21,90 TL",Dürümler,10.0
+0080f5d6-3c35-4e25-8445-a3c68ef4fc19,Sıcak Sepet,"22,00 TL",Yan Ürünler,5.0
+2444464d-6794-4bbd-9986-243e91680ce4,Nugget (6 Adet),"9,00 TL",Yan Ürünler,5.0
+9edf6f1d-f15a-4aa2-b35d-2dc09861aa13,Soğan Halkası (6 Adet),"7,00 TL",Yan Ürünler,5.0
+a08d9200-250e-4c9a-8c1f-28aa4b6f4f8d,Sosis Tabağı (8 Adet),"9,00 TL",Yan Ürünler,5.0
+b77f2a9b-35c5-4969-a4c1-90794cd8a9fd,Patatesli Kroket (6 Adet),"10,00 TL",Yan Ürünler,5.0
+d0ab2bb1-e778-45c6-924f-6b7f55476369,Patates Kızartması,"7,00 TL",Yan Ürünler,12.0
+39316466-ef44-417c-bd5c-5195acb2e13e,Eker Profiterol,"7,00 TL",Tatlılar,5.0
+28b85b26-c56d-48b7-99f4-61c9e9f2d522,Eker Kazandibi,"7,00 TL",Tatlılar,5.0
+8182040b-4384-43e1-8eeb-6b61f6bb10dd,Eker Tavukgöğsü,"7,00 TL",Tatlılar,5.0
+c08f91d1-dbd4-4e29-a80a-3f7e5545b5b6,Eker Supangle,"7,00 TL",Tatlılar,5.0
+3b6ad26a-b0e0-4d3e-9476-d1c8718db7fd,Eker Keşkül,"7,00 TL",Tatlılar,5.0
+455d95fd-0553-4f31-acf6-53dfe3f99265,Eker Sakızlı Muhallebi,"7,00 TL",Tatlılar,7.0
+5504b6da-a76c-49d7-bd6b-4fac3ef3984a,Poşet,"0,25 TL",Poşet,5.0

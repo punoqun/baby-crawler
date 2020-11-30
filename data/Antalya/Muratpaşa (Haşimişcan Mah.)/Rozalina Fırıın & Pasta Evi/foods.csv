@@ -1,0 +1,43 @@
+food_id,food_name,food_price,food_category,food_score
+9D404B00-4A8A-4668-9179-12200B12DA71,Ekmek,"1,50 TL",Kahvaltılıklar,5.0
+513A614F-9C97-4514-B4CC-1C7C6C2CE08C,Peynirli Poğaça,"2,00 TL",Kahvaltılıklar,5.0
+1ABAA496-E89C-497A-8946-C12327918515,Çatal Böreği (Kıymalı),"6,00 TL",Kahvaltılıklar,5.0
+1E3C45FB-4183-420C-A103-855760079502,Simit,"2,00 TL",Kahvaltılıklar,5.0
+024a824a-0aa6-40cd-87bc-c4d9613f4dcd,Kaşarlı Poğaça,"2,00 TL",Kahvaltılıklar,5.0
+1bba0d80-7cd5-4c59-af7e-62bb1a6ed481,Patatesli Poğaça,"2,00 TL",Kahvaltılıklar,5.0
+bfc2aa08-309a-40b8-8fe8-13ae41a1eaad,Zeytinli Poğaça,"2,00 TL",Kahvaltılıklar,5.0
+5ED0290D-C7F7-4D17-BF7A-F8F709B3E699,Islak Kek (Dilim),"11,00 TL",Sütlü Tatlılar,5.0
+B064DABD-0825-430B-8779-0171540890C6,Ekler (Küçük),"3,00 TL",Sütlü Tatlılar,5.0
+A9F92525-AF81-49E1-A134-855B23403B7D,Ekler (Büyük),"5,00 TL",Sütlü Tatlılar,5.0
+023d5154-bc7b-41a6-a545-42a08e7c265f,Fıstıklı Baklava (250 gr.),"22,50 TL",Şerbetli Tatlılar,10.0
+25aa393a-ea2f-4dc7-9b6a-e4054411ab6e,Cevizli Baklava (250 gr.),"10,00 TL",Şerbetli Tatlılar,5.0
+ee2ea2d8-49e0-4e5d-a878-aede1084bf5b,Şöbiyet (250 gr.),"10,00 TL",Şerbetli Tatlılar,5.0
+415d6d37-b29b-4ff5-80fc-546f71562223,Kuş Gözü (250 gr.),"10,00 TL",Şerbetli Tatlılar,5.0
+4a5e5ae2-b65e-474a-b535-64ca91836728,Sarı Burma (250 gr.),"10,00 TL",Şerbetli Tatlılar,5.0
+9d1c24b9-af5c-485a-bd71-711c0adc24dc,Bülbül Yuvası (250 gr.),"10,00 TL",Şerbetli Tatlılar,10.0
+1A75316D-A9F2-41BC-8D0E-84B30E6D1D55,Fıstıklı Maraş (250 gr.),"22,50 TL",Şerbetli Tatlılar,5.0
+4bff7cf1-a5ed-4744-b445-3affdb625ee6,Çikolatalı Pasta (Dilim),"15,00 TL",Pastalar,5.0
+a4cd98d5-a27d-49ed-8c49-b40899c5919c,Meyveli Pasta (Dilim),"15,00 TL",Pastalar,5.0
+f5a975ed-6a53-4a4f-84a2-026e6a180ca7,Çikolatalı Pasta (4-6 Kişilik),"40,00 TL",Pastalar (4-6 Kişilik),10.0
+4e6cfc83-b502-409b-9e41-bb1a9b81ce51,Meyveli Pasta (4-6 Kişilik),"40,00 TL",Pastalar (4-6 Kişilik),5.0
+585f80b8-9c43-45b2-8d03-e641589ae2f2,Çikolatalı Pasta (8-10 Kişilik),"50,00 TL",Pastalar (8-10 Kişilik),5.0
+f58bf114-3df9-4ac1-ae7e-f04b5c2eda72,Meyveli Pasta (8-10 Kişilik),"50,00 TL",Pastalar (8-10 Kişilik),5.0
+8f33b502-a6fa-4e32-ae99-bb3927db913b,Tuzlu Kurabiye (500 gr.),"22,50 TL",Kiloluk Ürünler,5.0
+d214bc84-13b8-48ed-8dd4-16292b2fc7a0,Tatlı Kurabiye (500 gr.),"22,50 TL",Kiloluk Ürünler,5.0
+28fb4945-63b7-4a89-9016-373ffd2e960e,Tuzlu Kurabiye (1 kg.),"45,00 TL",Kiloluk Ürünler,5.0
+a9215b04-e124-46b4-a33f-46f4e47286ae,Tatlı Kurabiye (1 kg.),"45,00 TL",Kiloluk Ürünler,5.0
+a68f6a00-cfe4-4165-b5cf-7337ef7c3495,Fıstıklı Baklava (500 gr.),"45,00 TL",Kiloluk Şerbetli Tatlılar,5.0
+1240f6cd-61d2-452c-aa2f-005e9c2e4650,Cevizli Baklava (500 gr.),"20,00 TL",Kiloluk Şerbetli Tatlılar,5.0
+5215ed36-6e5e-47e8-aaec-451944d32a42,Şöbiyet (500 gr.),"20,00 TL",Kiloluk Şerbetli Tatlılar,5.0
+a80b5d68-eb14-49a8-bafe-9f6724983cfe,Kuş Gözü (500 gr.),"20,00 TL",Kiloluk Şerbetli Tatlılar,5.0
+b0182621-027d-4c08-854e-70e69726aa9d,Sarı Burma (500 gr.),"20,00 TL",Kiloluk Şerbetli Tatlılar,5.0
+5c224f59-f64b-4a81-b3bd-fa2f51c2cb59,Bülbül Yuvası (500 gr.),"20,00 TL",Kiloluk Şerbetli Tatlılar,5.0
+e8e36cc6-edd8-4a6f-8b85-f1c054f67c05,Fıstıklı Baklava (1 kg.),"90,00 TL",Kiloluk Şerbetli Tatlılar,5.0
+6ce0743e-67a5-4556-bc7c-9feca9597e4f,Cevizli Baklava (1 kg.),"40,00 TL",Kiloluk Şerbetli Tatlılar,5.0
+a60adbc9-5a05-4251-8c88-52efde1d0143,Şöbiyet (1 kg.),"40,00 TL",Kiloluk Şerbetli Tatlılar,5.0
+bebec7f7-953c-4ce9-8b18-452bdd147379,Kuş Gözü (1 kg.),"40,00 TL",Kiloluk Şerbetli Tatlılar,5.0
+ef4712f7-5de6-48dc-9256-42b34b766cc7,Sarı Burma (1 kg.),"40,00 TL",Kiloluk Şerbetli Tatlılar,5.0
+58f5d345-3bf1-49f7-83f4-f867773718fd,Bülbül Yuvası (1 kg.),"40,00 TL",Kiloluk Şerbetli Tatlılar,5.0
+DF4BE3C5-B7C6-4DDC-8176-A23CC3E5B999,Fıstıklı Maraş (1 kg.),"90,00 TL",Kiloluk Şerbetli Tatlılar,5.0
+96569390-8B4F-4D07-B6E1-5B326654C83F,Fıstıklı Maraş (500 gr.),"45,00 TL",Kiloluk Şerbetli Tatlılar,5.0
+2dc779e3-e6f1-46fe-bfb3-f4d0e5253c52,Poşet,"0,25 TL",Poşet,5.0

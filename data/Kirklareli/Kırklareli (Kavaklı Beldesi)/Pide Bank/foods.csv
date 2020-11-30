@@ -1,0 +1,20 @@
+food_id,food_name,food_price,food_category,food_score
+d8a5f4ac-dbb4-49ea-9755-7e640527ee4a,Kavurmalı Pide,"25,00 TL",Özel Pideler,8.0
+0e9ca56d-2dde-4d75-a2e4-c7f31b436fbf,Kıymalı Kaşarlı Pide,"20,00 TL",Özel Pideler,5.0
+23f5168a-259b-452c-a83c-ddfe4fe9412c,Kıymalı Yumurtalı Pide,"20,00 TL",Özel Pideler,5.0
+4c55473e-f671-4aa4-8295-4d7d8455634d,Kaşarlı Sucuklu Pide,"20,00 TL",Özel Pideler,6.0
+F3A26482-4993-4F05-84D2-0EAEB7902CE1,Trabzon Yağlısı Pide,"28,00 TL",Özel Pideler,6.0
+22f12f8f-1093-402a-a2c7-f8fd4a432ca2,Kıymalı Pide,"18,00 TL",Özel Pideler,5.0
+0899c480-2e3c-4c93-87fc-d7bf1daa3086,Kaşarlı Pide,"18,00 TL",Özel Pideler,6.0
+89999e2f-0eb4-41c3-ae3a-c05aae4d5c53,Karışık Pide,"22,00 TL",Özel Pideler,5.0
+02969287-1f9d-4d5e-82fb-a19292abd0ea,Kaşarlı Sucuklu Pide (Küçük),"5,00 TL",Açık Pideler,6.0
+05963286-4f77-44d3-8b68-0359d2721021,Karışık Pide (Küçük),"5,00 TL",Açık Pideler,5.0
+5294ae7a-1ad5-4ef5-a582-e61cf32c3b09,Kıymalı Kaşarlı Güveç Pide (Yuvarlak),"5,00 TL",Açık Pideler,10.0
+70ced234-b04a-4152-a488-9ad81cc75e66,Kavurmalı Pizza (1 Kişilik),"9,75 TL",Açık Pideler,7.0
+de6e086f-5b47-4b9e-9e9a-eb45e5ed7a0a,Tavuklu Kaşarlı Pide (Açık),"5,00 TL",Açık Pideler,6.0
+E30A09DF-E5F2-4A57-BF37-1B3EF813FBA3,Kıymalı Yumurtalı Güveç Pide (Açık),"5,50 TL",Açık Pideler,5.0
+43cb9e29-20d8-4500-85d7-cea2822525c0,Kıymalı Kır Pidesi,"3,00 TL",Kır Pideleri,12.0
+afaed5ff-3338-4281-b550-899fbd826290,Patatesli Kır Pidesi,"3,00 TL",Kır Pideleri,13.0
+4c6103cb-10db-4a8e-a2be-a2e45e625860,Peynirli Kır Pidesi,"3,00 TL",Kır Pideleri,8.0
+168d00cd-a287-49d7-bf7e-beb4ba49361b,Su,"2,00 TL",İçecekler,5.0
+2d9800d8-db84-436f-8434-1c7b97257df3,Limonata,"2,50 TL",İçecekler,5.0

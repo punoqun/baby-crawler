@@ -1,0 +1,34 @@
+food_id,food_name,food_price,food_category,food_score
+c42fd012-5541-4994-b695-3654590e7442,Menü 1,"45,90 TL",Menüler,5.0
+10360052-83d8-4d72-8481-693a2e10af58,Menü 2,"29,90 TL",Menüler,6.0
+0f2c737e-758b-478e-8d7d-d4dbcbd0832c,Menü 3,"40,90 TL",Menüler,7.0
+5a30f847-41db-48c9-992c-2cc52fdb31ef,Damar Çorbası,"25,00 TL",Çorbalar,5.0
+077f6cd6-1fc3-4763-b424-4d308d0c9851,Yarım Ekmek Arası Közde Kokoreç,"20,00 TL",Kokoreçler,10.0
+17ab05fb-2cc6-44a5-8bad-b4c6b3b1f1d1,Yarım Ekmek Arası Közde Double Kokoreç,"38,00 TL",Kokoreçler,5.0
+2f6eeecf-6818-45a5-98bf-047dac3d21c6,Yarım Ekmek Arası Sade Kokoreç,"25,00 TL",Kokoreçler,5.0
+48aa2c32-d3e7-481a-b79e-75be5df0ec7b,Yarım Ekmek Arası Közde İzmir Kokoreç,"25,00 TL",Kokoreçler,10.0
+59d413d1-6ad0-40a1-8d46-e62bf491e2fb,Çeyrek Ekmek Arası Kokoreç,"14,00 TL",Kokoreçler,5.0
+62b73431-1e7f-4c7d-aee8-6bfe69c27e10,Yarım Ekmek Arası Kokoreç,"20,00 TL",Kokoreçler,5.0
+719f0bd2-01af-45e8-8f9d-141d4b530dd1,Çeyrek Ekmek Arası Közde İzmir Kokoreç,"17,00 TL",Kokoreçler,5.0
+7ebaa9bf-4e31-4b18-b9d5-f5b89172bcde,Kokoreç Dürüm,"25,00 TL",Kokoreçler,7.0
+9c15def4-353c-468d-8119-3e1e4b812f78,Çeyrek Ekmek Arası Közde Kokoreç,"14,00 TL",Kokoreçler,5.0
+9ea06c44-ca3e-401a-af5b-a4c97ae9b0ef,Kokoreç,"45,00 TL",Kokoreçler,7.0
+c60c5a75-6a79-42b1-bb4b-a7bf9da1d9d2,Çeyrek Ekmek Arası Sade Kokoreç,"17,00 TL",Kokoreçler,5.0
+cd311751-f54e-4146-ba8e-0f503916be49,Yarım Ekmek Arası Double Kokoreç,"38,00 TL",Kokoreçler,5.0
+2f3be9b0-3259-4ab8-8b9e-724dea97bfe1,Izgara Sucuk,"28,00 TL",Izgaralar,5.0
+9be312dc-2e04-4ea3-b667-b03311cba41c,Izgara Köfte,"28,00 TL",Izgaralar,7.0
+24f6691f-1aec-4cd1-aa7a-f664a06f3884,Yarım Ekmek Arası Midye Tava,"20,00 TL",Midyeler,7.0
+28f01cfe-f939-4ee0-84d1-8ae1eb42eb9f,Midye Tava (4 Şiş),"23,00 TL",Midyeler,9.0
+455f1f3e-512f-4e68-8eff-e330c22582fd,Çubuk Tava,"7,00 TL",Midyeler,5.0
+54112a0f-0f2d-47fa-8dd7-05b609c1807f,Midye Dolma (Adet),"1,50 TL",Midyeler,14.0
+8cc38c9d-7f76-4fdf-8705-3e3437bb00e3,Midye Tava Sandviç,"15,00 TL",Midyeler,9.0
+8d432611-9d0f-4d25-9f14-f0cda7e7bf0c,Midye Dolma (8 Adet),"12,00 TL",Midyeler,9.0
+f0f36a2c-3530-4cf4-af0c-c77693f39d9d,Çeyrek Ekmek Arası Midye Tava,"15,00 TL",Midyeler,7.0
+06a3e36d-27c6-490d-b99c-d1e024ec2303,Yarım Ekmek Arası Sucuk,"18,00 TL",Ekmek Arası Ürünler,3.0
+4a8caa9a-19c7-4dfc-b42a-189d3b7ef5d9,Yarım Ekmek Arası Köfte,"20,00 TL",Ekmek Arası Ürünler,5.0
+097709A0-9895-428C-B70F-1479491DF413,Yarım Ekmek Arası Palamut,"20,00 TL",Ekmek Arası Ürünler,3.0
+1b6b0d25-e529-413c-9668-57193abf933b,Adana Usulü Şırdan Dolması,"20,00 TL",Diğer Lezzetler,7.0
+6a1d3a61-e8e1-4893-8eb9-89d1752e1112,Tereyağlı Mumbar Dolması,"32,00 TL",Diğer Lezzetler,6.0
+de97263e-39f4-434c-a3af-32f61becb2d8,Patates Kızartması,"15,00 TL",Yan Ürünler,5.0
+2200AD64-C532-466A-B367-052DE05C29A2,Hayrabolu Peynir Tatlısı,"12,00 TL",Tatlılar,5.0
+fe9b5e24-d437-4af8-9d99-d36fe21bf051,Poşet,"0,25 TL",Poşet,5.0

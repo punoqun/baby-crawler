@@ -1,0 +1,27 @@
+food_id,food_name,food_price,food_category,food_score
+01d261ba-2f8e-4dd0-a70a-124454e1ed71,İşkembe Paça Çorbası,"28,00 TL",Çorbalar,5.0
+618c8cb6-1fef-44b7-b330-070cfc8d7ac7,Ekmek Arası Izgara Köfte,"17,00 TL",Ekmek Arası Ürünler,5.0
+8ddeb400-e4fe-46aa-b5d6-e7f44f85973c,Adana Dürüm,"20,00 TL",Dürümler,10.0
+a8111d96-a0fe-459d-8fdd-94fe0e9c3df6,Urfa Dürüm,"20,00 TL",Dürümler,7.0
+776abfe9-f021-4ab3-806d-34041edc37fd,Dana Ciğer Dürüm,"20,00 TL",Dürümler,12.0
+147c2970-9448-4db9-b953-9cf5e8fd0e39,Köfte Dürüm,"17,00 TL",Dürümler,5.0
+11d17e8f-beca-4d83-adf1-0b723e41ac08,Et Şiş Dürüm,"25,00 TL",Dürümler,5.0
+c03622cd-fe1c-4511-94d0-1f4af9534614,Kuzu Ciğer Dürüm,"28,00 TL",Dürümler,5.0
+477254dc-768d-4780-9e03-84d1b816f24e,Tavuk Şiş Dürüm,"17,00 TL",Dürümler,10.0
+7be9f53f-d429-43e2-89f6-7674818caed5,Adana Kebap,"35,00 TL",Kebaplar & Izgaralar,5.0
+af39755f-4b23-4e3a-b2f6-2a1daf17fe25,Urfa Kebap,"35,00 TL",Kebaplar & Izgaralar,7.0
+4fbe684e-9f2a-45aa-b73c-076b725d90a7,Ciğer Şiş Kebap,"33,00 TL",Kebaplar & Izgaralar,5.0
+cf2dba17-884c-4c90-abe6-1811c904bdce,Et Şiş Kebap,"38,00 TL",Kebaplar & Izgaralar,5.0
+cf9ad728-eb0d-4ef2-a9da-2b1d72e0faae,Patlıcan Kebabı,"38,00 TL",Kebaplar & Izgaralar,5.0
+7d8f67ff-4080-4a85-8ff9-4b2d292bde5c,Kuzu Ciğer Şiş,"48,00 TL",Kebaplar & Izgaralar,5.0
+1e07d449-5b2c-44f7-a677-f34e014205e7,Tavuk Şiş,"28,00 TL",Kebaplar & Izgaralar,5.0
+a5f9034c-49f8-4b30-bae9-50587cca013b,Izgara Tavuk Kanat,"30,00 TL",Kebaplar & Izgaralar,5.0
+85147849-9ac0-492c-9603-87b9d3a2c30b,Izgara Köfte,"33,00 TL",Kebaplar & Izgaralar,5.0
+dc511a7f-2d3b-49fc-b157-2365e517d46c,Lavaş (Adet),"1,50 TL",Yan Ürünler,5.0
+cd65b083-7794-4e4e-a751-7ac5eb804aee,Tırnak Pide,"1,50 TL",Yan Ürünler,5.0
+1a4f245d-7381-4ffe-9abb-ca8fc8cb994c,Kaşık Salata,"13,00 TL",Salatalar,5.0
+1a7e6311-7ac8-40b3-9196-7bccb8adfbb1,Çoban Salata,"10,00 TL",Salatalar,5.0
+8cbef314-695e-48a8-8b7a-5488ef0fdad5,Künefe,"10,00 TL",Tatlılar,5.0
+dcc6ce74-2c5b-45fd-88ea-21934f18a3a2,Sütlaç,"10,00 TL",Tatlılar,5.0
+b50cc833-5289-4e8f-a81f-08975be2d080,Yayık Ayranı,"5,00 TL",İçecekler,5.0
+62ab76aa-41a1-4694-809f-2afb457c0f29,Poşet,"0,25 TL",Poşet,5.0

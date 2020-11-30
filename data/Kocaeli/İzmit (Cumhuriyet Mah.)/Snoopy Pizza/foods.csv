@@ -1,0 +1,47 @@
+food_id,food_name,food_price,food_category,food_score
+a0956359-6834-424e-b1be-579430c7747c,Fingers Menü,"23,90 TL",Menüler,10.0
+45953637-aeea-458e-a87e-2328af66be2b,Orta Boy Pizza Menü,"39,90 TL",Menüler,16.0
+53aa60e6-77af-4173-be20-cdc0e5b2bee5,Büyük Boy Pizza Menü,"49,90 TL",Menüler,16.0
+0cdb5e2a-f8ee-4bbe-ba55-85094c0f618b,Murphy Menü,"23,90 TL",Menüler,11.0
+50a2f561-ca94-4a53-9cfb-600567ce76f2,Bungo Menü,"23,90 TL",Menüler,11.0
+08b344b2-c624-4bd4-ad50-8bae7dae6c89,Alt Menü,"24,90 TL",Menüler,16.0
+8c190d4d-5a39-46bd-9704-d2ff9c31aea7,Eko Menü,"18,50 TL",Menüler,11.0
+91e219ba-0125-4bfe-9077-a5f28fc15ede,Ortapanya Menü,"29,90 TL",Menüler,11.0
+4829aa5a-4549-42ab-917a-4e3f74aa0422,Ultra Menü,"49,90 TL",Menüler,11.0
+23c77ee1-2871-4bfb-9ba6-9b402dc84266,Grande Menü,"59,90 TL",Menüler,11.0
+61ed5883-d8c7-4e73-8b22-34a6d9954a1a,Büyükpanya Menü,"39,90 TL",Menüler,11.0
+d8f65887-028e-44e2-8fff-d78083dcbc3b,Extra Menü,"28,90 TL",Menüler,11.0
+6f1f9592-9c43-47ae-a6f4-dff82ebac7ee,Mix Menü,"23,90 TL",Menüler,18.0
+30a5396b-dfe9-45db-afc9-71e940767375,BizBize Menü 1,"69,90 TL",Menüler,38.0
+1bf9fb40-1229-4cde-8eab-dfb133a6bd84,BizBize Menü 2,"59,90 TL",Menüler,15.0
+cf3a5155-0222-448b-8afc-cdc64b94bc9b,2'li Orta Boy Pizza Menü,"51,90 TL",Menüler,16.0
+6c3987b7-c352-49a4-bf91-91e1d8559acd,Karışık Pizza (Küçük),"16,90 TL",Küçük Boy Pizzalar (1 Kişilik),11.0
+852435b0-a263-4a14-842b-c33d733e48b6,Mantarlı Pizza (Küçük),"16,90 TL",Küçük Boy Pizzalar (1 Kişilik),11.0
+a7877c7a-840c-4d8e-afa8-d6cceffb73d0,Margherita Pizza (Küçük),"16,90 TL",Küçük Boy Pizzalar (1 Kişilik),11.0
+37dfe78a-2cd0-4406-99bc-6d629cdf5281,Veggie Pizza (Küçük),"16,90 TL",Küçük Boy Pizzalar (1 Kişilik),12.0
+2a1d8ec6-086b-4559-9367-07e93ca7f22f,Karışık Pizza (Orta),"27,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),11.0
+228cd45a-c66b-4f4c-84e5-8c0a41a7edf8,Mantarlı Pizza (Orta),"27,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),11.0
+3f3ae8ee-c0ca-4546-bcbb-cce9901d4516,Margherita Pizza (Orta),"27,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),11.0
+2a38debb-4a42-4c0d-ad5f-40945398a6a5,Veggie Pizza (Orta),"27,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),12.0
+737C2011-E33A-4817-AC36-FFC635A2919F,BBQ Chicken Pizza (Büyük),"39,50 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),12.0
+2eba6cef-643f-4547-b53e-40d155edcd86,Karışık Pizza (Büyük),"37,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),16.0
+5d48267d-a94a-4d38-a89c-7281ccb1b2c9,Mantarlı Pizza (Büyük),"37,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),11.0
+c8b475a3-244f-419c-92b8-d5e5a8e56c7b,Margherita Pizza (Büyük),"37,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),11.0
+ba1844c4-2796-4f4f-b171-881521789685,Veggie Pizza (Büyük),"37,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),12.0
+8cf44f4d-2614-4ed8-8568-1b9c8186c5c5,Elma Dilim Patates Kızartması,"14,90 TL",Yan Ürünler,0.0
+B406EC55-C990-4DBA-9001-09EB16ACED48,Chicken Morfel (5 Adet),"10,00 TL",Yan Ürünler,5.0
+84F3A4A3-1974-4B36-A6EE-6B8AC1DA4471,Chicken Morfel (10 Adet),"17,00 TL",Yan Ürünler,5.0
+a14c937e-b4c3-4fc2-810e-5d8cef64c7ba,Patates Kızartması,"11,00 TL",Yan Ürünler,0.0
+9e20bb48-85df-405e-9730-c1695c964682,Chicken Fingers (3 Adet),"15,00 TL",Yan Ürünler,4.0
+33d9cd8a-d866-4109-bfca-b393329b2992,Chicken Nuggets (3 Adet),"8,00 TL",Yan Ürünler,5.0
+cccfcc6b-1695-4300-ab56-76e87a00795d,Chicken Nuggets (6 Adet),"15,00 TL",Yan Ürünler,5.0
+e3889c59-96bf-4045-9e74-4394ef2ea4b0,Fırında Mantar,"14,90 TL",Yan Ürünler,4.0
+cb1e461d-b373-4986-8575-406f9f4a2925,Soğan Halkası (10 Adet),"12,00 TL",Yan Ürünler,5.0
+fa5381d7-5c5e-4057-a36f-8b84e53c6be9,Mozzarellalı Sarımsaklı Ekmek (3 Adet),"12,00 TL",Yan Ürünler,5.0
+271bc035-b804-4b39-a5e0-899ab6996189,Mozzarellalı Sucuklu Ekmek (3 Adet),"15,00 TL",Yan Ürünler,5.0
+177534a2-ae9f-4455-bd9e-a7842723c289,Soğan Halkası (3 Adet),"5,50 TL",Yan Ürünler,5.0
+587283ac-c61f-436f-a3df-d48ea8503663,Sufle,"11,90 TL",Tatlılar,7.0
+3da8b745-faba-4949-83dd-17cc1e3ce1c9,Su,"1,50 TL",İçecekler,13.0
+99cfce3a-9732-46ad-a0f3-c1ac39cd2bb0,Fruko (1 L.),"8,00 TL",İçecekler,7.0
+70b5db52-6fab-49a3-b0d9-334d6934e266,Morfel Sos,"1,50 TL",Ekstralar,5.0
+29cc3e78-0ddb-4217-b0c4-39aaa84689b5,Poşet,"0,25 TL",Poşet,5.0

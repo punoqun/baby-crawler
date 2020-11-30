@@ -1,0 +1,62 @@
+food_id,food_name,food_price,food_category,food_score
+16a172bc-3de6-4418-9b05-e40483156564,Çiğ Köfte Dürüm Menü,"6,00 TL",Menüler,8.0
+1c9fbaf3-91e1-466f-be89-d833c99fbae3,Çiğ Köfte (800 gr.) Menü,"33,00 TL",Menüler,3.0
+29af6f12-1cf0-4345-a8a1-a37f67a931f4,5'li Çiğ Köfte Dürüm Menü,"26,25 TL",Menüler,3.0
+5493c302-83e2-4c24-848c-8cbc6c60279e,3'lü Çiğ Köfte Dürüm Menü,"16,50 TL",Menüler,3.0
+baa7e599-7962-4919-87da-547b1bf28ab1,Çiğ Köfte (600 gr.) Menü,"24,00 TL",Menüler,3.0
+9040eb94-f852-4c5c-ba79-aa212ed23535,Çiğ Köfte Dürüm,"4,50 TL",Çiğ Köfteler,9.0
+c707f625-b858-443c-ac89-445f01047393,Kendi Çiğ Köfte Dürümünü Kendin Yarat,"4,50 TL",Çiğ Köfteler,4.0
+74ee3bb7-86b4-4b25-8a30-b4246b07a1b5,Atom Çiğ Köfte Dürüm (Mega),"6,75 TL",Çiğ Köfteler,9.0
+e51881ac-f893-4595-bdf8-1da5dc6ae4bf,Çiğ Köfte (200 gr.),"7,50 TL",Çiğ Köfteler,4.0
+bf26a055-5f4f-4c6f-ba06-c2409eef73b7,Çiğ Köfte (400 gr.),"13,88 TL",Çiğ Köfteler,4.0
+35f11d2f-f76c-4e27-b777-e9a7aaf28750,Çiğ Köfte (600 gr.),"22,50 TL",Çiğ Köfteler,4.0
+08867c3b-2ca2-4d6e-8232-91d60ad6fcf0,Çiğ Köfte (800 gr.),"30,00 TL",Çiğ Köfteler,4.0
+af637e4d-96ca-452b-a46a-8d128c9203f5,Çiğ Köfte (1 kg.),"37,50 TL",Çiğ Köfteler,4.0
+1bc4a76c-95f4-45b0-8101-1a94259d560b,Kaşarlı Tost,"7,50 TL",Tostlar & Sandviçler,5.0
+5911f5c2-a03d-4eb3-913f-588fa867260d,Karışık Tost,"9,00 TL",Tostlar & Sandviçler,5.0
+6fcf6fe2-eaa5-4404-897b-2ed3774e2e2f,Atom Tost,"9,75 TL",Tostlar & Sandviçler,5.0
+c817b860-e160-49ca-a691-506da4a0ca03,Süper Karışık Tost,"11,25 TL",Tostlar & Sandviçler,7.0
+73fc15e3-98d6-4fe3-9bd8-ff4ce2ac0e6d,Patso Sandviç,"5,63 TL",Tostlar & Sandviçler,5.0
+39b334a5-1d1f-476e-a0b9-268143d0932c,Kaşarlı Patso Sandviç,"6,38 TL",Tostlar & Sandviçler,5.0
+7b5f7b85-3039-44f8-9bc9-31cc471777b2,Zeytinyağlı Yaprak Sarma (180 gr.),"11,25 TL",Zeytinyağlılar,5.0
+4f1d122b-7694-4801-9838-f5a162b06011,Zeytinyağlı Yaprak Sarma (250 gr.),"15,00 TL",Zeytinyağlılar,5.0
+99823ce3-5867-4e55-b6b7-e36898c8cfb9,Zeytinyağlı Yaprak Sarma (340 gr.),"18,75 TL",Zeytinyağlılar,5.0
+8ea2e685-6c02-4e2d-aeff-aca30726f6dd,Zeytinyağlı Yaprak Sarma (420 gr.),"22,50 TL",Zeytinyağlılar,5.0
+35dd9820-432d-446a-994d-e1a6e759ec34,Zeytinyağlı Yaprak Sarma (500 gr.),"26,25 TL",Zeytinyağlılar,5.0
+0e520662-7758-4889-997a-e987832fe65c,Zeytinyağlı Yaprak Sarma (670 gr.),"30,00 TL",Zeytinyağlılar,5.0
+4933bad7-e866-4a05-8ead-8fe18007e0af,Zeytinyağlı Yaprak Sarma (840 gr.),"37,50 TL",Zeytinyağlılar,5.0
+528f66dd-10a6-4d83-aea3-3a787ccaf11e,Zeytinyağlı Yaprak Sarma (1 kg.),"45,00 TL",Zeytinyağlılar,5.0
+bc5b4743-3b4f-4b96-9f7c-a511fcd93f53,Zeytin Salatası,"7,50 TL",Mezeler,5.0
+f9e4963e-7782-4751-811d-98b6aa5225b2,Humus,"7,50 TL",Mezeler,5.0
+fc74af0a-86c7-4eea-b24f-d011e8f8b115,Atom,"7,50 TL",Mezeler,5.0
+3dfa6271-71eb-4629-968f-fc587a4277dd,Ezme,"7,50 TL",Mezeler,5.0
+7883ba90-f5c0-4e68-9768-ed65fc39aa0e,Şakşuka,"7,50 TL",Mezeler,5.0
+0f788082-2254-443f-ab09-b2207b362bbd,Haydari,"7,50 TL",Mezeler,5.0
+0366bad0-7819-45f6-acce-167ba2698a77,Patlıcan Salatası,"7,50 TL",Mezeler,5.0
+047a94bb-4249-454e-bb85-e80266aed96f,Kızartma İçli Köfte (Adet),"3,75 TL",Yan Ürünler,5.0
+cc896ecc-03fa-4275-b7a3-86f2ae51caac,Kızartma İçli Köfte (5 Adet),"16,88 TL",Yan Ürünler,5.0
+e56a39b3-9eea-466e-ada0-c13cf4dca1f0,Kızartma İçli Köfte (10 Adet),"33,75 TL",Yan Ürünler,5.0
+34e82e71-0ac5-4c5f-9012-b3c7cce677cc,Soğan Halkası (8 Adet),"5,63 TL",Yan Ürünler,5.0
+8f5ce7e5-a52f-49e7-83fa-41bb863b64cf,Nugget (6 Adet),"5,63 TL",Yan Ürünler,5.0
+0e74b49a-ebf8-42b0-bf40-3204c75b3a55,Patates Kızartması,"6,75 TL",Yan Ürünler,7.0
+4d79f219-f3fc-4e32-8cf9-905493a5d271,Nar Ekşisi Sos,"0,75 TL",Ekstralar,6.0
+e0384bfd-2d2f-4000-bf41-ebbd96bcff75,Lavaş (Adet),"0,75 TL",Ekstralar,5.0
+e6e90b8d-1ee4-4c32-9cdf-83b1ffff2a6a,Bella Pasta,"11,25 TL",Tatlılar,5.0
+f3137913-b7f8-4d8a-81a7-9d3245da0c84,Ekler (6 Adet),"9,00 TL",Tatlılar,5.0
+903c2d22-b211-4ae2-a767-e9aff84ea348,Ekler (Adet),"1,88 TL",Tatlılar,5.0
+4e551942-2217-47ab-a7c6-90806c5fc866,Frambuazlı Cheesecake,"9,00 TL",Tatlılar,5.0
+981e2653-a8b9-4679-936c-1078e77adcdf,Kazandibi,"5,63 TL",Tatlılar,5.0
+ad11562f-3236-4fcc-bd80-206dff3e7182,Limonlu Cheesecake,"9,00 TL",Tatlılar,5.0
+2ecc6ad5-d700-456b-ac1b-fb336e41989b,Mozaik Pasta,"5,63 TL",Tatlılar,5.0
+1315a06a-f2bf-4e4a-a3af-56f48c663dd7,Profiterollü Pasta,"9,00 TL",Tatlılar,5.0
+0766c1d9-aacd-43d4-b07d-6f7cd8985ec7,Sufle,"9,00 TL",Tatlılar,5.0
+d9ec5bfe-2e6a-4df8-bcbb-cb10ca6848bc,Tiramisu,"9,00 TL",Tatlılar,5.0
+d19e6b6b-7ba7-4a0d-bb5b-55985f0957db,Zafer Gazoz (20 cl.),"2,25 TL",İçecekler,5.0
+4295b22d-c3a8-434d-9e6e-0a5e13e15ec4,Elvan Gazoz (25 cl.),"2,25 TL",İçecekler,5.0
+0e50fe70-3d80-409a-8e1b-0d8c596b3f46,Doğanay Şalgam Suyu (33 cl.),"3,00 TL",İçecekler,5.0
+d63579ac-48ba-4fc5-b87d-ef9c96c5b761,Su,"1,50 TL",İçecekler,5.0
+38cf89e2-f035-4822-b148-64b515b4643d,Fruko (1 L.),"5,25 TL",İçecekler,5.0
+c173e122-dcc9-4778-baea-a7c9a463d1c3,Cappy (1 L.),"5,25 TL",İçecekler,5.0
+ea64d560-8fb2-401e-a942-d934e884afe7,Meysu (1 L.),"5,63 TL",İçecekler,5.0
+ce9b6dd9-64d3-4bd7-8bdb-ec4ebf28bd94,Doğanay Şalgam Suyu (1 L.),"5,25 TL",İçecekler,5.0
+e177d3de-22cc-49a3-8059-e2504525659c,Poşet,"0,25 TL",Poşet,5.0

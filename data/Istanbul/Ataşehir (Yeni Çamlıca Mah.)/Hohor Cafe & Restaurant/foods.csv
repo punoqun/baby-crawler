@@ -1,0 +1,51 @@
+food_id,food_name,food_price,food_category,food_score
+0107808E-2047-47C7-A0C6-4952857356F7,Hohor Special Tavuk Menü,"35,00 TL",Menüler,9.0
+1DB555FD-4B17-4D9D-8905-87E47C79D1D7,Hohor Special Burger Menü,"35,00 TL",Menüler,14.0
+40964872-C970-424B-A018-FB6E8C644A3A,Tavuk Döner Dürüm Menü,"25,00 TL",Menüler,7.0
+B7CD5208-0945-41AD-A8C4-39B578FDB22E,Et Döner Dürüm Menü,"30,00 TL",Menüler,5.0
+8BD43BDA-29B9-48FC-848A-6B9CE25DE4DC,Tavuk Schnitzel Menü,"35,00 TL",Menüler,7.0
+789ae08e-b1b4-4933-bfb7-b4d6ce211d75,Patates Kızartması,"20,00 TL",Aperitifler,5.0
+25f0b2d2-ee35-4277-885e-96fa2bcede5b,Cheddar Fries,"22,50 TL",Aperitifler,5.0
+16f95c75-0ff9-40e4-9d5f-b638a630b545,Soğan Halkası (8 Adet),"22,00 TL",Aperitifler,5.0
+2675cd7d-ec8d-4bc0-8615-b247ce55d3f7,Sigara Böreği (10 Adet),"20,00 TL",Aperitifler,5.0
+f52c8656-d358-4b48-b96c-df6b6a1842c9,Cajun Basket,"30,00 TL",Aperitifler,5.0
+6c918f04-598c-4afd-bcca-94da82c3b167,Sosis Tabağı,"22,00 TL",Aperitifler,5.0
+0922a540-d2e1-4e58-b7b1-27f787f1dc8a,Tavuklu Çökertme Kebabı,"34,00 TL",Kırmızı Etler,4.0
+4790ea1b-1ed3-400a-8fe1-81e899b9cc19,Yoğurtlu Kebap (Köfteden),"35,00 TL",Kırmızı Etler,5.0
+1c1d00ef-af39-4edf-9c21-fe435b6a33dd,BBQ Soslu Tavuk,"34,00 TL",Beyaz Etler,7.0
+94ebc27f-1f56-4b3a-84a7-9342d320c735,Beğendili Tavuk,"34,00 TL",Beyaz Etler,7.0
+dc4d6d3a-e05d-49e7-ba04-ad25e86c4646,Café de Paris Soslu Tavuk,"34,00 TL",Beyaz Etler,73.0
+45ee0e14-df9c-455d-bddb-be6edde73299,Chili Soslu Tavuk,"34,00 TL",Beyaz Etler,7.0
+4ef3d807-4bf6-4861-9084-b4b9a3c62692,Fesleğen Soslu Tavuk,"34,00 TL",Beyaz Etler,7.0
+87f7587a-c67a-4fef-bbc4-a97f313dec39,Mantar Soslu Tavuk,"34,00 TL",Beyaz Etler,7.0
+60934525-eb80-4579-ab7b-9553b382597e,Meksika Soslu Tavuk,"34,00 TL",Beyaz Etler,9.0
+8eff5c85-2dd3-4121-a892-23d403a29e6f,Soslu Tavuk Şnitzel,"34,00 TL",Beyaz Etler,12.0
+3e4448b6-3a55-4e54-88ce-aca6b5aca27c,Soya Soslu Tavuk,"34,00 TL",Beyaz Etler,7.0
+67d77dfc-5c5d-4d86-8624-e34700640f35,Tavuk Marsala,"34,00 TL",Beyaz Etler,7.0
+c8062a2c-5389-407a-9b78-186d4b13e34f,Tavuk Şnitzel,"34,00 TL",Beyaz Etler,7.0
+ff27473c-ba59-49eb-a405-39a1569b536e,Spaghetti Napolitan,"27,50 TL",Makarnalar,5.0
+bee1f133-1258-4f31-ac73-2e2df316bb13,Maccoroni And Cheese,"30,00 TL",Makarnalar,5.0
+1dba74e7-0d22-48f7-a9ae-a512fac7ee5e,Köri Soslu Alfredo,"30,00 TL",Makarnalar,5.0
+ec78c386-bd93-4f28-9f0a-2f5a32d58437,Penne all'Arrabbiata,"28,00 TL",Makarnalar,5.0
+45e03616-a5a8-402d-8581-d804141aaa7c,Pesto Penne,"28,00 TL",Makarnalar,5.0
+334e3d6b-28e8-4a90-ac83-e3d3e10afa40,Spaghetti Bolognese,"30,00 TL",Makarnalar,5.0
+a2dc6835-9ea9-468f-9243-92bc6af510ae,Fettuccine Alfredo,"30,00 TL",Makarnalar,5.0
+235b1cae-61ca-42ff-916f-d5417361ca4b,Meksikan Burger,"32,00 TL",Burgerler,7.0
+01e7fcf4-a480-4f3d-b5f3-80665aeda0c5,BBQ Burger,"32,00 TL",Burgerler,7.0
+dffb07e2-0bcb-4496-857f-29cd636d5692,Cheeseburger,"32,00 TL",Burgerler,5.0
+390688ab-b18b-429b-ad5e-1dd6b59d41e9,Mushroom Burger,"32,00 TL",Burgerler,7.0
+bdcd9304-279f-4677-861b-6ee2f4c9de76,Chicken Burger,"27,50 TL",Burgerler,9.0
+4984ffae-b927-4eca-9c21-163a49164f0b,Club Sandviç,"28,00 TL",Sandviçler,5.0
+cb848cf6-f8f2-4c8f-81bc-37935d19e3d9,Şinitzel Dürüm,"28,00 TL",Dürümler,11.0
+8975bc66-63bc-443b-b14b-5663ccb1182d,Cajun Dürüm,"30,00 TL",Dürümler,10.0
+85ac2714-ba76-4e19-bc95-327de1d1f48d,Tavuklu Dürüm,"28,00 TL",Dürümler,5.0
+717d1fd3-6af9-4708-9e09-1f88289900a1,Köfte Dürüm,"32,00 TL",Dürümler,5.0
+ed655497-546f-4abe-b5db-52bc55dee089,Tavuklu Quesadilla,"29,00 TL",Quesadillas,5.0
+8e8b42f6-1e83-4e08-8a78-d064fa9a8d96,Tavuklu Krep,"30,00 TL",Krepler,4.0
+b7ab2b10-13e8-48f6-947e-428713b99f61,Ispanaklı Sebzeli Krep,"28,00 TL",Krepler,4.0
+e07fa26d-aead-4acf-bb43-9a70a76875c1,Akdeniz Salata,"25,00 TL",Salatalar,5.0
+bc4b61ae-aeb9-49b5-81d1-9d45bea4a154,Ton Balıklı Salata,"32,00 TL",Salatalar,5.0
+05e71a13-db3b-47bd-8d44-9bef330bc702,Çıtır Tavuklu Salata,"28,00 TL",Salatalar,5.0
+86ce23d0-f3a0-4317-9158-9e73caf36811,Tavuk Fajita Salata,"28,00 TL",Salatalar,7.0
+ee76caad-78b9-4f2d-93e8-5de5d2e387d4,Sufle,"18,00 TL",Tatlılar,5.0
+653f3d24-451f-4291-b011-56d70ce3044e,Poşet,"0,25 TL",Poşet,5.0

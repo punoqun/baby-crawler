@@ -1,0 +1,22 @@
+food_id,food_name,food_price,food_category,food_score
+6eec0f24-deb3-4ac4-8d3d-8f22012615e8,Yarım Ekmek Arası Et Döner,"12,50 TL",Et Dönerler,4.0
+e15cf12a-9a5c-41b7-8d84-3be8116b3fa1,Soslu Et Döner Dürüm,"12,50 TL",Et Dönerler,10.0
+92d6f859-366a-4bd9-a03c-b3ac3ae079c8,Et Döner Dürüm,"12,50 TL",Et Dönerler,8.0
+d7f140fb-f12f-4046-8e63-741f614bcfd1,3/4 Ekmek Arası Et Döner,"17,00 TL",Et Dönerler,4.0
+c88ef057-20d1-4e0e-9475-b8e7a8790815,Çift Lavaş Et Döner Dürüm,"17,00 TL",Et Dönerler,8.0
+f0fa5760-d363-443e-b630-b0f20a3fda8e,Tam Ekmek Arası Et Döner,"25,00 TL",Et Dönerler,6.0
+bd57fe4c-0edc-4baa-b6cc-cb2191d82b95,Et Döner,"30,00 TL",Et Dönerler,7.0
+59c3dfe3-7866-4fca-939b-f8266bf66248,Yarım Ekmek Arası Tavuk Döner,"8,50 TL",Tavuk Dönerler,2.0
+b0c22fd1-6fac-419e-bf94-ba076cae3290,Soslu Tavuk Döner Dürüm,"8,50 TL",Tavuk Dönerler,13.0
+963c3f0d-b0e3-4f7a-87a4-e57c982def76,Soslu Yarım Ekmek Arası Tavuk Döner,"8,50 TL",Tavuk Dönerler,4.0
+c9230846-3e96-4950-a577-9f9476d777cd,Tavuk Döner Dürüm,"8,50 TL",Tavuk Dönerler,11.0
+14672b96-e6c3-484c-ba33-7a67e5374198,3/4 Ekmek Arası Tavuk Döner,"11,50 TL",Tavuk Dönerler,7.0
+806b3185-8e60-48a1-881c-c2985dc05bd1,Çift Lavaş Tavuk Döner Dürüm,"11,50 TL",Tavuk Dönerler,6.0
+a3a73da9-609d-4261-9e69-1db82632f678,Tam Ekmek Arası Tavuk Döner,"17,00 TL",Tavuk Dönerler,4.0
+2664fa96-ac74-4401-807f-3087275da1e3,Tavuk Döner,"24,00 TL",Tavuk Dönerler,5.0
+0da32f11-4218-4b10-90cd-8fafaba8de1a,İskender (Kebaptan),"30,00 TL",Kebaplar & Izgaralar,6.0
+75c6e9d0-4dd3-47c3-904d-eeeb4a0a93e7,Izgara Köfte,"30,00 TL",Kebaplar & Izgaralar,5.0
+28162ba8-7397-4577-aa41-bd2917b5af2e,Yarım Ekmek Arası Köfte,"12,00 TL",Ekmek Arası Ürünler,2.0
+b572e785-7e5a-4e1b-b956-f0b4fdd4d7a6,3/4 Ekmek Arası Köfte,"16,50 TL",Ekmek Arası Ürünler,2.0
+df55a623-22f3-43fb-a12d-f6e27fedf2f1,Tam Ekmek Arası Köfte,"24,00 TL",Ekmek Arası Ürünler,4.0
+b6d3bac3-cea4-4240-8414-5902d0b0e2f4,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,35 @@
+food_id,food_name,food_price,food_category,food_score
+92F8EA20-4187-4024-B80B-683FB9F4A3F6,Peynirli Kuru Poğaça,"2,25 TL",Simitler & Açmalar & Poğaçalar,5.0
+d7b1c48b-902c-4545-baa6-ff840cb4aa39,Peynirli Açma,"2,25 TL",Simitler & Açmalar & Poğaçalar,5.0
+905ea481-3d52-4f2f-8ccd-f48daf65aa37,Kaşarlı Açma,"2,25 TL",Simitler & Açmalar & Poğaçalar,5.0
+776431c5-e726-4477-89af-11479e7f2283,Sade Açma,"2,25 TL",Simitler & Açmalar & Poğaçalar,5.0
+0d8f049c-8bd8-4559-bccd-db8c79740908,Patatesli Açma,"2,25 TL",Simitler & Açmalar & Poğaçalar,5.0
+ad874f43-5f35-4eb0-9209-7a69c23dd5d8,Peynirli Poğaça,"2,00 TL",Simitler & Açmalar & Poğaçalar,5.0
+89105fed-7027-406a-acee-56e218bb6114,Sade Poğaça,"2,00 TL",Simitler & Açmalar & Poğaçalar,5.0
+d35e8ffa-a5ce-4d57-a851-d80f77915f34,Kaşarlı Poğaça,"2,00 TL",Simitler & Açmalar & Poğaçalar,5.0
+3efa3cd0-c3bf-4d69-880a-a7f346a1a0ac,Patatesli Poğaça,"2,00 TL",Simitler & Açmalar & Poğaçalar,5.0
+556c0e6b-7718-4ce6-9f56-4fcac7a94df1,Kıymalı Poğaça,"2,00 TL",Simitler & Açmalar & Poğaçalar,7.0
+b2195678-6448-46fc-b335-071b571904f7,Dereotlu Poğaça,"2,00 TL",Simitler & Açmalar & Poğaçalar,5.0
+0853872d-ddb1-409a-bf47-3e73d8a3b9fa,Kol Kıymalı Böreği (200 gr.),"10,00 TL",Börekler,14.0
+0cec7700-3c97-45bc-94a5-882d01450b8a,Kol Peynirli Böreği (200 gr.),"10,00 TL",Börekler,7.0
+1c4b90ad-d220-4548-8169-0348c19ad5fa,Kol Patatesli Böreği (200 gr.),"10,00 TL",Börekler,7.0
+94d61c86-d33a-4dea-9953-13164e063ede,Su Böreği (200 gr.),"10,00 TL",Börekler,7.0
+cb181929-85bc-46ac-8516-22b9d9d02a63,Küt Böreği (200 gr.),"8,00 TL",Börekler,11.0
+0030f4b2-4436-4d77-b9e1-16a8a07dda81,Kaşarlı Karadeniz Pidesi,"9,00 TL",Pideler,5.0
+5e14605b-712b-4e12-bf48-cdcbb6da6ea8,Kaşarlı Sucuklu Karadeniz Pidesi,"9,00 TL",Pideler,5.0
+b5f6b2c8-351b-48c0-b30d-5c5eaa592a38,Peynirli Kır Pidesi,"4,00 TL",Pideler,5.0
+baef0145-9b6d-4819-ab75-d08ac5488c12,Patatesli Kır Pidesi,"4,00 TL",Pideler,5.0
+dd325df4-9aab-4c42-932d-3f27ebe88551,Kıymalı Kır Pidesi,"4,00 TL",Pideler,12.0
+e28774fc-2665-4a8f-8b53-093e1e3c3776,Kuşbaşılı Karadeniz Pidesi,"10,00 TL",Pideler,7.0
+fd898ea6-261c-4f27-8de9-799e728262b3,Kıymalı Yumurtalı Karadeniz Pidesi,"9,00 TL",Pideler,7.0
+1246c85e-45a4-486f-8bef-a3f11ff339f2,Çikolatalı Pasta,"17,00 TL",Tatlılar,4.0
+43d5e6aa-f8a7-4ef8-ad9f-cace2f0b82d7,Frambuazlı Chesscake,"17,00 TL",Tatlılar,5.0
+5f00b262-ba33-4abd-a7ae-aa6d779d593a,Fıstık Rüyası,"17,00 TL",Tatlılar,5.0
+c8400509-d656-4bfe-a858-ede7256c95f8,Karamelli Trileçe,"17,00 TL",Tatlılar,5.0
+cd933bbf-5c13-45c6-9210-2ad5ab0829e6,Tiramisu,"17,00 TL",Tatlılar,5.0
+02ec8081-abc2-4aa7-8296-533890b63146,Kol Kıymalı Böreği (1 kg.),"45,00 TL",Kiloluk Börekler (Pişirilmiş),9.0
+3007ea75-a8a8-4b92-9cd3-ae94bdf2a708,Kürt Böreği (1 kg.),"35,00 TL",Kiloluk Börekler (Pişirilmiş),7.0
+632ef7a8-3fad-46bc-9ddb-df2413df03db,Su Böreği (1 kg.),"50,00 TL",Kiloluk Börekler (Pişirilmiş),7.0
+a7e4b04f-92a2-45bc-8289-07518648d0c2,Kol Peynirli Böreği (1 kg.),"45,00 TL",Kiloluk Börekler (Pişirilmiş),7.0
+f11082bd-fb4f-4229-b298-668aa47ed312,Kol Patatesli Böreği (1 kg.),"45,00 TL",Kiloluk Börekler (Pişirilmiş),7.0
+572e2932-fc7e-4e1b-ae38-b385ceb654ea,Poşet,"0,25 TL",Poşet,5.0

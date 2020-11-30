@@ -1,0 +1,54 @@
+food_id,food_name,food_price,food_category,food_score
+eb9ae41f-2426-4f98-a83a-1dc6a87a842b,Menü 1,"23,50 TL",Menüler,5.0
+F17DF31C-A156-4590-A40A-B0FEB6269811,Menü 10,"170,00 TL",Menüler,7.0
+3F99301F-10E4-4413-8397-FDA0FF8DABA7,Menü 11,"160,00 TL",Menüler,7.0
+d564fdc3-279f-4bb4-82c3-dfb874ba085b,Menü 2 (200 gr.),"33,50 TL",Menüler,8.0
+b25f7b53-4a00-4860-99d8-88453042304e,Menü 3 (200 gr.),"26,50 TL",Menüler,6.0
+0b18bee1-27ce-437d-857b-f96b276c74d9,Menü 4 (200 gr.),"18,00 TL",Menüler,7.0
+f34ed19b-7d70-445d-b2fe-138086a1ab12,Menü 6 (200 gr.),"29,00 TL",Menüler,8.0
+f603e0c5-10ee-4d01-832a-b3e5a2524b4a,Menü 7,"65,00 TL",Menüler,7.0
+870d3266-2fc5-478e-bd70-703c67aa47e0,Menü 8,"180,00 TL",Menüler,7.0
+60f028a3-6f3d-49ab-8995-6f2c23316e1e,Menü 9,"150,00 TL",Menüler,7.0
+dfa62bc6-1cb7-40cf-9d4d-e9b07c9de710,Kıymalı Kol Böreği (200 gr.),"14,50 TL",Börekler,1.0
+38C85178-987B-4CC1-9A4C-7E15D70A056E,Beyaz Peynirli Gözleme,"14,50 TL",Gözlemeler,5.0
+7FC38332-F369-4BA9-B8B0-AAC671D378B4,Patatesli Gözleme,"14,50 TL",Gözlemeler,6.0
+858F5118-09CA-49D1-A2F2-C96C8B7B035C,Patatesli Kaşarlı Gözleme,"16,00 TL",Gözlemeler,6.0
+46EE97CD-17CB-44C1-88F5-170523F861BA,Beyaz Peynirli Domatesli Tost,"15,50 TL",Tostlar,5.0
+c3c2e7de-141d-49b2-8182-c8e49086ed8e,Karışık Tost,"17,50 TL",Tostlar,5.0
+1899d7b8-b660-44f2-8b6f-29fe896010f3,Kaşarlı Tost,"15,50 TL",Tostlar,5.0
+b7489b4a-44c4-4659-996c-622915ec528c,Sucuklu Tost,"16,50 TL",Tostlar,5.0
+78f0b9a9-00a5-402b-b649-7a4135f93457,Beyaz Peynirli Domatesli Bazlama Tost,"16,50 TL",Bazlama Tostlar,5.0
+f9eed39e-e7c4-4e4f-8fe1-a6ea69f976c1,Karışık Bazlama Tost,"17,50 TL",Bazlama Tostlar,5.0
+f366c8be-f7bf-4ee0-af36-e428e6d3c938,Kaşarlı Bazlama Tost,"17,00 TL",Bazlama Tostlar,5.0
+831f94b2-989d-45da-8d44-6e04a1bb1bc3,Sucuklu Bazlama Tost,"17,50 TL",Bazlama Tostlar,5.0
+aefae9ab-fe59-47e8-85ba-7efe3dc84c5a,Zeytinyağlı Yaprak Sarması (1 kg.),"40,00 TL",Diğer Lezzetler,6.0
+3d129195-c817-4264-8f93-3b89874541d2,Zeytinyağlı Yaprak Sarması (500 gr.),"22,50 TL",Diğer Lezzetler,11.0
+FC237013-6C99-439E-9FAC-BCC63CEFB11F,Elma Dilim Patates Kızartması,"14,00 TL",Yan Ürünler,6.0
+64BC9A66-A231-4367-8726-4EE65929D332,Sosis Sepeti,"14,50 TL",Yan Ürünler,7.0
+232D8DC7-7E3A-4C50-8ECC-DCA08C3F048C,Soğan Halkası,"14,00 TL",Yan Ürünler,5.0
+98965CB2-6B43-46B8-962A-C2A4CF11A827,Patates Kızartması,"13,00 TL",Yan Ürünler,6.0
+D8E3439D-7341-45A9-B742-11360D60BACC,Mix Sepet,"20,00 TL",Yan Ürünler,5.0
+FD8BFC51-29FC-47E4-8D1B-E3B4012A8A86,Sigara Böreği,"14,00 TL",Yan Ürünler,3.0
+33ABF253-A52C-49EB-93C4-F2E1BFB58B84,Kıtır Piliç Sepeti,"18,00 TL",Yan Ürünler,5.0
+67c485ba-f557-4acd-81ca-4d0b936912bb,Dondurmalı Waffle,"23,50 TL",Waffles,3.0
+f035f9a1-6444-47bd-b659-32b7e090ebf7,Klasik Waffle,"21,50 TL",Waffles,3.0
+de68cb39-de7b-433e-959e-0731ea5a27ce,Nutellalı Pancake,"14,50 TL",Pancakes,5.0
+cdd9511b-26ad-4746-8b8f-2bec598bc12b,Nutellalı Pancake Tower,"23,00 TL",Pancakes,5.0
+2e1bf62e-95a1-41b6-822a-9f9fe1627622,Sütlü Çikolatalı Pancake,"14,50 TL",Pancakes,5.0
+ee35a88f-c3e8-4262-b296-1454c17c98b5,Sütlü Çikolatalı Tower,"23,00 TL",Pancakes,5.0
+847D6B39-8B3D-42BA-9B10-D7787175968A,Tiramisu,"15,00 TL",Tatlılar,5.0
+41703101-DD9F-4290-B6CE-CF2F86A45497,Çikolatalı Dilim Pasta,"17,00 TL",Tatlılar,5.0
+F8C93ABE-5FA1-4A76-8000-38F5C035A034,Karamelli Trileçe,"10,00 TL",Tatlılar,5.0
+BFA5670A-5F59-4376-B887-5CAFD8F85182,Frambuazlı Cheesecake,"15,00 TL",Tatlılar,5.0
+ACE4B3AD-FD39-466C-88EC-C0AEC94BFF3B,Limonlu Cheesecake,"15,00 TL",Tatlılar,5.0
+92F5D041-21BE-46B1-8672-9BF2D219FEA3,Fıstık Rüyası,"17,50 TL",Tatlılar,5.0
+E9BCE173-4B86-4405-A151-D5B1B57B2717,Frambuazlı Trileçe,"10,00 TL",İçecekler,5.0
+8b769bf7-70e6-4193-a0a1-5f52cf979dd7,Kıymalı Karaköy Böreği (500 gr.),"26,00 TL",Kiloluk Börekler,2.0
+3514e94b-4356-497a-9fc5-45ef18d3558f,Peynirli Su Böreği (500 gr),"18,00 TL",Kiloluk Börekler,8.0
+2d24b292-f023-4021-9ee3-0b34acfae63d,Kıymalı Kol Böreği (500 gr.),"26,00 TL",Kiloluk Börekler,1.0
+a27e123d-5483-4b28-b8bc-a5113cf87cb0,Cevizli Baklava (500 gr.),"27,50 TL",Kiloluk Tatlılar,5.0
+3b8dbb96-cb62-40ac-90d2-cd3f79f23446,Mini Ekler (500 gr.),"30,00 TL",Kiloluk Ürünler,5.0
+3df4c729-2753-42e2-b690-828f005b9c47,"Kıymalı Boşnak Böreği (3,25 kg.)","94,00 TL",Tepsi Börekler,2.0
+f9790684-2b38-4d73-a158-ae62fc9c17fb,Kıymalı Kol Böreği (2 kg.),"95,00 TL",Tepsi Börekler,1.0
+405B5639-B01D-4D2B-9473-F39EFCC9D976,"Cevizli Baklava (3,5 kg.)","140,00 TL",Tepsi Tatlılar,5.0
+2D26AB4E-29B8-45F1-8C1E-3E888000646D,"Cevizli Ev Baklavası (2,5 kg.)","120,00 TL",Tepsi Tatlılar,5.0

@@ -1,0 +1,78 @@
+food_id,food_name,food_price,food_category,food_score
+4086af14-c511-47ba-a365-f5e4627e3294,Karışık Tatlı Menü,"100,00 TL",Menüler,9.0
+e688eefb-b8c7-47c1-9fb9-8d0529aaaccd,Fırsat Menüm 1,"95,00 TL",Menüler,7.0
+5192bddf-6e81-426d-b505-8cc42effc9e2,Çerezim Menü,"50,00 TL",Menüler,5.0
+e9660acc-97a5-4c48-90b3-70b6abfda5bc,Ailemleyim Menü,"140,00 TL",Menüler,5.0
+79C317ED-08C0-4749-A367-1EA38A6A577B,Pidem Menüm,"30,00 TL",Menüler,5.0
+D849ABED-F525-4187-91DD-2FE2F2F362B2,Pizzam Menüm,"35,00 TL",Menüler,5.0
+4645A9B5-F5AC-4A00-87B1-B184C62F0203,2'li Küçük Boy Urfa Pizza Menü,"30,00 TL",Menüler,5.0
+0ADE8AE5-692A-41E2-B62B-71FC860A36A7,2'li Küçük Boy Karışık Pide Menü,"30,00 TL",Menüler,5.0
+542F3D86-43AB-466C-96BE-C0723C7F13F7,10'lu Lahmacun Menü,"95,00 TL",Menüler,9.0
+4A07CC61-E30F-4BCC-A175-8F5A75DB28A0,Special Tatlı Menü,"50,00 TL",Menüler,9.0
+267F0D6A-1E01-475D-9C97-1E3573265CFF,5'li Lahmacun Menü,"52,00 TL",Menüler,9.0
+b393f7e2-32e2-4bd1-956e-45e16e1f08ca,Çiğ Köfte Dürüm,"8,00 TL",Çiğ Köfteler,12.0
+91d24f65-4dfd-4011-b772-45f9e114f621,Mega Çiğ Köfte Dürüm,"10,50 TL",Çiğ Köfteler,12.0
+001E75A4-2093-4A6B-A748-A6C22CC7947D,Double Çiğ Köfte Dürüm,"15,00 TL",Çiğ Köfteler,12.0
+5ab1daf5-6fd0-49ba-90e8-ca981f3a8c5c,Çerezim,"18,00 TL",Çiğ Köfteler,5.0
+b4f078b9-0bea-4981-ba71-2442437e53c9,Tekim,"28,00 TL",Çiğ Köfteler,5.0
+cfb79c57-6548-4eb1-a0ab-2277605e83ae,Çiğ Köfte (500 gr.),"32,00 TL",Çiğ Köfteler,12.0
+96a0eeff-91e4-4d70-9dcd-6b1f06fc001f,Fırsat Menüm,"37,00 TL",Çiğ Köfteler,5.0
+4db7722a-03e3-402d-ac94-131ebfcee8bb,Seninleyim,"47,00 TL",Çiğ Köfteler,5.0
+fccce2f4-2a71-47f9-8f84-893906592d78,Ailemleyim,"54,00 TL",Çiğ Köfteler,5.0
+d7c0de38-6218-4edf-a5cd-ffbbe220782f,Lahmacun,"9,00 TL",Fırın Ürünleri,9.0
+C3825C51-6066-43A9-829B-E43AAF7F6F31,2'li Lahmacun,"18,00 TL",Fırın Ürünleri,9.0
+600b7368-9968-4617-a2cf-540b38539d17,Kaşarlı Pide,"11,00 TL",Fırın Ürünleri,5.0
+2d33d0ba-e828-4dbe-8494-49145a073e94,Kıymalı Pide,"12,00 TL",Fırın Ürünleri,5.0
+20ac980c-d2ba-40d0-89c2-51815385b3f0,Karışık Pide,"13,00 TL",Fırın Ürünleri,5.0
+12be653c-b0e5-4358-a745-70231d06060c,Urfa Pizza,"15,00 TL",Fırın Ürünleri,5.0
+1B5E74A4-83AD-44F0-AB7E-EA87631A5705,Kıymalı Pide (Büyük),"23,90 TL",Fırın Ürünleri,5.0
+C37B6B86-1856-424E-ADED-A62BCBBB5C3E,Kaşarlı Pide (Büyük),"24,00 TL",Fırın Ürünleri,5.0
+4706D319-9DA5-428F-AC42-C79786220555,Pizza Margherita (Büyük Boy),"25,00 TL",Fırın Ürünleri,5.0
+D20F793A-2BAB-4E5D-B812-8B29D58D38C6,Pizza Vejetaryen (Büyük Boy),"25,00 TL",Fırın Ürünleri,5.0
+C233AAA2-6B4B-4652-9C63-09F5D7D9627D,Karışık Pide (Büyük),"25,00 TL",Fırın Ürünleri,5.0
+28696208-547A-4EF7-BF6F-CC396338313A,Kavurmalı Kaşarlı Pide (Büyük),"28,00 TL",Fırın Ürünleri,5.0
+6761D657-0BF9-4490-8DB0-C9394D0A3061,Margarita Pizza (Orta),"28,90 TL",Fırın Ürünleri,5.0
+D990A1DE-4564-41B6-AFD1-D0FDB2BD1F52,Urfa Pizza (Büyük),"30,00 TL",Fırın Ürünleri,5.0
+7288350C-8D02-4420-B93B-55650E86CF88,Alibaba Pizza (Orta),"32,90 TL",Fırın Ürünleri,5.0
+17852C1E-74B4-43B4-870F-4925843CC3A8,Karışık Pizza (Orta),"32,90 TL",Fırın Ürünleri,5.0
+112E4E47-A15B-4FE6-9805-851350A887BF,Margarita Pizza (Büyük),"35,00 TL",Fırın Ürünleri,5.0
+B39A1EE0-6AAE-4B5B-BC85-4C4501D453D6,Pizza Dallas (Büyük Boy),"30,00 TL",Fırın Ürünleri,5.0
+03D25CDD-A120-4BC9-9F22-78B137E5294F,Alibaba Pizza (Büyük),"30,00 TL",Fırın Ürünleri,5.0
+C8C9F6A6-5E2A-491D-AC46-F447EEB55F32,Pizza Pepperoni (Büyük Boy),"30,00 TL",Fırın Ürünleri,5.0
+CDAAB5A8-CA49-4BBF-94B0-7BBBD0E0BC46,Pizza New Jersey (Büyük Boy),"35,00 TL",Fırın Ürünleri,5.0
+8AE4D2BE-D97F-4A0C-8173-DA271D65DBC1,Karışık Pizza (Büyük),"35,00 TL",Fırın Ürünleri,5.0
+77BFB93F-DE61-4F45-AFC6-7BB3B62A114A,Katmer Tatlısı,"20,00 TL",Diğer Lezzetler,5.0
+48999938-5c72-4faa-ae14-39da703ea13c,Kızartma İçli Köfte (Adet),"9,00 TL",Diğer Lezzetler,7.0
+982528B3-F427-4C7B-86E0-46BF21BEFDF1,Midye Dolma (Büyük Boy),"2,00 TL",Diğer Lezzetler,5.0
+FC18E183-F45D-4947-8F32-4AF8F5A313CC,Midye Dolma (10 Adet),"15,00 TL",Diğer Lezzetler,5.0
+CC177EFA-FFF8-4676-A299-3F41A7A7A8EA,Havuç Dilim Baklava (Dilim),"17,50 TL",Tatlılar,10.0
+40D30305-F458-47F0-8AF3-7B4D2ABFDA1C,Havuç Dilimi Baklava (4 Dilim),"50,00 TL",Tatlılar,5.0
+F684EEDD-FDD2-4D95-84D3-7C0F8EEA1BBC,Künefe,"15,00 TL",Tatlılar,5.0
+D29AA9E9-1E11-48D7-B64F-469F155FD846,Havuç Dilim Baklava (2 Dilim),"30,00 TL",Tatlılar,10.0
+7DDEE010-69E4-4C9E-BABB-81163C3D023A,Çikolatalı Sufle,"10,00 TL",Tatlılar,5.0
+C2B67E8F-6E4F-4366-B6B1-855EFCBF5D04,Fıstıklı İrmik Helvası,"10,00 TL",Tatlılar,5.0
+E08B6174-DEC5-4854-884A-76EECD40315C,Algida Maraş Usulü Cup Dondurma (100 ml.),"6,00 TL",Dondurmalar,5.0
+296A3CA8-1CDD-4244-A247-A28FC353577E,Algida Maraş Usulü Dilim Dondurma (82 ml.),"6,00 TL",Dondurmalar,5.0
+8B23E83A-8CED-47E1-8EC9-46319D10FED9,Carte d'Or Monoportion Çikolata Karnavalı (105 ml.),"6,00 TL",Dondurmalar,5.0
+99F9D3B9-C4B2-491F-A972-3BB0E2913F79,Carte d'Or Monoportion Çilek Yoğurt (105 ml.),"6,00 TL",Dondurmalar,5.0
+6837B14B-1600-4B05-BB24-B82F7ED4B88C,Magnum Mini 5'li (Badem & Beyaz & Classic),"27,50 TL",Dondurmalar,5.0
+2FA515E3-B948-4762-96F9-E2DA1E450873,Magnum Cookie,"7,50 TL",Dondurmalar,5.0
+CF552BC5-7C65-450A-9123-9231893A49B6,Gaziantep Dilber Dudağı (250 gr.),"25,00 TL",Kiloluk Tatlılar,5.0
+E833F1C6-6095-42F8-864A-1D52545E7995,Gaziantep Midye Baklava (250 gr.),"30,00 TL",Kiloluk Tatlılar,5.0
+C5B5DDFE-6DEC-4CE4-BE91-9E42C5564732,Antep Fıstıklı Kadayıf (250 gr.),"20,00 TL",Kiloluk Tatlılar,5.0
+B53E2914-C356-4AA9-84ED-9C3F7A5E80C9,Antep Fıstıklı Baklava (250 gr.),"20,00 TL",Kiloluk Tatlılar,10.0
+6F459A99-8E51-4D95-A8F8-1D5E65137121,Havuç Dilim (500 gr.),"50,00 TL",Kiloluk Tatlılar,5.0
+49cc991c-404b-4d3e-815d-e83cebc1d5c3,Gaziantep Fıstıklı Kadayıf (500 gr.),"40,00 TL",Kiloluk Tatlılar,5.0
+311077EA-1455-42CE-BFBC-9E731506AB0E,Gaziantep Dilber Dudağı (500 gr.),"50,00 TL",Kiloluk Tatlılar,5.0
+E4945F14-A38D-483C-A9EC-9AD436C5D24A,Gaziantep Midye Baklava (500 gr.),"60,00 TL",Kiloluk Tatlılar,5.0
+ec333048-9369-4490-948a-fa36d08cfead,Gaziantep Fıstıklı Baklava (500 gr.),"40,00 TL",Kiloluk Tatlılar,5.0
+16f2624a-7de8-4a10-8cca-ad20227ed91b,Gaziantep Fıstıklı Baklava (1 kg.),"75,00 TL",Kiloluk Tatlılar,5.0
+61fab6bd-7326-456e-ada5-9844351aad04,Gaziantep Fıstıklı Kadayıf (1 kg.),"75,00 TL",Kiloluk Tatlılar,5.0
+CAA59E92-11CD-40CD-A994-FE45F6FA0285,Gaziantep Dilber Dudağı (1 kg.),"100,00 TL",Kiloluk Tatlılar,5.0
+31132385-BB1E-4BE3-9B76-BE58F9F3C120,Havuç Dilim Baklava (1 kg.),"90,00 TL",Kiloluk Tatlılar,5.0
+547E9C63-C1DF-45A9-89A6-D3C2C4531BCB,Gaziantep Midye Baklava (1 kg.),"110,00 TL",Kiloluk Tatlılar,5.0
+927f60d7-e52f-4132-8ac9-824c3f83695a,Pepsi Mango (33 cl.),"5,00 TL",İçecekler,5.0
+712FFD69-4F45-461E-87B5-976884BCA0D9,"Pepsi (1,5 L.)","8,50 TL",İçecekler,5.0
+8708F0F3-423B-4C37-B2F0-C6EA0F730886,"Lipton Ice Tea (1,5 L.)","9,00 TL",İçecekler,5.0
+702604C2-82FF-4AE2-B851-83B1FACD5098,Lipton Ice Tea (2 L.),"11,00 TL",İçecekler,5.0
+20cdfc21-bb07-4d6d-b019-a444d2db7465,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,102 @@
+food_id,food_name,food_price,food_category,food_score
+C72C306D-D241-48FA-A17E-B498D5C87995,2'li Mix Pizza (1 Kişilik) Menü,"55,00 TL",Menüler,3.0
+92ff6e68-feeb-49a5-b606-f6470229a44c,Sade Omlet,"15,00 TL",Kahvaltılıklar,3.0
+44ae6541-1903-4c49-ba2e-a1aeea9f865d,Menemen,"19,00 TL",Kahvaltılıklar,6.0
+546e073b-b3cc-4404-8618-68255f768602,Kaşarlı Tost,"15,00 TL",Tostlar,5.0
+409e644b-9ecf-4ec5-b40a-4622f8917ff1,Kaşarlı Sucuklu Tost,"19,00 TL",Tostlar,3.0
+12d22db0-f962-4d1a-a48d-435d0e53ccb5,Ispanaklı Krep,"22,00 TL",Başlangıçlar,5.0
+7f3b3d64-1598-4707-92b5-f993f1e95a90,Mantarlı Krep,"22,00 TL",Başlangıçlar,5.0
+b74e8739-e70d-473e-8a1c-0d3aa12bc0d5,Tavuklu Krep,"22,00 TL",Başlangıçlar,5.0
+fb3d0f24-a5bb-4670-891c-65881b7a25aa,Karışık Krep,"25,00 TL",Başlangıçlar,5.0
+b528d0de-d868-4bf0-a21a-573e9842349c,Sosis Tabağı,"22,00 TL",Başlangıçlar,5.0
+2326e9a5-cb37-480f-ba76-81737565c19b,Patates Kızartması,"17,00 TL",Başlangıçlar,4.0
+4543284c-40b5-42d4-b451-e5ec2e347fca,Elma Dilim Patates,"19,00 TL",Başlangıçlar,4.0
+9b2eca35-ce74-49c0-8fdb-477ae91e634f,Sebze & Peynir Tabağı,"27,00 TL",Başlangıçlar,5.0
+a593e887-d5d6-4818-85d3-ed7908d4dff0,Soğan Halkası,"22,00 TL",Başlangıçlar,5.0
+c536511b-2dcd-42f2-b7c6-01bb8308c8e0,Sigara Böreği,"22,00 TL",Başlangıçlar,5.0
+0efe9895-de02-481b-9401-b6aeeb12bbcd,Değirmen Atıştırma Tabağı,"27,00 TL",Başlangıçlar,7.0
+3f6d9c91-2851-4248-8547-e45b6e40b134,Sarımsaklı Ekmek,"15,00 TL",Başlangıçlar,5.0
+617ba85e-7bd6-42c3-b170-510d1b54e862,Hamburger,"24,00 TL",Burgerler,4.0
+ed36c67a-d27a-4279-b0e2-388232ec61b2,Cheeseburger,"26,00 TL",Burgerler,5.0
+9785ffae-9116-4923-9f87-fc52fc73c92b,Değirmen Barbekü Soslu Burger,"28,00 TL",Burgerler,7.0
+9554e05e-f83f-4a81-b1d8-3e3981802770,All Funghi Pizza (1 Kişilik),"29,00 TL",Küçük Boy Pizzalar (Tek Kişilik) (İnce Hamur 28 cm.),3.0
+2af31e1f-fe4b-41d4-82f5-0ac7a4bb7acf,All Tonno Cipolla Pizza (1 Kişilik),"34,00 TL",Küçük Boy Pizzalar (Tek Kişilik) (İnce Hamur 28 cm.),3.0
+355f2370-5cf8-4578-86e9-356c584dc6e4,Cardinale Pizza (1 Kişilik),"34,00 TL",Küçük Boy Pizzalar (Tek Kişilik) (İnce Hamur 28 cm.),3.0
+56336df0-606a-4897-804a-d2e36b3d2202,Değirmen Special Pizza (1 Kişilik),"37,00 TL",Küçük Boy Pizzalar (Tek Kişilik) (İnce Hamur 28 cm.),5.0
+66613822-c56b-47b5-9855-3f1733ca550c,Diavola Pizza (1 Kişilik),"29,00 TL",Küçük Boy Pizzalar (Tek Kişilik) (İnce Hamur 28 cm.),3.0
+041f732d-40b2-4d9d-afb3-79840719fee7,Kavurmalı Pizza (1 Kişilik),"35,00 TL",Küçük Boy Pizzalar (Tek Kişilik) (İnce Hamur 28 cm.),3.0
+18c14972-0e88-465d-b40c-302d3c036ff3,Margherita Pizza (1 Kişilik),"27,00 TL",Küçük Boy Pizzalar (Tek Kişilik) (İnce Hamur 28 cm.),3.0
+dd7397b8-b255-4d1c-b0c2-23106143e6dc,Mexicano Pizza (1 Kişilik),"29,00 TL",Küçük Boy Pizzalar (Tek Kişilik) (İnce Hamur 28 cm.),3.0
+8256ade2-5b0a-474e-a411-ab97b2dbd67c,Mini Çocuk Pizza,"25,00 TL",Küçük Boy Pizzalar (Tek Kişilik) (İnce Hamur 28 cm.),5.0
+73362678-c486-49e0-baa1-228f1df92390,Mix Pizza (1 Kişilik),"35,00 TL",Küçük Boy Pizzalar (Tek Kişilik) (İnce Hamur 28 cm.),3.0
+85b31717-a8f6-4681-8d58-2cd007682aad,Napoli Pizza (1 Kişilik),"29,00 TL",Küçük Boy Pizzalar (Tek Kişilik) (İnce Hamur 28 cm.),3.0
+900da22e-f087-4874-90b7-fe384f1b3a8a,Pollastro Pizza (1 Kişilik),"34,00 TL",Küçük Boy Pizzalar (Tek Kişilik) (İnce Hamur 28 cm.),3.0
+a045f516-17b3-4d91-874a-8c1c48bdae80,Quattro Stagioni Pizza (1 Kişilik),"34,00 TL",Küçük Boy Pizzalar (Tek Kişilik) (İnce Hamur 28 cm.),3.0
+5b42dd6d-43e7-4e6d-907e-6d7bcb3a92cc,Romano Pizza (1 Kişilik),"32,00 TL",Küçük Boy Pizzalar (Tek Kişilik) (İnce Hamur 28 cm.),3.0
+70ae504d-eb40-40db-8bd6-2c5a7b7725cb,Vejetaryen Pizza (1 Kişilik),"34,00 TL",Küçük Boy Pizzalar (Tek Kişilik) (İnce Hamur 28 cm.),3.0
+e721d2e3-ba03-4863-8ad6-db7b922b3ba4,All Funghi Pizza (2 Kişilik),"45,00 TL",Orta Boy Pizzalar (2 Kişilik) (İnce Hamur 35 cm.),3.0
+d33246dc-5a42-4761-9bd3-746abfd9b201,All Tonno Cipolla Pizza (2 Kişilik),"47,00 TL",Orta Boy Pizzalar (2 Kişilik) (İnce Hamur 35 cm.),3.0
+d782ed95-a2ca-41d5-b068-544d05c4def9,Cardinale Pizza (2 Kişilik),"50,00 TL",Orta Boy Pizzalar (2 Kişilik) (İnce Hamur 35 cm.),3.0
+6e367c83-a795-47df-85b0-1348938f5d72,Değirmen Special Pizza (2 Kişilik),"50,00 TL",Orta Boy Pizzalar (2 Kişilik) (İnce Hamur 35 cm.),5.0
+5b264271-98f2-4275-8cf8-84d30cab5c0c,Diavola Pizza (2 Kişilik),"45,00 TL",Orta Boy Pizzalar (2 Kişilik) (İnce Hamur 35 cm.),3.0
+3b290df0-422b-485f-9813-44d89fac1b7e,Kavurmalı Pizza (2 Kişilik),"50,00 TL",Orta Boy Pizzalar (2 Kişilik) (İnce Hamur 35 cm.),3.0
+350171e5-c99b-46c4-89db-40fa0fbbc9c3,Margherita Pizza (2 Kişilik),"40,00 TL",Orta Boy Pizzalar (2 Kişilik) (İnce Hamur 35 cm.),3.0
+9666e9ab-af90-4375-8cd4-4cf861da8ce2,Mexicano Pizza (2 Kişilik),"45,00 TL",Orta Boy Pizzalar (2 Kişilik) (İnce Hamur 35 cm.),3.0
+b529c7bf-0c38-464b-bd29-36b3808c366a,Mix Pizza (2 Kişilik),"50,00 TL",Orta Boy Pizzalar (2 Kişilik) (İnce Hamur 35 cm.),3.0
+86f0b392-4844-4c60-885b-66528857e0c0,Napoli Pizza (2 Kişilik),"40,00 TL",Orta Boy Pizzalar (2 Kişilik) (İnce Hamur 35 cm.),3.0
+c774c9ff-79d4-4c53-8129-b0a67e577a0e,Pollastro Pizza (2 Kişilik),"50,00 TL",Orta Boy Pizzalar (2 Kişilik) (İnce Hamur 35 cm.),3.0
+17b21f5a-706c-41d2-ac9f-8d88f934b147,Quattro Stagioni Pizza (2 Kişilik),"50,00 TL",Orta Boy Pizzalar (2 Kişilik) (İnce Hamur 35 cm.),3.0
+69647296-9a83-441b-ab3b-5d56a0466f47,Romano Pizza (2 Kişilik),"48,00 TL",Orta Boy Pizzalar (2 Kişilik) (İnce Hamur 35 cm.),3.0
+00324c1b-0aee-481a-bd66-127a0dbe4b14,Vejetaryen Pizza (2 Kişilik),"50,00 TL",Orta Boy Pizzalar (2 Kişilik) (İnce Hamur 35 cm.),3.0
+be452e73-6ae7-492e-9c04-a577fca81eb5,All Funghi Pizza (4 Kişilik),"55,00 TL",Büyük Boy Pizzalar (4 Kişilik) (Kalın Hamur 42 cm.),3.0
+e78e962c-d959-4a51-96a1-d8cda3827e46,All Tonno Cipolla Pizza (4 Kişilik),"60,00 TL",Büyük Boy Pizzalar (4 Kişilik) (Kalın Hamur 42 cm.),3.0
+6d7bfaa6-61bb-4732-bfca-6a5af2b18bbe,Cardinale Pizza (4 Kişilik),"60,00 TL",Büyük Boy Pizzalar (4 Kişilik) (Kalın Hamur 42 cm.),3.0
+01193fc3-c0a6-485b-9841-96cf9dd1fb14,Değirmen Special Pizza (4 Kişilik),"75,00 TL",Büyük Boy Pizzalar (4 Kişilik) (Kalın Hamur 42 cm.),5.0
+626089d9-b764-4b0d-b727-aab9f2e57ecb,Diavola Pizza (4 Kişilik),"55,00 TL",Büyük Boy Pizzalar (4 Kişilik) (Kalın Hamur 42 cm.),3.0
+3173540d-2b85-4465-949a-a907fdb4685f,Kavurmalı Pizza (4 Kişilik),"65,00 TL",Büyük Boy Pizzalar (4 Kişilik) (Kalın Hamur 42 cm.),3.0
+d13ec8a8-ab2d-4379-a317-420b4d46d47e,Margherita Pizza (4 Kişilik),"50,00 TL",Büyük Boy Pizzalar (4 Kişilik) (Kalın Hamur 42 cm.),3.0
+a346b7f7-5f10-4d97-beab-11baf6b778f6,Mexicano Pizza (4 Kişilik),"55,00 TL",Büyük Boy Pizzalar (4 Kişilik) (Kalın Hamur 42 cm.),3.0
+ef36a6cc-c8b8-47df-92c2-ce69178fba3e,Mix Pizza (4 Kişilik),"65,00 TL",Büyük Boy Pizzalar (4 Kişilik) (Kalın Hamur 42 cm.),3.0
+663517df-dba8-4ccd-9df6-65b6f9ab8632,Napoli Pizza (4 Kişilik),"55,00 TL",Büyük Boy Pizzalar (4 Kişilik) (Kalın Hamur 42 cm.),3.0
+06578c8c-ffbb-4a53-bf15-827cc2bcfac4,Pollastro Pizza (4 Kişilik),"60,00 TL",Büyük Boy Pizzalar (4 Kişilik) (Kalın Hamur 42 cm.),3.0
+bf359f35-de90-4d3e-bb1d-1ceac0fce8b3,Quattro Stagioni Pizza (4 Kişilik),"60,00 TL",Büyük Boy Pizzalar (4 Kişilik) (Kalın Hamur 42 cm.),3.0
+55e9a79e-a11a-48d1-9c98-ab5b65711cdd,Romano Pizza (4 Kişilik),"58,00 TL",Büyük Boy Pizzalar (4 Kişilik) (Kalın Hamur 42 cm.),3.0
+701f9966-7c95-49c7-bc7c-cef1663c8e83,Vejetaryen Pizza (4 Kişilik),"60,00 TL",Büyük Boy Pizzalar (4 Kişilik) (Kalın Hamur 42 cm.),3.0
+5ce2a754-77a3-4320-b4c6-f34204f732de,Izgara Köfte,"33,00 TL",Izgaralar,5.0
+3f0250aa-1480-479d-8d26-3dc7634c9adc,Bonfile Special,"60,00 TL",Izgaralar,5.0
+6dbf8b30-eac3-4d32-ab53-a4bd6d3c024c,Diet Special,"37,00 TL",Izgaralar,5.0
+1a4d665f-58c5-4cc3-b9b9-620ba353cae2,Değirmen Special Köfte,"40,00 TL",Izgaralar,7.0
+97f13a01-1e30-4ec4-ac64-9c73daebd623,Fileto Funghi,"60,00 TL",Spesiyal Kırmızı Etler,5.0
+0698841a-1b2a-434f-bbb5-1c1d706b3a9a,Scaloppina All Piyezola,"60,00 TL",Spesiyal Kırmızı Etler,5.0
+e9411001-c158-4690-b1a2-66681d193f70,Mexico Steak,"60,00 TL",Spesiyal Kırmızı Etler,5.0
+6f70bf8b-fe1f-480b-9ccb-8cf6f9b3cb48,Mantar Soslu Pepper Steak,"60,00 TL",Spesiyal Kırmızı Etler,6.0
+a10cc43c-35f5-4cb8-b6d8-7377223df9e7,Pollo Puttanesca,"37,00 TL",Spesiyal Beyaz Etler,5.0
+9e59c0de-1ab2-42cc-a5ce-1383e5db61c1,Pesto Soslu Tavuk,"35,00 TL",Spesiyal Beyaz Etler,5.0
+2edac4d8-eb82-487d-b08c-7210effc95be,Pollo Bietola,"37,00 TL",Spesiyal Beyaz Etler,5.0
+b2735291-2801-43f3-9611-143211e6c80e,Soya Soslu Tavuk (130 gr.),"27,00 TL",Spesiyal Beyaz Etler,4.0
+04292eac-22fd-4d4e-972f-bb2274bf81f4,Mantar Soslu Tavuk,"35,00 TL",Spesiyal Beyaz Etler,6.0
+a32ea1ac-bcef-43c0-bb14-ff1a4d2e8701,Şnitzel,"35,00 TL",Spesiyal Beyaz Etler,5.0
+2b42def3-a531-4573-aae2-5251917d5a7a,Penne Arrabbiata,"28,00 TL",Makarnalar,5.0
+6702ba3e-4ebc-4ef9-a9da-9a79fa72b1b1,Tagliatelle All Funghi,"28,00 TL",Makarnalar,5.0
+fc121c31-3bfc-461b-abf7-09327cd82708,Tagliatelle Milanese,"32,00 TL",Makarnalar,5.0
+2a421451-e6a3-47fd-9716-f0f4f027906f,Değirmen Salata,"27,00 TL",Salatalar,9.0
+e0ce88a8-c8f7-40b8-ae6c-ae75f219e384,Akdeniz Salata,"27,00 TL",Salatalar,7.0
+55c33a5d-5c13-4e11-a3f4-1e42f783fd4c,Mevsim Salata,"25,00 TL",Salatalar,7.0
+68cef3d1-de5e-4419-b42a-bb783432df64,Insalata Contadina,"27,00 TL",Salatalar,5.0
+f4f21e81-84b1-4ae2-be00-79d18ac6c62d,Ton Balıklı Salata,"27,00 TL",Salatalar,7.0
+6c876e0d-bdd5-4baa-b4e6-6d1e228a3144,Sezar Salata,"29,00 TL",Salatalar,7.0
+d57dc1e3-3b2a-42ce-b9e2-548c27484d43,Çıtır Tavuklu Salata,"29,00 TL",Salatalar,7.0
+c9402e9d-2860-48fd-952b-b5ea983f0b0f,Beef Salata,"35,00 TL",Salatalar,7.0
+abd0b8e4-fb48-449c-b6bb-9fe02ea42bf0,Çikolata Soslu Tiramisu,"24,00 TL",Tatlılar,1.0
+13a422a9-29db-48bc-9fdd-d379b67b1d04,Çikolatalı Sufle,"22,00 TL",Tatlılar,3.0
+b5fb624a-3ae7-4d64-bb83-f70cb1e6c7b0,Mozaik Pasta,"18,00 TL",Tatlılar,5.0
+8b09ca20-a8cc-4cc0-9af0-5e9bf6161f68,Ayran (35 cl.),"6,00 TL",İçecekler,5.0
+32a3149f-a33e-411e-bd6b-56b8a2155037,Su (33 cl.) (Cam Şişe),"6,00 TL",İçecekler,3.0
+10780cf8-fcc5-4264-875c-e605dca65066,Taze Sıkma Nar Suyu,"15,00 TL",Vitamin Bar,6.0
+d2918667-7ade-40b1-8bc1-531e8aa0c84d,Taze Sıkma Havuç Suyu,"15,00 TL",Vitamin Bar,7.0
+b8cbd986-3b01-4bb9-852a-74943597d66d,Taze Sıkma Elma Suyu,"15,00 TL",Vitamin Bar,7.0
+79a7b08a-846e-413b-bc84-dc0fac8a5ad0,Acı Pizza Sosu (Küçük),"5,00 TL",Soslar,4.0
+648fce99-248d-48b3-b8d6-809dd2a6370a,Acı Pizza Sosu (Büyük),"8,00 TL",Soslar,4.0
+241291AF-7B90-4D6D-926D-850F72A3CE05,Kavanoz Acı Sos (190 gr.),"15,00 TL",Soslar,7.0
+f0aa12a1-df0b-4643-9086-9b6f17b4114e,Kavanoz Acı Sos (330 gr.),"25,00 TL",Soslar,7.0
+d9769e74-6b19-431a-ae3d-c6ce57991b27,Poşet,"0,25 TL",Poşet,5.0

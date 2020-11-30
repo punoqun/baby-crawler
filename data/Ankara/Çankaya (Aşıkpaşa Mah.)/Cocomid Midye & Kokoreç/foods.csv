@@ -1,0 +1,20 @@
+food_id,food_name,food_price,food_category,food_score
+ab69eeb6-ef2b-4d9d-98a9-d04e1d14492e,Ekmek Arası Köfte Menü 2,"25,00 TL",Menüler,6.0
+930a2c99-e70d-41db-9417-b842c65e65ca,Ekmek Arası Kokoreç Menü 2,"35,00 TL",Menüler,10.0
+cb7e36d3-6bd8-432c-9d9b-b05c3dd1e2d7,Ekmek Arası Sucuk Menü 2,"25,00 TL",Menüler,5.0
+df1269d5-f9f1-469f-95bb-7c32f25081d9,Adana Kebap Menü,"32,00 TL",Menüler,5.0
+4fd5059c-a6fd-4311-9c92-55bea5a32c03,Urfa Kebap Menü,"32,00 TL",Menüler,5.0
+28459668-9D31-4578-96E2-25BA464B7AA4,Adana Dürüm (120 gr.),"23,00 TL",Dürümler,10.0
+0BD38F7E-0467-4774-AB50-D575B668BCBD,Urfa Dürüm (120 gr.),"23,00 TL",Dürümler,5.0
+9CA14B13-C1C8-4444-8F24-A6395728B628,Köfte Dürüm,"22,00 TL",Dürümler,6.0
+22065F5F-EFCE-4FD2-A9C7-877F1A43A43C,Ekmek Arası Arnavut Ciğeri,"20,00 TL",Ekmek Arası Ürünler,5.0
+6dbeb5c9-d905-4265-9786-3de521f93d6f,Midye Dolma (Adet),"2,50 TL",Midyeler,19.0
+738ffad0-5943-4955-ae83-4dea9d4d1a64,Midye Dolma (1 kg.),"90,00 TL",Midyeler,14.0
+cf5a8325-a6d5-49c8-b840-95e1b6189675,Midye Dolma (500 gr.),"50,00 TL",Midyeler,14.0
+EF4D64D2-10D3-4584-85E7-8A9BA649E71C,Midye Dolma (10 Adet) (Küçük),"22,00 TL",Midyeler,14.0
+615385C4-F7E3-455A-8FDE-5BC1B137C050,Midye Dolma (20 Adet) (Küçük),"32,00 TL",Midyeler,19.0
+74EA2C44-30BE-4C96-9E3F-FA6F7EF1C443,Midye Dolma (30 Adet) (Küçük),"48,00 TL",Midyeler,14.0
+77EFC715-2AE7-4DAA-A83B-7A3D64821556,Midye Dolma (10 Adet) (Büyük),"28,00 TL",Midyeler,14.0
+3712F57E-2A64-44BC-B3C8-2BFF56D05DD6,Midye Dolma (20 Adet) (Büyük),"50,00 TL",Midyeler,14.0
+A125F14E-DF26-43E5-9897-1CD6243979A7,Midye Dolma (30 Adet) (Büyük),"65,00 TL",Midyeler,14.0
+2b162a10-bfed-405a-bb99-01dd48be89f4,Poşet,"0,25 TL",Poşet,5.0

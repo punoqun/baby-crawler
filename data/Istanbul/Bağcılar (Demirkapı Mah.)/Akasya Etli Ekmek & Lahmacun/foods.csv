@@ -1,0 +1,76 @@
+food_id,food_name,food_price,food_category,food_score
+f7083eb4-0bc2-4b85-b794-4204ef9c013f,2'li Lahmacun Menü,"28,90 TL",Menüler,38.0
+b8d92a6a-b4f4-4f0f-89a4-97e3b894eb45,Şefin Menüsü,"41,90 TL",Menüler,5.0
+7bb18fd4-ac2d-4cf0-9771-86f52552e3e8,4'lü Etli Ekmek Menü,"97,80 TL",Menüler,11.0
+cb779b20-f18d-4406-9b23-9e6899abc58d,2'li Kıymalı Kaşarlı Pide Menü,"49,80 TL",Menüler,4.0
+13ba8083-e2b2-488e-9092-2f53c222e0c4,Tanışma Menüsü,"32,90 TL",Menüler,5.0
+E2534D80-CBD4-4CF4-B714-1820661F6819,İçecek Bizden Menü 1,"72,90 TL",Menüler,-1.0
+84EDEB18-E27B-4EAD-BBA2-DF7344A14D3D,İçecek Bizden Menü 2,"79,90 TL",Menüler,-3.0
+2A1F9310-391A-47DF-BE88-EA8C373A4FA6,İçecek Bizden Menü 3,"76,90 TL",Menüler,-7.0
+de2a9806-bf11-4521-ab21-5f925fcdbb6b,Etli Ekmek Menü,"31,90 TL",Menüler,11.0
+01aea788-3950-4b54-8319-7e69c1e2d5c5,4'lü Lahmacun Menü,"40,90 TL",Menüler,38.0
+2e67781a-a472-4ee9-9232-1b4ddd748f31,2'li Etli Ekmek Menü 1,"49,90 TL",Menüler,4.0
+67DCF875-370C-4F29-80FB-E10D1A12002F,Tereyağlı Mercimek Çorbası (Az),"7,00 TL",Çorbalar,5.0
+3684807C-F0B3-4015-B25E-118BDC7B717E,Ezogelin Çorbası (Az),"6,00 TL",Çorbalar,5.0
+9098379f-0ebc-4250-8c06-8b3138370158,Kaşarlı Lahmacun,"12,00 TL",Lahmacunlar,38.0
+03a5e0cc-2cbf-48af-a128-6b731c6ff7f0,Mega Etli Ekmek,"29,90 TL",Etli Ekmekler,11.0
+59c55228-72c7-4ec4-aaed-2fa9ead16471,Yumurtalı Kaşarlı Etli Ekmek,"28,90 TL",Etli Ekmekler,12.0
+466BFC9E-E751-432E-BF2C-265222C5B3E1,Eti Bol Etli Ekmek,"29,90 TL",Etli Ekmekler,15.0
+567720b6-0937-4614-a2ea-97e252910457,Akasya Karışık Pide,"27,00 TL",Pideler,3.0
+cc013077-784d-4d00-a6ea-4a79e087e8ee,Bıçak Arası Pide,"27,90 TL",Pideler,3.0
+2d1af323-3791-4286-9149-6824e9f9aef2,Cariye Pide,"23,00 TL",Pideler,3.0
+b2cac8f5-e04e-4d07-855b-e4e42cbabcc0,Dönerli Pide,"26,00 TL",Pideler,3.0
+4f79b577-12d1-4b59-85a7-3422d4b2893f,Karışık Pide,"28,50 TL",Pideler,3.0
+41bddc2b-310a-47b2-9b86-8c78331f5cb9,Kaşarlı Pide,"22,00 TL",Pideler,4.0
+dff6c519-37fd-4d24-9df9-adf6550f5882,Kaşarlı Pide (Kapalı),"23,00 TL",Pideler,4.0
+1c5ae0d6-6dfd-416d-a2f3-309657080a60,Kaşarlı Tavuklu Pide,"24,50 TL",Pideler,4.0
+e88ffbc7-4207-4f14-9a0b-ebd06b0f65e9,Kavurmalı & Kaşarlı & Yumurtalı Pide,"29,90 TL",Pideler,2.0
+102a2f75-ed65-4879-95f6-8db8250ea3b1,Kavurmalı Kapalı Pide,"32,00 TL",Pideler,0.0
+f756ef1b-4c6e-4ea6-8a30-0c6931ca89df,Kavurmalı Kaşarlı Pide,"26,90 TL",Pideler,2.0
+15d8caff-085a-468a-9739-04f3f71e582b,Kıymalı Pide,"21,90 TL",Pideler,3.0
+45097336-153d-43b0-8cd2-ffc0047bc72e,Kuşbaşılı Kaşarlı Mevlana Pide,"28,00 TL",Pideler,6.0
+d7b674e5-51af-451b-ba0c-b692bac0c15a,Kuşbaşılı Pide,"27,90 TL",Pideler,3.0
+E388F21B-54B6-4813-8A6D-31CB7AEC2EB0,Mantarlı Pide (Açık),"24,00 TL",Pideler,3.0
+82820224-c764-454c-8df2-e4dd33cc1693,Mega Akasya Karışık Pide,"35,00 TL",Pideler,3.0
+50e92bd9-2071-4f44-a7bf-ab7990e16e97,Mega Bıçak Arası Pide,"37,90 TL",Pideler,3.0
+7ebf182b-d991-4fb9-8935-183ce77b9be3,Mega Mevlana Pide,"32,90 TL",Pideler,5.0
+5a921fcd-abdf-45b5-9735-4d3cac2fd005,Pastırmalı Kaşarlı Pide,"29,00 TL",Pideler,3.0
+2188085f-c687-4bf4-87e5-9da1ba577f3b,Salamlı Kaşarlı Pide (Açık),"23,00 TL",Pideler,4.0
+FF89B2C5-0EE8-4C1F-B571-4B17BD982BA8,Salamlı Pide (Açık),"23,00 TL",Pideler,3.0
+5b5b6c1c-591a-4a6e-9da6-bf0422473172,Sebzeli Special Pide,"26,00 TL",Pideler,3.0
+a7647f4f-ace2-4fd0-b54b-9b694ae5b893,Şölen Pide,"24,00 TL",Pideler,3.0
+485B6755-AE20-4466-9F95-BF5D75F0F8F1,Sosisli Kaşarlı Pide (Açık),"24,00 TL",Pideler,4.0
+856993c8-59db-4648-9473-4561eb68824b,Special Pide,"28,90 TL",Pideler,3.0
+e3f668f8-5bc9-453b-b764-dccb0e7644b1,Tavuklu Pide,"23,00 TL",Pideler,3.0
+5c0fa869-17aa-440d-8920-653bf1d720d6,Yumurtalı Kaşarlı Bıçak Arası Pide,"32,90 TL",Pideler,4.0
+726b1713-8f10-46d5-92f5-40b6f8f2f1e0,Tavuk Sac Kavurma,"24,90 TL",Diğer Lezzetler,3.0
+d923ddfe-f676-416b-831a-67e4f9f19f13,Et Sac Kavurma,"32,00 TL",Diğer Lezzetler,11.0
+301daee7-4f04-4e02-bf34-d5e3d3c0bfa5,Çiğ Köfte (12 Sıkım),"15,90 TL",Diğer Lezzetler,5.0
+5a120502-615f-4298-b42a-15f084678b16,Beyaz Peynirli Sigara Böreği (5 Adet),"5,90 TL",Diğer Lezzetler,5.0
+2cc1004b-b657-421f-bcdb-0d8a9d4e5d4a,Mevsim Salata,"12,00 TL",Salatalar,11.0
+79796a55-d1e7-401a-9ede-3c68a791befd,Kaşık Salata,"13,00 TL",Salatalar,11.0
+988cda3a-5ee1-4d12-ab2d-8cdc55e70182,Söğüş Salata,"12,00 TL",Salatalar,11.0
+af8973ad-6c3d-4d3e-9c72-79ae79b15693,Atıştırmalık Special,"19,00 TL",Yan Ürünler,5.0
+92689b3d-9082-4ab1-867b-737543310903,Köz Biber,"3,00 TL",Yan Ürünler,5.0
+4bb3ada6-28ba-4cb1-989e-b0110c11d842,Sumaklı Soğan,"3,00 TL",Yan Ürünler,5.0
+9dd02d65-af1c-4f2e-91ba-33263dcd2633,Domates Söğüş,"4,00 TL",Yan Ürünler,5.0
+e107cdc5-1780-45a0-867e-609346366044,Cacık,"7,00 TL",Yan Ürünler,5.0
+e38da5e3-7a56-470b-aa4e-3e46206db652,Karışık Turşu,"4,00 TL",Yan Ürünler,5.0
+51102b24-94cc-45f9-b27d-de2353af2947,Parmak Patates Kızartması,"7,00 TL",Yan Ürünler,4.0
+ccceb73b-412a-4963-a12e-559cc609f56d,Duble Parmak Patates Kızartması,"11,90 TL",Yan Ürünler,4.0
+ac959b55-e19c-48d8-a26b-c1b6a815ef28,Elma Dilim Patates Kızartması,"8,50 TL",Yan Ürünler,4.0
+6fe5c091-e58b-4aa6-82ab-92b18469729a,Duble Elma Dilim Patates Kızartması,"14,90 TL",Yan Ürünler,4.0
+7deb73f1-03b6-4c70-9f41-b6b84a68c6f3,Peynirli Sıkma,"12,90 TL",Yan Ürünler,5.0
+cfb45481-fdc9-4af0-ae0b-41da0a5417ee,Tam Yağlı Yoğurt (200 gr.),"6,00 TL",Yan Ürünler,2.0
+7e9622b3-afdf-4855-ac99-46a4cddd4cd8,Peynir Kroket (5 Adet),"12,90 TL",Yan Ürünler,5.0
+31815c6f-5ca4-4c0c-8004-3cbe4726119d,Patates Kroket (5 Adet),"7,00 TL",Yan Ürünler,4.0
+1c4bd1e4-10be-44db-a6bb-432738385de2,Fıstıklı Katmer,"14,90 TL",Tatlılar,7.0
+685764cc-0833-4cf1-bf8c-1176278c4085,Cevizli Burma Kadayıf,"7,00 TL",Tatlılar,5.0
+ee58524c-32b9-460a-9486-2bea377422c8,Fırın Sütlaç,"8,00 TL",Tatlılar,5.0
+8cc5f8b8-ab1a-480d-aed5-0981408c7250,Dondurmalı İrmik Tatlısı,"9,90 TL",Tatlılar,5.0
+27553507-328e-44b9-8725-b72deccf1492,Künefe,"12,00 TL",Tatlılar,-2.0
+6a6dd523-098b-4075-9f99-14f26469a812,Kaymaklı Künefe,"14,90 TL",Tatlılar,-2.0
+6B591C21-7BEF-4969-A022-10DFE2F31B29,Sade Maraş Kesme Dondurma,"14,90 TL",Tatlılar,7.0
+95ff5066-a401-4f71-8a2b-89f19a26b449,Uludağ Limonata (25 cl.),"5,00 TL",İçecekler,5.0
+4906ef7a-9808-4a2b-97a5-4b678667c74f,Uludağ Gazoz (33 cl.),"5,00 TL",İçecekler,5.0
+d4ec5f84-3281-4793-a6b4-147cea4b7f4c,Poşet,"0,25 TL",Poşet,5.0

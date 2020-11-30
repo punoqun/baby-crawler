@@ -1,0 +1,75 @@
+food_id,food_name,food_price,food_category,food_score
+7ad5cfde-a894-4337-a6ed-eddcb687e2a9,Tavuk Menü 1,"24,75 TL",Menüler,11.0
+d6a1bd16-ad6e-4f5f-81a1-7908dd078ed3,Tavuk Şiş (1 kg.) Menü,"63,75 TL",Menüler,7.0
+b2e8bab3-6627-4cd9-9550-709d2488d5fa,Tavuk Menü 2,"33,00 TL",Menüler,9.0
+cfa4468f-1e4c-46e1-86b8-e736a15ed7ad,Izgara Kanat (1 kg.) Menü,"60,00 TL",Menüler,6.0
+ae5035e2-58b9-4fae-9ba5-473c09228062,Urfa Kebap,"22,50 TL",Kebaplar,7.0
+ac4125e4-36f9-41ce-ab4e-2f1791bb5149,Fıstıklı Kebap,"31,50 TL",Kebaplar,5.0
+0627b9e1-3bc2-405e-9a83-3d1c4fcb0aa7,Domatesli Kebap,"30,00 TL",Kebaplar,7.0
+b84620c0-66c6-4b20-b569-ed4b4086136e,Patlıcanlı Kebap,"30,00 TL",Kebaplar,7.0
+4e8c2b87-2180-4331-8e7a-945973c06e65,İskender (Kebaptan),"24,00 TL",Kebaplar,6.0
+652d2636-01d0-45d6-a435-316036ead8bc,Tavuk Şiş,"21,00 TL",Izgaralar,7.0
+1c78e872-f0a7-4cc7-a000-20b534204d43,Izgara Köfte,"24,00 TL",Izgaralar,5.0
+20190d5e-96d8-4c3a-8fbd-759f83ce893d,Tavuk Kanat,"21,00 TL",Izgaralar,8.0
+dabfea58-0bd5-4bf1-929b-d93bd41c3ae7,Yaprak Kanat,"24,00 TL",Izgaralar,6.0
+f93faa80-bfbe-4203-944b-c1b419d87051,Kuzu Çöp Şiş,"30,00 TL",Izgaralar,6.0
+ed3e7805-9d45-49d7-97bc-f0052a2fc72e,Karışık Izgara (1 Kişilik),"48,75 TL",Izgaralar,4.0
+6ff1de09-f319-4586-a03d-5c22f4229bd5,Karışık Izgara (2 Kişilik),"82,50 TL",Izgaralar,4.0
+904ffa1e-c3a7-43eb-8f5c-8cf310e82bb7,Karışık Izgara (3 Kişilik),"127,50 TL",Izgaralar,4.0
+a52bf48f-9276-424e-9a9f-2932d661ea90,Karışık Izgara (4 Kişilik),"165,00 TL",Izgaralar,4.0
+e24fa0a9-08e8-4f26-ad2a-7e67ba810349,Abugannuş Kebap (Adana Kebaptan),"28,50 TL",Spesiyaller,7.0
+2aad4d0c-8790-47c8-bdb1-1e64064b3e57,Abugannuş Kebap (Kuzu Şişten),"31,50 TL",Spesiyaller,7.0
+3223f774-a01c-4bb6-a4a1-3a2c823ac7b6,Alinazik Kebap (Adana Kebaptan),"28,50 TL",Spesiyaller,7.0
+0beb9336-b69e-4285-8ff4-7eaad7024e7e,Alinazik Kebap (Kuzu Şişten),"31,50 TL",Spesiyaller,7.0
+f6aacae2-e7b6-46f5-8182-0e1bfac65060,Fırın Beyti Kebap,"30,00 TL",Spesiyaller,7.0
+55ce15aa-b51c-4e44-a279-6cbc6bd7f052,Karışık Cadde Sofrası (1 Kişilik),"48,75 TL",Spesiyaller,4.0
+d6f8c624-ab53-4e65-98b4-1de09447b3ef,Karışık Cadde Sofrası (2 Kişilik),"82,50 TL",Spesiyaller,4.0
+ee70a77f-da36-40c8-b1cb-df6cbb462c27,Karışık Cadde Sofrası (3 Kişilik),"127,50 TL",Spesiyaller,4.0
+10ea1d9d-a800-467a-a8dc-437b2368195b,Karışık Cadde Sofrası (4 Kişilik),"165,00 TL",Spesiyaller,4.0
+7cccdba5-bb43-4569-9b74-70f39bd4aac0,Yoğurtlu Kebap (Kebaptan),"28,50 TL",Spesiyaller,7.0
+82127448-9c7a-4916-9b75-8343febc306f,Yoğurtlu Kebap (Kuzu Şişten),"31,50 TL",Spesiyaller,7.0
+11575c3d-1c6d-4c4e-bbda-bea3cb4ae87c,Kaşarlı Kuzu Çöp Şiş Dürüm,"21,00 TL",Dürümler,7.0
+18a2d28a-4a3f-4f2a-b2ef-ec231c808a51,Adana Dürüm,"16,50 TL",Dürümler,15.0
+20f55236-49e8-4269-87c7-ea4e4ec506c6,Kaşarlı Urfa Dürüm,"18,00 TL",Dürümler,6.0
+279150d8-4935-48f6-b807-0cf49effd88f,Kaşarlı Köfte Dürüm,"18,00 TL",Dürümler,6.0
+4577b537-8c9e-4120-9c96-18a3ab0e696b,Özel Cadde Dürüm (Şişten),"22,50 TL",Dürümler,6.0
+5bd9ff1e-24e7-43c4-978e-283079f820c8,Kuzu Çöp Şiş Dürüm,"19,50 TL",Dürümler,7.0
+70e576e6-3b5d-44a1-a287-035ef37c04ba,Kaşarlı Adana Dürüm,"18,00 TL",Dürümler,10.0
+8e0e83fd-3c35-47a2-bf74-147c4c77b19a,Kaşarlı Tavuk Şiş Dürüm,"16,50 TL",Dürümler,8.0
+9c7ea1a5-2922-4359-87d4-9439b690bd82,Köfte Dürüm,"16,50 TL",Dürümler,6.0
+ad47f939-fe76-4b6c-9170-3c87013c50e0,Tavuk Şiş Dürüm,"15,75 TL",Dürümler,8.0
+c15d2c96-e397-42c7-8b83-eb86b5dfa9bc,Özel Cadde Dürüm (Tavuktan),"19,50 TL",Dürümler,6.0
+d3225fa9-9fb1-40e7-9198-1a6f74674088,Urfa Dürüm,"16,50 TL",Dürümler,6.0
+f7c3ffbb-f5c3-4ce4-b9cc-ab4148d47671,Özel Cadde Dürüm (Adanadan),"21,00 TL",Dürümler,6.0
+1033b605-093f-4811-84e2-58b40792ec05,Kaşarlı Lahmacun,"8,25 TL",Lahmacunlar,9.0
+1743f39a-feee-45c2-b7b4-759f3885f9cb,İsotlu Lahmacun,"7,50 TL",Lahmacunlar,9.0
+20345390-ee8b-4e46-a7fb-e4f2bb63f955,Antep Lahmacun,"7,13 TL",Lahmacunlar,16.0
+4d3292b5-e5fa-4fc9-b448-859dcc877410,Cevizli Lahmacun,"9,00 TL",Lahmacunlar,11.0
+a6aea678-86a2-4711-8aed-7cba4aa9211e,Fındık Lahmacun,"4,50 TL",Lahmacunlar,9.0
+2f770556-37d4-4066-bb2c-743f22d02729,Kuşbaşılı Pide,"21,00 TL",Pideler,5.0
+33b5404c-1601-4bd4-992b-7b49da76f8c6,Kıymalı Pide,"19,50 TL",Pideler,3.0
+34423c87-caf6-44a0-9842-6cba74e81254,Kavurmalı Pide,"22,50 TL",Pideler,5.0
+460e4ded-5399-412a-a9dd-e3656e0c124e,Kuşbaşılı Kaşarlı Pide,"22,50 TL",Pideler,5.0
+51ce5ed6-eb05-4088-83bc-dd23c1dd0d92,Sucuklu Kaşarlı Pide,"20,25 TL",Pideler,5.0
+578de664-7ce1-448e-9261-98bb28e21cec,Karışık Pide,"24,75 TL",Pideler,4.0
+7d21072a-ed65-45d3-b1e9-15d9dcd61e28,Kıymalı Kaşarlı Pide,"21,00 TL",Pideler,3.0
+7ecb26e7-9b60-4ab8-88c5-963ef53aabd6,Pastırmalı Pide,"22,50 TL",Pideler,5.0
+94f613d9-2970-48bf-97b8-d5c5c0fcb91d,Kavurmalı Kaşarlı Pide,"24,00 TL",Pideler,5.0
+dc58e402-7712-4817-87e7-15e5bdd2b3ae,Spesiyal Pide,"26,25 TL",Pideler,5.0
+e852f1a5-c3af-47b6-a09a-e0edac28cf2c,Pastırmalı Kaşarlı Pide,"26,25 TL",Pideler,5.0
+edeec6d0-ecca-467d-824c-e4641c37b7d1,Kaşarlı Pide,"18,00 TL",Pideler,5.0
+efd541f6-297a-4702-8bd9-aa0e47644b70,Tavuklu Pide,"18,00 TL",Pideler,5.0
+f20cb39d-40a0-4797-9e81-72a9de591bbe,Tavuklu Kaşarlı Pide,"19,50 TL",Pideler,5.0
+35709a04-4504-4bd5-b0e1-4c016ef160c9,Çiğ Köfte,"13,50 TL",Çiğ Köfteler,11.0
+9d2db096-3d84-4080-89aa-5b2d7fcfd2b5,Çiğ Köfte Dürüm,"6,75 TL",Çiğ Köfteler,12.0
+b47e691d-67af-4226-b8b5-4acbfc281023,Çiğ Köfte (1 kg.),"37,50 TL",Çiğ Köfteler,11.0
+a77200de-cd55-4ccb-b8d4-811225a67343,Gavurdağı Salata,"15,00 TL",Salatalar,4.0
+c69f13b3-f7fc-4f35-9ab5-739d2df8d674,Çoban Salata,"11,25 TL",Salatalar,5.0
+1eb48763-578d-4c3b-bfb7-93fc65259b68,Fıstıklı Künefe,"11,25 TL",Tatlılar,4.0
+24506175-6227-4c6c-b061-c7282951c736,Kaymaklı Künefe,"15,00 TL",Tatlılar,6.0
+96bab642-20e8-4a29-945f-33d757a8c65e,Kadayıf,"11,25 TL",Tatlılar,4.0
+b07a3a59-2f5d-470b-94af-25b2e47d31a6,Katmer,"15,00 TL",Tatlılar,5.0
+1e1c401a-1b06-4797-b505-96ad51bd633a,Sütaş Ayran (18 cl.),"3,00 TL",İçecekler,7.0
+2b373ac2-7e3c-46d2-bf1e-3a01dba56ffd,"Yedigün (2,5 L.)","11,25 TL",İçecekler,5.0
+1a9b2a90-c1a1-4699-97aa-5d16705c3e69,Mardin Üzüm Pekmezi (1 L.),"60,00 TL",İçecekler,5.0
+11f48744-beea-4875-b54b-04f321f2dd86,Poşet,"0,25 TL",Poşet,5.0

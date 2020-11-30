@@ -1,0 +1,23 @@
+food_id,food_name,food_price,food_category,food_score
+b76e12c3-4173-4b3a-9090-1dd1c78fc16a,Menü 1,"20,00 TL",Menüler,7.0
+ca96bc3b-fb26-4568-befe-229f3c12b5f7,Menü 2,"20,00 TL",Menüler,9.0
+c13401dc-00a9-4a31-b040-842bbf4eab40,Menü 3,"24,00 TL",Menüler,7.0
+5d0dad41-35d5-47e7-83fa-5abfb76c5f42,Menü 4,"29,00 TL",Menüler,11.0
+d3aef2a2-4c54-4c53-a2ac-7e85990e2085,Menü 5,"22,00 TL",Menüler,4.0
+b057af7c-ab9d-428a-8739-37cb5c412da5,Yarım Ekmek Arası Kasap Sucuk,"18,00 TL",Sucuklar,4.0
+c4c0b8ec-47e1-47a9-8bf1-f2a85d055d6e,3/4 Ekmek Arası Kasap Sucuk,"26,00 TL",Sucuklar,4.0
+f80eafcc-0cd7-457d-9050-44f2997a6e2b,Tam Ekmek Arası Kasap Sucuk,"34,00 TL",Sucuklar,4.0
+05983511-d618-4831-adb3-a1f86bae752e,Yarım Ekmek Arası İstanbul Kokoreç,"22,00 TL",Sebzeli Kokoreçler,5.0
+3a5d65eb-4fcf-4275-8f6d-9c7d6997f83b,3/4 Ekmek Arası İstanbul Kokoreç,"32,00 TL",Sebzeli Kokoreçler,5.0
+fcf85fac-e933-4d54-bbeb-6bb61d13f275,Tam Ekmek Arası İstanbul Kokoreç,"42,00 TL",Sebzeli Kokoreçler,5.0
+1b0cc16b-2e8f-448c-b749-8a2d3668a916,Yarım Ekmek Arası Kasap Köfte,"18,00 TL",Köfteler,6.0
+346cead2-0445-4c8c-880d-34536b552a8e,3/4 Ekmek Arası Kasap Köfte,"27,00 TL",Köfteler,6.0
+a21bf615-0ce4-443f-8bc7-ab7c3b4bda62,Tam Ekmek Arası Kasap Köfte,"34,00 TL",Köfteler,6.0
+e052c931-8251-412f-95e2-ac211818b0f7,Süt Kuzu Söğüş,"45,00 TL",Söğüşler,23.0
+57A00B1F-25C5-4697-9104-04C925D7164B,Mega Söğüş Dürüm,"35,00 TL",Söğüşler,23.0
+2e488b37-52bf-4d1d-bf0f-28b6ed5e68c3,Süt Kuzu Söğüş Dürüm,"27,00 TL",Söğüşler,28.0
+0b85c624-fe79-4e36-8c4b-4704545c9a0c,3/4 Ekmek Arası Süt Kuzu Kokoreç,"32,00 TL",Kokoreçler,12.0
+97f54b4c-4f0b-49b1-9057-3120cccbe643,Tam Ekmek Arası Süt Kuzu Kokoreç,"42,00 TL",Kokoreçler,7.0
+DA86AED6-3478-4950-B143-13520FD52426,Yarım Ekmek Arası Duble Kokoreç,"42,00 TL",Kokoreçler,7.0
+25554711-1935-4610-9860-b18e5c5eecdc,Yarım Ekmek Arası Süt Kuzu Kokoreç,"22,00 TL",Kokoreçler,12.0
+AADD8D65-5D4E-425A-ACBA-86ED0964F044,Niğde Gazozu (25 cl.),"4,00 TL",İçecekler,5.0

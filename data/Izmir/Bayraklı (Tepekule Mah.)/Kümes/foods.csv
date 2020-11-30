@@ -1,0 +1,50 @@
+food_id,food_name,food_price,food_category,food_score
+506450f5-0509-4765-a7f2-089b4fcff603,2'li XXL Kümes Dürüm Menü,"40,00 TL",Ekonomik Menüler,8.0
+80a8b14b-674d-40fb-adb3-b763e41f74df,4'lü Large Kümes Dürüm Menü,"60,00 TL",Ekonomik Menüler,5.0
+395a0096-df27-4065-a141-606acae1dfba,3'lü XL Kümes Dürüm Menü,"54,00 TL",Ekonomik Menüler,3.0
+1da472c4-bd53-4806-81e1-b07021649774,5'li Kümes Dürüm Menü,"60,00 TL",Ekonomik Menüler,3.0
+eadb3c4c-20ba-4ff8-9a4a-900a95877643,Kümes Dürüm,"12,00 TL",Kümes Dürümler,8.0
+C625DE33-CCE3-41B0-ABEA-CFA61019E37A,Acılı Soğanlı Kümes Dürüm,"13,00 TL",Kümes Dürümler,3.0
+cd89a95d-c31b-48f1-a6f5-1250a4282640,BBQ Kümes Dürüm,"14,00 TL",Kümes Dürümler,3.0
+347ad372-442e-4fac-a959-e298fa7fa744,Cheesy Kümes Dürüm,"15,00 TL",Kümes Dürümler,3.0
+0ebc02d4-6ebc-4148-a425-e1cf59618b18,Hot & Cheesy Kümes Dürüm,"17,00 TL",Kümes Dürümler,3.0
+4b787ba5-5ccf-4d3b-88d7-b79895b72089,Hot Kümes Dürüm,"14,00 TL",Kümes Dürümler,3.0
+372ddb86-f647-4ba3-9f63-eeee0ab4e14a,Sezar Kümes Dürüm,"13,00 TL",Kümes Dürümler,-1.0
+31d2050f-026c-4553-8cc7-cfd37fba1e44,Large Kümes Dürüm,"15,00 TL",Large Kümes Dürümler,10.0
+1B9E19C4-0CC7-4926-A6E1-00155EF95F7E,Large Acılı Soğanlı Kümes Dürüm,"16,00 TL",Large Kümes Dürümler,5.0
+f54df364-2c9e-4c89-9d15-db614fa29733,Large BBQ Kümes Dürüm,"17,00 TL",Large Kümes Dürümler,5.0
+09b4e60b-c983-4035-a4aa-7f40aa017906,Large Cheesy Kümes Dürüm,"18,00 TL",Large Kümes Dürümler,5.0
+5787d9b7-2df7-43df-89b8-81169acf8e5c,Large Hot & Cheesy Kümes Dürüm,"20,00 TL",Large Kümes Dürümler,5.0
+1d5e9fc4-133e-420b-8aed-d225d22608e4,Large Hot Kümes Dürüm,"17,00 TL",Large Kümes Dürümler,5.0
+52fa5d45-ab07-4849-8498-25801b2515fa,Large Sezar Kümes Dürüm,"16,00 TL",Large Kümes Dürümler,1.0
+3aa64421-0561-400b-a70e-d0ae54e1fa0b,XL Kümes Dürüm,"18,00 TL",XL Kümes Dürümler,3.0
+6DEFDFF9-6CE0-4370-B39A-139AEC66610E,XL Acılı Soğanlı Kümes Dürüm,"19,00 TL",XL Kümes Dürümler,3.0
+db36bc93-dac0-475e-9b19-f7488ee48619,XL BBQ Kümes Dürüm,"20,00 TL",XL Kümes Dürümler,3.0
+1540bb7f-d1f7-4a52-9f24-2cd209dbef83,XL Cheesy Kümes Dürüm,"21,00 TL",XL Kümes Dürümler,3.0
+adb9d554-5b72-487e-91ba-0a607db9759b,XL Hot & Cheesy Kümes Dürüm,"23,00 TL",XL Kümes Dürümler,3.0
+c389a4e0-7b13-4a53-a6d9-18c2bdc1af76,XL Hot Kümes Dürüm,"20,00 TL",XL Kümes Dürümler,3.0
+489937a8-38e4-4101-9604-289684150d66,XL Sezar Kümes Dürüm,"19,00 TL",XL Kümes Dürümler,-1.0
+5af301cb-b8ad-44cb-968e-24e4371726da,XXL Kümes Dürüm,"20,00 TL",XXL Kümes Dürümler,3.0
+1E4AAE25-BE7A-44EF-9C0D-13E109B39FD6,XXL Acılı Soğanlı Kümes Dürüm,"21,00 TL",XXL Kümes Dürümler,3.0
+e4b66b5b-1a52-43bc-8fd1-dbbe5e87fe2b,XXL BBQ Kümes Dürüm,"22,00 TL",XXL Kümes Dürümler,3.0
+b4641323-c15a-43d6-8a6d-d59788b7591e,XXL Cheesy Kümes Dürüm,"23,00 TL",XXL Kümes Dürümler,3.0
+3f4b6f21-e8c9-449a-bd4e-dfc5c9507341,XXL Hot & Cheesy Kümes Dürüm,"25,00 TL",XXL Kümes Dürümler,3.0
+c44bddc9-45b2-47f1-87b9-f1fb24319688,XXL Hot Kümes Dürüm,"22,00 TL",XXL Kümes Dürümler,3.0
+f72af337-593c-4f1b-a3c4-00534596d435,XXL Sezar Kümes Dürüm,"21,00 TL",XXL Kümes Dürümler,-1.0
+61bd08f0-bc4d-45ba-b621-f4d92f541222,Kümes Box Döner,"18,00 TL",Box Dönerler,1.0
+acc08a2f-2790-4e48-8a97-4f395f183130,Sezar Box Döner,"18,00 TL",Box Dönerler,-3.0
+00167f76-9e1b-48cc-b1e3-144c96612a12,Barbekü Box Döner,"19,00 TL",Box Dönerler,1.0
+8f7b8ac2-3ec1-480a-879a-53d7d7565529,Hot Box Döner,"19,00 TL",Box Dönerler,1.0
+dc315e1b-ad2d-471a-9bb3-5e9267411a53,Cheesy Box Döner,"20,00 TL",Box Dönerler,1.0
+ce210e14-0041-4c00-be1a-4a304bbf9e73,Hot & Cheesy Box Döner,"22,00 TL",Box Dönerler,1.0
+b27c67db-2bed-42bd-a36a-c2615b1ee064,Kümes Big Box Döner,"25,00 TL",Box Dönerler,1.0
+25815bc8-8a23-433b-9a76-41ddb6dba004,Sezar Big Box Döner,"25,00 TL",Box Dönerler,-3.0
+878a2180-4feb-4a54-a370-4471b08c09f2,Barbekü Big Box Döner,"26,00 TL",Box Dönerler,1.0
+a116936d-5c2f-4519-adae-12b29d805e3a,Hot Big Box Döner,"26,00 TL",Box Dönerler,1.0
+10d64880-9df3-489a-8ed5-8cd02b9db546,Cheesy Big Box Döner,"28,00 TL",Box Dönerler,1.0
+d6a4df8a-0d8f-4054-b465-f0fb63cb851b,Hot & Cheesy Big Box Döner,"30,00 TL",Box Dönerler,1.0
+d8e48765-f573-40a0-8fc7-36dd2037a7e7,Patates Kızartması,"10,00 TL",Yan Ürünler,1.0
+1a012b59-e102-4fb0-bed0-7087e12bdd09,Tavuk Döner (250 gr.),"25,00 TL",Kiloluk Dönerler (Pişirilmiş),1.0
+3a1e612e-6340-482c-84aa-a8c248f9e5b5,Tavuk Döner (500 gr.),"45,00 TL",Kiloluk Dönerler (Pişirilmiş),1.0
+ecde8e61-5f45-4f51-84e2-363086d86bd6,Tavuk Döner (1 kg.),"80,00 TL",Kiloluk Dönerler (Pişirilmiş),0.0
+67213acd-62f9-4f3f-9d27-2972d24edc5d,Poşet,"0,25 TL",Poşet,5.0

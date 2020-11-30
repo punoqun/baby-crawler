@@ -1,0 +1,40 @@
+food_id,food_name,food_price,food_category,food_score
+1c957448-754b-4e61-805a-0dc0ab49ce66,Tavuk Döner Menü 1,"29,00 TL",Menüler,2.0
+241ce26d-a55d-4def-8c5c-9a2a4598c8ed,Tavuk Döner Menü 2,"26,00 TL",Menüler,7.0
+2ed9024a-736a-4494-b6bd-31fbfc092efd,Tavuk Döner Menü 3,"22,00 TL",Menüler,-4.0
+39fdb1ce-3175-4466-9931-0b59a40b5bb7,Tavuk Döner Menü 4,"24,00 TL",Menüler,-1.0
+5475055a-d76a-46b4-a4e5-53a9515062f4,Tavuk Döner Menü 5,"19,00 TL",Menüler,6.0
+38937ae2-9a69-44cf-a81d-590bf0c33b1d,Tavuk Döner Menü 6,"23,00 TL",Menüler,9.0
+bf3a763e-f53d-4b10-9314-a3938a3a316a,Izgara Köfte Menü,"28,00 TL",Menüler,2.0
+871504de-a53f-4b41-9824-adf4c1421390,Et Döner Menü 1,"33,00 TL",Menüler,-4.0
+89863d39-42e0-450e-9952-3e7965ef49f6,Et Döner Menü 2,"30,00 TL",Menüler,1.0
+9fdc9673-44b4-4095-bc19-4d81274d87b5,Et Döner Menü 3,"28,00 TL",Menüler,-10.0
+cfba6eac-bed0-412e-bfa4-df9c25d1f63a,Et Döner Menü 4,"30,00 TL",Menüler,-7.0
+e7a1fcb9-57d5-4560-b8a4-a1f693fee4a7,Et Döner Menü 5,"27,00 TL",Menüler,-5.0
+f7051960-ce19-4b43-941d-856410d300d5,Et Döner Menü 6,"25,00 TL",Menüler,-2.0
+f2aebadf-2aaa-4992-b178-80dd3807a80f,Et Döner,"25,00 TL",Et Dönerler,1.0
+d62da378-47c6-437e-a27f-ebfd3921cb0d,Pilav Üstü Et Döner,"27,00 TL",Et Dönerler,1.0
+c3ab2337-b562-44e3-bcc1-66a396c21b04,İskender (Et Dönerden),"28,00 TL",Et Dönerler,1.0
+2d347df4-e0dd-4ca2-a636-03f7fc668baa,Et Döner Dürüm,"25,00 TL",Et Dönerler,1.0
+adfd0530-2d52-4684-b98e-da455b548b68,Zurna Et Döner Dürüm,"28,00 TL",Et Dönerler,2.0
+b047f3b5-e0f9-4ca4-b0a5-2a3bef3ef58d,Yarım Ekmek Arası Et Döner,"19,00 TL",Et Dönerler,1.0
+3b69df9c-9d02-4455-964e-c84ab21fa325,Morgi Et Döner Dürüm,"25,00 TL",Et Dönerler,1.0
+342bbd6d-952d-41ff-8a3e-b9e1193d42ae,Tavuk Döner,"13,00 TL",Tavuk Dönerler,8.0
+4aa911b8-2939-4852-bdf1-ff8d4f216a0a,Pilav Üstü Tavuk Döner,"20,00 TL",Tavuk Dönerler,8.0
+9a7c3894-d223-4b59-8a0e-6a8a87f00ff0,İskender (Tavuk Dönerden),"25,00 TL",Tavuk Dönerler,1.0
+bdd0d345-8e11-4a98-a000-d41371cb82d0,Yarım Ekmek Arası Tavuk Döner,"12,00 TL",Tavuk Dönerler,8.0
+6d3937f2-e801-498b-bd5d-132a3387a51a,Morgi Tavuk Döner Dürüm,"13,00 TL",Tavuk Dönerler,13.0
+d5050023-514a-4da5-b55a-5333394fd59d,Zurna Tavuk Döner Dürüm,"15,00 TL",Tavuk Dönerler,9.0
+ef073021-c05a-42e4-bb58-9ebe2c7da6fd,Izgara Köfte Dürüm,"18,00 TL",Dürümler,4.0
+6cf16303-2b66-4b1e-8b7b-286d5b58c347,Yarım Ekmek Arası Şnitzel,"15,00 TL",Ekmek Arası Ürünler,5.0
+cc55e38f-a2ac-4e5d-a15a-d8b2e8895647,Yarım Ekmek Arası Köfte,"16,00 TL",Ekmek Arası Ürünler,4.0
+a64c83ee-ce71-4433-aaa1-b89690793a7c,Çoban Salata,"9,00 TL",Salatalar,5.0
+b29c3833-8dc9-4ae9-adce-5b3807aca0d6,Yeşil Salata,"12,00 TL",Salatalar,5.0
+654f63b4-626e-4cf7-8aad-c5912512586f,Hatay Künefe,"13,00 TL",Tatlılar,3.0
+7cac4b14-1e04-4e8b-82df-ffbb805a8ae4,Eker Çikolatalı Puding,"5,00 TL",Tatlılar,5.0
+8c5a6f46-c317-4910-9a92-f49156937f9d,Eker Kazandibi,"5,00 TL",Tatlılar,5.0
+e24bf4b1-061c-4df6-9bac-d3ebc019fd3e,Eker Sütlaç,"5,00 TL",Tatlılar,5.0
+46ad847d-71f5-4f2a-b8ad-41fa36097ccb,Patates Kroket,"10,00 TL",Yan Ürünler,5.0
+ad856b39-176f-4d7f-9055-5e446d722317,Soğan Halkası,"10,00 TL",Yan Ürünler,5.0
+b3f82ca2-1d88-4158-b903-82ba575ad726,Patates Kızartması,"6,00 TL",Yan Ürünler,5.0
+197df934-0fb4-4c50-aa48-41dc927058d9,Poşet,"0,25 TL",Poşet,5.0

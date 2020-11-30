@@ -1,0 +1,75 @@
+food_id,food_name,food_price,food_category,food_score
+0228FAD7-355E-4BC8-B473-339C61F96B7C,Aile Boyu Burger Menü,"49,90 TL",Menüler,5.0
+31537240-0B54-4A86-AE04-3A8135623677,Cheeseburger Menü,"21,00 TL",Menüler,5.0
+C451D1B3-03B1-4700-AF73-95FEC87EF734,Double G3 Menü,"24,00 TL",Menüler,4.0
+49872F90-33D3-415D-AC4A-D7CF722A5AFC,Double Kumru Menü,"23,00 TL",Menüler,1.0
+523f76c4-97cf-443b-bd08-c5ff786ea250,G3 Menü,"18,00 TL",Menüler,4.0
+0fc91269-3588-4a2a-8896-929b1af5221d,Gözleme Menü,"25,00 TL",Menüler,6.0
+01e3fb6a-8e6f-42f1-9c5c-502c117f8fd7,Hamburger Menü,"20,00 TL",Menüler,5.0
+533558c7-8c27-4d9e-b46a-865b8060a5db,Kumru Menü,"18,00 TL",Menüler,1.0
+8F52380D-7E25-42C0-A885-FAF7E052B55E,Mushroom Burger Menü,"24,00 TL",Menüler,5.0
+b41bb6c6-0a61-4d26-816e-6eba0c38c749,Yengen Sandviç Menü,"17,00 TL",Menüler,5.0
+d96cc580-5eb0-4d5c-abdb-8c3f59219308,Kahvaltı Tabağı,"16,00 TL",Kahvaltılıklar,5.0
+3f1f333f-ab7d-41ea-90b8-f02b8a06c873,Sahanda Yumurta,"8,00 TL",Kahvaltılıklar,5.0
+c6120e48-dcee-4d02-9851-a634936c192a,Sahanda Sucuklu Yumurta,"10,00 TL",Kahvaltılıklar,5.0
+beacc002-f225-4fc0-bc03-11d70e8de46b,Omlet,"8,00 TL",Kahvaltılıklar,5.0
+370c1e95-0a6b-4c02-8b9a-8601e42d32b2,Kaşarlı Omlet,"10,00 TL",Kahvaltılıklar,3.0
+5743b459-b4fa-4344-8f9c-a72e0e578cc7,Menemen,"13,00 TL",Kahvaltılıklar,5.0
+2ff25889-2e9a-4fc1-b08b-316a232f7178,Karışık Menemen,"14,00 TL",Kahvaltılıklar,5.0
+2dc52cab-c5ee-4401-bcff-512d83d928d1,Kaşarlı Tost,"10,00 TL",Tostlar,3.0
+d3a242d9-098a-4d77-b480-ca57d9a90198,Sucuklu Kaşarlı Tost,"11,00 TL",Tostlar,3.0
+373fa121-65a6-4da8-aeec-0ae6a7823cb5,Kaşarlı Gözleme,"10,00 TL",Gözlemeler,4.0
+4ae985e4-83db-4109-85bc-faaad2146f55,Patatesli Gözleme,"9,00 TL",Gözlemeler,6.0
+d9692c18-5da6-43ab-bbad-01ce95f258dd,Peynirli Gözleme,"9,00 TL",Gözlemeler,6.0
+0456f7c4-6da9-48fc-8cd4-6e82b5fe13bc,Kaşarlı Patatesli Gözleme,"11,00 TL",Gözlemeler,4.0
+dfed5a68-5c49-4f17-8eef-7dd75fcf84a7,Kaşarlı Sucuklu Gözleme,"11,00 TL",Gözlemeler,4.0
+c45fd4fe-2b55-4bd3-a78f-fa8eb6f9a588,Patatesli Sandviç,"8,00 TL",Sandviç & Burgerler,5.0
+6914cc92-2c56-421e-88bc-d658ae2fb0d2,Patatesli Kaşarlı Sandviç,"10,00 TL",Sandviç & Burgerler,3.0
+ea67b475-80e0-4bee-88cc-75e69d807d8c,Patatesli Kaşarlı Sucuklu Sandviç,"12,00 TL",Sandviç & Burgerler,3.0
+8cca77af-f2a9-4a11-984a-586c402d6ec1,Kumru Sandviç,"14,00 TL",Sandviç & Burgerler,1.0
+eba85482-bc05-4f88-9f06-766ede1e925e,G3 Sandviç,"14,00 TL",Sandviç & Burgerler,4.0
+58352bc4-1167-4b95-a878-23f6dfc08b23,Hamburger,"14,00 TL",Sandviç & Burgerler,5.0
+9cf6457e-255f-4fa2-a02b-1d1f9bb7cb77,Yengen Sandviç,"11,00 TL",Sandviç & Burgerler,5.0
+438ED838-D33E-441D-BBEC-8EA1AE5419A6,Ton Balıklı Sandviç,"13,00 TL",Sandviç & Burgerler,4.0
+DA8B038F-AD61-4E6A-AB70-4C2C38D4C761,Cheeseburger,"15,00 TL",Sandviç & Burgerler,5.0
+AE2C282F-7701-444F-8CFE-E19D433EE353,Mushroom Burger,"17,00 TL",Sandviç & Burgerler,5.0
+7EE407F0-B916-4754-BEC5-9C64322C3DEC,Double G3 Sandviç,"17,00 TL",Sandviç & Burgerler,4.0
+7C8CBDE1-805F-405C-B393-7E4508B2B3F9,Double Kumru Sandviç,"17,00 TL",Sandviç & Burgerler,1.0
+73FCFD42-373C-4D78-A10E-6DCF534956F6,Sosisli Sandviç,"17,00 TL",Sandviç & Burgerler,5.0
+3C4886FC-2DBE-4CFA-A97F-A1FA24E8EBC0,Special Tavuk Dürüm,"16,00 TL",Sandviç & Burgerler,4.0
+b2eb854d-2faa-4d76-a2f6-349958ef5f22,Mantı,"14,00 TL",Ana Yemekler,3.0
+eb356043-25ec-4b36-bbcd-2210c97ecf09,İçli Köfte (Adet),"5,00 TL",Ana Yemekler,4.0
+d6746de3-4bad-4b2a-91eb-bc5a2fc40bc9,Kuru Fasulye + Pilav,"13,00 TL",Ana Yemekler,5.0
+64bf65f4-6e60-48c5-b6d3-febf6f077328,İstanbul Pilavı,"12,00 TL",Ana Yemekler,5.0
+D79DF173-12AA-4B6F-A81B-19160C591353,Sarımsaklı Köfte,"12,00 TL",Ana Yemekler,5.0
+91ce754e-0e9d-479d-899f-ba4a6cd5ab4c,Körili Çökertme,"23,00 TL",Ana Yemekler,5.0
+2a44250c-9217-44fb-a701-5b080a066562,Yaprak Sarma,"13,00 TL",Ana Yemekler,8.0
+F132417A-81B7-437F-AE77-821B8783EF53,Karışık Dolma,"15,00 TL",Ana Yemekler,7.0
+872C09C1-3F8F-46E2-BAD7-C34F3878CFF8,Tavuklu Noodle,"18,00 TL",Diğer Lezzetler,4.0
+D8FE1140-C868-4415-AAA6-5FCAFAD759F0,Tavuk Burrito,"21,00 TL",Diğer Lezzetler,4.0
+B69F3E42-8E58-4865-ACEF-446327E77CEA,Tavuk Quesadilla,"23,00 TL",Diğer Lezzetler,4.0
+3b530419-6e56-4e14-a837-61347ad0f771,Köri Soslu Tavuk & Pilav,"20,00 TL",Izgaralar,1.0
+64159fac-f3b4-4e8b-9adf-c651fbd9a756,Soya Soslu Tavuk & Pilav,"20,00 TL",Izgaralar,3.0
+838c2a0a-fbb5-4e78-ba94-d931d5dde2af,Tavuk Schnitzel & Pilav,"18,00 TL",Izgaralar,3.0
+830642fc-371d-4564-acab-4ad27fafd6b1,Tavuk Nugget & Pilav,"18,00 TL",Izgaralar,3.0
+1f8bc522-8936-4514-9b49-78f5db5dbbac,Tavuk Sote & Pilav,"20,00 TL",Izgaralar,3.0
+42B92383-AE7D-42E1-B509-80AEA84ADD63,Küçük Ev Special Tavuk,"22,00 TL",Izgaralar,5.0
+CE5EDB63-41AB-4701-859C-E477418A3C4C,Eko Tavuk & Pilav,"22,00 TL",Izgaralar,3.0
+2277f942-05bf-4fed-9057-6410c4beadd9,Domates Soslu Makarna,"12,00 TL",Makarnalar,6.0
+8d8ba0cf-0134-4a8b-8c4b-9b2bbe148f37,Beşamel Soslu Makarna,"12,00 TL",Makarnalar,6.0
+02770a50-fc6b-40c5-b2d3-04575690e954,Mantar Soslu Makarna,"14,00 TL",Makarnalar,6.0
+79319338-c99d-4e97-91be-f4be29fdad98,Arrabbiata Soslu Makarna,"12,00 TL",Makarnalar,6.0
+1c0c6dbf-f78e-4ea9-a457-d8917f6dbe53,Alfredo Soslu Makarna,"12,00 TL",Makarnalar,5.0
+85246190-13c9-4b7f-aa6b-3fb8864ab849,Beyaz Peynirli Makarna,"12,00 TL",Makarnalar,6.0
+e8159ecd-d5d4-467e-91c2-6dc3cc72cc19,Köri Soslu Tavuklu Makarna,"14,00 TL",Makarnalar,3.0
+e805c896-ac2b-4657-befc-ce7e517295eb,Fesleğenli Domates Soslu Makarna,"12,00 TL",Makarnalar,6.0
+59b81e07-29e1-4c34-8537-4ebd45c9a04a,Köri Soslu Makarna,"12,00 TL",Makarnalar,4.0
+535d2e20-894d-45ef-ba6c-2bd086fd3c58,Yoğurtlu Makarna,"12,00 TL",Makarnalar,6.0
+ee739cb5-a0ff-4232-97a7-0d04a0587b32,Sigara Böreği,"8,00 TL",Yan Ürünler,5.0
+a4bd48eb-2e24-46c9-8e09-85dd2d5af4e4,Patates Kızartması,"6,00 TL",Yan Ürünler,5.0
+1F1DAFFC-4F62-4BE5-8A45-9E08855000DA,Soğan Halkası (12 Adet),"10,00 TL",Yan Ürünler,5.0
+AE1BEE27-F7C1-4274-A85E-42EFB106B7D0,Çıtır Aperatif,"15,00 TL",Yan Ürünler,5.0
+f953768c-8967-4079-9dea-c61d88b0bb34,Mevsim Salata,"9,00 TL",Salatalar,5.0
+bb5a6aed-2d9a-4139-8661-f40cd3ddcfe1,Ton Balıklı Salata,"12,00 TL",Salatalar,4.0
+9a7f5de8-5d8b-42bf-b19e-02ab72be0183,Tavuklu Salata,"14,00 TL",Salatalar,4.0
+235f79aa-f940-4f1c-a614-996204da20ba,Su,"3,00 TL",İçecekler,5.0

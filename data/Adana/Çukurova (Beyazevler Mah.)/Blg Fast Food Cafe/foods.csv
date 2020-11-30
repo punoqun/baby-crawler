@@ -1,0 +1,32 @@
+food_id,food_name,food_price,food_category,food_score
+29c05eb4-7d78-4a7f-9079-5fc5602a6aab,Et Menü 1,"16,00 TL",Menüler,30.0
+B1C44904-AA10-4BE8-A76F-46CA98B9E75D,BLG Specıal,"17,00 TL",Menüler,5.0
+0BD34C97-C9F2-4973-859C-88127598208B,Ekmek Arası Izgara Köfte Menü,"18,00 TL",Menüler,4.0
+b291c674-ca64-4783-8468-55e58a51330a,Et Menü 2,"18,00 TL",Menüler,6.0
+7b862b9f-4fbd-4abe-a98c-0a2f5d4a96f1,Tavuk Menü 1,"13,00 TL",Menüler,21.0
+f94895de-b77a-41f7-b51c-381c25eee2c0,Tavuk Menü 2,"15,00 TL",Menüler,2.0
+04bf1e4d-5eae-4262-bc05-2ec5d9e8faa3,İskender (Tavuk Dönerden) Menü,"18,00 TL",Menüler,4.0
+29566ef9-ea31-4707-b4be-23476a9c6a37,İskender (Et Dönerden) Menü,"22,00 TL",Menüler,4.0
+d551efa0-fcae-4208-8b89-3219fcbf8e80,Hamburger Menü,"18,00 TL",Menüler,6.0
+61E07846-5C65-48E4-955F-EE2AB22D3CBB,Yengen Tost,"12,00 TL",Tostlar,16.0
+bccc6126-14bc-4e56-8097-d55daa7fb050,Kaşarlı Tost,"7,00 TL",Tostlar,11.0
+b60f58d4-1289-45ee-9fa5-fc0c629c3cf2,Sucuklu Tost,"8,00 TL",Tostlar,9.0
+4c19db73-1d86-4e8d-b13f-6b4ef80f3d27,Karışık Tost,"10,00 TL",Tostlar,16.0
+BC1AB1F0-227E-47A3-9008-3E4AD0B693AF,Ekmek Arası Izgara Köfte,"12,50 TL",Sandviçler,5.0
+42f6841d-b43c-450c-9ef5-ddfb48ec22ed,Tavuk Sandviç,"9,00 TL",Sandviçler,-1.0
+caaf9f8e-1cba-44cb-ad47-09ed13559cb5,Et Döner,"12,50 TL",Et Dönerler,15.0
+79BEF9DB-4761-4883-8791-9570061CFAD6,Blg Mix,"14,00 TL",Et Dönerler,7.0
+dd84d32b-ee34-4628-830c-69b984fb8dbc,Tavuk Döner,"9,00 TL",Tavuk Dönerler,5.0
+b009d311-8de6-475e-b5be-8ac44b945e91,Bodrum Tavuk Döner,"14,00 TL",Tavuk Dönerler,7.0
+0ecdec16-e319-4543-b9d9-6b3a8648d903,Kaşarlı Tavuk Döner,"11,00 TL",Tavuk Dönerler,5.0
+0478f986-f6a0-4001-a329-00984ab78887,Kaşarlı Mantarlı Tavuk Döner,"14,00 TL",Tavuk Dönerler,5.0
+61543fab-b9ed-4620-968e-efd498683e0f,Mantarlı Tavuk Döner,"13,00 TL",Tavuk Dönerler,5.0
+56bb9dc6-78cc-4ae8-a441-221f12599880,Hamburger,"12,50 TL",Burgerler,7.0
+a86a33e4-0e9b-4c66-9e47-bd4e2c0877e2,Waffle Sandviç,"12,00 TL",Tatlılar,5.0
+34f7716c-ce0f-4e77-b8e4-52ddcdd3f016,Waffle,"15,00 TL",Tatlılar,5.0
+d37c36a8-1051-47bb-8cee-8291bcdd544e,Frozen,"7,00 TL",İçecekler,5.0
+afb31be3-1599-4154-9145-d1433de14613,Muzlu Süt,"6,00 TL",İçecekler,5.0
+6f7331f6-f264-4b39-9b6e-67fef13d07b6,Sade Milkshake,"7,00 TL",İçecekler,5.0
+5a57fe16-279d-4877-86aa-81b217a2317e,Soğuk Kahve,"7,00 TL",İçecekler,5.0
+c7654976-50cf-4014-bc5e-3380e080b36b,Limonata,"5,00 TL",İçecekler,7.0
+2b070731-8200-4629-8af2-a22cb44b20ad,Poşet,"0,25 TL",Poşet,5.0

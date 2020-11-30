@@ -1,0 +1,61 @@
+food_id,food_name,food_price,food_category,food_score
+74ef1d3a-dbf4-4086-b362-ec60dcec5da5,3'lü Lahmacun Menü,"29,00 TL",Menüler,5.0
+d52375e8-6395-4104-82c9-a9f8f673be2e,Etli Yemek Menü,"25,00 TL",Menüler,0.0
+94d9524a-32b9-42cb-b749-5ea9a83eeab9,İskender (Et Dönerden) Menü,"30,00 TL",Menüler,3.0
+71EB7BFB-16CD-401C-93E7-25C3F5268FB2,Izgara Köfte Menü,"30,00 TL",Menüler,5.0
+6fdbab09-8609-4c0f-95b8-9748fc74c76b,Kıymalı Pide Menü,"22,00 TL",Menüler,0.0
+a855a555-1c4a-472a-a8ff-1f45886ccc3f,Sebze Menü,"21,00 TL",Menüler,5.0
+cb607886-3b7a-48da-ba39-cf18800e11a0,Tam Pizza Menü,"27,00 TL",Menüler,3.0
+78aaaac9-0d90-436c-9366-dc39c41a8e6d,Yarım Pizza Menü,"20,00 TL",Menüler,3.0
+b835f3b8-c522-4faa-88d2-ec637adbea53,Ciğer,"16,00 TL",Ana Yemekler,5.0
+05FEE35C-DCA8-49D1-A1D0-ADF54B1C5183,Et Güveç,"16,00 TL",Ana Yemekler,5.0
+17DF11CC-B389-4C81-BEDB-72A9DFD0D799,Etli Nohut,"16,00 TL",Ana Yemekler,5.0
+68828054-036f-4d64-815b-5cfe940d0932,Güveçte Tavuk,"14,00 TL",Ana Yemekler,5.0
+0f69bbde-ecc8-4be2-ad9d-d5fcb7b1b8dd,"Kuru Fasulye
+","9,00 TL",Ana Yemekler,5.0
+c8e821f8-f336-40aa-b78c-a3cc3e72fbea,Musakka,"13,00 TL",Ana Yemekler,5.0
+973F3189-6562-40BA-AFCA-BF78C9D731C4,Pirinç Pilavı,"7,00 TL",Ana Yemekler,8.0
+ac074ab7-af24-4fa4-ad15-2109062a2b66,Sulu Köfte,"13,00 TL",Ana Yemekler,5.0
+743c01fe-5928-4665-9652-f7a555d5f887,Et Döner Dürüm,"12,00 TL",Et Dönerler,8.0
+dbb85640-fb17-4638-bd00-4cfcd446ad8a,Ekmek Arası Et Döner,"11,00 TL",Et Dönerler,3.0
+e2677710-bcd0-463d-81d0-a7b5679be386,İskender (Et Dönerden),"27,00 TL",Et Dönerler,3.0
+ffc18e33-3e93-4822-ab81-fb6ffdf4986b,Pilav Üstü Et Döner,"30,00 TL",Et Dönerler,-4.0
+1d1f378f-1a1c-414b-8bbb-efb3ccb54254,İskender (Tavuk Dönerden),"22,00 TL",Tavuk Dönerler,3.0
+4c093661-e424-4ccb-8ee1-c80ef07daaa3,Tavuk Döner Dürüm,"10,00 TL",Tavuk Dönerler,3.0
+693e9193-a531-4d41-8792-d3084d51493c,Tavuk Döner,"20,00 TL",Tavuk Dönerler,3.0
+c5b39a63-65dd-4eea-8cea-8659c97bc7aa,Ekmek Arası Tavuk Döner,"7,00 TL",Tavuk Dönerler,8.0
+95e582c4-6f6d-4474-ae10-f2e21d67f316,Lahmacun,"9,00 TL",Fırın Ürünleri,5.0
+0be462e5-b651-45e5-8648-8e37f62517d7,Sucuklu Kaşarlı Pide,"18,00 TL",Fırın Ürünleri,0.0
+1029801b-a8bc-49ac-8bec-82db321ec39b,Kıymalı Pide,"14,00 TL",Fırın Ürünleri,0.0
+13290e2e-020e-4a4c-8b07-68b47a93d53e,Ballı Tahinli Pide,"23,00 TL",Fırın Ürünleri,0.0
+34da4d3b-173f-4b68-80e7-0dee133f83b5,Karışık Special Pide,"20,00 TL",Fırın Ürünleri,0.0
+352245db-c6fd-424e-9fe9-774bf9e0dba7,Kuşbaşılı Kaşarlı Pide,"20,00 TL",Fırın Ürünleri,0.0
+72c3d3e1-7692-45a5-bd2f-72856c9b5f53,Peynirli Pide,"14,00 TL",Fırın Ürünleri,0.0
+77ea565e-54fd-4db9-bb6c-6ca4df68fa75,Kıymalı Kaşarlı Pide,"17,00 TL",Fırın Ürünleri,0.0
+8538f5bb-ea35-4c53-88df-6a6b7f460dce,Kaşarlı Pide,"16,00 TL",Fırın Ürünleri,0.0
+c745995d-7dce-42c5-9322-980ad668e7b6,Kuşbaşılı Pide,"18,00 TL",Fırın Ürünleri,0.0
+ccd104d5-1470-45f0-ac6f-7d72b43ddadf,Tahinli Pide,"17,00 TL",Fırın Ürünleri,0.0
+ea499d75-b925-4781-be03-a8ac006d7811,Kaşarlı Mantarlı Pide,"18,00 TL",Fırın Ürünleri,0.0
+fc4e8d1c-9b85-4b3e-a664-040a7c0cd947,Kıymalı Yumurtalı Pide,"15,00 TL",Fırın Ürünleri,0.0
+94980727-08c4-453c-a090-9e824e8b900f,Salata,"6,00 TL",Mezeler,5.0
+98132eea-4948-42b4-8021-36cb521fb9ac,Yoğurt,"6,00 TL",Mezeler,5.0
+b3509da4-2a5b-4533-94ab-de23a46c6b5a,Cacık,"7,00 TL",Mezeler,5.0
+8BA52E9F-5B4A-4F7E-AFC5-E0E6C0A457AC,Haydari,"8,00 TL",Mezeler,5.0
+0974b3c2-50f9-47fd-a2ec-af01b9d24110,Kaşık Salatası,"8,00 TL",Mezeler,5.0
+78dc86b1-1ec0-484b-961f-d8514e1de63d,Burma Kadayıf,"7,00 TL",Tatlılar,5.0
+63bc42c2-7c19-40bc-b05c-ebf76a07ee26,Ekmek Kadayıfı,"7,00 TL",Tatlılar,5.0
+591AAF6B-DAFB-43B1-8371-0932B947D252,Diyarbakır Burma,"10,00 TL",Tatlılar,5.0
+2E145395-72A9-4C55-9ABD-ABBFC09F5C1F,Kaymaklı Ekmek Kadayıfı,"10,00 TL",Tatlılar,5.0
+D3CFDD12-BF6F-422C-9C23-14C9AF0DEE4C,Kaymaklı Kemalpaşa Tatlısı,"10,00 TL",Tatlılar,5.0
+CE11E316-06BE-4436-8A51-4C877BB6EC74,Kaymaklı Künefe,"15,00 TL",Tatlılar,5.0
+fa78371d-c1d5-4589-891f-8aebf71f4ec5,Kemalpaşa Tatlısı,"7,00 TL",Tatlılar,5.0
+2f12e12f-0753-47ba-8c9a-91395a23d095,Künefe,"12,00 TL",Tatlılar,5.0
+dacb5659-03f4-4cf0-8b71-7acf93cb0004,Sütlaç,"7,00 TL",Tatlılar,5.0
+d4be9880-3590-4880-a2a7-a23708c11a4d,Tel Kadayıf,"7,00 TL",Tatlılar,5.0
+47903E00-7708-4103-8549-BE0A03098F75,Kaymak,"4,00 TL",Tatlılar,5.0
+558BB2F8-4AAD-4316-8820-B0C1694C0DBA,Açık Ayran (50 cl.),"8,00 TL",İçecekler,5.0
+e14ef891-5c7a-40c3-9e14-f47ad2830b7e,Zafer Gazoz (25 cl.),"4,00 TL",İçecekler,5.0
+12830c81-9306-417e-842c-ebafdda93597,Acılı Şalgam Suyu (30 cl.),"4,00 TL",İçecekler,5.0
+b48728f0-1040-4963-b3a3-8526b00a8fe9,Turşu Suyu (30 cl.),"3,00 TL",İçecekler,5.0
+0aacc09b-6a95-4319-8a9a-d12baacc5140,Arı Sütü (10 Adet),"22,00 TL",İçecekler,5.0
+a84763bf-c3be-4992-aeb5-a5e560424ab6,Poşet,"0,25 TL",Poşet,5.0

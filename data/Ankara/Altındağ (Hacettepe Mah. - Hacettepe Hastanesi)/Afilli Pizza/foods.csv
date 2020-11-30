@@ -1,0 +1,104 @@
+food_id,food_name,food_price,food_category,food_score
+0a901d5d-6022-486c-9c3b-cdbefcb3c5d0,Kral Menü,"30,00 TL",Promosyonlu Menüler,7.0
+b76ca41b-e26a-4256-bc48-883c99bdb1cc,Tanışma Menü,"29,00 TL",Promosyonlu Menüler,5.0
+4fb7cfba-dd10-4617-99b3-31f11eeab506,Tavuk Sepeti,"23,00 TL",Promosyonlu Menüler,6.0
+3e1c36dd-a2c1-42e5-9ebc-0c50b0456745,Üç Kafadar Menü,"57,00 TL",Promosyonlu Menüler,5.0
+2f081eed-197b-427b-9455-3c7620a25e23,Ortaya Karışık Menü,"77,00 TL",Promosyonlu Menüler,13.0
+f10be3f5-103f-4a28-a0eb-44f9b8547d09,Büyük Menü,"45,00 TL",Promosyonlu Menüler,7.0
+4f3ab215-e18e-41c3-a6cf-43a086072bf1,Ayrılmaz İkili Menü,"42,00 TL",Promosyonlu Menüler,5.0
+8d5d9f11-9592-49f6-967d-5e0baedfb1ec,4x4'lük Menü,"36,00 TL",Promosyonlu Menüler,5.0
+9e12f254-a384-44b7-96c9-fa9725df53dd,Afilli Menü,"90,00 TL",Promosyonlu Menüler,3.0
+d72f075f-0289-4c3d-914c-8c0f7cef1753,Menü 1,"23,00 TL",Promosyonlu Menüler,42.0
+ba878fe8-529d-473f-887b-608ff69339b1,Menü 2,"42,00 TL",Promosyonlu Menüler,12.0
+fef489b0-3fa7-4bd2-8a4b-7bba3bafbe87,Menü 3,"31,00 TL",Promosyonlu Menüler,11.0
+e69b206f-74b8-4679-ac53-30c1bfea748f,Menü 4,"52,00 TL",Promosyonlu Menüler,5.0
+ff03465d-9140-4df7-b1b2-93632e4df8fe,Menü 5,"39,00 TL",Promosyonlu Menüler,14.0
+625e16dc-4248-42eb-be4d-2bfeafd25690,Menü 6,"49,00 TL",Promosyonlu Menüler,5.0
+79573501-91e7-4d95-8a9a-5b16e10685e8,Menü 7,"66,00 TL",Promosyonlu Menüler,7.0
+4e967613-1b16-4b1e-a290-a116168380bd,Menü 8,"78,00 TL",Promosyonlu Menüler,7.0
+B61DCDB3-20A3-4EB7-A2DD-F7409EF42466,Menu 11,"32,00 TL",Promosyonlu Menüler,10.0
+9a6568ba-53bb-495a-b4e8-a2be65534100,Menü 12,"105,00 TL",Promosyonlu Menüler,5.0
+87d68121-dda7-4376-8d2e-a6961581080b,Menü 13,"29,00 TL",Promosyonlu Menüler,5.0
+1b7276be-4e85-4265-abdc-5f8fe0b54148,Chicken Fingers (6 Adet),"18,00 TL",Aperitifler,5.0
+94e17f90-aaa7-49dc-b369-fa3e3293dd25,Çıtır Tavuk (4 Adet),"12,00 TL",Aperitifler,8.0
+86706762-0399-4bb9-a348-c75365f9d310,Çıtır Tavuk (Adet),"3,00 TL",Aperitifler,8.0
+7004465d-997e-4d5e-953a-c66c46996e5b,Patates Kızartması,"8,00 TL",Aperitifler,13.0
+20b5a043-134e-483d-980b-7919f087d2be,Sarımsaklı Ekmek,"6,00 TL",Aperitifler,5.0
+fe4644bb-5893-4873-aff4-223e94c1b748,Sarımsaklı Peynirli Ekmek,"8,00 TL",Aperitifler,9.0
+b69f1f29-98ff-4b1f-b6c2-e97d1769a99e,Sarımsaklı Peynirli Sucuklu Ekmek,"10,00 TL",Aperitifler,9.0
+cfa3cf7b-22d5-4393-bde0-f640f2060c87,Soğan Halkası (5 Adet),"5,00 TL",Aperitifler,6.0
+7877b762-a1be-4936-9b69-35cb6ddb1f1d,Soğan Halkası (8 Adet),"8,00 TL",Aperitifler,6.0
+d9a14ab2-5568-404d-a132-116015079279,5 Malzemeli Pizza (Küçük),"20,00 TL",Küçük Boy Pizzalar (23 cm.),52.0
+05d7cb23-b5de-4524-a18c-a0d4549d449c,Afilli Soslu Madalyon Pizza (Küçük),"25,00 TL",Küçük Boy Pizzalar (23 cm.),41.0
+75f05bf6-0ef0-419d-a1f8-abb9372f348d,Afilli Soslu Sucuklu Pizza (Küçük),"25,00 TL",Küçük Boy Pizzalar (23 cm.),41.0
+ca36fc55-37ab-444d-930e-13e4c9f9061a,Afilli Soslu Tavuklu Pizza (Küçük),"25,00 TL",Küçük Boy Pizzalar (23 cm.),41.0
+80b5de17-a118-48b5-907e-2416d8bf107a,Afilli Special Pizza (Küçük),"22,00 TL",Küçük Boy Pizzalar (23 cm.),41.0
+ce905c85-4e6c-4aff-ada1-7db7daef4bdf,Akdeniz Pizza (Küçük),"20,00 TL",Küçük Boy Pizzalar (23 cm.),43.0
+0a7b36d7-a60d-4291-9fce-6df43074c575,Anadolu Lezzeti Pizza (Küçük),"22,00 TL",Küçük Boy Pizzalar (23 cm.),48.0
+bdbcffce-e1e5-4bc2-8cd8-66648df436e9,Barbekü Tavuklu Pizza (Küçük),"20,00 TL",Küçük Boy Pizzalar (23 cm.),42.0
+97e138ec-30e4-4937-b5e7-ca7500688b3e,Çeşit Çeşit Peynir Pizza (Küçük),"20,00 TL",Küçük Boy Pizzalar (23 cm.),53.0
+a3fd62ce-e86d-4db1-8426-2db1a73eaa2c,Karışık Pizza (Küçük),"20,00 TL",Küçük Boy Pizzalar (23 cm.),51.0
+94d1d5b2-bb97-48f7-97d1-0644a265881d,Köri Soslu Tavuklu Pizza (Küçük),"20,00 TL",Küçük Boy Pizzalar (23 cm.),43.0
+356e0cd9-e65b-4293-a0ac-7caabeb2cb5d,Kumru Pizza (Küçük),"20,00 TL",Küçük Boy Pizzalar (23 cm.),43.0
+7e72a9c6-d38f-4790-b677-b2791785cafe,Mantarlı Pizza (Küçük),"20,00 TL",Küçük Boy Pizzalar (23 cm.),44.0
+fb7af9a9-e7bc-4ee1-a680-7641abf48ec1,Margarita Pizza (Küçük),"20,00 TL",Küçük Boy Pizzalar (23 cm.),43.0
+4eefd1ff-f03d-4442-8609-ed12b33f33c3,Marios Pizza (Küçük),"20,00 TL",Küçük Boy Pizzalar (23 cm.),43.0
+d71ae383-656e-4cd1-ad39-afd144f01374,Mexicano Pizza (Küçük),"22,00 TL",Küçük Boy Pizzalar (23 cm.),43.0
+3541ed1d-a1e6-4b52-be8d-5bf1180b8819,Mezzaluna Pizza (Küçük),"20,00 TL",Küçük Boy Pizzalar (23 cm.),43.0
+0296ec13-b3a0-4b65-a3ab-58b429224f38,Pastırmalım Pizza (Küçük),"22,00 TL",Küçük Boy Pizzalar (23 cm.),43.0
+c41454b1-f0e3-4fde-bb68-24afe4fb5840,Sebzeli Pizza (Küçük),"20,00 TL",Küçük Boy Pizzalar (23 cm.),43.0
+f7bddebb-b7f1-41d4-87f0-193421c71c09,Sosisli Pizza (Küçük),"20,00 TL",Küçük Boy Pizzalar (23 cm.),43.0
+7b0cc834-275c-4ed0-853c-f818abc200ca,Sucuklu Pizza (Küçük),"20,00 TL",Küçük Boy Pizzalar (23 cm.),43.0
+e39c1257-4099-46f7-bcbf-ff03af98f191,Ton Balıklı Pizza (Küçük),"22,00 TL",Küçük Boy Pizzalar (23 cm.),43.0
+a8747ef8-c4b5-4d68-b5a5-ddf9dcfe39db,5 Malzemeli Pizza (Orta),"27,00 TL",Orta Boy Pizzalar (30 cm.),52.0
+3db99b26-a72b-4b9f-85c0-33082334f608,Afilli Soslu Madalyon Pizza (Orta),"33,00 TL",Orta Boy Pizzalar (30 cm.),41.0
+bee78750-6c77-4707-954a-735511a74d8a,Afilli Soslu Sucuklu Pizza (Orta),"33,00 TL",Orta Boy Pizzalar (30 cm.),41.0
+4e7dddf7-ebf1-41fd-baf3-3e82ea1221b8,Afilli Soslu Tavuklu Pizza (Orta),"33,00 TL",Orta Boy Pizzalar (30 cm.),41.0
+6ca78677-8cbc-4d6c-bc5a-0c06fe06c189,Afilli Special Pizza (Orta),"30,00 TL",Orta Boy Pizzalar (30 cm.),41.0
+da4299fc-fc77-4fc7-9e6b-a4b8a5e59973,Akdeniz Pizza (Orta),"27,00 TL",Orta Boy Pizzalar (30 cm.),43.0
+0c4fbf06-bb7b-42b4-91db-6baa25b10448,Anadolu Lezzeti Pizza (Orta),"30,00 TL",Orta Boy Pizzalar (30 cm.),48.0
+a5a90d7b-521c-4683-8935-95c5f197789c,Barbekü Tavuklu Pizza (Orta),"27,00 TL",Orta Boy Pizzalar (30 cm.),42.0
+9b6d0fc1-29b7-4fb5-9a3a-4cf898419a5a,Çeşit Çeşit Peynir Pizza (Orta),"27,00 TL",Orta Boy Pizzalar (30 cm.),53.0
+49fc4e10-735b-41bb-b437-0915ce2555d0,Karışık Pizza (Orta),"27,00 TL",Orta Boy Pizzalar (30 cm.),51.0
+871f3967-fed9-4d72-aa1a-4101718c17fa,Kumru Pizza (Orta),"27,00 TL",Orta Boy Pizzalar (30 cm.),43.0
+2e0e2ddb-4929-45a0-af53-0de61f95803a,Mantarlı Pizza (Orta),"27,00 TL",Orta Boy Pizzalar (30 cm.),44.0
+95567da7-8f25-4e0a-9215-58b7432266fb,Margarita Pizza (Orta),"27,00 TL",Orta Boy Pizzalar (30 cm.),43.0
+3bcb2c71-6b96-4999-81bf-7b4fe50b6e50,Marios Pizza (Orta),"27,00 TL",Orta Boy Pizzalar (30 cm.),43.0
+2c165128-ab26-4d54-81fc-d048db5ee271,Köri Soslu Tavuklu Pizza (Orta),"27,00 TL",Orta Boy Pizzalar (30 cm.),43.0
+05d13e37-b635-4c4e-a9fa-a67a134e0bad,Mexicano Pizza (Orta),"30,00 TL",Orta Boy Pizzalar (30 cm.),43.0
+aa94ee74-da0b-49ff-af33-4d3d7a244f12,Mezzaluna Pizza (Orta),"27,00 TL",Orta Boy Pizzalar (30 cm.),43.0
+4ed29da5-6f1b-4ef3-ba48-06c8daae33a6,Pastırmalım Pizza (Orta),"30,00 TL",Orta Boy Pizzalar (30 cm.),43.0
+a0ade62e-696f-4d2a-b84d-7741def01fe4,Sebzeli Pizza (Orta),"27,00 TL",Orta Boy Pizzalar (30 cm.),43.0
+de874adb-5204-4feb-9938-2a2735884fde,Ton Balıklı Pizza (Orta),"30,00 TL",Orta Boy Pizzalar (30 cm.),43.0
+d47a499c-3857-465f-8047-f6bd1db5ebce,Sosisli Pizza (Orta),"27,00 TL",Orta Boy Pizzalar (30 cm.),43.0
+93dbf0fc-7cb3-47b1-a7e9-51887da71abf,Sucuklu Pizza (Orta),"27,00 TL",Orta Boy Pizzalar (30 cm.),43.0
+29a57da2-c43b-47ab-ba78-90b247d6b90e,5 Malzemeli Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (36 cm.),52.0
+606dbdf0-4852-4c21-b2ee-44b450266519,Afilli Soslu Madalyon Pizza (Büyük),"42,00 TL",Büyük Boy Pizzalar (36 cm.),41.0
+5de0dde0-cb9a-4166-8c2c-8032c5180193,Afilli Soslu Sucuklu Pizza (Büyük),"42,00 TL",Büyük Boy Pizzalar (36 cm.),41.0
+da07d888-5b1f-4f5c-a98d-ac3ff915ba40,Afilli Soslu Tavuklu Pizza (Büyük),"42,00 TL",Büyük Boy Pizzalar (36 cm.),41.0
+c3007fd2-00d1-4fe1-8a31-de727834e54a,Afilli Special Pizza (Büyük),"38,00 TL",Büyük Boy Pizzalar (36 cm.),41.0
+8853216a-b771-43b3-872d-ee13d0f62580,Akdeniz Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (36 cm.),43.0
+0e9c5313-c0b8-44ae-9299-b2b4374428a8,Anadolu Lezzeti Pizza (Büyük),"38,00 TL",Büyük Boy Pizzalar (36 cm.),48.0
+5d5b03b4-ea13-4da6-bdb4-578ca2dad458,Barbekü Tavuklu Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (36 cm.),42.0
+7aa0f741-01b1-4d87-9fe7-3e233eb338ea,Çeşit Çeşit Peynir Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (36 cm.),53.0
+644fe0a1-6883-4263-8265-57a5edb642a3,Karışık Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (36 cm.),56.0
+cad00b30-a5b8-413a-9603-2683c3f86c35,Köri Soslu Tavuklu Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (36 cm.),43.0
+cf4b88ff-db48-4623-bd46-87069608ba3e,Kumru Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (36 cm.),43.0
+23a6a418-9777-478b-9d77-1027805e76de,Mantarlı Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (36 cm.),44.0
+2c326b1d-499f-49c2-bf59-4920ea3642b7,Margarita Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (36 cm.),43.0
+cb746ec9-17ea-410b-951b-096468de5fee,Marios Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (36 cm.),43.0
+2790ff5e-9245-4904-ae11-7074f133f9ec,Mexicano Pizza (Büyük),"38,00 TL",Büyük Boy Pizzalar (36 cm.),43.0
+e185fbc3-1c06-4ef4-be7a-18de3559fd6e,Mezzaluna Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (36 cm.),43.0
+a0ddd9ab-e59c-4445-bf4b-24bd5b882563,Pastırmalım Pizza (Büyük),"38,00 TL",Büyük Boy Pizzalar (36 cm.),43.0
+3d2c04d2-548f-4d36-a27c-0aa7769abcd2,Sebzeli Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (36 cm.),43.0
+8c8e9005-5cff-4b41-b875-63dc24bc8df6,Sosisli Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (36 cm.),43.0
+6795d84d-07e8-440b-9b2b-8a2b9d302e06,Sucuklu Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (36 cm.),43.0
+a21476b9-7e5c-4cb5-9116-6babd1d7a8cd,Ton Balıklı Pizza (Büyük),"38,00 TL",Büyük Boy Pizzalar (36 cm.),43.0
+346af640-6b5e-4545-9aff-34faa34809fb,Sufle,"12,00 TL",Tatlılar,8.0
+252d7edb-6d81-4a26-b3a9-6200a2cded80,Coca-Cola Lime (33 cl.),"5,00 TL",İçecekler,5.0
+15f75415-e275-4c2c-888e-f0efdb0aca44,Coca-Cola Şekersiz (20 cl.),"4,00 TL",İçecekler,5.0
+625e33cc-a6c7-4b7f-9c48-643e11ad0bf8,Fuse Tea (20 cl.),"4,00 TL",İçecekler,5.0
+a77ee089-6b34-4f24-8f0c-a03e54f52d55,Pepsi Twist (33 cl.),"5,00 TL",İçecekler,5.0
+2b0135f2-73b2-4b10-a939-db351c4b3efe,Pepsi Max (20 cl.),"4,00 TL",İçecekler,5.0
+092211c9-2505-4965-bdda-140c42db8dbe,Pepsi Twist (20 cl.),"4,00 TL",İçecekler,5.0
+71bf3ee1-756d-49fb-8512-8847d59977b3,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,52 @@
+food_id,food_name,food_price,food_category,food_score
+8072b152-5bc3-4ce6-9303-88506a2b0a43,Tavuk Döner Dürüm Menü,"17,00 TL",Menüler,-4.0
+67933418-fbbc-43cf-bf96-7776b89cc711,Et Döner Dürüm Menü,"24,00 TL",Menüler,-4.0
+ad8f07de-774d-454c-8211-ece13b569c8e,Pilav Üstü Et Döner,"29,00 TL",Et Dönerler,2.0
+9f7f8b72-6260-4251-a38e-901dca4f30d8,Et Döner,"29,00 TL",Et Dönerler,2.0
+27d703f3-bcad-4a64-acc3-69f038648034,Kaşarlı Et Döner,"19,00 TL",Et Dönerler,1.0
+8864b68e-fbbd-421c-aedc-8de6d0d67301,İskender (Et Dönerden),"31,00 TL",Et Dönerler,3.0
+92697ba5-6922-4fde-abd1-ff565f2cebfb,Et Döner Dürüm,"16,00 TL",Et Dönerler,-5.0
+5e2b58e8-5e91-4c47-a09b-ef2326bbe7cc,Kaşarlı Et Döner Dürüm,"19,00 TL",Et Dönerler,-6.0
+740617c3-d07c-455f-85f4-dd2c20c4e39e,Psikopat Et Döner Dürüm,"18,00 TL",Et Dönerler,-4.0
+36c32c40-4d5d-47bb-ab0a-0528e2053572,Psikopat Kaşarlı Et Döner Dürüm,"21,00 TL",Et Dönerler,-5.0
+26a3d700-6385-4fbc-b13e-6073994395dc,Boru Et Döner Dürüm,"18,00 TL",Et Dönerler,-4.0
+3841f290-3b6c-47c4-96c8-e6186957c1c7,Zurna Et Döner Dürüm (80 cm.),"31,00 TL",Et Dönerler,-5.0
+5bada375-0d4b-4cc1-a88a-dac1968bfd2b,Extra Zurna Kaşarlı Et Döner Dürüm,"37,00 TL",Et Dönerler,-6.0
+a469826d-9b05-405c-9b40-dd58a46bf127,Et Shawarma Dürüm,"18,00 TL",Et Dönerler,-3.0
+2623a22b-1088-4e5f-83fb-f02046458f73,Kaşarlı Et Şavurma Dürüm,"21,00 TL",Et Dönerler,-2.0
+0e40a9ae-575d-4700-abed-19a542e759eb,Ekmek Arası Et Döner,"16,00 TL",Et Dönerler,2.0
+01b2e825-40fc-4923-924b-7cc9ba8a4968,Tombik Ekmek Arası Et Döner,"16,00 TL",Et Dönerler,2.0
+b2e201c1-0a3e-469f-a3b2-c5baeff345ea,Ekmek Arası Kaşarlı Et Döner,"19,00 TL",Et Dönerler,1.0
+daad045a-be78-42a6-9eec-5769fbd5f34e,Tombik Ekmek Arası Kaşarlı Et Döner,"19,00 TL",Et Dönerler,1.0
+2DA3CD7B-0508-4573-8451-6C542D2305DD,Antakya Usulu Et Döner Dürüm,"18,00 TL",Et Dönerler,-3.0
+9D493503-D544-4807-A201-A1524CA885E8,"Tavuk Döner Dürüm (1,5 Porsiyon)","15,00 TL",Tavuk Dönerler,-5.0
+BC30F25E-E695-4F29-8BE7-95776B668E51,"Ekmek Arası Tavuk Döner (1,5 Porsiyon)","14,50 TL",Tavuk Dönerler,2.0
+2307191A-08AA-4374-8F7B-202144F12209,"Tombik Ekmek Arası Tavuk Döner (1,5 Porsiyon)","15,00 TL",Tavuk Dönerler,2.0
+6ceb61d9-25b1-4b8c-beef-76c5f89e62e3,Tavuk Döner,"18,00 TL",Tavuk Dönerler,2.0
+b92434f9-97cd-41b1-acc9-b4b148514c8a,İskender (Tavuk Dönerden),"26,00 TL",Tavuk Dönerler,3.0
+61b62b96-b82f-47b8-940b-8cca038e50fc,Tavuk Döner Dürüm,"10,00 TL",Tavuk Dönerler,0.0
+63252181-4bad-4134-bf4e-5b5a19291e95,Kaşarlı Tavuk Döner Dürüm,"13,50 TL",Tavuk Dönerler,-6.0
+bb3aebf6-6788-42d3-affc-67f762f58884,Psikopat Tavuk Döner Dürüm,"12,00 TL",Tavuk Dönerler,1.0
+38c79b8a-9e70-4cd7-b6eb-11f926d00785,Psikopat Kaşarlı Tavuk Döner Dürüm,"15,00 TL",Tavuk Dönerler,-5.0
+b76c8d11-2ac5-4477-9f35-54a164850e87,Boru Tavuk Döner Dürüm,"12,00 TL",Tavuk Dönerler,1.0
+b5913d5c-d783-4f58-9fb2-e1f2bc718026,Zurna Tavuk Döner Dürüm,"20,00 TL",Tavuk Dönerler,-5.0
+78ca281f-1d20-49d4-93fa-95c495f3b20a,Extra Zurna Kaşarlı Tavuk Döner Dürüm,"25,00 TL",Tavuk Dönerler,-6.0
+ebab3299-6f18-442e-bd8e-72ee8be73791,Tavuk Şavurma Dürüm,"11,00 TL",Tavuk Dönerler,-1.0
+ad55f278-1848-4ee4-95e4-ab3cdb275eb6,Kaşarlı Tavuk Şavurma Dürüm,"15,00 TL",Tavuk Dönerler,-2.0
+89303040-c8f9-42d9-a8f3-3477819ead97,Ekmek Arası Tavuk Döner,"10,00 TL",Tavuk Dönerler,2.0
+dc15ccf2-07d6-48f9-9859-3b37284d5894,Tombik Ekmek Arası Tavuk Döner,"10,00 TL",Tavuk Dönerler,2.0
+e7fb01b9-d682-487f-b50e-73ee7e689a91,Ekmek Arası Kaşarlı Tavuk Döner,"13,50 TL",Tavuk Dönerler,1.0
+b090aac7-9d05-4663-8d21-84b1a9deaee4,Tombik Ekmek Arası Kaşarlı Tavuk Döner,"13,50 TL",Tavuk Dönerler,1.0
+358D8FA9-9368-4D9B-A19F-0172B5BDB5E3,Antakya Usulü Tavuk Döner Dürüm,"12,00 TL",Tavuk Dönerler,-3.0
+e9f74f22-a8b3-444b-80f5-1f6cd7d0e959,Köfte Dürüm,"14,00 TL",Köfteler,-2.0
+683a2b6c-4a6a-460a-aa29-45b31fd7de93,Patates Kızartması,"10,00 TL",Yan Ürünler,7.0
+B6F4F211-3085-4273-B87D-409DAAC5076E,Biber Turşusu,"6,00 TL",Yan Ürünler,6.0
+04adb593-d8e4-46f5-892a-8d5c07ad93a6,Künefe,"15,00 TL",Tatlılar,5.0
+eed238d4-edb1-4053-a5b7-449d96257665,Frambuazlı Trileçe,"12,00 TL",Tatlılar,5.0
+ad08c86b-9a60-4e34-8fb9-8e1954acb0c6,Karamelli Trileçe,"12,00 TL",Tatlılar,5.0
+689e8d73-b9f1-4eeb-8b4c-5dfcce2a9841,Tamek (33 cl.),"5,00 TL",İçecekler,5.0
+bd950fb7-dfa6-4666-819c-ba43e16e9489,Karakız Şalgam Suyu (25 cl.),"5,00 TL",İçecekler,5.0
+543bf3fc-e930-4e9e-9ad6-b55e59ce1fc8,Su,"2,00 TL",İçecekler,5.0
+e5246a11-c607-494f-ac4f-b06156028eb2,Fruko (1 L.),"8,00 TL",İçecekler,4.0
+a415364e-e2a6-48d8-84b8-55a3fc5ffd37,7UP (1 L.),"8,00 TL",İçecekler,4.0
+52091a4b-4851-4149-8e45-159b02a5c1b0,Poşet,"0,25 TL",Poşet,6.0

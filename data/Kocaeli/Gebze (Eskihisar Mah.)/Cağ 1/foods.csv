@@ -1,0 +1,26 @@
+food_id,food_name,food_price,food_category,food_score
+5666d847-167e-4393-932e-6dae3dda593b,8'li Lahmacun Menü,"42,00 TL",Menüler,20.0
+fbb2d3bf-ca2f-4ff8-9988-c8cae105488f,10'lu Lahmacun Menü,"50,00 TL",Menüler,20.0
+838C74AC-D25A-42F9-924F-64104269BA13,Urfa Dürüm,"15,00 TL",Dürümler,7.0
+FA6C9C36-E6BE-401C-A9C2-3607C6D522C7,Adana Dürüm,"15,00 TL",Dürümler,12.0
+D748916F-B42B-4D4A-8740-5C0E1F2EE6D9,Tavuk Şiş Dürüm,"14,00 TL",Dürümler,7.0
+46d976c9-e67f-4361-938e-5b859ff80062,Fındık Lahmacun,"2,50 TL",Lahmacunlar,29.0
+e185fc4b-5971-4b38-bb40-67564445288e,Lahmacun,"5,00 TL",Lahmacunlar,25.0
+5DD48525-30D0-46B5-9386-893352CAE08B,Urfa Kebap,"24,00 TL",Kebaplar & Izgaralar,5.0
+49574928-66D4-45E7-83CC-0A26275709A5,Adana Kebap,"24,00 TL",Kebaplar & Izgaralar,5.0
+34B5F806-8445-405E-B446-BE80D73DA1A5,Tavuk Şiş,"20,00 TL",Kebaplar & Izgaralar,5.0
+8A9CDDB8-61E8-4EFC-B9FD-3CD1F31B8421,Tavuk Kanat,"22,00 TL",Kebaplar & Izgaralar,5.0
+00587390-747A-40FF-A6F6-5886CDED967B,Karışık Izgara,"60,00 TL",Kebaplar & Izgaralar,5.0
+b3d31aa5-581a-4f1c-8a84-9686c217c31d,Kaşarlı Pide,"18,00 TL",Pideler,6.0
+ea5732f2-8be4-4ac1-8e99-0fb12ff26729,Kıymalı Pide,"18,00 TL",Pideler,6.0
+f62061e9-d0ab-45b0-8694-091555db71c1,Kıymalı Kaşarlı Pide,"18,00 TL",Pideler,6.0
+9e0ae3ef-3ea8-4dea-9e59-e06a06c43d7d,Kuşbaşılı Pide,"20,00 TL",Pideler,6.0
+0024d590-3b79-4c32-926c-33fd33713907,Kuşbaşılı Kaşarlı Pide,"20,00 TL",Pideler,6.0
+1146f1f0-d200-4b72-b381-624bd87beaeb,Kavurmalı Kaşarlı Pide,"24,00 TL",Pideler,6.0
+f64484a7-3f9a-4252-ab3b-58dd8c93f02a,Trabzon Yağlısı,"20,00 TL",Pideler,5.0
+637f5033-d20d-4453-9483-1b1f3d48853e,Karışık Pide,"20,00 TL",Pideler,6.0
+2b1f2a2b-6f79-4908-90e8-c0ca4827ffe0,Künefe,"12,00 TL",Tatlılar,5.0
+9c75a0e3-8276-4465-95b1-debb052b92a2,Katmer,"14,00 TL",Tatlılar,5.0
+f80a5fc4-c8f7-4eea-a6aa-f3c79782b5f3,"Su (1,5 L.)","4,00 TL",İçecekler,5.0
+e080fd06-de3e-4f42-a77b-035c596defb2,"Fanta (2,5 L.)","9,00 TL",İçecekler,5.0
+c03fee37-61da-4618-a4ca-1f367a3a75d7,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,79 @@
+food_id,food_name,food_price,food_category,food_score
+c30bee62-d383-4b3f-a94d-b112e8bd475d,Köri Soslu Tavuk Menü,"45,00 TL",Menüler,5.0
+dd3026cb-4bd4-4eeb-ba6e-c2846dccdfbb,Penne Arabiatta Menü,"45,00 TL",Menüler,7.0
+e6e6c53e-0a07-442e-83c3-58f2d9115b4e,Tavuk Burger Menü,"40,00 TL",Menüler,5.0
+1276ae1e-e30e-4c78-be8c-75799329ee1a,Kahvaltı Tabağı,"45,00 TL",Kahvaltılıklar,5.0
+bde886ef-28ce-4fde-933a-8c8d295e6cc5,Süper Kahvaltı,"30,00 TL",Kahvaltılıklar,5.0
+29f0e756-0318-4f0e-91b4-16d537c91ee0,Menemen,"18,00 TL",Omletler,5.0
+3b16552e-6a28-43ca-b5b7-d4a03bafb3f8,Peynirli Omlet,"17,00 TL",Omletler,3.0
+5a06a472-e317-4fbf-b871-6cf57a16a03d,Sade Omlet,"15,00 TL",Omletler,5.0
+5c0a082f-265b-4372-9487-c9d52f1525bb,Sahanda Sucuk,"21,00 TL",Omletler,5.0
+8a964098-485d-49ce-a0b8-7f239eef9a94,Sahanda Yumurta,"14,00 TL",Omletler,5.0
+fc8fa564-959c-4d2a-809d-a4550bf01135,Sucuklu Yumurta,"19,00 TL",Omletler,5.0
+fe89eaae-2c81-40a3-8fa1-eabe71f1878e,Kavurma Yumurta,"26,00 TL",Omletler,5.0
+49d4e54d-2e80-45b1-8837-0c1e7207af97,Karışık Tost,"23,00 TL",Tostlar,5.0
+63d5a71b-6e77-4d61-9b15-d974aae8e6ca,Beyaz Peynirli Domatesli Tost,"19,00 TL",Tostlar,3.0
+78b88a30-5791-48c8-8d02-8e7560b8aa5f,Kaşarlı Tost,"15,00 TL",Tostlar,5.0
+22b8768c-5c80-4d74-a5f7-35fade6bf759,Kıymalı Gözleme,"25,00 TL",Gözlemeler,5.0
+4cc3d55c-ea77-4082-adcc-8db6a4ac42c3,Peynirli Gözleme,"20,00 TL",Gözlemeler,3.0
+7a1e4495-0569-4802-b264-5357bbdca534,Patatesli Gözleme,"17,00 TL",Gözlemeler,4.0
+466ed9f8-2427-4498-b87c-07bd063ed18f,Tavuk Panini,"29,00 TL",Sandviçler,3.0
+826675df-748a-41af-9e53-d4d577548d98,Soğuk Sandviç,"25,00 TL",Sandviçler,5.0
+9de24180-4f10-4169-9abd-f57139bf9980,Etli Panini,"37,00 TL",Sandviçler,5.0
+3abbc9a0-ec04-4c5d-a6f5-55c77cecfa42,Cheeseburger,"35,00 TL",Burgerler,5.0
+4b97adb6-3d76-4bf6-9170-368bb159eaed,Hamburger,"33,00 TL",Burgerler,5.0
+bb6bb28c-75fc-41ce-a553-a2b0be6561f6,Chicken Burger,"29,00 TL",Burgerler,5.0
+038697d0-d374-470e-a62f-e4e28ad6c106,Izgara Antrikot,"65,00 TL",Izgara Etler,5.0
+0d18ba27-18f9-467d-aece-7855b8d38cae,Mushroom Steak,"60,00 TL",Izgara Etler,5.0
+11f01f97-9b7a-4198-8a72-41ced914f3d1,Big Mamma'S Bonfile,"65,00 TL",Izgara Etler,5.0
+1b039b95-ac50-4f44-8a78-0a3ab725a6bc,Pepper Steak,"60,00 TL",Izgara Etler,5.0
+c5194a22-15f1-4a21-b444-591ddbcfa6ce,Cafe De Paris,"65,00 TL",Izgara Etler,5.0
+1dba0ce9-87ea-4f55-9341-74d1e86ad19e,Izgara Köfte,"40,00 TL",Izgara Tavuklar,5.0
+42dcbca7-04d3-41bf-b48c-7603246ded9a,Tavuk Pirzola,"38,00 TL",Izgara Tavuklar,3.0
+2e01d6a1-c191-4604-8960-3e03b02a1e47,Izgara Tavuk,"35,00 TL",Izgara Tavuklar,8.0
+7bb6e85d-6db8-45f7-ada1-5925508b43c6,Chicken Mushroom,"40,00 TL",Izgara Tavuklar,5.0
+a5053d06-4f5b-4cfa-adb4-d7e9b11ac774,Köri Soslu Tavuk,"36,00 TL",Izgara Tavuklar,8.0
+9a589e7b-08fe-47e2-84e6-af84f8dfa773,Meksika Soslu Tavuk,"40,00 TL",Izgara Tavuklar,3.0
+ae497489-87b0-477a-8dd2-836e9c591e09,Tavuk Schnitzel,"35,00 TL",Izgara Tavuklar,3.0
+162a5459-fbd9-41ea-9913-7b1239da87af,Acapulco,"40,00 TL",Pizzalar,5.0
+7561913f-807c-4f14-9e0d-ebd254eae8dc,Della Casa,"49,00 TL",Pizzalar,5.0
+97da9621-f5e7-46da-948d-cb6d410d19fc,Margherita,"30,00 TL",Pizzalar,5.0
+c170f715-c0ea-40d2-b134-afe2f80b4f8e,Moby Dick,"40,00 TL",Pizzalar,5.0
+de8220cc-0027-40b5-98a5-b6f0649a698a,Fettucine Chicken,"40,00 TL",Makarnalar & Mantılar,5.0
+c1b86f3c-3b11-4e73-9605-a72b3128cd31,Big Mamma'S Makarna,"30,00 TL",Makarnalar & Mantılar,5.0
+2466c084-44b2-44b4-8d17-60b0650aef25,Penne Arrabbiata,"35,00 TL",Makarnalar & Mantılar,5.0
+3465d33c-7d77-484c-81c3-2b7382e80dbf,Tagliatelle Alfredo,"40,00 TL",Makarnalar & Mantılar,5.0
+4b448daa-017f-46d2-9d36-003b97820636,3 Renkli Tortellini,"36,00 TL",Makarnalar & Mantılar,5.0
+919c24b4-a0c6-417b-84c8-74f0bd19d7af,Spaghetti Bolognese,"40,00 TL",Makarnalar & Mantılar,5.0
+e5a71625-d195-40b6-abc4-623d9a5b43da,Big Mamma'S Mantı,"35,00 TL",Makarnalar & Mantılar,5.0
+19e4cc26-9012-4e78-b651-345bfe5e905b,Tavuklu Quasedilla,"39,00 TL",Quesadillalar,5.0
+50b1e9d7-71b5-4246-a761-5f893e7963bb,Etli Quasedilla,"45,00 TL",Quesadillalar,5.0
+2bdd9b44-47db-4308-baf1-3ee738186b2c,Etli Wrap,"40,00 TL",Wrapler,5.0
+4ffd306f-9f87-48e2-8629-6beeca858625,Vejetaryen Wrap,"30,00 TL",Wrapler,5.0
+5204a17d-0010-4057-8328-1f7e2277073d,Tavuk Wrap,"35,00 TL",Wrapler,3.0
+0bbb4b19-555d-4268-885c-0a8c562433cf,Ton Balıklı Salata,"45,00 TL",Salatalar,5.0
+232e2d54-1443-4021-8902-36cd1d2ff66b,Biftek Salata,"55,00 TL",Salatalar,5.0
+517427af-4fba-4e29-bb28-72552b59fcd6,Akdeniz Salata,"35,00 TL",Salatalar,5.0
+55b83de4-d441-4561-8dcb-7e3fecaeabff,Somon Füme Salata,"55,00 TL",Salatalar,5.0
+da88f032-d640-4fba-9c88-fa1dac77873f,Sezar Salata,"40,00 TL",Salatalar,4.0
+2a264c0b-01dd-4a73-b711-656ef0721f01,Patates Tava,"15,00 TL",Yan Ürünler,4.0
+2ce825c0-3e66-47c0-9075-7aae1fc8dd14,Combo Mix,"45,00 TL",Yan Ürünler,5.0
+664c8ec4-96eb-4d10-93b4-41f53a5f1dff,Börek Tabağı,"32,00 TL",Yan Ürünler,5.0
+6da109a1-a8a0-424b-a11d-2bca69a175c8,Elma Dilim Patates,"18,00 TL",Yan Ürünler,4.0
+98672048-ce25-4403-8f41-6cbd0273d1b1,Sosis Tabağı,"25,00 TL",Yan Ürünler,5.0
+78774e59-8948-4cac-9c7a-9c39f7c72d13,Tiramisu,"20,00 TL",Tatlılar,5.0
+7cad4c9f-aec8-46d5-8f52-23e7954c8aa5,Sıcak Çikolatalı Sufle,"22,00 TL",Tatlılar,5.0
+b0fd9ecf-0004-40aa-9ba3-d26dbbab3178,Bask Cheesecake,"20,00 TL",Tatlılar,5.0
+44b3248c-3287-45ec-897d-5a9da1a759a6,Schweppes Mandalina (33 cl.),"12,00 TL",İçecekler,5.0
+3a0cba23-46e9-4402-8e50-e3db34b18b6d,Redbull (33 cl.),"12,00 TL",İçecekler,5.0
+882466ba-ac82-4fc8-bb8e-7bacbcb50575,San Pellegrina (33 cl.),"10,00 TL",İçecekler,5.0
+d4386aa0-90cb-4d16-af83-68620446bc6e,Taze Sıkma Portakal Suyu,"15,00 TL",Vitamin Bar,5.0
+097acb9f-8603-4320-9f83-214849874ca1,Taze Sıkma Nar Suyu,"15,00 TL",Vitamin Bar,5.0
+0d8953f5-bffa-48be-8b5c-8d3ab9520a6e,Taze Sıkma Nar & Portakal Suyu,"17,00 TL",Vitamin Bar,5.0
+12dfd951-57f3-4007-8b41-fa061ac1636d,Taze Sıkma Nar & Portakal & Limon Suyu,"18,00 TL",Vitamin Bar,5.0
+19c52307-2763-4095-b9b0-44d4616df084,Ev Yapımı Limonata,"15,00 TL",Vitamin Bar,4.0
+4b383f07-fefe-4766-9ac7-ab8e2521d10d,Çilekli Limonata,"16,00 TL",Vitamin Bar,5.0
+a3d46e07-2be0-45f1-acfe-43af75b9da03,Karpuzlu Limonata,"16,00 TL",Vitamin Bar,5.0
+7e4afcd4-c17a-460c-b1b9-ef0e0aca725b,Elmalı Limonata,"16,00 TL",Vitamin Bar,5.0
+63ae784a-aa2a-4824-9fb0-d44bbcc77d35,Naneli Limonata,"16,00 TL",Vitamin Bar,5.0
+4fcc4853-6034-4a30-bf7e-56fc01b0a00c,Poşet,"0,25 TL",Poşet,5.0

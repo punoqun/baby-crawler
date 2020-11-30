@@ -1,0 +1,28 @@
+food_id,food_name,food_price,food_category,food_score
+48e2cb21-f59f-4675-a3fd-b3f826c9df08,Bazlama Tavuk Döner Menü,"15,00 TL",Menüler,25.0
+2ba14aef-f372-40c3-9844-54c118de86bf,Bazlama Patso Menü,"13,00 TL",Menüler,27.0
+362E4F66-3955-4003-B1F4-C6460B47CCCC,Bazlama Köfte Menü,"20,00 TL",Menüler,27.0
+59bb46fd-6c57-4768-be4d-4613a2c9a4cd,Ayvalık Tostu,"13,00 TL",Tostlar,7.0
+89c76c6d-c133-42c5-8bc7-bb65b21712fd,Karışık Tost,"8,00 TL",Tostlar,17.0
+D50BFF27-49B6-47A9-A123-750AEE60A2B8,3/4 Ekmek Arası Karışık Tost,"12,00 TL",Tostlar,14.0
+b05010d2-942b-474f-87ff-7950b148f559,Hamburger,"20,00 TL",Burgerler,5.0
+500502AB-5D13-47A4-BBF5-2C9C24BF1526,Tavuklu Çökertme Kebabı,"25,00 TL",Ana Yemekler,5.0
+afd74d95-96ee-4046-994c-9fd4f0100b10,Tavuk Sote,"20,00 TL",Ana Yemekler,3.0
+3c20935b-2d01-4ac3-9a17-b2256ff7312d,Tavuk Kök Kanat,"20,00 TL",Izgaralar,3.0
+3c213a5b-8277-4345-9471-709161528dfc,Izgara Köfte,"22,00 TL",Izgaralar,5.0
+c662b5bd-5e55-43d1-80f4-3b05a7cb8f70,Tavuk Şiş,"20,00 TL",Izgaralar,3.0
+39158AB1-6297-4DE4-B58F-9C4619C871C9,3/4 Ekmek Arası Köfte,"18,00 TL",Izgaralar,7.0
+f0c28e3d-1434-407e-9ffb-13d08fbbe2e3,Pilav Üstü Tavuk Döner,"18,00 TL",Tavuk Dönerler,3.0
+07902242-151f-4ad1-88f7-379093d7716d,Ekmek Arası Tavuk Döner,"9,00 TL",Tavuk Dönerler,5.0
+A49BE566-754A-4DF9-A80B-A772EEDF0FCE,Mantı,"20,00 TL",Diğer Lezzetler,7.0
+632ECEF1-3ABD-4E49-821A-B59B46B019AC,Yuvarlama,"18,00 TL",Diğer Lezzetler,7.0
+1a158399-ae89-46b3-ad50-a8e7c4d7c749,Ekmek Arası Izgara Köfte,"12,00 TL",Diğer Lezzetler,7.0
+310019bf-ce2b-48b0-8c7e-81bafcb10844,Sade Menemen,"15,00 TL",Diğer Lezzetler,5.0
+75cb941d-f81a-402d-a0d8-c5e94c0f84f8,Kaşarlı Menemen,"17,00 TL",Diğer Lezzetler,5.0
+6ddfe716-1a4c-40aa-ab19-156336d35894,Sucuklu Menemen,"17,00 TL",Diğer Lezzetler,5.0
+a127023c-0314-442b-9393-cd672cb7b23e,Kremalı Tavuklu & Mantarlı Penne,"20,00 TL",Diğer Lezzetler,6.0
+f423c200-82d9-43b6-8b41-6ee45b062d4d,Köri Soslu Penne Makarna,"20,00 TL",Diğer Lezzetler,10.0
+534f714f-7af0-40fb-9032-ec408e6778ab,Zeytinyağlı Yaprak Sarma,"18,00 TL",Diğer Lezzetler,6.0
+1796743c-ae7a-4b95-86b8-2a9ec90978d5,Patso Sandviç,"8,00 TL",Diğer Lezzetler,5.0
+da846543-2cc1-412e-9d1b-ef1f71ad5679,Cappy Şeftali (33 cl.),"5,00 TL",İçecekler,5.0
+bb2d971f-dd8d-4e4a-905e-8dd56bbbd3ec,Su,"2,00 TL",İçecekler,5.0

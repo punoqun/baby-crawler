@@ -1,0 +1,42 @@
+food_id,food_name,food_price,food_category,food_score
+61650A8A-D222-4A90-883D-9ADB7FF050BB,Aile Menü,"71,70 TL",Menüler,5.0
+EC7E250C-AC9E-47F0-B7A7-A9E7D0A321DD,Çift Kişilik Menü,"47,80 TL",Menüler,5.0
+F76C25D4-85B8-4D9A-81E5-A1D39AF3D9D4,Ekonomik Menü,"43,80 TL",Menüler,5.0
+D8C21367-466E-4636-80E9-D03D75249CEE,Chef Menü,"56,80 TL",Menüler,7.0
+AE685E43-FCC7-49E5-AEDC-18D02FE7A518,Süper Star Menü,"59,80 TL",Menüler,17.0
+4E2DB554-C7BE-4865-9765-EBB09CAFF5C5,Gold Menü,"80,80 TL",Menüler,5.0
+709F8543-422A-4E1D-B835-545BC4055577,Üç Renk Menü,"91,70 TL",Menüler,4.0
+2353D5F3-F2CC-4110-926B-BC55AD2A80B5,Mega Menü,"104,70 TL",Menüler,5.0
+6AABEF47-5071-43A5-8025-6DDA026A03C1,Steak Menü,"74,80 TL",Menüler,5.0
+D60B474F-EEF8-4C48-AB90-F402288465CC,Karışık Menü,"51,80 TL",Menüler,5.0
+4442E60A-0F5E-406C-9CF8-6BA4C89AFBF0,Mega Chef Menü,"69,80 TL",Menüler,7.0
+ed6b2752-f612-447b-bcad-8f26fb5ac339,Patates Kızartması,"12,90 TL",Başlangıçlar,3.0
+3c24c887-9810-4d6b-ab56-4b1b48080eed,İstiridye Mantarı (150 gr.),"26,90 TL",Başlangıçlar,5.0
+35039eab-0157-455d-9aeb-6f0801244bd3,Füme Et (150 gr.),"32,90 TL",Başlangıçlar,3.0
+2e8abd08-a47a-4676-af19-e674d6a53fba,Kaburga Nachos,"43,90 TL",Başlangıçlar,5.0
+23c29304-f7b3-4bc9-baab-9d53d59fac9c,Cheddarlı Füme Et (150 gr.),"49,90 TL",Başlangıçlar,3.0
+f174d966-0b44-4bc2-a561-3b86918bc47a,Izgara Tavuk Burger,"26,90 TL",Burgerler,3.0
+78d0ba08-9cd9-4241-8cd3-00c3f3b0399c,Teksas Burger (Acılı),"27,90 TL",Burgerler,2.0
+a9d0cdae-2c71-4da9-bbf3-1c57c98c8566,Tavuk Burger,"27,90 TL",Burgerler,3.0
+34794376-dd9a-4e82-b5c7-9692c010f0e8,Spaghettili Burger,"34,90 TL",Burgerler,2.0
+7e7d9d7f-8101-4e21-9a01-34fdc810b749,Lokum Burger,"34,90 TL",Burgerler,2.0
+03d27066-6a2c-446f-98e0-393016537bff,Steak Burger,"39,90 TL",Burgerler,2.0
+70711180-e24d-4839-9980-14f42dcfb303,Asado Burger,"45,90 TL",Burgerler,1.0
+7987636c-d641-4b72-99a2-9b40a03e68c8,Murat Chef Special Burger (1 kg.),"180,00 TL",Burgerler,5.0
+9613c009-4b29-4907-8460-0dbe76f9bccc,Tavuk Biftek (200 gr.),"26,90 TL",Izgaralar,6.0
+577e1979-f954-4a49-9050-49fa805ffa5c,Tereyağlı Dana Lokum (220 gr.),"98,00 TL",Izgaralar,5.0
+b11570f5-8c0e-4092-8a78-70fa74a6dc3b,Çocuk Burger,"19,90 TL",Çocuk Menüleri,2.0
+c66fc3a4-5e19-473d-86c8-6d1aba71fd1a,Tulum Peynirli Salata,"32,90 TL",Salatalar,5.0
+c45c2d58-ec22-40c3-8826-a2575230f87f,Çoban Salata,"24,90 TL",Salatalar,5.0
+60aa3b21-1d08-493e-9540-470e1dbd6c3c,Soğuk Baklava,"20,00 TL",Tatlılar,4.0
+D8D69AB9-D242-4B5E-9553-462455644E22,Pepsi (33 cl),"5,50 TL",İçecekler,4.0
+6EC536F6-9BC0-4A88-8844-13EB31E7472A,Pepsi Max (33 cl),"5,50 TL",İçecekler,4.0
+31C02EDE-42D4-4F2D-A8CC-90C48CADF564,Pepsi Mango (33 cl),"5,50 TL",İçecekler,4.0
+2643CE78-B8EC-44E3-BD66-AAC9C5EC02DB,7UP (1 L.),"9,00 TL",İçecekler,5.0
+a2bdbfd5-5452-4106-99d2-8e3ffb033985,"Kuzu Kol (1,2 kg.)","270,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+c3521d49-b689-4e44-b332-5075acbe6709,"Kuzu Kafes (1,5 kg.)","300,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+0b566575-95b5-47eb-b1e0-52c6aa08b7db,Şatobiryan (400 gr.),"170,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+1F330FED-77E7-48F1-B663-24C70899F81F,Dallas Steak (450 - 500 gr.),"130,00 TL",Kiloluk Ürünler (Pişirilmiş),2.0
+BBFBB8DF-8063-48B3-ADBA-546BB48E9AEB,T-Bone (450 - 500 gr.),"130,00 TL",Kiloluk Ürünler (Pişirilmiş),2.0
+4F8AD52B-5AC3-4517-93A6-621484C9A401,Ketçap (10 gr.),"1,00 TL",Soslar,5.0
+71fa1bb6-2636-4ff9-8a13-96eaaae98a31,Poşet,"0,25 TL",Poşet,5.0

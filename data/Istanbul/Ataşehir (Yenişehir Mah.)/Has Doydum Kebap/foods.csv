@@ -1,0 +1,30 @@
+food_id,food_name,food_price,food_category,food_score
+HASDO010301,Adana Kebap,"37,50 TL",Kebaplar & Izgaralar,20.0
+HASDO010302,Urfa Kebap,"37,50 TL",Kebaplar & Izgaralar,10.0
+HASDO010307,Karışık Kebap,"60,00 TL",Kebaplar & Izgaralar,11.0
+HASDO010304,Ciğer Şiş,"46,00 TL",Kebaplar & Izgaralar,8.0
+HASDO010303,Çöp Şiş,"46,00 TL",Kebaplar & Izgaralar,5.0
+0fdaf9a6-7ef2-48c6-a54d-8533f48a499f,Yaprak Kanat,"37,50 TL",Kebaplar & Izgaralar,5.0
+HASDO010306,Tavuk Şiş,"35,00 TL",Kebaplar & Izgaralar,6.0
+HASDO010401,Adana Dürüm,"24,00 TL",Dürümler,39.0
+HASDO010402,Urfa Dürüm,"24,00 TL",Dürümler,29.0
+HASDO010404,Ciğer Şiş Dürüm,"26,00 TL",Dürümler,26.0
+HASDO010403,Çöp Şiş Dürüm,"29,00 TL",Dürümler,23.0
+HASDO010406,Kaşarlı Sucuk Dürüm,"27,00 TL",Dürümler,23.0
+HASDO010405,Tavuk Şiş Dürüm,"22,00 TL",Dürümler,24.0
+cad9f1b6-1336-4bf3-9a74-d1e7b045eb87,Yoğurt,"10,00 TL",Yan Ürünler,5.0
+3428e0f8-f9c4-4f62-a92f-0c7b6f468894,Turşu (500 gr.),"15,00 TL",Yan Ürünler,4.0
+HASDO011001,Çoban Salata,"15,00 TL",Salatalar,5.0
+51f64e9a-ea48-4c4b-b749-ec6b7f466660,Gavurdağı Salata,"20,00 TL",Salatalar,5.0
+13e86c38-a42d-41c9-b678-78ea197e2e9b,Künefe,"16,00 TL",Tatlılar,4.0
+dac24f4c-a44d-4aa0-b7a4-034c7c5840b7,Katmer Tatlısı,"22,00 TL",Tatlılar,6.0
+HASDO011102,Fırın Sütlaç,"15,00 TL",Tatlılar,7.0
+efe9b4b3-3925-4d20-b671-24393b771228,Carte d'Or Premium Çikolata Cup (100 ml.),"8,90 TL",Dondurmalar,5.0
+8c0b05b2-b556-4c0d-9fb5-cd40042af7f9,Carte d'Or Premium Kaymak Cup (100 ml.),"8,90 TL",Dondurmalar,5.0
+48eaffe8-aa3a-4d6f-880e-af688499b638,Algida Classics Cookie Cup (105 ml.),"7,90 TL",Dondurmalar,5.0
+64d3317f-7ed3-49be-bae5-d88bb5122a78,Algida Max Minions Cup (105 ml.),"7,90 TL",Dondurmalar,5.0
+f942b2c9-591f-415b-b547-76857c443f90,Algida Maraş Dondurmalı Supangle,"13,90 TL",Dondurmalar,5.0
+b6c3046e-a2cc-4266-89e5-fd3e44d782e0,Algida Carte d'Or Mini Cup Çikolata Karnavalı (110 ml.),"7,90 TL",Dondurmalar,5.0
+c5f7de13-2197-4639-a61d-bc411f03bf72,Algida Carte d'Or Mini Cup Çilekli Yoğurtlu (110 ml.),"7,90 TL",Dondurmalar,5.0
+fcb6e8a4-7ab4-478f-baa8-ee2e9ae3f63f,Sek Ayran (1 L.),"10,00 TL",İçecekler,5.0
+b4fa0866-7a79-4800-aea2-249fbf519ec2,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,63 @@
+food_id,food_name,food_price,food_category,food_score
+7CF1D943-172A-446E-97E9-AA3C8EDB7819,Patates Kızartması,"15,00 TL",Kahvaltılıklar,3.0
+2998062F-4E50-4D23-ABBE-34A7FDBB34F3,Beyaz Peynir,"5,00 TL",Kahvaltılıklar,2.0
+0A4587B9-7A67-46A3-8710-D5B875C71CE1,Siyah Zeytin,"5,00 TL",Kahvaltılıklar,5.0
+06C1A1FD-63A3-4D15-8FCE-31E9438E1B84,Yeşilzeytin,"5,00 TL",Kahvaltılıklar,5.0
+98C661C0-4A8D-47F2-9002-CE12B4863697,Tulum Peyniri,"8,00 TL",Kahvaltılıklar,5.0
+9A84092D-F146-4A3C-BC0F-99B74678A061,Piknik Helva (20 gr.),"2,00 TL",Kahvaltılıklar,5.0
+C409203B-829C-44CC-A338-8E864719EC8D,Vişne Reçeli,"1,50 TL",Kahvaltılıklar,5.0
+4DDEF821-5BFE-4AFA-BD8D-F104AA862EF5,Çilek Reçeli,"1,50 TL",Kahvaltılıklar,5.0
+3AE67642-D3F4-41A5-B0F5-65278D275942,Krem Helva,"2,00 TL",Kahvaltılıklar,4.0
+BC4744C7-CD14-49FE-8BC9-BAF61AF524E2,Tahin Pekmez,"2,00 TL",Kahvaltılıklar,5.0
+A3371B95-4CA3-4C88-ADC1-CAD22405B731,Üçgen Peynir,"1,50 TL",Kahvaltılıklar,2.0
+6734367B-787C-4AF8-9128-FAC2159CCD2F,Üçgen Peynir 8'li,"10,00 TL",Kahvaltılıklar,2.0
+F6C6CDF9-81C6-4A61-85C1-161F4310A078,Krem Peynir,"2,00 TL",Kahvaltılıklar,1.0
+B6961298-1077-48C1-8CEA-D8F519F7781B,Tereyağı,"2,00 TL",Kahvaltılıklar,5.0
+77B66C83-FEA6-4240-9C89-647757FE603A,Balparmak Bal,"2,50 TL",Kahvaltılıklar,5.0
+B3DEC088-2B9C-403A-A81A-0F283263EC6A,Fındık Kreması,"2,00 TL",Kahvaltılıklar,4.0
+C6800F38-178D-4D03-BC5F-A5CF074D30A2,Kornişon Turşu,"3,00 TL",Kahvaltılıklar,5.0
+F4A38530-C4A4-4170-86CD-1C9CED654818,Kaşar Peyniri,"6,00 TL",Kahvaltılıklar,5.0
+145966CA-9D1D-4F63-AB33-E3811650DD59,Pide Ekmeği,"2,50 TL",Kahvaltılıklar,5.0
+2903AE55-6C31-48B1-AF9F-B8396D1CCE53,Mini Kahvaltı Tabağı,"25,00 TL",Kahvaltılıklar,10.0
+2EB8F72E-1D16-4241-B402-109AD5A05CF6,Menemen,"15,00 TL",Kahvaltılıklar,11.0
+6D0B7EFE-4047-4DA0-AC43-D491912B7518,Sucuklu Yumurta,"24,00 TL",Kahvaltılıklar,5.0
+E88C6F65-E129-44E3-9398-A0526A913F4B,Pastırmalı Yumurta,"28,00 TL",Kahvaltılıklar,5.0
+A3AD61DE-D388-4263-A80B-0F443F9F22D5,Kavurmalı Yumurta,"25,00 TL",Kahvaltılıklar,5.0
+ba73fca7-3e81-4285-b247-076c01f038e2,Peynirli Poğaça,"3,00 TL",Kahvaltılıklar,4.0
+47a7b967-6e52-4abf-b142-fdc7fb9ed74a,Susamlı Simit,"3,50 TL",Kahvaltılıklar,10.0
+fac923c5-faf6-4269-9f0d-f2b2eef7db5c,Açma Simit,"4,00 TL",Kahvaltılıklar,5.0
+EDDCDAA2-96B6-4AB7-BB70-91503F8348E0,Kaşarlı Tost,"15,00 TL",Tostlar,4.0
+FB320181-A6A1-43DA-AC0C-AD3113317FA7,Karışık Tost,"16,00 TL",Tostlar,4.0
+ACB3ED6C-83AF-4027-A4C9-207D98142064,Kaşarlı Patatesli Tost,"15,00 TL",Tostlar,4.0
+4B7980F7-8710-4789-9C57-D55570444E3E,Cheddar Peynirli Tost,"17,00 TL",Tostlar,1.0
+AA57D9FF-E675-407F-B2C9-0F4924EAD4E1,Special Tost,"17,00 TL",Tostlar,4.0
+16eb87ea-ba2c-4813-8db3-8a3e71093908,Kıymalı Kaşarlı Gözleme,"18,00 TL",Gözlemeler,13.0
+46e6adb1-a87e-41ac-b4d9-690a02744f4a,Patatesli Kaşarlı Gözleme,"17,00 TL",Gözlemeler,14.0
+62536572-db93-457b-81fc-5aa5f6dbaa38,Fındıklı Sable Kurabiye (250 gr.),"11,90 TL",Kuru Pastalar,5.0
+ddbe1de8-1253-476f-bbfa-2d085307fac5,Mapi Kurabiye (250 gr.),"14,90 TL",Kuru Pastalar,5.0
+a2ccb2a6-d0f6-4264-8f5b-94a65f6b3b77,İncirli Kurabiye (250 gr.),"14,90 TL",Kuru Pastalar,3.0
+69fa0445-5edd-447a-9036-77be17355395,Kar Yağdı Kurabiye (250 gr.),"14,90 TL",Kuru Pastalar,8.0
+61d98d4f-6295-4d50-a670-84660801dda0,Tahinli Kurabiye (250 gr.),"14,90 TL",Kuru Pastalar,5.0
+7bf516f9-03d1-4a8d-87bc-a93379d882a7,Mahlepli Kurabiye (250 gr.),"10,90 TL",Kuru Pastalar,5.0
+54c888d2-fcdb-4ad9-899e-722e826ae88d,Çekirdekli Kandil Simidi (250 gr.),"10,90 TL",Kuru Pastalar,6.0
+7979FF8E-B493-47D0-98F8-5934DF81A3FB,İçim Muzlu Süt (20 cl.),"2,50 TL",İçecekler,9.0
+4B8AB718-6A08-493B-BE1C-0B7F8FD277F5,İçim Kakaolu Süt (20 cl.),"2,50 TL",İçecekler,9.0
+CED7E4C5-EEAF-421D-856D-3231274C3DD9,İçim Çilekli Süt (20 cl.),"2,50 TL",İçecekler,9.0
+D9A0E28F-04E5-4C4F-A252-816E2B8EE668,Capri - Sun (20 cl.),"2,50 TL",İçecekler,7.0
+DEF7092D-396E-4AE8-8D63-4D671E10BFF7,Tanecikli Limonata (33 cl.),"10,00 TL",İçecekler,5.0
+8C9C26EC-98E3-4D7E-A93F-E873D46B0066,Jacops 3 +1 (16 gr.),"2,00 TL",İçecekler,8.0
+41FDBF7E-09E2-4A29-8A37-8AB97F85FA81,Jacops 2 +1 (14 gr.),"2,00 TL",İçecekler,5.0
+038BB858-3C43-4F65-8C93-5A58A946F621,Jacops Sade Gold (2 gr.),"2,00 TL",İçecekler,9.0
+CA692681-88DC-47AD-AF7F-F150B095CC10,Jacops 3+1 Gold (16 gr.),"2,00 TL",İçecekler,5.0
+D82E4C6C-A0D3-4AE4-BAA3-7B7522A3C289,İçim Sade Süt (20 cl.),"2,50 TL",İçecekler,13.0
+8E6970D9-C99E-45EA-9E11-0E33FD3CB3DA,Cappy (1 L.),"7,50 TL",İçecekler,5.0
+6342B6BA-12B9-4760-ADA0-E1CE21BE7FCC,Su (1 L.),"2,50 TL",İçecekler,10.0
+3ac77fc7-6839-4438-8595-ba26cfcf0d0f,"Fanta (2,5 L.)","10,00 TL",İçecekler,5.0
+57ECAE02-DE40-4F33-84F6-571C4B802891,İçim Sade Süt (1 L.),"7,50 TL",İçecekler,13.0
+c96c4841-5302-473a-83d8-2f9c7afb5150,Kıymalı Su Böreği (1 kg.),"37,50 TL",Kiloluk Ürünler,10.0
+AC0D6C02-1E5D-4035-B3D4-E94A49CE9DF6,Peynirli Su Böreği (500 gr.),"17,00 TL",Kiloluk Ürünler,8.0
+9DB00A4C-8B2A-4E80-9BCE-6E7CA1484EC9,Peynirli Su Böreği (250 gr.),"10,00 TL",Kiloluk Ürünler,8.0
+64FE0EE3-8408-41E9-A78C-49B8CCE4C41B,Peynirli Su Böreği (Tepsi),"66,00 TL",Kiloluk Ürünler,8.0
+4b15bf75-8844-4fe0-9083-8627a0cca205,Fıstıklı Soğuk Baklava (500 gr.),"48,00 TL",Kiloluk Tatlılar,6.0
+9dcae250-3fa6-464a-baa4-c820fa08b173,Cevizli Ev Baklavası (500 gr.),"34,00 TL",Kiloluk Tatlılar,6.0
+27830824-5fbe-48f7-bf19-f2c45a6190d9,Poşet,"0,25 TL",Poşet,5.0

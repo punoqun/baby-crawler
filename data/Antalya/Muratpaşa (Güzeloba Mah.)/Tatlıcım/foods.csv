@@ -1,0 +1,39 @@
+food_id,food_name,food_price,food_category,food_score
+fb242286-9c25-41bd-aac6-77160158a022,Fırında Sütlaç,"12,90 TL",Tatlılar ,10.0
+dfb07462-adee-44a1-a786-a6d37fb302d4,Kazandibi,"12,90 TL",Tatlılar ,5.0
+a8340e2d-8240-4d4c-98cc-6f0cff1a0a09,Ekler,"12,90 TL",Tatlılar ,3.0
+e1b983fa-5b4d-45a3-a195-f3bc8521c844,Cevizli Baklava,"14,90 TL",Tatlılar ,5.0
+77d1d05a-8f79-4db4-afbd-9381012c513e,Brownie,"14,90 TL",Tatlılar ,5.0
+3baa91ee-13d5-4297-a249-37cb968f5396,Suffle,"14,90 TL",Tatlılar ,5.0
+46536bc4-36cb-48cc-b033-d3df31e35d3e,Tiramisu,"14,90 TL",Tatlılar ,10.0
+005404b2-3d3d-4445-8009-7de708657ab1,Frambuazlı Chesscake,"14,90 TL",Dilimli Tatlılar,10.0
+fa191cdd-3bf5-485d-b1a2-110d11adec79,Çikolatalı Chesscake,"14,90 TL",Dilimli Tatlılar,5.0
+cbea952b-48b4-46d0-815a-da577a85271f,Limonlu Chesscake,"14,90 TL",Dilimli Tatlılar,3.0
+37cb0e99-a944-4f4c-9006-ee776b956ad2,Cookie Chesscake,"14,90 TL",Dilimli Tatlılar,5.0
+206c4c99-437e-433f-9439-ed98a4bee1a3,Orman Meyveli Chesscake,"14,90 TL",Dilimli Tatlılar,5.0
+6eca1b15-7773-4b75-8acc-d415d35f0fce,Fıstık Şöleni,"17,90 TL",Dilimli Tatlılar,5.0
+18cc3eca-2f88-431d-884c-e1759099a353,Çikolatalı Bella Pasta,"17,90 TL",Dilimli Tatlılar,5.0
+0ebcc19c-d7c0-4c19-9a95-9c038747f078,Beyaz Çikolata Pasta,"17,90 TL",Dilimli Tatlılar,5.0
+668e3cbf-c09a-4ef7-91f0-b0a9138dfd3c,Beyaz Profiterollü Pasta,"17,90 TL",Dilimli Tatlılar,5.0
+d2fdea4b-9eb9-468a-8ddd-4687edf10ffe,Mozaik Pasta,"14,90 TL",Dilimli Tatlılar,5.0
+4c5aea30-8688-4f67-bb13-0041d37ec7ca,N Snickers,"14,90 TL",Dilimli Tatlılar,4.0
+a5f8a2bf-907e-46ac-a378-6b582142d828,Latte Mono,"14,90 TL",Dilimli Tatlılar,5.0
+152246c9-277f-47ed-b20e-2bfca4cc7916,Devil's,"14,90 TL",Dilimli Tatlılar,5.0
+5d40290b-4945-4737-87dc-1c9d2719fb0e,N Ballım,"14,90 TL",Dilimli Tatlılar,4.0
+49f2d0ae-4fce-4fcd-804e-b82d68621032,Washington,"14,90 TL",Dilimli Tatlılar,5.0
+45661a1e-b36d-4e7e-bc71-46dfc1fa8258,Muzlu Çikolatalı Pasta,"14,90 TL",Dilimli Tatlılar,3.0
+8d8e4e5b-2e52-460f-82da-328b99bc0650,N Aşkın Kalpli Pasta (2 Kişilik),"26,90 TL",Özel Pastalar,4.0
+3da8408a-0ef6-49b6-9bff-1c8c7258b324,Pepsi Twist (33 cl.),"5,00 TL",İçecekler,5.0
+1fe1b4a2-3238-45d3-beae-f31c27dcdb34,Pepsi Twist (1 L.),"7,00 TL",İçecekler,5.0
+2418905c-b4db-4668-bd1b-789ace6dc368,Fruko (1 L.),"7,00 TL",İçecekler,5.0
+11906afe-9698-4bfe-a7bd-9d704baa59d9,Fıstık Şöleni (8 Kişilik),"140,00 TL",Kiloluk Ürünler,5.0
+25c40ce4-ce8d-4bb8-bd34-9618749349ce,Orman Meyveli Chesscake (9 Kişilik),"120,00 TL",Kiloluk Ürünler,5.0
+e6772999-5744-449b-85ed-676d8c3defad,N Snickers (9 Kişilik),"120,00 TL",Kiloluk Ürünler,4.0
+d7402b69-4bb5-46f3-8898-e1fb59e998e9,Latte Mono (9 Kişilik),"120,00 TL",Kiloluk Ürünler,5.0
+a29bb116-db24-43a0-9cbc-563d24beb383,Muzlu Çikolatalı Pasta (10 Kişilik),"120,00 TL",Kiloluk Ürünler,3.0
+24867a18-017d-49c2-8326-866089563bac,Frambuazlı Chesscake (10 Kişilik),"120,00 TL",Kiloluk Ürünler,5.0
+4d212aef-eef9-4945-a222-b88432dbd0f2,Çikolatalı Chesscake (10 Kişilik),"120,00 TL",Kiloluk Ürünler,5.0
+3b9404c0-24f7-4d61-82ed-2b66b7b8c0f1,Limonlu Chesscake (10 Kişilik),"120,00 TL",Kiloluk Ürünler,3.0
+86a5a20a-5404-4f1e-9b31-5dcc3858492e,Cookie Chesscake (10 Kişilik),"120,00 TL",Kiloluk Ürünler,5.0
+63a5ea22-a644-4918-bbd6-682bd1980cda,Mozaik Pasta (14 Kişilik),"120,00 TL",Kiloluk Ürünler,5.0
+3a0fbc2c-3947-4731-b267-26d9316fc95b,Poşet,"0,25 TL",Poşet,5.0

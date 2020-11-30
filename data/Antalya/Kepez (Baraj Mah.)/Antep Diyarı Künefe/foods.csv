@@ -1,0 +1,69 @@
+food_id,food_name,food_price,food_category,food_score
+f9275c02-97de-4d1e-8d66-4a14d6c212e7,Peynirli Künefe (Küçük),"18,00 TL",Künefeler,15.0
+d808b184-0447-415e-a12a-6b9b512e8fb6,Peynirli Künefe (Orta),"45,00 TL",Künefeler,10.0
+67772203-63ba-446e-8e60-964f6616ea4b,Peynirli Künefe (Büyük),"55,00 TL",Künefeler,10.0
+61855e4a-0eeb-424e-b18f-9639c419fa1c,Kaymaklı Künefe (Küçük),"23,00 TL",Künefeler,10.0
+0ba97a0d-5426-48f5-aa47-9269293f69e8,Kaymaklı Künefe (Orta),"55,00 TL",Künefeler,10.0
+1295ca38-783f-4460-9f55-bdc1cc1231f9,Kaymaklı Künefe (Büyük),"70,00 TL",Künefeler,10.0
+0a9770eb-cb3d-4d7d-93b7-6999fed68e90,Antep Spesiyal Künefe (Küçük),"23,00 TL",Künefeler,15.0
+5d9b34f4-614d-40f0-92bb-4268a799a0d9,Antep Spesiyal Künefe (Orta),"55,00 TL",Künefeler,10.0
+c0c7c21c-0d23-4320-b3e6-124e77e3093a,Antep Spesiyal Künefe (Büyük),"70,00 TL",Künefeler,10.0
+6099e2c8-62a8-4c90-b6b5-17f45e8c2ceb,Dondurmalı Künefe (Küçük),"23,00 TL",Künefeler,10.0
+66312918-6c7e-4624-8e21-f95ad673a76b,Dondurmalı Künefe (Orta),"55,00 TL",Künefeler,10.0
+3ebf41ec-d6d6-4fa3-9a68-f46c2b28a05a,Dondurmalı Künefe (Büyük),"70,00 TL",Künefeler,10.0
+fc69e560-a9df-45d3-b2c7-28cdd397894c,4 Mevsim Künefe (Orta),"95,00 TL",Künefeler,10.0
+d4a17d5a-22fa-4148-8497-0dfe032e6927,4 Mevsim Künefe (Büyük),"115,00 TL",Künefeler,10.0
+bc1dafb5-77e6-474a-9856-fbdafd310c2b,Yarı Hasır Spesiyal Künefe (Orta),"65,00 TL",Künefeler,10.0
+25963f6b-edc4-4dfe-9ae9-950a59c75ee6,Yarı Hasır Spesiyal Künefe (Büyük),"80,00 TL",Künefeler,10.0
+151aef47-7c9a-4e7d-9bbb-7136492dd6d7,Cevizli Paşa Künefe (Küçük),"23,00 TL",Künefeler,10.0
+88602784-1cc8-4e6a-9620-950b83c6e331,Cevizli Paşa Künefe (Orta),"55,00 TL",Künefeler,10.0
+4faa4a12-aef3-43bc-ba39-c24b29ae57e0,Cevizli Paşa Künefe (Büyük),"65,00 TL",Künefeler,10.0
+c31e714d-9d53-4472-9249-fab71bee110b,Çıtır Hasır Künefe (Küçük),"25,00 TL",Künefeler,10.0
+5a4d96f5-2da0-4e8f-a691-e24e33b363d5,Çıtır Hasır Künefe (Orta),"65,00 TL",Künefeler,10.0
+4c83046c-092d-4762-8b88-b6a5f0bd7508,Çıtır Hasır Künefe (Büyük),"85,00 TL",Künefeler,10.0
+1abff17c-280f-4f92-a2f3-5e42e58524e0,Fıstıkzade Künefe (Küçük),"28,00 TL",Künefeler,10.0
+97b2e9e8-11bc-4c0f-b0b2-b515217bd78d,Fıstıkzade Künefe (Orta),"65,00 TL",Künefeler,10.0
+d2202a21-025e-4693-b8d0-45f0207f3920,Fıstıkzade Künefe (Büyük),"85,00 TL",Künefeler,10.0
+35e48399-4318-410a-be73-3c9db444eba3,Kaymaklım Özel Künefe (Küçük),"25,00 TL",Künefeler,10.0
+9e6b0a08-144b-4370-b6f4-afd6a108254c,Kaymaklım Özel Künefe (Orta),"55,00 TL",Künefeler,10.0
+f2ecc639-42ee-4396-a7c6-b3d577695563,Kaymaklım Özel Künefe (Büyük),"70,00 TL",Künefeler,10.0
+c5b73b6d-04ef-47c5-811c-c27e7bb3dc51,Yarısı Cevizli Yarısı Fıstıklı Künefe (Küçük),"23,00 TL",Künefeler,10.0
+99d5edf1-97cb-42b4-8678-923ee2279cbb,Yarısı Cevizli Yarısı Fıstıklı Künefe (Orta),"55,00 TL",Künefeler,10.0
+51f29046-14db-4fb4-bab9-d48220f3c68d,Yarısı Cevizli Yarısı Fıstıklı Künefe (Büyük),"70,00 TL",Künefeler,10.0
+b2e54fe1-6271-4eed-9fcd-8f7b3ec76990,3'ü 1 Arada Künefe (Orta),"75,00 TL",Künefeler,14.0
+82b9a37c-1787-4d5d-82c3-a0637096ba43,3'ü 1 Arada Künefe (Büyük),"95,00 TL",Künefeler,14.0
+86fecc4a-cecf-4352-af7d-0cf6b9b6326d,Sultanzade Künefe (Küçük),"28,00 TL",Künefeler,10.0
+6e3983bf-6c39-45ed-9857-3c647af26517,Sultanzade Künefe (Orta),"65,00 TL",Künefeler,10.0
+18e1ccc1-4cc0-4568-87ef-0b1ef8503718,Sultanzade Künefe (Büyük),"85,00 TL",Künefeler,10.0
+8c02bb71-7531-4625-9bd6-3773bad7fe47,Yarı Fıstık Yarı Peynirli Künefe (Küçük),"23,00 TL",Künefeler,10.0
+2632f3a5-281c-4eb7-a0a1-ee7e9ebe5304,Yarı Fıstık Yarı Peynirli Künefe (Orta),"55,00 TL",Künefeler,10.0
+4e6f7270-0aff-4494-bfa0-6589debafdc8,Yarı Fıstık Yarı Peynirli Künefe (Büyük),"70,00 TL",Künefeler,10.0
+3b19e3ca-adef-40cd-be02-2ec09cab73f3,Ezmem Spesiyal Künefe (Küçük),"28,00 TL",Künefeler,10.0
+ce227d92-9824-4bce-805e-0c0779593ce3,Ezmem Spesiyal Künefe (Orta),"65,00 TL",Künefeler,10.0
+b67e4f05-01b8-4a9c-bef6-0466af69a924,Ezmem Spesiyal Künefe (Büyük),"85,00 TL",Künefeler,10.0
+f33bd47c-f6b8-45aa-bcdf-1639705b6b54,Sultan Spesiyal Künefe (Küçük),"28,00 TL",Künefeler,10.0
+b210760b-67fa-43ae-a06c-b67b057d0bff,Sultan Spesiyal Künefe (Orta),"65,00 TL",Künefeler,10.0
+bdfc76c2-d684-4d62-bbc3-7b53c7019566,Sultan Spesiyal Künefe (Büyük),"85,00 TL",Künefeler,10.0
+92982765-e335-40e0-8d69-c9f936b19312,Billuriye Künefe (Küçük),"28,00 TL",Künefeler,10.0
+dea11fe7-d991-49f2-b6ca-1f2fded096e8,Billuriye Künefe (Orta),"65,00 TL",Künefeler,10.0
+8cb2cc82-d94e-43a1-a3d3-5b3e5f0fa64f,Billuriye Künefe (Büyük),"85,00 TL",Künefeler,10.0
+a094a6f5-c0a4-40f7-9519-226312e1acef,Fıstıklı Paşa Künefe (Küçük),"23,00 TL",Künefeler,10.0
+2fbfb498-7484-4a3c-9f0c-25523cc299a4,Fıstıklı Paşa Künefe (Orta),"55,00 TL",Künefeler,10.0
+d7c2c829-8d6e-43a6-b056-c536318c8b10,Fıstıklı Paşa Künefe (Büyük),"70,00 TL",Künefeler,10.0
+48616642-4d12-4941-a8ee-9e2534508cdf,Billurzade Künefe (Küçük),"28,00 TL",Künefeler,10.0
+0e07a6bc-9d72-4cc6-a184-a45c06107fe9,Billurzade Künefe (Orta),"65,00 TL",Künefeler,10.0
+b03f187a-fce7-469f-828b-8d9f0d885597,Billurzade Künefe (Büyük),"85,00 TL",Künefeler,10.0
+4e1c2bb2-a489-4c53-984f-8fc1b050545d,Fıstık Sarma,"20,00 TL",Tatlılar,5.0
+7c329b11-2628-4183-9a01-cba5db5fae23,Cevizli Baklava,"15,00 TL",Tatlılar,4.0
+b72caa1d-722f-4135-a6c5-38edb2fc696a,Fıstıklı Baklava,"20,00 TL",Tatlılar,4.0
+8c88a147-3608-435a-99b8-018e5c50c7e3,Fıstıklı Dondurma (4 Dilim),"30,00 TL",Tatlılar,6.0
+c9db6a3e-8bd8-4728-998d-c63bbae7bbfa,Fıstıklı Dondurma (Dilim),"10,00 TL",Tatlılar,6.0
+cc432e13-1dfb-458d-a6bf-59e695ea7a86,Kaymaklı Dondurma (Dilim),"5,00 TL",Tatlılar,11.0
+ddf17aa3-0212-4aa7-afd9-eae84fce99ec,Kaymaklı Dondurma (4 Dilim),"20,00 TL",Tatlılar,6.0
+ea129ef1-0776-4694-b785-fb45128fa330,Fıstıklı Baklava (500 gr.),"50,00 TL",Tatlılar,4.0
+90b73605-6f1f-4ebb-a791-a2472744539c,Cevizli Baklava (500 gr.),"25,00 TL",Tatlılar,4.0
+ea4998bc-96d1-4e68-9e6f-642d89b45c17,Cevizli Baklava (1 kg.),"50,00 TL",Tatlılar,4.0
+d74f83e6-5c0a-40f2-9575-d1259f3ddfaf,Fıstıklı Baklava (1 kg.),"100,00 TL",Tatlılar,4.0
+23bb2ec9-d26b-40f1-8d6a-b2d76c9c4458,Kaymak (Tam),"20,00 TL",Yan Ürünler,3.0
+a7d80d89-57a5-4798-a81f-0fc43cf1e33d,Kaymak (Yarım),"10,00 TL",Yan Ürünler,3.0
+43c604a3-144d-487b-8bda-1d0aa59ebe21,Poşet,"0,25 TL",Poşet,5.0

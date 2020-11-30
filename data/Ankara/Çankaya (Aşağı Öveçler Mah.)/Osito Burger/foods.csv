@@ -1,0 +1,37 @@
+food_id,food_name,food_price,food_category,food_score
+be7d24d4-e91b-4d59-b6df-11580e0e112f,Osito Ranch Burger Menü,"66,00 TL",Menüler,34.0
+C3A872CB-C20A-4C93-A2C0-2E2C43777A5A,Osito Rib Burger Menü,"99,00 TL",Menüler,37.0
+DD1D8B4D-191A-42C2-B06C-DA4E19527C47,Osito Tavuk Burger Menü,"54,00 TL",Menüler,21.0
+ec28e0a3-8950-42a3-9d46-5bcfae6c3a37,Osito Acı Burger Menü,"64,00 TL",Menüler,19.0
+e6a13b01-12fb-4929-9da5-b1b18ec5a5b2,Osito BBQ Burger Menü,"68,00 TL",Menüler,17.0
+418f29d9-596d-44c3-bad2-8b7186516625,Osito Klasik Burger Menü,"76,00 TL",Menüler,17.0
+9A5148DC-5FE4-4317-BFEC-4471AF16BC3C,Osito Rib Burger,"46,00 TL",Burgerler,34.0
+28A2ABCA-A0A6-423E-A077-56C7EA0169E2,Osito Gruyere,"38,00 TL",Burgerler,14.0
+F3FC0DBD-DE0C-4E64-8D61-ACE97E7CF9FB,Osito Eggslut Burger,"36,00 TL",Burgerler,14.0
+519AFD3D-F307-489B-B5F9-AA557C87FAD8,Osito İtalyan Burger,"36,00 TL",Burgerler,14.0
+b52a4c3a-5541-4c89-9044-4b1d48bc0dd0,Osito Klasik Burger,"32,00 TL",Burgerler,19.0
+691a8cc5-5db1-412f-820b-608d7717e8ee,Osito Acı Burger,"34,00 TL",Burgerler,16.0
+909a0e8c-e1da-4760-921b-3b1f11b7fca2,Osito Ranch Burger,"34,00 TL",Burgerler,36.0
+5e45137b-cb10-4f2e-9abc-2503c17a0577,Osito Keçi Burger,"34,00 TL",Burgerler,33.0
+c2ad76b6-ced5-4ad7-ab02-e33770761d95,Osito Mantar Burger,"34,00 TL",Burgerler,14.0
+e3300ef6-e8bb-45d2-b15d-4b661bc2d883,Osito Füme Burger,"35,00 TL",Burgerler,25.0
+f98faaa9-0dc4-43b4-8b88-c247a22168e5,Osito Tavuk Burger,"23,00 TL",Tavuk Burgerler,19.0
+2b3bc13b-cac4-435b-8b55-19e5b2f125fc,Acı Tavuk Burger,"23,00 TL",Tavuk Burgerler,12.0
+e926a9c3-3965-4dd0-97d0-61120e4e6094,BBQ Tavuk Burger,"25,00 TL",Tavuk Burgerler,10.0
+DBA97F6E-7751-455D-8C2B-F15933A467BD,Burrito Veggy,"28,00 TL",Burritos,5.0
+1702DAC0-7189-4387-A82B-F077FF920F2B,Chicken Burrito,"30,00 TL",Burritos,5.0
+731DA10A-45F9-41CC-A50A-2303B9A889DD,Beef Burrito,"36,00 TL",Burritos,5.0
+519F88F5-D737-4783-829B-BD4F2CD0C344,Fried Chicken Burrito,"30,00 TL",Burritos,5.0
+4114B332-EA9E-4B3D-9773-ABA50BEC3B90,Fried Beef Burrito,"36,00 TL",Burritos,5.0
+6D7CCC53-E1C4-4E7A-8FF2-30DE8939D89D,Grilled Cheese Burrito,"34,00 TL",Burritos,5.0
+037b2fb9-618d-458c-b61c-83cc0a0503a9,Soğan Halkası (8 Adet),"8,00 TL",Yan Ürünler,4.0
+9247692A-BDD9-4A33-878C-D26573C166B1,Çıtır Tavuk (200 gr.),"24,00 TL",Yan Ürünler,12.0
+80709461-e5d0-4557-a3fe-f572aa03040f,Patates Kızartması,"8,00 TL",Yan Ürünler,42.0
+9a996a69-2e74-4b8b-9bd1-0362dc077ee8,Ev Yapımı Cookie,"6,00 TL",Kurabiyeler,19.0
+74979968-91d8-46f4-bc51-5042e23c4b6c,Ev Yapımı Cookie (5 Adet),"22,00 TL",Kurabiyeler,19.0
+35780396-39fb-4058-bc1f-708b79c10f23,Osito Sos,"2,00 TL",Soslar,20.0
+59a6f70e-7f94-47b6-af16-3742f647565f,Ev Yapımı Ranch Sos,"2,00 TL",Soslar,31.0
+9dc8f04d-eee0-49c7-bfce-c7283df95655,Biberli Acı Sos,"2,00 TL",Soslar,14.0
+baa76e36-90ec-4e23-8e35-8925bda1ca44,Ev Yapımı Barbekü Sos,"2,00 TL",Soslar,15.0
+D6D09681-A0E4-426A-B670-2CF9FCA248E4,Trüflü Mayonez,"3,00 TL",Soslar,7.0
+d572f41b-55fc-40ff-bf0b-cbd59f66e9bd,Poşet,"0,25 TL",Poşet,5.0

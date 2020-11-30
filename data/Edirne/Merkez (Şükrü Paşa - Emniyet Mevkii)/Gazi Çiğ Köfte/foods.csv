@@ -1,0 +1,39 @@
+food_id,food_name,food_price,food_category,food_score
+dfdc2d75-39b7-4d17-8db1-e6a390326571,Çekirdek Aile Menü,"26,00 TL",Ekonomik Menüler,5.0
+aa2bae6a-7a37-443b-a22e-69d91667ff3c,Hayrabolu Menü,"13,00 TL",Ekonomik Menüler,5.0
+e317eaa5-b3a5-42f3-ad1b-5a738473569c,Pilav Menü 1,"15,00 TL",Ekonomik Menüler,36.0
+40dcf26b-fe4a-4b2c-a31d-a00455a99936,Pilav Menü 2,"19,00 TL",Ekonomik Menüler,20.0
+753e522a-b8b4-415c-a279-7541b5ae1832,Pilav Menü 3,"18,00 TL",Ekonomik Menüler,22.0
+53916319-8b9d-4067-9be2-321affd70c7c,Dev Aile Menü,"65,00 TL",Ekonomik Menüler,3.0
+FBB7FC5E-FDB1-4A2A-8BE1-2404351C19C8,Dört Kafadar Menü,"45,00 TL",Ekonomik Menüler,5.0
+e6154473-a430-4a8a-85ea-8312b5291983,Dürüm Ayran Menü,"7,00 TL",Ekonomik Menüler,2.0
+7CF9BE48-2247-48EF-9A8D-7489DB9A032A,Gazi Menü 2,"28,00 TL",Ekonomik Menüler,14.0
+7351646c-bc20-4446-83a2-83685e6c01ea,Gazi Menü 3,"47,00 TL",Ekonomik Menüler,16.0
+f8bc35d0-53a0-48ef-8fd2-00a042192889,Güldüren Menü,"32,00 TL",Ekonomik Menüler,5.0
+6e12fab6-e2a7-49b8-ad4c-469434098179,Kampüs Menü,"11,00 TL",Ekonomik Menüler,5.0
+7d095994-a8c3-4c68-afbf-ab99983c375c,Kanka Menü,"21,00 TL",Ekonomik Menüler,5.0
+5d4c97bd-922b-476d-ba76-6f84d3200d52,Mega Menü,"12,00 TL",Ekonomik Menüler,10.0
+bedee775-50fc-4f6d-9a21-f79753597319,On Numara Menü,"52,00 TL",Ekonomik Menüler,5.0
+a9c87ad7-ccc4-4212-b89a-f4e1d2e9ffe7,Şenlik Menü,"38,00 TL",Ekonomik Menüler,5.0
+7badc714-cff3-4c1d-b479-f9a0be9e5b72,Trileçe Kampüs Menü,"15,00 TL",Ekonomik Menüler,5.0
+80A7AAED-6025-48A1-8349-867F54DE4D6D,Nohutlu Pirinç Pilavı (250 gr.),"9,00 TL",Pilavlar,5.0
+B6A563D8-B5C1-4D61-9586-B1C30CFC26F1,Nohutlu Tavuklu Pirinç Pilavı (250 gr.),"11,00 TL",Pilavlar,7.0
+bec6538f-3c81-4970-9e4a-e77751f07ea7,Duble Çiğ Köfte Dürüm,"9,00 TL",Dürümler,20.0
+ca1ea6dd-bf19-446c-a0da-5d6e699016db,Mega Çiğ Köfte Dürüm,"7,00 TL",Dürümler,30.0
+6FFD2303-D575-4A51-B456-C69C31E0E851,Lavaş (Adet),"0,50 TL",Yan Ürünler,7.0
+24444F2E-9666-4BDA-BF0F-29C349982406,Limon (Adet),"2,00 TL",Yan Ürünler,4.0
+8F67F140-A03E-494A-B4AE-5B518EF9A7BE,Turşu (60 gr.),"2,00 TL",Yan Ürünler,10.0
+c487e3cf-8c11-4fa6-9228-4dbb17587a2b,Midye Dolma (Küçük) (10 Adet),"10,00 TL",Yan Ürünler,6.0
+b82e7042-c411-4cb5-8e11-e3845e61f394,Midye Dolma (Orta) (10 Adet),"15,00 TL",Yan Ürünler,6.0
+ac7183e8-a73f-48a5-b44a-0edc48561596,Midye Dolma (Büyük) (10 Adet),"20,00 TL",Yan Ürünler,6.0
+6a722511-85b3-407b-9bb0-d4ec3f7cf354,Nar Ekşisi (10 gr.),"0,50 TL",Yan Ürünler,5.0
+334e110c-9937-49e1-a3d9-efe713e9d075,Acı Sos (10 gr.),"0,50 TL",Yan Ürünler,6.0
+26B48541-15D2-4047-BDF1-488E53F680E7,Göbek Marul (Yarım),"4,00 TL",Yan Ürünler,5.0
+5E86ABF9-578B-4C4E-84B2-272DDF964655,Göbek Marul (Tam),"7,00 TL",Yan Ürünler,5.0
+0F6D6ED3-9D3D-4D93-9F79-C4D1A63324E3,Eker Çikolatalı Puding (100 gr.),"3,50 TL",Tatlılar,5.0
+926C620A-EA44-41B0-B585-F4C15C7681F8,Eker Kazandibi (100 gr.),"3,50 TL",Tatlılar,5.0
+CC8216EA-9773-4831-AC39-E7A265A0B76F,Eker Sütlaç (100 gr.),"3,50 TL",Tatlılar,5.0
+5AE5B51F-A7F2-4ADB-8FC2-1D046F73C2E2,Karamelli Trileçe (Dilim),"7,00 TL",Tatlılar,10.0
+FDA55501-226A-46FB-AD16-7FA337CD3604,Hayrabolu Tatlısı,"6,00 TL",Tatlılar,5.0
+253C68CA-7311-4C5A-8D2D-CAA1C5F98FDB,Coca- Cola Şekersiz (33 cl.),"4,00 TL",İçecekler,5.0
+b14e22f9-1743-455d-b56c-26580cb61976,Poşet,"0,25 TL",Poşet,5.0

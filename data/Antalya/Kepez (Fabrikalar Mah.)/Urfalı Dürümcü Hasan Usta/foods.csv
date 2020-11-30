@@ -1,0 +1,31 @@
+food_id,food_name,food_price,food_category,food_score
+20b53b8a-01fb-4524-aae5-364501e607f5,Adana Kebap,"20,00 TL",Kebaplar & Izgaralar,8.0
+2a64e33a-2993-4e72-adb3-9a0e4871e954,Urfa Kebap,"20,00 TL",Kebaplar & Izgaralar,5.0
+d6777c9a-5b68-4499-b8ca-301a65b928a4,Kuşbaşı Şiş,"23,00 TL",Kebaplar & Izgaralar,5.0
+ec8bbb73-a9ab-4a2a-9753-637298dd8c86,Burdur Şiş,"20,00 TL",Kebaplar & Izgaralar,5.0
+13fd4923-565e-4f38-b148-28c5d31e3bd5,Tavuk Şiş,"18,00 TL",Kebaplar & Izgaralar,5.0
+6219d979-ee1c-4578-b484-7b16a548fa36,Ciğer Şiş,"20,00 TL",Kebaplar & Izgaralar,5.0
+28f6f21b-507b-48c6-8b43-33e5fc32e398,Tavuk Kanat,"20,00 TL",Kebaplar & Izgaralar,5.0
+8f66c33e-68ce-4e11-b4f5-af2e15e6d3e2,Tavuk Kelebek,"23,00 TL",Kebaplar & Izgaralar,5.0
+ca1138a0-53ed-4963-9516-d1150459dc51,Domatesli Kebap,"25,00 TL",Kebaplar & Izgaralar,5.0
+d08c5c68-ffe1-4111-82d4-ca5be49cfe95,Patlıcanlı Kebap,"20,00 TL",Kebaplar & Izgaralar,5.0
+e15d0163-8180-4ca5-a438-3ed3560654a5,Karışık Spesiyal Kebap,"60,00 TL",Kebaplar & Izgaralar,5.0
+0115505e-384d-43b7-81d0-ce1add78e5f0,Pilav Üstü Tavuk Döner,"16,00 TL",Tavuk Dönerler,5.0
+c3690316-46da-4b3f-9831-44fea69c6850,Mega Tavuk Döner,"13,00 TL",Tavuk Dönerler,5.0
+d885dc4c-8ef8-41c5-aeea-a2093f7e4d98,Tavuk Döner,"15,00 TL",Tavuk Dönerler,5.0
+e13e328e-07bd-4dd4-b109-5c55c2a58b42,Soslu Tavuk Döner,"12,00 TL",Tavuk Dönerler,5.0
+2a37a848-e956-46d7-9386-0a06be5f6be5,Ekmek Arası Köfte,"12,00 TL",Ekmek Arası Ürünler,5.0
+e86cdb38-65f0-42c7-b9f7-33d91d511f6b,Ekmek Arası Kokoreç,"12,00 TL",Ekmek Arası Ürünler,5.0
+a05eb432-99d9-4eb4-9994-5b3797bb76da,Adana Dürüm,"14,00 TL",Dürümler,7.0
+ca6db99e-8fe3-46f2-9eea-a4bb29214418,Burbur Şiş Dürüm,"14,00 TL",Dürümler,4.0
+1b00b0d3-427c-4e14-9ad1-afa2982ecc26,Ciğer Şiş Dürüm,"14,00 TL",Dürümler,4.0
+7632364a-a081-4793-88cc-b38dd0a54f1f,Köfte Dürüm,"14,00 TL",Dürümler,4.0
+f8b3dae7-ce71-4207-94df-6e8b5d0dbdb4,Kokoreç Dürüm,"15,00 TL",Dürümler,4.0
+75894cfd-7c04-426a-8f2a-c7514c997f13,Kuşbaşı Şiş Dürüm,"15,00 TL",Dürümler,4.0
+7e270b74-18b1-461e-a14f-b02548258e92,Tavuk Şiş Dürüm,"12,00 TL",Dürümler,4.0
+f4d2ad12-5a9d-480b-87f7-eb214d962dd5,Urfa Dürüm,"14,00 TL",Dürümler,4.0
+3cf22565-5ca1-4933-ab36-60cf747a6036,Ezme,"5,00 TL",Yan Ürünler,5.0
+4606517b-cc4d-40b3-9fd6-9a1b7751f1e8,Çoban Salata,"7,00 TL",Salatalar,5.0
+8425ff42-8bd6-4bc1-9e6a-55f6cc7ee40d,Karışık Salata,"8,00 TL",Salatalar,5.0
+b3a66c65-09c8-4f21-bd5d-eeef64307c2d,Soğan Salatası,"5,00 TL",Salatalar,5.0
+9c2d714f-4369-479c-a638-e8098e26cc3e,Poşet,"0,25 TL",Poşet,5.0

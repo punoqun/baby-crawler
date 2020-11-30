@@ -1,0 +1,24 @@
+food_id,food_name,food_price,food_category,food_score
+2bdbe9d5-6e56-4b89-88df-cb4b719ac74d,Menü 1,"29,50 TL",Menüler,12.0
+22B3B470-C89C-4460-B2BE-9CE5652E20B5,Menü 2,"29,50 TL",Menüler,5.0
+8d7531ed-9854-4241-8fd5-55e85a1b17c8,Menü 3,"28,50 TL",Menüler,5.0
+4ada903f-b916-435c-ae44-4943db0eadab,Menü 4,"29,80 TL",Menüler,5.0
+598ef2fb-6728-4b0d-b62d-0dc5af1844c4,Menü 5,"29,50 TL",Menüler,10.0
+21c23532-1c0b-4d7d-a1f8-0a92c9ea1231,Menü 6,"29,50 TL",Menüler,5.0
+79adbea6-cf79-491f-a275-737051417768,Menü 7,"33,00 TL",Menüler,5.0
+305FED91-4491-43AA-A1D1-DFBB55F6DAB3,Menü 8,"29,50 TL",Menüler,5.0
+6e328369-a634-406d-9e5b-53ec7e8e9b56,A1 Menü,"69,00 TL",Menüler,5.0
+49b50d64-044f-4977-bd1c-1de0eabe3f34,Kanka Menü,"60,00 TL",Menüler,5.0
+6b31e3f4-dd25-421a-9661-f1aa62184283,Lahmacun,"10,00 TL",Lahmacunlar,8.0
+9b4dc940-2816-4a30-a439-f7a4b629b57d,Kaşarlı Lahmacun,"11,00 TL",Lahmacunlar,3.0
+d5160f38-12a4-4f6e-80aa-7eedf2e37892,Atom Pide,"19,00 TL",Pideler,14.0
+ba54d89c-4443-490d-8f11-619a6ef28e38,Kaşarlı Domatesli Biberli Pide,"13,50 TL",Pideler,14.0
+afc95ed8-1c30-47e6-96bc-8fc89f2e11ee,Kaşarlı Pide,"13,50 TL",Pideler,14.0
+26d4a6e9-f11a-4d4b-9640-c52e44dce5c6,Kaşarlı Yumurtalı Pide,"15,00 TL",Pideler,14.0
+49eafe61-0265-48fd-a08e-5ab36710054e,Kıymalı Kaşarlı Pide,"15,00 TL",Pideler,13.0
+1e50946d-2dcf-4ff0-beae-4aef883985a5,Kıymalı Pide,"12,50 TL",Pideler,18.0
+eee3a049-86af-4b1c-ae6c-bb8d9945ff4d,Kuşbaşılı Kaşarlı Pide,"18,00 TL",Pideler,14.0
+71753abd-992e-43e3-a29c-c33731067f72,Kuşbaşılı Pide,"18,50 TL",Pideler,14.0
+01ed0ade-900a-4f8c-b35b-0f0bb0792870,Sucuklu Kaşarlı Pide,"15,00 TL",Pideler,14.0
+59055eb4-0ff0-4386-8de0-c316018128ca,Su,"2,00 TL",İçecekler,5.0
+40166332-677f-4141-97d4-4d17908462e9,Poşet,"0,25 TL",Poşet,5.0

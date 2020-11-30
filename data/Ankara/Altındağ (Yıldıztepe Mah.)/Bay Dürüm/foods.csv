@@ -1,0 +1,36 @@
+food_id,food_name,food_price,food_category,food_score
+e3464c40-73f6-4a52-8b4c-09050e507cce,Adana Kebap,"15,00 TL",Kebaplar,-2.0
+e4ee565e-052f-4d7d-9357-d80cdab4237f,Urfa Kebap,"15,00 TL",Kebaplar,5.0
+725115f1-3f3a-4dc5-b054-c32c58cb6e3e,Mantarlı Kebap,"16,50 TL",Kebaplar,5.0
+fd2cccd5-1f23-4083-8e2c-2d3c2d2a0a9f,Patlıcanlı Kebap,"16,50 TL",Kebaplar,5.0
+58f35edf-59bf-4df1-814c-5a311ccccf35,Tavuk Şiş,"12,75 TL",Izgaralar,10.0
+C763B53C-3345-470C-8B78-84B66AAAEED9,Tavuk Pirzola (250 gr.),"14,25 TL",Izgaralar,12.0
+59ca4c8b-d2f3-4005-aa52-31a5e6183c9e,Tavuk Kanat,"15,00 TL",Izgaralar,23.0
+cc0ebba0-2580-4e82-9bb0-3de0d9bf9be9,Tavuk Külbastı,"12,75 TL",Izgaralar,12.0
+f492a22e-5f6c-46cd-814e-c07de45a28c7,Izgara Köfte,"15,00 TL",Izgaralar,11.0
+10036a61-0f27-4e56-944d-a05e6f1cdc93,Kuzu Çöp Şiş,"18,00 TL",Izgaralar,5.0
+89e9dc4e-928d-4cc3-b38b-d651b75f15df,Ciğer Şiş,"16,50 TL",Izgaralar,3.0
+d0b814df-0275-4ba4-9da7-dc88f5bf7eeb,Karışık Izgara,"33,75 TL",Izgaralar,4.0
+1F49FCDA-69F8-4A45-8BC6-97C81D10F473,Et Sac Kavurma,"33,75 TL",Sac Kavurmalar,5.0
+6f3039ca-5299-42cb-b8c3-2c4f4bc0602e,Tavuk Sac Kavurma,"22,50 TL",Sac Kavurmalar,12.0
+3918E73D-DA62-4E54-9104-0DA1CA214791,Sucuk Dürüm,"10,50 TL",Dürümler,13.0
+6282DB32-C1E5-4AF9-B9F4-D93B3C0E9BA0,Arnavut Ciğer Dürüm,"9,00 TL",Dürümler,13.0
+56973104-DF13-4D68-BA7C-E51EFA6D42A4,Köfte Dürüm,"10,50 TL",Dürümler,21.0
+a39acf49-f28e-4592-a9f5-ff1c0e180b4b,Adana Dürüm,"10,50 TL",Dürümler,11.0
+3a6417b8-e8a5-4cac-8742-14cf1613faa0,Urfa Dürüm,"10,50 TL",Dürümler,13.0
+b63fd34f-384d-46cc-8b74-dd5c025edc9e,Tavuk Şiş Dürüm,"9,75 TL",Dürümler,23.0
+7733cc04-2606-4191-9d96-d2d79b4e67ef,Kuzu Çöp Şiş Dürüm,"12,75 TL",Dürümler,13.0
+0d7bdcb6-2bba-4ee3-8184-bbc1f1a5a6d8,Ciğer Şiş Dürüm,"12,75 TL",Dürümler,11.0
+93283a10-5ae1-4829-a528-f9452ac17931,Yarım Ekmek Arası Köfte,"10,50 TL",Ekmek Arası Ürünler,13.0
+99D92380-E76E-4822-98B4-28C2F61D1AD0,Sucuk Ekmek,"10,50 TL",Ekmek Arası Ürünler,5.0
+230D0E89-AD57-4DDD-8352-C9D2E175FCF9,Ekmek Arası Ciğer Şiş,"12,75 TL",Ekmek Arası Ürünler,3.0
+77EB1247-BA91-4150-B56F-E543E7917751,Ekmek Arası Arnavut Ciğeri,"9,00 TL",Ekmek Arası Ürünler,5.0
+9E82B437-43C5-4E62-959E-57E834760C02,Ekmek Arası Adana Kebap,"10,50 TL",Ekmek Arası Ürünler,-2.0
+656B1FBE-F97A-4F05-8375-EC1A8A0A98A8,Ekmek Arası Tavuk Şiş,"9,75 TL",Ekmek Arası Ürünler,10.0
+531C0A9F-4725-4533-89F2-467E8F8129B1,Ekmek Arası Kuzu Çöp Şiş,"12,75 TL",Ekmek Arası Ürünler,5.0
+6F1F4379-1D09-48A3-8857-F44F2A907D9F,Tavuk Külbastı Sandviç,"9,75 TL",Ekmek Arası Ürünler,12.0
+135914d1-8d3b-4e7d-805e-c1f1a86a2f10,Lavaş Ekmeği (Adet),"1,13 TL",Yan Ürünler,-4.0
+dd516f83-95b8-4e62-979f-c679467a5696,Künefe,"11,25 TL",Tatlılar,7.0
+376672fe-a627-4f61-85e4-9c79eb1c9e59,Niğde Gazozu (25 cl.),"3,00 TL",İçecekler,5.0
+D71F6207-A54A-4AF4-AC6F-AA71A716060D,Ayran (20 cl.) (Cam Şişe),"2,25 TL",İçecekler,5.0
+6fa40a70-c4dd-4934-90aa-54187fb9e389,Poşet,"0,25 TL",Poşet,5.0

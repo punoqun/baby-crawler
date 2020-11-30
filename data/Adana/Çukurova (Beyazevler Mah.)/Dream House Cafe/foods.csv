@@ -1,0 +1,39 @@
+food_id,food_name,food_price,food_category,food_score
+8ac1721d-dc37-4546-8a73-4c41a876f683,Margherita Pizza (Orta) Menü,"18,75 TL",Orta Boy Pizza Menüleri,6.0
+fa49da05-dae6-4b9f-a5a5-84901c2ad427,Veggie Pizza (Orta) Menü,"18,75 TL",Orta Boy Pizza Menüleri,6.0
+a8614c0e-eba0-417f-ad36-72aab6c64b31,Acılı Tavuklu Pizza (Orta) Menü,"22,50 TL",Orta Boy Pizza Menüleri,10.0
+80916377-30b2-48e8-b8a7-88b624b2db0f,Meat Pizza (Orta) Menü,"22,50 TL",Orta Boy Pizza Menüleri,6.0
+e139d245-9009-4c36-b2c8-7a8382ab239e,Special Pizza (Orta) Menü,"22,50 TL",Orta Boy Pizza Menüleri,8.0
+fe2872d3-ca35-47c3-8986-3d74b8bb95aa,Ton Balıklı Pizza (Orta) Menü,"22,50 TL",Orta Boy Pizza Menüleri,6.0
+86b0a2ba-276f-47f3-8408-9efeefc3d22b,Margherita Pizza (Büyük) Menü,"22,50 TL",Büyük Boy Pizza Menüleri,6.0
+6d93529b-3e0d-4855-8cdf-ac59ed3be7b4,Veggie Pizza (Büyük) Menü,"22,50 TL",Büyük Boy Pizza Menüleri,6.0
+1064414e-53e5-4800-a4b2-e36193c3348e,Acılı Tavuklu Pizza (Büyük) Menü,"26,25 TL",Büyük Boy Pizza Menüleri,10.0
+b1012760-64e1-43d4-8598-651d4e791ed7,Meat Pizza (Büyük) Menü,"26,25 TL",Büyük Boy Pizza Menüleri,6.0
+ab16e403-8c5c-4951-ae0e-1c0d63bf3130,Special Pizza (Büyük) Menü,"26,25 TL",Büyük Boy Pizza Menüleri,13.0
+86811efb-43b8-477b-a1a1-4abd494005c0,Ton Balıklı Pizza (Büyük) Menü,"26,25 TL",Büyük Boy Pizza Menüleri,6.0
+3ede9210-46fa-48fc-b48b-1705bd9916d4,Tavuklu Sandviç Menü,"18,75 TL",Menüler,9.0
+5d6a5f3e-4cf5-43b6-ae12-0f1076c78b6f,Ton Balıklı Sandviç Menü,"18,75 TL",Menüler,5.0
+36abe065-27e9-4f1e-8281-15ce48abba59,Köfte Sandviç Menü,"18,75 TL",Menüler,5.0
+ba58ff38-6df0-4b77-b291-91918eaf9eb9,Etli Sandviç Menü,"18,75 TL",Menüler,5.0
+c9bcebf2-d6df-490e-8560-efcd7ef276b8,Hamburger Menü,"15,00 TL",Menüler,5.0
+00e30b16-7a91-4c9a-a50b-eb6ef623fcd9,Cheeseburger Menü,"16,50 TL",Menüler,5.0
+3dbfa829-d566-4483-a528-166207ebacb4,Chicken Americano,"22,50 TL",Ana Yemekler,14.0
+9846A888-0634-4C0C-AFDE-B2C8A7CCDF99,Chicken Provansel,"26,25 TL",Ana Yemekler,8.0
+5bac6784-9bd5-4fe6-8f33-37173ff8588a,Köri Soslu Tavuk,"22,50 TL",Ana Yemekler,16.0
+d6ea2294-cb05-4c7f-987b-57cbca1b5d71,Chicken Prenses,"22,50 TL",Ana Yemekler,7.0
+f8c2747c-d223-4fbd-8b78-f9b385754a88,Tavuklu Mantarlı Krep,"22,50 TL",Ana Yemekler,13.0
+c08c8a4f-2e15-4e46-876e-7fd6995bd082,Schnitzel,"22,50 TL",Ana Yemekler,5.0
+eed33d89-19b4-4224-ac25-d26e17eee4c2,Chicken Rollers (4 Adet),"22,50 TL",Ana Yemekler,7.0
+c5de7e5e-38e1-48a2-a236-864f6ba2dc4d,Parmak Patates Kızartması,"9,00 TL",Yan Ürünler,4.0
+1D8841C7-6581-4831-9B68-51E3083D7BD7,Roll Ekmek,"0,75 TL",Yan Ürünler,5.0
+9D3682C1-03E4-4A3E-A37E-2A65DD3915EE,Ekstra Pirinç Pilavı,"3,75 TL",Yan Ürünler,6.0
+238bc681-0c59-4f01-b089-d576dd328da9,Elma Dilim Patates,"9,00 TL",Yan Ürünler,4.0
+1eb2698c-61c3-4166-b68c-ce136f9b4875,Soğan Halkası,"9,00 TL",Yan Ürünler,5.0
+2c3d3d34-de2c-4b63-ab14-1a51ca0e8812,Peynirli Sigara Böreği,"11,25 TL",Yan Ürünler,5.0
+d56dd243-3840-431d-a9fe-d337180a019c,Paçanga Böreği (2 Adet),"13,50 TL",Yan Ürünler,5.0
+96b6b470-3826-4dbe-98c2-a7a9d347790b,Cajun Basket,"13,50 TL",Yan Ürünler,5.0
+87022409-b9f6-406f-99b5-b8e3b1a6088e,Mevsim Salata,"7,50 TL",Salatalar,5.0
+2701fd33-f31f-4b9a-9b42-b8d832559080,Coca-Cola Şekersiz (20 cl.),"3,75 TL",İçecekler,5.0
+aa302003-09c2-4633-8721-95904886cd12,Lipton Ice Tea (20 cl.),"3,75 TL",İçecekler,5.0
+2cb0b18b-7675-4726-8907-72b80e2d8769,Ketçap & Mayonez,"1,50 TL",Soslar,7.0
+655d56ba-903f-4da9-8614-6a4d8ae4b837,Poşet,"0,25 TL",Poşet,5.0

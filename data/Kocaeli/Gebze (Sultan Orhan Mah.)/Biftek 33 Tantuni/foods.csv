@@ -1,0 +1,21 @@
+food_id,food_name,food_price,food_category,food_score
+bc957721-4956-4e90-bb7a-5aacf9efaa1c,Kaşarlı Tost,"10,00 TL",Tostlar,5.0
+b6591f73-a903-452e-9110-8b8867ebe09f,Karışık Tost,"15,00 TL",Tostlar,5.0
+c0689eaf-98b5-42a7-a099-31938633228b,Ekmek Arası Biftek Tantuni,"20,00 TL",Biftek Tantuniler,2.0
+501891bb-cfe2-4ed6-9050-c9b0a4a6514b,Biftek Tantuni Dürüm,"20,00 TL",Biftek Tantuniler,9.0
+7349b17b-13b3-4547-9493-e41b66de8408,Ekmek Arası Tavuk Tantuni,"13,00 TL",Tavuk Tantuniler,-3.0
+5647accb-5b91-44fb-8d0d-1f3b98c3808a,Tavuk Tantuni Dürüm,"13,00 TL",Tavuk Tantuniler,8.0
+434159d8-1d02-4775-ba01-55e2329c0831,Patates Kızartması,"15,00 TL",Yan Ürünler,5.0
+34936490-116c-439e-b9ac-bd0dc395917f,Chicken Finger (4 Adet),"18,00 TL",Yan Ürünler,5.0
+2def6b67-bad3-414f-bec3-38a47ca01bbf,Soğan Halkası (10 Adet),"12,00 TL",Yan Ürünler,5.0
+ff0106c2-b9c2-42cf-aaf0-c16715f49d15,Hellim Sticks (4 Adet),"18,00 TL",Yan Ürünler,5.0
+53808678-c226-4258-b9bc-95550599c5b7,Deneme Tabağı,"25,00 TL",Yan Ürünler,5.0
+c4a5aada-c99f-4092-ab7d-9403c53f0a9d,Çıtır Tavuklu Salata,"25,00 TL",Salatalar,5.0
+93c6da87-67c1-4078-b762-f6e6f35fe084,Hellim Salata,"25,00 TL",Salatalar,3.0
+e0de8be8-cac0-45be-9c49-e122efb18bea,Tavuklu Salata,"20,00 TL",Salatalar,3.0
+4a37c2fe-2a6d-43dc-bde1-62850bb42ab7,Biftek Salata,"35,00 TL",Salatalar,3.0
+d8d639d9-8faa-487c-b12d-d6acbbebc344,Karışık Salata,"35,00 TL",Salatalar,3.0
+4ccc8fdf-243f-43a4-b1f7-bb9c78232946,Tamek (33 cl.),"5,00 TL",İçecekler,5.0
+ba0898dd-a368-489b-a396-03e6fe23c64c,Pepsi (25 cl.),"5,00 TL",İçecekler,5.0
+7cca4ad0-93a2-48b4-bce4-1607f8f081ad,Yedigün (25 cl.),"5,00 TL",İçecekler,5.0
+978551df-be8e-4fae-a112-5fb8459027b0,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,20 @@
+food_id,food_name,food_price,food_category,food_score
+e0001396-dfcf-47a0-aa3b-9d45f769968c,Ayvalık Tostu,"18,00 TL",Tostlar,5.0
+0bccd791-c6ff-4f51-be2c-1f4f8bd59080,Ton Balık Sandviç,"18,00 TL",Sandviçler,5.0
+ea0a43f9-485e-4cda-9840-dc986a442cc5,Mozzarella Peynirli Panzerotti,"24,00 TL",Börekler,5.0
+852113d8-dde9-4742-bb28-ad8a56ee96c7,Parmesan Peynirli Panzerotti,"24,00 TL",Börekler,5.0
+a4d31921-c43a-4b13-984e-d9b7ddcbffac,Soya Soslu Çin Böreği,"18,00 TL",Börekler,5.0
+9778259a-2de2-463e-921d-d10af5d197e4,Çin Böreği,"18,00 TL",Börekler,5.0
+2f40a17c-12e9-4f3c-9aa2-050d73c4a821,Çiğ Börek,"24,00 TL",Börekler,10.0
+d24640dc-e958-4faa-956c-a8c8c442fa04,Sigara Böreği,"12,00 TL",Börekler,5.0
+beea92b7-ac76-4653-b28f-c07630dea6a0,Delico Mantı,"36,00 TL",Makarnalar,5.0
+e1b901cf-cf1f-40b3-8a6a-a97e9b417472,Ravioli,"36,00 TL",Makarnalar,5.0
+6da21a10-0f90-4eac-bbff-8450aabc23ae,Peynir Soslu Makarna,"18,00 TL",Makarnalar,7.0
+26a03df0-8f3d-4acf-a17f-86e7faaa73c1,Domates Soslu Makarna,"18,00 TL",Makarnalar,5.0
+09ac842f-f01e-47a3-b822-f87307ab9da2,Sarımsaklı Makarna,"18,00 TL",Makarnalar,5.0
+d3f55c58-3440-4b7e-b1ca-24cffd7579be,Kıymalı Makarna,"21,00 TL",Makarnalar,5.0
+aaecb061-ee61-4045-8629-2d6f4f2f526e,Arnavut Ciğeri,"27,00 TL",Diğer Lezzetler,6.0
+efd11c68-7a0b-4cc2-a5e7-c882d4dbe360,Viyana Usulü Schnitzel,"27,00 TL",Diğer Lezzetler,10.0
+f744f524-e7a6-48e4-8d4b-489c7cdaedb8,Tiramisu,"15,00 TL",Tatlılar,5.0
+cb04c052-e0b1-48f0-97bd-9857ff93f863,Profiterol,"12,00 TL",Tatlılar,5.0
+f894278d-20e3-4c88-b5b9-5cab1f24f8e3,Poşet,"0,25 TL",Poşet,5.0

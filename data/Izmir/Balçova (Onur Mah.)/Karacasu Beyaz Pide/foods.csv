@@ -1,0 +1,33 @@
+food_id,food_name,food_price,food_category,food_score
+15151edd-3fe3-4c66-83bc-8a8ae08c18fa,Menü 1,"64,00 TL",Ekonomik Menüler,10.0
+9175b0bb-d474-4b22-824e-cc6d9761c61b,Menü 2,"104,00 TL",Ekonomik Menüler,11.0
+9756424b-d6b8-486c-8a6c-00765ca7c98d,Menü 3,"44,00 TL",Ekonomik Menüler,10.0
+76dd0220-5b37-4dc5-93cd-0b8dd8d333bd,Menü 4,"90,00 TL",Ekonomik Menüler,6.0
+5eca71d1-5d78-4dfa-8e2c-89a394a1f348,Menü 5,"48,00 TL",Ekonomik Menüler,6.0
+26123197-dfa9-445f-acc6-c51f484d400a,Menü 6,"56,00 TL",Ekonomik Menüler,7.0
+ce790cad-1534-4abc-8e46-d15e1ead75b0,Menü 7,"65,00 TL",Ekonomik Menüler,7.0
+70ba6314-4539-4553-983a-756623efbad3,Menü 8,"57,00 TL",Ekonomik Menüler,8.0
+0367cd32-4881-42cf-9740-d6dfb8b1b33c,Kıymalı Lahmacun,"13,00 TL",Lahmacunlar,18.0
+393b1bdd-fbe8-4556-b990-d46bff98dfb4,Kıymalı Kaşarlı Lahmacun,"15,00 TL",Lahmacunlar,14.0
+2bdde872-fd5d-444f-81cc-fb6e8fd92167,Nazilli Gülü (Adet),"8,00 TL",Lahmacunlar,5.0
+1b51acb7-3bb1-4137-b8bc-7a21916612bd,Kıymalı Pide,"16,00 TL",Pideler,31.0
+c2694c6e-8ea7-4074-9bdc-e3a5875f5040,Kıymalı Kaşarlı Pide,"18,00 TL",Pideler,27.0
+6a5821da-c5df-4461-8fbd-98611efe2fec,Kuşbaşılı Pide,"22,00 TL",Pideler,25.0
+d0533f68-5efe-443b-ae51-d3a840c20360,Kuşbaşılı Kaşarlı Pide,"23,00 TL",Pideler,31.0
+d7f798b6-8835-4ffc-81bd-fa246c6de06f,Kaşarlı Pide,"16,00 TL",Pideler,22.0
+d5449e7f-d158-4fd7-b32e-93831b2e9fc8,Peynirli Pide,"16,00 TL",Pideler,21.0
+d6409bb0-ddac-4953-9be0-e16b80f71219,Mantarlı Kaşarlı Pide,"18,00 TL",Pideler,22.0
+18e150b6-def3-4fbc-bac1-f6daee0e976d,Sucuklu Kaşarlı Pide,"18,00 TL",Pideler,22.0
+ba35436a-99a0-4170-98ee-cf8cb0413861,Salamlı Kaşarlı Pide,"18,00 TL",Pideler,22.0
+3f7bbb31-8ace-4c64-8185-2539c5906df0,Karışık Pizza,"22,00 TL",Pizzalar (1 Kişilik),5.0
+76d103b6-88b8-4271-bcbc-54d6a80f39e8,Vejetaryen Pizza,"20,00 TL",Pizzalar (1 Kişilik),5.0
+c0a58177-99f2-4ef4-a1fc-76c49018135a,Adana Dürüm,"17,00 TL",Dürümler,4.0
+844ebe94-6d3a-45a4-858b-7baf2f36fa68,Urfa Dürüm,"17,00 TL",Dürümler,5.0
+e45f2d9a-af44-4cb0-8c68-0c737ed29983,Izgara Köfte Dürüm,"17,00 TL",Dürümler,7.0
+76ee531c-4fbc-44d7-b112-7bec27a0ad5d,Kiremitte Köfte,"24,00 TL",Diğer Lezzetler,7.0
+a9a712dd-dfe6-46cd-b210-1327e5fa474d,Kiremitte Kaşarlı Köfte,"26,00 TL",Diğer Lezzetler,8.0
+ce575847-c2c3-4e95-b84d-74a85e265f24,Kiremitte Izgara Köfte,"25,00 TL",Diğer Lezzetler,7.0
+3b468936-68b1-40b4-b9e9-5020810d071e,Tahinli Tatlı,"20,00 TL",Tatlılar,5.0
+e61b98f2-de62-4ad5-a720-d8493bdc39fd,Künefe,"13,00 TL",Tatlılar,5.0
+317a2786-f2a2-4827-8020-c5663603b6eb,Sufle,"9,00 TL",Tatlılar,7.0
+c03aa001-b4d4-4739-83e7-e6d3609353b0,Su,"1,50 TL",İçecekler,7.0

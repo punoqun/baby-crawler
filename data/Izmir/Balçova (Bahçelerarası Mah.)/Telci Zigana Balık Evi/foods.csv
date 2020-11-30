@@ -1,0 +1,55 @@
+food_id,food_name,food_price,food_category,food_score
+6bbb27e0-b1ab-416c-aed2-fb5ef18a116f,Izgara Sardalya Menü,"29,00 TL",Ekonomik Menüler,1.0
+6e59e0f0-2024-42c1-86af-83622a7fb602,Tavada Sardalya Menü,"29,00 TL",Ekonomik Menüler,1.0
+11366bef-293c-434e-a9c2-390aa0c54687,Tavada Sardalya Fileto Menü,"29,00 TL",Ekonomik Menüler,1.0
+6014ddcc-f179-40e1-adc0-3d78a2167f19,Yarım Ekmek Arası Sardalya Menü,"23,00 TL",Ekonomik Menüler,8.0
+f5274e50-c886-44d6-acf0-9271a39ca214,Yarım Ekmek Arası Izgara Köfte Menü,"25,00 TL",Ekonomik Menüler,7.0
+b68ad27b-5c51-43b3-8f4b-a6f3c8efcfbe,Izgara Köfte Menü,"30,00 TL",Ekonomik Menüler,5.0
+0eea2032-10c5-4206-bb46-c262ce021eaf,Izgara Levrek (420 - 470 gr.) Menü,"45,00 TL",Ekonomik Menüler,7.0
+7ba8b1a3-4fc0-41e2-8b0f-305dfea28527,Izgara Deniz Levreği Menü,"60,00 TL",Ekonomik Menüler,5.0
+7c0ee961-83f3-4f89-b4c0-20638b25d526,Izgara Deniz Çipurası Menü,"58,00 TL",Ekonomik Menüler,5.0
+995af939-79bf-4ed2-82ad-8496300b672c,4'lü Meze Menü,"50,00 TL",Ekonomik Menüler,5.0
+20d03255-2206-4897-9290-3296ff14c3ca,Izgara Cupra (420 - 470 gr.) Menü,"45,00 TL",Ekonomik Menüler,7.0
+894374b5-4616-4b4f-bbde-b114402eb2e6,Palamut Tava,"50,00 TL",Tavada Balıklar,5.0
+e47e63f8-0c1a-4dc5-ad2e-b5685f6a8643,Çinekop Sarıkanat Tava,"40,00 TL",Tavada Balıklar,5.0
+da4bb211-f66d-4509-b010-f2e098c356a4,Dil Tava (200 - 250 gr.),"40,00 TL",Tavada Balıklar,7.0
+dfaaf2ac-c9b8-4967-86ea-8c225a18db7b,Mezgit (Tavuk) Tava (300-350 gr.),"40,00 TL",Tavada Balıklar,5.0
+c4910e96-90da-4693-b4d1-d48e7030cacb,Tavada Sardalya,"24,00 TL",Tavada Balıklar,1.0
+69e654a2-fa2a-4ef2-9fde-7e844ab3786e,Tavada Hamsi,"24,00 TL",Tavada Balıklar,5.0
+16264f19-e1b0-4f7c-ad61-49f9a84e4635,Tavada Sardalya Fileto,"24,00 TL",Tavada Balıklar,1.0
+4df27310-abdb-4881-a381-679795df3917,Mısır Unlu Karadeniz Hamsi Tava (2 - 3 Kişilik),"45,00 TL",Tavada Balıklar,12.0
+eea6e34e-0084-462c-bfb0-e55e7e2ee394,Mısır Unlu Karadeniz Sardalya Tava (2 - 3 Kişilik),"45,00 TL",Tavada Balıklar,3.0
+c8019d58-158a-43e1-95bf-d63022ca42de,Barbun Tava (280 - 300 gr.),"43,00 TL",Tavada Balıklar,5.0
+2d172214-96f5-4b7e-b2da-87e7580bed7d,Kalamar Tava,"54,00 TL",Tavada Balıklar,5.0
+95a11a11-c232-4e1b-9c53-6e343b24c980,Izgara Sardalya,"24,00 TL",Izgara Balıklar,1.0
+eabdd174-e90d-491b-b6ad-0f7120348906,Izgara Sardalya (350 - 400 gr.),"32,00 TL",Izgara Balıklar,3.0
+0d7a89cd-3eda-4b53-ab54-f4d19c07a699,Izgara Deniz Levreği (800 - 1000 gr.),"99,00 TL",Izgara Balıklar,7.0
+584a8ad8-a84c-436e-9b46-eee6b3326313,Izgara Somon (280 - 320 gr.),"40,00 TL",Izgara Balıklar,19.0
+6d709a85-5f43-4bd0-af64-b4c4c211d9b6,Kalamar Izgara,"54,00 TL",Izgara Balıklar,5.0
+1fcb5306-4046-4e71-9b90-522468c78dce,Izgara Palamut (Adet),"50,00 TL",Izgara Balıklar,5.0
+cf9ca638-fa6b-45df-9080-a534c82f28c3,Izgara Çinekop Sarıkanat (350 - 400 gr.),"40,00 TL",Izgara Balıklar,7.0
+957866ce-fc91-4815-bdb4-15a3ae200ae8,Tereyağlı Karides,"50,00 TL",Diğer Lezzetler,7.0
+2e471dd3-3073-4995-959a-3b9923dd9ea5,Güveçte Karides,"57,00 TL",Diğer Lezzetler,5.0
+60f62eb3-d4e3-4bce-908b-ad8d279d88c5,Mevsim Salata,"6,00 TL",Salatalar,7.0
+6b044013-0178-4fa1-bba2-a3ef6ef85e10,Yeşil Salata,"5,00 TL",Salatalar,7.0
+4b9f73b7-218e-4d67-ad95-d8332bc29ad3,Kaşık Salata,"10,00 TL",Salatalar,7.0
+d4495e0e-0ae2-4364-b16e-18fea8401f18,Gavurdağı Salata,"15,00 TL",Salatalar,6.0
+38ffd25a-7d78-4270-ba01-55b917c70ea8,Peynirli Salata,"10,00 TL",Salatalar,7.0
+6698b76b-8260-4675-8af6-e11affe98bf6,Karidesli Salata,"25,00 TL",Salatalar,7.0
+5357b3bb-37fb-4be8-9100-1c8e34eadb64,Acılı Antep Ezme,"15,00 TL",Mezeler,5.0
+D3A18570-B7A1-408F-96DE-44DA1AC3E58F,Közlenmiş Patlıcan,"15,00 TL",Mezeler,5.0
+88482821-2E2C-49B2-8578-CB41721D003A,Közlenmiş Kırmızıbiber,"15,00 TL",Mezeler,5.0
+b9049e21-95c3-437a-af1c-28b24ef4ee89,Ahtapot,"30,00 TL",Mezeler,5.0
+6f290539-87a9-4a76-8ffb-b46977a6d19d,Atom,"20,00 TL",Mezeler,5.0
+12d1fe76-32c0-4613-9218-f11764ff7710,Fava,"15,00 TL",Mezeler,7.0
+f905d10d-d32e-46ea-8e2f-733a6642912a,Haydari,"15,00 TL",Mezeler,5.0
+577d2775-48e8-406c-916b-f1cbb2eb54f2,Karides,"37,00 TL",Mezeler,5.0
+c4cf84e8-41f3-45ff-9b93-5cb7470bab76,Pancar,"15,00 TL",Mezeler,5.0
+84e71105-da40-46ca-ab32-2e607a7eb67d,Tekmil Fava,"15,00 TL",Mezeler,7.0
+2b8bddc9-91ce-4d1e-b84a-81c278a51180,Yoğurtlu Patlıcan,"15,00 TL",Mezeler,5.0
+7f934e6c-3567-4ce9-9a7c-713eba9674e0,Lipton Ice Tea Limon (33 cl.),"6,00 TL",İçecekler,5.0
+e32ba519-3973-4832-8b53-9f8c72624339,Niğde Gazozu (25 cl.),"5,00 TL",İçecekler,5.0
+1604f2e3-320d-4177-9a35-509067c5955a,Elmalı Soda (25 cl.),"4,00 TL",İçecekler,5.0
+84bd8917-62c9-4c6c-baef-894f0bf20312,Limonlu Soda (25 cl.),"4,00 TL",İçecekler,5.0
+751cd075-9caf-4ff5-81d2-3533456af914,Mandalin Soda (25 cl.),"4,00 TL",İçecekler,5.0
+cbe12d9e-b60d-4dc0-808e-ef1b5fb9d286,Poşet,"0,25 TL",Poşet,5.0

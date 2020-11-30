@@ -1,0 +1,47 @@
+food_id,food_name,food_price,food_category,food_score
+1B451BE1-A4AF-4084-978C-A2437A714070,Tavuk Şiş Dürüm Menü,"12,00 TL",Menüler,4.0
+F1FAD1F9-AC0E-44D9-A3DE-69A863D51606,5'li Hatay Usulü Tavuk Döner Dürüm Menü,"55,00 TL",Menüler,1.0
+6CD3A8BC-95A1-4798-A785-1CE5E3FB1B70,Ekmek Arası Ciğer Menü,"12,00 TL",Menüler,7.0
+9bc00a4a-d8a7-4232-b9b9-1534d80b0b18,Ekmek Arası Köfte Menü,"13,00 TL",Menüler,6.0
+bf8e490a-3a63-4e74-aaa2-46f95dc0a375,Ekmek Arası Tavuk Döner Menü 1,"11,00 TL",Menüler,5.0
+e0d25564-e390-4c21-a4cf-ee552037c0de,Ekmek Arası Tavuk Döner Menü 2,"9,00 TL",Menüler,-2.0
+0f79a73e-136e-41f3-b8ab-1499809149b5,Ekonomik Et Döner Menü,"10,00 TL",Menüler,3.0
+b9a90af7-bea5-42d7-ae05-6ef34fa3b223,Et Döner Dürüm Menü 1,"18,00 TL",Menüler,-3.0
+956925d6-3b61-4f21-9061-488e1c8325ca,Et Döner Dürüm Menü 2,"23,00 TL",Menüler,-5.0
+e5ce347f-5c19-42ec-b89c-653448a8fb24,Et Döner Menü 1,"18,00 TL",Menüler,0.0
+7b728411-9a05-48c4-b186-e4c6e7989a02,Et Döner Menü 2,"22,00 TL",Menüler,-3.0
+bd9da3ce-d74d-410c-9c1d-2ffd1f131d42,Et Döner Menü 3,"27,00 TL",Menüler,4.0
+a77c10a0-d604-44c0-8039-d67209288e40,Et Döner Menü 4,"25,00 TL",Menüler,2.0
+966c9c24-d893-4238-b872-b0790b310d51,Et Döner Menü 5,"35,00 TL",Menüler,-1.0
+c97c43f8-bf6c-42e4-8c03-3c7b583f549b,Izgara Köfte Menü,"20,00 TL",Menüler,4.0
+0532f823-0a9c-4152-abdd-c12fbde1a88e,Köfte (1 kg.) Menü,"70,00 TL",Menüler,4.0
+7dcd52cf-3a51-4ceb-a779-d21d7c42705e,Köfte (500 gr.) Menü,"45,00 TL",Menüler,4.0
+92598c48-ad11-4ee5-af51-9be5ff88bd96,Pilav Üstü Et Döner Menü,"22,00 TL",Menüler,2.0
+358e6439-787e-4167-8a5f-042ee2650847,SSK Et Döner Dürüm Menü,"22,00 TL",Menüler,0.0
+0d2825ea-3c88-4a06-860f-c62e70296cbb,Tavuk Döner Dürüm Menü 1,"10,00 TL",Menüler,-5.0
+43a0ca4b-6a58-4834-9c82-5faec72d0f09,Tavuk Döner Dürüm Menü 2,"15,00 TL",Menüler,-6.0
+deca395c-bea8-48a4-aeaa-cec0b65c427c,Tavuk Döner Dürüm Menü 3,"13,00 TL",Menüler,-1.0
+6054593b-eef9-4de1-8c30-0417fbcdbb17,Tavuk Döner Menü 1,"9,00 TL",Menüler,-2.0
+23e3353f-0f52-4114-9729-7f6ebf3e1ed0,Tavuk Döner Menü 2,"13,00 TL",Menüler,-4.0
+35b464e4-51e6-4263-82c4-257469175a4d,Tavuk Döner Menü 3,"13,50 TL",Menüler,2.0
+C43DA9C2-2596-4AD6-A1CE-5B8BB3A30916,Tavuk Kanat Menü,"20,00 TL",Menüler,0.0
+281CCA1F-1C70-4D8F-90DE-FAA9C0B28EF1,Tavuk Şiş Menü,"15,00 TL",Menüler,2.0
+24cae883-66ae-41ee-8c2f-6ceb15e4e35f,İskender (Tavuk Dönerden),"16,00 TL",Tavuk Dönerler,5.0
+9a49dbc1-6bbc-4be1-b193-859c9902d030,Pilav Üstü Tavuk Döner,"15,00 TL",Tavuk Dönerler,0.0
+53e6a1c7-6485-4912-8580-e329cbbbe988,Tavuk Döner (500 gr.) (Pişirilmiş),"25,00 TL",Tavuk Dönerler,1.0
+d4748b58-a302-4647-abda-f67e28bc79ae,Tavuk Döner (1 kg.) (Pişirilmiş),"50,00 TL",Tavuk Dönerler,1.0
+0c353580-ab29-44cc-a802-51c3554cd5b9,Hatay Usulü Tavuk Döner Dürüm,"12,00 TL",Tavuk Dönerler,6.0
+0301090B-9E0B-4E14-9AA5-D80B9B21F679,Tavuk Ciğer Dürüm,"13,00 TL",Ana Yemekler,-1.0
+4e4fa8a6-77ad-489e-b0f9-74b9818227eb,İskender (Et Dönerden),"25,00 TL",Ana Yemekler,5.0
+6d520a03-9eb1-46c8-8afc-e5f416280692,Et Döner (120 gr.),"24,00 TL",Ana Yemekler,3.0
+ad04cd06-e21c-441a-90d6-8c06da1972dc,Et Döner (1 kg.) (Pişirilmiş),"140,00 TL",Ana Yemekler,3.0
+e074f37c-1e58-479e-ac4a-27af4475a2a1,Izgara Köfte (1 kg.) (Pişirilmiş),"70,00 TL",Ana Yemekler,4.0
+fb44b852-78d6-4d81-8cb8-f13cc6cae3ff,Çiğ Köfte Dürüm,"6,00 TL",Çiğ Köfteler,1.0
+5621bfb4-af37-4afd-a1f6-1e816229aa50,Çiğ Köfte (1 kg.),"45,00 TL",Çiğ Köfteler,4.0
+a80a0ed4-50ef-4467-af78-3cd0d81067ec,Kazandibi,"4,00 TL",Tatlılar,5.0
+e084eaf4-977a-4078-abad-dd1176da451a,Sütlaç,"4,00 TL",Tatlılar,5.0
+A4B8B5DF-1B75-467F-94A4-CEC5A978E8E9,Puding,"4,00 TL",Tatlılar,5.0
+87c3a7f7-a93b-4b9a-beac-f6a9d12ae1a2,Niğde Gazozu (25 cl.),"3,50 TL",İçecekler,5.0
+3a372f3a-6079-4b6b-ab40-087b10ba54ea,Turnib Şalgam Suyu (30 cl.),"4,00 TL",İçecekler,5.0
+4dfd9084-4117-4f6e-acdb-abfb1b583384,Beypazarı Soda (20 cl.),"2,00 TL",İçecekler,5.0
+588e68cb-7f9b-4b0b-b678-d54dae76b619,Poşet,"0,25 TL",Poşet,5.0

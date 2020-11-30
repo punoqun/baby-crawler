@@ -1,0 +1,38 @@
+food_id,food_name,food_price,food_category,food_score
+d202b28f-3821-4720-b0b7-6e52ffedfbea,Az Antep Yuvalama Çorbası,"10,00 TL",Çorbalar,5.0
+fe99ba8f-3ac8-4a9c-9201-3412c3d1559c,Antep Yuvalama Çorbası,"20,00 TL",Çorbalar,5.0
+61e46094-1480-4325-8fe8-06e98bc672f0,Yarım Ekmek Arası Et Tantuni,"14,00 TL",Et Tantuniler,-3.0
+488872e0-e9a1-48f5-87bf-3f177de97973,Et Tantuni Dürüm,"14,00 TL",Et Tantuniler,-4.0
+92e99c6d-4ddf-408e-9904-93d57794e20a,Çeyrek Ekmek Arası Et Tantuni,"8,00 TL",Et Tantuniler,-8.0
+f42adc36-623f-4aac-94ed-ca6c28fc6190,Duble Et Tantuni Dürüm,"28,00 TL",Et Tantuniler,-9.0
+02ff6138-db23-4716-a6dd-64a2052332f0,Duble Ekmek Arası Et Tantuni,"28,00 TL",Et Tantuniler,-8.0
+8073fdda-123d-4dbd-8561-75a74facee15,Yarım Ekmek Arası Tavuk Tantuni,"9,00 TL",Tavuk Tantuniler,-3.0
+dc70bdf8-caf8-46e9-b105-528c219bf2c5,Tavuk Tantuni Dürüm,"9,00 TL",Tavuk Tantuniler,1.0
+4b04d6a0-b2af-4b62-8823-c7916aa545cc,Çeyrek Ekmek Arası Tavuk Tantuni,"5,00 TL",Tavuk Tantuniler,-3.0
+79308ac2-4689-4ccb-9c6c-862cd147d29a,Duble Tavuk Tantuni Dürüm,"18,00 TL",Tavuk Tantuniler,-4.0
+6094e93c-1e48-4f76-bd19-4abeaa4d20a0,Duble Ekmek Arası Tavuk Tantuni,"18,00 TL",Tavuk Tantuniler,-3.0
+9aacfb77-8c75-47e4-8bd2-7d5549b61f03,Kızartma İçli Köfte (Adet),"8,00 TL",Yan Ürünler,5.0
+7776dffe-40df-4f89-bf4e-b8242a236a72,Çiğ Köfte (12 Sıkım),"16,00 TL",Yan Ürünler,5.0
+439d9ea1-aa75-4caf-87f3-857889388910,Patates Kızartması,"13,00 TL",Yan Ürünler,5.0
+27d4cd39-3071-4bee-a1c5-938928b3ea1f,Elma Dilim Patates Kızartması,"14,00 TL",Yan Ürünler,5.0
+ce6734c7-951e-4994-a805-3d12c84a3f87,Kuru Antep Dolması,"15,00 TL",Yan Ürünler,5.0
+8a024222-4dba-4db2-9cdb-d34be404a4e6,Acılı Ezme,"12,00 TL",Yan Ürünler,3.0
+0dc60a85-f63c-4a58-9637-6f2034064e28,Yoğurtlu Patlıcan Söğürme,"13,00 TL",Yan Ürünler,5.0
+cd786ed2-e1f6-42af-8408-62095aa1cdd1,Zeytin Salatası,"13,00 TL",Yan Ürünler,5.0
+62ec0d58-20bb-4568-9c07-a6e1c6f9cb08,Peynir Salatası,"18,00 TL",Yan Ürünler,5.0
+51663a2b-d53a-4645-834c-81b16a2c477c,Turşu,"12,00 TL",Yan Ürünler,6.0
+1722e443-a099-4341-9502-9658c1baea96,Mevsim Salata,"16,00 TL",Salatalar,5.0
+0e6e57e4-a215-4620-9981-e928f1aef005,Roka Salatası,"13,00 TL",Salatalar,5.0
+d789c484-74a3-4762-b9f9-d49e9780fccc,Çoban Salata,"15,00 TL",Salatalar,5.0
+47f3ab19-b3f5-48f4-a421-1da875a2ccec,Gavurdağı Salatası,"18,00 TL",Salatalar,5.0
+dbcb9aaf-3a1c-48d8-b7b5-3dfb9003feb3,Akdeniz Salata,"15,00 TL",Salatalar,5.0
+f025a7d9-f46d-4573-96af-fb26d32f8de4,Ton Balıklı Akdeniz Salata,"22,00 TL",Salatalar,5.0
+308957f5-2ab1-4bcf-8763-95a5658986d6,Tavuklu Akdeniz Salata,"22,00 TL",Salatalar,5.0
+fa54be7a-1851-44f2-845d-22fb2c3fc6a5,Sezar Salata,"15,00 TL",Salatalar,5.0
+1e374a9e-97ed-431b-8799-ac2ca2d5ad45,Balıklı Sezar Salata,"22,00 TL",Salatalar,5.0
+0afe4272-4d52-4ed3-9e2f-dcf331961491,Tavuklu Sezar Salata,"22,00 TL",Salatalar,5.0
+67eed4c1-7579-44be-97cc-6ab3a5c96bb6,Sütlaç,"12,00 TL",Tatlılar,5.0
+be68b488-8d9d-4941-a1a2-cfdb65df7d27,Künefe,"12,00 TL",Tatlılar,5.0
+d8405e24-0f74-4778-aa16-8dc58e04c6ab,Kadayıf,"14,00 TL",Tatlılar,5.0
+9333f362-ae15-44e9-8fdb-f851cea6cc68,Katmer,"20,00 TL",Tatlılar,5.0
+2dca6eea-96cf-4d54-8cbb-128bf8c5bb62,Cappy Karışık (33 cl.),"5,00 TL",İçecekler,5.0

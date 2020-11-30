@@ -1,0 +1,49 @@
+food_id,food_name,food_price,food_category,food_score
+8381c172-d230-43b9-9297-b909ff9f5601,Hamburger (Handmade) Menü,"26,50 TL",Menüler,13.0
+390886c2-76a2-4cf1-85be-13fbb83bee18,Torpilli Burger (Handmade) Menü,"29,00 TL",Menüler,19.0
+38400d13-0df7-4437-91bb-220fadea46ea,American Burger (Handmade) Menü,"29,00 TL",Menüler,19.0
+b2e20b83-c67b-489e-a772-e05586d6bb4b,Chef Burger (Handmade) Menü,"31,00 TL",Menüler,18.0
+4ba77c5e-4fe3-4b84-8cbe-a5d6b712d66c,Double Chef Burger (Handmade) Menü,"38,00 TL",Menüler,18.0
+8d3b33cf-eb54-4df6-a019-9ced7ca6ac72,Bolivia Burger (Handmade) Menü,"31,00 TL",Menüler,19.0
+360dd177-c2af-42e6-8bae-4646f624a763,Fantastic Burger (Handmade) Menü,"37,00 TL",Menüler,19.0
+7008167e-656e-486e-91a1-6227456083cc,Mystique Burger (Handmade) Menü,"35,00 TL",Menüler,19.0
+9c3b77f7-33be-4d39-b4ef-6a81d60c08bc,Wrap Burger (Handmade) Menü,"36,00 TL",Menüler,21.0
+f399630b-2660-4555-9c01-78f058509169,Big Belly Burger (Handmade) Menü,"44,00 TL",Menüler,19.0
+f9a2f2ab-c5b4-4ed7-8993-492fa1f1ba26,Big Bite Burger (Handmade) Menü,"62,00 TL",Menüler,19.0
+0413467e-cefa-4bb3-b196-120c41df46d4,5'li Mini Burger (Handmade) Menü,"36,00 TL",Menüler,21.0
+012acb1d-2df0-4e5e-b675-a9b0dc0ba5d7,Mexico Burger (Handmade) Menü,"32,00 TL",Menüler,19.0
+b46be4ad-9656-4800-90e7-66704c5cc500,Vejetaryen Burger (Handmade) (Etsiz) Menü,"29,00 TL",Menüler,17.0
+399aae0d-973b-44d5-b18b-4672b3bf092c,Cheeseburger (Handmade),"21,50 TL",Burgerler,5.0
+ef0a14b0-ea74-4fbb-97ce-2c2719d1fcc4,Chicken Burger (Handmade),"18,00 TL",Burgerler,16.0
+d58a04e1-9f01-4cbc-99d2-7a5342600c2b,Torpilli Burger (Handmade),"23,00 TL",Burgerler,16.0
+87b6bbd9-e55f-4f11-9f34-71946a8ec0a2,Chef Burger (Handmade),"25,00 TL",Burgerler,15.0
+b745bc17-56ef-4936-9d5c-5b12c97c310d,Double Chef Burger (Handmade),"32,00 TL",Burgerler,15.0
+8fb6bd2a-6c5a-45a4-b525-b977c80847de,Bolivia Burger (Handmade),"25,00 TL",Burgerler,16.0
+3ba50bbc-5991-48ac-9f4c-e6d4b7cad7fb,Mexico Burger (Handmade),"24,00 TL",Burgerler,16.0
+ce2c1095-cf9f-4e91-bfa4-1ad25f5f625c,Fantastic Burger (Handmade),"31,00 TL",Burgerler,16.0
+6bdffa92-0c36-4c76-8a54-aedc5f6bbcfa,Mystique Burger (Handmade),"29,00 TL",Burgerler,16.0
+22758c1b-7111-479c-8fbb-1b81f547935b,Big Belly Burger (Handmade),"38,00 TL",Burgerler,16.0
+67cbaa5b-189f-461d-b494-d4963e847169,Big Bite Burger (Handmade),"56,00 TL",Burgerler,16.0
+8e2fb5ee-61d7-4867-b444-3099f94dbb5d,5'li Mini Burger (Handmade),"30,00 TL",Burgerler,18.0
+796d17f2-4c8f-472a-9d84-94dff27db753,Vejetaryen Burger (Handmade) (Etsiz),"23,00 TL",Burgerler,14.0
+87c167e3-1b71-45c2-97b2-f4b70376e964,Baharatlı Patates Kızartması (300 gr.),"10,00 TL",Yan Ürünler,14.0
+7C0CFA51-75DA-4E9C-A15B-E14F9768D31C,Churros Patates Kızartması (300 gr.),"12,00 TL",Yan Ürünler,14.0
+fc19eca2-72e6-4b7f-aeb1-e0993a27d22c,Twister Patates Kızartması,"20,00 TL",Yan Ürünler,14.0
+fc228c29-de53-4b45-84b7-7102ec798ce0,Soğan Halkası,"8,00 TL",Yan Ürünler,6.0
+6a92c51b-d12c-43ee-81e8-54c4650b21f2,Mozzarella Sticks,"8,00 TL",Yan Ürünler,5.0
+553a9511-b8a7-43b2-974e-1d7177a1effc,Tavuk Nugget,"9,00 TL",Yan Ürünler,3.0
+323FA881-8135-438F-95FA-FC6F66B1D32B,Arjantin Combo Tabağı,"27,00 TL",Yan Ürünler,7.0
+9122A2EB-5C69-4333-B0DE-7AE915F9D3FE,Merguez Dana Sosis,"35,00 TL",Yan Ürünler,5.0
+7f6d4b38-bd1d-4f4d-9340-1ae7be0c17a8,Kızarmış Mac & Cheese,"15,00 TL",Yan Ürünler,5.0
+5a11fef1-d734-402b-b024-9fe2ae55a02e,Füme Sosis Topları,"20,00 TL",Yan Ürünler,5.0
+0bb2543b-df48-4ada-a459-610b482709be,Hellim Sticks,"15,00 TL",Yan Ürünler,5.0
+de639bf1-e933-46bc-8f0e-4814e457d3a2,Pastırmalı Patates Topları,"16,00 TL",Yan Ürünler,14.0
+f4ae99ca-6711-4c64-bed7-5e768e975015,Kokoreç Topları,"20,00 TL",Yan Ürünler,5.0
+db6b12c3-4c4e-4675-a324-51d2c0956e00,Peynir Dolgulu Jalapeno Topları,"18,00 TL",Yan Ürünler,5.0
+4C33F770-289F-4D3C-B360-D1AA698D47BC,Çilekli Mag,"15,00 TL",Tatlılar,5.0
+739FE189-B1E5-4185-AD75-4750452B3F86,Muzlu Mag,"15,00 TL",Tatlılar,5.0
+AE3652AC-46E7-4CF5-B430-CC87E33F043D,Karamelli Mag,"15,00 TL",Tatlılar,5.0
+1F130023-65B6-4BFA-9A1E-3F2E53231CAF,Oreolu Mag,"15,00 TL",Tatlılar,5.0
+010f604f-d5f9-4cf9-a39b-dc61eadd6dec,Mystique Sos,"2,00 TL",Soslar,6.0
+c500315e-23e0-4a1f-8b7f-81ce11cb8d6e,Arjantin Acı Sos,"2,00 TL",Soslar,8.0
+a540deb7-72c0-475f-9001-59339b24beb1,Poşet,"0,25 TL",Poşet,5.0

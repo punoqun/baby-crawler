@@ -1,0 +1,80 @@
+food_id,food_name,food_price,food_category,food_score
+3D3E1331-76D7-4F2E-B55B-B295C304C987,İzmir Kumru Sandviç Menü,"20,00 TL",Menüler,9.0
+583B72F9-4D43-42CA-990B-24AA1261CDA5,Hamburger Menü,"17,50 TL",Menüler,6.0
+309AAB26-4C1F-408B-A42D-37BE9F7F2933,Fırında Kızarmış But & Pirinç Pilavı,"18,00 TL",Menüler,9.0
+b98026d1-7757-400a-b320-9c6ef478c1a6,Menemen,"7,00 TL",Kahvaltılıklar,5.0
+879F86F8-3074-486F-AC27-791B19EFB932,Kahvaltı Tabağı,"15,00 TL",Kahvaltılıklar,5.0
+98b4eed0-94b0-4088-a463-50ef3fd7d1ee,Sucuklu Menemen,"9,00 TL",Kahvaltılıklar,5.0
+B475D84E-8917-425D-B7FB-47EAE90F1768,Omlet,"7,00 TL",Kahvaltılıklar,6.0
+D96E688E-A3B1-44F2-A82C-372EBDDB5F1D,Kaşarlı Omlet,"10,00 TL",Kahvaltılıklar,6.0
+DF4A54FF-6F8C-488D-AD16-DE32D6F68BA4,Kaşarlı Mantarlı Omlet,"10,00 TL",Kahvaltılıklar,6.0
+070EA92F-5866-43FD-9ADE-58259DC459B6,Sucuklu Kaşarlı Omlet,"12,00 TL",Kahvaltılıklar,6.0
+54FA39CA-678C-4525-A630-123718BB648D,Sigara Böreği (6 Adet),"9,00 TL",Kahvaltılıklar,5.0
+75644ED2-2116-47D3-BDDC-02EBA8844961,İzmir Kumru Sandviç,"15,00 TL",Sandviçler,9.0
+5A5B51ED-081B-467D-B60B-60BBAC60B073,Tavuklu Sandviç,"8,00 TL",Sandviçler,5.0
+E7417BB7-A9CE-4963-98CD-77BB8374CDE1,Patatesli Kaşarlı Sandviç,"9,00 TL",Sandviçler,5.0
+B04DFAFF-ABC5-4BD5-A8D1-B5DC959D78BE,Patso Sandviç,"7,00 TL",Sandviçler,5.0
+A274C7CA-5B09-442D-8A33-60E2873D037A,Patatom,"12,00 TL",Sandviçler,5.0
+80cf181d-eb50-4ccd-aff8-2951fb1b5118,Izgara Köfte Dürüm,"15,00 TL",Dürümler,4.0
+81041c57-1577-4b92-95a0-ca1ebe7411c2,Tavuk Köfte Dürüm,"12,00 TL",Dürümler,4.0
+422fb2fd-08d3-489a-831b-42b002732576,Hamburger,"9,00 TL",Burgerler,6.0
+9175569F-09B0-4E46-A913-94EDF89E065A,İzmir Kumru Burger,"15,00 TL",Burgerler,9.0
+4e308cb3-9216-4d55-b69c-a26a59ab8dda,Somun Ekmek Arası Sucuk,"13,00 TL",Ekmek Arası Ürünler,2.0
+0A0D4EB6-73F3-406E-B41B-7EDF9D5D570A,Ekmek Arası Köfte,"15,00 TL",Ekmek Arası Ürünler,2.0
+B016C031-2BFC-4EC9-B8EB-B37795B35FBC,Ekmek Arası Izgara Sucuk,"13,00 TL",Ekmek Arası Ürünler,2.0
+618a4761-e2fe-4050-9601-bde17213287c,Bamya & Pilav,"11,00 TL",Ev Yemekleri,4.0
+9FF43100-65FC-4918-BEBF-5A16B01B306D,İmambayıldı & Pilav,"13,00 TL",Ev Yemekleri,5.0
+C8D1F113-9A37-48AB-AD90-A659E155FC32,Mantar sote & Pilav,"13,00 TL",Ev Yemekleri,6.0
+C8662ACD-C5FA-4000-8399-A5216D6E11EB,Tavuk Fajita,"16,00 TL",Ev Yemekleri,7.0
+B7A7090A-9659-4F53-9F95-EC634EF92030,Alinazik,"30,00 TL",Ev Yemekleri,5.0
+EB3D7674-108E-4EE4-AF8F-9738B442D5B6,Biber Dolması (3 Adet),"11,00 TL",Ev Yemekleri,5.0
+B01B4579-89E4-4C00-AA32-41DC8F4E47C4,Ispanak Başı & Pirinç Pilavı,"14,00 TL",Ev Yemekleri,9.0
+AEEADAA0-F4C5-44A1-A177-C711D1122704,Kadınbudu Köfte,"23,00 TL",Ev Yemekleri,4.0
+F65ABBE3-61CA-4F95-A166-A1C393ADAFA7,Fırında Makarna,"13,00 TL",Ev Yemekleri,6.0
+2b74c7e5-ca4d-4431-9ab5-4db16eef96a2,Barbunya & Pilav,"11,00 TL",Ev Yemekleri,5.0
+58247b23-549b-4898-8e38-c8081e76fc60,Domates Soslu Makarna,"9,00 TL",Ev Yemekleri,8.0
+5594cdaa-03ce-4bdd-804a-46e32d3c0a8d,Et Haşlama,"20,00 TL",Ev Yemekleri,5.0
+04e38ecb-b398-48d3-9f81-b79163b8cb2d,Etli Güveç & Pilav,"20,00 TL",Ev Yemekleri,5.0
+93a7acc8-d502-4ea9-a3a5-7abb864006fb,Etli Nohut Yahni & Pilav,"15,00 TL",Ev Yemekleri,5.0
+8d3a337b-1181-4d0a-912d-8cb892fb23a1,Haşlama İçli Köfte (Adet),"6,00 TL",Ev Yemekleri,10.0
+7f733ed3-6ad0-4589-a1f4-8c14736ca4ee,İzmir Köfte & Pilav,"15,00 TL",Ev Yemekleri,5.0
+fe34cddb-ddb4-4f49-852c-8eeeb3b85375,Karışık Dolma,"13,00 TL",Ev Yemekleri,9.0
+730b41cc-2b9d-41bc-8e2d-6373e649d38c,Kısır,"8,00 TL",Ev Yemekleri,5.0
+ad1883b6-bff6-4a15-a830-fa04d6c0d3a7,Kıymalı Makarna,"15,00 TL",Ev Yemekleri,6.0
+2dc1b661-98d6-4b02-b608-b199d4bfe915,Köri Soslu Makarna,"10,00 TL",Ev Yemekleri,10.0
+fbc7105a-78a6-4a00-a676-25d1a9039bb5,Köri Soslu Tavuk & Pilav,"14,00 TL",Ev Yemekleri,14.0
+df50e910-13c6-4072-869e-7a3c1e74eb0e,Köri Soslu Tavuklu Makarna,"12,00 TL",Ev Yemekleri,10.0
+a35303cf-3c41-43bc-864e-2761de6324e5,Kuru Fasulye & Pilav,"13,00 TL",Ev Yemekleri,4.0
+59609940-c8fb-41b8-88be-5b7b097c8654,Lahana Sarma,"15,00 TL",Ev Yemekleri,3.0
+a2a09926-19db-49dd-b6d4-64cf268b9cdd,Sarımsaklı Köfte,"8,00 TL",Ev Yemekleri,5.0
+1d034970-23ef-481a-bb95-1a72a556355e,Sebzeli Tavuk & Pilav,"12,00 TL",Ev Yemekleri,5.0
+2c9b21b8-2d12-4683-8ca8-167b77abadcb,Soya Soslu Tavuk & Pilav,"13,00 TL",Ev Yemekleri,7.0
+fee6c6f1-7545-464b-91a6-ca92912a7410,Sulu Patates & Pilav,"14,00 TL",Ev Yemekleri,4.0
+b76434ef-dc8d-4db0-ab64-1f82a452ec1f,Tavuk Haşlama,"15,00 TL",Ev Yemekleri,5.0
+d9874272-223b-4e0f-bfff-71f0f2317f62,Tavuk Nugget & Pilav,"10,00 TL",Ev Yemekleri,5.0
+b4f43c8c-aac7-471f-8cab-684444c0f2a2,Tavuk Şnitzel & Pilav,"12,00 TL",Ev Yemekleri,5.0
+191b8074-3a54-45e3-bce8-c296e5110c11,Tavuk Sote & Pilav,"13,00 TL",Ev Yemekleri,5.0
+b948e9bb-23a6-4e99-8baa-8e7bcc129a6e,Taze Fasulye & Pilav,"11,00 TL",Ev Yemekleri,5.0
+b69c40ca-33b8-47b3-8237-c906d7ab522b,Yoğurtlu Karışık Kızartma,"10,00 TL",Ev Yemekleri,7.0
+a01e531d-b5a7-4882-8b8a-583b0750bb50,Yoğurtlu Makarna,"9,00 TL",Ev Yemekleri,6.0
+86f2deef-e0c1-4e37-8a6d-6c981a29577f,Bulgur Pilavı,"5,00 TL",Pilavlar,7.0
+BDED48CF-0648-41C6-B61F-85DB45544F3D,İstanbul Pilavı,"7,00 TL",Pilavlar,7.0
+4c7bb548-4bb6-421f-b8b7-69f256e9323d,Meyhane Pilavı,"8,00 TL",Pilavlar,7.0
+fd961df4-48ac-4019-b32e-b99b98c1dbb5,Pirinç Pilavı,"5,00 TL",Pilavlar,9.0
+73f967b0-b606-44a3-96d8-5651fdd5e7e1,Tavuklu Pilav,"7,00 TL",Pilavlar,5.0
+AB0202A7-02F2-42E6-AE8E-9D0A2BE0602C,Kremalı Penne,"11,00 TL",Makarnalar,5.0
+D5F040E3-4492-445B-BEDB-DED8AAF16C55,Kremalı Mantarlı Penne,"13,00 TL",Makarnalar,5.0
+0ED5D324-9DE5-45D8-A9E7-69984275E20E,Arrabbiata Soslu Makarna,"10,00 TL",Makarnalar,8.0
+342E6E70-0EB7-42C1-8453-AFC881915C4D,Tavuklu Mantarlı Krep,"13,00 TL",Krepler,8.0
+97347197-4D3B-4475-A677-2FD15627A09D,Sebzeli Tavuklu Krep,"15,00 TL",Krepler,8.0
+256914ec-617c-4ec7-8210-6af13ded8620,Mevsim Salata,"8,00 TL",Yan Ürünler,5.0
+EFB647D3-5BF0-40F0-98A4-DB6E6BC41E2E,Chicken Fingers,"16,00 TL",Yan Ürünler,5.0
+FACC72F3-A4B8-428D-A55B-18568D0110C2,Soğan Halkası,"8,00 TL",Yan Ürünler,5.0
+e76556b7-c54b-4d1d-83d5-d8f6622a8d8f,Cacık,"3,00 TL",Yan Ürünler,6.0
+c2b0c0bd-1e21-48ce-a086-a64cb5304dfa,Yoğurt,"3,00 TL",Yan Ürünler,4.0
+f37a9c3e-0461-41ba-9428-7b13b667ce5f,Patates Kızartması,"6,00 TL",Yan Ürünler,4.0
+5f52dd76-2415-4f78-a509-7ea1cfcce58a,Elma Dilim Patates Kızartması,"7,00 TL",Yan Ürünler,4.0
+D5888CE9-47B6-4C21-AF97-4B969BE2D9DC,Küçük Evim Combo,"18,00 TL",Yan Ürünler,5.0
+845dd713-6cce-470c-8b24-dde4801daeec,"Pepsi (1,5 L.)","7,00 TL",İçecekler,5.0
+FC486EC6-1E12-4CC3-AF83-DD69D2BEFC6A,"Su (1,5 L.)","4,00 TL",İçecekler,6.0
+2071c225-9dc0-4b90-9432-fbaafb8339b9,Poşet,"0,25 TL",Poşet,5.0

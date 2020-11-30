@@ -1,0 +1,76 @@
+food_id,food_name,food_price,food_category,food_score
+0ac6d592-8756-459a-8c1e-d0385fb68df2,Su Böreği Menü,"14,00 TL",Menüler,5.0
+53b8c829-7ad9-4498-83df-d9d617d7b287,Göçmen Böreği Menü,"15,00 TL",Menüler,5.0
+8a4c64da-aaba-4ab3-b137-3e0c9dfbf68f,Peynirli Kol Böreği (200 gr.),"11,50 TL",Börekler,5.0
+c721a32c-25d3-4001-9be7-325cb87a2e20,Küt Böreği (200 gr.),"11,00 TL",Börekler,10.0
+bcb9ef90-109e-4795-91be-cba310681e06,Peynirli Su Böreği (200 gr.),"11,00 TL",Börekler,5.0
+9b6e70f1-ddfd-48b0-844c-504ff8f63036,Kıymalı Kol Böreği (200 gr.),"11,50 TL",Börekler,11.0
+9b3196fc-0062-4cd5-a26d-e8529551c88c,Adana Usulü Kaşarlı Su Böreği (200 gr.),"12,00 TL",Börekler,5.0
+1b4cc99f-7586-47ec-a70c-d717fe4c2b98,Üçgen Krem Peynir,"2,00 TL",Kahvaltılıklar,5.0
+1dc5b074-0c1a-4567-8483-3f8a5d57e50c,Siyah Zeytin,"2,50 TL",Kahvaltılıklar,5.0
+f844cdfc-df35-4c8a-861d-c2fee596cb31,Haşlanmış Yumurta,"2,50 TL",Kahvaltılıklar,5.0
+fd74dd85-a6e5-4ccd-8449-495876542fb0,Söğüş Tabağı,"5,00 TL",Kahvaltılıklar,5.0
+45463277-0141-4ec8-8d72-b8355859d1bc,Peynirli Açma,"4,00 TL",Poğaçalar & Açmalar,5.0
+6b8ff695-52de-4461-a24d-c00fc718acd9,Zeytinli Açma,"4,00 TL",Poğaçalar & Açmalar,5.0
+a99a8a7e-8e54-4103-9cf4-12f18b040177,Zeytinli Poğaça,"2,00 TL",Poğaçalar & Açmalar,5.0
+0756be2a-10a1-49ab-81da-08107e73d9a0,Kaşarlı Tost,"10,00 TL",Tostlar,5.0
+43421898-c195-40e0-a16f-fb743e2332f1,Karışık Tost,"10,00 TL",Tostlar,5.0
+13adb77d-9c24-4f49-b45f-982bbe8cf72c,Beyaz Peynirli Soğuk Sandviç,"7,00 TL",Sandviçler,5.0
+8fa13ea7-8750-4343-9953-bc688a55f429,Çikolatalı Pasta,"17,00 TL",Tatlılar,5.0
+c2c004d7-6b3e-465b-8d31-7990dd766b7d,Elmalı Turta,"5,00 TL",Tatlılar,5.0
+eade298d-c016-4428-8375-ad2ccfbf91b8,Üzümlü Kurabiye,"5,00 TL",Tatlılar,3.0
+5aa73aed-61d8-4225-8c9d-510bd048cd0b,Cevizli Baklava (200 gr.),"13,00 TL",Tatlılar,5.0
+d97d3de8-4cf0-4b93-bc58-9317c7af1676,Sütlü Nuriye (200 gr.),"13,00 TL",Tatlılar,5.0
+e78e28a3-80aa-4133-b705-2880e60b16c9,Bal Badem Tatlısı (200 gr.),"10,00 TL",Tatlılar,5.0
+de081ece-b342-42cd-ab54-d15a2bb18aaf,Ekler (200 gr.),"10,00 TL",Tatlılar,4.0
+de513acd-159c-4611-baa2-67e0afed7490,Şekerpare (200 gr.),"8,00 TL",Tatlılar,5.0
+8d98c12c-e9b5-4cbb-ab8c-810e0bb64750,Tulumba (200 gr.),"7,00 TL",Tatlılar,5.0
+d24907e9-5338-4dcb-8564-bc408fb59470,Karamelli Trileçe (Dilim),"8,00 TL",Tatlılar,5.0
+4A798EAB-0BFE-4C72-8691-9B21D22D4F8D,Kakaolu Ay Çöreği,"5,00 TL",Tatlılar,5.0
+670CE31E-0610-456F-A44B-B7CE04B1AAF3,İzmir Bomba,"4,00 TL",Tatlılar,5.0
+6a0e5183-cc18-4e00-a598-b1b6e46f08a2,Çikolatalı Pasta (10 Kişilik),"70,00 TL",Pastalar,5.0
+7974b40b-780f-4ba2-b74a-229c5af710d7,Çikolatalı Pasta (8 Kişilik),"60,00 TL",Pastalar,5.0
+d94252e3-6d24-45df-8e49-ffd8b033c577,Çikolatalı Pasta (6 Kişilik),"50,00 TL",Pastalar,5.0
+d386b048-9d1b-4e97-b5de-4adeeb73daa2,Cappy Pulpy Portakal (33 cl.),"5,00 TL",İçecekler,5.0
+e496fb30-cffb-476f-adff-61f3de39251a,Cappy (20 cl.),"3,00 TL",İçecekler,5.0
+4d23e3c4-9630-4993-9761-f889645fb1c2,Taze Sıkma Portakal Suyu (33 cl.),"8,00 TL",İçecekler,5.0
+8314fb97-75e5-46f5-bc15-7358f7465998,Su,"2,00 TL",İçecekler,5.0
+3f3a71f8-fff2-4e9c-aaf1-6e90de60e9c9,"Fanta (2,5 L.)","10,00 TL",İçecekler,5.0
+5cb743d1-a49a-41d1-b03f-a8b0247c2729,Peynirli Su Böreği (1 kg.),"45,00 TL",Kiloluk Börekler,5.0
+6347d955-5df3-4615-b394-271ec41f5564,Peynirli Kol Böreği (500 gr.),"25,00 TL",Kiloluk Börekler,5.0
+a7a3b767-a8e9-4f12-a188-e39418c3975d,Küt Böreği (1 kg.),"45,00 TL",Kiloluk Börekler,5.0
+c2ad3af8-2831-4b12-b26a-8b75553c01ea,Kıymalı Kol Böreği (1 kg.),"50,00 TL",Kiloluk Börekler,6.0
+db21d403-d3de-44d0-badb-d4559db31d2f,Peynirli Kol Böreği (1 kg.),"50,00 TL",Kiloluk Börekler,5.0
+dd83d2c3-f5bc-4353-88b2-6f0a781d30a7,Kıymalı Kol Böreği (500 gr.),"25,00 TL",Kiloluk Börekler,6.0
+f6d2b70c-f150-42ca-ae3a-6b1e68edb634,Peynirli Su Böreği (500 gr.),"22,50 TL",Kiloluk Börekler,5.0
+92494bb4-568a-4174-bbb6-668d43dfc49b,Adana Usulü Kaşarlı Su Böreği (1 kg.),"50,00 TL",Kiloluk Börekler,5.0
+8a04b1ee-f284-4ef9-aff8-67185aa5ae1c,Adana Usulü Kaşarlı Su Böreği (500 gr.),"25,00 TL",Kiloluk Börekler,5.0
+9a33bcaf-f622-423a-b337-0290e23336f8,Cevizli Baklava (1 kg.),"50,00 TL",Kiloluk Tatlılar,5.0
+FB292D11-AFB4-4BE5-A3E1-0CA048EAF6DF,Soğuk Baklava (1 kg.),"90,00 TL",Kiloluk Tatlılar,5.0
+2E3417C8-7F1D-489D-8919-D0179E8A5DA3,Havuç Dilim Baklava (1 kg.),"50,00 TL",Kiloluk Tatlılar,5.0
+4DACE0A2-CA5A-4C10-AA80-FA648ACCFA3A,Havuç Dilim Baklava (500 gr.),"25,00 TL",Kiloluk Tatlılar,5.0
+064f8ef1-5b72-42bd-89db-c2a2a7a1d4d6,Cevizli Baklava (500 gr.),"25,00 TL",Kiloluk Tatlılar,5.0
+975b9922-45d6-4927-a58f-4e6c80ce9320,Çikolatalı Ekler (1 kg.),"50,00 TL",Kiloluk Tatlılar,4.0
+03dd5dec-66e0-44f0-ac79-3e8aa1fe7b0f,Çikolatalı Ekler (500 gr.),"25,00 TL",Kiloluk Tatlılar,4.0
+422A9A13-2A89-4EB8-B4C5-F36DE1741EA8,Fıstıklı Baklava (1 kg.),"80,00 TL",Kiloluk Tatlılar,5.0
+E9E0C3CB-F5CD-4781-ABD8-898B21ED7520,Fıstıklı Baklava (500 gr.),"40,00 TL",Kiloluk Tatlılar,5.0
+c5c6c587-6fca-4c86-af13-6e9fdcbd051c,Fıstıklı Dürüm (1 kg.),"60,00 TL",Kiloluk Tatlılar,5.0
+8f35f1ba-ffb4-47c2-8cd1-714c6bc4f1da,Kadayıf (1 kg.),"50,00 TL",Kiloluk Tatlılar,5.0
+b636d146-175d-4d6f-8919-11e88f3ad4c2,Kadayıf (500 gr.),"25,00 TL",Kiloluk Tatlılar,5.0
+8ffaae2b-a443-44e1-bf99-23206dd91089,Karışık Kurabiye (1 kg.),"45,00 TL",Kiloluk Tatlılar,5.0
+348b103c-822b-491a-bf34-b2e27caaa0d0,Karışık Kurabiye (500 gr.),"22,50 TL",Kiloluk Tatlılar,5.0
+53671506-c2c3-4a44-b246-7d1b0d22c1b5,Kaymaklı Ekmek Kadayıfı (1 kg.),"45,00 TL",Kiloluk Tatlılar,5.0
+832ed1d9-6ab8-49a6-874b-6c3bbd44b318,Kaymaklı Ekmek Kadayıfı (500 gr.),"22,50 TL",Kiloluk Tatlılar,5.0
+493C3A47-A2FB-4493-A03F-95A497669B00,Özel Cevizli Baklava (1 kg.),"50,00 TL",Kiloluk Tatlılar,5.0
+2322e07c-17b0-4e16-bcb1-f94e28b142bd,Şekerpare (1 kg.),"28,00 TL",Kiloluk Tatlılar,5.0
+a1c9b92f-91f0-4834-84c4-3278cf5cce0c,Şekerpare (500 gr.),"14,00 TL",Kiloluk Tatlılar,5.0
+9a350d95-860b-409b-934a-b9471dca5b82,Şöbiyet (1 kg.),"50,00 TL",Kiloluk Tatlılar,5.0
+515A4F62-B2EE-42BA-A7EB-DC9F05609347,Şöbiyet (500 gr.),"25,00 TL",Kiloluk Tatlılar,5.0
+991e261e-56ae-4c01-a4be-fd1da18811a1,Sütlü Nuriye (1 kg.),"50,00 TL",Kiloluk Tatlılar,5.0
+834c0862-1bc9-47d5-8205-2c4f2b9dadcb,Sütlü Nuriye (500 gr.),"25,00 TL",Kiloluk Tatlılar,5.0
+adad3a50-5fca-4e83-ab17-4fa7467fc0f9,Tulumba (1 kg.),"22,00 TL",Kiloluk Tatlılar,5.0
+87897116-9d00-4506-9993-29252e4ac52c,Tulumba (500 gr.),"11,00 TL",Kiloluk Tatlılar,5.0
+cb56fda9-f1ca-4668-baa0-2280eb9cabdf,Peynirli Su Böreği (Tepsi),"110,00 TL",Tepside Börekler,5.0
+5a8a64d3-5fde-461b-b0c3-ecada0d028f8,Cevizli Baklava (Tepsi) (3 kg.),"150,00 TL",Tepside Tatlılar,5.0
+6a84c88e-a167-4934-b2b6-da638ee36a96,Özel Dürüm (Tepsi) (3 kg.),"150,00 TL",Tepside Tatlılar,5.0
+32fa98ab-1856-4089-a4ba-7b0cf23eb28d,Poşet,"0,25 TL",Poşet,5.0

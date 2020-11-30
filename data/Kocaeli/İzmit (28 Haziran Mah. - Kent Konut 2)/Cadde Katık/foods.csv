@@ -1,0 +1,39 @@
+food_id,food_name,food_price,food_category,food_score
+977c9755-7edd-4d5a-a65a-08e7ce2209c8,Menü 1,"16,50 TL",Menüler,19.0
+9d62d4fc-29d0-4bad-9ffc-8f27f439d786,Menü 2,"18,50 TL",Menüler,8.0
+672caf02-5356-46f8-b461-ecfe8eaa0d75,Menü 3,"19,00 TL",Menüler,2.0
+09fd3834-1ea3-4161-ac2f-195a5925bfde,Menü 4,"20,00 TL",Menüler,10.0
+628a6d04-3423-4544-8d87-9b7b0af356dc,Menü 5,"20,00 TL",Menüler,11.0
+7f96ca32-3664-4e7f-ad5b-5d07e065eaae,Menü 6,"21,50 TL",Menüler,7.0
+e707b690-6f45-4b69-aacc-0e04c5c14151,Menü 7,"22,00 TL",Menüler,6.0
+c0219412-61aa-40c8-888d-e99652623523,Menü 8,"23,50 TL",Menüler,7.0
+7e09dfc8-a1b2-49d5-84ab-2a563c91ba42,Menü 9,"21,00 TL",Menüler,3.0
+4c0b5491-6444-49ed-910e-830a654ccc66,Menü 10,"22,50 TL",Menüler,16.0
+17f90180-00d7-486c-89b4-1c936365d8ad,Menü 11,"23,00 TL",Menüler,4.0
+ec965e01-01d5-4851-a2ba-a471343e1654,Menü 12,"24,50 TL",Menüler,8.0
+35a1af83-2ac5-4f89-870f-296ab14d501d,Menü 13,"23,50 TL",Menüler,2.0
+00cc6299-70d7-4742-92c0-ef7463dbbe56,Menü 14,"25,00 TL",Menüler,6.0
+922b5bfc-0fdc-4dc7-bc0a-44a217514400,Menü 15,"25,50 TL",Menüler,7.0
+7a2435f8-c7d1-4243-b957-7a771002cd6a,Menü 16,"27,00 TL",Menüler,5.0
+d58d5e1c-d40b-4413-8ffe-1aa4ce3ca241,Menü 17,"18,50 TL",Menüler,5.0
+2d1dac62-98fb-457a-ac25-ceef06e17b8d,Menü 18,"20,50 TL",Menüler,5.0
+9afea2a6-ccdc-42e5-b0cd-f42ba64210b6,Çocuk Menüsü,"16,50 TL",Menüler,5.0
+0541E471-8E4C-47D0-BA88-7FBD11F4EF2E,Menü 41,"22,00 TL",Menüler,5.0
+A1F16966-01C3-44BF-8439-296486AD6B8D,Menü 42,"19,50 TL",Menüler,5.0
+02E64DC2-90CF-4ED8-BFCC-D3F96765C4AC,Menü 43,"26,00 TL",Menüler,5.0
+181D141D-313D-4620-91FE-BF6FF9C09CFA,Menü 44,"24,00 TL",Menüler,5.0
+8e108742-73bd-4775-bf12-979a5d4778e4,Et Döner,"20,00 TL",Et Dönerler,-2.0
+7066b670-3b21-4e5f-bf8b-c8f9b989eead,Cheddarlı Et Döner Dürüm,"17,50 TL",Et Dönerler,8.0
+3eb63818-b230-4113-8e67-8b6952d11a57,Katık Et Döner Dürüm,"14,50 TL",Et Dönerler,7.0
+55c60044-9f3c-45b8-9448-5556afadf295,Katık Et Döner Zurna Dürüm (40 cm.),"17,00 TL",Et Dönerler,10.0
+2804B92C-D081-47B8-8411-35BEA3E96F14,Beyti Et Döner,"22,00 TL",Et Dönerler,-2.0
+35db3f1a-944f-432c-ae91-7398c40b97dd,Tavuk Döner,"17,00 TL",Tavuk Dönerler,5.0
+0dac3092-e8e8-4838-a78a-3abdd82f093a,Cheddarlı Tavuk Döner Dürüm,"14,00 TL",Tavuk Dönerler,15.0
+93a2ec55-0817-497d-a2b6-b1327fb86f59,Katık Tavuk Döner Dürüm,"11,00 TL",Tavuk Dönerler,19.0
+12c119d0-998b-4732-8bf9-ef025dbeec0a,Katık Tavuk Döner Zurna Dürüm (40 cm.),"14,50 TL",Tavuk Dönerler,22.0
+9F1810C9-7BFF-4CC6-9A1E-A771C722989C,Beyti Tavuk Döner,"18,00 TL",Tavuk Dönerler,5.0
+0f5d11ae-562d-4638-9847-fab820a9a251,Katık Köfte Dürüm,"13,00 TL",Köfteler,14.0
+50EC4E99-3F8D-4A84-9F37-4D7DB8FF4F7E,Lavaş Ekmeği (Adet),"1,50 TL",Yan Ürünler,5.0
+F42F37D6-3C03-4279-8D5B-F0D7DD038E47,Patates Kızartması,"6,00 TL",Yan Ürünler,2.0
+42E66100-987E-4317-8C2F-D87D7AB135A0,Cheddar Peyniri,"3,00 TL",Yan Ürünler,7.0
+c2a3f4fc-fefa-49fc-a125-13263c5df1a9,Poşet,"0,25 TL",Poşet,4.0

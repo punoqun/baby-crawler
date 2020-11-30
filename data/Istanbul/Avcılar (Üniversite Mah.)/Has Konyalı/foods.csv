@@ -1,0 +1,79 @@
+food_id,food_name,food_price,food_category,food_score
+de677b5d-a996-4de9-9f9c-8e25557d4d35,Aile Boyu Menü,"83,50 TL",Ekonomik Menüler,6.0
+2f69ed94-f726-4df1-ac31-1a4b4d666557,Atıştırmalık Menü,"21,50 TL",Ekonomik Menüler,6.0
+ec02b19d-e001-4f60-ad13-5257741c6788,Doyurucu Menü,"26,50 TL",Ekonomik Menüler,6.0
+fcf587f3-7177-4eda-af93-f1c698a8c454,Ekonomik Menü,"19,50 TL",Ekonomik Menüler,6.0
+40db63e1-c568-4f4b-bc3d-d2d0d4839e61,Has Konyalı Menüsü,"27,50 TL",Ekonomik Menüler,0.0
+ef88bfd0-ade7-452e-a31a-2a1640c3604b,Cheeseburger Menü,"29,00 TL",Burger Menüleri,6.0
+f25089a0-4859-415c-b826-a6ef16d85192,Double Burger Menü,"33,00 TL",Burger Menüleri,8.0
+444f8fbe-75d1-4254-9d07-7284a7d4cbea,Meksika Burger Menü,"29,00 TL",Burger Menüleri,8.0
+4fc596da-0503-4c1d-9d2e-a6a6c159358b,Special Burger Menü,"35,00 TL",Burger Menüleri,8.0
+688d98db-0037-4b45-ac54-494a16387b70,Tavuk Burger Menü,"22,00 TL",Burger Menüleri,14.0
+b105dbc6-709f-4539-9811-e0b390a95994,Baby Burger Menü,"19,00 TL",Burger Menüleri,8.0
+c5bd081f-bc82-4c91-a937-4f05ed2bc882,Kelle Tandır Çorbası,"60,00 TL",Çorbalar,4.0
+5a6faf6a-3572-43a5-8f20-63593690b051,Şırdan Tuzlama Çorbası,"29,50 TL",Çorbalar,3.0
+db03f436-63b0-466c-8a82-f07f43bf7124,Special Çorba,"33,00 TL",Çorbalar,0.0
+579f643c-2433-41fa-b9fa-6fd8b3735016,Sarma Beyti Kebap,"42,00 TL",Kebaplar,4.0
+147b7679-7795-4a61-a23b-f55affc82d67,Domatesli Kebap,"38,00 TL",Kebaplar,4.0
+1f75f875-2139-4094-aad6-cba4528de06f,Patlıcanlı Kebap,"42,00 TL",Kebaplar,4.0
+fcc6ef59-f8b6-41d7-9546-301a864008ae,Alinazik Kebap (Kuzu Şişten),"49,50 TL",Kebaplar,4.0
+b3cbfe83-07aa-418b-9fb4-b54ffc1efadf,Soğanlı Kebap,"45,00 TL",Kebaplar,4.0
+ce3d3184-c248-4180-9157-8a9bb5e12fd8,Manisa Kebabı,"38,50 TL",Kebaplar,4.0
+3df55879-04c1-496d-9135-ee143889845a,Vali Kebabı,"79,00 TL",Kebaplar,5.0
+278e38e8-06be-4e5f-a386-6865efab636e,Has Konyalı Spesiyal Kebap (2 Kişilik),"155,00 TL",Kebaplar,-1.0
+4bcb2393-a707-4f78-be9c-ff719e77d610,Has Konyalı Spesiyal Kebap (3 Kişilik),"210,00 TL",Kebaplar,-1.0
+02f03a75-ba80-496d-8701-01c7210bd51c,Has Konyalı Spesiyal Kebap (4 Kişilik),"275,00 TL",Kebaplar,-1.0
+06c4d810-7141-4185-94c2-a32b17c6a589,Antrikot (2 Kalem),"63,00 TL",Izgaralar,5.0
+ffe6ef44-5ab9-4b4b-8efa-adfa9402a9d9,Biftek (2 Kalem),"62,00 TL",Izgaralar,5.0
+3017983b-d88d-43d7-a92a-59edf569e0e7,Kuzu Çöp Şiş,"45,00 TL",Izgaralar,6.0
+272eb460-080c-4d0f-9aa5-4e3d2c0a7ab7,Kuzu Pirzola,"68,00 TL",Izgaralar,7.0
+d390a5cd-c750-482e-9db2-a07b5c821a19,Kuzu Şiş,"48,00 TL",Izgaralar,7.0
+9a904348-381b-4438-9ce4-f366bdecdf11,Tavuk Kanat,"27,50 TL",Izgaralar,8.0
+131dd1ae-986b-450f-b631-b1a67668cbf1,Izgara Köfte,"24,00 TL",Izgaralar,5.0
+3F041A98-BF38-46CE-80FB-B323BCE4D9C8,Fettuccine Alfredo,"29,99 TL",Makarnalar,5.0
+B15FD264-ED44-4EF3-902F-0F1D6B7CCFAD,Mantı,"24,50 TL",Makarnalar,5.0
+57bed77e-b5ea-4865-b2ec-d2ae1c88eac0,Lahmacun,"8,00 TL",Fırın Ürünleri,25.0
+45a68f1f-35a6-4a14-b2eb-296b52452dab,Kıymalı Pide,"23,00 TL",Fırın Ürünleri,5.0
+89a17ffe-7141-4563-8f63-3a74d8b7d063,Kıymalı Kaşarlı Pide,"26,00 TL",Fırın Ürünleri,5.0
+126165f1-bb17-4226-8b86-d5e5e237a23e,Kuşbaşılı Pide,"27,50 TL",Fırın Ürünleri,5.0
+8f61f5ff-37fc-4161-8ebb-79378858eb51,Kuşbaşılı Kaşarlı Pide,"29,50 TL",Fırın Ürünleri,5.0
+e85fcbf4-2001-411c-a8ec-3beac76d86cb,Kavurmalı Kaşarlı Pide,"32,50 TL",Fırın Ürünleri,5.0
+49C8C190-18CA-410A-9A17-E3A1A0A2D8A4,Et Şiş Dürüm,"26,00 TL",Dürümler,9.0
+8086C1D1-8075-49D5-8A27-B1D3F5E7EA8A,Kuzu Şiş Dürüm,"27,50 TL",Dürümler,7.0
+9328e001-3dac-4cba-9444-bac445c49584,Oses Çiğ Köfte Dürüm,"11,00 TL",Çiğ Köfteler,3.0
+c3cba63a-aa6b-434e-a7cc-5623ed682284,Oses Duble Çiğ Köfte Dürüm,"13,00 TL",Çiğ Köfteler,3.0
+77e6fddd-b881-4495-b1ff-cf810a942a10,Oses Çiğ Köfte (300 gr.),"20,00 TL",Çiğ Köfteler,3.0
+bfa9728b-3ab8-4ebd-9b2b-3597493219c5,Oses Çiğ Köfte (500 gr.),"30,00 TL",Çiğ Köfteler,3.0
+d0d7bd61-7481-4d09-b776-46b4dd655348,Oses Çiğ Köfte (750 gr.),"40,00 TL",Çiğ Köfteler,3.0
+7e979fcd-c0e8-4ee7-8c40-b5be2855d7b3,Oses Çiğ Köfte (1 kg.),"50,00 TL",Çiğ Köfteler,3.0
+48A3562B-1139-4ECB-88B9-A8884809BF43,Çiğ Köfte (12 Sıkım),"19,00 TL",Çiğ Köfteler,5.0
+58FCC2EF-93E8-40DA-964A-043FAD85D881,Has Et Burger,"21,90 TL",Diğer Lezzetler,5.0
+219d286d-0519-4f35-a341-b2eccdad7d58,Bulgur Pilavı,"9,00 TL",Yan Ürünler,4.0
+18F3DA5B-5325-40CD-93D3-43DFC0A7E1C9,Ekstra Yeşillik,"3,00 TL",Yan Ürünler,4.0
+DBCB37D9-EE44-4DD9-87F6-7A3EC022FBAA,Cacık,"11,00 TL",Yan Ürünler,5.0
+232A0F4E-BE49-4AEB-A218-10845DA2970D,Biber Turşusu,"5,00 TL",Yan Ürünler,5.0
+0fa1e53f-3828-4684-b04f-29b9b165e943,Ezme (150 gr.),"7,50 TL",Yan Ürünler,5.0
+8062e462-9011-4917-b855-d208df4f1a56,Ezme (250 gr.),"12,00 TL",Yan Ürünler,5.0
+57E79131-41BA-4DB8-9555-4FB49113198C,Patlıcan Ezme (100 gr.),"15,00 TL",Yan Ürünler,5.0
+14C9592D-0F34-4D4B-9728-E22E4ED1B75A,Patlıcan Ezme (180 gr.),"23,00 TL",Yan Ürünler,5.0
+B0587F94-2E90-4CDB-B445-5D8917E8423E,Közlenmiş Sarımsak,"17,50 TL",Yan Ürünler,2.0
+54B96E19-A78A-4977-928C-7A0A1764131F,Beyaz Peynir (2 Dilim),"8,00 TL",Yan Ürünler,5.0
+b018a5cf-1a0c-4d70-8862-afd14b715da8,Akdeniz Salata,"16,00 TL",Salatalar,4.0
+96EBBA3F-1318-4F8E-91C7-1DEBB1F0FB55,Mevsim Salatası,"15,00 TL",Salatalar,5.0
+AA5C1379-5F4A-45D9-A338-BB66E1779990,Sezar Salata,"21,00 TL",Salatalar,4.0
+5cd7de30-f20f-496e-a8ec-7256bdd6913c,Çoban Salata,"13,00 TL",Salatalar,4.0
+261adf78-ce32-479c-8720-2610272ad79f,Gavurdağı Salata,"17,00 TL",Salatalar,4.0
+e3271267-8c64-4fe0-a3ab-747b8066f0ab,Kaşık Salata,"13,00 TL",Salatalar,4.0
+E212D055-E4A9-48D7-AD59-595D24EF3C8F,Çilekli Mag,"18,00 TL",Tatlılar,5.0
+17b9c78b-d955-46ed-9b1b-f3cae4bfdcd7,Yer Fıstıklı Mag,"18,00 TL",Tatlılar,5.0
+685624a7-f4dd-4711-9d7f-8e0d4f9b194e,Kahveli Mag,"18,00 TL",Tatlılar,5.0
+873a53f3-9f83-4de3-8af1-68bb9000744c,Hindistan Cevizli Mag,"18,00 TL",Tatlılar,5.0
+bc1c369d-aa2c-41e7-9124-b63743a7db02,Karamelli Mag,"18,00 TL",Tatlılar,5.0
+a27749e6-fe83-4ddb-affb-dbb27c7a184e,Kaymaklı Künefe,"21,90 TL",Tatlılar,3.0
+FA40D533-4100-471D-B552-8AEB86A47118,Katmer,"19,90 TL",Tatlılar,5.0
+e81d27b7-ac18-463b-9385-2709bf2cb5a0,Kemalpaşa Tatlısı,"12,00 TL",Tatlılar,5.0
+013916f6-5b25-42a8-b2ab-cf18b07d759b,Künefe,"20,00 TL",Tatlılar,4.0
+c18702cc-a0cb-4ad8-985c-c07caf70f3b8,Sac Arası,"23,90 TL",Tatlılar,5.0
+2cfee10b-e7aa-42e6-a700-c1164a7c902e,Fruko (1 L.),"9,00 TL",İçecekler,5.0
+ec80495b-d63b-435a-ba6b-46f19f34c87e,Ezme (500 gr.),"20,00 TL",Kiloluk Ürünler,5.0
+af324d7b-fce8-4d3c-8987-7c889c4b6248,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,50 @@
+food_id,food_name,food_price,food_category,food_score
+be621ad5-ffaa-49d5-a7f5-3a743a10f7f4,Günün Menüsü,"18,00 TL",Menüler,10.0
+d3b4e8bb-cb94-46e3-9735-8a877846ad58,Hızlı Kahvaltı,"12,00 TL",Kahvaltılıklar,5.0
+f7c16daf-6bbb-40c2-b7a6-df316c5bb5ee,Zengin Kahvaltı,"22,00 TL",Kahvaltılıklar,5.0
+4782220c-b1e1-477c-8d36-d43e82f97c9f,Annemin Tostu,"12,00 TL",Tostlar,5.0
+7501c0bc-73ca-4934-b88d-0f1bc67f2001,Kaşarlı Tost,"10,00 TL",Tostlar,5.0
+bf1c094f-0b07-4d28-9f97-1554c49cbcb9,Çift Kaşarlı Tost,"12,00 TL",Tostlar,5.0
+d98a4778-d32a-442f-a2e9-e23675485e64,Sucuklu Tost,"10,00 TL",Tostlar,5.0
+f27291f0-16b6-4cd7-a455-6f063dd36e03,Sanayi Tost,"12,00 TL",Tostlar,5.0
+7a607c42-58ce-4b1a-9058-0396377df465,Karışık Tost,"13,00 TL",Tostlar,5.0
+6c978cc1-7287-4d26-9d2d-7c4258833702,Kırmızı Biber Tost,"14,00 TL",Tostlar,5.0
+c3cbef86-55c3-4152-ab58-fe260f89ea20,Kırgız Çorbası,"15,00 TL",Çorbalar,10.0
+48F6F7BD-6DCC-418E-BA67-570B233BCE14,Barbekü Soslu Tavuk (200 gr.),"25,00 TL",Ana Yemekler,4.0
+02B01095-297B-404C-A2A9-BBA6F8F097F7,Barbekü Soslu Tavuk (300 gr.),"35,00 TL",Ana Yemekler,4.0
+F67E4324-A19A-4B7A-8CAD-7A213876ABCC,Çoban Kavurma (170 gr.),"35,00 TL",Ana Yemekler,4.0
+C69B881C-F63B-4450-9C13-622F174DBEB0,Çoban Kavurma (250 gr.),"50,00 TL",Ana Yemekler,4.0
+D74C2A94-30B9-466C-9405-11E3C6DED0E3,Izgara Dana Biftek (200 gr.),"40,00 TL",Ana Yemekler,5.0
+BB043734-8C11-40DF-A6B6-7901A06511F2,Izgara Dana Biftek ( 300 gr ),"55,00 TL",Ana Yemekler,14.0
+ECA376D2-DBFA-494F-8799-A7CBC80D6D8E,Köri Soslu Tavuk (200 gr.),"25,00 TL",Ana Yemekler,4.0
+2DDA9829-D176-49BD-AE05-50F5B62404D0,Köri Soslu Tavuk (300 gr.),"35,00 TL",Ana Yemekler,4.0
+A955B1A8-EA9A-4BBF-A3B4-E680731AC498,Kremalı Mantarlı Soslu Tavuk (200 gr.),"25,00 TL",Ana Yemekler,4.0
+7A5BC049-9555-41AF-99CA-44ACDC3DA31E,Kremalı Mantarlı Soslu Tavuk (300 gr.),"35,00 TL",Ana Yemekler,4.0
+3662A8EB-32DD-4384-A150-71C73BCCDE3B,Saç Kavurma (170 gr.),"35,00 TL",Ana Yemekler,5.0
+21D98859-E0B8-412A-BD8D-2C557D301EAD,Saç Kavurma (250 gr.),"50,00 TL",Ana Yemekler,5.0
+EA32E249-C215-42B4-A005-E17A2BF729A0,Soya Soslu Tavuk (300 gr.),"35,00 TL",Ana Yemekler,4.0
+C114A7F1-F000-4634-BFE9-C591BD415679,Tavuk Çöp şiş (200 gr.),"25,00 TL",Ana Yemekler,4.0
+8eed6d55-c595-4278-bd0b-ad647c435a00,Izgara Köfte,"22,00 TL",Ana Yemekler,5.0
+1c188092-904b-4949-9386-074d0b7e8263,Kremalı Biftek,"35,00 TL",Ana Yemekler,5.0
+86604ca2-9538-4cec-b398-4e30a1d08183,Tavuk Izgara,"25,00 TL",Ana Yemekler,4.0
+d2aea201-eb2a-41ec-b6f0-b953e1618a0b,Tavuk Şinitzel,"25,00 TL",Ana Yemekler,4.0
+25bb2753-e845-4271-a981-c52054f7dad3,Tavuklu Wrap,"18,00 TL",Wraps,5.0
+a86fdb03-5780-4dc8-bd7f-2d8b281cfb21,Köfteli Wrap,"20,00 TL",Wraps,5.0
+dbe1ddaf-53f7-4209-937b-ac3eca8409be,Ton Balıklı Wrap,"20,00 TL",Wraps,5.0
+FFBAA356-CB24-46A2-80CC-45CFBCBA8538,Etli Wrap,"23,00 TL",Wraps,6.0
+598476fb-ff13-4ff3-adef-e586284d0f86,Kremalı Beğendi Soslu Penne,"18,00 TL",Makarnalar,5.0
+665355e9-b6fa-4ef4-beff-4141244d904a,Kremalı Mantarlı Tavuk Soslu Penne,"18,00 TL",Makarnalar,9.0
+8147693d-4b49-487f-994e-c7abbbe357e8,Spaghetti Napolitan,"14,00 TL",Makarnalar,5.0
+F6222A6A-38A5-4470-BA84-3D1084E51BC1,Pelmeni,"17,00 TL",Diğer Lezzetler,5.0
+D81FBE39-748D-435A-BA9C-BDA3035BDD27,Kurdak (100 gr.),"21,00 TL",Diğer Lezzetler,2.0
+B82007FB-D203-4593-91E1-01178FBADC03,Kurdak (150 gr.),"30,00 TL",Diğer Lezzetler,2.0
+48B20605-C07B-4668-8DF2-756BF0E66EBD,Boso Lagman (50 gr.),"16,00 TL",Diğer Lezzetler,9.0
+76E29F95-738F-45FE-9B66-8D0D043D3F27,Boso Lagman (100 gr.),"29,00 TL",Diğer Lezzetler,9.0
+6deb29d4-d59a-4a5b-8478-6e35a5973eba,Sosis Tava,"15,00 TL",Yan Ürünler,5.0
+7cc03f51-f3b3-495c-a50c-c1d0a7507b80,Chicken Fingers,"15,00 TL",Yan Ürünler,5.0
+3561d337-1b10-4fa7-900c-11c9ad0d2f8d,Çıtır Tavuklu Barbekü Soslu Salata,"16,00 TL",Salatalar,8.0
+ba3a8911-11fc-40b7-ad28-7e02c2c37003,Akdeniz Yeşillikleri,"10,00 TL",Salatalar,5.0
+9fe0794b-5d7d-4868-834e-7683ed7e16a1,Kazandibi,"10,00 TL",Tatlılar,7.0
+f8e09f3a-e8a2-43f3-9fa7-a20f07c1f270,Limonlu Cheesecake,"12,00 TL",Tatlılar,5.0
+1e11690e-07bd-4b8d-9bf1-24b702e1bb53,Ev Yapımı Portakal Suyu,"8,00 TL",İçecekler,7.0
+e66e9d2f-e266-4199-9e40-517b70d69655,Ev Yapımı Nar Suyu,"10,00 TL",İçecekler,7.0

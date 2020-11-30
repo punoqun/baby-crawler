@@ -1,0 +1,24 @@
+food_id,food_name,food_price,food_category,food_score
+29404ccb-88c6-48f7-b8f9-2c620ba50169,Kaşarlı Tost,"8,00 TL",Tostlar,5.0
+2e59bb58-3006-49a0-a642-4c5f428e3bc3,Sucuklu Tost,"8,00 TL",Tostlar,5.0
+cd74e018-5a71-4af9-b0f9-7fe13b90b2b5,Karışık Tost,"13,00 TL",Tostlar,5.0
+8bfa399f-1cfa-4512-81da-47acf362abe7,Yengen Tost,"15,00 TL",Tostlar,5.0
+9e77fd1e-fc6e-45b8-bc06-46d913b7ed4f,Ayvalık Tostu,"20,00 TL",Tostlar,5.0
+ab93d983-21ee-4ce7-a448-3ed3d0b13f2c,Sosisli Sandviç,"8,00 TL",Sandviçler,10.0
+56a0c781-7730-4b3b-8010-8c7c3779efaf,Patso Sandviç,"6,00 TL",Sandviçler,10.0
+291f2a70-5dda-4ed1-b193-09944a9b6c47,Kıymalı Gözleme,"15,00 TL",Gözlemeler,6.0
+c09b17f0-1c81-42fc-b552-d708146109dd,Peynirli Gözleme,"13,00 TL",Gözlemeler,6.0
+5eee509d-5486-4ea2-88ae-93c3b95cccb6,Patatesli Gözleme,"13,00 TL",Gözlemeler,6.0
+056440f5-0243-483e-ad30-2e2f68fad095,Atom Gözleme,"18,00 TL",Gözlemeler,6.0
+37241d46-0db0-47b7-a867-201fb7d6e3b1,Ekmek Arası Izgara Köfte,"15,00 TL",Köfteler,5.0
+855b67ad-7b87-4f55-8312-96e1f2286666,Izgara Köfte,"20,00 TL",Köfteler,5.0
+1a1085f3-8ea9-43c5-b1dc-a4c61819348d,Hamburger,"10,00 TL",Burgerler,10.0
+bc1308db-8817-4485-8129-6f71f29a9a72,Köri Soslu Makarna,"15,00 TL",Makarnalar,7.0
+307cb25c-ff50-4fa9-afb9-935f209a9cb6,Kıymalı Makarna,"18,00 TL",Makarnalar,7.0
+a272a203-3781-4a8a-bed4-1a548a51906a,Kremalı Mantarlı Makarna,"15,00 TL",Makarnalar,7.0
+82ce0dea-23c5-4e73-9add-eed110b4d2f3,Salçalı Makarna,"15,00 TL",Makarnalar,7.0
+a4b16a16-b86f-429b-8b08-3c93af9bf135,Patates Kızartması,"5,00 TL",Yan Ürünler,5.0
+439878c9-f691-4940-9559-54c38d335ce5,Soğan Halkası (5 Adet),"5,00 TL",Yan Ürünler,5.0
+287e7123-c76f-4424-8a15-5af0967a3337,Patates Kroket (5 Adet),"5,00 TL",Yan Ürünler,5.0
+6a4dc84f-b2d3-416d-98d1-2e655775c87f,Izgara Köfte (1 kg.),"80,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+3777653e-5443-4e91-9473-70ee2f8bbe4b,Poşet,"0,25 TL",Poşet,5.0

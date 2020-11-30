@@ -1,0 +1,42 @@
+food_id,food_name,food_price,food_category,food_score
+407e143c-62ae-4098-8943-a4bb7310b29a,Menü 1,"15,00 TL",Menüler,19.0
+435B996F-8937-4B34-8EA7-63C183C4EFC2,5'li Döner Menü,"49,90 TL",Menüler,5.0
+A96661D3-F56C-462B-B569-35FDD8548896,3'lü Döner Menü,"31,50 TL",Menüler,5.0
+7B8FF720-92A8-46B5-9CD7-71ADF7038848,5'li Köfte Menü,"50,00 TL",Menüler,8.0
+5C80123C-E5EC-4D10-9200-D98E0A450CD8,3'lü Köfte Menü,"31,50 TL",Menüler,8.0
+4A2D24C5-DB6C-4363-A747-19CC4DDB44FE,Rado Menü,"20,90 TL",Menüler,6.0
+1A777433-60BF-40F9-BDC1-F0563B9D8378,Birader Menü,"34,90 TL",Menüler,6.0
+4B3D4DF2-7E1C-49C2-B48E-248E3125DC3E,Baba Köfte Menü,"45,90 TL",Menüler,8.0
+9ba18c3b-fd0d-482b-aa5d-c6e7a5731be7,Menü 2,"25,00 TL",Menüler,5.0
+18633c2e-1adc-46cb-a200-0243ef91e0d3,Menü 3,"10,00 TL",Menüler,6.0
+39d6e96f-e3ed-4db0-bc74-cc9cce55a54e,Menü 4,"30,00 TL",Menüler,4.0
+edf318e3-fec3-47e4-beb2-1c0b22b0bf3f,Antep Usulü Beyran Çorbası,"17,50 TL",Çorbalar,6.0
+1f558542-3ea4-4749-8d24-ea3fde734c1e,Izgara Köfte,"20,00 TL",Kebaplar & Izgaralar,9.0
+2946002e-e212-474d-8e27-b4773147c961,Urfa Kebap,"21,00 TL",Kebaplar & Izgaralar,5.0
+3c4451dd-8411-4246-a62d-a2b9c4a97ece,Patlıcanlı Kebap,"30,00 TL",Kebaplar & Izgaralar,5.0
+853673ff-0b2b-4569-b640-bd94d8c9a47b,Izgara Tavuk Kanat,"20,00 TL",Kebaplar & Izgaralar,6.0
+a8e2094c-7f28-45ea-87cb-8a65f1ccb22c,Tavuk Şiş,"20,00 TL",Kebaplar & Izgaralar,4.0
+ae947bdb-f098-4c89-bb13-588c08c2bedb,Adana Kebap,"21,00 TL",Kebaplar & Izgaralar,4.0
+c2cdc9e1-8b66-4bb8-ae3f-2a1fcd25a133,Domatesli Kebap,"28,00 TL",Kebaplar & Izgaralar,5.0
+BEEDC027-F446-4977-8DE2-B853251FF06B,Adana Dürüm (120 gr.),"19,00 TL",Dürümler,5.0
+90875994-425b-4b64-a8de-77a37cba99f5,Adana Dürüm (90 gr.),"12,00 TL",Dürümler,10.0
+802f19d2-7ece-43c8-a842-1fc19fcc9b75,Izgara Tavuk Dürüm,"10,00 TL",Dürümler,7.0
+AE21168C-AD0F-48E5-8933-F3EE496D331D,Urfa Dürüm (120 gr.),"19,00 TL",Dürümler,6.0
+d476ea96-2efd-4aae-8a87-d024468431fe,Urfa Dürüm (90 gr.),"12,00 TL",Dürümler,6.0
+9da728da-3b37-4b81-a687-5a850af886f7,Yarım Ekmek Arası Et Döner,"10,00 TL",Et Dönerler,8.0
+ebdb4e96-3283-4764-923b-2e6a61cc54c8,Tombik Ekmek Arası Et Döner,"10,00 TL",Et Dönerler,10.0
+6601ac2b-32e9-44bc-bf73-e871c6787e83,Et Döner Dürüm,"10,00 TL",Et Dönerler,9.0
+a178cb77-b374-4cda-a9d3-a8485e108503,Pilav Üstü Et Döner,"12,00 TL",Et Dönerler,8.0
+0eb53531-854f-49bb-9828-960f7f8b1f4f,İskender (Et Dönerden),"18,00 TL",Et Dönerler,13.0
+f7bb0e39-c816-4849-a478-f9f186080111,Özel Baba Burger,"10,00 TL",Burgerler,5.0
+0e27fa11-f4dc-4a5a-9f27-2c76d6bd19ec,Çiğ Köfte (12 Sıkım),"10,00 TL",Diğer Lezzetler,5.0
+73064322-4d35-4df0-b1b7-cd78d8c3ba25,Kızartma İçli Köfte,"6,00 TL",Diğer Lezzetler,7.0
+ceaa44eb-37ea-4f89-a004-a8cbb5b71dd7,Fruko (1 L.),"8,00 TL",İçecekler,5.0
+90c22607-0e2e-46bd-8956-db4b699d59d8,Tavuk Pirzola (1 kg.),"33,90 TL",Kiloluk Izgaralar (Pişirilmiş),4.0
+fa930f39-7b2a-48ce-b960-b50fd8b803f4,Tavuk Şiş (1 kg.),"32,90 TL",Kiloluk Izgaralar (Pişirilmiş),4.0
+ade8f5c9-479b-4f44-895b-11cafb21b19a,Izgara Tavuk (1 kg.),"44,90 TL",Kiloluk Izgaralar (Pişirilmiş),6.0
+d19dc938-dfdf-4bc4-bada-2dc23c073340,Izgara Kanat (1 kg.),"36,90 TL",Kiloluk Izgaralar (Pişirilmiş),7.0
+906574e0-16ab-4ed0-a5c1-1127502b2523,Tavuk Kelebek (1 kg.),"27,90 TL",Kiloluk Izgaralar (Pişirilmiş),6.0
+c61a3be4-90a9-41f0-9bcd-0e0503540c99,Izgara Tavuk Baba Lokum (1 kg.),"34,90 TL",Kiloluk Izgaralar (Pişirilmiş),8.0
+4fe47a59-c3a4-47aa-a184-01c7905a9256,Izgara Köfte (1 kg.),"75,00 TL",Kiloluk Izgaralar (Pişirilmiş),9.0
+238a7c34-52cf-4e8b-b040-8e49bde00f38,Poşet,"0,25 TL",Poşet,5.0

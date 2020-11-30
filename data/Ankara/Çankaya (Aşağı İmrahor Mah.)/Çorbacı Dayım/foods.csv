@@ -1,0 +1,25 @@
+food_id,food_name,food_price,food_category,food_score
+a5bef2db-6f0a-4bb8-b4a2-1a154a4d58fa,Damar Çorbası,"18,00 TL",Çorbalar,5.0
+cadb2c19-d8e3-41ad-a0de-4ad6d5905600,Dayım Çorba,"22,00 TL",Çorbalar,10.0
+b475dce0-f649-487a-9cf4-246a7c5d8517,Şırdan Tuzlama Çorbası,"17,00 TL",Çorbalar,5.0
+0b8ff4cc-81e0-482f-9ff2-3fcb0434a08d,Dayım Lahmacun,"20,00 TL",Lahmacunlar,5.0
+d4b84807-7b12-42a7-93ac-fae375a2acdb,Lahmacun,"10,00 TL",Lahmacunlar,10.0
+78fb7924-e19d-4235-aca2-39b9f9fea8d9,Karışık Pide,"22,00 TL",Pideler,5.0
+b9b74383-7b8e-49e1-afa3-0277aa7095dc,Kaşarlı Pide,"20,00 TL",Pideler,5.0
+8ad66f8e-b565-48e0-b6ca-3b673d7dc3f8,Kıymalı Pide,"16,00 TL",Pideler,5.0
+5b3e2bd3-e775-4e45-8888-8a32e783637a,Kuşbaşılı Pide,"22,00 TL",Pideler,5.0
+78ae716f-e891-4ae8-baf0-2ff2069cc23a,Sucuklu Kaşarlı Pide,"20,00 TL",Pideler,5.0
+75b98b71-f194-4302-a740-9d2d4fc4fb95,Sucuklu Pide,"18,00 TL",Pideler,5.0
+0f7aed8d-f57a-427f-82c9-0f5f459623ed,Adana Kebap,"22,00 TL",Kebaplar & Izgaralar,5.0
+58105a2a-abfe-480a-aea1-79fb2d34a300,Urfa Kebap,"22,00 TL",Kebaplar & Izgaralar,5.0
+7f9a73ef-e4a1-4437-af44-335d1c0966e7,Beyti Kebap,"24,00 TL",Kebaplar & Izgaralar,5.0
+5cedd8a5-a57d-4b09-bfd7-55fb1ebe828b,Tavuk Şiş,"20,00 TL",Kebaplar & Izgaralar,5.0
+89cdba44-3fc7-4ecb-9cde-f4fe6f61431f,Tavuk Kanat,"22,00 TL",Kebaplar & Izgaralar,5.0
+c4542bcc-2119-4023-85e8-4c03957e891e,Izgara Köfte,"20,00 TL",Kebaplar & Izgaralar,5.0
+4620040a-129b-4f04-9717-c10a8ebc9bec,Kiremitte Tavuk,"22,00 TL",Kiremitte Ürünler,5.0
+4ca947fc-6dfa-48f2-bcfc-cd8f43b29044,Kiremitte Et Şiş,"24,00 TL",Kiremitte Ürünler,5.0
+033134a6-62b4-43e7-8f66-b54053e56ded,Kiremitte Köfte,"20,00 TL",Kiremitte Ürünler,5.0
+9e0cde8a-fd24-4192-9bdf-2145aa00f052,Kuzu Kelle (Bütün),"44,00 TL",Diğer Lezzetler,5.0
+26bb9cef-5cc2-42ef-9158-3843935156c5,Kuzu Kelle (Yarım),"24,00 TL",Diğer Lezzetler,5.0
+255c84cd-cc0a-41ea-b446-e44d091b793b,Sac Kavurma,"26,00 TL",Diğer Lezzetler,5.0
+1731d94a-a144-4a15-8e2b-bbbf84e87ad4,Poşet,"0,25 TL",Poşet,5.0

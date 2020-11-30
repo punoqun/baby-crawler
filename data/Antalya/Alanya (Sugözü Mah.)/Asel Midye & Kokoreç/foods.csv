@@ -1,0 +1,31 @@
+food_id,food_name,food_price,food_category,food_score
+616b760a-3cd7-4ad3-81b5-293029b06625,Menü 1,"23,00 TL",Menüler,30.0
+987a9d94-df28-4c96-95a4-50c233efccd9,Menü 2,"23,00 TL",Menüler,9.0
+b0688b5c-a4a9-4567-9aae-4aafa25a1097,Menü 3,"23,00 TL",Menüler,8.0
+47021ec0-d69e-43be-9f94-37918480515f,Menü 4,"23,00 TL",Menüler,4.0
+500bc30a-7275-46a0-b193-9c65f3c8eddb,Menü 5,"24,00 TL",Menüler,10.0
+f14dfcde-b611-4620-8be6-8f08b71f46f2,Menü 6,"25,00 TL",Menüler,4.0
+1a77a4c3-bec2-425d-ba73-37da95ee6863,Menü 7,"23,00 TL",Menüler,9.0
+c172193a-0d5c-49d4-8ba1-821fbd9790fc,İzmir Kokoreç,"35,00 TL",Kokoreçler,22.0
+DAEDFBDE-5E7D-436B-9D98-E1249E612688,İzmir Usulü Çeyrek Ekmek Arası Kokoreç,"13,00 TL",Kokoreçler,22.0
+249628B8-6C59-4673-BAA7-1EB4C570EF98,İzmir Usulü Yarım Ekmek Arası Kokoreç,"18,00 TL",Kokoreçler,26.0
+e7caadc0-c01f-4e9e-9579-55af03fc023e,Izgara Köfte,"25,00 TL",Izgaralar,4.0
+56530d74-dc8d-4eb3-a2e7-50e096a85f26,Izgara Sucuk,"24,00 TL",Izgaralar,3.0
+55525ef6-ae72-4a1d-b29a-506d16a97a04,Tavuk Şiş,"19,00 TL",Izgaralar,5.0
+d5e67a45-5383-46f1-8889-bec0ae0e5352,Izgara Uskumru,"22,00 TL",Izgaralar,4.0
+36825484-3757-4212-be0b-962fb023e2f2,Hamburger,"11,00 TL",Burgerler & Sandviçler,5.0
+205894eb-e7dd-4444-acb0-0d4b531835be,Cheeseburger,"12,00 TL",Burgerler & Sandviçler,5.0
+d7b2298e-668f-4d67-9784-0a984397258a,Kumru Sandviç,"15,00 TL",Burgerler & Sandviçler,14.0
+946b7df8-d6fc-4c37-9eab-5fc465d86b0f,Çeyrek Ekmek Arası Tavuk Şiş,"9,00 TL",Ekmek Arası Ürünler,5.0
+16301825-7402-4393-a2ed-7c201c530518,Çeyrek Ekmek Arası Izgara Sucuk,"9,00 TL",Ekmek Arası Ürünler,3.0
+58b6022d-9ed8-48c1-b7ab-77151c74948d,Çeyrek Ekmek Arası Izgara Köfte,"10,00 TL",Ekmek Arası Ürünler,4.0
+ec751f85-aa95-4896-8b37-fb5b7777389b,Yarım Ekmek Arası Izgara Uskumru,"13,00 TL",Ekmek Arası Ürünler,3.0
+af9a143a-bd2f-433b-a5be-e203b05f4e76,Yarım Ekmek Arası Izgara Sucuk,"13,00 TL",Ekmek Arası Ürünler,2.0
+00e293be-7207-4850-a474-ea12189a356d,Yarım Ekmek Arası Tavuk Şiş,"13,00 TL",Ekmek Arası Ürünler,4.0
+f4580313-1624-4fa9-bf0a-18a180ba57c7,Yarım Ekmek Arası Izgara Köfte,"16,00 TL",Ekmek Arası Ürünler,8.0
+d796d4a2-7013-49c8-9c99-ec2d57f4b657,Midye Dolma (15 Adet),"19,00 TL",Midye Dolmalar,15.0
+e0251a1a-ef51-485d-b439-8488d103b897,Midye Dolma (Adet),"2,00 TL",Midye Dolmalar,15.0
+b40d8c33-0a4b-413b-a649-8aa287fde895,Midye Dolma (50 Adet),"55,00 TL",Midye Dolmalar,15.0
+80cf8120-c4c0-41b3-8e83-663f6992fd19,Midye Dolma (6 Adet),"10,00 TL",Midye Dolmalar,15.0
+a44e1bfa-2f0f-4981-be2b-ea74bba789e2,Patates Kızartması,"9,00 TL",Yan Ürünler,4.0
+24530e0c-643d-4418-af97-caa22bd27cfc,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,25 @@
+food_id,food_name,food_price,food_category,food_score
+51732b9f-e4ed-4e0a-8004-26a946347b0f,Acı Sever Burger,"26,90 TL",Burgerler,10.0
+166e4dd5-8e25-4395-888c-4b226578bd1d,Cheeseburger,"26,90 TL",Burgerler,10.0
+83368b97-3a87-4233-a87f-08a33174c30c,Dublex Burger,"32,90 TL",Burgerler,14.0
+576d8432-291d-4a9a-8a32-daba50a6e35d,Medium Burger,"18,90 TL",Burgerler,7.0
+9593477b-3c1f-4fca-ba1e-b43c5bf7e839,Satır Burger,"26,90 TL",Burgerler,20.0
+7c2a84f2-909f-44e6-8130-3918fe7bee3d,Tavuk Sever Burger,"19,90 TL",Burgerler,10.0
+daf88e24-d6bb-435a-8076-09d623cd20c1,Triplex Burger,"36,90 TL",Burgerler,9.0
+5b9ef069-fc21-4c10-beba-65084eaf5126,Yörem Burger,"26,90 TL",Burgerler,9.0
+0001bf33-40a3-4781-ba1a-924eb49b1d3b,Zeytin Burger,"25,90 TL",Burgerler,9.0
+ebd05958-6cee-421b-8a29-70c14d37ea07,Ekmek Arası Köfte,"19,90 TL",Köfteler,9.0
+822fb90e-5194-4f9c-99f6-18356f82d3fd,Izgara Köfte,"22,90 TL",Köfteler,10.0
+1bde085c-0e96-42ff-9d1c-1b4e7e7ba772,Patates Kızartması,"9,00 TL",Yan Ürünler,16.0
+5d5dbfda-c7db-470b-a452-65a5de667bc8,Acılı Ezme,"2,00 TL",Yan Ürünler,5.0
+6526d692-0ba3-4a3e-9a65-fc4af727e07a,Soğan Halkası (8 Adet),"9,00 TL",Yan Ürünler,6.0
+d2533e12-2299-42fc-b509-fe510df0966e,Piyaz,"11,00 TL",Yan Ürünler,4.0
+c038d53c-2857-4d6e-bb48-734a099d3a5b,Sütlaç,"10,00 TL",Tatlılar,5.0
+eacad828-6842-4aae-9ea6-4073205db4a8,Oreolu Mag,"12,90 TL",Tatlılar,5.0
+da78acc9-5ad6-4476-9d5f-a8897fd723cb,Hayrabolu Tatlısı,"10,00 TL",Tatlılar,5.0
+8326c85b-4483-4818-85a5-7a28ac145510,Muzlu Mag,"12,90 TL",Tatlılar,5.0
+ef780c28-251b-4889-b424-7fb42d869410,Çilekli Mag,"12,90 TL",Tatlılar,5.0
+d9ba3a3c-ad65-41e5-b7e5-c38a3ca05e9f,Köy Sütlacı,"10,00 TL",Tatlılar,5.0
+48a3b365-9496-41d0-98ed-dc0c806b4879,Izgara Köfte (1 kg.),"89,00 TL",Kiloluk Ürünler (Pişirilmiş),10.0
+238af6e4-54d6-44f0-bc9d-174d440d0247,Izgara Köfte (500 gr.),"45,00 TL",Kiloluk Ürünler (Pişirilmiş),10.0
+f9e4067a-0ab8-4926-8900-59b5409b8c28,Poşet,"0,25 TL",Poşet,5.0

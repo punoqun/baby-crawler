@@ -1,0 +1,50 @@
+food_id,food_name,food_price,food_category,food_score
+0464d940-480c-4cdb-983e-806b6529de10,WPC 250 Menü,"29,00 TL",Single Menüler,16.0
+20930f20-04ee-420d-bd2c-8e609ac23b0c,WPC Wrap Menü,"27,50 TL",Single Menüler,11.0
+43b6e535-0da4-4fc8-9d49-51c03b24b7a4,WPC Mix Menü,"29,50 TL",Single Menüler,5.0
+574ae44b-4b45-4d25-b1f0-64ea89b28678,WPC 9'lu Wings,"34,00 TL",Single Menüler,5.0
+f4336ba2-e6a9-4aac-9e16-62fcdaf6f477,WPC Combo Box Menü,"31,00 TL",Single Menüler,5.0
+08f28118-7a74-45ba-8db1-9e78b837e836,WPC 500 Menü,"55,00 TL",Double Menüler,12.0
+f35ed0f2-cfae-4b2b-b494-ccd17e5796f6,WPC Wrap Twins Menü,"36,00 TL",Double Menüler,11.0
+3b058551-02ea-4b1e-8dfb-d47d8f88069c,WPC 2'li Burger Combo Menü,"41,00 TL",Double Menüler,5.0
+68a6cf67-7ea8-44f5-8ef6-510c85f785f9,WPC Wings Double Combo Menü,"62,00 TL",Double Menüler,5.0
+bde5e14b-7818-455f-a8f7-c4df67a76a99,WPC Double Combo Menü,"59,50 TL",Double Menüler,5.0
+485155de-8f25-49f3-84a2-099fa32c32e1,Klasik Burger Menü,"30,00 TL",Burger Menüleri,5.0
+88383e09-1fdc-4c7c-a756-4c52267bf357,Cheeseburger Menü,"33,00 TL",Burger Menüleri,5.0
+85b32e3f-41a3-47c0-9645-01b5fc736f53,WPC Special Burger Menü,"39,00 TL",Burger Menüleri,5.0
+8be53b2a-73ea-4824-9f39-54cb781934e5,Füme Etli Burger Menü,"36,00 TL",Burger Menüleri,5.0
+eca6087a-590d-4d70-b22f-12a6069f2d15,WPC Special Double Burger Menü,"49,00 TL",Burger Menüleri,5.0
+0b164db2-b701-49fc-bcb1-6c8de0cf9e9c,Jalapeno Madness Burger Menü,"39,00 TL",Burger Menüleri,6.0
+d988f312-2ba7-450e-aa11-a1964bdfaf83,Hot Chicken Burger Menü,"25,00 TL",Burger Menüleri,5.0
+3984a201-0c13-48ed-a978-e0d404bdd7d6,Crispy Chicken Burger Menü,"25,00 TL",Burger Menüleri,10.0
+d1e0c9a5-8716-4e0f-b044-e49f9ceb8e03,WPC Burger Menü,"25,00 TL",Burger Menüleri,5.0
+73b68fc4-1862-416b-bc90-1c990cf985ba,Izgara Tavuk Burger Menü,"26,00 TL",Burger Menüleri,12.0
+d48611b8-2aeb-4893-9499-eaee7a915f88,WPC Süper Combo Menü,"42,00 TL",Combo Avantaj Menüleri,7.0
+c1b018d9-8c30-45b3-b8fe-2a07f52e71df,Cheese Combo Menü,"59,00 TL",Combo Avantaj Menüleri,5.0
+95ca08e0-34c3-4e07-b6b3-996544ed3ca3,Big Combo Menü,"81,50 TL",Combo Avantaj Menüleri,5.0
+5bb5baf8-dfb5-42ba-97f0-4655f9706c22,Cheese & Chicken Combo Menü,"55,00 TL",Combo Avantaj Menüleri,5.0
+7d009e48-3983-44f0-856d-f6d5a681282e,Jalapeno Madness Combo Menü,"59,00 TL",Combo Avantaj Menüleri,6.0
+f1338fc3-811e-43f2-ae28-43e62aa6f7b3,WPC Chicken Combo Menü,"55,00 TL",Combo Avantaj Menüleri,5.0
+8bb462b5-a0c0-4ab6-aac4-b1a71a6e5e98,Burger & WPC Combo Menü,"48,50 TL",Combo Avantaj Menüleri,5.0
+2059e2e8-b7a4-4c2b-8392-72db59ea8ccc,Spicy Combo Menü,"61,00 TL",Combo Avantaj Menüleri,5.0
+c841927a-959f-4847-b441-e878b6448072,Gurme Combo Menü,"65,00 TL",Combo Avantaj Menüleri,5.0
+f626e331-f468-4bda-9986-0ad20c5a82a1,All in Chicken Combo Menü,"77,50 TL",Combo Avantaj Menüleri,92.0
+5e43b0cc-19e2-449d-8c85-8fa30e4b9fe2,Klasik Hamburger,"27,00 TL",Burgerler,6.0
+ad0d9544-6fe9-4c61-8927-3c622fd209e7,Cheeseburger,"29,00 TL",Burgerler,5.0
+537ba05b-ba74-4ad9-8695-b2b76f7cfc51,WPC Special Burger,"35,00 TL",Burgerler,5.0
+e5a70c4a-e30c-468b-b946-5ae07da14d88,Füme Etli Burger,"32,00 TL",Burgerler,5.0
+0d3b1989-19e0-463d-86b7-24ce26d04263,WPC Special Double Burger,"45,00 TL",Burgerler,5.0
+e323cfff-659e-49ca-b8f8-4451f4c300bf,Jalapeno Madness Burger,"35,00 TL",Burgerler,6.0
+bc21ba4d-b3f8-4597-a056-6b2dd54bf38a,Hot Chicken Burger,"22,00 TL",Burgerler,5.0
+84b969d3-9959-42ab-baf0-c87a9b2af471,Crispy Chicken Burger,"22,00 TL",Burgerler,5.0
+092ac815-16f8-48ea-b9ce-7b47f5fabf6c,WPC Burger,"22,00 TL",Burgerler,5.0
+ae912e67-087e-4a40-9bb9-dc0d7bd90fbc,Izgara Tavuk Burger,"23,00 TL",Burgerler,12.0
+3a3148da-b1f7-4a91-b7e1-9685e552062d,Patates Kızartması,"15,00 TL",Yan Ürünler,13.0
+6c4a2c09-f8de-42ce-9a63-9f962ce197cb,Soğan Halkası,"21,00 TL",Yan Ürünler,5.0
+19b7d181-4558-4144-80bb-dfcdeb56fa47,WPC Chicken (250 gr.),"26,00 TL",Yan Ürünler,7.0
+f2a5efba-52c7-4249-987a-a38b20a3421e,WPC Wings (9 Adet),"30,00 TL",Yan Ürünler,5.0
+ee2603c7-6b4d-444f-9895-4394ac8f3117,Cheese Ball,"21,00 TL",Yan Ürünler,5.0
+4d9be642-2c1e-48a3-96b8-1706ecabd2a1,Louisiana Sos,"4,00 TL",Ekstralar,15.0
+2cd818df-8ce3-46c7-a9eb-b1ef4608b637,WPC Sos (Acı),"4,00 TL",Ekstralar,15.0
+696c1732-5b41-4ba3-b53a-956893bc1c25,Sos Seti,"2,50 TL",Ekstralar,15.0
+5634840a-fc49-4d3f-9a1c-934e1aa85da7,Tortilla (Adet),"2,00 TL",Ekstralar,7.0

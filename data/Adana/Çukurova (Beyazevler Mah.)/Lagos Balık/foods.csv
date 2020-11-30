@@ -1,0 +1,136 @@
+food_id,food_name,food_price,food_category,food_score
+8867d2bb-c33e-416e-a905-b543be3098f7,Barbun Menü,"55,00 TL",Menüler,5.0
+1aea4c38-d566-4e32-8bf3-ff75f1aaca22,Çipura Menü,"58,00 TL",Menüler,5.0
+3bfabb37-6667-4364-9a79-240ce8a6b855,Deniz Çipura Menü,"60,00 TL",Menüler,5.0
+e1c58a94-fd09-4983-9a25-7ad60116112e,Izgara Deniz Levreği Menü,"78,00 TL",Menüler,10.0
+d465c28e-e678-4566-93b1-1effb711f4b0,Dil Balığı Menü,"62,00 TL",Menüler,5.0
+90498192-e753-4b0c-bf0a-8907bd0f3bbd,Domuz Balığı Menü,"55,00 TL",Menüler,5.0
+ae096f56-809e-4448-80c4-2cc8e7c1d176,Hamsi Tava Menü,"42,00 TL",Menüler,5.0
+b82a1e64-ecab-4941-ae16-3997b3016ad8,İstavrit Menü,"44,00 TL",Menüler,5.0
+acaeb0de-3a0a-454b-93aa-b640686bd268,Izgara Levrek Menü,"61,00 TL",Menüler,5.0
+11b7c41a-9b3f-4e18-b52b-0c8eecb9c9f4,Mercan Menü,"53,00 TL",Menüler,5.0
+a4386c8c-22d9-41fb-878e-b8d392c61cd2,Mezgit Menü,"61,00 TL",Menüler,5.0
+6ed9a4fc-75aa-433b-bd68-5337de688650,Somon Balığı Menü,"58,00 TL",Menüler,5.0
+1d5f0653-9740-4631-bfcd-d44384d2734e,Trança Menü,"70,00 TL",Menüler,5.0
+e2170af2-7f04-4a01-bf51-1c8475f42426,Turna Balığı Menü,"47,00 TL",Menüler,5.0
+DBC8B54B-5801-4F62-90CB-04EEA3CE2439,Yağda Çipura Menü,"58,00 TL",Menüler,5.0
+9B7FF2B8-0042-4895-959E-CDB3399D5727,Yağda Deniz Levrek Menü,"78,00 TL",Menüler,5.0
+8854AB93-CC1F-4A47-866F-E6DC255D9B30,Yağda Levrek Menü,"61,00 TL",Menüler,5.0
+de1b987d-f684-4ecd-88c8-57fa48c3494f,Yılan Balığı Menü,"72,00 TL",Menüler,5.0
+0cf943a7-4bfa-479b-bf71-43997ef2b9f9,3'lü Çipura Menü,"140,00 TL",Kiloluk Menüler (Pişirilmiş),5.0
+0ce5260c-e2af-4d42-b9cd-d8117b2f0b8e,3'lü Levrek Menü,"155,00 TL",Kiloluk Menüler (Pişirilmiş),5.0
+d920873a-ef3f-4e36-8e6f-db1f17eeecbd,"Barbun (1,5 kg.) Menü","250,00 TL",Kiloluk Menüler (Pişirilmiş),5.0
+2942107e-5f49-4279-a1b7-5d9dae6eee0e,"Deniz Çipura (1,5 kg.) Menü","225,00 TL",Kiloluk Menüler (Pişirilmiş),5.0
+fc919c15-05f9-46b8-bcb9-7e14090fec8b,"Hamsi (1,5 kg.) Menü","200,00 TL",Kiloluk Menüler (Pişirilmiş),5.0
+3b93f7af-c428-4d13-a7fd-087e565bb30c,"İstavrit (1,5 kg.) Menü","200,00 TL",Kiloluk Menüler (Pişirilmiş),5.0
+f0bc4da7-aae9-4563-a9f3-ee1a54de1449,"Izgara Levrek (1,5 kg.) Menü","230,00 TL",Kiloluk Menüler (Pişirilmiş),5.0
+fad1127a-83e3-4b42-82c9-bf1879df9736,"Kalkan Balığı (1,5 kg.) Menü","555,00 TL",Kiloluk Menüler (Pişirilmiş),5.0
+8529dd00-940b-44bc-b1b3-fd9c98f6903f,"Keserbaş (1,5 kg.) Menü","325,00 TL",Kiloluk Menüler (Pişirilmiş),5.0
+80136402-7b80-4a42-b2d8-bc6d29146283,"Mezgit (1,5 kg.) Menü","215,00 TL",Kiloluk Menüler (Pişirilmiş),5.0
+edb968fe-03ad-4107-a7d6-6f381125f551,"Trança (1,5 kg.) Menü","220,00 TL",Kiloluk Menüler (Pişirilmiş),5.0
+5e8ce777-f1e3-46eb-92f8-88012c399e52,Balık Cips Menü,"51,00 TL",Çocuk Menüleri,5.0
+76496e41-3de4-45b6-a87f-f1f5ed2f3f5d,Balık Hamburger Menü,"36,00 TL",Çocuk Menüleri,5.0
+87947110-e2d9-4ae6-b7ff-e7622487a6d3,Izgara Köfte Menü,"33,00 TL",Çocuk Menüleri,5.0
+d9115304-c6e5-4b55-bb39-e1f80150901b,Fener Kavurma (2 Kişilik),"90,00 TL",Spesiyal Balıklar,5.0
+b16bd7a5-2ca3-43ac-aa83-ea9c9bc80507,Balık Çökertme,"65,00 TL",Spesiyal Balıklar,5.0
+f9211a95-06ac-4fe6-8556-f2f29e6a161a,Kaparili Levrek,"65,00 TL",Spesiyal Balıklar,5.0
+18ca5b9c-a9ee-4e29-995f-2833a4aea17c,Levrek Beğendi,"65,00 TL",Spesiyal Balıklar,5.0
+8ec7ff0f-ee5d-4eba-85dd-789ba7404f9a,Jumbo Karides,"22,00 TL",Spesiyal Balıklar,5.0
+a627f821-bd0a-4579-b131-15de43683fce,Jumbo Karides (4 Adet),"79,00 TL",Spesiyal Balıklar,5.0
+bfaf8a9f-cf6a-41cf-bce4-0c98aeed6c4b,Izgara Yılan Balığı (300 - 350 gr.),"65,00 TL",Spesiyal Balıklar,5.0
+0c7a7381-50b1-4510-92ca-23ab5546ee85,Karides Çorbası,"18,00 TL",Çorbalar,5.0
+18c4522d-20df-4b32-8caf-773244b617fe,İskorpit Çorbası,"18,00 TL",Çorbalar,5.0
+018b536e-004e-4d45-9bb9-14433f829013,Tereyağlı Humus,"20,00 TL",Ara Sıcaklar,5.0
+623ebc11-3b76-4e2e-88c9-82c30add9f3f,Baharatlı Keçi Peyniri,"30,00 TL",Ara Sıcaklar,5.0
+63fbebec-78df-475e-b8e4-12db7f505530,Kaşarlı Humus,"21,00 TL",Ara Sıcaklar,5.0
+82066686-28ac-4b39-98f8-48c3bf4c4742,Pastırmalı Humus,"28,00 TL",Ara Sıcaklar,5.0
+b2311a94-a72e-4bb3-b88b-1c28a1cdd6f6,Közlenmiş Patlıcan,"15,00 TL",Ara Sıcaklar,5.0
+ecac1968-5774-4391-818e-75b0cfb11a10,Balık Simit,"26,00 TL",Ara Sıcaklar,5.0
+6be02b2c-e279-47f4-a8f2-fcdd8ece59ba,Cibes,"25,00 TL",Ara Sıcaklar,5.0
+392EBE30-C495-4B65-8BD0-58FF94A3F12A,Çıtır Midye,"23,00 TL",Ara Sıcaklar,5.0
+8C8FF235-CD85-4107-ACDE-B1136DAA8B5A,Deniz Kızı,"24,00 TL",Ara Sıcaklar,5.0
+0961f08c-45ef-4049-b8b6-a6965940072d,İstiridye Mantarı,"23,00 TL",Ara Sıcaklar,5.0
+f25fdaaf-e465-4f84-ad76-a13f8ad46475,Izgara Ahtapot,"58,00 TL",Ara Sıcaklar,5.0
+c6cbd4a5-d01e-4b70-934f-410b52985b46,Izgara Enginar Kalbi,"18,00 TL",Ara Sıcaklar,5.0
+14f86dca-981f-4ed4-b16a-55a623ad788c,Kalamar Şiş (4 Adet),"26,00 TL",Ara Sıcaklar,5.0
+3f484037-0ce2-4faa-b96a-86a4a2b95cc1,Kalamar Tava,"44,00 TL",Ara Sıcaklar,5.0
+39059c2b-b1cf-4c52-a85a-511a36fce867,Karides Tava,"59,00 TL",Ara Sıcaklar,5.0
+881320c3-0da3-45d2-a946-7b0d01cdf227,Köy Usulü Patates Kızartması,"14,00 TL",Ara Sıcaklar,5.0
+236A2659-F04E-40D3-BA90-3C894EFD0BA9,Lezzet Topu,"32,00 TL",Ara Sıcaklar,5.0
+0648CE22-F3C0-4D7C-BA49-CD9891A4C877,Lokum Kızartma (Deniz Mahsullü),"35,00 TL",Ara Sıcaklar,5.0
+9c6a03c2-8ab8-47f3-b656-679bacf1a16d,Parmak Patates Kızartması,"14,00 TL",Ara Sıcaklar,5.0
+2e129a3d-6f97-4730-80a9-17f7ce110112,Patates Kızartması,"14,00 TL",Ara Sıcaklar,5.0
+dfce7bf5-2de8-44b4-bdb6-661458713443,Rum Böreği,"23,00 TL",Ara Sıcaklar,5.0
+c4984115-fa1c-45a0-acd6-e49f88b289e9,Saganaki Peyniri,"28,00 TL",Ara Sıcaklar,5.0
+58dcc1c0-230e-4658-b2b9-064f28f01592,Şevket-i Bostan,"36,00 TL",Ara Sıcaklar,5.0
+31f70f53-8cdf-456e-ab23-c86041d3ca1b,Yengeç Dolma,"26,00 TL",Ara Sıcaklar,5.0
+1a628fb2-a3d7-42f1-b9bb-5c0fffdfba3d,Ahtapot Salatası,"48,00 TL",Mezeler,5.0
+b2d83bfd-c620-46ef-993d-99dce81eb7f1,Atom,"12,00 TL",Mezeler,5.0
+a60fdad2-fb7c-48fb-bf0d-ccec955a4d94,Avokado,"22,00 TL",Mezeler,5.0
+aacf4a16-cc5d-4005-b457-41c0e8d6b294,Babagannuş,"11,00 TL",Mezeler,5.0
+1f6ec557-f150-4043-b384-88ef44419380,Barbunya Pilaki,"11,00 TL",Mezeler,5.0
+28e098c7-7905-45d4-88fc-b5c2471906a3,Brokoli,"12,00 TL",Mezeler,5.0
+16582be7-c1a6-4bf8-addd-a3a4404dfc9d,Cacık,"13,00 TL",Mezeler,5.0
+97bbfa79-d9b4-4e8c-bc13-ee61da02d18f,Çanak Enginar,"16,00 TL",Mezeler,10.0
+e2a6e8ae-b050-430a-b3b7-fc59003d699f,Çingene Mezesi,"15,00 TL",Mezeler,5.0
+3843ef39-02ff-4980-84d2-e73d35c48ffe,Deniz Börülcesi,"16,00 TL",Mezeler,5.0
+458894ca-8bbf-435a-9080-9d829ac0dd97,Ege Karma,"16,00 TL",Mezeler,5.0
+b2ae6410-faf9-4465-babe-90182251d659,Ege Usulü Haydari,"13,00 TL",Mezeler,5.0
+82886cbd-7bde-4f25-bbb5-d047808b64e4,Enginar Kalbi,"16,00 TL",Mezeler,5.0
+5eacbc1d-2f00-4269-bcea-c9a12c2193c0,Ezine Peyniri,"9,00 TL",Mezeler,5.0
+a8433503-9e18-47e5-a93c-a7022907ca0d,Fava,"13,00 TL",Mezeler,5.0
+42a4871a-e368-4ad9-8f8e-319e265aac3c,Ispanak,"12,00 TL",Mezeler,5.0
+5d69640f-f7af-4ca6-a7cd-61d6ced78c3b,Karışık Turşu,"8,00 TL",Mezeler,5.0
+010e4303-44a0-4a6c-9347-7d8d987ba4a5,Kaya Koruğu Salatası,"11,00 TL",Mezeler,5.0
+cc54fd52-70fe-4055-8048-02ec789df8a5,Köpoğlu,"13,00 TL",Mezeler,5.0
+4de2dbb7-d66b-4998-8f19-21a7d39c91cd,Közlenmiş Biber,"12,00 TL",Mezeler,5.0
+285c14c5-9836-40b4-9832-ecfca82231e3,Kurutulmuş Domates,"13,00 TL",Mezeler,5.0
+4744e8e2-7f11-487e-bdd7-bd873c0886f6,Lakerda,"26,00 TL",Mezeler,5.0
+b48257c8-3a5f-4a75-9d74-cf0c459ea38a,Levrek Marine,"33,00 TL",Mezeler,5.0
+6c0dd2ff-1300-4067-9827-18dc2367d806,Midye Dolma (5 Adet),"15,00 TL",Mezeler,5.0
+845c5c79-593e-48c2-8b85-8020be22f2c5,Muhammara,"12,00 TL",Mezeler,5.0
+8fbac952-706e-4a65-8a58-2b69767fe309,Pancar Turşusu,"11,00 TL",Mezeler,5.0
+2c6c81b9-cbe3-4b5f-8a74-0e4fc65cab44,Patlıcanlı Yoğurt,"14,00 TL",Mezeler,5.0
+b46f1919-2925-45a3-8c97-e5b23888d9c1,Semizotu Salatası,"12,00 TL",Mezeler,5.0
+97D59DBE-340F-49E0-A153-E7B1475A3A30,Soğuk Humus,"11,00 TL",Mezeler,5.0
+ceeaf11a-0dcc-456b-9a7e-51af68bd77fb,Süzme Peyniri,"10,00 TL",Mezeler,5.0
+9747800a-a17e-4b65-9a2b-dda2308641ad,Tahinli Tarator,"11,00 TL",Mezeler,5.0
+63bb7419-563b-4410-b2e4-da73996dca58,Tulum Peyniri,"11,00 TL",Mezeler,5.0
+0ad7abe3-d824-43c4-b31e-a82eca1ad369,Yeşilzeytin,"8,00 TL",Mezeler,5.0
+cc2f34b3-6810-403a-9c2a-1e66dea88f95,Roka Salatası,"7,00 TL",Salatalar,5.0
+c7e76f01-252e-423b-b6ac-ce9d89dfbb5c,Çoban Salata,"7,00 TL",Salatalar,5.0
+e351f76f-c429-4507-94ba-95d65455171a,Gavurdağı Salata,"12,00 TL",Salatalar,5.0
+b01ebdd5-4057-493a-a7de-eba5e9353211,İstanbul Salata,"7,00 TL",Salatalar,5.0
+bb9fc58a-9982-46b7-8f11-42f078529544,Mevsim Salatası,"7,00 TL",Salatalar,5.0
+fc720c58-a3b7-4560-b18c-4f03c31e30ac,Duble Roka Salatası,"13,00 TL",Salatalar,5.0
+244aab73-b567-4c66-a7fe-1d151dc01d44,Duble Çoban Salata,"13,00 TL",Salatalar,5.0
+eef3cef7-6014-46c9-94d2-599040deee3c,Duble Gavurdağ Salata,"21,00 TL",Salatalar,5.0
+9557a67f-b1c0-459e-a647-a105b0b5d762,Duble İstanbul Salata,"13,00 TL",Salatalar,5.0
+2e7ea195-86b3-4fcd-bd80-c3ff62c31568,Duble Mevsim Salatası,"13,00 TL",Salatalar,5.0
+ee6ffd8c-6484-4bb0-9872-15364d3ab17f,İrmik Tatlısı,"8,00 TL",Tatlılar,5.0
+BDD34736-DB60-46AB-A4BB-C7A8D9A4ED4F,Dondurmalı İrmik Tatlısı,"12,00 TL",Tatlılar,5.0
+e6741828-2f73-4545-beea-c70a898d3d65,Haşhaş Tatlısı,"9,00 TL",Tatlılar,5.0
+d615093d-172f-4ff9-a9e5-a6c4290c8e48,Kazandibi,"8,00 TL",Tatlılar,5.0
+51ba5e5b-1a16-4049-b3eb-0e6c6ebaa60f,Künefe,"16,00 TL",Tatlılar,5.0
+7196e290-a4de-4540-ae0d-ffaf76a63f22,Bal & Badem Tatlısı,"25,00 TL",Tatlılar,5.0
+e97a2373-12e3-4445-8de2-43f54ea511d2,Ayva Tatlısı,"14,00 TL",Tatlılar,5.0
+95fb6af7-5d3f-4214-9819-05ea6a63aeef,Kabak Tatlısı,"14,00 TL",Tatlılar,5.0
+7948d4df-79fa-4fff-8062-7a47f71f14d2,Sıcak Tahin,"15,00 TL",Tatlılar,5.0
+b72580d3-cf8e-4dde-9b14-e2865f8eef5a,Çikolatalı Sufle,"25,00 TL",Tatlılar,5.0
+a83721ed-80ae-49a0-bdbf-a33e69420c55,Red Bull (25 cl.),"12,00 TL",İçecekler,5.0
+9334a19b-6770-48f0-8f28-78e9b0e8a07c,Portakal Suyu,"10,00 TL",İçecekler,5.0
+f8fdb924-d62b-4d20-99bd-c5fbda603839,Barbun (1 kg.),"120,00 TL",Kiloluk Balıklar (Pişirilmiş),5.0
+4fae10eb-44ab-42aa-acb4-6e31ab5bf7a5,Bıldırcın Kefali (1 kg.),"75,00 TL",Kiloluk Balıklar (Pişirilmiş),5.0
+d15b3f70-a135-4fd1-86e8-8a8aa1101e40,Deniz Çipura (1 kg.),"110,00 TL",Kiloluk Balıklar (Pişirilmiş),5.0
+4d5b39fc-77e3-4a01-94ac-9f297956d6fb,Deniz Levreği (1 kg.),"140,00 TL",Kiloluk Balıklar (Pişirilmiş),5.0
+c1e110ce-814c-4b8f-a66c-7607f1aeefbe,Halili Balığı (1 kg.),"125,00 TL",Kiloluk Balıklar (Pişirilmiş),5.0
+6b6a0d3b-6c03-4035-a596-fa3a2df66b8d,Hamsi Tava (1 kg.),"60,00 TL",Kiloluk Balıklar (Pişirilmiş),5.0
+1c5b9317-24c3-472d-9626-38f4f5698f18,İstavrit (1 kg.),"70,00 TL",Kiloluk Balıklar (Pişirilmiş),5.0
+84100a07-9134-4bc2-bc4d-dbf480b1c640,Kalkan Balığı (1 kg.),"335,00 TL",Kiloluk Balıklar (Pişirilmiş),5.0
+7f122f4b-c3b3-4b9b-ab85-d995a1b65cce,Keserbaş (1 kg.),"160,00 TL",Kiloluk Balıklar (Pişirilmiş),5.0
+8b6f255d-dc05-4d44-8151-754fd6314bf5,Kılıç Balığı (1 kg.),"130,00 TL",Kiloluk Balıklar (Pişirilmiş),5.0
+acd32e55-fd17-4f43-9e0a-f1a3b75473eb,Mercan (1 kg.),"90,00 TL",Kiloluk Balıklar (Pişirilmiş),5.0
+fabe9724-2abd-4813-9050-869cdedc6187,Mezgit (1 kg.),"100,00 TL",Kiloluk Balıklar (Pişirilmiş),5.0
+1155bf5d-7161-4054-8ca2-beac098f1a7a,Trança (1 kg.),"125,00 TL",Kiloluk Balıklar (Pişirilmiş),5.0
+e454f826-3e3b-4fa7-bb1f-6edd150184e0,Turna Balığı (1 kg.),"115,00 TL",Kiloluk Balıklar (Pişirilmiş),5.0
+b6a4c7c0-beeb-461c-b564-2929c7412b20,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,48 @@
+food_id,food_name,food_price,food_category,food_score
+7ed07eec-8fcc-4a16-8335-9eb75e1b4c37,Menü 1,"20,00 TL",Menüler,16.0
+db4e356b-eacf-49a0-bf31-9557fb381e6f,Menü 2,"25,00 TL",Menüler,9.0
+b72a25c9-89d9-4f7b-a0db-aed1cb99e1ac,Menü 3,"27,00 TL",Menüler,6.0
+9126ccdb-0da8-4bc1-8a26-54ab8287765b,Menü 4,"33,00 TL",Menüler,5.0
+7F91E7BC-8C1A-49CD-8646-9D7A3CFF5FE2,10'lu Lahmacun Menü,"80,00 TL",Menüler,5.0
+ef28e0f5-ec1f-4b12-8a6d-4a379bc3aa3e,Yoğurtlu Et Tantuni,"22,00 TL",Et Tantuniler,8.0
+39c9595f-5578-4df1-b1af-d765892b3e0c,Et Tantuni Dürüm,"17,00 TL",Et Tantuniler,15.0
+90b1a8fe-37ce-4dfd-906e-c7a22f8c2269,Yarım Ekmek Arası Et Tantuni,"17,00 TL",Et Tantuniler,8.0
+29eb0e32-240d-43e4-8883-cb82463810bd,Çeyrek Ekmek Arası Et Tantuni,"9,00 TL",Et Tantuniler,8.0
+9b320e0b-9827-4101-93dc-456d2b027e61,Yoğurtlu Tavuk Tantuni,"16,00 TL",Tavuk Tantuniler,21.0
+1105b953-4196-4611-9766-b7843d6984a1,Tavuk Tantuni Dürüm,"11,00 TL",Tavuk Tantuniler,28.0
+041a1dd8-8c3a-4daa-b94e-b054f20e600d,Yarım Ekmek Arası Tavuk Tantuni,"11,00 TL",Tavuk Tantuniler,26.0
+79a59247-2e6a-4191-bc94-7d723f152eee,Çeyrek Ekmek Arası Tavuk Tantuni,"6,00 TL",Tavuk Tantuniler,21.0
+34ef0aa2-cbce-4ecd-bbfc-59ec06dcef85,Çiğ Köfte (8 Sıkım),"9,00 TL",Çiğ Köfteler,7.0
+45d6c8a8-696f-45e0-9954-8f7ca422b70a,Çiğ Köfte (16 Sıkım),"17,00 TL",Çiğ Köfteler,7.0
+6b491766-bdf7-4684-bfb2-df6f33ea2c25,Çiğ Köfte (24 Sıkım),"25,00 TL",Çiğ Köfteler,7.0
+c1c97242-15f6-4016-b759-a2205a42d13b,Çiğ Köfte (32 Sıkım),"34,00 TL",Çiğ Köfteler,7.0
+106307d2-7684-4392-b3f9-c70399c2ffa8,Çiğ Köfte (1 kg.),"60,00 TL",Çiğ Köfteler,7.0
+71df319a-75a0-49fb-8ef7-40c1d84b21c6,Çiğ Köfte Dürüm,"7,00 TL",Çiğ Köfteler,10.0
+1a5a9041-9bfd-450d-990c-0e07cb9c99ce,Duble Çiğ Köfte Dürüm,"9,00 TL",Çiğ Köfteler,10.0
+2CBB6BD5-D6BE-4CEB-90D2-6D581837BA8A,Acılı Antep Ezme,"8,00 TL",Yan Ürünler,5.0
+E53E2312-F1A9-43ED-81E3-9F585292560A,Çoban Salata,"10,00 TL",Yan Ürünler,5.0
+f0bd9110-fd48-41e0-86ee-760843042caf,Künefe,"15,00 TL",Tatlılar,5.0
+d3ed7173-7ab9-4a6c-aa45-7f6b4af22919,Sütlaç,"9,00 TL",Tatlılar,5.0
+e721a0e1-5497-48f3-8678-d4d5fcdb1d27,Supangle,"9,00 TL",Tatlılar,5.0
+a571a152-e423-4bc6-9edf-bde937d6df4c,Profiterol,"9,00 TL",Tatlılar,5.0
+8996dfef-e454-43be-baf6-e736de745f68,Kazandibi,"9,00 TL",Tatlılar,5.0
+b64eaa84-4a5b-4053-be4b-3edc7cd14a5c,Katmer Tatlısı,"18,00 TL",Tatlılar,7.0
+abc36306-1786-46b3-a48d-a800c4e03bef,Kıbrıs Tatlısı,"9,00 TL",Tatlılar,5.0
+3D2CA189-E863-4A15-929D-DD5E0F536D2B,Fıstıklı Kadayıf,"15,00 TL",Tatlılar,5.0
+5a73f8ad-82a9-4c15-a62a-4436a7421dda,Fıstıklı İrmik Helvası,"12,00 TL",Tatlılar,5.0
+DC53014E-A569-43D0-B883-087638B8F83F,Gül Katmer,"18,00 TL",Tatlılar,7.0
+9bbd78a9-cee5-4d81-aa0d-27c0bd4b1fdf,Algida Maraş Usulü Dilim Dondurma (82 ml.),"6,00 TL",Dondurmalar,5.0
+a486d742-5a58-4927-a6a3-93a434030f4d,Algida Maraş Usulü Cup Dondurma (100 ml.),"6,00 TL",Dondurmalar,5.0
+b4d1bb28-c1ce-4d35-a597-b6c939ea84b3,Algida Carte d'Or Mini Cup Çilekli Yoğurtlu (110 ml.),"7,00 TL",Dondurmalar,6.0
+92d42bb3-5977-4e7e-8394-11bb09c8ad51,Algida Carte d'Or Mini Cup Çikolata Karnavalı (110 ml.),"7,00 TL",Dondurmalar,5.0
+dc6f4b82-205d-40cd-994f-9cc1bde581bf,Carte d'Or Premium Kaymak Cup (100 ml.),"8,00 TL",Dondurmalar,5.0
+ecb37104-d30a-4bab-a225-73d4e692aaa7,Carte d'Or Premium Çikolata Cup (100 ml.),"8,00 TL",Dondurmalar,5.0
+4f9f18a9-0d8a-475c-a80b-ca1c0d7eb77b,Algida Maraş Usulü Dondurmalı Supangle,"13,00 TL",Dondurmalar,5.0
+49882c56-51d4-40f8-8dcb-4067476555d6,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"13,00 TL",Dondurmalar,5.0
+29e14b0b-5922-4f10-9239-68430c3ade33,Algida Maraş Dondurmalı Supangle,"14,00 TL",Dondurmalar,5.0
+732b5f93-3b8e-4b68-ac2c-c9bb57e8ea0b,Algida La Gelateria Kaymak - Çikolata - Karadut,"40,00 TL",Dondurmalar,5.0
+7e3fd247-3e69-480c-b414-a165594a7acd,Algida La Gelateria Kaymak - Çikolata - Fıstık,"40,00 TL",Dondurmalar,5.0
+d9c9cef3-442d-4413-8194-3428f69b38ee,Coca-Cola (1 L.),"9,00 TL",İçecekler,5.0
+e8749fab-477e-4f04-8a5d-9b101fd520b9,Coca-Cola (2.5 L.),"13,00 TL",İçecekler,5.0
+F7C94795-16B3-486F-B84B-42C2C8ED6E85,"Fanta (2,5 L.)","13,00 TL",İçecekler,5.0
+dd3b5559-3c76-40b1-b3b0-491bd23faeae,Poşet,"0,25 TL",Poşet,5.0

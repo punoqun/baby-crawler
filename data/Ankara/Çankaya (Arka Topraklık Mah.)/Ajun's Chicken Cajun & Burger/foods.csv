@@ -1,0 +1,55 @@
+food_id,food_name,food_price,food_category,food_score
+7BD8449F-BF13-4385-8CD3-0BC93C17A775,3'lü Cajun Ajun's Burger,"76,50 TL",Menüler,17.0
+DB6A2729-DCE5-4C89-B3B5-EA8FB5E4EE86,3'lü Dominik Burger Menü,"86,00 TL",Menüler,14.0
+B226129D-CAC0-444B-9137-85C57C398A11,2'li Dominik Burger Menü,"58,00 TL",Menüler,14.0
+C2BC9B49-4315-442B-A453-36FA04AAD41B,2'li Cajun Ajun's Burger,"51,00 TL",Menüler,17.0
+71F72FE0-4B7F-4E4C-8E9C-5520BF22EB7D,Dominik Burger Menü,"30,00 TL",Menüler,14.0
+2F965C85-0866-4849-961B-6F8506046972,Master Patates Dürüm Menü,"20,00 TL",Menüler,26.0
+134F24E0-5A55-49F1-85F9-46B4915D932D,Baguette Cajun Sandviç Menü,"23,00 TL",Menüler,16.0
+2E746D46-7AFF-4045-97B8-5D1473A7185D,Baguette Tuna Sandviç Menü,"24,00 TL",Menüler,9.0
+821F7EC6-DBCD-4DC3-B7E7-C211416D0F60,Baguette Russian Sandviç Menü,"22,00 TL",Menüler,9.0
+29C09637-7BD9-4F96-9927-0BEEB6B14548,Baguette İtalian Sandviç Menü,"22,00 TL",Menüler,9.0
+5744e6c9-dd34-43b1-89a0-abac94bd68bd,Yok Böyle Sosis Menü,"22,00 TL",Menüler,10.0
+7DB70C08-3BD9-4366-8202-22C5D9E234DC,Baguette Turkish Sandviç Menü,"20,00 TL",Menüler,9.0
+3C47D8C6-6D62-4C88-9030-06FEC8E51FE5,Cajun Tavuk Firarda Menü,"27,50 TL",Menüler,25.0
+6014CA57-7271-4FBB-A661-C373639608BC,Cajun Master Dürüm Menü,"23,00 TL",Menüler,18.0
+60cafa4f-7186-4976-ae2f-da03d0a570ce,Cajun Tavuk Firarda Large Menü,"45,00 TL",Menüler,25.0
+a47e996c-9cc4-4353-b9ac-e9f82b6420d0,Cajun Tavuk Firarda XLarge Menü,"65,00 TL",Menüler,25.0
+319de7e2-0f4b-49ab-9a25-cb5e47f4cba4,Cajun 3 Kafadar Sepet Large Menü,"55,00 TL",Menüler,20.0
+9a0a5138-e63b-4abf-a20c-d1552151115a,Cajun 3 Kafadar Sepet XLarge Menü,"80,00 TL",Menüler,20.0
+F611DDF0-E041-487C-B64C-B1A0F2AEC977,Altın Cajun Tavuk Firarda,"27,00 TL",Cajun Tavuklar,24.0
+C08E109D-9E71-4A76-9C27-833DFAEABD15,Susam Cajun Tavuk Firarda,"27,00 TL",Cajun Tavuklar,23.0
+B30273EC-30BC-4224-B394-B5223082BAF5,Köri Cajun Tavuk Firarda,"27,00 TL",Cajun Tavuklar,23.0
+00576F99-F82C-4189-916B-444B83DCBCDC,Parmesan Cajun Tavuk Firarda,"27,00 TL",Cajun Tavuklar,23.0
+61cb2dc2-7af8-4363-8925-af431d39ae83,Cajun 3 Kafadar Sepet,"30,00 TL",Cajun Tavuklar,23.0
+666f8912-472a-4bf3-a173-450c10eba991,Cajunju,"27,00 TL",Cajun Tavuklar,5.0
+0d0d4204-6ecd-46de-a305-28e07f6fff4e,Hot Cajun Tavuk Firarda,"25,00 TL",Cajun Tavuklar,25.0
+93b151ad-2641-44bf-9da5-d27638a3780d,Mushroom Dominik Burger,"30,00 TL",Burgerler,12.0
+A392C9BB-6079-417D-87FD-C80C9074DAA8,BBQ Dominik Burger,"28,00 TL",Burgerler,12.0
+74A41B3B-A3C4-4452-9B28-8BDD68F78F81,Mexican Dominik Burger,"28,00 TL",Burgerler,12.0
+4230FF67-7565-47A2-A0F0-E72B45C21A02,Cheese Dominik Burger,"29,00 TL",Burgerler,12.0
+74590801-1571-4AE9-BE09-65A040583391,Cheese Ajun's Burger,"26,00 TL",Burgerler,10.0
+582EB188-4546-4803-89A3-B0BCF919AD3E,Double Dominik Burger,"35,00 TL",Burgerler,12.0
+9E69DBF6-CF2A-46C3-92A2-0C3EBB0BF015,Triple Dominik Burger,"45,00 TL",Burgerler,12.0
+DDFE1800-7AF9-4653-88DF-632C11EF1DBE,Double Cheese Dominik Burger,"37,00 TL",Burgerler,12.0
+32e35629-cab6-4339-b1ed-cd6a39fdc5af,Dominik Burger,"27,00 TL",Burgerler,12.0
+2f8cdb2d-ae09-495d-bb03-3e535c3899c5,Hot Cajun Ajun's Burger,"25,00 TL",Burgerler,19.0
+24a4ce51-0558-4f7e-a08e-187b0355805b,Hot Dominik Burger,"28,00 TL",Burgerler,14.0
+50cf95cb-859a-4121-8516-6d26cbf74758,Hot Cajun Master Dürüm,"21,00 TL",Dürümler,18.0
+3c1ab317-d7ec-4039-9170-1ad274f0965f,Cajun Master Dürüm,"20,00 TL",Dürümler,16.0
+df9ba516-3e1a-4888-a245-ff7027f6da81,Tandır Ekmeği,"2,00 TL",Yan Ürünler,6.0
+c6474244-c680-47fd-b727-94dc84713efe,Cajun Baharatlı Mantar,"7,00 TL",Yan Ürünler,18.0
+c24f3d83-f7d2-4368-af7d-55970afb09b5,Soğan Halkası (6 Adet),"7,00 TL",Yan Ürünler,5.0
+c0129166-a9e5-4edb-b2e0-39da47e580a8,Baharatlı Patates Kızartması,"7,00 TL",Yan Ürünler,21.0
+DE711C9A-FD0F-4F38-8BB7-9D02976F04D0,Chief Of The Ajun Cheddar Soslu Kızartma,"10,00 TL",Yan Ürünler,7.0
+C13A75C2-5BCB-4EBF-B9A8-5BF4CDBF4EDB,Ajun's Affection,"20,00 TL",Yan Ürünler,5.0
+3b4e9257-b7f1-46bc-96dd-e894eb3bf96b,Eker Sakızlı Muhallebi,"4,00 TL",Tatlılar,5.0
+33caa4f2-20d6-40f4-befa-3bd654c21657,Eker Sütlaç,"4,00 TL",Tatlılar,5.0
+3f2f2169-1607-4908-b6a3-0ab051655b88,Eker Puding,"4,00 TL",Tatlılar,5.0
+394b4e01-88c0-41e2-95a7-95ad2fcd30fd,Eker Kazandibi,"4,00 TL",Tatlılar,5.0
+73E30837-35E1-407E-857F-E694A76B9177,Coca-Cola (2.5 L.),"11,00 TL",İçecekler,5.0
+1c5ba1af-3d3b-4cb2-974c-8bbed7147303,Ajun's Souce,"1,50 TL",Soslar,5.0
+6A58FD03-6DCA-4200-8A86-431833A48E76,Ajun's Cheddar Souce,"3,00 TL",Soslar,7.0
+CACDD3C4-38D5-49F9-8EF2-9019D33B66B3,Ajun's Cajun Baharatı,"4,00 TL",Soslar,12.0
+73DDDF8C-E066-472D-8287-4173B1BB399A,Ajun's Patates Baharatı,"4,00 TL",Soslar,21.0
+3473a0f3-0821-4a16-8559-fcdab4edef08,Poşet,"0,25 TL",Poşet,5.0

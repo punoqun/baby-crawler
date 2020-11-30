@@ -1,0 +1,39 @@
+food_id,food_name,food_price,food_category,food_score
+66AD88D9-2EE6-4807-839A-34A3702EA9C0,Kumru Sandviç Menü,"15,00 TL",Menüler,10.0
+0d9c0706-80b4-43f5-b803-c7326056623c,Doy Doy Menü,"24,90 TL",Menüler,9.0
+31efe166-98dc-4043-8b22-12a44f0c394c,Çocuk Menüsü,"19,90 TL",Menüler,5.0
+90392ac8-7ac2-4b7a-8478-93470fdf0dd4,Menü 1,"15,00 TL",Menüler,8.0
+7f17fbc1-bcf1-42f4-9765-75b334f498a0,Menü 2,"15,00 TL",Menüler,11.0
+1ab11160-9bb9-4aa3-900b-d62c993597e1,Çılgın Kasap Menü,"25,00 TL",Menüler,5.0
+40d8fd1f-853a-49cb-b578-c309a2de90cb,Enerji Menü,"29,00 TL",Menüler,5.0
+aef2e2ec-68e0-46c8-8ebe-6a182fa8e13b,Veggie Menü,"19,90 TL",Menüler,3.0
+12825ffc-000b-4b2a-9667-78f542b8dbeb,Sucuklu Tost,"10,00 TL",Tostlar,8.0
+aec1b83c-5fb6-425f-a793-2ec3dde58d4a,Kaşarlı Tost,"10,00 TL",Tostlar,9.0
+027d5aa2-8339-4574-b4b2-d05bf7283cac,Yumurtalı Tost,"10,00 TL",Tostlar,8.0
+fb25df47-0e43-4304-bb22-c1c6b763723b,Salamlı Tost,"10,00 TL",Tostlar,8.0
+91f9fe14-0502-460b-bd96-540d5f0eec2b,Night Special Tost,"17,00 TL",Tostlar,11.0
+c1f6e231-a4b1-4b26-8b2f-86a950b34b6b,Double Mix Tost,"15,00 TL",Tostlar,8.0
+608f2e77-5e83-4844-a752-1f791063bf52,Simit Tost,"13,00 TL",Tostlar,8.0
+7907762b-d5e5-4a01-bbc1-1463832e3fe0,Karışık Tost,"12,00 TL",Tostlar,11.0
+19a38e95-1168-4f3b-83fb-6481e30b515e,Pizza Tost,"15,00 TL",Tostlar,19.0
+fb4b71d4-3b5c-4274-be51-6dcabb12b507,Light Tost,"12,00 TL",Tostlar,8.0
+6525270e-e5dc-45db-bf34-c03584fdc4e9,Ton Balıklı Tost,"15,00 TL",Tostlar,8.0
+eb439f8d-6c8a-4467-95a4-39d0cc971e48,Hindi Fümeli Tost,"13,00 TL",Tostlar,8.0
+b8c9d26c-0257-489f-b5c4-68f51019c3cb,Protein Tost,"17,00 TL",Tostlar,8.0
+8aee779a-bff3-46a9-94e9-1d5839b7f4e3,Ekmek Arası Sucuk,"15,00 TL",Sandviçler,5.0
+ec6e81a2-8739-4110-833d-9dbb350488f1,Ekmek Arası Kasap Köfte,"15,00 TL",Sandviçler,5.0
+8001e32c-79fd-4a7a-be00-e54e1fe8ee57,Yengen Sandviç,"13,00 TL",Sandviçler,2.0
+1881358d-d7db-4426-8144-71907fc2f851,Hamburger,"20,00 TL",Burgerler,5.0
+d09880e6-5401-4d9a-a963-94d930365a5a,Tavuk Döner (100 gr.),"13,00 TL",Tavuk Dönerler,4.0
+f63d8b17-9b58-40a4-998f-db2d26624f1a,Kaşarlı Tavuk Döner Dürüm,"16,00 TL",Tavuk Dönerler,0.0
+f08e70f9-24c9-4379-b5a1-1411796d3fea,Night Special Tavuk Döner Dürüm,"17,00 TL",Tavuk Dönerler,2.0
+ce45a566-d843-4496-b1fd-a3b309f66b0b,Tavuk Döner (150 gr.),"18,00 TL",Tavuk Dönerler,-1.0
+f0456d57-3978-4453-bf6f-6990eaf2ef7c,Tavuklu Salata,"18,00 TL",Salatalar,5.0
+df7142a3-988b-4846-91e4-0eae4722471c,Ton Balıklı Salata,"20,00 TL",Salatalar,5.0
+e90099dc-051e-4518-9d77-d921f5285693,Peynirli Mevsim Salata,"15,00 TL",Salatalar,5.0
+e09bb6e1-1e4f-4caa-9aad-8cd6b810fdf1,Mevsim Salata,"10,00 TL",Salatalar,5.0
+f7cc917c-b4db-4aad-bf14-8d963cc9026c,Veggie Dürüm,"13,00 TL",Diğer Lezzetler,3.0
+4065f152-3352-4b92-8b54-5178f20b5253,Patates Kızartması,"8,00 TL",Yan Ürünler,3.0
+cc371621-6953-4a7a-88c5-23601e862b18,Soğan Halkası (8 Adet),"8,00 TL",Yan Ürünler,5.0
+70f4f253-e9ec-47f8-baf3-30e9cf4c5803,Açık Ayran (20 cl.),"3,00 TL",İçecekler,5.0
+f1dfe3e9-e820-4424-8ad5-079202d1d597,Poşet,"0,25 TL",Poşet,5.0

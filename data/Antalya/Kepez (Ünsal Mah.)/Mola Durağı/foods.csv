@@ -1,0 +1,32 @@
+food_id,food_name,food_price,food_category,food_score
+f0447c09-d2ae-40ec-8ffa-579d86842790,Waffle Menü,"27,00 TL",Menüler,1.0
+44ED62AF-B4C4-40B1-B4AB-7C164FCE4CAE,Menemen,"14,00 TL",Kahvaltılıklar,5.0
+3772be6c-9373-47b9-ad25-6b41f9067f68,Kaşarlı Tost,"12,00 TL",Tostlar,3.0
+d1fdb904-45f6-4d1b-9eac-901c3577ec6b,Sucuklu Tost,"12,00 TL",Tostlar,3.0
+52688374-399d-4984-b704-3386aa8fb941,Karışık Tost,"14,00 TL",Tostlar,4.0
+57aac91b-9ce3-4529-b0c9-f539f30953d1,Kaşarlı Bazlama Tost,"14,00 TL",Tostlar,3.0
+c48de854-3aeb-444a-aac8-094dbb66895d,Karışık Bazlama Tost,"16,00 TL",Tostlar,4.0
+db0a2d55-cbef-4a96-8099-9961ec4fa516,Köri Soslu Tavuk,"24,00 TL",Ana Yemekler,8.0
+f671fdb0-9392-4293-a8d3-f08b26e9ece1,Meksika Soslu Tavuk,"24,00 TL",Ana Yemekler,4.0
+b1df7fc2-d573-49d1-8d56-cf4c93329019,Sebzeli Tavuk Sote,"24,00 TL",Ana Yemekler,5.0
+0447d47f-1782-49d0-87ad-20eb0b19f129,Kremalı Mantarlı Tavuk,"24,00 TL",Ana Yemekler,12.0
+cb6051ed-f583-4bfd-a51f-8d13056ba63c,Tavuklu Wrap,"20,00 TL",Wraps,5.0
+01b5ee55-f367-4613-9687-32e415b5d6f1,Klasik Kumpir,"17,50 TL",Kumpirler,5.0
+2fb44d2e-4e5d-4230-81bb-93eb269530b5,Kremalı Mantarlı Tavuklu Penne,"18,00 TL",Makarnalar,17.0
+73b227bf-91a9-45f8-bbcc-d05e9de12834,Penne Arrabbiata,"18,00 TL",Makarnalar,5.0
+5DC148F0-7428-4AB7-A8C5-BD6E5277C3ED,Spaghetti,"22,00 TL",Makarnalar,5.0
+4A0DB722-102C-4150-8101-E60EF429B6FF,Karışık Pizza,"22,00 TL",Pizzalar,6.0
+fe03ed0f-0394-494a-a770-91b2528cfeab,Peynirli Pizza,"20,00 TL",Pizzalar,5.0
+6b6e5c67-8b5c-45ac-bddf-cfdc6744ece1,Patates Kızartması,"12,00 TL",Yan Ürünler,4.0
+3cf40064-497c-4c76-ab09-80faa81d3479,Tavuklu Sezar Salata,"20,00 TL",Salatalar,5.0
+47e99993-7551-419a-8f27-a1931fd39de9,Ton Balıklı Salata,"22,00 TL",Salatalar,6.0
+2d35fced-8f4a-4c71-ad63-264d8596e99b,Salata,"15,00 TL",Salatalar,6.0
+f03cfff8-dc03-4405-85b4-92ce1b724c6c,Red Loves,"15,00 TL",Tatlılar,5.0
+6db81a51-88a3-4bba-bd20-7ea93222e55a,Ballı Cevizli Pasta,"15,00 TL",Tatlılar,5.0
+75fabcac-130a-4124-9cde-27b81f2c3148,Limonlu Cheesecake,"15,00 TL",Tatlılar,7.0
+076722c4-4ed1-4a78-911f-efd4538077f2,Sufle,"15,00 TL",Tatlılar,5.0
+8A0090EC-29E7-44CF-B812-C7525CBB7301,Fıstık Dalgası,"15,00 TL",Tatlılar,5.0
+B5D6B14B-FD41-4680-9624-FD4EDCCE1422,Tiramisu (Dilim),"15,00 TL",Tatlılar,5.0
+9edf9406-62b6-4f84-90d6-186b1c822fa0,Klasik Waffle,"22,00 TL",Waffles,6.0
+bf2cfc89-10c4-4a1d-894e-f86c8b6eb2fb,Çubuk Waffle,"15,00 TL",Waffles,3.0
+1eaa0516-f78c-481b-b611-5c7cceba4933,Poşet,"0,25 TL",Poşet,5.0

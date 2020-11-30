@@ -1,0 +1,42 @@
+food_id,food_name,food_price,food_category,food_score
+6ae7c03e-03d9-4c5e-9739-4720086b2e04,Benim Waffle'ım,"13,00 TL",Waffle,8.0
+ca97412b-cc17-4568-8942-2ca23ae4565e,Berries Waffle,"26,00 TL",Waffle,19.0
+48b67cb1-f074-4ec0-b595-b0887d6d6563,Chestnut Waffle,"26,00 TL",Waffle,17.0
+8087f529-541b-46b6-aa4b-bd19b39cfbd2,Chocolate Waffle,"28,00 TL",Waffle,17.0
+3bd275e1-b5b0-4450-9789-420161affc84,Çıtır Special Waffle,"31,00 TL",Waffle,21.0
+a89225fa-131c-47e1-82b9-dd7359b70539,Cuba Waffle,"25,00 TL",Waffle,17.0
+a03388bc-aa78-4dd3-9aac-92bc2b2a45b3,Dual Waffle,"22,00 TL",Waffle,22.0
+ba82feb8-d052-4c58-bc87-e9879321d3cc,Ecuador Waffle,"23,00 TL",Waffle,17.0
+158ebcc0-f9f5-4092-833b-121edefda17d,Energy Waffle,"28,00 TL",Waffle,17.0
+fbf559a1-7bf3-4ffe-b054-00beae17094e,Favourite Waffle,"26,00 TL",Waffle,22.0
+c7c29b7a-650f-48b2-a6b5-15cff94301d1,Fruit Mix Waffle,"28,00 TL",Waffle,17.0
+c6e9f27d-234e-4602-9204-6f63e37e2ccd,Happy Kids Waffle,"24,00 TL",Waffle,17.0
+4c3488b2-d1fa-4f43-9bab-97bb53a2c83a,Hedo Waffle,"28,00 TL",Waffle,17.0
+60cd789a-0fc8-4440-a132-d090de58a34b,Ice Dream Waffle,"23,00 TL",Waffle,17.0
+8d5dea39-5c35-4daf-bc6d-75f5fde3f5f8,İdeal Waffle,"22,00 TL",Waffle,17.0
+54a184ab-e4f5-4737-b6d4-a3845640976b,Marshmallow Waffle,"22,00 TL",Waffle,17.0
+a9bd7590-a4f4-4680-9956-0ed8d925b995,Oreo Waffle,"27,00 TL",Waffle,17.0
+d67cd9fc-6b86-42ac-b625-42b6b745e9db,Single Waffle,"22,00 TL",Waffle,17.0
+8c850af3-b8a7-4c87-8d50-6b6bcd429ecb,Snickers Waffle,"26,00 TL",Waffle,17.0
+dcaea331-847f-4b77-bf87-4f5723bce444,Sunny Waffle,"28,00 TL",Waffle,17.0
+4c0ce8eb-239e-4472-948d-1a8c76d86a88,Trivela Waffle,"34,00 TL",Waffle,17.0
+f708524c-d516-4747-941f-bf388eb3a6e3,Hedo Dondurma (1 Top),"4,00 TL",Dondurmalar,5.0
+b8d2880d-b1f7-4df3-adce-4b66824f8650,Hedo Dondurma (250 gr.),"15,00 TL",Dondurmalar,5.0
+bf0b42ec-7c9f-4215-b59e-45f5b55e7ed4,Kakaolu Dondurma (1 Top),"4,00 TL",Dondurmalar,5.0
+b4fb3335-65b3-4a35-88ac-b85357c81b91,Kakaolu Dondurma (250 gr.),"15,00 TL",Dondurmalar,5.0
+8bdb2840-ec6b-4332-858a-2f2fe02b0d17,Kavunlu Dondurma (1 Top),"4,00 TL",Dondurmalar,5.0
+0ed3c839-3f5c-46f9-b036-2d466dd7c652,Kavunlu Dondurma (250 gr.),"15,00 TL",Dondurmalar,5.0
+f0b4f0b4-cc57-4bea-8782-b28ead08a846,Oreolu Dondurma (1 Top),"4,00 TL",Dondurmalar,5.0
+5e04a881-fa11-45e0-9dfe-cbbfe0a94064,Oreolu Dondurma (250 gr.),"15,00 TL",Dondurmalar,5.0
+c070f7af-5ef6-425a-bb9c-4e5720c0cda6,Sade Dondurma (1 Top),"4,00 TL",Dondurmalar,5.0
+2fe638d2-d62f-4788-9c68-645a937e8eeb,Sade Dondurma (250 gr.),"15,00 TL",Dondurmalar,5.0
+9a97376f-eff2-4dbc-9f28-8bbe6ace619e,Nutellalı Meyve Salatası,"18,00 TL",Tatlılar,8.0
+5e223c82-0f6a-442c-b649-f2bce78a8d5c,Kestane Şekeri (150 gr.),"20,00 TL",Tatlılar,5.0
+d76a7976-69ae-4c3e-8a05-8d4c5b1bbf6f,Çilekli Süt,"10,00 TL",İçecekler,3.0
+0d58c342-f1c4-476f-928b-c6f8fe58d572,Muzlu Süt,"10,00 TL",İçecekler,5.0
+5b543eb4-6c1f-4e98-8147-0c9ef65b2e3e,Kakaolu Milkshake,"17,00 TL",Milkshakes,3.0
+6e66ee5c-0dc4-4fed-8cb1-64c15e9fbe26,Kavunlu Milkshake,"17,00 TL",Milkshakes,3.0
+1c1edb72-c8ec-4d24-8a38-6b23c6460d5c,Çilekli Milkshake,"17,00 TL",Milkshakes,1.0
+fcaf3c3f-6fac-4f35-8437-373ab2c799f0,Orman Meyveli Milkshake,"17,00 TL",Milkshakes,3.0
+c6611094-44a6-41b6-8b5c-d865951d57dc,Muzlu Milkshake,"17,00 TL",Milkshakes,3.0
+fe864c68-d51e-4fae-aebc-37690e303086,Poşet,"0,25 TL",Poşet,5.0

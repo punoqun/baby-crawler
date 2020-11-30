@@ -1,0 +1,30 @@
+food_id,food_name,food_price,food_category,food_score
+2a0b5a7a-3749-407c-968c-11d8dac939a1,Peynirli Sıkma,"3,00 TL",Kahvaltılıklar,10.0
+2a52f244-3654-45fb-b4a8-817ecc147318,Kaşarlı Sıkma,"3,00 TL",Kahvaltılıklar,10.0
+9e39ab27-d563-4c57-9e15-12b09196f4ff,Patatesli Sıkma,"3,00 TL",Kahvaltılıklar,10.0
+AED5A95C-7792-44F9-BEAE-6360745E9DFF,Serpme Kahvaltı (2 Kişilik),"33,75 TL",Kahvaltılıklar,7.0
+15D78528-EE98-4F1C-99B1-13AFEF15EA35,Parmak Patates Kızartması,"6,75 TL",Kahvaltılıklar,4.0
+011557BF-1FF9-4B00-A02E-32A104342B57,Menemen,"9,38 TL",Kahvaltılıklar,5.0
+777F846A-714D-4843-AF73-CB8CF837E954,Sucuklu Yumurta,"9,38 TL",Kahvaltılıklar,5.0
+A3747B5D-3D15-468F-8A33-A3CBEDF0793A,Sade Omlet,"7,50 TL",Kahvaltılıklar,5.0
+FD5431C4-0F87-4225-A8E2-FD5D94D44365,Yengen Tost,"9,38 TL",Tostlar,5.0
+6247F3BD-0B0C-46E3-AB37-59105175C2F2,Kaşar Peynirli Tost,"5,63 TL",Tostlar,5.0
+7F47684C-2CB1-4EA3-9982-CFA19022070A,Karışık Tost,"6,75 TL",Tostlar,5.0
+07482eeb-905b-4e65-8d63-1e6a8597c261,Peynirli Börek,"6,00 TL",Börekler,5.0
+62e2eb1d-5342-44b9-bbf7-12186d3adf80,Patatesli Börek,"6,00 TL",Börekler,5.0
+7c12a9d4-20ee-46ba-a7af-de76653346b9,Ispanaklı Börek,"6,00 TL",Börekler,5.0
+a5053fb1-95ca-47be-bcf9-5b800a8a92f4,Kaşarlı Börek,"6,00 TL",Börekler,5.0
+c3fef90d-8835-4ef2-aec1-d430cf62b464,Sucuklu Börek,"6,00 TL",Börekler,5.0
+BAE2D0E0-98FF-4961-8F2F-614B9DED6D10,Sigara Böreği (8 Adet),"7,50 TL",Börekler,5.0
+054c6c37-1cb8-4a10-aac2-2c598045d0b3,Ispanaklı Gözleme,"6,00 TL",Gözlemeler,5.0
+4633a7a9-0054-4850-9008-4581214f1927,Patatesli Gözleme,"6,00 TL",Gözlemeler,5.0
+7459786f-c8b7-4ccf-85d9-b017946073e4,Sucuklu Gözleme,"6,00 TL",Gözlemeler,5.0
+87fdaa37-0993-48ab-a694-3414cf555dca,Karışık Gözleme,"6,00 TL",Gözlemeler,5.0
+8d2d950b-5cea-437b-b5fb-2f13524be8e4,Peynirli Gözleme,"6,00 TL",Gözlemeler,5.0
+e432eb97-3b7d-4d9f-a7a8-ca5d810859cd,Kaşarlı Gözleme,"6,00 TL",Gözlemeler,5.0
+E7E2354E-927D-43E9-A73C-3BF2157E8796,Tavuk Pane,"14,63 TL",Izgaralar,5.0
+E13CEEC7-C624-49D6-9770-9739386598C0,Izgara Tavuk,"14,63 TL",Izgaralar,5.0
+BB3EEFC2-76AA-45DD-8FBA-6BE6248A9794,Kasap Köfte,"16,88 TL",Izgaralar,5.0
+5A55630D-7C5A-4990-99E5-BF8B07EBBC5E,Mantı,"14,63 TL",Diğer Lezzetler,4.0
+98E9CAC3-3A3B-4D29-892C-A8EE969095A9,Et Sac Tava,"20,63 TL",Diğer Lezzetler,5.0
+2256c41c-1c5e-4941-a970-10e5cfabf7b9,Poşet,"0,25 TL",Poşet,5.0

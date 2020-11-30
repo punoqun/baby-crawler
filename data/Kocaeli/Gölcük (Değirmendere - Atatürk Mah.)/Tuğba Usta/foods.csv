@@ -1,0 +1,30 @@
+food_id,food_name,food_price,food_category,food_score
+dcb36a7d-e3c7-43ae-a729-e9265320c8d3,Hamburger,"13,00 TL",Burgerler,11.0
+A3D58378-4E12-456E-8AD7-AEFC18AE2B27,Sucuk Burger,"13,00 TL",Burgerler,5.0
+DDA4BB7F-C3DC-4D2D-B44D-F3E4380E2614,Kokoburger,"16,00 TL",Burgerler,5.0
+9d0847f3-7dc4-4c80-aa61-933a93774db4,Yarım Ekmek Arası Et Kuzu Kokoreç,"20,00 TL",Et Kokoreçler,10.0
+8906e39c-d88c-4ae0-9a79-2eda5c54478b,3/4 Ekmek Arası Et Kuzu Kokoreç,"30,00 TL",Et Kokoreçler,5.0
+2faa546a-7981-41ee-8d52-abc38b7b30ef,Tam Ekmek Arası Et Kuzu Kokoreç,"40,00 TL",Et Kokoreçler,5.0
+A2F33CEF-9946-4D75-ACE4-5C044C0B7554,İzmir Usulü Yarım Ekmek Arası Kokoreç,"22,00 TL",Et Kokoreçler,5.0
+25C4EF66-95BB-4B37-8A07-B6D55D55E33D,İzmir usulü 3/4 Ekmek Arası Kokoreç,"33,00 TL",Et Kokoreçler,5.0
+5F8996A1-A226-4B48-97D9-76F08B582D50,İzmir Usulü Tam Ekmek Arası Kokoreç,"44,00 TL",Et Kokoreçler,5.0
+FE29C7AC-08BE-4C2C-9700-C3C130FF6B2C,Yarım Ekmek Arası Usta Atom Kokoreç,"27,00 TL",Et Kokoreçler,5.0
+7C1DCADD-A966-4FB2-AB0A-71C69BFD8FD5,Yarım Ekmek Arası Sade Kokoreç,"22,00 TL",Et Kokoreçler,5.0
+F49A039D-B790-4A59-AB8E-399D27DCFCDF,3/4 Ekmek Arası Sade Kokoreç,"33,00 TL",Et Kokoreçler,5.0
+426A61BD-32F5-4EEB-8092-4922B8FF6329,Tam Ekmek Arası Sade Kokoreç,"44,00 TL",Et Kokoreçler,5.0
+4c56a4fe-91bb-4cda-aa14-54ea0441f17d,Yarım Ekmek Arası Izgara Köfte,"15,00 TL",Ekmek Arası Ürünler,9.0
+C63667E2-5BCA-4E65-B6A2-DFB82DB679A4,Yarım Ekmek Arası Izgara Köfte & Sucuk,"16,00 TL",Ekmek Arası Ürünler,4.0
+FCA69C0B-D40E-4B08-B165-3F30CE8ED9F0,3/4 Ekmek Arası Izgara Köfte & Sucuk,"24,00 TL",Ekmek Arası Ürünler,4.0
+FAFE640E-452A-4847-A5A9-27C2F3383C05,Tam Ekmek Arası Izgara Köfte & Sucuk,"32,00 TL",Ekmek Arası Ürünler,4.0
+1a98f535-f00e-4f0b-9904-5974eee05865,3/4 Ekmek Arası Izgara Köfte,"23,00 TL",Ekmek Arası Ürünler,4.0
+90f7ed17-f535-4dbd-af72-24b7354c2d70,Tam Ekmek Arası Izgara Köfte,"30,00 TL",Ekmek Arası Ürünler,4.0
+41ccff31-8da1-40cb-929a-06acaea212b9,Yarım Ekmek Arası Izgara Sucuk,"15,00 TL",Ekmek Arası Ürünler,5.0
+7f47a207-594b-4f47-8867-46f4e35345f3,3/4 Ekmek Arası Izgara Sucuk,"23,00 TL",Ekmek Arası Ürünler,5.0
+7ffd9c7d-cad7-4e74-8590-a4596caec4ba,Tam Ekmek Arası Izgara Sucuk,"30,00 TL",Ekmek Arası Ürünler,5.0
+b7cd85df-7953-41ed-99b2-5da6ec543d11,Izgara Kuzu Kokoreç,"45,00 TL",Izgaralar,5.0
+13fc6323-0246-44cc-9989-f6b5f26016d3,Izgara Köfte,"25,00 TL",Izgaralar,4.0
+ff85f7ce-5598-4f75-af5a-19b77a867305,Izgara Sucuk,"25,00 TL",Izgaralar,5.0
+07ca0377-67b1-4e1b-b0f5-dc631abdff4a,Uludağ Gazoz (33 cl.),"5,00 TL",İçecekler,5.0
+d1434a52-9b55-4773-90d4-3f48522f561e,Uludağ Gazoz Portakal (33 cl.),"5,00 TL",İçecekler,5.0
+76e11835-4df6-4905-a367-32713f562fc7,Elmalı Soda,"3,00 TL",İçecekler,5.0
+88bf1bef-297b-4185-a6cd-4e94270c492e,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,40 @@
+food_id,food_name,food_price,food_category,food_score
+286daeba-8e7d-4f37-a078-a7815c4baf1f,Kaşarlı Bazlama Tost Menü,"21,99 TL",Tost Menüleri,8.0
+e06a37b3-7c27-4504-93a4-98592f590e21,Karışık Bazlama Tost Menü,"23,99 TL",Tost Menüleri,11.0
+b053f37f-1686-4180-be95-22963fc6a95b,Tavuklu Bazlama Tost Menü,"24,99 TL",Tost Menüleri,13.0
+9f1f7dd1-76a9-4ff0-bb92-a837fd2617e5,Ayvalık Tost Menü,"24,99 TL",Tost Menüleri,15.0
+0D0BF521-E23C-4B3E-8E54-065B3CB5D31F,Karışık Sandviç Tost Menü,"22,00 TL",Tost Menüleri,11.0
+7536D0B9-817C-47C2-8A66-BA741B2FBACA,Kaşarlı Sandviç Tost Menü,"20,99 TL",Tost Menüleri,8.0
+4b7df762-2b5c-4648-9b28-919c8ecf0136,2'li Ayvalık Tostu Menü,"45,00 TL",Tost Menüleri,15.0
+4e18cac7-17fc-4de1-a274-e1533ff19045,Kumru Sandviç Menü,"24,99 TL",Sandviç Menüleri,14.0
+7c180367-c667-4598-a70e-66224f00d691,Köfte Sandviç Menü,"24,99 TL",Sandviç Menüleri,9.0
+443074c4-32cc-4ad5-b586-37615076eaa2,Fajita Tavuk Sandviç Menü,"24,99 TL",Sandviç Menüleri,15.0
+37ada60b-30b0-4a63-9335-ad14459ed126,Köfteli Wrap Menü,"26,99 TL",Dürüm Menüleri,9.0
+b4318116-7db4-4cf6-a3bb-6a0314610aff,Hamburger Menü,"27,99 TL",Burger Menüleri,8.0
+9d8db24f-f84d-456b-b28b-e50f64aefd11,Cheeseburger Menü,"28,99 TL",Burger Menüleri,8.0
+f519d29d-a2da-410f-814f-66bb0faed9ec,2'li Hamburger Menü,"49,99 TL",Burger Menüleri,8.0
+D65B3BFB-AFF6-49A9-A017-41389FF683D3,Tavuk Burger Menü,"22,99 TL",Burger Menüleri,13.0
+5eaa4698-c8de-476d-93d7-522f3c32077e,Acılı Domates Soslu Kalem Makarna Menü,"25,00 TL",Makarna Menüleri,12.0
+ba16c1e4-4620-4011-8f02-a154f4ddb6c6,Klasik Kahvaltı,"21,99 TL",Kahvaltılıklar,17.0
+d268c1cd-5adf-4722-99d1-5ce27c65c321,Köy Kahvaltısı,"26,99 TL",Kahvaltılıklar,14.0
+447f0c9a-a6a2-4e93-938d-2e359e7037ce,Peynir Tabağı,"17,00 TL",Kahvaltılıklar,3.0
+51d6d7c0-699f-4fd7-be79-eff8e5a87e03,Simitçinin Kahvaltısı,"50,00 TL",Kahvaltılıklar,7.0
+8f3ea53a-7c2e-416a-9c56-73ff328fcab2,Simitçinin Atıştırmalık Sepeti,"20,00 TL",Yan Ürünler,5.0
+7d4c62d7-5290-4580-aae9-34d3ee8ff7c0,Patates Sepeti,"15,00 TL",Yan Ürünler,5.0
+d0702fac-d433-4301-87a3-777ce89f3af8,Soğan Halkası Sepeti,"17,00 TL",Yan Ürünler,5.0
+76E2F047-00D8-4EFB-85A8-D538BD0DFE44,Oreolu Pasta (5 - 6 Kişilik),"50,00 TL",Pastalar (5 - 6 Kişilik),8.0
+B571CDBB-64A2-4DD9-B95A-921E6CD7BBAB,Çikolatalı Pasta (5 - 6 Kişilik),"50,00 TL",Pastalar (5 - 6 Kişilik),8.0
+31B376FB-4461-4294-B86C-D4E9248B1CEC,Fıstıklı Pasta (5 - 6 Kişilik),"50,00 TL",Pastalar (5 - 6 Kişilik),8.0
+F43834DF-23E8-4830-B5A8-B1EEA6E88153,Bella Vista Pasta (Dilim),"13,00 TL",Tatlılar,5.0
+3826C991-FD1E-4302-B0E9-19F20B2840A4,Latte Pasta (Dilim),"13,00 TL",Tatlılar,5.0
+E21A0FBC-2F5A-4008-92D6-8D80389F5542,Çikolatalı Profiterollü Pasta (Dilim),"13,00 TL",Tatlılar,5.0
+95242BA3-484E-4BD1-AC47-D49AAE62C2EA,Beyaz Çikolatalı Profiterollü Pasta (Dilim),"13,00 TL",Tatlılar,5.0
+a4124994-27ea-4582-85cc-207d5a78fc63,Algida Maraş Usulü Vanilyalı Dondurma (100 ml.),"5,99 TL",Dondurmalar,5.0
+ed46288f-b35d-4dd2-8edc-9fe8c86fcb40,Algida Maraş Usulü Vanilyalı & Kakaolu Dondurma (100 ml.),"5,99 TL",Dondurmalar,5.0
+777bdddb-32de-4a67-8085-f76e0a082962,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"11,99 TL",Dondurmalar,5.0
+d41617a6-48d8-4d2d-87cd-280b9dd7ac98,Algida Carte d'Or Volcano Cup (160 ml.),"11,99 TL",Dondurmalar,5.0
+41c7aa68-d4bc-45e2-b7a2-fe4105b9f12c,Algida Maraş Usulü Kesme Dilim Dondurma (82 ml.),"5,99 TL",Dondurmalar,5.0
+e1281ba5-3429-426b-b455-3516a6537148,Carte d'Or Mini Cup Dondurma,"5,99 TL",Dondurmalar,5.0
+DEABC53D-4DB9-42EE-BEB1-12F6921E2887,Özel Demleme Çay,"4,00 TL",İçecekler,7.0
+F1A99E34-9FB5-4901-A94F-7650DCD2EE6F,Red Bull (25 cl.),"10,00 TL",İçecekler,5.0
+8135fb45-b793-4981-b086-9c7b638f5b1f,Poşet,"0,25 TL",Poşet,5.0

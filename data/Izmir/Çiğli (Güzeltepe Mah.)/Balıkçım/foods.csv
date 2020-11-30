@@ -1,0 +1,67 @@
+food_id,food_name,food_price,food_category,food_score
+5ba54185-b985-4c32-a44f-043d5c157d1f,Levrek Fileto Menü,"97,50 TL",Menüler,9.0
+4c05f40b-ed95-486e-9615-55dd094a36d0,Izgara Çipura (350-400 gr.) Menü,"97,50 TL",Menüler,6.0
+786add77-e909-47da-95ed-60abf41624cd,Izgara Çipura Menü,"112,50 TL",Menüler,6.0
+a54ec84f-ba93-4fef-a264-ce0d68b0018b,Barbun Tava Menü,"97,50 TL",Menüler,7.0
+45882645-0215-40a0-8303-9ae2ad8a08c4,Levrek Menü 1,"112,50 TL",Menüler,-16.0
+22fd7fca-3d50-430d-a23a-10b227acda23,Menü 1,"112,50 TL",Menüler,-19.0
+c4dedd80-e388-413f-94a0-1434e8db9613,Menü 2,"112,50 TL",Menüler,-15.0
+872fd9c7-c831-4c4b-971b-5f3a9524c1f4,Menü 3,"67,50 TL",Menüler,-12.0
+b7970ae7-56c9-43ac-8f16-8bb192bfb6a1,Menü 4,"67,50 TL",Menüler,-11.0
+35f5ca6a-472b-4e93-af3a-ba277a368b2e,Menü 5,"112,50 TL",Menüler,-8.0
+42116213-2402-4a5c-a66c-dcd81e63f12e,Menü 6,"131,25 TL",Menüler,7.0
+8298b0ba-3d3f-4e0f-848e-61dc6e2cd378,Menü 7,"131,25 TL",Menüler,5.0
+2ba12108-44a5-430f-b510-49062fed3246,Menü 8,"149,25 TL",Menüler,-7.0
+989E5998-A47F-4796-A23E-3E795DD75422,Çipura Menü,"60,00 TL",Menüler,5.0
+DF2B3EC3-ACBE-40D5-864F-1888BBC2B031,Levrek Menü 2,"60,00 TL",Menüler,-11.0
+e5aaca3a-947a-4d55-a10c-b27ff1e958e2,Izgara Çipura (350-400 gr.),"41,25 TL",Izgara Balıklar,6.0
+ebe6e21d-8b10-4250-ac97-db7ab0fa34d7,Izgara Mezgit (350-400 gr.),"45,00 TL",Izgara Balıklar,6.0
+91ab9f71-ba16-48d7-9dd9-37d32dba50d7,Izgara Levrek (350-400 gr.),"41,25 TL",Izgara Balıklar,10.0
+5312cdcc-e197-4b84-b340-1325cbf92a1a,Hamsi Kuşu (Kılçıksız),"22,50 TL",Izgara Balıklar,6.0
+d29e747b-8a75-49f3-838d-2e959a47f6fd,Izgara Levrek (500 - 600 gr.),"52,50 TL",Izgara Balıklar,-3.0
+960c474a-a002-40bf-92ce-96c8c364f67c,Sardalya Tava,"26,25 TL",Tavada Balıklar,1.0
+8da7ca0e-1a2b-4408-aacf-6377c6d5ef16,Barbun Tava,"45,00 TL",Tavada Balıklar,7.0
+6569e38a-ad7b-4b7d-afb3-b823050f01b8,Midye Tava (4 Çubuk),"33,75 TL",Tavada Balıklar,-14.0
+fa5b4177-c778-4e49-a1d8-8feb478c8d17,Ekmek Arası Sardalya,"12,00 TL",Ekmek Arası Balıklar,-6.0
+fa984b7b-4dbf-43f6-88c6-53caa8752fe9,Ekmek Arası Hamsi,"12,00 TL",Ekmek Arası Balıklar,1.0
+c58823e3-fde5-4e68-81ab-a9ce147e5f47,Ekmek Arası Çipura,"22,50 TL",Ekmek Arası Balıklar,0.0
+0a5a7358-27af-4cce-a870-6431956cd88e,Ekmek Arası Kalamar,"22,50 TL",Ekmek Arası Balıklar,-2.0
+ca6e15b7-7612-4677-b92a-d9dee529e851,Ekmek Arası Karides,"22,50 TL",Ekmek Arası Balıklar,-2.0
+3B12E99B-1C2A-485A-8FE4-B4D32B3CF163,Ekmek Arası Barbun,"22,50 TL",Ekmek Arası Balıklar,0.0
+38479619-BE8C-4E57-9479-8A72938D33E2,Ekmek Arası Mezgit,"22,50 TL",Ekmek Arası Balıklar,0.0
+fa0faf39-00fc-4736-aae1-902172f94556,Yarım Ekmek Arası Tavuk İncik,"12,00 TL",Ekmek Arası Ürünler,-3.0
+8253ac01-491d-48de-ab0a-187a1da5387a,Yarım Ekmek Arası Sucuk,"18,75 TL",Ekmek Arası Ürünler,-2.0
+3fddfbc6-1283-4ff0-b754-75c1fc7966ef,Yarım Ekmek Arası Köfte,"15,00 TL",Ekmek Arası Ürünler,0.0
+0a25c17d-a7be-49b9-97a5-b0aa703396df,3/4 Ekmek Arası Köfte,"21,00 TL",Ekmek Arası Ürünler,2.0
+0CAA9F82-EB54-4B1D-9A4C-0ACE1180AA04,Ekmek Arası Balık Kokoreç,"24,00 TL",Ekmek Arası Ürünler,1.0
+6922241d-6308-441f-b71d-44f49e40877a,Karides (350-400 gr.) (Pişirilmiş),"48,75 TL",Diğer Lezzetler,3.0
+2f5e893e-29db-42d2-b64c-b0bd4cc6e300,Kalamar (350-400 gr.) (Pişirilmiş),"48,75 TL",Diğer Lezzetler,3.0
+6ec707d9-8bfb-4b32-91a0-9a461ca10ab5,Midye Dolma (500 gr.) (Sıcak),"18,75 TL",Diğer Lezzetler,-12.0
+BCD24B1D-B288-4FD1-8044-8E4C33C25334,Midye Dolma (1 kg.) (Sıcak),"37,50 TL",Diğer Lezzetler,-17.0
+9222a621-216b-4bab-90fe-5da79de9d038,Tavuk İncik (200 gr.),"24,00 TL",Diğer Lezzetler,4.0
+748fdf4d-27b1-4751-9aff-940dba5222f8,Tavuk İncik (100 gr.),"16,50 TL",Diğer Lezzetler,4.0
+95971596-b893-48b8-b9be-5796ff77574a,Izgara Köfte,"30,00 TL",Diğer Lezzetler,8.0
+a3c1a114-7a0a-4f3a-8624-c0ac318be08f,"Midye Dolma (1,5 kg.)","52,50 TL",Diğer Lezzetler,-17.0
+245243d1-d41a-4f19-9a62-12f341f6d310,Midye Dolma (2 kg.),"63,75 TL",Diğer Lezzetler,-18.0
+8fd5ca9f-1b68-48a1-a8d1-d4d5691bd4d2,Tulumba (500 gr.),"15,00 TL",Tatlılar,4.0
+5e342c14-06f6-4cd6-9dac-fca7a661a83c,Tulumba (1 kg.),"26,25 TL",Tatlılar,4.0
+D43EFD43-61B0-439F-B39B-20CA22D6ABED,Halka Tatlısı (Adet),"3,00 TL",Tatlılar,10.0
+191de3c6-3822-42de-bba9-3943756a7143,Atom,"9,00 TL",Mezeler,3.0
+4adb0ee7-991e-476d-a1d0-97affa0832c2,Fava,"9,00 TL",Mezeler,9.0
+f0e700b3-bf06-4409-8e37-a58e9e676300,Haydari,"9,00 TL",Mezeler,5.0
+2f44c388-2471-451f-8ecb-65fbe1680604,Köz Biber,"9,00 TL",Mezeler,5.0
+b229d456-8987-4405-b9c3-26dede260a5e,Pancar Turşusu,"9,00 TL",Mezeler,5.0
+7b93ff47-c2f3-41cf-842a-59bdfdb95ab8,Patlıcan Ezme,"9,00 TL",Mezeler,4.0
+da680cf8-d1bf-4354-8ae1-f7719acda5fd,Rus Salatası,"9,00 TL",Mezeler,5.0
+cdc04932-ad5d-41c6-a27d-a4d1179874b4,Şakşuka,"9,00 TL",Mezeler,4.0
+34B43EBB-AAA6-45AF-8809-90E18E461799,Izgara Levrek (1 kg.),"82,50 TL",Kiloluk Balıklar (Pişirilmiş),10.0
+159C8110-ACA0-4400-A3AB-D3B434A1B451,Izgara Çipura (1 kg.),"82,50 TL",Kiloluk Balıklar (Pişirilmiş),6.0
+E1E487E1-94A3-4D0E-856A-D81B7D1C6A24,Mezgit (1 kg.),"90,00 TL",Kiloluk Balıklar (Pişirilmiş),5.0
+F40BC17A-06E1-435B-9670-907516DE5155,Karadeniz Usulü Hamsi Tava (1 kg.),"52,50 TL",Kiloluk Balıklar (Pişirilmiş),8.0
+DAD0152F-2931-48B4-8CE6-5062996ABF0E,Karadeniz Usulü Sardalya Tava (1 kg.),"52,50 TL",Kiloluk Balıklar (Pişirilmiş),1.0
+802cb27f-c93a-408c-a0e8-04fbefcc3439,Sardalya Fileto (1 kg.),"48,75 TL",Kiloluk Balıklar (Pişirilmiş),-1.0
+f56cf632-17de-4b28-b62e-d11a5751f072,Hamsi Tava (1 kg.),"48,75 TL",Kiloluk Balıklar (Pişirilmiş),13.0
+f3d18f6f-1dea-41b2-b999-f0846d708b63,Izgara Çipura (500 - 600 gr.),"48,75 TL",Kiloluk Balıklar (Pişirilmiş),-6.0
+f086fc33-23b7-45e7-bd4f-62f50732ee97,Pepsi (25 cl.),"3,75 TL",İçecekler,3.0
+DEB29CE9-98A3-40F5-989E-122A4F4D68A0,Ev Yapımı Şalgam Suyu (5 L.),"22,50 TL",İçecekler,5.0
+e7e8d265-83fa-4c62-9d99-766f1f2eb7e1,Poşet,"0,25 TL",Poşet,5.0

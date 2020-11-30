@@ -1,0 +1,25 @@
+food_id,food_name,food_price,food_category,food_score
+c99d8afd-6c28-4a39-b0b3-dd79cfbe44c0,Adana Kebap,"22,00 TL",Kebaplar & Izgaralar,10.0
+7cb841a1-c35c-4830-89c9-1ca7ecf866d2,Urfa Kebap,"22,00 TL",Kebaplar & Izgaralar,4.0
+45c0808b-a202-4955-ab4e-242874c940e1,Izgara Köfte,"18,00 TL",Kebaplar & Izgaralar,9.0
+82feb299-8b52-4e0e-86e7-10b26385b488,Tavuk Şiş,"18,00 TL",Kebaplar & Izgaralar,7.0
+95e1e97a-b37b-49a0-91ad-6817e2576c3d,Lahmacun (2 Adet),"20,00 TL",Fırın Ürünleri,37.0
+19f76460-f4a7-449d-96df-efddb459aa86,Karyağdı Lahmacun (2 Adet),"24,00 TL",Fırın Ürünleri,34.0
+509bad9d-ebe7-4155-b216-0035debfd206,Kıymalı Pide,"17,00 TL",Fırın Ürünleri,37.0
+d368cbe8-edcf-424c-a983-193f79748bc3,Kaşarlı Pide,"19,00 TL",Fırın Ürünleri,15.0
+28f7120d-dd43-4595-990a-8d5014e0fc25,Kıymalı Kaşarlı Pide,"19,00 TL",Fırın Ürünleri,33.0
+53b5e102-d648-4ccb-b700-18be539c392d,Mantarlı Kaşarlı Pide,"20,00 TL",Fırın Ürünleri,15.0
+bf165f85-b3ae-49d7-8105-17184eff934d,Kuşbaşılı Pide,"22,00 TL",Fırın Ürünleri,16.0
+3b9a9e79-ef27-478f-a702-b499bae68ec5,Karışık Pide,"23,00 TL",Fırın Ürünleri,14.0
+b227047d-81a5-4b4b-bbff-b422da7ada86,Kuşbaşılı Kaşarlı Pide,"24,00 TL",Fırın Ürünleri,22.0
+d61132d2-1f73-4a49-9312-686cfe44a384,Sucuklu Kaşarlı Pide,"22,00 TL",Fırın Ürünleri,15.0
+a9ada4cb-777d-4ada-aec8-7551763b40e4,Kiremitte Tavuk,"22,00 TL",Kiremitte Ürünler,10.0
+82cc2be2-1449-461d-99f0-d6990e2c38fe,Kiremitte Köfte,"22,00 TL",Kiremitte Ürünler,12.0
+0e29813b-094f-4206-af06-10f8667b393c,Kiremitte Kuşbaşı,"24,00 TL",Kiremitte Ürünler,10.0
+7b93bd5c-7d2a-415d-af66-4d4ad1b1e2f7,Kiremitte Karışık,"26,00 TL",Kiremitte Ürünler,8.0
+31F17B4A-E291-4E13-9FBB-616DACFB547A,Adana Dürüm,"22,00 TL",Dürümler,13.0
+6744fd11-88b8-4a54-8b40-720c80383e96,Urfa Dürüm,"22,00 TL",Dürümler,7.0
+48c2399e-c2f5-4504-a50f-c7a7a3ecaf4c,Tavuk Şiş Dürüm,"18,00 TL",Dürümler,8.0
+7cf0a194-2f8d-436d-a9da-0f5b179576bf,Izgara Köfte Dürüm,"18,00 TL",Dürümler,10.0
+5e690157-69eb-428c-8895-559996148839,Su,"1,50 TL",İçecekler,6.0
+b27b4467-5b2a-4f95-92b1-b3ff9f490b70,Poşet,"0,25 TL",Poşet,5.0

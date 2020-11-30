@@ -1,0 +1,106 @@
+food_id,food_name,food_price,food_category,food_score
+2037dfbb-28b0-4dc1-8376-8cc73af51cf1,2'li Kendi Burgerini Kendin Yap Menü,"85,00 TL",Menüler,4.0
+654f999b-cd78-4f92-bbda-e5f71d4453e3,3'lü Kendi Burgerini Kendin Yap Menü,"125,00 TL",Menüler,4.0
+645FC72F-C325-40AA-B5B7-5BE5DCEB0149,Acılı Burger Menü,"47,00 TL",Menüler,9.0
+914FACFB-1349-4ABF-8B45-43B683515E6B,Adana Dürüm Menü,"37,90 TL",Menüler,3.0
+0fdd52c7-1149-4289-82e8-6ddc4120d201,Anadolu Burger Menü,"46,00 TL",Menüler,9.0
+68ec6215-8c81-4d70-87e3-368598237321,Asado Burger Menü,"49,90 TL",Menüler,9.0
+10DDF6C9-F5F8-4931-B2D0-AF22C3B528AC,Beğendili Burger Menü,"47,00 TL",Menüler,9.0
+3c8893ef-d533-42d7-bc61-4189303762de,Ekmek Arası Izgara Köfte Menü,"34,90 TL",Menüler,8.0
+bba39241-ad74-4876-b4fa-90bf821e286a,Ekmek Arası Izgara Sucuk Menü,"34,90 TL",Menüler,5.0
+7bb486c4-47c7-4dca-9288-ee5ecc5342c2,Hamburger Menü,"45,00 TL",Menüler,15.0
+9f9424ac-3cc1-4c7f-b745-a2f23ac4a989,Kaşarlı Köfte Menü,"48,00 TL",Menüler,6.0
+65cfda60-9004-4b0c-a596-2065589bfae9,Köfte Burger Menü,"45,00 TL",Menüler,9.0
+f6d92663-372b-4683-840e-52c79adf2ece,Meksika Burger Menü,"49,90 TL",Menüler,9.0
+07820928-acff-4e75-9ae0-6a2b68aa1a95,Sucuk Burger Menü,"39,90 TL",Menüler,11.0
+883c55a2-2625-4c2f-a664-1107143ead9b,Tavuk Burger Menü,"39,90 TL",Menüler,11.0
+794A6C3C-2E36-4F6E-8511-3245FC444E54,Urfa Dürüm Menü,"37,90 TL",Menüler,4.0
+107ee884-14a0-437a-939a-953e84dd6dc4,Yumurtalı Burger Menü,"47,00 TL",Menüler,9.0
+9e0b621c-2332-4b55-b8fc-3b387f9e9399,Dana Kaburga Çorbası,"21,00 TL",Çorbalar,5.0
+fb166e7b-a975-40e4-89a1-ab9eeaa442a6,Kuzu Kol Çorbası,"21,00 TL",Çorbalar,6.0
+0991acbc-9c80-44d0-9c21-65a4232e534b,Bonfileli Sebze Çorbası,"21,00 TL",Çorbalar,8.0
+e9e3fe4c-2b5e-43a1-b8ec-1ec613d8c470,Düğün Çorbası,"21,00 TL",Çorbalar,5.0
+96a40a1e-8923-4c53-980d-a9a18429342e,Beş Bıçak Spesiyal İstiridye Mantarı,"32,00 TL",Başlangıçlar,5.0
+9fe0554e-5fd4-4df8-9f88-1eaae07e30dd,Café de Paris Soslu Patates Kızartması,"22,00 TL",Başlangıçlar,49.0
+f43a181b-0973-4a41-9392-67c7842af1dd,Cheddar Peynirli Dana Füme,"36,00 TL",Başlangıçlar,4.0
+7c2a8878-a1f2-444d-a650-727728f4297b,Cheddar Soslu Patates Kızartması,"22,00 TL",Başlangıçlar,8.0
+b090625b-222d-4a2c-9c60-acd9ad4d20b3,Elma Dilim Patates Kızartması,"19,00 TL",Başlangıçlar,9.0
+11fe659f-cf69-4bb7-b1de-df8cd460d413,Fırınlanmış Baby Patates,"19,00 TL",Başlangıçlar,11.0
+9556f5c8-61ba-49f5-a36e-d78dcb2a8977,Güveçte Manda Yoğurt,"18,00 TL",Başlangıçlar,6.0
+745987b5-4037-483c-96ff-8450aa03b8fd,Izgara İstiridye Mantarı,"29,00 TL",Başlangıçlar,5.0
+37119148-1738-4e3c-ae7c-50e860beb2c1,Izgara Sebze Tabağı,"29,00 TL",Başlangıçlar,6.0
+c46734f1-601a-42a1-8e4b-18257cbd824e,Kremalı Patates Püresi,"19,00 TL",Başlangıçlar,9.0
+10533081-2e32-476e-a3a2-279021aca7d1,Kuşkonmaz Izgara (150 gr.),"32,00 TL",Başlangıçlar,5.0
+9d30d24c-78f0-4947-afbe-a6f194cf3f80,Soğan Halkası (10 Adet),"18,00 TL",Başlangıçlar,5.0
+60D10321-8AB5-4E6A-A2E6-1CBF4D7D2E8F,Adana Kebap (160 gr.),"46,00 TL",Kebaplar,4.0
+77840AFC-B370-4765-9FC2-05C98179ED8C,Urfa Kebap (160 gr.),"46,00 TL",Kebaplar,5.0
+b35b9105-cbf7-4090-a5d6-22d0d6c3c2df,Dallas Steak (550-600 gr.),"149,00 TL",Izgaralar,5.0
+7a7dc2cc-0958-4994-8407-22e42533cf26,Porterhouse Steak (550-600 gr.),"149,00 TL",Izgaralar,5.0
+1dc017be-1a37-40a9-ac62-a0283d526952,T-Bone Steak (450-480 gr.),"129,00 TL",Izgaralar,5.0
+3857472f-4268-4ffa-8d1d-4bbf6da2952d,New York Steak (300-330 gr.),"119,00 TL",Izgaralar,5.0
+4187022f-e392-4ade-ac30-0d738d613c57,Club Steak (380-410 gr.),"119,00 TL",Izgaralar,5.0
+f44feacc-f1b1-4ddb-92ab-718b5bd5dcfe,Dana Pirzola (450-480 gr.),"129,00 TL",Izgaralar,5.0
+067d3ed0-49b8-4782-8c6f-ae09d4527154,Beef Fajta (200-210 gr.),"97,00 TL",Izgaralar,5.0
+d173c026-31aa-4cdf-902d-dd820086d2d6,Beş Bıçak Spesiyal Bonfile,"98,00 TL",Izgaralar,9.0
+26c40365-4cb8-4b4d-abfd-c82bbf8ef000,Delmonica Steak (350-380 gr.),"136,00 TL",Izgaralar,5.0
+6e620b9d-c53b-4a22-9c96-85f898538b5a,Izgara Sucuk (160 gr.),"37,00 TL",Izgaralar,7.0
+8ad8e83a-0687-48df-a01a-356b0d009297,Kasap Köfte (200 gr.),"42,00 TL",Izgaralar,5.0
+36543507-ce30-40a0-90f6-3d3f527456b9,Kaşarlı Köfte (200 gr.),"45,00 TL",Izgaralar,7.0
+c0bd59b7-eaeb-46ff-9a6b-927df00b406f,Kuzu Biftek,"94,00 TL",Izgaralar,5.0
+feda8d03-f7dc-409e-96d8-ec8928c43d97,Kuzu Gerdan (2 Kişilik),"220,00 TL",Izgaralar,5.0
+0280b739-e6b3-404b-a6fa-d0e82555cf0f,Kuzu Leblebi (200-210 gr.),"82,00 TL",Izgaralar,5.0
+db1efd54-ac99-4426-823b-d826b3c79502,Kuzu Sırtı (50 gr.),"18,00 TL",Izgaralar,5.0
+7486a5bb-641e-42c4-8dac-f2fc78c4fb35,Lokum (50 gr.),"22,00 TL",Izgaralar,7.0
+0850c51f-739b-4bff-b53e-b52eed49c0d9,Mozzarella Peynirli Tavuk (220 gr.),"37,00 TL",Izgaralar,7.0
+95553fde-6ca7-4002-9c01-a34ebc493480,Mushroom Steak,"92,00 TL",Izgaralar,7.0
+276a178f-05d3-4134-9b90-d40ac06955b4,Pepper Steak (200 - 220 gr.),"92,00 TL",Izgaralar,6.0
+6a148f85-3302-440c-8e6c-3f4dd6d7eda8,Protein Bombası,"89,00 TL",Izgaralar,5.0
+5e6aaeb6-fd9f-42d6-be59-0d5c74576aab,Tek B&B Hellim Peynirli Sosis (80 gr.),"16,00 TL",Izgaralar,16.0
+d50e1166-199d-4461-a562-e5ee4cafbc62,Tek B&B Izgara Köfte (40 gr.),"11,00 TL",Izgaralar,16.0
+0a809dcb-ab38-4598-b2f2-10f99cecac13,Tek B&B Sucuk (40 gr.),"12,00 TL",Izgaralar,18.0
+846dcda1-f7d2-4968-8507-c052a8356f39,Tek Kalem Kuzu Pirzola (50 gr.),"22,00 TL",Izgaralar,16.0
+0114F15C-51C5-4C4C-AE6D-D0B230C482EF,Acılı Burger,"44,00 TL",Burgerler,10.0
+177becc5-b95a-4eb3-9475-f6534d03b948,Anadolu Burger,"43,00 TL",Burgerler,10.0
+4c1cb19a-d135-4deb-b0c6-ffdcf9623ba7,Asado Burger,"47,00 TL",Burgerler,10.0
+F4079558-75A9-48C6-9F7E-D01059B7300A,Beğendili Burger,"44,00 TL",Burgerler,10.0
+2c2a79ae-0578-4131-9fc1-629dd7eb668f,Füme Burger,"47,00 TL",Burgerler,10.0
+c06716ad-519b-4475-975b-7f3db324d5d6,Hamburger,"42,00 TL",Burgerler,16.0
+b2072355-3342-4ab7-963f-caa250e3d250,Meksika Burger,"47,00 TL",Burgerler,10.0
+d28919b2-3c95-40d5-a8f8-af9691f42728,Steak Burger,"47,00 TL",Burgerler,10.0
+70648dc3-c4c2-4526-a0bc-358b00013c02,Sucuk Burger,"37,00 TL",Burgerler,12.0
+20799ac1-1a14-4689-9a17-ef2c91121cf9,Tavuk Burger,"37,00 TL",Burgerler,12.0
+a43d9958-d154-4877-a560-84ead015120a,Yumurtalı Burger,"43,00 TL",Burgerler,10.0
+d87f3887-a127-4de3-ae99-dfaf24912de4,Mantar Soslu Fettuccine,"38,00 TL",Makarnalar,5.0
+1467b68a-d5a7-454a-a3d5-d1b224074191,Steak Fettuccine,"43,00 TL",Makarnalar,5.0
+7e12d665-f728-4080-b2e7-6c748bbc943e,Tavuklu Fettuccine,"39,00 TL",Makarnalar,5.0
+b291e466-5e28-4887-a45a-83929dfce68c,Spaghetti Bolognese,"38,00 TL",Makarnalar,6.0
+9a6f2c6c-e320-49cf-a702-32ef9334339c,Spaghetti Napolitan,"36,00 TL",Makarnalar,6.0
+da119c25-bd2b-4783-84e2-07ca6bea0e72,Kırmızı Soğanlı Domatesli Roka Salatası,"20,00 TL",Salatalar,5.0
+05375433-648D-472A-A815-29096FD41433,Zeytinli Zahter Salatası,"20,00 TL",Salatalar,5.0
+97cda509-362c-48d2-8ed1-fa413e1e29e9,Çoban Salata,"19,00 TL",Salatalar,5.0
+7b26a503-cc78-4f42-af80-a4ed4d5ec653,Piyaz Salatası,"19,00 TL",Salatalar,5.0
+16e46342-53d2-4a7c-b9e1-fa01d4d0e6e9,Gavurdağı Salata,"23,00 TL",Salatalar,5.0
+c3bf3e38-a833-4ad5-b3c0-9ea6267b2caf,Dana Fümeli Yeşil Salata,"39,00 TL",Salatalar,5.0
+214d7be4-33e6-4de0-9950-617c348e2bcb,Tavuklu Salata,"39,00 TL",Salatalar,5.0
+643b98ba-1515-4731-994e-8cc844071323,Beş Bıçak Köfteli Salata,"39,00 TL",Salatalar,5.0
+0f5f50ab-72d4-440c-b4ef-41704d17517d,Bonfile Salata,"45,00 TL",Salatalar,8.0
+4172f98a-dd86-42ed-95c9-5eacd742ab86,Beş Bıçak Salata,"19,00 TL",Salatalar,5.0
+b00b3b4e-1c50-49d7-9395-c768e9f410cd,Yunan Salatası,"20,00 TL",Salatalar,5.0
+c07eafd8-caa8-4a93-bbaf-020d588dfa0b,Antep Usulü Katmer Tatlısı,"39,00 TL",Tatlılar,5.0
+B12ABC4D-D59A-4B91-A92B-E6E1B6BEA37B,Çıtır Antep Katmeri,"32,00 TL",Tatlılar,5.0
+77cda598-d8bb-4169-8149-e1e1bcdededb,Muzlu Mag,"22,00 TL",Tatlılar,5.0
+6f42eef8-e559-423a-a4e2-1ce5355ecd5e,Çilekli Mag,"22,00 TL",Tatlılar,5.0
+4a5ec1da-df09-47ef-955c-9372c8ca35b1,Oreolu Mag,"22,00 TL",Tatlılar,5.0
+4db48823-8494-432b-b8c3-020eb269af67,Çikolatalı Suffle,"24,00 TL",Tatlılar,5.0
+20638bb8-0076-416e-bc16-d727d6db6415,Bal Kabaklı Mag,"22,00 TL",Tatlılar,5.0
+9bfa243e-83ba-4f70-8e9e-289f0550c63d,Schweppes Mandalina (25 cl.),"7,00 TL",İçecekler,5.0
+2170b682-2b1a-4d4e-992f-e5788c3cf49f,Uludağ Gazoz (25 cl.),"7,00 TL",İçecekler,5.0
+ccf25e14-7904-4e56-9abb-0d49f4562d37,Uludağ Premium Maden Suyu,"7,00 TL",İçecekler,5.0
+f2a8af36-9a6f-45b5-ad0f-337bc5675e04,San Pellegrino Doğal Mineralli Su (70 cl.),"26,00 TL",İçecekler,9.0
+d54884eb-fc0a-4f45-8c62-1af7011bd747,San Pellegrino Doğal Mineralli Su (25 cl.),"15,00 TL",İçecekler,9.0
+3de5599f-164c-4dd3-83a1-ac18f57951d1,Limonata,"7,00 TL",İçecekler,5.0
+98a35850-a708-4047-bd17-7f521784ee51,Taze Sıkma Portakal Suyu,"18,00 TL",Organik İçecekler,7.0
+57231c78-94b2-4e4a-9977-496cf28a3b7b,Taze Sıkma Havuç Suyu,"18,00 TL",Organik İçecekler,6.0
+d5aa0e66-621c-4557-904c-52ef8fa3c053,Taze Sıkma Elma Suyu,"18,00 TL",Organik İçecekler,7.0
+7d302d50-f1a9-4c75-a51d-757382659b8a,Taze Sıkma B&B Atom,"19,00 TL",Organik İçecekler,7.0
+107719c7-f97e-4615-a949-dba483daa298,Poşet,"0,25 TL",Poşet,5.0

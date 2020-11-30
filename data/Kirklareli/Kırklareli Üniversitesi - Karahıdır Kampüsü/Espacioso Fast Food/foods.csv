@@ -1,0 +1,54 @@
+food_id,food_name,food_price,food_category,food_score
+4273a00b-fd2b-4852-9fa4-d91272848240,Kumru Sandviç Menü,"19,95 TL",Menüler,6.0
+4b32246e-7307-4402-8662-379c16eae251,Çıtır Dürüm Menü,"17,95 TL",Menüler,2.0
+424244EC-1531-4F79-AF5B-BB7011BBAE4F,Misket Köfte Menü,"19,95 TL",Menüler,1.0
+ea35e99e-c727-41bd-a2ed-317d63386fdd,Yarım Ekmek Arası Izgara Köfte Menü,"21,95 TL",Menüler,-1.0
+5b6f245a-6fba-4b50-b4cf-7590de8db605,Yarım Ekmek Arası Tavuk Şnitzel Menü,"18,95 TL",Menüler,-1.0
+072e61b6-5c75-4e16-9658-fff230b196f8,Patso Sandviç Menü,"18,95 TL",Menüler,2.0
+ea2a8338-91e7-4dbb-9a73-a8af15383a27,Sosisli Patso Sandviç Menü,"19,95 TL",Menüler,4.0
+04d1b62a-1cf4-4c37-b082-fce8797f3e28,Karışık Tost Menü,"18,95 TL",Menüler,1.0
+8a57a406-5079-4dee-8204-8637731754bf,Hamburger Menü,"17,95 TL",Menüler,9.0
+670d050d-2f42-4b44-a706-a35467c071fc,Cheeseburger Menü,"17,95 TL",Menüler,3.0
+f6344012-c2d2-4974-88d6-7fc7680c8b02,Tavuk Burger Menü,"17,95 TL",Menüler,3.0
+779364ea-cab3-4f27-9b0c-dbfe85bbcb12,Sucuklu Tost,"8,00 TL",Tostlar,3.0
+89078c70-2569-4d14-8a46-890aa7f7867d,Kaşarlı Tost,"7,00 TL",Tostlar,3.0
+e44227a5-902f-49ab-b1ba-9384dc26cb9b,Karışık Tost,"9,00 TL",Tostlar,8.0
+66D34E24-0264-4ACF-A71F-67D9E1B39C20,Turşu Sever Tost,"10,00 TL",Tostlar,3.0
+D5BFBE25-471B-4629-BDB9-E1E8E73B1F2B,Yengen Tost,"10,00 TL",Tostlar,3.0
+4D71912C-A938-40CD-BEAD-610543D23B38,Bazlama Ekmeğine Karışık Tost,"13,00 TL",Tostlar,3.0
+43f7c3e6-30d5-4e8e-acc9-900b45d2045f,Sosisli Patso Sandviç,"9,00 TL",Sandviçler,11.0
+58899d22-2e10-46ec-9b9d-d6600c087d4b,Patso Sandviç,"8,50 TL",Sandviçler,4.0
+fc6ee87a-85a3-423a-b214-9c799f5040c3,Kumru Sandviç,"10,00 TL",Sandviçler,13.0
+13A0903D-4297-429A-AD4F-B42BD744B0C4,Kaşarlı Patso Sandviç,"9,00 TL",Sandviçler,4.0
+B70E3892-D499-4CC7-87C7-F9D464DC3BAF,Kaşarlı Sosisli Patso Sandviç,"11,00 TL",Sandviçler,6.0
+CDE85383-A972-4B69-A68C-E9EE05711647,Cheddar'lı Kumru Sandviç,"11,00 TL",Sandviçler,8.0
+3fca02ff-2b54-4a72-b716-302bb41b25a0,Cheeseburger,"9,00 TL",Burgerler,5.0
+9168700a-6a09-43b6-938b-025b9d9a6dae,Tavuk Burger,"8,00 TL",Burgerler,5.0
+b308a30c-853d-48f3-9606-cdb9052903a4,Hamburger,"8,50 TL",Burgerler,11.0
+ea6c106a-6776-4a20-b86a-56fe05838ed5,Big Burger,"15,00 TL",Burgerler,9.0
+217CA36C-8A80-4D26-A6D1-24C1AD856A7D,Espacioso Burger,"19,00 TL",Burgerler,7.0
+2d990cb0-bf5b-4766-af18-62a7a08a45c0,Yarım Ekmek Arası Tavuk Döner,"7,50 TL",Tavuk Dönerler,1.0
+af11facb-bfa1-4cee-9e84-98bf360c2f32,Yarım Ekmek Arası Tavuk Şnitzel,"9,00 TL",Ekmek Arası Ürünler,1.0
+e7c76b4f-15a9-4ba3-ba31-5c16c23565b0,Yarım Ekmek Arası Sucuk,"12,00 TL",Ekmek Arası Ürünler,3.0
+fc471e65-a87d-4d3e-b78e-76c84a7ad003,Yarım Ekmek Arası Kokoreç,"15,00 TL",Ekmek Arası Ürünler,9.0
+172af42e-d481-49f0-8810-d7d31f919fee,Yarım Ekmek Arası Izgara Köfte,"12,00 TL",Ekmek Arası Ürünler,1.0
+9662B3B4-3F20-45E6-A2DA-C497AA05BBA9,Yarım Ekmek Arası Misket Köfte,"10,00 TL",Ekmek Arası Ürünler,1.0
+43387cf2-af99-44d8-a5d6-3c6ecb776474,Patates Kızartması,"6,00 TL",Yan Ürünler,1.0
+5f4e4977-48ca-4872-bc2a-277a823cdc08,Soğan Halkası (6 Adet),"6,00 TL",Yan Ürünler,5.0
+32C8EBC6-761C-46C6-B12F-D63749C18DB0,Elma Dilim Patates Kızartması,"6,95 TL",Yan Ürünler,1.0
+59B857D3-A93B-4626-B508-9C0C9EDBA699,Sigara Böreği,"1,50 TL",Yan Ürünler,5.0
+5698FEA6-A3CF-4EF8-B0A2-0E81BFF4B695,Tavuk Nugget (4Adet),"4,95 TL",Yan Ürünler,3.0
+FAB4E1CB-377E-429D-88DF-409CF551662A,Kombo Atıştırmalık,"14,95 TL",Yan Ürünler,5.0
+8b50437e-666b-4c15-bd1e-66c330d52b02,Çıtır Dürüm,"8,50 TL",Diğer Lezzetler,4.0
+65F06DD3-5EF3-4B38-9827-7F6131C68D29,Sade Menemen,"9,00 TL",Diğer Lezzetler,5.0
+7B309996-855F-4DFD-A83E-82162218859D,Kaşarlı Menemen,"10,00 TL",Diğer Lezzetler,5.0
+B462B3DA-4C71-4750-A6FA-BA26F727D38B,Sucuklu Menemen,"10,00 TL",Diğer Lezzetler,5.0
+3D30993F-8768-415D-9CB0-D7227EF87B14,Lüks Menemen,"13,00 TL",Diğer Lezzetler,5.0
+CE5E96DE-BBCE-416A-98AB-DFCFAE913F1D,Çikolatalı Puding,"3,00 TL",Tatlılar,5.0
+BF71FF6B-9E50-4D83-AA50-3ADE4BD5C16A,Kazandibi,"3,00 TL",Tatlılar,5.0
+95B73BC2-374B-46CC-9840-096BDCA3CD8D,Sakızlı Muhallebi,"3,00 TL",Tatlılar,5.0
+d3c78563-02a1-4a24-b3bc-17818a8563af,Yedigün (20 cl.),"3,50 TL",İçecekler,5.0
+1b6489b3-748a-43c1-9161-3fabbe7190ca,Fruko (20 cl.),"3,50 TL",İçecekler,5.0
+7efe5122-5886-4e15-9eaa-59c6404c532f,Su,"2,00 TL",İçecekler,5.0
+d3a0a156-5cea-48ac-a01e-56a576f35ceb,Taze Sıkma Portakal Suyu,"9,00 TL",İçecekler,5.0
+5de5b558-1022-4c0b-927c-1c57bbc4720e,Poşet,"0,25 TL",Poşet,5.0

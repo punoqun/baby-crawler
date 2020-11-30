@@ -1,0 +1,222 @@
+food_id,food_name,food_price,food_category,food_score
+723203AB-6157-49D4-BC85-8D8D3DC92BD0,20. Yıl Özel Menüsü,"29,90 TL",20. Yıla Özel Menüler,9.0
+3d6c9919-66de-44e3-9b58-775c32bd06b2,İki Kafadar Menü,"56,90 TL",Buca Pizza Özel Menüleri,3.0
+30b53b35-e534-4d93-a3af-26786875b1c6,Patron Çıldırdı Menü,"79,90 TL",Buca Pizza Özel Menüleri,3.0
+385b299a-5a5f-4fec-b2ce-1bf3b43c07de,Eko Menü,"24,90 TL",Buca Pizza Özel Menüleri,3.0
+29000275-7839-49f4-a993-0720903bd655,6'da 6 Menü,"54,90 TL",Buca Pizza Özel Menüleri,0.0
+55f837c4-2acb-4950-a51c-5f198af87944,Doyuran Menü,"25,50 TL",Buca Pizza Özel Menüleri,3.0
+9fc88163-7eb2-4cff-973f-bb9fab3cd7a3,Ustalar Çıldırdı Menü,"59,90 TL",Buca Pizza Özel Menüleri,3.0
+d522b135-1504-4d4d-aa6b-e4121c5bcfa9,Her Boydan Menü,"95,50 TL",Buca Pizza Özel Menüleri,13.0
+83B42ABA-954F-4FA3-8C73-E54F8A934D23,Plus Menü,"54,90 TL",Menüler,3.0
+CA89482B-A8F9-420B-96EC-B2A434396160,5'i 1 Yerde Menü,"89,90 TL",Menüler,18.0
+48251927-A9A1-45F6-AB17-6B7DFC41F26D,Büyük Teklif Menü,"54,90 TL",Menüler,3.0
+17c45cc9-55d6-4e0a-8358-000464b75c77,Evde Kal Menü 1,"29,90 TL",Menüler,27.0
+4d28a700-ee4a-407b-991f-66a08a226267,Evde Kal Menü 2,"54,90 TL",Menüler,8.0
+6c17c79c-28f9-40d5-ae1a-4ada917e5c38,Dört 4'lük Menü,"69,90 TL",Menüler,3.0
+af3c0d12-f567-46b4-b087-85d5dd5c16a3,Kanka Menü,"36,50 TL",Menüler,3.0
+d1fb50c7-ec1e-4742-8016-2d540f7af026,Muhteşem Üçlü Menü,"49,90 TL",Menüler,3.0
+9f2a330d-b1a0-44c5-8d3f-df70fa4f9553,Çılgın Menü,"29,50 TL",Menüler,3.0
+2a91f52f-7aff-4c6d-bb0b-ba9eab489a33,Kıyak Menü,"69,90 TL",Menüler,11.0
+5b509273-0096-4457-8382-6f375b933d23,Dört Köşe Menü,"69,90 TL",Menüler,3.0
+75845ff0-1993-46ae-afe3-c67671b3c5c2,Efsane Menü,"39,90 TL",Menüler,3.0
+2d351904-faec-4bce-8abe-e845ebf779da,Üçüz Menü,"49,90 TL",Menüler,3.0
+0ead6f09-cb45-4106-bd3e-f1f2e6a765a1,2'li Büyük Pizza Menü,"64,90 TL",Menüler,-3.0
+5f15fe34-9c9f-4c9e-8655-f50d7335c6d3,2 Adet Jumbo Pizza Menü,"77,90 TL",Menüler,-2.0
+97da4635-551e-46d0-8db4-7f279642c9d8,4'lü Menü,"49,90 TL",Menüler,3.0
+9d024d96-713b-40e8-acff-eeaa857d5b36,Combo Menü,"20,00 TL",Menüler,3.0
+db44852b-aa38-4c58-ba2e-9aa4e8cb66c5,Duble Menü,"29,50 TL",Menüler,3.0
+ba38eb85-c9fc-48d6-90bc-11323828683d,2 Adet Duble Menü,"54,90 TL",Menüler,4.0
+d692a966-8384-4f36-a516-ab69261a47d5,Onion Menü,"22,00 TL",Menüler,3.0
+4a9a322b-146a-47e2-b6d5-44417eb289ed,Tam Parça Süper Menü,"26,00 TL",Menüler,9.0
+7539029c-62f9-4212-ae20-360bf20274ac,Dip Menü,"22,00 TL",Menüler,3.0
+31ea7830-958c-41b8-b7c9-84817beb0385,Chicken Menü,"25,00 TL",Menüler,3.0
+5b8ad8e7-4148-4235-8a38-91cb3a3f6481,Çocuk Menüsü,"22,00 TL",Menüler,5.0
+4eacd728-b68a-4a2b-98e9-4877a06e29dd,Ailem Menü,"42,90 TL",Menüler,3.0
+77607519-dc9c-4cbd-925d-5224f9a78d48,Gençlik Menüsü,"37,50 TL",Menüler,5.0
+95262245-1779-40e2-aec2-7a4a299aecac,İkiz Menü,"42,00 TL",Menüler,3.0
+e264e481-716e-4cd8-abce-882639036fdf,Ye-Doy Menü,"27,50 TL",Menüler,3.0
+f7059a95-9a15-41b7-b64b-ad31df255e5b,Süper İkili Menü,"44,90 TL",Menüler,14.0
+af08e0d1-32e5-4cc7-807d-05c19abdc011,2 Adet Karışık Pizza Menü,"43,90 TL",Menüler,-4.0
+5c6921eb-cd4e-4cc9-ab99-cc4e5d9ae1bb,Şahane 3'lü Menü,"54,90 TL",Menüler,3.0
+7285140b-d6af-4349-8bbe-ed1fd09d5383,Doydoy Menü,"29,00 TL",Menüler,8.0
+578d1aad-328b-4785-869e-2ca57940fb4b,Pepperoni Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (1 Kişilik),-2.0
+5a47979a-1e44-4132-a8ba-ed40a8cbfbda,Çak Bir Beşlik Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (1 Kişilik),10.0
+80eb444e-4cb8-4a96-be6b-585f1dd0b642,Karma Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (1 Kişilik),-1.0
+5d6fcbf2-0d62-4958-bab1-0eea3e14ca31,Mari Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (1 Kişilik),-1.0
+e2a0ddff-0c77-4ed3-852c-96bca117d7dd,Melon Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (1 Kişilik),-1.0
+4149a180-89ac-4c83-bc90-1bf4833ffe1f,Vejetaryen Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (1 Kişilik),-1.0
+3c61eb3e-89b8-4973-802e-48f037a0d17d,Margherita Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (1 Kişilik),-1.0
+0c3484a1-8dc9-41f4-8b74-1f69096b60a4,Meksika Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (1 Kişilik),-1.0
+860a51ce-a0a1-42f8-8f58-70d33fea3a80,Süper Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (1 Kişilik),5.0
+2b0a14bf-b6e9-40fd-93f8-4f918b830322,Chicken Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (1 Kişilik),-1.0
+a66da84e-4324-430f-8826-7d6b77792ec2,Light Special Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (1 Kişilik),-1.0
+e8a6b1db-42d3-400b-9da0-bd4c18deeab7,Special Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (1 Kişilik),-1.0
+accfd641-0933-43b3-86c1-dd39ac9096e8,Rita Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (1 Kişilik),-1.0
+b7237e1e-8518-4ff9-94f2-5090f34a61b9,Lüx Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (1 Kişilik),-1.0
+e258c4c4-b9ef-4148-bb31-3dd3155a2f09,Ton Balıklı Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (1 Kişilik),-2.0
+81ea3cc3-c29b-4b64-8c55-26cbc5b4596a,Luna Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (1 Kişilik),-1.0
+0010d36c-7f85-400a-bda3-a7e5e63cfd4f,Sucuklu Yumurtalı Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (1 Kişilik),-1.0
+faf7f7ce-a8fa-4554-979c-d9ac6de9e71d,Funghi Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (1 Kişilik),-1.0
+220f0dd6-6dec-4bf5-b41c-328f6ff602b4,Üçes Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (1 Kişilik),-1.0
+cc7a3d11-874c-4597-968e-5bf4e09a0759,Alaturka Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (1 Kişilik),1.0
+2c93a24d-9891-42b5-bc82-52ff11dbb828,Supersonic Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (1 Kişilik),-1.0
+24c3f1c9-4a29-468d-bf8c-29a25a3524a9,Şarküteri Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (1 Kişilik),-1.0
+c4724a9d-aa04-4aba-9ca8-76a34e1734c0,Egelim Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (1 Kişilik),-1.0
+23108f4d-e11d-4329-b167-ce9497080f73,Hasta İşi Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (1 Kişilik),-1.0
+ae4c9f5c-9b5e-49d4-bf4c-9cfb8322b580,Akdeniz Ateşi Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (1 Kişilik),-1.0
+7b69c4d0-4f16-441d-b2d3-905e9a3e21ad,Pepperoni Pizza (Orta),"42,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (1 + 1),-2.0
+71d0ae56-42c0-4f3c-a8d2-5ec0041b61c7,Mari Pizza (Orta),"42,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (1 + 1),-1.0
+82e31a60-bc3d-4b8a-b2d7-63b832ec14a2,Melon Pizza (Orta),"42,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (1 + 1),-1.0
+ef33122a-0106-47ba-aee3-b621ccd055fe,Vejetaryen Pizza (Orta),"42,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (1 + 1),-1.0
+8f4d7e67-0f15-4d08-853f-2a298b47e464,Margherita Pizza (Orta),"42,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (1 + 1),-1.0
+00e853af-b400-4f86-a17e-b462416a3984,Meksika Pizza (Orta),"42,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (1 + 1),-1.0
+4f5eff80-f7cf-4fd1-8ab3-5a7e28db72df,Süper Pizza (Orta),"42,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (1 + 1),5.0
+127d8344-4fd9-488a-b707-f40cf60a6efa,Chicken Pizza (Orta),"42,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (1 + 1),-1.0
+011d54b3-3a27-43ca-9193-ec4f8d25cb67,Light Special Pizza (Orta),"42,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (1 + 1),-1.0
+19815c0a-a6d3-41eb-861a-df18ebc10462,Special Pizza (Orta),"42,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (1 + 1),-1.0
+48ae6657-412f-4554-b0b6-073777643422,Rita Pizza (Orta),"42,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (1 + 1),-1.0
+2cf7918b-f915-4872-8008-f559215d3ecf,Lüx Pizza (Orta),"42,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (1 + 1),-1.0
+6c3b5bee-8260-47a2-81c3-e3fa668fb7c1,Ton Balıklı Pizza (Orta),"42,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (1 + 1),-2.0
+eed37a59-743d-4885-af8c-15c43e4f9f09,Luna Pizza (Orta),"42,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (1 + 1),-1.0
+7b45838f-9f9f-4545-9d53-a749c94e45d8,Alaturka Pizza (Orta),"42,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (1 + 1),1.0
+e1c7378d-06c0-4fa1-9d70-961ce2ca2378,Supersonic Pizza (Orta),"42,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (1 + 1),-1.0
+82ef530e-1bd4-4d9d-8d71-a323eee42c7b,Şarküteri Pizza (Orta),"42,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (1 + 1),-1.0
+d96377d5-53ce-4574-85e4-4da293cd3fd2,Egelim Pizza (Orta),"42,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (1 + 1),-1.0
+fdbdb25d-703f-452a-aaf6-3976ea3fe17e,Hasta İşi Pizza (Orta),"42,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (1 + 1),-1.0
+37778054-4f14-4cae-b8f5-a997f07a210b,Akdeniz Ateşi Pizza (Orta),"42,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (1 + 1),-1.0
+b5b154fd-038b-44f1-bbf4-819b19eb287a,Pepperoni Pizza (Orta) (İndirimli),"24,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (İndirimli - Tek Pizza),-2.0
+d8b30a0e-9b27-4c0d-99e0-0beab5a47ecf,Çak Bir Beşlik Pizza (Orta) (İndirimli),"24,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (İndirimli - Tek Pizza),10.0
+e37df568-cbd4-4412-91cd-412f30d6efba,Karma Pizza (Orta) (İndirimli),"24,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (İndirimli - Tek Pizza),-1.0
+574ffbda-c9fd-4349-b475-528c3dcc62c3,Mari Pizza (Orta) (İndirimli),"24,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (İndirimli - Tek Pizza),-1.0
+7b3d3410-3d06-4214-90d4-7a0ccf4a66c9,Melon Pizza (Orta) (İndirimli),"24,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (İndirimli - Tek Pizza),-1.0
+d0095218-4916-4167-beb3-aa24fdeabf97,Vejetaryen Pizza (Orta) (İndirimli),"24,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (İndirimli - Tek Pizza),-1.0
+8e1d43a1-fae8-4b2d-b5af-094a62fc22c2,Margherita Pizza (Orta) (İndirimli),"24,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (İndirimli - Tek Pizza),-1.0
+e561a68d-3ec6-448a-86c2-420bd81faf56,Meksika Pizza (Orta) (İndirimli),"24,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (İndirimli - Tek Pizza),-1.0
+ea934373-5ad4-440d-ae66-61a936814ddb,Süper Pizza (Orta) (İndirimli),"24,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (İndirimli - Tek Pizza),5.0
+1578ad6b-c3fc-4445-9f36-b2a09fad1930,Chicken Pizza (Orta) (İndirimli),"24,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (İndirimli - Tek Pizza),-1.0
+437d9f27-0b88-4bb8-b35b-2f889ad81e0a,Light Special Pizza (Orta) (İndirimli),"24,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (İndirimli - Tek Pizza),-1.0
+6cd5150c-5c82-4eec-b5d3-c8ab1042acb0,Special Pizza (Orta) (İndirimli),"24,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (İndirimli - Tek Pizza),-1.0
+67e05a82-cd77-4152-aaba-2df477de6be8,Rita Pizza (Orta) (İndirimli),"24,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (İndirimli - Tek Pizza),-1.0
+314149a0-87c0-433e-a3b9-17a4ff3682a9,Lüx Pizza (Orta) (İndirimli),"24,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (İndirimli - Tek Pizza),-1.0
+c5ca8824-a818-4c76-b454-cd8dcf3a4ca5,Ton Balıklı Pizza (Orta) (İndirimli),"24,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (İndirimli - Tek Pizza),-2.0
+cde07383-6183-44fe-8a09-8c09665edf87,Luna Pizza (Orta) (İndirimli),"24,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (İndirimli - Tek Pizza),-1.0
+bbbcd5cb-c6f6-4bc2-b5f8-d3f3adcb9e2b,Sucuklu Yumurtalı Pizza (Orta) (İndirimli),"24,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (İndirimli - Tek Pizza),-1.0
+1afc0f78-9528-42ad-8422-25e4f2ddec70,Fungi Pizza (Orta) (İndirimli),"24,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (İndirimli - Tek Pizza),-1.0
+3ef552a5-3732-424a-8da4-71b9c95ff15a,Üçes Pizza (Orta) (İndirimli),"24,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (İndirimli - Tek Pizza),-1.0
+8b0daf3c-5018-4782-8c92-b3fe6748b139,Alaturka Pizza (Orta) (İndirimli),"24,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (İndirimli - Tek Pizza),1.0
+3be6765f-a2a8-40c8-b411-6b9c53f4f80f,Supersonic Pizza (Orta) (İndirimli),"24,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (İndirimli - Tek Pizza),-1.0
+8c2f74ea-1219-417c-8775-84f82012b90c,Şarküteri Pizza (Orta) (İndirimli),"24,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (İndirimli - Tek Pizza),-1.0
+79590a84-f4cd-4fd5-ac83-618d4514df50,Egelim Pizza (Orta) (İndirimli),"24,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (İndirimli - Tek Pizza),-1.0
+37291bcc-a92b-459e-a27b-07430a944363,Hasta İşi Pizza (Orta) (İndirimli),"24,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (İndirimli - Tek Pizza),-1.0
+009cb00a-af93-4ec7-a65d-f274f17c0351,Akdeniz Ateşi Pizza (Orta) (İndirimli),"24,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (İndirimli - Tek Pizza),-1.0
+85b1d7d7-4797-493e-b303-e483009f70f3,Pepperoni Pizza (Büyük),"48,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (1+1),-2.0
+938ea278-774f-4729-ad68-348cc57a0cf0,Mari Pizza (Büyük),"48,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (1+1),-1.0
+7f8786f5-65b6-4993-ac26-d4e96090d45c,Melon Pizza (Büyük),"48,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (1+1),-1.0
+7aa78839-2eb4-4c3a-809e-158c745aa0e7,Vejetaryen Pizza (Büyük),"48,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (1+1),-1.0
+e5a65bd8-fce6-4a51-bc96-b7bbced6a19c,Margherita Pizza (Büyük),"48,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (1+1),-1.0
+87e86421-fb3a-4360-abd8-c349fc3eed35,Meksika Pizza (Büyük),"48,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (1+1),-1.0
+cc5de3f1-88c8-41bc-a52d-1415ba64e45b,Süper Pizza (Büyük),"48,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (1+1),5.0
+181323c8-1fd8-47c4-aafc-9fe2c0fbe87b,Chicken Pizza (Büyük),"48,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (1+1),-1.0
+f7b94391-82bb-448d-8978-3a9611c560fd,Light Special Pizza (Büyük),"48,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (1+1),-1.0
+d3c4b21a-e729-48dd-8e55-c744326e3589,Special Pizza (Büyük),"48,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (1+1),-1.0
+559770e7-49a3-4fa7-bdb1-594e1ee33e37,Rita Pizza (Büyük),"48,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (1+1),-1.0
+ccd53e74-9f66-4fff-a4ce-f32347ffc3af,Lüx Pizza (Büyük),"48,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (1+1),-1.0
+9418df4d-eecf-4855-90f5-d699c622b89d,Ton Balıklı Pizza (Büyük),"48,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (1+1),-2.0
+4c1d6c00-2448-4905-a2db-7994d55a9765,Luna Pizza (Büyük),"48,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (1+1),-1.0
+dc0366d9-87f5-4290-b6d8-c22a4c8f63dd,Alaturka Pizza (Büyük),"48,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (1+1),1.0
+d194a8cd-e6cf-4107-b2a9-018adb74ac2d,Supersonic Pizza (Büyük),"48,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (1+1),-1.0
+e1270556-24e8-4c7d-af7c-bcd28f4de36b,Şarküteri Pizza (Büyük),"48,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (1+1),-1.0
+8230f23a-2221-40f6-9beb-f2cc98f8ab44,Egelim Pizza (Büyük),"48,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (1+1),-1.0
+9af283e4-74fd-47de-8bc5-029d979c6636,Hasta İşi Pizza (Büyük),"48,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (1+1),-1.0
+c06967df-4aac-4add-9b4f-fa1981323546,Akdeniz Ateşi Pizza (Büyük),"48,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (1+1),-1.0
+2b39e543-2c99-42f1-b768-afe5f156f054,Pepperoni Pizza (Büyük) (İndirimli),"29,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (İndirimli - Tek Pizza),-2.0
+47a8cb0e-01a9-4267-a949-03cc618a7aec,Çak Bir Beşlik Pizza (Büyük) (İndirimli),"29,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (İndirimli - Tek Pizza),10.0
+6efc1ed9-7faf-4b2f-8500-3e99d8b2cdda,Karma Pizza (Büyük) (İndirimli),"29,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (İndirimli - Tek Pizza),-1.0
+97a8c577-7d48-4d93-bf49-d2fa340cef66,Mari Pizza (Büyük) (İndirimli),"29,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (İndirimli - Tek Pizza),-1.0
+d193c328-8e8d-4cd5-bfd8-ba0607f439eb,Melon Pizza (Büyük) (İndirimli),"29,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (İndirimli - Tek Pizza),-1.0
+2994be69-4fe0-4f23-982e-17a73fe78dd7,Vejetaryen Pizza (Büyük) (İndirimli),"29,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (İndirimli - Tek Pizza),-1.0
+576ac8aa-4d5e-43d2-8203-3cee04b43a3c,Margherita Pizza (Büyük) (İndirimli),"29,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (İndirimli - Tek Pizza),-1.0
+289fb724-48be-4bd9-96cd-fbd07f48c343,Meksika Pizza (Büyük) (İndirimli),"29,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (İndirimli - Tek Pizza),-1.0
+af07fca2-9dae-458c-8b39-9995a5a81240,Süper Pizza (Büyük) (İndirimli),"29,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (İndirimli - Tek Pizza),5.0
+215a6e45-6a08-43de-9737-60d5b357f846,Chicken Pizza (Büyük) (İndirimli),"29,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (İndirimli - Tek Pizza),-1.0
+a337abbc-c2d1-46b5-8caa-f558cab80265,Light Special Pizza (Büyük) (İndirimli),"29,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (İndirimli - Tek Pizza),-1.0
+0cad8767-5874-43bb-90ce-6212c4d0c702,Special Pizza (Büyük) (İndirimli),"29,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (İndirimli - Tek Pizza),-1.0
+a6ad7db6-358f-456e-a048-f0d8ef109756,Rita Pizza (Büyük) (İndirimli),"29,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (İndirimli - Tek Pizza),-1.0
+e53870e7-3372-4692-b5af-143a7d5dc367,Lüx Pizza (Büyük) (İndirimli),"29,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (İndirimli - Tek Pizza),-1.0
+611e3957-c98a-4fed-bbec-f0ac26bd2177,Ton Balıklı Pizza (Büyük) (İndirimli),"29,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (İndirimli - Tek Pizza),-2.0
+6f7d2edf-6b08-4912-85ff-bf3afcd50132,Luna Pizza (Büyük) (İndirimli),"29,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (İndirimli - Tek Pizza),-1.0
+a75e5abe-704c-45c6-a754-c58910dfc0cb,Sucuklu Yumurtalı Pizza (Büyük) (İndirimli),"29,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (İndirimli - Tek Pizza),-1.0
+84f43037-6c38-45fc-a551-5d938f1e6c7e,Fungi Pizza (Büyük) (İndirimli),"29,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (İndirimli - Tek Pizza),-1.0
+65d8bc1c-09d9-4cb6-a921-b5bb0d5f1f07,Üçes Pizza (Büyük) (İndirimli),"29,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (İndirimli - Tek Pizza),-1.0
+83e7d81e-20d4-4f1c-9359-9e95c986f6a0,Alaturka Pizza (Büyük) (İndirimli),"29,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (İndirimli - Tek Pizza),1.0
+e7b253c0-f6a5-4d24-bf77-b4419b9559f4,Supersonic Pizza (Büyük) (İndirimli),"29,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (İndirimli - Tek Pizza),-1.0
+32d8e3b9-7ed4-45e8-b475-1074f8acf88d,Şarküteri Pizza (Büyük) (İndirimli),"29,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (İndirimli - Tek Pizza),-1.0
+a3baa31e-d161-48c1-9b35-bcd5fc55d38b,Egelim Pizza (Büyük) (İndirimli),"29,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (İndirimli - Tek Pizza),-1.0
+21409140-d9d9-45bf-882f-009b3215b999,Hasta İşi Pizza (Büyük) (İndirimli),"29,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (İndirimli - Tek Pizza),-1.0
+872d082b-9bb2-4911-9ac1-be1b6c57be0d,Akdeniz Ateşi Pizza (Büyük) (İndirimli),"29,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (İndirimli - Tek Pizza),-1.0
+85754877-b564-4bb2-94af-a3286beedf1b,Pepperoni Pizza (Jumbo),"59,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (1+1),-2.0
+9f0b3c84-fa1d-4ca9-bbf7-09e709ed8e26,Mari Pizza (Jumbo),"59,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (1+1),-1.0
+87497d27-f3c0-4e20-802b-0bc5d5d96565,Melon Pizza (Jumbo),"59,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (1+1),-1.0
+7577b2d3-9645-4478-a165-99d1a7c08825,Vejetaryen Pizza (Jumbo),"59,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (1+1),-1.0
+eebc94b6-de16-4b9a-beb4-20cc34de0929,Margherita Pizza (Jumbo),"59,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (1+1),-1.0
+90c5e901-7e94-47f4-af11-877356dbf1cd,Meksika Pizza (Jumbo),"59,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (1+1),-1.0
+4df7e049-dbc6-48f4-b30e-5a88894035cf,Süper Pizza (Jumbo),"59,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (1+1),5.0
+48ef4c9e-bd9b-4005-b4c8-2fd4025dc06c,Chicken Pizza (Jumbo),"59,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (1+1),-1.0
+58c66e1f-e3f6-447d-aba4-79e9e6badd3a,Light Special Pizza (Jumbo),"59,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (1+1),-1.0
+13c40998-592d-44b7-9b38-c4b8825f81a5,Special Pizza (Jumbo),"59,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (1+1),-1.0
+2edb390b-4e0d-4e00-b29a-b4c7ef387a3a,Rita Pizza (Jumbo),"59,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (1+1),-1.0
+41553647-0250-40d9-973d-23ab3f844d41,Lüx Pizza (Jumbo),"59,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (1+1),-1.0
+47fe4170-341a-452b-bf74-0aa2fdff0074,Ton Balıklı Pizza (Jumbo),"59,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (1+1),-2.0
+0f2d5d6e-52d0-4b16-b211-e4c825be342e,Luna Pizza (Jumbo),"59,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (1+1),-1.0
+2aa4625a-b4e0-4d42-8f7d-28df58cd6b79,Alaturka Pizza (Jumbo),"59,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (1+1),1.0
+cda0ac01-663e-4d66-b577-4a1a512d740a,Supersonic Pizza (Jumbo),"59,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (1+1),-1.0
+f2837fed-4cb0-48e2-877f-3d9c1eb61457,Şarküteri Pizza (Jumbo),"59,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (1+1),-1.0
+da201d09-8416-4f01-bd2d-198c2e454bef,Egelim Pizza (Jumbo),"59,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (1+1),-1.0
+f7f897ef-306d-40d0-8572-b36700665330,Hasta İşi Pizza (Jumbo),"59,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (1+1),-1.0
+ff75304b-5c7b-49b2-be63-dc5102bcfefc,Akdeniz Ateşi Pizza (Jumbo),"59,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (1+1),-1.0
+a67fb921-de97-4b3f-8789-d3b73f687031,Pepperoni Pizza (Jumbo) (İndirimli),"34,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (İndirimli - Tek Pizza),-2.0
+768f8b0e-9322-47e8-9d4a-b1acb7cc2e0a,Çak Bir Beşlik Pizza (Jumbo) (İndirimli),"34,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (İndirimli - Tek Pizza),10.0
+0a57030d-fc24-4e32-996b-ea7cca4f057f,Mari Pizza (Jumbo) (İndirimli),"34,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (İndirimli - Tek Pizza),-1.0
+e0e7eca0-445e-4015-bc9f-318a75f9c7f4,Melon Pizza (Jumbo) (İndirimli),"34,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (İndirimli - Tek Pizza),-1.0
+b8dc5266-dadf-4933-a254-e2f9fea881fd,Vejetaryen Pizza (Jumbo) (İndirimli),"34,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (İndirimli - Tek Pizza),-1.0
+27840ef3-d38f-4151-851d-c61cdd533c78,Margherita Pizza (Jumbo) (İndirimli),"34,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (İndirimli - Tek Pizza),-1.0
+759393ff-43b2-4241-8154-75bed66c2f6a,Meksika Pizza (Jumbo) (İndirimli),"34,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (İndirimli - Tek Pizza),-1.0
+c4e41e2b-3c3b-433e-8390-de98414fccd7,Süper Pizza (Jumbo) (İndirimli),"34,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (İndirimli - Tek Pizza),5.0
+f4a31845-808c-4ca5-82dc-92c4051d7e70,Chicken Pizza (Jumbo) (İndirimli),"34,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (İndirimli - Tek Pizza),-1.0
+ca3a6eed-47ce-41a5-b080-a95e28ac01b4,Light Special Pizza (Jumbo) (İndirimli),"34,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (İndirimli - Tek Pizza),-1.0
+e966b06f-3ff6-4561-8991-bfde01892ad7,Special Pizza (Jumbo) (İndirimli),"34,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (İndirimli - Tek Pizza),-1.0
+5944ba2c-79e6-4976-8abf-646464ea3969,Rita Pizza (Jumbo) (İndirimli),"34,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (İndirimli - Tek Pizza),-1.0
+07d22aa5-467c-4b31-8bf0-05dd7c03d290,Lüx Pizza (Jumbo) (İndirimli),"34,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (İndirimli - Tek Pizza),-1.0
+aba0df14-59b8-461f-b7f2-314e01d40c5e,Ton Balıklı Pizza (Jumbo) (İndirimli),"34,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (İndirimli - Tek Pizza),-2.0
+4d66e1aa-4a65-48a9-a6ba-9f6dd56a6bf6,Luna Pizza (Jumbo) (İndirimli),"34,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (İndirimli - Tek Pizza),-1.0
+63bcea0e-60aa-490a-8773-0248efea0799,Fungi Pizza (Jumbo) (İndirimli),"34,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (İndirimli - Tek Pizza),-1.0
+4bc9d5ee-bcc1-48f0-80d6-239181be9a03,Üçes Pizza (Jumbo) (İndirimli),"34,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (İndirimli - Tek Pizza),-1.0
+f82b7ced-946a-4d6e-b7f6-4a1fefdae745,Alaturka Pizza (Jumbo) (İndirimli),"34,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (İndirimli - Tek Pizza),1.0
+73152288-8c49-48b6-a854-f7ec5560bb56,Supersonic Pizza (Jumbo) (İndirimli),"34,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (İndirimli - Tek Pizza),-1.0
+72b67b43-99d7-424d-8795-d7b245ad5128,Şarküteri Pizza (Jumbo) (İndirimli),"34,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (İndirimli - Tek Pizza),-1.0
+3fa01949-75b9-4923-8095-453a7e00721e,Egelim Pizza (Jumbo) (İndirimli),"34,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (İndirimli - Tek Pizza),-1.0
+dbb8f8e0-36a8-4c9b-80e1-099b2fe84625,Hasta İşi Pizza (Jumbo) (İndirimli),"34,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (İndirimli - Tek Pizza),-1.0
+a72e8630-8ea0-4e50-88de-f8e599ddee0d,Akdeniz Ateşi Pizza (Jumbo) (İndirimli),"34,90 TL",Jumbo Boy Pizzalar (4 - 6 Kişilik) (İndirimli - Tek Pizza),-1.0
+df810b85-b1eb-4a34-960a-aa52d2595560,Patates Kızartması,"9,00 TL",Yan Ürünler,7.0
+467fbe3b-b436-4b7a-bcc0-6b2812cd4b9a,Chicken Nugget (3 Adet),"8,25 TL",Yan Ürünler,3.0
+f54690cb-e8dc-400c-b336-9e6524264d0d,Chicken Nugget (6 Adet),"14,00 TL",Yan Ürünler,3.0
+690d3878-bc88-4ab1-8a0c-f63fa44c4faf,Chicken Nugget (9 Adet),"17,50 TL",Yan Ürünler,3.0
+f68ed37a-9019-4956-a8dc-57623affa5e5,Elma Dilim Patates,"12,50 TL",Yan Ürünler,7.0
+8b03a907-331d-4add-b689-cac519c6cf05,Soğan Halkası (3 Adet),"10,00 TL",Yan Ürünler,4.0
+670a5db0-7581-47e9-bc30-dc4759ae26f8,Soğan Halkası (6 Adet),"12,00 TL",Yan Ürünler,4.0
+3e80842c-fe1e-43e9-861e-7565ca48bd2e,Soğan Halkası (9 Adet),"15,00 TL",Yan Ürünler,4.0
+29c8b48d-92ba-4e1f-8328-3b552e216919,Chicken Fingers (3 Adet),"12,00 TL",Yan Ürünler,5.0
+13f9bc8e-0074-4ade-8795-de9bcdeccd86,Chicken Fingers (6 Adet),"17,00 TL",Yan Ürünler,5.0
+f46394fc-9f4c-45d5-b350-89468da39e90,Chicken Fingers (9 Adet),"21,00 TL",Yan Ürünler,5.0
+2221b45d-befa-4ea7-addb-be0cad24038a,Algida Maraş Usulü Dilim Dondurma (82 ml.),"5,00 TL",Dondurmalar,5.0
+29768878-ebfc-4cb6-ad0e-7b0b1eb96bac,Algida Classics Cookie Cup (105 ml.),"6,00 TL",Dondurmalar,5.0
+88749139-0821-456f-ab13-79e8ac0a1f5c,Algida Maraş Usulü Cup Dondurma (100 ml.),"6,00 TL",Dondurmalar,5.0
+d30924da-f5be-4141-9402-e189cca687c1,Algida Carte d'Or Mini Cup Çikolata Karnavalı (110 ml.),"6,00 TL",Dondurmalar,5.0
+4466b1f1-2917-4d3a-9fa8-b568bb65001c,Carte d'Or Premium Çikolata Cup (100 ml.),"6,00 TL",Dondurmalar,5.0
+60a554e7-5517-4398-86a2-9e0b6e337abe,Carte d'Or Premium Kaymak Cup (100 ml.),"6,00 TL",Dondurmalar,5.0
+b12e54b0-6eab-4592-ad0f-0b75d0b919ae,Magnum Badem,"11,00 TL",Dondurmalar,5.0
+611b2a18-65a4-4a6e-947d-06a95191b3d0,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"14,00 TL",Dondurmalar,5.0
+6eff6c58-5c95-4d69-9dff-67fda80e9303,Algida Maraş Dondurmalı Supangle,"14,00 TL",Dondurmalar,5.0
+9e76a944-9cee-413c-bf10-0904536369cc,Algida Carte d'Or Volcano Cup,"15,00 TL",Dondurmalar,5.0
+bd9eec9a-b819-4413-9204-a7ffc2ed3716,Su,"2,50 TL",İçecekler,6.0
+6ef25ed0-7060-405a-a380-2ba68de7e189,Poşet,"0,25 TL",Poşet,5.0

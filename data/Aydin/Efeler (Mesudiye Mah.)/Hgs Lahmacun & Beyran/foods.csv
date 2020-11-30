@@ -1,0 +1,23 @@
+food_id,food_name,food_price,food_category,food_score
+25C30AF3-35F6-42B2-8C3C-677A3CA50D5B,Antep Lahmacun,"10,00 TL",Lahmacunlar,29.0
+46DA18E9-CF81-4EFF-B345-BFD3D72209F7,Kıymalı Pide,"16,00 TL",Pideler,9.0
+09A0B82D-BD0C-41E6-9715-753EE94691D2,Kıymalı Kaşarlı Pide,"19,00 TL",Pideler,9.0
+D74914D6-B088-4F77-8EEC-856DF5F2DD31,Kıymalı Yumurta Pide,"17,00 TL",Pideler,9.0
+0eb2c10b-5a7e-4dc4-85e3-ad7e3ada00e0,Kiremitte Tavuk Sote,"25,00 TL",Ana Yemekler,7.0
+646996a1-5c7e-4980-b1cc-9979aadc0749,Kiremitte Et Sote,"32,00 TL",Ana Yemekler,5.0
+8826ac54-d71d-4fbb-a363-a45db237d17c,Kilis Tava,"28,00 TL",Ana Yemekler,5.0
+b44121d3-5760-4f40-b700-0b079588ed4b,Urfa Kebap (Tepsi),"28,00 TL",Ana Yemekler,5.0
+74298B98-534A-48A8-BFE8-63DAF6428461,Urfa Kebap (160 gr.),"32,00 TL",Ana Yemekler,5.0
+F7D3F0D4-ECF8-4CB4-8634-EFDE14AE2D92,Tavuk Şiş (200 gr.),"22,00 TL",Ana Yemekler,7.0
+405C6769-2972-4F5A-B7EE-2EBFAFA7DF16,Kuzu Şiş (200 gr.),"40,00 TL",Ana Yemekler,9.0
+24089914-51B1-41D6-869F-B538AC6C5A70,Patlıcanlı Kebap,"35,00 TL",Ana Yemekler,5.0
+EBBD3458-8AD7-4595-B9EA-5A74E4E74C37,Tavuk Kanat,"25,00 TL",Ana Yemekler,7.0
+2D31FC66-B726-497B-813C-231E2F24BEF0,Urfa Kebap (Acısız),"32,00 TL",Ana Yemekler,5.0
+6211B682-9F2C-42A4-A6B0-83A9D02CD17A,Adana Kebap (160 gr.),"32,00 TL",Ana Yemekler,7.0
+5349C8AD-0D8A-487A-8753-9CEF63BF3EDD,Adana Dürüm (85 gr.),"15,00 TL",Dürümler,10.0
+DA6B5289-4515-470E-94D5-01E9E88C77BB,Urfa Dürüm (85 gr.),"15,00 TL",Dürümler,3.0
+B410E18D-7358-4674-BDF3-F687F751FCA4,Tavuk Dürüm (120 gr.),"10,00 TL",Dürümler,10.0
+299da36c-9d13-4429-82be-1dce78447f16,Kızartma İçli Köfte (Adet),"8,00 TL",Yan Ürünler,6.0
+bf1c2c08-b0a7-4a68-b19d-4c2815db3f1a,Çiğ Köfte (200 gr.),"15,00 TL",Yan Ürünler,7.0
+B02F2F87-1F5E-43A9-A4F8-2F33C53344D5,Çiğ Köfte (1 kg.),"60,00 TL",Yan Ürünler,7.0
+98022e8b-eb4f-46ef-846e-1ff27c24b5aa,Poşet,"0,25 TL",Poşet,5.0

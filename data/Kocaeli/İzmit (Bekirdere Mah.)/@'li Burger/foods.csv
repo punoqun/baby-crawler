@@ -1,0 +1,26 @@
+food_id,food_name,food_price,food_category,food_score
+db916d14-2241-4c40-9e6e-6c459a164c23,Klasik Burger,"27,90 TL",Burgerler,5.0
+467c9a10-2275-483d-93d8-4548d3f301fe,Cheeseburger,"29,90 TL",Burgerler,10.0
+3efdce67-11d2-4bdd-9db7-6d6edf53da04,@'li Burger,"38,90 TL",Burgerler,10.0
+799846fa-3e74-4a53-b0eb-5f2f1bbf4a10,Double Burger,"39,00 TL",Burgerler,10.0
+fba684b8-e1ee-423b-be28-7fb3c44c17ed,İtalyan Burger,"29,90 TL",Burgerler,5.0
+0c880c34-8b5f-407b-ae31-d47b9e39cd33,Kasap Burger,"29,90 TL",Burgerler,5.0
+2d9922a7-77a4-4509-af82-88b9d0b8b391,Lokum Burger,"41,00 TL",Burgerler,5.0
+aa6cdc8e-26a4-46f5-adaa-a70b118c0420,Mantarlı Burger,"29,90 TL",Burgerler,5.0
+0c6a8d9b-7420-46a0-8ba9-17eed85436b4,Mexican Burger,"29,90 TL",Burgerler,5.0
+90851181-9945-4f48-9e2e-19addd80df6e,Sucuk Burger,"39,90 TL",Burgerler,5.0
+fad0fa0f-d733-48c9-800e-aad10a61146d,Çocuk Burger,"29,90 TL",Burgerler,5.0
+86bc8415-03f4-4b10-9ece-f4cb04b7d713,Kaşarlı Köfte,"28,90 TL",Köfteler,5.0
+dcb6aa2e-694c-467b-b370-b06c1d7cd87b,Kasap Köfte,"29,90 TL",Köfteler,5.0
+98630b40-1ecc-4bff-961c-469e5a2a17aa,Antrikot Steak,"51,90 TL",Steaks,5.0
+f2514d8b-f7d7-4b77-9b78-8bd51c334bb5,Dana Lokum (150 gr.),"39,90 TL",Steaks,5.0
+ff86025e-5814-4ea0-9568-4cf8b28518f8,Dana Lokum (250 gr.),"49,90 TL",Steaks,5.0
+71dad2fe-3be8-4d82-a876-cdc8554d0e39,Patates Kızartması,"12,90 TL",Yan Ürünler,5.0
+a63b5693-ff5f-4109-9529-1bb4dd57facb,Soğan Halkası (6 Adet),"12,90 TL",Yan Ürünler,5.0
+cd62d938-cf91-4726-9b71-7032d1c2832f,Mozzarella Stick (6 Adet),"18,90 TL",Yan Ürünler,5.0
+d2d5d284-fcf5-46e3-8e91-9eb2d554c7ab,Cheddarlı Patates Kızartması,"14,90 TL",Yan Ürünler,5.0
+2be1f55b-ac2c-49fb-be98-d96bc242e93c,Tavuklu Akdeniz Salata,"19,90 TL",Salatalar,5.0
+970379ee-55cf-4246-be57-9eee35890a70,Etli Akdeniz Salata,"26,90 TL",Salatalar,5.0
+272fee27-1ac9-43c1-9725-a6f85f6ae798,Kasap Köfte (500 gr.),"55,90 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+b1d852c6-736d-4e98-a0b1-05eb2f57eb57,Kasap Köfte (1 kg.),"109,90 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+2d7eb551-396a-4edd-878e-409ca721ec2c,Poşet,"0,25 TL",Poşet,5.0

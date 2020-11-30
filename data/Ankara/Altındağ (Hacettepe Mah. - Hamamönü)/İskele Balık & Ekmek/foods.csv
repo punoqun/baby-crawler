@@ -1,0 +1,109 @@
+food_id,food_name,food_price,food_category,food_score
+7281a19b-6c4f-46e2-af5f-9913d4277cf2,Ekmek Arası Balık Menü,"26,50 TL",Ekonomik Menüler,32.0
+74E8C29D-6DF8-4A5A-86E1-7209F62011FC,Dil Balığı Menü (3 Kişilik),"150,00 TL",Ekonomik Menüler,9.0
+613B30E2-06DF-4481-96AC-5F82158CBEF6,Bako Mezgit Menü (5 Kişilik),"250,00 TL",Ekonomik Menüler,3.0
+0A84553F-235B-4A41-8B5F-D922B292EEC0,Bako Mezgit Menü (3 Kişilik),"150,00 TL",Ekonomik Menüler,3.0
+00BDB8F8-BC87-406E-B92A-841F4BA290C8,Dil Balığı Menü (5 Kişilik),"250,00 TL",Ekonomik Menüler,9.0
+4c4fdb02-8e32-4cff-b6ac-47a19338d68e,Maxi Hamsi Menü (1 Kişilik),"54,00 TL",Ekonomik Menüler,20.0
+71f94d70-8c7f-464f-be2d-df54af40e80b,3'lü Maxi Hamsi Menü (3 Kişilik),"135,00 TL",Ekonomik Menüler,20.0
+eaecb02c-9f87-42d4-bf1f-eb5c6acfb1e3,Alabalık Menü (3 Kişilik),"99,00 TL",Ekonomik Menüler,3.0
+742c1809-895b-4e89-8572-70485a435ee5,Alabalık Menü (5 Kişilik),"160,00 TL",Ekonomik Menüler,3.0
+e82a0ec3-70f1-4c77-b6a4-94bba2df5233,Çipura Menü (3 Kişilik),"165,00 TL",Ekonomik Menüler,5.0
+f0f10b33-ab3d-43d1-b7c0-67c0789b31f3,Çipura Menü (5 Kişilik),"275,00 TL",Ekonomik Menüler,5.0
+50975136-753e-4671-bc38-84e10ecb701a,İstavrit Menü (3 Kişilik),"110,00 TL",Ekonomik Menüler,5.0
+43ce9e49-b6fd-474b-a977-69757a23cc86,İstavrit Menü (5 Kişilik),"160,00 TL",Ekonomik Menüler,5.0
+5e97dba7-6f87-4d7a-beb5-574087447626,Karadeniz Mezgit Menü (3 Kişilik) (Kılçıklı),"125,00 TL",Ekonomik Menüler,3.0
+90152b39-4ed5-4847-b000-5fe2c32ee29e,Karadeniz Mezgit Menü (5 Kişilik) (Kılçıklı),"195,00 TL",Ekonomik Menüler,3.0
+c04fd126-165f-45d2-8dff-67d6101bc60e,Levrek Menü (3 Kişilik),"180,00 TL",Ekonomik Menüler,7.0
+97d7a8ca-666c-42e3-a4fc-a05e728adb4d,Levrek Menü (5 Kişilik),"300,00 TL",Ekonomik Menüler,7.0
+0b53d277-c8c9-4d11-a9e3-e2cab9a93897,Norveç Somon Menü (3 Kişilik),"165,00 TL",Ekonomik Menüler,6.0
+afa3863c-f471-43bc-b991-ab9d488725cc,Norveç Somon Menü (5 Kişilik),"275,00 TL",Ekonomik Menüler,6.0
+33ace85b-f767-43f4-b5f2-accf84a2beab,Karadeniz Somon Menü (3 Kişilik),"135,00 TL",Ekonomik Menüler,6.0
+6dd5e3ad-92e2-44ba-873d-d5ce45d88a7b,Karadeniz Somon Menü (5 Kişilik),"220,00 TL",Ekonomik Menüler,6.0
+ab0ab864-5122-4ccb-8344-e489ecd08b85,2'li Enjoy Menü,"160,00 TL",Ekonomik Menüler,5.0
+8cdb3b86-98f9-44d8-a78d-3d598f832800,Balık Çorbası (Yarım),"11,00 TL",Çorbalar,34.0
+AD8F9444-A008-4E73-AE94-EF3A5A1EB42C,Midye Tava (4 Şiş),"28,00 TL",Tavalar,5.0
+e2070a12-cdd0-4fe0-982c-1e7ec8777470,Alabalık Tava,"34,00 TL",Tavalar,4.0
+edba5c26-30f7-4ee4-a536-95089a9c8681,Bako Mezgit Tava (Kılçıksız),"50,00 TL",Tavalar,4.0
+5857ee09-1675-49f5-8597-00a26b97ff40,Barbun Tava,"50,00 TL",Tavalar,6.0
+64aa828a-8fc8-4fe5-b292-7ce326081c06,Çinekop Tava,"60,00 TL",Tavalar,6.0
+619fa82e-315b-4cc3-bf15-44243f3fdf1a,Karadeniz Palamut Tava,"36,00 TL",Tavalar,6.0
+048c1740-843b-4e42-8e4a-9564b1d18fab,Karadeniz Palamut Tava (Adet) (800 gr. - 1 kg.),"75,00 TL",Tavalar,-1.0
+3135e7e4-b223-4702-99d3-0c9c90fc9325,Karadeniz Somon Tava (Kılçıksız),"50,00 TL",Tavalar,7.0
+c2f96957-137b-4b06-8a6c-2503f4fb1b1c,Norveç Somon Tava (Kılçıksız),"55,00 TL",Tavalar,7.0
+ccbb3a37-b0a9-429e-83a6-f905ad52e9c4,Uskumru Tava (Kılçıksız),"34,00 TL",Tavalar,8.0
+5e11f92a-fc7f-485d-a59a-4f8fb117bf61,Çinekop Izgara,"60,00 TL",Izgaralar,5.0
+8688b97d-286e-4e2c-a728-b77ca3f925fd,Karadeniz Palamut Izgara (Adet) (800 gr. - 1 kg.),"75,00 TL",Izgaralar,-2.0
+2ba7737a-ee7c-4802-95d7-6ae952d00a73,Ekmek Arası Norveç Somon,"35,00 TL",Ekmek Arası Ürünler,8.0
+AD1DC2F6-BAC3-4499-9779-B51D5DA8779C,Ekmek Arası Deniz Levrek,"28,00 TL",Ekmek Arası Ürünler,9.0
+0024F9D3-39A6-426D-B446-A22D7820AA9F,Ekmek Arası Deniz Çipurası,"28,00 TL",Ekmek Arası Ürünler,7.0
+3c529d0f-a3d7-46e1-85ce-4a2393b39679,Ekmek Arası Alabalık Izgara (170 - 200 gr.),"19,00 TL",Ekmek Arası Ürünler,9.0
+17142b02-cf12-47df-84ea-93e863945801,Ekmek Arası Dil Balığı (180 gr.),"25,00 TL",Ekmek Arası Ürünler,11.0
+6c9c2690-3f1e-4b92-8b32-dc404b01ca6a,Ekmek Arası Mezgit (170 - 180 gr.),"25,00 TL",Ekmek Arası Ürünler,8.0
+3AC00A5D-26B5-4B3E-A540-E0532B7C498B,Acılı Ezme (200 gr.),"10,00 TL",Mezeler,5.0
+2a7cd432-225f-4f58-9c0a-9d726d7b4e48,Mevsim Salata (Küçük),"12,00 TL",Salatalar,6.0
+31a684c7-21ae-4383-93d3-24e4e2b356ce,Mevsim Salata (Orta),"15,00 TL",Salatalar,6.0
+89b86cd1-48b1-41c2-a0ed-01f87811d966,Roka & Soğan Salatası (Küçük),"12,00 TL",Salatalar,5.0
+d2ca2327-61a5-4756-affd-ef30a3709a9d,Roka & Soğan Salatası (Orta),"15,00 TL",Salatalar,5.0
+a3b9f5fa-14f6-4679-b7cc-d6608ab2f07d,Karışık Turşu,"12,00 TL",Salatalar,6.0
+e40ba23e-d841-4cea-845f-041dee1d595b,Parmak Patates,"15,00 TL",Yan Ürünler,5.0
+4534fa4f-d797-4d3f-905f-fa1bae304a4a,Limon (Adet),"3,00 TL",Yan Ürünler,4.0
+309f2113-3fe6-453f-a6be-2d6d0670c9c2,Ekmek,"2,50 TL",Yan Ürünler,7.0
+e0148f05-b092-4c63-b4e3-37fdc71d9e71,Halka Kalamar (4 Adet),"35,00 TL",Yan Ürünler,5.0
+d59c2777-58d2-4bc3-a241-eb714a06b1d6,Karides Güveç,"60,00 TL",Yan Ürünler,5.0
+8fba7c04-07ce-44b2-978d-da8d74ba5eff,Sıcak Tahin Helvası,"13,00 TL",Tatlılar,7.0
+AECC8E66-2554-4C26-85E3-49C1E81B4D1B,Hamsiköy Sütlacı,"22,00 TL",Tatlılar,5.0
+b1aebeaf-0719-485b-b37c-b46696c5cf58,Kazandibi,"9,00 TL",Tatlılar,5.0
+b895b14f-888b-4612-8f41-04bfb57bf9df,Çikolatalı Puding,"9,00 TL",Tatlılar,5.0
+c40023f1-a7f3-4726-b80b-72a6db283fb3,Sakızlı Muhallebi,"9,00 TL",Tatlılar,5.0
+7e4ddcf5-60b7-417e-8de5-dda32bbb16a2,Niğde Gazozu (25 cl.),"4,00 TL",İçecekler,5.0
+6267DBF3-43CC-4105-BB43-8F9D4188B979,Günseven Şalgam Suyu ( 33 cl.),"4,50 TL",İçecekler,3.0
+02707f89-757f-4c8a-86fb-9f030d7e568d,Kavaklıdere Şalgam Suyu (30 cl.),"4,50 TL",İçecekler,5.0
+CCA7BFC2-7380-490A-92D1-8DD924973E02,Günseven Şalgam Suyu (1 L.),"10,00 TL",İçecekler,5.0
+26d9a611-1c9d-4d80-ba5a-157e045e8631,Kavaklıdere Şalgam Suyu (1 L.),"10,00 TL",İçecekler,5.0
+3748ae9d-03e9-400f-833e-fe4ca7557388,Alabalık Izgara (Brüt 1 kg.) (Pişirilmiş),"60,00 TL",Kiloluk Ürünler,-4.0
+ee341f47-c493-4ce9-bd66-76aebbd2c545,Alabalık Izgara (Brüt 500 gr.) (Pişirilmiş),"35,00 TL",Kiloluk Ürünler,3.0
+27add413-d5c8-44e5-98c0-7da391d0f4f6,Bako Mezgit Tava (Kılçıksız) (1 kg.),"90,00 TL",Kiloluk Ürünler,4.0
+12ce93a5-385e-431e-a45e-6b9c5b3fbdad,Bako Mezgit Tava (Kılçıksız) (500 gr.),"50,00 TL",Kiloluk Ürünler,4.0
+bca67076-bac5-46d2-845a-94c4a7e0766e,Barbun Tava (1 kg.) (Pişirilmiş),"85,00 TL",Kiloluk Ürünler,6.0
+408c5661-876f-4508-8030-7e417bda2710,Barbun Tava (Brüt 500 gr.) (Pişirilmiş),"50,00 TL",Kiloluk Ürünler,6.0
+22a4266f-4a34-41c7-aa12-6e088107649f,Çinekop Izgara (Brüt 1 kg.) (Pişirilmiş),"95,00 TL",Kiloluk Ürünler,-3.0
+a3446bc6-9b71-42e3-950d-1f377c48d3a9,Çinekop Izgara (Brüt 500 gr.) (Pişirilmiş),"55,00 TL",Kiloluk Ürünler,5.0
+9171150f-b978-4cb1-bc99-160159ad2269,Çinekop Tava (Brüt 1 kg.) (Pişirilmiş),"95,00 TL",Kiloluk Ürünler,-2.0
+d1b014fe-1373-4f26-8ecf-8ef1eb5220d0,Çinekop Tava (Brüt 500 gr.) (Pişirilmiş),"55,00 TL",Kiloluk Ürünler,6.0
+28c5960d-0f43-4751-aa32-69643386646c,Deniz Çipurası Izgara (Brüt 1 kg.) (Pişirilmiş),"100,00 TL",Kiloluk Ürünler,-3.0
+32ee3236-c5d3-4cb2-9dde-4472f7c6a019,Deniz Çipurası Izgara (Brüt 500 - 600 gr.) (Pişirilmiş),"52,00 TL",Kiloluk Ürünler,6.0
+f221fc2e-57bb-4590-ab2b-f0d14c07453d,Deniz Çipurası Tava (Brüt 500 - 600 gr.) (Pişirilmiş),"52,00 TL",Kiloluk Ürünler,7.0
+AA17FCCA-1628-49B0-B715-CCAE8E5E2C93,Deniz Çipurası Tava (Brüt 1 kg.) (Pişirilmiş),"100,00 TL",Kiloluk Ürünler,-2.0
+a1c8ecf9-282e-4cbb-890c-f15b23314e41,Deniz Levrek Izgara (500 - 750 gr.) (Pişirilmiş),"54,00 TL",Kiloluk Ürünler,10.0
+cdf1a170-79a3-4e9e-9bc9-9f6e586b6fb8,Deniz Levrek Izgara (Brüt 1 kg.) (Pişirilmiş),"105,00 TL",Kiloluk Ürünler,-1.0
+bd76746a-614c-4c7b-8661-9ec7e12713c5,Deniz Levrek Tava (Brüt 1 kg.) (Pişirilmiş),"105,00 TL",Kiloluk Ürünler,0.0
+59660914-1701-4276-8ace-dfaa11dbc78a,Deniz Levrek Tava (Brüt 500 - 600 gr.) (Pişirilmiş),"54,00 TL",Kiloluk Ürünler,9.0
+407e14e2-b1cc-4257-8526-f92771ee1a0d,Hamsi Tava (Brüt 1250 gr.) (Pişirilmiş),"58,00 TL",Kiloluk Ürünler,21.0
+79871962-5a28-4509-b9e9-8b944277e116,Hamsi Tava (Brüt 1500 gr.) (Pişirilmiş),"70,00 TL",Kiloluk Ürünler,21.0
+4a5ff704-fdb9-4a73-8377-f4d1e3bec12e,Hamsi Tava (Brüt 500 gr.) (Pişirilmiş),"25,00 TL",Kiloluk Ürünler,21.0
+6ae76343-2088-4efc-86c3-f8de176fb862,İstavrit Tava (Brüt 1 kg.) (Pişirilmiş),"65,00 TL",Kiloluk Ürünler,-2.0
+26fe261f-f06d-4ab3-86be-915663eb70c3,İstavrit Tava (Brüt 500 gr.) (Pişirilmiş),"35,00 TL",Kiloluk Ürünler,6.0
+8db2760e-2257-41a4-a600-adf6f80e9f08,Karadeniz Mezgit Tava (Brüt 1 kg.) (Pişirilmiş) (Kılçıklı),"70,00 TL",Kiloluk Ürünler,-4.0
+f7ca389c-d70d-4977-ae66-1ba199c722d2,Karadeniz Mezgit Tava (Brüt 500 gr.) (Pişirilmiş) (Kılçıklı),"40,00 TL",Kiloluk Ürünler,4.0
+cd29c2ea-3892-459f-adf2-04cc26f17f98,"Karadeniz Mezgit Tava (Yumurtalı, Kılçıklı) (Brüt (500 gr.) (Pişirilmiş)","40,00 TL",Kiloluk Ürünler,4.0
+737759f8-52d8-4381-8129-86f20733df4a,Karadeniz Palamut (Brüt 1 kg.) (Pişirilmiş),"75,00 TL",Kiloluk Ürünler,-3.0
+67596b74-59bd-40ef-a7da-3726a7482865,Karadeniz Palamut (Brüt 500 gr.) (Pişirilmiş),"40,00 TL",Kiloluk Ürünler,5.0
+5f4bac9b-a108-487d-aa0d-4f6a64c4d639,Karadeniz Somon Izgara (500 gr.) (Pişirilmiş),"50,00 TL",Kiloluk Ürünler,6.0
+4c316677-1c69-44e1-a034-e35d01b71d52,Karadeniz Somon Izgara (Brüt 1 kg.) (Pişirilmiş),"85,00 TL",Kiloluk Ürünler,-2.0
+8e68a719-ecb1-4fb1-b68a-3e0c81f07ca0,Karadeniz Somon Tava (Brüt 1 kg.) (Pişirilmiş),"85,00 TL",Kiloluk Ürünler,-1.0
+c9f3301f-efa0-47e9-999e-7020534dae58,Karadeniz Somon Tava (Brüt 500 gr.) (Pişirilmiş),"50,00 TL",Kiloluk Ürünler,7.0
+f7fb019e-d9a4-4153-a1da-c86fe8eb1f55,Keserbaş Barbun (Brüt 1 kg.) (Pişirilmiş),"130,00 TL",Kiloluk Ürünler,-3.0
+3e38ede9-2d6e-43f0-862a-c1db18c717d1,Keserbaş Barbun (Brüt 500 gr.) (Pişirilmiş),"70,00 TL",Kiloluk Ürünler,5.0
+8132870d-d583-4537-9047-47b443690816,Minekop (500 gr.) (Pişirilmiş),"60,00 TL",Kiloluk Ürünler,5.0
+9b55ea65-d613-47f7-9060-01dc22c21203,Minekop (Brüt 1 kg. - 1.150 kg.) (Pişirilmiş),"110,00 TL",Kiloluk Ürünler,-2.0
+78b5ef12-6691-48a8-a3cd-222591559e1e,Norveç Somon (1 kg.) (Pişirilmiş),"125,00 TL",Kiloluk Ürünler,6.0
+49af3291-b4c3-49e8-bdad-e6da00d0d2d6,Norveç Somon (500 gr.) (Pişirilmiş),"75,00 TL",Kiloluk Ürünler,6.0
+114c54b3-82a9-437a-a9e2-69c9de1f93ae,Palamut (850 gr.) (Pişirilmiş),"55,00 TL",Kiloluk Ürünler,5.0
+75f4a4de-1fca-4623-9ef2-dddaa2590aeb,Palamut (Brüt 1 kg.) (Pişirilmiş),"75,00 TL",Kiloluk Ürünler,-3.0
+ab6e175e-5f76-4e24-9b7b-9dfc29376c0f,Palamut (Brüt 500 gr.) (Pişirilmiş),"40,00 TL",Kiloluk Ürünler,5.0
+44e218ff-e866-4017-b3e4-737103a1288a,Uskumru Izgara (Brüt 1 kg.) (Pişirilmiş),"75,00 TL",Kiloluk Ürünler,-1.0
+f33ea0cd-5f1c-42db-81f2-bf2074aa81b7,Uskumru Izgara (Brüt 500 gr.) (Pişirilmiş),"40,00 TL",Kiloluk Ürünler,7.0
+00739b81-d581-4ace-af64-4a6e7a38d9ba,Uskumru Tava (Brüt 1 kg.) (Pişirilmiş),"75,00 TL",Kiloluk Ürünler,0.0
+261e4823-d3d8-48f6-9330-67381ae38312,Uskumru Tava (Brüt 500 gr.) (Pişirilmiş),"40,00 TL",Kiloluk Ürünler,8.0
+a0daa0a4-4254-4002-97ce-72bee2c16faa,Poşet,"0,25 TL",Poşet,5.0

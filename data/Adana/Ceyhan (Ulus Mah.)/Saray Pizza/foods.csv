@@ -1,0 +1,54 @@
+food_id,food_name,food_price,food_category,food_score
+a182d608-3f1f-48f2-9c2f-c234657d9a52,Hamburger Menü,"25,00 TL",Menüler,2.0
+e404529a-fbb6-4066-b016-dd4d1ea95dc7,Cheeseburger Menü,"27,00 TL",Menüler,2.0
+e28b5624-7532-403d-9fd9-bc62b24b136f,Chicken Burger Menü,"22,00 TL",Menüler,2.0
+fa7bf388-dc30-4a84-8d8d-e9c5aa6475a2,Tavuk Nugget Menü,"25,00 TL",Menüler,2.0
+687b2a97-dfff-4586-ba2c-1dd71c974642,Aile Menü,"47,00 TL",Menüler,2.0
+9e5c5876-84eb-4a06-8238-82c38dc52f58,Büyük Aile Menü,"72,00 TL",Menüler,3.0
+b99d4637-3d08-44a4-89df-f92e0b92da76,Saray Special (Orta),"25,00 TL",Orta Boy Pizzalar,4.0
+fa8c8270-c10e-4f69-bc5c-35438052a230,Karışık Pizza (Orta),"23,00 TL",Orta Boy Pizzalar,6.0
+c6e6f3c4-3e47-4792-abf9-5af6d75cc63b,Tavuklu Pizza (Orta),"24,00 TL",Orta Boy Pizzalar,1.0
+37699905-07b7-41dc-9b2d-1a3c8ae96e98,Ton Balıklı Pizza (Orta),"25,00 TL",Orta Boy Pizzalar,1.0
+23a68c8d-94eb-45bd-a2db-e525013781c5,Vejetaryen Pizza (Orta),"22,00 TL",Orta Boy Pizzalar,1.0
+42dfaec3-3126-4683-b784-3e17ab2b12a5,Margherita (Orta),"22,00 TL",Orta Boy Pizzalar,5.0
+4762b5b1-3359-4352-b608-c7dcc704e668,Biftekli Pizza (Orta),"27,00 TL",Orta Boy Pizzalar,1.0
+e9c62eb4-8a01-4be5-b2fd-00490e6d19fd,Sucuklu Pizza (Orta),"27,00 TL",Orta Boy Pizzalar,1.0
+f00b7afb-e64d-4df8-a092-76c68009b2ee,Saray Special (Büyük),"32,00 TL",Büyük Boy Pizzalar,4.0
+cb6a2ebd-cd26-45e0-b01a-3322550968e6,Karışık Pizza (Büyük),"30,00 TL",Büyük Boy Pizzalar,6.0
+a5c738f4-b47d-4c89-a685-fd447be5872d,Tavuklu Pizza (Büyük),"32,00 TL",Büyük Boy Pizzalar,1.0
+81719e0e-625b-4231-8f99-c4a68043a3ea,Ton Balıklı Pizza (Büyük),"32,00 TL",Büyük Boy Pizzalar,1.0
+b94342f9-46c3-481a-993e-e9f962199e7f,Vejetaryen Pizza (Büyük),"27,00 TL",Büyük Boy Pizzalar,1.0
+4bd75822-1da7-40b4-88b2-6ceaafa04fcc,Margherita (Büyük),"27,00 TL",Büyük Boy Pizzalar,5.0
+4ad33674-e1b0-4a10-b1ed-516823cc6c39,Biftekli Pizza (Büyük),"34,00 TL",Büyük Boy Pizzalar,1.0
+871aa510-5e43-4f08-94d0-3fd89b61f269,Sucuklu Pizza (Büyük),"34,00 TL",Büyük Boy Pizzalar,1.0
+cb5d2994-1f64-47cd-8329-9122ca727774,Hamburger,"17,00 TL",Burgerler,5.0
+e4d0c8ae-b74b-4522-8526-74378a514e93,Cheeseburger,"19,00 TL",Burgerler,5.0
+b4721f5d-03e0-4d9b-8c75-00bd739e6a7b,Chicken Burger,"15,00 TL",Burgerler,5.0
+7f067057-3061-4974-981a-f26d5f93bff8,Tavuklu Saray Kavurma,"27,00 TL",Ana Yemekler,4.0
+6c41c0de-ab12-4452-befe-504325027dbe,Bonfile Saray Kavurma,"40,00 TL",Ana Yemekler,4.0
+331731df-db22-4c7f-b6e9-f29749ee3ecb,Tavuklu Tuğla Sote,"27,00 TL",Ana Yemekler,5.0
+2b0700c2-650e-4ec3-bbde-e99ce10d444a,Bonfile Tuğla Sote,"40,00 TL",Ana Yemekler,5.0
+d80c2cbc-4f1e-4a77-8118-e96e94b4a4d3,Tavuk Şnitzel,"24,00 TL",Ana Yemekler,5.0
+3d8238f6-466c-4bd4-9369-63ff12db9836,Soslu Tavuk Şnitzel,"29,00 TL",Ana Yemekler,5.0
+7bb800c8-8b80-4408-9b2a-f6a26d3d12eb,Tavuk Bonfile,"25,00 TL",Ana Yemekler,5.0
+a8785729-f0f8-4e73-a6f2-f0ec62722b94,Soslu Tavuk Bonfile,"29,00 TL",Ana Yemekler,5.0
+4eb4f0d1-a283-4f34-a2b8-f5b5e9abc1c0,Chicken Amerikano,"29,00 TL",Ana Yemekler,5.0
+9c36c387-e9f1-45e4-96b6-d2420ca38405,Chinese Chicken,"29,00 TL",Ana Yemekler,5.0
+06a0d3cb-5fac-453c-96be-3046803859ef,Köri Soslu Tavuk,"29,00 TL",Ana Yemekler,5.0
+af107192-efd3-4da9-9a86-93a782354efe,Tavuklu Penne,"22,00 TL",Ana Yemekler,5.0
+942e1517-31fa-49b1-8cd3-a3d652faa21e,El Diablo,"40,00 TL",Ana Yemekler,9.0
+24d61dcf-7568-4f22-99b6-702b0be7ae8a,Tavuklu El Diablo,"27,00 TL",Ana Yemekler,9.0
+431961ec-3407-4eaf-87cd-17c413cee9ff,Saray Özel,"37,00 TL",Ana Yemekler,4.0
+7cf2a412-b5f7-4e4b-bd78-506080af38f1,Tavuklu Fajita,"26,00 TL",Diğer Lezzetler,5.0
+20e68c0d-f975-4018-90da-752b33ac7457,Etli Fajita,"40,00 TL",Diğer Lezzetler,5.0
+c819d3ff-1c79-4b5b-b81a-801f501086b4,Tavuklu Papaya,"29,00 TL",Diğer Lezzetler,5.0
+359e046e-7f9a-491e-9f7a-be2a2de5bb74,Etli Papaya,"40,00 TL",Diğer Lezzetler,5.0
+8dd5a2b7-0580-41a8-9dc8-acb4e4a796e9,Tavuklu Burrito,"27,00 TL",Diğer Lezzetler,5.0
+ab4de9f8-b13a-4e1d-9725-35afc86e40c2,Etli Burrito,"38,00 TL",Diğer Lezzetler,5.0
+6684ef93-e0fa-4896-b64d-10fb8452cbc8,Tavuk Nugget (6 Adet),"19,00 TL",Yan Ürünler,5.0
+7914d969-fc60-47a5-8f98-3f67310f76b9,Elma Dilim Patates Kızartması,"12,00 TL",Yan Ürünler,5.0
+c250f590-8975-440b-911a-99ef54923806,Patates Kızartması,"11,00 TL",Yan Ürünler,5.0
+dbaabc24-fd9e-4ce2-ae0a-39265f316f40,Akdeniz Salata,"17,00 TL",Salatalar,5.0
+786cc5cd-7775-473a-acfd-d5adb0c1267d,Chicken Salata,"21,00 TL",Salatalar,5.0
+45ea370f-fd14-41ce-8461-ca9bc8efa0ba,Ton Balıklı Salata,"21,00 TL",Salatalar,5.0
+0cfb22d1-5491-4228-9e34-4756ac061137,Poşet,"0,25 TL",Poşet,5.0

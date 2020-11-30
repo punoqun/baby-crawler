@@ -1,0 +1,70 @@
+food_id,food_name,food_price,food_category,food_score
+c7d95f16-67db-43a4-b67e-1b13febe1da8,Tost Menü,"25,00 TL",Menüler,8.0
+5f32fb48-6afa-456f-8927-90ff54915e78,Sandviç Menü,"25,00 TL",Menüler,5.0
+6cc33925-a4ab-4d0b-8c9d-3e560d4db279,Kanka Menü,"45,00 TL",Menüler,5.0
+6360db7c-0e48-4f77-80db-79a67e906e31,Pilav Menü,"25,00 TL",Menüler,2.0
+9153CF95-6F57-425B-A55D-982178D29BB9,Pilav Menü 1,"13,00 TL",Menüler,10.0
+8EE227F5-B166-4E58-A50D-04251FD9F754,Pilav Menü 5,"18,00 TL",Menüler,6.0
+7bf3f697-efa8-45e8-85c2-a36204734025,"2'li Tavuklu Pirinç Pilavı (1,5 Porsiyon) Menü","40,00 TL",Menüler,7.0
+f42e33b9-5926-4039-a726-ef167ab80028,Ortaya Karışık Menü,"25,00 TL",Menüler,5.0
+47A004F1-0D7B-4463-B390-77DFF71B83CE,Çiğ Köfte Menü (1 kg.),"58,00 TL",Menüler,3.0
+A1D092B7-C3A1-431C-A3C0-8A40185A3551,Çiğ Köfte Menü (600 gr.),"38,00 TL",Menüler,3.0
+1ABB99A8-A383-4C78-88C9-A48E0126C05A,Çiğ Köfte Menü (500 gr.),"35,00 TL",Menüler,3.0
+98049487-B84E-411F-8767-F03941D6F3B9,Çiğ Köfte Menü (400 gr.),"30,00 TL",Menüler,3.0
+E9E9878B-ADEC-4B28-A476-E9717B65196B,2'li Çiğ Köfte Dürüm Menü,"15,50 TL",Menüler,3.0
+19628F51-18FF-48FD-B627-4511526F2301,3'lü Çiğ Köfte Dürüm Menü,"24,00 TL",Menüler,3.0
+E404AEC9-C595-46FD-9E84-F97AFCBC10C4,2' li Mega Çiğ Köfte Dürüm Menü,"28,00 TL",Menüler,44.0
+696EE3E1-7B1D-456F-8AC8-C66BCD81D103,Çig Köfte Dürüm Menü,"8,00 TL",Menüler,5.0
+6C98F2FD-ED17-44E8-9051-972FF7AB035B,6'lı Çiğ Köfte Dürüm Menü,"32,00 TL",Menüler,3.0
+1d2b9b00-dcdb-49b4-85ed-011221012dbc,Kaşarlı Tost,"9,00 TL",Tostlar,8.0
+4b0e0f06-e4e1-4cdd-bddf-06de8c192490,Ayvalık Tostu,"14,00 TL",Tostlar,7.0
+66a3f9ee-5ca8-40bf-9e36-80d1fc764419,Yumurtalı Kaşarlı Tost,"12,00 TL",Tostlar,8.0
+74368af1-deb0-453a-9532-f12458a18478,Ekmek Arası Sanayi Tostu,"14,00 TL",Tostlar,5.0
+a6176e8d-678e-49db-80c2-8f9f00c1bac8,Sucuklu Yumurtalı Tost,"16,00 TL",Tostlar,8.0
+b656a566-9c14-411e-bb77-51122c25de71,Yumurtalı Karışık Tost,"17,00 TL",Tostlar,8.0
+07b3a0d4-71ce-4508-8e65-aac9d8eb08f9,Karışık Sandviç,"16,00 TL",Sandviçler,5.0
+f9c1b5cb-f112-488f-9e98-820f294a426b,Yumurtalı Sandviç,"18,50 TL",Sandviçler,5.0
+90318896-3e19-49e4-90d4-fa0326c093a6,Pirinç Pilavı,"8,00 TL",Pilavlar,4.0
+4f09590e-aabb-4df0-878e-8e064478fa7c,Tavuklu Pirinç Pilavı,"11,00 TL",Pilavlar,12.0
+CD4792CA-3A54-47C0-A7AD-F7976EBD77AE,Çiğ Köfte Dürüm,"5,50 TL",Çiğ Köfteler,8.0
+4817B755-84C1-4001-B71C-C6A03949DA15,Mega Çiğ Köfte Dürüm,"11,00 TL",Çiğ Köfteler,3.0
+BFC55404-2663-40A1-AAC6-4F48026BE6CB,Çiğ Köfte (350 gr.),"20,00 TL",Çiğ Köfteler,3.0
+B2B91609-5677-4369-B54A-C4BE0648DF60,Çiğ Köfte (400 gr.),"22,50 TL",Çiğ Köfteler,3.0
+83C4AC64-D8E1-40FA-8037-9B313BBACE4E,Çiğ Köfte (500 gr.),"27,50 TL",Çiğ Köfteler,3.0
+0E67888F-CE0D-46E9-98A9-D731B74B0308,Çiğ Köfte (600 gr.),"32,50 TL",Çiğ Köfteler,3.0
+725A79E7-40F7-433F-B4FE-6D69B36F8CDE,Çiğ Köfte (800 gr.),"45,00 TL",Çiğ Köfteler,3.0
+F310E603-2A52-455B-A0D5-9E422E23485F,Çiğ Köfte (1 kg.),"55,00 TL",Çiğ Köfteler,3.0
+758437c8-65ab-42aa-ae39-70c7b8ee4196,5'i 1 Yerde,"18,00 TL",Mezeler,14.0
+4b09a2fe-289a-4914-85ea-5476d84183de,Acılı Atom (200 gr.),"10,00 TL",Mezeler,5.0
+61d9c108-c97f-47c8-b26f-5c7ba6f33682,Acılı Ezme (200 gr.),"10,00 TL",Mezeler,5.0
+35b0da11-812f-41f6-9c5d-0cba112fa2b8,Haydari (200 gr.),"10,00 TL",Mezeler,5.0
+6a1573f8-078b-4a6c-aaa5-628ed75866e9,İtalyan Salatası (200 gr.),"10,00 TL",Mezeler,4.0
+6a2dc496-8b20-48f2-a756-1ddea6dbfb9c,Patlıcan Ezme (200 gr.),"10,00 TL",Mezeler,5.0
+9f7bc494-ade9-47d1-b799-b8fcf54cfe4b,Rus Salatası (200 gr.),"10,00 TL",Mezeler,5.0
+02df6745-2660-4cb5-8b5c-f39b673f9f76,Yoğurtlu Közlenmiş Biber (200 gr.),"10,00 TL",Mezeler,5.0
+dfbe9b16-ecf5-479c-ad53-81299d61c3f8,Ekmek Arası Karışık Sandviç,"16,00 TL",Ekmek Arası Ürünler,1.0
+e56e7695-7e1f-4e3a-9de5-8b2b0ee91d3a,Ekmek Arası Izgara Sucuk,"16,00 TL",Ekmek Arası Ürünler,1.0
+0371aa11-e7b9-4abb-b632-4c450b62f424,Patates Kızartması (Orta),"8,00 TL",Yan Ürünler,6.0
+09e2e548-efa8-4ae7-bf8c-5d5ed7ae7dcb,Salatalık Turşusu (100 gr.),"5,00 TL",Yan Ürünler,5.0
+3f8e7834-1705-4254-b455-cf2206e857ac,Soğan Halkası (6 Adet),"9,50 TL",Yan Ürünler,5.0
+0a4df66d-72a4-46c8-accd-3fab55ad1ca1,Kızartma İçli Köfte (Adet),"6,00 TL",Yan Ürünler,5.0
+84945c73-b477-4132-ad0d-89addb934f61,Kızartma İçli Köfte (3 Adet),"17,50 TL",Yan Ürünler,5.0
+550ab3ee-baf6-46bd-9767-07b513d5f1d0,Patates Kızartması (Büyük),"10,00 TL",Yan Ürünler,6.0
+778269d8-83e7-4b09-8072-c267274634e7,Zeytinyağlı Yaprak Sarma (200 gr.),"8,00 TL",Yan Ürünler,4.0
+4f7cd92c-a660-4feb-a876-af86a9b7163b,Zeytinyağlı Yaprak Sarma (300 gr.),"12,00 TL",Yan Ürünler,4.0
+0a84f843-036f-4067-a865-33eb4874312c,Halep Tatlısı,"6,00 TL",Tatlılar,5.0
+37c0da22-5475-4ab5-a8af-65f559bd1932,Kaymaklı Halep Tatlısı (Dilim),"8,00 TL",Tatlılar,5.0
+604e4467-47cb-4071-b6ef-442a7008e6ad,Kaymaklı Tahinli Şambali Tatlısı (Adet),"8,50 TL",Tatlılar,5.0
+bfde4bc4-1c03-4c25-92c6-e60dcc4826b8,Cevizli Saray Burma Baklava (250 gr.),"12,00 TL",Tatlılar,5.0
+c14e7a16-0286-42f8-8b99-d8f1d3d5f1c2,Kaymaklı Şambali Tatlısı (Adet),"6,00 TL",Tatlılar,5.0
+d324ed6c-c0ce-4980-ae15-36705e37b6d5,Şambali Tatlısı (Adet),"4,00 TL",Tatlılar,5.0
+d6f42c86-a889-4365-a8d3-5a90176c5b45,Şambali Tatlısı (3 Adet),"12,00 TL",Tatlılar,5.0
+e7285f4d-54f8-4f18-a6d1-b48dbf75b25b,Kaymaklı Tahinli Halep Tatlısı (Dilim),"10,00 TL",Tatlılar,5.0
+ff8407c5-ab0e-4f50-965c-293b9c2fd47c,Keşkül,"5,00 TL",Tatlılar,5.0
+a0128557-9283-491a-84cf-f07b2ee6ecad,Çikolatalı Puding,"5,00 TL",Tatlılar,5.0
+91a49415-b16c-4fce-bfb8-5e3ae1a0700d,Niğde Gazozu (25 cl.),"4,50 TL",İçecekler,5.0
+2b00d853-b58a-4d78-bf32-43bef160ddd5,Zeytinyağlı Yaprak Sarma (1 kg.),"40,00 TL",Kiloluk Ürünler,4.0
+599dd691-4897-41a8-978e-e562a9894191,Zeytinyağlı Yaprak Sarma (500 gr.),"20,00 TL",Kiloluk Ürünler,4.0
+3bb5bf5b-f47d-4d54-acda-723084294f50,Cevizli Saray Burma Baklava (1 kg.),"40,00 TL",Kiloluk Tatlılar,5.0
+9371109b-2f41-4f23-8d3d-770305fafa74,Cevizli Saray Burma Baklava (500 gr.),"20,00 TL",Kiloluk Tatlılar,5.0
+7f8e602e-231a-4e57-9ad4-b7b0511d33f5,Poşet,"0,25 TL",Poşet,3.0

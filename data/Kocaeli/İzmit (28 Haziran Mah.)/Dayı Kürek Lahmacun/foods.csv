@@ -1,0 +1,17 @@
+food_id,food_name,food_price,food_category,food_score
+e5c580f4-d289-41fd-b2aa-d9f852c51e04,Menü 1,"70,00 TL",Menüler,-2.0
+e33bde48-6c22-485b-8da3-ca7cf6e669d4,Menü 3,"76,00 TL",Menüler,3.0
+62e356ae-5d87-40a0-9c68-4be1f812ccf6,Menü 5,"100,00 TL",Menüler,-1.0
+2D278D0E-2190-4098-8749-F8DB1526A38D,5'li Lahmacun Menü,"45,00 TL",Menüler,11.0
+72a68d4a-d180-41ef-b92c-eaad6add5889,Lahmacun (Çocuk),"6,00 TL",Lahmacunlar,6.0
+c8b9d00f-36f4-4311-97ad-c7287fde3e15,Kürek Lahmacun,"9,00 TL",Lahmacunlar,11.0
+c8ce6292-448f-485a-9fe2-118b5f3efcf4,İsotlu Lahmacun,"9,00 TL",Lahmacunlar,7.0
+530be7b3-c13e-47d2-99e8-c9d1d2ae4cec,Sebzeli Lahmacun,"9,00 TL",Lahmacunlar,6.0
+79df69fa-9d2d-4933-8073-8bce735b0315,Kavurmalı Pide,"30,00 TL",Pideler,5.0
+b955f2f7-4cd3-4b84-869d-a20a9b82a088,Kaşarlı Pide,"20,00 TL",Pideler,5.0
+a11aea59-2e8e-4faa-9ac5-fd019187e439,Kavurmalı Kaşarlı Pide,"30,00 TL",Pideler,5.0
+8b8cf949-4a4a-442b-8272-78d3988ff908,Çiğ Köfte (5 Sıkım),"8,00 TL",Çiğ Köfteler,10.0
+ea24c612-9039-41e2-81c0-996671947c30,Çiğ Köfte (10 Sıkım),"13,00 TL",Çiğ Köfteler,5.0
+3f94287c-af24-4497-97a8-7b5751f6309d,Limonlu Soda,"3,00 TL",İçecekler,5.0
+a30f43d5-627c-48e5-a4ec-aa6f38cc532f,Su,"2,00 TL",İçecekler,5.0
+1e9cb233-acc0-459d-9219-3d2699b781c6,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,25 @@
+food_id,food_name,food_price,food_category,food_score
+ac9e79c4-4954-43b1-9b70-af06e05e24a3,Tavuk Döner Dürüm Menü,"12,90 TL",Menüler,18.0
+6C8E1F78-8581-4BD9-B06D-AB496AE61242,Ekmek Arası Köfte Menü,"14,90 TL",Menüler,6.0
+7D258EA1-3F9C-4329-BDF0-F549BE9E60D3,Kokoreç Menü,"14,90 TL",Menüler,9.0
+5F62B8ED-157B-40B2-AFCB-EDA5B118C2F5,Kremalı Mantarlı Tavuklu Makarna Menü,"22,75 TL",Menüler,4.0
+24F0F5B4-C5DC-41FF-A4C1-EB05EB6F94B3,Ciğer Dürüm Menü,"13,90 TL",Menüler,10.0
+7b5d878a-e47a-47f4-bb63-bc62395f2db6,Karışık Tost,"13,90 TL",Tostlar,7.0
+c153d260-dd72-4851-9bc5-fb358ea1b49a,Kaşarlı Tost,"12,90 TL",Tostlar,7.0
+29bbc8cc-7efe-4bec-8692-41101de54668,İzmir Eritme Sandviç,"19,00 TL",Sandviçler,11.0
+c10f8d8c-b748-4dac-9f4f-99bb202cd453,Kumru Sandviç,"17,00 TL",Sandviçler,8.0
+8c5e4868-4831-4f93-90c1-fbdc060b73e6,Tavuk Fajita,"24,90 TL",Ana Yemekler,5.0
+050e2f8e-5a6b-4da0-b1f5-b47736366f08,Ekmek Arası Köfte,"13,90 TL",Ekmek Arası Ürünler,5.0
+6dfde298-bd7e-4c45-bf20-640702441cfc,Ekmek Arası Ciğer Kavurma,"11,90 TL",Ekmek Arası Ürünler,4.0
+993a4d83-21c6-4e33-8314-5eb541047a7a,Ekmek Arası Kokoreç,"13,90 TL",Ekmek Arası Ürünler,3.0
+17baa131-2b11-460b-b28e-8aadb292ed1f,Domates Soslu Makarna,"18,00 TL",Makarnalar,3.0
+346b22ea-e0df-43b1-9b3b-acf515179bdd,Kremalı Mantarlı Makarna,"18,90 TL",Makarnalar,7.0
+4c339e2e-5c2e-440b-bfa9-7928e97f9f7b,Köri Soslu Makarna,"18,90 TL",Makarnalar,5.0
+1f997737-21d1-4f0b-a2dd-b60818b03d7a,Parmak Patates Kızartması,"7,90 TL",Yan Ürünler,7.0
+66cb330c-96de-4521-b1dd-9b4598a84ba3,Tavuk Schnitzel (1 Adet),"6,90 TL",Yan Ürünler,8.0
+2CA3D6B7-F973-48F2-8A4C-04C525CB76F7,Pepsi Twist (33 cl.),"6,00 TL",İçecekler,5.0
+3F6B693F-11AD-4FF7-9814-60A0054E779A,Yedigün (20 cl.),"4,50 TL",İçecekler,5.0
+f9046e43-7405-47f5-bfb6-2df6402e2aac,Niğde Gazozu (25 cl.),"4,00 TL",İçecekler,5.0
+655d9fa2-fede-4d66-b0de-fecc1b4d51d3,Acılı Şalgam Suyu (30 cl.),"3,00 TL",İçecekler,5.0
+077F1FD6-AE15-4686-933D-278ED4EAEA7A,Acılı Şalgam Suyu (1 L.),"8,50 TL",İçecekler,5.0
+7020f284-a701-4a4f-af5b-6c0c965d336e,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,39 @@
+food_id,food_name,food_price,food_category,food_score
+1954c849-5bf1-490d-a119-91edc745418b,Karışık Tost,"14,50 TL",Tostlar,1.0
+4743572e-a986-437c-b8ed-236f2915a368,Ayvalık Tostu,"22,00 TL",Tostlar,3.0
+74057bb9-8e8d-4e3a-b23a-8ed8c331063a,Kavurmalı Kaşarlı Tostu,"30,00 TL",Tostlar,2.0
+a42d44a3-4de7-4156-9d52-26377d11c6b9,Pastırmalı Kaşarlı Tost,"28,00 TL",Tostlar,4.0
+69b405d9-1da8-4bb9-92a8-9ae08039bb29,Sucuklu Tost,"14,50 TL",Tostlar,2.0
+ec41f204-8f62-451b-91d5-06212155a92a,Kaşarlı Tost,"12,50 TL",Tostlar,0.0
+6714196c-e558-48ed-99be-eea3436f3d7f,Süper Ayvalık Tostu,"22,00 TL",Tostlar,9.0
+5442523a-9ccb-4d62-9122-cbe0482034a6,Karışık Yengen Sandviç,"20,00 TL",Sandviçler,10.0
+a80503ec-ece4-421b-be09-d402b4c7311f,Rus Salatalı Sosisli Patatesli Sandviç,"22,00 TL",Sandviçler,5.0
+fe6a5d85-dc81-4668-bdf0-f4f0636c4d4c,İzmir Rus Salatalı Sandviç,"25,00 TL",Sandviçler,5.0
+5f6e0201-8aa5-418f-a4c6-690b79c8175e,Eritme Kaşarlı Pastırmalı Sucuklu Yumurtalı Sandviç,"30,00 TL",Sandviçler,11.0
+eaf25533-e467-4839-aef5-5b0aa00693ee,İzmir Bol Döküm Kaşar Eritmeli Sandviç,"24,00 TL",Sandviçler,11.0
+32de8be8-1e32-42d9-9c58-50fae428dfbb,Özel Sosisli Goralı Sandviç,"23,00 TL",Sandviçler,7.0
+0418e96b-92dc-4f7b-95fd-c60936ebca6b,Eritme Kaşarlı Pastırmalı Sandviç,"28,00 TL",Sandviçler,11.0
+f7d69a25-de17-429b-bb40-b6d64728c93e,İzmir Usulü Bol Döküm Sandviç,"22,00 TL",Sandviçler,12.0
+573744bb-609b-4ac1-9e17-9ecea8eac8e6,Salamlı Kaşarlı Soğuk Sandviç,"23,00 TL",Sandviçler,3.0
+4056f5f4-4b95-4634-abbf-cda210a90e39,Ton Balıklı Sandviç,"23,00 TL",Sandviçler,5.0
+f4235bea-ba19-4c22-8900-adc6ee4129d1,Patso Sandviç,"20,00 TL",Sandviçler,5.0
+1a62aa7a-e872-4a78-b05e-d5e51ae57137,Karşıyaka Kumru,"25,00 TL",Sandviçler,8.0
+4bd7746c-5ec4-4b33-a187-61fe66116acb,Özel Sucuk & Kaşar Eritme Sandviç,"25,00 TL",Sandviçler,8.0
+abd1c2fc-6fc8-40f8-b24c-84b2c2754a85,Çember Burger,"24,00 TL",Burgerler,5.0
+9aac050d-f56d-4792-b4a7-4d314df6fb91,Hamburger,"20,00 TL",Burgerler,5.0
+1c4cfb89-a021-435b-93e9-80068a5b9ee6,Cheeseburger,"25,00 TL",Burgerler,5.0
+e7ed1cd0-29de-45b4-a79f-0b3416956295,Ekmek Arası Köfte,"19,00 TL",Ekmek Arası Ürünler,2.0
+f40123e2-ad41-49e0-844d-e72cf4d9092a,Ekmek Arası Eritme Kaşarlı Köfte,"22,00 TL",Ekmek Arası Ürünler,4.0
+4fd462e6-a822-4a83-919d-4a61cd91fe6f,Ekmek Arası Kokoreç,"22,00 TL",Ekmek Arası Ürünler,7.0
+9d8796ee-244f-4fc7-86a1-f9c914abee90,Ekmek Arası Kuzu Çöp Şiş,"25,00 TL",Ekmek Arası Ürünler,3.0
+ec72e854-d641-497f-8549-4eb2eddfd555,Ekmek Arası İstanbul Usulü Kokoreç,"24,00 TL",Ekmek Arası Ürünler,7.0
+717644c0-97a9-4b42-bff3-3bb7573d5361,Ekmek Arası Kavurma,"27,00 TL",Ekmek Arası Ürünler,3.0
+89464318-6c2c-41dc-89bc-098d4daa4793,Adana Dürüm,"19,00 TL",Dürümler,4.0
+fc75ced3-8743-4d1d-a013-1d6d42db0d9e,Urfa Dürüm,"19,00 TL",Dürümler,2.0
+682a4140-ce00-4e0c-81c0-9827908b6971,Tavuk Dürüm,"19,00 TL",Dürümler,4.0
+4b581b2d-2b61-4272-abdc-e3e7e479f317,Kavurma Dürüm,"27,00 TL",Dürümler,4.0
+ac96c91a-f726-4068-96c9-4a89c45a1b88,Kuzu Çöp Şiş Dürüm,"25,00 TL",Dürümler,4.0
+45a81173-14fe-46b5-8d79-455be44f43dd,Patates Kızartması,"12,00 TL",Yan Ürünler,5.0
+737C1071-1FA9-441A-8DF5-992347BFEDEE,"Yörükoğlu Ayran (28,5 cl.)","5,00 TL",İçecekler,5.0
+775a6ef8-6755-43a0-9d5e-4759866bf709,Su,"3,50 TL",İçecekler,5.0
+ca09547e-403c-43c4-87c6-3e27177ffbd3,Poşet,"0,25 TL",Poşet,5.0

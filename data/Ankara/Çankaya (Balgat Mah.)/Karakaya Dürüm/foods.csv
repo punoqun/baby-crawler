@@ -1,0 +1,33 @@
+food_id,food_name,food_price,food_category,food_score
+4abf9076-9b11-4ffc-8340-3fd1024df9ff,Urfa Kebap (220 gr.),"32,00 TL",Kebaplar,7.0
+a547cd7d-ca51-465b-a299-f9330322e280,Beyti Kebap (230 gr.),"35,00 TL",Kebaplar,7.0
+a551fd95-ac49-412a-b4b2-c84ec55d872c,Adana Kebap (220 gr.),"32,00 TL",Kebaplar,6.0
+ba452175-a8e7-4107-8b5d-83e2e140dc9a,Ciğer Şiş (220 gr.),"30,00 TL",Izgaralar,5.0
+bbf01bbe-45a7-48dd-9181-9ac944998ef9,Çöp Şiş (220 gr.),"32,00 TL",Izgaralar,5.0
+c2967207-2707-41c8-a593-09547b15d669,Tavuk Kanat (6 Adet),"25,00 TL",Izgaralar,4.0
+1b26ef42-dd83-4ebe-b2b4-432b09588f90,Cızbız Köfte (220 gr.),"25,00 TL",Izgaralar,5.0
+274b4e87-22a7-4309-9709-9a8986e0fd2b,Kuzu Şiş (220 gr.),"35,00 TL",Izgaralar,5.0
+4b6903f1-9be2-4f10-a149-dd5ee8c2595d,Tavuk Şiş (220 gr.),"25,00 TL",Izgaralar,4.0
+ef87f65d-ab5f-4d4f-afc9-7780e7fc2f66,Adana Dürüm (120 gr.),"20,00 TL",Dürümler,14.0
+38613b92-9c6e-4092-91dd-05b147a43403,Urfa Dürüm (120 gr.),"20,00 TL",Dürümler,10.0
+66a2d22a-cb17-4e6f-9436-8eb97f3835c5,Kuzu Çöp Şiş Dürüm (120 gr.),"22,00 TL",Dürümler,10.0
+76eb50c5-d1b8-431b-9aaf-a6bc72148333,Tavuk Şiş Dürüm (120 gr.),"18,00 TL",Dürümler,9.0
+94e42171-8bdd-4bbd-9b84-6d0a12d32b86,Kuzu Şiş Dürüm (120 gr.),"25,00 TL",Dürümler,10.0
+919f299b-e30e-4402-9580-2d4577b0bbde,Cızbız Köfte Dürüm (120 gr.),"18,00 TL",Dürümler,10.0
+bf00d466-4d53-433d-9674-5147b0dfc2c5,Ciğer Şiş Dürüm (120 gr.),"22,00 TL",Dürümler,10.0
+f679f0e9-6e17-498e-8ac9-3210c7202dad,Tavuk Döner (200 gr.),"20,00 TL",Tavuk Dönerler,6.0
+dbe5bf58-0eff-4731-ae2f-ad301459708b,Pilav Üstü Tavuk Döner (120 gr.),"20,00 TL",Tavuk Dönerler,7.0
+908351c1-d5da-4d6d-8e65-b148b3f3c3f3,Tavuk Döner Dürüm (120 gr.),"10,00 TL",Tavuk Dönerler,16.0
+0d547187-d0bf-46bc-8862-d2f9fd973445,Tam Ekmek Arası Tavuk Döner (120 gr.),"20,00 TL",Tavuk Dönerler,8.0
+d746428f-ef67-43b1-868d-aa2a83775f35,Yarım Ekmek Arası Tavuk Döner (120 gr.),"10,00 TL",Tavuk Dönerler,8.0
+7b715180-8040-436f-b832-0fdab89750af,Yarım Ekmek Arası Patates Kızartması,"9,00 TL",Yarım Ekmek Arası Ürünler,7.0
+2a621797-7103-4d36-9e01-7e78b5c76c1a,Yarım Ekmek Arası Kokoreç (100 gr.),"20,00 TL",Yarım Ekmek Arası Ürünler,7.0
+2f922f25-f9ae-43fb-8d0c-256ed9af4845,Yarım Ekmek Arası Izgara Sucuk,"18,00 TL",Yarım Ekmek Arası Ürünler,7.0
+58a7c32e-d433-4366-b43c-1fee5beee3aa,Tam Ekmek Arası Izgara Sucuk,"22,00 TL",Tam Ekmek Arası Ürünler,7.0
+7c07929d-d0e5-4fa3-bb1f-24667ee9bcb8,Tam Ekmek Arası Kokoreç (200 gr.),"40,00 TL",Tam Ekmek Arası Ürünler,7.0
+eeccdd31-bf5a-4433-9c8c-46092061c791,Tam Ekmek Arası Patates Kızartması,"15,00 TL",Tam Ekmek Arası Ürünler,7.0
+748d1298-a40b-4a89-82b5-241070484326,Mantı (300 gr.),"30,00 TL",Mantı,5.0
+4ce8f009-6152-4364-a7f5-748f60aec19a,Patates Kızartması,"15,00 TL",Yan Ürünler,5.0
+a4f93d9e-7b0d-4e81-8783-a256a70132a3,Fırın Sütlaç (250 gr.),"10,00 TL",Tatlılar,5.0
+9e5fbd3b-cffd-4a0e-8901-1c796a9fe4bd,Ayran (23 cl.),"2,00 TL",İçecekler,5.0
+4e9a105f-bdc4-4861-be9d-0d2251789a6f,Poşet,"0,25 TL",Poşet,5.0

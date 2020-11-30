@@ -1,0 +1,55 @@
+food_id,food_name,food_price,food_category,food_score
+5905c514-77f0-408f-b02b-a49080c10baa,Tavuk Pirzola,"25,00 TL",Kebaplar & Izgaralar,4.0
+db26379b-aa10-469d-bd08-da33543e48e8,Tavuk Kanat,"26,00 TL",Kebaplar & Izgaralar,9.0
+bd95af8f-7a7b-469e-ad66-1cca7cd69d0d,Adana Kebap,"30,00 TL",Kebaplar & Izgaralar,5.0
+9a061620-0d87-4476-a1b9-fd4d5e288de2,Ciğer Şiş,"40,00 TL",Kebaplar & Izgaralar,5.0
+68b05af9-5403-46b7-86b7-42e5a6368459,Kuzu Şiş,"40,00 TL",Kebaplar & Izgaralar,5.0
+4def6b1e-f211-4155-8122-c95587775cd0,Patlıcanlı Kebap,"40,00 TL",Kebaplar & Izgaralar,5.0
+7e781d0a-96f2-463e-a5ba-3f72dd98ef5a,Tavuk Şiş,"25,00 TL",Kebaplar & Izgaralar,4.0
+562f82e1-f715-485d-b599-28380a725a7e,Urfa Kebap,"30,00 TL",Kebaplar & Izgaralar,5.0
+7c0659d6-630c-45bd-8567-283bca46313a,Beyaz Lahana Dolması (Etli),"12,00 TL",Ev Yemekleri,5.0
+59623302-a6c2-4618-bc64-ae6491219ba5,Karnabahar,"8,00 TL",Ev Yemekleri,5.0
+e2000b2e-1e46-4c65-9164-ee45eadd215d,Kapuska,"8,00 TL",Ev Yemekleri,5.0
+4a1d6710-f92f-4c51-9ef2-7d3070740af8,Pırasa Yemeği,"8,00 TL",Ev Yemekleri,7.0
+b98c8d43-2aa9-4439-a78e-beedffb00838,İmambayıldı,"10,00 TL",Ev Yemekleri,5.0
+4943281e-c0d1-491f-a242-2e04dfdfb36a,Osmanlı Usulü İmambayıldı,"8,00 TL",Ev Yemekleri,5.0
+5c47cba7-87a8-4de8-bfaf-0094fa43904e,Tavuklu Patlıcan Musakka,"12,00 TL",Ev Yemekleri,5.0
+0e46e390-2208-4b8e-96dd-36d6852ab70a,Beyaz Lahana Dolması (Etsiz),"10,00 TL",Ev Yemekleri,5.0
+d0ee86a6-9e99-4ebe-960b-01b5dc73c86f,Biber Dolması (Etli),"12,00 TL",Ev Yemekleri,5.0
+6b0c4817-7401-46ab-ae19-4e6e63744d31,Biber Dolması (Etsiz),"10,00 TL",Ev Yemekleri,5.0
+78b57102-2853-499b-9e47-b1d2c5976187,Çıtır Tavuk,"12,00 TL",Ev Yemekleri,4.0
+417242d7-d365-43b5-8b66-cb16ec685743,Etli Güveç,"15,00 TL",Ev Yemekleri,5.0
+a01e8ccb-d332-4154-a191-41932e181d3e,Fırın Tavuk,"12,00 TL",Ev Yemekleri,4.0
+f8938210-bb5c-49ae-ac36-3de39cfe4316,Fırın Tavuk Sarma,"12,00 TL",Ev Yemekleri,4.0
+b15ae89b-f427-44e6-816c-d43abf790a47,Hasanpaşa Köfte,"16,00 TL",Ev Yemekleri,5.0
+7a8aac68-0808-40b7-98cb-fb8d48d4c39b,İslim Köfte,"14,00 TL",Ev Yemekleri,5.0
+7d95bd25-780d-4592-b66e-759eb79658c1,Ispanak Yemeği,"10,00 TL",Ev Yemekleri,7.0
+add58a05-9578-4bfd-be61-1dcf48eb6d8f,İzmir Köfte,"12,00 TL",Ev Yemekleri,5.0
+b6a27f16-a695-4bcf-a4fb-0737d6e86717,Kadınbudu Köfte,"15,00 TL",Ev Yemekleri,5.0
+644be0b1-e8fe-4f62-ba03-ea7c9ccc0e4e,Karışık Dolma,"10,00 TL",Ev Yemekleri,5.0
+ca10604b-a223-4605-b87e-08504a1837b2,Karışık Kızartma,"10,00 TL",Ev Yemekleri,5.0
+6fc80a1f-f10f-4897-a53d-337fce6aa91c,Karnabahar Graten,"10,00 TL",Ev Yemekleri,5.0
+e46ce417-23e8-4c52-848b-6449d6932179,Karnıyarık,"12,00 TL",Ev Yemekleri,5.0
+3dbb4dd9-3487-4afb-8359-f61e6b85167e,Kuru Fasulye,"8,00 TL",Ev Yemekleri,5.0
+fceadb24-ada5-4ef0-88a4-b5bc5875cf53,Kuru Köfte,"12,00 TL",Ev Yemekleri,5.0
+884ede6d-fdbe-4742-b8d2-a8dfa3e9dcef,Misket Köfte,"12,00 TL",Ev Yemekleri,5.0
+94a8c5f0-8bac-49fd-9eff-c05a6a3457a2,Nohut,"8,00 TL",Ev Yemekleri,5.0
+90eb3a94-5386-4052-82ee-2f17da4433ab,Orman Kebabı,"15,00 TL",Ev Yemekleri,5.0
+3f8567e7-76cd-409a-bc63-ad98c7032c41,Patates Oturtma,"12,00 TL",Ev Yemekleri,5.0
+616847c9-b854-4cf3-a3f0-7e85fd194c59,Patlıcan Musakka,"12,00 TL",Ev Yemekleri,5.0
+eaf71c06-541e-4cf2-a6ae-2178883d3ee1,Patlıcan Sarma,"14,00 TL",Ev Yemekleri,5.0
+38e91cb9-8422-4832-84e9-9f38ec353385,Sebze Oturtma,"12,00 TL",Ev Yemekleri,5.0
+c7e201bb-aac2-4090-92aa-a92796da6a9b,Sebzeli Köfte,"12,00 TL",Ev Yemekleri,5.0
+2279a202-b54f-4b4d-88f4-5149b69b8086,Sebzeli Tavuk,"12,00 TL",Ev Yemekleri,4.0
+52aa58bf-47f2-42f2-bdf2-f6b5351b0a8e,Tas Kebabı,"18,00 TL",Ev Yemekleri,5.0
+5a3afb4a-dd00-4d94-87be-8bf1965b6a7b,Tavuk Haşlama,"12,00 TL",Ev Yemekleri,4.0
+683b9321-7ab6-4a5d-b4ae-9ef1e62f88cc,Tavuk Pane,"12,00 TL",Ev Yemekleri,4.0
+e1a67c99-8caa-45af-8867-d2e3a07b8616,Tavuk Sote,"12,00 TL",Ev Yemekleri,4.0
+644bd6a3-8012-42a6-a560-8f98a0343102,Tavuklu Kabak Graten,"12,00 TL",Ev Yemekleri,5.0
+478f7830-0eb4-4d9d-a592-ce5cb6824dea,Türlü,"10,00 TL",Ev Yemekleri,5.0
+cd983ab8-c30d-444e-81ce-a78ae346041f,Adana Dürüm,"17,00 TL",Dürümler & Ekmek Arası Ürünler,10.0
+ad3458b3-560d-48e1-a2e2-40372756fb3c,Ciğer Dürüm,"20,00 TL",Dürümler & Ekmek Arası Ürünler,10.0
+dcd6f3a9-6656-4256-be70-ce4f439822c9,Kuzu Şiş Dürüm,"20,00 TL",Dürümler & Ekmek Arası Ürünler,5.0
+5b0ce6ce-1a84-445f-a191-ae75c15f7e09,Tavuk Şiş Dürüm,"15,00 TL",Dürümler & Ekmek Arası Ürünler,4.0
+440177f1-bf6a-4f89-9939-6b778deabea9,Urfa Dürüm,"17,00 TL",Dürümler & Ekmek Arası Ürünler,5.0
+61ce4739-52fa-4bab-9b21-d47e63f4cec2,Poşet,"0,25 TL",Poşet,5.0

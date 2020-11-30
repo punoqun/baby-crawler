@@ -1,0 +1,53 @@
+food_id,food_name,food_price,food_category,food_score
+06e7e6a6-af19-4c9e-bfe1-856ff361bb56,Kahvaltı Tabağı,"26,00 TL",Kahvaltılıklar,5.0
+75c4862e-bca2-4359-9592-ae4f55e287db,Sahanda Yumurta,"18,00 TL",Kahvaltılıklar,5.0
+f63f4bbc-b4bf-4a3c-8956-2216c7aa6e92,Sucuklu Yumurta,"22,00 TL",Kahvaltılıklar,5.0
+082064a5-dc9a-45a3-a2c1-0ccbd8d38cf5,Kaşarlı Omlet,"22,00 TL",Kahvaltılıklar,5.0
+7f80821b-7603-455a-bf93-98268cba2b37,Menemen,"20,00 TL",Kahvaltılıklar,4.0
+8f844b54-4de1-49d8-86f1-234d0218dd1c,Damar Çorbası,"28,00 TL",Çorbalar,5.0
+ea63feeb-6304-4f76-a9a1-6c13f7b803d6,Dil Çorbası,"26,00 TL",Çorbalar,5.0
+bfbe104f-55ec-4692-9fb9-6eb1044cbeca,Kokteyl Çorba,"30,00 TL",Çorbalar,12.0
+a7849312-80a6-4631-8262-1c37046267d4,Şırdan Çorbası,"24,00 TL",Çorbalar,5.0
+9985ab0b-26f0-4a72-8553-898d892f9d0b,Adana Kebap,"30,00 TL",Kebaplar,4.0
+63d50ef8-b7f6-49c1-b9a4-45882cf1d530,Urfa Kebap,"30,00 TL",Kebaplar,5.0
+b184e222-28ff-45ff-a246-85263bdcca28,Beyti Kebap,"30,00 TL",Kebaplar,5.0
+98ee2ce9-1074-4a70-8883-bda782a412a9,Sarma Beyti Kebap,"32,00 TL",Kebaplar,5.0
+525087d9-5245-4a68-a323-5b6a95c2b193,Patlıcanlı Kebap,"32,00 TL",Kebaplar,5.0
+0b764a29-aa69-4650-ae3d-a0d86552cde6,Domatesli Kebap,"30,00 TL",Kebaplar,5.0
+56c6e127-f165-4d78-a9c3-7959427d8a80,Yoğurtlu Kebap,"32,00 TL",Kebaplar,5.0
+80dfc8d2-a895-461a-9c87-2c1f361c55cd,Alinazik Kebap (Kuzu Şişten),"44,00 TL",Kebaplar,5.0
+5c98ad21-49a6-478f-a946-7af11c4db091,Çorbası Spesiyal Kebap (2 Kişilik),"82,00 TL",Kebaplar,5.0
+bc532b78-55f1-4af0-9777-28c9c1de400b,Izgara Köfte,"28,00 TL",Izgaralar,5.0
+97a07d9e-3d7b-400c-8b9d-caebd7e32151,Tavuk Şiş,"28,00 TL",Izgaralar,23.0
+6b9b7cee-64be-4532-b0d7-d97884090b19,Tavuk Kanat,"30,00 TL",Izgaralar,23.0
+268e4341-9823-42bb-90d2-7b1469f9a22f,Tavuk Izgara,"28,00 TL",Izgaralar,23.0
+d32378f1-e3ce-486e-9e31-ee6c6d2fba09,Kuzu Şiş,"42,00 TL",Izgaralar,4.0
+e2d4f37c-a6fb-463c-9208-98c77a6df6b2,Kuzu Pirzola,"48,00 TL",Izgaralar,4.0
+e2036120-8797-49ba-a805-7068b492552d,Karışık Izgara,"55,00 TL",Izgaralar,5.0
+4bbe13c5-19fa-4d6d-b795-2b0b7c2951f3,Lahmacun,"14,00 TL",Fırın Ürünleri,12.0
+4405ea9a-4cfe-482e-a8fd-dc1aeddbaae0,Kıymalı Pide,"20,00 TL",Fırın Ürünleri,9.0
+b1b872e7-e022-4373-b90d-563b2bd88b8d,Kaşarlı Pide,"20,00 TL",Fırın Ürünleri,9.0
+9995af03-3bd6-4b15-9c8f-3ce19039d0cb,Kıymalı Kaşarlı Pide,"22,00 TL",Fırın Ürünleri,9.0
+b5a83104-a78c-4d98-ba02-37ed266afba8,Sucuklu Kaşarlı Pide,"24,00 TL",Fırın Ürünleri,9.0
+dc110363-b6cb-4a8c-bc42-2caa2dc722aa,Kuşbaşılı Pide,"24,00 TL",Fırın Ürünleri,8.0
+8dcbd34d-089c-46b7-9cd4-c16700159ed8,Kuşbaşılı Kaşarlı Pide,"26,00 TL",Fırın Ürünleri,8.0
+65ec38e5-7ae0-4cf4-8579-70525e0fb402,Karışık Pide,"24,00 TL",Fırın Ürünleri,9.0
+da79e122-891c-42f6-af8d-827c19ff0d27,Spesiyal Pide,"26,00 TL",Fırın Ürünleri,9.0
+cddfff2d-a232-499c-a36c-77469d057a08,Dil Söğüş,"34,00 TL",Spesiyaller,4.0
+6d3d2f45-a07c-4be9-a3cb-2a4496b148f6,Beyin Söğüş,"34,00 TL",Spesiyaller,4.0
+4afb430d-f4b4-4e6a-abe2-c6dc86e2b463,Karışık Söğüş,"38,00 TL",Spesiyaller,4.0
+e1e4eda2-29d3-461b-83ee-b9d6fc587d96,Kelle Tandır,"40,00 TL",Spesiyaller,6.0
+d849a3ab-8c00-4ebc-b8b1-5bf69386811d,Sac Kavurma,"45,00 TL",Spesiyaller,5.0
+10534b7e-0331-4bc7-8aaa-b8f7a8cc1241,Kuzu Güveç,"40,00 TL",Güveçte Ürünler,4.0
+57a86af8-1892-4c4c-afab-def8a1d769e7,Tavuk Güveç,"40,00 TL",Güveçte Ürünler,23.0
+2a3aeb3b-90d7-458c-9f9d-372012ae9c6d,Köfteli Güveç,"40,00 TL",Güveçte Ürünler,5.0
+67889aae-fdf9-4904-b3e2-1663b1dbd384,Karışık Güveç,"45,00 TL",Güveçte Ürünler,5.0
+0d2aed61-2613-40da-ac80-2bf3031c597f,Çoban Salata,"14,00 TL",Salatalar,5.0
+86e4455c-5987-4d0d-990f-b10ae0eacc8c,Mevsim Salata,"14,00 TL",Salatalar,5.0
+5aadab53-e90f-4b0b-8565-95b7366be144,Kaşık Salata,"16,00 TL",Salatalar,7.0
+e3393d3e-38a8-457f-b59e-33a9d6b04f03,Spesiyal Salata,"16,00 TL",Salatalar,5.0
+f3740de1-a1fe-44ac-a388-29069442ff7f,Kabak Tatlısı,"15,00 TL",Tatlılar,5.0
+93e5495d-5c61-4ad4-8da0-d14d8212eb2c,Fırın Sütlaç,"14,00 TL",Tatlılar,5.0
+e5584554-e564-4f0b-a481-92f84faf53a5,Künefe,"15,00 TL",Tatlılar,7.0
+3790c8ce-7731-408b-91b5-0950fa3b68b2,Su,"2,00 TL",İçecekler,5.0
+f98c59ca-b8f6-4a24-9946-941efab2e726,Poşet,"0,25 TL",Poşet,5.0

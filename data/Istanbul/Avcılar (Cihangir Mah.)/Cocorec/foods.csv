@@ -1,0 +1,37 @@
+food_id,food_name,food_price,food_category,food_score
+96f587f9-9f77-48e3-a677-4c2e14800939,Izgara Köfte Menü,"47,00 TL",Ekonomik Menüler,16.0
+c35d5637-958f-4237-9533-180d0b34031e,Ekmek Arası Köfte Menü,"26,50 TL",Ekonomik Menüler,15.0
+75e41465-5df3-43c8-b139-d75ba8d8c285,Kokoreç Menü,"52,00 TL",Ekonomik Menüler,8.0
+63d63639-b0db-446f-9603-a35f7330e9c0,Ekmek Arası Kokoreç Menü,"27,50 TL",Ekonomik Menüler,7.0
+aa3f7ed4-146b-4fd1-a518-4819b419fed8,Ekmek Arası Sucuk Menü,"26,50 TL",Ekonomik Menüler,7.0
+a993cfdc-1c87-4e79-b033-1164627452a7,Aile Menüsü,"100,00 TL",Ekonomik Menüler,5.0
+75bf58bb-6e49-4972-86fc-9b65f2f881f3,Çeyrek Ekmek Arası Kokoreç,"10,00 TL",Kokoreçler,4.0
+E388AE85-8F3B-4115-A409-D9B66DE846FD,Yarım Ekmek Arası İzmir Usulü Kokoreç,"22,00 TL",Kokoreçler,4.0
+97EB41A5-1C07-48ED-852F-D2FBFB065ECC,3/4 Ekmek Arası İzmir Usulü Kokoreç,"30,00 TL",Kokoreçler,4.0
+1e40d4fa-2790-463b-b4b0-d5e4d21cd0d2,Yarım Ekmek Arası Kokoreç,"17,00 TL",Kokoreçler,9.0
+233f7208-f3e2-4669-a6f0-aec9f0013f6e,3/4 Ekmek Arası Kokoreç,"25,00 TL",Kokoreçler,9.0
+279d9c9e-387e-4c3f-92d1-a336ab25348d,Tam Ekmek Arası Kokoreç,"32,00 TL",Kokoreçler,4.0
+4a9f9122-eea7-4d17-901c-6a35dbf8302f,Special Kokoreç Wrap,"28,00 TL",Kokoreçler,5.0
+37779419-878e-44b3-915c-3fd910cc2784,Kokoreç,"35,00 TL",Kokoreçler,5.0
+59d23bbb-50b3-4937-833a-61fd72ff4d4a,Çeyrek Ekmek Arası Köfte,"10,00 TL",Köfteler,12.0
+67570462-d263-4773-9b2d-d3ed4bc3d0b2,Yarım Ekmek Arası Köfte,"17,00 TL",Köfteler,17.0
+72e4525a-5b81-45f6-a168-55018b368ec2,3/4 Ekmek Arası Köfte,"24,00 TL",Köfteler,12.0
+b233f19d-16e6-46c4-9c46-e6381f1d54ed,Tam Ekmek Arası Köfte,"32,00 TL",Köfteler,12.0
+c4e45107-c5ae-460e-a1e0-6339be04528e,Special Köfte Wrap,"28,00 TL",Köfteler,13.0
+9bc64a26-5f4f-4c51-ad6e-398cdeeeb90a,Izgara Köfte,"30,00 TL",Köfteler,13.0
+c9bc1810-ac0c-4fc4-b0bf-4bdf8fd7d203,Çeyrek Ekmek Arası Sucuk,"10,00 TL",Sucuklar,4.0
+9added70-3c9d-479f-9362-7cba7723a049,Yarım Ekmek Arası Sucuk,"17,00 TL",Sucuklar,4.0
+7512ccf7-34b8-4332-853c-4103166cc63f,3/4 Ekmek Arası Sucuk,"24,00 TL",Sucuklar,4.0
+9439dd08-66e2-4bcb-ac86-216590791bda,Tam Ekmek Arası Sucuk,"32,00 TL",Sucuklar,4.0
+36f525f5-8638-408b-b914-6735a258df25,Special Sucuk Wrap,"28,00 TL",Sucuklar,5.0
+3e9967ca-8cba-4dae-bfd9-00c04f6fe627,Izgara Sucuk,"30,00 TL",Sucuklar,5.0
+24641116-e0ce-4da7-b1a9-e8c32699a3af,Turşu,"6,00 TL",Yan Ürünler,5.0
+fbed0b4e-c740-4886-9463-f4a7f36f211f,Piyaz,"10,00 TL",Yan Ürünler,5.0
+c3603b38-3872-424d-8e5a-9cd6d9a8aedb,Pilav,"7,00 TL",Yan Ürünler,5.0
+5a3a1f89-255a-47c8-a2e3-6a15c5f561ff,Patates Kızartması,"10,00 TL",Yan Ürünler,5.0
+632A4453-8391-4884-A85B-1AA214A5E2F5,Midye Dolma (Adet),"1,50 TL",Yan Ürünler,3.0
+9B5BB063-7192-4191-A16C-B7612BD9404E,Baharatlı Patates Kızartması,"10,00 TL",Yan Ürünler,5.0
+891A88DA-5ECA-490F-BA9F-7669ACE938E9,Soğan Halkası (8 Adet),"8,00 TL",Yan Ürünler,5.0
+4B3F354F-0BC5-4031-A0F3-F93BC617837D,Nugget (6 Adet),"9,00 TL",Yan Ürünler,5.0
+cd720076-ac93-4f8b-a698-f276c8cf85e4,Su (25 cl.),"2,00 TL",İçecekler,5.0
+e4c13107-2794-48fb-934f-6c4611b3c1b4,Poşet,"0,25 TL",Poşet,5.0

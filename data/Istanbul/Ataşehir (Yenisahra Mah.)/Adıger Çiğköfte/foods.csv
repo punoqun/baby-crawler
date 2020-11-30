@@ -1,0 +1,41 @@
+food_id,food_name,food_price,food_category,food_score
+569a632e-52ba-437d-99a2-e6be4f3eb449,Duble Dürüm Menü,"19,50 TL",Menüler,1.0
+f6d6b245-e7bf-4843-9194-19acfdafe5aa,İçli Köfte Menü,"22,50 TL",Menüler,5.0
+6ba46a45-b971-488c-b307-5fa0198e2a1a,Midye Dolma Menü,"24,00 TL",Menüler,8.0
+b589ba26-f6ef-463c-9ebb-0628e59e32c8,Aile Boyu Lezzet Menü,"80,00 TL",Menüler,11.0
+de8aeaea-4716-4603-a791-b139a37bc13f,Çiğ Köfte Dürüm,"6,50 TL",Çiğ Köfteler,6.0
+c2768fa7-f3e9-47b0-81b5-0708209ac65a,Duble Çiğ Köfte Dürüm,"10,50 TL",Çiğ Köfteler,4.0
+bc66e586-4c9e-4141-9087-bd98d7e65b42,Zeytinyağlı Çiğ Köfte Sarma Dürüm (170 - 200 gr.),"12,50 TL",Çiğ Köfteler,4.0
+85b5d70e-b8fd-4390-8410-bc7b4aafba04,Çiğ Köfte (200 gr.),"13,00 TL",Çiğ Köfteler,3.0
+9272c771-8460-4262-800e-f18084101221,Çiğ Köfte (400 gr.),"21,00 TL",Çiğ Köfteler,3.0
+3c27b03c-5a7d-4b23-9cec-a01a00cd1d7a,Çiğ Köfte (500 gr.),"26,00 TL",Çiğ Köfteler,3.0
+d4dcf8f7-f2a6-4faa-bfbf-01bf95551bdd,Çiğ Köfte (500 gr.) (Garnitürsüz),"21,00 TL",Çiğ Köfteler,3.0
+0058c1a4-cfa6-4072-9dbf-44445fa6f92f,Çiğ Köfte (1 kg.),"50,00 TL",Çiğ Köfteler,3.0
+4bb593d1-4ee1-4fdc-9d39-e51c6073240f,Çiğ Köfte (1 kg.) (Garnitürsüz),"40,00 TL",Çiğ Köfteler,3.0
+8b63df37-ee7b-4a37-b532-94c3c7d349d6,Acılı Ezme (200 gr.),"14,00 TL",Mezeler,5.0
+9c5ea1da-7c6a-4202-a931-f37b8708788a,Midye Dolma (Adet) (Orta Boy),"1,50 TL",Midye Dolmalar,13.0
+e9851de9-fccb-4539-834c-130faf1cfb4e,Midye Dolma (11 Adet),"15,00 TL",Midye Dolmalar,8.0
+240798de-ca5f-47d9-a950-867e0bc39ffd,Midye Dolma (24 Adet),"32,00 TL",Midye Dolmalar,8.0
+b36e787b-83cd-44b4-b10d-76825a2ea68f,Midye Dolma (37 Adet),"50,00 TL",Midye Dolmalar,8.0
+8c265c69-afc7-4bbd-b014-fda5500ad902,Midye Dolma (50 Adet),"65,00 TL",Midye Dolmalar,8.0
+d76b104a-b167-4fc4-865b-dae984d7345d,Midye Dolma (63 Adet),"83,00 TL",Midye Dolmalar,8.0
+ca53e487-52b7-4d90-b583-2a29a77f89f8,Midye Dolma (77 Adet),"105,00 TL",Midye Dolmalar,8.0
+b8728e78-5070-42f4-9e81-8dfd8805643e,Midye Dolma (Adet) (Büyük Boy),"1,75 TL",Midye Dolmalar,8.0
+97236b99-27e8-4481-b94e-acb165d3e2c1,Lavaş (Adet),"0,75 TL",Yan Ürünler,4.0
+4bfc4b29-8103-4b53-ad06-4ff2ce99d2ee,İçli Köfte Dürüm,"16,50 TL",Yan Ürünler,3.0
+3a3cd86f-5099-44ae-829b-76c5735d7c46,Kızartma İçli Köfte (90 gr.) (Adet),"7,50 TL",Yan Ürünler,5.0
+a30dfd61-648b-48ae-a3ae-a994e248c0e1,Kızartma İçli Köfte (90 gr.) (2 Adet),"14,00 TL",Yan Ürünler,5.0
+e3abea30-b355-4709-a7fa-ad720852fab5,Göbek Marul (Yarım),"5,00 TL",Yan Ürünler,3.0
+bad4c282-ad5a-4051-8e1b-517ccc89f83a,Göbek Marul (Tam),"9,00 TL",Yan Ürünler,3.0
+ED226601-79EE-4D53-AF7B-7611A476769A,Muzlu Rulo Pasta,"7,50 TL",Tatlılar,5.0
+84EFD069-6FEB-442E-8AFC-BC9A6817D8CB,Kıbrıs Tatlısı,"7,50 TL",Tatlılar,5.0
+25653F1F-B3D8-4EE7-9C84-905AFE447279,Şekerpare,"7,50 TL",Tatlılar,5.0
+AEF9B8BD-104D-4387-811D-4B835FC3F764,Revani,"7,50 TL",Tatlılar,5.0
+ca67beb3-8f32-4b20-9ad2-9a2bbfad9dd1,Fırın Sütlaç,"6,50 TL",Tatlılar,5.0
+1120336e-3943-4bdc-9ba9-cdfa8ddd0957,Kazandibi,"6,50 TL",Tatlılar,5.0
+11c8143a-3403-4cf5-90ee-2641402e430b,Profiterol,"6,50 TL",Tatlılar,5.0
+fd4f224f-e695-41f7-ae6a-53f835e523e1,Supangle,"6,50 TL",Tatlılar,5.0
+55da1952-bf2f-4c7f-98ac-2d4fa8c4f2c1,Tavukgöğsü,"6,50 TL",Tatlılar,5.0
+3cfd0316-3b53-4f17-aadf-51b09ab5f797,Çamlıca Gazozu (25 cl.),"4,50 TL",İçecekler,5.0
+b9ba2594-29f2-433f-b4a9-e4e4f7b4147d,Nar Ekşisi Sos (Adet),"0,75 TL",Soslar,5.0
+293c8bc7-7bf6-431a-b008-f561fbb498ad,Poşet,"0,25 TL",Poşet,5.0

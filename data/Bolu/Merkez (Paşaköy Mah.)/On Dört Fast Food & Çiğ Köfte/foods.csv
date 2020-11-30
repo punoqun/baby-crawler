@@ -1,0 +1,30 @@
+food_id,food_name,food_price,food_category,food_score
+5be7c19f-094f-47c1-a10b-dff84b95a0dd,Patso Menü,"10,00 TL",Menüler,5.0
+99a01c5a-1651-4129-9e57-399bfb5f1145,Hamburger Menü,"10,00 TL",Menüler,9.0
+a4c4ecb2-412d-4e4d-9bad-1227ccdc17aa,5'li Çiğ Köfte Dürüm Menü,"27,00 TL",Menüler,8.0
+c52b029e-0a90-4131-a336-c2f254532880,Yarım Ekmek Arası Tavuk Döner Menü,"10,00 TL",Menüler,8.0
+5d5bc09a-12ce-4dae-9cc9-4530e34f0586,Yarım Ekmek Arası Et Döner Menü,"12,00 TL",Menüler,8.0
+e11418ef-199a-47c2-9940-f955c81fb43c,Bazlama Ekmeğine Karışık Tost Menü,"20,00 TL",Menüler,7.0
+e5351f03-55dd-415b-a3f1-af0c9d20f16b,Öğrenci Menü,"35,00 TL",Menüler,5.0
+fcce1b30-b901-44f4-8f93-f2b65dc6d1d9,Karışık Tost,"8,00 TL",Tostlar,7.0
+ed02e062-87c4-44ea-aa63-6c5785e38e05,Bazlama Ekmeğine Kaşarlı Tost,"12,00 TL",Tostlar,7.0
+4eefc457-e0d2-4eb4-bd9b-85278024a37f,Bazlama Ekmeğine Karışık Tost,"15,00 TL",Tostlar,7.0
+4edd3a08-68b8-4c78-92e2-56d947c8cf82,Kumru Sandviç,"11,00 TL",Sandviçler,7.0
+1efd400b-a749-4ac1-99bc-dc3678e68302,Izgara Köfte,"25,00 TL",Izgaralar,9.0
+ac14b9bd-097a-4015-805b-b2b55be1e8a1,Izgara Tavuk,"17,00 TL",Izgaralar,5.0
+effe1d09-3f42-4154-b95b-80ad34905dd3,Yarım Ekmek Arası Tavuk Döner,"8,00 TL",Dönerler,8.0
+f1482c81-fbdc-4457-9ee2-cc8f628ab98c,Yarım Ekmek Arası Et Döner,"10,00 TL",Dönerler,8.0
+adec332a-a90c-4e33-a94a-8f29e8eccee9,Tam Ekmek Arası Tavuk Döner,"14,00 TL",Dönerler,11.0
+ca33118f-57c8-4efa-99e2-be1002d399a2,Tam Ekmek Arası Et Döner,"18,00 TL",Dönerler,11.0
+067ab222-ee9c-4757-8de6-81d797ca7991,Yarım Ekmek Arası Izgara Köfte,"14,00 TL",Ekmek Arası Ürünler,12.0
+e5f3a43d-73c2-4875-8ac4-05646a58e127,Yarım Ekmek Arası Izgara Sucuk,"14,00 TL",Ekmek Arası Ürünler,10.0
+f9711c7c-df93-4268-8142-d43c380aaf0a,Tam Ekmek Arası Izgara Köfte,"25,00 TL",Ekmek Arası Ürünler,15.0
+8ec1cc8c-bfdb-45ad-b7f0-d97847e5f3cc,Tam Ekmek Arası Izgara Sucuk,"25,00 TL",Ekmek Arası Ürünler,13.0
+296a76fb-66eb-4f9a-b310-4be1af7c510d,Çiğ Köfte Dürüm,"5,00 TL",Çiğ Köfteler,13.0
+d9dfc611-70ce-4514-b914-d24bd96e3a18,Çiğ Köfte (200 gr.),"10,00 TL",Çiğ Köfteler,8.0
+9322e250-3d3b-4221-a7c8-df2803b72473,Çiğ Köfte (500 gr.),"20,00 TL",Çiğ Köfteler,8.0
+33dfdf38-093b-494a-8de2-932b9c1bf35a,Çiğ Köfte (750 gr.),"25,00 TL",Çiğ Köfteler,8.0
+bd8d3977-579b-4bb8-bc64-bf53a04c6fa0,Çiğ Köfte (1 kg.),"30,00 TL",Çiğ Köfteler,8.0
+1776be53-a17f-4274-8617-00cf96108177,Patates Kızartması (Küçük),"7,00 TL",Yan Ürünler,5.0
+c3904a72-9533-4295-ac42-11e82c47d569,Patates Kızartması (Büyük),"10,00 TL",Yan Ürünler,5.0
+343284ab-bfc6-48f4-8acb-042f41f3b7fe,Poşet,"0,25 TL",Poşet,5.0

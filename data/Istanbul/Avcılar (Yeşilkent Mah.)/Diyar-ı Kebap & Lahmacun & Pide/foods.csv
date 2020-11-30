@@ -1,0 +1,53 @@
+food_id,food_name,food_price,food_category,food_score
+16818d9b-0eea-4cae-85f0-2d9245fae532,Şehriyeli & Sebzeli Tavuk Suyu Çorbası,"10,00 TL",Çorbalar,9.0
+8656c4bc-6673-4204-b272-22c4730de7cd,Urfa Kebap,"23,00 TL",Kebaplar,7.0
+57198831-5c91-4dc1-baa5-039a3b3c3bf6,Yoğurtlu Kebap,"27,00 TL",Kebaplar,5.0
+83f29166-3ee8-4fd2-a2b8-9e99b693f8ff,Haşhaşlı Kebap,"27,00 TL",Kebaplar,5.0
+a23ad4ce-ae21-47fc-ae01-c26521b046b7,Alinazik Kebap (Kıymadan),"27,00 TL",Kebaplar,5.0
+95d778c2-0bc2-4230-be9d-c2a6add0cecf,Altı Ezmeli Kebap,"27,00 TL",Kebaplar,5.0
+0c4e5644-783f-4ccb-a5f5-7544dee3dad8,Şaşlık Kebabı,"30,00 TL",Kebaplar,1.0
+6405910b-ad5f-415d-bc8a-f7f86dce5a43,Domatesli Kebap,"30,00 TL",Kebaplar,5.0
+ebf5c549-6f99-4dfd-9bfe-9aaf56bb2b62,Sarma Beyti Kebap,"32,00 TL",Kebaplar,4.0
+d6e63160-a7e0-4ada-996d-eb672cf9fcd6,Patlıcanlı Kebap,"35,00 TL",Kebaplar,5.0
+ea6b393c-76b9-4775-8afa-a415eb568b44,Diyar-ı Kebap,"33,00 TL",Kebaplar,5.0
+6898f544-85e4-4cd2-8ba8-2a2471e2bcba,Alinazik Kebap (Kuzu Şişten),"35,00 TL",Kebaplar,5.0
+855bda47-1bdb-4c76-9579-984a1b0e559e,Özel Soslu Çıtır Tavuk,"23,00 TL",Izgaralar,8.0
+247b60db-f688-42b5-914e-62f1194d5cc1,Tavuk Pirzola,"24,00 TL",Izgaralar,8.0
+378241ca-84b4-4cd1-92df-774f042b1dd3,Izgara Köfte,"23,00 TL",Izgaralar,5.0
+571063a2-32eb-4f9e-a664-7f74884cebd8,Çöp Şiş,"40,00 TL",Izgaralar,5.0
+715bc872-4030-4fae-8247-b136eb1df289,Kuzu Şiş,"40,00 TL",Izgaralar,5.0
+f690863b-9531-4e57-b0db-a62a3205ecda,Kuzu Ciğer,"40,00 TL",Izgaralar,5.0
+1e5d5657-1c73-4cb9-b2a3-f645160b95a0,Karışık Izgara,"50,00 TL",Izgaralar,8.0
+8c9c78f6-11d1-4204-a184-74b4ba8ba084,Kaşarlı Lahmacun,"8,00 TL",Fırın Ürünleri,22.0
+c67c2e3e-0b10-41db-968c-e9c97559318b,Special Lahmacun,"8,00 TL",Fırın Ürünleri,22.0
+1e1d8360-9bae-4a29-9e57-d4b57e95e6e0,Kavurmalı Pide,"27,00 TL",Fırın Ürünleri,1.0
+5da9ca9f-5bc1-4c72-a4bc-272a3cd546e3,Peynirli Pide,"20,00 TL",Fırın Ürünleri,1.0
+59e9910c-3a85-48c0-a0df-c6b89dd5f75b,Sucuklu Kaşarlı Pide,"26,00 TL",Fırın Ürünleri,1.0
+99edc2c4-f53f-4d35-81c1-95c5ed6f4f2e,Kuşbaşılı Pide,"25,00 TL",Fırın Ürünleri,1.0
+c5fac9a5-c63e-4274-ae83-cbe64b87b3d2,Kıymalı Pide,"20,00 TL",Fırın Ürünleri,1.0
+04265eae-404c-4fe4-9c3b-a0d9588bfbed,Kaşarlı Pide,"20,00 TL",Fırın Ürünleri,1.0
+dac8d99d-c193-485c-b90e-c90a3fe7ec2e,Karışık Pide,"26,00 TL",Fırın Ürünleri,4.0
+74ae789d-7be0-4542-9258-144381e979e3,Karışık Pizza,"23,00 TL",Fırın Ürünleri,8.0
+6093a53b-008b-4a30-803b-3e24a6372058,Çöp Şiş Dürüm,"22,00 TL",Dürümler,6.0
+6bcfe2fc-f8f2-4c05-a033-928cee33adf7,Special Dürüm,"20,00 TL",Dürümler,6.0
+777c1690-3d5a-4851-b3a0-2a468c4c0c3b,Urfa Dürüm,"16,00 TL",Dürümler,8.0
+a95d94bf-7067-4568-a6b9-dbc73609adf4,Köfte Dürüm,"15,00 TL",Dürümler,6.0
+f8511ddc-9a9f-4881-a457-e3dca5ef3b5e,Kuzu Şiş Dürüm,"22,00 TL",Dürümler,6.0
+f85a4ca5-44e5-4861-9d84-d39174f24f30,Ciğer Dürüm,"22,00 TL",Dürümler,6.0
+30761285-d612-4e67-8069-39c9e4c27cf8,Sac Kavurma,"37,00 TL",Diğer Lezzetler,5.0
+c7782016-71d2-4d10-b2bc-de3b8036701f,Cacık,"8,00 TL",Yan Ürünler,5.0
+2b90af7b-a735-44f3-b79e-ccd6f4ec8f75,Tavuklu Salata,"22,00 TL",Salatalar,5.0
+7679a4a5-ef01-4cdf-a753-b2cd592f8cee,Çoban Salata,"8,00 TL",Salatalar,5.0
+a0b3f85a-0c8b-4e03-ad56-b3f548ae0ca4,Mevsim Salata,"8,00 TL",Salatalar,5.0
+caa4429d-2228-4e4e-9d08-0df8168ab32a,Gavurdağı Salatası,"15,00 TL",Salatalar,5.0
+d8585681-2d5e-4a89-a435-4ed8652861b5,Ton Balıklı Salata,"22,00 TL",Salatalar,5.0
+13f763f1-b510-44f5-8f91-abce6023b040,Sütlaç,"8,00 TL",Tatlılar,5.0
+3e08b057-ac2c-4746-9e18-78fc6b86f581,Künefe,"15,00 TL",Tatlılar,0.0
+91ce42e9-a1c3-48b4-a747-ecb2d65f1670,Katmer Tatlısı,"15,00 TL",Tatlılar,7.0
+ff447d1f-5f98-49b1-b464-6c11fc011c03,Fıstıklı İrmik Helvası,"10,00 TL",Tatlılar,5.0
+f9f62925-c300-4546-a34e-07f6ecbd94a6,"Fanta (2,5 L.)","10,00 TL",İçecekler,5.0
+7446b21e-7b7a-4682-83b4-6ea4923384cb,Tavuk Şiş (1 kg.),"45,00 TL",Kiloluk Ürünler (Pişirilmiş),8.0
+605fb5da-1a85-416b-becb-c8ccd1dfcd12,Tavuk Pirzola (1 kg.),"45,00 TL",Kiloluk Ürünler (Pişirilmiş),8.0
+6469E2A5-2623-41C6-9F51-649D0E8D4F6D,Izgara Köfte (1 kg.),"75,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+5551CE7F-3623-4B2F-B37E-B25C641400CB,Özel Soslu Çıtır Tavuk (1kg.),"40,00 TL",Kiloluk Ürünler (Pişirilmiş),8.0
+0f16c447-1cb5-4e49-b304-bba9dd760ac1,Poşet,"0,25 TL",Poşet,5.0

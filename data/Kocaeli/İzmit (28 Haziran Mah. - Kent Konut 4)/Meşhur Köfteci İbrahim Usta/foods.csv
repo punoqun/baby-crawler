@@ -1,0 +1,38 @@
+food_id,food_name,food_price,food_category,food_score
+73725946-9904-4a45-beed-fa468c494c59,Yarım Ekmek Arası Kazımpaşa Köfte,"12,00 TL",Köfteler,27.0
+026d191c-373f-40af-8336-38cfb3a30c7b,3/4 Ekmek Arası Kazımpaşa Köfte,"15,00 TL",Köfteler,27.0
+23e09be5-70b1-44c8-8463-8d98c9408b87,Tam Ekmek Arası Kazımpaşa Köfte,"19,00 TL",Köfteler,28.0
+6114c1b6-f003-441a-a2f9-d259b9444f2e,Kazımpaşa Köftesi (500 gr.) (Pişirilmiş),"47,50 TL",Köfteler,9.0
+F51A241C-E3BA-4818-ADF8-CB8FDB1CBA18,Izgara Köfte & Tavuk Pirzola,"23,00 TL",Izgaralar,19.0
+726fca0f-bddd-488a-a512-4d582d18332d,Izgara Sucuk,"24,00 TL",Izgaralar,5.0
+99ead980-de1b-49da-b5e0-018cf8c1477f,Ciğer Şiş,"26,00 TL",Izgaralar,7.0
+2b435ef5-47af-4456-966b-fe3415ad75e9,Tavuk Şiş,"22,00 TL",Izgaralar,7.0
+f0e0a4c1-3699-4ee3-905e-06768a9b336c,Tavuk Pirzola,"22,00 TL",Izgaralar,7.0
+f5413969-d085-43cd-be51-4d3fe3a1b801,Kuzu Şiş,"36,00 TL",Izgaralar,5.0
+21c559a5-8c41-4a23-bb7d-25dc95274293,Dana Antrikot,"34,00 TL",Izgaralar,5.0
+52c8850a-1096-4a43-a14f-f4675aeac7f5,Dana Biftek,"34,00 TL",Izgaralar,5.0
+c3eff1ad-79cc-4b81-956b-147c9d5abfdd,Karışık Izgara,"36,00 TL",Izgaralar,5.0
+e2f2a6a1-e058-467c-8843-d2cc37d2d603,Izgara Köfte & Tavuk Şiş,"23,00 TL",Izgaralar,19.0
+dd170330-75d2-4625-a77f-86641e180b4a,Izgara Köfte & Izgara Sucuk,"24,00 TL",Izgaralar,17.0
+53c31684-aed2-437a-900c-3dd1d8f6cf33,Izgara Köfte & Kuzu Şiş,"29,00 TL",Izgaralar,17.0
+e7bedd5f-d141-45be-bf1e-c3c7772bce86,Izgara Köfte & Ciğer Şiş,"26,00 TL",Izgaralar,19.0
+586a34a5-bfe7-4497-9721-717454b4fcd2,Izgara Köfte & Dana Biftek,"29,00 TL",Izgaralar,17.0
+6a5a7257-7e19-4558-8be9-ffa525f53962,Izgara Tavuk & Kuzu Şiş,"30,00 TL",Izgaralar,7.0
+e08c0607-cf1c-4f4c-a744-69730b710d9c,Yarım Ekmek Arası Tavuk Şiş,"12,00 TL",Ekmek Arası Ürünler,13.0
+dde0105b-095f-4540-a295-7790d5550954,3/4 Ekmek Arası Tavuk Şiş,"15,00 TL",Ekmek Arası Ürünler,13.0
+1d4f9b9a-a363-42f5-aec0-869cee3b9ef3,Tam Ekmek Arası Tavuk Şiş,"19,00 TL",Ekmek Arası Ürünler,14.0
+f2a745ba-abd4-42d9-b2f3-aa2167e4867c,Yarım Ekmek Arası Ciğer Şiş,"13,00 TL",Ekmek Arası Ürünler,13.0
+0358c7c4-dd5c-4f07-ac3f-809fe2d04ae2,Tam Ekmek Arası Ciğer,"26,00 TL",Ekmek Arası Ürünler,14.0
+5703091f-0827-41b0-9c26-e0660f5a1d5d,Yarım Ekmek Arası Kuzu Şiş,"18,00 TL",Ekmek Arası Ürünler,11.0
+a6dc3503-2ca1-4caf-9803-6bc998188031,Tam Ekmek Arası Kuzu,"36,00 TL",Ekmek Arası Ürünler,12.0
+38a80dd1-eb8f-4eb6-8241-db92508f6d90,Yarım Ekmek Arası Sucuk,"12,00 TL",Ekmek Arası Ürünler,11.0
+b71005c8-ddb1-4d6b-b71f-194c8d004148,3/4 Ekmek Arası Sucuk,"15,00 TL",Ekmek Arası Ürünler,11.0
+1bb423eb-73a5-4130-9612-4ce2bb169fba,Tam Ekmek Arası Sucuk,"19,00 TL",Ekmek Arası Ürünler,12.0
+e2cc2303-6e97-464b-b6f9-b859a2711002,Yoğurt,"8,00 TL",Yan Ürünler,5.0
+6e53472c-cace-4983-8170-8d557ee5ac0b,Patates Kızartması,"9,00 TL",Yan Ürünler,5.0
+2c7e2ad9-9e6b-4ebb-9624-d7ff6fbec65d,Çoban Salata,"6,00 TL",Salatalar,5.0
+f5c419f5-6ba7-4b01-8ee4-91d1886b33ff,Piyaz,"6,00 TL",Salatalar,5.0
+7182EEC5-4B55-40FF-B333-B363D293B4E8,Ekmek Kadayıfı,"8,00 TL",Tatlılar,11.0
+cc38cbaa-dd8f-4eb6-a64e-e1e19e20754f,Kaymaklı Ekmek Kadayıfı,"10,00 TL",Tatlılar,11.0
+D9B2F7E2-62E8-4D48-B8B1-92FE8E2051F7,Fırın Sütlaç,"9,50 TL",Tatlılar,7.0
+39814b1e-4082-4848-882a-8319a495be5c,Poşet,"0,25 TL",Poşet,5.0

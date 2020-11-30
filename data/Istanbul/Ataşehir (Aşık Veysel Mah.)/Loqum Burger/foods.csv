@@ -1,0 +1,20 @@
+food_id,food_name,food_price,food_category,food_score
+aedb98f4-cebc-41e2-a73c-8082781908a2,Eko Classic Menü,"66,80 TL",Menüler,5.0
+602257ce-cd88-4b2b-a537-3439dee477e8,Large Cheeseburger Menü,"79,90 TL",Menüler,5.0
+904c5d27-f5cd-44bf-876b-5863fb084ea4,Cheeseburger Menü,"31,90 TL",Menüler,5.0
+c5f76b07-6ab1-4b27-b7c6-c09954ce327a,Bacon Burger Menü,"49,90 TL",Menüler,3.0
+1d292fa6-cf80-4959-a3fd-1dc11b84f290,Kaşarlı Tost,"14,90 TL",Tostlar,5.0
+e9c2e8b9-50b0-48b7-9581-6b731cfba901,Sucuklu Kaşarlı Tost,"17,90 TL",Tostlar,5.0
+1b7e8424-9a64-4d79-847b-67730b913497,Classic Loqum Burger,"28,90 TL",Et Burgerler,8.0
+60e3f199-ef08-4e2a-a3f3-f5def237734b,Cheeseburger,"29,90 TL",Et Burgerler,10.0
+37f5eb38-12d5-431c-89df-4000abcaa966,BBQ Burger,"32,90 TL",Et Burgerler,8.0
+54275e31-e03c-4fbf-8fc7-629da7291ab7,Mexica Burger,"34,90 TL",Et Burgerler,3.0
+1f39a1f2-610f-4c7a-b3f7-e5a5a21b3629,Mantarlı Cheeseburger,"35,90 TL",Et Burgerler,5.0
+bff6132c-b914-48d6-9c9c-6446a17cfba1,Sweet Chili Burger,"35,90 TL",Et Burgerler,3.0
+d247fa39-7469-4930-b09a-1a75fa1ced84,Bacon Burger,"39,90 TL",Et Burgerler,3.0
+523a88f2-3ef6-4b2b-a87f-13cee741c133,Mantarlı Chicken Cheeseburger,"35,90 TL",Tavuk Burgerler,5.0
+996084be-168e-468e-a502-92a82fb35409,Patates Kızartması,"12,90 TL",Yan Ürünler,3.0
+4e879448-ad43-4d86-b2cd-d910506e4b5c,Soğan Halkası,"11,90 TL",Yan Ürünler,5.0
+d25b9b69-e969-4836-838d-5f36bc59f46a,Çıtır Tavuk,"13,90 TL",Yan Ürünler,2.0
+2bc14e1d-b83d-4253-baa5-b4edb8ff11ff,Combo Mix,"24,90 TL",Yan Ürünler,4.0
+f8ea2b93-f804-4de5-b7d9-f0a8e203814d,Oreolu Mag,"16,90 TL",Tatlılar,5.0

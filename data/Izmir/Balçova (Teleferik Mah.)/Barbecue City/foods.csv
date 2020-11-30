@@ -1,0 +1,55 @@
+food_id,food_name,food_price,food_category,food_score
+c51bdae7-7fa1-4344-8da4-a06faaca91c8,Tavuk Göğüs Menü,"24,90 TL",Beyaz Et Menüleri,20.0
+bdbe85c5-b210-4b9f-a6e5-e6a739d7ea1b,Tavuk İncik Menü,"24,90 TL",Beyaz Et Menüleri,21.0
+78a6dec9-6718-4c4c-be8a-586d81667906,Tavuk Yaprak Kanat Menü,"25,90 TL",Beyaz Et Menüleri,25.0
+db0a976e-ae96-4573-82d6-58ff35910f8a,Tavuk Göğüs Şiş Menü,"24,90 TL",Beyaz Et Menüleri,20.0
+b1d8ce60-97c6-434e-b2cd-d45f334bad2a,Tavuk İncik Şiş Menü,"24,90 TL",Beyaz Et Menüleri,21.0
+9079BAB8-408C-48C8-8843-040232CD0246,Tavuk Dürüm Menü,"16,90 TL",Beyaz Et Menüleri,22.0
+60CF7066-F4D6-4A62-AA4B-E8C3DAFBF6AF,Fit Menü,"21,90 TL",Beyaz Et Menüleri,13.0
+40e0c7fe-8f88-4249-a754-b0d8b9968153,Kasap Köfte Menü,"29,90 TL",Kırmızı Et Menüleri,6.0
+d2454b92-f674-4fed-9eae-2113f366985b,"Karışık Kebap (1,5 Porsiyon) Menü","90,00 TL",Kırmızı Et Menüleri,10.0
+d9006c44-a003-4eb8-aa8b-978c5dec3132,Tavuk Göğüs (1 kg.) Menü,"64,90 TL",Kiloluk Menüler (Pişirilmiş),20.0
+e85bea16-f48e-4e01-9f86-9482416d13fe,Tavuk İncik (1 kg.) Menü,"64,90 TL",Kiloluk Menüler (Pişirilmiş),21.0
+920af287-68bb-41a2-ac72-3a9eb5c55797,Tavuk Yaprak Kanat (1 kg.) Menü,"69,90 TL",Kiloluk Menüler (Pişirilmiş),25.0
+e13072fa-5001-44db-9935-d081c19c1eae,Tavuk Pirzola (1 kg.) Menü,"64,90 TL",Kiloluk Menüler (Pişirilmiş),21.0
+77cbc833-2b6e-46eb-9f6f-4495e4be3a88,Tavuk Göğüs Şiş (1 kg.) Menü,"64,90 TL",Kiloluk Menüler (Pişirilmiş),20.0
+20d6ed62-3a9f-4f53-81cd-70325276f338,Tavuk Kalça Şiş (1 kg.) Menü,"64,90 TL",Kiloluk Menüler (Pişirilmiş),21.0
+d617eaa8-fa06-4727-ba0d-35576f16f764,Karışık Izgara (1 kg.) Menü,"64,90 TL",Kiloluk Menüler (Pişirilmiş),14.0
+f2698f1e-f677-4c56-9b73-6dd1c59afc37,Kasap Köfte (1 kg.) Menü,"95,00 TL",Kiloluk Menüler (Pişirilmiş),6.0
+4b243358-ca55-460c-9645-82d31193a72f,"Kalabalık Menü (1,5 kg.)","89,90 TL",Kiloluk Menüler (Pişirilmiş),6.0
+155ad1e9-4092-4095-9922-d0dbf3b24bad,Izgara Tavuk Göğüs,"24,90 TL",Izgaralar,28.0
+328015d8-749d-4079-b005-9e9c439c669a,Izgara Tavuk İncik,"24,90 TL",Izgaralar,24.0
+eec0e26f-ed51-4a3d-9582-00ec21034e9c,Izgara Yaprak Kanat,"25,90 TL",Izgaralar,13.0
+5ce20b0e-e1a3-4271-8b73-972902f108e0,Izgara Tavuk Göğüs Şiş,"24,90 TL",Izgaralar,23.0
+cbaacdd0-8600-4df6-98f7-0d863a492d29,Izgara Pirzola,"24,90 TL",Izgaralar,9.0
+de553f5c-5453-46ca-a5e0-ee220eb3f277,Izgara İncik Şiş,"24,90 TL",Izgaralar,9.0
+d43fd89c-e349-44f5-b58c-a543bfa2cf83,Karışık Izgara,"24,90 TL",Izgaralar,18.0
+bf302476-409b-45d4-939d-99fe75b583b0,Kaşarlı Izgara Tavuk Göğüs,"26,90 TL",Izgaralar,23.0
+088a9cd2-faea-441d-a290-3af0dd4f0437,Cheddarlı Izgara Tavuk Göğüs,"26,90 TL",Izgaralar,23.0
+b55765c0-9fa0-4898-b64e-913483c4e983,Barbekü Classic Burger,"24,00 TL",Burgerler,5.0
+c8fcbf93-e2a1-4fc7-a351-ef00ae8260ef,Barbekü Cheeseburger,"25,00 TL",Burgerler,5.0
+b28c94df-c868-42cc-9c7b-c3073b77aa55,Mexican Burger,"26,00 TL",Burgerler,5.0
+585951de-ea3d-48e4-a2d8-ef015e0d1cbc,Magic Mushroom Burger,"28,00 TL",Burgerler,5.0
+0e752b7e-969b-47d3-b7f1-cc4bbbf1a800,BBQ Burger,"28,00 TL",Burgerler,5.0
+640ecba1-7c94-48ae-bd3a-b17871d5ee2a,Barbekü Kulesi,"34,00 TL",Burgerler,5.0
+524dacd9-4381-4146-8c51-bafb187c7db4,Barbekü Tavuk Burger,"19,00 TL",Burgerler,20.0
+8E8848EA-4D4A-4A05-9B90-407F6D0CCAFE,Tavuk Dürüm,"11,90 TL",Sandviçler & Dürümler,21.0
+d4813dce-343b-415e-80a5-7a8ecc03eb5a,Patates Kızartması,"9,00 TL",Yan Ürünler,7.0
+f4d24b7c-26ba-45f6-ae73-a4515e94ac89,Double Cheddar Peynirli Patates Kızartması,"15,00 TL",Yan Ürünler,8.0
+9c43b12f-c4a8-4134-be5d-151f91cddf2e,Elma Dilim Patates Kızartması,"10,00 TL",Yan Ürünler,7.0
+444631a9-9099-4208-b9c3-15636a991f1a,Çıtır Tavuk,"19,00 TL",Yan Ürünler,22.0
+f3d04953-7664-4f7d-ab5b-d0f67098a2cd,Soğan Halkası,"7,00 TL",Yan Ürünler,5.0
+bd28c5d9-ebb6-4b56-993c-0c4927f3aae7,Stockholm Çıtır Sepeti,"25,00 TL",Yan Ürünler,7.0
+509948cd-cc6f-4e8a-83ee-e2922e3b042c,Sosis Sepeti,"18,00 TL",Yan Ürünler,5.0
+2e648921-830d-4265-9832-a15b5589c942,Double Kaşarlı Patates Kızartması,"15,00 TL",Yan Ürünler,7.0
+a1bc87a9-3634-41ff-81da-d12784ac7d16,Akdeniz Salata,"17,00 TL",Salatalar,7.0
+b1f651e9-aacc-4c4a-ad28-0cdca0f548df,Izgara Tavuklu Salata,"18,00 TL",Salatalar,13.0
+da667140-d758-46d6-8b89-6ac243b23dbd,Nar Ekşili & Sumaklı Çoban Salata,"10,00 TL",Salatalar,7.0
+c993235d-d505-4c33-b775-e1b5830a6028,Sezar Tavuklu Salata,"20,00 TL",Salatalar,9.0
+18754f42-ca5b-456b-9171-b6f42c21032d,Ton Balıklı Salata,"22,00 TL",Salatalar,7.0
+34cf1831-8a4d-4d85-a3a2-46f90d710661,Közlenmiş Soğan,"1,00 TL",Mezeler,5.0
+d1035d77-1d59-457f-a0b4-ff46c5ce1977,Lavaş,"1,00 TL",Mezeler,6.0
+00c8f858-fc94-4329-9caf-34899c794b19,Haydari,"4,00 TL",Mezeler,5.0
+f82bc891-394a-4fa8-8826-d357a155389a,Niğde Gazozu (25 cl.),"4,00 TL",İçecekler,5.0
+1f48992c-91ad-4aca-92d6-838d07dfbdff,Chili Acı Sos,"1,50 TL",Soslar,6.0
+dad74cd7-1fc3-4171-9b5b-e8e29e976331,Poşet,"0,25 TL",Poşet,5.0

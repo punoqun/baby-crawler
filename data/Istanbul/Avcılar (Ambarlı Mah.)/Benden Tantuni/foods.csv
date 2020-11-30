@@ -1,0 +1,24 @@
+food_id,food_name,food_price,food_category,food_score
+9ec80ccd-fabd-417b-ad2b-e8d0342b5036,Menü 1,"37,00 TL",Menüler,12.0
+c45bc59e-ca0f-4a29-a38e-f827899e2494,Menü 2,"29,00 TL",Menüler,3.0
+45f2489e-bd47-46e5-85a2-987e01212c3e,Menü 3,"95,00 TL",Menüler,9.0
+77a3bdbb-866c-4ec1-b972-61290d3a276b,Menü 4,"36,00 TL",Menüler,9.0
+e73fe8cb-6f63-45cf-b5cd-2772ce86c6c8,Menü 6,"85,00 TL",Menüler,5.0
+f223ea6e-77fd-4485-83e2-ca10c72a2482,Menü 7,"33,00 TL",Menüler,5.0
+18fe7857-4334-4903-bcc6-1774c83d2887,Menü 8,"28,00 TL",Menüler,10.0
+82342714-f149-4380-9648-d4d11673c03b,Menü 9,"38,00 TL",Menüler,5.0
+1131cec0-81ca-4b15-916f-3c3d600d9112,Menü 10,"33,00 TL",Menüler,16.0
+c4ec032d-3f13-4b36-8278-88d44eb9ee8b,Yoğurtlu Et Tantuni,"19,00 TL",Et Tantuniler,5.0
+7311a724-1adf-4bb4-ac01-9c92eb8fa8ae,Double Ekmek Arası Et Tantuni,"28,00 TL",Et Tantuniler,6.0
+064d452f-103b-4b92-9886-94da1cc5b970,Double Et Tantuni Dürüm,"26,00 TL",Et Tantuniler,3.0
+078F7A39-8A99-4350-918C-818F6C8237AA,Patlıcanlı Yoğurtlu Et Tantuni,"24,00 TL",Et Tantuniler,5.0
+72172346-30a9-4402-871e-e287ba39666a,Special Tavuk Tantuni Dürüm (Bol Acılı),"14,00 TL",Tavuk Tantuniler,-2.0
+bfae358b-29f0-4323-8fd9-6412716122bd,Double Ekmek Arası Tavuk Tantuni,"20,00 TL",Tavuk Tantuniler,2.0
+eb07cf4d-4a1b-4624-911c-3c54489f83de,Double Tavuk Tantuni Dürüm,"18,00 TL",Tavuk Tantuniler,-1.0
+61DEA0E7-0B7E-4215-9FE2-F664F47F4520,Patlıcanlı Yoğurtlu Tavuk Tantuni,"19,00 TL",Tavuk Tantuniler,1.0
+2c3da818-ff2b-4266-afb7-ed09a1adc723,Midye Dolma (Adet),"1,65 TL",Yan Ürünler,1.0
+14D74DF5-CF27-4A01-9135-6381C1489374,Yoğurtlu Patlıcan Ezmesi,"10,00 TL",Yan Ürünler,7.0
+0dfa06b7-3234-4c47-b09f-e2b6416caecf,Cappy Karışık (33 cl.),"6,00 TL",İçecekler,5.0
+c12bcf34-12fc-4f5d-90a5-412f002ffe75,Çamlıca Gazou (20 cl.),"5,00 TL",İçecekler,5.0
+c077af34-9b97-4d0c-98e6-cb5281da2610,Limonlu Soda,"2,50 TL",İçecekler,5.0
+90e576f1-e4fc-4759-a973-d037ed660441,Poşet,"0,25 TL",Poşet,5.0

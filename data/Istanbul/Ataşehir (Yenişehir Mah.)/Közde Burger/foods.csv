@@ -1,0 +1,38 @@
+food_id,food_name,food_price,food_category,food_score
+3AB3B5B6-CB28-4FF9-B4EC-8BB8C8193FC0,Çıtır Sepeti Menü,"14,96 TL",Menüler,7.0
+DE1E0F6D-B97B-4210-84B2-BD4BFD6B7A91,Közde Classic Burger & 6'lı Nugget Menü,"28,46 TL",Menüler,11.0
+1aebcbd8-9e64-4407-8ff7-a9b299dc6eaf,2'li Tavuk Sever Burger Menü,"39,71 TL",Menüler,10.0
+b0052085-3446-4650-b447-9fb5314f7fb0,American Burger Menü,"29,96 TL",Menüler,11.0
+3d785d45-5dda-4672-ab17-ed6c9d4494c4,Cheeseburger Menü,"29,96 TL",Menüler,7.0
+c66ff335-8a47-422d-9b77-cc19b7cab507,Classic Közde Burger Menü,"24,71 TL",Menüler,16.0
+f1f0f8da-9733-4b41-ba17-02f10067c416,Double Cheeseburger Menü,"29,96 TL",Menüler,12.0
+eb467a52-74de-49be-9284-f16b81f8bce7,Izgara Tavuk Burger Menü,"21,71 TL",Menüler,10.0
+a29dd2f5-4798-4ddb-8087-88b37c7daa5b,Közde Steak Burger Menü,"31,46 TL",Menüler,13.0
+29a4f83b-748f-4ac9-ba96-e3cc5dd335fd,Lin Burger Menü,"32,21 TL",Menüler,11.0
+8f33b9e6-8f0e-4bbb-ae51-72f1d30eb12b,Mexico Burger Menü,"28,46 TL",Menüler,11.0
+04df0c8c-3d1d-4165-8993-32ea05c8b40f,Triplex Burger Menü,"36,71 TL",Menüler,13.0
+94c9155d-18e8-4fc8-8933-5808e57b596b,Truffle Mushroom Burger Menü,"29,21 TL",Menüler,11.0
+c3af1afc-f1c1-4913-96ba-da1390bd0d28,Truffle Mushroom Burger,"22,46 TL",Burgerler,9.0
+842b2488-1ffd-4571-a597-d584097dfb5a,American Burger,"22,46 TL",Burgerler,9.0
+370e0cd7-ff60-4112-92d6-4b462cc5a419,Cheeseburger,"21,71 TL",Burgerler,5.0
+3cf7b8d8-33ff-4480-90c4-fddf56646186,Classic Közde Burger,"17,96 TL",Burgerler,9.0
+25a04338-0012-490b-bc8c-48805933700f,Double Cheeseburger,"22,46 TL",Burgerler,5.0
+04dc5708-9a40-4bcb-a0f8-601eee4ef08b,Közde Steak Burger,"25,46 TL",Burgerler,11.0
+c4c211fd-5666-497e-830a-3c8fa2232bd8,Közde Sucuk Burger,"22,35 TL",Burgerler,9.0
+9b8a7d51-4694-4cfd-a0e3-ad7e1d16ba53,Lin Burger,"25,46 TL",Burgerler,9.0
+11013644-8ff5-4eb5-809e-e0c8d1fe16a5,Mexico Burger,"21,71 TL",Burgerler,9.0
+8519a8da-1c23-49b3-befa-9b98743c4b76,Izgara Tavuk Burger,"14,96 TL",Burgerler,8.0
+eb26919e-9e7c-463f-9684-fcbe41acdd3e,Triplex Burger,"27,71 TL",Burgerler,11.0
+14558B8F-3039-4690-83EF-93A54F49A5FC,Çıtır Sepet,"12,71 TL",Yan Ürünler,5.0
+106B26F7-8641-40B2-A45F-6D9D736B65FB,Nugget (6 Adet),"7,46 TL",Yan Ürünler,5.0
+9930C8E9-D517-4EC4-9071-337B9963E025,Mozzarella Sticks (5 Adet),"10,13 TL",Yan Ürünler,5.0
+c5acd8c2-8937-4bc4-9ed0-e8b1d2d6b5fd,Çıtır Kıtır Tavuk Parçaları (7 Adet),"7,46 TL",Yan Ürünler,4.0
+035cccdd-5582-42b3-a83e-fd8a1d97fc6f,Tavuk Lezzet Topları (9 Adet),"6,75 TL",Yan Ürünler,26.0
+138a8d53-f97d-458e-b746-c47d8e5478a8,Patates Kızartması,"6,75 TL",Yan Ürünler,6.0
+7fa29bf5-959e-4306-80cd-db3ca07946b0,Soğan Halkası,"6,75 TL",Yan Ürünler,6.0
+bb0b10dd-b284-4fc9-8c04-11b318e4ed71,Közde Burger Bomba,"7,50 TL",Tatlılar,9.0
+e221a5f6-c5e0-4d03-9eb6-b6b4e65e7c15,Çikolata Dolgulu Muffin Kek,"8,21 TL",Tatlılar,5.0
+9B92494C-D785-4F29-A61D-D693200C1534,Colorado Ballı Hardal Sos,"1,50 TL",Soslar,5.0
+19E85783-8514-40F2-A2AE-C6A59365669A,Colorado Acı Sos,"0,94 TL",Soslar,5.0
+46AA861B-E1FE-4A16-BA7A-7F9B024F6EDF,Colorado Barbekü Sos,"1,13 TL",Soslar,5.0
+ce1d478b-8d2d-4662-88fe-0971318e61f7,Poşet,"0,25 TL",Poşet,5.0

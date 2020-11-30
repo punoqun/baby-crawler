@@ -1,0 +1,26 @@
+food_id,food_name,food_price,food_category,food_score
+abc0f310-6da0-43f1-92be-6749b59c2542,Spesiyal Yoğurtlu Kebap,"41,00 TL",Kebaplar,14.0
+e796c229-754c-43c2-9905-90141e65e669,Filetolu İskender Kebap,"54,00 TL",Kebaplar,25.0
+f380841f-8170-4271-8b01-7cfc117f8821,Spesiyal Pirzola (2 Kişilik),"114,00 TL",Kebaplar,5.0
+621FD578-A0E2-49B1-B391-6DBEF3DFC880,Masabaşı Spesiyal Kebap (1 Kişilik),"68,00 TL",Kebaplar,15.0
+bad3b09e-96aa-4b74-a533-bcec3e6ee609,Et Çöp Şiş (7 Adet Şiş),"37,00 TL",Izgaralar,16.0
+EBC25F78-D8BD-425D-9DFF-0B14699DFD64,Tavuk Pirzola,"37,00 TL",Izgaralar,7.0
+062ffe1a-48cb-45c2-abe4-32bc11441e08,Tavuk Çöp Şiş,"37,00 TL",Izgaralar,11.0
+f9ec3805-6ca7-47db-ab9f-dfe794316ef8,Tavuk Külbastı,"37,00 TL",Izgaralar,7.0
+07ac6982-4613-4cd8-bba9-0d77adfdba67,Tavuk Kanat,"37,00 TL",Izgaralar,9.0
+8bf9b280-ebca-46a8-969f-1f0590c8dbc3,Ciğer Çöp Şiş (10 Adet Şiş),"42,00 TL",Izgaralar,8.0
+0943bb7d-24b4-4348-92ac-915ddcd9bbfe,Et Külbastı,"45,00 TL",Izgaralar,12.0
+cb2ae335-76b7-4eef-ae0f-b04670ba274b,Karışık Tavuk,"49,00 TL",Izgaralar,9.0
+47ae467c-ad1d-4b80-bcb4-38a489b5b4f3,Kuzu Şiş,"52,00 TL",Izgaralar,7.0
+d9bdb7c3-1a32-4c23-b154-c8b00377722f,Kuzu Kaburga,"53,00 TL",Izgaralar,5.0
+67a216b3-a4c2-4f5f-b96c-b5c45cd7e859,Kuzu Pirzola,"57,00 TL",Izgaralar,5.0
+BDDDCA83-1E24-49E5-9A85-19D207F580A1,Mantarlı Kaşarlı Pide,"27,00 TL",Pideler,8.0
+EA5752E4-AFC7-4B83-832E-C7FE927E7DF1,Kavurmalı Pide,"37,00 TL",Pideler,6.0
+d917b2f1-49f0-430c-ad8a-3e8214321db7,Kıymalı Kaşarlı Pide,"29,00 TL",Pideler,9.0
+ec4a41d7-c05c-4856-8dcb-84e398c7ba89,Süper Karışık Pide,"38,00 TL",Pideler,12.0
+897cae1a-bf71-4c32-aea6-7f6ad354a39a,Et Şiş Dürüm,"37,00 TL",Dürümler,13.0
+a4c8db2d-fc76-4117-8591-bcda31399125,Tavuk Şiş Dürüm,"37,00 TL",Dürümler,8.0
+77948289-3ce7-4915-80f1-8e5a0bd46c0f,Urfa Dürüm,"39,50 TL",Dürümler,3.0
+135b4543-d456-47c7-9993-92869a8e6cd6,Adana Dürüm,"39,50 TL",Dürümler,6.0
+0ebb021f-6b41-447c-9fbe-9ff8a8813e13,Su,"2,50 TL",İçecekler,5.0
+82aee1f2-456a-4a38-9821-0f12e1f79867,Poşet,"0,25 TL",Poşet,4.0

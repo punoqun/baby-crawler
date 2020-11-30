@@ -1,0 +1,84 @@
+food_id,food_name,food_price,food_category,food_score
+e87da261-ef68-484c-b74d-16fd4f72a71f,Menü 1,"50,00 TL",Ekonomik Menüler,12.0
+5e341e6b-cb93-475b-b937-1ea4cb465eab,Menü 2,"70,00 TL",Ekonomik Menüler,6.0
+62f4290e-52b7-43e7-9332-c2db0f49cc44,Menü 4,"50,00 TL",Ekonomik Menüler,6.0
+3fdc816b-5243-4f85-8629-1bef134f60e7,Menü 5,"70,00 TL",Ekonomik Menüler,8.0
+00f99b57-1424-4ae4-a7ad-88c47d48761f,Menü 6,"55,00 TL",Ekonomik Menüler,5.0
+f493a4a8-b714-4c68-a0e4-abe51dd29e3f,Menü 7,"85,00 TL",Ekonomik Menüler,7.0
+bbcb411d-5a89-40f2-8bea-f6905654013a,Menü 8,"50,00 TL",Ekonomik Menüler,7.0
+e9ed3445-6595-433c-801b-a92e68c29d78,Menü 9,"70,00 TL",Ekonomik Menüler,3.0
+adc87894-d78e-4a78-aab7-71eaf2ecc8fc,Menü 10,"130,00 TL",Ekonomik Menüler,15.0
+551a37ca-a7bc-40c1-97aa-5a3226a8ffe3,Menü 11,"160,00 TL",Ekonomik Menüler,6.0
+ccfedb83-c76b-4f7e-8b61-df3111c36494,Menü 12,"27,00 TL",Ekonomik Menüler,5.0
+ea3d66c0-5619-469b-b7fe-25c90d7424a2,Menü 13,"27,00 TL",Ekonomik Menüler,5.0
+86506123-9d55-49b4-b660-134548384857,Menü 14,"18,00 TL",Ekonomik Menüler,5.0
+fa960f90-6049-448f-940e-9658d078d695,Menü 15,"18,00 TL",Ekonomik Menüler,5.0
+b4a2c98d-a497-42fa-a641-7d5c6189a9b5,Et Döner Dürüm Menü,"30,00 TL",Dondurmalı Menüler,4.0
+27bd649d-d5fa-45d4-8247-70e60de38576,Adana Kebap,"27,00 TL",Kebaplar,6.0
+KHAN010102,Urfa Kebap,"27,00 TL",Kebaplar,4.0
+KHAN010104,Adana İskender,"28,00 TL",Kebaplar,5.0
+de2cae7d-01a3-4d53-8852-29b46dc17590,Urfa İskender,"28,00 TL",Kebaplar,3.0
+KHAN010105,Alinazik Kebap (Kuzu Şişten),"36,00 TL",Kebaplar,6.0
+KHAN010106,Altı Ezmeli Kebap (Kıymadan),"28,00 TL",Kebaplar,6.0
+KHAN010107,Sarma Beyti Kebap,"29,00 TL",Kebaplar,7.0
+bc02c451-abc3-45f5-8d4f-c67393815f55,Special Sarma Beyti Kebap,"34,00 TL",Kebaplar,9.0
+KHAN010108,Domatesli Kebap,"31,00 TL",Kebaplar,6.0
+KHAN010109,Patlıcanlı Kebap,"33,00 TL",Kebaplar,6.0
+KHAN010111,Vali Kebabı,"65,00 TL",Kebaplar,6.0
+KHAN010110,Kırmızı Han Sofrası Special,"85,00 TL",Kebaplar,10.0
+b949c4cc-44f2-49e7-9bec-494f2dddc7d2,Ciğer Şiş,"32,00 TL",Izgaralar,5.0
+fe19969f-1b7a-446f-ac5d-98c5b2bb1328,Izgara Köfte,"27,00 TL",Izgaralar,4.0
+KHAN010103,Kuzu Şiş,"34,00 TL",Izgaralar,5.0
+c9f47408-f9a2-4e80-a571-dc01afe59a7e,Tavuk Kanat,"27,00 TL",Izgaralar,4.0
+cc2d35e9-d1d2-4dcc-a443-704cf769b75c,Tavuk Şiş,"27,00 TL",Izgaralar,4.0
+28b9a3d4-87ba-42d1-a11e-e7863f7263fd,İskender (Et Dönerden),"27,00 TL",Et Dönerler,5.0
+52179de3-7fe1-4099-956f-ac2f06aea6ea,Et Döner Dürüm,"15,00 TL",Et Dönerler,4.0
+dddf7a0a-7ad7-4664-aa69-8bbfaf389613,3 Peynirli Pide,"17,00 TL",Pideler,7.0
+KHAN010308,Sebzeli Pide,"16,00 TL",Pideler,3.0
+KHAN010301,Kıymalı Pide,"16,00 TL",Pideler,3.0
+906c9f27-b7f0-4cb4-a1ef-fd9e50b00baf,Tavuklu Pide,"17,00 TL",Pideler,3.0
+KHAN010307,Kaşarlı Pide,"18,00 TL",Pideler,5.0
+981f14b0-356c-475d-8364-0f7155b3076a,Sucuklu Pide,"18,00 TL",Pideler,3.0
+39f96f13-0529-4e14-abfb-5919c99b9e2c,Tavuklu Kaşarlı Pide,"19,00 TL",Pideler,5.0
+7ba8f615-f3d4-48ad-8c6a-7dfeea541bca,Konya Usulü Kenarsız Pide,"19,00 TL",Pideler,3.0
+7679989c-f1e9-4db9-9038-efae63014bdc,Kaşarlı Mantarlı Pide,"18,00 TL",Pideler,5.0
+KHAN010303,Kıymalı Kaşarlı Pide,"18,00 TL",Pideler,5.0
+KHAN010304,Kıymalı Kaşarlı Mantarlı Pide,"18,00 TL",Pideler,5.0
+24f650d0-bf07-4a78-8dc0-64896994e3a2,Kuşbaşılı Pide,"22,00 TL",Pideler,4.0
+4d4be2e8-6fa4-4159-aa5a-f1564a2e7175,Sucuklu Kaşarlı Pide,"21,00 TL",Pideler,5.0
+KHAN010305,Kuşbaşılı Kaşarlı Pide,"24,00 TL",Pideler,6.0
+56f4bace-fb8b-45db-809d-757d10c5c16b,Bıçak Arası Kaşarlı Pide,"24,00 TL",Pideler,5.0
+KHAN010306,Kuşbaşılı Kaşarlı Mantarlı Pide,"25,00 TL",Pideler,6.0
+KHAN010401,Kıymalı Lahmacun,"12,00 TL",Lahmacunlar,28.0
+KHAN010402,Antep Lahmacun,"13,00 TL",Lahmacunlar,35.0
+KHAN010404,Kıymalı Kaşarlı Lahmacun,"14,00 TL",Lahmacunlar,25.0
+ef8227fa-d4d0-4fe9-8d42-fd0aef44547b,Antep Kaşarlı Lahmacun,"16,00 TL",Lahmacunlar,32.0
+KHAN010201,Adana Dürüm,"15,00 TL",Dürümler & Ekmek Arası Ürünler,10.0
+KHAN010202,Urfa Dürüm,"15,00 TL",Dürümler & Ekmek Arası Ürünler,3.0
+b28e1499-4207-4de9-b677-75beb30db4c8,Beyti Dürüm,"15,00 TL",Dürümler & Ekmek Arası Ürünler,6.0
+KHAN010205,Tavuk Şiş Dürüm,"15,00 TL",Dürümler & Ekmek Arası Ürünler,4.0
+KHAN010203,Ciğer Şiş Dürüm,"17,00 TL",Dürümler & Ekmek Arası Ürünler,5.0
+KHAN010204,Kuzu Şiş Dürüm,"20,00 TL",Dürümler & Ekmek Arası Ürünler,5.0
+f6979274-ab66-4075-8704-39b2f2d2cc5b,Yarım Ekmek Arası Köfte,"16,00 TL",Dürümler & Ekmek Arası Ürünler,3.0
+9949df6e-ee00-4839-8fce-26af1b7f90d3,Kiremitte Köfte,"27,00 TL",Kiremitte Ürünler,4.0
+6abd71f7-0107-4ceb-ac20-1d14cc401eff,Kiremitte Tavuk,"27,00 TL",Kiremitte Ürünler,4.0
+94dbc268-6cfd-4f5d-a2be-ca1a2ab593ee,Kiremitte Kaşarlı Köfte,"29,00 TL",Kiremitte Ürünler,6.0
+f1227c27-9351-4fa9-a294-6665e8bbb4a1,Kiremitte Kaşarlı Tavuk,"28,00 TL",Kiremitte Ürünler,6.0
+3ad71756-0c84-447f-9492-ca81970cb0d2,Kiremitte Kuşbaşı,"34,00 TL",Kiremitte Ürünler,6.0
+6317a7c9-ce3f-49d4-bffb-d09f462c4677,Kiremitte Kuşbaşı Kaşarlı,"35,00 TL",Kiremitte Ürünler,8.0
+949e8c20-682d-4209-88af-e99e37f1d145,Kızartma İçli Köfte (Adet),"7,00 TL",Diğer Lezzetler,4.0
+c28fe4f4-0bff-4b43-92e2-638c8ee730e3,Patates Kızartması,"10,00 TL",Diğer Lezzetler,5.0
+20609119-d1a2-4db9-836c-bfc89340e264,Çiğ Köfte (15 Sıkım),"10,00 TL",Diğer Lezzetler,5.0
+a37cee59-2fdc-4f53-9d35-99658dd1c846,Kızartma İçli Köfte (3 Adet),"19,00 TL",Diğer Lezzetler,4.0
+fc353e41-20f2-4957-b407-f1d7a1aaec39,Künefe,"14,00 TL",Tatlılar,6.0
+f1f676b2-1c43-41b9-9828-8d9634dcb82b,Kaymaklı Künefe,"16,00 TL",Tatlılar,6.0
+fcd6fd93-58e6-4a6f-9159-3321b92c9002,Katmer,"17,00 TL",Tatlılar,4.0
+a1a322a4-0180-48b3-b5bb-242ee670a528,Kaymaklı Katmer,"19,00 TL",Tatlılar,4.0
+f4cc9bcb-c838-4daf-891a-c5788344852e,Carte d'Or Dondurmalı Volcano,"16,00 TL",Dondurmalar,5.0
+695b6683-6b62-416a-9e15-5bdd6f616c15,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"13,00 TL",Dondurmalar,5.0
+67639fe9-ead8-4e98-a722-7788cbd442f8,Algida Maraş Usulü Cup Dondurma (100 ml.),"6,00 TL",Dondurmalar,5.0
+d26a1089-938c-429c-8eeb-8791b4c03623,Coca-Cola (30 cl.),"5,00 TL",İçecekler,5.0
+2b158879-798e-47b1-83c2-527f1e636b52,Coca-Cola Light (30 cl.),"5,00 TL",İçecekler,5.0
+666caa5a-7b45-43d4-9083-655da126a39d,Coca-Cola Şekersiz (30 cl.),"5,00 TL",İçecekler,5.0
+0d3e7805-ea28-49bd-9e43-7a1214a29ffc,Fanta (30 cl.),"5,00 TL",İçecekler,5.0
+c408a648-6999-4521-9b4e-405f53ca9a53,Sprite (30 cl.),"5,00 TL",İçecekler,5.0

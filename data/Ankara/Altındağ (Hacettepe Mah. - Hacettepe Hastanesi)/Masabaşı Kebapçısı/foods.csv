@@ -1,0 +1,34 @@
+food_id,food_name,food_price,food_category,food_score
+cda582de-dc25-462d-a760-9f9d6472aaf5,Masabaşı Special (3 Kişilik),"210,00 TL",Kebaplar,9.0
+46b6895c-4886-436b-9585-6c848c5b8713,Masabaşı Special (4 Kişilik),"280,00 TL",Kebaplar,9.0
+11dec822-83c0-4553-b449-5e55d6c01636,Yaprak Kebap,"46,00 TL",Kebaplar,11.0
+9153bd5c-5d53-4bac-9432-c74239cd906e,Adana Kebap,"39,50 TL",Kebaplar,8.0
+000348c0-61a4-4743-875c-240085881e41,Urfa Kebap,"39,50 TL",Kebaplar,10.0
+4ee3edae-9bf8-49b1-b92b-b288be1bfdb7,Saray Usulü Sarma Beyti,"41,00 TL",Kebaplar,18.0
+886f3b06-a683-4f57-9def-2b3d8fc99eb5,Spesiyal Yoğurtlu Kebap,"41,00 TL",Kebaplar,7.0
+40dfdc28-bf6c-4c5c-976a-5561dd7c05a6,Patlıcanlı Kebap,"42,00 TL",Kebaplar,7.0
+5608A7F1-5857-40BA-B93D-A7D20F41688C,Mahalle Kebabı,"42,00 TL",Kebaplar,7.0
+73a8a8e5-9c93-4fce-9563-714690d3180b,Tavuk Çöp Şiş,"37,50 TL",Izgaralar,9.0
+6870b52b-a7d7-4eb5-9188-02fa453cde7a,Tavuk Külbastı,"37,50 TL",Izgaralar,6.0
+978c9add-8a67-4da1-851b-7622846f886f,Tavuk Pirzola,"37,50 TL",Izgaralar,5.0
+27080e9a-f169-4e3d-89b6-e4061c946752,Masabaşı Külbastı,"44,00 TL",Izgaralar,10.0
+4a678dfb-e107-414a-a4fd-7e1a15870e05,Masanın Acılısı,"47,00 TL",Izgaralar,5.0
+9d772cf2-5adc-482d-8067-06866a01d0b5,Alinazik Kebap (Şişten),"46,00 TL",Izgaralar,7.0
+a50105a7-1eb7-4d46-8481-6999b99463f7,10'lu Karışık Çöp Şiş,"42,00 TL",Izgaralar,11.0
+ad36d251-fe7f-473c-8871-c608064f9685,10'lu Et Çöp Şiş,"42,00 TL",Izgaralar,15.0
+c7f35f70-48fd-4bb1-a52a-7ee24a001e47,7'li Et Çöp Şiş,"37,50 TL",Izgaralar,15.0
+e97cb60c-403f-435e-9ca9-fcf6313a07ba,10'lu Ciğer Çöp Şiş,"42,00 TL",Izgaralar,13.0
+addd48f6-a795-4a91-9135-68fa7b0e7450,Terbiyeli Ciğer Şiş,"42,00 TL",Izgaralar,11.0
+5705b7e4-8f27-4316-b15c-940b648d35bb,7'li Ciğer Çöp Şiş,"37,50 TL",Izgaralar,13.0
+183f9052-2476-41e0-ac83-3661c32d7bcf,7'li Terbiyeli Ciğer Şiş (Acılı),"37,50 TL",Izgaralar,11.0
+c5cbe91a-cf66-46ee-ac9b-6381cc2ec5dd,Sebzeli Atom İskender (Et Dönerden),"36,50 TL",Et Dönerler,10.0
+b5d71dbe-85ea-4923-8398-7ccc29a74559,Masabaşı İskender Kebap (Et Dönerden),"36,50 TL",Et Dönerler,21.0
+dcfb8f29-0397-43aa-995e-b9ba9113fb0d,Spesiyal Beyti Et Döner,"41,00 TL",Et Dönerler,14.0
+b52c43f2-2714-498e-8b3f-53e09006533c,Yaprak Et Döner,"34,00 TL",Et Dönerler,21.0
+1d01d0e2-81e0-4a73-a373-6b2f4880c500,Güveçte Patlıcan,"26,00 TL",Spesiyaller,7.0
+875223ac-05a4-4bca-9959-72f964129498,Kızartma İçli Köfte (Adet),"7,00 TL",Yan Ürünler,7.0
+81f915bb-ba27-4176-a2f7-95da1085ec52,Kızartma İçli Köfte (4 Adet),"28,00 TL",Yan Ürünler,7.0
+af63d045-77fc-4571-8f59-3fd52ccfd8bf,Tulum Peynirli Yeşil Salata,"26,00 TL",Salatalar,7.0
+bc6dee46-2c71-40e9-9c7a-1d2ddf00487b,Gavurdağı Salatası,"18,00 TL",Salatalar,5.0
+2e24a6af-7874-41d7-ae33-89e8208e23f2,Künefe,"17,00 TL",Tatlılar,4.0
+58bba9cf-5c68-4fdd-a05c-ec141b5a62c8,Poşet,"0,25 TL",Poşet,5.0

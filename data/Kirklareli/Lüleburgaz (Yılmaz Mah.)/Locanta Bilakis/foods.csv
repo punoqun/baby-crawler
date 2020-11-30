@@ -1,0 +1,33 @@
+food_id,food_name,food_price,food_category,food_score
+49BF1794-05DD-42CD-BFF2-21E88EFF5883,Gurme Burger Menü,"69,90 TL",Menüler,5.0
+D5A6AB5D-F674-4473-A0B2-189CA74BC045,Gel Pişi Pişi,"20,00 TL",Kahvaltılıklar,5.0
+736C9827-5041-409C-BD03-7C9C4BDBB41D,Kaşarlı Gözleme,"14,90 TL",Gözlemeler,5.0
+A0447803-0EA4-40E2-B612-72AB3660C43B,Beyaz Peynirli Gözleme,"14,90 TL",Gözlemeler,5.0
+E4F0A7A1-14FE-4080-B989-B417EC81809C,Kıymalı Kaşarlı Gözleme,"18,90 TL",Gözlemeler,5.0
+DA391A5D-66F4-4529-B687-EB2BA5374E05,Kıymalı Patatesli Gözleme,"18,90 TL",Gözlemeler,5.0
+bc756d83-8bb2-4205-90f3-3efd2f57af33,Gurme Burger,"29,90 TL",Burgerler,10.0
+07ED6001-B563-48F4-B4B8-864D29B03FD6,Şefin Burgeri,"39,90 TL",Burgerler,7.0
+3CA915DB-B6A0-41CB-968D-95BFE9B78341,Çıtır Burger,"20,00 TL",Burgerler,5.0
+f413f080-59b8-4753-bb99-02215416c7f7,Ev Mantısı,"24,90 TL",Mantılar,7.0
+00C4C5A8-1D67-4540-9B38-A30EC4462931,Çıtır Tavuk Pane,"24,90 TL",Diğer Lezzetler,9.0
+de7b41e7-150d-431a-83da-d25ce148a476,Köri Soslu Gurme Pilav,"19,90 TL",Diğer Lezzetler,12.0
+9c08f29a-a6a8-4c4d-b210-a850e54edaa8,BBQ Soslu Gurme Pilav,"19,90 TL",Diğer Lezzetler,5.0
+51D7C172-D93D-47EF-B0FD-04D558A091A8,Kumpir,"24,90 TL",Diğer Lezzetler,5.0
+5f6db53c-3717-4e1f-bf43-0345b92fa392,Chicken Penne,"19,90 TL",Diğer Lezzetler,5.0
+2364D7D5-4449-4696-91E9-776C029DC9D5,Paçanga Böreği,"19,90 TL",Diğer Lezzetler,5.0
+431D3BE0-45E2-4213-8945-334AD1686A8E,Combo Sepet,"19,90 TL",Diğer Lezzetler,5.0
+A052DA6E-DB9F-405B-A8B5-91F350AE8116,Bazpress Sucuk Kaşar Tost,"19,90 TL",Diğer Lezzetler,5.0
+7A085F77-E930-46EB-9BFE-F26AB68F4926,Bazpress Kavurma Kaşar Tost,"23,90 TL",Diğer Lezzetler,5.0
+df6fcf70-a6bf-40b1-ad54-060d983608fb,Köfte Wrap,"24,50 TL",Wraps,7.0
+a4cf1688-e588-4159-878c-2dfe892d85d7,Tavuklu Wrap,"22,50 TL",Wraps,8.0
+7daf35f0-1ca2-464e-8557-9081ab1cdf5e,Akdeniz Salata,"22,00 TL",Salatalar,5.0
+a65c72f0-ea22-4d42-a930-9bcc4c4cfcd1,Tavuklu Sezar Salata,"22,00 TL",Salatalar,7.0
+fd1e1bdd-bdc3-4f31-b5e7-93c3be4a76b9,Ton Balıklı Salata,"22,00 TL",Salatalar,5.0
+2a5aa988-0cfb-4bc1-9ca2-21ad4af7cf5b,Izgara Köfteli Salata,"22,00 TL",Salatalar,5.0
+E70D65CD-90AF-4230-AAEC-CCA881A68047,Çıtır Tavuklu Salata,"22,00 TL",Salatalar,7.0
+6E44523F-AD91-42A6-8F9C-1CF228295993,Mag,"19,90 TL",Tatlılar,5.0
+69F6765D-3159-4188-BF2F-A7DFF47160E2,Waffle,"22,50 TL",Tatlılar,10.0
+DCF04C09-BA5C-4F27-B2C7-9CEDBF4660BA,Sushi Waffle,"17,50 TL",Tatlılar,5.0
+6B1C48D3-8CCA-45A7-8CC7-EFC0E11F0540,Belma,"19,90 TL",Tatlılar,5.0
+172F3E1C-807E-421B-88CA-7473EEB33D77,Mozaik,"19,90 TL",Tatlılar,5.0
+e022daf0-a091-44f4-b12d-282df23f8762,Poşet,"0,25 TL",Poşet,5.0

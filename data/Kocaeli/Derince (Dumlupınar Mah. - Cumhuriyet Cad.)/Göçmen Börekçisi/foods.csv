@@ -1,0 +1,49 @@
+food_id,food_name,food_price,food_category,food_score
+07581c0e-17f3-4d73-939e-e1fab18a46e8,Su Böreği Menü,"17,00 TL",Menüler,4.0
+b1902c48-6c82-4f9f-b300-eca7403f7c18,Adana Usulü Kaşarlı Su Böreği (200 gr.),"13,00 TL",Börekler,11.0
+e9285a71-e41e-40d7-b310-cd96d8d47147,Patatesli Göçmen Böreği (200 gr.),"12,00 TL",Börekler,10.0
+91f76c38-2fdb-4e61-842a-9df8ed4f6a58,Peynirli Göçmen Böreği (200 gr.),"12,00 TL",Börekler,4.0
+cec7e8a6-c06c-4c57-889c-c965d20d3a46,Ispanaklı Göçmen Böreği (200 gr.),"12,00 TL",Börekler,5.0
+4fb5f399-fa84-4059-a9dd-b061ebb2315e,Peynirli Kol Böreği (200 gr.),"12,00 TL",Börekler,6.0
+93fc263d-f66b-4522-9690-1da88554790a,Küt Böreği (200 gr.),"12,00 TL",Börekler,4.0
+328ae9cc-8793-400f-aa77-e27706141258,Peynirli Su Böreği (200 gr.),"12,00 TL",Börekler,4.0
+2e81e354-3fd4-41dc-a607-8ca1e2fe6cb8,Kıymalı Kol Böreği (200 gr.),"12,00 TL",Börekler,6.0
+25a3a77e-035e-44c6-a6b2-d2ee2dd229f6,Kıymalı Göçmen Böreği (200 gr.),"12,00 TL",Börekler,9.0
+981637EB-6CB5-438B-82B9-458B6571C2D2,Kahvaltı Tabağı,"10,00 TL",Kahvaltılıklar,6.0
+21a4c2cc-ac71-4f2b-a901-b7864e62d6c9,Üçgen Krem Peynir,"2,00 TL",Kahvaltılıklar,5.0
+1295458d-3670-4d6f-87d9-22f87553731c,Haşlanmış Yumurta,"2,50 TL",Kahvaltılıklar,5.0
+1c59833f-51f6-432d-8444-f16b633a2842,Söğüş Tabağı,"5,00 TL",Kahvaltılıklar,5.0
+f9013bcc-c120-4ffe-8a0e-aa1eae128852,Siyah Zeytin,"3,00 TL",Kahvaltılıklar,4.0
+f059dc64-9c39-448c-b396-30e950d90a33,Sade Kete (100 gr.),"5,00 TL",Kahvaltılıklar,5.0
+979c918e-c80f-4700-9c5d-b80db26f3e08,Ekmek,"2,00 TL",Kahvaltılıklar,5.0
+1d9ce01d-e77e-4c3f-8ce5-1864c1ab70f2,Galeta,"5,00 TL",Kahvaltılıklar,5.0
+86F53B12-3CDD-414E-BA7D-03B514B13AFE,Karışık Pizza (Küçük),"10,00 TL",Kahvaltılıklar,7.0
+300dea98-9a78-4c62-a1b1-3aab26934fc6,Zeytinli Poğaça,"2,25 TL",Poğaçalar & Açmalar,4.0
+d4faf2ef-9e56-4b92-871e-00d564285c44,Zeytinli Açma,"4,00 TL",Poğaçalar & Açmalar,4.0
+12a497de-b494-44d3-a18d-42256f366e45,Kaşarlı Tost,"10,00 TL",Tostlar,4.0
+9f197429-18a6-4768-bea4-62aaef40f6ac,Karışık Tost,"10,00 TL",Tostlar,4.0
+0703FBE3-B404-4C92-8EA1-8E6DCC41383C,Bazlama Ekmeğine Karışık Tost,"12,00 TL",Tostlar,6.0
+63DB89D7-7A63-4C32-BDDA-F9DBE1B17BBF,Bazlama Ekmeğine Kaşar Peynirli Tost,"12,00 TL",Tostlar,6.0
+D625D5D6-BAF5-448A-AF38-240809309F36,Bazlama Ekmeğine Sucuklu Tost,"12,00 TL",Tostlar,6.0
+31450b84-a290-460f-ab27-52e2b9c985f7,Üzümlü Kurabiye,"5,00 TL",Tatlılar,5.0
+dd3bab78-f963-4bb4-8b5e-2b49cefbd990,Cappy (20 cl.),"2,50 TL",İçecekler,5.0
+6f5b4b92-be8c-46c6-bafa-7b8ac85ef56b,Taze Sıkma Portakal Suyu (33 cl.),"8,00 TL",İçecekler,5.0
+9058620b-ca8d-4117-9425-0fb9c70d44cc,Damla Minera Sade Soda (20 cl.),"3,00 TL",İçecekler,5.0
+0c4764ca-0e40-456f-883a-a779113acce3,Küt Böreği (1 kg.),"50,00 TL",Kiloluk Börekler,4.0
+aa5904f1-129c-4cc3-9686-fdb94d2591ce,Kıymalı Kol Böreği (1 kg.),"50,00 TL",Kiloluk Börekler,6.0
+7ca37931-3750-4613-891d-71dcc89b2022,Adana Usulü Kaşarlı Su Böreği (1 kg.),"50,00 TL",Kiloluk Börekler,6.0
+c753c155-046c-41f1-b203-0d4654f4bd3b,Peynirli Kol Böreği (1 kg.),"50,00 TL",Kiloluk Börekler,6.0
+4d97c6d5-b79b-4e23-b9ee-e23c87f907a3,Patatesli Göçmen Böreği (1 kg.),"50,00 TL",Kiloluk Börekler,5.0
+a8e1991f-a9b0-494f-9809-42578d58cde9,Kıymalı Göçmen Böreği (1 kg.),"50,00 TL",Kiloluk Börekler,4.0
+30109d18-bbec-4fb4-aac8-a0ebb8b13cf4,Peynirli Göçmen Böreği (1 kg.),"50,00 TL",Kiloluk Börekler,4.0
+a491a11f-8865-4654-9ccd-d0a352e7a7db,Ispanaklı Göçmen Böreği (1 kg.),"50,00 TL",Kiloluk Börekler,5.0
+28f6efa8-1736-4d63-8c7a-c03f319106c4,Peynirli Su Böreği (1 kg.),"50,00 TL",Kiloluk Börekler,4.0
+b7a7b7a9-f23c-4855-9212-41923a938dbd,Kıymalı Göçmen Böreği (500 gr.),"25,00 TL",Kiloluk Börekler,4.0
+43a74f5c-86d6-48f8-bbd3-0adc0ba95f2e,Peynirli Göçmen Böreği (500 gr.),"25,00 TL",Kiloluk Börekler,4.0
+b5e3dd5c-dc00-4b77-a51d-08aa6dc77ea9,Patatesli Göçmen Böreği (500 gr.),"25,00 TL",Kiloluk Börekler,5.0
+c6806686-6aa7-4a63-8da1-b6827ebd4742,Kıymalı Kol Böreği (500 gr.),"25,00 TL",Kiloluk Börekler,6.0
+8ed62590-dfdb-4742-91d0-18b825cbc28e,Peynirli Kol Böreği (500 gr.),"25,00 TL",Kiloluk Börekler,6.0
+227ad749-fae7-435c-8e87-91bf7618cee1,Peynirli Su Böreği (500 gr.),"25,00 TL",Kiloluk Börekler,4.0
+eff4493a-d90f-4472-8455-d5448a99315a,Adana Usulü Kaşarlı Su Böreği (500 gr.),"25,00 TL",Kiloluk Börekler,6.0
+59207d20-37a6-4b6b-ae58-b31e27185442,Peynirli Su Böreği (Tepsi),"110,00 TL",Tepside Börekler,4.0
+222b7de2-40cc-4608-afa1-04cdfd34d13b,Poşet,"0,25 TL",Poşet,5.0

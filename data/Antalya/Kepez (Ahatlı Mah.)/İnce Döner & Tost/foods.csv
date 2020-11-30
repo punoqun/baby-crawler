@@ -1,0 +1,20 @@
+food_id,food_name,food_price,food_category,food_score
+b16179b9-0af8-4f06-af7a-0bc4b3e9c0e6,Menü 1,"15,00 TL",Menüler,3.0
+0f8ff9d9-f992-4325-8e28-d47c80564e8a,Menü 2,"15,00 TL",Menüler,10.0
+9bac05b9-4900-4b07-8198-c79d08c4e6f6,Menü 3,"17,00 TL",Menüler,5.0
+fb5e1842-9e16-43d4-a9d7-1307877dcb76,Menü 4,"14,00 TL",Menüler,5.0
+4bb558bf-fe7f-4a61-a36b-df1f4d2a5e11,Yumurtalı Tost,"9,00 TL",Tostlar,5.0
+7b8a8985-0f85-431a-8f9e-2ec9dd6cf129,Kaşarlı Tost,"10,00 TL",Tostlar,5.0
+f6752f9d-2467-4639-aaaa-0dc889ca4282,Sucuklu Tost,"9,00 TL",Tostlar,5.0
+2dcad90a-98c4-4105-8730-2e291f89fd01,Beyaz Peynirli Domatesli Tost,"10,00 TL",Tostlar,5.0
+62f0d4bd-0392-466b-9836-09dbdd48fccc,Sucuklu Kaşarlı Tost,"12,00 TL",Tostlar,5.0
+202eedc9-405a-4e6c-a2ce-92cdb26a1dc4,Yumurtalı Kaşarlı Tost,"12,00 TL",Tostlar,5.0
+32d3799f-8b68-4c66-a100-0c92ccb372aa,Sucuklu Yumurtalı Kaşarlı Tost,"14,00 TL",Tostlar,5.0
+4003c6f3-e175-42f1-8d1b-77da1e32b66b,İzmir Kumru Tost,"14,00 TL",Tostlar,5.0
+a8e37cf2-3228-4b91-b92e-7793f07de778,Tavuk Döner Dürüm (100 gr.),"12,00 TL",Tavuk Dönerler,6.0
+ff6b3f86-01ff-485f-8151-53d0ab4d57fb,Tavuk Döner Dürüm (150 gr.),"13,00 TL",Tavuk Dönerler,11.0
+6dfe6a2a-cd69-4a29-b4ef-d6bb08776f0c,Ekmek Arası Tavuk Döner (100 gr.),"12,00 TL",Tavuk Dönerler,11.0
+c298aa88-955d-417e-b64c-f0214a31f25d,Ekmek Arası Tavuk Döner (150 gr.),"13,00 TL",Tavuk Dönerler,11.0
+99e62c4d-83bb-4962-8fb4-2944131dee5c,Tam Ekmek Arası Tavuk Döner (200 gr.),"18,00 TL",Tavuk Dönerler,16.0
+69ed42e8-2c60-49e1-9579-a56eb8274076,Fyse Tea (33 cl.),"5,00 TL",İçecekler,5.0
+d6481f7b-940b-4767-a7b0-d9c4e3e0b088,Poşet,"0,25 TL",Poşet,5.0

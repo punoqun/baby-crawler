@@ -1,0 +1,19 @@
+food_id,food_name,food_price,food_category,food_score
+a710d363-1ef6-4c38-80d6-a80e5e2f7d95,Çeyrek Ekmek Arası Kokoreç,"10,00 TL",Kokoreçler,9.0
+b919080d-4b84-40d1-aa58-575d7a2f4d36,Yarım Ekmek Arası Kokoreç,"18,00 TL",Kokoreçler,9.0
+07fa01ea-cfc5-4cdc-9197-2c0aa3b5ff87,Yarım Ekmek Arası Sebzeli Kokoreç,"21,00 TL",Kokoreçler,4.0
+ed3b1c86-c7fa-4f6e-8215-a28317fb1bf3,Tam Ekmek Arası Kokoreç,"28,00 TL",Kokoreçler,4.0
+316e9b70-6b30-4154-8d14-a2b4a824265e,Tam Ekmek Arası Sebzeli Kokoreç,"31,00 TL",Kokoreçler,4.0
+91bbfec4-911d-4c35-b13b-90809bb38235,Tavuk Şiş,"18,00 TL",Izgaralar,5.0
+1698872c-f1b5-4203-b8e4-3e9f7de2c716,Izgara Köfte,"20,00 TL",Izgaralar,5.0
+60c1363d-23c0-4a38-82d1-d6f8a1f72267,Adana Dürüm,"15,00 TL",Dürümler,5.0
+657ec48e-cb5f-4dc9-aee0-8035eaa50c91,Tavuk Şiş Dürüm,"14,00 TL",Dürümler,5.0
+97b7b8e7-b5ad-4403-86a1-4895fa3535a2,Yarım Ekmek Arası Izgara Sucuk,"15,00 TL",Ekmek Arası Ürünler,5.0
+1b9790be-db89-436b-937f-027cf3578f69,Tam Ekmek Arası Izgara Sucuk,"23,00 TL",Ekmek Arası Ürünler,5.0
+fcc880a6-836b-4b65-a34a-5db56666f1a6,Yarım Ekmek Arası Izgara Köfte,"15,00 TL",Ekmek Arası Ürünler,5.0
+14983a94-0431-4730-9686-6c93af75b45e,Tam Ekmek Arası Izgara Köfte,"20,00 TL",Ekmek Arası Ürünler,5.0
+5613566d-6a30-45eb-9e3a-c42ef76cd642,Midye Dolma (Adet),"1,00 TL",Yan Ürünler,10.0
+80D5B323-6270-4FEA-82D9-12C3B23A991C,Adana Şalgam Suyu (1 L.),"12,00 TL",İçecekler,5.0
+817CBA5F-CD4F-4842-ADDE-6CFF17ADE8E1,"Adana Şalgam Suyu (1,5 L.)","17,00 TL",İçecekler,5.0
+C6F5D429-AD28-4D91-BA1A-4BE459B019D8,Sefa Damacana Su (19 L.),"9,50 TL",İçecekler,5.0
+4f261783-583e-47f2-ab63-494e6c0003dc,Poşet,"0,25 TL",Poşet,5.0

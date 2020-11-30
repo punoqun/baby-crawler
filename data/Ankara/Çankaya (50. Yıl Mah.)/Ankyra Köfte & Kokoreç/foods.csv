@@ -1,0 +1,44 @@
+food_id,food_name,food_price,food_category,food_score
+F78BF8AA-FF63-43EE-A75F-0E7BA6EE4A0F,Ekmek Arası Kaşarlı Kokoreç Menü,"54,00 TL",Ekonomik Menüler,13.0
+5B9AB434-4CE6-4E59-B585-8903BA90A3AB,Ekmek Arası Cheddarlı Kokoreç Menü,"56,00 TL",Ekonomik Menüler,15.0
+5c2c4370-d239-43a6-9a87-6e0c96b46ece,Ekmek Arası Köfte Menü,"40,00 TL",Ekonomik Menüler,32.0
+e99f3f54-2b8a-4770-b7eb-41bf71ec5782,Ekmek Arası Kaşarlı Köfte Menü,"44,00 TL",Ekonomik Menüler,32.0
+2dcb3cec-0506-4e15-a0a2-3e5c77fd523e,Ekmek Arası Cheddar Peynirli Köfte Menü,"46,50 TL",Ekonomik Menüler,34.0
+802f13c2-53c7-4329-b42b-f809effd8cb5,Ekmek Arası Kokoreç Menü,"47,00 TL",Ekonomik Menüler,13.0
+b0c17416-66b7-4ac4-a222-59ad0424fe44,Ekmek Arası Sebzeli Kokoreç Menü,"48,00 TL",Ekonomik Menüler,20.0
+efa29e21-eaab-43b6-88c7-72d7814c6366,Ekmek Arası Dana Sucuk Menü,"42,00 TL",Ekonomik Menüler,10.0
+52f6d835-91b5-419c-b015-692551456b66,Ekmek Arası Kaşarlı Sucuk Menü,"44,00 TL",Ekonomik Menüler,10.0
+60c64bc7-0e38-4c05-9d87-a54de09f599e,Ekmek Arası Cheddar Peynirli Sucuk Menü,"46,50 TL",Ekonomik Menüler,12.0
+8450cafa-8cdc-483b-8932-aa80b6435802,Hamburger Menü,"41,50 TL",Burger Menüleri,5.0
+59f0d7e0-1b57-4a31-9564-8f56dfb5a2d4,Double Hamburger Menü,"49,00 TL",Burger Menüleri,7.0
+e4e83fd8-ab46-4af3-af3e-5b05dd66e677,Cheeseburger Menü,"46,50 TL",Burger Menüleri,5.0
+af67734b-f1dc-4e3f-9409-7344636c9b0e,Ekmek Arası Köfte,"22,50 TL",Köfteler,37.0
+f2e54407-5289-44ed-8ec3-5b30e3072ef3,Ekmek Arası Kaşarlı Köfte,"27,50 TL",Köfteler,32.0
+4908ec5f-b620-429b-8672-b49d8cf6a1a7,Ekmek Arası Cheddar Peynirli Köfte,"31,00 TL",Köfteler,34.0
+6C9FE30E-CB0A-4598-A251-3B34B010E3DE,Bazlama Ekmeği Arası Köfte,"27,50 TL",Köfteler,32.0
+416A91AB-2A35-4507-9994-B66CC9F32602,Bazlama Ekmeği Arası Kaşarlı Köfte,"33,50 TL",Köfteler,32.0
+1E78FB4E-D6B8-4296-9C95-CEA2D5D8DE94,Bazlama Ekmeği Arası Cheddarlı Köfte,"37,50 TL",Köfteler,34.0
+2554a2fe-c1a1-4baa-aba8-bb4847172545,Ekmek Arası Kokoreç,"31,50 TL",Kokoreçler,18.0
+18b45e44-0c12-45c8-bc55-5ad72c178bb4,Ekmek Arası Sebzeli Kokoreç,"32,00 TL",Kokoreçler,20.0
+8C31EEBF-D1DE-4905-81CA-16D8DE087419,Ekmek Arası Kaşarlı Kokoreç,"36,50 TL",Kokoreçler,13.0
+A3501586-C8BC-49B9-9EAE-C1CC2C79C89D,Ekmek Arası Cheddar Peynirli Kokoreç,"41,50 TL",Kokoreçler,15.0
+05DD202D-6B95-445E-B165-545DE453C8D0,Bazlama Kokoreç,"45,00 TL",Kokoreçler,14.0
+90281180-C741-4659-9177-3113EC6797E3,Bazlama Kaşarlı Kokoreç,"52,00 TL",Kokoreçler,14.0
+9356B466-A2EA-4700-A363-4AB0F52CA6A7,Bazlama Cheddarlı Kokoreç,"54,00 TL",Kokoreçler,16.0
+42dde357-60eb-4a42-a53a-05dffe9f71fb,Hamburger,"27,50 TL",Burgerler,5.0
+a1efd8f9-dd50-49a3-8e5a-bea6e78be00e,Double Hamburger,"35,00 TL",Burgerler,7.0
+5ce831e6-4857-4cab-888e-4b58e6923971,Cheeseburger,"32,50 TL",Burgerler,5.0
+6f8e5102-9caf-4ad7-8138-04c3fdd0c342,Double Cheeseburger,"43,00 TL",Burgerler,7.0
+ab8e9a5d-6256-43bc-b349-edbd29dc8491,Ekmek Arası Kaşarlı Sucuk,"28,00 TL",Ekmek Arası Ürünler,10.0
+bb11902d-6157-4cf6-a263-39b9efa69944,Ekmek Arası Cheddar Peynirli Sucuk,"29,50 TL",Ekmek Arası Ürünler,12.0
+b4ab567e-aae7-4cab-acb6-cc460e6caf90,Ekmek Arası Dana Sucuk,"22,50 TL",Ekmek Arası Ürünler,15.0
+61165150-299a-496a-a3e9-bf634473f8fe,Patates Kızartması,"12,00 TL",Yan Ürünler,7.0
+ABB2072C-B5A9-4DF5-8759-997CC6CF2CD1,Double Patates Kızartması,"17,00 TL",Yan Ürünler,9.0
+d0077f33-ffb9-4de9-b908-14ff74e09338,Cajun Baharatlı Patates Kızartması,"14,00 TL",Yan Ürünler,7.0
+F9064586-AE74-486A-8865-4B574A9F67B5,Cajun Baharatlı Double Patates Kızartması,"19,00 TL",Yan Ürünler,9.0
+6377CDC3-342F-473D-9E67-7C606864E2E3,Rus Salatası (200 gr.),"12,00 TL",Yan Ürünler,5.0
+9367edd6-5c3a-434c-b803-79b1e9b5f47f,Eker Puding (100 gr.),"5,00 TL",Tatlılar,5.0
+df7268d0-03dd-4d89-93eb-b38230fd9115,Eker Sütlaç (100 gr.),"5,00 TL",Tatlılar,5.0
+88ab92be-f755-48b3-bf5b-8ecc0da916f2,Izgara Köfte (250 gr.),"33,00 TL",Kiloluk Ürünler (Pişirilmiş),33.0
+02ee4ebb-187b-482d-b47f-4798ef6b0b9a,Izgara Köfte (500 gr.),"60,00 TL",Kiloluk Ürünler (Pişirilmiş),33.0
+0cb48046-021b-4dde-877d-1aa32bd0bf04,Izgara Köfte (1 kg.),"99,00 TL",Kiloluk Ürünler (Pişirilmiş),33.0

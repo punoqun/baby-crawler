@@ -1,0 +1,70 @@
+food_id,food_name,food_price,food_category,food_score
+bcdd0672-53e5-4dd1-8f02-e16129b51199,2'li Chicken Burger Menü,"44,95 TL",Menüler,10.0
+c5eedbdb-12d7-4286-8745-dd887585a8cb,2'li Cheeseburger Menü,"52,50 TL",Menüler,7.0
+d85c31bc-6816-47bb-87e5-c79e21491016,3'lü Chicken Burger Menü,"62,50 TL",Menüler,10.0
+628661f1-02c7-4124-a8d2-4758d6a2aee2,Duble Kumru Menü,"25,95 TL",Menüler,18.0
+3ac9a46f-f430-4501-8ccb-6464412b0343,3'lü Cheeseburger Menü,"72,50 TL",Menüler,7.0
+8a449815-cb74-445c-9755-ab5b3d72e0ce,Islak Hamburger Menü,"24,95 TL",Menüler,11.0
+1d311c4b-ce1b-4619-995c-18ae20135d50,2'li Duble Kumru Menü,"49,95 TL",Menüler,18.0
+1f21f121-4433-4e11-97c7-80d707064d65,3'lü Duble Kumru Menü,"63,95 TL",Menüler,18.0
+48bd5ce6-29f6-44ea-a7b0-23bf36444371,Kaşarlı Sanayi Tost Menü,"20,00 TL",Menüler,5.0
+a2955cd7-7762-45d8-9bc7-42686b29d6b9,Karışık Sanayi Tost Menü,"23,00 TL",Menüler,5.0
+ece4a0e4-f861-493d-8a7e-8e40ef2f60cc,Atom Sanayi Tost Menü,"27,00 TL",Menüler,5.0
+170D3C8A-FA2B-49EE-BAC4-BA8023B255E8,Chef Selçuk Spesiyal Kumru,"25,00 TL",Kumru Sandviçler,19.0
+2d5402cf-4cdf-413a-9544-0bdd9399dfe2,Cheddarlı İzmir Kumru Sandviç,"15,95 TL",Kumru Sandviçler,17.0
+e10c8d0a-6f45-479e-8a22-06fe5e341793,Yumurtalı İzmir Kumru Sandviç,"16,50 TL",Kumru Sandviçler,17.0
+6e250df0-99e0-4a0a-bb75-5f8b10c846e0,Pastırmalı İzmir Kumru Sandviç,"17,95 TL",Kumru Sandviçler,17.0
+bad61b1e-d1f6-4bef-bf9a-6a797ad28818,Cheddarlı Duble İzmir Kumru Sandviç,"18,95 TL",Kumru Sandviçler,20.0
+e5e119ea-4fd8-431e-a340-8556fe3e1cc7,Yumurtalı Duble İzmir Kumru Sandviç,"19,50 TL",Kumru Sandviçler,20.0
+0502e1f0-202e-4280-bb62-7905511874c9,Pastırmalı Duble İzmir Kumru Sandviç,"20,95 TL",Kumru Sandviçler,20.0
+ae197d33-f035-47b3-b9d2-83ed597cfa39,Karışık Peynirli Duble İzmir Kumru Sandviç,"19,95 TL",Kumru Sandviçler,20.0
+2b838df3-ede5-49fe-b3d8-24489692b805,Duble Patso Sandviç,"12,50 TL",Sandviçler,9.0
+54327d3c-d1a7-41c4-95c2-e19192927cc7,Duble Kajun Baharatlı Çıtır Tavuklu Sandviç,"17,00 TL",Sandviçler,25.0
+e83a0906-5e85-4023-9951-eec2113b9758,Duble Kajun Soslu Tavuklu Patso Sandviç,"17,00 TL",Sandviçler,12.0
+e86ce3d5-c4c7-4d2c-b789-84d6bbeea41a,Duble Sosisli Patso Sandviç,"13,95 TL",Sandviçler,12.0
+31e4f870-6068-4a42-8c4a-1b761a6960ce,Duble Yumurtalı Patso,"13,95 TL",Sandviçler,7.0
+baef2f0a-2080-4c14-9f59-b19217691ef8,Duble Kaşarlı Patso,"14,00 TL",Sandviçler,7.0
+19b441df-516f-416a-9ba7-2769e1991ddd,Duble Sucuklu Patso,"14,95 TL",Sandviçler,7.0
+1FC9A560-015A-4C13-A1F7-005F0AE09B27,Alya Burger,"34,95 TL",Burgerler,10.0
+cfb155e4-42a4-4bf3-8c33-2b98e7e85a04,Big EGS Burger,"25,95 TL",Burgerler,10.0
+3F61043D-0F70-4003-B779-23D92B7F32B6,Texas Burger,"33,50 TL",Burgerler,10.0
+9C24350B-3D62-48B4-976E-DEF43CB6BBDA,Beef Burger,"28,95 TL",Burgerler,10.0
+E7451D87-7F60-4D54-A4C0-915E5EB486FB,Chef Selçek Burger,"32,95 TL",Burgerler,14.0
+0808c82f-ac12-46ab-968f-cc1c2eae9442,Steak Hamburger,"23,95 TL",Burgerler,11.0
+035a486e-7f1c-499f-be66-d467ab6d0c7b,Islak Hamburger,"7,95 TL",Burgerler,16.0
+03e6ff42-b68a-4cf9-8fb1-34355d88f9a7,Steak Fire Burger,"24,95 TL",Burgerler,10.0
+261a8785-875e-4651-935e-1b503e6f0203,Steak Double Cheeseburger,"34,50 TL",Burgerler,11.0
+03f75bbc-4402-4051-9ee1-45a50469d5ce,Steak Anadolu Burger,"25,95 TL",Burgerler,10.0
+8640f4cb-e57c-4e40-b193-4da421df2198,Fire Chicken Burger,"21,50 TL",Burgerler,10.0
+90906549-8b21-41e8-82bd-eed9602c1ac0,Steak Jumbo Burger,"25,95 TL",Burgerler,10.0
+a0565497-f419-49b7-8c56-ce4ad13b5dce,Steak Cheeseburger,"24,95 TL",Burgerler,12.0
+c688ed91-9bec-4312-b327-e3e3fbb931d7,Chicken Burger,"20,95 TL",Burgerler,10.0
+177E2599-A79A-415D-9C83-D859A07194B5,Drej Spice Burger,"33,50 TL",Burgerler,10.0
+A9ADCD54-5015-4415-BBCC-AB1F980CA0BF,Çıtır Burger,"26,95 TL",Burgerler,15.0
+AD52F86A-D9AA-4CEC-89EA-7D49CB373277,Drej Burger,"29,95 TL",Burgerler,10.0
+B830FD69-AABC-4015-933D-743A56D28C7E,Nazo Burger,"32,95 TL",Burgerler,10.0
+a91d7b25-29b2-4da8-9601-93b5c8bef7ca,Patates Kızartması (Orta),"9,50 TL",Yan Ürünler,7.0
+49f06ba6-6f5c-4843-8dff-9a354f4ccada,Elma Dilim Patates Kızartması (Orta),"9,95 TL",Yan Ürünler,7.0
+7d1fc4df-0d35-4c2b-816d-b8cf023d554d,Soğan Halkası (8 Adet),"9,95 TL",Yan Ürünler,5.0
+68053f50-58cc-4fe2-b16f-bc9304326e48,Çıtır Tavuk (6 Adet),"11,95 TL",Yan Ürünler,6.0
+38e162f6-475d-4adf-8f00-52af6d4f7c5a,Carte d'Or Premium Çikolata Cup (100 ml.),"8,00 TL",Dondurmalar,5.0
+4e749cc4-f140-4344-a3b6-1ae0e999e881,Algida Maraş Usulü Dilim Dondurma (82 ml.),"7,00 TL",Dondurmalar,5.0
+c3601d69-84da-4218-9428-2c75b1f4a47c,Algida Carte d'Or Volcano Cup,"15,00 TL",Dondurmalar,5.0
+515c125a-3ab1-4866-8f94-01fadb76adf8,Algida Carte d'Or Mini Cup Çilekli Yoğurtlu (110 ml.),"8,00 TL",Dondurmalar,7.0
+ccb80fa0-bdd7-4342-971f-c7f1f5e7e287,Magnum Beyaz,"11,00 TL",Dondurmalar,5.0
+6a21a3b2-17cc-40b6-bdb1-0066ed28e762,Algida Maraş Usulü Cup Dondurma (100 ml.),"7,00 TL",Dondurmalar,5.0
+e8997e6a-a8bf-4eef-9dda-5a1d8fbd6d3a,Magnum Badem,"11,00 TL",Dondurmalar,5.0
+1e8bcd21-167a-4a23-a5d1-4f1be4660687,Carte d'Or Premium Kaymak Cup (100 ml.),"8,00 TL",Dondurmalar,5.0
+d93e699e-1e5c-4bb9-8c62-c0980723a2da,Magnum Classic,"11,00 TL",Dondurmalar,5.0
+b9446367-154c-447e-85dc-6c8c652acab7,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"14,00 TL",Dondurmalar,5.0
+122c9b78-87f5-4037-ae8f-51ac942d36b9,Algida Carte d'Or Mini Cup Çikolata Karnavalı (110 ml.),"8,00 TL",Dondurmalar,5.0
+50cfcb48-a7a4-4786-81f1-54b95ed93211,Algida Classics Cookie Cup (105 ml.),"8,00 TL",Dondurmalar,5.0
+70f85ac4-a6bf-47b0-9c2e-adc561812c5e,Algida Maraş Dondurmalı Supangle,"14,00 TL",Dondurmalar,5.0
+3E7DF164-10A3-4F46-8DB0-F60C64F265E4,Fırın Sütlaç (200 gr.),"9,95 TL",Tatlılar,5.0
+F784CB96-A0D6-44E9-A775-48306549D021,Supangle (200 gr.),"9,95 TL",Tatlılar,5.0
+CE1D8AE9-C824-44D5-9E39-09222884E065,Profiterol,"9,95 TL",Tatlılar,5.0
+01819D59-68BB-447E-BD88-4A060B430561,Muzlu Mag,"12,50 TL",Tatlılar,5.0
+EDF94F52-4392-429D-947F-CE1370BBFC49,Çilekli Mag,"12,50 TL",Tatlılar,7.0
+86AB9D5A-B3BC-4719-A122-7A12123E193A,Oreolu Mag,"12,50 TL",Tatlılar,5.0
+c9c33c4b-4bb9-4255-9faf-a65aeb082075,Su,"2,50 TL",İçecekler,9.0
+14309d58-10da-4732-8cc7-687188c911ff,Poşet,"0,25 TL",Poşet,5.0

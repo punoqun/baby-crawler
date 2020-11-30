@@ -1,0 +1,35 @@
+food_id,food_name,food_price,food_category,food_score
+80448190-669e-4b6b-b9d3-14a09c24468b,Menü 1,"45,00 TL",Ekonomik Menüler,8.0
+8f85e371-9f5b-4e0e-81ee-a3e2610a1c25,Menü 2,"55,00 TL",Ekonomik Menüler,7.0
+984ca4ad-393c-4aeb-93a5-c689a4c466b6,Çift Kaşarlı Tost,"7,00 TL",Tostlar,4.0
+9050fcc3-85c0-420e-90b2-a2bb72f74412,Ayvalık Ekmeğine Kaşarlı Tost,"8,00 TL",Tostlar,4.0
+38c08516-450a-43d6-a4d4-5a32d857c887,Ayvalık Ekmeğine Sucuklu Tost,"8,00 TL",Tostlar,4.0
+a8b72496-688f-44cc-871e-44d90cb7d1a4,Kaşarlı Tost,"6,00 TL",Tostlar,4.0
+574cb2ac-9e46-4921-8ebf-8f7a6273ee7a,Sucuklu Tost,"6,00 TL",Tostlar,4.0
+fc43d914-1c97-481d-aaa0-3814535dd2ad,Karışık Tost,"7,50 TL",Tostlar,4.0
+08609f82-c9b7-4cd8-8398-6838e9c8327f,Kavurmalı Kaşarlı Tost,"15,00 TL",Tostlar,4.0
+509f1edc-bc1d-4918-853c-cfb1ddc7d409,Ayvalık Tostu,"14,00 TL",Tostlar,9.0
+56d74c24-8fa3-47c5-b0d3-f97577b8d8ba,Ayvalık Ekmeğine Karışık Tost,"10,00 TL",Tostlar,4.0
+cd606103-8534-4f88-a4c8-41cfb619aba0,Patso Sandviç,"8,00 TL",Sandviçler,5.0
+0307e94b-901a-4afe-ad1b-6622c34d2d7b,Kaşarlı Patso Sandviç,"9,00 TL",Sandviçler,5.0
+385e2fcb-9ebf-4463-86d2-bfb1cdfff14f,Sucuklu Patso Sandviç,"9,00 TL",Sandviçler,5.0
+fb65bc01-e477-4a4c-8f81-8a15fc48e773,Amerikan Salatalı Patso Sandviç,"9,00 TL",Sandviçler,5.0
+2a54eef8-482d-4e9c-bcd8-bb8781377c94,Sosisli Sandviç,"7,00 TL",Sandviçler,5.0
+520ebeb4-d044-440e-8466-05f18433ae9b,Yengen Sandviç,"8,00 TL",Sandviçler,5.0
+af840d1e-b183-4fe6-897c-3ee71ceec110,Kumru Sandviç,"13,00 TL",Sandviçler,5.0
+a5637159-0cbd-44a1-b862-deb37ff26303,Karışık Patso Sandviç,"10,00 TL",Sandviçler,5.0
+e7587f87-7ccd-4e61-83a3-e80b4b9f25c2,Amerikan Salatalı Sandviç,"8,00 TL",Sandviçler,5.0
+4d622ddf-3679-4713-94ab-e599d114bf16,Hamburger,"8,00 TL",Burgerler,10.0
+5cd72e93-fe0a-4551-9004-fef7feafe280,Cheeseburger,"9,00 TL",Burgerler,5.0
+29c7bf59-2e31-4d6d-92c5-ceb272943c61,Double Burger,"15,00 TL",Burgerler,5.0
+988324bf-e0e9-4d9d-b9f6-91e6c82596bc,Double Cheeseburger,"17,00 TL",Burgerler,5.0
+6bfa4dac-411c-414c-84d9-bed2db02327b,Amerikan Burger,"9,00 TL",Burgerler,5.0
+15062c7a-b8b4-412b-b346-642319918649,Islak Hamburger,"8,00 TL",Burgerler,12.0
+488dbaf2-11f3-455b-a767-a33d1717738b,Patates Kızartması,"7,50 TL",Yan Ürünler,4.0
+fa400a88-f5b5-438c-98a5-ddfd8f1da89e,Cappy (25 cl.),"4,50 TL",İçecekler,5.0
+73642e54-3db0-4e0a-b9e9-5628dfc7b9e7,Fuse Tea (25 cl.),"4,50 TL",İçecekler,5.0
+e311c1ea-7289-4b1b-8096-d05c8912e3de,İzmit Gazozu (25 cl.),"4,00 TL",İçecekler,5.0
+e5ee599e-343b-451b-9c68-92050d1d98c0,Limonlu Soda,"3,50 TL",İçecekler,5.0
+c1f4e12d-d3f0-42a8-b233-5b8e1e8bf30a,Su,"1,50 TL",İçecekler,5.0
+6cd23800-d6b3-437e-8801-445abb6caac7,Ev Yapımı Limonata (25 cl.),"6,00 TL",İçecekler,5.0
+1997bfbf-2910-4bc0-84eb-6b207c9fc8d2,Poşet,"0,25 TL",Poşet,5.0

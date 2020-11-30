@@ -1,0 +1,30 @@
+food_id,food_name,food_price,food_category,food_score
+df90bac8-2eea-420f-b91c-d87c139304e3,Kuru Fasulye,"10,00 TL",Ana Yemekler,5.0
+70d6cc9d-0309-4a0a-8ee0-9557e09c309c,Tavuk Şiş,"22,00 TL",Izgaralar,4.0
+cae2f281-e4f3-49bd-acfe-95a12f41d042,Izgara Köfte,"22,00 TL",Izgaralar,5.0
+81e31e39-3564-4e85-8629-8e610bb089f8,Et Döner,"24,00 TL",Et Dönerler,3.0
+50dbcfa9-af08-4538-9aed-b27f3dcb6675,Pilav Üstü Et Döner,"26,00 TL",Et Dönerler,3.0
+ca27890b-782b-45e9-b541-bc47401ce9ee,İskender (Et Dönerden),"25,00 TL",Et Dönerler,5.0
+25e79150-3d86-4620-9f0c-2e7c86817714,Tam Ekmek Arası Et Döner,"24,00 TL",Et Dönerler,8.0
+60a02186-b688-47c5-aef3-2a5c8bbb8db4,3/4 Ekmek Arası Et Döner,"19,00 TL",Et Dönerler,3.0
+ae6e26e0-309c-4948-890b-c2846b2cf16d,Et Döner Dürüm,"19,00 TL",Et Dönerler,3.0
+2e07e6de-a57d-4796-a6e9-7efe11b5feca,Yarım Ekmek Arası Et Döner,"13,00 TL",Et Dönerler,3.0
+cfc1afdd-4f74-418b-b169-3be94b22abd0,Tombik Ekmek Arası Et Döner,"12,00 TL",Et Dönerler,3.0
+10ab1da5-437f-414d-9e18-7d1e5e1dd4a5,Yarım Ekmek Arası Ciğer,"11,00 TL",Ekmek Arası Ürünler,4.0
+15c1eef0-7cf2-4c7c-afdc-beefc75c7517,Tam Ekmek Arası Köfte,"22,00 TL",Ekmek Arası Ürünler,10.0
+71940373-a5d1-44a4-a14f-1dacfb64c186,Yarım Ekmek Arası Köfte,"11,00 TL",Ekmek Arası Ürünler,5.0
+72121dee-8f4a-41d0-843c-59cbabba5939,Tam Ekmek Arası Tavuk Şiş,"22,00 TL",Ekmek Arası Ürünler,4.0
+73d055ff-a49e-461f-9859-c8c0593d75b2,Tam Ekmek Arası Ciğer,"22,00 TL",Ekmek Arası Ürünler,4.0
+7854655b-cae7-4f36-824b-22a92ad2b109,3/4 Ekmek Arası Ciğer,"17,00 TL",Ekmek Arası Ürünler,4.0
+b383e7dd-001b-4b4f-b899-fb240cc6e423,Yarım Ekmek Arası Tavuk Şiş,"11,00 TL",Ekmek Arası Ürünler,4.0
+e28af8a4-d46e-4be3-8582-d5b0b154c479,3/4 Ekmek Arası Tavuk Şiş,"17,00 TL",Ekmek Arası Ürünler,4.0
+f4cfe8ae-abb5-4f3c-9f83-143171afb977,3/4 Ekmek Arası Köfte,"17,00 TL",Ekmek Arası Ürünler,5.0
+80ff25b0-f4a8-438d-957f-7be183b188ae,Ciğer Dürüm,"17,00 TL",Dürümler,4.0
+ebc0477c-cd5c-4b9b-9ca7-6b92ec5bd862,Tavuk Şiş Dürüm,"17,00 TL",Dürümler,4.0
+2ffa3c99-ca2e-47af-b4c8-10423827c14e,Pirinç Pilavı,"8,00 TL",Yan Ürünler,10.0
+44c3c481-a14e-44b3-9253-f87e2388b5a5,Cacık,"8,00 TL",Yan Ürünler,5.0
+c693700f-3d46-412a-8002-7a47490996fd,Mevsim Salata,"8,00 TL",Yan Ürünler,5.0
+7b620579-0618-4f8e-aa9c-0d1f4f72cd7e,Kemalpaşa Tatlısı,"8,00 TL",Tatlılar,5.0
+7d37be9a-b708-4631-90a3-f9360f6ee314,Fırın Sütlaç,"8,00 TL",Tatlılar,5.0
+40B28F8A-2840-43F5-AAED-CF1DAC575ED3,"Fanta (2,5 L.)","10,00 TL",İçecekler,5.0
+2762cb24-5ab3-44d3-8fcf-a6f281fe6623,Poşet,"0,25 TL",Poşet,5.0

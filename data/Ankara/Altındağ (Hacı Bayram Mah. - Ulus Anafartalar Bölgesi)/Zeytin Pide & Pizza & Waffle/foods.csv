@@ -1,0 +1,81 @@
+food_id,food_name,food_price,food_category,food_score
+f94ccd70-af1e-4ebc-9f7c-43cdde30af3a,Antep Lahmacun (Adet),"10,00 TL",Lahmacunlar,20.0
+1eb7301b-bef2-4a36-82bd-5c0ef52c8f23,Antep Lahmacun (2 Adet),"18,00 TL",Lahmacunlar,25.0
+3c6c58b7-490c-4ef0-9780-c3d65a800bf2,Kıymalı Pide (Açık),"16,00 TL",Etli Pideler,26.0
+63d631da-dc3d-487d-9b17-f45019db39e3,Kıymalı Pide (Kapalı),"18,00 TL",Etli Pideler,21.0
+d0a8a774-8e46-433c-a6f1-4122dda712c6,Kıymalı Kaşarlı Pide,"17,00 TL",Etli Pideler,21.0
+8a2bcf52-a7b9-4a5c-8ed3-131b48d1e9fd,Kıymalı & Kaşarlı & Mantarlı Pide,"18,00 TL",Etli Pideler,21.0
+b5f075b8-91a9-42a1-a028-9b34d4884f64,Kavurmalı Kaşarlı Pide,"20,00 TL",Etli Pideler,17.0
+774123d8-4806-44e2-82b5-aff7e84c55bc,Kuşbaşılı Pide,"19,00 TL",Etli Pideler,22.0
+31c3f17c-8964-4f85-8b6e-40bd457dae79,Kuşbaşılı Kaşarlı Pide,"20,00 TL",Etli Pideler,27.0
+d478f975-8249-4dda-8943-d1b4e4f703eb,Kuşbaşılı & Kaşarlı & Mantarlı Pide,"20,50 TL",Etli Pideler,22.0
+68c7f19d-5e6e-4deb-9fd1-cb2de901cc48,Sucuklu Kaşarlı Pide,"17,50 TL",Etli Pideler,16.0
+ba2009ab-9e7f-476c-85ad-32d9de6f4f87,Sucuklu & Mantarlı & Kaşarlı Pide,"18,50 TL",Etli Pideler,16.0
+6d8c9258-9abc-4552-9931-da0ed9b4facb,Karışık Pide,"20,00 TL",Etli Pideler,21.0
+22b2898a-1ab9-463d-80d3-3c8325626bbc,Beyaz Peynirli Pide,"16,00 TL",Peynirli Pideler,17.0
+b22afd2c-3910-4756-b339-56b128b7b775,Kaşarlı Pide,"18,00 TL",Peynirli Pideler,17.0
+0e823df8-3dc4-4766-a4a9-2773da4f8b9d,Mantarlı Kaşarlı Pide,"18,00 TL",Peynirli Pideler,17.0
+26b10ca5-f56c-45d8-a136-73b53c9e7751,Patatesli Kaşarlı Pide,"14,00 TL",Sebzeli Pideler,16.0
+06c13f5f-dfcb-49b6-ae7f-a4eccf413a9e,Ispanaklı Kaşarlı Pide,"14,00 TL",Sebzeli Pideler,20.0
+e1f1673b-02c5-4f71-9f4c-2f7ad4f14213,Ispanaklı Yumurtalı Pide,"14,00 TL",Sebzeli Pideler,20.0
+a0af71a6-066f-4386-a571-6c69c080660c,Ispanaklı Beyaz Peynirli Pide,"14,00 TL",Sebzeli Pideler,20.0
+a4ffe712-68c1-4c07-a579-54c06f2fd803,Patlıcanlı Special Pide,"14,50 TL",Sebzeli Pideler,17.0
+00f34382-2b8d-4536-becc-863ed47055f7,Vejetaryen Pide,"14,00 TL",Sebzeli Pideler,17.0
+b1241231-c29d-4467-bd52-a1ef09c81878,Dört Mevsim Pide,"14,50 TL",Sebzeli Pideler,17.0
+808dff0b-e82b-47e4-84be-ec97c58c9a8b,Sebze Bahçesi Pide,"14,50 TL",Sebzeli Pideler,17.0
+52c4f5fd-5582-40d8-bc3b-b7ba601f7c0d,Zeytin Special Pide,"13,50 TL",Sebzeli Pideler,21.0
+b043122c-3b65-4aa0-b9b5-eb1fe9d7a024,Tavuklu Kaşarlı Pide,"16,00 TL",Tavuklu Pideler,16.0
+8bfad802-76e2-42dd-b787-b04123926fda,Tavuklu & Mantarlı & Kaşarlı Pide,"17,00 TL",Tavuklu Pideler,16.0
+5b1b3cde-0625-4907-8b2e-54f2969db962,Tavuk Kuşbaşılı Pide,"16,00 TL",Tavuklu Pideler,21.0
+b99fd448-c845-4f2e-b518-f2abd9567d17,Tavuk Kuşbaşılı Kaşarlı Pide,"16,00 TL",Tavuklu Pideler,21.0
+12a5409e-c33d-4383-aff2-8dc37f0466ce,Akdeniz Pizza (Küçük),"15,00 TL",Küçük Boy Pizzalar (1 Kişilik),16.0
+f4712a75-5084-4ef4-8936-b63ca31d9c0f,Sebze Aşkı Pizza (Küçük),"15,00 TL",Küçük Boy Pizzalar (1 Kişilik),16.0
+a16932fd-84f7-471f-b2c0-07c5ea2ced94,Meksika Pizza (Küçük),"15,00 TL",Küçük Boy Pizzalar (1 Kişilik),16.0
+18d6cf92-6104-4c3f-9831-ab2ac603aa81,Firari Tavuk Pizza (Küçük),"15,00 TL",Küçük Boy Pizzalar (1 Kişilik),15.0
+309b322d-c572-4b71-9688-12d657b793da,Ege Tutkusu Pizza (Küçük),"15,00 TL",Küçük Boy Pizzalar (1 Kişilik),16.0
+1d48def4-117d-4201-837a-6d67fefe2338,Temel Reis Pizza (Küçük),"15,00 TL",Küçük Boy Pizzalar (1 Kişilik),16.0
+81aff624-1ce2-4267-924d-22eab871e719,Etli Pizza (Küçük),"15,00 TL",Küçük Boy Pizzalar (1 Kişilik),16.0
+acca4678-da7b-4586-9c79-305dbe0e04bc,Patlıcanlı Special Pizza (Küçük),"15,00 TL",Küçük Boy Pizzalar (1 Kişilik),16.0
+e71a3415-c53e-4ddb-8dbb-32013f49a084,Turkish Pizza (Küçük),"15,00 TL",Küçük Boy Pizzalar (1 Kişilik),16.0
+a1d90b71-7d2b-451a-b14b-deb4e421f6a3,Kasaba Şerifi Pizza (Küçük),"15,00 TL",Küçük Boy Pizzalar (1 Kişilik),16.0
+335f4526-0bdf-4b0b-8dd2-26e4aa5781f1,Karışık Pizza (Küçük),"15,00 TL",Küçük Boy Pizzalar (1 Kişilik),20.0
+3ed631eb-8d8f-4983-94bb-05aff3a92621,Akdeniz Pizza (Orta),"20,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik),16.0
+c5299bcd-f10e-40f1-b114-a0e0e876121e,Sebze Aşkı Pizza (Orta),"20,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik),16.0
+535690ae-d893-4f10-8b81-c5f396d34f76,Meksika Pizza (Orta),"20,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik),16.0
+2cfebeae-9720-4fda-ad08-efc1b70fbd29,Firari Tavuk Pizza (Orta),"20,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik),15.0
+f6058bdf-6918-405e-9659-f223ab4b4a17,Ege Tutkusu Pizza (Orta),"20,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik),16.0
+118401ba-6abc-4a12-9e5c-9f6c996aeb4e,Temel Reis Pizza (Orta),"20,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik),16.0
+7fb80c3c-447b-4319-9c03-7035bd17aa02,Etli Pizza (Orta),"20,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik),16.0
+a3e4e1ef-9afe-4644-ab50-4bb9acf4cf9f,Patlıcanlı Special Pizza (Orta),"20,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik),16.0
+89eed609-a71c-47fb-905d-8b283d340e1b,Turkish Pizza (Orta),"20,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik),16.0
+b0e05221-a0b9-4f5b-a3cd-e5973225a0f0,Kasaba Şerifi Pizza (Orta),"20,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik),16.0
+dc5ffb83-ffbf-41dc-8350-0af1fcae01a8,Karışık Pizza (Orta),"20,00 TL",Orta Boy Pizzalar (1 - 2 Kişilik),20.0
+aa437996-fe9d-40dd-8564-710a6126b997,Akdeniz Pizza (Büyük),"30,00 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),16.0
+c3fed1c0-2758-4506-8a4e-353acfed74f5,Sebze Aşkı Pizza (Büyük),"30,00 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),16.0
+b16a3e6f-edf0-4205-a835-b81de45a1a38,Meksika Pizza (Büyük),"30,00 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),16.0
+e34ac215-cb8b-4ea5-9bea-0db29e837823,Firari Tavuk Pizza (Büyük),"30,00 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),15.0
+ccea3b5c-6cf7-474e-93cb-8f5de77ea97f,Ege Tutkusu Pizza (Büyük),"30,00 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),16.0
+eb2f1fe8-4259-4758-a35a-3965e86a0e52,Temel Reis Pizza (Büyük),"30,00 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),16.0
+c242370e-9e94-4810-85fe-5a38eeed1f06,Etli Pizza (Büyük),"30,00 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),16.0
+efbf786d-ce04-4f4f-848f-78342ed31cef,Patlıcanlı Special Pizza (Büyük),"30,00 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),16.0
+ac55daca-6368-411d-900a-648ed35ef7f0,Turkish Pizza (Büyük),"30,00 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),16.0
+34b0db0b-2bff-46a9-9222-9e60ad9b1e8e,Kasaba Şerifi Pizza (Büyük),"30,00 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),16.0
+c22de545-b967-4e76-9580-062f3a16a2ec,Karışık Pizza (Büyük),"30,00 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),20.0
+590c93f8-1535-4d8c-98e1-5428b49b91c0,Adana Kebap,"20,00 TL",Kebaplar,4.0
+a8a1a466-80db-4634-b3b3-9b0c99f4b376,Beyti Kebap,"22,00 TL",Kebaplar,4.0
+5580e91b-027f-42a4-b27b-e7fa9163cb58,Izgara Köfte,"19,00 TL",Izgaralar,6.0
+c0f366c3-ead0-4e93-9c46-d6eb319eff76,Tavuk Şiş,"19,00 TL",Izgaralar,4.0
+b46160f7-1903-4ca4-b54e-161a5650c4b8,Tavuk Kanat,"20,00 TL",Izgaralar,4.0
+47c75615-74b4-45d4-bbaf-b86217be624c,Kiremitte Köfte,"20,00 TL",Diğer Lezzetler,5.0
+d2d720e0-906d-4cf6-bcbb-00ad9d7c6b6b,Kiremitte Kuşbaşı,"21,00 TL",Diğer Lezzetler,13.0
+9d718176-4c27-456b-bb9c-e5eff49f0199,Elma Dilim Patates Kızartması,"6,00 TL",Yan Ürünler,4.0
+e70c7977-1f99-4073-905e-1b9ec2a6c784,Güveçte Mantar,"8,00 TL",Yan Ürünler,6.0
+d94a5c89-db02-47b9-bc07-ba48998e66f6,Mevsim Salata,"8,00 TL",Salatalar,5.0
+008e32eb-5182-4b79-a585-3cffbf6e72da,Karışık Waffle,"10,00 TL",Waffles,9.0
+36e5a340-bc97-468d-adc8-34e8569c06b1,Zalım Waffle,"10,00 TL",Waffles,5.0
+25b49ec8-7fc5-4006-9498-b55c6fd783c7,Çikolatanın Rüyası Waffle,"10,00 TL",Waffles,5.0
+a30cfa3e-1db9-43c0-9d53-1e2d7937dcfc,Çilek Tarlası Waffle,"10,00 TL",Waffles,5.0
+84bc23ec-e3e1-410d-82ec-2941b9cd6265,Kivinin Kalbi Waffle,"10,00 TL",Waffles,5.0
+3c78d91b-df52-40a3-b86b-0213edd461b5,Hırçın Ananas Waffle,"10,00 TL",Waffles,5.0
+7b53c524-5335-454f-a9de-8938d519bad3,Special Waffle,"10,00 TL",Waffles,5.0
+37b83661-465a-4e63-8fbb-172b979c030a,Poşet,"0,25 TL",Poşet,4.0

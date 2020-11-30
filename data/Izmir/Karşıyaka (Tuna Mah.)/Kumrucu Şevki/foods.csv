@@ -1,0 +1,73 @@
+food_id,food_name,food_price,food_category,food_score
+d374989b-4a79-4bc0-b65a-d02d806fcef7,İzmir Yengen Kumru Menü,"31,50 TL",Menüler,9.0
+949cb5e6-5620-4a87-b5a3-dfd5a358ce79,Hamburger Menü,"28,00 TL",Menüler,7.0
+76787690-97d0-4480-8169-a8f60af264a1,Cheeseburger Menü,"31,00 TL",Menüler,5.0
+1db4fa60-e2b3-4707-a945-dc39d24f80cd,Aile Menü,"84,00 TL",Menüler,5.0
+0cd619bc-7da9-49a2-8dcf-c02ab38ae061,Arkadaş Menü,"58,00 TL",Menüler,5.0
+d7254ff8-172f-412a-9f06-a5e4bc21889f,Kasap Burger Menü,"36,00 TL",Menüler,5.0
+SEVK010305,Beyaz Peynirli Tost,"18,00 TL",Tostlar,8.0
+004cc7d8-87d6-459e-9a1e-ee9c28256527,Karışık Tost 2,"20,00 TL",Tostlar,-14.0
+e79576a8-24ef-49c0-a7da-03e55bfc9422,Sucuk & Kaşar Peynir & Sayaslı Tost,"19,00 TL",Tostlar,4.0
+83562f85-c142-4363-abda-e75131368b21,Kaşar & Salam & Sayaslı Tost,"19,00 TL",Tostlar,6.0
+SEVK010310,Karışık Tost,"19,00 TL",Tostlar,6.0
+d626a887-8406-47d1-9d72-eddbaece5831,Kaşar & Salamlı Tost,"19,00 TL",Tostlar,6.0
+f9669284-6618-4506-a46a-c97db2171ff6,Kaşar & Sayaslı Tost,"18,00 TL",Tostlar,6.0
+f47f240c-6d21-4e22-a5ab-5ea088e08d91,Kaşar & Sucuklu Tost,"19,00 TL",Tostlar,6.0
+ace37da9-0cdb-4514-a539-27ab777469aa,Kaşarlı Tost,"17,00 TL",Tostlar,8.0
+c4b438af-2c37-4e7f-8c82-8b7bf3300b59,Salam & Sayaslı Tost,"19,00 TL",Tostlar,8.0
+SEVK010303,Salamlı Tost,"18,00 TL",Tostlar,8.0
+SEVK010306,Sucuk & Salamlı Tost,"19,00 TL",Tostlar,6.0
+d7ed4e10-1d86-4ab3-a7f3-7eb7b4d37835,Sucuk & Sayaslı Tost,"19,00 TL",Tostlar,6.0
+SEVK010302,Sucuklu Tost,"18,00 TL",Tostlar,8.0
+SEVK010311,Süper Tost,"20,00 TL",Tostlar,16.0
+61facb73-c674-45f2-99e4-7b6243a4430b,Çeşme Süper,"21,00 TL",Kumrular & Sandviçler,16.0
+SEVK010110,Çeşme Yengen,"20,00 TL",Kumrular & Sandviçler,3.0
+07b755fa-53ae-444e-bfca-a1721c89e191,İzmir Süper,"21,00 TL",Kumrular & Sandviçler,18.0
+c01dfb0c-d4b2-4f85-abc3-23a6eaa632e5,Üç Peynirli,"19,00 TL",Kumrular & Sandviçler,5.0
+SEVK010111,İzmir Yengen,"20,00 TL",Kumrular & Sandviçler,10.0
+67956db9-caba-4fd5-a08c-9bf484e0e3ba,Kaşarlı Kumru,"18,00 TL",Kumrular & Sandviçler,9.0
+d562e84e-fbb8-433d-8c93-ebb3f64b90b7,Kaşar & Salamlı,"20,00 TL",Kumrular & Sandviçler,3.0
+5a9a6be8-356e-4964-8a4b-795efd38e63f,Kaşar & Sucuklu,"20,00 TL",Kumrular & Sandviçler,3.0
+7b061ed4-1532-4a14-b8bb-fc0b4d63352b,Kaşar & Salam & Sayaslı,"20,00 TL",Kumrular & Sandviçler,3.0
+5cc5b171-7427-4278-9d3e-9c4ff9975816,Kaşar & Sucuk & Sayaslı,"20,00 TL",Kumrular & Sandviçler,1.0
+ecf8dec2-9487-496e-af49-67fcdc7dc956,Kaşar & Sayas,"18,00 TL",Kumrular & Sandviçler,3.0
+3a445d64-a1a9-4807-9c56-b4ca395d3416,Kaşar & Sosisli,"20,00 TL",Kumrular & Sandviçler,3.0
+2d5995df-afcb-4977-ae14-823e8306114a,Sosisli,"19,00 TL",Kumrular & Sandviçler,5.0
+2bca511c-12b8-4ea5-9333-f3c1e3af43d0,Sosis & Sayaslı,"20,00 TL",Kumrular & Sandviçler,5.0
+a5fbb27e-0946-46fd-80dc-b40cd7cfd65d,Sosis & Salam & Sayaslı,"20,00 TL",Kumrular & Sandviçler,5.0
+f1d4c564-6942-462c-8ee7-85b59e64b13e,Sosis & Sucuk & Sayaslı,"20,00 TL",Kumrular & Sandviçler,3.0
+7403b2fe-efc2-4e66-9203-78d6f7bf5bff,Sucuklu,"19,00 TL",Kumrular & Sandviçler,5.0
+7a491bfa-e1c2-47b9-a91f-5bf6ad244257,Sucuk & Sayaslı,"20,00 TL",Kumrular & Sandviçler,3.0
+01dd3320-bd3e-4f68-9420-ba2a87e4456f,Sucuk & Salamlı,"20,00 TL",Kumrular & Sandviçler,3.0
+1e1d790e-f289-4f7d-b69d-e48fa3bb6f78,Sucuk & Sosisli,"20,00 TL",Kumrular & Sandviçler,3.0
+98657e01-2d87-4e08-8962-94cef81c605a,Salamlı,"19,00 TL",Kumrular & Sandviçler,5.0
+4eb75522-6028-4fe0-b4c6-b00acbd9f8a0,Salam & Sayaslı,"20,00 TL",Kumrular & Sandviçler,5.0
+ea323be7-c3fa-4d54-9e17-7af2b65cfb21,Salam & Sosisli,"20,00 TL",Kumrular & Sandviçler,5.0
+ccfe8af8-050b-4beb-bdde-1d7426c67342,Sosis & Kaşar & Sayaslı,"20,00 TL",Kumrular & Sandviçler,3.0
+8f39b07b-3ae2-42a0-ad65-3756e429511b,Sayaslı,"17,00 TL",Kumrular & Sandviçler,5.0
+6fb2c8b4-6f1e-4c23-b464-7c5488035d70,Sucuk & Salam & Sayaslı,"20,00 TL",Kumrular & Sandviçler,3.0
+b6c6ac11-3a24-4a51-872a-9be26df6a9c4,Sucuk & Salam & Sosis & Sayas,"21,00 TL",Kumrular & Sandviçler,3.0
+SEVK010112,Turşu,"2,00 TL",Kumrular & Sandviçler,5.0
+a67cb0ef-08f9-4953-8134-74171ffd364f,Çift Köfteli Hamburger,"25,00 TL",Burgerler,7.0
+8480f562-07fe-4117-b210-9de910984435,Kasap Burger (130 gr.),"25,00 TL",Burgerler,5.0
+d1374202-94fb-4da2-9b39-8ddcddeacaab,Pınar Burger (45 gr.),"15,00 TL",Burgerler,5.0
+aa69e3de-993e-4c01-824b-352f819c7d8f,Basri,"24,00 TL",Kumpir & Farklı Lezzetler,5.0
+b7021cbc-ab3a-4be6-b74c-79c25adf82f9,Elma Dilim Patates Kızartması,"11,00 TL",Kumpir & Farklı Lezzetler,-2.0
+d1ad4c78-6ed4-4619-9776-3961739e911a,Hot Dog,"23,00 TL",Kumpir & Farklı Lezzetler,3.0
+SEVK010403,Patates Kızartması,"11,00 TL",Kumpir & Farklı Lezzetler,-2.0
+1541e296-771b-43fd-ade5-82c55557b220,Soğan Halkası (10 Adet),"9,00 TL",Kumpir & Farklı Lezzetler,5.0
+0fedaf28-b33f-4d66-8727-b5c5272cbef7,Soğan Halkası (5 Adet),"6,00 TL",Kumpir & Farklı Lezzetler,5.0
+07950FBC-E27B-465B-8BF0-CAEF13D00518,Ton Balıklı Sandwich,"18,00 TL",Kumpir & Farklı Lezzetler,5.0
+ba446c31-7169-4813-bb0f-befa6850fb15,Tiramisu,"13,00 TL",Tatlılar,5.0
+SEVK010702,Keşkül,"11,00 TL",Tatlılar,5.0
+SEVK010703,Supangle,"13,00 TL",Tatlılar,4.0
+SEVK010704,Fırın Sütlaç,"11,00 TL",Tatlılar,5.0
+SEVK010705,Kazandibi,"11,00 TL",Tatlılar,6.0
+SEVK010708,Profiterol,"13,00 TL",Tatlılar,5.0
+e6f55b6a-1e08-46e5-9e7a-244e567aa03c,Niğde Gazozu (25 cl.),"5,00 TL",İçecekler,5.0
+492a8331-a3b0-4101-b170-6871193e2c79,Taze Sıkılmış Portakal Suyu,"11,00 TL",Taze Sıkma Meyve Suları,5.0
+3530d128-89e0-42da-9c52-6c966c0527d2,Taze Sıkılmış Elma Suyu,"11,00 TL",Taze Sıkma Meyve Suları,5.0
+6de25464-3b0f-4249-b8d3-62ddcefa9bd5,Taze Sıkılmış Havuç Suyu,"11,00 TL",Taze Sıkma Meyve Suları,5.0
+4f17b607-eaba-413d-9bd4-5580d5cda3ad,Atom,"12,00 TL",Taze Sıkma Meyve Suları,5.0
+7633a68a-c5f2-4e7a-87b0-0814c996c4cd,Taze Sıkma Nar Suyu,"12,00 TL",Taze Sıkma Meyve Suları,5.0
+c25fa587-0f8b-4b22-880e-8af3527948bc,Poşet,"0,25 TL",Poşet,5.0

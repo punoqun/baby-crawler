@@ -1,0 +1,49 @@
+food_id,food_name,food_price,food_category,food_score
+27e65e9f-0234-4f6e-9635-3df7fafa76e4,10'lu Midye Dolma Menü,"17,00 TL",Ekonomik Menüler,-12.0
+d4350714-f3e4-4d7f-8543-801b49a147bc,30'lu Midye Dolma Menü,"46,50 TL",Ekonomik Menüler,-12.0
+83ce32ee-b97f-46b8-a108-7b28a8330997,2'li 3/4 Ekmek Arası Kokoreç Menü,"65,00 TL",Ekonomik Menüler,-17.0
+5a9e1b3f-45ea-4eb1-b431-dbd38448a5d7,3/4 Ekmek Arası İzmir Kokoreç Menü,"37,00 TL",Ekonomik Menüler,-11.0
+176e5aa9-50ea-46a5-ad78-ae509405c08c,3/4 Ekmek Arası Kokoreç Menü,"29,00 TL",Ekonomik Menüler,-17.0
+4f193d29-e271-4b93-8f8c-bb25c79191dd,3/4 Ekmek Arası Sucuk Menü,"29,00 TL",Ekonomik Menüler,-8.0
+acb02f67-1be2-4f6d-9d6a-b18f7b177aa1,3'lü Yarım Ekmek Arası Kokoreç Menü,"67,00 TL",Ekonomik Menüler,-15.0
+b3f8ed7d-5e49-4847-ac70-b713ab0b324a,Tam Ekmek Arası Kokoreç Menü,"36,00 TL",Ekonomik Menüler,-13.0
+ae7b7b04-2341-4bf4-a35e-0074e45e2edc,Tam Ekmek Arası Sucuk Menü,"36,00 TL",Ekonomik Menüler,-3.0
+1bbd1130-3cb6-4ec4-a32a-5f9cadcdcd01,Yarım Ekmek Arası İzmir Kokoreç Menü,"29,00 TL",Ekonomik Menüler,-9.0
+a394d746-0e41-4af4-b24b-825b48eb177e,Yarım Ekmek Arası Kokoreç Menü,"24,00 TL",Ekonomik Menüler,-15.0
+afeea3cc-b548-4636-a3df-00b933363f69,Yarım Ekmek Arası Sucuk Menü,"24,00 TL",Ekonomik Menüler,-5.0
+490d1540-d7dd-4c93-8a8a-06ec7e373815,Kokoreç,"35,00 TL",Kokoreçler,-8.0
+344f06bb-6219-49ed-b065-663c847cfce7,Çeyrek Ekmek Arası Kokoreç,"8,00 TL",Kokoreçler,-15.0
+870f77ba-7bc7-478d-8794-0a2505bf9cc8,Çeyrek Ekmek Arası Duble Kokoreç,"15,00 TL",Kokoreçler,-15.0
+8e1a92b5-e57b-4c09-ac2d-543af5834cc4,Yarım Ekmek Arası Kokoreç,"12,00 TL",Kokoreçler,-10.0
+7d29ca8a-d0ce-4714-be2e-732bbf06e1d4,Yarım Ekmek Arası Duble Kokoreç,"22,00 TL",Kokoreçler,-15.0
+2b71e6ca-68b2-49bc-bf0d-d02b05eeb600,3/4 Ekmek Arası Kokoreç,"17,00 TL",Kokoreçler,-12.0
+a9d289f5-49c5-4475-88c3-a347fbe1829f,3/4 Ekmek Arası Duble Kokoreç,"32,00 TL",Kokoreçler,-17.0
+37b4eadb-2eea-4ea6-98a0-3bb3e6540ebb,Tam Ekmek Arası Kokoreç,"24,00 TL",Kokoreçler,-13.0
+aee0de17-fab2-4ede-a70b-43078b4a1d52,Yarım Ekmek Arası İri Kıyım Kokoreç,"17,00 TL",Kokoreçler,-18.0
+21a8470d-17bf-41df-b052-76f344fa40cf,3/4 Ekmek Arası İri Kıyım Kokoreç,"25,00 TL",Kokoreçler,-20.0
+6c7cdedf-1bde-4e15-b85b-466b4e12bf7c,Yarım Ekmek Arası İzmir Usulü Kokoreç,"17,00 TL",Kokoreçler,-9.0
+a8d9a752-8dfc-4a81-b3fd-0d50fcc5315d,3/4 Ekmek Arası İzmir Usulü Kokoreç,"25,00 TL",Kokoreçler,-11.0
+4bd9eb13-0f9b-4185-8671-974f36afbf32,Çeyrek Ekmek Arası İzmir Usulü Kokoreç,"12,00 TL",Kokoreçler,-9.0
+5442f533-da16-4f97-95dd-b155972f24eb,Izgara Sucuk,"35,00 TL",Ekmek Arası Ürünler,3.0
+23b5f80e-6318-459e-b992-090796c5b682,Yarım Ekmek Arası Ciğer,"10,00 TL",Ekmek Arası Ürünler,-3.0
+81656c2a-f9f4-4c7b-9c25-4a2546803892,3/4 Ekmek Arası Sucuk,"17,00 TL",Ekmek Arası Ürünler,-8.0
+d384d11d-f867-4a24-abef-fb2f536ea3ef,Tam Ekmek Arası Sucuk,"24,00 TL",Ekmek Arası Ürünler,-3.0
+D639ADE7-00DF-4A34-8711-F6670B191569,Sade Pilav,"7,00 TL",Ev Yemekleri,4.0
+E0BD705C-27D0-4C1E-90DE-78697723383B,Tavuklu Pilav,"10,00 TL",Ev Yemekleri,5.0
+77702823-C1B0-4237-92F5-1CC2F23A6CCF,Kuru Fasulye,"10,00 TL",Ev Yemekleri,5.0
+6c2c88fd-c658-4249-beec-322433dc0308,Pilav Üstü Ciğer,"13,00 TL",Ev Yemekleri,5.0
+2e7fb990-5526-4f72-be29-fbb06f47867a,Pilav Üstü Kuru Fasulye,"10,00 TL",Ev Yemekleri,5.0
+85ec6b22-c225-40d4-856d-c8c366378fdb,Pilav Üstü Tavuk & Ciğer,"15,00 TL",Ev Yemekleri,5.0
+9e591817-476a-450e-945f-65cbbb7cd483,Pilav Üstü Kuru Fasulye & Tavuk,"12,00 TL",Ev Yemekleri,5.0
+d6102627-7579-40b8-a6ce-d5a08f02e0cb,Midye Dolma (Adet),"1,25 TL",Diğer Lezzetler,-7.0
+4a866347-2d85-45bd-b236-80c46ed6336c,Midye Dolma (10 Adet),"12,50 TL",Diğer Lezzetler,-12.0
+c7a882e7-d91f-4773-8ec8-3fad4cf84e7d,Midye Dolma (30 Adet),"37,00 TL",Diğer Lezzetler,-12.0
+bd3c4f25-22d1-4e2f-bdf6-301e1d2c362c,Midye Dolma (50 Adet),"62,00 TL",Diğer Lezzetler,-12.0
+d42e62fb-a47b-41c3-9db7-37d05c8ee434,Midye Dolma (60 Adet),"73,00 TL",Diğer Lezzetler,-12.0
+f1f3ab19-86d2-4485-b06b-db6d3b9ce7c6,Midye Dolma (75 Adet),"90,00 TL",Diğer Lezzetler,-12.0
+c414e912-ce5c-4fa9-9ddc-fdc6a2a19c97,Midye Dolma (100 Adet),"115,00 TL",Diğer Lezzetler,-12.0
+cb780afa-69cf-49c1-8743-03f8fdf3d8bc,Midye Dolma (120 Adet),"140,00 TL",Diğer Lezzetler,-12.0
+5f9d77e0-ae5c-4b97-a4ab-1618ace226e9,Midye Dolma (150 Adet),"175,00 TL",Diğer Lezzetler,-12.0
+4ce3f3d9-53d4-4cb6-b3ea-7c1a4ab6eed1,Midye Dolma (200 Adet),"230,00 TL",Diğer Lezzetler,-12.0
+ce8e11ff-f894-44aa-bf94-e151e89db264,Cappy Karışık (33 cl.),"5,00 TL",İçecekler,5.0
+9a0744bb-ff2e-4fa0-9a3d-9977d5f8220b,Poşet,"0,25 TL",Poşet,5.0

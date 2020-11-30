@@ -1,0 +1,57 @@
+food_id,food_name,food_price,food_category,food_score
+83A3CAFB-AC5E-4F96-9F81-FA6F403EBECC,2'li Pizza Menü,"78,00 TL",Menüler,14.0
+B5543704-4576-42FF-AB75-DA25773AAAEA,2'li Cheeseburger Menü,"70,00 TL",Menüler,5.0
+73dfc585-b792-41c6-a894-35ea513a601f,Sana & Bana & Ona Menü 1,"107,00 TL",Menüler,17.0
+360a6c31-41df-4886-bca6-6e9f432233aa,Sana & Bana & Ona Menü 2,"105,00 TL",Menüler,10.0
+27caa563-7088-462a-982a-e2f4ea260c02,Karışık Tost,"21,00 TL",Tostlar,4.0
+3328545a-8d15-4055-8055-a81f5373643c,A'altro Tost,"25,00 TL",Tostlar,5.0
+948ed542-8699-4f08-800b-779e692f7551,Peynirli Tost,"21,00 TL",Tostlar,5.0
+76075146-2367-47CF-950F-406BF432D236,Sanayi Tostu,"23,00 TL",Tostlar,5.0
+2635f03a-2c74-44cb-ad66-aad2ee19e138,Soğuk Sandviç,"17,00 TL",Sandviçler,5.0
+93efb324-1426-4c19-8022-4a30a005e8fb,Eritme Sandviç,"19,00 TL",Sandviçler,5.0
+c340a060-e6ad-418c-980c-879bf36a03d2,Hot Dog,"35,00 TL",Sandviçler,5.0
+49392e0c-4385-4e2e-85d0-84d548bbe436,No:1 Klasik Burger (Çocuk),"31,00 TL",Burgerler,10.0
+04a4662f-36c8-4eb1-82a1-224a7abdf5fc,No:2 Cheseburger,"33,00 TL",Burgerler,10.0
+4e003493-8c16-4211-b710-c8a22cb643d6,No:3 A'altro Spesiyal Burger,"35,00 TL",Burgerler,15.0
+cec6270e-3f24-4410-ad92-cd4d142eebe7,No:4 Füme Burger,"37,00 TL",Burgerler,15.0
+c1d60483-a039-4bee-a987-bae53ebb1c9f,No:5 A'altro Burger,"43,00 TL",Burgerler,10.0
+ade32ef3-e9c7-4860-a659-d927856fb468,No:6 Duble Burger,"45,00 TL",Burgerler,10.0
+84C7D904-9B6D-457C-8CC9-A63C087BB376,No:7 A'altro Gurme,"47,00 TL",Burgerler,5.0
+6be089c6-b8d4-47c1-b6b4-24f5878d9a6c,No:8 Izgara Tavuk Burger,"29,00 TL",Burgerler,13.0
+2ee95274-ec62-461f-a1d8-54c586441d2a,A'altro Karışık Pizza (Çocuk - 22 cm.),"21,00 TL",Pizzalar (Küçük),15.0
+304f2e67-628f-4c6c-81f0-7893208e3100,A'altro Peynirli Pizza (Çocuk - 22 cm.),"19,00 TL",Pizzalar (Küçük),16.0
+10b3d7c0-2350-4ab2-aeb0-cda5bb84cdac,A'altro Sebzeli Pizza (Orta - 28 cm.),"27,00 TL",Pizzalar (Orta),16.0
+412e4234-f786-4040-b800-47f6873f9599,A'altro Peynirli Pizza (Orta - 28 cm.),"25,00 TL",Pizzalar (Orta),16.0
+86d90011-42ed-4314-83a3-0317a8afaa9c,A'altro Spesiyal Pizza (Orta - 28 cm.),"37,00 TL",Pizzalar (Orta),16.0
+99ceb047-79b3-4617-8075-5ac984ba6e81,A'altro Karışık Pizza (Orta - 28 cm.),"35,00 TL",Pizzalar (Orta),15.0
+5e459b4b-3fe8-466d-86df-7787017af615,A'altro Sebzeli Pizza (Büyük - 32 cm.),"35,00 TL",Pizzalar (Büyük),16.0
+b71464fa-4780-4ca9-8c13-9ff36aa04408,A'altro Karışık Pizza (Büyük - 32 cm.),"43,00 TL",Pizzalar (Büyük),15.0
+cef10e91-1b0a-4f87-8fa2-1aeab392a109,A'altro Peynirli Pizza (Büyük - 32 cm.),"33,00 TL",Pizzalar (Büyük),16.0
+f66d25ff-1160-4452-9d63-e1651492c75c,A'altro Spesiyal Pizza (Büyük - 32 cm.),"45,00 TL",Pizzalar (Büyük),16.0
+0513d9d1-2943-4e50-a01f-16c3007a35a0,A'altro Peynirli Pizza (XL - 36 cm.),"41,00 TL",Pizzalar (XL),15.0
+30f3e46f-4298-43ea-8015-2fbf11d3bed6,A'altro Karışık Pizza (XL - 36 cm.),"51,00 TL",Pizzalar (XL),14.0
+5c604ef1-a161-4975-9f0a-1249452430c0,A'altro Spesiyal Pizza (XL - 36 cm.),"53,00 TL",Pizzalar (XL),15.0
+d40f3155-b83e-4e4e-b616-6b8d57d2e80b,A'altro Sebzeli Pizza (XL - 36 cm.),"43,00 TL",Pizzalar (XL),15.0
+85e9d1ac-187c-44a7-90a7-d01b6f80f7d7,Etli Wrap,"35,00 TL",Wraps,7.0
+915c30e8-b446-44bb-af3c-6e0d0f258554,Tavuklu Wrap,"31,00 TL",Wraps,7.0
+2998072d-fd75-40a7-9bd4-c386584177c6,Çıtır Tavuk,"21,00 TL",Diğer Lezzetler,17.0
+dfdeafb2-c51c-430f-85b5-066b2275d057,Tavuk Schnitzel,"27,00 TL",Diğer Lezzetler,10.0
+33bb51c1-96c5-409f-8039-cb7b84d91ee7,Patates Kızartması,"9,00 TL",Yan Ürünler,11.0
+BF2F6249-288C-40C8-9804-9933DF1BB882,Soğan Halkası (5 Adet),"5,00 TL",Yan Ürünler,6.0
+10698e47-c29a-4540-8f38-5c83b0982dca,Soğan Halkası (9 Adet),"9,00 TL",Yan Ürünler,6.0
+abfa2df1-ccb6-415a-b673-13e2637b1df3,Peynirli Salata,"23,00 TL",Salatalar,5.0
+dc2af8b4-95c9-4e4c-8585-3b0cf230b71c,Ton Balıklı Salata,"23,00 TL",Salatalar,5.0
+e3adb7ca-4583-4118-9036-0d38c8382db4,Tavuklu Salata,"23,00 TL",Salatalar,5.0
+e2f2b25d-6e97-4e40-92ea-c70d61a74371,Mozaik Pasta,"15,00 TL",Tatlılar,5.0
+9812586c-709b-45f5-8566-f134b80cac3e,Kuşburnu Suyu,"21,00 TL",Vitamin Bar,7.0
+cff06a44-2cde-46f0-a0ce-5fe9657f391e,Nar Suyu,"21,00 TL",Vitamin Bar,5.0
+30ea61b1-80f7-4943-a6a2-69fff21aacb2,Portakal Suyu,"17,00 TL",Vitamin Bar,5.0
+635bda2a-6062-4751-b4fa-645a9e5c3e7a,Elma Suyu,"17,00 TL",Vitamin Bar,5.0
+21d4af5f-7b35-4830-b92b-5afd5489a315,Havuç Suyu,"17,00 TL",Vitamin Bar,5.0
+6ff02e11-758a-41af-9aa5-798566be3c09,Karışık Meyve Suyu,"21,00 TL",Vitamin Bar,4.0
+02861a69-9775-4545-b5c2-1701a9c199d4,Antioksidan Meyve Suyu,"23,00 TL",Vitamin Bar,5.0
+c2c87f50-e50d-418c-bc3d-112527865946,Antioksidan Sebze Suyu,"23,00 TL",Vitamin Bar,5.0
+bf16ccb9-abba-40c3-b65e-eb138283f981,Vitamin 1,"23,00 TL",Vitamin Bar,17.0
+4294d757-15de-4734-9840-df9bd3ca2424,Vitamin 2,"23,00 TL",Vitamin Bar,10.0
+3976c00b-f9b3-41ad-907b-964dc215520e,Vitamin 3,"23,00 TL",Vitamin Bar,11.0
+2cfa8670-cba2-404a-9020-1fa3551d573a,Poşet,"0,25 TL",Poşet,5.0

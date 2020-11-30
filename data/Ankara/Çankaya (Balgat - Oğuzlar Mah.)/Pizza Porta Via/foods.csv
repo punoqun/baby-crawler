@@ -1,0 +1,95 @@
+food_id,food_name,food_price,food_category,food_score
+bacc409f-3274-4ba4-9bf3-649188689094,Ayrılmaz 2'li Piro & Pizza Rio Menü,"40,49 TL",Menüler,71.0
+96B115AD-B007-469B-BAC0-96F3ECE03CD7,Büyük Boy Pizza Menü,"36,74 TL",Menüler,67.0
+60eea073-ff54-450e-9bd2-5290724a6183,Kendini Özel Kılmak İsteyenlerin Menüsü,"37,49 TL",Menüler,6.0
+32cb8ee4-fb3b-474a-85c7-85ed01ba2cfd,2 Adet Özel Büyük Boy Pizza,"64,49 TL",Menüler,86.0
+36a32745-9569-4f54-b1ae-3f1ca57df804,Klasik Pizzalarda Keyfe Keder Menü,"84,74 TL",Menüler,5.0
+11180541-a657-4056-b34d-50d6edbb212a,Pizza BBQ Soslu Tavuklu (Küçük),"24,74 TL",Küçük Boy Pizzalar,66.0
+7acdaaaa-9a2e-4f64-a001-2c2f637d3fbf,Pizza Dört Peynirli (Küçük),"25,49 TL",Küçük Boy Pizzalar,66.0
+7f8a59c6-d161-43fb-a485-e5025213942f,Pizza Fith Fresh (Küçük),"23,18 TL",Küçük Boy Pizzalar,66.0
+551d56a4-87d6-4812-af56-f4a9c764a491,Pizza Geleneksel (Küçük),"26,99 TL",Küçük Boy Pizzalar,66.0
+3f8237d1-55e1-49f7-a4d8-6301bae5911a,Karides Pizza (Küçük),"26,99 TL",Küçük Boy Pizzalar,63.0
+8402933d-e562-4979-8c31-0e0af53790e2,Pizza Karışık (Küçük),"25,49 TL",Küçük Boy Pizzalar,66.0
+5a4214f7-c79c-4fdd-8b74-73a70ce367ca,Pizza Kavurmalı (Küçük),"26,99 TL",Küçük Boy Pizzalar,66.0
+92fe8efb-8c62-4970-9611-883b291e8caf,Pizza Loko (Küçük),"25,49 TL",Küçük Boy Pizzalar,66.0
+057974d9-ef66-4a1c-b1a1-7d84518ff503,Pizza Margarita (Küçük),"23,24 TL",Küçük Boy Pizzalar,66.0
+40b33c0f-0d87-4d9a-9b34-d976b6fb7fed,Pizza Mexico (Küçük),"25,49 TL",Küçük Boy Pizzalar,66.0
+faeab2b8-b741-4cdb-b78c-d838084059bd,Pizza Orkinos (Küçük),"26,24 TL",Küçük Boy Pizzalar,66.0
+616cf95a-2c1c-41a8-8e8c-55e7f3e9643d,Pizza Pepperoni (Küçük),"23,24 TL",Küçük Boy Pizzalar,66.0
+b3a61ea1-24c6-45b1-8fc1-1d6330488b75,Pizza Piro (Küçük),"23,99 TL",Küçük Boy Pizzalar,66.0
+7a2af5fe-d3ae-43e3-9c5d-fcb4d4af8e9e,Pizza Porta (Küçük),"23,99 TL",Küçük Boy Pizzalar,66.0
+255c7329-0b92-457f-b010-b773195c9d52,Pizza Rio (Küçük),"23,99 TL",Küçük Boy Pizzalar,66.0
+1b40201d-93a6-474a-8c51-864a63e82cde,Pizza Rosa (Küçük),"26,99 TL",Küçük Boy Pizzalar,66.0
+68e513d3-987f-410b-a342-1437c806b183,Pizza Tropica (Küçük),"26,99 TL",Küçük Boy Pizzalar,66.0
+91f2f16b-0e7d-46ca-823c-46df64b3d873,Pizza BBQ Soslu Tavuklu (Orta),"29,99 TL",Orta Boy Pizzalar,66.0
+ba6ccc63-a19a-4182-ba0f-f6e6c9695c7a,Pizza Dört Peynirli (Orta),"29,99 TL",Orta Boy Pizzalar,66.0
+ca567616-c30f-4436-ab6b-42f8ae748731,Pizza Fith Fresh (Orta),"28,49 TL",Orta Boy Pizzalar,66.0
+47d5fec8-179f-4612-bf78-57c6ac4ea345,Pizza Geleneksel (Orta),"31,49 TL",Orta Boy Pizzalar,66.0
+756a9a93-f02f-4ff1-89ac-3812dcd7b63b,Karides Pizza (Orta),"32,24 TL",Orta Boy Pizzalar,63.0
+dd614b6d-fa9c-4075-bad5-c3d6fed0a01a,Pizza Karışık (Orta),"30,74 TL",Orta Boy Pizzalar,66.0
+b20c14d4-00c0-42f8-9f17-64f12c859728,Pizza Kavurmalı (Orta),"32,24 TL",Orta Boy Pizzalar,66.0
+06b94222-e980-4e99-acd1-40f182068cfd,Pizza Loko (Orta),"30,74 TL",Orta Boy Pizzalar,66.0
+7f71b0d3-587f-4eac-8a6d-effafbbd7c7a,Pizza Margarita (Orta),"28,49 TL",Orta Boy Pizzalar,66.0
+9bbbce1e-c6eb-4fd6-ade9-f6cb9dcbb908,Pizza Mexico (Orta),"29,99 TL",Orta Boy Pizzalar,66.0
+8de4ae60-2c5f-4e5e-a68a-154d27d301ba,Pizza Orkinos (Orta),"30,74 TL",Orta Boy Pizzalar,66.0
+6634522a-0be8-4e0d-bf6b-2696c460e249,Pizza Pepperoni (Orta),"27,74 TL",Orta Boy Pizzalar,66.0
+e9448af4-a9e2-4b68-8259-1f7b14cf6161,Pizza Piro (Orta),"27,74 TL",Orta Boy Pizzalar,66.0
+9641f49d-3a5a-4351-af53-63021de39876,Pizza Porta (Orta),"27,74 TL",Orta Boy Pizzalar,66.0
+f6369d43-abc3-4575-830a-48a7c31f6569,Pizza Rio (Orta),"27,74 TL",Orta Boy Pizzalar,66.0
+b850d097-9147-4688-a399-1a28eb1917d4,Pizza Rosa (Orta),"32,24 TL",Orta Boy Pizzalar,66.0
+9194bb62-9ca6-45d7-8a48-cdee4eccf5ab,Pizza Tropica (Orta),"30,74 TL",Orta Boy Pizzalar,66.0
+50b8b063-f89e-4e19-81cf-2058867b70d4,Pizza BBQ Soslu Tavuklu (Büyük),"37,49 TL",Büyük Boy Pizzalar,66.0
+0610d555-511c-45d0-9aa7-c3acacd790b0,Pizza Dört Peynirli (Büyük),"37,49 TL",Büyük Boy Pizzalar,66.0
+0ecfb126-c284-44c2-adda-b18fc59d66a1,Pizza Fith Fresh (Büyük),"33,74 TL",Büyük Boy Pizzalar,66.0
+a8829fc9-ef0b-45cd-af38-6ad2e15e7afe,Pizza Geleneksel (Büyük),"41,99 TL",Büyük Boy Pizzalar,66.0
+3e0b5974-0788-49e4-8e74-5351d4ed7b08,Karides Pizza (Büyük),"41,99 TL",Büyük Boy Pizzalar,63.0
+b5f683a7-15f1-4563-8973-b3a6f1f0d594,Pizza Karışık (Büyük),"37,49 TL",Büyük Boy Pizzalar,71.0
+0138859c-d9ea-49e2-b9b5-f3de93b64c8c,Pizza Kavurmalı (Büyük),"41,99 TL",Büyük Boy Pizzalar,66.0
+9e8cabd4-d947-4371-8614-1c8da2cfe5e1,Pizza Loko (Büyük),"37,49 TL",Büyük Boy Pizzalar,66.0
+798c2e65-52d8-4c1a-965c-81cbdc8c3aa7,Pizza Margarita (Büyük),"34,49 TL",Büyük Boy Pizzalar,66.0
+61a38a81-402d-425e-9681-cd0476a67754,Pizza Mexico (Büyük),"35,99 TL",Büyük Boy Pizzalar,66.0
+28ba8b6a-1a21-455b-9f7f-576873176cac,Pizza Orkinos (Büyük),"38,99 TL",Büyük Boy Pizzalar,66.0
+7eef3c54-078d-4ba8-894c-27d2d65b5d13,Pizza Pepperoni (Büyük),"34,49 TL",Büyük Boy Pizzalar,66.0
+b3a217ff-50be-45db-bd20-87e7c6d8d50a,Pizza Piro (Büyük),"34,49 TL",Büyük Boy Pizzalar,66.0
+a408e779-d7f6-4bbb-bc69-78ae43ef9a1d,Pizza Porta (Büyük),"34,49 TL",Büyük Boy Pizzalar,66.0
+9834bae8-2a9d-4f47-a632-6e67b118ff5e,Pizza Rio (Büyük),"34,49 TL",Büyük Boy Pizzalar,66.0
+d0f3d66f-320d-4ac3-9131-021b87742a39,Pizza Rosa (Büyük),"41,99 TL",Büyük Boy Pizzalar,66.0
+1235d843-c7e4-46f0-95d6-3fe07142b1ea,Pizza Tropica (Büyük),"39,74 TL",Büyük Boy Pizzalar,66.0
+0198a986-bb6b-41a6-8744-a92113c27f07,Fırınlanmış Parmesanlı Elma Dilim Patates (230 gr.),"9,74 TL",Yan Ürünler,4.0
+0324ecbe-2985-4653-a6aa-be893fee653b,Kekikli Peynirli Çubuk,"16,49 TL",Yan Ürünler,5.0
+3f0da74c-097e-4be3-b1f4-b73bbca6e5d5,Sıcak Porta Sepeti,"19,49 TL",Yan Ürünler,11.0
+67e5c0f1-42f6-477f-aeb9-a3954644cb61,Fırınlanmış Elma Dilim Patates (230 gr.),"8,24 TL",Yan Ürünler,4.0
+6c2b5c65-8ca5-4be1-bd1a-2371ac03afcf,Tavuk Kanat (8 Adet),"17,24 TL",Yan Ürünler,5.0
+6ff877e7-2ba7-4a82-a9d8-b7b3a0aae362,Chicken Porta (200 gr.),"13,49 TL",Yan Ürünler,5.0
+72715d3c-2ac6-4bc9-b5a2-fa2866bc14f5,Fırınlanmış Parmak Patates (230 gr.),"7,49 TL",Yan Ürünler,4.0
+ec76bd41-c486-4657-9314-50625204f380,Parmesanlı Zeytinli Çubuk (8 Adet),"9,74 TL",Yan Ürünler,5.0
+86CB4239-4810-42C5-A6CA-ED3A77C44335,Porta Via Kavurma Roll (8 Adet),"16,49 TL",Yan Ürünler,5.0
+87EAD0EE-B015-41DA-A080-B49642F23C44,Fırınlanmış Soğan Halkası,"7,49 TL",Yan Ürünler,5.0
+9A9DFF75-5D55-4D48-847A-9FF40EA1DCE2,Porta Via Ranch Roll,"13,49 TL",Yan Ürünler,6.0
+DA61F940-A33E-4970-8F49-E5B19911C349,Porta Via Hot Roll,"13,49 TL",Yan Ürünler,5.0
+AA02E69D-DBC7-4354-9D15-C7511605E2AF,Porta Ranch Sandwich,"17,24 TL",Yan Ürünler,6.0
+DD33D837-DEA0-4662-9659-0676E60E21B1,Domi BBQ Sandwich,"17,24 TL",Yan Ürünler,5.0
+DBC598AD-07C9-4650-9CC6-B1EC20797BC8,For Hot Sandwich,"17,24 TL",Yan Ürünler,5.0
+B4CCEA7B-0F34-41F8-8DD4-08C06BF07E03,Kekikli Susamlı Çubuk,"17,99 TL",Yan Ürünler,5.0
+6E8CBAF5-2B12-43AC-A45E-3BC65887A246,5'li Turşu Paketi,"3,74 TL",Yan Ürünler,5.0
+45A21572-2C89-4A16-B4C2-BB858993D187,10'lu Turşu Paketi,"6,74 TL",Yan Ürünler,5.0
+C1C6DFD4-8694-4F68-9CE8-664832DCCFFC,Porta 15'li Turşu Paketi,"10,49 TL",Yan Ürünler,5.0
+2d23c02a-ad5a-401e-aed6-18b68bc81ac5,Izgara Tavuklu Salata,"14,24 TL",Salatalar,5.0
+58353207-f2ef-491d-8e37-5e6dd7456133,Akdeniz Salatası,"13,49 TL",Salatalar,5.0
+844e4ba1-9cb7-44d4-8d8b-6d261d4306ba,Orkinoslu Salata,"14,99 TL",Salatalar,5.0
+c42065dd-430d-4824-8e74-c13a2a8b0e6b,Çikolatalı Sufle,"5,99 TL",Tatlılar,12.0
+e331b352-2a61-4e2e-82a3-0c3318a9ab91,Damla Çikolatalı Rolls (8 Adet),"9,74 TL",Tatlılar,5.0
+e4cf38c9-166b-4542-bad3-cd885accf75a,Chocolate Hawaii,"12,74 TL",Tatlılar,4.0
+F981ED17-5A24-4E10-9164-3A0679C714BA,2’li Çikolatalı sufle,"11,24 TL",Tatlılar,20.0
+6A2AA25D-312C-42DE-A5C2-5E2B9991B81F,3’lü Çikolatalı sufle,"16,49 TL",Tatlılar,20.0
+c3370ac9-5a50-4377-8297-e29e17b991f3,Algida Maraş Usulü Dilim Dondurma (82 ml.),"5,18 TL",Dondurmalar,5.0
+456d403a-0821-4abc-a094-18e15b49d289,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"12,68 TL",Dondurmalar,5.0
+c6ba4d0e-a89f-4839-b277-7cc09d38cd30,Algida Maraş Usulü Cup Dondurma (100 ml.),"5,18 TL",Dondurmalar,5.0
+2c937773-9356-4b9c-aeea-cad8c2b9d4ce,"Magnum Mini Dondurma 6'lı - Classic, Badem, Beyaz (345 ml.)","20,93 TL",Dondurmalar,9.0
+fe144368-1637-433c-9373-361b7d358ae0,Carte d'Or Monoportion Çikolata Karnavalı (105 ml.),"7,43 TL",Dondurmalar,5.0
+546c3949-93fc-462d-9c56-cc40aacba843,Algida FS Cup Premium Kaymak (100 ml.),"7,43 TL",Dondurmalar,5.0
+644C0EAD-49B0-4668-AC1E-1FF25E8A39BE,Coca-Cola Şekersiz (25 cl.),"3,74 TL",İçecekler,5.0
+81be776d-3f06-4b71-9414-bf66bd707968,Red Bull (25 cl.),"6,74 TL",İçecekler,5.0
+5c4b6dc4-2308-46bf-81e4-f6722d7a6f05,8'li Sos Paketi,"8,99 TL",Soslar,8.0
+95a18b8e-2c7c-4bae-adb5-47b169bfdb43,Pizza Sos,"1,49 TL",Soslar,69.0
+8a8d71b2-ec55-4bfe-b2d5-5302230cea85,Poşet,"0,25 TL",Poşet,5.0

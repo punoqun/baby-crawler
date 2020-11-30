@@ -1,0 +1,19 @@
+food_id,food_name,food_price,food_category,food_score
+65BCBD26-DB20-4208-854E-668CBA5397D4,Dority Burger,"27,00 TL",Burgerler,11.0
+056645F9-C893-4229-ABAE-9737F36216D2,Füme Burger,"29,00 TL",Burgerler,11.0
+B6E77CA0-82E4-468B-BF81-D3B01B6C8B51,Middle East Burger,"29,00 TL",Burgerler,11.0
+AF05068B-1BBA-4A91-B64B-DC79BCACD464,Raffy Burger,"27,00 TL",Burgerler,11.0
+c43784ca-7e8a-40c1-92b0-5eb69481f82a,Double Carbon Cheesy Burger,"37,00 TL",Double Burgerler,9.0
+4A692287-0F50-45D0-BA50-4DF2279890AD,Juicy Tommy Burger,"41,00 TL",Double Burgerler,11.0
+08193588-0c17-4ef2-b0f1-59fa129898ce,Triple Carbon Cheesy Burger,"45,00 TL",Triple Burgerler,11.0
+C77C8FCB-2676-4523-904B-D906990FD750,Patates Kızartması,"12,00 TL",Yan Ürünler,7.0
+4EED5E8F-19A3-4F58-B179-A3B007BBFE54,Soğan Halkası,"14,00 TL",Yan Ürünler,4.0
+93B2629B-5720-447A-B651-2BC4C60B8C12,Elma Dilim Patates Kızartması,"14,00 TL",Yan Ürünler,7.0
+5D60834F-5A12-4680-9475-4C3A06431CB0,Bagel Combo Tabağı,"25,00 TL",Yan Ürünler,5.0
+cd530038-fdee-401f-88f8-125ab5e40b8d,Sütlaç,"10,00 TL",Tatlılar,8.0
+f3368389-140c-4500-9c81-29860c3d2aba,Mini Sütlaç,"5,00 TL",Tatlılar,8.0
+f4430ce1-c149-47f9-87f4-df819800dc56,"Ayran (19,5 cl.)","4,00 TL",İçecekler,5.0
+5465d03a-8a41-4ded-aa4e-e48cc29391d1,Su (1 L.),"6,00 TL",İçecekler,7.0
+c247c179-5664-4b6e-851c-7f41c05e8e33,Köri Sos,"2,00 TL",Soslar,6.0
+cd80302b-9c9b-48ec-b829-3b384c40b043,Karabiberli Mayonez,"2,00 TL",Soslar,5.0
+50663847-e62a-4ea7-9ad7-15b00d3f1334,Poşet,"0,25 TL",Poşet,5.0

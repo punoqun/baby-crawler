@@ -1,0 +1,34 @@
+food_id,food_name,food_price,food_category,food_score
+23c4c0e1-5ce4-4e3b-9264-a0e4c8f92868,Kral Burger Menü,"38,90 TL",Tatlı Menüler,8.0
+739f7738-805e-4685-99d7-750905ddad69,Kral Chicken Menü,"33,90 TL",Tatlı Menüler,7.0
+9d05aad4-42e4-4508-a574-63b4114c3fd4,Sweet Cheese Menü,"36,90 TL",Tatlı Menüler,6.0
+9f263545-53fd-4c72-b8e6-06965445b33d,5'li Mini Burger Menü,"42,90 TL",Doyuran Menüler,6.0
+e0dd406a-30a5-4cfb-91c5-ace657641b8b,2'li Cheeseburger Menü,"49,90 TL",Doyuran Menüler,5.0
+15d5fd1a-2eaf-44a4-a0ab-b3e25b777676,İsli Burger,"26,90 TL",Burgerler,6.0
+b0459177-2201-4fa1-bf13-a08f84603508,Beğendili Burger,"27,90 TL",Burgerler,6.0
+4ed4734f-caa4-4a8c-a70c-b33fc43c9551,Pesto Soslu Burger,"23,90 TL",Burgerler,6.0
+05a4343f-badf-4fa9-ba3c-ef5e41f19c76,Eski Kaşarlı Burger,"23,90 TL",Burgerler,4.0
+f6583bb7-6db4-4d3c-b153-c941b7e7f95b,Kuru Domatesli Burger,"23,90 TL",Burgerler,6.0
+5d89b29c-7806-4901-a9e1-90903e76e3ac,Goralı Burger,"23,90 TL",Burgerler,6.0
+5bd6f307-3213-48df-8c43-ebdbb3ddd5a0,Kids Burger (2'li),"19,90 TL",Burgerler,6.0
+2fb19885-6b91-4378-a9bf-5e07f95e719a,BBQ Chicken Burger,"19,90 TL",Chicken Burgerler,6.0
+160bb4c2-7a7d-4804-a1f1-ff348ccc3076,Classic Chicken Burger,"18,90 TL",Chicken Burgerler,6.0
+9fc08897-bc2f-421a-ac31-b6f3632229c0,BBQ Hot Dog,"20,90 TL",Hot Dogs,8.0
+002093fd-ad9d-4a03-8730-ed34d09678ab,Cheddar Hot Dog,"19,90 TL",Hot Dogs,8.0
+5215b7e8-9675-4475-b874-da5994e68121,Classic Hot Dog,"17,90 TL",Hot Dogs,8.0
+778d1f63-eb42-45f6-bad1-88298919c51e,Goralı Hot Dog,"20,90 TL",Hot Dogs,8.0
+6e5a2ac2-3d7f-4563-9299-3b6906568613,Gozo Hardallı Hot Dog,"20,90 TL",Hot Dogs,8.0
+66139027-a487-4f03-8909-6feb8136245d,Mexican Hot Dog,"20,90 TL",Hot Dogs,8.0
+f951b616-f1ee-4b2d-824a-c05082fa6a2c,Mushroom Hot Dog,"21,90 TL",Hot Dogs,8.0
+0fcbd90b-4eaa-4dcf-a60d-e5cf6b50c777,Patates Kızartması,"10,90 TL",Atıştırmalıklar,-1.0
+3050ad2a-0769-47cd-a7aa-d58832e26513,Soğan Halkası (6 Adet),"7,50 TL",Atıştırmalıklar,5.0
+33006d05-caf8-463c-b06a-d5e19d62dba3,Soğan Halkası (8 Adet),"10,00 TL",Atıştırmalıklar,5.0
+0690e3bd-d7a7-4016-aef5-1e26646ced99,Soğan Halkası (12 Adet),"12,50 TL",Atıştırmalıklar,5.0
+52224d80-4835-46b6-b1c3-059ac0c6bb10,Mozzarella Sticks,"7,50 TL",Atıştırmalıklar,5.0
+5f853db3-4a06-41ab-b331-43f4a3e48316,Etçi Mehmet Tabağı,"22,90 TL",Atıştırmalıklar,7.0
+b320d1f5-bc2b-4976-90dd-d88f1f92b0bb,Chedddar Soslu Patates Kızartması,"19,90 TL",Atıştırmalıklar,-1.0
+f12839a5-58e8-439d-a177-52b85d774b9c,Patates Kızartması (Büyük),"12,90 TL",Atıştırmalıklar,-1.0
+24e9c2f3-d2cc-4759-9c37-c7c0f62bbdbb,Oreolu & Çilekli Mag,"14,00 TL",Tatlılar,5.0
+B2FC157E-B61E-4B80-ADDA-8E985EF5A91A,Damla Meyveli Soda (20 cl.),"3,00 TL",İçecekler,5.0
+1e28a1d1-4b80-4aeb-8701-426ca773b5c1,"Su (0,5 L.)","2,50 TL",İçecekler,5.0
+71dc45e3-d9af-406e-bf4a-968c16ba61c0,Poşet,"0,25 TL",Poşet,5.0

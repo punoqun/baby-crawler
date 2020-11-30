@@ -1,0 +1,48 @@
+food_id,food_name,food_price,food_category,food_score
+A5A48FBA-BB69-4F8F-A1F9-4AC933A69687,5'li Ateş Klasik Menü,"60,00 TL",Menüler,6.0
+321AEDD2-0690-46FF-9254-C23CABDD7BFA,5'li Zurna Tavuk Döner Dürüm Menü,"85,00 TL",Menüler,13.0
+FD1D5FEB-F32E-4BD8-9C3F-12E10E0111F1,5'li Et Döner Dürüm Menü,"87,50 TL",Menüler,21.0
+64EE6E48-2ECF-4E3F-848F-F15297D06BE9,5'li Zurna Et Döner Dürüm Menü,"117,50 TL",Menüler,21.0
+58911ffa-5d28-4994-9d25-f278ddf00c6c,3'lü Avantaj Menü 1,"18,00 TL",Menüler,6.0
+49b8d6d5-6c29-48be-a36d-a7db6e6debf5,3'lü Avantaj Menü 2,"19,00 TL",Menüler,20.0
+18ccd5da-35a7-4c89-b308-a6a5021d21fb,3'lü Avantaj Menü 3,"20,50 TL",Menüler,12.0
+11e11822-31e0-4052-a2b1-03045cf073bc,4'lü Muhteşem Menü 1,"19,50 TL",Menüler,8.0
+b3d228b5-ccbb-4bb0-b273-cd20b8c454c2,4'lü Muhteşem Menü 2,"22,50 TL",Menüler,22.0
+536444de-d9b2-4a86-b5c4-59cb942eca70,4'lü Muhteşem Menü 3,"23,00 TL",Menüler,9.0
+1a3fb94f-40bc-4b6a-b6d3-3e8880a07c13,4'lü Muhteşem Menü 4,"26,50 TL",Menüler,13.0
+8f36a5fd-bc5d-4bb5-b8a8-3f4651a55e65,Tavuk Döner Dürüm Menü,"20,00 TL",Menüler,13.0
+4f358ef8-9ba6-41cf-a316-cd2e8e5d092d,Special Tavuk Döner Dürüm Menü,"21,00 TL",Menüler,14.0
+73d9fffb-b6b9-4fd2-ad09-61c726556ecc,ZurnaTavuk Döner Dürüm Menü,"24,50 TL",Menüler,16.0
+96dbb3e4-2c69-4d71-b651-2c1f39829024,Klasik Tavuk Döner Menü,"22,00 TL",Menüler,9.0
+8d681d20-33e6-4ea3-88bf-93fa02d5af24,Gurme Tavuk Döner Menü,"25,00 TL",Menüler,9.0
+3f98e30a-a6e8-47df-8b8e-933aa0c250c0,Zurna Tavuk Döner Menü,"23,50 TL",Menüler,8.0
+e52fcad1-53ba-45e6-b564-13767817116c,Efsane Tavuk Döner Menü,"28,50 TL",Menüler,14.0
+b80e424e-9ea9-4206-bdc3-411413f5ab33,Ateş Et Döner Menü,"25,50 TL",Menüler,17.0
+9790be59-587a-4b9b-8684-4c54220fcc3b,Ateş Et Döner,"28,00 TL",Et Dönerler,16.0
+93964CD1-7C1D-4836-905C-9F6BADDEBA57,Efsane Et Döner,"28,50 TL",Et Dönerler,21.0
+3a6d6abe-1c4a-46f2-939f-77af68f1d357,Ateş Et Döner Dürüm,"17,00 TL",Et Dönerler,20.0
+58602c8a-624d-4acb-ba08-fbdd8cacc1ce,Ateş Gurme Et Döner,"22,50 TL",Et Dönerler,16.0
+2d094567-9c80-4df2-9117-3d8a34ea3044,Ateş Zurna Et Döner Dürüm,"23,50 TL",Et Dönerler,20.0
+7cf11d40-e223-4c69-8929-3588ea62d9b9,Et Döner İskender,"29,50 TL",Et Dönerler,16.0
+e1e12efd-9f09-4d7d-9fbe-08b23af7fee8,Gobit Ekmek Arası Cheddarlı Et Döner,"21,50 TL",Et Dönerler,18.0
+649f53ca-0ca5-46b9-95f5-99e82790d9b5,Gobit Ekmek Arası Et Döner,"17,00 TL",Et Dönerler,16.0
+7efd36e6-6199-4dc3-9039-3d3b29a8a5d9,Gobit Ekmek Arası Kaşarlı Et Döner,"20,50 TL",Et Dönerler,16.0
+f598a78c-8a60-4d1c-a37c-728b507c3a0b,Pilav Üstü Et Döner,"29,50 TL",Et Dönerler,16.0
+40c8dc1a-eeaa-4f82-aa91-f92639c9fb57,Ateş Zurna Tavuk Döner Dürüm,"16,00 TL",Tavuk Dönerler,17.0
+2BF2F93E-ED78-4904-A060-3231A072CDA9,Ateş Zurna Kaşarlı Tavuk Döner Dürüm,"21,50 TL",Tavuk Dönerler,12.0
+88f032c2-7fc4-4543-97da-1151e05b9a30,Ateş Tavuk Döner Dürüm,"11,00 TL",Tavuk Dönerler,17.0
+fa836406-005b-4890-979d-822fd678df4a,Gobit Ekmek Arası Tavuk Döner,"12,00 TL",Tavuk Dönerler,8.0
+dcc21284-dba9-42b4-ba56-9f54edb8ae7b,Gobit Ekmek Arası Kaşarlı Tavuk Döner,"15,00 TL",Tavuk Dönerler,8.0
+78c711c4-960e-4c1e-88b5-f8b1da2e82eb,Gobit Ekmek Arası Cheddarlı Tavuk Döner,"16,00 TL",Tavuk Dönerler,10.0
+9ce1e25a-e5d8-4cb7-b9a1-e82e858660a0,Ateş Kaşarlı Tavuk Döner Dürüm,"17,00 TL",Tavuk Dönerler,12.0
+73c08e86-4259-4776-8dfa-e82b4d172dbf,Special Acılı Tavuk Döner Dürüm,"12,00 TL",Tavuk Dönerler,13.0
+f8a2069a-cd90-4605-b1e7-55fcdba771ee,Ateş Efsane Tavuk Döner Dürüm,"22,50 TL",Tavuk Dönerler,17.0
+9f6ed53e-6578-4c9b-b0c9-1c1b75478b7a,Pilav Üstü Tavuk Döner,"23,00 TL",Tavuk Dönerler,8.0
+4674c343-570e-4a33-88e6-d5850b4b9f96,Ateş Tavuk Döner Servis,"23,00 TL",Tavuk Dönerler,6.0
+3dddb954-14a3-4e34-b8ce-8dcb289dbc75,Tavuk Döner İskender,"23,00 TL",Tavuk Dönerler,8.0
+89fd7454-02df-4bbf-952d-d9a94498a74d,Eker Çikolatalı Puding (100 gr.),"4,00 TL",Tatlılar,5.0
+19308d4e-28c8-436d-a7cb-e99d9f27ea2e,Eker Kazandibi (100 gr.),"4,00 TL",Tatlılar,5.0
+93a64504-5a14-4375-a0cc-7fc63c8df84b,Eker Sütlaç (100 gr.),"4,00 TL",Tatlılar,5.0
+7d4b6095-3535-42a0-90ab-0a3a9d3745e8,Eker Sakızlı Muhallebi (100 gr.),"4,00 TL",Tatlılar,5.0
+269781be-dfd4-4c8a-be8d-f35b5ca30f48,Cappy Şeftali (33 cl.),"6,00 TL",İçecekler,5.0
+42bdea87-1a1c-45af-81a3-b2a4fa0b70e8,Poşet,"0,25 TL",Poşet,5.0

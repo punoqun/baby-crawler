@@ -1,0 +1,40 @@
+food_id,food_name,food_price,food_category,food_score
+521c91a5-ace2-45ab-830e-c18b94d32096,Munch Spesiyal Menü,"109,90 TL",Spesiyal Menüler,13.0
+dd466eb4-40dd-45f8-b4c2-6055b4fd7e92,Maç Menüsü,"81,00 TL",Spesiyal Menüler,5.0
+f81e75e5-00cf-458b-ac23-1e619b34795e,Şirket Menüsü,"159,90 TL",Spesiyal Menüler,5.0
+2f375599-1a26-4162-b097-70d8857778cb,Burger & Mac n Cheese Menü,"79,90 TL",Ekonomik Menüler,256.0
+e0146d59-433a-461a-ae00-48a1bc82ea97,Burger & Hot Dogs Menü,"60,90 TL",Ekonomik Menüler,9.0
+9f316102-9a19-47ee-b64e-a7ef70e19589,2'li Munch Burger Menü,"79,90 TL",Ekonomik Menüler,20.0
+549f0df2-f366-49fe-bd1f-f056f3af6877,2'li Original Burger Menü,"75,90 TL",Ekonomik Menüler,12.0
+b19aff47-333a-41b3-b074-d7a947ef8776,2'li Cheeseburger Menü,"77,90 TL",Ekonomik Menüler,5.0
+8a2194a7-8975-4b32-bcbd-3f55e6334080,2'li Smoky BBQ Burger Menü,"79,90 TL",Ekonomik Menüler,12.0
+b63ae95c-7c8a-4d86-9aeb-9269ce217717,2'li Onion Blossom Burger Menü,"79,90 TL",Ekonomik Menüler,12.0
+642bef49-4759-4f42-850d-947cc9531338,2'li Truffle Bomb Burger Menü,"81,90 TL",Ekonomik Menüler,13.0
+d43b55f4-ccaf-4245-9ccc-c161bc1c4ba0,2'li Chicken Mucnh Burger Menü,"75,90 TL",Ekonomik Menüler,12.0
+1ec2f699-7c44-4e42-812c-dfbe5b7b07ec,2'li Hot Chicken Burger Menü,"75,90 TL",Ekonomik Menüler,9.0
+bac7dace-b43d-4a3b-a58a-8977e460b50c,Mac n Mushroom Menü,"43,50 TL",Mac n Cheese Menüleri,253.0
+eac390b9-3d20-4f36-b794-915466db5e1d,Mac n Dog Menü,"50,50 TL",Mac n Cheese Menüleri,253.0
+079602C5-254C-41CC-8639-F122836CBF5D,Big Munch Burger Menü,"56,00 TL",Burger Menüleri,20.0
+78e5fc4f-146a-4ff2-b841-cb7e3faaff52,Chick'n Munch Burger Menü,"38,90 TL",Burger Menüleri,20.0
+b1c56299-1061-48a1-9673-27be4cb58f94,Original Burger,"29,00 TL",Burgerler,12.0
+26EBF5CB-491F-4716-A753-49190D7EBFA2,Big Munch,"45,00 TL",Burgerler,13.0
+126b38f5-c685-4624-80b8-f92212727fd7,Cheeseburger,"31,00 TL",Burgerler,5.0
+81f93554-2ea6-4fce-bcb5-13e2365f1da1,Munch Burger,"32,00 TL",Burgerler,20.0
+e4fa5229-6ed8-4ad2-bcd8-b09d80896973,Smoky BBQ Burger,"32,00 TL",Burgerler,12.0
+bd16a8c3-b823-47d1-8022-349fcd358c0c,Onion Blossom Burger,"32,00 TL",Burgerler,12.0
+cbab8484-bb26-4a31-9556-96e6c505f0fc,Truffle Bomb Burger,"33,00 TL",Burgerler,13.0
+53bad043-3148-44f4-8bdb-78cf55397e0d,Chick'n Munch Burger,"29,00 TL",Burgerler,20.0
+0a6016b4-399a-4b0a-b161-d7794722b8ae,Hot Chicken Burger,"29,00 TL",Burgerler,9.0
+bc77e7f3-f94f-4e8d-b618-4dc0395c4abd,Mac n Mushroom,"33,50 TL",Mac n Cheese,253.0
+6eb35818-b4d4-4a0d-a2bf-017bf60eafde,Chicken Strips,"15,00 TL",Yan Ürünler,5.0
+FCF44E0A-E8EB-4FDC-94CD-DDA6BE098ED0,Cheddar Soslu Patates,"18,00 TL",Yan Ürünler,10.0
+472E30D2-6EB3-4FB8-8789-B24EEF388A05,Ev Yapımı Belçika Çikolatalı Mozaik Pasta,"12,00 TL",Tatlılar,9.0
+944649b5-693b-4e2b-9583-504c7ba4c467,Niğde Gazozu (25 cl.),"8,00 TL",İçecekler,5.0
+f9aab762-77d0-4c55-97f3-fd49d971dbcc,Fresh Ranch Sauces,"3,00 TL",Soslar,5.0
+FF1EAF4D-C3F2-4183-A511-020C0F937D27,Cheddar Peynirli Dip Sos,"9,00 TL",Soslar,11.0
+2e67c0f5-a949-4e3c-84cd-960d27c4c86f,Roasted Garlic Mayo,"3,00 TL",Soslar,5.0
+b3c5dc28-5a4f-4bbe-b414-36ceb043f13e,Smoky Buffalo Sauce,"3,00 TL",Soslar,5.0
+ded655e3-d941-4745-b57b-2ce6f3f1c95a,Pineapple BBQ Sauce,"3,00 TL",Soslar,5.0
+d5712b9f-8245-45ef-a00a-8b1960a98aa3,Apricot Mustard,"3,00 TL",Soslar,5.0
+2a3460a7-8937-44d3-a083-af929ec72aeb,Szechuan Sauce,"3,00 TL",Soslar,5.0
+190f1077-5c28-41bc-95ca-accf1822b011,Poşet,"0,25 TL",Poşet,5.0

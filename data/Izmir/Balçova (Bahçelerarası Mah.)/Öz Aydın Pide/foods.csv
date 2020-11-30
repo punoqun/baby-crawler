@@ -1,0 +1,31 @@
+food_id,food_name,food_price,food_category,food_score
+83b5f671-f328-4a47-a41b-a3169c16ea63,5'li Kıymalı Pide Menü,"85,00 TL",Ekonomik Menüler,20.0
+af44f5e0-dac6-4817-9553-c881d0799b4c,10'lu Lahmacun Menü,"130,00 TL",Ekonomik Menüler,23.0
+eb176ea3-c330-47bd-a08d-3e36263d699f,4'lü Kıymalı Kaşarlı Pide Menü,"80,00 TL",Ekonomik Menüler,21.0
+01999788-743e-4864-a8f6-7a3626c057db,2'li Lahmacun Menü,"27,00 TL",Ekonomik Menüler,23.0
+492390a9-7577-4191-8dc0-0be634bcd308,Menü Özaydın,"76,00 TL",Ekonomik Menüler,7.0
+211c3011-df31-439c-8469-3f5052324ca6,"Kıymalı Pide (1,5 Porsiyon) Menü","26,00 TL",Ekonomik Menüler,20.0
+4FB2F41F-8BC3-4268-9C3C-EA34855052F3,Kıymalı Pide Menü,"18,00 TL",Ekonomik Menüler,20.0
+3a1200e5-9432-4eea-907e-bf2ba86229e2,Kıymalı Pide & Dondurma Menü,"30,00 TL",Ekonomik Menüler,20.0
+63e739a0-e91f-4cdd-b12d-3b823bbaca48,Kuşbaşılı Kaşarlı Pide,"25,00 TL",Pideler,22.0
+580f9471-6bde-4849-979b-33989d3b2c99,Mantarlı Kaşarlı Pide,"20,00 TL",Pideler,17.0
+e8ede3be-aa26-42c0-bc84-832ec74c641d,Salamlı Kaşarlı Pide,"20,00 TL",Pideler,17.0
+85ffcf29-103d-4d3c-b115-b8bd700846d9,Tavuklu Kaşarlı Pide,"22,00 TL",Pideler,17.0
+c0c01c34-210f-4d50-9730-dee76f41870e,Kıymalı Kaşarlı Lahmacun,"16,00 TL",Lahmacunlar,24.0
+8cec0d19-af7b-427a-a918-9bcb3027c732,Tavuk Dürüm,"20,00 TL",Dürümler,4.0
+c28d1815-4d45-418b-8632-f8549e5e31cb,Köfte Dürüm,"20,00 TL",Dürümler,5.0
+945a9a1c-8a43-4e47-b394-035ad0087406,Kiremitte Köfte,"24,00 TL",Diğer Lezzetler,5.0
+781541f9-f705-4ec4-a965-9ca57ca2f37a,Kiremitte Kaşarlı Köfte,"26,00 TL",Diğer Lezzetler,6.0
+3e36a5bd-0c1a-4364-abca-c843a77b8685,Kiremitte Tavuk Sote,"25,00 TL",Diğer Lezzetler,4.0
+95c9e171-baf8-4f76-afe2-48df0cc7c756,Kiremitte Kaşarlı Tavuk Sote,"26,00 TL",Diğer Lezzetler,5.0
+09f70802-9d9f-4759-af77-2b3fdcc01efd,Kiremitte Tavuk Şiş,"25,00 TL",Diğer Lezzetler,4.0
+3a862cf7-2c63-4081-8974-5d5764dff511,Kiremitte Kuşbaşı,"30,00 TL",Diğer Lezzetler,9.0
+287b24b9-ee8b-470a-915a-651c0aee0577,Kiremitte Kuşbaşı Kaşarlı,"32,00 TL",Diğer Lezzetler,10.0
+bc38fb72-f6eb-4b90-97d6-7f34ab584a9d,Izgara Köfte,"25,00 TL",Diğer Lezzetler,5.0
+6095ae66-eaa2-4da5-b13b-823da3813bd2,Sufle,"12,00 TL",Tatlılar,5.0
+c83cba3a-bf9b-4fde-90f0-19b3f87f6f72,Katmer Tatlısı,"18,00 TL",Tatlılar,7.0
+18fe0650-2569-4d3d-bcff-2aea637ffff8,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"12,00 TL",Tatlılar,5.0
+ba491c60-56fa-4d65-86dd-a2e6a506fa03,Şalgam Suyu,"5,00 TL",İçecekler,4.0
+301f4782-14f3-4bb6-bb11-ac2b3ee29a95,Ayran (Büyük),"4,00 TL",İçecekler,6.0
+f09bea1d-a540-42a3-b8fe-ab6acc8aa263,Su,"2,00 TL",İçecekler,4.0
+9563135f-f8ee-4d38-8c89-cf05d32d65d3,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,116 @@
+food_id,food_name,food_price,food_category,food_score
+474fd6ce-2d1f-43e7-93cf-2f4111dc5969,Çocuk Menü 1,"22,00 TL",Ekonomik Menüler,8.0
+8c297aa5-8f6f-46b1-a6dc-76d8109ae524,Çocuk Menü 2,"20,00 TL",Ekonomik Menüler,-1.0
+ba812b3d-a899-4fe7-8eff-ac0c27107d93,Chicken Burger Menü,"17,00 TL",Ekonomik Menüler,5.0
+9e5dc9f5-08fa-42ef-ac4f-be3e25a21fe4,Chicken Fingers Menü,"33,00 TL",Ekonomik Menüler,4.0
+efe87143-6715-49a6-bff9-45e68c38abf0,Cheeseburger Menü,"22,00 TL",Ekonomik Menüler,4.0
+6fbd4457-575b-4f6a-852d-d15679dd30a2,Hamburger Menü,"21,00 TL",Ekonomik Menüler,2.0
+b50d3dab-1a39-45e8-8397-6065cdf1595b,Etien Pizza (1 Kişilik),"21,00 TL",Pizzalar (Small),1.0
+e4ed4074-4b7d-4562-b5ad-e61a3fe28892,Pepperoni Pizza (1 Kişilik),"21,00 TL",Pizzalar (Small),1.0
+d5723f1f-4fd9-44bf-b20f-3640f06c88c2,World Ateşi Pizza (1 Kişilik),"21,00 TL",Pizzalar (Small),1.0
+e0b69018-b029-46d7-b390-6470dac64808,Vegeterian Pizza (1 Kişilik),"21,00 TL",Pizzalar (Small),1.0
+b654afc4-9366-4b6a-9281-d80c107ca963,Fiesta Pizza (1 Kişilik),"21,00 TL",Pizzalar (Small),1.0
+3c0c8e57-e249-498e-9878-1ae7c9ecef9d,My Mix Pizza (1 Kişilik),"23,00 TL",Pizzalar (Small),1.0
+fafc6eb1-55b2-4128-9c91-1b1ec0be8b55,Margarita Pizza (1 Kişilik),"25,00 TL",Pizzalar (Small),1.0
+219f8e0e-5f33-4381-93b4-2283e5071b85,Sicily Pizza (1 Kişilik),"23,00 TL",Pizzalar (Small),1.0
+69d281aa-d940-483f-86c9-cbb9ddf95de6,World Special Pizza (1 Kişilik),"25,00 TL",Pizzalar (Small),1.0
+4d94a96a-df7e-4692-a456-45a6473d2302,My Dream Pizza (1 Kişilik),"25,00 TL",Pizzalar (Small),1.0
+c0de3735-0b43-4015-a938-d4159ae115cd,Tonno Pizza (1 Kişilik),"25,00 TL",Pizzalar (Small),1.0
+c77f24a3-1a7b-4db2-93dd-5c4172f09d4b,Burn Pizza (1 Kişilik),"25,00 TL",Pizzalar (Small),1.0
+31c1df51-d73f-449d-80da-d5628e9027fc,Kavurmalı Pizza (1 Kişilik),"25,00 TL",Pizzalar (Small),1.0
+99875fb8-3b06-466f-92f6-71aa1b9aaa87,Kasap Sucuklu Pizza (1 Kişilik),"25,00 TL",Pizzalar (Small),1.0
+cff26bf2-279b-454c-b1c5-b7207e748231,Turka Pizza (1 Kişilik),"27,00 TL",Pizzalar (Small),1.0
+07d85462-4c6b-4322-a6c2-7071ce68b76c,Füme Kaburgalı Pizza (1 Kişilik),"30,00 TL",Pizzalar (Small),1.0
+20646794-6a9a-4896-b445-eac980eed27c,Etien Pizza (2 Kişilik),"29,00 TL",Pizzalar (Medium),1.0
+e36dea11-2936-42b5-a1ba-fb5bdbe596c6,Pepperoni Pizza (2 Kişilik),"29,00 TL",Pizzalar (Medium),1.0
+88cf2cfd-6f2d-4a9f-aafa-160028da3a04,World Ateşi Pizza (2 Kişilik),"29,00 TL",Pizzalar (Medium),1.0
+0536b8d3-344b-45e6-adb4-4abe4595e8bb,Vegeterian Pizza (2 Kişilik),"29,00 TL",Pizzalar (Medium),1.0
+37aee181-313e-4bc0-b2c0-a642a7f662e6,Fiesta Pizza (2 Kişilik),"29,00 TL",Pizzalar (Medium),1.0
+19db13de-fcb0-403f-a973-e0b4942e9570,My Mix Pizza (2 Kişilik),"30,00 TL",Pizzalar (Medium),1.0
+0219bcfb-b78e-4234-a73d-7a2552f9fa5f,Margarita Pizza (2 Kişilik),"32,00 TL",Pizzalar (Medium),1.0
+9891503d-453c-42de-a351-d27756c443ef,Sicily Pizza (2 Kişilik),"30,00 TL",Pizzalar (Medium),1.0
+da17d267-1f17-414f-b223-19d4a884fd37,World Special Pizza (2 Kişilik),"35,00 TL",Pizzalar (Medium),6.0
+c6ebe067-4c2d-4c5e-8921-6be64c4ec807,My Dream Pizza (2 Kişilik),"35,00 TL",Pizzalar (Medium),1.0
+a2553a07-b18d-47cb-818b-9b49e8e8dffd,Tonno Pizza (2 Kişilik),"38,00 TL",Pizzalar (Medium),1.0
+4640b095-f773-411f-b98b-784e94ed4cd8,Burn Pizza (2 Kişilik),"38,00 TL",Pizzalar (Medium),1.0
+8d7e9598-40a4-49e9-bf8c-e371339bb6da,Kavurmalı Pizza (2 Kişilik),"38,00 TL",Pizzalar (Medium),1.0
+5286b198-a8df-47f8-8ce6-0eabe279d9a0,Kasap Sucuklu Pizza (2 Kişilik),"38,00 TL",Pizzalar (Medium),1.0
+c5a89040-7874-45eb-b6f4-3f150404538f,Turka Pizza (2 Kişilik),"40,00 TL",Pizzalar (Medium),1.0
+a5db6226-c275-4c4d-a58a-d4fa0bc20952,Füme Kaburgalı Pizza (2 Kişilik),"45,00 TL",Pizzalar (Medium),1.0
+b4f0f126-8639-4928-ac97-a358392cdad8,Etien Pizza (3 - 4 Kişilik),"43,00 TL",Pizzalar (Large),-7.0
+d70d9b34-2dc2-4bc7-82fa-19cca33b957a,Pepperoni Pizza (3 - 4 Kişilik),"43,00 TL",Pizzalar (Large),-7.0
+11e689a9-94f7-45a9-9593-4a630e543f46,World Ateşi Pizza (3 - 4 Kişilik),"43,00 TL",Pizzalar (Large),-7.0
+8a815b64-9a21-4a58-bf87-e8da5eb6a031,Vegeterian Pizza (3 - 4 Kişilik),"43,00 TL",Pizzalar (Large),-7.0
+13f8f50c-36d6-43a0-a508-78ae8a7751d9,Fiesta Pizza (3 - 4 Kişilik),"43,00 TL",Pizzalar (Large),-7.0
+b1b6291a-4f64-4c5f-9dc1-ce46872c7ef2,My Mix Pizza (3 - 4 Kişilik),"44,00 TL",Pizzalar (Large),-7.0
+aeaac1a6-381a-4220-a3d6-0af43d0c40ca,Margarita Pizza (3 - 4 Kişilik),"48,00 TL",Pizzalar (Large),-7.0
+330d29d1-2bd0-4c04-adec-b67212ceb8d9,Sicily Pizza (3 - 4 Kişilik),"44,00 TL",Pizzalar (Large),-7.0
+47b4e3ed-2763-4abe-9c24-696163ebf895,World Special Pizza (3 - 4 Kişilik),"48,00 TL",Pizzalar (Large),-2.0
+44ddd50e-0b60-4cfc-9571-0446bf3d202e,My Dream Pizza (3 - 4 Kişilik),"48,00 TL",Pizzalar (Large),-7.0
+b4482372-bc4f-49a7-ae7d-1b0ef0cdbd16,Tonno Pizza (3 - 4 Kişilik),"49,90 TL",Pizzalar (Large),-7.0
+eacf21f9-520e-4786-916e-1bba375a714a,Burn Pizza (3 - 4 Kişilik),"49,90 TL",Pizzalar (Large),-7.0
+7227e84d-8751-4689-9d35-a80e9dd41e0e,Kavurmalı Pizza (3 - 4 Kişilik),"49,90 TL",Pizzalar (Large),-7.0
+f5634e4b-2edf-469a-ab70-440e58979bf4,Kasap Sucuklu Pizza (3 - 4 Kişilik),"49,90 TL",Pizzalar (Large),-7.0
+8f1f7960-7fa1-486d-9c69-33fd8a41ad13,Turka Pizza (3 - 4 Kişilik),"55,90 TL",Pizzalar (Large),-7.0
+8c891936-1179-438b-8668-31cdad0d942f,Füme Kaburgalı Pizza (3 - 4 Kişilik),"65,90 TL",Pizzalar (Large),-7.0
+5eed0166-2bef-4173-9174-0740aa701fbd,Etien Pizza (5 - 6 Kişilik),"67,90 TL",Pizzalar (Jumbo),-5.0
+949b3577-181d-4d71-ba29-f50e184400c1,Pepperoni Pizza (5 - 6 Kişilik),"67,90 TL",Pizzalar (Jumbo),-5.0
+eefada0f-9c8f-4f1b-89a0-c66593f90236,World Ateşi Pizza (5 - 6 Kişilik),"67,90 TL",Pizzalar (Jumbo),-5.0
+8ed9a4e5-9710-47ad-b34b-6c4d89d85968,Vegeterian Pizza (5 - 6 Kişilik),"67,90 TL",Pizzalar (Jumbo),-5.0
+b4a692ab-9c92-4ffe-ad9a-b483baa586bb,Fiesta Pizza (5 - 6 Kişilik),"67,90 TL",Pizzalar (Jumbo),-5.0
+1a0f5c50-f315-4cf8-b177-f276551b104d,My Mix Pizza (5 - 6 Kişilik),"69,90 TL",Pizzalar (Jumbo),-5.0
+4e5b785a-6c00-49f1-821c-a96b1620bb9c,Margarita Pizza (5 - 6 Kişilik),"75,90 TL",Pizzalar (Jumbo),-5.0
+cc85c6c1-d2ce-4343-b87e-90e73be49567,Sicily Pizza (5 - 6 Kişilik),"69,90 TL",Pizzalar (Jumbo),-5.0
+b368d047-911c-4dcc-9861-d3cd6739a08c,World Special Pizza (5 - 6 Kişilik),"75,90 TL",Pizzalar (Jumbo),-5.0
+9e0b23aa-bd94-44fc-8cda-07acee34dc75,My Dream Pizza (5 - 6 Kişilik),"75,90 TL",Pizzalar (Jumbo),-5.0
+94018813-2942-454c-994b-50a5f1eccfa0,Tonno Pizza (5 - 6 Kişilik),"79,90 TL",Pizzalar (Jumbo),-5.0
+b2978afa-b3eb-4ea1-825a-3429beca09cf,Burn Pizza (5 - 6 Kişilik),"79,90 TL",Pizzalar (Jumbo),-5.0
+28c0456a-c577-46f4-ac53-08232ea6d810,Kavurmalı Pizza (5 - 6 Kişilik),"79,90 TL",Pizzalar (Jumbo),-5.0
+c5c5fa13-56b9-45cc-9fed-2ca9e3ac6b39,Kasap Sucuklu Pizza (5 - 6 Kişilik),"79,90 TL",Pizzalar (Jumbo),-5.0
+33e26808-640c-4a31-bfd0-9443e6c8ac92,Turka Pizza (5 - 6 Kişilik),"89,90 TL",Pizzalar (Jumbo),-5.0
+62e23b68-4f04-40b8-aa6a-0905bf4e2303,Füme Kaburgalı Pizza (5 - 6 Kişilik),"95,90 TL",Pizzalar (Jumbo),-5.0
+10b110a5-77fc-4c15-88e9-ce8629f5995d,Hamburger,"10,00 TL",Burgerler,3.0
+145e5179-530c-48ed-b88b-eaa1273b90bc,Chicken Burger,"8,00 TL",Burgerler,6.0
+29ee8d8e-4a6f-4f4e-a47f-f7aa6abe0e15,Cheeseburger,"12,00 TL",Burgerler,5.0
+1f97c5e2-5f92-4387-a758-27277611eaa3,Izgara Gurme Burger,"20,00 TL",Burgerler,6.0
+bb294691-758d-4371-bd79-a396485b499e,Grand Burger,"25,00 TL",Burgerler,10.0
+0F32F2BB-21D3-4FEA-9284-60D966887E65,Buffalo Soslu Tavuk,"25,00 TL",Tavada Ürünler,2.0
+E5820C61-C855-418E-8ACC-CE0145C1D0A9,Cafe de Paris Soslu Et,"25,00 TL",Tavada Ürünler,19.0
+20D27283-4F0D-4500-89FE-C729CFC2C1F0,Mexican Tavuk,"25,00 TL",Tavada Ürünler,2.0
+91f8a011-023e-46ac-ba88-6d60f6947d6a,Çin Usulü Tavuk,"25,00 TL",Tavada Ürünler,2.0
+e63e9dc9-c56e-406a-a9e6-1ebefeacd625,Köri Soslu Tavuk,"25,00 TL",Tavada Ürünler,8.0
+d0b1fe51-5d19-450c-a5ca-c67b9f2672f5,Tavuk Sote,"25,00 TL",Tavada Ürünler,2.0
+5da101e4-32a4-4e62-bcdf-00d9b27dd737,Tavuk Stroganoff,"25,00 TL",Tavada Ürünler,2.0
+9ed16a7f-950a-4e4a-9ff1-fec7f1797b8d,Dağ Kekikli Tavuk,"25,00 TL",Tavada Ürünler,1.0
+734a96fb-7054-4bb3-a5ac-13594f92da40,Kremalı Tavuklu Makarna,"23,00 TL",Makarnalar,4.0
+6046BCCD-214E-4ADD-9F62-CCED7D0D049C,Cafe de Paris Soslu Tavuklu Makarna,"23,00 TL",Makarnalar,18.0
+653543af-62d4-46ee-a077-971dc6c39ae2,Bolognese Makarna,"23,00 TL",Makarnalar,4.0
+7e6f4c8d-088b-47d3-937f-d29ae369dd5c,Napolitan Soslu Makarna,"20,00 TL",Makarnalar,4.0
+aee0d945-8b16-46b9-a3c5-c81343a26d1f,Mantar Soslu Makarna,"20,00 TL",Makarnalar,2.0
+c6c4f4a9-ee10-42b7-92ed-5fe8a3feaace,Acılı Akdeniz Makarna,"20,00 TL",Makarnalar,4.0
+0dd303db-0fa7-42bb-802b-32620dbcfa0b,Fesleğenli Makarna,"20,00 TL",Makarnalar,4.0
+6fc71aac-e4a2-4abc-8d30-e14981be2283,Köri Soslu Tavuklu Makarna,"23,00 TL",Makarnalar,5.0
+096827c8-fe72-4782-990b-b7fb310bcd7d,Çin Tavuklu Makarna,"23,00 TL",Makarnalar,4.0
+7a26b3d1-5577-4154-ba97-86724169a03e,Dağ Kekikli Tavuklu Makarna,"23,00 TL",Makarnalar,3.0
+6c5353ec-2770-4ff3-b717-410f101f49d0,Fırında Kaşarlı Makarna,"25,00 TL",Fırın Makarnalar,4.0
+c91f32cf-dd9f-4112-997a-d6afb7b9bf85,Fırında Kaşarlı Mantarlı Makarna,"25,00 TL",Fırın Makarnalar,4.0
+9c1dafd6-4345-4e28-a7bb-2edef75807ff,Fırında Bolognese Makarna,"25,00 TL",Fırın Makarnalar,4.0
+2f0d64d1-7993-4b3f-a2a8-bd1edac79be0,Patates Kızartması (Orta),"15,00 TL",Yan Ürünler,-2.0
+d16af9b2-8cf2-49c2-9496-d603eb1d2ac2,Patates Kızartması (Küçük),"10,00 TL",Yan Ürünler,-2.0
+a03cecf3-30e3-41a7-95bb-055f1dcaa6cc,Acı Baharatlı Patates Kızartması,"19,00 TL",Yan Ürünler,-2.0
+38875dc4-bc4a-48a9-909d-84f002963555,Çin Tavuklu Salata,"20,00 TL",Salatalar,7.0
+af8d41e2-dcab-41a7-a1b4-a2231e7a5fd6,Izgara Biftek Salata,"38,00 TL",Salatalar,7.0
+abca4865-f862-422f-ac8f-809bd734c90c,Izgara Tavuklu Salata,"25,00 TL",Salatalar,7.0
+f801415c-4d0e-4175-9940-eacfc67a6700,Kaşarlı Salata,"18,00 TL",Salatalar,7.0
+62ff46d9-7bc1-4c19-a6bc-d25bfa47bc4f,Köri Soslu Tavuklu Salata,"20,00 TL",Salatalar,8.0
+bf079ab0-029c-44a3-8853-adcb3f36d18e,Mevsim Salata,"15,00 TL",Salatalar,7.0
+87157f25-0123-4cbb-8db9-6d7e4c2b202c,Mexican Salata,"20,00 TL",Salatalar,7.0
+39cda789-9e36-47c8-86ca-bb539da339ad,Sezar Salata,"25,00 TL",Salatalar,7.0
+064946e6-3de7-4a14-bc82-c073ddea11b6,Sote Tavuklu Salata,"20,00 TL",Salatalar,7.0
+bf8090f3-81db-4df4-8d6d-a16a31eb79b6,Susamlı Tavuk Salata,"25,00 TL",Salatalar,4.0
+ec15be9f-c19c-4503-a681-cc64381d1084,Tavuklu Spesiyal Salata,"20,00 TL",Salatalar,7.0
+a748b3b3-b73d-47b5-a255-42585d4c69c0,Ton Balıklı Salata,"25,00 TL",Salatalar,7.0
+e76a9842-e9d2-4c43-b575-d45616d724a0,Cips Sos,"1,50 TL",Soslar,5.0
+5a1814f3-442a-428f-b283-e0d9d076fed1,Sezar Sos,"1,50 TL",Soslar,5.0
+dda58c80-b866-472b-99de-806e4c13527f,7UP (1 L.),"7,90 TL",İçecekler,5.0
+d6e26c1c-d585-4acc-b8b4-0282e5b173d9,Poşet,"0,25 TL",Poşet,5.0

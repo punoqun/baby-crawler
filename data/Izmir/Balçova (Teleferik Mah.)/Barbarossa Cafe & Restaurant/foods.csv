@@ -1,0 +1,93 @@
+food_id,food_name,food_price,food_category,food_score
+33EBDF98-E866-4670-BA22-C26A013BBEAC,Acılı Kebap Dürüm,"27,00 TL",Dürümler,5.0
+067F5199-9805-44B7-AE2A-D9CACF0227F1,Acısız Kebap Dürüm,"27,00 TL",Dürümler,5.0
+6286C25D-F87E-4564-9F12-76D435752531,Kuzu Ciğer Dürüm,"25,00 TL",Dürümler,7.0
+831EF2ED-4274-4D3F-981A-E30C49E010F8,Tavuk Şiş Dürüm,"24,00 TL",Dürümler,5.0
+99987502-DBC5-442A-93D1-626A223DE503,Çöp Şiş Dürüm,"26,00 TL",Dürümler,5.0
+2610A2AC-DE2A-4B9E-AB23-0CE3304D0A6F,Tavuk Kıyma Dürüm,"20,00 TL",Dürümler,5.0
+760cabb3-3986-4fc1-86b0-ed85f73c630c,Urfa Usulü İçli Köfte (Adet) (349 kcal.),"10,00 TL",Ara Sıcaklar,4.0
+3a272bc0-c82f-44f3-adc6-4220c608ec25,Urfa Usulü İçli Köfte (3 Adet) (1047 kcal.),"25,00 TL",Ara Sıcaklar,4.0
+E8F70497-4D72-4CAA-9876-93FAE55B4444,Klasik Schnitzel,"42,00 TL",Ana Yemekler,5.0
+688C1005-7960-479D-9D16-D976EDBB0252,Dolgu Peynirli Schnitzel,"49,00 TL",Ana Yemekler,5.0
+35EDD37A-6F72-4624-9068-596E0A62F3EA,Dolgu Mantarlı Schnitzel,"49,00 TL",Ana Yemekler,5.0
+92D40C6F-E71D-48C0-AC1E-F37A5186DB9D,Dolgu Pastırmalı Schnitzel,"55,00 TL",Ana Yemekler,5.0
+BF138C76-08F4-4D1C-A544-F8E6B5298BA2,Dolgu Kavurmalı Schnitzel,"55,00 TL",Ana Yemekler,5.0
+b0450c88-bed2-4bc0-a2da-6d2eb9496b51,Acılı Kebap (340 kcal.),"55,00 TL",Kebaplar & Izgaralar,5.0
+f4f354ac-918f-4df3-b9f7-8948d200311c,Acısız Kebap (340 kcal.),"55,00 TL",Kebaplar & Izgaralar,5.0
+cce39e33-c1a4-48e4-afbe-88013c1ee1ab,Beyti Kebap (Açık) (489 kcal.),"58,00 TL",Kebaplar & Izgaralar,5.0
+50d42591-862d-465c-8277-14f641b93891,Sarma Beyti Kebap (480 kcal.),"60,00 TL",Kebaplar & Izgaralar,5.0
+ea0e77bc-ace9-44cf-8dd6-6c40c95492c8,Ne Baba Kebap (410 kcal.),"72,00 TL",Kebaplar & Izgaralar,5.0
+f1079382-f391-4573-9a40-6280fb9008bf,Domatesli Kebap (340 kcal.),"59,00 TL",Kebaplar & Izgaralar,5.0
+319750e0-3c0f-4f8e-bd97-9a7e592c722e,Kuzu Kuşbaşı Şiş (310 kcal.),"60,00 TL",Kebaplar & Izgaralar,8.0
+e53eb1a6-6fd5-4e8a-b15b-d753d1c2dc2e,Kuzu Çöp Şiş (588 kcal.),"60,00 TL",Kebaplar & Izgaralar,7.0
+9bb6966b-0ebb-40b2-b459-8ed02f16cc4f,Tavuk Kanat Şiş (265 kcal.)	,"42,00 TL",Kebaplar & Izgaralar,5.0
+06df9eec-e0e3-428f-9f15-6fcb555a6145,Tavuk Şiş (208 kcal.),"38,00 TL",Kebaplar & Izgaralar,5.0
+54d3eeae-3395-4cd5-8d76-685d6cc5a18f,Kuzu Ciğer Şiş (295 kcal.),"48,00 TL",Kebaplar & Izgaralar,7.0
+e5d259cd-79af-4d9c-a1ab-5cf79d5763cf,Patlıcanlı Kebap (255 kcal.),"65,00 TL",Kebaplar & Izgaralar,5.0
+3127ce31-6c72-428f-8c98-7f07780dab79,Barbarossa Karışık Kebap (2 Kişilik) (700 kcal.),"180,00 TL",Kebaplar & Izgaralar,5.0
+0a09b42a-92d8-4984-b731-858990b3996a,Fellah Kebap (2 Kişilik) (450 kcal.),"110,00 TL",Kebaplar & Izgaralar,5.0
+568cf606-756f-4193-802e-cbdc9e2acfa7,Kuzu Pirzola (330 kcal.),"75,00 TL",Kebaplar & Izgaralar,7.0
+75b35a00-d6de-4ed9-aa7f-5578d63ea84d,Kuzu Kaburga (675 kcal.),"70,00 TL",Kebaplar & Izgaralar,7.0
+d4212dd8-4a56-49ff-a225-04a278cf5021,Lahmacun (80 kcal.),"11,00 TL",Fırın Ürünleri,9.0
+19d0589f-7d8f-4007-9a3e-aab1dd86c908,Lahmacun (2 Adet) (160 kcal.),"21,00 TL",Fırın Ürünleri,9.0
+595682e0-0ad0-4c31-8702-f3a3e15d4044,Kıymalı Pide (160 kcal.),"20,00 TL",Fırın Ürünleri,10.0
+3e56f38a-abfd-4779-915b-148c93310686,Kuzu Kuşbaşılı Pide (110 kcal.),"24,00 TL",Fırın Ürünleri,8.0
+703c490d-635d-4cd3-93fd-a7bb4f6c418e,Kaşarlı Pide (240 kcal.),"19,00 TL",Fırın Ürünleri,5.0
+7f486e5e-cef5-4083-8b34-28a7978dfdbe,Kıymalı Kaşarlı Pide (250 kcal.),"23,00 TL",Fırın Ürünleri,5.0
+af356eb9-ba0d-460f-b1a4-bde5d68301da,Kuzu Kuşbaşılı Kaşarlı Pide (220 kcal.),"27,00 TL",Fırın Ürünleri,8.0
+b81fa4e5-a123-4d78-976a-74641bddd755,Yumurtalı Pastırmalı Pide (380 kcal.),"32,00 TL",Fırın Ürünleri,5.0
+5256f2a1-bcac-4ee1-8207-6db12f60c272,Barbekü Pizza (950 kcal.),"44,00 TL",Special Pizzalar (1 - 2 Kişilik),5.0
+5eb1b169-70bb-4559-82f6-76a3e98179d5,Best Pizza (1485 kcal.),"48,00 TL",Special Pizzalar (1 - 2 Kişilik),5.0
+8dbb67f5-d071-4f13-9179-3c17c16c25e2,Chili Pizza (900 kcal.),"44,00 TL",Special Pizzalar (1 - 2 Kişilik),5.0
+f7be7213-ee7e-4cd1-a0a5-661b13d36f38,Toppen Pizza (900 kcal.),"47,00 TL",Special Pizzalar (1 - 2 Kişilik),5.0
+edf9152c-79ed-4c91-906c-1813d7227025,Harissa Pizza (1050 kcal.),"49,00 TL",Special Pizzalar (1 - 2 Kişilik),5.0
+b0f32a54-a675-4c2e-9777-a3369e92d487,Gorgonzola Pizza (1050 kcal.),"46,00 TL",Special Pizzalar (1 - 2 Kişilik),5.0
+556a4168-34a6-417b-9f00-f9aab919d03c,Beef Pizza (1150 kcal.),"57,00 TL",Special Pizzalar (1 - 2 Kişilik),5.0
+e727c480-3c15-4edc-84c8-3ad94d53d643,Chef Pizza (1200 kcal.),"62,00 TL",Special Pizzalar (1 - 2 Kişilik),5.0
+a3079e24-cc02-444c-9088-303b4ff0f158,Hot Pizza (1100 kcal.),"62,00 TL",Special Pizzalar (1 - 2 Kişilik),5.0
+8cfb4d47-a41c-46a8-a68a-9d297b407489,Anatolia Pizza (1150 kcal.),"62,00 TL",Special Pizzalar (1 - 2 Kişilik),5.0
+ad49835b-3890-4596-8431-53371b95188d,Quattro Pizza (1100 kcal.),"62,00 TL",Special Pizzalar (1 - 2 Kişilik),5.0
+7537697e-0d40-4f52-932c-433913b223b1,Ilcante Pizza (100 kcal.),"64,00 TL",Special Pizzalar (1 - 2 Kişilik),5.0
+a9beb2e6-3b4b-402b-b164-f92c9f158c9c,Greek Pizza (950 kcal.),"46,00 TL",Special Pizzalar (1 - 2 Kişilik),5.0
+2ecfb071-e347-4489-8421-4208facdef0b,Kıbrıs Pizza (950 kcal.),"46,00 TL",Special Pizzalar (1 - 2 Kişilik),5.0
+ac088a21-7a91-4c21-a38f-fd1364fb1d2e,Cheese Pizza (1100 kcal.),"46,00 TL",Special Pizzalar (1 - 2 Kişilik),5.0
+42d2c9bf-4086-48b6-88f8-c7bc80e3654d,Deniz Mahsüllü Pizza (900 kcal.),"65,00 TL",Special Pizzalar (1 - 2 Kişilik),5.0
+b9503166-bc6b-4b09-8e03-7d643784fa15,Margherita Pizza (750 kcal.),"33,00 TL",Pizzalar (1 - 2 Kişilik),5.0
+b034697e-ac9c-4457-9394-b0c65824e6a3,Funghi Pizza (770 kcal.),"36,00 TL",Pizzalar (1 - 2 Kişilik),5.0
+26e957b8-99b7-40b3-915f-4fcad6336555,Carpaccio Pizza (1150 kcal.),"46,00 TL",Pizzalar (1 - 2 Kişilik),5.0
+b7915b66-f025-4253-a9b0-666292d53f99,Pizzos (120 kcal.),"49,00 TL",Pizzalar (1 - 2 Kişilik),5.0
+339b02a5-f2d5-44f8-8438-102cd9b16f81,Hawaii Pizza (850 kcal.),"46,00 TL",Pizzalar (1 - 2 Kişilik),5.0
+149b6414-0115-4c83-a201-668adbad24b5,Al Tonno Pizza (1040 kcal.),"48,00 TL",Pizzalar (1 - 2 Kişilik),5.0
+5843a342-f50b-4bb8-83f8-69e1eb6aac28,Alaturka Pizza (1200 kcal.),"49,00 TL",Pizzalar (1 - 2 Kişilik),5.0
+590ee03a-8623-4cc4-a005-cac5e136ef05,Veggie Pizza (900 kcal.),"33,00 TL",Pizzalar (1 - 2 Kişilik),5.0
+853e2ba9-8840-4a99-b86c-5bb7d6ab519d,Türk Usulü Pizza (1010 kcal.),"50,00 TL",Pizzalar (1 - 2 Kişilik),5.0
+e4003089-10f0-4116-9c9d-5650f0774b5f,Alfredo (600 kcal.),"36,00 TL",Doğal Makarnalar,5.0
+fdd55df8-f402-46e0-a2a2-597d3a4cc755,Curry (620 kcal.),"36,00 TL",Doğal Makarnalar,5.0
+d0228bc8-e5ff-482f-a8e7-e683b2722d70,Arrabbiata (610 kcal.),"36,00 TL",Doğal Makarnalar,5.0
+917de201-9c6f-4024-8025-6be13029869b,Spaghetti Napolitan (450 kcal.),"32,00 TL",Doğal Makarnalar,5.0
+6326e5a3-1282-4fd1-8190-e60cf35d534a,Spaghetti Bolognese (700 kcal.),"42,00 TL",Doğal Makarnalar,5.0
+81720397-dca5-4915-ad9c-162cfad86a15,Pesto Penne (600 kcal.),"37,00 TL",Doğal Makarnalar,5.0
+3cf268ca-5b5d-4c50-88c1-4adb95939907,Tonno (720 kcal.),"43,00 TL",Doğal Makarnalar,5.0
+13546712-a9e0-47a3-92ad-3245aed675da,Deniz Mahsüllü Fettuccine (600 kcal.),"58,00 TL",Doğal Makarnalar,5.0
+a985dd88-999c-4362-bbd7-31868710a69b,Beef Penne (670 kcal.),"56,00 TL",Doğal Makarnalar,5.0
+d58cc81b-6664-4ab2-ae75-9675be524c7c,Tavuklu Noodle (500 kcal.),"42,00 TL",Doğal Makarnalar,5.0
+40036907-6f01-4873-a1e4-2141ac07f660,Etli Noodle (500 kcal.),"52,00 TL",Doğal Makarnalar,5.0
+6436a12d-e6ff-4d39-86e5-9f45df328b3d,Veggie Noodle (650 kcal.),"41,00 TL",Doğal Makarnalar,5.0
+5c6517e6-46f1-4119-88e8-c7445789991b,Mexican Salata (400 kcal.),"37,00 TL",Sıcak & Soğuk Salatalar,5.0
+4e1bed0e-d348-4d89-badc-292ddb12e005,Curry Salata (350 kcal.),"37,00 TL",Sıcak & Soğuk Salatalar,5.0
+c7e668d6-3683-4078-b77f-d199c9b58942,Polo Salata (350 kcal.),"39,00 TL",Sıcak & Soğuk Salatalar,5.0
+03a9b356-d0fe-478d-b354-82ad861489ac,Sezar Salata (450 kcal.),"39,00 TL",Sıcak & Soğuk Salatalar,5.0
+cd609d6c-e8ec-4225-ace4-528249de5365,Beef Salata (450 kcal.),"56,00 TL",Sıcak & Soğuk Salatalar,5.0
+18c88a1d-afef-4b95-a76c-67a19cd8d16a,Feta Salata (300 kcal.),"37,00 TL",Sıcak & Soğuk Salatalar,5.0
+edd52ac6-88fe-4ce8-a5e0-ffec4f829542,Hellim Salata (400 kcal.),"40,00 TL",Sıcak & Soğuk Salatalar,5.0
+a245232c-1bfa-4c6f-ba98-3d9f206f3bc0,Ton Balıklı Salata (450 kcal.),"40,00 TL",Sıcak & Soğuk Salatalar,5.0
+03fda284-518d-4ba7-a502-8dad04556ea0,Barbarossa Salata (380 kcal.),"40,00 TL",Sıcak & Soğuk Salatalar,5.0
+0bdd1d51-22b3-43c7-9f70-5e4c3a17139e,Fıt Salata (350 kcal.),"38,00 TL",Sıcak & Soğuk Salatalar,5.0
+ea2a7b9d-508f-4587-ae35-f7d877ade44b,Deniz Mahsüllü Salata (300 kcal.),"58,00 TL",Sıcak & Soğuk Salatalar,5.0
+701bb4ce-3f45-4f8e-a59c-ad4569cd56dc,Browni (460 kcal.),"25,00 TL",Tatlılar,5.0
+0241244b-2386-46e8-8ff6-69d3dddb8bd6,Katmer (256 kcal.),"26,00 TL",Tatlılar,5.0
+ea8bbb13-1cbb-47dc-a925-a796ceb4f9a9,Künefe (440 kcal.),"28,00 TL",Tatlılar,5.0
+ef55441e-631d-4146-ab64-4e0282bfe4bf,Sarma Burma Tatlısı (650 kcal.),"26,00 TL",Tatlılar,5.0
+bd65d734-a023-4153-8dd3-ad4813bb3e4b,Red Bull (25 cl.),"13,00 TL",İçecekler,5.0
+539de2de-4d5d-420f-9b50-f0814cdcf002,Su (75 cl.),"8,00 TL",İçecekler,5.0
+4d0070d5-517b-4bc9-9b1e-a4e40ef728ce,Poşet,"0,25 TL",Poşet,5.0

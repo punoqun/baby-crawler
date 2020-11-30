@@ -1,0 +1,45 @@
+food_id,food_name,food_price,food_category,food_score
+1effe5f0-f8c1-4896-a22a-8e79b751f12c,Kemikli Kuzu Paça Çorbası,"27,00 TL",Çorbalar,5.0
+516e599f-5a28-43f1-8b89-e10f7852269d,Kemiksiz Kuzu Paça Çorbası,"30,00 TL",Çorbalar,5.0
+dae48e85-2a44-4f05-8521-c9b2bbe346df,Şırdan Çorbası,"23,00 TL",Çorbalar,4.0
+57B7546E-F9BC-4165-8A18-FBFE7EB047C2,Duble Beyran Çorbası,"58,00 TL",Çorbalar,10.0
+23A7CD48-0F26-4218-AB87-3DF667CE567A,Duble Kemikli Kuzu Paça Çorbası,"52,00 TL",Çorbalar,7.0
+40F16C07-2CD8-442A-B488-38E029B761CD,Duble Kemiksiz Kuzu Paça Çorbası,"58,00 TL",Çorbalar,7.0
+1FC62D61-1435-47CC-9F29-8C85AE7C0743,Bol Taneli Kelle Paça Çorbası,"40,00 TL",Çorbalar,5.0
+07a3e6f3-9ef9-485e-83b4-619b80f6fb86,Fırın Beyti Kebap,"35,00 TL",Kebaplar,5.0
+eb39c6d9-5422-4c0f-b0ce-2a6eb708458c,Sarma Beyti Kebap,"36,00 TL",Kebaplar,5.0
+d073325b-c50a-49ae-b600-421b139fde26,Patlıcanlı Kebap,"35,00 TL",Kebaplar,5.0
+b78b2996-1b2c-4e95-b10b-2d7b97512b89,Yoğurtlu Kebap,"27,00 TL",Kebaplar,5.0
+5fd50418-6c3b-499f-81b7-edc9cd6abe2f,Altı Ezmeli Kebap (Kıymadan),"32,00 TL",Kebaplar,5.0
+bdac5346-fb77-44e0-99d0-a2795b8125ea,Tavuk Şiş,"25,00 TL",Izgaralar,5.0
+295f7703-d69d-44d3-9378-9869abb36106,Tavuk Kanat,"26,00 TL",Izgaralar,5.0
+e16eac93-f09f-47ee-8c49-845039006d3d,Kuzu Şiş,"35,00 TL",Izgaralar,5.0
+c8d6db03-15e9-492d-9ba2-01e0ca03c1e5,Tavuk Çöp Şiş,"24,00 TL",Izgaralar,5.0
+448D94CB-F89E-4AB5-814B-0351B9C09A02,Yarım Ekmek Arası Izgara Köfte,"15,00 TL",Izgara Köfteler,7.0
+F5D4F404-C104-401B-B751-6777C8CEF052,Tam Ekmek Arası Izgara Köfte,"30,00 TL",Izgara Köfteler,6.0
+92FA34B9-998D-43E2-A84B-2B2E8299F41A,Izgara Köfte Dürüm,"17,00 TL",Izgara Köfteler,7.0
+1FCCA54A-C933-4ACD-823D-2A2EEAD27805,Izgara Köfte,"25,00 TL",Izgara Köfteler,7.0
+14a16cd8-882c-474e-a0d1-5dc606a378bf,Et Döner Sandviç,"11,00 TL",Et Dönerler,6.0
+e1f11514-dd24-42ed-972b-13e05051aad7,Kokoreç,"25,00 TL",Kokoreçler,0.0
+ee0063b8-57fd-432b-886f-e35a4d65627f,Ekmek Arası İzmir Usulü Kokoreç,"22,00 TL",Kokoreçler,0.0
+9575cb9a-0804-4c32-8639-afc4e6ed7316,İzmir Usulu Sade Kokoreç,"22,00 TL",Kokoreçler,0.0
+3E62F3DA-F7FC-4936-A4A2-0959C9E095F0,Kaşarlı Lahmacun,"14,00 TL",Fırın Ürünleri,-1.0
+eaf5710b-9485-4855-8f99-fc9b981dc7c4,Kıymalı Pide,"22,00 TL",Fırın Ürünleri,4.0
+8955ec22-63e3-4dc4-bfad-5f3b67c555d0,Kaşarlı Pide,"22,00 TL",Fırın Ürünleri,5.0
+994572e1-9d7b-4c05-a897-99d67a69bfca,Kuşbaşılı Pide,"27,00 TL",Fırın Ürünleri,5.0
+a496be56-0e00-42d7-b3e1-9ee1e1df7271,Sucuklu Kaşarlı Pide,"23,00 TL",Fırın Ürünleri,3.0
+785d1d4d-0ee8-469e-8771-e87d2e7c80a8,Karışık Pide,"25,00 TL",Fırın Ürünleri,5.0
+c8a4ea64-4db5-465b-b78c-86834581eeb8,Etli Ekmek,"23,00 TL",Fırın Ürünleri,3.0
+bf538260-8ef2-41aa-9749-4478f31e3c9d,Kuşbaşılı Kaşarlı Pide,"26,00 TL",Fırın Ürünleri,5.0
+042fe7b1-cea2-45bd-8a96-6b57fa6050a8,Kıymalı Kaşarlı Pide,"23,00 TL",Fırın Ürünleri,4.0
+2bfc47ea-5e84-4085-90c0-fe5acf8aef64,Sac Kavurma,"33,00 TL",Diğer Lezzetler,7.0
+5ea23709-913c-4433-99bf-f8dd9a763607,Çoban Kavurma,"37,00 TL",Diğer Lezzetler,5.0
+0521B63B-8B57-4718-90EC-305322D20347,Tırnak Pide,"3,00 TL",Yan Ürünler,5.0
+5A8D4F5E-B162-4F1C-BB3F-1152164DDF2C,Lavaş (Adet),"3,00 TL",Yan Ürünler,5.0
+9FD1BC3B-F233-4ACB-9E73-ADF8144EEB3C,Bulgur Pilavı,"10,00 TL",Yan Ürünler,5.0
+BC2D14CD-FF9D-44FC-B41B-9E13652B43D9,Pirinç Pilavı,"10,00 TL",Yan Ürünler,5.0
+58CDC146-E65E-491F-9EDA-D84F79A5B4D8,Közlenmiş Biber (250 gr.),"12,00 TL",Yan Ürünler,5.0
+EEFE449C-155B-4F6B-BB0E-4EF56BD2C34C,Közlenmiş Domates (500 gr.),"15,00 TL",Yan Ürünler,4.0
+6696bcd1-994a-4fd7-ad61-7f4a9db2faf6,Gavurdağı Salata,"15,00 TL",Salatalar,5.0
+70b180fd-c23c-41ac-89e8-c9b6519ab501,La Gelateria Kaymak & Çikolata & Karamel (700 ml.),"30,00 TL",Dondurmalar,-1.0
+2367d22e-ae1e-48ef-bf5a-ff54a03b2fa8,Poşet,"0,25 TL",Poşet,5.0

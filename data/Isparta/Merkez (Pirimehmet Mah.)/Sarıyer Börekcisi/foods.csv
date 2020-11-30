@@ -1,0 +1,29 @@
+food_id,food_name,food_price,food_category,food_score
+7bd440b2-6a75-4c78-8504-0e0e3288b0d8,Simit,"1,50 TL",Kahvaltılıklar,5.0
+f1e9a540-3cc0-45c4-a09b-4158ccc83250,Kıymalı Karaköy Poğaçası,"1,50 TL",Kahvaltılıklar,5.0
+883ef9e6-019e-4453-9846-d531b1492982,Peynirli Karaköy Poğaçası,"1,50 TL",Kahvaltılıklar,5.0
+e14e9283-d835-4c29-975b-8eb1d4b86c53,Patatesli Karaköy Poğaçası,"1,50 TL",Kahvaltılıklar,5.0
+07F39398-05AE-4F55-83AB-D289DFC38553,Açma,"1,50 TL",Kahvaltılıklar,5.0
+B4C89924-3846-43A2-9F8C-6D86FDACBE11,Dereotlu Poğaça,"2,00 TL",Kahvaltılıklar,5.0
+918B9211-E503-4B8F-B075-52178F0C0851,Boyoz,"2,00 TL",Kahvaltılıklar,10.0
+0b6f88f8-273d-407b-b361-dd9555ba976e,Karaköy Poğaçası,"1,50 TL",Kahvaltılıklar,5.0
+80733f58-b6f1-4d3d-ba57-17a0aaab2aaa,Soğuk Sandviç,"5,00 TL",Kahvaltılıklar,5.0
+beb39c45-ac11-4ad6-b050-14654ae18183,Kıymalı Kol Böreği,"10,00 TL",Börekler,10.0
+33B0AABB-4656-4892-9067-8830FF8CC37B,Küt Böreği,"9,00 TL",Börekler,5.0
+A7DD42C7-080D-4488-ACAB-D2640B7C9024,Kıymalı Su Böreği,"10,00 TL",Börekler,9.0
+4E03B37D-80DE-427F-94CE-A629E8B01934,Ispanaklı Kol Böreği,"10,00 TL",Börekler,5.0
+ace2ab0b-1164-4dd4-a939-d98f2273fdd1,Patatesli Kol Böreği,"10,00 TL",Börekler,5.0
+8a866c02-a570-4ae7-8999-87ada120214d,Peynirli Kol Böreği,"10,00 TL",Börekler,5.0
+4aac81d7-6bd1-4c0d-9764-6ef52c052d8a,Peynirli Su Böreği,"10,00 TL",Börekler,9.0
+f3e2eb67-7d91-4cf6-b598-e4e2b580f8ea,Kıymalı Kır Pidesi,"3,50 TL",Kır Pideleri,10.0
+5056716A-07A2-418C-9F57-7EE88C0985B5,Kaşarlı Karadeniz Pidesi,"5,00 TL",Kır Pideleri,5.0
+cf85cc53-11fe-4649-9bc2-b56f6e61db8e,Kaşarlı Sucuklu Karadeniz Pidesi,"5,00 TL",Kır Pideleri,5.0
+c4047f78-b462-425d-9d99-ed3a424e8ca5,Kıymalı Yumurtalı Karadeniz Pidesi,"5,00 TL",Kır Pideleri,5.0
+53b67010-8f9e-48de-8efa-b697bfe1aa5e,Kıymalı Karadeniz Pidesi,"5,00 TL",Kır Pideleri,5.0
+71f2e058-5a02-4bd2-a6a2-931653b44388,Patatesli Kır Pidesi,"3,50 TL",Kır Pideleri,5.0
+37d771e8-0623-4cf1-b05b-83020639460e,Peynirli Kır Pidesi,"3,50 TL",Kır Pideleri,5.0
+9bbc41fc-e13d-4889-9c8a-6d8c923ae855,Kıymalı Kol Böreği (1 kg.),"40,00 TL",Kiloluk Börekler,5.0
+5cc480ee-ea4d-4502-8e71-9c8f1bef3145,Patatesli Kol Böreği (1 kg.),"40,00 TL",Kiloluk Börekler,5.0
+f6430f71-1660-4f1e-a570-dfc603566853,Peynirli Kol Böreği (1 kg.),"40,00 TL",Kiloluk Börekler,5.0
+6627625d-82b1-458a-bff6-4e4c54ffcad1,Peynirli Su Böreği (1 kg.),"40,00 TL",Kiloluk Börekler,9.0
+5faadb93-d3f3-4eb8-ba3d-7d979abbf1e8,Poşet,"0,25 TL",Poşet,5.0

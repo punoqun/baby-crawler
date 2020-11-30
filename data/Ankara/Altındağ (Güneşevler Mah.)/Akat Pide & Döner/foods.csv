@@ -1,0 +1,41 @@
+food_id,food_name,food_price,food_category,food_score
+5878b359-bd91-45a7-a2ac-5ff4701f3c51,Et Döner Dürüm Menü,"18,00 TL",Menüler,5.0
+4e8ae690-9e86-4adb-b412-4af66ef66441,Ekmek Arası Et Döner Menü,"17,00 TL",Menüler,9.0
+b05b4187-24cc-42ec-bb4c-fc26e9d5b0af,5'li Kıymalı Pide Menü,"85,00 TL",Menüler,11.0
+A5AB8FDB-56AE-4EA7-8A39-BDC11E87FF76,3'lü Kıymalı Pide Menü,"52,00 TL",Menüler,11.0
+9574423A-4171-40D1-9B5C-73D4D2FC07F6,10'lu Lahmacun Menü,"95,00 TL",Menüler,45.0
+00B30C1A-8102-4C3E-B1EB-43818FB0CCEA,3'lü Kuşbaşılı Pide Menü,"70,00 TL",Menüler,17.0
+9CB0D7D9-1FDC-4B96-8949-B3BA3D3619FF,10'lu Kıymalı Pide Menü,"160,00 TL",Menüler,11.0
+308a5277-f05d-4e52-9fb3-7f7a7f9cbf65,Adana Kebap,"23,00 TL",Kebaplar,4.0
+5c018be6-5da2-4e5f-80a8-b2fea3d71b0f,Urfa Kebap,"23,00 TL",Kebaplar,5.0
+af5a900d-5f72-46c5-b1a1-3c0ca52f3ac8,Beyti Kebap,"25,00 TL",Kebaplar,3.0
+3be3bd5b-d2f2-46d7-b497-c8c479c62b1b,Tavuk Şiş,"20,00 TL",Izgaralar,5.0
+f6a7ecfc-7e8f-456f-8060-140b458aa056,Izgara Köfte,"20,00 TL",Izgaralar,3.0
+7cbcc839-5dac-4b4b-acfa-c74e06d60223,Lahmacun,"9,00 TL",Fırın Ürünleri,50.0
+52B94A01-CE0F-4AD7-A917-C778895BFA7D,Kıymalı Yumurtalı Pide,"18,50 TL",Fırın Ürünleri,11.0
+2D51F827-04A7-4737-925A-BB27DD7260D1,Kıymalı Kaşarlı Pide,"18,00 TL",Fırın Ürünleri,12.0
+d142e0e6-c863-48d7-820b-1c50e029922a,Kıymalı Pide,"17,00 TL",Fırın Ürünleri,11.0
+19256524-7830-45b8-904b-51461404299f,Kaşarlı Pide,"20,00 TL",Fırın Ürünleri,16.0
+28c4665f-8af8-4ab5-ac51-3b3224bf60e7,Sucuklu Pide,"22,00 TL",Fırın Ürünleri,15.0
+61bcfb79-e065-4bf7-b9c1-57307a30b34d,Kuşbaşılı Pide,"23,00 TL",Fırın Ürünleri,17.0
+03e514f8-1714-4f90-9a11-afbdfdb4fa50,Kuşbaşılı Kaşarlı Pide,"25,00 TL",Fırın Ürünleri,23.0
+3f5770db-94ae-49ec-ae61-2515ff80e82c,Kavurmalı Pide,"25,00 TL",Fırın Ürünleri,15.0
+2312f12d-4272-469c-a3b4-f870bb1da9c1,Karışık Pide,"25,00 TL",Fırın Ürünleri,15.0
+E85B7955-E86E-41E9-8903-299A2C9D0829,Et Dönerli Kaşarlı Pide (Kapalı),"23,00 TL",Fırın Ürünleri,20.0
+7483D8FD-80F9-4058-9CF5-37E5CCCCF506,Tırnak Pide,"2,50 TL",Fırın Ürünleri,15.0
+69DF7B50-4813-4F50-BE0F-B2DE473F3C03,Et Döner (100 gr.),"24,00 TL",Et Dönerler,8.0
+92BD2CCB-539F-49EF-AC43-DB4C59F38C12,İskender (Et Dönerden) (100 gr.),"25,00 TL",Et Dönerler,4.0
+c4cf3b79-7569-4ead-9081-c658d29b9ae8,Pilav Üstü Et Döner (100 gr.),"25,00 TL",Et Dönerler,6.0
+E8D6372A-52A2-4E42-AA24-934EFEBDD255,Et Döner (250 gr.),"42,00 TL",Et Dönerler,8.0
+CA9167C9-B86D-45F7-82B1-324D34540EFF,Et Döner (500 gr.),"80,00 TL",Et Dönerler,8.0
+A1857F5E-3C24-4B77-AFBD-E00DF28B395C,Et Döner (1 kg.),"140,00 TL",Et Dönerler,8.0
+BC51D4A2-43C5-4AA0-9A16-F41FA5C43584,Beyti (Et Dönerden),"25,00 TL",Et Dönerler,3.0
+2ac3d45d-ad8e-4f8c-80ca-7291fff88783,Kiremitte Köfte,"25,00 TL",Diğer Lezzetler,3.0
+12b536fc-9e1f-4643-9799-a02d6a8db518,Algida Maraş Usulü Cup Dondurma (100 ml.),"6,00 TL",Dondurmalar,5.0
+5964362c-817b-4e1f-93c6-42aa1cd20792,Algida Carte d'Or Mini Cup Çilekli Yoğurtlu (110 ml.),"6,00 TL",Dondurmalar,5.0
+6f10008d-47f3-4ecc-b497-c1b42ef38451,Carte d'Or Premium Çikolata Cup (100 ml.),"6,00 TL",Dondurmalar,5.0
+f56104ed-4ee9-4fbf-997e-44f6cd35bf35,Carte d'Or Premium Kaymak Cup (100 ml.),"6,00 TL",Dondurmalar,5.0
+716c31b7-a58e-47e6-9a08-b856aed4d4cf,Magnum Badem (100 gr.),"11,00 TL",Dondurmalar,5.0
+16463f6b-b783-4ee2-948a-c446150a84f8,Magnum Cookie (95 gr.),"11,00 TL",Dondurmalar,5.0
+b942d323-7adf-4ad4-8099-f5a78a3985d3,Magnum Beyaz (100 gr.),"11,00 TL",Dondurmalar,5.0
+07652bab-9c9a-46a0-a325-d663fc0bf7a8,Poşet,"0,25 TL",Poşet,5.0

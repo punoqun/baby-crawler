@@ -1,0 +1,35 @@
+food_id,food_name,food_price,food_category,food_score
+a5b40f99-98ea-4b05-9dc1-46feb5e05346,Menü 5,"22,50 TL",Ekonomik Menüler,14.0
+8bbf8468-ab1d-4e19-9048-49e0181aef41,Menü 8,"32,00 TL",Ekonomik Menüler,5.0
+a3d9cc3a-04f3-47aa-9d86-6a32a87a7b3b,Hamburger Menü,"30,00 TL",Burger Menüleri,3.0
+819fc24a-1e3b-4c07-ae46-8ae3125e8de9,Tex-Mex Burger Menü,"39,50 TL",Burger Menüleri,5.0
+47907fe6-d8dc-40d4-95eb-1e606a9b2a70,Honky Tonky Burger Menü,"34,50 TL",Burger Menüleri,5.0
+9d7a3bac-2fe1-4a96-94c6-1c753a8fc3d0,Ranchero Burger Menü,"32,00 TL",Burger Menüleri,5.0
+4053587f-c407-4f4e-bd10-ac7be37d3f16,Philadelphia Burger Menü,"33,00 TL",Burger Menüleri,5.0
+229c5259-dc54-439d-82a7-a3a1b8117fd4,Cajun Burger Menü,"25,50 TL",Burger Menüleri,11.0
+c5dae4b5-50c0-4ef3-a0f7-51e384fe646e,Cheeseburger Menü,"31,00 TL",Burger Menüleri,5.0
+82b18e26-162c-4a93-aefa-5a1e9d8804ce,Onion Rings Burger Menü,"31,00 TL",Burger Menüleri,5.0
+248efebe-4b21-43d3-8fa2-794f119ebc6c,Double Corner Burger Menü,"46,00 TL",Burger Menüleri,5.0
+8797b5d5-8d9d-4bac-a2b6-2d3be3c8cf78,Kaşarlı Mantarlı Cajun Şiş,"27,00 TL",Başlangıçlar,11.0
+b203ac17-b58e-430b-9b46-1eb021943c67,Baharatlı Soğan Halkası,"15,00 TL",Başlangıçlar,5.0
+4d45a0de-e6f8-48ad-95cb-b6321dffdd41,Cajun Baharatlı Tavuk Dürüm,"20,00 TL",Başlangıçlar,19.0
+5ada3725-1b57-4be7-8f50-7ee94d2a7838,Cajun Burger,"22,00 TL",Burgerler,11.0
+261c80fc-d2b2-4bbf-8bdb-6126d2f73e2b,Tex-Mex Burger,"36,50 TL",Burgerler,5.0
+5f952c42-1b1c-4694-85db-c1ed45c1837e,Honky Tonky Burger,"31,50 TL",Burgerler,5.0
+f029ea31-888b-4ea0-84d9-e93c65bc1f62,Beef Burrito,"32,00 TL",Ana Yemekler,3.0
+556aa47f-f4d3-4072-bc4c-c9fe4f0d6793,Tavuk Burrito,"27,00 TL",Ana Yemekler,13.0
+06f9d937-6f49-4d5b-ad66-b1078ed57850,Smoke Sausage Roll Dürüm,"24,50 TL",Dürümler,5.0
+fe27d418-1925-4555-8526-a46f0072fd7d,Ranchero Dürüm,"30,50 TL",Dürümler,5.0
+c18f39cf-3bca-41b9-acb7-bc443143d0ee,Kaşarlı Antrikot Dürüm,"32,00 TL",Dürümler,5.0
+c5e0c22d-97bb-4edc-8c17-b407d999fc1f,Lavaş,"1,00 TL",Yan Ürünler,4.0
+c76222b5-f702-4b9e-a36a-76e0814faec3,Milky Zebra,"8,00 TL",Donuts,5.0
+01404f8c-3b7b-44c8-82bc-3dc1024df099,Color Sprinkles,"8,00 TL",Donuts,5.0
+be151036-7205-4c5f-8833-7a9106faa422,Rasberry Bliss,"9,00 TL",Donuts,5.0
+e8939482-476a-4a43-9bb8-e8e921ad66bc,Strawjelly Jam,"9,00 TL",Donuts,5.0
+25a50878-6a7b-4d14-a53c-c08f2a3a8321,Algida Maraş Usulü Cup Dondurma (100 ml.),"7,00 TL",Dondurmalar,5.0
+54bcddf2-9a21-4848-b927-9b668a571f79,Carte d'Or Mini Cup Çilekli Yoğurtlu (110 ml.),"7,50 TL",Dondurmalar,5.0
+9fb3372c-253f-4188-9b36-7ddf17faff27,Carte d’Or Mini Cup Çikolata Karnavalı (110 ml.),"7,50 TL",Dondurmalar,5.0
+3b52e9c0-2454-410c-923a-01ffacc2cf80,Sunkist (33 cl.),"15,00 TL",İçecekler,5.0
+8323cf87-20a5-4829-ab7d-7518d0213255,Canada Dry (33 cl.),"15,00 TL",İçecekler,5.0
+c12f285a-da67-4f07-aa57-0e6252c50654,Red Bull (25 cl.),"8,00 TL",İçecekler,5.0
+12a81ed2-bcf7-458a-98b3-18c78da1a48f,Poşet,"0,25 TL",Poşet,5.0

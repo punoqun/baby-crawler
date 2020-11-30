@@ -1,0 +1,39 @@
+food_id,food_name,food_price,food_category,food_score
+991aa813-393e-4915-a4a0-2c9c8156eff5,İzmir Kokoreç,"40,00 TL",Kokoreçler,5.0
+8239c011-7db5-48dd-8f94-9bde82b70bbb,İzmir Kokoreç Dürüm,"23,00 TL",Kokoreçler,5.0
+d890e247-384b-4363-b7b8-f9de13a19014,Çeyrek Ekmek Arası İzmir Kokoreç,"13,00 TL",Kokoreçler,5.0
+624d6367-1804-455a-850d-a5e283bc8bfd,Yarım Ekmek Arası İzmir Kokoreç,"20,00 TL",Kokoreçler,10.0
+9f82ea98-97b4-47f0-bb1f-d20a554f1d8c,3/4 Ekmek Arası İzmir Kokoreç,"30,00 TL",Kokoreçler,5.0
+04f6cf14-41d6-4f1b-91bd-03bdcbbd58a5,Tam Ekmek Arası İstanbul Kokoreç,"37,00 TL",Kokoreçler,5.0
+2d890149-911a-45e6-a28d-d2da66a53e4c,Çeyrek Ekmek Arası İstanbul Kokoreç,"13,00 TL",Kokoreçler,5.0
+f478858f-3495-473c-a90e-34f8a6e46d67,Yarım Ekmek Arası İstanbul Kokoreç,"18,00 TL",Kokoreçler,10.0
+54560b4a-e429-4aa6-b6e6-c43780b76fa6,3/4 Ekmek Arası İstanbul Kokoreç,"27,00 TL",Kokoreçler,5.0
+67f454c2-09c8-414a-97a5-3adc80cb383b,İstanbul Kokoreç Dürüm,"30,00 TL",Kokoreçler,5.0
+46c6f067-e431-4412-94d7-105b48a68226,İstanbul Kokoreç,"40,00 TL",Kokoreçler,5.0
+0e95a47d-db40-4062-a80c-f24377f4cdad,Yarım Ekmek Arası Sucuk,"15,00 TL",Ekmek Arası Ürünler,5.0
+c8b7c550-ef73-4501-9d43-1c15ddca03e0,3/4 Ekmek Arası Sucuk,"23,00 TL",Ekmek Arası Ürünler,5.0
+01c81618-993b-4676-b905-a210c19260d8,Tam Ekmek Arası Sucuk,"30,00 TL",Ekmek Arası Ürünler,5.0
+e6499ab6-3759-49bf-a93c-13a4c15ef434,Yarım Ekmek Arası Köfte,"15,00 TL",Ekmek Arası Ürünler,5.0
+f458f490-6a49-4551-a24c-d78054b18385,3/4 Ekmek Arası Köfte,"23,00 TL",Ekmek Arası Ürünler,5.0
+7518b0cc-3dc7-4f7b-8ade-684c806bb540,Tam Ekmek Arası Köfte,"30,00 TL",Ekmek Arası Ürünler,5.0
+a1c45382-853f-4722-b845-9b1c74739242,Şırdan (Adet),"19,00 TL",Diğer Lezzetler,4.0
+04a45f1d-e955-4738-b470-66205c09f3ce,İzmir Midye Dolma (Adet),"1,50 TL",Diğer Lezzetler,12.0
+000658d0-973c-422b-9254-6692601d6883,İzmir Midye Dolma (45 Adet),"50,00 TL",Diğer Lezzetler,7.0
+d7301f57-c630-4d8e-b24c-26e9dc692f46,Izgara Sucuk,"30,00 TL",Diğer Lezzetler,5.0
+728450c9-ad75-470b-a2c0-c9f60ffc58c8,Izgara Köfte,"30,00 TL",Diğer Lezzetler,5.0
+7df43737-6967-43d8-928d-79cb9e5cb8fe,Kalamar Tava,"35,00 TL",Diğer Lezzetler,5.0
+f7853897-639e-4d2f-8cf5-8d7b3fe3f676,Midye Tava,"30,00 TL",Diğer Lezzetler,7.0
+e3cbb0d2-8700-427e-9409-33c5eedf9d33,Edirne Ciğeri,"30,00 TL",Diğer Lezzetler,5.0
+b659d716-b882-49bb-a9c9-63912aa9295f,Çıtır Karides,"30,00 TL",Diğer Lezzetler,5.0
+C73D2F4F-89B9-4D48-B657-BF2C5FB72A29,Kabak Tatlısı,"13,00 TL",Tatlılar,5.0
+3e174cca-f0b6-4ca9-9bfd-af3dbf3eda08,Algida Maraş Cup (100 ml.),"6,90 TL",Dondurmalar,5.0
+37712913-fa1f-4d3e-94ac-920490f0bc1b,Algida Maraş Kesme Dilim Dondurma (82 ml.),"6,90 TL",Dondurmalar,5.0
+7e6952d4-7807-42b9-b41b-0820d8a5763b,Carte d'Or Mini Cup Çikolata Karnavalı (110 ml.),"7,90 TL",Dondurmalar,5.0
+431268a6-b9a9-4058-b98f-811229c0d5a7,Carte D'Or Mini Cup Çilekli Yoğurtlu (110 ml.),"7,90 TL",Dondurmalar,5.0
+5fdcf0ee-e29e-4fb8-80c6-bff3c06b7ae0,Algida Maraş Dondurmalı Supangle,"12,90 TL",Dondurmalar,5.0
+9ff49929-eb4f-46fa-ae83-6107f9bd7ff1,Magnum Cup,"13,90 TL",Dondurmalar,5.0
+58483f42-0f04-4978-b4bb-c0ebe0209778,Carted'or Volcano Cup,"14,90 TL",Dondurmalar,5.0
+76440d88-30d0-4a34-89e7-b58d547f1778,Coca-Cola Şekerisz (1 L.),"7,00 TL",İçecekler,5.0
+4B06C862-C048-4433-8AF5-1A354726EFCC,Kabak Tatlısı (500 gr.),"22,00 TL",Kiloluk Ürünler,5.0
+E86E5523-3DEF-4862-A00C-A760529DC015,Kabak Tatlısı (1 kg.),"38,00 TL",Kiloluk Ürünler,5.0
+c90591c1-4de9-4306-9d43-5086edffe367,Poşet,"0,25 TL",Poşet,5.0

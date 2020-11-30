@@ -1,0 +1,71 @@
+food_id,food_name,food_price,food_category,food_score
+1fd79e1f-6d95-44a8-a07d-a22ef3c2eca2,Çocuk Menü 1,"24,00 TL",Menüler,6.0
+bb1e8397-c1fa-4819-aba0-21b77367e115,Çocuk Menü 2,"24,00 TL",Menüler,5.0
+34a758b3-ef54-432f-ad02-73c5f719f0d2,Kavurmalı Kaşarlı Bazlama Tost,"24,00 TL",Tostlar,7.0
+57b04642-7157-4ea0-967a-9b5107f78cb4,Karışık Tost,"17,25 TL",Tostlar,5.0
+76f1c849-9bcd-4db5-bcc9-d5e6c2b1d346,Beyaz Peynirli Tost,"14,25 TL",Tostlar,5.0
+fadb2593-d292-43e7-ba3f-6429f4ff2514,Kaşarlı Tost,"14,25 TL",Tostlar,5.0
+fe1a397c-9023-4d17-9830-6fd8ee48f50c,Sucuklu Tost,"15,75 TL",Tostlar,5.0
+921464e0-ff58-45ef-a144-45f2a726d07b,Ton Balıklı Sandviç,"16,50 TL",Sandviçler,5.0
+c6f5e23f-5ec7-4872-9ddc-2598fa38220c,Patatesli Gözleme,"16,50 TL",Gözlemeler,5.0
+f8f9c362-b62f-4911-a869-3a34502d7413,Peynirli Gözleme,"16,50 TL",Gözlemeler,5.0
+3a1fc65c-4f55-4bea-8b79-a8d8fa4c5cab,Tereyağlı Bonfile Lokum,"45,00 TL",Kırmızı Etler,9.0
+635408a8-5997-4793-afda-6b3cedbfa050,Tereyağlı Sozlu Bonfile,"45,00 TL",Kırmızı Etler,9.0
+bde78be8-8c2d-45ee-bf9e-28a70109f5e5,Osmanlı Sac Kavurma,"52,50 TL",Kırmızı Etler,7.0
+ededd53c-1283-4259-af47-4672b87c7587,Hotchili Steak,"52,50 TL",Kırmızı Etler,5.0
+21d88a50-e68f-4a31-ba48-3078ad383994,Dana Lokum Café de Paris Soslu,"165,00 TL",Kırmızı Etler,25.0
+73f2057c-d670-402f-a361-6281ff440399,Tavuk Schitzel,"28,50 TL",Beyaz Etler,7.0
+a4ab0dc2-d32c-4155-8cf3-8697c5805319,Köri Soslu Tavuk,"29,25 TL",Beyaz Etler,9.0
+a8737a29-2932-4e8e-9d47-174c16504a83,Mantar Soslu Tavuk,"30,00 TL",Beyaz Etler,7.0
+365b95dd-c7bd-4956-8af7-6e26f2f256a4,Izgara Köfte,"33,75 TL",Izgaralar,13.0
+46ef3811-0f1d-481f-a7a9-fa61162bbc53,Karışık Izgara,"67,50 TL",Izgaralar,7.0
+c1fc5ad2-992b-4eec-a396-3791b77fd7da,Izgara Tavuk Külbastı,"28,50 TL",Izgaralar,9.0
+d9b4b16e-bf44-4c9c-b7a8-6a809c88c0fa,Izgara Kuzu Pirzola,"56,25 TL",Izgaralar,7.0
+CDFDCD96-5B3E-47B7-B2EF-372B91877AB2,Izgara Kanat,"30,00 TL",Izgaralar,7.0
+4BF5C06A-56DC-4212-8C43-015E2F4561AD,Tavuk Pirzola,"26,25 TL",Izgaralar,7.0
+00772db7-e655-4505-9557-319bb9766519,Cheeseburger,"27,75 TL",Burgerler,5.0
+5875b9f0-3cc9-4c93-95b3-72c9755aa33b,Hayalinn Burger,"29,25 TL",Burgerler,10.0
+7d9f167d-e9c4-4153-aa80-bce91c2e3a47,Mushroom Burger,"24,00 TL",Burgerler,5.0
+882abdb3-8383-4764-bb67-a2b1fa980e7d,Gurme Beef Burger,"28,50 TL",Burgerler,5.0
+afa2756c-e306-48bc-a49a-9595a4cd847a,Tavuklu Wrap,"26,25 TL",Wraps,12.0
+d9a7dc69-6cf8-4da8-9632-245e918c7728,Köfteli Wrap,"28,50 TL",Wraps,5.0
+f68a2b25-85b2-4785-8013-a2dfba13d64a,Etli Wrap,"32,25 TL",Wraps,5.0
+652707f8-9ada-4db9-af4c-25ccda4f0fcf,Tavuklu Fajita,"37,50 TL",Fajitalar,7.0
+e8ce00aa-0e1e-4f79-9b35-90140dddb695,Etli Fajita,"52,50 TL",Fajitalar,5.0
+122bf61d-4b9f-45c4-927d-cc9b77865b19,Etli Quesadilla,"52,50 TL",Queadillas,5.0
+2be0d243-6939-4436-8248-c5b4df42a64d,Tavuklu Quesadilla,"37,50 TL",Queadillas,7.0
+c86431da-8c72-459d-a7be-223b990b2dbd,Fettuccine Alfredo,"30,00 TL",Makarnalar,5.0
+da2edae8-b779-4472-aaab-3c6edae11417,Spaghetti Bolognese,"22,50 TL",Makarnalar,5.0
+ee9b17fc-093f-497d-9e44-86ad675119b5,Fettuccine Fletti Di Funghi,"30,00 TL",Makarnalar,5.0
+95ADD4B7-8205-4267-B925-8386D338F719,Rus Salatası (250 gr.),"10,50 TL",Diğer Lezzetler,5.0
+1febf556-024a-4a73-8226-e2c043c1d5a2,Mantar Soslu Steak,"52,50 TL",Diğer Lezzetler,5.0
+74de2878-d235-4b55-a891-41d11df00707,Çökertme Kebabı,"45,00 TL",Diğer Lezzetler,5.0
+825a0615-7065-45d7-b529-b1d0925cb0bb,Kiremitte Kaşarlı Köfte,"33,75 TL",Diğer Lezzetler,6.0
+DF34E73B-46DC-4DB0-9819-8AEAB319AFF8,Çiğ Köfte,"14,25 TL",Diğer Lezzetler,6.0
+8838EFAD-4A1A-4693-AED2-E0606CF23C85,Haydari (200 gr.),"11,25 TL",Diğer Lezzetler,5.0
+11a888af-222a-49a6-b3db-773f7845fd73,Çoban Salata,"21,00 TL",Salatalar,5.0
+461101d4-407c-4f05-b8fc-4001f88be85c,File Bademli Izgara Tavuklu Salata,"26,25 TL",Salatalar,9.0
+71ef9604-a1af-41e7-9646-4bad724dad2f,Anadolu Salata,"21,00 TL",Salatalar,5.0
+9f461ce6-c4f3-4609-a172-08ee1f9349e6,Izgara Etli Salata,"30,00 TL",Salatalar,7.0
+bf13ab5b-2185-4bb8-872d-2c9dbd0bf102,Izgara Hellim Salata,"25,50 TL",Salatalar,7.0
+087DC768-2421-4A6B-944D-327180CE94DF,Şakşuka (200 gr.),"10,50 TL",Mezeler,5.0
+EB4C0865-070B-45E1-BF32-8868EB3BAA27,Acılı Antep Ezme (200 gr.),"10,50 TL",Mezeler,5.0
+EFF53ECF-9CA9-4F01-9316-42E0ACD36454,Zeytinyağlı Yaprak Sarma (200 gr.),"12,00 TL",Mezeler,5.0
+E22093EB-FA9F-4A5D-BAC7-40D293B2A104,Beyaz Peynir (250 gr.),"18,75 TL",Mezeler,5.0
+D01B7345-81E8-449E-85D4-241DEE4FEC15,Peynir Tabağı,"33,75 TL",Mezeler,5.0
+1547dc74-1785-4477-b934-3b0374ec2d3c,Elma Dilim Patates Kızartması,"13,50 TL",Yan Ürünler,8.0
+26557c27-03a6-49d0-b549-87aa135bfeed,Patates Kızartması,"13,50 TL",Yan Ürünler,8.0
+74bb2bfa-b5e3-43de-b7a2-6700189fb5e2,Sosis Tava,"16,50 TL",Yan Ürünler,5.0
+9850ffa2-9e9b-4da9-b8bc-ebf7f04ca7e6,Peynirli Sigara Böreği (8 Adet),"13,50 TL",Yan Ürünler,5.0
+9e499f59-e3bc-43c7-a39a-dd03b1dbdfbe,Chicken Fingers,"16,50 TL",Yan Ürünler,5.0
+c166f42f-dab4-427f-8197-f398df4e6192,Keyfi Hayalinn Sepeti,"26,25 TL",Yan Ürünler,5.0
+e12d1e83-dd92-4c1a-be57-d812d94aa21b,Pastırmalı Paçanga Böreği (2 Adet),"15,00 TL",Yan Ürünler,5.0
+08e5a4cd-71d5-4cfb-8426-7e105eb8b37f,Meyve Tabağı,"11,25 TL",Tatlılar,5.0
+191a2a0a-0f3b-4de6-8799-9d72110cf51d,Sufle,"16,50 TL",Tatlılar,5.0
+1fbc026c-7139-4a83-aebf-44ff03eae312,Muzlu Mag,"12,00 TL",Tatlılar,5.0
+24dd2cda-06ed-4453-8fba-762a670130dd,Çilekli Mag,"11,25 TL",Tatlılar,5.0
+412a8a77-68cb-48f4-8d91-b92eab2a1187,Fırın Sütlaç,"11,25 TL",Tatlılar,5.0
+6ecce1e1-29d9-4c78-af3d-15899b7c303d,İrmik Tatlısı,"11,25 TL",Tatlılar,7.0
+95fce380-9d7b-4dde-8008-edc0adbd8da9,Mozaik Pasta,"15,00 TL",Tatlılar,5.0
+E23E0C4B-B847-47D3-A157-4939752C451E,Tavuk Kanat (1 kg.) (Pişirilmiş),"82,50 TL",Kiloluk Izgaralar (Pişirilmiş),7.0
+e0e03262-dbf4-4f74-9b18-073c78838111,Poşet,"0,25 TL",Poşet,5.0

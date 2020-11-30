@@ -1,0 +1,49 @@
+food_id,food_name,food_price,food_category,food_score
+f8d08aee-24eb-4881-a915-45d46fa6967d,Midye Menü 1,"24,00 TL",Ekonomik Menüler,9.0
+a7f423a6-637c-44d9-a92b-736855b4d8ad,Midye Menü 2,"15,50 TL",Ekonomik Menüler,3.0
+00193e4f-0b11-4ab1-a0bd-e7bf1a14cf18,Midye Menü 3,"37,00 TL",Ekonomik Menüler,2.0
+ed6251db-359f-46ad-acbf-aa2c20f8bc88,Menü 1,"14,00 TL",Ekonomik Menüler,7.0
+262d84ba-0846-4c07-b6d7-7f4ad2482e62,Menü 2,"21,00 TL",Ekonomik Menüler,1.0
+48a47484-905f-4711-a753-cd6b40d45bbd,Menü 3,"19,00 TL",Ekonomik Menüler,0.0
+d66f1c8d-efc3-4c10-b6e6-f9ff91da9eb1,Menü 4,"16,00 TL",Ekonomik Menüler,-1.0
+80d98df7-b22f-4d71-89fb-0410e1fb62d5,Menü 5,"20,00 TL",Ekonomik Menüler,-5.0
+c9794d68-9a60-46e2-8fa9-50dc09fde752,Menü 6,"27,00 TL",Ekonomik Menüler,3.0
+5d7616b3-a310-438f-a0a6-bffb5d16492e,Menü 7,"26,00 TL",Ekonomik Menüler,5.0
+6280111a-16ee-412c-a777-40ba41b5b484,Menü 8,"20,00 TL",Ekonomik Menüler,1.0
+31f1a5fa-628d-40a5-ba99-06c9cb785453,Menü 9,"21,00 TL",Ekonomik Menüler,5.0
+44e209da-fbe3-4d8f-9800-e446fbeefbad,Menü 10,"23,00 TL",Ekonomik Menüler,10.0
+1d923052-d381-46ee-9570-d8181037108d,Menü 11,"25,00 TL",Ekonomik Menüler,5.0
+267a08c1-bbe6-4a12-8d29-5f1c1ba71a26,Menü 12,"30,00 TL",Ekonomik Menüler,5.0
+f6720502-d704-4b5c-9987-9d302a08d9ad,3'lü Tavuklu Pilav Menü,"52,00 TL",Ekonomik Menüler,2.0
+7bc3fb7d-8214-4f92-997f-1b2f546b5ba4,3'lü Tavuk Tantuni Menü,"52,00 TL",Ekonomik Menüler,5.0
+f777d90e-b1dc-49fd-b8a3-e94221486ce2,3'lü Et Tantuni Menü,"52,00 TL",Ekonomik Menüler,6.0
+b56b15e5-7e12-4dae-9e3d-f9cb8ca4fb53,Yoğurtlu Et Tantuni,"22,00 TL",Et Tantuniler,10.0
+04278c37-ccdc-4964-b019-f7e87c81b655,Et Tantuni Dürüm,"16,00 TL",Et Tantuniler,5.0
+25142bba-24b2-4cb6-b449-1caec32fc758,Ekmek Arası Et Tantuni,"16,00 TL",Et Tantuniler,4.0
+3d66972a-bd8c-4c23-a032-f12b7176a647,3/4 Ekmek Arası Et Tantuni,"24,00 TL",Et Tantuniler,4.0
+a377d435-ca44-4e0b-adaa-1678dae7d53b,Kaşarlı Et Tantuni Dürüm,"19,00 TL",Et Tantuniler,5.0
+19efa572-0d2e-4f8c-917e-841f745ba20c,Kaşarlı Ekmek Arası Et Tantuni,"19,00 TL",Et Tantuniler,4.0
+8904ffcb-583b-4708-9325-b2e949c193ed,Yoğurtlu Tavuk Tantuni,"18,00 TL",Tavuk Tantuniler,9.0
+4468e2f3-c75a-43fe-9dec-9aa534c95d50,Tavuk Tantuni Dürüm,"12,00 TL",Tavuk Tantuniler,9.0
+3c985a20-2d6a-4646-b999-4899aedd9427,Ekmek Arası Tavuk Tantuni,"12,00 TL",Tavuk Tantuniler,8.0
+2b32cffd-b712-4897-a534-2ab4704a4839,3/4 Ekmek Arası Tavuk Tantuni,"18,00 TL",Tavuk Tantuniler,3.0
+71f608ea-42f7-4bae-9cbc-97a8e22b7a64,Kaşarlı Tavuk Tantuni Dürüm,"15,00 TL",Tavuk Tantuniler,4.0
+c01f1cfe-77f2-4a9a-a112-a62be32fbe05,Kaşarlı Ekmek Arası Tavuk Tantuni,"15,00 TL",Tavuk Tantuniler,3.0
+de0b4e34-9681-4f0f-9bed-a12841ab8a2e,Çiğ Köfte Dürüm,"7,00 TL",Çiğ Köfteler,4.0
+879e3fbe-716b-4362-b616-a0246a7268cd,Çiğ Köfte (250 gr.),"17,00 TL",Çiğ Köfteler,5.0
+06eb2481-983c-4c92-9ba8-f13c0841519f,Çiğ Köfte (500 gr.),"34,00 TL",Çiğ Köfteler,5.0
+f0bc07dc-c018-454d-af06-342801a16f40,Çiğ Köfte (1 kg.),"65,00 TL",Çiğ Köfteler,5.0
+1d185e84-174d-4eb8-93db-253ff6c9c7a9,Sade Pilav,"9,00 TL",Yan Ürünler,4.0
+d7157240-5aa3-443c-a6b4-659e096c29a3,Tavuklu Pilav,"12,00 TL",Yan Ürünler,2.0
+93e9ceec-d72d-4c6c-85a6-f848d7207510,Etli Pilav,"18,00 TL",Yan Ürünler,3.0
+6d7ad227-532c-4a9b-bd68-11bb7b95271c,Domatesli Pilav,"10,00 TL",Yan Ürünler,3.0
+a1e3ac52-d3b7-4d5d-8db1-b129078aafcd,Yoğurt,"7,00 TL",Yan Ürünler,9.0
+39c18401-e7af-417c-bba7-dad48eaa4263,Midye Dolma (Adet),"1,50 TL",Yan Ürünler,12.0
+2f0077aa-5f31-4fea-ab55-0826ba1dc151,Paşa Salata,"11,00 TL",Salatalar,5.0
+2a6b742d-8690-4468-8f89-fa3d20357072,Sütlaç,"9,00 TL",Tatlılar,5.0
+5d91c0f1-d7a7-4f5f-b1d7-8875ae9dea95,Kazandibi,"9,00 TL",Tatlılar,5.0
+9fe984b1-edbf-4f8e-b062-a4bcb19b7eee,Profiterol,"9,00 TL",Tatlılar,5.0
+b20dcab1-18ee-4356-890a-111c79876e46,Supangle,"9,00 TL",Tatlılar,5.0
+ea915714-549d-4760-a3d1-5c106cd19c07,Tulumba Tatlısı,"9,00 TL",Tatlılar,4.0
+a6b73672-159a-4783-bcbb-1411dd9d9def,Gazoz (25 cl.),"5,50 TL",İçecekler,5.0
+52ff7d6b-816e-489b-8dea-3b7c8a55e42d,Poşet,"0,25 TL",Poşet,5.0

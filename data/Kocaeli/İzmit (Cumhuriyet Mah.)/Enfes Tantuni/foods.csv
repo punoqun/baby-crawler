@@ -1,0 +1,40 @@
+food_id,food_name,food_price,food_category,food_score
+c74ccfbc-58a8-4ec6-8f13-83494d5ac10c,Menü 1,"18,00 TL",Ekonomik Menüler,6.0
+0edf3203-42f3-4f2f-a354-0f22e64526ed,Menü 2,"27,00 TL",Ekonomik Menüler,8.0
+fbd8a7e1-9fd3-47aa-948f-c8de4dcd466e,Menü 3,"22,00 TL",Ekonomik Menüler,1.0
+ed9bbae4-84a8-4728-be05-7b666c23fd9f,Menü 4,"37,00 TL",Ekonomik Menüler,6.0
+a510466f-ec42-4eb1-bc27-63594b5d6ac0,Menü 5,"20,00 TL",Ekonomik Menüler,4.0
+81d75fc4-2f04-45b8-b210-b14e0b13d001,Menü 6,"29,00 TL",Ekonomik Menüler,5.0
+7f9dc2d2-bdef-489b-9c19-41ea325160eb,Menü 7,"24,00 TL",Ekonomik Menüler,5.0
+e98673c4-6369-4d31-859a-bbd3c68701a6,Menü 8,"40,00 TL",Ekonomik Menüler,5.0
+214aa099-8c1c-42d1-afa4-08e4e70f280a,Menü 9,"23,00 TL",Ekonomik Menüler,5.0
+41606a71-f0da-42f9-90ae-49a08dda1c38,Menü 10,"26,00 TL",Ekonomik Menüler,20.0
+9324f8c7-bc30-42ea-85b9-2b4c0226d9c2,Menü 11,"7,00 TL",Ekonomik Menüler,5.0
+63114e8b-da05-49c1-a245-8ba16bc777a9,5'li Tavuk Tantuni Menü,"60,00 TL",Ekonomik Menüler,-3.0
+448d193b-28b7-4e55-a6b8-8976ed0967b2,4'lü Et Tantuni Menü,"70,00 TL",Ekonomik Menüler,1.0
+66223561-ac39-4bec-8fd6-366278d56239,Somun Ekmek Arası Et Tantuni,"16,00 TL",Et Tantuniler,2.0
+CAABC320-7EBD-40D8-985C-228FD4B48926,Çeyrek Ekmek Arası Et Tantuni,"10,00 TL",Et Tantuniler,0.0
+0d626619-145f-4cf5-abd1-76e0e46bfdf5,Et Tantuni Dürüm,"16,00 TL",Et Tantuniler,7.0
+370dfb1d-f2c4-4b41-a1f1-11cdca2905e0,Yoğurtlu Et Tantuni,"20,00 TL",Et Tantuniler,4.0
+53c91654-6a7b-4bc3-8248-666bf80510b7,Kaşarlı Et Tantuni Dürüm,"20,00 TL",Et Tantuniler,7.0
+6ae9c3b3-4a8a-48ed-a5de-608290dded95,Somun Ekmek Arası Biftek Tantuni,"20,00 TL",Biftek Tantuniler,2.0
+f5f27bf7-4dc8-4e5a-9598-801439f0ebd4,Biftek Tantuni Dürüm,"20,00 TL",Biftek Tantuniler,7.0
+aa83f660-9ade-4c13-a809-c41c96e160b9,Yoğurtlu Biftek Tantuni,"22,00 TL",Biftek Tantuniler,4.0
+78be5566-172f-4b8a-aa22-24dd311a60c7,Kaşarlı Biftek Tantuni Dürüm,"22,00 TL",Biftek Tantuniler,7.0
+629AB3A6-6B93-409E-943F-F952B2C7C546,tavuk tantuni lavaş ve ya ekmek,"60,00 TL",Tavuk Tantuniler,41.0
+9283b212-d9bd-47f2-828b-1ad6a277d892,Somun Ekmek Arası Tavuk Tantuni,"12,00 TL",Tavuk Tantuniler,3.0
+A3356B12-011C-4C55-9960-070AC8D42D82,Çeyrek Ekmek Arası Tavuk Tantuni,"8,00 TL",Tavuk Tantuniler,-4.0
+7d4a8669-6dd4-4923-a4d0-b8787932c12c,Tavuk Tantuni Dürüm,"12,00 TL",Tavuk Tantuniler,8.0
+20324107-d3fc-4613-ab38-fe94b3d2b02d,Yoğurtlu Tavuk Tantuni,"15,00 TL",Tavuk Tantuniler,0.0
+a9670edf-a9b7-4c4c-8089-9933c62bde02,Kaşarlı Tavuk Tantuni Dürüm,"16,00 TL",Tavuk Tantuniler,3.0
+A075036F-76BC-40F4-8A8C-EBE220DE4F0A,Yoğurt,"10,00 TL",Yan Ürünler,8.0
+5508275E-F1C0-48CB-BEBE-740609F7AF77,Tantuni Ekmeği,"1,00 TL",Yan Ürünler,1.0
+9B488810-1E02-4C31-A80C-AF8285FBA578,Tantuni Lavaşı,"1,00 TL",Yan Ürünler,1.0
+5dc5934f-b808-497e-9ebe-2c7e2623ec7a,Eker Sütlaç,"6,00 TL",Tatlılar,6.0
+3D1EE7FE-ED4A-4CF7-ADFA-6F3D3224D3B0,Hamsiköy Sütlaç,"8,00 TL",Tatlılar,6.0
+353f2f8c-d948-40c4-a8ca-34943c48f338,Eker Supangle,"6,00 TL",Tatlılar,5.0
+10d5b6f9-72bb-4ad3-bee8-4fe4cb51ab82,Eker Profiterol,"6,00 TL",Tatlılar,3.0
+f28bef86-d024-4da4-9195-f670d6119186,Eker Kazandibi,"6,00 TL",Tatlılar,5.0
+7d27c0fa-4cc1-41c4-990d-1f0e69a115b8,Fırın Sütlaç,"8,00 TL",Tatlılar,6.0
+283166b5-b466-421a-89b3-5a0b899d8f85,"Fanta (2,5 L.)","10,00 TL",İçecekler,5.0
+9e0415ed-2937-42e0-92d5-adc5d2b4b66b,Poşet,"0,25 TL",Poşet,5.0

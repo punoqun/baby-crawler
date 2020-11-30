@@ -1,0 +1,28 @@
+food_id,food_name,food_price,food_category,food_score
+0a5e66b5-d921-41c9-bee7-f26378aaf424,Mantı,"19,50 TL",Mantılar,45.0
+4911d60d-e228-4b8a-9d0d-c4b3bff019bb,Çıtır Mantı,"20,25 TL",Mantılar,61.0
+529e4e79-325d-4130-8ee3-74d1c450fe73,Ispanaklı Çıtır Mantı,"18,75 TL",Mantılar,60.0
+7ecfbd69-a1c4-41bc-85e2-f485c874ce2d,Ispanaklı Mantı,"18,75 TL",Mantılar,44.0
+8f840e43-92f0-46c0-837f-9ae28f460818,Patatesli Mantı,"18,75 TL",Mantılar,45.0
+931273b6-5498-4b4b-8bb9-fbd91e6fe100,Patatesli Çıtır Mantı,"18,75 TL",Mantılar,61.0
+972e5e21-4430-4936-b7d4-aa488677cf59,Karidesli Çıtır Mantı,"25,50 TL",Mantılar,58.0
+19283633-5f1b-4d95-835a-7f86ebf5b63e,Köy Gözlemesi,"17,25 TL",Gözlemeler,5.0
+37d724da-b3c1-471c-9a24-8bdab05e1070,Ispanaklı Gözleme,"15,00 TL",Gözlemeler,8.0
+ed07b3fd-0977-4eba-a787-ed7fb91b3d8b,Patatesli Gözleme,"15,00 TL",Gözlemeler,10.0
+5fd0620c-fee0-4bba-9f8c-416c9d41eb51,Karışık Peynirli Gözleme,"16,50 TL",Gözlemeler,4.0
+c814d7bc-08c6-4d6b-b949-225d026cc22f,Patatesli Kaşarlı Gözleme,"16,50 TL",Gözlemeler,10.0
+4adefbd0-33c0-4601-a5e4-76f2fcddb33d,Pastırmalı Kaşarlı Gözleme,"21,00 TL",Gözlemeler,4.0
+ea902f97-5a9f-46d2-bf53-1ccd68bff2db,Kıymalı Gözleme,"17,25 TL",Gözlemeler,4.0
+380c2aec-a922-490a-920c-5ea7dad6b35a,Ispanaklı Beyaz Peynirli Gözleme,"16,50 TL",Gözlemeler,8.0
+a4f6ff3b-5cbf-4783-8ebe-e8e9803180af,Kaşarlı Gözleme,"15,00 TL",Gözlemeler,4.0
+efeaa5b5-e2a4-4f5b-89da-67a186539aaf,Kıymalı Kaşarlı Gözleme,"17,25 TL",Gözlemeler,4.0
+a2d082e3-22d5-4ba3-81d4-da8897685ab5,Beyaz Peynirli Gözleme,"16,50 TL",Gözlemeler,4.0
+eb893aff-114c-4a20-8d1f-428ad9bd7607,Mantı Gözleme,"18,75 TL",Gözlemeler,39.0
+c3e320c3-1f9f-4ba6-92c9-04a5482d5b4c,Izgara Köfte,"22,50 TL",Izgaralar,5.0
+fa8f0b38-d360-438f-8223-e8283ccf5def,Special Schnitzel,"21,00 TL",Izgaralar,5.0
+49c2aae1-56af-49b1-bfa9-b2870efbd0ba,Patates Kızartması,"11,25 TL",Yan Ürünler,10.0
+ED91663A-8BC6-4D30-A94F-13AA552D1288,Sigara Böreği,"10,50 TL",Yan Ürünler,5.0
+ee9f2ca3-88a7-44e8-9028-d7264c128e65,Kızartma İçli Köfte (Adet),"5,25 TL",Yan Ürünler,9.0
+cda6731f-3ee4-4a72-b271-a76d5e3985a2,Schweppes (33 cl.),"3,75 TL",İçecekler,5.0
+3a44d989-2a3c-4481-91b3-346b443d9407,Sarıyer Gazoz (20 cl.),"3,75 TL",İçecekler,5.0
+e098ad9f-b30b-43ae-9a8b-8e33fac41926,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,26 @@
+food_id,food_name,food_price,food_category,food_score
+1c3bc932-2812-4134-9087-522aa2d363f1,Ciğer Şiş,"43,00 TL",Izgaralar & Kebaplar,11.0
+fe6d0646-540b-4165-8e4b-c4e812f2d086,Et Şiş,"43,00 TL",Izgaralar & Kebaplar,7.0
+ebd2407d-0ab8-4896-86ca-6a6beb49abed,Yürek Şiş,"43,00 TL",Izgaralar & Kebaplar,7.0
+4268362e-dd26-49d6-b699-2ab766f2dc78,Adana Kebap,"43,00 TL",Izgaralar & Kebaplar,7.0
+c3017288-0aec-433b-b2fa-1866bc5b080c,Urfa Kebap,"43,00 TL",Izgaralar & Kebaplar,7.0
+e0dbded9-8543-4a28-9c36-4e63918e70df,Tavuk Şiş Kebap,"40,00 TL",Izgaralar & Kebaplar,7.0
+befe1353-ce21-4aab-bd4a-be3127d30c74,Küşleme,"50,00 TL",Izgaralar & Kebaplar,5.0
+ba99c6c2-6936-42ab-9bf3-fba0d6f7b394,Mumbar,"40,00 TL",Izgaralar & Kebaplar,5.0
+2eb81874-6a87-47d6-87c7-e5e5add6ff5c,Şırdan,"22,00 TL",Izgaralar & Kebaplar,6.0
+16cc3854-ac2d-4432-b80e-e02b26c5220d,Patlıcan Kebap,"47,00 TL",Izgaralar & Kebaplar,5.0
+d5618cd7-0a5d-4149-b15a-c5e754ddb49b,Adana Dürüm,"22,00 TL",Dürümler,13.0
+95d1de0c-0137-461f-b8b9-7298f1354cb0,Et Şiş Dürüm,"22,00 TL",Dürümler,8.0
+24d4c22b-421c-4286-a6ff-761afa7100f3,Tavuk Şiş Dürüm,"20,00 TL",Dürümler,8.0
+d2870af5-e8a5-4508-8c97-5b4516402aea,Urfa Dürüm,"22,00 TL",Dürümler,8.0
+af36fd77-11f5-490d-bb4b-9150a21b0c63,Ciğer Şiş Dürüm,"22,00 TL",Dürümler,7.0
+db1debd0-01df-4d40-8c42-742aa1003535,Lahmacun,"8,00 TL",Fırın Ürünleri,7.0
+9717884e-6f75-41e6-83c4-6b224886d389,Fındık Lahmacun (5 Adet),"20,00 TL",Fırın Ürünleri,2.0
+59dbf955-13c1-47c0-bbbd-081f4350800d,Kuşbaşılı Pide,"24,00 TL",Fırın Ürünleri,4.0
+a26ee2c1-063a-4b93-8db8-46bc105846be,Kıymalı Pide,"22,00 TL",Fırın Ürünleri,4.0
+c0b4fa98-ccf6-4189-a849-9b95b76ccda7,Kaşarlı Pide,"17,00 TL",Fırın Ürünleri,4.0
+0ec6b592-f149-42cb-9495-ac01813607ea,Karışık Pide,"26,00 TL",Fırın Ürünleri,4.0
+9D6E08F5-807C-4255-B0AF-36F4E52AB5BF,Antep Fıstıklı Kadayıf,"25,00 TL",Tatlılar,5.0
+ba32f927-43ba-45c7-af2f-2b6ae0e75c12,Künefe,"25,00 TL",Tatlılar,5.0
+CA851923-AD31-485D-A458-155F3C83727C,Fıstıkzade,"30,00 TL",Tatlılar,5.0
+8d61e8e5-79f9-4c2e-bbb6-558236b05da8,Poşet,"0,25 TL",Poşet,5.0

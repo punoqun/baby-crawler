@@ -1,0 +1,48 @@
+food_id,food_name,food_price,food_category,food_score
+BA51A691-104B-4268-BAA9-8ABE8EB3A08A,Enginarlı Kumpir,"28,00 TL",Kumpirler,28.0
+E5D644EE-DF6D-467C-B218-952E5714BB34,Special Kumpir,"29,00 TL",Kumpirler,28.0
+5D39A178-A612-48B6-8092-B0FC91795A76,Özel kumpir Mood Kumpir,"27,00 TL",Kumpirler,69.0
+65A5CC90-2E47-4CD8-A9A4-4C150435A3FC,Harbi Kumpir,"25,00 TL",Kumpirler,33.0
+550274F8-C6C4-418D-82DB-60FF3D7566BE,Doyuran Kumpir,"28,00 TL",Kumpirler,28.0
+f697c341-5a74-4d89-b2ca-bfa64347928f,Anadolu Kumpir,"26,00 TL",Kumpirler,28.0
+7758a593-b845-4975-8410-95d109a124e9,Barbekü Tavuklu Kumpir,"24,00 TL",Kumpirler,30.0
+5a5ac07a-d03b-4a81-932b-f0ee38470aa4,Deniz Kumpir,"28,00 TL",Kumpirler,28.0
+c02b88a6-efcf-486a-8b32-bfb25232be66,İtalyan Kumpir,"21,00 TL",Kumpirler,27.0
+fb35355c-d303-4dec-9a4d-acbc69c45b77,Kavurmalı Kumpir,"26,00 TL",Kumpirler,30.0
+52e43d4c-241b-4c7b-8cda-fab3e70a893b,Mexican Kumpir,"21,00 TL",Kumpirler,28.0
+cf7e0f46-5df6-409a-9b2e-01443aad541a,Otantik Classic Kumpir,"21,00 TL",Kumpirler,34.0
+d7c21170-c780-45b7-abf9-14d979c47418,Sade Kumpir,"12,00 TL",Kumpirler,34.0
+5f8d3cb8-ec72-44f4-9de4-0610ddd83690,Sporcu Kumpir,"21,00 TL",Kumpirler,28.0
+02e159a6-0fbd-499f-8653-dfa373de6156,Vejetaryen Kumpir,"25,00 TL",Kumpirler,28.0
+26b0a08a-249c-4313-a4f1-631724713dda,Sucuklu Sayas Peynirli Kumru Sandviç,"18,00 TL",Kumru Sandviçler,6.0
+321babbc-ae3a-4721-a533-ff568cfd43db,Karışık Kumru Sandviç,"18,00 TL",Kumru Sandviçler,6.0
+3d81d000-6d29-45b0-85f8-c0540ca8575f,Kaşarlı Kumru Sandviç,"18,00 TL",Kumru Sandviçler,6.0
+52328bc8-2c40-4bfa-9975-5abcf380a206,Çeşme Kumru Sandviç,"18,00 TL",Kumru Sandviçler,6.0
+5c42f65b-7b36-4a1e-9536-24f443b22e7d,Süper Çeşme Kumru Sandviç,"18,00 TL",Kumru Sandviçler,10.0
+769d3874-0373-4004-a538-4e0982bdcb95,Süper Kumru Sandviç,"19,00 TL",Kumru Sandviçler,10.0
+b55947ac-c30f-4fc7-ac15-d0b75b307a38,Sosisli Kaşarlı Kumru Sandviç,"18,00 TL",Kumru Sandviçler,6.0
+c422f5c9-37e5-4d7c-a81a-98bc0a5ea30e,Rus Salatalı Kumru Sandviç,"18,00 TL",Kumru Sandviçler,6.0
+c625132d-00c3-4e05-86cb-6c9619a01441,Sucuklu Kaşarlı Kumru Sandviç,"18,00 TL",Kumru Sandviçler,6.0
+f8bb109e-4d9a-4df5-8216-3942b94a1ee9,Salamlı Sayas Peynirli Kumru Sandviç,"18,00 TL",Kumru Sandviçler,6.0
+7CD67EE4-5B59-41F2-BD93-7B47F9CF2F97,Tavuklu Rus Salatalı Sandviç,"18,00 TL",Sandviçler,5.0
+E45EC0B4-B0B4-4C6D-9D6F-37B93AC93535,Tombik Ekmek Arası Karışık Sandviç,"19,00 TL",Sandviçler,7.0
+7CC50141-66FE-4F26-B2E8-C755BDD6B84C,Tombik Ekmek Arası Sucuklu Kaşarlı Sandviç,"19,00 TL",Sandviçler,7.0
+382148F2-180B-41AB-ACE1-C9A34D5741F0,Tombik Ekmek Arası Barbekülü Tavuklu Sandviç,"22,00 TL",Sandviçler,9.0
+0957F260-6FAD-4D18-B119-CA5B67A43D25,Tombik Ekmek Arası Kaşarlı Sandviç,"19,00 TL",Sandviçler,7.0
+5242ABB0-B0F7-4168-990F-692E15B9E737,Tombik Ekmek Arası Süper Sandviç,"19,00 TL",Sandviçler,11.0
+61B84354-5861-4474-A8D1-2665FD15CA77,Acılı Full Sandviç,"19,00 TL",Sandviçler,5.0
+5fac162e-0c7f-4afe-8ddc-11951b58f86c,Kaşarlı Sandviç,"18,00 TL",Sandviçler,5.0
+89122c73-9742-4524-9749-f0e58af45cad,Kumru Sandviç,"18,00 TL",Sandviçler,6.0
+ebb3c080-7b68-4027-816d-ea9b86687e12,Sade Sandviç,"18,00 TL",Sandviçler,7.0
+4f007e8c-a639-4bda-ab97-62059e21ec5a,Salamlı Sandviç,"18,00 TL",Sandviçler,5.0
+ef59846f-0427-48c3-bac8-02beb728796f,Sayas Peynirli Sandviç,"19,00 TL",Sandviçler,5.0
+844d784c-6206-4861-8dd6-e2fa5ff58112,Sucuklu Sandviç,"18,00 TL",Sandviçler,5.0
+b48a36ca-abe4-4134-a162-81a4c556c65c,Süper Sandviç,"19,00 TL",Sandviçler,9.0
+6E00C686-47BD-4694-A91E-BE8AE9DC6895,Rus Salatası (400 gr.),"22,00 TL",Yan Ürünler,5.0
+82A3A5A9-089A-4148-94F1-D3929E999D0F,Havuç Tarator (170 gr.),"19,00 TL",Yan Ürünler,5.0
+D28A2569-A647-4A76-BC60-68B7358AE4C0,İtalyan Salatası (250 gr.),"15,00 TL",Yan Ürünler,4.0
+584BEE7E-CD35-4631-8521-1B374338242B,Haydari (250 gr.),"22,00 TL",Yan Ürünler,5.0
+5BD0D7B0-B528-4723-8DBA-02A156FAEB06,Kırmızı Lahana (500 gr.),"15,00 TL",Yan Ürünler,5.0
+EE5A4453-7B3A-4E97-9B4E-427B36A1A248,Meksika Salatası (250 gr.),"15,00 TL",Yan Ürünler,5.0
+C8A24F12-0534-4377-ABA3-404E7DE105B9,Antep Ezme (250 gr.),"15,00 TL",Yan Ürünler,5.0
+2812f7cc-1c63-4835-b3a6-e2982f0f2b67,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,55 @@
+food_id,food_name,food_price,food_category,food_score
+3f790111-1baa-4f6e-a597-07cd3a3f25b8,Barbekü Soslu Çıtır Dürüm Menü,"16,50 TL",Menüler,10.0
+0123320b-f3c8-4a00-b3fd-041186f118d0,Barbekü Soslu Çıtır Sandviç Menü,"16,13 TL",Menüler,9.0
+6f037154-6990-4d97-b971-4d06d7dd5df7,Cajun Baharatlı Tavuk (250 gr.) Menü,"20,63 TL",Menüler,9.0
+8eb2bf72-fe1b-48cf-982a-0a6e1e56a345,Cheddarlı Cajun Baharatlı Tavuk (250 gr.) Menü,"24,38 TL",Menüler,4.0
+739e1ea5-abdd-427b-929b-66d3c6dc5a24,Cheddarlı Çıtır Dürüm Menü,"17,25 TL",Menüler,10.0
+c5fdfdf7-eae2-49dd-9154-d0d1ac1d6523,Cheddarlı Çıtır Sandviç Menü,"16,88 TL",Menüler,9.0
+ae5057f2-63d3-4028-a90c-1affc1f03cd4,Çıtır Dürüm Menü,"16,50 TL",Menüler,10.0
+7ffc4ae5-51b3-42a8-888c-37aba3188c79,Çıtır Sandviç Menü,"15,75 TL",Menüler,9.0
+3e827254-6cdf-426b-939f-438495d89c59,Efsana İkili Çıtır Dürüm Menü,"17,63 TL",Menüler,10.0
+7c2860de-3dec-4a0b-b30c-7e48124eb99e,Efsana İkili Çıtır Sandviç Menü,"17,25 TL",Menüler,9.0
+04fc8350-bf67-4920-85cf-06caa15e91d3,Garlic Soslu Çıtır Dürüm Menü,"16,50 TL",Menüler,10.0
+bfce9eae-439e-4841-82d4-c3684e058015,Garlic Soslu Çıtır Sandviç Menü,"16,50 TL",Menüler,9.0
+74f5fa25-d5ee-45e2-8909-1deb98d1bd95,Kaşarlı Cajun Baharatlı Tavuk (250 gr.) Menü,"24,38 TL",Menüler,4.0
+a90e05ba-4fec-4168-b92d-9060493fc4ec,Kaşarlı Çıtır Dürüm Menü,"16,13 TL",Menüler,10.0
+db49fc7e-9ec7-4ffa-b65a-944465230eaf,Kaşarlı Çıtır Sandviç Menü,"15,75 TL",Menüler,9.0
+50e98b0f-2087-4233-a2e5-36e53f6f979d,Meksika Soslu Çıtır Dürüm Menü,"16,50 TL",Menüler,10.0
+0231d12f-5bf6-430a-9f96-dcd1f9e68bc0,Meksika Soslu Çıtır Sandviç Menü,"15,75 TL",Menüler,9.0
+5c055fd4-4bb7-4f75-8348-f935efc7fa1b,Ranch Soslu Çıtır Dürüm Menü,"16,50 TL",Menüler,8.0
+8b1c596d-08cb-46e4-802c-4530f4fe1f81,Ranch Soslu Çıtır Sandviç Menü,"15,75 TL",Menüler,7.0
+b005162f-cf1d-45d4-a49f-b1ce825c9308,Çıtır Barbekü Dürüm,"10,50 TL",Dürümler,10.0
+c1e05655-01f4-4519-a797-e7b2a3b4f16b,Çıtır Dürüm,"9,75 TL",Dürümler,10.0
+23e4a013-87ce-408d-9c68-b61886a0b21c,Çıtır Cheddarlı Dürüm,"10,88 TL",Dürümler,15.0
+e90dcd16-dfd0-41ca-aa80-920f9d416f76,Çıtır Hellim Dürüm,"12,38 TL",Dürümler,10.0
+5c780097-5843-4747-971e-f063f736eeac,Çıtır Kaşarlı Dürüm,"10,88 TL",Dürümler,10.0
+9509580e-87be-4adf-a5fa-7a96fffb0b4d,Çıtır Mexican Dürüm,"10,50 TL",Dürümler,10.0
+6946a300-8eea-49e2-84f1-36aaac3fee44,Çıtır Ranch Dürüm,"10,50 TL",Dürümler,13.0
+d7fc280d-b058-428e-bf48-d902ac1f7b97,Çıtır Rus Dürüm,"11,63 TL",Dürümler,10.0
+4add64d5-97db-4116-9021-01206a814fc6,Efsane İkili Çıtır Dürüm,"11,63 TL",Dürümler,11.0
+53d0a1b1-e33a-469e-984a-9a43651e5777,Efsane Üçlü Çıtır Dürüm,"13,13 TL",Dürümler,11.0
+a2208ba0-b6f4-4e4a-b71d-f8c5c5096bbb,Çıtır Barbekü Sandviç,"10,50 TL",Sandviçler,9.0
+56ea84e6-0953-4c77-aa46-be78f2b9587b,Çıtır Sandviç,"9,38 TL",Sandviçler,9.0
+982e3c0b-0624-431a-8031-45b45af57b9c,Çıtır Cheese Sandviç,"10,88 TL",Sandviçler,9.0
+fb836acb-9258-4b03-afbf-671d2e6ca90d,Çıtır Hellim Sandviç,"12,38 TL",Sandviçler,9.0
+a9380523-99ef-4713-af26-a9b116fa884f,Çıtır Kaşarlı Sandviç,"10,88 TL",Sandviçler,9.0
+bb233227-f346-459d-bf0c-b81acd11c2ff,Çıtır Mexican Sandviç,"10,50 TL",Sandviçler,9.0
+9d1e8e67-8bbb-43e0-b81c-0ebcd828ed70,Çıtır Ranch Sandviç,"10,50 TL",Sandviçler,7.0
+472c0e9f-db45-4cc6-b09e-6a8b34801e35,Çıtır Rus Sandviç,"11,63 TL",Sandviçler,9.0
+a3453ce8-883a-4bbd-adfa-729f04de9c1c,Efsane İkili Çıtır Sandviç,"11,63 TL",Sandviçler,10.0
+6a6c73ef-3bc8-4e6e-898d-059a26ddea05,Efsane Üçlü Çıtır Sandviç,"13,13 TL",Sandviçler,10.0
+30819bb9-edd1-456a-92de-5fa4f321efe4,Çıtır Hellim Burger,"12,38 TL",Burgerler,11.0
+804c5375-c1ba-4244-8860-0589ea6043da,Çıtır Kaşarlı Burger,"10,88 TL",Burgerler,11.0
+7323bd31-7927-4159-86a8-75fe51f699d4,Çıtır Mexican Burger,"10,50 TL",Burgerler,11.0
+035b6716-9398-447a-9f05-459692740c65,Çıtır Ranch Burger 1,"10,50 TL",Burgerler,12.0
+caae95c1-1dcc-428b-ba4e-4b3226e61599,Çıtır Ranch Burger 2,"10,50 TL",Burgerler,6.0
+3cf3acff-6ee2-46d1-8f83-aafb68167960,Çıtır Rus Burger,"11,63 TL",Burgerler,11.0
+9f71e23f-3511-4703-b680-54994befb913,Efsane İkili Çıtır Burger,"11,63 TL",Burgerler,12.0
+ee314cfe-b9a1-493e-b2e0-b91f74859bf3,Efsane Üçlü Çıtır Burger,"13,13 TL",Burgerler,12.0
+ebbd255a-0f39-4aa7-8743-621d4cc5772f,Cajun Baharatlı Tavuk (250 gr.),"17,25 TL",Tavuklar,4.0
+8696712a-8186-4bd6-8362-7edd487dec3f,Soğan Halkası (8 Adet),"6,00 TL",Tavuklar,5.0
+232f547c-dd25-4b2f-bf9f-c8e96a82cf20,Elma Dilim Baharatlı Patates Kızartması,"6,00 TL",Tavuklar,1.0
+b45cbd05-0aaa-434b-b01e-5e714b17a4f7,Baharatlı Patates Kızartması,"6,00 TL",Tavuklar,1.0
+77d3ff38-d089-457e-a068-ec6d17af99ad,Cheddarlı Cajun Baharatlı Tavuk (250 gr.),"20,63 TL",Tavuklar,4.0
+1eb0adda-ee91-4b5a-84d2-8e8e90ad9dc6,Kaşarlı Cajun Baharatlı Tavuk (250 gr.),"20,63 TL",Tavuklar,4.0
+c79edd5e-dbf6-4bc8-9927-53c3cd063cf5,Poşet,"0,25 TL",Poşet,5.0

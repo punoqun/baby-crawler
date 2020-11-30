@@ -1,0 +1,47 @@
+food_id,food_name,food_price,food_category,food_score
+b0e11c28-1782-440d-b408-5c01caaf7fda,Adana Kebap Menü,"25,00 TL",Kebap & Izgara Menüleri,17.0
+e96a64d5-b004-45eb-8b7b-5389ac65e861,Karışık Kebap Menü,"45,00 TL",Kebap & Izgara Menüleri,5.0
+3a7fbd61-cb16-4fff-a8b4-3dfdcfba0f97,Izgara Köfte Menü,"22,00 TL",Kebap & Izgara Menüleri,4.0
+4462d7e9-de8b-4303-9d59-bd7a7dbc0022,Izgara Tavuk Menü,"19,00 TL",Kebap & Izgara Menüleri,13.0
+18cae485-a03e-48b9-8810-4f42385d81de,Tavuk Şiş Menü,"19,00 TL",Kebap & Izgara Menüleri,13.0
+08e216b0-47fd-4a96-9acd-873927b4036a,Tavuk Döner (1 kg.) Menü,"45,00 TL",Tavuk Döner Menüleri,16.0
+5e6df4e5-f701-4be0-8ce3-1462383e2d1a,Tavuk Döner (500 gr.) Menü,"25,00 TL",Tavuk Döner Menüleri,16.0
+5239B9D3-D4E5-4C59-8E81-F4193507BC8B,Tavuk Döner Dürüm (100 gr.) Menü,"9,00 TL",Tavuk Döner Menüleri,12.0
+C6F5489B-F533-45F0-8CD9-1663915A5408,Tavuk Döner Dürüm (100 gr.) Tatlı Menü,"12,00 TL",Tavuk Döner Menüleri,11.0
+2C2EFF61-4BEF-4220-956F-ECCDBE336F08,Ekmek Arası Tavuk Döner (100 gr.) & Tatlı Menü,"12,00 TL",Tavuk Döner Menüleri,14.0
+D6353A6F-A75F-40D8-BAB6-51203E16E246,Ekmek Arası Tavuk Döner (100 gr.) Menü,"9,00 TL",Tavuk Döner Menüleri,15.0
+ea2ada35-64fe-44f3-86b8-5bf8983a4dd6,Tavuk Döner Menü,"19,00 TL",Tavuk Döner Menüleri,16.0
+4DB302E9-07AB-4DFC-B8ED-0AD69B7265EC,Ekmek Arası Tavuk Döner (150 gr.) Menü,"12,00 TL",Tavuk Döner Menüleri,15.0
+48D79295-ACA0-4386-9ACB-E974DE111BAC,Tavuk Döner Dürüm (150 gr.) Menü,"12,00 TL",Tavuk Döner Menüleri,12.0
+b9086901-601d-4a23-bb95-d219ff803196,Zurna Tavuk Döner Dürüm Menü,"11,00 TL",Tavuk Döner Menüleri,10.0
+5c25cd80-af4b-40e4-8206-b0862909803a,Tavuk Döner (250 gr.) Menü,"17,00 TL",Tavuk Döner Menüleri,16.0
+c8d9d570-b104-422e-9f53-7b40a666b782,Double Adana Dürüm Menü,"25,00 TL",Dürüm Menüleri,12.0
+77a97616-d00a-47b7-a918-de416530cfcb,Double Tavuk Şiş Dürüm Menü,"17,00 TL",Dürüm Menüleri,7.0
+96086397-b786-4c8b-9e19-ae6362655627,Adana Dürüm Menü 1,"14,00 TL",Dürüm Menüleri,19.0
+593e2259-81f0-4e8e-b0f4-cf73dc2a6f6d,Izgara Köfte Dürüm Menü 1,"14,00 TL",Dürüm Menüleri,1.0
+546eefbb-ff5d-4fe9-99d8-abd20129b997,Tavuk Şiş Dürüm Menü 1,"12,00 TL",Dürüm Menüleri,15.0
+020aeee8-b90c-407a-b9fd-32b53f9fa01d,Arnavut Ciğeri Dürüm Menü,"13,00 TL",Dürüm Menüleri,1.0
+6b1bb78a-5e33-4728-974f-294fc70e0174,Adana Dürüm Menü 2,"18,00 TL",Dürüm & Tatlı Menüler,4.0
+de5198c3-2eb0-49df-b765-c00ceb2f8913,Izgara Köfte Dürüm Menü 2,"18,00 TL",Dürüm & Tatlı Menüler,-10.0
+845949bc-8a0d-4a88-9cc8-a4bdb5b0cfb7,Tavuk Şiş Dürüm Menü 2,"15,00 TL",Dürüm & Tatlı Menüler,-1.0
+86a84a51-cc9c-4211-8986-01730ca0eab0,Ekmek Arası Izgara Köfte & Tatlı Menü,"18,00 TL",Ekmek Arası & Tatlı Menüleri,2.0
+1520b57b-6d00-4741-bf23-798f0ee38194,Ekmek Arası Izgara Sucuk & Tatlı Menü,"17,00 TL",Ekmek Arası & Tatlı Menüleri,4.0
+a6250532-f24c-4f4e-9ac5-28184af52527,Ekmek Arası Arnavut Ciğeri & Tatlı Menü,"17,00 TL",Ekmek Arası & Tatlı Menüleri,3.0
+82f96ef5-e613-4858-9e16-43612c0c113f,Ekmek Arası Tavuk Şiş & Tatlı Menü,"16,00 TL",Ekmek Arası & Tatlı Menüleri,11.0
+a2673b97-b414-4de4-8194-cbe44a67f235,Ekmek Arası Izgara Tavuk & Tatlı Menü,"16,00 TL",Ekmek Arası & Tatlı Menüleri,11.0
+b80456e6-ec7a-41ef-8e14-eb9e2b9400d4,Ekmek Arası Tavuk Sote & Tatlı Menü,"16,00 TL",Ekmek Arası & Tatlı Menüleri,11.0
+663c9b2a-cc09-40b1-b1c6-c2bdeccceed3,Ekmek Arası Tavuk Kokoreç & Tatlı Menü,"16,00 TL",Ekmek Arası & Tatlı Menüleri,11.0
+d80cd9bc-ec77-4367-a257-9ce028605a6e,Ekmek Arası Izgara Köfte Menü,"14,00 TL",Ekmek Arası Menüleri,3.0
+d92b22ed-847f-4dc6-bee3-5e3926237482,Ekmek Arası Izgara Sucuk Menü,"13,00 TL",Ekmek Arası Menüleri,5.0
+05bffca3-e974-46c3-8477-0798b047e774,Ekmek Arası Arnavut Ciğeri Menü,"13,00 TL",Ekmek Arası Menüleri,4.0
+800937b6-858d-47d7-9a48-8202078ce480,Ekmek Arası Tavuk Şiş Menü,"12,00 TL",Ekmek Arası Menüleri,12.0
+278528cd-fc73-4aa5-9c64-8077552b39f3,Ekmek Arası Izgara Tavuk Menü,"12,00 TL",Ekmek Arası Menüleri,12.0
+b1a01bb2-ab21-4cba-a234-4f4a63aa6cb8,Ekmek Arası Tavuk Sote Menü,"12,00 TL",Ekmek Arası Menüleri,12.0
+6d2ebe81-7542-4ac2-8c47-22228f5dfacc,Ekmek Arası Tavuk Kokoreç Menü,"12,00 TL",Ekmek Arası Menüleri,12.0
+57b1513e-ec14-47c4-8b1e-c929c94a8e07,Lavaş (Adet),"2,00 TL",Yan Ürünler,5.0
+3c4a8a3f-e818-4429-9eff-87b2ee46b314,Eker Sütlaç,"4,00 TL",Tatlılar,5.0
+be01c0d9-0303-4d45-b795-d78698bdcfcc,Halka Tatlısı (Adet),"2,50 TL",Tatlılar,13.0
+8b90dcfb-fe68-4044-91dd-c0372dd04ebe,Halka Tatlısı (1 kg.),"25,00 TL",Tatlılar,8.0
+ffe1370b-7a9b-42f8-8a9e-0cdeb5ed7650,Eker Çikolatalı Puding,"4,00 TL",Tatlılar,6.0
+f2d32c6a-24b8-479a-bef2-c2f863c54838,Cappy Karışık (33 cl.),"4,00 TL",İçecekler,5.0
+b714182c-3756-4478-9f38-9ae2d9f4fbb0,Poşet,"0,25 TL",Poşet,5.0

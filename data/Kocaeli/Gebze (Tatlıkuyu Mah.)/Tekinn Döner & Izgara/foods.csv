@@ -1,0 +1,29 @@
+food_id,food_name,food_price,food_category,food_score
+c49f9c1b-7122-491d-b136-17255dd73e0b,Tombik Ekmek Arası Et Döner,"11,00 TL",Et Dönerler,13.0
+d4a6cc4f-c418-42b0-bfea-ca4d59351ef1,Yarım Ekmek Arası Et Döner,"11,00 TL",Et Dönerler,15.0
+6027c018-8b25-4a02-9025-9a9876f62517,Et Döner Dürüm,"15,00 TL",Et Dönerler,14.0
+a1d48f7f-29a6-4d34-a4bb-2940d70263d4,Et Döner,"24,00 TL",Et Dönerler,11.0
+34383ce4-9dc1-426e-ada4-e18624f58445,Pilav Üstü Et Döner,"27,00 TL",Et Dönerler,10.0
+60d3c525-418d-4eef-b850-26ebe2b24e4e,İskender (Et Dönerden),"27,00 TL",Et Dönerler,8.0
+9d206375-9f77-49a6-99ac-11099d54f67d,Adana Kebap,"25,00 TL",Izgaralar,11.0
+b17a25c3-f6c5-4c24-924b-f08ce1d2ef6d,Urfa Kebap,"25,00 TL",Izgaralar,5.0
+4a23cdb2-d86f-464e-a992-2f7e5a6fdcab,Çöp Şiş,"30,00 TL",Izgaralar,5.0
+34369b4d-df3c-4dc9-801a-c8fd89be5d71,Ciğer Şiş,"30,00 TL",Izgaralar,5.0
+d4af7954-e305-4f31-872f-d02b9fd3e33f,Tavuk Şiş,"22,00 TL",Izgaralar,2.0
+d5ef5675-0a77-4254-a2ed-1090245b23a2,Tavuk Kanat,"22,00 TL",Izgaralar,0.0
+a92dba80-c555-4fc4-b837-8933bdd34d88,Karışık Izgara,"37,00 TL",Izgaralar,5.0
+bb15aae3-d949-4530-afcd-0cf007e737d0,Patlıcanlı Kebap,"28,00 TL",Izgaralar,5.0
+7af72dd1-9c8d-4de5-aba7-6bd91fc14b82,Domatesli Kebap,"28,00 TL",Izgaralar,5.0
+41ce7f99-8a98-40c7-92cb-06e9d7fe6195,Alinazik Kebap (Kıymadan),"28,00 TL",Izgaralar,5.0
+127f3754-bb02-4d83-a4f7-c5e5d8f010f2,Sarma Beyti Kebap,"28,00 TL",Izgaralar,4.0
+f6f60c81-0292-4433-a65d-5b6d25105074,Beyti Kebap (Açık),"28,00 TL",Izgaralar,4.0
+48d19e0a-895a-48f5-a63c-34cb7e37df23,Izgara Köfte,"22,00 TL",Izgaralar,9.0
+b98d9156-d80b-46c4-b4c7-adca30ddd491,Kuru Fasulye,"10,00 TL",Ana Yemekler,4.0
+b28c28ab-79fc-41d7-8de5-ace643d13947,Adana Dürüm,"15,00 TL",Dürümler,14.0
+45748c29-fd4e-4109-b45d-006c7ba00653,Urfa Dürüm,"15,00 TL",Dürümler,3.0
+d6ae685e-93e0-4be3-aea3-5f1a25f838a6,Çöp Şiş Dürüm,"17,00 TL",Dürümler,3.0
+c1f3d6fc-600a-47b4-b0d4-e2a81b97cd13,Ciğer Şiş Dürüm,"17,00 TL",Dürümler,3.0
+cb67e7e0-285e-48e9-a848-66675afacbea,Tavuk Şiş Dürüm,"14,00 TL",Dürümler,0.0
+c805ee81-852b-4f5d-bfbc-b88ef51e728b,Ekmek Arası Köfte,"12,00 TL",Ekmek Arası Ürünler,9.0
+a8de50d0-8d45-4ba7-98ad-f1c20d4ed8ea,Pirinç Pilavı,"7,00 TL",Yan Ürünler,5.0
+14ac3693-e4b5-447c-ba4c-9183db9d6b01,Cacık,"6,00 TL",Yan Ürünler,5.0

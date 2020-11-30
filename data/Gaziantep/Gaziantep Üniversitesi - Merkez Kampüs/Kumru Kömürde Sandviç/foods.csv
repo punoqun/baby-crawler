@@ -1,0 +1,57 @@
+food_id,food_name,food_price,food_category,food_score
+d670b609-ba9a-4d1e-8036-1dfa87545352,Kumru Menü,"22,00 TL",Menüler,9.0
+b015a107-8cf4-46d1-97b9-d0e9b60f16ab,Kasap Burger Menü,"22,00 TL",Menüler,6.0
+339a8438-0aac-47d9-86be-20c7ff7baac5,Cheeseburger Menü,"23,00 TL",Menüler,5.0
+8927da69-d9e2-4644-8f70-65355d6e1e36,Ayvalık Tostu Menü,"24,00 TL",Menüler,2.0
+89dacc18-764d-4682-b15e-f3cef97e7c43,Patso Menü,"19,50 TL",Menüler,9.0
+69e73aeb-f02a-4f3d-9b22-faf8f984808e,Tost Menü,"19,00 TL",Menüler,4.0
+8dfd2dca-0512-4680-a0ac-5f9e2310c633,Köfte Menü,"20,00 TL",Menüler,4.0
+16fcf7e0-314c-40db-9125-2184ed38f878,Gözleme Menü,"24,00 TL",Menüler,6.0
+8a4ba569-df64-4587-8ea5-9ee0a703ba43,Izgara Köfte Menü,"23,00 TL",Menüler,4.0
+1CCF509B-456C-4FC8-A502-5F75B20469CF,Çıtır Tavuk Burger Menü,"20,00 TL",Menüler,8.0
+68a3f37b-6bcb-4f25-9c89-05c67e20d78e,Menemen,"14,00 TL",Kahvaltılıklar,5.0
+f52997aa-2056-4dd7-8eb1-db563391af08,Karışık Omlet,"14,00 TL",Kahvaltılıklar,6.0
+01d1817f-580b-40f7-8e75-4ee6320a7cd0,Kaşarlı Omlet,"12,00 TL",Kahvaltılıklar,4.0
+5bc12bca-2c1e-4021-87ae-e3c34cc9a668,Sade Omlet,"11,00 TL",Kahvaltılıklar,12.0
+2c909e7a-c683-447e-bc63-fd08adc3c434,Sucuklu Yumurta,"14,00 TL",Kahvaltılıklar,5.0
+af281481-d2ac-4f75-acdd-c421d5307d0e,Sahanda Yumurta,"11,00 TL",Kahvaltılıklar,5.0
+EF7F7E30-0663-4B2A-8D3A-CAA679A08951,Haşlanmış Yumurta,"3,00 TL",Kahvaltılıklar,5.0
+6f014824-4360-465f-b9b1-cff4ff54e6c3,Karışık Gözleme,"14,00 TL",Gözlemeler,7.0
+4507ee7b-1834-401b-8c67-afedc22d5c52,Sucuklu Kaşarlı Gözleme,"14,00 TL",Gözlemeler,5.0
+fb5b9e3f-4359-4064-b14f-4918d2020664,Kaşarlı Gözleme,"13,00 TL",Gözlemeler,5.0
+1ae94d27-2cf6-4822-b2c4-df405fad956e,Ton Balıklı Gözleme,"15,00 TL",Gözlemeler,6.0
+B43BC552-7D44-4672-8D2A-6C896CE6B230,Patatesli Gözleme,"13,00 TL",Gözlemeler,6.0
+7041B54F-0F70-4850-BF4D-C7EAE1BCFD25,Patatesli Kaşarlı Gözleme,"15,00 TL",Gözlemeler,5.0
+c4d4f68c-cc47-470a-9b7e-9ffdb7cd2156,Ayvalık Tostu,"14,00 TL",Tostlar,7.0
+036007b0-eb64-408b-a7fe-65eb027b5533,Atom Tost (460 gr.),"17,00 TL",Tostlar,2.0
+023a3a83-9d98-4305-aff2-e14c4c51df11,Sebzeli Tost,"12,00 TL",Tostlar,4.0
+04b646e1-1f41-4378-9299-7bf1f98fa49a,Karışık Tost,"10,00 TL",Tostlar,5.0
+a81e34c1-db93-402c-9f71-d9d6718c7565,Kaşarlı Tost,"10,00 TL",Tostlar,3.0
+0388f71d-d841-4e38-8650-78c83e133e49,Yumurtalı Tost,"13,00 TL",Tostlar,4.0
+DF06C91E-78CB-4125-A866-98EC43E3252D,Çift Kaşarlı Tost,"13,00 TL",Tostlar,3.0
+E266D30A-B498-4DF6-863B-F7D0FEFF29EE,Çift Kaşarlı Karışık Tost,"14,00 TL",Tostlar,4.0
+4126E624-03D8-4DB2-9C80-97602E71EF6C,Kasap Sucuklu Karışık Tost,"14,00 TL",Tostlar,5.0
+9387C1C6-01A5-4C6D-9495-68F5D17DDDD5,Kasap Sucuklu Tost,"12,00 TL",Tostlar,4.0
+3aa8b2e6-3b7b-42a3-8c27-8343c2d746a7,Kumru Sandviç,"13,00 TL",Sandviçler,8.0
+4470bf1c-cbf0-41d3-87fb-47a2280c7e8b,Patso Sandviç,"10,00 TL",Sandviçler,8.0
+d337e891-2835-4345-a0a0-d9841c2e4ac4,Izgara Köfte Sandviç,"10,00 TL",Sandviçler,3.0
+c84d4654-3d93-4d58-a2e2-1e4dd3e869d1,Soğuk Sandviç,"9,00 TL",Sandviçler,4.0
+899d3bfc-7dc8-4126-91c6-044cdc992289,Ton Balıklı Sandviç,"12,00 TL",Sandviçler,4.0
+B77EE9A3-D3F2-4454-B674-900B4F057F07,Kaşarlı Kumru Sandviç,"15,00 TL",Sandviçler,2.0
+35B5C031-6B42-4AEE-B999-4D6B8FA30BA9,Sebzeli Kumru Sandviç,"14,00 TL",Sandviçler,3.0
+F4E1055F-7C07-471F-B112-A351583A4C96,Double Kaşarlı Kumru Sandviç,"18,00 TL",Sandviçler,-1.0
+be1d48ca-e383-4a0d-9acf-711cbf076917,Sade Patso Sandviç,"9,00 TL",Sandviçler,15.0
+730552db-54d6-4164-8679-00d1faa537ee,Kasap Burger,"14,00 TL",Burgerler,6.0
+4484d179-e19e-47ec-8c40-739803bea72b,Cheeseburger,"14,50 TL",Burgerler,5.0
+BA44AA22-B107-4CCD-BECE-DA1317DC3472,Çıtır Tavuk Burger,"11,00 TL",Burgerler,8.0
+7EE450C6-BE85-44BD-AD75-DF2368DB46C7,Double Kasap Burger,"19,00 TL",Burgerler,3.0
+05E978FC-0181-41D5-AFF8-70867F6EBB93,Double Cheeseburger,"22,00 TL",Burgerler,2.0
+5817971a-1197-427f-b80d-2ca0b3488bc1,Izgara Köfte,"18,00 TL",Izgaralar,4.0
+3bad260b-f7ce-4075-84a6-316042cfb8da,Sosis Kokteyl,"12,00 TL",Yan Ürünler,4.0
+2fd735d6-20b8-44f9-9caf-735a84735d66,Tavuk Nugget,"12,00 TL",Yan Ürünler,4.0
+2efccb4e-8b30-4549-901f-0be5c51d8772,Elma Dilim Patates Kızartması,"9,00 TL",Yan Ürünler,7.0
+90d8ed3c-e96f-4315-8f86-981294b0de33,Patates Kızartması,"8,00 TL",Yan Ürünler,7.0
+814E67BA-C6EA-4FA4-A8C8-15DBDB5468D0,Ketçap (5 Adet),"4,50 TL",Yan Ürünler,4.0
+a934c450-88de-4d31-9ac3-3f873e7ad406,Mayonez (5 Adet),"4,50 TL",Yan Ürünler,5.0
+33318741-6b61-49e4-944d-3dda12488dcb,Limonata,"4,00 TL",İçecekler,5.0
+ac2fcbd8-55a9-4fe4-9d56-79e10b88a571,Poşet,"0,25 TL",Poşet,5.0

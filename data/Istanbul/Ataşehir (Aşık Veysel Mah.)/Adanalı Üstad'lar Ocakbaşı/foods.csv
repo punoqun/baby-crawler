@@ -1,0 +1,39 @@
+food_id,food_name,food_price,food_category,food_score
+a4e7f428-0642-4dbb-9450-24f4bb2b19be,Urfa Kebap,"45,00 TL",Kebaplar,12.0
+c7bb92bf-bafa-4979-9b36-9b92e44fa2bc,Beyti Sarma Kebap,"55,00 TL",Kebaplar,7.0
+686c72e5-01da-41f7-b46a-1bc6a0bdfab6,Alinazik Kebap (Kıymadan),"55,00 TL",Kebaplar,7.0
+c7c91347-4b5a-40e9-ad0e-e1f9f8afd0fb,Alinazik Kebap (Et Şişten),"60,00 TL",Kebaplar,7.0
+8be3c538-acc5-4147-9b1c-c53bf2aa0fae,Karışık Kebap,"70,00 TL",Kebaplar,9.0
+d03289cc-d974-4698-bd9f-a2e8ac2c2418,Kuzu Şiş,"60,00 TL",Izgaralar,5.0
+34c1799c-e36c-460f-bdaa-758e43d02263,Pirzola,"60,00 TL",Izgaralar,5.0
+0cdb53c4-b6a7-40f2-a1e1-10d81fe7c604,Yaprak Et,"68,00 TL",Izgaralar,7.0
+a0253b57-4765-4661-8a98-7e38c520da5c,Tavuk But Şiş,"40,00 TL",Izgaralar,10.0
+bf3ef739-ee9b-4075-84ef-66a8c70b2e8c,Tavuk Kanat,"40,00 TL",Izgaralar,5.0
+978b33db-ff55-41c9-9760-227fb634daa2,Halep Lahmacun (10 Adet),"90,00 TL",Fırın Ürünleri,7.0
+f10e1a48-45ce-4cc0-af07-67c207e77f94,Antep Lahmacun (8 Adet),"70,00 TL",Fırın Ürünleri,7.0
+2dc1bcd6-6de5-4d4a-bfc3-e93c8bf02473,Antep Lahmacun (6 Adet),"60,00 TL",Fırın Ürünleri,7.0
+7c332b4b-739f-4383-8cfb-f397c3295316,Halep Lahmacun (8 Adet),"80,00 TL",Fırın Ürünleri,7.0
+e377be03-857c-4cd9-8ee4-5de4ce8b7bb7,Halep Lahmacun (6 Adet),"70,00 TL",Fırın Ürünleri,7.0
+a7e6f9ca-b480-47d2-ab5c-3049d14e7254,Antep Lahmacun (10 Adet),"85,00 TL",Fırın Ürünleri,7.0
+b04d8fc2-0a22-4d4d-80fa-6033791a923e,Kaşarlı Pide,"30,00 TL",Fırın Ürünleri,5.0
+e7818de1-0d16-4422-9a4c-992a91bb6fc4,Karışık Pide,"40,00 TL",Fırın Ürünleri,7.0
+20480246-7233-490e-93b9-7e7a4e5348a1,Kuşbaşılı Pide,"35,00 TL",Fırın Ürünleri,5.0
+599e9c6d-4f2f-47ea-93ed-c0a6d1e4b575,Kıymalı Pide,"35,00 TL",Fırın Ürünleri,5.0
+643fae6f-5649-418c-9353-4c6bd5e580b4,Közde Soslu Sarımsak,"21,90 TL",Mezeler,5.0
+d511008a-82b7-4433-a6c9-505bc9670e61,Kuru Cacık,"17,90 TL",Mezeler,5.0
+a3a9618e-1ccc-4c13-a98b-aa046e5320df,Babagannuş,"17,90 TL",Mezeler,5.0
+18e5eea8-6d52-46d3-b806-f0563fac7d40,Patlıcan Söğürme,"17,90 TL",Mezeler,5.0
+59da62a8-4c92-45ac-abb7-70c62485bcd5,Alinazik,"17,90 TL",Mezeler,5.0
+A74D3C0C-ADBC-40C6-96B6-A98C81B0F897,Köpoğlu,"18,90 TL",Mezeler,5.0
+42678ADB-D011-4A6B-976C-1340B1BAF7CD,Enginar,"24,90 TL",Mezeler,5.0
+9E36F822-AE0D-4921-BDD9-FE8F4CB946DE,Rus Salatası,"18,90 TL",Mezeler,5.0
+CA541E6D-8BEB-461F-BC1D-669CC5BBC0E8,Arnavut Ciğeri,"19,90 TL",Mezeler,5.0
+48040EFD-083D-446C-937D-70330347C79A,İstiridye Mantarı,"23,90 TL",Mezeler,5.0
+8B48316D-94B2-4786-9ED7-8B719B409B6D,Fava,"18,90 TL",Mezeler,5.0
+75CAB626-C2A5-4AD2-B230-DCB15494A7D3,Girit Ezme,"18,90 TL",Mezeler,5.0
+432729F5-2729-4A03-9DF5-3A29FE2F2C0C,Muammara,"19,90 TL",Mezeler,5.0
+21070b13-f018-4ee4-a7bf-bd5ceada86c4,Gavurdağı Salata,"20,00 TL",Salatalar,7.0
+a0023b77-83e4-4dfc-9807-e42dc3636352,Çoban Salata,"15,00 TL",Salatalar,7.0
+815e584b-23d0-4594-9a41-0a2e1c0924de,Antep Katmeri,"25,00 TL",Tatlılar,5.0
+b918ef61-ef7c-4cda-a9e4-9d8b4b2ec295,Hatay Künefe,"23,00 TL",Tatlılar,5.0
+a98de5d0-e190-4dc9-a2c2-5791925e9f48,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,62 @@
+food_id,food_name,food_price,food_category,food_score
+A42A667C-988C-4679-9AB5-4786918C8A13,Aybalam Spesiyel Tost Menü,"20,95 TL",Tost Menüleri,22.0
+E271513F-2A40-40C7-B729-08604D8AB32F,3 Peynirli Tost Menü,"18,95 TL",Tost Menüleri,26.0
+2f1efbe6-35b2-4dd3-843e-6b567fbe5d84,Kaşarlı Tost Menü,"16,95 TL",Tost Menüleri,20.0
+5fd9d445-7dfd-4394-978c-5468938a104f,Sucuklu Tost Menü,"16,95 TL",Tost Menüleri,20.0
+d5f267d0-80e1-4b64-aecf-00f319cc6146,Sucuklu Kaşarlı Jambonlu Tost Menü,"17,95 TL",Tost Menüleri,20.0
+fbbc1427-ef2e-464b-9c8c-e6581fdcc953,Yahşi Tost Menü,"18,95 TL",Tost Menüleri,21.0
+94338cf5-d262-4b1c-af74-0b8db0eba482,Kavurmalı Kaşarlı Tost Menü,"22,95 TL",Tost Menüleri,28.0
+207c547a-c39d-43c9-a8ca-154169e72829,Kavurmalı Cheddarlı Tost Menü,"22,95 TL",Tost Menüleri,29.0
+5e25d06e-719b-45d5-956e-26031d467463,Sucuklu Cheddarlı Tost Menü,"17,95 TL",Tost Menüleri,21.0
+3578f809-52a0-48ba-8e35-8b5553a0fe63,Sucuklu Kaşarlı Tost Menü,"16,95 TL",Tost Menüleri,20.0
+c495167a-beee-4b56-b166-4597b74c40de,Kaşarlı Gözleme Menü,"18,95 TL",Gözleme Menüleri,3.0
+db069e1d-a5fb-4775-ac5c-4bc0a11c5d43,Sucuklu Kaşarlı Gözleme Menü,"19,95 TL",Gözleme Menüleri,3.0
+9e8dcb0a-cf64-4a21-a352-dc563c12d746,Mantarlı Kaşarlı Gözleme Menü,"19,95 TL",Gözleme Menüleri,3.0
+f672a84a-17f2-438d-b565-558df14a39f5,Patatesli Gözleme Menü,"17,95 TL",Gözleme Menüleri,3.0
+e2410c3f-509a-43e4-8658-52288cc760c4,Kumrulu Gözleme Menü,"18,95 TL",Gözleme Menüleri,3.0
+a9568f31-e189-40b3-b5c9-672432600491,Kumrulu Kaşarlı Gözleme Menü,"19,95 TL",Gözleme Menüleri,3.0
+58a1e82d-fee3-4062-8a6a-05bd51ae2cfb,Yahşi Gözleme Menü,"22,95 TL",Gözleme Menüleri,4.0
+8958b708-3e7f-4770-ad35-ffba609ece96,Kavurmalı Kaşarlı Gözleme Menü,"24,95 TL",Gözleme Menüleri,11.0
+c70cb41d-0023-4905-887c-d732b63bb857,Kavurmalı Cheddarlı Gözleme Menü,"26,95 TL",Gözleme Menüleri,12.0
+A98D7786-0759-4097-8D35-7A3F42351A47,3 Peynirli Gözleme Menü,"21,95 TL",Gözleme Menüleri,9.0
+56db464c-8149-48a4-b397-b5343a4608df,Kumru Sandviç Menü,"17,95 TL",Kumru Menüleri,12.0
+3548803f-8a25-460d-98dc-776aba113373,Kaşarlı Kumru Sandviç Menü,"18,95 TL",Kumru Menüleri,12.0
+8c7b9a9c-cf4a-44b1-971f-79505fd92d52,Cheddarlı Kumru Sandviç Menü,"19,95 TL",Kumru Menüleri,13.0
+77953C28-132D-45E2-A5B2-CBD6601DB04F,Aybalam Spesiyel Tost,"14,95 TL",Tostlar,22.0
+FCB8ABB1-8AE8-4099-80DE-986FE1C4CED6,3 Peynirli Tost,"12,95 TL",Tostlar,26.0
+2bbaf0f0-3a0e-400b-8dd6-b96cc575c415,Sucuklu Tost,"10,95 TL",Tostlar,20.0
+e6465d81-e6cf-4b42-9475-87c7c5840402,Sucuklu Kaşarlı Jambonlu Tost,"12,95 TL",Tostlar,20.0
+3ac2858e-9e5b-4c06-aef1-b1126a4e9f82,Yahşi Tost,"12,95 TL",Tostlar,26.0
+5b87944d-f743-4380-ba5e-d43e67c10c23,Kavurmalı Kaşarlı Tost,"16,95 TL",Tostlar,28.0
+b3871fc4-21da-4df3-886a-d7231a800456,Kavurmalı Cheddarlı Tost,"16,95 TL",Tostlar,29.0
+4531b096-d618-4555-b88c-2a66c2d01b1d,Sucuklu Cheddarlı Tost,"11,95 TL",Tostlar,21.0
+bc4143a7-9b10-4364-9502-8de2c1b64254,Sucuklu Kaşarlı Tost,"10,95 TL",Tostlar,25.0
+a72958bb-7e32-44b8-a95c-5d876300f032,Kaşarlı Gözleme,"12,95 TL",Gözlemeler,3.0
+5d55e12b-4ac3-48fc-85a5-2e4582f0fe36,Sucuklu Kaşarlı Gözleme,"13,95 TL",Gözlemeler,3.0
+992de3e1-afb4-4e57-b60b-000339a8e233,Mantarlı Kaşarlı Gözleme,"13,95 TL",Gözlemeler,3.0
+b03274e8-78c2-4b9a-8c17-25cc7d153f3b,Patatesli Gözleme,"15,95 TL",Gözlemeler,3.0
+1c678503-546f-4755-94cb-96777223f7c4,Kumrulu Gözleme,"13,95 TL",Gözlemeler,3.0
+3e74a386-56d5-416d-a2cb-802c3d6c3a67,Kumrulu Kaşarlı Gözleme,"14,95 TL",Gözlemeler,3.0
+f34134d2-dfe0-4d69-894e-8c95f800d0dd,Yahşi Gözleme,"16,95 TL",Gözlemeler,4.0
+b2f87428-030f-4263-86db-92d21169b125,Kavurmalı Kaşarlı Gözleme,"18,95 TL",Gözlemeler,11.0
+e251f23e-7a62-4826-9df4-c48345d03082,Kavurmalı Cheddarlı Gözleme,"20,95 TL",Gözlemeler,12.0
+E718B3C6-D9D8-4643-A834-A27348DDAC0E,3 Peynirli Gözleme,"15,95 TL",Gözlemeler,9.0
+73f9b2cc-913f-49c1-9156-afb848c11350,Kumru Sandviç,"11,95 TL",Kumrular,12.0
+1ccc240d-8b18-46a1-ad2d-5fcb5ea6c051,Kaşarlı Kumru Sandviç,"12,95 TL",Kumrular,17.0
+b1fc8222-2012-4a8f-98ac-ccf66ff6cb4d,Cheddarlı Kumru Sandviç,"13,95 TL",Kumrular,13.0
+1107B182-CA9A-4FA3-A228-BC31CE731692,Kumru Dürüm,"13,95 TL",Kumrular,12.0
+97113c71-67e0-476b-852b-c2508f52ccdd,Susamlı Ekmek Arası Patso,"9,95 TL",Patsolar,5.0
+6916269f-15d2-46ac-84fd-398fd601cd57,Susamlı Ekmek Arası Kaşarlı Patso,"10,95 TL",Patsolar,5.0
+29ef2e2b-c460-4a36-a5be-62ff99f1e587,Susamlı Ekmek Arası Cheddarlı Patso,"11,95 TL",Patsolar,6.0
+12CDF067-367F-4082-91C3-746D03B475DD,Kaşarlı Dürüm Patso,"12,95 TL",Patsolar,5.0
+e3c4a129-98b5-4619-b9c6-c93e180862dd,Azerbaycan Hingeli,"14,95 TL",Diğer Lezzetler,12.0
+6204bb74-d61c-457f-aa1a-ae84b4ed79e1,Çığırtmalı Azerbaycan Pilavı,"15,95 TL",Diğer Lezzetler,10.0
+2ee4ad9a-a122-4a66-b2c1-fe69f23751dd,Azerbaycan Dovgası,"9,95 TL",Diğer Lezzetler,10.0
+54DADB31-A711-4AA8-8287-B557DA5A6BE0,Susamlı Ekmek Arası Kasap Sucuk,"14,95 TL",Diğer Lezzetler,5.0
+b138661b-2ebe-41d8-a18b-76dd4b158c3b,Cajun Baharatlı Patates Kızartması,"6,95 TL",Yan Ürünler,9.0
+85473f40-e5e0-4c9e-8fa5-6b4cd036e2d1,Duble Cajun Baharatlı Patates Kızartması,"9,95 TL",Yan Ürünler,9.0
+44d00289-aeaa-4483-83dc-e1a836142041,Acılı Cheddarlı Cajun Baharatlı Patates Kızartması,"10,95 TL",Yan Ürünler,10.0
+1008603b-c6b6-4e2c-a653-1b0f8e285578,Tiramisu,"12,95 TL",Tatlılar,5.0
+3CC78B29-F2AF-4931-8BA4-9BBD4C82A34D,Frambuazlı Cheesecake,"12,95 TL",Tatlılar,5.0
+8135cc31-569d-415b-b0b6-ad0339f9a8bc,Coca-Cola Şekersiz (20 cl.),"3,95 TL",İçecekler,5.0
+57586461-6276-49d9-a9ce-f29d1de213e3,Poşet,"0,25 TL",Poşet,5.0

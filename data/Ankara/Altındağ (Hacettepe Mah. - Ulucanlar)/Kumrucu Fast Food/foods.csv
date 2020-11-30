@@ -1,0 +1,78 @@
+food_id,food_name,food_price,food_category,food_score
+f7196abf-0ff0-4c44-8cd2-52fe54c395bf,3'lü Ayvalık Tostu Menü,"50,00 TL",Menüler,10.0
+423f0c20-5d30-4ec0-b1b3-5bdc17853798,3'lü Ekmek Arası Köfte Menü,"60,00 TL",Menüler,2.0
+158e280c-02f7-46f1-802e-45a2e48b915e,3'lü Kumru Sandviç Menü,"50,00 TL",Menüler,-5.0
+126d781d-c820-40ac-b476-9595f96b10ce,4'lü Dev Kumru Sandviç Menü,"82,00 TL",Menüler,-7.0
+e20be2ad-e472-4056-9799-23d864c8ab28,4'lü Ekmek Arası Izgara Köfte Menü,"82,00 TL",Menüler,2.0
+b84a9fb6-a0df-4802-a2f8-58516c15508a,4'lü Ekmek Arası Izgara Tavuk Menü,"72,00 TL",Menüler,0.0
+dedb6a6e-891b-4d35-bcbf-a23cc3eb1dce,4'lü Köylüm Tost Menü,"68,00 TL",Menüler,-1.0
+1c6e9f98-bd4c-4829-8078-f0f9f54c2b47,4'lü Kumru Sandviç Menü,"68,00 TL",Menüler,-5.0
+935b653d-4135-4876-8f0b-bff6e7b0398f,4'lü Özel Soslu Kumru Dürüm Menü,"70,00 TL",Menüler,-1.0
+937bec49-6036-466d-860d-0f2e4d7785fb,Beyaz Peynirli Köylüm Tost Menü,"24,00 TL",Menüler,-3.0
+ce795334-5f7f-4ee2-b349-0829c946132f,Bol Kaşarlı Ayvalık Tostu Menü,"23,00 TL",Menüler,11.0
+7b1cbcaf-1cf4-49ec-a73d-fae7c67983ce,Bol Kaşarlı Dev Kumru Sandviç Menü,"25,50 TL",Menüler,-6.0
+68bc25a5-099d-4121-a5b4-b6fb57b20889,Bol Kaşarlı Kumru Sandviç Menü,"23,00 TL",Menüler,-4.0
+c000cf08-fc53-4a30-8374-47f3501c6ded,Cheeseburger Menü,"25,50 TL",Menüler,1.0
+47156725-9447-4919-b987-033c4c3df550,Çoklu Hamburger Menüsü,"70,00 TL",Menüler,5.0
+cdeb91cc-2729-4ab0-9b12-33fc85d64477,Dev Kumru Sandviç Menü,"23,00 TL",Menüler,-2.0
+9056d7fb-8dc3-4a0a-9558-5c0e44479cf1,Efsane Final Menü,"165,00 TL",Menüler,3.0
+2092303b-2847-4c25-ab86-157181e9c8cc,Ekmek Arası Izgara Köfte Menü,"23,00 TL",Menüler,2.0
+96bcb3f2-66fa-4749-9e39-4ef1d18029b6,Ekmek Arası Izgara Tavuk Menü,"21,50 TL",Menüler,0.0
+fc2e0c47-3365-4a0d-9cd5-7fa24acb89c4,Hamburger Menü,"20,00 TL",Menüler,1.0
+cf8d099b-8e37-434a-af98-f628c421e38a,Hot Dog Menü,"52,00 TL",Menüler,1.0
+86ed8fc9-d2a7-4d6b-b0d2-43435388d169,Kahvaltı Ayvalık Tost Menü,"42,00 TL",Menüler,8.0
+a8adbb85-1018-486b-b7c5-094897e4ebb5,Kahvaltı Beyaz Peynirli Tost Menü,"45,00 TL",Menüler,-3.0
+bfeb33e0-fafb-49d3-aacd-798e301cd206,Kahvaltı Hamburger Menü,"42,00 TL",Menüler,1.0
+e95a3679-dd02-4c4a-95df-a8500e383e6d,Kahvaltı Karışık Tost Menü,"38,00 TL",Menüler,-1.0
+73495f1d-1081-47b0-9076-baa8eaa48198,Kahvaltı Kaşarlı Tost Menü,"38,00 TL",Menüler,-1.0
+e99b77ef-087a-49ae-ad84-0a904496a561,Kahvaltı Kavurmalı Tost Menü,"56,00 TL",Menüler,-1.0
+3f5794d4-e43f-461f-a464-91a1844d097a,Kahvaltı Köylüm Tost Menü,"42,00 TL",Menüler,-1.0
+67718d3a-0ba2-4b29-8b0c-ee29d1679177,Kavurmalı Tost Menü,"26,00 TL",Menüler,-1.0
+539877a8-5941-417d-8cf1-e68fad3459f6,Köylüm Tost Menü,"20,50 TL",Menüler,-1.0
+f1ea61f5-4003-494f-aac8-9be1cf426676,Kumru Sandviç Menü,"20,50 TL",Menüler,-5.0
+64923bbb-0a88-4643-9e73-096fe7861adf,Menü 1,"29,00 TL",Menüler,9.0
+3fb4be98-4e6d-4112-b49b-6df9f5ba706e,Menü 2,"54,00 TL",Menüler,3.0
+a988b3f5-89cf-43a0-a471-3c07381e6674,Menü 3,"75,00 TL",Menüler,4.0
+6b94ec9d-b8f8-45ba-bd52-12fb199b7ecd,Menü 4,"22,50 TL",Menüler,4.0
+3c0f0069-7c09-4953-989e-ad2335207f2f,Menü 5,"22,50 TL",Menüler,-3.0
+69e42b36-d4bd-44a3-879d-03e61aad7f78,Menü 6,"22,50 TL",Menüler,1.0
+b0cca576-1704-423c-8781-b7f905a9c2a0,Menü 7,"28,00 TL",Menüler,0.0
+8a377e66-2c68-4214-a28c-4838847d6e7e,Özel Soslu Kumru Dürüm Menü,"21,50 TL",Menüler,-1.0
+99a27c14-bf55-4236-89ff-d38243bbd03f,Sosisli Sandviç Menü,"17,50 TL",Menüler,1.0
+9672d3bd-65d4-4f11-b336-3d272f97d571,XL Dev Kumru Sandviç Menü,"32,00 TL",Menüler,-7.0
+ea0bbdb0-4ad0-4099-91f3-a8bb0b2ed043,Izgara Köfte (7 Adet),"24,00 TL",Izgaralar,7.0
+fbb6ac13-de22-4f8b-a546-cd7dfdeb8d3f,Izgara Tavuk (150 gr.),"21,00 TL",Izgaralar,5.0
+54265796-ec0f-43d9-98ae-d091b0dd0251,Hamburger,"12,50 TL",Burgerler,5.0
+63c47203-fea0-4fe0-97a6-d090d233cdf7,Cheeseburger,"15,50 TL",Burgerler,5.0
+c8c50f8b-93e7-4505-9966-f5a413f786b2,Kumru Sandviç,"12,50 TL",Kumrular,-1.0
+9b6a7eed-d5fe-4598-b2a1-f4bce847ce98,Özel Soslu Kumru Dürüm,"13,50 TL",Kumrular,3.0
+2c97c645-10ad-4d0d-9e5c-fd0862120ad1,Dev Kumru Sandviç,"15,00 TL",Kumrular,2.0
+38c91a4b-5175-4e45-8b88-5ad07a67aa29,XL Dev Kumru Sandviç,"23,00 TL",Kumrular,-3.0
+dc63f987-0048-4f0b-9559-3bd651021e06,Bol Kaşarlı Kumru Sandviç,"15,50 TL",Kumrular,0.0
+01f3cf7a-b9c7-4447-a509-3b9262b4aa5d,Bol Kaşarlı Dev Kumru Sandviç,"18,00 TL",Kumrular,-2.0
+24741344-7c52-46ba-a78d-68f643153091,Ayvalık Tostu,"12,50 TL",Tostlar,19.0
+b6cea365-9ae4-4c51-8274-988dd4b8b155,Bol Kaşarlı Ayvalık Tostu,"15,50 TL",Tostlar,15.0
+38a0657c-88c6-4cfc-9c95-540ebd5e1eb7,Kavurmalı Tost,"19,00 TL",Tostlar,3.0
+5b81bb81-35ce-4867-ad22-4d24e5fe7958,Köylüm Tost,"12,50 TL",Tostlar,3.0
+09a17de1-f485-46d4-b4c8-461adc6ff142,Kaşarlı Tost,"10,00 TL",Tostlar,3.0
+f387115f-32d7-424f-b401-b3fb16a80388,Karışık Tost,"10,00 TL",Tostlar,3.0
+1a62571e-cfa8-43b8-9c97-970fdca4ba57,Beyaz Peynirli Köylüm Tost,"16,00 TL",Tostlar,1.0
+38489988-70c4-4ec3-8375-9c281d435479,Beyaz Peynirli Tost,"12,00 TL",Tostlar,1.0
+6245f3b8-9607-4f93-9420-bdaa211ec00b,Sosisli Sandviç,"10,00 TL",Sandviç & Ekmek Arası Ürünler,5.0
+4e2376f9-6d8f-4ec9-9bc4-d0158bb7fe06,Ekmek Arası Izgara Köfte,"15,00 TL",Sandviç & Ekmek Arası Ürünler,6.0
+22e95cb5-521d-4226-8ac1-a2ac9c5b58fb,Ekmek Arası Izgara Tavuk,"13,00 TL",Sandviç & Ekmek Arası Ürünler,4.0
+59a62ada-569a-4bb3-8898-2abaf030838a,Patso Sandviç,"12,00 TL",Sandviç & Ekmek Arası Ürünler,5.0
+2b70d226-fba8-44ca-9cb5-2adc624253d9,Sıcak Sandviç,"12,50 TL",Sandviç & Ekmek Arası Ürünler,4.0
+8e3f4425-fba7-4c68-8515-de65948977b8,Ekmek Arası Sucuklu Yumurta,"16,00 TL",Sandviç & Ekmek Arası Ürünler,4.0
+d80b745d-63e3-449d-8dc4-afd952e41352,Ekmek Arası Sucuk,"15,00 TL",Sandviç & Ekmek Arası Ürünler,1.0
+5f0f99f8-66f9-4743-8266-e40847120a8d,Sucuk & Kaşarlı Eritme Sandviç,"18,00 TL",Sandviç & Ekmek Arası Ürünler,2.0
+eeb033d1-86b7-448d-ab7f-6c336f15d146,Patates Kızartması,"7,00 TL",Yan Ürünler,3.0
+329f4beb-2c14-4a41-ac1d-bd3a10ea221f,Sosis Tava,"13,00 TL",Yan Ürünler,4.0
+e263454e-f2f8-45e9-ba56-9fe50bdbe9e0,Eker Kazandibi (150 gr.),"5,00 TL",Tatlılar,5.0
+84704af4-1bd3-4f41-8173-4d6df814fc5a,Eker Supangle (150 gr.),"5,00 TL",Tatlılar,5.0
+0894702f-d3d6-428a-8eaf-6eb084cea3f1,Eker Profiterol (150 gr.),"5,00 TL",Tatlılar,5.0
+80f0dfc3-46cc-443d-b04f-86a215971d7e,Taze Sıkma Portakal Suyu,"7,00 TL",İçecekler,5.0
+e5e5e06d-9489-4ae1-b524-d0c26e60173b,Taze Sıkma Nar Suyu,"10,00 TL",İçecekler,5.0
+3863236f-562b-413f-b4be-e0ff8642c442,Taze Sıkma Portakal & Nar Suyu,"9,00 TL",İçecekler,5.0
+26ef123b-b57e-4e50-bbec-0ecf363b0f71,Ketçap (9 gr.),"0,75 TL",Soslar,5.0
+69324a27-fa9a-4ba1-9485-6eb40cfc1b98,Poşet,"0,25 TL",Poşet,3.0

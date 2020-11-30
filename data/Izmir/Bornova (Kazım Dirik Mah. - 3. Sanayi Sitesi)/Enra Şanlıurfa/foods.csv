@@ -1,0 +1,49 @@
+food_id,food_name,food_price,food_category,food_score
+7ceab383-8bca-48df-a50f-d9780a3fda3c,Kestirmeli Çorbası,"22,00 TL",Çorbalar,5.0
+4040b89e-3690-468c-8473-e7102f6c6dc1,Terbiyeli Çorba,"22,00 TL",Çorbalar,5.0
+72af368d-885d-48b4-a145-fb9baa796387,Adana Kebap,"34,00 TL",Kebaplar & Izgaralar,12.0
+49b71ce0-b11b-45f7-8600-02b707a62ae6,Urfa Kebap,"34,00 TL",Kebaplar & Izgaralar,5.0
+888c7f1d-bfe8-41cb-9167-a0bd3fcccced,Kuzu Ciğer Şiş,"36,50 TL",Kebaplar & Izgaralar,5.0
+483df997-d7ac-4674-8ecc-fa4215feca89,Patlıcanlı Kebap,"38,00 TL",Kebaplar & Izgaralar,5.0
+85d7a4b1-cd40-441b-8c72-e8aaa5b55636,Kardelen Kebabı,"49,00 TL",Kebaplar & Izgaralar,5.0
+9a2a1e23-9ada-44fb-9fb5-08c0d39eda3e,Alinazik Kebap (Kuzu Şişten),"49,00 TL",Kebaplar & Izgaralar,5.0
+0f16986b-957f-4aa8-8eba-ebb2ada6e689,Tavuk Şiş,"34,00 TL",Kebaplar & Izgaralar,5.0
+9617411f-fc8c-4ab8-8482-8074d9e09d33,Domatesli Kebap,"39,00 TL",Kebaplar & Izgaralar,5.0
+49490c9f-5ea3-4b69-9a99-103b1c9482b1,Tavuk Kanat,"34,00 TL",Kebaplar & Izgaralar,5.0
+2b6d05a7-3b7c-493c-962c-ac95bc68f687,Beyti Kebap,"34,00 TL",Kebaplar & Izgaralar,5.0
+401449fc-a971-4d2f-a58c-e108e61f78fb,Sarma Beyti Kebap,"39,00 TL",Kebaplar & Izgaralar,5.0
+ed46bb66-5175-4514-a5fb-78211b1eef45,Altı Ezmeli Kebap,"39,00 TL",Kebaplar & Izgaralar,5.0
+c4a3d868-68bc-4dde-b3ac-262a1407962d,Şiribom Kebabı,"49,00 TL",Kebaplar & Izgaralar,5.0
+6886e770-cd49-46a5-af94-ed7e4cd0b496,Izgara Köfte,"32,00 TL",Kebaplar & Izgaralar,5.0
+a0de6d95-c8dc-4abc-9dfc-8eb9a5959f30,Kaşarlı Izgara Köfte,"34,00 TL",Kebaplar & Izgaralar,5.0
+86b402e0-0327-4a20-b3f9-922a902fd12b,Çöp Şiş,"39,00 TL",Kebaplar & Izgaralar,5.0
+fd2f499d-4898-492f-8726-cb8dff111f2e,Bonfile Şiş,"49,00 TL",Kebaplar & Izgaralar,5.0
+4b1a8da9-7cc5-4564-a064-b78f93bb17df,Karışık Kebap,"50,00 TL",Kebaplar & Izgaralar,7.0
+894fa9c3-8655-4653-8c00-4f00d21bf980,Vali Kebabı (2 Kişilik),"98,00 TL",Kebaplar & Izgaralar,5.0
+82f9e6c3-32ba-44b0-b77e-f67c098baa1a,Vali Kebabı (3 Kişilik),"145,00 TL",Kebaplar & Izgaralar,5.0
+6c099548-2eaa-4310-8d8b-e46aff800017,Vali Kebabı (4 Kişilik),"179,00 TL",Kebaplar & Izgaralar,5.0
+234804b5-a82a-4633-9d30-f78dec8d04a4,Lahmacun,"16,50 TL",Fırın Ürünleri,10.0
+659a2537-5a72-4068-ae6f-5c2337ec13d9,Fındık Lahmacun,"10,00 TL",Fırın Ürünleri,5.0
+a19f7e4c-3094-429e-918e-05b3e2787543,Kıymalı Pide,"23,00 TL",Fırın Ürünleri,5.0
+3904dbcc-e2eb-4609-80c7-20111dca4f98,Kıymalı Yumurtalı Pide,"24,00 TL",Fırın Ürünleri,5.0
+345737b8-1840-41b0-ab5f-eb4f57be70f2,Kaşarlı Pide,"23,00 TL",Fırın Ürünleri,5.0
+f7c01605-d0be-4f97-8505-6c864c6df472,Kıymalı Kaşarlı Pide,"24,00 TL",Fırın Ürünleri,5.0
+c9ee071c-38f4-4beb-8d04-2aef7af1b954,Kuşbaşılı Pide,"30,00 TL",Fırın Ürünleri,5.0
+967526ec-9702-4740-b3ef-0daf57faf278,Kuşbaşılı Kaşarlı Pide,"31,00 TL",Fırın Ürünleri,5.0
+bdbf4da5-5a33-4c88-bd50-21b989cfc605,Kaşarlı Yumurtalı Pide,"23,00 TL",Fırın Ürünleri,5.0
+e63cb07c-9048-4a27-b26b-0a98d8b24f39,Peynirli Yumurtalı Pide,"23,00 TL",Fırın Ürünleri,5.0
+3128585c-7688-4f87-a6a1-94ef62a3bf73,Karışık Pide,"32,00 TL",Fırın Ürünleri,7.0
+9d675a0a-cdf4-41da-bdca-9080c4c6c8bb,Tavuklu Mantarlı Pide,"24,00 TL",Fırın Ürünleri,5.0
+217decbf-0b16-4ae0-8a05-6b982994d091,Pilav Üstü Et Döner,"34,00 TL",Et Dönerler,5.0
+5ca99f4a-b066-4361-b067-db6280325150,Yoğurtlu İskender (Et Dönerden),"34,00 TL",Et Dönerler,5.0
+72375871-aa5a-408b-b71f-723548bbf804,Et Döner,"34,00 TL",Et Dönerler,5.0
+745feecf-9422-45cc-991d-8562805fad23,İskender (Et Dönerden),"34,00 TL",Et Dönerler,5.0
+8f40e754-446a-422b-960a-8bec7ce95f0f,Et Döner Dürüm,"22,00 TL",Et Dönerler,7.0
+2ce3f70d-ebfc-4f1f-a5f9-ea923e24379c,Adana Dürüm,"22,00 TL",Dürümler,9.0
+7b82d6de-9ac4-4796-a5e2-8aa3f53e02f5,Urfa Dürüm,"22,00 TL",Dürümler,7.0
+af6c7213-e4b7-40ac-8cb0-1bb38eb85b6c,Tavuk Şiş Dürüm,"20,00 TL",Dürümler,7.0
+16748deb-2b5e-4465-9149-153d9129061d,Sütlaç,"12,00 TL",Tatlılar,5.0
+48033af3-b931-497f-a0fc-68467ba46b42,Kazandibi,"12,00 TL",Tatlılar,5.0
+88a27b33-47ca-429e-983c-a8173e237bb3,Kaymaklı Künefe,"17,00 TL",Tatlılar,5.0
+ebefb695-f5da-4cd1-baf7-cb224d3b29a1,Künefe,"15,00 TL",Tatlılar,5.0
+c350a861-119d-43f3-981a-21ffb422b13d,Poşet,"0,25 TL",Poşet,5.0

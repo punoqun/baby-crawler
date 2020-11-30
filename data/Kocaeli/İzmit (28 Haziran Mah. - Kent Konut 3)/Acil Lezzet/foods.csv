@@ -1,0 +1,33 @@
+food_id,food_name,food_price,food_category,food_score
+3c7ccb67-6f22-4e1e-bf05-f7648894f268,Ayvalık Menü,"20,00 TL",Ekonomik Menüler,5.0
+eb67f492-eb03-4ada-b805-614a71086e64,Kumru Menü,"17,00 TL",Ekonomik Menüler,5.0
+c88ac864-5ef1-42c2-a8cf-c9f816457316,Hamburger Menü,"17,00 TL",Ekonomik Menüler,5.0
+8e71858b-4397-4586-9ac6-af8f6517a663,Goralı Menü,"17,00 TL",Ekonomik Menüler,5.0
+590fae69-9e9a-42e7-abb9-ee70c55f8fc7,Gözleme Menü,"12,00 TL",Ekonomik Menüler,5.0
+7a9130a5-fbd5-4714-8f21-fa8597618d82,Kumru Gözleme Menü,"14,00 TL",Ekonomik Menüler,5.0
+545fe7cb-8da2-4b96-8d1b-1eec0a57b27e,Tavuklu Kaşarlı Sandviç Menü,"17,00 TL",Ekonomik Menüler,5.0
+f1cc41c8-04e3-4c25-b8cc-9b0982e0da3c,Sosisli Menü,"14,00 TL",Ekonomik Menüler,5.0
+8acffb94-28da-4a36-91b8-81e5891b53b9,Patso Menü,"10,00 TL",Ekonomik Menüler,5.0
+70bfe95d-ebf2-4821-be91-4446208c3bc9,Sucuklu Patso Menü,"12,00 TL",Ekonomik Menüler,5.0
+481ad8cd-1e2a-4d29-b141-f022cb23f5ea,Köfte Ekmek Menü,"13,00 TL",Ekonomik Menüler,5.0
+2c4db8fc-c132-461f-ad60-7e382012cf9b,Tavuk Ekmek Menü,"12,00 TL",Ekonomik Menüler,5.0
+0f29c654-9acc-4fad-8589-cc6b6f40a4fd,Yengen Tost,"9,00 TL",Tostlar,5.0
+287b40f4-06e7-4cae-a32f-279d82377f6f,Ayvalık Tostu,"13,00 TL",Tostlar,10.0
+3889b48b-ae32-4d18-b611-2851fb986e4d,Kumru Gözleme,"13,00 TL",Gözlemeler,10.0
+8651b128-308a-4aae-872b-8a335c2b42e5,Kaşarlı Gözleme,"10,00 TL",Gözlemeler,5.0
+94c37d02-63e6-4ff5-84ca-a60386bab2ce,Kavurmalı Gözleme,"15,00 TL",Gözlemeler,5.0
+ff235c57-7b7e-425f-b990-f0839b2e93ec,Karışık Gözleme,"12,00 TL",Gözlemeler,5.0
+0c9f59c3-69ed-4eb8-85ef-805bab824812,Patso Sandviç,"7,00 TL",Sandviçler,10.0
+20620dc0-f815-4147-8e4e-a4762887c946,Sucuklu Patso Sandviç,"9,00 TL",Sandviçler,5.0
+80f6d3fe-972e-451e-92f6-2d92e45c4f92,Sosisli Sandviç,"8,00 TL",Sandviçler,5.0
+b84430c0-c074-4a3e-9ae2-1e205562980f,Kumru Sandviç,"12,00 TL",Sandviçler,5.0
+cb766ed3-0d1c-4fd7-84cf-fa9bd8c627aa,Goralı Sandviç,"9,00 TL",Sandviçler,5.0
+e79a4c85-a199-432e-bb35-3ad08aeec560,Tavuklu Kaşarlı Sandviç,"12,00 TL",Sandviçler,5.0
+afe902cb-242f-49d1-b7e5-f07d158ace14,Tavuk Burger,"7,00 TL",Burgerler,5.0
+c2334995-d504-4288-82d0-b6f69ff1af24,Hamburger,"9,00 TL",Burgerler,5.0
+20cd26e9-18fc-4a2c-a410-a2c6914898a7,Köfte Ekmek,"12,00 TL",Ekmek Arası Ürünler,5.0
+36574662-0d4f-49b0-98ad-ea26c706d1a0,Tavuk Ekmek,"10,00 TL",Ekmek Arası Ürünler,5.0
+89ea66ec-3e03-45dc-bb1b-a0d791e7ec2c,Coac-Cola (1 L.),"7,00 TL",İçecekler,5.0
+870b5447-8bb4-49f0-9474-bdd0cacde6cd,Coac-Cola Light (1 L.),"7,00 TL",İçecekler,5.0
+8f6cd27e-60aa-4a20-a215-72de653cc065,Coac-Cola Şekersiz (1 L.),"7,00 TL",İçecekler,5.0
+06c44e72-99ba-494e-ad0d-179e370321f7,Poşet,"0,25 TL",Poşet,5.0

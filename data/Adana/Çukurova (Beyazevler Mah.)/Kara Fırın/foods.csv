@@ -1,0 +1,82 @@
+food_id,food_name,food_price,food_category,food_score
+B9A3B9A2-87FB-4BE6-8339-5ED3EBDC0FE9,Pizza Poğaça,"6,00 TL",Poğaçalar & Açmalar,8.0
+98A23906-529A-4CD8-859F-BE937570A6C0,Acılı Pizza,"3,00 TL",Poğaçalar & Açmalar,5.0
+ED200183-69F7-4B22-A3B6-29645C78237A,Sakallı Poğaça,"2,00 TL",Poğaçalar & Açmalar,8.0
+2a81a15e-8a8b-4d0e-9492-3401f77998e8,Kaşarlı Açma,"3,50 TL",Poğaçalar & Açmalar,7.0
+fb3714f3-d0d0-46f7-96d8-d5cd39d8bda6,Peynirli Açma,"3,50 TL",Poğaçalar & Açmalar,5.0
+1479e84c-9246-4bdc-b958-dd2ec473fad0,Zeytinli Açma,"3,50 TL",Poğaçalar & Açmalar,4.0
+37ecba57-f576-4008-add3-40f7ece4b797,Sosisli Açma,"3,50 TL",Poğaçalar & Açmalar,4.0
+15005e86-fcfb-4fea-9ac8-1288aa9f24ff,Kaşarlı Sosyete Poğaçası,"1,00 TL",Poğaçalar & Açmalar,6.0
+7dae43b5-c835-4c0d-a48d-1fed55850932,Peynirli Sosyete Poğaçası,"1,00 TL",Poğaçalar & Açmalar,4.0
+3057b9e8-9fcd-465a-8e88-52f9c771d538,Zeytinli Sosyete Poğaçası,"1,00 TL",Poğaçalar & Açmalar,3.0
+42b97d51-381d-4b19-8982-bd71114d6b63,Dereotlu Sosyete Poğaçası,"1,00 TL",Poğaçalar & Açmalar,4.0
+444dc4af-3e98-47c2-a20d-cfe2948d2177,Sosisli Sosyete Poğaçası,"1,00 TL",Poğaçalar & Açmalar,8.0
+5767ccec-8142-42fe-9e5b-09d67bf3eaf2,Simit,"2,00 TL",Poğaçalar & Açmalar,11.0
+0057b0a8-af2e-40f3-ac3d-d6702ccce2ff,Tereyağlı Simit,"2,50 TL",Poğaçalar & Açmalar,9.0
+DEEA3D27-4384-4DA1-8831-72AC8E763C6A,Sandviç,"8,00 TL",Poğaçalar & Açmalar,5.0
+2f9fa1d4-2a90-4119-8e97-034b3ada42fe,Kaşarlı Sıkma,"3,00 TL",Sıkmalar,6.0
+4d0f3bd8-78aa-40d0-82b1-b1406c2ef7bc,Peynirli Sıkma,"3,00 TL",Sıkmalar,-1.0
+e1fc4763-a745-4172-b58d-f3e3aadb7035,Patatesli Sıkma,"3,00 TL",Sıkmalar,-2.0
+ecf8aa32-c65b-4311-a6fe-39508e3724d6,Ispanaklı Sıkma,"3,00 TL",Sıkmalar,1.0
+E0152EB0-7374-493E-92F2-3757340237E6,Boş Yağlı Sıkma,"2,00 TL",Sıkmalar,-1.0
+A6435517-F557-46FE-973A-C0A35B0EFE1C,Peynirli Soğanlı Sıkma,"3,00 TL",Sıkmalar,-1.0
+be31f35c-4eb0-426d-80cc-a7aeb33ef5e3,Peynirli Su Böreği,"10,00 TL",Börekler,7.0
+5B4A6BDA-6D26-473C-B3A8-F1E6079B5DE3,Peynirli Soğanlı Börek,"6,00 TL",Börekler,7.0
+0171EBF1-77AE-487F-A575-65B9EC0EFE4F,Pizza malzemeli Sigara Böreği,"2,50 TL",Börekler,5.0
+c9ec37e0-6a8b-4466-b215-573538fca488,Peynirli Sigara Böreği,"2,50 TL",Börekler,5.0
+de2d3e92-337e-41e8-b034-a436bc0056d7,Patatesli Sigara Böreği,"2,50 TL",Börekler,4.0
+0c4ed7c7-0ee6-4829-aa47-6ef63fa4ea38,Peynirli D Börek,"6,00 TL",Börekler,8.0
+a84544c6-0121-4035-b232-96f31d08c3d2,Kaşarlı D Börek,"6,00 TL",Börekler,10.0
+c4af8289-f58e-4f0e-8c3e-7a4c4e541195,Patatesli D Börek,"6,00 TL",Börekler,7.0
+1f0589d4-9c3a-405c-83dd-a6a0057f9291,Ispanaklı D Börek,"6,00 TL",Börekler,10.0
+2c88563a-3696-449f-a5e0-d688dc2a9133,Ispanaklı Tepsi Böreği (Dilim),"3,00 TL",Börekler,7.0
+28a31d67-d372-4b11-b7be-5fc6cec072f3,Patatesli Gözleme,"8,00 TL",Gözlemeler,2.0
+6e2401a6-e28e-4a09-821a-4b4d8e2da64c,Peynirli Gözleme,"8,00 TL",Gözlemeler,3.0
+bb3741ac-ffcd-4e81-9454-190ed404ccea,Ispanaklı Gözleme,"8,00 TL",Gözlemeler,5.0
+f461892c-c22d-4133-a4de-352c78ef9b04,Kaşarlı Gözleme,"8,00 TL",Gözlemeler,5.0
+fdf3159c-8809-4fbf-bda0-96b71c4fd31f,Karışık Gözleme,"10,00 TL",Gözlemeler,4.0
+A9BE4466-19F3-4421-BD2B-F9823E34D826,Peynirli Soğanlı Gözleme,"8,00 TL",Gözlemeler,3.0
+206c2e02-c9dd-44d3-88f8-5ce5e8544e83,Çikolatalı Pasta (6 Kişilik),"45,00 TL",Pastalar (6 Kişilik),8.0
+acf05d92-8db7-4df4-82b9-eed4ea73daad,Frambuazlı Pasta (6 Kişilik),"45,00 TL",Pastalar (6 Kişilik),7.0
+172907AC-375F-440F-B8F9-E8BFFE1D323E,Meyveli Pasta (6 Kişilik),"45,00 TL",Pastalar (6 Kişilik),7.0
+0b24b6f3-468a-4fb5-ab67-8c53c85451eb,Frambuazlı Pasta (8 Kişilik),"55,00 TL",Pastalar (8 Kişilik),7.0
+97bc55c8-b26d-4899-89f4-89493848f686,Çikolatalı Pasta (8 Kişilik),"55,00 TL",Pastalar (8 Kişilik),8.0
+6494106C-AE2A-48DE-B405-9C9B526C0992,Meyveli Pasta (8 Kişilik),"55,00 TL",Pastalar (8 Kişilik),7.0
+387e790d-0855-42fa-8344-4787e7eabb81,Frambuazlı Pasta (12 Kişilik),"65,00 TL",Pastalar (12 Kişilik),7.0
+815248b2-acf0-40ca-8bc6-a127d1b4f29b,Çikolatalı Pasta (12 Kişilik),"65,00 TL",Pastalar (12 Kişilik),8.0
+FC01F04C-C7A4-41EC-A3AF-6C9DDB0DF80C,Meyveli Pasta (12 Kişilik),"65,00 TL",Pastalar (12 Kişilik),7.0
+38ac0295-0437-497d-b1c3-a7c31bfcc1d4,Portakallı Kek (Dilim),"4,00 TL",Dilim Pastalar,5.0
+5d8f2baf-ca3c-43b8-bed9-d09b844a3669,Çikolatalı Pasta (Dilim),"15,00 TL",Dilim Pastalar,8.0
+910c28a8-1c4e-419f-b81e-ed76768e08d7,Frambuazlı Pasta (Dilim),"15,00 TL",Dilim Pastalar,7.0
+b5eefb75-4ec6-45a1-9ba1-4b8487adf9d0,Çikolatalı Cupcake,"5,00 TL",Dilim Pastalar,6.0
+BD073435-AB92-417F-A908-588B392948B8,Meyveli Pasta (Dilim),"15,00 TL",Dilim Pastalar,7.0
+2eec7fa3-732f-4732-8b94-8803c6029938,Karamelli Trileçe,"7,50 TL",Tatlılar,5.0
+51b6eea9-9e8a-485e-99bc-dde05847e69d,Ekler (Adet),"2,50 TL",Tatlılar,5.0
+52612833-1b8e-492f-947d-58f5f3930b4d,Profiterol (Tabakta),"6,00 TL",Tatlılar,5.0
+5a711d4a-cb5b-4044-9be7-8b5edb053797,Profiterol (Bardakta),"4,00 TL",Tatlılar,5.0
+9994e454-b4e1-4b93-90e5-07ea928a9d20,Çikolatalı Makaron,"3,00 TL",Tatlılar,6.0
+bced3681-20fa-4693-9faa-0b513267b3a2,İzmir Bomba,"3,00 TL",Tatlılar,5.0
+f2c64efc-5573-47d2-88dd-d87ab5fca8fa,Çikolatalı Islak Kek,"5,00 TL",Tatlılar,6.0
+F9424301-6B48-4700-A2A9-0BE9B954A2FF,Çilekli Makaron,"3,00 TL",Tatlılar,5.0
+2047C955-A7A9-42D7-95A6-284AEC8F8DB2,Limonlu Makaron,"3,00 TL",Tatlılar,5.0
+E5FEA051-0428-48C0-8C94-3B0D9FC44433,Beyaz Çikolatalı İzmir Bomba,"3,00 TL",Tatlılar,5.0
+F43C3428-BAE3-4F17-A38E-F9BBB14E193F,Mini Çilekli Tartolet,"2,00 TL",Tatlılar,5.0
+3188bc47-fc78-46d6-a1da-423465d0b84d,Çubuk Galeta,"4,00 TL",Diğer Lezzetler,5.0
+d3042e4c-3ef1-453c-8c5a-996a6a0946ee,Sade Yaprak Galeta,"6,00 TL",Diğer Lezzetler,6.0
+4132941e-e146-40dc-b1ed-74a3dd8ba300,Üçgen Peynir,"1,50 TL",Yan Ürünler,7.0
+cd2f59d0-aa61-4494-986a-f97f75516dc5,Mini Krem Peyniri,"2,00 TL",Yan Ürünler,5.0
+e8db6ace-0d59-44cc-abbe-9399ac6bc31e,Mini Labne Peyniri,"2,00 TL",Yan Ürünler,5.0
+c91fe3bd-e5a9-49f0-b93f-fa3d0a8851be,Türk Kahvesi (250 gr.),"20,00 TL",Paket Kahveler,5.0
+ee50aa64-81f6-4d11-89b4-92d30de6de0b,Türk Kahvesi (1 kg.),"80,00 TL",Paket Kahveler,5.0
+040abed3-27c7-4bf3-bb04-66f80aaaca9f,Zeytinli Sosyete Poğaçası (1 kg.),"30,00 TL",Kiloluk Ürünler,3.0
+108cddd7-4b12-419f-bc47-e13acbc5a76a,Dereotlu Sosyete Poğaçası (1 kg.),"30,00 TL",Kiloluk Ürünler,4.0
+39e5186d-dee2-428d-bc74-fb6d4b634412,Ispanaklı Tepsi Böreği (1 kg.),"45,00 TL",Kiloluk Ürünler,7.0
+5dfeeb76-a6a9-4a79-99a3-b2977eec7073,Peynirli Sosyete Poğaçası (1 kg.),"30,00 TL",Kiloluk Ürünler,4.0
+5fdf332f-0cb9-4947-91c6-12d2c01c508a,Kaşarlı Sosyete Poğaçası (1 kg.),"30,00 TL",Kiloluk Ürünler,6.0
+b2611f88-ef28-43de-a4b4-f748860f62b4,Peynirli Su Böreği (1 kg.),"40,00 TL",Kiloluk Ürünler,7.0
+c9397086-a683-44fb-8927-e11b60e30180,Sosisli Sosyete Poğaçası (1 kg.),"30,00 TL",Kiloluk Ürünler,3.0
+76360906-3AD5-44B1-BC16-116004B14587,Bal Badem Tatlısı (500 gr.),"20,00 TL",Kiloluk Tatlılar,5.0
+436ce071-0391-4956-b566-5dbb22ec2859,Tuzlu Kurabiye (500 gr.),"20,00 TL",Kiloluk Kurabiyeler,5.0
+86a6665b-26ef-4f37-9c31-b26ee554a02c,Spesiyal Tatlı Kurabiye (500 gr.),"25,00 TL",Kiloluk Kurabiyeler,7.0
+af900b32-75b9-411e-855b-37eac88b6692,Tatlı Kurabiye (500 gr.),"20,00 TL",Kiloluk Kurabiyeler,7.0
+eea86d6c-8aa0-433e-9fae-9a093bf42544,Poşet,"0,25 TL",Poşet,5.0

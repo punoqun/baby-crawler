@@ -1,0 +1,28 @@
+food_id,food_name,food_price,food_category,food_score
+a24af824-f6ac-4cd7-b5c4-81188444ff30,Jumbo Urfa Dürüm Menü,"30,00 TL",Menüler,2.0
+6ea36798-95e4-438a-b81f-d593cbc55311,Jumbo Tavuk Şiş Dürüm Menü,"27,00 TL",Menüler,4.0
+d8ec9288-c319-48a2-a485-66740a2f8018,Jumbo Adana Dürüm Menü,"30,00 TL",Menüler,-1.0
+345d2d2c-e64e-4473-96b0-49069ec41b29,Adana Kebap,"25,00 TL",Kebaplar & Izgaralar,2.0
+9e684221-2bab-43f0-b9c3-efa4f0e7732f,Urfa Kebap,"25,00 TL",Kebaplar & Izgaralar,5.0
+75e3c403-abe5-42a5-a664-612acb2656b5,Patlıcanlı Kebap,"40,00 TL",Kebaplar & Izgaralar,5.0
+e88a254a-c796-4e6c-a354-e20e2e44009b,Domatesli Kebap,"34,00 TL",Kebaplar & Izgaralar,5.0
+9435a7f4-9176-41ac-9eea-98861d2fe09c,Tavuk Şiş,"20,00 TL",Kebaplar & Izgaralar,12.0
+1a307191-4ea4-4c19-8254-6cdb45246220,Izgara Köfte,"25,00 TL",Kebaplar & Izgaralar,3.0
+6fa342d4-c534-4130-b583-f58e21f7b17f,Karışık Kebap (1 Kişilik),"40,00 TL",Kebaplar & Izgaralar,5.0
+70d5f662-63a0-4231-b2d3-32d9ce24a986,Karışık Kebap (2 Kişilik),"80,00 TL",Kebaplar & Izgaralar,5.0
+f33994e5-6e68-4212-8335-d4197ff89ed7,Adana Dürüm,"14,00 TL",Dürümler,5.0
+2c5cf603-fc3a-4e92-986d-30ff36694b26,Urfa Dürüm,"14,00 TL",Dürümler,8.0
+e6de44ca-747d-40f0-bf6c-50d77a770e41,Tavuk Şiş Dürüm,"10,00 TL",Dürümler,5.0
+f59600d6-7753-4ff1-9512-5820e409adbc,Et Çöp Şiş Dürüm,"18,00 TL",Dürümler,3.0
+2847efbf-2700-48b2-a5c4-182596623904,Yarım Ekmek Arası Köfte,"10,00 TL",Ekmek Arası Ürünler,3.0
+914ec13c-be04-4575-b7b5-e56bc238d888,Tam Ekmek Arası Köfte,"25,00 TL",Ekmek Arası Ürünler,3.0
+AB49F357-47D6-4EC9-A191-23D8266A6E4B,Ezme Salata,"13,00 TL",Yan Ürünler,3.0
+0fb50d44-2a9f-43d6-b8a1-0e3c8cbb173e,Çoban Salata,"5,00 TL",Salatalar,3.0
+3b1faa27-d148-4d20-b5ff-7e068c2770fa,Mevsim Salata,"5,00 TL",Salatalar,3.0
+91e5b8be-893d-4f4b-a88a-301a7b870243,Fırın Sütlaç,"9,00 TL",Tatlılar,3.0
+b3f8bca9-05b9-4751-bf5c-38ff4e5f6593,Adana Kebap (1 kg.),"135,00 TL",Kiloluk Ürünler (Pişirilmiş),2.0
+99cbc29b-cccb-4eea-8af8-5dce49054cf5,Urfa Kebap (1 kg.),"135,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+9e99f2a0-17b7-40ba-9209-3b37c6938d3b,Ciğer Şiş (1 kg.),"150,00 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+47e333b6-20dd-42df-92bb-017719af7222,Çöp Şiş (1 kg.),"170,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+4384efcd-7575-4558-b623-a9fc06742688,Karışık Tavuk (1 kg.),"90,00 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+e617e9a2-61f2-4088-9a4b-35d47f7a8397,Poşet,"0,25 TL",Poşet,5.0

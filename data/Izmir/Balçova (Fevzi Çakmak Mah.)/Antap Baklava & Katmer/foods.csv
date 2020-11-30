@@ -1,0 +1,75 @@
+food_id,food_name,food_price,food_category,food_score
+0f2b14b8-8ddd-4637-b0c9-b100ad9bdead,Şöbiyet (2 Adet),"15,00 TL",Baklavalar,5.0
+149d793e-3cb4-4e32-b66c-09a634d0561b,Fıstık Sarma (3 Adet),"12,00 TL",Baklavalar,6.0
+31a66cec-bfce-4faa-8595-c3cec6797447,Sütlü Nuriye (3 Adet),"18,00 TL",Baklavalar,5.0
+3a56dda4-e335-4259-8f19-adfe1720ecad,Kuru Baklava (2 Adet),"15,00 TL",Baklavalar,10.0
+3cd2153d-613a-4798-af35-984ac5b900d0,Cevizli Baklava,"12,00 TL",Baklavalar,9.0
+815aafc1-9fc9-40ba-a1b1-c374f972c3c4,Fıstıklı Baklava (3 Adet),"16,50 TL",Baklavalar,9.0
+9f827310-48cc-4c19-ad7f-c317143c1e1a,Özel Baklava (2 Adet),"15,00 TL",Baklavalar,9.0
+f40bdb3c-2179-41c4-8486-5d4c783b193e,Ev Baklavası (3 Adet),"15,00 TL",Baklavalar,6.0
+faaefcf9-8b44-4d81-a0de-f853a3ad5fc1,Havuç Dilim Baklava (Adet),"16,00 TL",Baklavalar,11.0
+7F8A2218-B3CF-4891-9BE2-77F226717673,Ege İncisi (Adet),"7,50 TL",Baklavalar,5.0
+9C4039CA-36DA-42F5-93C8-A45229DC7058,Fıstıklı Açık Şöbiyet (Adet),"8,00 TL",Baklavalar,5.0
+DFEEF453-BF87-419C-A8BD-9D85FC2EA95D,Midye Baklava (2 Adet),"15,00 TL",Baklavalar,9.0
+F2539E0C-0FBE-4B9D-8C8B-798B2836EAA4,Sütlü Çikolatalı Fıstıklı Baklava (3 Adet),"15,00 TL",Baklavalar,9.0
+B6CB8499-CE57-4AFD-AD35-E1AC5636F354,Prenses Baklava (Dilim),"3,00 TL",Baklavalar,9.0
+23e23ae1-9bd6-4e17-9524-a654f83e2507,Burma Kadayıf (2 Adet),"12,00 TL",Tatlılar,5.0
+3171d633-c609-47cb-8e2b-5f70acfd66d1,Fıstıklı Kadayıf,"13,00 TL",Tatlılar,5.0
+d1337e45-8d47-440b-b6fe-689e03ad921f,Katmer Tatlısı (Adet),"45,00 TL",Tatlılar,13.0
+585ca830-ecf6-4177-bdda-17dd5f6151b5,Cevizli Kadayıf,"10,00 TL",Tatlılar,5.0
+64E78750-03DA-4E07-8680-1A5953CA5CAC,Susamlı Antep Kahkesi (200 gr.),"12,00 TL",Diğer Lezzetler,5.0
+99424DCB-5158-4DDC-B5D9-399197EA5FC5,Antep Köy Kahkesi (200 gr.),"12,00 TL",Diğer Lezzetler,5.0
+245EF70A-ACA7-447C-9A25-F4AA136B2B28,Niğde Gazozu (22 cl.),"5,00 TL",İçecekler,5.0
+69270520-78f7-427c-aac8-21b3be34306e,Su Böreği (1 kg.),"50,00 TL",Kiloluk Börekler,5.0
+55E896FC-6B3D-4961-9225-1A3468C2800D,Susamlı Antep Kahkesi (1 kg.),"50,00 TL",Kiloluk Ürünler,5.0
+76357A0F-AFA0-49FC-B78C-49A82AFAFA5F,Antep Köy Kahkesi (1 kg.),"50,00 TL",Kiloluk Ürünler,5.0
+0F481316-910C-4DBE-A9DB-519E0524E2BF,Sade Dondurma (1 kg.),"50,00 TL",Kiloluk Ürünler,6.0
+D82BA0E9-3FFF-4E53-94AF-46E77B45FF5B,Kakaolu Dondurma (1 kg.),"50,00 TL",Kiloluk Ürünler,6.0
+74FFF1A9-5044-4F4D-A53E-44048F386E5E,Karadut Dondurma (1 kg.),"50,00 TL",Kiloluk Ürünler,6.0
+D5F67B9A-05CF-4906-8265-6AD4577493B8,Mavi Düş Dondurma (1kg),"50,00 TL",Kiloluk Ürünler,6.0
+C2C29BB5-6442-47D4-9CB7-B4AB2CBEC467,Karışık Meyve Dondurma (1 kg.),"50,00 TL",Kiloluk Ürünler,6.0
+FBDC6799-75AA-439C-8ED0-C7BAFF9B9B24,Kalorisiz Diyet Dondurma (1 kg.),"50,00 TL",Kiloluk Ürünler,6.0
+EEA6D22C-97BB-4703-A007-0B38B7BA7271,Antep Fıstıklı Dondurma (1 kg.),"60,00 TL",Kiloluk Ürünler,6.0
+9C85A3FA-3492-486B-B2CE-6BDFAE0C08F3,Sade Dondurma (500 gr.),"25,00 TL",Kiloluk Ürünler,11.0
+A915B48C-FCE8-4CED-B547-480434B8D48C,kakaolu Dondurma (500 gr.),"25,00 TL",Kiloluk Ürünler,6.0
+AE8C88E9-58DF-4930-93B0-79F692C9D103,Karadut Dondurma (500 gr.),"25,00 TL",Kiloluk Ürünler,6.0
+72E71D10-DF7C-4DB5-BD56-536A0CD8FF73,Mavi Düş Dondurma (500 gr.),"25,00 TL",Kiloluk Ürünler,6.0
+39AA1DC0-040A-434F-B431-251435CDE98D,Karışık Meyveli Dondurma (500 gr.),"25,00 TL",Kiloluk Ürünler,6.0
+189175AB-200A-4AA1-868C-DA9DDB330315,Kalorisiz Diyet Dondurma (500 gr.),"25,00 TL",Kiloluk Ürünler,6.0
+BF53A15D-69B9-49D5-8D64-CD0E7A59840D,Antep Fıstıklı Dondurma (500 gr.),"30,00 TL",Kiloluk Ürünler,6.0
+C1B84585-D24E-4080-BAAE-828DAB36A88C,Açık Şöbiyet (500 gr.),"65,00 TL",Kiloluk Tatlılar,5.0
+7ed170a5-37ad-4e4e-beb6-a2b650921721,Burma Kadayıf (1 kg.),"90,00 TL",Kiloluk Tatlılar,5.0
+E56F3FA2-883C-431A-A788-AA8E5668AD0B,Burma Kadayıf (500 gr.),"45,00 TL",Kiloluk Tatlılar,5.0
+b6ec4b1d-fbc7-478c-8d44-9b922917048a,Cevizli Baklava (1 kg.),"75,00 TL",Kiloluk Tatlılar,9.0
+3BF552C6-0F6B-4BE2-B991-DEE921C43937,Cevizli Baklava (250 gr.),"23,00 TL",Kiloluk Tatlılar,9.0
+78036F6A-314E-4509-9BFA-DFBEC6A30552,Cevizli Baklava (500 gr.),"40,00 TL",Kiloluk Tatlılar,9.0
+0E6573DB-46CD-4615-8B2F-DE3523916B46,Cevizli Ev Baklavası (250 gr.),"25,00 TL",Kiloluk Tatlılar,6.0
+97E1845B-A663-4B72-A374-3445CC1681C3,Cevizli Ev Baklavası (500 gr.),"45,00 TL",Kiloluk Tatlılar,6.0
+0A4492FE-74B4-4F98-9633-A9F4A5BEAFB6,Cevizli Kadayıf (1 kg.),"70,00 TL",Kiloluk Tatlılar,5.0
+6E21A1E4-C82D-4BB0-B467-D436CD7BE692,Cevizli Kadayıf (500 gr.),"35,00 TL",Kiloluk Tatlılar,5.0
+4283BDF8-F597-4C9F-92FC-BBAAD6E2F3D4,Ege İncisi (1 kg.),"125,00 TL",Kiloluk Tatlılar,5.0
+E5E63904-835A-443D-96C9-6804430EA568,Ege İncisi (500 gr.),"65,00 TL",Kiloluk Tatlılar,5.0
+07c19120-1479-41d5-bc9a-2d8069a0d05b,Ev Baklavası (1 kg.),"80,00 TL",Kiloluk Tatlılar,6.0
+240b14e6-9f12-42a7-be99-a5e6b8adb8ee,Fıstık Sarma (1 kg.),"135,00 TL",Kiloluk Tatlılar,6.0
+952DCC7D-2734-49C5-A9D1-251BD2E1AA2D,Fıstık Sarma (500 gr.),"70,00 TL",Kiloluk Tatlılar,6.0
+0BFF6C4F-7311-40DD-A22D-C1A73F9C9573,Fıstıklı Açık Şöbiyet (1 kg.),"125,00 TL",Kiloluk Tatlılar,5.0
+54872de6-8ff9-4585-96d5-b4b68fdd3e81,Fıstıklı Baklava (1 kg.),"100,00 TL",Kiloluk Tatlılar,9.0
+A1F923FB-B87E-40C9-BD6A-AF9A8EABDE4F,Fıstıklı Baklava (250 gr.),"30,00 TL",Kiloluk Tatlılar,9.0
+C58BC599-0524-41B0-B5EA-3D18857D0D03,Fıstıklı Baklava (500 gr.),"55,00 TL",Kiloluk Tatlılar,9.0
+58f19e1d-95dd-4cee-8d89-a18f0aa4db25,Fıstıklı Kadayıf (1 kg.),"100,00 TL",Kiloluk Tatlılar,5.0
+221CC531-7581-463B-B4EE-3A36B8B38DCB,Fıstıklı Kadayıf (500 gr.),"50,00 TL",Kiloluk Tatlılar,10.0
+4098C103-9B73-490F-90EA-9826024787BF,Fıstıklı Kuru Baklava (500 gr.),"60,00 TL",Kiloluk Tatlılar,10.0
+C619E78B-ABD1-412F-BCF0-B3920ACCA4AD,Havuç Dilim (500 gr.),"55,00 TL",Kiloluk Tatlılar,7.0
+b3044fd8-4cde-4fff-801d-40dc60ef8591,Havuç Dilim Baklava (1 kg.),"100,00 TL",Kiloluk Tatlılar,11.0
+9942678f-959d-4d59-b9fa-124cdf3b9876,Kuru Baklava (1 kg.),"110,00 TL",Kiloluk Tatlılar,10.0
+DF78238D-9486-423A-9512-54703F287762,Midye Baklava (1 kg.),"125,00 TL",Kiloluk Tatlılar,9.0
+855D9684-0649-45F5-A433-F5EEB24B1B4F,Prenses Baklava (1 kg.),"110,00 TL",Kiloluk Tatlılar,9.0
+8b094a3a-f685-452e-bdec-3ec00c34e4f3,Prenses Baklava (250 gr.),"30,00 TL",Kiloluk Tatlılar,9.0
+A5D47C81-E16D-48EA-82AC-66EDE63B2042,Prenses Baklava (500 gr.),"60,00 TL",Kiloluk Tatlılar,9.0
+93c27586-4161-4bda-b92f-431573c7b2b1,Şöbiyet (1 kg.),"100,00 TL",Kiloluk Tatlılar,5.0
+6EBD6333-0FDE-4E2C-B25A-26FA512CD89E,Şöbiyet (500 gr.),"55,00 TL",Kiloluk Tatlılar,5.0
+E7BF45A8-BAAD-4ED7-B5DC-BBF7B9FBAA74,Sütlü Çikolatalı Fıstıklı Baklava (1 kg.),"85,00 TL",Kiloluk Tatlılar,9.0
+16686B3C-A56F-46AA-A897-91482701A376,Sütlü Çikolatalı Fıstıklı Baklava (500 gr.),"45,00 TL",Kiloluk Tatlılar,9.0
+40DB9166-4A9E-4062-8985-F30A20453EF1,Sütlü Nuriye (1 kg.),"90,00 TL",Kiloluk Tatlılar,5.0
+08A6D146-D389-4DB5-B0A8-4DD5BC3C3F93,Sütlü Nuriye (500 gr.),"45,00 TL",Kiloluk Tatlılar,5.0
+655171be-db9e-4413-8ffe-423bec5fd160,Poşet,"0,25 TL",Poşet,5.0

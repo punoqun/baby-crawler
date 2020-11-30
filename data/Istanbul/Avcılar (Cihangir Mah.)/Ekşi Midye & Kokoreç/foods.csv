@@ -1,0 +1,23 @@
+food_id,food_name,food_price,food_category,food_score
+0bd47195-2ec5-4419-8e56-7643c76ff2fe,Yarım Ekmek Arası Kokoreç,"17,00 TL",Kokoreçler,15.0
+a0addaa1-2365-4eb5-bee2-1da12ae6feef,3/4 Ekmek Arası Kokoreç,"24,00 TL",Kokoreçler,15.0
+a1b2bca9-6ba9-4338-bd3b-e4e0fab975b7,Tam Ekmek Arası Kokoreç,"32,00 TL",Kokoreçler,10.0
+a360b936-eeb7-4c72-ad09-44051ceb4c03,Çeyrek Ekmek Arası Kokoreç,"11,00 TL",Kokoreçler,10.0
+6a511e07-de17-4984-84b3-803a8f565b69,Çeyrek Ekmek Arası İzmir Kokoreç,"14,00 TL",İzmir Usulü Kokoreçler,12.0
+9f4059a6-e1d4-4b3f-aa01-2b8611cca130,Yarım Ekmek Arası İzmir Kokoreç,"25,00 TL",İzmir Usulü Kokoreçler,12.0
+efc347c4-8dd6-49c9-a461-6e5e25ebc8f3,3/4 Ekmek Arası İzmir Kokoreç,"32,00 TL",İzmir Usulü Kokoreçler,12.0
+963c6f79-c916-41b9-b55d-f5ee5ac8fddb,Midye Tava,"25,00 TL",Midyeler,8.0
+26b5a75d-4f0d-459d-9083-c10f5c77d4ff,Çeyrek Ekmek Arası Midye Tava,"11,00 TL",Midyeler,9.0
+c20e2dd8-a96c-405a-9935-7931618054ab,Yarım Ekmek Arası Midye Tava,"17,00 TL",Midyeler,9.0
+7c25df3d-085c-44e0-856a-8730fab7ef3f,Midye Dolma (Adet),"1,50 TL",Midyeler,13.0
+0dcd90ab-1d2a-4df2-92e8-fa6293ed6a1c,Midye Dolma (12 Adet),"18,00 TL",Midyeler,8.0
+5f9a9ec6-11fe-42b1-b309-827328264894,Kova Midye Dolma (20 Adet),"30,00 TL",Midyeler,8.0
+5cfbd141-28cd-4b94-a4a9-0b0f8221a85c,Çeyrek Ekmek Arası Izgara Köfte,"11,00 TL",Köfteler,4.0
+f96df9df-148b-4fd1-8e1b-98be9f6c962d,Yarım Ekmek Arası Izgara Köfte,"17,00 TL",Köfteler,4.0
+ba3e61c4-32c4-4453-ba04-ccb128172324,3/4 Ekmek Arası Izgara Köfte,"24,00 TL",Köfteler,4.0
+6303556b-3e4d-4e5d-a3a8-c1064e426806,Tam Ekmek Arası Izgara Köfte,"32,00 TL",Köfteler,4.0
+27c96e57-9633-46f6-992d-f77020a80125,Çeyrek Ekmek Arası Izgara Sucuk,"11,00 TL",Sucuklar,6.0
+8cdf838b-8d11-461c-bd40-253a3dee4907,Yarım Ekmek Arası Izgara Sucuk,"17,00 TL",Sucuklar,6.0
+c8f35526-7b25-4059-9732-49982a892423,3/4 Ekmek Arası Izgara Sucuk,"24,00 TL",Sucuklar,6.0
+1f0ee646-3036-4e39-a343-1b9554fd1a4a,Tam Ekmek Arası Izgara Sucuk,"32,00 TL",Sucuklar,6.0
+c79816a6-3496-4bb5-8395-3529743f4203,Poşet,"0,25 TL",Poşet,5.0

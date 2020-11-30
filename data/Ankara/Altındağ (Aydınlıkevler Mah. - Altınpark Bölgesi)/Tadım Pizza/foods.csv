@@ -1,0 +1,35 @@
+food_id,food_name,food_price,food_category,food_score
+487dd250-1132-42e9-82ec-66cf2e16afb1,Orta Boy Pizza Menü,"33,90 TL",Ekonomik Menüler,8.0
+f00ba7e4-b877-48db-bd40-073adc6da71a,Büyük Boy Pizza Menü,"41,90 TL",Ekonomik Menüler,6.0
+414785f7-8418-4b68-b2b6-dd62cc6d3258,2 Büyük Boy Pizza Menü,"66,90 TL",Ekonomik Menüler,8.0
+0964791d-7600-48a8-ba45-4de143bf584f,Sebzeli Pizza (Küçük),"23,90 TL",Küçük Boy Pizzalar (23 cm.),6.0
+76c5a3cc-65ac-4ab4-82c6-32b917eb7672,Mantarlı Pizza (Küçük),"23,90 TL",Küçük Boy Pizzalar (23 cm.),6.0
+644e77bb-a452-47c8-947f-616ed72d1fdf,Sucuklu Pizza (Küçük),"25,90 TL",Küçük Boy Pizzalar (23 cm.),6.0
+4c8cd494-ebb4-43ba-a78e-cb445457e7ba,Sosisli Pizza (Küçük),"25,90 TL",Küçük Boy Pizzalar (23 cm.),6.0
+030fa20b-ab45-4e18-9e88-61d2869bd9e6,Salamlı Pizza (Küçük),"25,90 TL",Küçük Boy Pizzalar (23 cm.),6.0
+ca508fee-9a66-4ee0-93ea-aaba6247a4a1,Hünkar Pizza (Küçük),"27,90 TL",Küçük Boy Pizzalar (23 cm.),6.0
+c6d7d1f1-9115-4d1c-a08b-322a1ef7ea58,BBQ Biftek Pizza (Küçük),"27,90 TL",Küçük Boy Pizzalar (23 cm.),6.0
+c81c7a89-40de-498a-80d2-3946b41db9dd,Special Pizza (Küçük),"27,90 TL",Küçük Boy Pizzalar (23 cm.),6.0
+2b42c0b6-e2d3-4d6a-8f0a-48b46175dcad,Sebzeli Pizza (Orta),"39,90 TL",Orta Boy Pizzalar (30 cm.),6.0
+4ea09d33-c04c-4075-894a-a5a9f4cd57e5,Mantarlı Pizza (Orta),"39,90 TL",Orta Boy Pizzalar (30 cm.),6.0
+52cdde86-6080-47fa-8267-ddbf919ab6a4,Sucuklu Pizza (Orta),"42,90 TL",Orta Boy Pizzalar (30 cm.),6.0
+27d52917-dbed-45ca-bb61-e9d7997c4370,Sosisli Pizza (Orta),"42,90 TL",Orta Boy Pizzalar (30 cm.),6.0
+6dddb6a0-3c59-4521-a80b-ad7af367e9bc,Salamlı Pizza (Orta),"42,90 TL",Orta Boy Pizzalar (30 cm.),6.0
+55a039ed-27b9-4375-b352-0c86712d1d1d,Hünkar Pizza (Orta),"46,90 TL",Orta Boy Pizzalar (30 cm.),6.0
+48c66e95-4d5c-4df3-9ff1-a9b8f87155f3,BBQ Biftek Pizza (Orta),"46,90 TL",Orta Boy Pizzalar (30 cm.),6.0
+11a7df50-4f12-4313-9908-b95ff09c2dc3,Special Pizza (Orta),"46,90 TL",Orta Boy Pizzalar (30 cm.),6.0
+d379354e-9966-4491-8fda-69743cfe9b9d,Sebzeli Pizza (Büyük),"53,90 TL",Büyük Boy Pizzalar (36 cm.),6.0
+3f944cba-7ea9-4179-b554-54769ad48843,Mantarlı Pizza (Büyük),"46,90 TL",Büyük Boy Pizzalar (36 cm.),6.0
+0100d30f-59d2-4c19-839a-2dc4c4083db8,Sucuklu Pizza (Büyük),"52,90 TL",Büyük Boy Pizzalar (36 cm.),6.0
+8032d8a2-9a06-4181-bc24-e945db09ba17,Sosisli Pizza (Büyük),"52,90 TL",Büyük Boy Pizzalar (36 cm.),6.0
+76d7a28c-2fab-4c71-9d83-d17267df6b28,Salamlı Pizza (Büyük),"52,90 TL",Büyük Boy Pizzalar (36 cm.),6.0
+1a7c7682-b58b-4d4a-8e2a-500d7a209dac,Hünkar Pizza (Büyük),"53,90 TL",Büyük Boy Pizzalar (36 cm.),6.0
+a48a9f29-e86e-4997-a2ad-b618df88247c,BBQ Biftek Pizza (Büyük),"53,90 TL",Büyük Boy Pizzalar (36 cm.),6.0
+ee4a3ab8-4181-480d-b63a-b61da68814f4,Special Pizza (Büyük),"53,90 TL",Büyük Boy Pizzalar (36 cm.),6.0
+8fef324a-f24a-451c-903b-ebfa1c768d4b,Kıtır Piliç,"15,90 TL",Aperitifler,5.0
+f29a8009-dce0-4e5c-a7d3-7f013e68f480,Tavuklu Sandviç,"21,90 TL",Sandviçler,6.0
+8dc2b6c9-539a-4b3b-bb98-c459df26c561,Acılı Mexican Sandviç,"22,90 TL",Sandviçler,4.0
+a5db4368-d7ad-432a-9ae3-89ebcaf79668,Tavuk Wrap,"23,90 TL",Sandviçler,6.0
+8c00c7cb-a6d5-48ff-bccc-76d1d7535730,Et Wrap,"30,90 TL",Sandviçler,4.0
+8e81ae37-9b8a-4f9d-9f8f-004d0f79f2a7,Su,"2,00 TL",İçecekler,7.0
+9ef0d88b-cd85-4d10-a57f-c445ccaad217,Poşet,"0,25 TL",Poşet,5.0

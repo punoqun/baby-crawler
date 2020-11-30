@@ -1,0 +1,43 @@
+food_id,food_name,food_price,food_category,food_score
+b5c752f7-5506-4407-957e-272092bc7463,Sahanda Yumurta,"15,00 TL",Kahvaltılıklar,5.0
+76f90f86-7a49-4734-8b9a-07b2ed824554,Sucuklu Yumurta,"18,00 TL",Kahvaltılıklar,5.0
+4dea5493-05f5-49fe-9c97-c8f921abfbe5,Dil Çorbası,"20,00 TL",Çorbalar,5.0
+dccd2270-967b-44b6-929a-91d6fdcada64,Kokoreç (1 Kişilik),"30,00 TL",Kokoreçler,12.0
+b9f20995-bed4-43ec-ba00-71229556aa8d,Çeyrek Ekmek Arası Kokoreç,"10,00 TL",Kokoreçler,17.0
+3f2986a6-94ad-49bc-87c9-80706cc1d8ce,Yarım Ekmek Arası Kokoreç,"20,00 TL",Kokoreçler,17.0
+1eb8ab4b-f76f-4b76-a661-3196456b4d26,Üç Çeyrek Ekmek Arası Kokoreç,"30,00 TL",Kokoreçler,12.0
+743f1533-7e97-4329-be69-6ca46373c681,Adana Kebap,"30,00 TL",Kebaplar,3.0
+19cd0481-da08-44ba-b822-13e93d401f8b,Urfa Kebap,"30,00 TL",Kebaplar,5.0
+08086223-23a7-4703-abc1-9893e42e1cc5,Tavuk Şiş,"30,00 TL",Izgaralar,5.0
+3bac3536-9f0b-45a5-89f4-2e5551630b73,Et Şiş,"30,00 TL",Izgaralar,5.0
+1729da87-f544-4e4a-bc28-7c5ed2d8379a,Ciğer Şiş,"30,00 TL",Izgaralar,5.0
+25909e8e-e730-49c0-9c6e-18aaa4f018ba,Izgara Sucuk,"30,00 TL",Izgaralar,4.0
+17a0017e-bb4e-45da-b078-1b589d717231,Izgara Köfte,"30,00 TL",Izgaralar,5.0
+a1f0f13c-b952-4428-b864-ed7c77f5c8e1,Tavuk Kanat,"30,00 TL",Izgaralar,5.0
+e0619533-5092-497d-b64f-088949f21c06,Adana Dürüm,"20,00 TL",Dürümler,10.0
+698fea69-6f04-4e81-9663-9a365d0200b6,Urfa Dürüm,"20,00 TL",Dürümler,7.0
+78ad605b-0610-45fc-bd5d-0a0803348568,Tavuk Şiş Dürüm,"18,00 TL",Dürümler,7.0
+9b56e588-e535-41aa-849f-6b078854cffe,Et Şiş Dürüm,"20,00 TL",Dürümler,7.0
+e49bec6c-26bf-41fa-9445-c17d5698a71a,Ciğer Şiş Dürüm,"20,00 TL",Dürümler,7.0
+aa239c04-5d6c-4aeb-9cbf-35f0a6ce491a,Köfte Dürüm,"18,00 TL",Dürümler,7.0
+ef8248f7-a57a-4e9d-a0bc-eaacb4f9745d,Sucuk Dürüm,"18,00 TL",Dürümler,6.0
+4cbd4fa7-ce95-4dec-b1b8-6321ebb49306,Yarım Ekmek Arası Köfte,"18,00 TL",Ekmek Arası Ürünler,5.0
+3e8d3b92-8b8e-4e2f-843b-e289c9408dd4,Beyin Söğüş,"30,00 TL",Diğer Lezzetler,3.0
+be8b362f-c391-459c-884b-317ef0c06622,Beyin Tava,"30,00 TL",Diğer Lezzetler,3.0
+2c4c9e2e-1696-4e6f-afa9-247299140bbf,Cacık,"9,00 TL",Yan Ürünler,5.0
+ee964c80-3315-40ae-b7d1-407185f6dfe4,Midye Dolma (10 Adet),"12,00 TL",Yan Ürünler,5.0
+0f5bcdc4-cd3d-4006-819d-f31994926657,Çoban Salata,"15,00 TL",Salatalar,6.0
+a86540a3-e29c-4182-b15a-ee3a6b17c8dd,Mevsim Salatası,"15,00 TL",Salatalar,4.0
+26e6253b-1381-4a9d-9e89-20d4cfbcd65b,Karışık Salata,"15,00 TL",Salatalar,4.0
+baacadcd-77ed-46d5-a3a0-a4d293ca9d22,Fırın Sütlaç,"14,00 TL",Tatlılar,7.0
+3e4ef76d-1866-408e-9a63-544bede1bb1b,Künefe,"18,00 TL",Tatlılar,5.0
+6670d09a-5cb9-4f11-b221-b5394822ea1e,Kaymaklı Künefe,"20,00 TL",Tatlılar,5.0
+c89cff9b-09b5-44b2-99d1-d6e86ae0e7a5,Halka Tatlısı (Adet),"3,50 TL",Tatlılar,5.0
+f4cd792c-bcea-483f-9ba9-146a942c17ca,Supangle,"15,00 TL",Tatlılar,5.0
+4494e737-07f1-4cf5-bd8d-5bd2b6a9302f,Profiterol,"15,00 TL",Tatlılar,5.0
+75497123-8450-4638-baf2-81a873c1f593,Islak Kek,"15,00 TL",Tatlılar,5.0
+ddfd6a14-d874-4c9a-86cc-4ea0f4c285a1,Karamelli Trileçe,"15,00 TL",Tatlılar,5.0
+456a04e1-c90f-4cac-a9d6-22e0811be70b,Fanta (25 cl.),"5,00 TL",İçecekler,5.0
+365f3684-b694-45ef-a0aa-941b60552f37,Zafer Gazozu (25 cl.),"6,00 TL",İçecekler,5.0
+9ec14bc5-b4c7-485e-90c6-e700d253ed34,Su,"3,00 TL",İçecekler,4.0
+0c45d110-5a5e-4096-a398-b8a68e79aab7,Poşet,"0,25 TL",Poşet,5.0

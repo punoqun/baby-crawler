@@ -1,0 +1,31 @@
+food_id,food_name,food_price,food_category,food_score
+A635978C-CB24-4BE7-841C-6D2AAE98B6E8,Sade Pilav Menü 1,"12,00 TL",Menüler,13.0
+9C6052FC-3ECE-47B3-8515-05D90CF3A46D,Tavuklu Pilav Menü 1,"14,00 TL",Menüler,14.0
+4DA67443-AEF6-4563-AD2D-C2AEE7D303F1,Sade Pilav Menü 2,"11,50 TL",Menüler,9.0
+E9D7CEAB-68AE-48AB-8D00-DD2F087BFBFF,Tavuklu Pilav Menü 2,"13,50 TL",Menüler,10.0
+2DDFCAFF-896C-471E-81BA-C49BA2584A11,Sade Pilav Menü 3,"14,00 TL",Menüler,13.0
+7B267708-1897-4A5E-A143-F99AF5801CBE,Tavuklu Pilav Menü 3,"16,00 TL",Menüler,14.0
+20837a08-4406-43a4-ba78-285d44af82ef,Ayvalık Tostu Menü 1,"14,50 TL",Menüler,14.0
+896eb892-8f11-40bf-bc2a-a58e0f8de29e,Ayvalık Tostu Menü 2,"16,50 TL",Menüler,10.0
+be7c7a76-3abc-4e40-b45b-862ec5b74a89,Ayvalık Tostu,"12,00 TL",Tostlar,6.0
+f8948dd9-1216-453c-bda5-5645502ab159,Çiğ Köfte Dürüm,"6,00 TL",Çiğ Köfteler,16.0
+e5b8993b-6389-43e4-85ab-9245f02bf07f,Duble Çiğ Köfte Dürüm (Çift Lavaş),"11,00 TL",Çiğ Köfteler,17.0
+9b7d6ead-0036-483e-a8bf-9434a15bc1e2,Çiğ Köfte (200 gr.),"12,00 TL",Çiğ Köfteler,11.0
+8b770392-196b-4fe0-98d7-47ce1ee8b5af,Çiğ Köfte (250 gr.),"15,00 TL",Çiğ Köfteler,11.0
+a3a87b58-248a-4e01-aa7c-836a06ca0e8c,Çiğ Köfte (300 gr.),"18,00 TL",Çiğ Köfteler,11.0
+65329aad-61d0-4ac1-9ca9-9e90495ee520,Çiğ Köfte (400 gr.),"24,00 TL",Çiğ Köfteler,11.0
+0641c589-ca9b-4ac5-b22b-337193d36884,Çiğ Köfte (500 gr.),"30,00 TL",Çiğ Köfteler,11.0
+d2328fb6-abbf-4969-be7f-09aaf1886c7b,Çiğ Köfte (700 gr.),"42,00 TL",Çiğ Köfteler,11.0
+09d3384e-8be8-4e84-ac9a-bb88000ac031,Çiğ Köfte (750 gr.),"45,00 TL",Çiğ Köfteler,11.0
+d65a75d4-153f-4477-896a-cda3d1d1243d,Çiğ Köfte (1 kg.),"60,00 TL",Çiğ Köfteler,11.0
+95B4EDCE-CD40-4154-A0D6-FF38434571DB,Sade Pirinç Pilavı,"10,00 TL",Diğer Lezzetler,5.0
+78870CC4-E38E-4513-BA2E-777ADC17E9C2,Tavuklu Pirinç Pilavı,"12,00 TL",Diğer Lezzetler,6.0
+cf2e9ebe-4cb9-46d7-9a82-f2674c7fd312,Lavaş,"1,00 TL",Yan Ürünler,5.0
+74dec81f-a2af-4f19-9c19-c475acb3b4db,Limon,"2,00 TL",Yan Ürünler,5.0
+c6f2e16b-9921-4438-8d28-1a417b1b62d7,Sütaş Yoğurt,"1,50 TL",Yan Ürünler,5.0
+aaafb4aa-62c8-4474-a364-445f0e886bcf,Niğde Gazozu,"3,00 TL",İçecekler,5.0
+abe6eee3-defc-4892-9721-36dbd78c3c0b,Doğanay Şalgam Suyu (33 cl.),"3,50 TL",İçecekler,5.0
+82107a05-f99e-4f18-aec8-38114890853b,Sütaş Ayran (28 cl.),"2,50 TL",İçecekler,5.0
+168cfb51-35ff-4828-8fc0-028402dfc6a4,Doğanay Şalgam Suyu (1 L.),"7,00 TL",İçecekler,5.0
+f8e6af3f-d97f-4c8b-91e3-1e1a55d367a3,"Su (1,5 L.)","4,00 TL",İçecekler,5.0
+b6700b4f-6e2e-41cd-9142-966e729b0d8d,Poşet,"0,25 TL",Poşet,5.0

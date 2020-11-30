@@ -1,0 +1,55 @@
+food_id,food_name,food_price,food_category,food_score
+f2e4ca24-a0e1-42f3-bbc5-4912a1450980,Sade Tavuklu Breadliwich Menü,"23,90 TL",Tavuklu Menüler,8.0
+f55e06f5-fab0-4aba-b829-bbe9e3293bd4,Kanka Menü,"43,90 TL",Tavuklu Menüler,10.0
+20a89621-3475-4892-8fb2-a4d6d6de894c,Kardeşim Menü,"67,90 TL",Tavuklu Menüler,5.0
+3cf447ca-3b90-4904-a828-b953675778d7,Ekonomik Menü 1,"52,00 TL",Tavuklu Menüler,7.0
+fb7cd469-1f90-4f25-b5e8-e0727363ba4f,Ekonomik Menü 2,"82,90 TL",Tavuklu Menüler,9.0
+e1f5123f-75cf-49ff-96e0-5045bfbe854f,Tavuklu Breadliwich Menü,"23,90 TL",Tavuklu Menüler,13.0
+fc952aef-f032-488f-9a02-e84369626810,Sade Köfteli Breadliwich Menü,"25,90 TL",Köfteli Menüler,7.0
+4feb4766-74a2-48a9-bfd7-5d8e9b7b9e9d,Köfteli Kanka Menü,"47,90 TL",Köfteli Menüler,7.0
+b8cf0e62-f36b-4aab-95ff-4afa18064115,Köfteli Kardeşim Menü,"73,90 TL",Köfteli Menüler,7.0
+5501217f-0a82-480e-9670-3884f8b2c39a,Köfteli Breadliwich Menü,"25,90 TL",Köfteli Menüler,7.0
+9564bdbb-d2da-45e0-b2ae-91f04e6fd39c,Çıtır Tavuk Menü (500 gr.),"44,90 TL",Çıtır Tavuk Menüleri,6.0
+7f744ac4-2281-42c7-840c-795fb0f9d10e,Çıtır Menü,"25,90 TL",Çıtır Tavuk Menüleri,5.0
+aed7a5b1-633b-4353-af00-04cec45ea743,Patso Menü,"19,90 TL",Menüler,5.0
+aa3987cf-c91c-4ab5-b900-9950797c6e03,Sade Tavuklu Breadliwich,"15,90 TL",Tavuklu Breadliwichs,8.0
+1a28ab4b-9381-4f78-97fe-d68dee94cc31,Tavuklu Breadliwich,"15,90 TL",Tavuklu Breadliwichs,13.0
+33d305b7-324d-4246-b163-47f1b5daee77,Sade Köfteli Breadliwich,"17,90 TL",Köfteli Breadliwichs,7.0
+322c4c93-66e6-4d2f-a8ce-a01ba208d4ed,Köfteli Breadliwich,"17,90 TL",Köfteli Breadliwichs,7.0
+4802521d-f9c6-44a3-bd66-58a870ddc259,Vejetaryen Breadliwich,"14,90 TL",Vejetaryen Breadliwichs,4.0
+b257eee8-c67f-4540-a017-390ef6e8fdc1,Albacore Soslu Makarna,"19,90 TL",Makarnalar,9.0
+803979e5-c0fe-4284-bb0c-24ef0227df22,Cheddar Soslu Makarna,"17,90 TL",Makarnalar,6.0
+04332ace-11a6-4fc6-b333-301cf37acf65,Barbekü Soslu Makarna,"17,90 TL",Makarnalar,9.0
+286038d0-9fea-4052-920d-2f56418b5cb7,Dört Peynirli Makarna,"17,90 TL",Makarnalar,9.0
+6779c201-bc27-4d5a-bd01-feba5a2efd7e,Café de Paris Soslu Makarna,"17,90 TL",Makarnalar,51.0
+87cc06d1-75db-4dc7-9815-2fee7079a7ec,Curry Soslu Makarna,"17,90 TL",Makarnalar,10.0
+239fdce8-825d-4f99-bd0f-fefe8c9bafdf,Kaşarlı Mantar Soslu Makarna,"17,90 TL",Makarnalar,9.0
+c1f24ecd-0402-4af6-8de5-31583d67ffe0,Mangal Soslu Makarna,"17,90 TL",Makarnalar,9.0
+0478b1e5-86f3-4030-a469-5b7d8c0432d9,Mexico Soslu Makarna,"17,90 TL",Makarnalar,9.0
+5ffe674f-e6d8-4240-9ce1-d5f2c8581e25,Napolitan Soslu Makarna,"17,90 TL",Makarnalar,9.0
+c304251f-f0f2-414c-ac6c-b963665a305a,Stroganoff Soslu Makarna,"17,90 TL",Makarnalar,9.0
+81fbcf1f-041d-41fe-8045-7e026a31b116,Breadli Salata,"16,90 TL",Salatalar,11.0
+0b192c9e-42c6-44d1-b373-eb2233025017,Tavuklum Salata,"18,90 TL",Salatalar,6.0
+bb6d56ac-c723-4d7d-b29a-9626655e62b3,Ton Balıklım Salata,"18,90 TL",Salatalar,6.0
+3acd3681-6e7a-4e35-9374-a19a1da02d4a,Tulum Peynirli Salata,"18,90 TL",Salatalar,6.0
+EC8E5476-298F-4204-A9F1-AB119B706BE6,Café de Paris Soslu Patates,"14,90 TL",Tekli Ürünler,50.0
+E4B7252F-BF29-4276-ACD8-FC6F847AF209,Kaşarlı Mantar Soslu Patates,"14,90 TL",Tekli Ürünler,8.0
+F6D7E9BD-1E57-4C80-B560-CB4A29EEC160,Napolitan Soslu Patates,"14,90 TL",Tekli Ürünler,8.0
+269DC6AB-83BB-44B1-B61A-E7ECDA58F407,Curry Soslu Patates,"14,90 TL",Tekli Ürünler,9.0
+1359EDD2-93D3-4FB9-9DD8-A77DA5057205,Barbekü Soslu Patates,"14,90 TL",Tekli Ürünler,8.0
+0AB09D68-5E20-4AFF-86D4-4104169B076C,Mexican Soslu Patates,"14,90 TL",Tekli Ürünler,8.0
+d9573d45-b466-42bc-a00b-e4b49aaf9515,Cheddar Soslu Patates Kızartması,"14,90 TL",Tekli Ürünler,5.0
+f4e9811c-e117-4575-bb22-0fd4415946e7,Baharatlı Bol Patates Kızartması,"12,90 TL",Tekli Ürünler,7.0
+6e22e967-3715-4c29-a2e8-8b35277f83b0,Baharatlı Bol Elma Dilim Patates,"14,90 TL",Tekli Ürünler,7.0
+3093ceac-0849-4861-be18-ba8a6fc25b72,Küçük Salata,"7,90 TL",Tekli Ürünler,6.0
+0be14a3d-bc7a-434a-8d8e-213a4b097eb7,Brotchen Ekmeği (Adet),"2,25 TL",Tekli Ürünler,6.0
+714a5593-fb61-4cf5-96f4-a67d230d580f,Salata Sosu,"3,00 TL",Tekli Ürünler,6.0
+02c390fc-4c48-45f6-809c-19eebcf2a2df,Nar Ekşili Sos,"3,00 TL",Tekli Ürünler,10.0
+f294defd-e3f3-4726-9743-0c6d1a2bb31f,Ton Balığı (80 gr.),"10,00 TL",Tekli Ürünler,5.0
+746fd3b8-9bbd-4102-bf37-14f985809e1a,Breadli Barbekü Sos (50 cc.),"3,75 TL",Tekli Ürünler,15.0
+f0c52eb6-7e28-424f-987a-5fb35c6c8067,Breadli Acılı Mayonez (50 cc.),"3,75 TL",Tekli Ürünler,10.0
+a08ac920-ceec-41d6-94f8-d2175ff1f573,Breadli Sarımsaklı Mayonez (50 cc.),"3,75 TL",Tekli Ürünler,10.0
+364484da-0c5a-4ae4-958a-1147a2e99911,Breadli Zeytinyağı (50 cc.),"3,75 TL",Tekli Ürünler,10.0
+88a15a81-3962-4819-88fd-50c5f2884c92,Breadli Nar Ekşisi (50 cc.),"3,75 TL",Tekli Ürünler,10.0
+76c4b893-382d-47e2-b300-d164ab65ecab,Breadli Salata Sosu (50 cc.),"3,75 TL",Tekli Ürünler,11.0
+55f25db2-f75a-4e54-a371-00bff446381b,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,35 @@
+food_id,food_name,food_price,food_category,food_score
+efe52e53-42dc-4f01-bb47-f124dc56fdf6,2 'li Lahmacun Menü,"19,00 TL",Menüler,14.0
+1ab9e843-da9b-46dc-b62a-43d1b5263e9f,Peynirli Bafra Pidesi,"20,00 TL",Peynirli & Sebzeli Pideler,14.0
+3a0fee49-f7fe-47af-9dd8-3f115bcd7925,Ispanaklı Yumurtalı Pide,"19,00 TL",Peynirli & Sebzeli Pideler,8.0
+fd617de6-5d0b-4574-ba28-55a714160167,Kaşarlı Pide,"22,00 TL",Peynirli & Sebzeli Pideler,9.0
+49f35456-5fd9-4e73-ae26-88541dbf03f7,Ispanaklı Kaşarlı Pide,"20,00 TL",Peynirli & Sebzeli Pideler,9.0
+dbc0e2fd-c8cf-4549-9f4f-a1020d74e46f,Kaşarlı Mantarlı Pide,"24,00 TL",Peynirli & Sebzeli Pideler,9.0
+ec5dfded-6cf9-412f-b33a-c1f2f324c06b,Kaşarlı Yumurtalı Pide,"24,00 TL",Peynirli & Sebzeli Pideler,9.0
+cfe111e5-9ac0-4f1d-b44e-066abba74069,Ispanaklı Kaşarlı Yumurtalı Pide,"21,00 TL",Peynirli & Sebzeli Pideler,9.0
+64b4715a-963a-4cbb-886a-69b895d4e321,Ispanaklı Pastırmalı Kaşarlı Pide (Kapalı),"30,00 TL",Peynirli & Sebzeli Pideler,9.0
+e3a1f8de-dfa6-48c4-b937-16546ae0efec,Mevlana Pide,"19,00 TL",Kıymalı & Etli Pideler,13.0
+80ea1acb-7d09-4bd0-a5b5-74055b3a3082,Yumurtalı Mevlana Pide,"21,00 TL",Kıymalı & Etli Pideler,8.0
+360a1c32-4fdb-4587-b7c7-5e777a8e742c,Kaşarlı Mevlana Pide,"23,00 TL",Kıymalı & Etli Pideler,9.0
+a01d71e1-f8d5-46a8-85e3-74178ed7f664,Kıymalı Bafra Pide (Kapalı),"23,00 TL",Kıymalı & Etli Pideler,17.0
+3b5a87f3-13b6-4183-8b1b-cba494bc805c,Kaşarlı Yumurtalı Mevlana Pide,"25,00 TL",Kıymalı & Etli Pideler,9.0
+938cce96-da5e-4ea0-8536-e524fe75f23d,Kaşarlı Bafra Pidesi,"24,50 TL",Kıymalı & Etli Pideler,15.0
+e9d562ad-0825-42ef-af17-ca3f2271ab1e,Kuşbaşılı Pide,"28,00 TL",Kıymalı & Etli Pideler,8.0
+93778e0f-3102-4cc0-b469-e24bf6f16576,Kuşbaşılı Kaşarlı Pide,"30,00 TL",Kıymalı & Etli Pideler,9.0
+19b8d89e-5aa6-4946-98c0-a130aaa6435e,Sucuklu Yumurtalı Pide,"25,00 TL",Gurme Pideler,8.0
+7318adb2-df02-4e9c-b356-0fb121925051,Sucuklu Kaşarlı Pide,"26,00 TL",Gurme Pideler,9.0
+667a5820-89b0-4b51-9d8c-9928c00e6c79,Sucuklu Kaşarlı Yumurtalı Pide,"28,00 TL",Gurme Pideler,9.0
+6413af15-48d8-4f91-9ce6-62e061b2fbcc,Pastırmalı Yumurtalı Pide,"29,00 TL",Gurme Pideler,8.0
+ed8c0e08-be1d-463e-945b-3bc8d3a42f6f,Paçanga Pide (Kapalı),"30,00 TL",Gurme Pideler,8.0
+40a6fc3c-0f6e-4413-9389-530c4d708321,Pastırmalı Kaşarlı Pide,"30,00 TL",Gurme Pideler,9.0
+f69bfbe8-fb7e-4169-866c-d9ac12385b59,Pastırmalı Kaşarlı Yumurtalı Pide,"32,00 TL",Gurme Pideler,9.0
+72bbc6dc-0bb8-4e78-bbc1-99e632d0258b,Kavurmalı Yumurtalı Pide,"32,00 TL",Gurme Pideler,8.0
+b2fd4cbd-e877-4134-a9fe-d9ad7284cdb0,Kavurmalı Kaşarlı Pide,"33,00 TL",Gurme Pideler,9.0
+d2100836-b2c9-4714-a6a1-e82021a9b602,Süper İkili Pide,"36,00 TL",Gurme Pideler,10.0
+e648d030-3620-46c1-9d3b-50201ba0f4e5,Kavurmalı Kaşarlı Yumurtalı Pide,"34,00 TL",Gurme Pideler,9.0
+415f0303-22b3-479d-aaed-b31abf5ec369,Kafam Karışık Pide,"30,00 TL",Karışık Pideler,8.0
+adbb4085-f617-4ceb-bca4-7cac8c3fa7a8,Özel Pide,"36,00 TL",Karışık Pideler,8.0
+fbe932d1-28df-47ec-ad4c-ee128f7d6e74,Kardeş Payı Pide,"21,00 TL",Karışık Pideler,8.0
+1e5e1aa4-3d49-41f3-9f9e-f9e9697041ad,Lahmacun,"12,00 TL",Lahmacunlar,20.0
+5bcdd814-3351-4d22-be21-b7f99b277e79,Fındıklı Künefe,"15,00 TL",Tatlılar,2.0
+f90fe3d1-bff6-4817-9485-28a74903c8d3,Poşet,"0,25 TL",Poşet,3.0

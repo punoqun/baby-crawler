@@ -1,0 +1,35 @@
+food_id,food_name,food_price,food_category,food_score
+06253b8e-aa4b-4a81-8c0d-847ba8b42752,Rulo Börek (Adet),"7,50 TL",Börekler,5.0
+033be876-86ec-4c0f-800b-2e3bf462fd28,Hindistan Cevizli Trileçe,"18,00 TL",Tatlılar,2.0
+1a726d5e-dd18-4cf2-9f52-94dc8c8273ed,Antep Fıstıklı Kazandibi,"20,00 TL",Tatlılar,-2.0
+a44b3202-03e1-45ff-b6a4-303990ca2e1e,Künefe,"24,00 TL",Tatlılar,3.0
+385fd35f-8bb3-40cf-92f2-277e9f59d87f,Kaymaklı Künefe,"30,00 TL",Tatlılar,3.0
+e60f1448-a6d7-4bd5-902a-714c2f984685,Ekmek Kadayıfı (Kaymaksız),"18,00 TL",Tatlılar,5.0
+e59a5917-f2e3-4886-9eb8-a98ebcdf19ea,Kaymak (Porsiyon),"6,00 TL",Tatlılar,5.0
+50c1ab45-2958-498a-a936-8a1d76644f07,Makaron (7'li Kutu),"35,00 TL",Makaronlar,5.0
+e19d4945-592a-4802-b9e3-2e9b19870536,Makaron (4'lü Kutu),"20,00 TL",Makaronlar,5.0
+4149ead2-be0c-4220-874a-579253c6255f,Dondurma (Az),"15,00 TL",Dondurmalar,27.0
+6569050e-7b44-4d70-945b-bb75c4ce3e67,Dondurma (Tam),"20,00 TL",Dondurmalar,27.0
+831499e1-e7db-45ed-8e15-801ab4bdb957,Dondurmalı Kağıt Helva,"21,00 TL",Dondurmalar,8.0
+b3177786-f939-48f7-9f8a-0f320838df90,Kavunlu Dondurma (Tam),"20,00 TL",Dondurmalar,27.0
+893c43dd-65f9-4b76-8c70-346a74dac6fe,Un Kurabiyesi (250 gr.),"19,00 TL",Kurabiyeler,7.0
+8a3a5094-2d92-4b52-a529-0e2f6f8c577d,Susamlı Tuzlu Kurabiye (250 gr.),"14,00 TL",Kurabiyeler,5.0
+bde13099-39ce-4805-aa52-9d79a8ebdac3,Karışık Tahıllı Tuzlu Kurabiye (250 gr.),"14,00 TL",Kurabiyeler,5.0
+8004fea1-fc73-4861-9587-6a5b26b6570b,Haşhaşlı Tuzlu Kurabiye (250 gr.),"14,00 TL",Kurabiyeler,5.0
+91e3d17d-d94b-48b0-b14f-9f5261858d0b,Badem Şekeri (500 gr.),"60,00 TL",Çikolatalar & Şekerler,5.0
+319bb748-a621-437b-b7fc-83fe804bcc1e,Kravat Madlen Çikolata (145 gr.),"35,00 TL",Çikolatalar & Şekerler,5.0
+cd395189-033f-4a1c-92a2-0c1ac6f80870,Madlen Çikolata (390 gr.),"70,00 TL",Çikolatalar & Şekerler,5.0
+d12abfea-ab4a-4eb8-a883-6f46ea5f78dc,Badem Şekeri (Paket) (75 gr.),"11,50 TL",Çikolatalar & Şekerler,5.0
+f1d6e7bc-5cf2-4028-81a0-481bb1b98e2e,Badem Şekeri (250 gr.),"30,00 TL",Çikolatalar & Şekerler,5.0
+729729ce-f162-4a4e-902e-c4b0ed2d2923,Ananas Bademli Pasta (1 Kişilik),"21,00 TL",Tek Pastalar,6.0
+679871c4-2c38-45b3-8c9d-aec34194ee68,Kıtır Krokan Pasta (1 Kişilik),"21,00 TL",Tek Pastalar,2.0
+fccf95ee-a300-4807-b8e5-d3fbbc33a50a,Fıstık Gibi Pasta (1 Kişilik),"23,00 TL",Tek Pastalar,1.0
+90f04ebe-e326-4dcc-8929-6cc39e25f17f,Havuçlu Kek (1 Kişilik),"13,00 TL",Tek Pastalar,5.0
+68e8cd06-80f7-4868-84b1-6fc7feff7419,Kıtır Krokan Pasta (4-6 Kişilik),"85,00 TL",Yaş Pastalar (4-6 Kişilik),2.0
+40732e92-a3af-4e59-a8ac-cc6773f3126b,Fıstık Gibi Pasta (4-6 Kişilik),"95,00 TL",Yaş Pastalar (4-6 Kişilik),1.0
+f1ba333a-f713-4a96-88b8-d574556b23b1,Ekşi Tatlı Vişne Pasta (4-6 Kişilik),"85,00 TL",Yaş Pastalar (4-6 Kişilik),-2.0
+291c5590-7e2e-42c7-9ab1-555fc1cff57a,Ekşi Tatlı Vişne Pasta (8 Kişilik),"115,00 TL",Yaş Pastalar (8 Kişilik),-2.0
+85b7c4f8-d190-4ffa-9543-7e915af2f5ae,Kıtır Krokan Pasta (8 Kişilik),"115,00 TL",Yaş Pastalar (8 Kişilik),2.0
+4d7db2b3-b67a-488d-ba15-c5eb4aa33ff1,Fıstık Gibi Pasta (8 Kişilik),"125,00 TL",Yaş Pastalar (8 Kişilik),1.0
+3ab6e45a-8040-443c-9325-43193949213f,Su,"3,50 TL",İçecekler,8.0
+a1a1b55e-c362-4589-93c5-3d33eae09ab7,Poşet,"0,25 TL",Poşet,5.0

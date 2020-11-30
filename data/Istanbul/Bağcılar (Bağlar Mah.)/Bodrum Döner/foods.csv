@@ -1,0 +1,37 @@
+food_id,food_name,food_price,food_category,food_score
+6bcdb36a-c315-4784-b50c-8031d154413a,İskender (Et Dönerden),"30,00 TL",Et Dönerler,5.0
+675687bf-4888-4045-bab2-1de590fe89e6,Et Döner,"25,00 TL",Et Dönerler,0.0
+4c90be28-de1f-4c3e-a954-93c85dc5e0f9,Pilav Üstü Et Döner,"28,00 TL",Et Dönerler,0.0
+40a78197-310a-431e-b225-6521d13bdd8d,Tandır Ekmek Arası Et Döner,"13,00 TL",Et Dönerler,1.0
+46a4511b-ef6f-4e8c-86e2-e5434c6206df,Et Döner Sandviç,"13,00 TL",Et Dönerler,0.0
+4701811f-6d2e-4337-90b2-adf2d54e769e,Kaşarlı Et Döner Dürüm,"23,00 TL",Et Dönerler,-1.0
+4f8a37d4-1cac-436c-9cc9-3a99b9acdda5,Tombik Ekmek Arası Et Döner,"11,00 TL",Et Dönerler,1.0
+5a523a41-27c7-4ffe-a049-28334e6fe811,Yarım Ekmek Arası Et Döner,"13,00 TL",Et Dönerler,1.0
+63d03bd6-545b-4ab9-9706-0cd19d338a81,Et Döner Dürüm,"22,00 TL",Et Dönerler,-1.0
+430B30A3-51FF-46D0-AC47-0336C960D875,Tam Ekmek Arası Et Döner,"26,00 TL",Et Dönerler,1.0
+352f7fbe-5be5-4ffa-8bc8-584b0410f7f8,Tavuk Döner,"16,00 TL",Tavuk Dönerler,3.0
+2e8a3879-4fdd-47fb-a3f7-2f4a0ae0876a,Pilav Üstü Tavuk Döner,"18,00 TL",Tavuk Dönerler,3.0
+3fc89f4e-d752-4f47-b79d-8b265d0e48d2,İskender (Tavuk Dönerden),"20,00 TL",Tavuk Dönerler,5.0
+21ef3ac1-3900-4035-9f44-ead6c2f47062,Tandır Ekmek Arası Tavuk Döner,"5,50 TL",Tavuk Dönerler,4.0
+24524431-a9bb-4a83-b90e-4fadf87065e6,Tavuk Döner Sandviç,"5,50 TL",Tavuk Dönerler,3.0
+2520b776-1fee-433e-a083-07c4b7ae30ae,Kaşarlı Tavuk Döner Dürüm,"13,00 TL",Tavuk Dönerler,2.0
+2f4d6688-4ead-4baf-b43b-6d2fb293bd66,Tombik Ekmek Arası Tavuk Döner,"5,00 TL",Tavuk Dönerler,9.0
+315cad3d-8d7d-4d35-a8f4-b7efe7039f08,Yarım Ekmek Arası Tavuk Döner,"5,50 TL",Tavuk Dönerler,9.0
+347a5e0a-c316-4ddf-a50f-b216162662b5,Tavuk Döner Dürüm,"10,00 TL",Tavuk Dönerler,7.0
+B7744928-4712-45B5-8896-2FF3AD4CA95E,Tam Ekmek Arası Tavuk Döner,"11,00 TL",Tavuk Dönerler,4.0
+6c2ef1f2-df0a-4c62-9066-d3f60330ca8d,Patso Sandviç,"6,00 TL",Sandviçler,4.0
+1f5bc844-9c6b-40fc-8f52-29b9e51a581c,Ciğer,"16,00 TL",Ciğerler,5.0
+8C167A46-DA0D-4E0B-BD74-CA973A1E0176,Tam Ekmek Arası Ciğer,"11,00 TL",Ciğerler,6.0
+08869318-3532-4edf-b9b9-eb167b083130,Pilav Üstü Ciğer,"18,00 TL",Ciğerler,5.0
+01abcef3-98d8-48b3-87b5-ad52cfae9034,Tandır Ekmek Arası Ciğer,"5,50 TL",Ciğerler,6.0
+07f3bff9-1b82-43ed-9877-ace66f75fbf4,Ciğer Sandviç,"5,50 TL",Ciğerler,5.0
+0e1cddc5-d950-4e31-ace1-126bae99fbd4,Tombik Ekmek Arası Ciğer,"5,00 TL",Ciğerler,6.0
+1dff3ebf-077c-4853-b5ab-3b927b6d7fe3,Yarım Ekmek Arası Ciğer,"5,50 TL",Ciğerler,6.0
+1ef06282-5a76-41b8-aa01-b795678dfb32,Ciğer Dürüm,"10,00 TL",Ciğerler,4.0
+740e48bd-5e19-47d4-a5c3-0aa5307a2ba1,Patates Kızartması,"8,00 TL",Yan Ürünler,5.0
+4418FD77-0985-47E4-8EAE-89870FB159EB,Kaşarlı Patso Dürüm,"14,00 TL",Yan Ürünler,3.0
+30F4A791-5E0B-469D-B83A-7CE43E672A80,Patso Dürüm,"12,00 TL",Yan Ürünler,3.0
+7a99c007-ad3a-414b-af94-866df0966cc7,Sütlaç,"11,00 TL",Tatlılar,5.0
+7dc103dd-995a-4e5b-a449-4533f201363c,Kazandibi,"9,00 TL",Tatlılar,5.0
+3fc86f3a-ed86-44d8-8915-8943c18294ef,Algida Carte d'Or Mini Cup Çikolata Karnavalı (110 ml.),"8,00 TL",Dondurmalar,5.0
+f5aa29ae-a5e0-466e-81a5-fb667759c9af,Poşet,"0,25 TL",Poşet,5.0

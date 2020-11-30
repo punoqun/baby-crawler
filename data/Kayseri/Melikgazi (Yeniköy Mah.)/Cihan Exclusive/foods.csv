@@ -1,0 +1,45 @@
+food_id,food_name,food_price,food_category,food_score
+8562C22B-9CD7-4413-8589-BBDD00ABA671,Mini Kahvaltı Tabağı,"23,00 TL",Kahvaltılıklar,15.0
+3ECC0941-EDD1-484A-AA2B-567B2CD47874,Katmerle Kahvaltı,"23,00 TL",Kahvaltılıklar,15.0
+18553601-9a35-47b0-95e3-e2071a7d1337,Dilimlenmiş Pastırma (100 gr.),"17,50 TL",Kahvaltılıklar,5.0
+afa69968-2fd6-4354-870b-d9a227496af9,Kahvaltı Tabağı,"19,50 TL",Kahvaltılıklar,15.0
+2cf5fa91-7805-49ea-a107-ed6c7b66ab9a,Krem Peynir (20 gr.),"2,50 TL",Kahvaltılıklar,4.0
+c1899717-11b3-4800-9c3e-788df57aa110,Söğüş Tabağı (Tek Kişilik),"6,50 TL",Kahvaltılıklar,5.0
+67501a9c-82c8-48fc-8ce2-8c2d473ac12e,Süzme Peynir (25 gr.),"2,50 TL",Kahvaltılıklar,4.0
+f6c7efe2-9d16-4366-a171-94e62ce4e6eb,Tereyağı (15 gr.),"2,50 TL",Kahvaltılıklar,5.0
+99939ae6-534a-4a2c-8024-000f589f8a4e,Üçgen Peynir,"1,75 TL",Kahvaltılıklar,4.0
+13a307b8-2ef3-4357-957b-fa827ad0ea2b,Zeytin (100 gr.),"5,50 TL",Kahvaltılıklar,5.0
+e9246f61-f142-45a7-86a2-7235cd38e6e9,Kaşarlı Tost,"17,00 TL",Tostlar,7.0
+d05c01d7-eddf-42f8-a142-1f9dd81b532a,Beyaz Peynirli Tost,"17,00 TL",Tostlar,7.0
+92616ba4-6a1e-40f7-820b-f44067df2fe8,Sucuklu Tost,"22,00 TL",Tostlar,7.0
+bc71f462-4122-4479-86a3-48e05bccab14,Karışık Tost,"23,00 TL",Tostlar,7.0
+579bedc7-4b4e-4e89-8974-bee6549fde71,Kavurmalı Tost,"24,00 TL",Tostlar,7.0
+248b631a-c33f-4cbd-8635-febcc515b42d,Cihan Tost,"24,00 TL",Tostlar,9.0
+a50bfc14-e863-4f49-9c36-bc81e4d8fe23,Beyaz Peynirli Dürüm Katmer Sarma,"11,00 TL",Poğaçalar & Simitler,1.0
+8487850a-63ac-4250-8d0f-30eb9b1a3019,Kaşar Peynirli Dürüm Katmer Sarma,"9,50 TL",Poğaçalar & Simitler,1.0
+33fade19-ab0c-40e1-b4e8-010048d57427,Üçgen Peynirli Dürüm Katmer Sarma,"9,50 TL",Poğaçalar & Simitler,1.0
+62b260da-6803-4880-aa3b-8cd978df212f,Beyaz Peynirli Soğuk Sandviç,"18,00 TL",Sandviçler,5.0
+099b11fa-683f-4d69-a153-559d461184d3,Karışık Soğuk Sandviç,"21,00 TL",Sandviçler,5.0
+395de360-735c-40b9-a9fb-b8618e70dd92,Kaşarlı Soğuk Sandviç,"18,00 TL",Sandviçler,5.0
+0c6b99cd-aea9-446e-98aa-804fb574deec,Köfteli Sandviç,"29,00 TL",Sandviçler,5.0
+9c25b53e-ef66-4738-8abc-48aa09c607cc,Tavuklu Sandviç,"24,00 TL",Sandviçler,7.0
+999edf4c-58e6-4460-bb5f-c9cef25373b6,Ton Balıklı Soğuk Sandviç,"21,00 TL",Sandviçler,5.0
+b451b7a2-6353-4fb2-ade8-3c90619d83a6,Arrabbiata Soslu Makarna,"21,50 TL",Makarnalar,5.0
+50ff71c8-a69c-4406-b674-3d9c2ef45eef,Batuta Soslu Makarna,"22,00 TL",Makarnalar,5.0
+e0eb5196-8353-4cc7-bea2-f5cbd9e73ee5,Köri Soslu Makarna,"21,00 TL",Makarnalar,6.0
+aa0ae91c-9e89-46af-a82f-1c04a6ddce99,Kremalı Mantarlı Makarna,"22,00 TL",Makarnalar,5.0
+98b6b391-e3b1-4b81-8156-af35064b4de9,Napolitan Soslu Makarna,"20,00 TL",Makarnalar,5.0
+74acf23f-f28d-4ad7-8c35-080e80f0e311,Pesto Soslu Makarna,"22,00 TL",Makarnalar,5.0
+210a967f-dd02-4e5b-9789-2af3a690fd5b,Salçalı Makarna,"19,50 TL",Makarnalar,5.0
+306592bc-b3f5-499d-aae1-e7b0c4625e4d,Vejetaryen Soslu Makarna,"21,00 TL",Makarnalar,5.0
+9ef8a400-0414-41c3-845f-5899f30466a7,Yayla Soslu Makarna,"19,50 TL",Makarnalar,5.0
+e8705123-0be6-49c4-99df-9ba3aa00e00f,Akdeniz Salata,"17,00 TL",Salatalar,7.0
+1b5e89a8-95e6-4501-9f33-0ec9f22d362c,Bahçeden Salata,"18,00 TL",Salatalar,7.0
+c504044e-96c5-4578-b0bc-9172070d35b3,Çoban Salata,"15,00 TL",Salatalar,7.0
+4620ddb0-33c7-4919-b440-f65df257bf92,Hellim Peynirli Salata,"19,00 TL",Salatalar,7.0
+cb97c541-5236-4473-a53e-4c408c87abd7,Sezar Salata,"24,00 TL",Salatalar,7.0
+3556f79f-1db9-4a83-abae-268c2ae35879,Ton Balıklı Salata,"21,00 TL",Salatalar,7.0
+FB637FC2-9512-4265-B063-7EB71CED5A9F,İstanbul Sufle,"21,00 TL",Tatlılar,5.0
+11d302b4-a156-47b0-9a19-eadf00af238b,Sütaş Süt (20 cl.),"2,75 TL",İçecekler,5.0
+679a67d0-1520-4d6c-a126-11e5c4798064,Su (75 cl.),"5,50 TL",İçecekler,11.0
+613c17fe-0c64-4bce-9e3d-b8e76956d763,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,65 @@
+food_id,food_name,food_price,food_category,food_score
+31840135-a41d-4025-afd9-27e997b5d996,Peynirli Su Böreği Menü,"20,90 TL",Ekonomik Menüler,2.0
+3a3c0004-61ad-4d46-bbae-f675583580f3,Kol Böreği Menü,"22,90 TL",Ekonomik Menüler,3.0
+fd8acc8d-2d5b-46bb-9c7d-8cdc75a88c9b,Kayseri Mantısı Menü,"24,90 TL",Ekonomik Menüler,5.0
+eaddf80c-8b2e-49bb-9b0d-97784098fd3b,Boşnak Böreği Menü,"22,90 TL",Ekonomik Menüler,3.0
+0ff2d461-bd46-437b-ab5b-c9d608424afa,Peynirli Su Böreği,"10,00 TL",Börekler,7.0
+a89ce839-edb0-47cf-85b2-b23282538859,Kıymalı Su Böreği,"14,00 TL",Börekler,5.0
+6d21f515-bd23-48a4-b742-86bc050f6335,Peynirli Kol Böreği,"12,00 TL",Börekler,2.0
+77711a23-a3a4-4225-a923-f9d0379e049e,Ispanaklı Kol Böreği,"12,00 TL",Börekler,3.0
+4501d196-6218-4011-aea7-e7216bb35afb,Patatesli Kol Böreği,"12,00 TL",Börekler,8.0
+a74d6ebe-363f-46ce-a6d0-a07ae296b656,Kıymalı Kol Böreği,"14,00 TL",Börekler,10.0
+f306a573-86e5-47bb-a19a-96f5434ad130,Ispanaklı Peynirli Dolama Börek,"12,00 TL",Börekler,0.0
+5ccd52eb-7cff-40fb-9b24-55fd00289cab,Patatesli Boşnak Böreği,"12,00 TL",Börekler,3.0
+5c30e503-642b-4162-a4cf-208aadb49cff,Cevizli Baklava,"12,00 TL",Tatlılar,4.0
+6c9c7173-38cb-498c-9244-46ece363168b,Fıstıklı Baklava,"14,00 TL",Tatlılar,4.0
+8a59c1d6-2612-4a6a-bf19-8f09a55fb07f,Ev Baklavası,"12,00 TL",Tatlılar,8.0
+f1cebd5c-ca96-40bc-9daa-43a8239d57b8,Köy Burması,"12,00 TL",Tatlılar,5.0
+fd0421c1-a5b3-477f-bd7f-40a7722275e2,Cevizli Özel Baklava,"10,00 TL",Tatlılar,4.0
+3ace9de8-d21d-4156-b8a0-3031066b6e41,Fıstıklı Şöbiyet,"14,00 TL",Tatlılar,5.0
+5128fd11-99cc-47da-bfaa-0078a69d2e2c,Cevizli Erciyes Özel Baklava,"13,00 TL",Tatlılar,4.0
+0d585f4e-8937-4e1d-8c84-1f8d6c28530e,Fıstıklı Özel Baklava,"14,00 TL",Tatlılar,4.0
+a3e502cf-8fef-4ff1-a085-8f36ca1d21aa,Mantı,"19,00 TL",Diğer Lezzetler,8.0
+6a0d3c66-0428-4568-9d01-c65dced22b73,Zeytinyağlı Yaprak Sarma,"8,00 TL",Diğer Lezzetler,4.0
+d0c776bd-a5ed-47cd-8882-91ce184a49b3,Kurabiye Tabağı,"10,00 TL",Diğer Lezzetler,5.0
+c8726439-5951-4261-b547-acc86e5c9498,Su,"3,00 TL",İçecekler,5.0
+2a3784f6-4ae8-408a-8567-e2345232efd7,Peynirli Su Böreği (1 kg.),"30,00 TL",Kiloluk Börekler,2.0
+4b9d44e3-5916-43df-b884-95d525c03c25,Özel Peynirli Su Böreği (1 kg.),"42,00 TL",Kiloluk Börekler,2.0
+aacae2dc-fb10-4e0c-a7f7-9457ed64c667,Kıymalı Su Böreği (1 kg.),"42,00 TL",Kiloluk Börekler,5.0
+6049c14d-2a83-45b9-a03f-2fc2796f24e7,Peynirli Kol Böreği (1 kg.),"40,00 TL",Kiloluk Börekler,2.0
+f327139d-77a6-4778-b5c0-9f200b6c6e7c,Patatesli Kol Böreği (1 kg.),"40,00 TL",Kiloluk Börekler,3.0
+8cd6aead-3c6d-47a8-8f65-71782e6bfc1b,Kıymalı Kol Böreği (1 kg.),"48,00 TL",Kiloluk Börekler,5.0
+e458c2ba-afcc-4e18-a07c-289463ac186a,Ispanaklı Kol Böreği (1 kg.),"40,00 TL",Kiloluk Börekler,3.0
+af100008-79cc-4f2c-a009-9d0f8af740c5,Ispanaklı Peynirli Dolama Börek (1 kg.),"42,00 TL",Kiloluk Börekler,0.0
+07c3e55f-43ad-466f-ae77-e08048303cf8,Peynirli Boşnak Böreği (1 kg.),"40,00 TL",Kiloluk Börekler,2.0
+07566f7c-dd28-4cca-baa8-e49f154c3a40,Patatesli Boşnak Böreği (1 kg.),"40,00 TL",Kiloluk Börekler,3.0
+3333dcd8-1858-4e4f-8d70-a29c0dd19db9,"Peynirli Su Böreği (3,5 kg.)","89,00 TL",Tepsi Börekler,2.0
+d13016aa-70d7-4f7c-a93c-a0a6bc62aa87,Peynirli Su Böreği (Küçük) (3 kg.),"75,00 TL",Tepsi Börekler,2.0
+7a88db61-48e5-4fcb-bf21-696410aa8887,"Özel Peynirli Su Böreği (3 - 3,5 kg.)","89,00 TL",Tepsi Börekler,-1.0
+f45ae0bd-53eb-4d41-81ca-bf2dab139d0a,"Kıymalı Su Böreği (3 - 3,5 kg.)","89,00 TL",Tepsi Börekler,2.0
+03fbc3a0-eb7b-40d2-a925-fa03f9783b74,"Peynirli Kol Böreği (3 - 3,5 kg.)","75,00 TL",Tepsi Börekler,-1.0
+c7639572-4dcd-4b27-a4c6-b68ab09d48a9,"Patatesli Kol Böreği (3 - 3,5 kg.)","75,00 TL",Tepsi Börekler,0.0
+cdf13627-c180-44c2-b136-4aa2a5de711c,"Kıymalı Kol Böreği (3 - 3,5 kg.)","89,00 TL",Tepsi Börekler,2.0
+c0d32408-bdc4-45bb-a7e8-764bcf252c7b,"Ispanaklı Kol Böreği (3 - 3,5 kg.)","75,00 TL",Tepsi Börekler,0.0
+61f8d51e-6eaa-4352-ab74-87dd6a243a65,"Ispanaklı Peynirli Dolama Börek (3 - 3,5 kg.)","80,00 TL",Tepsi Börekler,-3.0
+66d4e584-bb91-4cc8-bb92-6805b876cbf3,"Peynirli Boşnak Böreği (3 - 3,5 kg.)","79,00 TL",Tepsi Börekler,-1.0
+b49ebb86-1d73-4133-bef6-4bf5523b374e,"Patatesli Boşnak Böreği (3 - 3,5 kg.)","79,00 TL",Tepsi Börekler,0.0
+3cd45a87-7785-4625-bb56-b1fe7b3f6697,Cevizli Baklava (1 kg.),"49,00 TL",Kiloluk Tatlılar,4.0
+14f1f120-e3f1-4e89-b7e1-34e407becd71,Cevizli Ev Baklavası (1 kg.),"49,00 TL",Kiloluk Tatlılar,8.0
+a4c6258b-935a-43fe-9904-048bca66ea63,Özel Cevizli Baklava (1 kg.),"49,00 TL",Kiloluk Tatlılar,4.0
+d510cf54-fb90-4441-a830-db8d92e9ed18,Köy Burması (1 kg.),"49,00 TL",Kiloluk Tatlılar,5.0
+d4b85871-e55a-4c17-a48b-837334db2a7f,Cevizli Özel Eryices Baklava (1 kg.),"49,00 TL",Kiloluk Tatlılar,4.0
+4858ecd3-4b3a-402e-b45e-817698ec1832,Fıstıklı Baklava (1 kg.),"79,00 TL",Kiloluk Tatlılar,4.0
+f2df5810-4346-4141-b685-821de1b0ae2b,Fıstıklı Özel Baklava (1 kg.),"79,00 TL",Kiloluk Tatlılar,4.0
+65fc8596-7f63-452f-858d-013b17e19a04,Fısıtklı Şöbiyet (1 kg.),"79,00 TL",Kiloluk Tatlılar,5.0
+3acad841-786e-4c7b-82cb-75a330c507c3,"Cevizli Baklava (3 - 3,5 kg.)","159,00 TL",Tepsi Tatlılar,1.0
+6e43bd14-a322-4bce-a815-78bce37499ed,"Cevizli Ev Baklavası (3 - 3,5 kg.)","159,00 TL",Tepsi Tatlılar,5.0
+0fb524e3-ac95-4b3c-a0b8-9c851050b5e5,Özel Cevizli Baklava (3 kg.),"139,00 TL",Tepsi Tatlılar,4.0
+d1474acf-1678-4962-adaa-fcbeaf1a8a84,Köy Burması (3 kg.),"129,00 TL",Tepsi Tatlılar,5.0
+463b8626-068e-4c55-b71c-3e0d926fb51f,Cevizli Özel Eryices Baklava (3 kg.),"119,00 TL",Tepsi Tatlılar,4.0
+cb3d82cd-c107-4028-94c5-36641edc0e69,Fıstıklı Baklava (3 kg.),"179,00 TL",Tepsi Tatlılar,4.0
+c65c9e18-b7ae-4f99-b9fe-35ceff38f8b9,Fıstıklı Özel Baklava (3 kg.),"169,00 TL",Tepsi Tatlılar,4.0
+3c4ff180-9399-4eeb-8810-0219da5a8707,Fısıtklı Şöbiyet (3 kg.),"179,00 TL",Tepsi Tatlılar,5.0
+13a969e6-2538-44ba-8b49-6b1143133e68,Cevizli Baklava (Küçük) (3 kg.),"139,00 TL",Tepsi Tatlılar,4.0
+8f32a2f3-9318-416c-8261-01f0aadf2ab0,Cevizli Ev Baklavası (Küçük) (3 kg.),"139,00 TL",Tepsi Tatlılar,8.0
+e91a1d53-ee1a-4def-9744-c32e1143a7c9,Poşet,"0,25 TL",Poşet,5.0

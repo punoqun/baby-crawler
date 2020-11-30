@@ -1,0 +1,37 @@
+food_id,food_name,food_price,food_category,food_score
+b18b865c-f59b-4300-8929-3d687f4a7492,Köri Soslu Tavuk Menü,"32,00 TL",Menüler,7.0
+0a2d9a00-5839-4c8d-995f-c540e9f7c3d3,Barbekü Soslu Tavuk Menü,"32,00 TL",Menüler,4.0
+cbe85294-1ff9-45c7-a3ac-d6a4e3a7a075,Meksika Soslu Tavuk Menü,"32,00 TL",Menüler,5.0
+18f058e0-80a1-4305-8799-b08875fac4d8,Tavuklu Sandviç Menü,"28,00 TL",Menüler,5.0
+b0960981-5b45-497b-9f7c-c43a3d9f5c6f,Tavuklu Wrap Menü,"28,00 TL",Menüler,9.0
+2c111c03-7612-4959-aae2-cbf9eedd388b,Hamburger Menü,"30,00 TL",Menüler,15.0
+61f91ce1-23b0-4b91-956d-5c41a749e61d,Cheeseburger Menü,"32,00 TL",Menüler,13.0
+20cc0160-19b7-4d98-a839-0752719b3408,Köfteli Wrap Menü,"30,00 TL",Menüler,7.0
+58a33a71-55d2-44ea-80d7-6eb39993ceb7,Izgara Köfte,"35,00 TL",Izgaralar,8.0
+c08a0cb9-a4a8-41d0-babb-c46fb2ee5b82,Izgara Tavuk,"30,00 TL",Izgaralar,4.0
+f595a264-67b4-4999-ab4a-4fc666ed3e9f,Penne Arrabbiata,"27,00 TL",Makarnalar,5.0
+ba79fdc0-961c-48d9-b66f-f2efdbf1fca0,Spaghetti Napoliten,"25,00 TL",Makarnalar,5.0
+145d109f-8e58-4357-8818-0bb02dc48eba,Fettuccine Alfredo,"27,00 TL",Makarnalar,5.0
+d9f74346-d514-4f29-9e68-9deeafa5dbf0,Spaghetti Bolognese,"30,00 TL",Makarnalar,5.0
+53e69d25-c0e0-4d18-b565-d77df8ea18d9,Beyaz Peynirli Akdeniz Salata,"16,00 TL",Salatalar,5.0
+1fc8aa62-364c-4557-b989-7ee304b77443,Fit Salata,"17,00 TL",Salatalar,5.0
+64364778-e771-493a-a4f4-b8d5bd00b24e,Sezar Salata,"20,00 TL",Salatalar,5.0
+b632c497-169a-4efa-ad42-9e1c891fb97e,Füme Salata,"29,00 TL",Salatalar,5.0
+4515cb97-9d91-4ef4-94ec-55ca2e4658f3,Ton Balıklı Salata,"19,00 TL",Salatalar,5.0
+55d7b93a-a0a9-4550-8556-c5b5f05ff4d7,Roka Salatası,"17,00 TL",Salatalar,5.0
+a02660d8-02fc-4ec6-b1c5-01c7be3f01dd,Tavuklu Salata,"19,00 TL",Salatalar,4.0
+e5bf0a30-ac27-4288-aba8-083bda564f6b,Aperitif Sepeti,"27,00 TL",Yan Ürünler,5.0
+dd8e9826-b78c-4378-b8b4-ef44c6f3c650,Soğan Halkası (10 Adet),"10,00 TL",Yan Ürünler,7.0
+20e9d464-0205-4d07-b629-8a9e81b5e68a,Elma Dilim Patates Kızartması,"10,00 TL",Yan Ürünler,9.0
+3d61895b-1b50-4dd4-8934-d7002be2a11f,Parmak Patates Kızartması,"9,00 TL",Yan Ürünler,9.0
+a76aa8aa-22ee-4b80-a405-f5a3edd71f82,Tavuk Sepeti,"19,00 TL",Yan Ürünler,4.0
+997fa599-f254-4feb-bdc3-6d08a021e5a0,Çikolatalı Brownie,"10,00 TL",Tatlılar,5.0
+8bae0aec-d49d-4a26-ac7c-a3ae461451de,Çikolatalı Pizza (Large),"27,00 TL",Tatlılar,5.0
+03119b4e-384b-401e-8fd1-1ab426904d83,Çikolatalı Pizza (Medium),"25,00 TL",Tatlılar,5.0
+6959be86-106b-4d77-8c07-0770093d3b2d,Çikolatalı Pizza (Small),"20,00 TL",Tatlılar,5.0
+d6bc9220-78b3-43ef-89d0-f92209f75cfd,Meyveli Çikolatalı Pizza (Large),"32,00 TL",Tatlılar,5.0
+0212e31f-62c7-4698-815e-816dfe27fc86,Meyveli Çikolatalı Pizza (Medium),"27,00 TL",Tatlılar,5.0
+9dea1dea-38bf-495f-bb46-bfb6c3c6051a,Meyveli Çikolatalı Pizza (Small),"22,00 TL",Tatlılar,5.0
+96e804fc-5453-4b46-885b-169eb4232bda,Sufle,"10,00 TL",Tatlılar,6.0
+83c775d9-5c8b-4ac5-b825-f9191373ac29,Coca-Cola Şekersiz (20 cl.),"5,00 TL",İçecekler,5.0
+198af362-fe9b-435d-a700-45d4c0600c4e,Poşet,"0,25 TL",Poşet,5.0

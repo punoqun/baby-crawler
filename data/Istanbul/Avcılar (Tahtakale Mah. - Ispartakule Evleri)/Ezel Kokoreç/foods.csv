@@ -1,0 +1,28 @@
+food_id,food_name,food_price,food_category,food_score
+d5fedea6-723d-47bb-b0bf-81e8052d4323,Çeyrek Ekmek Arası Sebzeli Kokoreç,"12,00 TL",Kokoreçler,1.0
+dbf513d9-7206-4671-9ef5-af679b7d94d9,Yarım Ekmek Arası Sebzeli Kokoreç,"15,00 TL",Kokoreçler,2.0
+ebb5c271-220c-4c39-8cf7-06ef54b73d3c,3/4 Arası Ekmek Sebzeli Kokoreç,"25,00 TL",Kokoreçler,1.0
+f7452500-da35-47c8-9594-9824554071a1,Tam Ekmek Arası Sebzeli Kokoreç,"30,00 TL",Kokoreçler,-1.0
+79dbe86d-0a0e-47a2-82c7-27c7b2fc9231,Çeyrek Ekmek Arası İzmir Kokoreç,"15,00 TL",Kokoreçler,11.0
+91b22d21-3bbd-4c64-af92-583b48186275,Yarım Ekmek Arası İzmir Kokoreç,"25,00 TL",Kokoreçler,7.0
+e78743e1-0b25-476f-85bd-2c7d6110c2d2,3/4 Ekmek Arası İzmir Kokoreç,"30,00 TL",Kokoreçler,11.0
+a173b8f0-8a98-4763-9184-fcf4554ac831,Tam Ekmek Arası İzmir Kokoreç,"45,00 TL",Kokoreçler,9.0
+29120537-ed7c-4c6b-92d0-f614bcdde06c,Izgara Köfte,"28,00 TL",Köfteler,13.0
+8f678c8e-498d-4ae6-9326-824ba3309827,Çeyrek Ekmek Arası Köfte,"10,00 TL",Köfteler,14.0
+3bdec021-f238-43e8-a21e-acef62ac1178,Yarım Ekmek Arası Köfte,"15,00 TL",Köfteler,15.0
+426ee7d1-b196-448d-a63d-c49d6f0444eb,3/4 Ekmek Arası Köfte,"22,00 TL",Köfteler,14.0
+d739f1cd-c5b8-4824-93b2-bd9c59ecc0db,Tam Ekmek Arası Köfte,"28,00 TL",Köfteler,12.0
+5d4e9544-ed7f-43da-a11d-4228189a6e8d,Izgara Sucuk,"28,00 TL",Sucuklar,5.0
+f0ffb2e5-1ed7-4d56-8f92-b8ca1c73dfed,Çeyrek Ekmek Arası Sucuk,"10,00 TL",Sucuklar,6.0
+69152adb-6925-4f5a-a3ce-7e71068a93a6,Yarım Ekmek Arası Sucuk,"15,00 TL",Sucuklar,2.0
+a87ee6f4-a7ca-41b9-8851-f30c79ab12b6,3/4 Ekmek Arası Sucuk,"22,00 TL",Sucuklar,6.0
+0a79f340-8230-4a74-a290-8e16bf7436f2,Tam Ekmek Arası Sucuk,"28,00 TL",Sucuklar,4.0
+a850202b-c79a-4c11-a0d1-5826c8ded93f,Midye Dolma (Adet),"1,25 TL",Yan Ürünler,8.0
+FBE44435-605D-46DC-A66C-A804301455C3,Sütlaç,"7,00 TL",Tatlılar,5.0
+BBA208E7-F8A7-4906-AB00-4943571BC399,Supangle,"7,00 TL",Tatlılar,5.0
+CB2494CC-0EF0-4539-8F1E-1C2AB1F30F16,Profiterol,"7,00 TL",Tatlılar,5.0
+8573FFB8-D000-437A-B139-C337D2653844,Mag,"7,00 TL",Tatlılar,5.0
+20566DC7-CE06-4B49-8818-1C07C358ED33,Kıbrıs Tatlısı,"7,00 TL",Tatlılar,5.0
+042a79c8-60c0-4795-8301-a51ae7c60d30,Kazandibi,"7,00 TL",Tatlılar,5.0
+FE82148B-04F0-4E81-833F-6239B9FD3EA5,Acılı Ayran,"5,00 TL",İçecekler,5.0
+0e4eb325-675e-4e4b-aa0a-ffdae59bf374,Poşet,"0,25 TL",Poşet,5.0

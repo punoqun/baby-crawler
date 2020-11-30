@@ -1,0 +1,34 @@
+food_id,food_name,food_price,food_category,food_score
+0E86A4CC-D463-4078-887B-7F620C0A28BB,Karışık Pide Menü 2,"125,00 TL",Menüler,14.0
+90A9C598-D82B-4EAC-AFBE-3121AA3FFD05,Adana Dürüm Menü,"125,00 TL",Menüler,9.0
+E98FD191-0226-4110-AEFB-E191988E48F3,5'li Kuşbaşılı Pide Menü,"125,00 TL",Menüler,12.0
+5ADC2403-C870-48D0-B22E-F733A39E017D,5'li Kaşarlı Pide Menü,"100,00 TL",Menüler,11.0
+D2F5DB7B-ACA2-4AA9-A559-556F10BC7609,3'lü Lahmacun Menü,"30,00 TL",Menüler,19.0
+8AD16D76-A686-46C7-9041-0F562555113F,Karışık Pide Menü,"100,00 TL",Menüler,13.0
+d5dbbde5-4713-4a0a-9e85-d81943ffdf0c,Kıymalı Pide Menü,"15,00 TL",Menüler,20.0
+7175FA68-5C95-48CA-BFA4-148B9CC25EB0,Kıymalı Pide Menü 2,"75,00 TL",Menüler,16.0
+914180B5-F515-4AAA-BA5C-D6DB0FA9DAF6,Kıymalı Pide Menü 3,"75,00 TL",Menüler,17.0
+f475bf9b-9ff2-4366-a7e9-be94ffe34b30,Lahmacun Menü,"20,00 TL",Menüler,24.0
+33CE5277-5448-4954-8248-AF747969A448,Lahmacun Menü 2,"60,00 TL",Menüler,20.0
+9AA8C910-536C-47DF-8A9F-7CDA56EB7E5F,Lahmacun Menü 3,"100,00 TL",Menüler,21.0
+db7bd2b3-2342-4ef1-84a8-5b7b303f7f02,Lahmacun,"10,00 TL",Fırın Ürünleri,24.0
+4e95db9d-30ac-4ffa-a68b-4f870944a7cb,Kıymalı Pide,"15,00 TL",Fırın Ürünleri,15.0
+0fee8821-78b8-46e0-83e2-1871400a8055,Kıymalı Yumurtalı Pide,"16,00 TL",Fırın Ürünleri,15.0
+651164db-7c1c-43d3-8482-7e25165d346c,Kıymalı Kaşarlı Pide,"20,00 TL",Fırın Ürünleri,15.0
+9888a88d-4593-41a0-aa80-dc528326e9fb,Kuşbaşılı Pide,"24,00 TL",Fırın Ürünleri,12.0
+2f9a90cb-cd9b-4dd7-9091-f96efe91c76e,Kuşbaşılı Kaşarlı Pide,"28,00 TL",Fırın Ürünleri,12.0
+b0cf8912-c98f-482d-a0e1-9fe4bfee47ed,Mantarlı Pide,"16,00 TL",Fırın Ürünleri,11.0
+6d1c8b1b-bcb8-407a-9833-d0ab7a440efb,Mantarlı Kaşarlı Pide,"20,00 TL",Fırın Ürünleri,11.0
+1629ebdb-fb6e-4989-b75f-082fe8e2b5a4,Kuşbaşılı Kaşarlı Mantarlı Pide,"28,00 TL",Fırın Ürünleri,12.0
+ad0a68c8-f407-4139-bdfc-fc719648072a,Tavuklu Pide,"20,00 TL",Fırın Ürünleri,11.0
+8a86f656-1bab-4567-ab9c-980301357320,Tavuklu Kaşarlı Mantarlı Pide,"26,00 TL",Fırın Ürünleri,11.0
+939eb264-abac-416c-aad4-a0d4ce74bff2,Kaşarlı Kıymalı Karadeniz Pidesi,"26,00 TL",Fırın Ürünleri,11.0
+b4780602-b316-4531-9c8b-37b40dc60035,Kıymalı Kuşbaşılı Pide,"20,00 TL",Fırın Ürünleri,16.0
+08f07a0c-02d9-4b02-bf17-4a9a0296c3c3,Karışık Pide,"28,00 TL",Fırın Ürünleri,13.0
+691a5085-c518-4437-8a14-f83a53940723,Kaşarlı Pide,"20,00 TL",Fırın Ürünleri,11.0
+95464a22-db28-4f48-9548-76921a3a3de2,Adana Kebap,"24,00 TL",Kebaplar & Izgaralar,9.0
+e59b99d1-b50f-410d-8189-3d4d579a2cee,Şiş Köfte,"24,00 TL",Kebaplar & Izgaralar,5.0
+44d61fde-51a7-4ec8-954c-04cac1fe08ee,Tavuk Şiş Kebap,"24,00 TL",Kebaplar & Izgaralar,5.0
+93bacbcb-bd45-4b81-a051-cad29f27b671,Adana Dürüm,"24,00 TL",Dürümler,9.0
+b9fad2e4-f4c3-4c2d-9a6b-b976540e2c7a,Tavuk Şiş Dürüm,"24,00 TL",Dürümler,5.0
+282ac8af-490f-4de6-b7aa-4a543cd92b9e,Lavaş (10 Adet),"30,00 TL",Yan Ürünler,5.0

@@ -1,0 +1,25 @@
+food_id,food_name,food_price,food_category,food_score
+2daf5a20-3d29-45cb-855c-80faedd8e01f,Ekonomik Menü,"16,00 TL",Menüler,5.0
+27ef478c-96de-44e2-a509-ab898f492071,Adana Kebap,"25,00 TL",Kebaplar,12.0
+6d638a99-93de-4ddf-a03d-73898ad02f25,"Açık Beyti Kebap (1,5 Porsiyon)","35,00 TL",Kebaplar,9.0
+49795632-9d05-486d-a2bd-1c7cbadb0f4b,"Patlıcanlı Kebap (1,5 Porsiyon)","35,00 TL",Kebaplar,7.0
+25904ccb-bda0-4058-8c55-ff9ea4e4c147,Tavuk Kıyma Kebap,"20,00 TL",Kebaplar,6.0
+c823ba12-b2e3-4626-b1e9-fcd873c00bca,Çöp Şiş,"27,00 TL",Izgaralar,5.0
+a0908832-ac6c-47cb-aad5-2176e87e6276,Et Şiş,"27,00 TL",Izgaralar,5.0
+2d811273-d6a9-469b-870d-757399ca4cf1,Kaburga Şiş,"27,00 TL",Izgaralar,5.0
+46fc1605-a76e-4f4f-b73d-563c9e130845,Ciğer Şiş,"27,00 TL",Izgaralar,5.0
+3ea1c274-563c-44af-b14b-5417af6db1c1,"Kuzu Külbastı (1,5 Porsiyon)","38,00 TL",Izgaralar,5.0
+2d46a773-c38f-4c29-8fd6-44338d5162d3,Kemiksiz Tavuk Şiş,"25,00 TL",Izgaralar,4.0
+52775800-266a-4471-8102-122074860a19,Kemikli Tavuk Şiş,"25,00 TL",Izgaralar,4.0
+81DB9C99-22DB-473B-9C14-3BE6F273DF5C,Tavuk Kanat Şiş,"25,00 TL",Izgaralar,4.0
+d033921c-4c3d-4037-a393-4833e457979c,Adana Dürüm,"22,00 TL",Dürümler,11.0
+279e1212-f11e-417c-a7b1-bf6682155699,Et Şiş Dürüm,"24,00 TL",Dürümler,6.0
+51599c7f-90fb-4676-a93c-6f8c97ae9c6e,Ciğer Şiş Dürüm,"24,00 TL",Dürümler,6.0
+8a24b753-1e5e-4463-9d9f-7d95ae9d89f7,Kemiksiz Tavuk Şiş Dürüm,"20,00 TL",Dürümler,5.0
+29fa20c2-e272-4def-97e1-6d9adf42146d,"Tavuk Kebap Dürüm (1,5 porsiyon)","13,00 TL",Dürümler,12.0
+3C7F3341-6A3E-4181-A5F7-8F2ED1427C2C,Ciğer Dürüm (Yarım),"12,00 TL",Dürümler,6.0
+79b2e0eb-d7fc-46ac-bbad-d6f5d9a6bd68,Et Tava,"27,00 TL",Diğer Lezzetler,5.0
+3c74cea0-a51f-4f7e-aa2f-a8379cbec602,Tavuk Tava,"23,00 TL",Diğer Lezzetler,4.0
+beadd11e-1f87-4ecb-b7f3-b3ebcfd36d1e,Kilis Tava,"25,00 TL",Diğer Lezzetler,5.0
+bbeff945-0869-434e-9ce5-bc585d67bec1,Künefe,"10,00 TL",Tatlılar,5.0
+d73ec89f-7aaa-4578-8f2f-4eba58d420c3,Poşet,"0,25 TL",Poşet,5.0

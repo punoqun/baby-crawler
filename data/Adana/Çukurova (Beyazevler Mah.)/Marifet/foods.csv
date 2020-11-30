@@ -1,0 +1,36 @@
+food_id,food_name,food_price,food_category,food_score
+3fa37914-f26d-41aa-949d-16437dd0be9e,Kaşarlı Sac Böreği,"7,00 TL",Sac Börekleri,15.0
+4aaab58b-b8b6-48ae-8a76-c02278c82a92,Peynirli Sac Böreği,"6,00 TL",Sac Börekleri,14.0
+9482146d-2bd7-4772-ad30-0a5c77e0f575,Patatesli Sac Böreği,"6,00 TL",Sac Börekleri,16.0
+aa655e3e-67d1-4809-a41e-8b7ed1ccdbe6,Ispanaklı Sac Böreği,"6,00 TL",Sac Börekleri,15.0
+d241c25e-b843-4907-98ba-9411ca596e48,Kıymalı Sac Böreği,"8,00 TL",Sac Börekleri,16.0
+27418C96-7792-4257-B47B-0C9CF5729A8D,Ispanaklı Kaşarlı Sac Böreği,"8,00 TL",Sac Börekleri,16.0
+A6764596-E389-4F5E-B21C-BED2B668FA76,Patatesli Kaşarlı Sac Böreği,"8,00 TL",Sac Börekleri,22.0
+4AA495EC-B751-4645-9A9A-1C1A0E9D15F9,Sucuklu Kaşarlı Sac Böreği,"9,00 TL",Sac Börekleri,15.0
+19592c06-63ec-42eb-a4db-aac6dfc06ffe,Ispanaklı Gözleme,"7,00 TL",Gözlemeler,13.0
+9cb61238-df23-4758-afaa-7ab6b10bfaa5,Patatesli Gözleme,"7,00 TL",Gözlemeler,19.0
+bbccfafe-a21e-4184-8a05-fc7805580b00,Kıymalı Gözleme,"9,00 TL",Gözlemeler,19.0
+cd5f1b7e-40be-4897-ac8b-4b175460096a,Peynirli Gözleme,"7,00 TL",Gözlemeler,17.0
+ef43f823-abb6-4305-a913-0323c291b5e7,Kaşarlı Gözleme,"8,00 TL",Gözlemeler,23.0
+7233C61B-D283-4243-A245-388B8A329067,Ispanaklı Kaşarlı Gözleme,"9,50 TL",Gözlemeler,19.0
+CBC9C9C4-886B-46C1-94F9-50A208319EF9,Patatesli Kaşarlı Gözleme,"9,50 TL",Gözlemeler,30.0
+AE5CF4E4-3243-4DC9-A8BD-73938EEA470A,Sucuklu Kaşarlı Gözleme,"10,00 TL",Gözlemeler,18.0
+7851D55B-0A5F-4660-8F44-4D4ECC6B40D4,Mexico Gözleme,"14,00 TL",Gözlemeler,12.0
+10d35ebe-cb13-476e-a795-06e78ccc9d73,Karışık Tost,"10,00 TL",Tostlar,4.0
+b04e4cdb-4045-4ce2-b27c-94e0986927de,Sucuklu Tost,"9,00 TL",Tostlar,4.0
+fe3c0b92-8b34-4395-bc74-edd8e1595821,Kaşarlı Tost,"8,00 TL",Tostlar,10.0
+B5DB1561-2491-4881-B40D-F77911ACD4E2,Yengen Tost,"12,00 TL",Tostlar,3.0
+1bb22ce5-448b-4675-a3a5-da7c750a6665,Peynirli Sıkma,"3,50 TL",Sıkmalar,6.0
+203b880b-3039-4831-a841-1c83d9a7af46,Patatesli Sıkma,"3,50 TL",Sıkmalar,8.0
+321bf04a-4fe8-40fd-b202-c72d06f11785,Çikolatalı Sıkma,"4,50 TL",Sıkmalar,1.0
+91c2cce4-d2c6-4fb8-913e-c76d1a0733ee,Kaşarlı Sıkma,"4,00 TL",Sıkmalar,7.0
+f6556a3b-080e-4f2f-a538-789bdeab766d,Ciğerli Sıkma,"6,00 TL",Sıkmalar,1.0
+0A3826F6-094B-454B-B467-1D1F716CD1E4,Patatesli Kaşarlı Sıkma,"5,00 TL",Sıkmalar,14.0
+E8F19711-951D-43C8-8BE4-486E14B22BB3,Domates Salatalık Söğüş,"2,50 TL",Diğer Lezzetler,4.0
+8BD20017-FCCC-46A4-B7FE-5415FBB825D5,Yağlı Bazlama,"2,00 TL",Diğer Lezzetler,6.0
+1B8FC658-B2E1-4DAC-9AC0-43A2BD53A6C9,Ekmek Arası Köfte,"13,00 TL",Diğer Lezzetler,10.0
+493FCA68-18FE-412C-8375-B05569ADDE22,Yumurtalı Menemen,"12,00 TL",Diğer Lezzetler,5.0
+51FCA8C7-185D-4A2B-AA81-089713B2BB07,Haşlanmış İçli köfte (3 Adet),"18,00 TL",Diğer Lezzetler,16.0
+98FFB66D-F6A3-46D4-8DDF-2039F3E010D5,Zeytinyağlı Yaprak Sarma (15 Adet),"15,00 TL",Diğer Lezzetler,5.0
+5BEB253C-AFA3-43DF-BCA9-5A318D5EC05F,Yedigün (20 cl.),"3,50 TL",İçecekler,5.0
+9487ac40-5aac-4023-b227-8b131cd3fd72,Poşet,"0,25 TL",Poşet,5.0

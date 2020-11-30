@@ -1,0 +1,41 @@
+food_id,food_name,food_price,food_category,food_score
+e6160242-0c4a-407e-bf68-02727c8c93b0,Tavuk Kanat Menü,"40,00 TL",Menüler,5.0
+278764ae-6589-4a22-9d1f-ebd1faf124e2,Izgara Tavuk Menü,"40,00 TL",Menüler,5.0
+ac5cdd8e-653c-4b81-9940-b9ccf8fd855b,Adana Kebap Menü,"42,00 TL",Menüler,5.0
+6f43688b-5dd4-4a47-aeee-8d80bed49c1c,Kebap (200 gr.) Menü,"50,00 TL",Menüler,5.0
+c8d7fa8f-db70-4ba3-a89c-b9d1d6032f50,Kebap Menü,"38,00 TL",Menüler,5.0
+8cdeeaab-3a5a-40b3-8b5b-2a4996fa7be8,Karışık Izgara Menü,"56,00 TL",Menüler,5.0
+04c40e6c-6fc6-414d-ae26-f07a0085d298,Kebap (160 gr.) Menü,"43,00 TL",Menüler,5.0
+HSDYM010201,Adana Kebap,"34,00 TL",Kebaplar,5.0
+588a0c00-a09e-4f44-bdc5-1f1ead9f8df1,Kıyma Kebabı,"45,00 TL",Kebaplar,5.0
+HSDYM010205,Ciğer Şiş,"37,00 TL",Kebaplar,5.0
+HSDYM010203,Çöp Şiş,"39,00 TL",Kebaplar,4.0
+HSDYM010206,Kanat Izgara,"31,00 TL",Kebaplar,5.0
+HSDYM010207,Karışık Kebap,"50,00 TL",Kebaplar,5.0
+9ba5fb19-16ed-4be5-b424-72bbd9068cfa,Kaşarlı Sucuk,"36,00 TL",Kebaplar,7.0
+babd3549-bcc0-4d24-8077-9e134f37d924,Kuzu Şiş,"39,00 TL",Kebaplar,5.0
+eb43f057-7073-490a-b7df-ffd758432600,Tavuk Kanat,"31,00 TL",Kebaplar,10.0
+HSDYM010204,Tavuk Şiş,"31,00 TL",Kebaplar,5.0
+HSDYM010301,Adana Dürüm,"20,00 TL",Dürümler,8.0
+df5d7abf-94e8-419d-9e62-07c2d2cffb83,Çöp Şiş Dürüm,"23,00 TL",Dürümler,2.0
+HSDYM010302,Urfa Dürüm,"20,00 TL",Dürümler,3.0
+HSDYM010305,Kaşarlı Sucuk Dürüm,"23,00 TL",Dürümler,5.0
+HSDYM010306,Tavuk Şiş Dürüm,"19,00 TL",Dürümler,3.0
+HSDYM010307,Ciğer Şiş Dürüm,"22,00 TL",Dürümler,3.0
+438eab75-02b9-4215-8c0e-cd9b0e2e787a,Kuzu Şiş Dürüm,"23,00 TL",Dürümler,3.0
+HSDYM010308,Karışık Dürüm,"31,00 TL",Dürümler,3.0
+96d015a8-6e98-4854-a694-509ffc00d1ea,Yarım Ekmek Arası Izgara Köfte,"9,00 TL",Ekmek Arası Ürünler,5.0
+HSDYM010401,Yarım Ekmek Kokoreç,"7,50 TL",Kokoreçler,5.0
+HSDYM010402,Kokoreç Dürüm,"8,00 TL",Kokoreçler,3.0
+HSDYM010403,Porsiyon Kokoreç,"15,00 TL",Kokoreçler,4.0
+147620a7-6fd9-468e-98a5-9901cd74b367,Çiğ Köfte (12 Sıkım),"12,00 TL",Aperatifler,7.0
+e8707697-0af0-4643-b222-23a16eb4064c,Çiğ Köfte (6 Sıkım),"6,00 TL",Aperatifler,7.0
+HSDYM010602,Midye Dolma (10 Adet),"10,00 TL",Aperatifler,5.0
+HSDYM010901,Ayvalık Tostu,"6,00 TL",Tostlar,5.0
+HSDYM010902,Kaşarlı Tost,"5,00 TL",Tostlar,5.0
+HSDYM010903,Karışık Tost,"4,00 TL",Tostlar,5.0
+bf1a0bd4-5c1b-430e-a232-62042ab90569,Katmer Tatlısı,"15,00 TL",Tatlılar,5.0
+HSDYM010701,Künefe,"14,00 TL",Tatlılar,10.0
+0b7010cf-e130-4762-a6ef-711181f4db63,Cappy Karışık (33 cl.),"6,00 TL",İçecekler,5.0
+HSDYM010812,Şalgam Suyu (50 cl.),"5,00 TL",İçecekler,5.0
+87d9b040-3bca-4389-a0a3-d12184ee8dc4,Poşet,"0,25 TL",Poşet,5.0

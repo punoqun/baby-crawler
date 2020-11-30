@@ -1,0 +1,46 @@
+food_id,food_name,food_price,food_category,food_score
+63739369-de28-4523-beeb-c270d8c7df71,Büyük Menü,"52,99 TL",Menüler,11.0
+e9fa2526-b7e6-4824-9bb3-5a866b8b9072,İdeal Menü,"44,99 TL",Menüler,5.0
+b2cfc6c0-dbe5-4182-bd83-8ee0b1d536ae,Big Boss Menü,"66,99 TL",Menüler,7.0
+0d5d1640-48c5-43f1-8491-9d599c8e3c49,Rota Menü,"32,99 TL",Menüler,7.0
+87D1FE40-11BE-4F72-A1BB-2ADB0B8435E4,Fit Menü,"24,49 TL",Menüler,5.0
+F53E79A9-9B66-461D-AA4D-E44C5376E37D,Fix Menü,"28,49 TL",Menüler,5.0
+CBCB3FA9-62A2-4A1D-B1A3-0C4840A29BD3,Süper 3'lü Menü,"64,99 TL",Menüler,9.0
+40D94DAF-4B25-4D35-81EF-A0A55F6A48A8,Muhteşem 3'lü Menü,"89,99 TL",Menüler,5.0
+D47BAD23-9D2F-44CD-BB2F-D3543DD3263F,Parti Menü,"92,99 TL",Menüler,5.0
+9CF2688B-D242-4F8D-9BB1-109A7B91B604,Bomba Menü,"122,99 TL",Menüler,5.0
+03da8803-5c54-42d0-8a98-c10c325e37b7,Lejyon Pizza (Orta),"19,99 TL",Klasik Pizzalar (Orta) (1 Kişilik),16.0
+53EC731D-68EA-4026-8A24-42DC383907E5,Pizza Sugary (Orta),"15,00 TL",Klasik Pizzalar (Orta) (1 Kişilik),16.0
+061c755e-90e5-4e56-b64c-5b4941e860c0,Tahinli Pizza (Orta),"19,99 TL",Klasik Pizzalar (Orta) (1 Kişilik),16.0
+5b8d0248-63e4-4607-a812-30580709c436,Margherita Pizza (Orta),"19,99 TL",Klasik Pizzalar (Orta) (1 Kişilik),20.0
+89179e08-901e-427e-b020-01afd8d728bd,Mexicano Pizza (Orta),"19,99 TL",Klasik Pizzalar (Orta) (1 Kişilik),16.0
+8f7cb4e3-1f77-4294-a8a5-3cb768965134,Sosisli Pizza (Orta),"19,99 TL",Klasik Pizzalar (Orta) (1 Kişilik),16.0
+b85b1f92-968a-457e-9c15-709863458229,Veggie Pizza (Orta),"19,99 TL",Klasik Pizzalar (Orta) (1 Kişilik),16.0
+d6039bf8-bc36-4596-8206-10f063cb4715,Sucuklu Pizza (Orta),"19,99 TL",Klasik Pizzalar (Orta) (1 Kişilik),18.0
+e1357b73-0886-435b-99f4-c59b9a7e64af,Karışık Pizza (Orta),"19,99 TL",Klasik Pizzalar (Orta) (1 Kişilik),21.0
+e3c8d1dc-1fff-46b0-9fa4-62f014a9443c,Chef Special Pizza (Orta),"27,99 TL",Gurme Pizzalar (Orta) (1 Kişilik),16.0
+ff6bcf83-8023-4424-baaa-cd977e07ea31,Efsane Karışık Pizza (Orta),"24,99 TL",Gurme Pizzalar (Orta) (1 Kişilik),21.0
+1096b3c1-a7d3-425d-8f40-46922865cc85,Etobur Pizza (Orta),"24,99 TL",Gurme Pizzalar (Orta) (1 Kişilik),16.0
+f76c9a62-04ab-43bc-a2b7-7e608a9dffee,Kavurmalı Pizza (Orta),"24,99 TL",Gurme Pizzalar (Orta) (1 Kişilik),22.0
+d87d9840-6435-45be-a63e-d9d7d36af629,Lezzet Küpüm Pizza (Orta),"24,99 TL",Gurme Pizzalar (Orta) (1 Kişilik),16.0
+ab802907-1578-4ea9-8fe2-29422975cd90,Salamania Pizza (Orta),"24,99 TL",Gurme Pizzalar (Orta) (1 Kişilik),16.0
+e249127d-edc0-4e71-b6ec-c16b9d648aca,Tavuk Dönerli Pizza (Orta),"19,99 TL",Gurme Pizzalar (Orta) (1 Kişilik),16.0
+c81b1a9c-275c-4523-822c-27f0c40cb89e,Ton Balıklı Pizza (Orta),"24,99 TL",Gurme Pizzalar (Orta) (1 Kişilik),16.0
+04780b1a-bf2a-4cc1-9322-3282781e260e,Sosisli Pizza (Büyük),"23,99 TL",Klasik Pizzalar (Büyük) (1 - 2 Kişilik),16.0
+08dea11f-83ea-48c5-9acf-57dc6873ed26,Sucuklu Pizza (Büyük),"23,99 TL",Klasik Pizzalar (Büyük) (1 - 2 Kişilik),18.0
+2feab4b7-4ff2-4a00-af82-5d130bbe9ddd,Karışık Pizza (Büyük),"23,99 TL",Klasik Pizzalar (Büyük) (1 - 2 Kişilik),21.0
+9dcf95e8-c74c-49f6-aa36-0498c2b62bef,Veggie Pizza (Büyük),"23,99 TL",Klasik Pizzalar (Büyük) (1 - 2 Kişilik),16.0
+a994d00e-5dcf-4cf8-9848-4cdaa45ca5f8,Lejyon Pizza (Büyük),"23,99 TL",Klasik Pizzalar (Büyük) (1 - 2 Kişilik),16.0
+ee159aad-7d1d-4957-bdc8-32e1c67578e8,Margherita Pizza (Büyük),"23,99 TL",Klasik Pizzalar (Büyük) (1 - 2 Kişilik),20.0
+f885b3ca-2970-445d-b1a7-224f38ca0a5d,Mexicano Pizza (Büyük),"23,99 TL",Klasik Pizzalar (Büyük) (1 - 2 Kişilik),16.0
+c3e523f2-fa06-46f3-827b-2314c08620fa,Chef Special Pizza (Büyük),"34,99 TL",Gurme Pizzalar (Büyük) (1 - 2 Kişilik),16.0
+4a76fd04-77f7-4ffa-a090-ca0dfc0f3424,Efsane Karışık Pizza (Büyük),"29,99 TL",Gurme Pizzalar (Büyük) (1 - 2 Kişilik),21.0
+21c71236-b37f-49c9-a35a-6ec7189a4634,Etobur Pizza (Büyük),"29,99 TL",Gurme Pizzalar (Büyük) (1 - 2 Kişilik),16.0
+eae506b9-c4bb-429d-8b68-c425f887b499,Kavurmalı Pizza (Büyük),"29,99 TL",Gurme Pizzalar (Büyük) (1 - 2 Kişilik),22.0
+db6cf7b8-2f6d-4784-b97f-b6d08d95446f,Lezzet Küpüm Pizza (Büyük),"27,99 TL",Gurme Pizzalar (Büyük) (1 - 2 Kişilik),16.0
+54586cef-8425-4950-aa0b-fdf98b543c23,Salamania Pizza (Büyük),"27,99 TL",Gurme Pizzalar (Büyük) (1 - 2 Kişilik),16.0
+17fc5673-3303-4390-8117-ef708e7db292,Tavuk Dönerli Pizza (Büyük),"24,99 TL",Gurme Pizzalar (Büyük) (1 - 2 Kişilik),16.0
+36ca7fd0-f756-4e12-a36b-21c07c5517bd,Ton Balıklı Pizza (Büyük),"29,99 TL",Gurme Pizzalar (Büyük) (1 - 2 Kişilik),16.0
+02478049-2e0b-4bad-ae7f-4876088ec8c7,Sufle,"9,00 TL",Tatlılar,7.0
+ab092f96-aeb3-4b42-82ee-a5223e861278,Su (1 L.),"3,00 TL",İçecekler,18.0
+5021a9ee-7e4b-4b86-9e64-c2256083a90a,"Su (1,5 L.)","4,00 TL",İçecekler,18.0

@@ -1,0 +1,37 @@
+food_id,food_name,food_price,food_category,food_score
+7db9f372-a9a7-4b11-8ba9-7ecb2b7765a9,Menü 1,"25,00 TL",Menüler,28.0
+8e26dd4c-c37f-4d8c-b2e9-da9b6bf2be47,Menü 2,"30,00 TL",Menüler,6.0
+9cc50dd1-b6e3-4282-b4ea-d3966e295b67,Menü 3,"32,00 TL",Menüler,6.0
+63D92119-DA50-459B-802F-F4DC3CF3863C,Menü 4,"35,00 TL",Menüler,8.0
+66A0AC3A-216E-4212-9E4A-57E9C640F218,Menü 5,"30,00 TL",Menüler,10.0
+12f8b0b1-d153-4899-ba19-dc8640ff3901,Nohutlu Pilav,"9,00 TL",Pilavlar,10.0
+3D74176E-EBD4-41E9-A935-0862169A5C5A,Bol Tavuklu Pilav,"15,00 TL",Pilavlar,17.0
+3833604B-1C2D-4E6F-9AD8-DE4878EC43DD,Pilav Üstü Ciğer & Tavuk,"20,00 TL",Pilavlar,9.0
+F6D86205-9871-40AA-97ED-C6713D8FAC0C,Pilav Üstü Tavuk Sote,"18,00 TL",Pilavlar,10.0
+FF000080-1141-4819-B5E7-DF0EDC74DA94,Pilav Üstü Sote (Küçük),"14,00 TL",Pilavlar,10.0
+57666F8A-A8C5-4513-A865-0FA72A558FEB,Pilav Üstü Ciğer (Küçük),"14,00 TL",Pilavlar,9.0
+CC2A5C90-31E8-43EF-872C-FBB2AA14A736,Az Pilav Bol Tavuk,"13,00 TL",Pilavlar,10.0
+9DE2521E-124E-4CC0-9ED3-6CCD0A0D5D86,"1,5 Bol Tavuklu Pilav","20,00 TL",Pilavlar,12.0
+883258F1-E35D-4CAA-9825-81F1E9A3120D,Ekstra Bol Tavuklu Pilav,"17,00 TL",Pilavlar,12.0
+26C20155-5272-451D-BDA7-8D6E99182A50,"1,5 Tavuklu Pilav","17,00 TL",Pilavlar,12.0
+9E1FB542-04C3-4A03-BC2C-12D121B9CFAC,"1,5 Nohutlu Pilav","13,00 TL",Pilavlar,10.0
+2D7EF91A-9183-4AB0-AA86-C40C11283BE4,"1,5 Tavuklu & Kuru Fasulyeli Pilav","20,00 TL",Pilavlar,16.0
+2ad53adb-4e76-4f48-b3a5-5ad3ea411de2,Tavuklu Pilav,"12,00 TL",Pilavlar,17.0
+CC0E2691-56FF-44EC-BFDB-FABFB0F876C1,Pilav Üstü Kuru Fasulye,"12,00 TL",Pilavlar,14.0
+D6A3A145-DB76-4FF5-9A0D-1E2D3AE7D7F8,Pilav Üstü Ciğer,"18,00 TL",Pilavlar,9.0
+E4E6C3EC-B11C-4C3B-8D9C-8ECD5B93F583,Karışık Pilav,"14,00 TL",Pilavlar,10.0
+4259a383-ee5f-4c7f-8975-104b3dbe7bdf,Tavuk Ciğer Kavurma,"18,00 TL",Ana Yemekler,3.0
+da35831f-0714-490a-aa04-424af038c77c,Kuru Fasulye,"14,00 TL",Ana Yemekler,9.0
+CCCBC9EF-C3CA-4C5C-92DA-13B50A377675,Tavuk Sote,"18,00 TL",Ana Yemekler,4.0
+91058463-757c-4ed0-87cb-73fb1a972e78,Yarım Ekmek Arası Ciğer,"10,00 TL",Ekmek Arası Ürünler,4.0
+22E51682-8659-4624-98FA-13568683EB58,Yarım Ekmek Arası Tavuk Sote,"10,00 TL",Ekmek Arası Ürünler,4.0
+E70D3F6E-BA3B-4300-B729-4354EB1F9E72,Tam Ekmek Arası Tavuk Sote,"20,00 TL",Ekmek Arası Ürünler,4.0
+ABA71D23-A92F-4705-A1D1-CD7DED201BF1,3/4 Ekmek Arası Tavuk Sote,"15,00 TL",Ekmek Arası Ürünler,4.0
+C17AA455-6CF8-41E1-BAAE-A098CD81B035,3/4 Ekmek Arası Ciğer,"15,00 TL",Ekmek Arası Ürünler,4.0
+CBE39FD9-F5EA-42E1-ADF8-AA51053D0BA0,Tam Ekmek Arası Ciğer,"20,00 TL",Ekmek Arası Ürünler,4.0
+B5BD7F15-8FEE-43F9-A6FA-CDBE301CB066,Ketçap (10 gr.),"0,75 TL",Yan Ürünler,5.0
+70E22AD4-7C41-40C8-B4F5-9B4000F0396A,Biber Turşusu,"0,75 TL",Yan Ürünler,10.0
+a1ab05b4-0569-4ffe-b17e-76e27e4228be,Hayrabolu Tatlısı,"10,00 TL",Tatlılar,5.0
+c0b8ab5b-0a59-4c92-9b0b-dbcfb5868a60,Sütlaç,"10,00 TL",Tatlılar,7.0
+2FD0D2BB-F45F-4E1F-BD75-463F7162593B,Açık Ayran (33 cl.) (Büyük),"5,00 TL",İçecekler,3.0
+c537c847-3aa8-40d2-a535-d0586f42b960,Poşet,"0,25 TL",Poşet,5.0

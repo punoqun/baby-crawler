@@ -1,0 +1,22 @@
+food_id,food_name,food_price,food_category,food_score
+8e055b9b-a956-4855-ae4e-844c5baecc2e,Tam Ekmek Arası Et Döner,"30,00 TL",Et Dönerler,8.0
+0af8d2c1-4487-4ee1-8a0c-0c46d2022497,Tam Ekmek Arası Tavuk Döner,"12,00 TL",Tavuk Dönerler,-2.0
+ab9554e5-ec27-48f2-95b8-4ef816eaaa92,Fındık Lahmacın,"4,00 TL",Fırın Ürünleri,5.0
+6d3cd3aa-b233-4753-a1b8-1815c1abb282,Kaşarlı Lahmacun,"10,00 TL",Fırın Ürünleri,7.0
+2db2aeae-8427-4982-9e1d-69d21692debe,Kuşbaşılı Kaşarlı Pide,"34,00 TL",Fırın Ürünleri,7.0
+a9bf652f-43b9-42ee-b852-c6ab6f4275c8,Kavurmalı Kaşarlı Pide (Yuvarlak),"34,00 TL",Fırın Ürünleri,7.0
+25d55589-1d77-4c7c-b5f3-f0da83f7bf41,Kavurmalı Kaşarlı Pide (Uzun),"34,00 TL",Fırın Ürünleri,7.0
+117cc897-0d80-43e6-ae8c-080f6aa37cc5,Kuru Fasulye,"18,00 TL",Ana Yemekler,5.0
+ee55d10d-aaaa-4b6b-827a-fb8534c0bf35,Pilav Üstü Kuru Fasulye,"15,00 TL",Ana Yemekler,0.0
+04E8B0F1-9A0A-4A2E-928D-9E8D5592082A,Güveç,"30,00 TL",Ana Yemekler,5.0
+61965D7F-DD7A-4166-8125-F38EEEE306EE,Patlıcan Musakka,"28,00 TL",Ana Yemekler,5.0
+DC2C1C1A-C84F-4C4A-A521-64D542136F77,Fırın Tavuk,"24,00 TL",Ana Yemekler,-3.0
+D42D1D14-4F1E-466B-ABE8-B496C7E45A3D,Sebzeli Güveç,"15,00 TL",Ana Yemekler,5.0
+DDA10E04-FA8C-454E-A5FF-D074E4D75359,Nohut,"15,00 TL",Ana Yemekler,5.0
+4054a7a4-9ce1-4da5-aea1-75e405930b07,Orman Kebabı,"30,00 TL",Ana Yemekler,5.0
+1e2b8a5a-d257-4acf-84ce-da177f096b3d,Rosto Köfte,"25,00 TL",Ana Yemekler,5.0
+2b4ae7f9-5229-46e8-9f8e-4ba3313cf0ce,Pirinç Pilavı,"8,00 TL",Yan Ürünler,5.0
+6f54df12-11c0-428f-9065-f29854a10252,Yoğurt,"8,00 TL",Yan Ürünler,5.0
+db8052f3-ab7a-441e-be2d-8c34d495782b,Patates Kızartması,"10,00 TL",Yan Ürünler,5.0
+afcefc04-3c0c-4ea8-ab42-730649e020b5,"Ayran (1,5 L.)","14,00 TL",İçecekler,3.0
+d6756cbc-ed4f-49bc-be39-2c3df1e4cf0a,Poşet,"0,25 TL",Poşet,5.0

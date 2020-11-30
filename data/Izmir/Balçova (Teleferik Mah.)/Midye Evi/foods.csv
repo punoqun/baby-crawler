@@ -1,0 +1,52 @@
+food_id,food_name,food_price,food_category,food_score
+A0E7A207-7FF2-43E9-97F1-93A7217A1DFD,Sandviç Menü 1,"23,00 TL",Menüler,27.0
+79F9257B-64B1-44E6-A216-23EDC1A982BF,Mega Menü,"24,00 TL",Menüler,7.0
+9f9cb401-6fc3-4979-8827-e697e190654a,Karışık Hamburger Menü,"23,00 TL",Menüler,5.0
+405543ce-3e6c-452a-95ef-b6a5496a6d59,Tost Menü,"20,00 TL",Menüler,5.0
+1d49ce77-94c2-4ddb-b80e-8b52d49b82da,Karışık Tost Menü,"40,00 TL",Menüler,5.0
+afc2b7ae-0f79-48f8-b617-5e575b8fdf96,Çiğ Köfte (1 kg.) & Midye (1 kg.) Menü,"85,00 TL",Menüler,52.0
+22f7446a-8a7f-4931-be3a-af66541dffe0,Çiğ Köfte (500 gr.) & Midye (1 kg.) Menü,"60,00 TL",Menüler,52.0
+8173b620-2715-4849-94c3-4451d0ab56f0,3'lü Çiğ Köfte Dürüm & Midye (1 kg.) Menü,"55,00 TL",Menüler,52.0
+eff524d6-739f-4110-9b02-2bdfbbf271ae,5'li Çiğ Köfte Dürüm & Midye (1 kg.) Menü,"80,00 TL",Menüler,52.0
+785d257b-abdf-4246-aac9-7399bc2e9407,2'li Çiğ Köfte Dürüm & Midye (1 kg.) Menü,"47,00 TL",Menüler,52.0
+90106618-5ff6-45c8-822f-3a593b76790b,3'lü Şnitzelli Çiğ Köfte Dürüm & Midye (1 kg.) Menü,"60,00 TL",Menüler,52.0
+f48e0359-4777-450b-b8a7-cf5ed3417296,Kaşarlı Tost,"11,00 TL",Tostlar,5.0
+3fc0357e-59f6-4716-bd26-1d35a3c3616a,Karışık Tost,"11,00 TL",Tostlar,5.0
+6b1b76e4-1eef-485d-b644-8c480ad6aef4,Sucuklu Tost,"11,00 TL",Tostlar,5.0
+b34fd502-25e7-45d6-8f53-4413f22a6651,Sucuklu & Kaşarlı Tost,"11,00 TL",Tostlar,5.0
+b1513fe7-d777-4ab8-8e5e-e81e34ff8295,Peynirli Gözleme,"15,00 TL",Gözlemeler,6.0
+e040fd39-cb48-4e7b-9ffe-0828c9cd2c84,Kaşarlı Gözleme,"15,00 TL",Gözlemeler,6.0
+1fd37e84-5628-4646-a2cb-f8429543bb1f,Patatesli Gözleme,"15,00 TL",Gözlemeler,7.0
+292ca651-010b-4eb6-ae8d-bdb5735f7a9c,Patatesli Kaşarlı Gözleme,"15,00 TL",Gözlemeler,7.0
+f43715a3-4e3f-4d0a-a0b0-d436b01eb51a,Mantarlı Kaşarlı Gözleme,"15,00 TL",Gözlemeler,6.0
+24f4917c-1644-446e-926a-f145ef47dacd,Sucuklu Kaşarlı Gözleme,"16,00 TL",Gözlemeler,6.0
+6ce67701-56fa-4ce1-9c86-3ef8808b7e16,Tulum Peynirli Gözleme,"15,00 TL",Gözlemeler,8.0
+23a65615-6062-4c9a-9b35-53e015bfa637,Tavuklu Gözleme,"20,00 TL",Gözlemeler,6.0
+c59ed62f-ee31-417d-b818-210adc17d677,Yarım Ekmek Arası Köfte,"13,00 TL",Ekmek Arası Ürünler,1.0
+8cf8da80-877b-434f-81f8-e37cc37f2cf2,Ekmek Arası Kasap Sucuk,"12,00 TL",Ekmek Arası Ürünler,5.0
+da2b44e6-afed-410a-9632-b73bf70aca4f,Karışık Sandviç,"15,00 TL",Ekmek Arası Ürünler,5.0
+e820ad93-7931-4233-90d2-408930a04564,Çiğ Köfte Dürüm,"6,00 TL",Çiğ Köfteler,6.0
+55730e44-73b1-40ba-837f-112ce374f0fe,Midyeli Çiğ Köfte Dürüm,"10,00 TL",Çiğ Köfteler,7.0
+b7be6716-1ac3-4377-b8b1-5bca077c06f8,Midye Dolma (Küçük) (Adet),"0,75 TL",Midyeler,56.0
+c141c67f-d9c0-47a4-9cf1-179ee934a4c5,Midye Dolma (Orta) (Adet),"1,00 TL",Midyeler,56.0
+95849d4d-6ed9-4063-a4e1-f59208258be5,Midye Dolma (Büyük) (Adet),"2,00 TL",Midyeler,51.0
+3a7b8be9-e68b-490d-9a85-88bca964562d,Midye Dolma (Küçük) (1 kg.),"35,00 TL",Midyeler,51.0
+c43b8718-e8f1-4c94-83da-8b3c2a8e2b38,Midye Dolma (Orta) (1 kg.),"35,00 TL",Midyeler,51.0
+aa38d98f-5f8a-4be3-8854-3d88325aba65,Midye Dolma (Büyük) (1 kg.),"35,00 TL",Midyeler,56.0
+94708834-0c1f-4618-a6b6-dc800f2989d0,Karışık Midye Dolma (1 kg.),"35,00 TL",Midyeler,51.0
+f9fc0f65-b697-4459-832b-98b154da3597,Midye Dolma (Küçük) (500 gr.),"17,50 TL",Midyeler,51.0
+ab3d72d8-e888-44ab-978e-6016871682cc,Midye Dolma (Orta) (500 gr.),"17,50 TL",Midyeler,51.0
+c71bd960-8ed5-4f64-b96e-9fbe313dbe09,Midye Dolma (Büyük) (500 gr.),"17,50 TL",Midyeler,51.0
+8f8b4ee7-3fae-4782-8540-e938e9dc9a9f,Haydari (100 gr.),"3,00 TL",Mezeler,5.0
+4cd6dedb-f2ee-4cba-9e25-da1028e23429,Haydari (200 gr.),"6,00 TL",Mezeler,5.0
+1e96e27e-2ff8-4bec-987b-e7b638608dbc,Haydari (300 gr.),"9,00 TL",Mezeler,5.0
+88c9bb70-6bf2-400a-883c-0739adf13195,Haydari (400 gr.),"12,00 TL",Mezeler,5.0
+9467bb36-d4e4-4057-a883-e78b1e060cfa,Rus Salatası (300 gr.),"9,00 TL",Mezeler,5.0
+a2c7075f-3608-414d-ab7e-9b3799cf59d9,Rus Salatası (400 gr.),"12,00 TL",Mezeler,5.0
+a32877dc-2ec9-4ac1-bc02-68dad7d29acc,Çikolatalı Sufle,"10,00 TL",Tatlılar,5.0
+75db9552-3a5f-4a5e-ba42-7f59a95542b7,Adanus Şalgam Suyu (1 L.),"10,00 TL",İçecekler,5.0
+db7f675f-069d-48c3-a1d7-4c480fa57737,Haydari (1 kg.),"30,00 TL",Kiloluk Mezeler,5.0
+f46d1d5e-204b-4a50-8817-0693e6cd9e37,Haydari (500 gr.),"15,00 TL",Kiloluk Mezeler,5.0
+19d8b3b8-57b6-4914-8238-6a08d69d9299,Rus Salatası (1 kg.),"30,00 TL",Kiloluk Mezeler,5.0
+b359b7f3-46f7-44f1-8609-61bd3d36ff69,Rus Salatası (500 gr.),"15,00 TL",Kiloluk Mezeler,5.0
+50331643-7472-430a-8980-92823bfd5f59,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,75 @@
+food_id,food_name,food_price,food_category,food_score
+a081dc04-7cd9-4a6b-9acc-aa15b66d4314,Kampanya Menü 2,"10,00 TL",Kampanya Menüleri,10.0
+7e72509b-b808-40e6-8231-28003137de50,Kampanya Menü 3,"13,50 TL",Kampanya Menüleri,9.0
+cfa1042d-ca4c-43e1-998d-5f159d4fc65a,Special (1 Kişilik),"25,00 TL",Special Menüleri,5.0
+0a64451c-f399-43a1-9024-4395cd11504e,Special (2 Kişilik),"40,00 TL",Special Menüleri,10.0
+e3bdcf53-1221-4258-86d5-6dd0b0435158,Special (4 Kişilik),"60,00 TL",Special Menüleri,5.0
+39f3fe8a-f57a-4b73-b76c-26c94099dad0,Special (5 Kişilik),"80,00 TL",Special Menüleri,5.0
+edb75c26-4ed9-44ba-801d-82b9f785f6ff,Special (6 Kişilik),"95,00 TL",Special Menüleri,5.0
+9346818f-17ab-443b-a62b-4e3e00223445,Menü 1,"20,00 TL",Çıtır Menüler,29.0
+fc8c9ff0-27b0-448f-bb72-ba4db707652d,Menü 2,"25,00 TL",Çıtır Menüler,10.0
+a5c0039a-3d77-4612-9df7-8f92eb5535f1,Menü 3,"37,00 TL",Çıtır Menüler,9.0
+6d799322-995c-4c5a-9243-df3e437e83f6,Menü 4,"55,00 TL",Çıtır Menüler,7.0
+734affab-eb70-4f64-bb65-3ef7cb61190a,Menü 5,"20,00 TL",Çıtır Menüler,12.0
+9d1f045c-cfea-41ed-b94d-1bd29d29cddf,Menü 6,"25,00 TL",Çıtır Menüler,7.0
+4c289da2-e5fa-482f-8f32-cb27debf632d,Menü 7,"37,00 TL",Çıtır Menüler,10.0
+862bfeb0-370b-40b4-8de0-a58430c11c65,Menü 8,"60,00 TL",Çıtır Menüler,9.0
+e12f4ce3-5acb-44ab-8bb3-305732ada2ca,Menü 9,"21,00 TL",Çıtır Menüler,5.0
+7337b8aa-d3e2-45f0-9d6d-0cdcdeadd30e,Menü 10,"27,00 TL",Çıtır Menüler,21.0
+ba6cde33-9e4f-4240-a8a6-eda4eb9f65e9,Menü 11,"42,00 TL",Çıtır Menüler,6.0
+a6718a9e-53fc-437f-959b-713106d025f3,Menü 12,"60,00 TL",Çıtır Menüler,7.0
+b58c030a-5407-4e23-84b1-dcb3c5fe1a4d,Yummy Tavuk Suyu Çorba,"8,00 TL",Çorbalar,8.0
+2d9f70d2-7e98-4437-a25f-b28e78b5be8e,Çıtır Tavuk Göğüs Parçası (1 Adet),"4,00 TL",Tavuk Yemekleri,6.0
+a19691e1-21fd-467e-864a-766f8ee8b229,Çıtır Tavuk Göğüs Parçası (4 Adet),"11,00 TL",Tavuk Yemekleri,6.0
+dd6719ae-9373-4e9a-abdf-5078ad426b91,Çıtır Tavuk Göğüs Parçası (8 Adet),"16,00 TL",Tavuk Yemekleri,6.0
+dc6d03ed-f8c6-4734-b96a-1585f99a9e75,Çıtır Tavuk Göğüs Parçası (12 Adet),"25,00 TL",Tavuk Yemekleri,6.0
+8a0782f1-4791-4e29-a163-72798802e1fc,Çıtır Tavuk Göğüs Parçası (24 Adet),"45,00 TL",Tavuk Yemekleri,6.0
+a968f03e-d92a-498d-a655-c3d7261bc8a7,Çıtır Kanat (1 Adet),"4,00 TL",Tavuk Yemekleri,4.0
+201d809a-fabe-4cdf-9e4d-125886cd7d73,Çıtır Kanat (4 Adet),"11,00 TL",Tavuk Yemekleri,4.0
+1d661faa-b3f4-4f60-9cc6-bd2ad8a0e1ce,Çıtır Kanat (8 Adet),"18,50 TL",Tavuk Yemekleri,4.0
+760e841d-ffd9-4d7b-bba5-a8729c714390,Çıtır Kanat (12 Adet),"25,00 TL",Tavuk Yemekleri,4.0
+7b6b6ce7-9fbd-4b7a-9c4c-28465c7ea3f4,Çıtır Kanat (24 Adet),"50,00 TL",Tavuk Yemekleri,4.0
+948eaf59-3f73-40a7-8e3b-b572e17905b8,Çıtır But (1 Adet),"6,00 TL",Tavuk Yemekleri,4.0
+65cbacba-b3e0-4518-969d-090bfd422ae6,Çıtır But (2 Adet),"12,00 TL",Tavuk Yemekleri,4.0
+40a3c4d4-bee4-4591-834d-5f18239bbc91,Çıtır But (4 Adet),"24,00 TL",Tavuk Yemekleri,4.0
+453ae192-c015-4904-bf9b-263537cfcbeb,Çıtır But (8 Adet),"30,00 TL",Tavuk Yemekleri,4.0
+6c4f3c83-02d4-4462-920a-c31de380c614,Çıtır But (12 Adet),"47,00 TL",Tavuk Yemekleri,4.0
+1365375d-04c0-4959-9bf7-4b9f20e5f423,Yarım Ekmek Arası Et Döner,"12,00 TL",Et Dönerler,0.0
+2e60ef5b-86fc-476d-8e67-bcfa0a2e57a9,Tam Ekmek Arası Et Döner,"22,00 TL",Et Dönerler,1.0
+1a6dca11-e826-4785-b779-4ffe58074e65,Zurna Et Döner Dürüm,"22,00 TL",Et Dönerler,3.0
+46ee2ab3-01a8-49a0-80d3-2b63930c0fd9,Et Döner Dürüm,"17,50 TL",Et Dönerler,-1.0
+11A5481C-9688-48EC-B470-DE3F71F7BB2E,Tombik Ekmek Arası Et Döner,"10,00 TL",Et Dönerler,-2.0
+8ACA1A70-E37A-4A74-9422-9696632B5512,Et Döner (1 kg.) (Pişirilmiş),"180,00 TL",Et Dönerler,-1.0
+718D6D2E-740C-433F-94B2-C007EAB634DF,Et Döner (100 gr.),"23,00 TL",Et Dönerler,-1.0
+176D928F-D96C-4E5F-A41F-FE0F244F8891,Et Döner (150 gr.),"33,00 TL",Et Dönerler,-1.0
+44A3473C-8A08-40A3-8A32-B41995EC4F60,Et Döner (200 gr.),"43,00 TL",Et Dönerler,-1.0
+6FBBEB6C-8A78-4BCA-B7DC-5013F2F2F96E,İskender (Et Dönerden),"25,00 TL",Et Dönerler,12.0
+15FDD21E-299D-45C7-A594-2BDA85CF2C1F,Pilav Üstü Et Döner (100 gr.),"25,00 TL",Et Dönerler,-6.0
+A3DB0F79-5911-4B35-8930-8DE19814B8BC,Pilav Üstü Et Döner (150 gr.),"35,00 TL",Et Dönerler,-6.0
+A0448153-15BD-4525-82C9-4D0C8686686D,Pilav Üstü Et Döner (200 gr.),"45,00 TL",Et Dönerler,-6.0
+23b374a6-9f14-4c50-a152-b580bf13a6f1,İskender (Tavuk Dönerden),"13,00 TL",Tavuk Dönerler,12.0
+3d2fd3d1-429c-45bf-8329-04e6e3e7bf32,Tavuk Döner,"10,00 TL",Tavuk Dönerler,2.0
+0c710e8f-6565-44c6-86a3-5023b7ebaed4,Pilav Üstü Tavuk Döner,"12,00 TL",Tavuk Dönerler,-3.0
+815d1449-5e0a-4687-a967-b641d280503b,Ekmek Arası Tavuk Döner,"12,00 TL",Tavuk Dönerler,3.0
+B08515F3-508B-493C-AE96-63E43A06080B,Tombik Ekmek Arası Tavuk Döner,"5,00 TL",Tavuk Dönerler,6.0
+D7E49DE4-09AA-416B-87A0-830A823EBF8F,İskender (Tavuk Dönerden - Orta),"16,00 TL",Tavuk Dönerler,14.0
+90D9B450-E665-4F9C-BD98-6343264F3FE6,İskender (Tavuk Dönerden - Büyük),"20,00 TL",Tavuk Dönerler,14.0
+541EF6C2-CC7A-43F3-AFEC-8846DBAED092,Pilav Üstü Tavuk Döner (150 gr.),"16,00 TL",Tavuk Dönerler,-3.0
+96FBE23B-1164-43C6-BD87-0AB0FAF6B0A0,Pilav Üstü Tavuk Döner (200 gr.),"20,00 TL",Tavuk Dönerler,-3.0
+CCC4F040-1BD1-4944-ABD1-3EC2664A4F00,Tavuk Döner (150 gr.),"15,00 TL",Tavuk Dönerler,2.0
+C373A5F5-5E23-4E89-BA0B-62C9C75D5E07,Tavuk Döner (200 gr.),"20,00 TL",Tavuk Dönerler,2.0
+98C3B1E1-EFCC-467F-808D-7D42A0009761,Tavuk Döner (1 kg.) (Pişirilmiş),"85,00 TL",Tavuk Dönerler,2.0
+09F76117-4F6C-4540-AC4B-B353E640ED7D,Yarım Ekmek Arası Tavuk Döner,"6,00 TL",Tavuk Dönerler,3.0
+193d59d6-697b-4b2b-94e0-fe95c2c2433f,Dürüm Mix,"9,00 TL",Dürümler,5.0
+854ff5de-0690-4420-bddb-3e668c27aaa5,Tavuk Dürüm,"8,00 TL",Dürümler,4.0
+69050953-e7f7-4a0b-829e-89f956424e93,Tavuk Zurna Dürüm (20 cm.),"12,00 TL",Dürümler,13.0
+d779e537-b7ce-4509-b1f8-4caca1e69d20,Yummy Salata,"7,00 TL",Salatalar,5.0
+CC234F7F-360B-407D-A0DA-9D474DD64652,Çoban Salata,"7,00 TL",Salatalar,3.0
+3534db35-690c-4c16-855b-ff4f87e1c146,Patates Kızartması,"5,00 TL",Yan Ürünler,7.0
+802003B4-72D3-4346-903D-92FB8C7A4E1B,Pirinç Pilavı,"6,00 TL",Yan Ürünler,5.0
+05B9B4E9-432D-4F2B-9223-9E17E923FF1C,Ekmek,"1,75 TL",Yan Ürünler,6.0
+2AEDEF5D-3863-43D4-B95F-9187AFC6EFA7,Lavaş,"1,00 TL",Yan Ürünler,1.0
+13E1EFEB-D22C-4E05-A8A7-93237AC523F9,Tandır Lavaşı,"2,00 TL",Yan Ürünler,5.0
+1683B4A0-5C41-4EA2-8D2A-F2D91B03708C,Pepsi Mango (33 cl.),"4,50 TL",İçecekler,5.0
+b12acf03-12a1-42bf-b726-e68d362c268a,"Fanta (2,5 L.)","10,00 TL",İçecekler,5.0
+fa281e4b-a7e6-43a8-9d44-b07fcee5d45c,Poşet,"0,25 TL",Poşet,5.0

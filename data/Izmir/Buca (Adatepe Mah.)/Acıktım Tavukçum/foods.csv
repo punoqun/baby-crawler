@@ -1,0 +1,38 @@
+food_id,food_name,food_price,food_category,food_score
+d5cb9063-5d1f-469e-95e2-e7d7726363e3,Et Döner Dürüm Menü,"17,25 TL",Menüler,-15.0
+0b544d9f-c4c6-4b73-a819-81dfa71809d0,Tavuk Döner Burger Menü,"12,00 TL",Menüler,-3.0
+86fe0f4f-1f37-476b-a791-7fb097d629e1,Jumbo Dürüm Menü,"13,88 TL",Menüler,-8.0
+a4ad94d3-5be5-4e67-a8ce-6c66f2128082,Antakya Tavuk Döner Dürüm Menü,"13,50 TL",Menüler,-16.0
+2ecad63c-2635-40cd-910b-02d9a43ec2fc,Yarım Ekmek Arası Izgara Köfte Menü,"14,25 TL",Menüler,5.0
+f442f089-372c-4e19-828f-4deaf58391d5,3/4 Ekmek Arası Izgara Köfte Menü,"15,00 TL",Menüler,12.0
+8c7f927f-e085-4df1-969f-28ca292e2502,Bazlama Ekmek Arası Izgara Köfte Menü,"15,00 TL",Menüler,5.0
+74ba6cb5-ef7a-4aa8-8b96-1b370275d427,Yarım Ekmek Arası Tavuk Döner Menü,"12,75 TL",Menüler,-3.0
+aeeb9c54-25cd-4168-adc1-1fb467956644,3/4 Ekmek Arası Tavuk Döner Menü,"14,25 TL",Menüler,-1.0
+e02a97a1-2c33-43e8-bf6e-8072861bb0ed,Tam Ekmek Arası Tavuk Döner Menü,"16,13 TL",Menüler,-1.0
+8838b7a0-5f01-404e-8b1a-e7721613e551,Bazlama Ekmek Arası Tavuk Döner Menü,"12,75 TL",Menüler,-3.0
+589dea86-b23a-4813-bbe7-d99fbf160b7f,Et Döner Dürüm,"12,75 TL",Et Dönerler,-15.0
+ae2e8aa3-dbde-401d-87ae-352da5a0b658,Yarım Ekmek Arası Et Döner,"12,00 TL",Et Dönerler,-2.0
+89D66CC2-BB90-4A28-9153-D3DB8A144B5B,Kumru Döner,"12,75 TL",Et Dönerler,-1.0
+a419b145-31a9-4d5e-ac4a-6faa843d79d4,Tavuk Döner Burger,"8,25 TL",Tavuk Dönerler,-3.0
+a1f27d87-ccd8-43ae-80f4-b38e837eb113,Jumbo Antakya Tavuk Döner Dürüm,"10,88 TL",Tavuk Dönerler,-16.0
+75487d54-231e-4d5e-b5e0-960bbff8ac14,Klarnet Dürüm (75 cm.),"13,50 TL",Tavuk Dönerler,-8.0
+04a1bc56-2ad8-4e87-aa34-29550d3d17be,3/4 Ekmek Arası Tavuk Döner,"12,00 TL",Tavuk Dönerler,-1.0
+cf9002ab-2fc9-4ab8-bc7c-4a51476db4d6,Tam Ekmek Arası Tavuk Döner,"12,75 TL",Tavuk Dönerler,-1.0
+e514ea6a-3598-46ca-8129-ec8489c07329,Bazlama Ekmek Arası Tavuk Döner,"9,75 TL",Tavuk Dönerler,-3.0
+1493cfa1-8179-4772-8398-66836b5a225d,Yarım Ekmek Arası Sucuk Köfte,"8,25 TL",Ekmek Arası Ürünler,5.0
+f2a28a40-62e9-46a5-aabd-341c41cd8f70,Yarım Ekmek Arası Izgara Köfte,"10,50 TL",Ekmek Arası Ürünler,5.0
+d35aaa86-413f-4698-af7a-7c435bb569f9,3/4 Ekmek Arası Izgara Köfte,"12,00 TL",Ekmek Arası Ürünler,7.0
+4d9369a2-5103-49b9-9eaa-b00ca63ce34d,Bazlama Ekmek Arası Izgara Köfte,"12,00 TL",Ekmek Arası Ürünler,5.0
+382be1a8-1c92-4a88-82f0-e5159128e0c2,Yarım Ekmek Arası Patates,"7,50 TL",Ekmek Arası Ürünler,-2.0
+621b70ff-1471-4128-b799-9078a44f6c35,Maxi Karışık Sandviç,"11,25 TL",Ekmek Arası Ürünler,5.0
+3F5DE58B-E11A-4B8B-B629-589B532525EB,Efso Burger,"14,25 TL",Burgerler,5.0
+23d1aeaf-2d05-4748-a0a4-6f76def6d328,Nugget (4 Adet),"4,50 TL",Yan Ürünler,5.0
+8a0c787c-a788-4af0-990a-b165a390dd56,Algida Maraş Usulü Cup Dondurma (100 ml.),"3,00 TL",Dondurmalar,5.0
+f1155dff-fddb-4ada-b262-0b87812113f8,Algida Carte d'Or Mini Cup Çikolata Karnavalı (110 ml.),"5,25 TL",Dondurmalar,5.0
+8f6875a0-ebf2-4694-b962-13dc10f8c45f,Algida Carte d'Or Mini Cup Çilekli Yoğurtlu (110 ml.),"5,25 TL",Dondurmalar,5.0
+96276fc0-3b79-4c32-8f4f-c8b0fa57b5ea,Carte d'Or Dondurmalı Volcano,"9,00 TL",Dondurmalar,5.0
+ebab13e5-efc2-40fd-8537-c1eb11cc8764,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"7,50 TL",Dondurmalar,5.0
+cd55a1fb-441f-47b7-9546-a1dcf7cd0d4c,Cappy Şeftali (33 cl.),"2,63 TL",İçecekler,5.0
+15ece4de-ffaa-4eab-8382-0ae75e767bc8,Su,"1,13 TL",İçecekler,1.0
+5097B480-BE80-4704-8E3E-E89E4D06EDED,"Coca-Cola (2,5 cl.)","7,50 TL",İçecekler,5.0
+ce68af06-69f6-482c-9ba2-b5c05f4f38c2,Poşet,"0,25 TL",Poşet,5.0

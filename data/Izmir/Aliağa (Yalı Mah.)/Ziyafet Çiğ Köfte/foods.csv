@@ -1,0 +1,50 @@
+food_id,food_name,food_price,food_category,food_score
+9caa9895-6ace-477a-9032-00aae19f2bca,Aile Boyu Menü,"48,00 TL",Ekonomik Menüler,7.0
+65427ACC-6DAA-49A1-82EE-94393FD31197,Cevizli Baklava & Dondurma Menü,"40,00 TL",Ekonomik Menüler,9.0
+1255577C-E0C8-4E05-A657-CA739151A66D,Cevizli Baklava & Yaprak Sarma Menü,"38,00 TL",Ekonomik Menüler,14.0
+4651aeae-16f9-44ae-93c3-4b3ec29ce51e,Çiğ Köfte (200 gr.),"9,00 TL",Çiğ Köfteler,19.0
+e3eab950-568f-4da6-b6de-04af36d88655,Çiğ Köfte (400 gr.),"18,00 TL",Çiğ Köfteler,24.0
+7284ce04-dc0d-492d-b117-e1c2764e5f98,Çiğ Köfte (600 gr.),"27,00 TL",Çiğ Köfteler,19.0
+0146e1ae-6b39-4000-8b0c-e6685530fe33,Çiğ Köfte (800 gr.),"36,00 TL",Çiğ Köfteler,19.0
+2c5ae3b0-9ffe-4da7-a1eb-ab66e456b68a,Çiğ Köfte (1 kg.),"45,00 TL",Çiğ Köfteler,19.0
+BF7D623C-A8FC-462D-975D-A81A4157CE41,Çiğ Köfte (1 kg.) (Garnitürsüz),"35,00 TL",Çiğ Köfteler,19.0
+6907e6e2-ef87-4150-9999-5cf2d83a0eb3,Çiğ Köfte Dürüm,"5,50 TL",Çiğ Köfte Dürümler,24.0
+0df3eb5d-a8d3-4b01-b888-ecbb4a8c6927,Çift Lavaş Çiğ Köfte Dürüm,"6,50 TL",Çiğ Köfte Dürümler,19.0
+b9c611f5-1c9e-4928-becf-bbf0dd9b2dd8,Mega Çiğ Köfte Dürüm,"8,00 TL",Çiğ Köfte Dürümler,24.0
+b1801946-8bc8-4f8d-9eef-0b610bb286b1,Duble Çiğ Köfte Dürüm,"10,00 TL",Çiğ Köfte Dürümler,19.0
+3f6c98e0-2efc-4280-9792-0902b5feefa6,Midye Dolma (1 kg.),"50,00 TL",Diğer Lezzetler,5.0
+947a3c0d-f448-4898-969d-08622c3fefed,Midye Dolma (250 gr.),"12,50 TL",Diğer Lezzetler,5.0
+2b3d2af6-d81c-4f35-be42-5e8da3f4f668,Midye Dolma (500 gr.),"25,00 TL",Diğer Lezzetler,5.0
+7D533A49-5F8C-4396-BB3C-E0C711D5DD58,Midye Tava (200 gr.),"23,00 TL",Diğer Lezzetler,5.0
+D1D3E9E7-AB32-4175-ADD8-E94E0B3F16B6,Midye Tava (300 gr.),"34,50 TL",Diğer Lezzetler,5.0
+91ba5d34-9424-42db-9eea-c15adfe0ba39,Yaprak Sarma (250 gr.),"11,50 TL",Diğer Lezzetler,10.0
+c8f9b591-53b7-4b2b-bc8d-ec8bce869753,Yaprak Sarma (500 gr.),"23,00 TL",Diğer Lezzetler,10.0
+b53a16c8-a9a5-4233-8835-2a02c64a22d6,Yaprak Sarma (1 kg.),"45,00 TL",Diğer Lezzetler,10.0
+28bf05e2-afc8-4967-b3cb-93ad4693e9fc,5'li Meze (375 gr.),"25,00 TL",Mezeler,4.0
+0251a626-0ee9-476f-9d0d-96051fdae4ff,Akdeniz Salatası (200 gr.),"12,00 TL",Mezeler,5.0
+07327d56-7c38-4a35-a3cc-893018b498d7,Tokat Çemeni (240 gr.),"12,00 TL",Mezeler,5.0
+12A3BC09-494C-4D5E-A637-A3E107357AF9,Acı Sos (15 gr.),"0,75 TL",Yan Ürünler,7.0
+015e742c-a735-4081-9ce6-de363f483e88,Nar Ekşisi (15 gr.),"0,75 TL",Yan Ürünler,5.0
+c929ac0d-4836-4072-be38-67878d639863,Lavaş (Adet),"1,00 TL",Yan Ürünler,5.0
+399e1f6c-f866-40d2-88d4-5d889edf4b35,Algida Dondurma (250 gr.),"12,50 TL",Dondurmalar,5.0
+1eb69745-7724-4af5-a67e-2d66bf89301e,Algida Dondurma (500 gr.),"24,00 TL",Dondurmalar,5.0
+96561275-2d55-4495-8bd4-471e3a2b0fef,Algida Dondurma (1 kg.),"45,00 TL",Dondurmalar,5.0
+3C38DC93-467E-415E-872D-2B94109B9E96,Algida Maraş Usulü Cup Dondurma (100 ml.),"6,00 TL",Dondurmalar,5.0
+4707ED7A-F8AE-44C8-A74F-A666FF921C93,Magnum Mini Dondurma (6'lı ),"32,00 TL",Dondurmalar,35.0
+E2F85BCD-8D45-4E07-B2ED-917FF40C76CF,Bal Badem Tatlısı (4 Dilim),"10,00 TL",Tatlılar,7.0
+81F97D0D-367A-4DBD-BF42-9C6356C633AD,Sütaş Puding (90 gr.),"3,00 TL",Tatlılar,5.0
+0DE494F0-8014-4AB7-8DB9-6FFDC04BD99E,Burma Kadayıf,"6,00 TL",Tatlılar,5.0
+0C40E4BB-376A-431F-BA31-4393F8A5D4EC,Cevizli Baklava (4 Dilim),"9,00 TL",Tatlılar,9.0
+8ef6b5a4-9dcc-4ec0-baa0-7d29258065af,Halka Tatlı (Adet),"3,00 TL",Tatlılar,7.0
+F4A0F1B9-E239-4AB9-A3C2-ED7B888CA247,Şöbiyet (3 Dilim),"10,00 TL",Tatlılar,5.0
+1540B595-AFED-4EFD-B7E3-55D95296CF24,Adanus Şalgam Suyu (33 cl.) Cam şişe,"6,00 TL",İçecekler,5.0
+fba0ac82-3482-406b-bd04-c3597376b0c9,Ziyafet Turşu Suyu (20 cl.),"3,50 TL",İçecekler,7.0
+952c6756-42b2-4256-a3db-47d9d6345777,Limonata (20 cl.),"2,00 TL",İçecekler,5.0
+F901A3D1-EBBF-48AE-ADF9-AF788760421D,Adanus Şalgam Suyu (1 L.) (Cam şişe),"12,00 TL",İçecekler,5.0
+6a1863d9-732e-449f-8331-efc1a95170ac,"Su (1,5 L.)","4,00 TL",İçecekler,5.0
+09da2c8a-c4b2-4908-b07d-14dc9c4e9457,Şöbiyet (500 gr.),"22,00 TL",Kiloluk Tatlılar,5.0
+234a054e-b85f-4964-8c0b-e5f6f0a03088,Cevizli Baklava (1 kg.),"40,00 TL",Kiloluk Tatlılar,9.0
+33b55c4a-bd3d-4542-94db-42a4903dd58d,Şöbiyet (1 kg.),"40,00 TL",Kiloluk Tatlılar,5.0
+af84b6c2-48ed-44f0-b0d3-af3fe6847a11,Cevizli Baklava (500 gr.),"22,00 TL",Kiloluk Tatlılar,9.0
+80C65683-E4DD-49DE-819C-2983088D3A02,Bal Badem Tatlısı (500 gr.),"22,00 TL",Kiloluk Tatlılar,7.0
+a1856896-679d-4f8b-8a09-fda4a1958ac3,Poşet,"0,25 TL",Poşet,5.0

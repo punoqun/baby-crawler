@@ -1,0 +1,44 @@
+food_id,food_name,food_price,food_category,food_score
+ea5f3381-1e05-4247-8af8-c8ca1e85d008,Izgara Köfte Menü,"19,00 TL",Günlük Menüler,5.0
+BAD77F01-0F7D-466A-AF7F-78115F931AB2,Serpme Kahvaltı,"45,00 TL",Kahvaltılıklar,6.0
+F1DC57AD-1B7F-4546-AD71-873FA11BD7FE,Ekonomik Serpme Kahvaltı,"35,00 TL",Kahvaltılıklar,6.0
+0e1a60b9-4b54-405d-8c9b-77a65f5a3277,Menemen,"15,00 TL",Kahvaltılıklar,5.0
+71b7acc0-73bf-4313-a04c-be33c1b54f44,Kaşarlı Omlet,"16,00 TL",Kahvaltılıklar,5.0
+867007f9-2f0b-480f-9ee5-ee2d5801a863,Sucuklu Yumurta,"18,00 TL",Kahvaltılıklar,5.0
+ce437ea8-8952-42e1-9e51-4166e79ae052,Sade Pişi (5 Adet),"10,00 TL",Kahvaltılıklar,7.0
+f29d2c3d-e548-4f91-931e-8c7bd7ccc01c,Patatesli Pişi (3 Adet),"11,00 TL",Kahvaltılıklar,9.0
+ab58ed0f-2b10-4586-a4cc-071e2d2aa677,İçli Kete,"4,50 TL",Kahvaltılıklar,5.0
+914a81e4-da74-4275-8d36-ae51c619744a,Velibah,"9,00 TL",Kahvaltılıklar,11.0
+0cd29fd0-3f33-471a-8136-1319432a7bd2,Koyjapha,"20,00 TL",Kahvaltılıklar,5.0
+1700E330-57D8-4BAA-A182-BB6D2A0C6DD0,Halgoane,"3,00 TL",Kahvaltılıklar,5.0
+78c4df6d-dc54-44af-b7b5-b882a96b5b9d,Kaşarlı Tost,"11,00 TL",Tostlar,6.0
+54a78541-50a4-46a5-93e6-747ac5009bb0,Karışık Tost,"13,00 TL",Tostlar,6.0
+15e4eec1-6b62-40ca-97a2-d17f75ebddf8,Ispanaklı Gözleme,"9,00 TL",Gözlemeler,5.0
+6766ef66-e80b-4ee0-9c99-840ad2d4bbd2,Peynirli Gözleme,"9,00 TL",Gözlemeler,6.0
+3e76e028-8dcb-41c5-b98a-2f3e73f9f5bc,Halvane Gubate Tabağı,"15,00 TL",Börekler,7.0
+EC383F3C-AC13-418D-8E9D-48B0D2A45F76,Gubate (10 Adet),"40,00 TL",Börekler,7.0
+cb51ade2-a476-4c55-b2bb-ee5686e9284e,Gubate (Adet),"4,50 TL",Börekler,7.0
+1be676fe-324a-4677-99e1-416899d12dd4,Peynirli Ay Böreği (Adet),"4,50 TL",Börekler,5.0
+0b44b07f-d16a-4630-89bd-12d4bf89e8c9,Peynirli Su Böreği (3 Dilim),"13,00 TL",Börekler,5.0
+9d7f0128-8038-4c9e-b204-fcb983f98949,Sigara Böreği (4 Adet),"13,00 TL",Börekler,5.0
+e2b9645f-aa79-46a1-971b-41d0860773a2,Sütlü Yarma Çorbası,"11,00 TL",Çorbalar,5.0
+D936506E-D6D3-4ABB-ADBE-DFAE03B44910,Tavuk Sote,"23,00 TL",Ana Yemekler,5.0
+293efdd4-c8e2-4522-ab5a-74051a5567dd,Haşlama İçli Köfte (3 Adet),"24,00 TL",Ana Yemekler,5.0
+589e366f-8c9d-4d07-8016-37c10b5dd51b,Sac Kavurma,"30,00 TL",Ana Yemekler,5.0
+5767742E-A91A-4914-96FC-82C73F41825B,Patatesli İçli Köfte (4 Adet),"19,00 TL",Ana Yemekler,7.0
+94c093d4-061a-4070-a465-48761c232752,Yağlama,"28,00 TL",Ana Yemekler,5.0
+673e19bf-673c-4318-8e8c-7a50f816c4f8,Izgara Köfte & Pilav,"24,00 TL",Ana Yemekler,5.0
+312e24f2-a1d5-4e36-a727-6627bb54e365,Tavuk Şnitzel,"22,00 TL",Ana Yemekler,5.0
+a8b8cd30-8044-40c5-bba6-bc6d617892e6,Psihalive Mantı,"25,00 TL",Mantılar,11.0
+c7e70fad-f024-496f-8d43-07a023e10dcd,Kırniş Mantı,"28,00 TL",Mantılar,6.0
+1ddbc728-f424-4c3f-9791-946c7d95c25b,Gedige Halame Mantı,"28,00 TL",Mantılar,6.0
+727b8495-22b3-482c-88d7-06c61d3babc7,Gurize Mantı,"30,00 TL",Mantılar,6.0
+e2e5194b-80be-4f14-8b7e-61532237d74b,Kayseri Mantısı,"27,00 TL",Mantılar,5.0
+a039760e-ce4c-41c5-8c86-f1a32adf487f,Tepsi Mantısı,"28,00 TL",Mantılar,12.0
+B1A4E608-3F6C-4867-9D64-39FD3ABD3E11,Rus Salatası,"11,00 TL",Yan Ürünler,5.0
+d03fe67b-d466-4199-9ced-ef82abb37dad,Patates Kızartması,"11,00 TL",Yan Ürünler,7.0
+1f406bdc-9bf7-4d79-99d3-338adc928102,Çorban Salata,"9,00 TL",Salatalar,5.0
+06BB5C54-D4FE-42D5-881E-2D138D1BDF28,Ton Balıklı Salata (Küçük),"18,00 TL",Salatalar,5.0
+c133e6c2-d4cb-4627-9d61-3212ad0206bb,Mevsim Salata,"10,00 TL",Salatalar,5.0
+0D78A14E-CC6B-4B3A-9433-85EF64757F44,"Su (50 cl,)","4,00 TL",İçecekler,5.0
+90d47889-b526-4c28-a1d5-1d2fe797d75e,Poşet,"0,25 TL",Poşet,5.0

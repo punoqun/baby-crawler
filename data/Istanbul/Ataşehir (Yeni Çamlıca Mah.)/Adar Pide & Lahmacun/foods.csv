@@ -1,0 +1,22 @@
+food_id,food_name,food_price,food_category,food_score
+00189231-b252-4429-90ba-6ea5437a3e1a,Kaşarlı Pide,"25,00 TL",Pideler,16.0
+0b094a9f-d6ea-4177-86b1-3f9b97bd8774,Kıymalı Pide,"27,00 TL",Pideler,11.0
+6b1a789e-840c-4b7c-a7e6-70474afdee81,Kuşbaşılı Pide,"30,00 TL",Pideler,11.0
+a325442e-09df-46b0-9b25-82c568974ec2,Kuşbaşılı Kaşarlı Pide,"31,00 TL",Pideler,16.0
+a8416010-e17e-491c-a5be-3a5d096c6142,Kavurmalı Kaşarlı Pide,"31,00 TL",Pideler,11.0
+bfe32b80-ba6c-4cda-8cea-c2f176d1316d,Pastırmalı Kaşarlı Pide,"31,00 TL",Pideler,11.0
+daef9ca1-0fc7-437d-835e-6f5142812f86,Sucuklu Kaşarlı Pide,"30,00 TL",Pideler,11.0
+ea5ea6f6-a784-49b5-87e9-1b5e954b4574,Sucuklu Yumurtalı Pide,"29,00 TL",Pideler,11.0
+dc964abe-8013-4dcf-aecc-f6e26fde8043,Kıymalı Kaşarlı Pide,"30,00 TL",Pideler,11.0
+dd39210f-6bf4-424b-9c4e-621b3626f952,Karışık Pide,"32,00 TL",Pideler,11.0
+d41c1c01-d5ed-4d85-a8cb-c18950c02915,Antep Lahmacun,"9,00 TL",Lahmacunlar,23.0
+e761638f-bf21-4148-833f-621468fffd27,Kaşarlı Lahmacun,"11,00 TL",Lahmacunlar,18.0
+a4e5c4d6-5246-4220-82f5-cb80da5e8d0c,Fındık Lahmacun,"6,00 TL",Lahmacunlar,18.0
+033fc74e-8314-4907-836b-1aae6d54a2bc,Çiğ Köfte (18 Sıkım),"19,00 TL",Çiğ Köfteler,5.0
+ca111cd9-1796-4bee-8bb2-2cd04668e66d,Çiğ Köfte (10 Sıkım),"10,00 TL",Çiğ Köfteler,5.0
+d15ec698-aa40-4cfd-9d36-31ab9180e8cb,Çiğ Köfte (1 kg.),"50,00 TL",Çiğ Köfteler,5.0
+048d4846-9bb2-4acf-9d93-123a659d3e73,Kaymaklı Künefe,"16,00 TL",Tatlılar,5.0
+40da5ce4-7544-40d9-b041-14bf0473d6f1,Antep Usulü Katmer,"20,00 TL",Tatlılar,5.0
+8675c3ca-3101-44ea-ada2-2e70b7e9c4ca,Manda Sütlü Sütlaç,"14,00 TL",Tatlılar,5.0
+51bae6d2-37d2-4269-bc76-bd9d14af53e7,Ayran (30 cl.) (Cam Şişe),"6,00 TL",İçecekler,5.0
+4daff1e9-0390-4971-88fe-9082fee50478,Poşet,"0,25 TL",Poşet,5.0

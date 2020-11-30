@@ -1,0 +1,31 @@
+food_id,food_name,food_price,food_category,food_score
+6434f756-df25-4381-a5b4-33869d58c760,10'lu Tavuk Tantuni Dürüm,"90,00 TL",Kampanyalı Menüler,7.0
+5dd2545b-42a4-43fb-90f6-4f789a3854d2,10'lu Et Tantuni Dürüm,"130,00 TL",Kampanyalı Menüler,7.0
+20d9aa14-e140-40e8-947c-9f146dbe2b8e,Biftek Et Tantuni Dürüm,"15,00 TL",Et Tantuniler,7.0
+132eb39e-53a2-4c79-b890-2451110cc95e,Yarım Ekmek Arası Biftek Et Tantuni,"15,00 TL",Et Tantuniler,7.0
+672cb841-0970-4c99-bcf2-631a4f18e29b,3/4 Ekmek Arası Biftek Et Tantuni,"16,00 TL",Et Tantuniler,7.0
+5b88d4f3-f1a8-4c23-ad95-8b90aa797a85,Yoğurtlu Biftek Et Tantuni,"17,00 TL",Et Tantuniler,7.0
+d6788358-0a05-4b28-8904-10bc47ae3a15,Tavuk Tantuni Dürüm,"11,00 TL",Tavuk Tantuniler,7.0
+30869273-7544-49aa-9dfb-67cffec415d1,Yarım Ekmek Arası Tavuk Tantuni,"11,00 TL",Tavuk Tantuniler,7.0
+69281439-7761-401f-95d5-393050ce77d0,3/4 Ekmek Arası Tavuk Tantuni,"12,00 TL",Tavuk Tantuniler,7.0
+d63e0e3c-f860-4c01-ad9b-83a9fea4bade,Yoğurtlu Tavuk Tantuni,"12,00 TL",Tavuk Tantuniler,7.0
+f38f1e5a-14f6-4d88-b37b-da51bffe3c29,Sokak Hamburger,"8,00 TL",Burgerler,5.0
+902df46d-afc4-431b-9f3e-03c0ed06b172,Sokak Cheeseburger,"9,00 TL",Burgerler,5.0
+531020aa-7b66-4ad9-805c-bd1651847053,Kaşarlı Tost,"8,00 TL",Tostlar,5.0
+b5a8971d-2924-4b80-8d11-5d2da274c91d,Sucuklu Tost,"9,00 TL",Tostlar,5.0
+9da7bb3c-6c37-4373-be5e-007bd78b733f,Karışık Tost,"10,00 TL",Tostlar,10.0
+6b8b716f-de7c-4c8a-9f32-fea8e208e1f3,Beyaz Peynirli Domatesli Tost,"10,00 TL",Tostlar,10.0
+42af2270-54e7-4b31-b3b4-aa6ed1fce865,Çift Peynirli Tost,"10,00 TL",Tostlar,5.0
+98b2bc28-1ed5-42c7-83ca-ae67a29ff0ba,Kaşarlı & Zeytin Ezmeli & Domatesli & Salamlı Tost,"11,00 TL",Tostlar,5.0
+dbae9144-58a3-498e-aa00-2ae84f690869,Beyaz Peynirli Soğuk Sandviç,"10,00 TL",Sandviçler,5.0
+42fc672d-724f-4f73-9f62-dddf491b3210,Kaşar Peynirli Soğuk Sandviç,"10,00 TL",Sandviçler,5.0
+69295bcb-f957-410a-a3b6-edbf43ad2c97,Kıymalı Trakya Böreği (250 gr.),"12,00 TL",Börekler,5.0
+b7400690-a99d-4adc-b47a-99eb518223ca,Peynirli Trakya Böreği (250 gr.),"12,00 TL",Börekler,10.0
+e5d03345-f81f-42d3-b231-251480d8ff9d,Ekmek Arası Arnavut Ciğeri,"15,00 TL",Diğer Lezzetler,5.0
+f0ad97aa-e844-4b34-9c20-7bfd5e2859c5,Ekmek Arası Kuzu Kokoreç,"15,00 TL",Diğer Lezzetler,5.0
+e8e75475-c149-4bfe-8e00-72adb4567f0e,Arnavut Ciğeri,"15,00 TL",Diğer Lezzetler,5.0
+bbe718d8-eb11-4528-a7a1-81164cf3515d,Dimes (20 cl.),"2,00 TL",İçecekler,5.0
+92d2e857-8140-4aec-ad58-0096a89fdd0a,Su,"1,00 TL",İçecekler,5.0
+4c828b45-a510-44b7-8733-e2ba107c9630,Kıymalı Trakya Böreği (1 kg.),"50,00 TL",Kiloluk Börekler,5.0
+1c3135ce-10ff-41fc-97d8-bb1ad22b16c2,Peynirli Trakya Böreği (1 kg.),"50,00 TL",Kiloluk Börekler,5.0
+2dd831df-9e01-4185-a504-863a2d094d43,Poşet,"0,25 TL",Poşet,5.0

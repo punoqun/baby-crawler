@@ -1,0 +1,31 @@
+food_id,food_name,food_price,food_category,food_score
+069c5bc2-91f7-4890-ada0-4a10da4f5efd,Acılı Cajun Baharatlı Tavuk Sepeti Menü,"29,50 TL",Ekonomik Menüler,16.0
+f44de29f-046e-4461-9c99-0ec788f76183,Menü 1,"28,00 TL",Ekonomik Menüler,2.0
+58eaac71-5218-4d1f-856d-fac4e314ae65,Menü 2,"54,00 TL",Ekonomik Menüler,19.0
+afaedd2f-8aac-48c6-afdc-3db2cba6b4af,Menü 3,"77,00 TL",Ekonomik Menüler,12.0
+06580d51-7660-4580-9535-70df84aa32fc,Menü 4,"94,00 TL",Ekonomik Menüler,13.0
+23a8acaf-fac2-4696-b08d-6464ba33c623,Menü 5,"23,50 TL",Ekonomik Menüler,6.0
+456a755d-b240-484d-aaee-2495483e7ba9,Menü 6,"34,50 TL",Ekonomik Menüler,8.0
+70f09bec-aae6-46ff-b8b5-c97c5a02fb61,Turkish Kebap Roll Menü,"35,00 TL",Ekonomik Menüler,5.0
+e4306425-5ffa-466c-a137-8d0b76e88d5d,Smoke Sausage Roll Menü,"29,00 TL",Ekonomik Menüler,7.0
+f3c2bb05-92de-47ce-a648-fe978bcfab49,Hamburger Menü,"30,50 TL",Ekonomik Menüler,6.0
+bae4475f-d764-4679-8b19-c154142c61a9,Cheeseburger Menü,"31,50 TL",Ekonomik Menüler,7.0
+6fe49782-1b05-4856-aa4c-b940cc81d710,Philadelphia Burger Menü,"33,50 TL",Ekonomik Menüler,7.0
+20469d24-13aa-41fa-b0a4-cce875f6c0af,Honky-Tonky Burger Menü,"33,50 TL",Ekonomik Menüler,7.0
+9e86cf1f-5345-4698-8c36-3f7cd55714d9,Chicken Cajun Burger Menü,"26,50 TL",Ekonomik Menüler,9.0
+534eb248-44ff-46f7-870d-be0071a646f1,Cajun Baharatlı Tavuk Sepeti,"25,00 TL",Başlangıçlar,19.0
+01d5fcdc-ce42-4573-9ee8-163e4082b2bb,Cajun Baharatlı Tavuk Dürüm,"20,50 TL",Başlangıçlar,14.0
+369c8aa2-b436-409f-bba9-092a650eeb6c,Taco Meat,"35,50 TL",Başlangıçlar,2.0
+6a037d8a-6e66-4883-88b7-1df5eac2f7aa,Taco Tavuk (4 Adet),"28,00 TL",Başlangıçlar,9.0
+e6a00acc-6979-486f-b02e-1f41b98c3e67,Acılı Cajun Baharatlı Tavuk Sepeti,"26,00 TL",Başlangıçlar,14.0
+007e9b5e-6c77-46a5-b6cf-2732cd1e3369,Cheeseburger,"29,00 TL",Burgerler,5.0
+193dd53c-7daa-46e5-9870-a09b9c457b8b,Bazlamalı Tavuk,"31,00 TL",Ana Yemekler,12.0
+3d964fc5-9b45-49a2-a8c1-621c37c175ac,Tavuk Burrito,"28,00 TL",Ana Yemekler,10.0
+3a06a1a3-c36f-46b4-9131-1ffc3dc3e6db,Tavuklu Quesadilla,"30,00 TL",Ana Yemekler,4.0
+0ce0fc8d-27ce-41aa-b12f-860cf6d117cc,Turkish Kebap Roll,"32,50 TL",Ana Yemekler,3.0
+85385a4d-2a17-4712-b879-22823b40d42e,Smoke Sausage Roll,"25,50 TL",Ana Yemekler,5.0
+4079f856-77f9-429e-982a-f008cd7cf500,Kaşarlı Tavuk Dürüm,"27,50 TL",Dürümler,12.0
+3b752d19-68f8-4a85-a181-5050800d19fc,Sunkist (33 cl.),"19,00 TL",İçecekler,5.0
+2145e4e9-4f43-4d1c-b76b-8e8af470c696,Canada Dry (33 cl.),"15,00 TL",İçecekler,5.0
+562f7939-4c40-47cb-b46a-2c068db21ce5,"Fanta (2,5 L.)","11,00 TL",İçecekler,5.0
+bbf5f421-8d14-4e6c-8abe-e6ef7ddb97c5,Poşet,"0,25 TL",Poşet,5.0

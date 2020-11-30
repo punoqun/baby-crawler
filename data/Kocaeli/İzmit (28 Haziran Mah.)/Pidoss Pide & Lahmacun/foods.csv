@@ -1,0 +1,33 @@
+food_id,food_name,food_price,food_category,food_score
+f63979ad-e528-4243-9a86-00c96823f1d4,Kıymalı Pide Menü,"23,00 TL",Ekonomik Menüler,6.0
+6fa8c3c3-bf58-4f5f-962b-3bfe707984cb,Karışık Pide Menü,"27,00 TL",Ekonomik Menüler,7.0
+dc42a6cc-649e-48c3-b8c2-c9aa18845646,Tavuklu Kaşarlı Pide Menü,"20,00 TL",Ekonomik Menüler,11.0
+BC70AC1F-A615-4066-92E8-2FC65C33F668,Lahmacun Menü,"75,00 TL",Ekonomik Menüler,21.0
+55C9412A-8A0E-432C-9D4D-8E11675E1C16,3'lü Lahmacun Menü,"23,00 TL",Ekonomik Menüler,21.0
+1A6FF369-6666-4AF4-8670-BE6D81D434C8,4'lü Lahmacun Menü,"34,00 TL",Ekonomik Menüler,21.0
+795A8C71-C602-422A-AD69-AEC69B9E444F,5'li Lahmacun Menü,"40,00 TL",Ekonomik Menüler,21.0
+9738FD90-F291-4007-B7D7-2D366028C37C,6'lı Lahmacun Menü,"45,00 TL",Ekonomik Menüler,21.0
+1cf1bfc5-fe50-4156-bc15-f98d9f6b78af,Lahmacun,"7,00 TL",Fırın Ürünleri,26.0
+0b5d213b-ef9a-4e87-8671-7f313f7f1844,Pidos Lahmacun,"8,50 TL",Fırın Ürünleri,32.0
+f8deb47d-8c1e-498e-9319-d1e1fde2e506,Kaşarlı Lahmacun,"7,50 TL",Fırın Ürünleri,21.0
+65111e8e-b4d2-4006-9010-0bf72a221ed9,Kuşbaşılı Pide,"24,00 TL",Fırın Ürünleri,7.0
+07d2b1ea-9cb0-4332-828c-f34a55c07c8d,Kuşbaşılı Kaşarlı Pide,"25,00 TL",Fırın Ürünleri,7.0
+ba19c801-ea83-47de-84e4-386ffcb4c480,Kıymalı Pide,"19,00 TL",Fırın Ürünleri,6.0
+b384ecfa-cb86-4d62-8fa8-7c7631ba7a09,Kıymalı Kaşarlı Pide,"20,00 TL",Fırın Ürünleri,6.0
+53bd8e0b-20bb-4615-bb5b-79a0b10332aa,Karışık Pide,"25,00 TL",Fırın Ürünleri,7.0
+a901e16d-f438-4531-9147-9f55fd1549fa,Kaşarlı Pide,"17,00 TL",Fırın Ürünleri,7.0
+ad379aca-7606-4b35-9819-268b1943513d,Tavuklu Kaşarlı Pide,"16,00 TL",Fırın Ürünleri,6.0
+ebb263ca-8343-48d7-a0c8-b65b1546bfe0,Tavuklu Mantarlı Kaşarlı Pide,"17,00 TL",Fırın Ürünleri,6.0
+6fea7aa5-b7f1-4294-9869-2b77d8424484,Kavurmalı Pide,"24,00 TL",Fırın Ürünleri,7.0
+c3156de8-636e-491b-8011-b755ed1ec997,Kavurmalı Kaşarlı Pide,"25,00 TL",Fırın Ürünleri,7.0
+94279921-0f0e-4bb8-b563-570700bef116,Pastırmalı Kaşarlı Pide,"25,00 TL",Fırın Ürünleri,7.0
+537e7ff7-a8fe-410f-892b-de6abb94051f,Kaşarlı Sucuklu Pide,"19,00 TL",Fırın Ürünleri,7.0
+1dd74a2a-0979-4f17-8fc2-5b435a2b70d5,Yumurtalı Etli Ekmek,"19,00 TL",Fırın Ürünleri,6.0
+38b6fef2-918a-477a-ad3f-2e2b24f79510,Kaşarlı Etli Ekmek,"19,00 TL",Fırın Ürünleri,6.0
+bf61d7b6-ef3c-4045-8e72-d3b341148ddb,Etli Ekmek,"18,00 TL",Fırın Ürünleri,6.0
+9f165ba9-57cd-4829-8e94-27c85644c434,Pidoss Pide (Yuvarlak),"27,00 TL",Fırın Ürünleri,12.0
+f68d7408-1a8a-43ba-ae6e-a054d657ed40,Pizza Pide,"25,00 TL",Fırın Ürünleri,7.0
+353f56c9-344d-4565-b3b2-793de290a800,Patates Kızartması,"8,00 TL",Yan Ürünler,3.0
+e1dd60d5-9c84-4252-9280-da2cde310522,Kaşarlı Patates Kızartması,"10,00 TL",Yan Ürünler,3.0
+9b3219e8-0485-44cd-bdfb-61084e8b03e1,Niğde Gazozu (20 cl.),"4,00 TL",İçecekler,5.0
+c92a98b9-d8bb-4bc7-9944-29768afd00d7,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,47 @@
+food_id,food_name,food_price,food_category,food_score
+3E1D8A5F-5CBF-4424-BF8C-139AEFE4C969,4'lü Ekmek Arası Kaşarlı Köfte Menü,"70,00 TL",Menüler,3.0
+74338451-46e2-4006-aa79-97fd3600cdeb,Et Zurna Kombo Menü,"26,00 TL",Menüler,4.0
+5842FD2B-9E9A-486B-97F1-6A4086D08589,Kaşarlı Tavuk Döner Dürüm Menü 2,"21,00 TL",Menüler,-9.0
+BCA3E503-E1E7-4618-87C9-0D138D95A5BF,Kaşarlı Tavuk Döner Dürüm Menü,"18,00 TL",Menüler,-2.0
+8E6CB423-4145-48A8-9543-205EF5006415,2'li Double Cheeseburger Menü,"55,00 TL",Menüler,5.0
+8B865CD4-3DF2-4913-B95D-502FA4ACE38F,4'lü Kaşarlı Tavuk Döner Dürüm Menü,"79,00 TL",Menüler,-2.0
+4801E8FD-A10A-460B-B9DD-D5DFA67048B4,4'lü Et Döner Dürüm Menü,"70,00 TL",Menüler,-3.0
+648AB2AB-D231-4EAC-92A0-DD68D2F3AAEB,Jumbo Tavuk Döner Dürüm Menü,"22,00 TL",Menüler,-2.0
+58E1A0CC-954D-4F5E-8EDB-1347A877AFE1,4'lü Yarım Ekmek Arası Köfte Menü,"60,00 TL",Menüler,3.0
+4220567B-BE7A-4FE2-9DA5-8AC4F27B71B2,Yarım Ekmek Arası Köfte Menü 2,"20,00 TL",Menüler,-5.0
+4114DE59-3BE3-4AD7-B16B-AAB2FF6A9907,Yarım Ekmek Arası Köfte Menü,"18,00 TL",Menüler,3.0
+7546cb90-2649-47d9-92bd-44450836b28c,2'li Öğrenci Menü 1,"37,00 TL",Menüler,8.0
+7e1c3405-81dc-4480-9e42-e64702aa95c4,2'li Öğrenci Menü 2,"37,00 TL",Menüler,-3.0
+2C8AB7E3-B518-49FD-8E9A-5DEE2C59A9B5,2'li Zurna Et Döner Dürüm Menü,"52,00 TL",Menüler,-1.0
+814E0E3E-9458-4531-AF6C-173270C77359,4'lü Öğrenci Menü,"72,00 TL",Menüler,5.0
+1634c070-0d17-4498-9686-3aaf8e81eb39,Avantaj Menü,"14,50 TL",Menüler,5.0
+0d4ffbde-d4b5-45ea-88b1-6cf23b8b9cb6,Avantaj Zurna Menü,"16,00 TL",Menüler,12.0
+b391c509-9eaa-4c6a-8190-408445604a33,Double Cheeseburger Menü,"25,00 TL",Menüler,5.0
+997fd9c9-80b9-404a-8353-b2580fea99ae,Et Avantaj Menü,"21,00 TL",Menüler,2.0
+970333fe-c22a-42da-9f81-becaf99756ae,Et Kombo Menü,"24,00 TL",Menüler,2.0
+d0bdd7dd-160e-449b-84a7-d66b27679485,Et Zurna Menü,"25,00 TL",Menüler,4.0
+46a845a6-a4c9-4adb-870a-3ba605ab590b,Hamburger Menü,"20,00 TL",Menüler,5.0
+946c09fb-bcb2-41a3-a99e-55ba3a8c60f2,Kombo Menü,"20,00 TL",Menüler,5.0
+ff99a6e5-d4e6-49f9-a797-3aace40a9141,Kombo Zurna Menü,"22,00 TL",Menüler,7.0
+e79a4a55-a06d-406f-8eb2-bf36cd0b8927,Pilav Üstü Tavuk Döner Menü,"16,50 TL",Menüler,-2.0
+0fa621a7-41f1-4fc4-9c5a-468095e906af,Tam Ekmek Arası Tavuk Ciğer Menü,"15,00 TL",Menüler,-3.0
+c76dab86-8db1-4075-9c80-619d34977103,Yarım Ekmek Arası Tavuk Ciğer Menü,"17,00 TL",Menüler,1.0
+50cd090a-33ea-41a1-b8f4-76dbe09c93ed,Zurna Menü,"19,00 TL",Menüler,7.0
+7442ecb1-a5ee-4125-890a-635f03826257,Yarım Ekmek Arası Karışık Yumurtalı Sandviç Menü,"16,50 TL",Menüler,3.0
+769b8f38-7ce5-45fe-a1f0-e0fb6bae7266,Et Döner Dürüm,"16,50 TL",Et Dönerler,-3.0
+58e48078-8a5e-4965-83ae-67a96e626e68,Et Döner,"22,00 TL",Et Dönerler,-3.0
+2f128263-b189-456d-b349-d4569a823766,Tavuk Döner,"17,00 TL",Tavuk Dönerler,-2.0
+7bdc632f-855f-453f-bb00-be21c40b84cd,Tavuk Döner Dürüm,"11,00 TL",Tavuk Dönerler,3.0
+1389b0d3-a347-4183-b7ed-580bf3754188,Zurna Tavuk Döner Dürüm,"12,50 TL",Tavuk Dönerler,5.0
+ebf61bcc-7d12-443c-8e7f-96a1e4735995,Soğan Halkası (6 Adet),"8,00 TL",Yan Ürünler,5.0
+1ddbd5c5-d346-4525-8811-16b4e3495d72,Midye Dolma (1 kg.),"40,00 TL",Yan Ürünler,5.0
+047466ac-7005-4581-8ecf-21e438548737,Algida Maraş Usulü Cup Dondurma (100 ml.),"7,00 TL",Dondurmalar,5.0
+f2fb56cc-d1a9-4d7f-a68c-7f4b5ae2e7b7,Algida Carte d'Or Mini Cup Çikolata Karnavalı (110 ml.),"7,00 TL",Dondurmalar,5.0
+565691fe-2cbd-4293-8142-ac9db72a87f2,Algida Carte d'Or Mini Cup Çilekli Yoğurtlu (110 ml.),"7,00 TL",Dondurmalar,5.0
+58210130-9799-4231-b724-04a0a621648c,Algida Classics Cookie Cup (105 ml.),"7,00 TL",Dondurmalar,5.0
+49180b06-8196-44e6-ac9b-c9c4941f5fba,Carte d'Or Premium Çikolata Cup (100 ml.),"8,00 TL",Dondurmalar,5.0
+e26e3aec-1569-4327-a83e-cb3540276d92,Carte d'Or Premium Kaymak Cup (100 ml.),"8,00 TL",Dondurmalar,5.0
+ed8ccaeb-86fb-43fa-9d0c-dad144edb5c7,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"12,00 TL",Dondurmalar,5.0
+f4d6a21c-12c0-43bd-9a57-74464b3eeac7,Algida Carte d'Or Volcano Cup,"13,00 TL",Dondurmalar,5.0
+f4dd0e80-b089-4820-9dc6-86e32d619fd5,Fanta Kan Portakalı (33 cl.),"5,00 TL",İçecekler,5.0
+dd101cb9-3814-4134-b8e5-b83a186cd4fd,Poşet,"0,25 TL",Poşet,5.0

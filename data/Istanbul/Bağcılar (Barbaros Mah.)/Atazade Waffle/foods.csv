@@ -1,0 +1,60 @@
+food_id,food_name,food_price,food_category,food_score
+6306D8DA-0242-4CED-971C-FEB5002E083E,Atazade 2'li Karışık Pizza Menü,"50,00 TL",Menüler,4.0
+80ea24b4-59b4-4d4f-bae1-ac777615ebcf,2'li Waffle Menü,"45,00 TL",Menüler,5.0
+1d6a2d4a-f429-4034-bf75-8833392f0409,2'li Kumpir Menü,"45,00 TL",Menüler,6.0
+3cb24bdb-335a-4231-8af2-434f70141325,3'lü Waffle Menü,"70,00 TL",Menüler,0.0
+ec8f1403-922f-4462-834e-d1d6548acd01,2'li Köri Soslu Tavuk,"45,00 TL",Menüler,7.0
+fc95d6a0-0acc-4c86-8302-5c5a15b7e98b,2'li Mantı,"45,00 TL",Menüler,4.0
+487960cc-bceb-4a02-b879-5b9c48b3eea0,Sahanda Yumurta,"15,00 TL",Kahvaltılıklar,5.0
+87169021-ff39-4aaf-bbca-df866a4b36f0,Sucuklu Yumurta,"17,00 TL",Kahvaltılıklar,5.0
+794f36f6-c219-4850-9050-421c9c35e046,Menemen,"17,00 TL",Kahvaltılıklar,5.0
+601f02a7-6d14-43c9-89ee-952a4e2f5839,Mıhlama,"20,00 TL",Kahvaltılıklar,5.0
+ed27606c-8180-4b4f-9671-83e975000b01,Kavurmalı Yumurta,"18,00 TL",Kahvaltılıklar,5.0
+36766b59-e3bd-441c-82e1-572c49cd2fc1,Waffle,"25,00 TL",Waffles,5.0
+a92ff1c4-1cc6-4bbe-9e82-3de48dee2cee,Dondurmalı Waffle,"30,00 TL",Waffles,-2.0
+964FD9CB-68AC-43B2-B2B4-A911DBFE8148,Sandviç Waffle,"20,00 TL",Waffles,0.0
+253b93cf-5bb1-4aff-96a4-762e75ed7ba4,Kaşarlı Tost,"10,00 TL",Tostlar,5.0
+def8ad22-301c-495a-822c-94617a475143,Kavurmalı Tost,"15,00 TL",Tostlar,5.0
+0e97b604-6ce1-46d8-bd28-8bab5f2ff034,Karışık Tost,"12,50 TL",Tostlar,3.0
+8d4b2d3e-5ff1-40c6-8751-ec106d226e96,Kaşarlı Gözleme,"20,00 TL",Gözlemeler,5.0
+6be934a0-f4bf-4dcf-9213-e6900e93b1ef,Tavuklu Gözleme,"20,00 TL",Gözlemeler,5.0
+09552c5f-acb8-4b8c-b371-8700ca016e8d,Hamburger,"25,00 TL",Burgerler,5.0
+0adcdd09-c6c2-4398-99ca-0336268116d2,Islak Hamburger,"7,50 TL",Burgerler,3.0
+a1c09bea-ff8f-4c89-b466-7071d89c6388,Karışık Sandviç,"7,50 TL",Sandviçler,3.0
+9ebfcb62-ad1f-4586-a1ef-08e151456cf0,Kaşarlı Sandviç,"6,00 TL",Sandviçler,5.0
+BE4F843B-98C8-4900-9923-29CB08684E3B,Sosisli Sandviç,"5,00 TL",Sandviçler,4.0
+ba8c9fdf-4e6c-49a6-bc79-026dc395ed5d,Köri Soslu Tavuk,"25,00 TL",Ana Yemekler,7.0
+46c677a2-33dd-48a8-a2ff-11d07ad23b73,Mantı,"25,00 TL",Ana Yemekler,4.0
+AE17854F-5B71-404A-9EDE-D0A794859A14,Meksika Soslu Tavuk,"25,00 TL",Ana Yemekler,5.0
+894C44A6-93F3-48C1-8B8E-0F938B6245DF,Soya Soslu Tavuk,"25,00 TL",Ana Yemekler,5.0
+DC68CE61-DC9F-4D40-B0B5-9EA9699C95EE,Tavuklu Wrap,"25,00 TL",Ana Yemekler,5.0
+1C01382F-A684-4079-9121-40C34C6AE0AB,Chicken Fettucine Alfredo,"25,00 TL",Ana Yemekler,5.0
+F6E6F8CF-FCB5-4ACF-A865-1D24B0539B68,Sebze Çeşnili Noodle,"20,00 TL",Ana Yemekler,5.0
+CD22C252-B29A-4B2B-ADFE-C16C93D3F956,Tavuklu Noodle,"25,00 TL",Ana Yemekler,5.0
+221f16a7-4c72-45a7-abea-2cf7fa846cb3,Kendin Yap Kumpir,"25,00 TL",Kumpirler,11.0
+6e6d22f2-a621-412a-a953-757aaf16b296,Meyve Tabağı,"20,00 TL",Yan Ürünler,5.0
+a6a8c87b-babc-45a9-990d-9b086517ed7c,Nohutlu Pirinç Pilavı,"10,00 TL",Yan Ürünler,5.0
+6ad71951-a588-45c9-a621-5f48be1167f6,Tavuklu Pirinç Pilavı,"13,00 TL",Yan Ürünler,5.0
+994CF29C-4C59-4A75-ACA0-2EAAA17E6B25,Midye Dolma (Adet),"1,50 TL",Yan Ürünler,1.0
+C209AB71-3E79-49DF-BA73-17E77736FA45,Midye Dolma (20 Adet),"25,00 TL",Yan Ürünler,1.0
+8C774A59-9146-4314-876C-3EE647A458AA,Midye Dolma (40 Adet),"40,00 TL",Yan Ürünler,1.0
+1C61EC92-8881-42A7-B1A1-FCA8CF985658,Midye Dolma (10 Adet),"12,50 TL",Yan Ürünler,1.0
+9adcf23a-adde-48e1-86dd-952010840ccc,Kazandibi,"14,00 TL",Sütlü Tatlılar,5.0
+2c70675d-95ba-4a80-ae32-54016c59395d,Tavukgöğsü,"14,00 TL",Sütlü Tatlılar,5.0
+48e77ad3-0742-49d7-aa53-78fccf1d3a54,Profiterol,"14,00 TL",Sütlü Tatlılar,5.0
+32f9aee5-b23f-48b2-b34a-2192a621b4ee,Supangle,"14,00 TL",Sütlü Tatlılar,5.0
+d5f6a7e8-08bc-4430-8473-aa5e29873148,Fırın Sütlaç,"14,00 TL",Sütlü Tatlılar,5.0
+22063cd4-32d5-475c-95ca-fbe72ba5ec76,Meyveli Mag,"14,00 TL",Sütlü Tatlılar,4.0
+e8f04a6a-2641-4495-9fa0-a92fad8b85d5,İrmik Tatlısı,"20,00 TL",Sıcak Tatlılar,5.0
+a23038ea-5e9b-4d46-81dd-0785263a4c1d,Algida Maraş Usulü Cup Dondurma (100 ml.),"6,00 TL",Dondurmalar,2.0
+ba4e24b4-f444-401b-960e-bd76294fd0cc,Algida Maraş Usulü Dilim Dondurma (82 ml.),"6,00 TL",Dondurmalar,2.0
+506827c3-f7c7-437f-b9e1-2d6b2824fe07,Carte d'Or Monoportion Çikolata Karnavalı (105 ml.),"7,00 TL",Dondurmalar,0.0
+2eba8b5e-2456-4c81-83f3-add29daa2e9e,Algida Maraş Usulü Supangle,"14,00 TL",Dondurmalar,5.0
+328b1e39-ef85-462c-a21f-9004ca9cc9cf,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"14,00 TL",Dondurmalar,3.0
+29999cac-3c71-4510-8920-ac478f3d7540,Algida Carte d'Or Volcano Cup (160 ml.),"17,00 TL",Dondurmalar,5.0
+29ecb738-e7fd-4a88-a08b-da62bdf40df0,Algida La Gelateria Kaymak & Çikolata & Karadut (700 ml.),"35,00 TL",Dondurmalar,-1.0
+818bcb29-d2cf-4921-b15c-a5524b9f893d,Red Bull (25 cl.),"12,00 TL",İçecekler,5.0
+b5320ed9-b4b5-402a-b853-42b25f7a9cba,Muzlu Milkshake,"15,00 TL",Milkshakes,1.0
+bafb626a-c59c-4f78-831f-43d19c0f0dff,Çikolatalı Milkshake,"15,00 TL",Milkshakes,1.0
+c6c232b2-18ea-4087-9520-0e2cfc4ae710,Çilekli Milkshake,"15,00 TL",Milkshakes,1.0
+b9aa5683-0485-4a00-bab5-550ae9beae93,Poşet,"0,25 TL",Poşet,5.0

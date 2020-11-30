@@ -1,0 +1,26 @@
+food_id,food_name,food_price,food_category,food_score
+c9732819-97d7-4864-8740-d8bf7bb38d3e,BBQ Burger,"25,00 TL",Burgerler,7.0
+56531694-15cc-4b52-bcd3-bb8064cd4505,Double Hamburger,"32,00 TL",Double Burgerler,15.0
+888dad9e-148e-40fb-9ce3-d3bdbd64e710,Double Cheeseburger,"34,00 TL",Double Burgerler,4.0
+995cdeca-c009-4036-99b3-59a16233705a,Double Garage Burger,"37,00 TL",Double Burgerler,12.0
+a1590c0c-7c8c-4e55-9bf7-6bdcb424a542,Double Acı Burger,"34,00 TL",Double Burgerler,7.0
+62b0b2b4-aa9e-4f55-a82a-c8dae6ca6c9b,Double Garlic Mushroom Burger,"35,00 TL",Double Burgerler,7.0
+b2674d74-c46f-478f-b7cb-31c6efc76e42,Double Blue Cheeseburger,"35,00 TL",Double Burgerler,4.0
+a4bd8a56-1e0f-4c35-a70c-f0b2f4d23fcc,Double Garlic Mayonese Burger,"35,00 TL",Double Burgerler,7.0
+32c19165-c72d-47ab-81b5-ea32e5bbb268,Double BBQ Burger,"34,00 TL",Double Burgerler,7.0
+17d36e49-6d31-4de1-88f1-23d13a943d81,Chicken Cheeseburger,"23,00 TL",Chicken Burgerler,4.0
+2ebb6c3a-3a12-4a37-86ef-d3459c1a562b,Large Hamburger,"29,00 TL",Large Burgerler,15.0
+35526f98-f88e-4bfe-a777-0556e29450fc,Large Cheeseburger,"30,00 TL",Large Burgerler,4.0
+87551211-b9a8-4723-bf68-9245ddf66e59,Large Garage Burger,"33,00 TL",Large Burgerler,7.0
+56f59f75-09be-454b-a63b-5bb389440b62,Large Fried Onion Burger,"32,00 TL",Large Burgerler,7.0
+8d8343a8-2135-4bb4-83a1-02c5b35ea5f1,Large Acı Burger,"30,00 TL",Large Burgerler,7.0
+58977ec1-b148-41b9-ba47-404dee18ab3d,Large Garlic Mushroom Burger,"32,00 TL",Large Burgerler,7.0
+a4cc5232-4a29-4257-b4be-2f99f6247d79,Large Blue Cheeseburger,"31,00 TL",Large Burgerler,4.0
+49900b5a-15c2-44ec-beab-ca43a8100a67,Large Garlic Mayonese Burger,"31,00 TL",Large Burgerler,7.0
+e700583c-beee-43e4-b732-a8a4be4e1d0e,Large BBQ Burger,"31,00 TL",Large Burgerler,7.0
+577cda0d-974c-4bf0-9a2a-b14160c5440f,Limonlu Cheesecake (10 Kişilik),"150,00 TL",Tatlılar,5.0
+d0ddfa1d-4db8-4af2-bc97-677095a6b0d3,Bal Kabaklı Cheesecake (10 Kişilik),"150,00 TL",Tatlılar,5.0
+0ca2ea5c-b705-4098-90af-20a2b506b41f,Çikolatalı Cheesecake (10 Kişilik),"150,00 TL",Tatlılar,5.0
+1932ab89-aeb7-4424-b3bd-4928a2c1657a,Frambuazlı Cheesecake (10 Kişilik),"150,00 TL",Tatlılar,5.0
+7d4000e6-2d00-42ef-bf2f-e89b303e92b6,Garage Sos,"1,50 TL",Soslar,5.0
+0dc71e7a-c94c-407a-b821-931a76175f4c,Poşet,"0,25 TL",Poşet,5.0

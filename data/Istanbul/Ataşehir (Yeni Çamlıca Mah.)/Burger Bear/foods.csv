@@ -1,0 +1,20 @@
+food_id,food_name,food_price,food_category,food_score
+4ec360a2-f6b5-49bc-ba6a-1f55fd438ffc,Bear Burger,"40,50 TL",Burgerler,19.0
+3B780077-B420-41E5-95B5-7D1664688EF3,Healty Burger,"31,50 TL",Burgerler,15.0
+51e218c0-db75-4b47-b9ef-eae31b861acd,Mushroom Burger,"34,50 TL",Burgerler,17.0
+d9438222-8804-42a5-86e2-a4c7723f31eb,Orijinal Hot Dog,"19,90 TL",Hot Dogs,5.0
+9f3a6197-0b7b-4367-bc6f-a58808d5db48,Cheddar Soslu Hot Dog,"24,90 TL",Hot Dogs,5.0
+b42efe57-7876-4b17-a3f2-2b9b63bde690,Gravyer Dolgulu Hot Dog,"24,90 TL",Hot Dogs,5.0
+72abc995-064b-43c3-81d0-efec8c8d5031,Tavuk Şnitzel,"32,90 TL",Ana Yemekler,10.0
+2d478a32-0376-421d-ab79-3fa563c5dcee,Dana Şnitzel,"39,90 TL",Ana Yemekler,10.0
+5b9a527a-5e30-4548-aa60-678b9f9c1529,Soğan Halkası (6 Adet),"10,00 TL",Yan Ürünler,5.0
+8f6b7ac9-9164-4322-bcdd-244212446eae,Patates Kroket (6 Adet),"14,00 TL",Yan Ürünler,2.0
+69973ce3-35b2-4cd5-84d1-5447012144f6,Mozzarella Sticks (6 Adet),"15,00 TL",Yan Ürünler,5.0
+ebd7ce17-5977-47de-92c7-a410d59b2ea5,Mantar Soslu Patates Kızartması,"16,00 TL",Yan Ürünler,2.0
+0946914a-a5fd-412a-be61-89b275e20ceb,Combo Bear,"28,00 TL",Yan Ürünler,9.0
+2b3de65f-e278-44ab-b4b7-7cb137a0667c,Heavy Bear,"36,00 TL",Yan Ürünler,9.0
+799997d6-c1a8-420a-a9a0-dd98a546ec13,Frambuazlı Cheesecake,"16,00 TL",Tatlılar,5.0
+400ef4c5-10d8-4ed2-8f82-6f83a269c816,Limonlu Cheesecake,"16,00 TL",Tatlılar,5.0
+250d7cb8-7f9b-44da-b6c4-844fed069794,Lotus Cheesecake,"18,00 TL",Tatlılar,5.0
+9701810f-521c-487e-a470-8c06acd81190,Bear Sos,"2,00 TL",Soslar,7.0
+6e1f2a99-f501-48ea-805c-3f7b5fed8008,Poşet,"0,25 TL",Poşet,5.0

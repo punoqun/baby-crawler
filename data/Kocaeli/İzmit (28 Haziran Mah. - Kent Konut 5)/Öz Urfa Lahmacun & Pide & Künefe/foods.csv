@@ -1,0 +1,49 @@
+food_id,food_name,food_price,food_category,food_score
+a1b6bc8e-5cbd-4970-8416-b65d4a5d3de4,10'lu Lahmacun Menü,"85,00 TL",Menüler,35.0
+e932b3e5-25b2-471e-9c0f-0cf2315f2638,2'li Pide Menü,"55,00 TL",Menüler,8.0
+0e267b14-9d05-42a7-883a-ee9826e2ca19,Adana Kebap Menü,"50,00 TL",Menüler,8.0
+c677edf1-860c-4c22-a7ad-095a3d901ef4,Domatesli Kebap Menü,"57,00 TL",Menüler,6.0
+DBF30884-7C87-4162-B55F-40F6C9C167E7,Terbiyeli Tavuk Şiş Menü,"40,00 TL",Menüler,5.0
+69A1AD08-6677-49FC-9746-CB6C90AD5646,Adana Kebap Menü 2,"45,00 TL",Menüler,-5.0
+04A1FE2D-02FB-4EA7-A6E4-7F6F81085155,2'li Karışık Pide Menü,"75,00 TL",Menüler,8.0
+1F975035-3A8A-4FCE-AB3F-95592941EA1F,3'lü Lahmacun Menü,"36,00 TL",Menüler,35.0
+15aa007d-d573-4a7d-b631-20ea6d53ef86,Kaşarlı Lahmacun,"9,00 TL",Fırın Ürünleri,40.0
+17f57dca-d4fe-4f3e-b550-6072403e7d0d,Kıymalı Kaşarlı Pide,"22,00 TL",Fırın Ürünleri,8.0
+18f76ef4-b0eb-4484-b0c8-be8082c0aeaf,Kuşbaşılı Pide,"25,00 TL",Fırın Ürünleri,9.0
+496f397b-3725-46c2-bcf3-ba3a880bf2a7,Kuşbaşılı Kaşarlı Pide,"25,00 TL",Fırın Ürünleri,9.0
+4fe35dde-2028-4d33-926c-02506f29423c,Sucuklu Kaşarlı Pide,"22,00 TL",Fırın Ürünleri,8.0
+5ecd496b-b329-431c-b3e6-7f31a455d399,Kaşarlı Pide,"20,00 TL",Fırın Ürünleri,8.0
+93ca9c90-605e-4737-9ca1-a3fe513dcf0b,Kıymalı Pide,"20,00 TL",Fırın Ürünleri,8.0
+98c7a73e-8d3c-48c0-b374-3cae6f84151c,Karışık Pide,"25,00 TL",Fırın Ürünleri,8.0
+b82c1a4e-0fd0-4aea-8e3d-cb0d95d73a18,Kavurmalı Kaşarlı Pide,"25,00 TL",Fırın Ürünleri,7.0
+b88f6e93-0473-4cf4-ac06-9a8ba6c4f502,Lahmacun,"8,00 TL",Fırın Ürünleri,40.0
+de5d1551-9fb1-42d5-95a8-d1cb047f9d76,Tavuklu Pide,"17,00 TL",Fırın Ürünleri,8.0
+df3b0a00-0de3-476b-928e-8be46dada0d8,Tavuklu Kaşarlı Pide,"20,00 TL",Fırın Ürünleri,8.0
+ede6ddba-6990-4dfe-ab78-6d1604cdafbe,Kavurmalı Pide,"25,00 TL",Fırın Ürünleri,7.0
+6937AE45-7C51-40D2-A003-378B2DD7A1FD,Özel Gaziantep Lahmacun,"10,00 TL",Fırın Ürünleri,46.0
+88CD0D0E-F4CB-4823-86D3-72290E04C95E,Özel Urfa Lahmacun,"10,00 TL",Fırın Ürünleri,37.0
+A4CEC596-AC7E-4945-94F5-0C97C19649EE,Özel Urfa Şıllık Lahmacun,"10,00 TL",Fırın Ürünleri,37.0
+250de6c1-1903-4b28-a803-158f10944ade,Adana Kebap,"30,00 TL",Kebaplar & Izgaralar,8.0
+88f75be2-c430-458f-9433-772457544456,Urfa Kebap,"30,00 TL",Kebaplar & Izgaralar,6.0
+01a4a130-6855-41ba-8a27-36e0ee32174a,Adana Beyti Kebap,"35,00 TL",Kebaplar & Izgaralar,8.0
+f50561b6-5ae7-4686-b37e-2f63264ff1e4,Beyti Sarma Kebap,"40,00 TL",Kebaplar & Izgaralar,6.0
+9781cee7-9cfe-42be-b157-88ff9198e18b,Domatesli Kebap,"40,00 TL",Kebaplar & Izgaralar,6.0
+b8f02863-04c7-423e-8a3a-591bd5106d6f,Patlıcanlı Kebap,"40,00 TL",Kebaplar & Izgaralar,6.0
+b1ff2634-e3e6-4411-87d8-26ba74a89ce3,Terbiyeli Tavuk Şiş,"25,00 TL",Kebaplar & Izgaralar,5.0
+6d69c1d8-6675-4e58-9749-37047d7c3c35,Terbiyesiz Tavuk Şiş,"25,00 TL",Kebaplar & Izgaralar,5.0
+975dfab2-4401-4089-9616-2f8299af1bcd,Çöp Şiş,"40,00 TL",Kebaplar & Izgaralar,5.0
+490486E4-30A0-4AB6-8B69-CB4757C2C750,Adana Dürüm,"17,50 TL",Dürümler,7.0
+405167f3-2a66-4142-b47b-1c76d4b062c9,Terbiyeli Tavuk Şiş Dürüm,"15,00 TL",Dürümler,5.0
+ce040902-6c5b-4e23-b6ed-9c849189a8a0,Terbiyesiz Tavuk Şiş Dürüm,"15,00 TL",Dürümler,5.0
+683c4bd4-e9f5-4f6d-a94e-aa6e1dfe0991,Çöp Şiş Dürüm,"25,00 TL",Dürümler,5.0
+317F7F49-D15C-4B18-8702-94B4CF55160D,Urfa Dürüm,"17,50 TL",Dürümler,5.0
+45ddc74d-33f9-4a3b-b00d-7c76b57dd786,Çiğ Köfte (1 kg.),"60,00 TL",Çiğ Köfteler,13.0
+bd3bc18a-30ec-40ec-9bc5-572a013cc921,Çiğ Köfte Dürüm,"7,00 TL",Çiğ Köfteler,11.0
+a7fcdd33-8b9c-4f0a-97c7-a7192663d3c4,Çiğ Köfte (500 gr.),"30,00 TL",Çiğ Köfteler,11.0
+9ebe9195-17bb-49ab-a36f-b728ee7d2410,Çiğ Köfte (250 gr.),"15,00 TL",Çiğ Köfteler,11.0
+52b1f91e-6667-47f1-9b3a-1880cff72a8e,Mega Çiğ Köfte Dürüm,"9,00 TL",Çiğ Köfteler,11.0
+41105251-5cdc-44e0-be12-aeb5540233bf,Özel Urfa Usulü Cevizli İçli Köfte,"10,00 TL",Yan Ürünler,9.0
+26d86536-a9e0-4ed5-b688-891c8bd6adac,Çoban Salata,"10,00 TL",Salatalar,14.0
+758ea180-4e19-43da-85f4-527f5009ab7e,Katmer,"13,00 TL",Tatlılar,9.0
+CA9C7D41-CC09-496E-8C2D-8A773C6D73A7,Hamsiköy Sütlacı,"10,00 TL",Tatlılar,5.0
+fbba7739-ede7-4e57-a5a9-53683d72e225,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,40 @@
+food_id,food_name,food_price,food_category,food_score
+4ce34366-0f85-4526-a637-22633a3f6610,Evde Kal Menü,"27,90 TL",Ekonomik Menüler,11.0
+4408b264-7271-41ed-9d82-a853f57d190c,Kavurmalı Pizza (Orta) Menü,"32,90 TL",Ekonomik Menüler,18.0
+35fa2431-1286-408b-9350-063168bc7ee8,Küçük Boy Pizza Menü,"24,90 TL",Ekonomik Menüler,17.0
+c7433fd2-7907-40c3-8f53-540d66178975,Pastırmalı Pizza (Orta) Menü,"34,90 TL",Ekonomik Menüler,19.0
+32f23dc8-46c3-4e2b-a2fd-983d7674d7fa,Süper 2'li Orta Boy Pizza Menü,"39,90 TL",Ekonomik Menüler,21.0
+e45e9e8b-4dc6-4567-9938-c5437e8a47f8,Süper 3'lü Büyük Menü (5 - 6 Kişilik),"74,50 TL",Ekonomik Menüler,10.0
+9df492a2-7924-4738-a1bf-eb22647f19f5,Süper 3'lü Orta Menü (3 - 4 Kişilik),"59,90 TL",Ekonomik Menüler,7.0
+2be75c58-29b6-4518-9fd4-385c51f92f12,Tek Büyük Boy Pizza (2 - 3 Kişilik),"28,90 TL",Ekonomik Menüler,21.0
+ec31855f-234a-44a3-9a2d-1899fe45a79d,Ton Balıklı Pizza (Orta) Menü,"29,90 TL",Ekonomik Menüler,18.0
+b015fee3-1231-4028-a8ac-9c68015892a5,Mantarlı Pizza (Küçük),"18,90 TL",Küçük Boy Pizzalar (1 Kişilik),17.0
+c8c7f3de-b59e-4e82-87ad-a9011c44df50,Mexica Pizza (Küçük),"18,90 TL",Küçük Boy Pizzalar (1 Kişilik),17.0
+e320e919-6958-4115-8ab2-43e8e4bd5346,Sucuklu Pizza (Küçük),"18,90 TL",Küçük Boy Pizzalar (1 Kişilik),17.0
+3d960f97-8d6f-4b5d-b8f0-dab956719e47,Karışık Pizza (Orta),"38,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (1 + 1),11.0
+ed549c2b-4d37-4ba2-9648-a02382c69b0a,Mantarlı Pizza (Orta),"38,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (1 + 1),17.0
+8e095486-2513-404a-885a-c39545d2514d,Mexica Pizza (Orta),"38,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (1 + 1),17.0
+13cb52f1-23fb-46d7-9717-f5fea5918704,Sucuklu Pizza (Orta),"38,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik) (1 + 1),17.0
+770d44f8-d8c7-4474-ab65-a7319aff7ee0,Kavurmalı Pizza (Orta),"34,50 TL",Orta Boy Gurme Pizzalar (1 - 2 Kişilik),17.0
+68646d59-fd4b-4d98-82e6-1386a2abbf6e,Mantarlı Pizza (Büyük),"45,80 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (1 + 5),17.0
+b9e48780-3e6c-46e8-9907-ad4f35f1df17,Sucuklu Pizza (Büyük),"45,80 TL",Büyük Boy Pizzalar (2 - 3 Kişilik) (1 + 5),17.0
+cacc76f8-f655-48f8-8245-4f8e520f7077,Kavurmalı Pizza (Büyük),"44,90 TL",Büyük Boy Gurme Pizzalar (2 - 3 Kişilik),17.0
+9a13822c-44b3-4db4-8d5e-5ac52b5e9df1,Nugget (3 Adet),"6,90 TL",Yan Ürünler,5.0
+ec3cb643-fd0f-40ad-8b4d-0debb44ec046,Özel Soslu Çıtır Tavuk Parçaları,"12,90 TL",Yan Ürünler,5.0
+adb60f9f-519a-4039-8fc0-0cc2e8855960,Patates Kızartması (Duble),"17,90 TL",Yan Ürünler,5.0
+92b63b6f-f9cf-40f8-ba01-e3ec3d6fa939,Nugget (6 Adet),"12,90 TL",Yan Ürünler,5.0
+b42f5fcf-385b-4bf2-b318-40350f3773c6,Nugget (9 Adet),"16,90 TL",Yan Ürünler,5.0
+83e4674b-94f5-46d2-9493-c4c26f1d86f3,Crispy (3 Adet),"12,90 TL",Yan Ürünler,5.0
+7795c55d-745d-424b-be5f-fa77ac12070c,Crispy (6 Adet),"18,90 TL",Yan Ürünler,5.0
+303cb670-4e7c-4e32-8abb-041079c5446e,Crispy (9 Adet),"24,90 TL",Yan Ürünler,5.0
+9da6f077-e6cf-44e5-af8e-c714ad922550,Patates Kızartması,"9,90 TL",Yan Ürünler,5.0
+41f136d2-a403-40fb-8a95-0a05bac54f2e,Soğan Halkası (3 Adet),"5,90 TL",Yan Ürünler,3.0
+99d3a45a-b46e-4cd4-a56e-4fd90d4ba9c9,Soğan Halkası (6 Adet),"9,90 TL",Yan Ürünler,3.0
+15258ff5-46ae-4818-9268-938004ac7889,Soğan Halkası (9 Adet),"12,90 TL",Yan Ürünler,3.0
+f9d975ee-9262-428a-885d-beb5795684e1,Sufle,"9,90 TL",Tatlılar,8.0
+b927fb9b-bc2f-4159-96c3-0fedeb61db0f,2'li Sufle,"17,90 TL",Tatlılar,8.0
+1314296f-d28a-4fc3-a692-c2b65b8500d4,Algida Maraş Usulü Cup Dondurma (100 ml.),"5,50 TL",Dondurmalar,5.0
+4b35c382-a072-4201-81c6-e95abd34ede2,Algida Maraş Usulü Dilim Dondurma (82 ml.),"5,50 TL",Dondurmalar,5.0
+77cba0c5-8267-404b-9ef9-e9b5b8722637,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"13,90 TL",Dondurmalar,5.0
+409d9c9a-8125-46d7-8d13-01b4f8feeb99,Beyoğlu Gazozu (25 cl.),"4,50 TL",İçecekler,5.0
+620f528e-5142-4041-b6b7-f9a6fb61be45,Poşet,"0,25 TL",Poşet,5.0

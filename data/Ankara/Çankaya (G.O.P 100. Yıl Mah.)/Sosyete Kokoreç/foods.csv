@@ -1,0 +1,40 @@
+food_id,food_name,food_price,food_category,food_score
+5b57f2ea-ba91-4df0-884b-efb31d874f59,Kaşarlı Tavuk Sote Menü,"21,00 TL",Ekonomik Menüler,9.0
+DFBA8E35-4960-4C25-B187-FA338300AB60,Köfte Dürüm Menü,"20,00 TL",Ekonomik Menüler,20.0
+4834580f-58c6-4235-914f-4643af065789,Ekmek Arası Hamsi Menü,"20,00 TL",Ekonomik Menüler,8.0
+7a370f3c-418b-4d8d-a5d3-6974d5646d61,Hamsi Tava Menü,"25,00 TL",Ekonomik Menüler,5.0
+cadd9885-e2a2-4421-9023-609e4668cc2c,Tavuk Tantuni Dürüm Menü,"15,00 TL",Ekonomik Menüler,7.0
+5ab3f6cd-a47c-4fb5-a812-0a2b77d1552c,Tavuk Tantuni Menü,"15,00 TL",Ekonomik Menüler,5.0
+e9811bfd-6a1d-4cfd-8a83-e09a505b9e86,Ekmek Arası Sosyete Tavuk,"18,00 TL",Ekmek Arası Ürünler,21.0
+fa1f8fb5-97cd-4b3a-b9dc-6c44b83fb599,Ekmek Arası Kaşarlı Antrikot,"30,00 TL",Ekmek Arası Ürünler,11.0
+7fd4425b-f7a9-4af0-abe4-2403f556ed4f,Ekmek Arası Tavuk Biftek,"18,00 TL",Ekmek Arası Ürünler,11.0
+e1ae8640-2a99-44bc-b8a1-49995fa5ddf2,Ekmek Arası Tavuk Külbastı,"18,00 TL",Ekmek Arası Ürünler,11.0
+99449b99-a033-49e5-b8d9-3d19c81536fe,Ekmek Arası Kuzu Böbrek,"20,00 TL",Ekmek Arası Ürünler,17.0
+9975bbaf-2c40-4e0d-9bbf-cc052565762b,Ekmek Arası Arnavut Ciğeri,"20,00 TL",Ekmek Arası Ürünler,11.0
+6597f76b-f480-47ee-8779-77aef8b1d512,Ekmek Arası Sucuk,"20,00 TL",Ekmek Arası Ürünler,10.0
+c3a33f32-16ff-4a21-95c0-13112a207620,Ekmek Arası Izgara Köfte,"20,00 TL",Ekmek Arası Ürünler,23.0
+902e995c-8176-4055-b524-b7d52ce3640f,Ekmek Arası Hamsi,"20,00 TL",Ekmek Arası Ürünler,10.0
+60609540-8683-4dff-ba34-2fbb9f7a42e2,Ekmek Arası Et Sote,"29,00 TL",Ekmek Arası Ürünler,8.0
+59d47558-169e-4704-b604-3b4d85f21073,Sosyete Acılı Atom,"20,00 TL",Ekmek Arası Ürünler,21.0
+ca1983d0-4c47-4445-b9c3-c1d2e94412c3,Sosyete Tavuk,"24,00 TL",Izgaralar,18.0
+7c3d6095-7fa5-41ae-b934-c31bed7447b4,Izgara Tavuk Biftek,"22,00 TL",Izgaralar,8.0
+88e32eae-bbd7-4949-ba38-f5a2f419fba3,Kuzu Böbrek,"24,00 TL",Izgaralar,14.0
+ee6af228-36d1-4af2-b287-93991b3ea6cf,Arnavut Ciğeri,"24,00 TL",Izgaralar,8.0
+38aa13e1-7aa9-4fb3-b117-cd87b7439d95,Izgara Sucuk,"25,00 TL",Izgaralar,7.0
+f5c0b475-6c4c-438f-8f80-01f32369ea0a,Izgara Köfte,"24,00 TL",Izgaralar,20.0
+6c2c7a3c-906f-4518-90dd-1101449bb8ef,Izgara Kaşarlı Köfte,"25,00 TL",Izgaralar,23.0
+04b2db62-f504-4669-82e5-32647b9c29dc,Kaşarlı Antrikot,"32,00 TL",Izgaralar,8.0
+7877f8c5-0393-427e-a002-08fd0e44c02e,Ekmek Arası Kuzu Kokoreç,"25,00 TL",Kokoreçler,53.0
+baaa6cf4-4fc7-44be-9431-0fcd896aaf66,Sosyete Kokoreç,"30,00 TL",Kokoreçler,58.0
+9215F4D0-23BD-46DE-B4B3-C85255065A3A,Kokoreç Dürüm,"25,00 TL",Kokoreçler,45.0
+EEF64BE9-A57E-441A-8DFE-CA5FB6DD9FE6,Sebzeli Kokoreç Dürüm,"26,00 TL",Kokoreçler,45.0
+15551a93-8ab3-4460-9bea-ecd3027a32d7,Tereyağlı Pilav,"12,00 TL",Diğer Lezzetler,6.0
+52c953f5-5b1f-45fe-9b67-61a854c23d41,Sigara Böreği (10 Adet),"12,00 TL",Diğer Lezzetler,5.0
+8D9B4FAE-DCFF-4B9C-8963-9684C0407F83,Midye Dolma (Adet),"20,00 TL",Diğer Lezzetler,48.0
+ab9370d5-5d53-4a63-8dc3-28730f93c6d6,Patates Kızartması,"14,00 TL",Diğer Lezzetler,5.0
+a8885357-827f-4796-8537-e1063edc46db,Hamsi Tava,"25,00 TL",Diğer Lezzetler,7.0
+e9fa2e17-6625-4b9d-821a-44a28055246d,Midye Dolma (15 Adet),"26,00 TL",Diğer Lezzetler,48.0
+26d35b24-c096-4e50-a529-cea21197e7cb,Midye Dolma (10 Adet),"18,00 TL",Diğer Lezzetler,53.0
+c0ef9e47-d906-4002-9e2c-f9271b778af3,Kemalpaşa Tatlısı (6 Adet),"5,00 TL",Tatlılar,5.0
+73a2d181-bda4-4423-ae83-5e01f1627a1e,Damla Su (50 cl.),"3,00 TL",İçecekler,8.0
+09246140-12f3-4db7-a1da-64f0f1da4771,Poşet,"0,25 TL",Poşet,7.0

@@ -1,0 +1,35 @@
+food_id,food_name,food_price,food_category,food_score
+8765247C-9EC4-4205-B28D-5D624AA97533,Tavuk Döner Menü,"16,00 TL",Menüler,4.0
+CDC68843-9EC7-4F65-BB63-74B8700F8AA2,Tavuk Jumbo Menü,"19,50 TL",Menüler,8.0
+F352E8E8-DB0A-46E9-971C-4D202258741C,Tavuk Ekspres Menü,"19,50 TL",Menüler,6.0
+07DC6891-EA7F-4A98-9D45-92E9CC63BD01,Tavuk Maxi Menü,"22,50 TL",Menüler,6.0
+0034A208-DB6A-4A1D-8C67-E8252C1C3F8C,Et Dürüm Menü,"23,00 TL",Menüler,0.0
+9B2D7D41-0650-4A42-8E5C-0318FF3C49CA,Et Jumbo Menü,"27,50 TL",Menüler,6.0
+877375DA-60A6-4924-ABD7-027DF58E04BF,Et Ekspres Menü,"26,50 TL",Menüler,4.0
+666C1863-FBEF-448E-B2B3-279366C92F2C,Et Maxi Menü,"30,00 TL",Menüler,4.0
+3f32436b-62c1-4e4b-9ee9-11fa6515cc09,Et Döner Dürüm Menü,"20,50 TL",Menüler,-2.0
+5f197961-c5fa-4fbe-9ca3-635974a347fe,Jumbo Tavuk Döner Dürüm Menü,"19,50 TL",Menüler,2.0
+e4d2f259-cde0-4cbf-b369-0307ad01001c,Jumbo Et Döner Dürüm Menü,"26,00 TL",Menüler,0.0
+9ea6a235-8146-4be4-8871-a992419008c6,Maxi Tavuk Döner Dürüm Menü,"21,00 TL",Menüler,0.0
+0dc9c99c-d63f-49ef-9d0c-6c2d44defc5b,Maxi Et Döner Dürüm Menü,"27,00 TL",Menüler,-2.0
+95b005c1-a9a3-42ce-baeb-238ce365ed4b,Jumbo Tavuk Döner Dürüm,"16,00 TL",Tavuk Dönerler,2.0
+37cc95e2-370f-47c0-b675-1e884656ef9e,Tavuk Döner Sandviç,"9,00 TL",Tavuk Dönerler,4.0
+f2e0a124-9ea6-4943-ac38-4b8cd3ba2d07,Yarım Ekmek Arası Tavuk Döner,"9,00 TL",Tavuk Dönerler,4.0
+a4277610-c9f8-4512-8550-207718976fee,Tombik Ekmek Arası Tavuk Döner,"9,50 TL",Tavuk Dönerler,3.0
+ba31d9b5-c84b-47a7-9ae1-6f7851a8cf94,Jumbo Et Döner Dürüm,"22,50 TL",Et Dönerler,0.0
+37b7cc7f-2f81-4c1b-b5ea-b27e258fdafb,Et Döner Sandviç,"16,00 TL",Et Dönerler,2.0
+c49345e8-74da-4d6f-b0cf-bf861421e80f,Yarım Ekmek Arası Et Döner,"16,00 TL",Et Dönerler,2.0
+7f31e2ba-3465-4fb1-af1f-545d2398d0f7,Tombik Ekmek Arası Et Döner,"17,00 TL",Et Dönerler,1.0
+f8434c4a-fe01-4966-bc75-0c19617a5761,Patates Kızartması,"10,00 TL",Yan Ürünler,4.0
+d4a839b4-0b4d-4598-b56b-33436b46b1f2,Külahta Patates Kızartması,"6,00 TL",Yan Ürünler,4.0
+c63166f8-a231-4389-9608-b52219cd0b0c,Künefe,"13,50 TL",Tatlılar,5.0
+39791a6c-9a3d-4f2e-916c-8e87accdd3c8,Katmer,"16,50 TL",Tatlılar,5.0
+e03cf342-b675-494a-ad90-ed161ae32f39,Algida Maraş Usulü Cup Dondurma (100 ml.),"7,00 TL",Dondurmalar,5.0
+757c93bc-0024-465d-b9c9-7752b38df022,Algida Maraş Usulü Dilim Dondurma (82 ml.),"7,00 TL",Dondurmalar,5.0
+cd747e37-104d-4d98-a512-b4ee33682e83,Algida Carte d'Or Mini Cup Çikolata Karnavalı (110 ml.),"8,00 TL",Dondurmalar,5.0
+9a0b53aa-4eff-4d25-9062-0dd76559c7fc,Algida Classics Cookie Cup (105 ml.),"8,00 TL",Dondurmalar,5.0
+07d1b9d1-1dfe-4e23-89e5-4a2754766040,Carte d'Or Premium Çikolata Cup (100 ml.),"9,00 TL",Dondurmalar,5.0
+dca31b5a-c6df-41bf-be4a-4d44fda05453,Carte d'Or Premium Kaymak Cup (100 ml.),"9,00 TL",Dondurmalar,5.0
+3eddbc73-5894-4d13-980b-aa5a9c0d8e93,La Gelateria Kaymak & Çikolata & Karamel (700 ml.),"25,00 TL",Dondurmalar,7.0
+9b5f296b-4714-4306-b14f-5a30a27821f4,Su,"2,00 TL",İçecekler,5.0
+bca0d3a0-411f-4185-9932-d5afa8f533d2,Poşet,"0,25 TL",Poşet,3.0

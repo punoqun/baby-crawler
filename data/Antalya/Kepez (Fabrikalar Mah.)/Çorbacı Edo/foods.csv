@@ -1,0 +1,42 @@
+food_id,food_name,food_price,food_category,food_score
+c9977015-7d68-46fc-8085-5398d9889773,Izgara Köfte Menü,"34,13 TL",Menüler,7.0
+f37a3b26-9f68-4236-87f7-3e9c8b814d9d,Yarım Ekmek Arası Izgara Köfte Menü,"19,88 TL",Menüler,7.0
+061dcf5f-03ac-43e2-904e-dc8c4cc42ddb,Kuru Fasulye Menü,"20,63 TL",Menüler,9.0
+451d05cf-7c56-4c26-9074-3b938cbb1d62,Kanka Menü 2,"31,50 TL",Menüler,10.0
+92f9b048-2d63-4774-8222-4163d408c04d,Yarım Ekmek Arası Kaşarlı Köfte Menü,"19,88 TL",Menüler,7.0
+367d438d-b0ec-4676-b8af-c57e5e3e3ebe,Dil Çorbası,"16,50 TL",Çorbalar,9.0
+c2d8e592-42bc-4e84-a169-d9ff8e583388,Mercimek & Tavuk Çorbası,"12,75 TL",Çorbalar,12.0
+d25fcc6e-f000-444a-ac0e-0567f6eae497,İşkembe & Kelle Paça Çorbası,"20,25 TL",Çorbalar,4.0
+F044F7BF-F7A0-4661-815A-CC8CEBC4B660,Damar Çorbası,"16,50 TL",Çorbalar,6.0
+D6ED9F92-0B11-4462-91D1-9ADB7EC0F052,Kokteyl Çorba,"22,50 TL",Çorbalar,33.0
+6FB59D4E-26D5-4CE7-93CB-6DB8E7935F8F,İşkembe Kavurma,"22,50 TL",Ana Yemekler,4.0
+1c9199bb-bfe4-4257-8720-40d51360272e,Izgara Köfte,"24,38 TL",Ana Yemekler,4.0
+69d9e1aa-5038-4f0d-8a69-127aff6d3249,Kuru Fasulye,"10,50 TL",Ana Yemekler,1.0
+08ee16be-b866-4bca-813f-0971e122fce7,Yoğurtlu Kızartma,"10,13 TL",Ana Yemekler,8.0
+7a534e7f-cd63-45b7-9307-05cf32732a64,Yoğurtlu Köfte,"17,63 TL",Ana Yemekler,4.0
+14354154-430C-4999-A4DB-574CF31E4DD7,Ekmek Arası İşkembe Kavurma,"16,50 TL",Ekmek Arası Ürünler,4.0
+8DC10E61-E0B0-4D6E-9D08-F887D12262FD,Ekmek Arası Dana Sucuk,"15,00 TL",Ekmek Arası Ürünler,5.0
+9e2801df-3154-4c98-984d-04817f1a923a,Yarım Ekmek Arası Sucuk,"16,50 TL",Ekmek Arası Ürünler,5.0
+f4eb8746-e729-42f4-a7b6-58806b42a6f9,Yarım Ekmek Arası Köfte,"16,50 TL",Ekmek Arası Ürünler,4.0
+f6ecdd01-75c9-4864-afa8-6a7f995fabfe,Yarım Ekmek Arası Kaşarlı Köfte,"16,50 TL",Ekmek Arası Ürünler,4.0
+40a0024e-d67a-4929-9bc5-a716fbd4a806,Pilav,"6,00 TL",Yan Ürünler,4.0
+09f96230-cc45-42c4-a577-35fde98e646a,Piyaz,"10,50 TL",Yan Ürünler,5.0
+e48f21a3-a82d-4d89-b9e6-45f27a743f14,Patates Kızartması,"6,00 TL",Yan Ürünler,7.0
+7316cbd2-9888-4112-ad3b-5a075af02323,Yoğurt,"5,25 TL",Yan Ürünler,5.0
+3c9aa677-825b-4c1b-a159-50fad1602492,Tavuklu Pilav,"9,38 TL",Yan Ürünler,4.0
+c73d04d7-7578-45fd-b31f-a8d54ae2224a,Limon (Bütün),"2,25 TL",Yan Ürünler,5.0
+8a95f3d5-b202-484c-ad8a-b51a1878f788,Ekmek (Bütün),"2,25 TL",Yan Ürünler,5.0
+1cbde1e3-c0d5-450b-a870-0af5f92dd833,Cacık,"5,25 TL",Yan Ürünler,5.0
+EC8B5BEA-2DF6-4A10-AE51-01BB316565A9,Yoğurtlu Makarna,"7,50 TL",Yan Ürünler,5.0
+179B1DB1-7643-4074-8C3C-89050F7D790B,Mor Lahana Mezesi,"7,50 TL",Yan Ürünler,7.0
+DAF05EB8-DC85-4138-81EB-D9D2E0938F78,Fıstıklı Baklava,"20,00 TL",Tatlılar,5.0
+FE999092-C914-4B7D-AC0D-0EAA29DDDFF3,Şöbiyet Baklava,"23,00 TL",Tatlılar,5.0
+1EF20935-CDD6-477C-8080-51167A830734,Antep Özel Baklava,"20,00 TL",Tatlılar,9.0
+2235447d-b931-4693-9f17-d0458b34f2ad,Su,"2,63 TL",İçecekler,7.0
+98218AFF-4ABE-45B5-AEB9-188888972E86,Şöbiyet Baklava (500 gr.),"55,00 TL",Kiloluk Tatlılar,5.0
+E8AA8D4C-4EB1-4F6F-89F2-395DEBC46E2A,Fıstıklı Baklava (500 gr.),"50,00 TL",Kiloluk Tatlılar,5.0
+A421B22F-83FE-4286-AEAA-EAB8599E713A,Antep Özel Baklava (500 gr.),"55,00 TL",Kiloluk Tatlılar,9.0
+C2B864D2-E9BD-406D-981A-46132C8C89E0,Şöbiyet Baklava (1 kg.),"100,00 TL",Kiloluk Tatlılar,5.0
+92CB000D-7F6D-4901-BD2C-4F46A513416B,Fıstıklı Baklava (1 kg.),"90,00 TL",Kiloluk Tatlılar,5.0
+25DB7B30-E672-4EC0-AFB0-D01E278850B4,Antep Özel Baklava (1 kg.),"100,00 TL",Kiloluk Tatlılar,9.0
+4b141fa5-0a63-4163-97a5-4ab51ba23523,Poşet,"0,25 TL",Poşet,5.0

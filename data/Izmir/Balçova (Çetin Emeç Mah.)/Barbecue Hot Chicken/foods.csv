@@ -1,0 +1,52 @@
+food_id,food_name,food_price,food_category,food_score
+b8699efd-0473-498b-96d2-06a40c21f40c,Menü 1,"69,00 TL",Aile Boyu Menüler,30.0
+ae29d6b5-5e97-40a8-9997-c709b3f674ad,Yarım Ekmek Arası Cheddarlı Köfte Menü,"26,00 TL",Aile Boyu Menüler,11.0
+4b3fdf26-54ab-445d-89a6-95ad47bfdee2,Yarım Ekmek Arası Kaşarlı Köfte Menü,"26,00 TL",Aile Boyu Menüler,9.0
+19054ef0-a0b2-4cf7-acff-25f58aa925c9,Menü 2,"65,00 TL",Aile Boyu Menüler,13.0
+0ed9b20e-45a9-45d0-9163-b9887521dc7a,Menü 3,"65,00 TL",Aile Boyu Menüler,5.0
+30952698-e75e-4519-b9e0-00edb15affb6,Menü 4,"60,00 TL",Aile Boyu Menüler,14.0
+c13cbf96-d9d7-4581-862e-99e513ce83a5,Menü 5,"65,00 TL",Aile Boyu Menüler,15.0
+5fdeab9f-d705-4798-b3c5-dbb4919f82ee,Menü 6,"65,00 TL",Aile Boyu Menüler,9.0
+d69d8f29-87da-4a18-a8bb-5ab6c23f6ffe,Menü 7,"65,00 TL",Aile Boyu Menüler,7.0
+3bc1c50f-3099-4784-89a1-d5b6cf5beabf,Piknik Menü,"75,00 TL",Aile Boyu Menüler,7.0
+e1b617af-07b5-47d9-af0d-1ac86faed432,Cheddarlı Izgara Tavuk Göğüs Menü,"26,00 TL",Tek Kişilik Ekonomik Menüler,26.0
+6eca0cbf-f9c7-4fdb-a628-6faa4c92388c,Sports Menü,"24,00 TL",Tek Kişilik Ekonomik Menüler,7.0
+30e5baa9-1601-4e8b-b4be-72135184ae90,Wings Menü,"24,00 TL",Tek Kişilik Ekonomik Menüler,7.0
+25b1647b-22e9-432a-bf61-2a49b5dad4a8,Süper Menü,"20,00 TL",Tek Kişilik Ekonomik Menüler,19.0
+be52be70-9450-43a1-b82f-da78a0ba91ba,Genç Menü,"17,00 TL",Tek Kişilik Ekonomik Menüler,7.0
+14bca96b-efd8-41b9-9cb7-d4f171378739,Kuzu Köfte (250 gr.),"34,00 TL",Kırmızı Etler,9.0
+393dd53b-202a-4205-bcf6-2fd12018e3dd,BBQ Karışık Izgara (400 gr.),"20,00 TL",Beyaz Etler,13.0
+e9f38835-de2d-4595-b028-c2cd55b1e28f,Piliç Göğüs Izgara (400 gr.),"23,00 TL",Beyaz Etler,10.0
+3cb62d9b-5048-4b43-b085-ae7d4b0bfb1c,Piliç Göğüs Şiş (400 gr.),"24,00 TL",Beyaz Etler,4.0
+37125064-34ab-430c-b975-40952a272822,Piliç Kalça İncik (400 gr.),"25,00 TL",Beyaz Etler,11.0
+d3fbe0f5-35c9-4316-8247-ea24f89edd31,Piliç Kalça Şiş (400 gr.),"25,00 TL",Beyaz Etler,4.0
+306c8b75-f5e0-4295-ba5c-7841492d4db2,Piliç Kanat Izgara (400 gr.),"25,00 TL",Beyaz Etler,5.0
+9b7aefd4-4355-447b-a46e-2b441742bcac,Piliç Kelebek Izgara (400 gr.),"22,00 TL",Beyaz Etler,7.0
+5bf33ddd-a1a4-4fc5-8b9f-76e6fb8ad094,Piliç Pirzola (400 gr.),"23,00 TL",Beyaz Etler,4.0
+99fb5481-4f0d-4257-88e7-d6dce67ac688,Piliç Yaprak Kanat (400 gr.),"28,00 TL",Beyaz Etler,4.0
+cf9d5fdd-329d-4940-9a67-68ee8163e81c,Piliç Göğüs Izgara (300 gr.),"20,00 TL",Beyaz Etler,5.0
+d07d3260-3136-44ef-a48f-79d8c72f6a16,Piliç Göğüs Şiş (300 gr.),"20,00 TL",Beyaz Etler,4.0
+79a1d575-2f9b-4589-b120-3f1bd6b1c5c1,Piliç İncik Şiş (300 gr.),"22,00 TL",Beyaz Etler,6.0
+e9f4cda6-f896-40b8-814e-43a422a4ae36,Piliç Kalça İncik (300 gr.),"22,00 TL",Beyaz Etler,6.0
+32ba9c45-b35a-46c0-9629-51d0f122ffa7,Piliç Yaprak Kanat (300 gr.),"23,00 TL",Beyaz Etler,4.0
+a26c13d4-2415-4a1e-b603-ee79fbe8c52d,Nar Ekşili & Sumaklı Çoban Salata (400 gr.),"10,00 TL",Yan Ürünler,5.0
+262a9e17-22a3-48f8-907f-ffc4398bb13b,Haydari (200 gr.),"6,00 TL",Yan Ürünler,5.0
+7db14b1c-d9ed-4a88-b6b2-6f5dfb9026cb,Lavaş Ekmeği,"1,50 TL",Yan Ürünler,8.0
+8b7c6124-e24a-4e59-94b1-74fddac76eed,Bulgur Pilavı (200 gr.),"5,00 TL",Yan Ürünler,7.0
+d291ea1f-4910-491a-ab8d-7682256d0dd3,Soğan Halkası (10 Adet),"8,00 TL",Yan Ürünler,5.0
+fafc0f66-167d-49e2-b1ae-381415380100,Elma Dilim Patates Kızartması,"12,00 TL",Yan Ürünler,6.0
+5f08e28c-20ec-4d47-9a9e-2e9c7faa0a2e,Patates Kızartması,"10,00 TL",Yan Ürünler,6.0
+aae8d3be-6941-487a-b6a9-15b8f4e560f8,Niğde Gazozu (25 cl.),"4,00 TL",İçecekler,5.0
+6e1f9bb9-a760-4357-bb81-5c53125616b2,Su,"2,50 TL",İçecekler,5.0
+3b3527b4-1f37-40ec-a825-bdc3dd14fc99,Tavuk Göğüs Izgara (1 kg.) (Pişirilmiş),"55,00 TL",Kiloluk Ürünler,22.0
+66bac371-bdc4-4581-be56-24b000cefaa1,Piliç Kelebek Izgara (1 kg.) (Pişirilmiş),"50,00 TL",Kiloluk Ürünler,7.0
+fa3ead50-731a-4a6b-b3b4-96a4a5ed98b6,Göğüs Şiş (1 kg.) (Pişirilmiş),"55,00 TL",Kiloluk Ürünler,5.0
+bd93a7fe-b00d-4e8e-a95c-d4aaaa1eb7d0,Tavuk Pirzola (1 kg.) (Pişirilmiş),"55,00 TL",Kiloluk Ürünler,21.0
+9ed612f3-4560-464b-858b-8c9f88b32a6d,Kasap Köfte (500 gr.) (Pişirilmiş),"60,00 TL",Kiloluk Ürünler,7.0
+5b39a949-de5b-4e28-90f1-29880aec43f3,Kalça İncik (1 kg.) (Pişirilmiş),"58,00 TL",Kiloluk Ürünler,7.0
+94ce64e6-ed38-4aa9-be6e-dbe79c078d8a,Kalça Şiş (1 kg.) (Pişirilmiş),"59,00 TL",Kiloluk Ürünler,5.0
+5d5950bf-c288-4650-87f9-a33584a42451,Kanat Izgara (1 kg.) (Pişirilmiş),"57,00 TL",Kiloluk Ürünler,6.0
+09af56e1-85c1-44ae-a318-c1c5089b1cae,Karışık Izgara (1 kg.) (Pişirilmiş),"55,00 TL",Kiloluk Ürünler,8.0
+c98d55cd-7c2c-4d42-9676-cf72726a82b7,Kasap Köfte (1 kg.) (Pişirilmiş),"99,00 TL",Kiloluk Ürünler,7.0
+116cab07-4fc1-43d0-8be8-9599b81ed15c,Tavuk Baharatı,"1,50 TL",Soslar,21.0
+ac4c6e1e-db26-46e3-99c2-c49f00ee5f22,Poşet,"0,25 TL",Poşet,5.0

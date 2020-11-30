@@ -1,0 +1,31 @@
+food_id,food_name,food_price,food_category,food_score
+637fd057-9d2d-41f8-ac0a-88aa4d941eac,Menü 1,"14,00 TL",Ekonomik Menüler,13.0
+a653df57-22ff-468d-9a55-f0ec24837dbb,Menü 2,"15,50 TL",Ekonomik Menüler,11.0
+c1b44442-1a7c-4731-bf6a-03d775b83cca,Menü 3,"14,00 TL",Ekonomik Menüler,5.0
+74609eb1-5a2b-46d7-a70c-635a1c05e61f,Menü 4,"15,50 TL",Ekonomik Menüler,5.0
+1a170a11-a708-4d27-bb29-6ea340775bab,Menü 5,"14,00 TL",Ekonomik Menüler,10.0
+3518fc8c-a228-4796-a7e1-7bd24bf76091,Menü 6,"15,50 TL",Ekonomik Menüler,5.0
+9240a1b0-3b84-4f7e-8e32-f60c7d460678,Menemen,"12,00 TL",Kahvaltılıklar,5.0
+3c0408bd-d8f2-4027-b903-1fa39ed00f48,Bazlama Ekmeğine Kaşarlı Tost,"12,00 TL",Tostlar & Sandviçler,3.0
+2c7c7be2-961f-4a4e-bab9-f57c82c7bdb8,Bazlama Ekmeğine Sucuklu Tost,"12,00 TL",Tostlar & Sandviçler,3.0
+d16163e0-117a-4b45-9764-390f68831449,Bazlama Ekmeğine Karışık Tost,"12,00 TL",Tostlar & Sandviçler,3.0
+c6bb7e88-c5be-4f8c-bc89-dc59ed166bdb,Sandviç Ekmeğine Kaşarlı Tost,"12,00 TL",Tostlar & Sandviçler,5.0
+bcdf5e05-4581-40a4-a899-a1356206e4e1,Sandviç Ekmeğine Sucuklu Tost,"12,00 TL",Tostlar & Sandviçler,5.0
+f0a5fa22-0539-4507-a1f4-ba9dc2f4de0f,Sandviç Ekmeğine Karışık Tost,"12,00 TL",Tostlar & Sandviçler,5.0
+4dec1071-9ba4-422c-8831-933508946b6b,Izgara Köfte,"17,00 TL",Izgaralar,23.0
+fa6fc8a3-cc25-4a09-a6f7-c10658da66aa,Arnavut Ciğeri,"17,00 TL",Izgaralar,11.0
+82669826-01c5-4964-a23b-eee4b0bcfa46,Kuzu Yürek,"17,00 TL",Izgaralar,4.0
+8c3c8084-2800-4794-bddf-498b88197312,Izgara Sucuk,"17,00 TL",Izgaralar,7.0
+37714d56-4da1-48c2-9dee-53079ad77764,Tavuk Şiş,"17,00 TL",Izgaralar,6.0
+1f30e6fc-4e8e-4f7c-9452-a0d276f4d3de,Ekmek Arası Köfte,"12,00 TL",Ekmek Arası Ürünler,26.0
+F83A216B-9C51-41F8-8F9C-9B9905746E4E,Ekmek Arası Köfte & Tavuk,"13,00 TL",Ekmek Arası Ürünler,22.0
+F49314BE-1CB9-41FE-AB66-2CB9F3D90484,Ekmek Arası Köfte & Sucuk,"13,00 TL",Ekmek Arası Ürünler,21.0
+D0F3156B-B5E3-4A33-A881-2570A4E11001,Ekmek Arası Tavuk & Sucuk,"13,00 TL",Ekmek Arası Ürünler,11.0
+0e30849e-10ce-4de1-b866-cce3ad6fd0c9,Ekmek Arası Arnavut Ciğeri,"12,00 TL",Ekmek Arası Ürünler,21.0
+ede94b48-d99e-4870-9219-a9b948168ce5,Ekmek Arası Kuzu Yürek,"12,00 TL",Ekmek Arası Ürünler,9.0
+49b9c242-b522-497b-99a4-efd7b6b66c92,Ekmek Arası Izgara Sucuk,"12,00 TL",Ekmek Arası Ürünler,12.0
+6267913f-bdee-4694-8307-2801ca475318,Ekmek Arası Tavuk Şiş,"12,00 TL",Ekmek Arası Ürünler,11.0
+dba77573-c9fa-499f-be31-0f3117aa28ce,Izgara Köfte (500 gr.) (Pişirilmiş),"40,00 TL",Kiloluk Izgaralar (Pişirilmiş),18.0
+0c541719-f683-49db-818b-8fb41e7e27b4,Izgara Tavuk (500 gr.) (Pişirilmiş),"40,00 TL",Kiloluk Izgaralar (Pişirilmiş),8.0
+29007daa-3d1c-4ef7-a430-b3597eb92036,Izgara Arnavut Ciğeri (500 gr.) (Pişirilmiş),"40,00 TL",Kiloluk Izgaralar (Pişirilmiş),13.0
+4f70f4bf-cc89-46c1-992d-03e9d5f49843,Poşet,"0,25 TL",Poşet,5.0

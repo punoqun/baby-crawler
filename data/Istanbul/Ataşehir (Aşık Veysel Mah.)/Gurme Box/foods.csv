@@ -1,0 +1,71 @@
+food_id,food_name,food_price,food_category,food_score
+4c4f4798-d598-4798-9d5f-21eafe59bec6,Kanki Menü,"83,90 TL",Menüler,4.0
+9d415d24-b8ff-4289-a642-108207a883fd,Aile Boyu Karışık Izgara Menü (2-3 Kişilik),"119,90 TL",Menüler,5.0
+18450907-123c-4a69-841d-70239935e06c,Izgara Antrikot Fitness Menü,"49,90 TL",Menüler,9.0
+ed5fd65d-a8b8-41f4-9dd4-617f95d359a2,Fitness Menü,"32,90 TL",Menüler,8.0
+a2035763-6866-46a2-a401-759b15997e0b,Aile Boyu Süper Et Tava Menü,"219,90 TL",Menüler,10.0
+09354d9b-efca-49eb-9cc4-57e73e444ffe,Gurme Kahvaltı Tabağı,"43,90 TL",Kahvaltılıklar,4.0
+2e11fb40-1b2e-4dae-9309-cb0124d21eb9,Gurme Fırın Tabağı,"29,90 TL",Kahvaltılıklar,3.0
+407ca225-d1a9-409e-be79-9b2de7723b42,Beyaz Peynirli Omlet Tabağı,"34,90 TL",Kahvaltılıklar,5.0
+491a7b02-13fe-4ab5-9636-3b032780820f,Sebzeli Omlet Tabağı,"34,90 TL",Kahvaltılıklar,5.0
+62e4decb-b8e9-47b7-be0a-6fbe257b08b4,Fitness Kahvaltı Tabağı,"34,90 TL",Kahvaltılıklar,10.0
+a301d269-97ea-40f7-9fba-750467607f58,Sade Omlet Tabağı,"34,90 TL",Kahvaltılıklar,9.0
+bdcafb26-1e57-4c65-a320-61789a81d7c6,Kaşarlı Omlet Tabağı,"34,90 TL",Kahvaltılıklar,7.0
+ddad6db0-2bae-4a15-a6ee-35134b331517,Sucuklu Omlet Tabağı,"34,90 TL",Kahvaltılıklar,5.0
+e6ce36b8-d7b6-4c42-bad5-35021abb1e9e,Karışık Kahvaltı Tabağı,"34,90 TL",Kahvaltılıklar,6.0
+4d881cd1-4426-4f80-9e3e-941dbc43b76c,Alaturka Dana,"52,90 TL",Kırmızı Etler,5.0
+284ec8ba-f4e7-4d8c-b8ed-e13b99232b01,Deli Dana,"52,90 TL",Kırmızı Etler,5.0
+8254f608-33a8-452a-9c2a-0f1029e31aff,Efsane Soslu Dana,"52,90 TL",Kırmızı Etler,7.0
+e4aba370-bd82-48bb-969f-fde18d870b77,Kajun Soslu Dana,"52,90 TL",Kırmızı Etler,5.0
+47bfd98e-18df-4b4d-83b2-0ba29e172fae,Meksika Soslu Dana,"52,90 TL",Kırmızı Etler,5.0
+e35a48ce-1bbf-4d32-ae3b-fb0f21852da1,Acıların Tavuğu,"33,90 TL",Beyaz Etler,5.0
+2643740a-a52a-4c5f-ba92-0c9faf7c12b3,Meksika Soslu Tavuk,"33,90 TL",Beyaz Etler,4.0
+d56a52e8-be75-4e6a-818b-3e081d63aafa,Acılı But,"33,90 TL",Beyaz Etler,5.0
+0dea6bc9-e05d-4f14-9f67-3888ce39a6b6,But Tavuk,"33,90 TL",Beyaz Etler,4.0
+d545aec2-92c9-4b33-b4e8-a197cb40722c,Alaturka Tavuk But,"33,90 TL",Beyaz Etler,4.0
+2021fd0b-2602-4124-bfbb-3b81529373a2,Barbekü Soslu Tavuk,"33,90 TL",Beyaz Etler,4.0
+21d83648-a0aa-46fa-b837-3e1daf6e9252,Efsane Tavuk,"33,90 TL",Beyaz Etler,6.0
+e18c331b-f297-4894-b61f-8caea2aa9e7d,Kajun Tavuk But,"33,90 TL",Beyaz Etler,4.0
+987bd13c-a7b8-4ef3-89bb-ff28af5aa17b,Café de Paris Soslu Tavuk,"34,90 TL",Beyaz Etler,289.0
+ad3117f4-91e0-4502-9a48-7fd1584154ac,4 Peynirli Tavuk,"34,90 TL",Beyaz Etler,14.0
+b6eaa438-616b-4893-b706-b166e96d997c,Cheddar Soslu Tavuk,"34,90 TL",Beyaz Etler,3.0
+fe7bae4b-0388-478e-ae30-617061fc48d9,Cheddar Peynirli Tavuk Bonfile,"36,90 TL",Izgaralar,2.0
+580071f0-f7ed-428b-8ef5-43599a9bb799,Cheddar Peynirli Tavuk But Lokum,"37,90 TL",Izgaralar,3.0
+dec63c80-6186-401a-acf9-1d6ac13fda3f,Zırh Köfte,"39,90 TL",Izgaralar,6.0
+dfe159fb-94fd-40de-a041-207706bd639c,Krema Soslu Fesleğenli Fettuccine,"22,90 TL",Makarnalar,5.0
+4cbfab7d-4d8e-4526-a395-69e9360c37a1,Sebzeli Penne,"25,90 TL",Makarnalar,5.0
+b796d750-0863-46c7-81d9-aaa5c2856a76,Körili Kaşarlı Makarna,"26,90 TL",Makarnalar,10.0
+406b6bbc-28ca-4b97-a589-188199868404,Penne Jambon,"27,90 TL",Makarnalar,5.0
+9501c00c-bff8-4442-ac42-a1651492d2a3,4 Peynirli Makarna,"27,90 TL",Makarnalar,18.0
+930bf87c-0523-45c2-9aaf-d2eab2b81b5e,Cheddar Penne,"29,90 TL",Makarnalar,4.0
+e131fb41-c83f-4608-a683-8ab5e983bcbd,Penne Antrikot,"34,90 TL",Makarnalar,5.0
+3b818714-d7e2-4920-8809-0d3f3601b7db,Bazlama Ekmeği (4 Dilim),"3,00 TL",Yan Ürünler,7.0
+e637adb5-f13f-4473-bd36-f9dc71b7ba26,Taneli Bardak Turşu,"5,00 TL",Yan Ürünler,5.0
+a21372b3-4746-4c5d-af56-4b0b1afc41f5,Soğan Halkası (8 Adet),"9,90 TL",Yan Ürünler,5.0
+e2f90b99-1f31-478b-b40e-262ea186aac5,Mozzarella Sticks (6 Adet),"15,90 TL",Yan Ürünler,5.0
+2f4804c9-0142-4f70-8f65-9358213e5b56,Kallafi Kalem Böreği (6 Adet),"16,90 TL",Yan Ürünler,5.0
+4b314a6e-68f1-43c4-9032-11a335d8c257,Cheddarlı Patates Kızartması,"16,90 TL",Yan Ürünler,6.0
+0ffaaa00-d620-4d97-8810-3dd9033ec62a,Çıtır Tavuklu Salata,"29,90 TL",Salatalar,14.0
+f1e64db8-0fee-4335-8387-69fc2133167d,Gurme Salata,"29,90 TL",Salatalar,12.0
+090e0eb7-81cb-4bd2-a83a-a1c1cf9849b6,Kleopatra Salata,"29,90 TL",Salatalar,14.0
+11cb7ef8-b301-4c32-9f46-b5b1805416bd,Ton Balıklı Salata,"30,90 TL",Salatalar,16.0
+d2a5f31e-9758-4810-9130-689aad0f8fba,Algida Classics Cookie Cup (105 ml.),"7,00 TL",Dondurmalar,5.0
+cd22f164-b253-4095-8ef1-054fea912636,Carte d'Or Monoportion Çilek Yoğurt (105 ml.),"7,00 TL",Dondurmalar,5.0
+1a9d1876-53fa-4e52-aefb-bf2eeec5da03,Carte d'Or Monoportion Çikolata Karnavalı (105 ml.),"7,00 TL",Dondurmalar,5.0
+6df70a63-6c56-49b8-b562-1be897670d90,Algida FS Cup Premium Kaymak (100 ml.),"7,50 TL",Dondurmalar,5.0
+cc6743d6-3ccc-4ea6-bb18-a74a0e43ac42,Algida FS Cup Premium Çikolata (100 ml.),"7,50 TL",Dondurmalar,5.0
+2f89d544-52b3-46db-b7ff-16d7ae3ab5ed,Algida Maraş Dondurmalı Supangle,"13,00 TL",Dondurmalar,5.0
+d62c4816-9190-4038-ab71-0316f606bafc,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"16,90 TL",Dondurmalar,5.0
+f6545dde-5e3d-41ee-a9aa-4d4b1cd8c26e,Carte d'Or Dondurmalı Volcano,"16,90 TL",Dondurmalar,5.0
+4cf9b6fa-3128-4824-bac5-cadcf2b80f05,Schweppes Mandalina (25 cl.),"6,50 TL",İçecekler,5.0
+8f994aa2-be0e-414c-a5ed-8215f2ed7dce,Fruko (1 L.),"8,90 TL",İçecekler,5.0
+cd6736d1-81a7-4f88-87dd-8b8da5119d37,Taze Sıkma Portakal Suyu (Bardak),"13,90 TL",Vitamin Bar,5.0
+b395ed83-dc3c-4c49-8a78-637a72ec3a69,Colorado Ketcap,"1,00 TL",Soslar,5.0
+93148edb-65f8-4478-9691-26e54ba11e92,Colorado Mayonez,"1,00 TL",Soslar,5.0
+525a9642-4290-43ec-b9c6-c57bdbd48851,Colorado Sarımısaklı Mayonez,"2,00 TL",Soslar,5.0
+d9152f4c-7e90-494d-ab3c-d8dfb1ccc089,Colorado Barbekü Sos,"2,00 TL",Soslar,5.0
+0e9fc701-1d3d-4e84-8ab8-c1824e4a14da,Colorado Acı Sos,"2,00 TL",Soslar,5.0
+cf3c2691-af52-43b1-aefa-39f324ab3dbf,Colorado Ballı Hardal,"2,00 TL",Soslar,5.0
+09b652e4-3807-42c1-be50-e298b5fce38d,Colorado Ranch Sos,"2,00 TL",Soslar,5.0
+d18e9cb7-8d65-4c47-94be-f3c7abc40833,5'li Colorado Sos,"6,90 TL",Soslar,5.0
+a0edbdd8-ce24-4b66-8b1e-38695914d5ae,Poşet,"0,25 TL",Poşet,5.0

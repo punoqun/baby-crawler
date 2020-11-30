@@ -1,0 +1,43 @@
+food_id,food_name,food_price,food_category,food_score
+bc2886e3-d388-4104-a4b1-b3456ee41fff,Waffle,"25,00 TL",Waffle,7.0
+3490e4a0-13db-49a6-88e8-d62b198951f7,Waffle Sandviç,"25,00 TL",Waffle,7.0
+c80bebef-2c05-4189-9611-71d2a3bc0383,Ballı Avokadolu Tost,"17,00 TL",Tostlar,4.0
+e75caabe-03eb-46a6-af6a-86b846a01032,Avokadolu Tost,"17,00 TL",Tostlar,4.0
+7FC3748C-7086-4C50-AB0B-8561CA2F6B0E,Vegan Tost,"22,00 TL",Tostlar,4.0
+a719d199-185d-42aa-8d0b-9ba7f55c694c,Kaşarlı Tost,"14,00 TL",Tostlar,4.0
+a1d7089e-b213-496a-b4fa-a5fdaf1a52c4,Sucuklu Tost,"15,00 TL",Tostlar,4.0
+71752eed-6ecb-4c36-b0ed-915b95162d3f,Salamlı Tost,"15,00 TL",Tostlar,4.0
+676c7dbf-1bca-4e25-b5be-9ed93bdb3515,Kaşarlı Sucuklu Tost,"16,00 TL",Tostlar,4.0
+6c317b0b-5c65-48aa-ae56-fd5ad4abc935,Kaşarlı Salamlı Tost,"16,00 TL",Tostlar,4.0
+44529969-df58-4d00-8d4f-c87745c6d43b,Karışık Tost,"16,00 TL",Tostlar,3.0
+95ae45c6-50bc-47ca-8631-f015e67ad81c,Ton Balıklı Sandviç,"20,00 TL",Sandviçler,3.0
+36ac60cd-f6e5-4806-b6a4-523be3c037df,Karışık Sandviç,"19,00 TL",Sandviçler,4.0
+882c2827-f517-410b-b926-96ced4d373b9,Hellim Peynirli Sandviç,"18,00 TL",Sandviçler,5.0
+7efb795f-2b88-429f-8a96-39b9183ba9de,Karışık Waffle Sandviç,"25,00 TL",Sandviçler,1.0
+e9adcc47-838b-4e0f-b40d-c5d9d4cbfbbb,Peynirli Makarna,"24,00 TL",Makarnalar,5.0
+a372caa6-e54a-41bb-ba6f-e43ec7ae25f8,Ton Balıklı Makarna,"25,00 TL",Makarnalar,3.0
+8765894b-9a87-45dc-957b-b061c201ae1c,Tortellini Makarna,"27,00 TL",Makarnalar,5.0
+ddbd2ab5-39e0-42da-a3e0-35e4eb61cf97,Mantı,"25,00 TL",Makarnalar,3.0
+da4451b6-2389-42dc-9f66-763830d69089,Ton Balıklı Salata,"20,00 TL",Salatalar,3.0
+f02b5563-92d9-4c8a-8c25-6b6697d88109,Caprise Salata,"18,00 TL",Salatalar,5.0
+93a651e4-0974-4131-99a4-d51dc6e403d6,Hellim Peynirli Salata,"19,00 TL",Salatalar,5.0
+a4f0adb2-01ac-46bf-975c-b4d1359cbd30,Ballı Cevizli Avokado,"15,00 TL",Tatlılar,5.0
+d94c65a2-f4b5-41fc-9bb5-54459c055a99,Mineralli Limonlu Soda (20 cl.),"6,00 TL",İçecekler,5.0
+cd928e48-8fbc-4e96-8ee1-027bc16065e4,Mineralli Ahududulu Soda (20 cl.),"6,00 TL",İçecekler,5.0
+781ea676-81f7-43b4-9d2f-b8af9b3be958,Mineralli Şeftalili & Kayısılı Soda (20 cl.),"6,00 TL",İçecekler,5.0
+5858CFFC-08F7-45FD-8C8C-1391D684DC9C,Sıcak Çikolata,"14,00 TL",Sıcak İçecekler,4.0
+175e3ceb-9a83-4fbc-b886-aa5f4983795c,Ev Yapımı Zencefilli Limonata,"17,00 TL",Vitamin Bar,5.0
+d8226b01-ba92-48d8-bee1-887a5e97579d,Taze Sıkma Portakal Suyu,"18,00 TL",Vitamin Bar,5.0
+a14c20ab-d182-4efe-9f26-867a31b01736,Milkshake,"18,00 TL",Vitamin Bar,5.0
+09d2c655-6fed-4dcb-8f05-46d8cd60b820,Green Juice,"10,00 TL",Vitamin Bar,5.0
+088feee7-09a5-4e11-beb4-6b1fb2496ed8,Taze Sıkma Karışık Meyve Suyu,"20,00 TL",Vitamin Bar,3.0
+ae759729-17fd-4a9b-abce-997d02018c1c,Americano,"14,00 TL",Kahveler,5.0
+7ca1f0a0-6539-42c6-b257-535fb35b49bc,White Mocha,"17,00 TL",Kahveler,5.0
+d96df7b8-34ce-4f0d-a887-1d04c89ae056,Nutella Mocha,"17,00 TL",Kahveler,6.0
+5070145f-dff3-4661-b857-1657011fcacc,Espresso,"11,00 TL",Kahveler,5.0
+2ebac175-c9ef-4296-b6cd-dada714c6beb,Cappuccino,"15,00 TL",Kahveler,5.0
+46f194f0-bf51-4d89-9035-d640cd47631c,Latte,"16,00 TL",Kahveler,5.0
+fefe20b3-f288-4fce-86f4-63b2b5adfc32,Mocha,"17,00 TL",Kahveler,5.0
+7d898489-8eca-4412-b770-f189d84bdb06,Detox Smoothie,"19,00 TL",Smoothies,5.0
+ecd094d0-8761-4f89-8196-2ed765308660,4 Malzemeli Smoothie,"19,00 TL",Smoothies,5.0
+5d1ed8b7-f714-423a-bb93-23a171dfceb0,Poşet,"0,25 TL",Poşet,5.0

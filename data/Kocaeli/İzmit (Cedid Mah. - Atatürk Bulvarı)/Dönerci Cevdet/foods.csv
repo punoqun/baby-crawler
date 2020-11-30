@@ -1,0 +1,37 @@
+food_id,food_name,food_price,food_category,food_score
+3bebcaba-8812-4ad2-b7f5-1b2774a29fa6,Et Döner,"18,99 TL",Et Dönerler,4.0
+c0e66014-7459-4fe3-826c-f071163af394,Pilav Üstü Et Döner,"24,99 TL",Et Dönerler,4.0
+5e89b677-ddd5-4920-9503-9c61248e7677,İskender (Et Dönerden),"19,99 TL",Et Dönerler,5.0
+38c67c0f-c1eb-4e9a-ac39-82cc8d0d8dbf,Et Döner Dürüm,"15,99 TL",Et Dönerler,4.0
+83b19140-fdea-47bc-9806-b2db71275e83,Yarım Ekmek Arası Et Döner,"8,99 TL",Et Dönerler,9.0
+64d853fe-a8ba-48fa-8c9f-5102399387b4,Tam Ekmek Arası Et Döner,"15,99 TL",Et Dönerler,9.0
+5b10fdf4-57ee-4d15-bb34-9b521bb9786f,Lahmacun,"5,99 TL",Fırın Ürünleri,12.0
+F902E259-5966-4C56-9347-9C4C3E297D82,Islak Hamburger,"10,00 TL",Fırın Ürünleri,5.0
+560daef3-14c5-4ee8-b4c7-41d2544d9aed,Kıymalı Pide,"11,99 TL",Fırın Ürünleri,5.0
+38ce3c09-d16f-4ec7-b8e2-9195e80969e9,Kaşarlı Pide,"11,99 TL",Fırın Ürünleri,5.0
+7b552c66-0455-4976-bdc6-975ad077a6ab,Kaşarlı Sucuklu Pide,"17,99 TL",Fırın Ürünleri,5.0
+e6447e99-a462-41dd-b8bf-b8b096e54963,Kuşbaşılı Pide,"22,99 TL",Fırın Ürünleri,5.0
+37681f96-26de-4413-b58b-32d5bb0d1118,Karışık Pide,"24,99 TL",Fırın Ürünleri,5.0
+aa56fe05-5a26-456a-a69d-02f230212fb8,Kavurmalı Pide,"28,99 TL",Fırın Ürünleri,5.0
+ec69ead7-f17c-48bd-8702-47243ca031b3,Karışık Pizza (Küçük),"12,90 TL",Küçük Boy Pizzalar,5.0
+ad8c5b74-e1e5-470f-b0cc-2cfad9ca42c0,Margherita Pizza (Küçük),"9,90 TL",Küçük Boy Pizzalar,5.0
+d1a8e291-07d3-4c41-bb33-76ff3f2b53a8,Mexicano Pizza (Küçük),"12,90 TL",Küçük Boy Pizzalar,5.0
+2f6ff45d-e8da-4729-ac00-73a95e9dd7a1,Sebzeli Pizza (Küçük),"12,90 TL",Küçük Boy Pizzalar,5.0
+460e56e0-36cf-4e9a-af14-67c969f6f3e8,Ton Balıklı Pizza (Küçük),"16,90 TL",Küçük Boy Pizzalar,5.0
+d93ee23a-4ccd-4c47-96d1-f73643343218,Karışık Pizza (Orta),"22,90 TL",Orta Boy Pizzalar,5.0
+75ea3df0-c9e4-49ae-8295-6dbde0ce3374,Margherita Pizza (Orta),"17,90 TL",Orta Boy Pizzalar,5.0
+b04e8de0-aad7-472b-9b00-2d6fbe9f7c7c,Mexicano Pizza (Orta),"22,90 TL",Orta Boy Pizzalar,5.0
+ed409afd-7683-483a-af2e-be21b97e3777,Sebzeli Pizza (Orta),"32,90 TL",Orta Boy Pizzalar,5.0
+99496e4c-58ca-4d06-9f2e-6eea4914ed8e,Ton Balıklı Pizza (Orta),"23,90 TL",Orta Boy Pizzalar,5.0
+dd3833a1-d7ff-4787-a253-df7f154e56d5,Karışık Pizza (Büyük),"32,90 TL",Büyük Boy Pizzalar,5.0
+2cdd02b5-30ff-446b-8f76-f4e9df54ab32,Margherita Pizza (Büyük),"28,90 TL",Büyük Boy Pizzalar,5.0
+596dcce6-d761-42ea-9627-0f0dce421625,Mexicano Pizza (Büyük),"32,90 TL",Büyük Boy Pizzalar,5.0
+4b9c514e-1f71-47ab-8aab-b1422d2130e5,Sebzeli Pizza (Büyük),"32,90 TL",Büyük Boy Pizzalar,5.0
+539eab1c-a19b-46a2-b3b2-da5255147ca9,Ton Balıklı Pizza (Büyük),"36,90 TL",Büyük Boy Pizzalar,5.0
+da043d88-3906-4fde-af98-6d7194259d55,Karışık Pizza (Aile Boyu),"44,90 TL",Aile Boyu Pizzalar,5.0
+704aa288-d5c8-40ab-bc59-b700bc8d9f46,Margherita Pizza (Aile Boyu),"39,90 TL",Aile Boyu Pizzalar,5.0
+992e1d42-7e55-4397-9a5a-3eac998bb56d,Mexicano Pizza (Aile Boyu),"44,90 TL",Aile Boyu Pizzalar,5.0
+aca20de2-0f94-4782-9d9f-0a672237c2e5,Sebzeli Pizza (Aile Boyu),"44,90 TL",Aile Boyu Pizzalar,5.0
+d9093334-9fed-4d91-86ee-53333e5bfa3d,Ton Balıklı Pizza (Aile Boyu),"49,90 TL",Aile Boyu Pizzalar,5.0
+fa45aa65-8d61-4599-91a3-2a87f3997aad,Tamek (33 cl.),"5,00 TL",İçecekler,5.0
+acb2013d-4522-446f-8b6e-5a9036ca011f,Poşet,"0,25 TL",Poşet,5.0

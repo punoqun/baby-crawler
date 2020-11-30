@@ -1,0 +1,29 @@
+food_id,food_name,food_price,food_category,food_score
+ab161ef8-0fdf-4a18-b27a-1785c1689d59,Hamburger Menü,"20,00 TL",Menü,15.0
+b8f1aaf1-4b97-4a5a-8c2f-4ad65cf386d0,Izgara Köfte Menü,"27,00 TL",Menü,5.0
+7c08cf58-d739-48fd-a6b8-ae28eb46c5d6,Tavuk Schnitzel Menü,"16,00 TL",Menü,9.0
+cb517d3b-a5c1-4343-8aad-3dda2c4ffe14,Tavuk Külbastı Menü,"19,00 TL",Menü,16.0
+1a64168e-e81f-4a07-bb8b-c02f484fafef,Tavuk Burger Menü,"17,00 TL",Menü,9.0
+5E98EC3E-F1A8-4A8D-9E12-16CE764BD808,Tavuk Döner Menü,"18,00 TL",Menü,9.0
+034b4e9d-687c-4dc2-942a-43dbe4c70589,Salamlı Kaşarlı Kaşarlı Tost,"16,00 TL",Tostlar,5.0
+8389a659-dab8-4ac3-b7b1-6caa5596b9ab,Karışık Tost,"14,00 TL",Tostlar,5.0
+d2a813a3-9a6d-4311-9672-569ad7b680ea,Kaşarlı Tost,"10,00 TL",Tostlar,5.0
+8be9623c-cd46-433d-a2a4-e006ecb6b96e,Sosli Salamlı Kaşarlı Tost,"16,00 TL",Tostlar,5.0
+cb565c1f-1e63-4e29-848e-a8b2db080521,Sucuklu Tost,"10,00 TL",Tostlar,5.0
+faefd82d-8aa2-4ffd-ab2e-b4163d526ae2,Yengen Tost,"15,00 TL",Tostlar,5.0
+3146d1bc-b4d5-4e71-aa4f-3a2f02799823,Beyaz Peynirli Gözleme,"10,00 TL",Kebaplar & Izgaralar,12.0
+36bced55-81f0-48b7-bf5b-a8eecab30975,Patatesli Gözleme,"10,00 TL",Kebaplar & Izgaralar,7.0
+4a96b156-fccb-405a-981d-98ab040caad7,Kaşarlı Gözleme,"12,00 TL",Kebaplar & Izgaralar,7.0
+D54A81F5-5E80-473C-9561-39D7496F1BAD,Ekmek Arası Tavuk Döner,"10,00 TL",Ekmek Arası Ürünler,9.0
+0b1c835a-324f-409b-9efb-1916bf24a13f,Ekmek Arası Köfte,"15,00 TL",Ekmek Arası Ürünler,5.0
+bf071879-e9b5-40f0-ac4b-f86bed5abd7d,Ekmek Arası Sucuk,"16,00 TL",Ekmek Arası Ürünler,5.0
+33c44fc4-10ea-40da-95b9-8ff954aa770c,Mevsim Salata,"13,00 TL",Salatalar,7.0
+4ba8aca4-8c39-4602-a523-298126ee3de9,Izgara Tavuk Salata,"15,00 TL",Salatalar,10.0
+4e9e92c4-e2b2-44a3-99eb-464b5476d19d,Ton Balıklı Salata,"17,00 TL",Salatalar,7.0
+2262226c-de84-4630-946d-76582199c902,Tavuk Parçaları,"17,00 TL",Yan Ürünler,9.0
+63c98379-ff04-4b87-ba38-b31b690620e9,Patates Kızartması,"10,00 TL",Yan Ürünler,9.0
+769a9b1f-2a11-48d7-bad7-2815476c2fce,Sigara Böreği (8 Adet),"10,00 TL",Yan Ürünler,5.0
+9020579a-99cf-448a-b2c9-85008a772532,Soğan Halkası (8 Adet),"10,00 TL",Yan Ürünler,5.0
+981c4189-f83f-4e89-b432-06574ef3e23d,Aperitif Tabağı,"20,00 TL",Yan Ürünler,5.0
+a88e8fcc-1053-409c-a31a-a3a71930813e,Tavuk Nugget,"7,00 TL",Yan Ürünler,9.0
+c8a9b88e-6ad9-4fe9-be1f-faa751dc9401,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,42 @@
+food_id,food_name,food_price,food_category,food_score
+01d5cc4c-4270-471c-9936-cced1575cf43,Menemen,"8,00 TL",Kahvaltılıklar,10.0
+ed446b74-c4e2-4f63-a1a2-27a729c68762,Sucuklu Menemen,"10,00 TL",Kahvaltılıklar,5.0
+2f71e5e6-2563-4a73-ae3e-6ba1bb0dcbb0,Kaşarlı Menemen,"9,00 TL",Kahvaltılıklar,5.0
+a37d32e5-d0db-4792-9f1b-ce7d71a55c40,Kavurmalı Menemen,"13,00 TL",Kahvaltılıklar,3.0
+87d104cf-5150-4a22-8ac6-85ae63bbe04a,Kaşarlı Tost,"7,50 TL",Tostlar,6.0
+7a3aa53e-3d58-40d7-b47f-3fb980d69a8b,Sucuklu Tost,"7,50 TL",Tostlar,6.0
+9a282903-0a2e-402f-8756-03726be714f9,Karışık Tost,"8,50 TL",Tostlar,11.0
+1f96cbb7-d608-43e2-acdc-f86145c04074,Salamlı Tost,"7,50 TL",Tostlar,6.0
+ec6bfe14-3fe3-4206-aa85-9cdfce762519,Kavurmalı Kaşarlı Tost,"10,00 TL",Tostlar,4.0
+c0b98e88-8ddc-44be-b0bf-9e1388cc6062,Salamlı Kaşarlı Tost,"8,50 TL",Tostlar,6.0
+0b7836b0-d165-4a57-afe9-f6421cd8a49a,Köfte,"10,00 TL",Ana Yemekler,5.0
+33b85b3a-2c2d-427f-8d85-b04753d7810c,Tavuk Şnitzel,"10,00 TL",Ana Yemekler,10.0
+9d19836b-5230-487d-b398-ba4cee5df905,Tavuk Sote,"9,00 TL",Ana Yemekler,5.0
+f856c5a9-2c15-43e8-94a3-b9bdde98161f,Kıyma Sote,"10,00 TL",Ana Yemekler,5.0
+049c5b78-119c-4755-8dbc-2d6709f9255e,Ekmek Arası Tavuk Sote,"6,00 TL",Ekmek Arası Ürünler & Dürümler,5.0
+659c346c-6b86-4f85-8598-38ae714c264b,Ekmek Arası Kıyma Sote,"8,00 TL",Ekmek Arası Ürünler & Dürümler,5.0
+b7d1ca9c-2c1a-4663-97e6-86280943e184,Ekmek Arası Köfte,"8,00 TL",Ekmek Arası Ürünler & Dürümler,5.0
+17a9a375-dadb-492e-8cf5-b33a9b004a4a,Ekmek Arası Sucuk,"8,50 TL",Ekmek Arası Ürünler & Dürümler,5.0
+82e974b8-d04e-4e26-93f5-b4885eba9db3,Ekmek Arası Ton Balığı,"9,00 TL",Ekmek Arası Ürünler & Dürümler,5.0
+3c23bc07-5972-4ae5-979b-fa94dce04288,Ekmek Arası Tavuk Şnitzel,"7,00 TL",Ekmek Arası Ürünler & Dürümler,5.0
+ea498d3f-7619-447c-a07d-d88e95d321e7,Ekmek Arası Üçgen Peynirli Sandviç,"6,00 TL",Sandviçler,5.0
+ed25bd9a-c9d9-4046-a50c-8c176a3f88e6,Ekmek Arası Salamlı & Kaşar Peynirli Sandviç,"7,50 TL",Sandviçler,5.0
+d005d6e2-4dc4-4b31-811d-299723e33150,Ekmek Arası Kaşar Peynirli Sandviç,"6,50 TL",Sandviçler,5.0
+811a8ce3-2e64-443e-848f-6d65318dd806,Ekmek Arası Salamlı Sandviç,"6,50 TL",Sandviçler,5.0
+69df7edf-0b8b-4d3d-b628-8268a8ac5184,Ekmek Arası Beyaz Peynirli Sandviç,"6,50 TL",Sandviçler,5.0
+04fb6e9c-2da5-472f-85e9-0e12352852d4,Ekmek Arası Tulum Peynirli Sandviç,"7,00 TL",Sandviçler,5.0
+12bb959c-74a6-4087-a50c-fe7b3521bab7,Ekmek Arası Patso,"7,00 TL",Sandviçler,5.0
+829b984e-7502-4881-a7b0-45afc44acb41,Patates Kızartması,"8,50 TL",Yan Ürünler,5.0
+877a8409-3bf8-4776-aa61-a6822bacbe64,Elma Dilim Patates Kızartması,"8,50 TL",Yan Ürünler,5.0
+d839b34e-cbe4-42d6-b2fd-ceeedd0303b8,Tulumba Tatlısı (5 Adet),"8,00 TL",Tatlılar,5.0
+5906c653-b74b-431d-bd98-6f7d9e800256,Halka Tatlısı (Adet),"3,50 TL",Tatlılar,5.0
+17e58d81-2b19-405f-ae05-c74abe67dc39,Kadayıf,"7,50 TL",Tatlılar,5.0
+6FEC15ED-41CA-4966-8AB8-6A3967AB5DEB,Ev Yapımı Limonata (50 cl.),"5,00 TL",İçecekler,5.0
+0f01c963-5e58-45a5-b26d-82fc3ac4205c,"Ev Yapımı Limonata (1,5 L.)","10,00 TL",İçecekler,5.0
+7415cfb3-9839-409a-b752-a29ce342d2bd,"Yedigün (2,5 L.)","8,50 TL",İçecekler,5.0
+acae14ba-846a-4300-a6c2-6b22bbac6099,Cevizli Baklava (1 kg.),"50,00 TL",Kiloluk Tatlılar,5.0
+2892ff2f-ecd2-427e-a3db-f1f97ef476f0,Halka Tatlısı (1 kg.),"25,00 TL",Kiloluk Tatlılar,5.0
+242fb21b-5e5c-48bc-a8c0-f207e17958e5,Tulumba Tatlısı (1 kg.),"25,00 TL",Kiloluk Tatlılar,5.0
+50933b25-7f61-4c09-8f65-c29f4bb1b699,Saray Sarması (1 kg.),"50,00 TL",Kiloluk Tatlılar,5.0
+3c3d8b26-3f23-4af2-89e3-731d1ff3792c,Kadayıf (1 kg.),"35,00 TL",Kiloluk Tatlılar,5.0
+4ca7c025-bc64-4a01-ad78-ce14d4c955f2,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,20 @@
+food_id,food_name,food_price,food_category,food_score
+E8FF3D73-889F-4C2D-9AE5-08CF74BA1076,Menemen,"18,00 TL",Kahvaltılıklar,5.0
+01979C3A-2C74-41A9-B778-4476CAB909F1,Sucuklu Menemen,"22,00 TL",Kahvaltılıklar,5.0
+ca498e85-b044-424f-8f31-82261e48251a,Kahvaltı Tabağı,"18,00 TL",Kahvaltılıklar,5.0
+5a31cf37-9c65-4e2d-a4c6-c623e7dc5d51,Dil & Beyin & Çürük & Paça Çorbası,"23,00 TL",Çorbalar,5.0
+8eb9aed1-55fd-4f13-a8b8-cad4ac7be298,Mercimek & Dil & Paça Çorbası,"25,00 TL",Çorbalar,10.0
+575c811d-c527-4e3a-b8f5-6a311b94613e,Dil Çorbası,"23,00 TL",Çorbalar,5.0
+0B07CB04-EF02-4EDA-8A2E-CE0F8C15B750,Bıldırcın Dolması,"25,00 TL",Günlük Yemekler,5.0
+4946310A-6FB3-4217-B82C-97EBFF1AC4DC,Sebzeli Misket Köfte,"22,00 TL",Günlük Yemekler,6.0
+dfd59d50-fae2-4f8d-9955-247a053dd515,Şırdan Dolması,"15,00 TL",Diğer Lezzetler,5.0
+ff04bcb3-3f77-4502-b654-31e18d25c4ed,Kızarmış Kelle (Yarım),"27,50 TL",Diğer Lezzetler,8.0
+12fad6e7-b37c-4878-9caf-ac421512ae81,Mumbar Dolması,"27,00 TL",Diğer Lezzetler,7.0
+289729d9-9875-4709-b76e-2d855f07b431,Kelle Söğüş,"27,50 TL",Diğer Lezzetler,8.0
+35cebe59-af28-47ee-a44d-9054c0b7dba4,Pirinç Pilavı,"6,00 TL",Yardımcı Yemekler,5.0
+b2a133b7-888d-4b94-8da6-19168e55164a,Bulgur Pilavı,"6,00 TL",Yardımcı Yemekler,4.0
+5260df8d-1f3b-4834-80b8-fefdc1282892,Cacık,"6,00 TL",Yan Ürünler,5.0
+3b3f3a6d-9918-424e-9cc3-d8184e0c5d18,Yoğurt,"6,00 TL",Yan Ürünler,5.0
+d9d1befd-00a4-4e0d-ba7d-ef0e8d487a85,Humus,"18,00 TL",Yan Ürünler,4.0
+ee398705-fdd7-416a-84bc-759f5dd15ba5,Sütlaç,"8,00 TL",Tatlılar,5.0
+40d8fd86-5577-4e40-913b-5f67e1336ddf,Poşet,"0,25 TL",Poşet,5.0

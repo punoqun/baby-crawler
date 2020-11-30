@@ -1,0 +1,61 @@
+food_id,food_name,food_price,food_category,food_score
+9e9cb6cc-1dc7-4820-bbbc-b885c73f101d,3 Adet Orta Boy Pizza,"70,00 TL",Promosyonlar,8.0
+44e64aa3-d773-4d49-8a59-5c12b5c9480c,3 Adet Küçük Boy Pizza,"50,00 TL",Promosyonlar,11.0
+f7fa9f01-ed50-44e6-8570-f214c612903d,2 Adet Orta Boy Pizza,"48,00 TL",Promosyonlar,19.0
+754686f7-4737-4700-b408-4c18d215258f,2 Adet Büyük Boy Pizza,"65,00 TL",Promosyonlar,20.0
+6a14960f-1332-4075-bce3-27809ad5e073,Menü 2,"43,00 TL",Menüler,16.0
+DE256937-9655-4162-BEBE-E1EF18912079,Menü 3,"60,00 TL",Menüler,4.0
+bf05f8a6-c1cd-4fe7-a9ee-739a204cf94b,Menü 4,"72,00 TL",Menüler,6.0
+02b52cea-5d2c-4a92-8858-46a659d568ba,Menü 5,"22,00 TL",Menüler,9.0
+5872cbf9-790c-4e89-a6db-3a52982f9914,Menü 6,"19,00 TL",Menüler,5.0
+D216027E-BB64-403F-94C1-D12DDCDC7F2C,Menü 7,"27,00 TL",Menüler,9.0
+52ad65ab-9fe3-46f0-af50-a4a05b6ee7b1,Menü 8,"26,00 TL",Menüler,7.0
+082caeb0-5c9f-4f3b-81ea-c433c8f986ce,Menü 9,"55,00 TL",Menüler,5.0
+062b0b13-ffd3-4443-abb3-09847e66664d,Menü 10,"58,00 TL",Menüler,17.0
+0848ef6a-ac85-4032-af6a-cd752b8d2b06,Aperatif Menü,"22,00 TL",Menüler,5.0
+8a34a8bc-5f69-489c-b527-b22b7bffbe9f,Orta Boy Pizza Menü,"33,00 TL",Menüler,9.0
+19c61380-a625-4870-bedc-02e5997be333,Sucuklu Pizza (Küçük),"18,00 TL",Küçük Boy Pizzalar (22 cm.),12.0
+5f62174c-5219-49ae-a2ed-d373cfa40ee1,Peynir Aşkı (Küçük),"18,00 TL",Küçük Boy Pizzalar (22 cm.),4.0
+ec466b56-2aff-4017-b27b-0c9bdcc255e6,Sebze Şöleni (Küçük),"18,00 TL",Küçük Boy Pizzalar (22 cm.),5.0
+5b36fa2a-3028-41c3-b687-bf61074bcbef,Et Sevenler Pizza (Küçük),"18,00 TL",Küçük Boy Pizzalar (22 cm.),10.0
+fc4251a6-2608-426d-9426-739e3834ef39,Denizde Güneş Pizza (Küçük),"18,00 TL",Küçük Boy Pizzalar (22 cm.),10.0
+5c580ef2-08c8-4e2f-8f8e-36b9c6e5d904,Special Karışık Pizza (Küçük),"18,00 TL",Küçük Boy Pizzalar (22 cm.),12.0
+4b936e66-d375-4d32-badb-d1a260fc4816,Meksika Ateşi Pizza (Küçük),"18,00 TL",Küçük Boy Pizzalar (22 cm.),10.0
+477a7057-74a8-43a2-b329-a81138c4e422,Turkish Pizza (Küçük),"18,00 TL",Küçük Boy Pizzalar (22 cm.),14.0
+9bbc6992-b05d-4235-b9d5-3bd3e20ed5fd,Çiftlik Pizza (Küçük),"17,90 TL",Küçük Boy Pizzalar (22 cm.),10.0
+b9d49870-f9c5-4232-a67b-6af0ccb229f5,Kumru Pizza (Küçük),"18,00 TL",Küçük Boy Pizzalar (22 cm.),10.0
+847f967f-7cd7-4241-b07f-38adaae2e87b,Etli Acılı Pizza (Küçük),"18,00 TL",Küçük Boy Pizzalar (22 cm.),10.0
+0ea53257-384e-4668-965a-809869eb3166,Adanalım Pizza (Küçük),"18,00 TL",Küçük Boy Pizzalar (22 cm.),10.0
+750DC210-6D19-4AA2-9655-7F71F1F09D74,Pastırmalı Acılı Pizza (Küçük),"18,00 TL",Küçük Boy Pizzalar (22 cm.),10.0
+35AD4CAE-2DEF-43B0-8F70-9CFF7E7CC7FC,Pastırmalı Yumurtalı Pizza (Küçük),"18,00 TL",Küçük Boy Pizzalar (22 cm.),10.0
+d8225241-d780-410b-9f7f-f7d1a9198902,Sucuklu Pizza (Orta),"26,00 TL",Orta Boy Pizzalar (26 cm.),12.0
+6443430d-ec90-4e45-9c53-ead83ef7631a,Peynir Aşkı (Orta),"26,00 TL",Orta Boy Pizzalar (26 cm.),4.0
+6cc3473c-567b-4593-80cc-770741104bd8,Sebze Şöleni (Orta),"26,00 TL",Orta Boy Pizzalar (26 cm.),5.0
+c29d1e6e-df63-4278-a45e-de8f69e8fb4f,Et Sevenler Pizza (Orta),"26,00 TL",Orta Boy Pizzalar (26 cm.),10.0
+5e313520-be0d-4c89-9777-ab4421bffabb,Denizde Güneş Pizza (Orta),"26,00 TL",Orta Boy Pizzalar (26 cm.),10.0
+8cc45af4-9209-4de6-898e-6f11f1a34fc2,Special Karışık Pizza (Orta),"26,00 TL",Orta Boy Pizzalar (26 cm.),12.0
+fd842920-d812-4373-b137-8b167d498e05,Meksika Ateşi Pizza (Orta),"26,00 TL",Orta Boy Pizzalar (26 cm.),10.0
+c0ea2927-a233-47a4-9f91-ce275db7e002,Turkish Pizza (Orta),"26,00 TL",Orta Boy Pizzalar (26 cm.),14.0
+66e35e86-0931-4269-af0b-a1a2343ecec6,Kumru Pizza (Orta),"26,00 TL",Orta Boy Pizzalar (26 cm.),10.0
+d7d1672f-1451-4514-8832-282e314d8914,Etli Acılı Pizza (Orta),"26,00 TL",Orta Boy Pizzalar (26 cm.),10.0
+8930685a-f90c-4e55-b6a3-5ea2dbe4fd56,Adanalım Pizza (Orta),"26,00 TL",Orta Boy Pizzalar (26 cm.),10.0
+8a345c70-2268-4f7f-9b9b-1231d3c7705a,Sucuklu Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (36 cm.),12.0
+8e43d120-fe0c-46cc-bf57-99bb8f81350b,Peynir Aşkı (Büyük),"35,00 TL",Büyük Boy Pizzalar (36 cm.),4.0
+8869eb3f-e758-46ac-b4cc-b3376c51311a,Sebze Şöleni (Büyük),"35,00 TL",Büyük Boy Pizzalar (36 cm.),5.0
+f9ea8a28-9943-4400-a7f1-41feaa8fdaaf,Et Sevenler Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (36 cm.),10.0
+a95ca80b-0939-4259-bd46-318166fb65c1,Denizde Güneş Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (36 cm.),10.0
+ace53b34-2382-4883-9f48-ca62452e9d21,Special Karışık Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (36 cm.),12.0
+7c62eb3f-9164-4b51-ad2d-16b9d9236727,Meksika Ateşi Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (36 cm.),10.0
+51f3b9bc-8ed8-4dbb-bf68-134855482412,Turkish Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (36 cm.),14.0
+b4034090-1ff1-4c50-8607-a94ee6f0e043,Kumru Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (36 cm.),10.0
+c85c238a-44ac-4704-a904-b65f3e2f7a2f,Etli Acılı Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (36 cm.),10.0
+f0eda2c1-8e54-4bab-8261-c1030bab973b,Adanalım Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (36 cm.),10.0
+5b8c3d18-3579-4371-8025-f368b9679564,Çıtır Tavuklu Sandviç,"15,00 TL",Sandviçler & Burgerler,5.0
+a21c0e84-5855-423f-b7e9-c054ae4408e3,Ton Balıklı Sandviç,"15,00 TL",Sandviçler & Burgerler,5.0
+89fa320b-2ad1-4f70-8329-b7e18c8dd3c1,Hamburger,"10,00 TL",Sandviçler & Burgerler,12.0
+384a38b8-4773-4999-97ea-e60ba764b7a8,Tavuk Nugget (5 Adet),"7,00 TL",Diğer Lezzetler,4.0
+2740e4ae-d0ff-4069-949a-3af777de6155,Tavuk Nugget (10 Adet),"10,00 TL",Diğer Lezzetler,4.0
+0b400eb9-7e8b-4caa-bd5e-bea39f82cb0c,Elma Dilim Patates,"5,00 TL",Diğer Lezzetler,4.0
+8f252bbb-c71f-4438-b898-67d7250be46b,Parmak Patates,"5,00 TL",Diğer Lezzetler,9.0
+7c85c369-c787-4389-aa7d-8d100db55cfc,Soğan Halkası (5 Adet),"6,00 TL",Diğer Lezzetler,5.0
+6b9ab5fe-835b-4384-a510-a8603312cff2,Soğan Halkası (10 Adet),"8,00 TL",Diğer Lezzetler,5.0

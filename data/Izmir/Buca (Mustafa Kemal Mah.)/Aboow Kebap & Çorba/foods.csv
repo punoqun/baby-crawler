@@ -1,0 +1,61 @@
+food_id,food_name,food_price,food_category,food_score
+09164e36-2834-403f-8b24-69515075f1db,Adana Dürüm Menü,"12,75 TL",Menüler,12.0
+786fceb4-b98d-4a49-9de9-91fc7672ac78,Urfa Dürüm Menü,"12,75 TL",Menüler,4.0
+aafdb4ed-9c36-427e-a938-f0a6ad204da8,Et Döner Dürüm Menü,"15,00 TL",Menüler,4.0
+a85d79d9-e783-467d-bf60-a695731feb91,Yarım Ekmek Arası Et Döner Menü,"11,25 TL",Menüler,3.0
+40ce01d9-69d5-4bd7-84de-e0ab5757b8ff,Ciğer Dürüm,"15,00 TL",Menüler,4.0
+D5860ECB-27AC-4A11-B9B9-F57A216FE76E,Ekmek Arası Izgara Köfte Menü,"12,75 TL",Menüler,3.0
+cc676f30-247b-4fc6-9319-7fdee2f04e64,Çocuk Menüsü,"16,88 TL",Menüler,4.0
+fa2f4650-8982-403c-bd90-d4db3b817ae3,Tavuk Dürüm Menü,"11,25 TL",Menüler,6.0
+DABC4110-AF35-4E56-BD05-5C5DAE07DB70,Serpme Kahvaltı (1 Kişilik),"15,00 TL",Kahvaltılıklar,7.0
+04554c43-d3a7-4a30-a102-5561c62be89e,Serpme Kahvaltı (2 Kişilik),"26,25 TL",Kahvaltılıklar,7.0
+995edc5a-37ef-4531-9421-0f98d36b8d1f,Sucuklu Yumurta,"11,25 TL",Kahvaltılıklar,5.0
+02cee00f-7ecd-4612-998f-4a6c57cf0b1b,Kavurmalı Yumurta,"13,13 TL",Kahvaltılıklar,5.0
+ea69f303-36f9-4aaa-a408-a13d017a53b6,Pastırmalı Yumurta,"15,00 TL",Kahvaltılıklar,5.0
+7fe59d7b-6636-4f06-b337-27a2499dcdfd,Menemen,"9,38 TL",Kahvaltılıklar,3.0
+4c6b028a-dd05-4666-8019-23496abf84c7,Kaşarlı Gözleme,"11,25 TL",Gözlemeler,9.0
+6786E1AA-5BA4-4F59-872C-B06E9110F43B,Domatesli Biberli Gözleme,"9,38 TL",Gözlemeler,9.0
+045B603F-5998-4D4B-9ADD-296649FCB11D,Yakar Geçer Gözleme (Acılı),"11,25 TL",Gözlemeler,9.0
+7EE7AFC4-D6A5-4989-AE48-E5296C23BBA1,Aşk Tadı Gözleme,"11,25 TL",Gözlemeler,9.0
+d967a8b7-3c7e-4e03-b187-d804d5085296,Patatesli Gözleme,"9,38 TL",Gözlemeler,9.0
+3bf5082b-cf11-4352-ab9c-2b90010bca6d,Patatesli Kaşarlı Gözleme,"11,25 TL",Gözlemeler,9.0
+0be9af92-07e1-435a-9036-93060781cf42,Kıymalı Gözleme,"11,25 TL",Gözlemeler,9.0
+4d6a4353-b122-4403-8132-d2ac4e0ca7e4,Kıymalı Kaşarlı Gözleme,"12,75 TL",Gözlemeler,9.0
+b38968ef-baff-4183-bd43-64605f382d33,Ispanaklı Gözleme,"9,38 TL",Gözlemeler,11.0
+04ab7d7f-df46-46a9-8ca6-c366015834c2,Ispanaklı Kaşarlı Gözleme,"11,25 TL",Gözlemeler,11.0
+0c4de0da-004a-4e92-8efa-11c2f4c47a30,Alinazik Kebap (Kıymadan),"26,25 TL",Izgaralar & Kebaplar,5.0
+1723b54a-5abf-4f9b-9408-57f97f50005a,Patlıcanlı Kebap,"24,75 TL",Izgaralar & Kebaplar,5.0
+213bbc3b-3917-47ab-ba41-2d171ba45e22,Tavuk Kanat,"20,25 TL",Izgaralar & Kebaplar,7.0
+299b1f56-18af-423b-b944-bdc7b963c354,Adana Kebap,"21,00 TL",Izgaralar & Kebaplar,8.0
+2b7e8b1c-ad83-4d2c-afce-20a2f639fd4e,Soğanlı Kebap,"26,25 TL",Izgaralar & Kebaplar,5.0
+42bab1ac-5e34-4fc0-ba5b-f8dfbc60453d,Sarma Beyti Kebap,"26,25 TL",Izgaralar & Kebaplar,5.0
+586db5db-77e5-4362-8c6d-9b6f22beac7e,Domatesli Kebap,"24,75 TL",Izgaralar & Kebaplar,5.0
+5ea4b20d-60f8-4c25-9804-7931a666243e,Kuzu Şiş,"26,25 TL",Izgaralar & Kebaplar,5.0
+728dd651-6325-4456-a0af-d90218d9db48,Izgara Köfte,"21,00 TL",Izgaralar & Kebaplar,5.0
+817344cc-95a8-469b-af8e-11577e59d955,Urfa Kebap,"21,00 TL",Izgaralar & Kebaplar,5.0
+8dd21439-f015-4af6-9e17-57f9cf5df1e6,Ciğer Şiş,"21,00 TL",Izgaralar & Kebaplar,5.0
+a6f660e0-80a8-4d48-9b22-0c72862b039f,Karışık Kebap,"37,50 TL",Izgaralar & Kebaplar,5.0
+b3f3d5f5-7f12-4ebd-b0b4-46b0995042da,Aboow Special,"105,00 TL",Izgaralar & Kebaplar,5.0
+c89fb725-b230-4fd1-ad3e-789c8f059c2c,Çöp Şiş,"26,25 TL",Izgaralar & Kebaplar,5.0
+f1b63c13-6bad-4811-a1a2-3c6272d5023a,Dana Şiş,"26,25 TL",Izgaralar & Kebaplar,5.0
+f49b9a42-ede1-4898-8382-8d2d3ee1114c,Tavuk İncik,"20,25 TL",Izgaralar & Kebaplar,7.0
+98f3d95b-03f4-42c9-87fb-df319d8f05ae,Yaprak Ciğer,"26,25 TL",Izgaralar & Kebaplar,5.0
+1B270D96-043A-40D8-AA2E-8FE050442DEB,Sac Kavurma (200 gr.),"33,75 TL",Izgaralar & Kebaplar,5.0
+0df03411-bcee-422f-a6f9-dab7a56d2b6f,Kiremitte Kaşarlı Tavuk,"22,50 TL",Kiremitte Ürünler,7.0
+1725690b-c988-4d7b-a259-bf977dde4cb1,Kiremitte Kaşarlı Kuşbaşı,"26,25 TL",Kiremitte Ürünler,5.0
+1ae6673f-529a-46e5-a231-b46f2a9ad333,Kiremitte Kaşarlı Köfte,"24,00 TL",Kiremitte Ürünler,5.0
+36edfa80-d550-4e57-8d13-c44818cede93,Kitemitte Tavuk,"22,50 TL",Kiremitte Ürünler,7.0
+39d1c884-1f15-4f2f-bad8-e58ed9023770,Kiremitte Köfte,"22,50 TL",Kiremitte Ürünler,5.0
+fca88c3f-1cc8-4540-8ab5-497d220a124c,Kitemitte Kuşbaşı,"24,38 TL",Kiremitte Ürünler,5.0
+829d2c8e-735a-4f7d-8ebb-cab84b01d45f,Bulgur Pilavı,"6,00 TL",Pilavlar,5.0
+bc49ec9c-f9d0-4c79-91fa-6dec41a411ff,Patates Kızartması,"7,50 TL",Yan Ürünler,4.0
+8ddfce73-adc4-4b33-919a-83298230c227,Çikolatalı Sufle,"11,25 TL",Tatlılar,5.0
+c82883c1-15e3-4a6c-9ee0-0131c386ed34,Kaymaklı Künefe,"13,13 TL",Tatlılar,5.0
+073fddd0-c378-4a9c-ba1f-1a1f073875f6,Künefe,"11,25 TL",Tatlılar,5.0
+3162d3a3-6cde-4ac4-93ab-af2d33569b70,Fruko (1 L.),"5,25 TL",İçecekler,5.0
+ae8d16e0-1f4e-451d-a144-be7299eaf4b0,7UP (1 L.),"5,25 TL",İçecekler,5.0
+052DCD12-39E7-4B1D-BD4F-925A731EE8D3,Tavuk Kanat (1 kg.) (Pişirilmiş),"41,25 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+A2041FDD-1E63-42A6-A0AD-2C34D6EC3CFB,Tavuk Göğüs Fileto (1 kg.) (Pişirilmiş),"37,50 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+AC8DEBDB-09C2-45D1-BCDB-174352E0C88F,Tavuk Pirzola (1 kg.) (Pişirilmiş),"41,25 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+F1A4FFF3-6701-495E-913E-25F085D17427,Tavuk Karışık (1 kg.) (Pişirilmiş),"41,25 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+b7fd8f3c-e204-441e-a51a-f3af2b9fe7f0,Poşet,"0,25 TL",Poşet,5.0

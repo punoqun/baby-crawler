@@ -1,0 +1,17 @@
+food_id,food_name,food_price,food_category,food_score
+73ccd7e1-d266-4f14-85dd-809903c734b2,Menü 1,"23,00 TL",Menüler,13.0
+17666e0d-40f5-459e-9d04-0168c2270a0e,Menü 2,"28,00 TL",Menüler,7.0
+3df64b84-e875-4cf1-837f-2ad1cc05b387,Salatalı Pilav,"13,00 TL",Pilavlar,5.0
+35e83853-c9f2-4ec5-992d-9b917e4aada4,"Tavuklu Salatalı Pilav (1,5 Porsiyon)","20,00 TL",Pilavlar,5.0
+0cb623b0-00c4-4dcc-9622-232b35ee43c0,Duble Ciğerli Pilav,"29,00 TL",Pilavlar,5.0
+f4e7bf85-5b97-4c85-8a82-92521bcb3874,Nohutlu Pilav,"11,00 TL",Pilavlar,5.0
+4d0028c1-81e5-429e-9c2c-bbafa4f12ee5,"Nohutlu Pilav (1,5 Porsiyon)","14,00 TL",Pilavlar,5.0
+e134834d-3b72-4eb2-bbce-40a4562b284d,"Nohutlu Tavuklu Pilav (1,5 Porsiyon)","17,00 TL",Pilavlar,10.0
+36b176b7-b545-4249-97e0-68f2c0ecd3ab,Kaşık Salata,"10,00 TL",Salatalar,5.0
+4085f8ef-ad84-42ba-b641-2cf65f9ae264,Hamsiköy Sütlaç,"8,00 TL",Tatlılar,5.0
+09b95c72-6805-4278-a1e7-49d9e46c51f1,Kazandibi,"7,00 TL",Tatlılar,5.0
+570dbb6e-bd34-45b4-bcb1-d69730d9ebb2,Kıbrıs Tatlısı,"7,00 TL",Tatlılar,5.0
+9c2972d7-ca32-416a-b467-5455263594b8,Revani,"7,00 TL",Tatlılar,5.0
+f9f3bf3b-8823-4918-94c4-bafcd9f00ab2,Supangle,"7,50 TL",Tatlılar,5.0
+e0e84b2a-d2a2-4baa-aadd-e9b43dc2dae5,Susurluk Ayranı (30 cl.),"4,00 TL",İçecekler,5.0
+7da502f3-e122-4aac-ba50-44d6d9264386,Poşet,"0,25 TL",Poşet,5.0

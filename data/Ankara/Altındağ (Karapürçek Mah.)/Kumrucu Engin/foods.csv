@@ -1,0 +1,28 @@
+food_id,food_name,food_price,food_category,food_score
+57a1bde7-b662-4a96-a4f5-d3cf30b23cbf,Ayvalık Tostu Menü 1,"20,00 TL",Menüler,17.0
+805b6d80-063d-4997-b216-f16dd09829a9,Double Burger Menü,"28,00 TL",Menüler,9.0
+f95c8bf4-05df-4814-b312-a2653447d3b3,Büyük Hamburger Menü 1,"20,00 TL",Menüler,14.0
+f5a8876f-4de7-4c7e-9b12-db77f6ab5140,Ekmek Arası Ciğer Menü,"13,00 TL",Menüler,8.0
+e1522e61-3a7a-45ca-93a8-6310f9c6a6b6,Ekmek Arası Izgara Köfte Menü 1,"20,00 TL",Menüler,16.0
+c16a6a51-525a-4664-b1d8-4049cf80b110,Ekmek Arası Izgara Köfte Menü 2,"15,00 TL",Menüler,10.0
+81c14e7d-4e98-4217-a875-ae1ef3ede856,Hamburger Menü,"12,00 TL",Menüler,6.0
+ace82d6d-c836-4800-8b5b-5644664965e4,Köy Tostu Menü 1,"20,00 TL",Menüler,16.0
+6bbb0222-c3d2-47fd-85b6-918ae830ee12,Köy Tostu Menü 2,"14,00 TL",Menüler,10.0
+4b98188a-d4f4-460d-9a10-49ab813472be,Kumru Sandviç Menü 1,"20,00 TL",Menüler,24.0
+ccdf8046-783c-4404-b9e4-29db1b03bac5,Patso Sandviç Menü,"12,00 TL",Menüler,4.0
+070646a4-a180-4ba6-bb8f-aec989d647bd,Sosisli Sandviç Menü 1,"18,00 TL",Menüler,15.0
+c91025f5-2643-48e4-9218-587b2a06b7e9,Tavuk Burger Menü 2,"19,00 TL",Menüler,12.0
+a994f322-5fa6-48d1-94a3-9facc3b5893a,Ayvalık Tostu,"12,00 TL",Tostlar,6.0
+0f845a69-d1ab-414e-beaf-4fbebbbaf78f,Köy Tostu,"12,00 TL",Tostlar,6.0
+43b85b1c-987c-4dcb-a5bf-88f68bc4e642,İzmir Kumru Sandviç,"12,00 TL",Sandviçler,15.0
+c0e9c7ae-089c-4fe6-94ab-e7aa789a9ed1,Sosisli Sandviç,"10,00 TL",Sandviçler,5.0
+67756992-42d4-4bb3-b6b6-027b5ba7cfcf,Patso Sandviç,"10,00 TL",Sandviçler,3.0
+a03a9005-190b-4919-8ff7-a9d0b7a227b3,Hamburger (Büyük),"12,00 TL",Burgerler,10.0
+745cfb1c-8fc9-4dfc-a61f-c25f75b5d120,Tavuk Burger,"9,50 TL",Burgerler,8.0
+8e1c443a-3617-4bd2-a189-e551793d23e9,Double Burger,"20,00 TL",Burgerler,8.0
+b952e608-7c8a-4a7b-a3a1-bdcc190636d4,Ekmek Arası Köfte,"15,00 TL",Ekmek Arası Ürünler,6.0
+c22f47a9-e875-4095-a094-e4b7cc1035f0,Ekmek Arası Ciğer,"11,00 TL",Ekmek Arası Ürünler,7.0
+9d2d3dc7-d188-4adb-a30d-0b0490a9073b,Patates Kızartması,"6,50 TL",Yan Ürünler,7.0
+e003efdc-afb9-44f8-9f77-f7864f3df62a,Soğan Halkası (6 Adet),"6,50 TL",Yan Ürünler,6.0
+4b6ea172-531d-4b6b-a8e7-b8294f05a42b,Sigara Böreği (6 Adet),"6,00 TL",Yan Ürünler,5.0
+a54f9c7e-efee-4859-8433-438dce6a3899,Su,"1,50 TL",İçecekler,11.0

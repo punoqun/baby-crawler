@@ -1,0 +1,19 @@
+food_id,food_name,food_price,food_category,food_score
+3ef3b942-3ad9-4a2d-9235-0847e67bd6a5,Dürüm Menü,"75,00 TL",Menüler,5.0
+90274be3-4079-4906-9fe8-bdb76a517c9e,Adana Kebap,"28,00 TL",Kebaplar,7.0
+37df9c50-2678-4207-830d-acd48076dee4,Urfa Kebap,"28,00 TL",Kebaplar,3.0
+ba399e5b-6792-458b-ac7c-a9978844e8be,Kuzu Şiş,"28,00 TL",Izgaralar,2.0
+aa43b277-93da-49f0-a52e-7a84c76cb2c4,Tavuk Şiş,"28,00 TL",Izgaralar,5.0
+a295c59c-0278-4de4-8c10-e1a1d75e2f46,Ciğer Şiş,"28,00 TL",Izgaralar,6.0
+50514c9d-2085-4b84-92bd-c347046a6156,Tavuk Kanat,"24,00 TL",Izgaralar,5.0
+0f592145-194d-433b-8ac2-2e99567f68e7,Adana Dürüm,"14,00 TL",Dürümler,12.0
+1c7b688d-c48f-4e52-8a35-3dd8cd2f17dc,Urfa Dürüm,"14,00 TL",Dürümler,3.0
+a5589a02-35cd-4fb9-87e0-23316c9e58bd,Kuzu Şiş Dürüm,"14,00 TL",Dürümler,7.0
+ed876d36-b3f5-42b3-89c8-bac43fb6c1b8,Tavuk Şiş Dürüm,"14,00 TL",Dürümler,10.0
+c1f071a0-2cef-4a19-8a7a-332d1407fb1a,Ciğer Şiş Dürüm,"14,00 TL",Dürümler,6.0
+e0b5afb4-f77f-429b-a3f2-10628225a6a5,Künefe,"10,00 TL",Tatlılar,5.0
+04858481-5b2d-461e-9a2b-4a2bc2a5ccd0,Sütlaç,"8,00 TL",Tatlılar,5.0
+ae6ce65c-7f6e-4af4-8614-45b39f1af8c0,Limonlu Soda,"3,00 TL",İçecekler,5.0
+0ef7df4e-dcb1-452c-a744-1e6cdfd341dd,Su,"1,50 TL",İçecekler,5.0
+618143e1-f2c2-45b7-98fc-59aeddcb5f4e,"Yedigün (2,5 L.)","10,00 TL",İçecekler,5.0
+1889d751-5625-4a44-b16b-51cbb1a11f55,Poşet,"0,25 TL",Poşet,5.0

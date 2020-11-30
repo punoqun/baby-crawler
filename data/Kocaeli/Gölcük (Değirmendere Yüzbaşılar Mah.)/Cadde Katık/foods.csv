@@ -1,0 +1,36 @@
+food_id,food_name,food_price,food_category,food_score
+b5f358d7-80fd-47d5-8825-c1009325c228,Menü 1,"16,50 TL",Menüler,10.0
+eb772473-310c-4969-afa2-16a1724bfc1c,Menü 2,"18,50 TL",Menüler,3.0
+1d576df8-4d10-48bf-8263-142fb8071be8,Menü 3,"19,00 TL",Menüler,5.0
+ec1440b7-a600-402f-b0f8-aca762a4e686,Menü 4,"20,50 TL",Menüler,8.0
+1b8ea4b6-f993-415a-824f-78defadbf8d8,Menü 5,"21,00 TL",Menüler,20.0
+bc59d378-02aa-480f-9726-035d0e0aa2c0,Menü 6,"22,50 TL",Menüler,4.0
+23ca7b66-ee8c-4896-9cd4-83f5bc8edac1,Menü 7,"23,00 TL",Menüler,5.0
+9fee3ea7-c1c2-4cce-b1a1-c2f4b021d908,Menü 8,"24,50 TL",Menüler,7.0
+a8e2e287-809f-4bb6-bc91-d6e0b8e3e12a,Zurna Menü 1,"20,00 TL",Menüler,5.0
+802d2c10-fd63-49ee-8bda-b9f8257c9b63,Zurna Menü 2,"21,50 TL",Menüler,3.0
+ad2f1c7e-4640-4168-b0ad-307d49a3d059,Zurna Menü 3,"22,00 TL",Menüler,5.0
+3ccd10ad-9be3-4fab-843f-f0270bc6251c,Zurna Menü 4,"23,50 TL",Menüler,8.0
+d13576d1-6e15-4757-92bd-c913a330294d,Zurna Menü 5,"23,50 TL",Menüler,20.0
+319608d7-cb1d-49a1-beb1-b776573d71a3,Zurna Menü 6,"25,00 TL",Menüler,4.0
+1bb0b5c0-2186-473e-8881-ca904fb3926a,Zurna Menü 7,"25,50 TL",Menüler,5.0
+4c2aa4f2-0bbc-41b7-8d3e-225ffbcae1de,Zurna Menü 8,"27,00 TL",Menüler,7.0
+941b3557-2c64-41ea-a5e6-476068749b95,Cheddarlı Tavuk Menü 1,"20,50 TL",Menüler,2.0
+8fce380e-ee78-43e4-8d24-c970012e5a6a,Cheddarlı Tavuk Menü 2,"23,00 TL",Menüler,0.0
+3d9309cc-b595-48cf-901f-affd41239814,Et Döner,"21,00 TL",Et Dönerler,1.0
+671e38f8-9426-4035-b8f8-742fa69a95dc,Et Döner (Kapsalon),"19,50 TL",Et Dönerler,1.0
+2dc93547-c9be-40be-b377-0da627ed4de8,Katık Et Döner Dürüm,"15,00 TL",Et Dönerler,-2.0
+263287f7-c841-4ac5-a791-9d44dd4aea91,Zurna Et Döner Dürüm (40 cm.),"18,00 TL",Et Dönerler,-1.0
+1ef17415-3881-4e17-939e-c41a88c28c2f,Tavuk Döner,"17,00 TL",Tavuk Dönerler,1.0
+323e04c3-9944-4874-bca4-2c8beefd1a42,Tavuk Döner (Kapsalon),"15,50 TL",Tavuk Dönerler,1.0
+35c22acf-812b-4119-b4c8-8aed506d186d,Katık Tavuk Döner Dürüm,"11,00 TL",Tavuk Dönerler,3.0
+90c642ad-901e-42a1-8f64-1667855975a5,Cheddarlı Tavuk Döner Dürüm,"15,00 TL",Tavuk Dönerler,-1.0
+cb316759-829e-44c5-a4a7-3f55f7d30854,Zurna Tavuk Döner Dürüm,"14,50 TL",Tavuk Dönerler,4.0
+920aaecc-8277-45cb-88ca-c1ae3c936090,Tavuk Burger,"11,00 TL",Burgerler & Dürümler,2.0
+c909dd91-7b44-4783-897b-19459f1363a2,Et Burger,"15,00 TL",Burgerler & Dürümler,2.0
+74645376-9a19-4303-8a3c-9b7eca5dd94a,Margharita Pizza,"19,00 TL",Pizzalar,5.0
+4c128b74-f935-4497-b3dc-38c27de67ff3,Tavuk Dönerli Pizza,"23,00 TL",Pizzalar,2.0
+8b67cf93-dc70-47c6-84cb-611dd27fb092,Et Dönerli Pizza,"27,00 TL",Pizzalar,2.0
+6c072fd7-ca86-4749-9251-367b132f88cc,Patates Kızartması,"6,00 TL",Yan Ürünler,3.0
+be21635c-4662-4192-b2ce-c6ea7dfc5508,Eker Günün Tatlısı,"3,50 TL",Tatlılar,5.0
+18bc2ff6-9de9-41f2-828e-98a2028d4aa7,Poşet,"0,25 TL",Poşet,7.0

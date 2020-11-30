@@ -1,0 +1,45 @@
+food_id,food_name,food_price,food_category,food_score
+77D14DF6-CFC8-4D2F-90A6-FE05D6BACBB9,1 Kişilik Menü Orta,"25,00 TL",Menüler,31.0
+2B7D1F19-3A02-4BD6-945B-1D179B6802B4,1 - 2 Kişilik Pastırmalı Pizza Büyük (32 cm.) Menü,"45,00 TL",Menüler,58.0
+82D636DD-9519-4859-BFA1-150CF29219BA,1 - 2 Kişilik Kavurmalı Pizza Büyük (32 cm.) Menü,"45,00 TL",Menüler,59.0
+71439761-1aa7-4537-b79b-2080118a552c,1 Kişilik Menü,"20,50 TL",Menüler,31.0
+7e30dbcc-3d43-4005-aedf-12cd62f8ba8b,2 Kişilik Menü,"39,00 TL",Menüler,10.0
+007efd0d-aa60-411e-bb70-0988fa71aed9,3 Kişilik Menü,"58,00 TL",Menüler,7.0
+383d04fb-c958-43f7-bd4c-b808d83244d5,4 Kişilik Menü,"78,00 TL",Menüler,8.0
+d6e423e6-c558-4408-af41-83d9417c7720,5 Kişilik Menü,"95,00 TL",Menüler,14.0
+f236efdd-c94d-4cc1-900e-a0f13fe79b2a,6 Kişilik Menü,"114,00 TL",Menüler,6.0
+7e6857d8-8e23-4cb0-9203-248b40fa9c39,1 - 2 Kişilik Menü,"39,00 TL",Menüler,35.0
+bad10985-5309-43c1-8c0d-3cc7f7def090,3 - 4 Kişilik Menü,"70,00 TL",Menüler,17.0
+e74cee25-1d4f-408e-a94d-332ba27927f4,Karışık Pizza (Orta) Menü 1,"17,50 TL",Menüler,50.0
+718c694c-4937-4a97-bfac-936f0a677d85,Karışık Pizza (Orta) Menü 2,"18,00 TL",Menüler,36.0
+d2f1c288-3266-419d-95ed-455985184d32,Orta Boy Pizza Menü,"18,50 TL",Menüler,38.0
+2d4a9279-02c4-4685-bba0-64c8793b8490,Milano's Spesiyal Pizza (Orta) Menü,"24,00 TL",Menüler,31.0
+80e55b99-6d93-4f35-a3e6-629f04c5319c,Özel Menü,"55,00 TL",Menüler,6.0
+2d6d3841-dcab-4c4a-8819-658561a785db,Pastırmalı Pizza (Orta),"19,00 TL",Orta Boy Pizzalar (1 Kişilik),29.0
+fd4f76e5-fdd9-4459-9475-66affde8bd18,Kavurma Zengini Pizza (Orta),"19,00 TL",Orta Boy Pizzalar (1 Kişilik),30.0
+058f12d3-b68f-4dbe-b2df-2b93f5331b52,Karışık Pizza (Orta),"15,00 TL",Orta Boy Pizzalar (1 Kişilik),36.0
+7eb26448-54c5-4a68-990a-904b50285953,Kaşarlı Pizza (Orta),"14,99 TL",Orta Boy Pizzalar (1 Kişilik),30.0
+4b3d5bf8-f6ff-4ae2-9075-0140b719f27e,Kaşarlı Yumurtalı Pizza (Orta),"15,50 TL",Orta Boy Pizzalar (1 Kişilik),30.0
+5ee9d42f-1ff8-4d8f-812b-d8d44b420919,Mantarlı Pizza (Orta),"15,00 TL",Orta Boy Pizzalar (1 Kişilik),34.0
+60f7e974-624f-4d1e-a539-4afa88510d2f,Milano's Spesiyal Pizza (Orta),"17,50 TL",Orta Boy Pizzalar (1 Kişilik),30.0
+a2a9cbeb-b226-43c2-90e5-ed23fce08184,Salamlı Pizza (Orta),"15,00 TL",Orta Boy Pizzalar (1 Kişilik),30.0
+dec590a1-1180-4e0f-aeec-a2be22dba1a9,Sebzeli Pizza (Orta),"15,00 TL",Orta Boy Pizzalar (1 Kişilik),30.0
+36892957-caf2-4fd4-811d-a63ee6a73d87,Sosisli Pizza (Orta),"15,00 TL",Orta Boy Pizzalar (1 Kişilik),30.0
+fd91db4d-5b79-40bb-aa91-4907aab6728d,Sucuklu Pizza (Orta),"15,00 TL",Orta Boy Pizzalar (1 Kişilik),29.0
+eb09971b-995b-4526-bcab-97a57cf916e7,Sucuklu Yumurtalı Pizza (Orta),"15,50 TL",Orta Boy Pizzalar (1 Kişilik),29.0
+a8222d9a-6792-415a-ab6d-e0a52355523a,Tavuklu Pizza (Orta),"15,50 TL",Orta Boy Pizzalar (1 Kişilik),31.0
+4c326280-9fa0-44a7-ad28-4c74f0839471,Ton Balıklı Pizza (Orta),"16,00 TL",Orta Boy Pizzalar (1 Kişilik),30.0
+2d002230-04e2-49e7-930d-48f8c6c815da,Pastırmalı Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (1-2 Kişilik),29.0
+ed446b3a-0f2a-42dc-99ab-06c1c5184caa,Kavurma Zengini Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar (1-2 Kişilik),30.0
+dacd7a0c-32f3-4a68-bc1b-82d2169f9e29,Karışık Pizza (Büyük),"28,00 TL",Büyük Boy Pizzalar (1-2 Kişilik),36.0
+cc63949a-c29d-4b77-a2bb-e4fb3068fe63,Kaşarlı Pizza (Büyük),"27,99 TL",Büyük Boy Pizzalar (1-2 Kişilik),30.0
+0a90d850-d8c3-449a-b91a-2dfd03e025e6,Salamlı Pizza (Büyük),"28,00 TL",Büyük Boy Pizzalar (1-2 Kişilik),30.0
+935d2eef-fe47-4bb0-b850-670fd536e22c,Sebzeli Pizza (Büyük),"28,00 TL",Büyük Boy Pizzalar (1-2 Kişilik),30.0
+fa6e8d56-febb-4916-91e8-26e5358005ab,Sosisli Pizza (Büyük),"28,00 TL",Büyük Boy Pizzalar (1-2 Kişilik),30.0
+5ff4be10-1644-413f-8869-828a9507993a,Sucuklu Pizza (Büyük),"28,00 TL",Büyük Boy Pizzalar (1-2 Kişilik),29.0
+4ed3f60e-8cea-45ba-a582-878ee952f91c,Ton Balıklı Pizza (Büyük),"29,50 TL",Büyük Boy Pizzalar (1-2 Kişilik),30.0
+fd920035-fa69-4cc9-acd5-6e25e6994c5a,Patates Kızartması,"9,00 TL",Yan Ürünler,13.0
+e942681e-b204-4161-9760-064baa583ecf,Fıstıklı Künefe,"12,00 TL",Tatlılar,3.0
+ce97a70d-9c8a-4bf5-af4d-cca8f4d282bb,7UP (1 L.),"6,00 TL",İçecekler,5.0
+05e70699-4da7-4ae1-a4d2-d8386894c88b,"Pepsi (1,5 L.)","7,50 TL",İçecekler,5.0
+06a00583-707e-4972-8a91-f04364901e1b,Poşet,"0,25 TL",Poşet,5.0

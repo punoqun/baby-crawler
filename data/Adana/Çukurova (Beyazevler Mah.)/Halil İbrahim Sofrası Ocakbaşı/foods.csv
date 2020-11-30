@@ -1,0 +1,28 @@
+food_id,food_name,food_price,food_category,food_score
+b828863f-b4c9-421c-9231-aa93cadfeca5,Adana Kebap,"27,00 TL",Kebaplar,5.0
+bfaaa389-89c0-43b5-b497-8d94fe1dce14,Beyti Kebap,"40,00 TL",Kebaplar,5.0
+6bd04b14-09c6-4327-834d-f777e3969502,Patlıcan Kebabı,"40,00 TL",Kebaplar,5.0
+46f24951-df32-4ef7-bc1c-14211d9e8b67,Tavuk Kebabı,"20,00 TL",Kebaplar,7.0
+769a629b-fb81-4b8e-8b89-79982dad7f19,Kuşbaşı Şiş,"27,00 TL",Izgaralar,5.0
+2a19ed29-4869-438f-8679-62f3255750b9,Çöp Şiş,"27,00 TL",Izgaralar,5.0
+f29ec5da-78dc-4ea7-ac73-36c60e19357b,Ciğer Şiş,"27,00 TL",Izgaralar,5.0
+12ec83a9-5ece-49d2-a5a7-4824ce753706,Kaburga,"27,00 TL",Izgaralar,5.0
+689fca22-95b6-4911-96ce-12014329e4cd,Külbastı,"40,00 TL",Izgaralar,5.0
+1e462be0-2e48-4314-b4ce-351a419c0c3e,Kuzu Pirzola,"40,00 TL",Izgaralar,5.0
+9c2bdb01-b1cf-412b-83a8-5809008f1c5a,Izgara Sucuk,"27,00 TL",Izgaralar,5.0
+1b7f365d-c6c6-4191-8bc6-51635cb14db2,Kemiksiz Tavuk,"27,00 TL",Izgaralar,7.0
+28eaaf82-b1e2-43be-9d23-f5bb99ee74f5,Kemikli Tavuk,"27,00 TL",Izgaralar,7.0
+cb46be61-092b-42c7-9997-8a05e4e75e05,Tavuk Kanat,"27,00 TL",Izgaralar,7.0
+8bd71535-870c-4faa-a31d-62900300ed62,Tavuk But,"27,00 TL",Izgaralar,7.0
+e54f0bbb-54bb-489c-9608-f4ccb02449fa,Adana Dürüm,"17,00 TL",Dürümler,11.0
+879743bd-295b-41ab-af15-84f952ed1d55,Kuşbaşı Dürüm,"17,00 TL",Dürümler,6.0
+3fc025f4-9382-4604-a8ea-c91de4e0c599,Çöp Şiş Dürüm,"17,00 TL",Dürümler,6.0
+f8b71a7a-acdd-49d7-8dfb-b87c2facd136,Ciğer Şiş Dürüm,"17,00 TL",Dürümler,6.0
+06b2969c-9357-42b2-92da-353ad12feea1,Tavuk Kıyma Dürüm,"10,00 TL",Dürümler,13.0
+a872dfa9-a3c7-45aa-ae19-f420496fbffa,Tavuk Şiş Dürüm,"10,00 TL",Dürümler,13.0
+13726ffd-1595-44e6-8c8c-92a22750dce1,Halil İbrahim Dürüm,"10,00 TL",Dürümler,8.0
+ff416bc5-919f-4403-9ae5-2b4a473099f1,Sucuk Dürüm,"20,00 TL",Dürümler,6.0
+af922cbb-81d2-4342-ac72-0b3325a5c4d4,Eker Ayran (18 cl.),"1,50 TL",İçecekler,7.0
+e9259920-999a-4884-acd1-c6b679e43666,"Su (1,5 L.)","3,00 TL",İçecekler,5.0
+EFCE985D-BA88-44A9-9FA6-5AA36631CD8A,"Karışık Tavuk (1,5 kg.)","60,00 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+37eeecf4-7b97-40fe-9ccf-aa15daabaebb,Poşet,"0,25 TL",Poşet,5.0

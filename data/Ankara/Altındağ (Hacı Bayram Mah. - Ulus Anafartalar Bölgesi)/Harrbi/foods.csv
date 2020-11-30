@@ -1,0 +1,37 @@
+food_id,food_name,food_price,food_category,food_score
+58bc0a45-2c5a-4b04-88af-26d15061900f,Tavuk Döner Dürüm Menü 1,"13,00 TL",Menüler,32.0
+8b67eb61-738d-4c30-bb1b-ac38b14a094e,Tavuk Döner Dürüm Menü 2,"14,75 TL",Menüler,15.0
+343fcb8d-4379-46ad-9b78-64cf0a9cd552,Tavuk Döner Ekmek Arası Menü 1,"12,00 TL",Menüler,35.0
+62f5c83b-4d8d-4133-8ca4-c220acb67e7c,Tavuk Döner Ekmek Arası Menü 2,"13,75 TL",Menüler,18.0
+926374dc-1c9e-4842-8961-b7385f644906,Tavuk Döner Gobit Menü 1,"13,00 TL",Menüler,34.0
+2abe4a50-8f6c-44c2-b222-8118a1b2b97d,Tavuk Döner Gobit Menü 2,"14,75 TL",Menüler,17.0
+2fb92c33-c37f-4249-b313-7478f608d10d,Vejetaryen Dürüm Menü 1,"12,00 TL",Menüler,19.0
+848260fb-943e-46a2-86c0-c1e0ebaa66a9,Vejetaryen Dürüm Menü 2,"13,75 TL",Menüler,2.0
+86bd2bbe-99ff-476f-9246-a00571d33ff3,Tavuk Döner Dürüm (50 gr.),"8,50 TL",Tavuk Dönerler,15.0
+6d5d5101-5dc6-470f-a784-48a94ca796e0,Tavuk Döner Dürüm (75 gr.),"10,50 TL",Tavuk Dönerler,15.0
+c9851f20-0f9f-4ff7-b22c-8cd0a021e9d4,Tavuk Döner Dürüm (100 gr.),"12,50 TL",Tavuk Dönerler,20.0
+35472e4a-1d22-465d-81f8-2078f37dc151,Tavuk Döner Dürüm (125 gr.),"14,50 TL",Tavuk Dönerler,20.0
+247c6d78-1e97-47b9-97f4-c51e79aacc9a,Tavuk Döner Dürüm (150 gr.),"16,50 TL",Tavuk Dönerler,20.0
+86526cc8-879f-4f13-bf80-d5bf8fbd5788,Tavuk Döner Ekmek Arası (75 gr.),"7,50 TL",Tavuk Dönerler,18.0
+c65fc810-a857-4ef0-b472-8f8c97586122,Tavuk Döner Ekmek Arası (100 gr.),"9,50 TL",Tavuk Dönerler,18.0
+29e6d24e-5419-46ad-9434-581f64d404b8,Tavuk Döner Ekmek Arası (125 gr.),"11,50 TL",Tavuk Dönerler,18.0
+4a3d0dea-60b5-448f-a4ef-050529e2368f,Tavuk Döner Ekmek Arası (150 gr.),"13,50 TL",Tavuk Dönerler,18.0
+ea10986f-9209-4537-ae00-32f5e2714576,Tavuk Döner Gobit (75 gr.),"8,50 TL",Tavuk Dönerler,17.0
+be7e65b0-bf53-491c-add6-cf275907703e,Tavuk Döner Gobit (100 gr.),"10,50 TL",Tavuk Dönerler,17.0
+57e26017-c665-4f7b-a12b-bda9dad9e3c9,Tavuk Döner Gobit (125 gr.),"12,50 TL",Tavuk Dönerler,17.0
+3d53bc6f-6bc9-449b-a1bf-dd9fa738c2a6,Tavuk Döner Gobit (150 gr.),"14,50 TL",Tavuk Dönerler,17.0
+3fccdd37-4cb8-4bd5-831b-00d04eeeba56,Vejetaryen Dürüm,"7,50 TL",Diğer Lezzetler,2.0
+fe7202bb-a059-4346-9fe6-86daf51caea5,Patates Kızartması,"4,00 TL",Yan Ürünler,11.0
+d48fa5ac-bd16-4332-b2ce-f96a472c902e,Soğan Halkası,"4,00 TL",Yan Ürünler,3.0
+25cda109-2729-4940-b8cd-830e796a1ecb,Algida Maraş Usulü Cup Dondurma (100 ml.),"6,00 TL",Dondurmalar,5.0
+4565b3f2-150e-4837-bdd4-a2e2983bef34,Algida Carte d'Or Mini Cup Çikolata Karnavalı (110 ml.),"6,00 TL",Dondurmalar,3.0
+ce74c8db-856d-4653-b938-481e4d05a95b,Algida Carte d'Or Mini Cup Çilekli Yoğurtlu (110 ml.),"6,00 TL",Dondurmalar,3.0
+98776597-dcf9-4d78-b842-a61d74dbec58,Carte d'Or Premium Kaymak Cup (100 ml.),"7,00 TL",Dondurmalar,5.0
+6cbe2647-1181-49c3-b8cf-189fb27db635,Carte d'Or Premium Çikolata Cup (100 ml.),"7,00 TL",Dondurmalar,5.0
+0ac092b7-349d-435a-be4f-e9dce79b97c4,Magnum Badem (100 ml.),"10,00 TL",Dondurmalar,5.0
+f952c423-5888-4cc6-a671-1a9e986ba2ab,Magnum Beyaz (100 ml.),"10,00 TL",Dondurmalar,5.0
+e57d4cd6-0d85-42e4-a89f-bb169f370554,Magnum Classic (100 ml.),"10,00 TL",Dondurmalar,5.0
+230cdb8d-8a50-43bb-bb6b-241ccfe3d70e,Sütaş Puding,"3,00 TL",Tatlılar,5.0
+e3076b86-8069-4b49-a51e-8d670ec70d29,"Sütaş Ayran (27,5 cl.)","2,50 TL",İçecekler,5.0
+29640c2e-a1e2-44bc-bfa3-178eba64f557,Damla Su (50 cl.),"1,50 TL",İçecekler,5.0
+5f564738-90d8-46f7-8da4-e3c210633e85,Poşet,"0,25 TL",Poşet,5.0

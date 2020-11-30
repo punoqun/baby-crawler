@@ -1,0 +1,48 @@
+food_id,food_name,food_price,food_category,food_score
+304ed832-d7b6-44e8-8cd3-8a57b06f2702,Sahanda Pastırmalı Yumurta,"22,00 TL",Kahvaltılıklar,5.0
+4804d8e5-524f-4126-8654-68a3439ac42c,Sahanda Kavurmalı Yumurta,"19,00 TL",Kahvaltılıklar,5.0
+7c4c61ab-55dd-47ab-973a-6828b439cc45,Sahanda Menemen,"12,50 TL",Kahvaltılıklar,5.0
+7c963159-b3aa-4b7f-b7a8-34530d2b8ac8,Kahvaltı Tabağı,"17,50 TL",Kahvaltılıklar,5.0
+8969f05f-f534-4241-9d31-99eedaf58ee0,Sahanda Yumurta,"11,00 TL",Kahvaltılıklar,5.0
+8cebee7e-4dd6-42f6-9f99-f71d3eefe3e5,Sahanda Sucuklu Yumurta,"18,00 TL",Kahvaltılıklar,5.0
+0e2d3c6b-0812-45b6-96be-4fd6cd4bef3c,Sucuklu Pide,"15,00 TL",Fırın Ürünleri,7.0
+1224c393-f870-44bc-8dff-ae565cb534d1,Mancarlı Pide (Kapalı),"11,00 TL",Fırın Ürünleri,7.0
+17342da9-7306-40f9-9880-e8efb9dc69b2,Kaşarlı Pastırmalı Pide,"18,00 TL",Fırın Ürünleri,7.0
+176ab013-5264-4231-8d0c-df11c171df54,Patatesli Pide,"11,00 TL",Fırın Ürünleri,7.0
+29efa3e5-78ef-4b0b-9096-704d5687d252,Kavurmalı Pide,"16,00 TL",Fırın Ürünleri,7.0
+68a24eb0-bddc-4f5c-842c-8d6652da1011,Kaşarlı Mantarlı Pide,"14,50 TL",Fırın Ürünleri,9.0
+6f6822c3-8b2c-4cf5-9284-429f1fae75d6,Pastırmalı Pide,"18,00 TL",Fırın Ürünleri,7.0
+721a9473-c5bc-4b41-bdcb-66854b77a725,Kavurmalı Kaşarlı Pide (Yuvarlak),"20,00 TL",Fırın Ürünleri,7.0
+79eb5ab1-64f6-4d9c-a3d1-c6aa1f14b8b1,Pastırmalı Pide (Kapalı),"18,00 TL",Fırın Ürünleri,7.0
+80234a06-1811-4ca7-ad35-f9ad17243431,Kaşarlı Pide,"13,00 TL",Fırın Ürünleri,7.0
+85ea7682-60f1-4eb0-ae74-bc6f837b29ef,Special Pide (Açık),"20,00 TL",Fırın Ürünleri,7.0
+8e19504e-76f0-453b-a6c4-3bc716d21e30,Kuşbaşılı Pide,"17,00 TL",Fırın Ürünleri,7.0
+8fabaa29-c03e-4508-80a3-ea3165b2e423,Kavurmalı Pide (Kapalı),"16,00 TL",Fırın Ürünleri,7.0
+a0a7774e-0aec-4edb-a473-dd4c5671606f,Tavuklu Pide,"15,00 TL",Fırın Ürünleri,7.0
+ac98d769-bc56-449c-a3c2-535e46f1b21e,Kaşarlı Kavurmalı Pide,"16,00 TL",Fırın Ürünleri,7.0
+c5905432-6cc3-460f-b051-63e11cd63de2,Kaşarlı Sebzeli Pide,"14,50 TL",Fırın Ürünleri,7.0
+cfb4427e-e45f-4e1d-9979-e4ce4bb26c06,Pide Pizza,"17,00 TL",Fırın Ürünleri,7.0
+da718e58-00c0-4dd6-a4ef-2d2d3555d5cb,Kıymalı Pide,"14,00 TL",Fırın Ürünleri,5.0
+e1f2b07d-de14-442a-899d-370abcc86d73,Karışık Pide,"15,00 TL",Fırın Ürünleri,13.0
+fa5addc0-aec0-4894-8444-0d9c771b5444,Karışık Sebzeli Pide,"16,50 TL",Fırın Ürünleri,8.0
+41e031e5-3d89-4eb5-9002-db6cf843994b,Kiremitte Pastırmalı Güveç,"20,00 TL",Kiremitte Ürünler,5.0
+5c787c9b-00e3-4260-bac9-3277653b4bee,Kiremitte Şen köfte,"17,00 TL",Kiremitte Ürünler,5.0
+5ed9eb3c-14cf-4708-96af-7fedb1d77d58,Kiremitte Kavurmalı Güveç,"17,00 TL",Kiremitte Ürünler,5.0
+673f1c40-7558-4729-a770-dcb3ec856957,Kiremitte Kuşbaşılı Güveç,"17,00 TL",Kiremitte Ürünler,5.0
+b1bab2e6-eb05-4bef-8919-5b67136e56ee,Kiremitte Kaşarlı Güveç,"14,50 TL",Kiremitte Ürünler,5.0
+c13a5899-c0bc-4057-874e-ea4e8b14d253,Kiremitte Akçaabat Köfte,"17,00 TL",Kiremitte Ürünler,5.0
+c92f31cb-44fd-47a6-95c7-099fa5f1ebac,Kiremitte Tavuk,"17,00 TL",Kiremitte Ürünler,9.0
+e3a0732f-210c-4fcb-9422-0bbb636cc12d,Kiremitte Karışık Güveç,"16,00 TL",Kiremitte Ürünler,6.0
+432b1718-7fc4-4286-bc95-05097f693a3f,Şen Köfte Dürüm,"16,00 TL",Dürümler,5.0
+68f2116d-2f75-46e7-bce4-c9e210c5927d,Akçaabat Köfte Dürüm,"17,00 TL",Dürümler,5.0
+86ae890d-ba3c-4ae4-a4eb-de7c1d61934e,Kavurma Dürüm,"20,00 TL",Dürümler,5.0
+961da812-860a-4ff8-a951-0b9400328319,Şen Tavuk Dürüm,"16,00 TL",Dürümler,9.0
+ea1c1a47-b4a0-46ac-a7a1-12b0ebd8e096,Mevsim Salata (1 Kişilik),"5,00 TL",Salatalar,5.0
+d5353892-edf5-40f7-962f-ba6e8a751d3c,Fındıklı Fırın Sütlaç,"8,00 TL",Tatlılar,10.0
+e0b0ebe6-ac33-4b71-9094-846c26a6fee6,Fırın Sütlaç,"7,00 TL",Tatlılar,5.0
+fcaa1025-73a2-4a12-916e-d8f77408c583,Künefe,"10,00 TL",Tatlılar,7.0
+268f160e-d429-4a76-843f-6bb5f7d71a05,Pepsi (33 cl),"5,00 TL",İçecekler,5.0
+e31ddea4-5e96-4755-aed7-3e41785c7612,İçim Meyve Suyu (33 cl.),"5,00 TL",İçecekler,5.0
+84177a30-dd8e-4022-8fc5-5bd44ab63a89,Yedigün (20 cl.),"4,50 TL",İçecekler,5.0
+9daac0a2-9c5d-4135-a756-7ebda277ffc7,Niğde Gazozu (25 cl.),"4,50 TL",İçecekler,5.0
+ca74e0a9-0bf1-4453-889e-8c32db3607b4,Poşet,"0,25 TL",Poşet,5.0

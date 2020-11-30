@@ -1,0 +1,55 @@
+food_id,food_name,food_price,food_category,food_score
+0ca7d8ca-ce1b-47e1-a157-40584abbfb87,Bazlama Tost,"15,00 TL",Tostlar,7.0
+bd702ba6-f9e9-4351-8bb4-bcd242f22cea,Ayvalık Tostu,"13,00 TL",Tostlar,9.0
+4d2d321e-ca4b-4238-b52d-dd02ba864ef7,Patatesli Gözleme,"15,00 TL",Gözlemeler,7.0
+6cffe4bf-be51-4c49-801c-d56a20b2fc5b,Peynirli Gözleme,"15,00 TL",Gözlemeler,7.0
+78d4ade5-a1a5-4ea8-b98a-561478d876e8,Ispanaklı Gözleme,"15,00 TL",Gözlemeler,7.0
+5ca463d8-a911-486f-8e9c-b1b7732824c1,Adana Kebap (180 gr.),"40,00 TL",Izgaralar & Kebaplar,7.0
+8562517f-6549-4638-b7bb-8477fb67d3cf,Urfa Kebap (180 gr.),"40,00 TL",Izgaralar & Kebaplar,5.0
+3b68f311-8359-4655-b285-5204bc5e63f0,Tavuk Şiş (220 gr.),"24,00 TL",Izgaralar & Kebaplar,5.0
+9093ba16-0a76-4239-a7ab-e1487f42d018,Tavuk Kanat (250 gr.),"25,00 TL",Izgaralar & Kebaplar,5.0
+0dcfe39b-e159-41b2-aa57-04f682be92d1,Izgara Köfte (200 gr.),"25,00 TL",Izgaralar & Kebaplar,6.0
+ff8b3b9b-f26b-4765-97fc-1dea1f9aaeb3,Kaşarlı Izgara Köfte (220 gr.),"29,00 TL",Izgaralar & Kebaplar,6.0
+5aea5fca-c9e6-4417-81c5-91d8010834fa,Köri Soslu Tavuk,"30,00 TL",Tavuk Yemekleri,6.0
+7b575fa6-26c0-4b8b-9766-66855cbef1cb,Tavuklu Çökertme Kebabı,"45,00 TL",Tavuk Yemekleri,4.0
+e94c124b-6e14-4d8c-8adb-36ea7fa1fb71,Kremalı Kayısılı Tavuk,"30,00 TL",Tavuk Yemekleri,7.0
+7f241fbe-170f-4282-914b-08e4cb36c047,Bohça Mantı,"28,00 TL",Plavlar & Mantılar,4.0
+a96847d5-bfd9-46c9-a02e-9f44d2510728,Nohutlu Pirinç Pilavı (250 gr.),"9,00 TL",Plavlar & Mantılar,6.0
+320042cf-7313-44e2-bbc5-bee0b6e7f4e6,Sade Pirinç Pilavı (250 gr.),"8,00 TL",Plavlar & Mantılar,8.0
+e8571704-b257-4266-b0ef-73c37e0c8e6a,Sebzeli Pirinç Pilavı (250 gr.),"9,00 TL",Plavlar & Mantılar,6.0
+1a28e415-0c3b-493e-a80b-d0ed906334dc,Tavuklu Pirinç Pilavı (250 gr.),"10,00 TL",Plavlar & Mantılar,5.0
+939db5ca-20bb-474c-b423-1d8fbddf6ec7,2/4 Ekmek Arası Izgara Köfte (100 gr.),"12,00 TL",Ekmek Arası Ürünler,6.0
+cadd0f4e-dedb-4f24-89b5-e323a446cdda,2/4 Ekmek Arası Kuzu Ciğer Şiş (120 gr.),"20,00 TL",Ekmek Arası Ürünler,5.0
+339bb426-9381-46ef-9a5f-1b3e8ffb850f,2/4 Ekmek Arası Kuzu Şiş (120 gr.),"20,00 TL",Ekmek Arası Ürünler,5.0
+07b54bf5-cd00-482f-aacc-74c7c0a1a718,2/4 Ekmek Arası Tavuk Şiş (100 gr.),"13,00 TL",Ekmek Arası Ürünler,5.0
+9da814c6-3630-409e-a980-2394ab8181f3,Tam Ekmek Arası Izgara Köfte (200 gr.),"23,00 TL",Ekmek Arası Ürünler,6.0
+858f9e3f-f4a1-43f5-9092-f0dd0e9293be,Tam Ekmek Arası Kuzu Ciğer Şiş (220 gr.),"40,00 TL",Ekmek Arası Ürünler,5.0
+267902c4-0052-44d5-9b62-0fbe6620c66e,Tam Ekmek Arası Kuzu Şiş (220 gr.),"40,00 TL",Ekmek Arası Ürünler,5.0
+760689a7-6863-433c-887a-eea9420a5b07,Tam Ekmek Arası Tavuk Şiş (200 gr.),"25,00 TL",Ekmek Arası Ürünler,5.0
+31d7e9af-aebb-43cd-b9d6-f7d17b6a7ca9,Kuzu Şiş Dürüm (120 gr.),"20,00 TL",Dürümler,9.0
+67ebb310-fbd2-4b4b-a897-a70a5b75030b,Urfa Dürüm (90 gr.),"15,00 TL",Dürümler,9.0
+9afe8f5f-89ad-4ce5-b2ad-cfcdcbfa8695,Kuzu Ciğer Dürüm (100 gr.),"20,00 TL",Dürümler,9.0
+9dfca491-af07-4885-abe7-6d183d603156,Adana Dürüm (90 gr.),"15,00 TL",Dürümler,11.0
+d07929bf-9b6e-4e8a-ab9c-72a9d48552d6,Izgara Köfte Dürüm (100 gr.),"14,00 TL",Dürümler,10.0
+efe930f7-528f-4e68-a221-ce5a79bc9710,Tavuk Şiş Dürüm (100 gr.),"13,00 TL",Dürümler,9.0
+b863feb0-0a2d-4c11-9f15-9a3906f773c1,Çiğ Köfte Dürüm (100 gr.),"5,00 TL",Çiğ Köfteler,9.0
+d9747430-18c1-4f8d-8529-a3cc5f3b64e9,Mega Çiğ Köfte Dürüm (150 gr.),"7,50 TL",Çiğ Köfteler,9.0
+21d403cb-2bbc-49a6-91af-1e9179060706,Çiğ Köfte (200 gr.),"10,00 TL",Çiğ Köfteler,5.0
+6789854d-7800-4d28-b16e-7c73e8866999,Çiğ Köfte (250 gr.),"12,50 TL",Çiğ Köfteler,5.0
+e04d8396-e3d2-4d5c-a93d-f7214a45adcb,Çiğ Köfte (400 gr.),"20,00 TL",Çiğ Köfteler,5.0
+1d0e21f5-0980-4c62-b153-12cf92ca95bf,Çiğ Köfte (500 gr.),"25,00 TL",Çiğ Köfteler,5.0
+77854d73-6739-4eca-96cb-cc06fe7829c7,Çiğ Köfte (1 kg.),"50,00 TL",Çiğ Köfteler,5.0
+fa53e60f-5f91-4a40-a3c3-d7cfa3219e89,Boston Ekmeği,"2,00 TL",Yan Ürünler,5.0
+b39a1fbe-2534-413d-b36a-2c6b3b53552a,Karışık Turşu,"7,00 TL",Yan Ürünler,5.0
+95a67ed0-13d1-4c46-8e0f-0d9b6d790fb5,Kızartma İçli Köfte (Adet),"7,00 TL",Yan Ürünler,5.0
+c2b4a335-eb7b-4e0f-a176-5ab307a5b1c4,Patates Kroket (4 Adet),"5,00 TL",Yan Ürünler,3.0
+5742b953-1e1a-4abd-970f-e00c6b845ae7,Lavaş Ekmeği,"2,00 TL",Yan Ürünler,5.0
+30a888ee-783c-47d3-ab2d-433f5082b445,Midye Dolma (Adet),"2,00 TL",Yan Ürünler,10.0
+e2d99c70-fc6f-4a98-a144-1ea4ce8c3137,Tavuk Nugget (4 Adet),"8,00 TL",Yan Ürünler,5.0
+3426ef93-fd08-4bb6-b902-dd2805200bef,Patates Kızartması (Büyük),"15,00 TL",Yan Ürünler,3.0
+9b06cfac-bad9-4f2a-821c-159d62834648,Patates Kızartması (Küçük),"7,00 TL",Yan Ürünler,3.0
+ba7da4f3-6012-4f53-9008-f3e8d4ef1265,Soğan Halkası (4 Adet),"4,00 TL",Yan Ürünler,5.0
+628e9696-e256-4850-8578-ae7ca09c4b4f,Tırnak Pide,"2,00 TL",Yan Ürünler,5.0
+9820e8c1-7e1b-4185-be8d-7b1b4aae6de7,Cevizli Baklava (4 Adet),"14,00 TL",Tatlılar,8.0
+f8233309-52ca-4bcd-aebf-d457d9dbcef6,Cevizli Ev Baklavası (4 Adet),"14,00 TL",Tatlılar,5.0
+e13d90f9-559c-4da4-be50-a089e9567189,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,39 @@
+food_id,food_name,food_price,food_category,food_score
+771b4bf6-d236-4eab-a642-fa12a88bf419,Menü 1,"27,50 TL",Ekonomik Menüler,12.0
+a9b710b7-b4d6-446e-bc0b-052424d63e6f,Menü 2,"52,00 TL",Ekonomik Menüler,5.0
+4d41619d-1fe1-45aa-bfe8-28d5e9097c24,Menü 3,"71,00 TL",Ekonomik Menüler,7.0
+2f7e0b08-0ca5-4fc4-a320-fbb45e0962ac,Menü 4,"89,00 TL",Ekonomik Menüler,9.0
+2bc32288-edb9-4056-b344-90d4ef4098d3,Menü 5,"22,00 TL",Ekonomik Menüler,17.0
+e6395ae1-d5ae-45f2-92d3-a79de2eba207,Menü 6,"33,50 TL",Ekonomik Menüler,7.0
+a4798ffe-d0aa-4f2f-a0bc-d67127519b17,Menü 7,"26,50 TL",Ekonomik Menüler,1.0
+727846b0-1584-4177-bc50-a408cf880903,Menü 8,"32,00 TL",Ekonomik Menüler,7.0
+14aa05cc-c0aa-432e-b6db-d169e74b2c4e,Acılı Cajun Baharatlı Tavuk Sepeti Menü,"28,50 TL",Ekonomik Menüler,22.0
+b7dd434e-8ed5-4f0b-8bc7-66bbac76ada9,Cajun Hot Wings Menü,"28,50 TL",Ekonomik Menüler,11.0
+5718419f-e3cd-428a-adbf-3487ca185ee5,Cajun Tatlı Menü,"32,50 TL",Ekonomik Menüler,11.0
+f5ffc628-6091-4a36-84c6-7b8d323f51d4,Turkish Roll Kebap Menü,"35,00 TL",Ekonomik Menüler,5.0
+4bc41456-8508-4cc4-b727-8b99399a8118,Smoke Sausage Roll Menü,"27,50 TL",Ekonomik Menüler,5.0
+240959a5-ccd3-4441-b1ec-98551f127d5f,Cajun Baharatlı Tavuk Sepeti,"25,00 TL",Başlangıçlar,15.0
+e3dd985a-dc01-425f-9fdc-e439511094e3,Baharatlı Soğan Halkası,"15,50 TL",Başlangıçlar,4.0
+92afcee7-bd66-4494-8b68-85b38eb1a38a,Acılı Cajun Baharatlı Tavuk Sepeti,"26,00 TL",Başlangıçlar,17.0
+1F57C073-4CD2-425A-B87D-1DB666FB4F86,Buffalo Wings,"31,00 TL",Başlangıçlar,5.0
+C5745AE3-CA47-4427-8E33-757D30479454,Panelenmiş Tavuk Kanatları,"27,00 TL",Başlangıçlar,9.0
+175ae682-6f1f-4257-bffa-a30ca5d65c21,Cajun Burger,"21,50 TL",Burgerler,11.0
+1c80bda2-76fb-447a-bd54-e4a612505bcd,Cheeseburger,"28,50 TL",Burgerler,5.0
+335a9280-bd62-45f6-a0ae-ed45af502286,Ranchero Burger,"29,50 TL",Burgerler,5.0
+67d5275c-657a-4ba1-ae6e-e0450d01877b,Hamburger,"27,50 TL",Burgerler,5.0
+a07347a3-83ea-4832-9c98-798d838f2d83,Double Corner Burger,"45,00 TL",Burgerler,5.0
+8ae68578-0fd2-4c24-a60e-7200d8816b73,Bazlamalı Tavuk,"29,50 TL",Ana Yemekler,8.0
+f5ab6e30-7d3e-4119-ba2b-68f30f1f18db,Beef Burrito,"33,00 TL",Ana Yemekler,5.0
+fa1d7746-5ffe-4bf6-aaec-4486f2e69552,Bazlamalı Biftek,"34,00 TL",Ana Yemekler,4.0
+29e7d62a-f18a-42dc-a372-19da04a68a98,Kaşarlı Tavuk Dürüm,"28,00 TL",Dürümler,8.0
+edb905e1-75b1-4712-8157-37b2adef9eda,Kaşarlı Antrikot Dürüm,"32,00 TL",Dürümler,4.0
+31fe462f-68ea-4759-a785-404419c1ce50,Dana Etli Noodle,"27,50 TL",Noodles,11.0
+18eb4213-fd7c-46a8-9ecc-33f777862e48,Mozaik Pasta,"6,50 TL",Tatlılar,6.0
+a948eacc-24b3-4550-866c-8a2f021dc6f9,Algida Maraş Usulü Cup Dondurma (100 ml.),"5,00 TL",Tatlılar,5.0
+f45f5651-1859-4026-bafc-75d258a521d6,Algida Carte d’Or Mini Cup Çilekli Yoğurtlu (110 ml.),"7,50 TL",Dondurmalar,5.0
+8a661b80-fef0-48c9-af40-75ccf5d9dc0c,Red Bull (25 cl.),"8,00 TL",İçecekler,5.0
+d76ab051-6ea3-4690-b73a-eaa226516f8a,Red Bull Sugar Free (25 cl.),"8,00 TL",İçecekler,5.0
+e7b309a8-4268-4d5b-8c39-30a45b4fb937,Mountain Dew Gazoz (45 cl.),"8,00 TL",İçecekler,5.0
+85b2b2a7-f2d4-410c-8710-72ffe12adc8a,Mountain Dew Gazoz (33 cl.),"6,00 TL",İçecekler,5.0
+5510c9e8-b9c0-46ba-a9d0-b53044104491,"Fanta (2,5 L.)","11,00 TL",İçecekler,5.0
+3b1d2188-0edf-4911-af76-95eace5e513b,Poşet,"0,25 TL",Poşet,5.0

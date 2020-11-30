@@ -1,0 +1,44 @@
+food_id,food_name,food_price,food_category,food_score
+5ddcd07e-4f80-4f56-b2f4-682e75eabaea,10'lu Lahmacun Menü,"90,00 TL",Ekonomik Menüler,17.0
+913ace10-cfde-4b41-9ae0-5acb1c23453c,Fruko Menü,"54,00 TL",Ekonomik Menüler,5.0
+e3bb28d0-aa58-4cb7-84fb-7b13c7748582,Et Döner (500 gr.) (Pişirilmiş) Menü,"110,00 TL",Ekonomik Menüler,-1.0
+0a33d8cf-af45-4752-b50e-2fca621c8faa,Tombik Ekmek Arası Etibol Döner Menü,"40,00 TL",Ekonomik Menüler,3.0
+8fbe562f-5457-4b55-b281-30717bcd61ff,İskender (Et Dönerden) Menü,"48,00 TL",Ekonomik Menüler,18.0
+09173468-8699-4845-a44a-ecc659493ec6,Et Döner Menü,"42,00 TL",Ekonomik Menüler,-1.0
+5d489926-9650-43f3-90b9-f5431f8f2920,Kebap Menü,"44,00 TL",Ekonomik Menüler,5.0
+08a9b72f-b8a5-484a-8719-3f12aff478bc,Izgara Tavuk Menü,"40,00 TL",Ekonomik Menüler,11.0
+d1e55f6a-7bd2-4b12-b761-136bd4d160c1,Izgara Köfte Menü,"44,00 TL",Ekonomik Menüler,5.0
+ed9d2e3c-9524-4107-9163-1e8cacd26c08,Yarım Ekmek Arası Et Döner,"16,00 TL",Et Dönerler,0.0
+89bccf14-595b-4c37-911d-934b9cbac511,Tam Ekmek Arası Et Döner,"27,00 TL",Et Dönerler,0.0
+dcb1a64b-36fa-47b6-9380-fb09ae4ce30b,3/4 Ekmek Arası Et Döner,"25,00 TL",Et Dönerler,0.0
+231ab993-9155-4885-b11f-d89fc763001a,Şiş Kebap,"35,00 TL",Kebaplar,5.0
+25896396-921f-4b5c-bbff-df8877a617a2,Özel Soslu Dana Biftek,"50,00 TL",Izgaralar,5.0
+482e4f3c-bc39-487a-94e5-0de638aef950,Lokum Bonfile,"50,00 TL",Izgaralar,5.0
+e5503df4-0ca4-4e98-a573-f3be972f43c2,Karışık Tavuk Izgara,"45,00 TL",Izgaralar,11.0
+eaa48235-3306-4336-8006-ee62ad6e6e1a,Kavurmalı Pide (Kapalı),"26,00 TL",Fırın Ürünleri,1.0
+899e7f6f-d2b1-427f-bd6f-eef5275abf67,Kaşarlı Et Dönerli Pide (Kapalı),"28,00 TL",Fırın Ürünleri,-3.0
+c1fa5acb-caed-40ce-b8e8-c69b4e519845,Pastırmalı Kaşarlı Pide,"31,00 TL",Fırın Ürünleri,3.0
+7060a9c2-07e6-493a-9772-58be33ac5f00,Kuşbaşılı Kaşarlı Pide,"29,00 TL",Fırın Ürünleri,1.0
+16498f6b-2fb7-4e00-a066-ec20bd2c89b8,Pastırmalı Pide (Kapalı),"28,00 TL",Fırın Ürünleri,3.0
+e40b8b26-d904-4220-b611-a2eeeff15383,İskender (Köfteden),"32,00 TL",Diğer Lezzetler,18.0
+70174310-176b-47f8-b37a-301d84c451f9,Et Sote,"35,00 TL",Diğer Lezzetler,1.0
+a29f55fc-248c-4ca3-b12d-3aee7a7a648b,Yarım Ekmek Köfte (90 gr.),"20,00 TL",Diğer Lezzetler,6.0
+0220d08d-fca0-43e8-bc19-c9012ef61bde,Tavuk Sac Tava,"28,00 TL",Diğer Lezzetler,11.0
+d30a0753-af0b-469e-b309-0e85ed45819b,Fırında Kaşarlı Mantar,"18,00 TL",Diğer Lezzetler,5.0
+2ed26fea-68e2-49af-a95a-e4f89201be44,Adana Dürüm,"19,00 TL",Dürümler,4.0
+e6c212d1-f504-4844-adce-aae0b8f0f0b9,Urfa Dürüm,"19,00 TL",Dürümler,5.0
+378f9335-4c8e-4736-9273-040e0033923d,Çöp Şiş Dürüm,"22,00 TL",Dürümler,4.0
+8c12af18-24fd-400b-9ff9-ffba0976a268,Et Şiş Dürüm,"22,00 TL",Dürümler,0.0
+a9b9bce7-849c-4887-95b5-0133ef9f4d2d,Köfte Dürüm,"22,00 TL",Dürümler,4.0
+f3e5dfc4-a569-4816-bb1f-750ba50aa548,Tavuk Şiş Dürüm,"18,00 TL",Dürümler,10.0
+471438a0-4cbf-4d5c-800a-b3c0913df6f6,Patates Kızartması,"16,00 TL",Yan Ürünler,5.0
+8be96f9b-292c-460e-80dd-f1f1ab30d50b,Sütaş Cam Kase Yoğurt (200 gr.),"9,00 TL",Yan Ürünler,7.0
+ca638841-4f60-4c7d-9e20-3c4d60381e9c,Mevsim Salata,"14,00 TL",Salatalar,3.0
+70ffc577-a8ed-4733-9e54-9836c274a7cb,Ezme Salata,"12,00 TL",Salatalar,3.0
+90f24c82-6426-4947-bdfb-48a7a048f402,Katmer,"18,00 TL",Tatlılar,5.0
+c3099fed-8747-4d1b-88c4-3114b8041b70,"Sütaş Ayran (27,5 cl.)","5,00 TL",İçecekler,5.0
+82d6ee2a-5669-4859-9dd1-7ff0989a77bd,Fruko (1 L.),"9,00 TL",İçecekler,3.0
+10710a43-84a6-453c-947f-8f2860ec6398,"Yedigün (2,5 L.)","10,00 TL",İçecekler,5.0
+a0a5b4bb-8caa-4f2a-8ade-bfd15d2369c4,"Fruko (2,5 L.)","10,00 TL",İçecekler,5.0
+337f1da7-5b4e-4aef-9055-e8bce6cd1bb0,Et Döner (1 kg.) (Pişirilmiş),"200,00 TL",Kiloluk Ürünler (Pişirilmiş),-3.0
+71ba9e1d-eca0-45b5-8a4c-a994c08d9ce5,Poşet,"0,25 TL",Poşet,5.0

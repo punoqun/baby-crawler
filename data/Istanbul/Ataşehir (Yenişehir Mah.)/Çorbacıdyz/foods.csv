@@ -1,0 +1,29 @@
+food_id,food_name,food_price,food_category,food_score
+d1541301-0350-4df2-9c50-b9577e9bc115,Menü 1,"32,00 TL",Menüler,-1.0
+67ecb4d2-2fa8-42fe-ae03-682e6f894724,Menü 2,"27,00 TL",Menüler,0.0
+d7b5e596-6962-45ea-8900-1ec5e69cc964,Menü 3,"55,00 TL",Menüler,-4.0
+b2e08009-ca0e-4def-bd48-0b8c5d59065a,Menü 4,"62,00 TL",Menüler,0.0
+e268ebaf-5308-4241-9bbc-3ccbc2d54a39,Menü 5,"55,00 TL",Menüler,-7.0
+8ace49d3-3226-4833-9b1a-72c52716a15f,Menü 6,"55,00 TL",Menüler,3.0
+86ecf6ab-1c0d-440f-8e2c-5b91f20bd5de,Menü 7,"39,00 TL",Menüler,4.0
+4cf97d9d-87f0-4a4f-b39e-99f550b3eb23,Menü 8,"36,00 TL",Menüler,1.0
+3ca51362-10d5-4070-9a16-896f45c135d2,Menü 9,"19,00 TL",Menüler,4.0
+21f3d26d-afd9-4130-a6d6-81e5ee5d3567,Damar Çorbası,"28,00 TL",Çorbalar,7.0
+b23d5ea5-b076-4699-ac5a-2cb41eca1ba1,Çürük Yanak Çorbası,"28,00 TL",Çorbalar,9.0
+b584d3a5-463f-4b0f-9505-0d18d1df658c,Karışık Çorbası,"28,00 TL",Çorbalar,7.0
+1cbf9f86-52d0-4833-9985-5a57d93c1111,Adana Kebap,"35,00 TL",Kebaplar & Izgaralar,1.0
+1e16a879-fe85-43f9-b985-7e7fdc0304e5,Urfa Kebap,"35,00 TL",Kebaplar & Izgaralar,1.0
+4b7b4379-3a5b-486e-9973-c7f6ad2dda74,Tavuk Şiş,"25,00 TL",Kebaplar & Izgaralar,7.0
+824fb0e0-e65f-4d6b-b147-ffd2adc09c26,Izgara Köfte,"33,00 TL",Kebaplar & Izgaralar,5.0
+74902827-3374-45f3-aadf-8989af19c292,Tavuk Kanat,"29,00 TL",Kebaplar & Izgaralar,7.0
+2498adee-3805-42a2-a4d8-035426c420c7,Kuzu Kelle (Tam),"65,00 TL",Diğer Lezzetler,5.0
+fc4850c0-196d-4413-be1a-0bef1bb814e2,Kuzu Kelle (Yarım),"36,00 TL",Diğer Lezzetler,5.0
+E4AFD32A-05D0-410E-801E-CBC420DFED14,İspir Kuru Fasulye,"23,00 TL",Diğer Lezzetler,5.0
+51e38126-d423-4966-8238-1810c2eb283c,Tavuk Şiş Dürüm,"21,00 TL",Dürümler,7.0
+3e6b8699-2e57-4fb0-96a8-5da37d8ec088,Pilav Üstü Kavurma,"32,00 TL",Pilavlar,2.0
+29abc893-dc2f-4779-9506-4dc836758f69,Tavuklu Pilav,"19,00 TL",Pilavlar,4.0
+c66e3c03-e817-4b98-94d5-065ca480e18d,Ekmek Arası Izgara Köfte,"25,00 TL",Ekmek Arası Ürünler,5.0
+52ea96e7-b63d-4cfb-8997-085237371681,Çiğ Köfte (6 Sıkım),"12,00 TL",Yan Ürünler,5.0
+cb45e427-abd5-4d0a-a69b-ab76fb27d12a,Çoban Salata,"15,00 TL",Salatalar,5.0
+7bab99cd-5d9f-4deb-b422-6b1343bf983e,Fındıklı Fırın Sütlaç,"12,00 TL",Tatlılar,5.0
+bf528100-3557-4763-886c-f77ed698b2ca,Poşet,"0,25 TL",Poşet,5.0

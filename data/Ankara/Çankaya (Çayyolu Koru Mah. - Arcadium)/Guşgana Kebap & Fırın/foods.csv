@@ -1,0 +1,30 @@
+food_id,food_name,food_price,food_category,food_score
+94d1ddab-5b24-45c2-af73-a5b085070c60,Adana Kebap,"34,50 TL",Kebaplar,38.0
+6ffe5194-9e23-4c2c-91fc-78b68fcad9da,Ciğer Kebap (Cartlak),"35,50 TL",Kebaplar,5.0
+2f3e0401-73ad-493b-b594-99fd22c50a22,Izgara Köfte,"28,50 TL",Izgaralar,5.0
+135d039c-dc74-47cb-bde6-6448e9cd8b3b,Kuzu Şiş,"39,50 TL",Izgaralar,5.0
+3f4aa62c-e409-443d-8444-5e618fa2b9aa,Tavuk Kanat,"26,50 TL",Izgaralar,4.0
+CBFD84C1-F356-4BBD-935E-58AA81F5959D,Ekmek Arası İzmir Usulü Kuzu Kokoreç,"25,50 TL",Kokoreçler,7.0
+51F339CE-189D-456C-AFF8-209CF20AF7E5,Ekmek Arası İstanbul Usulü Kuzu Kokoreç,"25,50 TL",Kokoreçler,7.0
+3A149329-FB38-4E3D-91A4-A086F11B14D8,İzmir Usulü Kuzu Kokoreç,"25,50 TL",Kokoreçler,6.0
+21E6F818-7CED-4307-A498-4CF121F6A1D6,İstanbul Usulü Kuzu Kokoreç Dürüm,"25,50 TL",Kokoreçler,6.0
+A76421DD-AACB-44CE-99E7-886C21DD0A32,Ekmek Arası Ankara Usulü Kuzu Kokoreç,"25,50 TL",Kokoreçler,9.0
+3E66C5D8-F4E8-4F69-80DB-314B2700AAF4,Ankara Usulü Kuzu Kokoreç,"25,50 TL",Kokoreçler,8.0
+F1D230CB-3B44-41E2-AE70-39F4D490A030,Ankara Usulü Kuzu Kokoreç Dürüm,"25,50 TL",Kokoreçler,8.0
+f33aed88-a5e6-4e15-ad1e-0ecc9e2e95f5,Adana Dürüm,"34,50 TL",Dürümler,38.0
+9414ea04-dc23-4d72-9b6b-63aee9b91c35,Kuzu Şiş Dürüm,"39,50 TL",Dürümler,5.0
+a5c7410b-cde4-4968-a5b6-5e0fd321e4ac,Çöp Şiş Dürüm,"38,50 TL",Dürümler,5.0
+9dbb0dec-43df-4055-b55e-a00ca523ee97,Tavuk Şiş Dürüm,"26,50 TL",Dürümler,4.0
+fbc5ac08-9672-4ac0-8fd4-f6b2ce38ddc6,Ciğer Şiş Dürüm,"35,50 TL",Dürümler,5.0
+1fbfe391-8c34-4786-9fed-99d64d9b47d2,Köfte Dürüm,"28,50 TL",Dürümler,5.0
+16FAF8CB-93F5-42B7-970C-1E2AEB35D02F,Kuzu Kelle Söğüş Dürüm,"33,50 TL",Dürümler,10.0
+baef4ea2-1fa4-4521-97d7-688d519b6de7,Yarım Ekmek Izgara Köfte,"28,50 TL",Ekmek Arası Köfteler,6.0
+317db13f-a16a-4656-9a86-302b7d506bc9,Mevsim Salata,"10,00 TL",Mezeler,7.0
+942b95d1-3dae-4403-89fd-a8c8a9af389e,Yoğurt,"10,00 TL",Mezeler,5.0
+a3408f93-e3ab-4602-ae1c-947a7fc6e7f0,Ezme,"10,00 TL",Mezeler,6.0
+A762440F-D060-4385-86E6-6A8400CD1FE1,Midye Dolma (10 Adet),"15,00 TL",Mezeler,6.0
+d319ca7f-bd0b-4af8-b935-10ac325f475d,Fıstıklı Künefe,"14,50 TL",Tatlılar,3.0
+D21FABB6-6463-4EEA-9624-B7A56CD2FF99,Özerhisar Ayranı (25 cl.),"6,00 TL",İçecekler,5.0
+b16d2be4-a5c4-4314-b4ec-4306677e086b,Ali Göde Şalgam Suyu (33 cl.),"5,00 TL",İçecekler,5.0
+c77a37d1-4270-4661-a993-55c142f05fe3,Su,"2,50 TL",İçecekler,7.0
+2afe4918-bb3e-4147-a912-22260e49df36,Poşet,"0,25 TL",Poşet,5.0

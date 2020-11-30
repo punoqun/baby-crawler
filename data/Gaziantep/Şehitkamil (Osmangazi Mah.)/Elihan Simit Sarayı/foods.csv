@@ -1,0 +1,55 @@
+food_id,food_name,food_price,food_category,food_score
+b1e31065-4b05-487d-8626-775f716cd5a5,Tam Somun Ekmek Arası Karışık Tost Menü,"25,00 TL",Menüler,4.0
+35a1e426-ade3-439c-aab4-790769d9386c,Kahvaltı Tabağı,"14,00 TL",Kahvaltılıklar,7.0
+594f7107-e99f-4611-aff8-fb11e7052daf,Menemen (Tek Kişilik),"10,00 TL",Kahvaltılıklar,6.0
+707c75b0-fb73-4697-b2e7-acaa0096f5a8,Çift Kişilik Menemen,"17,50 TL",Kahvaltılıklar,6.0
+cf9205a8-1626-4a67-be7d-bb2d23ead872,Kaşarlı Menemen (Tek Kişilik),"15,00 TL",Kahvaltılıklar,4.0
+7d6af635-2c38-43c3-abac-c433631396c8,Kaşarlı Menemen (Çift Kişilik),"25,00 TL",Kahvaltılıklar,4.0
+54B62BF8-69FE-4A7B-8ED7-A2768DE21CB3,Paşa Kahvaltı Tabağı,"16,00 TL",Kahvaltılıklar,7.0
+61DC7FF2-3B03-41AF-A6E0-77B082A0A7F7,Kral Kahvaltı Tabağı,"20,00 TL",Kahvaltılıklar,6.0
+5b38a109-eb23-4bd9-b6ac-f55764918468,Sade Açma,"3,00 TL",Açma & Simitler,3.0
+7a709386-49e4-4226-9506-2a4d7c9e93fb,Peynirli Açma,"3,50 TL",Açma & Simitler,8.0
+214e2b66-9cc8-4c7d-895a-93799a2487d7,Zeytinli Açma,"3,50 TL",Açma & Simitler,2.0
+c0cd2a97-6120-47ee-aa3f-8446ff3908ea,Susamlı Simit,"2,50 TL",Açma & Simitler,5.0
+9dc4ce34-203a-4e50-bb65-13849a5769da,Tereyağlı Simit,"3,50 TL",Açma & Simitler,13.0
+b4d4b8cb-a725-415c-8337-108c638b114f,Simit Atom,"4,00 TL",Açma & Simitler,5.0
+29f78f36-0231-49b5-85d9-985fe52c4d71,Karışık Simit Atom,"4,00 TL",Açma & Simitler,3.0
+9f64176a-afac-4959-9953-b03ff8110d84,Tahinli Simit,"4,00 TL",Açma & Simitler,4.0
+c887c90d-dc1a-4338-94a6-096d25c87533,Sucuklu Kaşarlı Gözleme,"14,00 TL",Gözlemeler & Sıkmalar,3.0
+0a607d48-f459-45bc-ad16-bf6d1e975200,Kaşarlı Gözleme,"10,00 TL",Gözlemeler & Sıkmalar,3.0
+eabdac9b-6ad9-4833-abee-ef705a986cd6,Beyaz Peynirli Gözleme,"10,00 TL",Gözlemeler & Sıkmalar,4.0
+50d18119-62f5-4b2d-bc48-ef5f37c5f8d0,Patatesli Kaşarlı Gözleme,"12,00 TL",Gözlemeler & Sıkmalar,5.0
+57b192ca-6b69-48ac-aafa-1491d48396e7,Patatesli Gözleme,"10,00 TL",Gözlemeler & Sıkmalar,7.0
+d5fd2475-8a59-4761-999d-d47678aa2062,Peynirli Milföy,"4,00 TL",Börekler,4.0
+42804f84-ed5a-454c-9e07-adf91b818259,Patatesli Milföy,"4,00 TL",Börekler,7.0
+42a7662d-d2a9-41be-b66c-b316e61045b8,Kaşarlı Tost,"8,00 TL",Tostlar,3.0
+72ebaf72-e6ba-4fdd-a5d5-b3c9cb01122f,Ayvalık Tost,"12,00 TL",Tostlar,3.0
+5d0d888d-86cd-4cdc-bf64-862afa5335e8,Sucuklu Tost,"9,00 TL",Tostlar,5.0
+a15d362c-d3f0-4849-8a4f-7350a47a3b1c,Sucuklu Kaşarlı Tost,"9,00 TL",Tostlar,3.0
+d32954b8-0481-451c-9785-255ca3b1082f,Duble Karışık Tost,"12,50 TL",Tostlar,3.0
+99d4d269-bcbb-4d9d-a173-6ff3f23908a4,Soğuk Sandviç,"5,00 TL",Sandviçler,6.0
+6e48c9ec-1530-4c7f-b7fd-0bf8a030d65a,Kumru Sandviç,"13,00 TL",Sandviçler,5.0
+7ece7db2-6a99-4355-9389-4591bcd13803,Ekler,"4,00 TL",Tatlılar,5.0
+0AC3D0FC-A88A-4D31-80A8-3E8203259D4F,Supangle,"7,50 TL",Tatlılar,5.0
+32381DA3-7277-44F9-A80B-CE0C43438FAC,Profiterol,"7,50 TL",Tatlılar,5.0
+f88082b7-ef44-405e-839a-314508613964,Katmer Tatlısı,"25,00 TL",Tatlılar,2.0
+6670cd9d-8c9d-4b72-9d42-9bfefc2d357a,Cappy (20 cl.),"2,50 TL",İçecekler,5.0
+f0518abf-44f2-4350-a5c0-3c16123e9415,Cappy (1 L.),"7,00 TL",İçecekler,5.0
+6dba35bf-d0e4-4b45-ac08-cba4d060490d,"Su (1,5 L.)","2,50 TL",İçecekler,5.0
+630adf80-74d4-44ba-8162-29c4cbfda3e6,Beyaz Peynirli Poğaça (1 kg.),"30,00 TL",Kiloluk Ürünler,4.0
+6879ce77-58bf-4102-b227-eda6de7e29d6,Kaşarlı Poğaça (1 kg.),"30,00 TL",Kiloluk Ürünler,3.0
+3a1149dc-2eb5-4eba-b51c-c6e210d408ee,Zeytinli Poğaça (1 kg.),"30,00 TL",Kiloluk Ürünler,4.0
+c4caac1d-d42b-47bf-baaf-410feb9dc3d2,Patatesli Poğaça (1 kg.),"30,00 TL",Kiloluk Ürünler,7.0
+672e3ce7-6e30-43c8-97bf-78b20990ec82,Dereotlu Poğaça (1 kg.),"30,00 TL",Kiloluk Ürünler,5.0
+43132e4b-a807-40e8-bff7-0a14c195f216,Peynirli Kol Böreği (1 kg.),"40,00 TL",Kiloluk Ürünler,5.0
+36660846-da3c-444e-acd2-271846d8ea19,Tuzlu Kuru Pasta (1 kg.),"30,00 TL",Kiloluk Ürünler,3.0
+3c9986dd-d13b-45cc-8ec9-258075508bf0,Tatlı Kuru Pasta (1 kg.),"35,00 TL",Kiloluk Ürünler,3.0
+11b0785f-2f2d-44a9-83a6-84ca75599422,Karışık Poğaça (1 kg.),"30,00 TL",Kiloluk Ürünler,3.0
+c931fe0b-9f76-4876-98e1-2f1848d41eb2,Karışık Poğaça (500 gr.),"15,00 TL",Kiloluk Ürünler,3.0
+010431b8-6ee4-4aba-9a4e-a3b3242d99e8,Çubuk Kahke (1 kg.),"30,00 TL",Kiloluk Ürünler,5.0
+fc8d7535-889e-4f0a-851e-9fe3faf4f68a,Çubuk Kahke (500 gr.),"15,00 TL",Kiloluk Ürünler,5.0
+DFA10AAA-6370-4B1E-ADC9-741F456CF8D1,Peynirli Kol Böreği (500 Gr),"20,00 TL",Kiloluk Ürünler,5.0
+654AE306-2571-4B20-812B-A195CB8CF867,Beyaz Peynirli Sigara Böreği (500 gr.),"15,00 TL",Kiloluk Ürünler,4.0
+7F529FF3-7FAC-4F4A-8946-011DD2C6837A,Zeytinli Sigara Böreği (500 gr.),"15,00 TL",Kiloluk Ürünler,4.0
+60D2EC64-7EE3-44AE-81E0-7A6285974E67,Patatesli Sigara Böreği (500 gr.),"15,00 TL",Kiloluk Ürünler,7.0
+f14517d0-4b08-422a-80dd-93157c2b56ec,Poşet,"0,25 TL",Poşet,5.0

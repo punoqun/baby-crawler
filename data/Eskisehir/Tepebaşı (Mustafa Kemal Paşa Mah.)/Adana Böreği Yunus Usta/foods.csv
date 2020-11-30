@@ -1,0 +1,44 @@
+food_id,food_name,food_price,food_category,food_score
+ce0e6711-8154-4300-befb-e9d254297f62,Çiğ Börek Menü,"15,75 TL",Menüler,1.0
+fa5803b0-b54c-4554-a644-17ce0367a104,Peynirli Çiğ Börek Menü,"15,75 TL",Menüler,0.0
+261d4dd0-fbf0-488b-85e8-d0408743bc09,Gül Reçeli,"2,62 TL",Kahvaltılıklar,5.0
+3c660e15-aa3d-46ff-8335-9ecf1f9012db,Kayısı Reçeli,"2,62 TL",Kahvaltılıklar,5.0
+2d16dd4c-390a-44b9-a1cf-233192ab9050,Süzme Bal,"1,88 TL",Kahvaltılıklar,5.0
+F23DA78D-4CEF-4285-96AE-ECA920A75735,Çokokrem (20 gr.),"1,50 TL",Kahvaltılıklar,5.0
+DA205B21-B637-460B-BF7F-AA401B2C7861,Peynirli Adana Böreği (400 gr.),"15,00 TL",Börekler,18.0
+5909BC48-760A-4153-8059-49452A86B060,Kıymalı Adana Böreği( 400 gr.),"18,75 TL",Börekler,10.0
+4026254c-e2e2-4bc6-a5c2-c4bf4187d2fb,Kıymalı Sarıyer Böreği (200 gr.),"7,50 TL",Börekler,8.0
+5957367e-1745-463d-bed7-cbe544487f81,Kıymalı Çiğ Börek (5 Adet),"13,12 TL",Börekler,-3.0
+59f7a665-579b-4319-95c2-9b3f943f1980,Peynirli Çiğ Börek (5 Adet),"13,12 TL",Börekler,0.0
+60252636-f748-4bb5-a316-79f2a87a204f,Peynirli Sarıyer Böreği (200 gr.),"7,50 TL",Börekler,6.0
+67c2facc-f00f-4876-b42f-ff9b118063a3,Patatesli Sarıyer Böreği (200 gr.),"7,50 TL",Börekler,7.0
+81308133-D2A6-43AC-9BEC-AFA80F192151,Peynirli Adana Böreği (250 gr.),"9,38 TL",Börekler,18.0
+a13eed93-6877-4416-aeb5-2ddcefee8cb1,Kıymalı Adana Böreği (250 gr.),"13,12 TL",Börekler,10.0
+19B7DF2F-8C9B-4503-BAB8-AE3431165CB2,Kıymalı Sarıyer Böreği (300 gr.),"11,25 TL",Börekler,3.0
+80AB62FD-3DDE-4FE1-904A-15A705D2AF5F,Patatesli Sarıyer Böreği (300 gr.),"11,25 TL",Börekler,7.0
+D5063BA5-52D6-4A5C-80D1-404278104907,Haşhaşlı Lokma Çörek,"6,00 TL",Açmalar,5.0
+BAAEF67C-B8DB-42A0-89A4-79CC1606C4C2,Kaşarlı Açma,"2,06 TL",Açmalar,6.0
+A22F868C-71DC-4807-8532-9F866F37797D,Haşhaşlı Çörek,"2,06 TL",Açmalar,5.0
+26c0182f-18a5-4f8d-8535-e6b5fc237969,Sosisli Kaşarlı Açma,"2,06 TL",Açmalar,6.0
+52e2be4d-cf14-4992-8bb0-08afc79eb737,Zeytinli Kaşarlı Açma,"2,06 TL",Açmalar,6.0
+c879b5e7-181c-46a3-ac36-9777855bbb3b,Sade Açma,"2,06 TL",Açmalar,5.0
+3c8e5fb4-72ce-44b5-92b9-55f9fd759d1b,Zeytinli Açma,"2,06 TL",Açmalar,6.0
+7e05a00b-2b9d-40e2-a186-ee89fa8e323b,Peynirli Açma,"2,06 TL",Açmalar,5.0
+609d09a8-0e96-4f4b-a0cb-61ffed73becb,Patatesli Açma,"2,06 TL",Açmalar,6.0
+A15E724E-EC25-41F8-8304-ED80E8824313,Sütlü Simit,"2,06 TL",Açmalar,7.0
+3AC020A5-1A55-48F5-BF5A-B734C8B75AC7,Spesiyal Kuru Pasta (500 gr.),"18,75 TL",Diğer Lezzetler,5.0
+76582a5d-c978-4c4a-a5c4-1aa0037d2aac,Mini Pizza,"3,00 TL",Diğer Lezzetler,4.0
+3190C350-536B-4B0E-A125-F328EB6C1F7F,Soğuk Sandviç,"3,00 TL",Diğer Lezzetler,4.0
+3720899A-CB92-4759-91E6-5A0FCD676780,Spesiyal Kuru Pasta (1 kg.),"37,50 TL",Diğer Lezzetler,5.0
+D49A58D8-CC77-4CD9-8C62-1F5044CB2BC2,Spesiyal Kuru Pasta (250 gr.),"9,38 TL",Diğer Lezzetler,5.0
+753513D6-0115-4379-818D-13B724A50B01,Tuzlu Karışık Kurabiye (500 gr.),"15,00 TL",Diğer Lezzetler,7.0
+278C7999-94C6-4271-8397-F9A9F76951AD,Elmalı Kurabiye (250 gr.),"7,50 TL",Diğer Lezzetler,7.0
+f266c4d9-7001-4c5b-9c78-2124c60fd39f,İzmir Bomba,"3,00 TL",Tatlılar,6.0
+5c39b9fe-d0f3-4501-8a21-19c90b55b834,Beze,"3,75 TL",Tatlılar,5.0
+9ED9F032-2787-4AED-8870-39D2062F7B16,Uludağ Limonata (33 cl.),"3,75 TL",İçecekler,5.0
+0f88476e-36b9-47d7-88bb-583c245ec260,Peynirli Adana Su Böreği (1 kg.),"33,75 TL",Kiloluk Börekler,15.0
+6880561e-f505-4eee-8e2d-cd1691a16784,Patatesli Sarıyer Böreği (1 kg.),"30,00 TL",Kiloluk Börekler,7.0
+68b21f53-7e88-4dc9-b4de-5c5e6dde6da7,Peynirli Sarıyer Böreği (1 kg.),"30,00 TL",Kiloluk Börekler,6.0
+8586657c-2bf9-402b-a9ac-826f9c38dd4e,Kıymalı Sarıyer Böreği (1 kg.),"30,00 TL",Kiloluk Börekler,3.0
+eda3b1bd-1a64-425f-b34a-9e3a87899b03,Kıymalı Adana Böreği (1 kg.),"37,50 TL",Kiloluk Börekler,10.0
+13f6449a-b0c4-4cf6-8a88-bd8c87a01fe2,Poşet,"0,25 TL",Poşet,5.0

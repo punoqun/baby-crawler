@@ -1,0 +1,30 @@
+food_id,food_name,food_price,food_category,food_score
+086ba944-59be-4024-b5f2-1aa91c83752d,Harbi Burger,"38,50 TL",Burgerler,13.0
+23ce4985-248e-4e6f-ad6e-ba207a4be9e6,Tiftik Burger,"27,50 TL",Burgerler,15.0
+24fd5b07-6684-4a43-95b1-3425908adfd8,Protein Burger,"39,50 TL",Burgerler,19.0
+3e8c6b0c-af2d-47b3-927f-32572570b8b7,Klasik Burger,"32,50 TL",Burgerler,21.0
+43727302-4848-4d61-8d83-085f51ef7a4d,Baba Burger,"48,00 TL",Burgerler,14.0
+43edebb4-bcc9-43bf-bc18-719e789a0cb9,Tandır Burger,"42,00 TL",Burgerler,12.0
+57f167fc-9957-45d2-8a41-3962279d8afa,Alaturka Burger,"42,50 TL",Burgerler,12.0
+713d5759-6512-4d6d-a9d0-7c21a6ee51f6,Bol Peynirli Burger,"36,50 TL",Burgerler,12.0
+965c90a3-4bc9-477c-8061-883a142e10b9,Anadolu Burger,"38,50 TL",Burgerler,14.0
+9d89b025-920c-4764-9fc1-904152417ee1,Esnaf Burger,"39,50 TL",Burgerler,12.0
+ce7596a2-28ba-4103-be10-428ccb0f1d08,Gece Burger,"44,00 TL",Burgerler,24.0
+e239cc1d-8230-4848-8b70-9d1c43841af3,Mini Burger,"32,50 TL",Burgerler,14.0
+f469c64b-2d8a-43b4-aa9c-a8492536a59a,Tavuk Burger,"27,50 TL",Burgerler,13.0
+0deaf8c1-0eef-48ba-b607-8a885433e2c2,Baba Sosisli,"29,50 TL",Sosisliler,8.0
+192e0fce-1e9f-4d70-969d-5213b3816db1,Harbi Sosisli,"27,50 TL",Sosisliler,7.0
+1bf23501-23ea-4877-a784-1987fb352a85,Esnaf Sosisli,"34,50 TL",Sosisliler,6.0
+219eb918-d9a1-47f7-9f48-5a2fc558eed6,Gece Sosisli,"26,50 TL",Sosisliler,13.0
+5ad641c1-897e-4b90-be73-e0e549858b12,İyi Sosisli,"26,50 TL",Sosisliler,16.0
+740733d0-ffae-4c44-9e7c-817cce097677,Gurbet Sosisli,"24,50 TL",Sosisliler,6.0
+45c86f7a-fe25-45d1-81ae-78adf133ae2d,Kavurma Sandviç,"36,50 TL",Sandviçler,7.0
+89f9201e-d80b-4a41-9f59-479058152277,Tiftik Sandviç,"27,50 TL",Sandviçler,8.0
+a7926f29-9a75-41ae-9214-27ed064b0439,Biftek Sandviç,"34,50 TL",Sandviçler,5.0
+ac45c505-b679-4f8c-988c-d8635c8afc1e,Izgara Tavuklu Sandviç,"27,50 TL",Sandviçler,5.0
+ae79ae40-e75f-43e6-9322-1ff2cb4642f0,Soğan Halkası (14 Adet),"16,50 TL",Atıştırmalıklar,5.0
+b374ad40-5df5-47e3-b3c9-6faf523e8631,Çıtır Tavuk Sepeti,"29,50 TL",Atıştırmalıklar,8.0
+ce61f66f-492b-4dcc-94e3-c07405e8a272,Sosis Tabağı,"24,50 TL",Atıştırmalıklar,6.0
+d0d396a7-ab57-43bf-ab87-b24097ca9ecb,Patates Kızartması,"18,50 TL",Atıştırmalıklar,15.0
+e4266fc7-620b-491d-83a2-9d1c089a9327,Gece Sepeti,"37,50 TL",Atıştırmalıklar,12.0
+be34b102-374a-4c27-aefc-a589e7e311d7,Poşet,"0,25 TL",Poşet,7.0

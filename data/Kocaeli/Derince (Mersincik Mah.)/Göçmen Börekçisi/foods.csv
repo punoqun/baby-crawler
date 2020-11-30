@@ -1,0 +1,91 @@
+food_id,food_name,food_price,food_category,food_score
+8879855e-d3dd-4b0d-bcdf-a3a3c1ffa3f5,Göçmen Böreği Menü,"12,75 TL",Menüler,6.0
+409b2b5f-394a-4d33-ba76-507038fcb6be,Su Böreği Menü,"12,38 TL",Menüler,6.0
+319DF9F3-E470-4688-95E1-85284BA33E92,Çiğ Köfte Dürüm Menü,"7,13 TL",Menüler,9.0
+DD6246F4-7E77-401B-B21B-E82109EB03FB,Aile Çiğ Köfte Menü,"41,25 TL",Menüler,9.0
+3F7A3352-28E8-4D10-B151-90AB226BFC99,Nohutlu Tavuklu Pilav Menü,"12,75 TL",Menüler,7.0
+E2D6E582-2AF0-4841-B522-43874BE938DC,Nohutlu Bol Tavuklu Pilav Menü,"16,50 TL",Menüler,7.0
+AC77C7FA-D77D-40CA-8875-3A45937BF72A,Köri Soslu Tavuklu Makarna Menü,"12,75 TL",Menüler,3.0
+5B93ACBD-2EE6-452B-A49F-B7EB3A7E56C0,Nohutlu Pilav Menü,"9,00 TL",Menüler,9.0
+06F07BC4-C744-41EB-97A7-1332B8A04E71,Adana Usulu Kaşarlı Su Böreği (200 gr.),"9,75 TL",Börekler,2.0
+1920e00c-9ab2-45f4-8d3e-d5dfe1b71d78,Patatesli Göçmen Böreği (200 gr.),"9,00 TL",Börekler,5.0
+7c847791-8157-4e9e-a2ac-67057510da59,Peynirli Göçmen Böreği (200 gr.),"9,00 TL",Börekler,5.0
+35aefbe2-1721-4e53-b181-e0206b29a431,Ispanaklı Göçmen Böreği (200 gr.),"9,00 TL",Börekler,4.0
+554d5678-5c25-4f02-8dc6-fc5498d2d8f4,Peynirli Kol Böreği (200 gr.),"9,00 TL",Börekler,6.0
+67a0a18f-f7ce-46dc-b079-688087580c9f,Küt Böreği (200 gr.),"8,63 TL",Börekler,10.0
+01358583-58ae-4433-a371-d00d2dc8995b,Peynirli Su Böreği (200 gr.),"8,63 TL",Börekler,5.0
+853160e4-c19e-4fee-92aa-d15c9105a8a0,Kıymalı Kol Böreği (200 gr.),"9,00 TL",Börekler,6.0
+591357e2-f5ab-4eaa-a531-b55c0b326e08,Kıymalı Göçmen Böreği (200 gr.),"9,00 TL",Börekler,10.0
+2e6b0e89-5048-425c-b462-b461c363a30e,Üçgen Krem Peynir,"1,13 TL",Kahvaltılıklar,6.0
+66689fb9-b248-4fc1-8d1e-23d7adf78250,Çilek Reçeli,"1,50 TL",Kahvaltılıklar,5.0
+0b9bb06e-7ea0-464c-9652-49746e965324,Haşlanmış Yumurta,"1,88 TL",Kahvaltılıklar,5.0
+d8af9626-0b4a-4939-a7b2-1108455f9434,Söğüş Tabağı,"3,75 TL",Kahvaltılıklar,5.0
+203268a2-d745-416d-9af5-38ed3d3538cd,Yeşilzeytin,"1,88 TL",Kahvaltılıklar,5.0
+eac1ae3e-390f-4ea4-bd26-eea411ad85cd,Siyah Zeytin,"1,88 TL",Kahvaltılıklar,5.0
+D40BD21F-145F-41D3-BE4F-135EEDA9FB9D,Ekmek,"1,69 TL",Kahvaltılıklar,5.0
+33D1E529-107B-4EA0-A435-24B2E26ECCAF,Galeta,"3,75 TL",Kahvaltılıklar,5.0
+9E4808C2-F8D3-42CC-96CD-08334643650A,Elvan Today Kakaolu Donut (50 gr.),"1,50 TL",Kahvaltılıklar,5.0
+f79eaf61-bef8-48ff-8127-d9f9216aecc0,Kaşarlı Tost,"7,50 TL",Tostlar,2.0
+f5dcd727-074b-42cb-b800-fe75edad8183,Karışık Tost,"7,50 TL",Tostlar,1.0
+6D0BA97B-37A6-4D1F-A19C-6392276CE1BB,Karışık Bazlama Tost,"7,50 TL",Tostlar,1.0
+06b137de-f665-4cc6-a69e-285c6505d422,Kaşarlı Soğuk Sandviç,"7,50 TL",Sandviçler,5.0
+B134FEB7-6876-4251-889C-6CBCDC7A845B,Çiğ Köfte (600 gr.),"24,75 TL",Çiğ Köfteler,7.0
+1e1bfeeb-be4b-4f45-af42-357652bad091,Etli Kızartma İçli Köfte (Büyük) (2 Adet),"9,75 TL",Mezeler,5.0
+e844c80e-b962-4a6c-9d34-b91aa7ba099b,Etli Kızartma İçli Köfte (Orta) (4 Adet),"9,75 TL",Mezeler,5.0
+10a8aff5-1feb-4dbb-b392-d7c13dc33a01,Amerikan Salatası (200 gr.),"9,00 TL",Mezeler,5.0
+7168B3CA-2DE6-4386-BC10-B4CAAD73F23C,Cevizli Baklava (200 gr.),"9,75 TL",Tatlılar,3.0
+7A2B9A3A-F192-4EC3-95C0-869534FDD93A,Sütlü Nuriye (200 gr.),"9,75 TL",Tatlılar,5.0
+6906A4A6-0173-4003-982D-98F003646A66,Bal Badem Tatlısı (200 gr.),"9,75 TL",Tatlılar,5.0
+85EC17EB-C699-42D0-840A-CD7179DBB0CF,Ekler (200 gr.),"9,75 TL",Tatlılar,5.0
+9A0E52AF-BCCB-4905-9E1E-4E0EA4FCFFF1,İrmik Helvası (120 gr.),"4,50 TL",Tatlılar,5.0
+9D2912BA-90F6-4ED0-A0F0-F8BB99120C01,Şam Tatlısı,"3,00 TL",Tatlılar,5.0
+60532A7C-70EA-4D2F-9139-0E1F5D3D02EB,Kıbrıs Tatlısı (190 gr.),"7,50 TL",Tatlılar,5.0
+fdb9103e-b0c3-4038-8cbf-8079845e6598,Çikolatalı Pasta (6 Kişilik),"37,50 TL",Pastalar,5.0
+cd034275-017d-4900-be03-9329e4d984ee,Çikolatalı Pasta (8 Kişilik),"45,00 TL",Pastalar,5.0
+18aca1d9-0b1d-4680-9fb6-e1149e4c9cdc,Cappy Pulpy Portakal (33 cl.),"3,75 TL",İçecekler,9.0
+12a91126-f384-4503-a697-83247bfa6f36,Cappy (20 cl.),"1,88 TL",İçecekler,5.0
+180321E5-ECA1-4EAF-8AB1-EBC82A553E39,Coca Cola (1 L.),"5,63 TL",İçecekler,5.0
+90AB95F3-6CBB-4279-A289-A20417955C83,"Fanta (2,5 L.)","7,50 TL",İçecekler,5.0
+C2B3637F-317A-456A-89E4-1CEC55AE5D93,Adana Usulü Kaşarlı Su Böreği (1 kg.),"37,50 TL",Kiloluk Börekler,2.0
+abac6055-5668-4c89-822e-7317ea0de360,Küt Böreği (1 kg.),"33,75 TL",Kiloluk Börekler,5.0
+1c5c3114-a407-4ef3-b4e5-2e125016aad5,Kıymalı Kol Böreği (1 kg.),"37,50 TL",Kiloluk Börekler,6.0
+d3c432c3-d03e-4c71-89f3-504de0caf95b,Peynirli Kol Böreği (1 kg.),"37,50 TL",Kiloluk Börekler,6.0
+3973147d-3925-4b7c-9b3c-486e80106dc9,Patatesli Göçmen Böreği (1 kg.),"37,50 TL",Kiloluk Börekler,5.0
+b4f840be-2015-4ae4-ad9c-a2b4fe2d1149,Kıymalı Göçmen Böreği (1 kg.),"37,50 TL",Kiloluk Börekler,5.0
+ef83d447-844b-4c9a-b9ba-d38d846234c5,Peynirli Göçmen Böreği (1 kg.),"37,50 TL",Kiloluk Börekler,5.0
+03a40a8c-6a2b-45db-85d6-c49283085df4,Ispanaklı Göçmen Böreği (1 kg.),"37,50 TL",Kiloluk Börekler,4.0
+99188a4d-5de0-429f-82b6-9bc442eade56,Peynirli Su Böreği (1 kg.),"33,75 TL",Kiloluk Börekler,5.0
+e1f0e6b6-ff88-4527-b99a-1c5829cbd4a3,Kıymalı Göçmen Böreği (500 gr.),"21,00 TL",Kiloluk Börekler,5.0
+2571149c-8d11-4c48-bda7-156e27ed8405,Peynirli Göçmen Böreği (500 gr.),"21,00 TL",Kiloluk Börekler,5.0
+f24b3712-798b-4033-941a-edcdbfe881e0,Patatesli Göçmen Böreği (500 gr.),"21,00 TL",Kiloluk Börekler,5.0
+17207a71-cdde-46de-a5d3-525ddffa5b8f,Kıymalı Kol Böreği (500 gr.),"21,00 TL",Kiloluk Börekler,6.0
+91a4b8c6-7e3a-474a-a343-761d0fbbd66d,Peynirli Kol Böreği (500 gr.),"21,00 TL",Kiloluk Börekler,6.0
+66829d6e-c6b5-4013-8ab1-1909cb1e0c64,Peynirli Su Böreği (500 gr.),"18,75 TL",Kiloluk Börekler,5.0
+AFA773B8-4B76-4FAB-8173-CAE46556F95D,Adana Usulü Kaşarlı Su Böreği (500 gr.),"21,00 TL",Kiloluk Börekler,2.0
+889F1A4E-55D3-4EC8-85A9-16426A52EEB1,Küt Böreği (500 gr.),"18,75 TL",Kiloluk Börekler,5.0
+b240a98e-6235-4e0d-ab38-951fca889445,Çikolatalı Ekler (1 kg.),"37,50 TL",Kiloluk Tatlılar,5.0
+58B6071D-F8CF-492D-B9AE-0DBE8ABDC8F5,Sütlü Nuriye (1 kg.),"41,25 TL",Kiloluk Tatlılar,5.0
+F8128985-6080-4700-9CE8-CD7F0ECA2150,Sütlü Nuriye (500 gr.),"21,00 TL",Kiloluk Tatlılar,5.0
+BD387781-AD94-4E19-A989-EFEE63267A97,Cevizli Burma Tel Kadayıf (1 kg.),"37,50 TL",Kiloluk Tatlılar,7.0
+E44CE5A5-B486-4BF2-8734-A68B58727660,Cevizli Burma Tel Kadayıf (500 gr.),"18,75 TL",Kiloluk Tatlılar,7.0
+AC45609E-71AA-4EF0-A115-F7B771874CF0,Cevizli Özel Baklava (1 kg.),"41,25 TL",Kiloluk Tatlılar,3.0
+2D81BCA2-A6BA-4C15-9B9D-7F61C7308C9C,Cevizli Özel Baklava (500 gr.),"21,00 TL",Kiloluk Tatlılar,3.0
+02A31936-9756-40E3-A9E3-88D91CE46AAA,Bal Badem Tatlısı (1 kg.),"37,50 TL",Kiloluk Tatlılar,5.0
+D694B8CC-4493-4960-9159-3D6F7E700A07,Bal Badem Tatlısı (500 gr.),"18,75 TL",Kiloluk Tatlılar,5.0
+69eff03d-2a65-4aaf-ac04-c34fc8c0d465,Cevizli Baklava (1 kg.),"41,25 TL",Kiloluk Tatlılar,3.0
+ae6f2961-02b1-4c5f-8945-527e032fd880,Karışık Kurabiye (1 kg.),"37,50 TL",Kiloluk Tatlılar,3.0
+e15b488c-df60-4ba2-a088-7b96a5abe00e,Kaymaklı Ekmek Kadayıfı (1 kg.),"37,50 TL",Kiloluk Tatlılar,5.0
+e0987140-6bfd-4469-8366-a64e78955f59,Cevizli Baklava (500 gr.),"21,00 TL",Kiloluk Tatlılar,3.0
+30a565c5-74a2-4855-a3bb-0dd131c6681d,Çikolatalı Ekler (500 gr.),"18,75 TL",Kiloluk Tatlılar,5.0
+839a2e3f-2892-410b-9eda-24062af7496b,Karışık Kurabiye (500 gr.),"18,75 TL",Kiloluk Tatlılar,3.0
+8590b204-b1b5-4752-8efd-1417aac811a4,Kaymaklı Ekmek Kadayıfı (500 gr.),"18,75 TL",Kiloluk Tatlılar,5.0
+ffabb9e2-d3f1-40b2-80a2-868376e08aef,Küt Böreği (Tepsi),"75,00 TL",Tepside Börekler,5.0
+0820baf9-e981-43c0-86d9-2631bae2b64b,Kıymalı Kol Böreği (Tepsi),"82,50 TL",Tepside Börekler,6.0
+3ea04c30-94dd-4133-9ece-e7376995f305,Peynirli Kol Böreği (Tepsi),"82,50 TL",Tepside Börekler,6.0
+5199c234-321e-4160-849f-84f80d8d4c1f,Patatesli Göçmen Böreği (Tepsi),"82,50 TL",Tepside Börekler,5.0
+2ede053f-3ea9-48c7-8bef-ef272d548a39,Kıymalı Göçmen Böreği (Tepsi),"82,50 TL",Tepside Börekler,5.0
+9ed31358-1c3c-4dfc-b3be-2db71c8c4431,Peynirli Göçmen Böreği (Tepsi),"82,50 TL",Tepside Börekler,5.0
+b75ac74f-e70c-4101-b83d-050b49f30f0e,Ispanaklı Göçmen Böreği (Tepsi),"82,50 TL",Tepside Börekler,4.0
+1529bed4-32a7-41e8-8715-4fb00d9704df,Peynirli Su Böreği (Tepsi),"75,00 TL",Tepside Börekler,5.0
+bf9c92c7-42bb-47d5-bdc8-995a1d901378,Kaymaklı Ekmek Kadayıfı (Tepsi) (3 kg.),"93,75 TL",Tepside Tatlılar,5.0
+9d850c3b-e4b4-4e1f-9efb-8b148f7ef9ff,Poşet,"0,25 TL",Poşet,5.0

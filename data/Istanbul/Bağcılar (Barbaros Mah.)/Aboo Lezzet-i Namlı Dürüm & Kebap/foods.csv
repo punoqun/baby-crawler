@@ -1,0 +1,59 @@
+food_id,food_name,food_price,food_category,food_score
+2c8805be-1e96-43cf-952e-6db92f936666,Adana Dürüm,"14,00 TL",Dürümler,19.0
+d54ce8b9-4ea2-443f-bea1-ee0bfcf0eb6e,Urfa Dürüm,"14,00 TL",Dürümler,9.0
+fdd149dd-b746-43f3-872e-34412ee3facd,Tavuk Şiş Dürüm,"14,00 TL",Dürümler,16.0
+545d35f1-8622-40f3-bc6a-05b22f964cdc,Et Şiş Dürüm (2 Şiş),"17,00 TL",Dürümler,10.0
+f82e6c5f-a355-40b5-957d-eb8ce6a11932,Ciğer Şiş Dürüm (2 Şiş),"20,00 TL",Dürümler,4.0
+246fafb3-8f43-4a31-b2db-1efecc2a276e,Yürek Şiş Dürüm (2 Şiş),"14,00 TL",Dürümler,8.0
+1225d680-6c2b-4711-b746-a7405b8d61c3,Double Adana Dürüm (2 Şiş),"25,00 TL",Dürümler,14.0
+94029df2-075f-4d7e-b638-f91d61eab880,Double Urfa Dürüm (2 Şiş),"25,00 TL",Dürümler,9.0
+ccb57b24-f924-4794-8e34-1ab863102993,Double Tavuk Şiş Dürüm (2 Şiş),"25,00 TL",Dürümler,11.0
+95bb9ac2-6bd1-43f5-bc34-c6648c039c6a,Double Et Şiş Dürüm (4 Şiş),"29,00 TL",Dürümler,10.0
+27210cc2-3c58-474f-b888-4ea7870cfcfa,Double Çöp Şiş Dürüm (4 Şiş),"29,00 TL",Dürümler,6.0
+38965d4b-ec7d-4086-bf81-e4f579c4cb2d,Double Ciğer Şiş Dürüm (4 Şiş),"33,00 TL",Dürümler,4.0
+7bb36d20-618e-4e87-8717-6b96b53d14eb,Double Yürek Şiş Dürüm (4 Şiş),"26,00 TL",Dürümler,8.0
+db68481c-7424-43d0-a402-2bf8e56a73a7,Aboo Dürüm,"25,00 TL",Spesiyal Dürümler,6.0
+92508526-58c5-4bd9-b74a-1cf35f39a402,Antepli Dürüm,"26,00 TL",Spesiyal Dürümler,6.0
+8459948b-f331-47d5-93e6-7a4655f41ead,Çoban Dürüm,"25,00 TL",Spesiyal Dürümler,6.0
+81078594-535b-4291-8954-64feac6f61f2,İstanbul Dürüm,"25,00 TL",Spesiyal Dürümler,6.0
+0a6872a1-8fe6-4815-9d98-ce824f726912,Kardeş Dürüm,"25,00 TL",Spesiyal Dürümler,6.0
+263702c2-b7e9-4d5d-ac81-920efd8def26,Kilisli Dürüm,"29,00 TL",Spesiyal Dürümler,6.0
+15c754c3-8cfe-4e0d-800f-d0ca868ac9cc,Kral Dürüm,"27,00 TL",Spesiyal Dürümler,6.0
+2570baeb-e925-4728-bb93-8bdba4b361db,Padişah Dürüm,"27,00 TL",Spesiyal Dürümler,6.0
+fa793be7-3a86-4d5a-9432-e1b6538d229a,Patron Dürüm,"27,00 TL",Spesiyal Dürümler,6.0
+ec71af92-d1c4-42e5-b453-5d65a344f782,Sultan Dürüm,"30,00 TL",Spesiyal Dürümler,6.0
+f7e203f0-1d6d-44fc-9a8e-a348b12158d9,Urfalı Dürüm,"29,00 TL",Spesiyal Dürümler,6.0
+0e8eb38d-0bef-4daa-ba0f-3303644fa0e5,Adana Kebap,"24,00 TL",Kebaplar,11.0
+74d76655-5b19-4793-bf4d-26b23b30fbcf,Urfa Kebap,"24,00 TL",Kebaplar,6.0
+9cd44393-96ab-4453-988f-0839864477ad,Kilis Kebabı,"32,00 TL",Kebaplar,5.0
+e4204ac9-25fe-45ff-8dd4-7385491593da,Domatesli Kebap,"32,00 TL",Kebaplar,3.0
+8ac13537-14e8-47fc-91ec-c5b273a30a59,Patlıcanlı Kebap,"32,00 TL",Kebaplar,3.0
+667a75e5-672a-4fe7-9d7d-5fb4f37eb9b5,Mardin Kebabı,"32,00 TL",Kebaplar,5.0
+6ee743fe-e73f-4fea-8289-8034d5f0bcdc,Fıstıklı Kebap,"35,00 TL",Kebaplar,4.0
+b9b948d0-f54b-4ba1-afc9-406c61f9f211,Alinazik Kebap (Kuzu Şişten),"38,00 TL",Kebaplar,3.0
+ddf04464-a068-4f09-ad9f-5e632e6aac0b,Satır Adana Kebap,"32,00 TL",Kebaplar,11.0
+91d722ca-495a-430f-aa4f-006929589bd6,Satır Urfa Kebap,"32,00 TL",Kebaplar,6.0
+c3ea75d7-40ab-4ed3-b037-d89aec5f5481,Pazarbaşı Kebap,"34,00 TL",Kebaplar,3.0
+c073f0ac-b084-47b3-b334-69d7b40898c6,Karışık Kebap,"58,00 TL",Kebaplar,1.0
+0b9dcf47-e719-433a-b29c-80cde9fe5c4f,Çöp Şiş,"32,00 TL",Izgaralar,5.0
+12edc7ec-e8ef-4019-9904-e638df524f4c,Izgara Köfte,"22,00 TL",Izgaralar,4.0
+5caf8f2d-7902-4689-8c6c-986d5fad51e0,Ciğer Şiş,"38,00 TL",Izgaralar,3.0
+6fced3aa-b3bb-4817-ac4a-ca12cc6c262b,Yürek Şiş,"25,00 TL",Izgaralar,7.0
+b0e87b6a-0f21-46ae-8831-a67a289f268c,Et Şiş,"32,00 TL",Izgaralar,9.0
+d72b2dfb-507e-4e54-acd2-3fad327c911b,Tavuk Şiş,"20,00 TL",Izgaralar,10.0
+f6ef918f-1bfe-48a7-bc0b-804260e0c401,Tavuk Kanat,"20,00 TL",Izgaralar,16.0
+82b6b503-0306-40c9-a7b2-eb7bbf981479,Et Sote,"35,00 TL",Diğer Lezzetler,9.0
+c3e13bea-f050-40c6-b72a-f0d92e17f189,Tavuk Sote,"28,00 TL",Diğer Lezzetler,10.0
+02b6f8fa-fb59-480e-ab64-1e4ac88dd926,Et Sac Kavurma,"35,00 TL",Diğer Lezzetler,9.0
+4a01ddf6-c302-4cde-9ae3-3ea06804feb0,Fırın Sütlaç,"10,00 TL",Tatlılar,5.0
+07fa13cf-d784-41fd-bd5c-c99270bd89d0,Kazandibi,"10,00 TL",Tatlılar,5.0
+589f62eb-8cf9-43a6-b66d-9b1600a5f8c5,Profiterol,"10,00 TL",Tatlılar,5.0
+df4f29ae-0f7a-4560-8b48-0a8d8cf273f1,Algida Maraş Usulü Cup Dondurma (100 ml.),"9,00 TL",Dondurmalar,5.0
+7ecef68f-7444-4285-a54b-b1614ff95e27,Carte d'Or Premium Çikolata Cup (100 ml.),"9,00 TL",Dondurmalar,5.0
+bb6c3b89-9a0b-488d-a77a-f53e76598ed7,Carte d'Or Premium Kaymak Cup (100 ml.),"8,00 TL",Dondurmalar,5.0
+307cd8dd-52f1-4d53-827c-a65ed23d0eb0,Algida Carte d'Or Mini Cup Çilekli Yoğurtlu (110 ml.),"8,00 TL",Dondurmalar,5.0
+3849D214-9E32-448E-A5C9-01CBC8834113,Algida Carte d'Or Mini Cup Çikolata Karnavalı (110 ml.),"7,00 TL",Dondurmalar,5.0
+86724230-422e-4b8e-906f-f936c4aae8ba,Tavuk (1 kg.) (Pişirilmiş),"55,00 TL",Kiloluk Ürünler (Pişirilmiş),10.0
+a4337333-74ad-437e-b8c9-d7d4a15298ca,Tavuk Kanat (1 kg.) (Pişirilmiş),"50,00 TL",Kiloluk Ürünler (Pişirilmiş),11.0
+f89e4519-b031-404e-a36c-e704a8bddcc6,Kasap Köfte (1 kg.) (Pişirilmiş),"75,00 TL",Kiloluk Ürünler (Pişirilmiş),4.0
+fa75aefb-a557-491e-8667-9a7f40bdce5f,Poşet,"0,25 TL",Poşet,5.0

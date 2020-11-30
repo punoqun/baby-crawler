@@ -1,0 +1,84 @@
+food_id,food_name,food_price,food_category,food_score
+64cc1413-e2b7-4749-b2ed-4649097232f7,Dana Kavurma Menü,"44,00 TL",Menüler,4.0
+8cc34009-8f9f-4ebc-b2c2-007a6b1901ed,Tavuk But Menü,"38,00 TL",Menüler,9.0
+e6407bb1-25a9-4f1b-985d-040aed384808,Kuzu Tandır Menü,"46,00 TL",Menüler,3.0
+f4a67908-e1df-42ce-b9d6-e272137d5e44,Green Balls (6 Adet),"13,00 TL",Cheese & Fishes,5.0
+e72d4528-144c-475e-a892-dc7f39fe0d73,Cheddar Crunchy (5 Adet),"14,00 TL",Cheese & Fishes,6.0
+90e67f72-ba42-4125-a453-35cf39a8d579,Hot Fingers (4 Adet),"12,00 TL",Cheese & Fishes,8.0
+0ef8d9db-aec5-4643-837a-9c19077aedc8,Mussel Crunchy (6 Adet),"14,00 TL",Cheese & Fishes,5.0
+8a26e8c5-20bb-4bc3-8be9-fb8e6443853b,Baby Mussel (12 Adet),"15,00 TL",Cheese & Fishes,9.0
+2cf187ed-ec61-4dd8-8044-5790e92cfca3,Çıtır Karides (6 Adet),"19,00 TL",Cheese & Fishes,4.0
+1425e5bd-4d0e-4fa9-9ebf-4f59163b3f0d,Blue Cheeseburger (100 gr.),"31,90 TL",Medium Burgerler,6.0
+7aa66d76-f61d-4b96-86b3-e3dd23bb537a,Cheeseburger (100 gr.),"29,90 TL",Medium Burgerler,9.0
+8f394896-938e-4f23-8b5c-4ae13595ca70,Çıtır Burger (100 gr.),"30,90 TL",Medium Burgerler,16.0
+b676c5b3-b280-4daa-8989-1b96e99fbb8f,Cowboy's Burger (100 gr.),"32,90 TL",Medium Burgerler,17.0
+5988358d-f59e-4c5f-b3ae-7eced02b7f6f,Hamburger (100 gr.),"28,90 TL",Medium Burgerler,26.0
+0fa8e247-02b9-42f4-a484-9fad1c7d9f9f,Hot Chilli Burger (100 gr.),"31,90 TL",Medium Burgerler,20.0
+b612af77-5cad-491e-bc82-0af7c3cddf63,Indian Burger (100 gr.),"33,90 TL",Medium Burgerler,17.0
+270f4932-24d9-4fd8-9ad5-f6de5e3e1bc9,Mushroom Burger (100 gr.),"31,90 TL",Medium Burgerler,17.0
+ddebb9ef-509f-4a11-b2d8-294a2b6def1a,Onion Burger (100 gr.),"32,90 TL",Medium Burgerler,17.0
+277b4363-c549-4e1c-a54f-0bc171ca1cd5,Ranch Burger (100 gr.),"31,90 TL",Medium Burgerler,19.0
+ad2554a7-5a35-47ec-9a10-34fb2485f4f8,Relish Burger (100 gr.),"31,90 TL",Medium Burgerler,17.0
+97cb5c90-41dd-421d-bb8d-9f7d1706f978,Sheriff Burger (100 gr.),"31,90 TL",Medium Burgerler,17.0
+f2da2e7c-4884-44fc-bcf4-79ce7b2ef26f,Smoke Burger (100 gr.),"33,90 TL",Medium Burgerler,19.0
+5a67db0e-b5f1-447a-a949-e1abc5c8dcbe,Sweet Chili Burger (100 gr.),"31,90 TL",Medium Burgerler,17.0
+8873ac37-58da-4ff5-9ef4-3f81c6597b82,Tommato Burger (100 gr.),"31,90 TL",Medium Burgerler,17.0
+4002471b-2557-4e72-a883-9d15cc5df3d6,Blue Cheeseburger (140 gr.),"34,90 TL",Large Burgerler,6.0
+ea9bbca3-9e15-4c28-a646-98c1d3711812,Cheeseburger (140 gr.),"32,90 TL",Large Burgerler,9.0
+2a3c5d9f-3b63-4c9b-b926-38c85ef0a70b,Cowboy's Burger (140 gr.),"35,90 TL",Large Burgerler,22.0
+253ac6fd-828e-4f13-918c-6e359fb10aa3,Hamburger (140 gr.),"31,90 TL",Large Burgerler,26.0
+f88377ee-ca19-4be7-843d-2517c4ed8590,Hot Chilli Burger (140 gr.),"34,90 TL",Large Burgerler,20.0
+2fd8eee0-dd57-4f70-9a39-75d56fa3809b,Indian Burger (140 gr.),"36,90 TL",Large Burgerler,17.0
+1ea9a13c-4002-4ad0-b813-10d9fcc73172,Mushroom Burger (140 gr.),"34,90 TL",Large Burgerler,17.0
+8896fe83-78bc-41a0-a609-7b31ad71655f,Onion Burger (140 gr.),"35,90 TL",Large Burgerler,17.0
+d7902267-eb78-46fb-b729-a4227c7400bb,Ranch Burger (140 gr.),"34,90 TL",Large Burgerler,19.0
+9b95f9b4-3587-4059-bf3b-0951a7b5c1ca,Relish Burger (140 gr.),"34,90 TL",Large Burgerler,17.0
+d59463de-1bfa-4e3f-b85d-957d52ef4536,Sheriff Burger (140 gr.),"34,90 TL",Large Burgerler,17.0
+98cfb6d0-50bb-4fe8-8fca-b09d0cd42419,Smoke Burger (140 gr.),"36,90 TL",Large Burgerler,19.0
+9e7c4ec4-599a-4fd6-af62-7b9905aab9b2,Tommato Burger (140 gr.),"34,90 TL",Large Burgerler,17.0
+1ef0210f-3b38-4557-99eb-c0be0df88dd9,Mega Burger,"37,90 TL",Special Burgerler,17.0
+ab3f6d0b-d492-4e56-8bd3-2775b48190d6,Buffalo Burger,"34,00 TL",Special Burgerler,17.0
+6c1a013b-e099-4de4-8b31-317db257bc27,Chicken Burger,"27,90 TL",Special Burgerler,18.0
+f018734a-12fd-41dd-a4a5-e1d44dfbb9be,Mega Chicken Burger,"32,90 TL",Special Burgerler,18.0
+e46600a7-c249-456c-b77d-e8e5d86e6ebd,Cash Burger,"43,00 TL",Special Burgerler,17.0
+2a91bf05-db9e-4628-8065-ec1cb8945ff5,Tavuklu Wrap,"28,90 TL",Wraplar,7.0
+db20a229-e1c1-4fe4-a1f1-220c0635ecd1,Köfteli Wrap,"30,90 TL",Wraplar,7.0
+fca8ee09-9843-42cd-9c9c-e51968166c61,Etli Wrap,"31,90 TL",Wraplar,5.0
+f602078c-1a2d-48d9-9eea-fcc5e816d0c2,Chicken Fingers Wrap,"28,90 TL",Wraplar,7.0
+27190b58-dbb7-4090-83a9-13c406db8f36,Smoke Pizza (28 cm.),"33,00 TL",Pizzalar,6.0
+447fd60d-8778-43e3-b88c-1c8804242890,Dört Peynirli Pizza (28 cm),"30,00 TL",Pizzalar,4.0
+8108c2e9-a1a8-4716-b531-35276f57f093,Beef Pizza (28 cm.),"34,00 TL",Pizzalar,4.0
+fb6583ce-7914-4e71-b228-07e2a5fe2799,Margherita Pizza (28 cm),"27,00 TL",Pizzalar,4.0
+2291b234-435a-4a3c-9eca-77384773ebac,Ton Balıklı Pizza (28 cm),"30,00 TL",Pizzalar,4.0
+3c414c02-bb18-4037-841e-073c41777089,Izgara Tavuk Pizza (28 cm),"33,00 TL",Pizzalar,8.0
+4b4895f9-8827-474f-92a8-16ca12204373,Dalton's Pizza (28 cm),"33,00 TL",Pizzalar,4.0
+2f546143-3f08-413e-bb33-88ef07ad6f2f,Red Kit Pizza (28 cm),"33,00 TL",Pizzalar,4.0
+c0cca9c2-6acb-4477-90f1-ef0c9c278e03,Texas Pizza (28 cm),"33,00 TL",Pizzalar,4.0
+7692f312-f6d3-43e4-82d2-e1c2e2dfa760,Mantarlı Tavuklu Makarna,"28,90 TL",Makarnalar,7.0
+c3a871cd-9181-4c14-ae83-2ecfff711710,Mantarlı Bonfileli Makarna,"31,90 TL",Makarnalar,5.0
+860d7241-5644-4f72-b096-30e4d5c5e52d,Tavuk Şinitzel,"32,90 TL",Diğer Lezzetler,9.0
+cb9736da-d659-44cc-899d-6f16f09d87d6,Tavuk Külbastı,"32,90 TL",Diğer Lezzetler,9.0
+0d4da81f-04f0-4047-b7c6-38a0bfdacb30,Lokum Tabağı,"48,00 TL",Diğer Lezzetler,5.0
+6fe06e72-d1f1-481b-9bda-1de323c2641f,Bazlama Ekmeği Arası Dana Bonfile,"34,90 TL",Diğer Lezzetler,4.0
+e6b43677-8eba-4983-b77f-458234d9e75a,Bazlama Ekmeği Arası Tavuk Bonfile,"31,90 TL",Diğer Lezzetler,9.0
+1deb2775-a053-45d9-80ae-ccf385ed14b8,Patates Kızartması,"13,00 TL",Yan Ürünler,27.0
+c6a834b4-32c8-406a-82dc-69681cc745e4,Cheddar Peynirli Patates Kızartması,"16,00 TL",Yan Ürünler,28.0
+a1365121-76e9-402b-8339-000cad636993,Soğan Halkası (8 Adet),"16,00 TL",Yan Ürünler,5.0
+9e6caeb6-36c0-4746-aec3-bd313430a00c,Chicken Fingers (6 Adet),"17,00 TL",Yan Ürünler,7.0
+e5c2acbd-b5ff-434e-8da8-814f3a75e913,Cowboy's Mix,"19,00 TL",Yan Ürünler,5.0
+2c022928-3918-427b-a9db-1e891369efa3,Karışık Sebze Salata,"18,00 TL",Salatalar,5.0
+c2523a88-c148-4ec1-b905-a06d2b8a3892,Hellim Peynirli Salata,"25,00 TL",Salatalar,5.0
+d5e001f8-44ec-4405-b8f3-5f24090399da,Ton Balıklı Salata,"27,00 TL",Salatalar,5.0
+2ae1c136-8129-41ba-b2d8-cca1e8370163,Çıtır Tavuklu Salata,"27,00 TL",Salatalar,6.0
+7d16cfa6-7632-487c-85b4-f50dfe93fd1c,Rodeo Salata,"30,00 TL",Salatalar,5.0
+a607e677-7396-4b51-affb-ccdeb7002f1e,Izgara Tavuk Salata,"27,00 TL",Salatalar,9.0
+42dd4ea8-e6f8-40b2-a962-fcdb470ce4a4,Mozaik Pastalı Baby Joe,"13,00 TL",Tatlılar,9.0
+5a9b607c-f90d-470a-a308-ea9f8fff4922,Muzlu Baby Joe,"13,00 TL",Tatlılar,9.0
+c30f9286-af50-4093-ae4f-a368883d01bc,Oreolu Baby Joe,"13,00 TL",Tatlılar,9.0
+C76AF85E-92B4-4015-9CFD-6443D3302A6C,Chocalate Coco (5 Adet),"14,00 TL",Tatlılar,5.0
+4ac65ea2-42de-47c2-a9f1-84a17ba897ce,Algida Maraş Usulü Cup Dondurma (100 ml.),"6,00 TL",Dondurmalar,5.0
+7e7d3274-d42a-452d-a8c4-be10de37c9b5,Carte d'Or Monoportion Çilek Yoğurt (105 ml.),"6,00 TL",Dondurmalar,5.0
+b1a44e40-2cd4-41f8-b0be-950e98ca04d0,Carte d'Or Monoportion Çikolata Karnavalı (105 ml.),"6,00 TL",Dondurmalar,5.0
+715cd9c9-226e-438d-8ef3-16499d9b9eaa,Magnum Classic Cup (100 ml.),"13,00 TL",Dondurmalar,5.0
+0b2984c7-7e62-4ec3-a667-e92f22051dc7,Algida Maraş Usulü Dondurmalı Supangle,"13,00 TL",Dondurmalar,5.0
+1937eb82-4a66-498d-b341-38489b9e973f,Poşet,"0,25 TL",Poşet,5.0

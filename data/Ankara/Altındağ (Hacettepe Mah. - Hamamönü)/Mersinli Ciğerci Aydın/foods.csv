@@ -1,0 +1,31 @@
+food_id,food_name,food_price,food_category,food_score
+0f20f12d-43d8-4501-a862-8c19b51bfd74,Yoğurtlu Kebap,"38,00 TL",Kebaplar,7.0
+1653da99-345e-4aff-b81e-234bb41bf001,Alinazik Kebap (Adana Kebaptan),"36,00 TL",Kebaplar,6.0
+2083f063-ebbd-4c71-8f46-e41fc34713a0,Adana Kebap,"35,00 TL",Kebaplar,10.0
+3fad3c07-0a10-4551-9dc0-ea3f5a5ed573,Patlıcanlı Kebap,"37,00 TL",Kebaplar,7.0
+91c25138-2b9a-4f39-900e-078b0d508475,Urfa Kebap,"35,00 TL",Kebaplar,7.0
+a0d4fd21-a513-493e-96e4-010489fc2824,Karışık Kebap,"80,00 TL",Kebaplar,7.0
+a7848a8c-0afd-42f6-8c54-2ffc8a9d67bb,Beyti Kebap,"36,00 TL",Kebaplar,7.0
+decf2075-9964-413b-a9b2-0b00517c1c4e,Domatesli Kebap,"35,00 TL",Kebaplar,7.0
+7241f869-62f4-4a3f-9093-14e7e91256ed,Dana Et Şiş,"39,00 TL",Izgaralar,4.0
+f875bb74-e62d-4f77-bc1c-8c51f4ce406d,Kuzu Ciğer Şiş,"39,00 TL",Izgaralar,9.0
+15189383-ea62-4a5b-baea-50135ab73456,Tavuk Çöp Şiş,"30,00 TL",Izgaralar,6.0
+b16e7961-1554-4b25-b619-5a498d4315ce,Tavuk Kanat,"30,00 TL",Izgaralar,6.0
+8555b5c3-88e1-4c99-8a48-6bf9d58f211b,Tavuk Külbastı,"33,00 TL",Izgaralar,6.0
+27776376-61f3-400f-b30e-5697738e0ee8,Tavuk Pirzola,"33,00 TL",Izgaralar,6.0
+115ef033-1d46-4337-af1e-59d2351fb510,Tavuk Şiş,"30,00 TL",Izgaralar,6.0
+cfc239ef-9bec-4dd8-b066-b38fad4da93a,Spesiyal Şiş,"39,00 TL",Izgaralar,5.0
+76e60d40-cea3-4fe4-98e3-67ce31c3aaf1,Kaşarlı Pide (Açık),"29,00 TL",Pideler,5.0
+a97b2dda-0fb5-4cdc-9a43-7fbb8c931a1e,Kıymalı Pide (Açık),"25,00 TL",Pideler,4.0
+0a5f82ac-fe26-4333-884d-b9861b2a19fc,Kıymalı Kaşarlı Pide (Açık),"26,00 TL",Pideler,4.0
+35794bc7-0092-4bf1-96ee-8b96d5fcfd62,Kıymalı Pide (Kapalı),"26,00 TL",Pideler,4.0
+80d32eb4-0759-4af2-a724-8ea1e1194c3f,Kuşbaşılı Pide (Açık),"33,00 TL",Pideler,5.0
+aae68bbd-071d-4c88-97b8-c51a473a2e70,Kuşbaşılı Kaşarlı Pide (Açık),"34,00 TL",Pideler,5.0
+8904714c-661a-42bd-8ef4-94afd0415880,Karışık Pide (Açık),"34,00 TL",Pideler,5.0
+8d5fdc49-f1ce-4078-9507-a771bea1a552,Adana Dürüm,"20,00 TL",Dürümler,13.0
+9b288bd4-2997-4022-a8b4-7878584fd356,Urfa Dürüm,"20,00 TL",Dürümler,5.0
+a197f568-35c2-489c-9fdf-f0085e0323e1,Tavuk Şiş Dürüm,"15,00 TL",Dürümler,6.0
+79949b1d-1d58-4d2d-931c-2bb722d87070,Ciğer Dürüm,"20,00 TL",Dürümler,14.0
+709cb505-bb68-4c26-ba6f-2fba7c84ca27,Dana Et Şiş Dürüm,"20,00 TL",Dürümler,9.0
+8a7b5c4d-013a-4dae-acbb-a1aed62cd3e3,Katmer,"15,00 TL",Tatlılar,5.0
+5c326817-04cd-4579-970c-4da39606771f,Poşet,"0,25 TL",Poşet,6.0

@@ -1,0 +1,115 @@
+food_id,food_name,food_price,food_category,food_score
+01554966-50b8-4a8c-bf1a-9cb3ce5b0b7a,Menü 1,"17,00 TL",Menüler,27.0
+d388863b-f86c-4bcb-80fa-1e3ff777476f,Menü 2,"32,00 TL",Menüler,1.0
+2bbce80e-2d64-4c28-8417-a68583dc5019,Menü 3,"34,00 TL",Menüler,-2.0
+2530f1f2-fd4c-428d-8a10-f01afd8271a7,Menü 6,"38,00 TL",Menüler,-1.0
+d2b5c2dd-4b63-46de-9062-0153f220f166,Menü 7,"38,00 TL",Menüler,6.0
+1a962888-89ee-46ae-89be-9a24cc91f8e2,Menü 8,"40,00 TL",Menüler,2.0
+eb66bd2b-5a1d-4e27-b3d4-f459bbe3bd75,Menü 9,"34,00 TL",Menüler,2.0
+7cad080e-139e-477f-973c-9f87104a0493,Menü 11,"38,00 TL",Menüler,2.0
+f90fb457-ba11-4d87-96d2-77f262144536,Menü 12,"38,00 TL",Menüler,1.0
+dba06a8f-9fc4-4389-8fda-1f4c42bae0bb,Menü 13,"40,00 TL",Menüler,2.0
+8a9192bf-680f-4778-af31-ba1a4b48ef50,Menü 14,"42,00 TL",Menüler,2.0
+03cb33c8-f1ea-4d67-82ee-cc6c77ad9fc8,Öğrenci Menüsü,"32,00 TL",Menüler,5.0
+d5e5c16b-2659-40fe-8f93-ec673cda4cb0,Çifte Kumru Menü 1,"79,00 TL",Menüler,39.0
+9cd048a8-aead-447e-aea4-ffee5c33a399,Çifte Kumru Menü 2,"75,00 TL",Menüler,13.0
+a5cb6e79-a360-419b-809c-1c96e49cd9ff,Eli Bol Gönlü Bol Menü,"110,00 TL",Menüler,6.0
+92d688e8-9d76-43f4-b72e-55683b332e1c,Kumru Burger Menü,"39,00 TL",Menüler,16.0
+507af1aa-bbf3-4552-b06d-16e901e2fd4b,Yengen Kumru Sandviç Menü,"179,00 TL",Menüler,14.0
+d027d3b0-db39-44aa-9163-2f7dda9cccb5,Ten Ten Menü,"399,00 TL",Menüler,2.0
+fcd080bb-7cd6-4681-ba6e-3f84fbef3c37,Kahvaltı Tabağı 1,"26,00 TL",Kahvaltılıklar,26.0
+c0cfd480-21e4-4410-8eae-14c054111294,Kahvaltı Tabağı 2,"36,00 TL",Kahvaltılıklar,0.0
+3AE262A9-FEC8-447F-BB42-E214062E5FB7,Kahvaltı Tabağı 3,"54,00 TL",Kahvaltılıklar,-3.0
+9E1D6892-D985-497B-B527-65AF92AF2670,Kahvaltı Tabağı Large,"39,00 TL",Kahvaltılıklar,2.0
+4662501B-E67F-45B0-A22A-941A1625BA98,Mini Kahvaltı Tabağı,"28,00 TL",Kahvaltılıklar,2.0
+E7FEC821-C648-4F54-8897-5574EF919B83,Midi Kahvaltı,"20,00 TL",Kahvaltılıklar,3.0
+264fe68a-5328-445d-b788-3d3a99661df1,Sahanda Sucuklu Yumurta,"16,00 TL",Kahvaltılıklar,5.0
+af07ca62-8f06-43dc-9f94-26a18b549e4e,Sahanda Yumurta,"12,00 TL",Kahvaltılıklar,5.0
+582fd1bb-0fa2-45e7-94ba-70554a019a2c,Reçel,"4,00 TL",Kahvaltılıklar,5.0
+407b6397-4d31-4b89-8e5f-63940e01e284,Yumurta,"4,00 TL",Kahvaltılıklar,5.0
+239B0FD5-C42E-45E7-AE6D-A68243133D05,Tereyağı,"4,00 TL",Kahvaltılıklar,3.0
+dbcb2e52-3629-4749-9835-7bf1fcb9630c,Bal,"4,00 TL",Kahvaltılıklar,5.0
+74937519-9973-4d0d-9f9b-a4081a18ef2b,Ayvalık Ekmeğine Sucuklu Tost,"20,00 TL",Tostlar,9.0
+aff8a399-8cf3-4c62-91e2-bdb291490a06,Special BÇK Karışık Tost,"20,00 TL",Tostlar,6.0
+7ebe5574-0cf2-4e51-b609-84808701dc51,Ayvalık Ekmeğine Salamlı Kaşarlı Tost,"19,00 TL",Tostlar,9.0
+35d5f5d2-39da-48ab-b4b7-f9e52da4123c,Ayvalık Ekmeğine Kaşarlı Tost,"16,00 TL",Tostlar,9.0
+02d8caf7-1c83-431b-ae6c-3e4ac44d1988,Cheddar Peynirli Tost,"14,00 TL",Tostlar,6.0
+4d274194-e884-4124-a011-424cd7cd9291,Çikolatalı Tost,"12,00 TL",Tostlar,6.0
+2e54f602-0e00-43cf-a3c1-7e83c054e19a,Kaşarlı Tost,"12,00 TL",Tostlar,6.0
+bf172a32-2bcc-46f1-8de5-69e9fe308a43,Çift Kaşarlı Tost,"14,00 TL",Tostlar,6.0
+5f28ef4e-6d58-4a9d-addf-124e70d49b9c,Beyaz Peynirli Tost,"12,00 TL",Tostlar,6.0
+f39c52d2-4733-4e43-af30-9aa33cc9f505,Karışık Tost,"14,00 TL",Tostlar,6.0
+76136877-c25c-4053-a253-b242e23ed085,BÇK Karışık Tost,"20,00 TL",Tostlar,6.0
+258055de-21e7-4f29-a48a-5f30ad6cbe1e,BÇK Özel Tost,"12,00 TL",Tostlar,8.0
+fe438468-f68e-4815-aaf1-3744858068b8,Baget Ekmek Arası Beyaz Peynirli Sandviç,"15,00 TL",Sandviçler,3.0
+2c7d39eb-646d-4a33-914d-fbc8d6f484aa,Kumru Burger,"22,00 TL",Sandviçler,19.0
+1c4c711e-8734-4821-97ae-db4155a1e5ce,Cheddarlı Yengen Kumru Sandviç,"25,00 TL",Sandviçler,17.0
+1dbbdaec-3143-40df-a9f8-1a9384e73e72,Cheddarlı Çılgın Kumru Sandviç,"27,00 TL",Sandviçler,17.0
+f3af1367-792a-4e61-91d7-2d7d4fcfc3ae,Cheddarlı Psikopat Kumru Sandviç,"29,00 TL",Sandviçler,26.0
+84347b10-d0ba-47fb-98b2-e58881f6e5cf,Veggie Kumru Sandviç,"20,00 TL",Sandviçler,17.0
+DA8CCA0C-7897-4022-A622-743176322009,Deli Dolu Kumru,"30,00 TL",Sandviçler,19.0
+379517DE-5A11-4678-9860-CE75FA0AAFEC,Cayır Cayır Kumru,"25,00 TL",Sandviçler,17.0
+45D76354-C21E-4F90-AE44-CBE5D5F078CB,İzmir Usulü Soğuk Kumru,"13,00 TL",Sandviçler,27.0
+F7FADD4D-3F70-4589-AD23-A51187832FBB,Sayaslı İzmir Usulü Soğuk Kumru,"11,00 TL",Sandviçler,27.0
+8DE9FD5E-6516-409D-B5B4-421230569AA6,Salamlı İzmir Usulü Soğuk Kumru,"16,00 TL",Sandviçler,27.0
+38C21498-D866-4C0D-ADB8-AFB1CE9E2B90,"Sayaslı, Tulumlu İzmir Usulü Soğuk Kumru","15,00 TL",Sandviçler,27.0
+d06e84de-328e-4c89-8215-aaca0fb521a6,Baget Ekmek Arası Sandviç,"15,00 TL",Sandviçler,3.0
+c12b0e1a-ca75-41cc-89c8-c35958166a0b,Baget Ekmek Arası Sayas Peynirli Sandviç,"15,00 TL",Sandviçler,7.0
+90d9952f-37ce-4205-9185-102d1d43fc6d,Beyaz Ekmek Arası Sandviç,"15,00 TL",Sandviçler,4.0
+90f696f3-7d03-4860-a993-e0bc271bf1e2,Çeşme Kumru Sandviç 1,"24,00 TL",Sandviçler,42.0
+f97cf95e-f1fa-4a17-95af-d746d52eb205,Çeşme Kumru Sandviç 2,"24,00 TL",Sandviçler,16.0
+79126749-5662-49e9-8685-6d2b7dcf692d,Çeşme Kumru Sandviç 3,"24,00 TL",Sandviçler,13.0
+8186893b-4bc3-41e3-8c0d-dea87d0908f0,Kara Fırın Ekmeği Arası Beyaz Peynirli Sandviç 1,"15,00 TL",Sandviçler,28.0
+05f7093a-ec32-460d-8fd2-f4037d4aee95,Kara Fırın Ekmeği Arası Beyaz Peynirli Sandviç 2,"15,00 TL",Sandviçler,2.0
+0e87e58b-19c7-4002-aa44-c884d3375f04,Kara Fırın Ekmeği Arası Sayas Peynirli Sandviç 1,"15,00 TL",Sandviçler,32.0
+17b0fc9f-ea78-4d87-a570-7851b2407e6a,Kara Fırın Ekmeği Arası Sayas Peynirli Sandviç 2,"15,00 TL",Sandviçler,6.0
+8d0ac4c4-476a-4d53-bf8b-02ac7f250048,Kömürde Karışık Sandviç,"20,00 TL",Sandviçler,5.0
+38f32ff0-14f3-41ce-9144-5e437029af22,Psikopat Kumru Sandviç,"28,00 TL",Sandviçler,21.0
+64bff8ee-6758-4b95-9102-e0c2462b6af5,Salamlı Sandviç,"15,00 TL",Sandviçler,5.0
+7faf834c-c72b-417d-a10d-b55f700dd8dd,Sayas Peynirli Çeşme Çılgın Kumru Sandviç,"26,00 TL",Sandviçler,23.0
+8e2d4976-8096-4077-9d35-a13a9657297c,Sayas Peynirli Çeşme Kumru Sandviç 1,"24,00 TL",Sandviçler,46.0
+cfc04ab8-e11d-4c8f-a37f-463e0e44a28c,Sayas Peynirli Çeşme Kumru Sandviç 2,"24,00 TL",Sandviçler,20.0
+797c4997-ada5-407e-86e7-e16b6d154965,Sayas Peynirli Çeşme Kumru Sandviç 3,"24,00 TL",Sandviçler,17.0
+4f44c541-3059-491d-8b9b-45521ea49bbd,Sayas Peynirli Çeşme Psikopat Sandviç,"28,00 TL",Sandviçler,15.0
+57c40bee-771d-4593-bfa6-9d65371c8690,Sayas Peynirli Çeşme Yengen Kumru Sandviç,"24,00 TL",Sandviçler,23.0
+612a4614-10da-458c-9b8e-7dabcd43d33e,Şefin Özel Kumrusu,"30,00 TL",Sandviçler,11.0
+a0f96ccf-450b-4eec-981a-1db17ae231b2,Soğuk Sandviç 1,"15,00 TL",Sandviçler,29.0
+2e2e1924-ec74-43ef-a8cb-e9a9d6fecb00,Soğuk Sandviç 2,"15,00 TL",Sandviçler,3.0
+68c4b005-bb92-45c7-9512-99a3ea924105,Ton Balıklı Sandviç,"18,00 TL",Sandviçler,4.0
+e8531943-a731-4f0b-8cb2-9f203f754439,Yengen Kumru Sandviç,"24,00 TL",Sandviçler,17.0
+39ee6533-9430-4b1c-a744-ce20a05fbb59,Patso Sandviç,"13,00 TL",Patsolar,5.0
+2807094d-170c-4ca1-b418-bfe41ee8cfac,Sosisli Patso Sandviç,"15,00 TL",Patsolar,5.0
+2f14f4ef-dbb6-4572-963e-dbb4e809de9a,Et Döner,"23,00 TL",Et Dönerler,5.0
+b61ab28e-d03a-4274-8db9-8a83e5946b7b,Izgara Köfte,"31,00 TL",Izgaralar,5.0
+7b690594-7d79-41b3-9cb7-6fe154f83451,Tavuk Şiş,"15,00 TL",Izgaralar,5.0
+5271593c-8e1c-4237-b228-d50bc9a40e27,Tavuk Kanat,"16,00 TL",Izgaralar,5.0
+C9D90C1E-A454-4D45-91A9-B6C2BCC27A68,Anne Mantısı,"24,00 TL",Diğer Lezzetler,5.0
+0d8ba5b2-9294-4da9-b710-063ebb513d90,Yarım Ekmek Arası Izgara Köfte,"20,00 TL",Ekmek Arası Ürünler,2.0
+730bd63c-87f7-47d8-ba87-9cfe708306e4,Yarım Ekmek Arası Izgara Köfte (80 gr.),"18,00 TL",Ekmek Arası Ürünler,2.0
+6aa6e775-b533-4d42-ae2f-48d31fcf71e1,Yarım Ekmek Arası Izgara Köfte (90 gr.),"20,00 TL",Ekmek Arası Ürünler,2.0
+64258966-1cbf-443d-b123-06005aa27a9a,Yarım Ekmek Arası Izgara Sucuk,"20,00 TL",Ekmek Arası Ürünler,2.0
+b3e4096c-08e5-46ff-b13c-b6978b85c3f9,Tavuk Şiş Dürüm,"10,00 TL",Dürümler,5.0
+ddecdc4c-0531-4f43-9ff7-b01bb4da8bcc,Karışık Dürüm,"20,00 TL",Dürümler,5.0
+cf42ff47-280f-4ff9-bede-480a512f48a5,Patates Kızartması (Orta),"11,00 TL",Yan Ürünler,2.0
+0b05fc18-7a29-49a9-a26b-4948f319b85a,Patates Kızartması (Küçük),"9,00 TL",Yan Ürünler,2.0
+a9801d76-69a0-4ff2-adfa-9d8d69b81414,Anne Patatesi,"13,00 TL",Yan Ürünler,5.0
+990a17d7-de49-40dd-8802-7b5d3362250a,Çoban Salata,"15,00 TL",Salatalar,5.0
+0ea43595-49d2-444b-b867-69ffa094cade,Yeşil Salata,"15,00 TL",Salatalar,5.0
+482a37f8-8b5c-4a36-87cb-0715df6b7ccd,Ton Balıklı Salata,"25,00 TL",Salatalar,4.0
+ae9d20e2-8394-490b-9e17-f8431b69a3bb,Kazandibi,"12,00 TL",Tatlılar,5.0
+8d21376d-1f50-4aa9-9d31-190413c99cc5,Fırın Sütlaç,"14,00 TL",Tatlılar,3.0
+80b0f017-e959-44e9-9f06-749c60155eb0,Profiterol,"12,00 TL",Tatlılar,5.0
+e8284e15-fda1-4855-af33-eabc32587fe1,Mini Ekler (Adet),"3,00 TL",Tatlılar,5.0
+979efad7-bcbc-41ac-932b-5c06196385da,Trileçe,"12,00 TL",Tatlılar,5.0
+033F786B-41FD-4FD0-9C0C-82EE8753082B,Alman Pastası,"3,00 TL",Tatlılar,5.0
+4d36d127-70a6-48d1-8369-ad79ee0daccc,Pepsi Twist (33 cl.),"6,00 TL",İçecekler,5.0
+e468a40f-b7b2-45d9-a726-039be2750145,Yedigün (20 cl.),"5,00 TL",İçecekler,5.0
+e594d2c3-b94a-4c68-9622-91d1dcce2482,Tropicana Şeftali (33 cl.),"6,00 TL",İçecekler,5.0
+a219f238-5ba6-4333-85d7-08576b00fe5c,Limonata (33 cl.),"6,00 TL",İçecekler,5.0
+160290b9-f00b-45dd-afc9-9f7e383c04d1,Niğde Gazozu (25 cl.),"5,00 TL",İçecekler,5.0
+0c0f59ef-b411-4abd-bd3c-af799b060715,Limonlu Soda,"4,00 TL",İçecekler,5.0
+e88a7bc8-1809-4c8f-9059-e1fc8d070dfd,Su,"2,00 TL",İçecekler,7.0
+9c760017-d5f5-4f74-8823-86a8080c16f1,Taze Sıkma Portakal Suyu,"14,00 TL",İçecekler,5.0
+1B6B4088-B977-41DC-895A-56E498B11615,Ketçap (9 gr.),"1,00 TL",Soslar,5.0
+56F7168B-38C6-4E64-8F8A-1A2ACCE5B050,Mayonez (15 gr.),"1,00 TL",Soslar,5.0
+81b0413a-14a1-499d-8a63-f55e8a34c513,Poşet,"0,25 TL",Poşet,5.0

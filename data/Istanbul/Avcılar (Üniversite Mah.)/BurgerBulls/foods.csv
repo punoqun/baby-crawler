@@ -1,0 +1,34 @@
+food_id,food_name,food_price,food_category,food_score
+DFDDD56E-04DA-44DF-AA09-CD709E1B6D8E,Yiğido Burger Menü,"46,50 TL",Ekonomik Menüler,16.0
+df7b7765-a8ab-4c84-b17c-247a953b7351,BBQ Burger,"24,90 TL",Kırmızı Etli Burgerler,16.0
+d27b0292-3552-4190-a1fa-f0dc95e2d8be,Steak Burger,"32,90 TL",Kırmızı Etli Burgerler,16.0
+ce4490ec-3058-457a-a479-48111f116c53,İtalyan Burger,"24,90 TL",Kırmızı Etli Burgerler,18.0
+5ac854d8-a0bc-4059-8e29-bcf2dcda8682,Mushroom Burger,"26,90 TL",Kırmızı Etli Burgerler,16.0
+5d2032a4-0b3d-41a3-8446-93666a75cfb3,Lokum Burger,"34,90 TL",Kırmızı Etli Burgerler,16.0
+12e1c4dc-585b-48d2-a70c-50f18447a5f3,Funghi Burger,"25,90 TL",Kırmızı Etli Burgerler,16.0
+904a5541-e4a0-4b60-a9cd-55af01166352,Demi Glace Burger,"24,90 TL",Kırmızı Etli Burgerler,16.0
+1745965c-8da3-4980-94c0-12c1e34eed65,Café de Paris Burger,"28,90 TL",Kırmızı Etli Burgerler,77.0
+f346eaab-d514-4f7c-b96b-ec6b92b4f27f,Olive Burger,"24,90 TL",Kırmızı Etli Burgerler,16.0
+65bbe362-3f4c-48e6-bfc3-3213ae425ee5,Hellim Burger,"24,90 TL",Kırmızı Etli Burgerler,18.0
+5880f8ec-ce5a-49c9-9976-277a207fa705,Blue Cheese Burger,"26,90 TL",Kırmızı Etli Burgerler,16.0
+72db0c1c-4914-4b50-ae3a-9f8869d70671,İndian Burger,"24,90 TL",Kırmızı Etli Burgerler,16.0
+415ee0a3-6e3b-4206-a1cb-6dd5f601466b,Greyjoy Burger,"26,90 TL",Kırmızı Etli Burgerler,16.0
+796027fb-2f74-4968-a6e4-c06730377fe0,BBQ Chicken Burger,"21,90 TL",Tavuklu Burgerler,16.0
+00b4f866-b73a-479e-887a-ccf114f56ae6,Chicken Mexican Burger,"22,90 TL",Tavuklu Burgerler,16.0
+33c837ad-2792-439a-9812-240e41839ed9,Chicken Mushroom Burger,"22,90 TL",Tavuklu Burgerler,16.0
+f73da05c-ca1c-4000-acb3-48422b8d20fe,Junior Cheeseburger,"20,90 TL",Çocuk Burgerler,5.0
+0368b310-6b2f-4b9b-875d-b6c3dbfa9915,Junior Chicken Burger,"15,90 TL",Çocuk Burgerler,16.0
+4a075fa9-f48f-4017-bae5-935ea1749464,Junior Chicken Cheese Burger,"17,90 TL",Çocuk Burgerler,16.0
+cf056b83-3bc6-4bba-b760-2606650787f7,Junior Hamburger,"18,90 TL",Çocuk Burgerler,11.0
+c28b34ce-a495-4445-8aa9-4f27ecc664d6,Patates Kızartması,"10,00 TL",Yan Ürünler,10.0
+277f9542-5cbf-4efd-8960-970c4bf30f9d,Parmesan Soslu Patates Kızartması,"13,00 TL",Yan Ürünler,11.0
+7c49c52f-6e3f-4601-aa49-3df40578afc7,Soğan Halkası,"10,00 TL",Yan Ürünler,2.0
+13b97ee2-cbf8-4aff-a733-c6ac08ddeef2,Cheese Whiz Soslu Patates Kızartması,"13,00 TL",Yan Ürünler,10.0
+7f8d3fc8-d599-4df0-952d-c1f214491b10,Tavuk Nugget,"10,00 TL",Yan Ürünler,8.0
+07e22b72-eed4-4779-a4eb-f8eb9266d201,Algida Maraş Usulü Cup Dondurma (100 ml.),"6,00 TL",Dondurmalar,5.0
+561ebb70-1891-43d6-8f1f-6ae310d39f9d,Carte d'Or Monoportion Çikolata Karnavalı (105 ml.),"7,00 TL",Dondurmalar,5.0
+8196ff1e-26eb-4fe8-bcb4-a700c2945010,Algida FS Cup Premium Çikolata (100 ml.),"7,00 TL",Dondurmalar,5.0
+a83daa9e-2fec-495c-8374-55a4dc749b63,Algida Maraş Usulü Supangle (150 ml.),"14,00 TL",Dondurmalar,5.0
+37949df4-9da7-4537-86c1-ffb8806136b5,Sufle,"14,90 TL",Tatlılar,5.0
+F835941E-A080-4A8F-B4D5-422567CF00C4,Limonata,"7,00 TL",İçecekler,5.0
+a5e49d98-a6db-430c-aa05-4ec36db0c37c,Poşet,"0,25 TL",Poşet,5.0

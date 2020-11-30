@@ -1,0 +1,65 @@
+food_id,food_name,food_price,food_category,food_score
+85276fb6-1f80-4106-8ce4-d477ae85d950,NY Blue Burger Menü,"29,06 TL",Et Burger Menüleri,3.0
+adce3a68-a559-4b00-a9a1-cb02329d2a4f,Kids Burger Menü,"21,56 TL",Et Burger Menüleri,3.0
+535d68cc-a75d-4366-bf91-614adcb96f58,3'lü Mini Burger Menü,"30,94 TL",Et Burger Menüleri,3.0
+59a055d5-a951-458d-a805-359df1a4afcf,Smoke Cheese Bacon Burger Menü,"30,56 TL",Et Burger Menüleri,3.0
+0b6c8b1b-d659-4ecc-a95f-9ec1e40f33a2,Mexican Fire Burger Menü,"27,56 TL",Et Burger Menüleri,3.0
+0c9a6bef-6c3d-4538-81f6-63389a4b1911,NY Lokum Burger Menü,"41,81 TL",Et Burger Menüleri,3.0
+5009f729-4e8f-4b0b-91e3-0bdaa16efa7d,Café de Paris Burger Menü,"27,56 TL",Et Burger Menüleri,48.0
+27b03dc3-bc4a-4d33-b5d1-e265f0d07217,Little Big Burger Menü,"30,56 TL",Et Burger Menüleri,3.0
+da369a30-cf51-4d1f-8c90-503f882b166e,NY Bonfile Burger Menü,"33,94 TL",Et Burger Menüleri,3.0
+c80a80c3-b074-4ae9-b914-73dc4936bb7e,Kayseri Burger Menü,"30,56 TL",Et Burger Menüleri,3.0
+ff22dbd4-8a02-4175-9262-6a153d3e5ff8,NY Mushroom Cheeseburger Menü,"28,31 TL",Et Burger Menüleri,5.0
+9B310AAA-D858-4DC5-9261-1F9716483EC0,Aile Boyu Classic Burger Menü,"56,81 TL",Et Burger Menüleri,3.0
+6C4B992E-03ED-43A4-8B41-0D0E8AACED7C,Kanka Totem Menüsü,"50,06 TL",Et Burger Menüleri,5.0
+72603BF7-A9F1-4363-A964-6E2D1F947E61,Aile Boyu Acılı Menü,"66,56 TL",Et Burger Menüleri,5.0
+27468CAB-BDEA-46FB-B032-2504C6A0A552,İş Arkadaşı Menüsü,"64,31 TL",Et Burger Menüleri,5.0
+f09fbd74-08f8-4ca7-ad6a-3f8f8ec5bf63,Chicken Burger Menü,"20,81 TL",Tavuk Burger Menüleri,3.0
+c2ed4999-c779-4723-b63e-3e24d8eb0fa6,Chicken Cheeseburger Menü,"21,56 TL",Tavuk Burger Menüleri,5.0
+f525a8eb-e836-4f55-b781-4e3a7d46079d,Chicken Mushroom Cheeseburger Menü,"21,56 TL",Tavuk Burger Menüleri,5.0
+48df3ff8-fc06-4ea7-addd-f26c48aea6c3,Chicken Mexican Fire Burger Menü,"21,56 TL",Tavuk Burger Menüleri,3.0
+653b060e-795b-4bcc-ac48-f6681396c6d9,Chicken BBQ Burger Menü,"25,31 TL",Tavuk Burger Menüleri,3.0
+03a790ab-ad1a-4062-b298-b551ef983141,NY Chicken Lokum Burger Menü,"30,00 TL",Tavuk Burger Menüleri,3.0
+0a528976-399d-4c34-9d7a-f47d76a6c1b9,3'lü Mini Chicken Burger Menü,"24,56 TL",Tavuk Burger Menüleri,3.0
+3ff02565-92cc-4669-a480-91c48bccac9e,NY Hot Dog Menü,"20,06 TL",Hot Dog Menüleri,5.0
+6d4604cd-422f-4ebc-95e0-6359830df3ba,Cheese Hot Dog Menü,"21,56 TL",Hot Dog Menüleri,5.0
+c3c79689-f85f-4652-81ab-20ea30bf62d1,BBQ Hot Dog Menü,"21,56 TL",Hot Dog Menüleri,5.0
+f7bf1967-6c42-4dd2-8982-e1f301075785,Bacon Hot Dog Menü,"23,06 TL",Hot Dog Menüleri,5.0
+0a1eef05-efda-435d-9600-e264337c5801,Classic Burger,"18,56 TL",Et Burgerler,3.0
+200b6b58-b1eb-4ba1-b015-4ffba54cef41,Cheeseburger,"18,56 TL",Et Burgerler,5.0
+2115cfda-1985-4cdf-b2bc-bf43e449d720,Café de Paris Burger,"19,31 TL",Et Burgerler,48.0
+2f6a69df-cc6a-4db5-87a8-76ad20338d45,BBQ New York Burger,"19,31 TL",Et Burgerler,2.0
+4825e153-f6f1-42a5-8b72-5fbeca8482e6,Mexican Fire Burger,"19,31 TL",Et Burgerler,3.0
+515f07f9-8ce2-47be-a211-1279c8bdece3,NY Mushroom Cheeseburger,"19,31 TL",Et Burgerler,5.0
+65f52bf2-dbcf-460d-a6ce-fe992e8a574b,NY Blue Burger,"21,56 TL",Et Burgerler,3.0
+7a12ae66-df27-4696-950e-8ec5228b9002,Smoke Cheese Bacon Burger,"24,56 TL",Et Burgerler,3.0
+7a8b4574-8723-4b3b-b069-3b43f185aab2,Kayseri Burger,"24,56 TL",Et Burgerler,3.0
+a44aa36a-0d9d-4f71-8eb9-2e7bfa238825,Little Big Burger,"20,06 TL",Et Burgerler,3.0
+a94af7fb-6f9f-4b6f-9f9c-1f03a9e0e6a8,NY Bonfile Burger,"25,55 TL",Et Burgerler,3.0
+ad8f9b7d-9f1c-4ed8-aaee-68d60b90c57f,Protein Burger,"19,31 TL",Et Burgerler,3.0
+c67bb36c-0c41-4579-a9d9-66012902b439,NY Lokum Burger,"37,31 TL",Et Burgerler,3.0
+ffd57053-4eb3-4202-9bae-9961a304682c,Mini Burger,"12,19 TL",Et Burgerler,3.0
+e4855db5-589e-4ad0-a7df-f59becbc87e6,Chicken Burger,"15,56 TL",Tavuk Burgerler,3.0
+ebac6fa1-a30e-4756-b369-bf427bc7002b,Chicken Cheeseburger,"17,81 TL",Tavuk Burgerler,5.0
+a7c676dd-15d3-4a4f-853d-8f182d5ad07f,Chicken Mushroom Cheeseburger,"17,81 TL",Tavuk Burgerler,5.0
+5d1fa893-8ecf-45c9-82a8-4d30cc332987,Chicken Mexican Fire Burger,"17,81 TL",Tavuk Burgerler,3.0
+2771f2dc-e9e9-4172-9f28-974c626bcdfa,Chicken BBQ Burger,"17,06 TL",Tavuk Burgerler,3.0
+1b74ac33-f8b4-40dc-be1c-b745e63e34ad,NY Chicken Lokum Burger,"25,31 TL",Tavuk Burgerler,3.0
+23114a3f-f1bd-445d-aefc-fe47a13300d4,Cheese Hot Dog,"20,63 TL",Hot Dog,5.0
+353e1493-bcd4-4cf0-a744-4be7d6e2f6d8,BBQ Hot Dog,"20,63 TL",Hot Dog,5.0
+53eeb9c4-1814-4308-bd6c-57ac21c992e3,Bacon Hot Dog,"21,00 TL",Hot Dog,5.0
+5df2a78a-f491-4b1b-bd83-190119420340,NY Hot Dog,"18,94 TL",Hot Dog,5.0
+4235dfa7-435c-48f4-8cc9-1ce8372c8512,Hellim Salatası,"18,75 TL",Salatalar,5.0
+56042f91-eff8-45bb-a9e6-f54c75f9d633,Izgara Bonfile Salata,"26,44 TL",Salatalar,5.0
+6c613f5f-d298-4539-8b81-cbd9dbf95bb7,Çıtır Tavuk Salata,"18,75 TL",Salatalar,9.0
+79497e58-25a4-4bc2-9dbb-9d940dac5ff9,Akdeniz Salatası,"13,13 TL",Salatalar,5.0
+96a7b84e-97f7-42ec-a344-f56add7a577d,Izgara Tavuk Salata,"18,75 TL",Salatalar,9.0
+022fe284-2374-4cd0-bf02-92b9795de3ea,Soğan Halkası,"8,25 TL",Yan Ürünler,7.0
+673fc730-c4e2-435c-8cb7-c0ed9d72839b,Mix Tabağı,"18,75 TL",Yan Ürünler,5.0
+b1566862-0e85-43e5-8d23-9c2f1c38a936,Çıtır Patates Kızartması,"8,25 TL",Yan Ürünler,9.0
+bf24d216-3959-428a-900a-af2bb17c7f57,Çıtır Hellim Peyniri,"11,25 TL",Yan Ürünler,5.0
+d00fb6d8-880f-45b7-a4a3-666386a5eb54,Çıtır Tavuk,"11,25 TL",Yan Ürünler,9.0
+4f2de950-38f5-4640-90bc-e759a93ae6d9,Algida Maraş Usulü Cup Dondurma (100 ml.),"5,18 TL",Dondurmalar,7.0
+83bd37a5-075a-43a0-950f-116f9213267d,Algida Maraş Dondurmalı Supangle,"11,81 TL",Dondurmalar,7.0
+dc8e4ca3-ed25-4aee-a0a4-c6a59cc2c501,Soda (25 cl.),"3,00 TL",İçecekler,5.0
+7afa9c92-ef7a-46e4-8b94-c7426386535a,Poşet,"0,25 TL",Poşet,5.0

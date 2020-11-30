@@ -1,0 +1,28 @@
+food_id,food_name,food_price,food_category,food_score
+53cc04fd-774c-4a17-9d0e-ff3744b9b125,Menü 1,"21,00 TL",Menüler,12.0
+5ba68ca2-e18a-4674-8d7d-23f4c86cd2f8,Menü 2,"21,00 TL",Menüler,4.0
+43fea795-769f-463c-8712-60537bea8a21,Menü 3,"16,00 TL",Menüler,2.0
+623c3fb4-4edb-4283-a8b2-9f0bb3bd548f,Menü 4,"16,00 TL",Menüler,4.0
+f53a10fb-9e49-4ea2-befd-012919fd7ee6,Menü 5,"24,00 TL",Menüler,4.0
+87d37edb-8524-4c9e-8d57-8b36e37ff4f0,Menü 6,"22,00 TL",Menüler,4.0
+de2bb0ea-b72f-4114-bd38-913e5f61a952,Menü 7,"28,00 TL",Menüler,4.0
+00122b7f-2877-498a-a6f5-7d23523ed32b,Menü 8,"21,00 TL",Menüler,4.0
+10ee98db-2ad4-4f36-a15a-0fb903a7e1e1,Ekmek Arası Tavuk Döner Menü,"16,00 TL",Menüler,8.0
+6ac107aa-f467-49f0-98bf-b016824c9240,Tavuk Döner Dürüm Menü,"16,00 TL",Menüler,8.0
+f0a25bef-48bf-49a7-bc6b-0f88360fd32f,Hamburger,"12,00 TL",Burgerler,5.0
+f42abf31-b4fa-45cb-894c-b323e59018ff,Biftek Tantuni Dürüm,"16,00 TL",Biftek Tantuniler,13.0
+6ac7db48-ce02-4996-ac5a-2350d1d5a046,Yoğurtlu Biftek Tantuni,"18,00 TL",Biftek Tantuniler,12.0
+b63ad58f-1328-4c38-ae74-1671ea10d8c9,Ekmek Arası Biftek Tantuni,"16,00 TL",Biftek Tantuniler,18.0
+1f07ebd4-98a0-41b3-a20c-148640e0c88d,Ekmek Arası Kaşarlı Biftek Tantuni,"18,00 TL",Biftek Tantuniler,13.0
+a510f827-3313-43a2-a347-8084b1998421,Tavuk Tantuni Dürüm,"11,00 TL",Tavuk Tantuniler,22.0
+e7f0f5bd-e451-4122-9f59-a58540c60af4,Yoğurtlu Tavuk Tantuni,"14,00 TL",Tavuk Tantuniler,16.0
+2305c7ae-57f7-4f64-881e-2f9d16c1a889,Ekmek Arası Tavuk Tantuni,"11,00 TL",Tavuk Tantuniler,22.0
+678493bc-4b85-4ff4-b160-d50a0cfcb8f3,Ekmek Arası Kaşarlı Tavuk Tantuni,"13,00 TL",Tavuk Tantuniler,17.0
+84f4b2a3-10c4-4b5d-972d-68791dcbab8c,Pilav Üstü Tavuk Döner,"17,00 TL",Tavuk Dönerler,9.0
+8c8afe78-269b-4624-8e01-81ceb36a9f4f,Tavuk Döner Dürüm,"10,00 TL",Tavuk Dönerler,9.0
+021df723-2db7-49a6-a4e4-e97e4669c4a8,Ekmek Arası Tavuk Döner,"10,00 TL",Tavuk Dönerler,9.0
+3f21289a-dff2-4ed3-ad99-42bc5c33da71,Patates Kızartması,"10,00 TL",Yan Ürünler,2.0
+D503796F-D144-4366-87F0-5E74F0881DF7,Çıtır Soğan Halkası (6 Adet),"10,00 TL",Yan Ürünler,5.0
+5F4BBECC-5285-4B76-88C5-D3C21AD8976B,Ayran (20 cl.) (Cam Şişe),"3,00 TL",İçecekler,7.0
+b714769c-8d5b-4766-9046-d3a04b9682b0,Su,"2,00 TL",İçecekler,5.0
+b7cec961-9803-4edc-8106-5f3b291190d3,Poşet,"0,25 TL",Poşet,5.0

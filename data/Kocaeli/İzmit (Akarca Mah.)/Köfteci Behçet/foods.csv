@@ -1,0 +1,17 @@
+food_id,food_name,food_price,food_category,food_score
+660cd512-31a4-44c1-a694-a9d22de10c8c,Yarım Ekmek Arası Köfte,"13,00 TL",Köfteler,11.0
+a6d947f2-e169-49ad-9d29-fec775322337,3/4 Ekmek Arası Köfte,"18,00 TL",Köfteler,11.0
+8fe72a3c-4166-4c1a-a7ec-22033a47f474,Tam Ekmek Arası Köfte,"20,00 TL",Köfteler,6.0
+ba5c7827-c17c-4a6f-9a48-15f467305bd1,Güveçte Etli Kuru Fasulye,"14,00 TL",Ana Yemekler,5.0
+7d25a46f-c0a6-4bbb-96b7-f387272e8985,Pilav,"6,00 TL",Ana Yemekler,5.0
+F9B37D3C-3AD4-4DFA-BC6B-C5DA8F61FB1F,Tavuk Kanat,"20,00 TL",Ana Yemekler,4.0
+62DE1E0D-9E3B-4525-84D4-A84753E8EDD7,Piliç Sarma,"20,00 TL",Ana Yemekler,5.0
+7F77D98E-A6EA-4AEE-B37A-50C5C64AE463,Tavuk Şiş,"20,00 TL",Ana Yemekler,4.0
+584A8905-0056-4356-A735-36995EC35ACC,Kavurma,"22,00 TL",Ana Yemekler,5.0
+bd8b3abf-7aea-4329-adde-5cad8d2b5ca3,Güveçte Fırın Sütlaç,"7,00 TL",Tatlılar,5.0
+6e5652d6-85b5-4391-aad9-0aa1597ada55,Kaymaklı Tel Kadayıf,"9,00 TL",Tatlılar,5.0
+f3d7712a-5ede-4090-8354-c5e6f93c1452,Ekmek Kadayıfı,"7,00 TL",Tatlılar,7.0
+c3ced51b-7e78-4ba3-89c0-b83b0e98c8e3,Çoban Salata,"5,00 TL",Salatalar,4.0
+67847fce-15c0-4927-b00c-0d1d66f5cd20,Limonlu Soda,"3,00 TL",İçecekler,5.0
+e69b02ea-8024-4271-8dee-4f3548939453,Su,"1,50 TL",İçecekler,5.0
+831a6753-71e0-488e-a80b-ea420f62ca1d,Poşet,"0,25 TL",Poşet,5.0

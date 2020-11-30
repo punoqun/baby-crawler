@@ -1,0 +1,36 @@
+food_id,food_name,food_price,food_category,food_score
+890310F8-DD46-4C7A-A89F-09F21CF98DA1,Köfte Menü,"12,19 TL",Menüler,8.0
+7AB4BD04-BCDB-4BD4-8E38-FFA481E5C246,Arnavut Ciğer Menü,"11,81 TL",Menüler,8.0
+510D8AE8-9C93-44E3-A22E-4264CFCE2BC5,Tavuk Döner Menü,"10,31 TL",Menüler,13.0
+A4E08198-B69B-4D9E-ACB1-45EE67F52B3A,Hatay Usulü Menü,"11,81 TL",Menüler,24.0
+B0D759CD-B3B7-45C5-8ED0-0C012BB0D789,Pilav Üstü Tavuk Döner menü,"14,96 TL",Menüler,13.0
+8446615D-2069-4ED9-BE9D-5B6FD473F711,Tavuk İskender Menü,"14,96 TL",Menüler,11.0
+4777BF8E-1DF1-4C49-B0DE-472C76941C94,Tavuk Beyti Menü,"14,96 TL",Menüler,9.0
+BADB098D-0686-43D7-8E29-71F6BDE7AF0D,Avantajlı Hatay Usulü Menü 1,"35,81 TL",Menüler,26.0
+8A7B3923-B7EB-43B9-8899-7562BD2D4D3B,Avantajlı Hatay usulü Menü 2,"37,31 TL",Menüler,33.0
+5D22A830-E002-4B38-AA03-66BE24B7E318,Avantajlı Hatay Usulü Menü 3,"59,81 TL",Menüler,26.0
+ac04bd4c-331d-4d70-b6f0-a79b885694ef,Avantajlı Hatay Usulü Menü 4,"58,31 TL",Menüler,23.0
+2ff71e8d-61d4-4a7e-a054-dfd79c4f407a,Ekmek Arası Tavuk Döner,"7,69 TL",Tavuk Dönerler,20.0
+41142c53-4dd0-43e5-871d-7e993eaf8d5e,Hatay Usulü Tavuk Döner Dürüm,"8,44 TL",Tavuk Dönerler,32.0
+DAF4F48E-A5CB-4DF8-AFC3-23616EDB0928,İskender (Tavuk Dönerden),"11,96 TL",Tavuk Dönerler,8.0
+0FD2CE8E-A42B-4024-A6B8-7F879BE1FAD6,Tavuk Döner Beyti,"11,96 TL",Tavuk Dönerler,17.0
+5056C6A1-2B48-49D3-912E-4E9DE8D98775,Tavuk Döner Dürüm,"7,46 TL",Tavuk Dönerler,10.0
+8F2704C7-DCF1-412D-880E-1E5EFBF1EA89,Tavuk Döner,"10,46 TL",Tavuk Dönerler,11.0
+87796452-F479-44C9-ADE1-FA62B1A1F2E3,Pilav Üstü Tavuk Döner,"11,96 TL",Tavuk Dönerler,13.0
+65C58702-0DC7-4F8B-8B78-7112FD790BDA,Tavuk Şiş,"12,71 TL",Izgaralar,6.0
+6619C930-FC6E-4A5C-B93F-2580E6374146,Pilav Üstü Tavuk Şiş,"13,84 TL",Izgaralar,8.0
+AD0FB786-2A7D-462E-813D-D400F843C9AA,Izgara Köfte,"13,84 TL",Köfteler,4.0
+38F7B064-52CF-4170-87E4-EFA0544751A1,Pilav Üstü Köfte,"14,96 TL",Köfteler,8.0
+31b292b9-ceaf-4d47-bb4c-57e310ef302a,Ekmek Arası Izgara Köfte,"9,71 TL",Köfteler,8.0
+C81FCE33-6C12-45FE-93D2-5914EE1864D1,Ekmek Arası Arnavut Ciğeri,"8,21 TL",Ekmek Arası Ürünler,10.0
+345FCC80-C62D-4CEB-884D-53D8B0EA3B63,Ekmek Arası Tavuk Şiş,"11,21 TL",Ekmek Arası Ürünler,10.0
+E3CD17B5-B59F-4B29-9532-09601EC728C2,Arnavut Ciğer Dürüm,"8,96 TL",Dürümler ,5.0
+8e414ca0-ce0a-4201-a9c4-a0847be7a2ab,Eker Kazandibi (100 gr.),"3,00 TL",Tatlılar,5.0
+4fb4e08c-a783-4c76-a351-41b7c117713d,Eker Çikolatalı Puding (100 gr.),"3,00 TL",Tatlılar,5.0
+acc830c8-9c84-4e32-b34b-c7dab3c3eaf6,Coca - Cola (33 cl.),"3,75 TL",İçecekler ,11.0
+bacfa2eb-cf87-4aba-8268-38881846e708,Kavaklıdere Şalgam Suyu (30 cl.),"2,63 TL",İçecekler ,5.0
+aba92f41-d906-4da4-acef-8248de6d965a,Eker Tombul Ayran (30 cl.),"2,63 TL",İçecekler ,3.0
+c8e7ad7c-d679-474a-808f-d61631487f58,Beypazarı Limonlu Soda (20 cl.),"2,25 TL",İçecekler ,5.0
+c4fed2a6-8569-47b8-bed6-4503095acb6c,Beypazarı Soda (20 cl.),"1,88 TL",İçecekler ,5.0
+2672EADA-7AA3-465E-8E19-F2C850E55548,"Fanta (2,5 L.)","9,00 TL",İçecekler ,5.0
+a8b18e87-523f-4fc7-9f68-d5cf1dc11536,Poşet,"0,25 TL",Poşet,5.0

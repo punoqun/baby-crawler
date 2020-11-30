@@ -1,0 +1,24 @@
+food_id,food_name,food_price,food_category,food_score
+8d56ac2d-6bda-44ab-b346-f946f4456b11,Menü 1,"40,00 TL",Menüler,15.0
+04b6e724-9215-4644-be41-006a4e6587d5,Menü 2,"42,00 TL",Menüler,8.0
+6c0e5cbc-070a-43d9-9b1d-15c86a841fd3,Menü 6,"75,00 TL",Menüler,5.0
+d5e9e99a-4325-4872-9148-8c97f12ec170,Tek Kişilik Menü,"23,50 TL",Menüler,5.0
+660a0fc9-4b6c-44c8-acc5-050e322823a5,İki Kişilik Menü,"59,00 TL",Menüler,5.0
+4bedccfe-ebb6-41e6-9cfc-8355789f49f9,Tek Kişilik Pide Menü,"27,50 TL",Menüler,12.0
+b3be110c-8482-4c09-bbc7-a34a38676faa,İki Kişlik Lahmacun Menü,"45,00 TL",Menüler,16.0
+c5e93553-3b31-43d6-9dc0-40b573443fb9,Lahmacun,"7,00 TL",Fırın Ürünleri,21.0
+f32be4b6-217c-4626-94b8-68ed295b4b48,Kuşbaşılı Pide,"19,00 TL",Fırın Ürünleri,12.0
+a029a7c3-6468-42a9-96e2-9b78f486f332,Kıymalı Pide,"17,00 TL",Fırın Ürünleri,12.0
+b18e00bb-ad7b-402a-b7b7-a254be90d218,Kavurmalı Pide,"23,00 TL",Fırın Ürünleri,11.0
+0a11e1d2-751e-4656-b19f-19fa330baaec,Kaşarlı Pide,"16,00 TL",Fırın Ürünleri,12.0
+cf946a22-62f1-4a2f-ab01-54d5c7fd8241,Kavurmalı Kaşarlı Pide,"25,00 TL",Fırın Ürünleri,11.0
+acccee7f-f5dd-485f-aef4-79a3a97c2667,Kaşarlı Sucuklu Pide,"18,00 TL",Fırın Ürünleri,12.0
+22a3e8af-beed-4604-81a1-01f1dfd0c218,Kuşbaşılı Kaşarlı Pide,"21,00 TL",Fırın Ürünleri,17.0
+6c70cb13-6bb0-4055-b228-9606e7c30e11,Kıymalı Kaşarlı Pide,"19,00 TL",Fırın Ürünleri,12.0
+a86a493d-d88c-40ea-b72b-f4c51c87075b,Karışık Pide,"21,00 TL",Fırın Ürünleri,11.0
+452cd6d7-fccf-45c4-92c3-a50f99e2c93e,Künefe,"12,00 TL",Tatlılar,5.0
+E7E36EC8-EF41-43E3-8721-BC400FC2339B,Burma Katmer,"12,00 TL",Tatlılar,5.0
+5C3F6320-60E1-409F-8450-EAD436CAD2B6,Profiterol,"6,00 TL",Tatlılar,5.0
+D968AF0F-7DA3-452C-8101-780E00990991,Kazandibi,"6,00 TL",Tatlılar,5.0
+74C0A4EE-CCD0-44CE-824D-AA9B3A767FE0,"Fanta (2,5 L.)","12,50 TL",İçecekler,5.0
+3852aabf-0b6d-42a7-8f20-e26700f57ba0,Poşet,"0,25 TL",Poşet,5.0

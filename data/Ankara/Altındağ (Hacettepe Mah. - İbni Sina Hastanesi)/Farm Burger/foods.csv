@@ -1,0 +1,66 @@
+food_id,food_name,food_price,food_category,food_score
+b82700f1-0e98-48e1-a4cc-b6383fef233c,Vize Burger Menü,"43,00 TL",Avantajlı Menüler,6.0
+AF1AC9BA-C3AD-44BD-B1EE-754F12852A22,Çıtır Tavuk Menü,"19,50 TL",Avantajlı Menüler,8.0
+47A5022F-F6BE-4F18-916F-1C2727CEE0C3,Joy Burger Menü,"54,00 TL",Avantajlı Menüler,6.0
+6f0ad6b2-ab61-4e00-82da-17c39e38cd7c,Final Burger Menü,"54,00 TL",Avantajlı Menüler,6.0
+be9d65d0-20a8-459a-b332-13aa1bff4879,Alaturka Burger Menü,"33,00 TL",Burger Menüleri,6.0
+25E36FDD-761D-45BA-A525-7DBF5DCF0F36,Lasso Burger Menü,"38,00 TL",Burger Menüleri,6.0
+551BBFD6-A926-459B-8226-8191DC6D3451,Farm Boy Burger Menü,"28,50 TL",Burger Menüleri,10.0
+42E2FD86-5391-4FFB-B3F2-3DC33E9D77C8,Çıtır Tavuk Burger Menü,"30,00 TL",Burger Menüleri,9.0
+71783c64-17e7-4a66-b068-5108b4f896ac,BBQ Chicken Burger Menü,"22,50 TL",Burger Menüleri,6.0
+258bacf2-09ea-4643-8bab-7dc166538b21,Cheeseburger Menü,"28,00 TL",Burger Menüleri,10.0
+bdf4f5cf-a1e9-44e0-b4bd-4694d4c2972b,Farm Burger Menü,"33,00 TL",Burger Menüleri,13.0
+9d0c3af3-dc35-4d86-8a31-f43ede804849,Hünkar Burger Menü,"31,00 TL",Burger Menüleri,6.0
+a30a23ec-b41c-4e6b-87f7-9fd50a0eb93c,Klasik Burger Menü,"26,00 TL",Burger Menüleri,7.0
+7ab51e90-6735-433c-8c0e-a0eadbdb4db7,Klasik Tavuk Burger Menü,"21,00 TL",Burger Menüleri,8.0
+f96f1b65-782b-4134-ab1d-8f974227eb74,Mush Chicken Burger Menü,"25,00 TL",Burger Menüleri,6.0
+145eafd3-8ae2-4797-85c9-90e3db99a625,Mushroom Burger Menü,"31,00 TL",Burger Menüleri,6.0
+c8b18b87-2722-4fcb-adfb-418f70641525,Vejetaryen Burger Menü,"31,00 TL",Burger Menüleri,6.0
+7B15D55F-E80C-40F8-B7A5-15F5B4EDABD2,Triple Cheeseburger Menü,"33,00 TL",Burger Menüleri,5.0
+333abee1-3100-43f4-9cb0-dc12bb79b757,Cow Burger Menü,"41,00 TL",Gurme Burger Menüleri,6.0
+5d7edf07-db40-46be-9721-f8a6eff5a223,Fence Burger Menü,"46,00 TL",Gurme Burger Menüleri,6.0
+dedece0f-adab-49a1-9eb1-d5fc2685e1aa,Ranch Burger Menü 1,"43,50 TL",Gurme Burger Menüleri,25.0
+d608aff7-6292-42c8-bbc2-f0d4fd94e2d2,Kids Burger Menü,"19,00 TL",Kids Burger Menüleri,6.0
+63883c43-8b93-454a-8973-6dadba88d9cb,Kids Tavuk Burger Menü,"16,00 TL",Kids Burger Menüleri,7.0
+6999cab9-364c-41a5-b7b5-b9b7b59b812f,Algida Menüsü (Farm Burger 1),"38,00 TL",Dondurmalı Menüler,6.0
+03705130-7cd4-4cbf-b140-fa6a59ed9f57,Algida Menüsü (Klasik Tavuk Burger),"26,00 TL",Dondurmalı Menüler,6.0
+125df89d-ac1e-4eeb-a906-7b1c882ac508,Algida Menüsü (BBQ Chicken Burger),"27,50 TL",Dondurmalı Menüler,5.0
+b2d8873f-829f-474c-876a-84bf6c64a9aa,Algida Menüsü (Klasik Burger),"31,00 TL",Dondurmalı Menüler,5.0
+fad037e9-2114-49dc-b245-275b4116cf5f,Algida Menüsü (Ranch Burger),"48,50 TL",Dondurmalı Menüler,5.0
+8a03215b-fbc6-4439-acad-8b75262c0ee7,Algida Menüsü (Fence Burger 2),"51,00 TL",Dondurmalı Menüler,6.0
+0421e566-570a-4b5b-8e04-1899a5978bff,Alaturka Burger,"28,00 TL",Burgerler,6.0
+3ED7E332-16D9-42C1-B2EF-BBAB49C47DE1,Lasso Burger,"33,00 TL",Burgerler,6.0
+54D6695F-BB5C-44F4-A6D4-BD956286004C,Çıtır Tavuk Burger,"25,00 TL",Burgerler,9.0
+8C89C63F-F155-4AC5-B130-CC635F499878,Farm Boy Burger,"23,50 TL",Burgerler,10.0
+ecffb3dc-c850-4413-9fb7-d83c8a2682be,BBQ Chicken Burger,"17,50 TL",Burgerler,6.0
+b80e6266-2d16-4f22-925d-9c8ce229e592,Cheeseburger,"23,00 TL",Burgerler,5.0
+0c961aa4-114f-45a5-be87-dac6191c7275,Farm Burger,"28,00 TL",Burgerler,13.0
+87d4f846-3410-4b66-b911-2d32047f72e1,Hünkar Burger,"26,00 TL",Burgerler,6.0
+b165f5fa-09eb-4962-945c-9150afd4fb74,Klasik Burger,"21,00 TL",Burgerler,7.0
+03dfc402-d5b1-4054-be68-30d18fa27be5,Klasik Tavuk Burger,"16,00 TL",Burgerler,8.0
+CE4C770D-8F23-4D4E-81D0-890B53DDA353,Mush Chicken Burger,"20,00 TL",Burgerler,6.0
+f2627f17-5626-4137-ae09-9e5babb3c728,Mushroom Burger,"26,00 TL",Burgerler,6.0
+c645460c-e12f-4a6e-aa9c-9fd883742eaa,Rodeo Burger,"30,00 TL",Burgerler,6.0
+84894d61-3897-4235-a997-a9f3f6459bd6,Sosisli Burger,"25,50 TL",Burgerler,6.0
+72a1b830-b6f7-4dc4-81a4-7f436e684786,Triple Cheeseburger,"28,00 TL",Burgerler,5.0
+202deffe-0509-4dd0-9fbb-eb5579a73c52,Vejetaryen Burger,"26,00 TL",Burgerler,6.0
+d6786b0c-5c06-4798-9a4d-44fadc97f7f8,Cow Burger,"36,00 TL",Gurme Burgerler,6.0
+91308737-6590-4e1b-adbd-9fe0fc54835c,Fence Burger (180 gr.),"41,00 TL",Gurme Burgerler,6.0
+8988a298-d38e-42cb-9be1-984efe492f70,Ranch Burger,"38,50 TL",Gurme Burgerler,6.0
+bd4d8140-5117-468f-b726-6a8bf66301b4,Patates Kızartması,"9,00 TL",Aperitifler,18.0
+CC88C4F6-6FD4-42CA-BDAB-7B34EE5587A0,Çıtır Tavuk (4 Adet),"12,00 TL",Aperitifler,8.0
+e5bd0821-2adb-479e-acda-8980360f61bb,Soğan Halkası (8 Adet),"9,00 TL",Aperitifler,3.0
+287e85fd-e6f6-4690-83fc-64c7ef84e021,Tavuk Nugget (5 Adet),"9,00 TL",Aperitifler,6.0
+7b6b1f93-91aa-4abb-ba9c-7c5818b787a2,Mozzarella Sticks (5 Adet),"10,00 TL",Aperitifler,5.0
+d60f4356-2706-42e1-8c5d-831dd1545833,Karma Sepet,"17,50 TL",Aperitifler,5.0
+f202c726-a373-4ee6-99de-aabf66c2181a,Algida Maraş Usulü Cup Dondurma (100 ml.),"6,00 TL",Dondurmalar,5.0
+6326952e-906b-48d2-b87e-527b94b7bd54,Algida Carte d'Or Mini Cup Çikolata Karnavalı (110 ml.),"6,00 TL",Dondurmalar,7.0
+58b25932-318b-4648-9ac3-e08462dbc58e,Algida Carte d'Or Mini Cup Çilekli Yoğurtlu (110 ml.),"6,00 TL",Dondurmalar,7.0
+e69a23e5-a236-4c11-9a0a-56e9d25a59ce,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"13,00 TL",Dondurmalar,5.0
+F0C72F22-BBA7-4320-925B-DF16C9876E17,Çikolatalı Kahveli Kare Pasta,"12,50 TL",Tatlılar,5.0
+2C7AB6AA-1379-4496-9735-19E9B791D702,Yer Fıstıklı Çikolatalı Pasta,"16,00 TL",Tatlılar,6.0
+80febda7-0c55-4fb1-a136-b5d4d7a2e734,Pepsi Twist (33 cl.),"5,00 TL",İçecekler,5.0
+42e928ae-a600-47b6-905d-cd903d95ef17,Fruko (1 L.),"8,00 TL",İçecekler,5.0
+67b88bed-9342-43e4-8a07-fabf1de5b17c,Hot Sos (20 gr.),"1,25 TL",Soslar,4.0
+0edde3d2-a313-44a2-b1d8-6d281d637320,Ballı Hardal (20 gr.),"1,25 TL",Soslar,5.0
+d4048827-4dbf-498a-97ab-fd30c02e85c0,Poşet,"0,25 TL",Poşet,5.0

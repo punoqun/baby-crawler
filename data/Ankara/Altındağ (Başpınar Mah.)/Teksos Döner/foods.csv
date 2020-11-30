@@ -1,0 +1,31 @@
+food_id,food_name,food_price,food_category,food_score
+e54a750c-cf06-443d-a8aa-e3488501269c,Et Döner S Dürüm Menü,"17,50 TL",Et Döner Menüleri,7.0
+f33152b0-9739-4832-bf9d-0c4d45b21fd4,Et Döner M Dürüm Menü,"20,50 TL",Et Döner Menüleri,6.0
+576f482f-ee87-4695-98af-9a15e6eb838c,Et Döner L Dürüm Menü,"26,00 TL",Et Döner Menüleri,12.0
+2b11bad8-273b-4f1f-bf0e-b186851468a7,Et Döner XL Dürüm Menü,"30,50 TL",Et Döner Menüleri,3.0
+3be11183-a6eb-4dda-8699-66dd9091bdcc,Et Döner S Express Dürüm Menü,"22,50 TL",Et Döner Menüleri,7.0
+4857ec7c-64ad-4daf-8146-aeff2a0faab9,Et Döner M Express Dürüm Menü,"25,50 TL",Et Döner Menüleri,6.0
+307f96ce-33ea-4e41-9753-d4fea82fa65d,Et Döner L Express Dürüm Menü,"30,00 TL",Et Döner Menüleri,12.0
+89d7bb63-7e4d-4c50-933e-a291b41c9c0b,Et Döner XL Express Dürüm Menü,"36,50 TL",Et Döner Menüleri,3.0
+accd23ff-32e9-461f-8d32-e6293d320ef0,Tavuk Döner S Dürüm Menü,"12,50 TL",Tavuk Döner Menüleri,9.0
+cbad3346-a4e5-4f85-8808-3fbdc75aeb01,Tavuk Döner M Dürüm Menü,"15,50 TL",Tavuk Döner Menüleri,13.0
+193e32bc-d62e-4691-b725-3431d339510d,Tavuk Döner L Dürüm Menü,"19,50 TL",Tavuk Döner Menüleri,14.0
+d57ca901-641f-4068-adb0-b1903cf6c564,Tavuk Döner XL Dürüm Menü,"22,50 TL",Tavuk Döner Menüleri,5.0
+a1f84ac9-7cda-4922-b394-c5bd9291b6f4,Tavuk Döner S Express Dürüm Menü,"17,50 TL",Tavuk Döner Menüleri,9.0
+a937dc8c-6b8b-4df3-a240-5f5bf2d6567a,Tavuk Döner M Express Dürüm Menü,"19,50 TL",Tavuk Döner Menüleri,8.0
+5f08fe01-847c-42c0-a652-ddfed423c8e4,Tavuk Döner L Express Dürüm Menü,"24,50 TL",Tavuk Döner Menüleri,14.0
+801b5a4b-a328-4480-a896-a953bba93c97,Tavuk Döner XL Express Dürüm Menü,"27,50 TL",Tavuk Döner Menüleri,5.0
+15c9be0c-11ec-42be-8aba-7f82a7a33bbf,Et Döner S Dürüm,"15,00 TL",Et Dönerler,7.0
+a6cb4d95-3494-4489-b3ae-dd8d87a381dc,Et Döner M Dürüm,"18,00 TL",Et Dönerler,6.0
+74d4de0a-c520-4b07-a6b0-a18a146a9c8d,Et Döner L Dürüm (45 cm.),"22,00 TL",Et Dönerler,12.0
+fbf131a4-39a5-4d86-bbea-ebfc137d44fc,Et Döner XL Dürüm (45 cm.),"28,00 TL",Et Dönerler,3.0
+70e88d2f-7f78-4f67-8bb3-b5e7e5b23615,Tavuk Döner S Dürüm,"10,00 TL",Tavuk Dönerler,9.0
+1f8a5f0a-d83b-409f-b1bc-f9eb8040bfdf,Tavuk Döner M Dürüm,"13,00 TL",Tavuk Dönerler,8.0
+d522662f-68a5-4108-8aca-3d7bea49d2d9,Tavuk Döner L Dürüm (45 cm.),"16,00 TL",Tavuk Dönerler,19.0
+aab0086c-e347-459e-be34-1c2caf5649fe,Tavuk Döner XL Dürüm (45 cm.),"19,00 TL",Tavuk Dönerler,10.0
+698cea11-a362-4fb6-9ad6-10c61e0598bb,Külah Patates Kızartması (1 Kişilik),"7,00 TL",Yan Ürünler,6.0
+b479ae0b-2756-4165-a4bb-7349292530a2,Patates Kızartması (2 - 3 Kişilik),"12,00 TL",Yan Ürünler,8.0
+0c87c04b-0001-42ef-b258-a01515df7bcc,Pirinç Pilavı (200 gr.),"8,00 TL",Yan Ürünler,5.0
+838b867c-ac74-4d0d-8971-2f5136a8c2c1,Pirinç Pilavı (100 gr.),"9,00 TL",Yan Ürünler,5.0
+c4d0ee03-882b-4da8-83c2-a7c9153ab9ac,Sütaş Ayran (18 cl.),"3,00 TL",İçecekler,5.0
+2fc506f9-7b5c-467c-93af-a766b6c58e05,Poşet,"0,25 TL",Poşet,5.0

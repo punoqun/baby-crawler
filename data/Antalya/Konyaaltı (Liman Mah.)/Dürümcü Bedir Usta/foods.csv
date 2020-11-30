@@ -1,0 +1,19 @@
+food_id,food_name,food_price,food_category,food_score
+53a66331-91bb-4dda-a3c3-34fcca2b123f,Adana Kebap,"28,00 TL",Kebaplar,-3.0
+590ddcb5-4506-47b2-8da2-ecf5abb1a0eb,Urfa Kebap,"28,00 TL",Kebaplar,7.0
+d0ff42c8-2860-4f7e-a483-80d1805de4e4,Tavuk Şiş,"28,00 TL",Izgaralar,7.0
+e6ffc26d-dabd-402a-b48e-2ba03edb4f20,Ciğer Şiş,"28,00 TL",Izgaralar,3.0
+8da700e3-26d9-430c-a54b-9a62fd310e3c,Dana Şiş,"28,00 TL",Izgaralar,4.0
+945556ff-66ef-43cf-b2e1-a1436ec04d10,Tavuk Kanat,"24,00 TL",Izgaralar,7.0
+8b619fda-71f7-4bd1-9026-58b12ff6f60c,Adana Dürüm,"14,00 TL",Dürümler,-1.0
+7d3b5e38-fa7b-4327-ba59-f6c19e51f0d7,Urfa Dürüm,"14,00 TL",Dürümler,9.0
+9b750ca9-d826-47f1-9338-e65f769d5661,Tavuk Şiş Dürüm,"14,00 TL",Dürümler,9.0
+667cdf55-e913-4309-a0c3-69b4c14d60dd,Ciğer Şiş Dürüm,"14,00 TL",Dürümler,0.0
+1ae2c638-7b6b-470f-923a-b89636f13ff3,Dana Şiş Dürüm,"14,00 TL",Dürümler,1.0
+8cbe8a23-a9d6-4de8-90c5-02a03ec09a5c,Kızartma İçli Köfte (Adet),"4,00 TL",Yan Ürünler,5.0
+22fe4b35-3301-424c-8549-27d3254e7d07,Kızartma İçli Köfte (4 Adet),"15,00 TL",Yan Ürünler,5.0
+1cd4cee7-f299-4eef-8f02-13a00d44453b,Trileçe,"10,00 TL",Tatlılar,5.0
+4d0057e3-a911-4cb7-b1e5-e9efaa5c3b69,Fıstıklı Burma,"10,00 TL",Tatlılar,5.0
+b46ead14-95fe-4f84-be51-bdf62550405c,Gül Katmer,"12,00 TL",Tatlılar,5.0
+d782e788-ebee-42fd-aca0-45fcbe495e51,Limonlu Soda,"2,00 TL",İçecekler,4.0
+346133d7-87d0-40b7-b9fc-17d168f6b5c0,Su,"1,50 TL",İçecekler,5.0

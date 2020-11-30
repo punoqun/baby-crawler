@@ -1,0 +1,41 @@
+food_id,food_name,food_price,food_category,food_score
+2539d532-8917-4a1b-a6c7-64e2d5ffedd6,Cheeseburger Menü,"34,90 TL",Menüler,5.0
+2d157125-fc58-4ac5-831c-bf6a24ae78eb,Double Burger Menü,"43,90 TL",Menüler,5.0
+6cb4df2d-d77b-42c3-9578-597e171acbe1,Nefiss Burger Menü,"33,90 TL",Menüler,5.0
+cc0be6aa-d8e5-49e3-a186-835a706ad660,Chicken Burger Menü,"33,90 TL",Menüler,5.0
+d3642d80-a398-4d4f-8309-b280ae1089e5,Special Burger Menü,"47,90 TL",Menüler,5.0
+df7be34d-e331-4498-803d-95b2e4ffc96f,Double Chicken Burger Menü,"41,90 TL",Menüler,5.0
+01582fbc-c976-495e-8ac1-1d7fe6b3d280,Alinazik Kebap (Şişten),"47,00 TL",Kebaplar & Izgaralar,5.0
+2c56df2d-4832-462d-a772-d1e714334cd3,Domatesli Kebap,"47,00 TL",Kebaplar & Izgaralar,5.0
+40c340ee-3b29-4a56-906b-6417c97d8477,Beyti Kebap (Açık),"45,00 TL",Kebaplar & Izgaralar,5.0
+6b55f296-3302-430f-bb35-5a7caaa2d8ed,Adana Kebap,"32,00 TL",Kebaplar & Izgaralar,5.0
+73200a74-3d1a-4809-805a-a3d034b7608f,Patlıcan Kebap,"48,00 TL",Kebaplar & Izgaralar,5.0
+a158ad2e-8ceb-4f9f-be3a-ea79de618a65,Nefiss Karışık Kebap,"63,00 TL",Kebaplar & Izgaralar,5.0
+ca08d910-1166-4ea3-acdf-fde969a4551a,Nefiss Izgara Köfte,"30,00 TL",Kebaplar & Izgaralar,5.0
+e33ab78d-88cb-4bfe-ac1c-dcd2466a88ed,Çöp Şiş,"39,00 TL",Kebaplar & Izgaralar,5.0
+fbce6d6c-1731-4a4c-b28a-cfd9fe6b97be,Urfa Kebap,"32,00 TL",Kebaplar & Izgaralar,5.0
+1e6d6f3a-922c-481d-8cc5-0a659958a02a,Izgara Köfte Dürüm,"18,00 TL",Dürümler,4.0
+75136783-d6a2-4184-a536-ec171c67d958,Izgara Sucuk Dürüm,"22,00 TL",Dürümler,4.0
+79a90ddc-b3a8-405e-9424-aadfdfedb39a,Adana Dürüm,"18,00 TL",Dürümler,9.0
+b0526e6e-bc92-4b02-8cc9-37af2c874dd7,Urfa Dürüm,"18,00 TL",Dürümler,4.0
+bb460717-9d4d-456d-8352-e72c2d774899,Tavuk Şiş Dürüm,"17,00 TL",Dürümler,4.0
+dd4fab25-9e4d-46ec-af28-a165be469e45,Çöp Şiş Dürüm,"22,00 TL",Dürümler,4.0
+19aa01c0-6fb6-4f55-b54e-9abfa3ebe785,Cheeseburger,"25,00 TL",Burgerler,5.0
+23ba73e7-9361-42c0-ba97-e5357cef7763,Double Chicken Burger,"32,00 TL",Burgerler,5.0
+264adba1-92da-405a-8195-0ef159c79095,Double Burger,"36,00 TL",Burgerler,5.0
+5a199455-0c87-4203-8e72-479b7f85933d,Nefiss Burger,"25,00 TL",Burgerler,5.0
+5a6a5eeb-b72f-40be-abce-78565fc416a9,Chicken Burger,"24,00 TL",Burgerler,5.0
+f8d426ac-607d-4f4b-8da2-0155dabf018b,Special Burger,"39,00 TL",Burgerler,5.0
+b8c440c8-45c7-4828-a05e-16970e2b09c6,Ekmek Arası Izgara Köfte,"17,00 TL",Ekmek Arası Ürünler,5.0
+d11dcebb-9429-4bac-bebd-5b54856b9151,Ekmek Arası Izgara Sucuk,"20,00 TL",Ekmek Arası Ürünler,5.0
+4a1fc299-e2ba-48ff-8710-87a9f8dbacd5,Piliç Çevirme (Adet),"27,00 TL",Diğer Lezzetler,10.0
+464e6784-fa0e-4466-a3bc-dfad22728286,Kızartma İçli Köfte (Adet),"10,00 TL",Diğer Lezzetler,5.0
+1ee76c06-1f03-48ab-b739-ebe2026c745e,Çıtır Tavuk Pirzola (1 kg.),"40,00 TL",Kiloluk Ürünler (Pişirilmiş),8.0
+36db7f28-0f65-4ac8-b3bb-982c9373da18,Tavuk Pirzola (1 kg.),"45,00 TL",Kiloluk Ürünler (Pişirilmiş),3.0
+3fbbe49e-2dab-40d3-b54f-aac92234cdc7,Adana Kebap (500 gr.),"75,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+b2db42ac-3b7e-4fbe-8573-6480d1a0dead,Tavuk Gögsü (1 kg.),"49,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+b70d17b0-cc69-4e1c-8e81-168d71b970cf,Dana Antrikot (500 gr.),"79,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+c1e3185f-493d-4720-88fa-8180e887d1d7,Tavuk Kanat (1 kg.),"53,00 TL",Kiloluk Ürünler (Pişirilmiş),3.0
+d9e1aa9e-450c-4d5c-ad59-62c08850f582,Kuzu Pirzola (500 gr.),"80,00 TL",Kiloluk Ürünler (Pişirilmiş),3.0
+e28ada69-bcec-4b97-ab97-8328e3c3f5c1,Nefiss Izgara Kasap Köfte (500 gr.),"49,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+7700f04c-ceb1-4601-82eb-aa79eb422fef,Poşet,"0,25 TL",Poşet,5.0

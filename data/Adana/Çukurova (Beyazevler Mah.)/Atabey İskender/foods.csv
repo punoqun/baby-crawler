@@ -1,0 +1,14 @@
+food_id,food_name,food_price,food_category,food_score
+93b647c9-8e31-471e-9ef9-ae6a2b49ff21,Gobit Ekmek Arası Et Döner Menü,"34,00 TL",Menüler,15.0
+471a6274-a328-4f33-961f-6a5065f22275,Sandviç Ekmeğinde Et Döner Menü,"34,00 TL",Menüler,11.0
+7c48a889-7be9-4c62-9acf-3167ca6a3dcb,İskender,"34,00 TL",Dönerler,25.0
+d88b8181-f3f1-4cb1-ad16-c44fe5e945dc,Et Döner,"34,00 TL",Dönerler,11.0
+6fd0a56c-1c6a-48e6-b9bc-2ecef5754796,Pilav Üstü Et Döner,"34,00 TL",Dönerler,15.0
+75e2e004-1608-48c6-96c1-9081806ababf,Sandviç Ekmeğinde Et Döner,"24,00 TL",Ekmek Arası Ürünler,11.0
+392da74e-eb03-4017-a119-03ae20e57668,Pide Ekmekte Et Döner,"24,00 TL",Ekmek Arası Ürünler,16.0
+cf262289-b75a-433f-ab87-cafaaef5f81e,Gobit Ekmek Arası Et Döner,"24,00 TL",Ekmek Arası Ürünler,15.0
+dfe8a46f-2aa5-4d5d-84ff-9e65b6100ca2,Parmak Dilim Patates Kızartması,"10,00 TL",Yan Ürünler,4.0
+4798df0b-3358-4cff-8b49-5bc7027d667e,Elma Dilim Patates Kızartması,"10,00 TL",Yan Ürünler,4.0
+5041b9a6-0212-415e-8436-e636e73d5f63,Meyhane Pilavı,"7,00 TL",Yan Ürünler,5.0
+d38072e6-9596-4288-99ce-a5851ab071de,Tamek (33 cl.),"5,00 TL",İçecekler,5.0
+2a2f4a23-fa57-4f33-919d-380536fd9b60,Poşet,"0,25 TL",Poşet,5.0

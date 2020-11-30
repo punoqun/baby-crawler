@@ -1,0 +1,51 @@
+food_id,food_name,food_price,food_category,food_score
+CA7B4A56-D647-4E5F-B590-6ED0224CDC59,Kıymalı Pide Menü,"16,00 TL",Menüler,7.0
+8705A5C9-F4C0-4FB9-BD81-590CFDCA6EEB,Sucuklu Pide Menü,"19,00 TL",Menüler,7.0
+7D46743C-8E0B-4FB2-868E-0E1BECD63181,Kuşbaşı Pide Menü,"22,00 TL",Menüler,7.0
+A9E4C1A5-8E5F-469C-B2E0-D80E9C032BB0,4'lü Lahmacun Menü,"26,00 TL",Menüler,5.0
+EE1EDE7A-38A9-49A0-AD16-0DFF65468E7E,Sade Menemen,"13,00 TL",Kahvaltılıklar,5.0
+64F2838C-4F69-4029-9664-FD485DAB57AA,Kaşarlı Menemen,"15,00 TL",Kahvaltılıklar,5.0
+C7CECE7B-3144-48F4-8ECB-C100FB111DC4,Karışık Menemen,"17,00 TL",Kahvaltılıklar,5.0
+9CED7BA1-EFA7-42F9-AE43-2354352B463B,Kahvaltı Tabağı,"17,00 TL",Kahvaltılıklar,5.0
+f2643323-7cfd-409f-a468-f3fa68fcdf01,Izgara Köfte,"20,00 TL",Köfteler,5.0
+01549FEE-CF48-488A-94BD-FA2ADC31D829,Ekmek Arası Izgara Köfte,"15,00 TL",Köfteler,5.0
+0e66d6db-f2b1-4a9e-ad65-9d72f460b51f,Tavuk Döner,"15,00 TL",Tavuk Dönerler,4.0
+5F033D5D-765F-49CA-BF59-6AF8A39DBA6A,Pilav Üstü Tavuk Döner,"21,00 TL",Tavuk Dönerler,4.0
+29DF351C-AB74-4765-B278-4135BE9EBBF6,İskender (Tavuk Dönerden),"24,00 TL",Tavuk Dönerler,5.0
+9eaca728-c09c-4176-84be-37d52f01b8f2,Yarım Ekmek Arası Tavuk Döner,"6,00 TL",Tavuk Dönerler,4.0
+6BE87352-A166-4F30-893A-9C3C52E75DFE,Tavuk Döner Dürüm,"7,00 TL",Tavuk Dönerler,4.0
+2cd174dc-f62b-4af8-be7d-ae55087c5eb1,Et Döner,"22,00 TL",Et Dönerler,7.0
+399F0DA1-B559-47DA-8285-76ED02D3B434,Pilav Üstü Et Döner,"28,00 TL",Et Dönerler,7.0
+1ae4cd2f-f9c5-4ef8-bfb2-478d4c87d587,İskender (Et Dönerden),"30,00 TL",Et Dönerler,5.0
+e0d056f1-94b6-4fb2-a068-d3c93183062b,Yarım Ekmek Arası Et Döner,"12,00 TL",Et Dönerler,7.0
+792F2DEA-7791-4AA5-9521-FE084E7DCCE6,Et Döner Dürüm,"13,00 TL",Et Dönerler,7.0
+013ad89a-1409-4dec-b897-e746125c798b,Kuru Fasulye,"13,00 TL",Ev Yemekleri,5.0
+3f91cc9e-1fb2-48da-9210-1f8751a7ef01,Tavuk Haşlama,"15,00 TL",Ev Yemekleri,2.0
+15742d50-3c1e-4936-a623-7fe5788db1a0,Tas Kebabı,"22,00 TL",Ev Yemekleri,5.0
+de1653c6-d084-4b50-85fd-3523e2e1ce24,Kavurma,"22,00 TL",Ev Yemekleri,5.0
+45f141f7-a6b8-44e6-b82f-75dd8beb77d9,Kuzu Kelle,"40,00 TL",Ev Yemekleri,5.0
+5e913915-e1a1-4e70-8431-b460062f7f98,Tavuk Şiş,"20,00 TL",Ev Yemekleri,2.0
+9DD6C360-5392-403B-BB5B-10245F9A625C,Patlıcan Kebabı,"15,00 TL",Ev Yemekleri,5.0
+ED02BF53-D9C1-47FB-B3A0-3BEC395172C7,Tavuk Sote,"15,00 TL",Ev Yemekleri,2.0
+DAEBC037-AE05-434D-9602-FAB16151004A,Sebzeli Kebap,"15,00 TL",Ev Yemekleri,5.0
+095d8405-7ade-4107-ac15-891dc25eaba6,Lahmacun,"6,00 TL",Fırın Ürünleri,10.0
+A8E7EF49-BB02-4A9C-BEA2-39F6FEC2D0DD,Kıymalı Kaşarlı Pide,"18,00 TL",Fırın Ürünleri,7.0
+3B1786C4-4E94-4636-B457-3A64853355A7,Konya İşi Pide,"20,00 TL",Fırın Ürünleri,7.0
+447B3653-54C5-4362-AA7C-8DCAEA4E05B7,Kuşbaşılı Kaşarlı Pide,"22,00 TL",Fırın Ürünleri,7.0
+165C72EF-A4BE-441C-A2A3-08421377F4C9,Kaşarlı Lahmacun,"8,00 TL",Fırın Ürünleri,5.0
+757d6311-64d5-45a9-ac74-7f868513a6c2,Kıymalı Pide,"15,00 TL",Fırın Ürünleri,7.0
+8a2131e5-65ff-4782-a436-c6a978f1baf1,Kaşarlı Pide,"18,00 TL",Fırın Ürünleri,7.0
+b8bbffca-e283-4bbe-8b95-c82164e35d32,Sucuklu Pide,"18,00 TL",Fırın Ürünleri,7.0
+aa4ee233-1110-4b0d-8f0c-69c27260e852,Kuşbaşılı Pide,"20,00 TL",Fırın Ürünleri,7.0
+ddc90d73-430f-4610-8511-0f47b6f366c5,Karışık Pide,"23,00 TL",Fırın Ürünleri,7.0
+747204EF-5BA4-4DC8-B3FE-FDB1579D9B7E,Sucuklu Kaşarlı Pide,"21,00 TL",Fırın Ürünleri,7.0
+f8a21ac9-aee9-43e3-8a97-b7e54427f8da,Pirinç Pilavı,"6,00 TL",Yan Ürünler,5.0
+0934c9b2-ee7a-468f-9598-44172444e4e4,Bulgur Pilavı,"6,00 TL",Yan Ürünler,5.0
+dc061fa9-d188-4613-a0ac-ec3c86cd81c6,Fırında Tereyağlı Keşkek,"12,00 TL",Yan Ürünler,5.0
+B5DC62F0-C26B-49C5-A04D-730633B20F00,Cacık,"6,00 TL",Yan Ürünler,5.0
+15BA49EB-37D6-45F6-A7CD-B56BD242BFDE,Yoğurt,"6,00 TL",Yan Ürünler,5.0
+7AAD4C27-438D-4708-88E8-CE24E2081264,Çoban Salata,"6,00 TL",Yan Ürünler,5.0
+239B1124-49A7-46DD-93E9-AFED12014F3E,Yeşil Salata,"6,00 TL",Yan Ürünler,5.0
+fe286131-7c13-4d80-a347-a461967a4198,Ayran (15 cl.),"1,50 TL",İçecekler,3.0
+FF99B219-C27E-464E-B725-F9ED77A60BCB,Su (150 cl.),"2,50 TL",İçecekler,7.0
+ef4e33ba-782c-4479-b41a-1be86efb0740,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,40 @@
+food_id,food_name,food_price,food_category,food_score
+79c87b50-10cf-4335-a292-a1cfeb6fd30b,Full Sandviç Menü,"24,00 TL",Menüler,11.0
+d8916766-99ef-43e7-8ffe-a4c5b2047899,Çeşme Kumru Sandviç Menü,"26,00 TL",Menüler,3.0
+a8b798e2-7e21-4cb0-912b-e4f2079384a5,Dana Burger Menü,"26,00 TL",Menüler,3.0
+5a7e421d-0def-4167-99ed-96d91b7534cf,Ekmek Arası Köfte Menü,"25,00 TL",Menüler,6.0
+50d55b3e-13ea-4c56-b1bb-e3f7d5da5c88,2'li Maxi Sandviç Menü,"39,00 TL",Menüler,6.0
+11d8093b-045e-4019-b670-4b11fe3c5913,3'lü Maxi Sandviç Menü,"62,00 TL",Menüler,6.0
+711f473b-b6d8-4d74-8622-c46d93cf3fc2,4'lü Maxi Sandviç Menü,"75,00 TL",Menüler,6.0
+008b14ce-65a7-44f7-abf5-2a8df1c993eb,5'li Maxi Sandviç Menü,"80,00 TL",Menüler,6.0
+DC57979B-5157-4FD8-A97E-133F5F98C631,Karışık Sandviç Menü,"24,00 TL",Menüler,11.0
+cdfa8528-7da7-4aed-b8a1-ce9266fb5c56,Karışık Tost Menü,"24,00 TL",Menüler,9.0
+e9dd76d5-ce45-4b60-9582-2f2b3bd4f304,Karışık Tost,"12,00 TL",Tostlar,10.0
+7cba6a34-d56f-46ef-b259-09e729e3e9bc,Salamlı Kaşarlı Tost,"12,00 TL",Tostlar,4.0
+3cae3021-f5f6-4e8f-9b29-6aa7bae8ba6e,Sucuklu Kaşarlı Tost,"12,00 TL",Tostlar,4.0
+9e351569-aa31-41ab-bd5a-b8a0bd7e46cb,Kaşarlı Tost,"12,00 TL",Tostlar,4.0
+15f28813-d04b-4e81-ac12-c0e3287618fc,Beyaz Peynirli Tost,"14,00 TL",Tostlar,5.0
+D6AEE3B1-F81F-4848-B5CC-C6D709E34E2A,Kaşarlı Kavurmalı Tost,"18,00 TL",Tostlar,10.0
+9EA01960-D5D8-4894-9DDD-3A604DF84F96,Cheddarlı Kavurmalı Tost,"21,00 TL",Tostlar,11.0
+9FDBAFEC-1E89-4224-B2BE-1DAA66821D8C,Gurme Tost,"25,00 TL",Tostlar,5.0
+aa1b2aff-0a33-40c4-8c30-4418615c55c5,Full Sandviç,"12,00 TL",Sandviçler,7.0
+0ab580c4-1981-4d7e-9a32-0c6745bb123a,Maxi Sandviç,"13,00 TL",Sandviçler,12.0
+40c6b898-bb55-4f20-abf9-0a0878421856,Salamlı Kaşarlı Sandviç,"13,00 TL",Sandviçler,6.0
+5cc5d3f4-40c7-4cb1-a940-6020d717deb8,Sucuklu Kaşarlı Sandviç,"17,00 TL",Sandviçler,6.0
+1641e988-4674-43ca-b992-e08798e87872,Yumurtalı Sandviç,"16,00 TL",Sandviçler,10.0
+b122347c-e558-45f5-bfd1-1ede6170b03f,İzmir Kumru Sandviç,"14,00 TL",Sandviçler,3.0
+b3a436e4-acce-4bb7-910d-1b57c15180aa,Çeşme Kumru Sandviç,"16,00 TL",Sandviçler,9.0
+ce6942f9-1667-4e76-ab66-e745dee7d3c3,Sucuklu Kaşarlı Kumru Sandviç,"17,00 TL",Sandviçler,4.0
+f804852c-de28-41cf-8344-5a92af40eadd,Duble Kumru Sandviç,"22,00 TL",Sandviçler,5.0
+a6f6df1d-0757-45c1-8dad-07096ed99d90,Salamlı Kaşarlı Kumru Sandviç,"14,00 TL",Sandviçler,4.0
+d9a78f51-3327-4629-b422-2105cd46942c,Izgara Köfte,"25,00 TL",Köfteler,2.0
+c0bc9838-77e2-4ae8-8761-944b78c43895,Ekmek Arası Köfte,"14,00 TL",Köfteler,7.0
+6ee3d9c8-efbb-465c-ab35-ff689cb839ee,Ekmek Arası Kaşarlı Köfte,"17,00 TL",Köfteler,6.0
+e7e76fe6-1e08-41c8-8f1f-805abe0e259c,Dana Burger,"14,00 TL",Burgerler,4.0
+8d561402-8f85-43b8-bc48-954f6b59658d,Cheeseburger,"18,00 TL",Burgerler,7.0
+20fd6c4a-393c-4d15-b1a4-1caaceb048ef,Patates Kızartması,"8,00 TL",Yan Ürünler,5.0
+58BC94DB-F7AC-422B-8460-DBCE7D87258D,Kazandibi (100 gr.),"4,00 TL",Tatlılar,7.0
+666CD00F-2F32-434F-AFCE-1E4BD9B256A9,Puding (100 gr.),"4,00 TL",Tatlılar,5.0
+50083874-A3B7-4D1A-9982-817DC8700DD4,Keşkül (100 gr.),"4,00 TL",Tatlılar,5.0
+3ba8b6e5-3c06-4c33-87cc-52855251d75a,Niğde Gazozu (25 cl.),"4,00 TL",İçecekler,5.0
+e4def3da-55cc-4432-bcad-26a8d3adba41,Poşet,"0,25 TL",Poşet,5.0

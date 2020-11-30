@@ -1,0 +1,71 @@
+food_id,food_name,food_price,food_category,food_score
+48c14a3b-c9e6-4962-8f61-08b49566f6d7,Ayvalık Tostu Menü 1,"23,00 TL",Menüler,9.0
+221588d3-7639-43a6-9ba0-90731e4147bf,Ayvalık Tostu Menü 2,"45,00 TL",Menüler,6.0
+517b3310-e1a6-435d-b18c-e7084d101d46,Çiğ Köfte Dürüm Menü,"7,00 TL",Menüler,5.0
+40b64208-4d6f-47aa-9aec-07dc97f35ce3,Somun Ekmek Arası Et Tantuni Menü 1,"18,00 TL",Menüler,9.0
+c6aba5cf-58eb-4b44-8892-469734633331,Somun Ekmek Arası Et Tantuni Menü 2,"22,00 TL",Menüler,6.0
+a33e1f02-1fd9-4ce8-9e82-c78838759b16,Ekmek Arası Izgara Köfte Menü,"21,00 TL",Menüler,5.0
+939eb35e-56c5-4966-b22f-c9e062733090,Somun Ekmek Arası Tavuk Tantuni Menü 1,"12,00 TL",Menüler,9.0
+e155be15-7dde-4691-b48c-1303d6b1b426,Somun Ekmek Arası Tavuk Tantuni Menü 2,"16,50 TL",Menüler,6.0
+5b2bb468-ed0e-4e7c-8e2d-4239ea322ba4,Et Tanburger & Tavuk Tanburger Menü 1,"34,00 TL",Menüler,9.0
+f8634de2-2d02-4f67-82a2-bd345d523a90,Et Tanburger & Tavuk Tanburger Menü 2,"65,00 TL",Menüler,6.0
+b3504bf6-1247-46c0-9412-b2bba7fdbe9f,Et Tanburger Menü 1,"23,00 TL",Menüler,9.0
+38b1da8c-6361-4780-85b4-66e3f5247638,Et Tanburger Menü 2,"42,00 TL",Menüler,6.0
+973af11b-e1e2-4580-a931-235749b75a10,Et Tanburger Menü 3,"46,00 TL",Menüler,5.0
+d11be515-22f7-4c94-bade-fe4ea13f2c66,Et Tanburger Menü 4,"40,00 TL",Menüler,5.0
+c3f62ad0-0548-4e04-9eab-666373fcef26,Et Tantuni Dürüm Menü 1,"18,00 TL",Menüler,9.0
+78e6bad6-c474-4572-a7fb-08f28412a71f,Et Tantuni Dürüm Menü 2,"22,00 TL",Menüler,6.0
+57d1920b-4ce2-423d-b02d-a3d5aa91fd5f,Et Tantuni Dürüm Menü 3,"35,00 TL",Menüler,5.0
+a930fdbc-514c-43ba-875e-814ed6e7b690,Et Tantuni Dürüm Menü 4,"39,00 TL",Menüler,5.0
+783498c9-0059-4de0-bee8-cafc09eadd2e,Kaşarlı Tavuk Tanburger Menü 1,"30,00 TL",Menüler,9.0
+c36677ce-e6a2-4934-9baf-db35ab72e3a9,Kaşarlı Tavuk Tanburger Menü 2,"34,00 TL",Menüler,6.0
+d5fde0f5-7b87-416c-b0a9-728d7c12814b,Somun Ekmek Arası Et Tantuni Menü 3,"35,00 TL",Menüler,5.0
+9cd7d5e7-7648-4009-b55c-68cda5062baf,Somun Ekmek Arası Et Tantuni Menü 4,"39,00 TL",Menüler,5.0
+0eb542af-ba76-4d2d-8cdb-bd0af3624a75,Somun Ekmek Arası Tavuk Tantuni Menü 3,"23,00 TL",Menüler,5.0
+11452e4d-07b0-4503-982c-f7e4a3ee3f34,Somun Ekmek Arası Tavuk Tantuni Menü 4,"27,00 TL",Menüler,5.0
+76966095-97bf-4a9d-8273-3246aab30b46,Tavuk Tanburger Menü 1,"18,00 TL",Menüler,9.0
+5a715a2f-1d4e-42f7-b4c1-3d22be5a9717,Tavuk Tanburger Menü 2,"28,00 TL",Menüler,6.0
+0b5dad6a-dd06-4da6-9a19-a9da433a5f1c,Tavuk Tantuni Dürüm Menü 1,"12,00 TL",Menüler,9.0
+45b82759-2f23-4420-aab4-0f9caf4522c4,Tavuk Tantuni Dürüm Menü 2,"16,50 TL",Menüler,6.0
+1facf664-b787-41b3-b012-636106caaa6d,Tavuk Tantuni Dürüm Menü 3,"23,00 TL",Menüler,5.0
+7b8bfa5a-0e30-4e64-9c3c-f4b5b07dce02,Tavuk Tantuni Dürüm Menü 4,"27,00 TL",Menüler,5.0
+10f16eed-c38c-4642-88f9-a1a0e7d4f3fa,Ayvalık Tostu,"15,00 TL",Tostlar,5.0
+0166fdd0-bb05-4b77-865b-a4bb0f8868b8,Çift Kaşarlı Tost,"13,00 TL",Tostlar,5.0
+b7118083-36e3-4cdb-8ff1-2a47c6a06413,Kaşarlı Domatesli Tost,"10,00 TL",Tostlar,5.0
+6a7e22e1-470c-4627-8015-a661de61601d,Kaşarlı Salamlı Sucuklu Tost,"14,00 TL",Tostlar,5.0
+7f4fa2a9-db33-4bc1-a8d5-87c2337c5de9,Kaşarlı Salamlı Tost,"12,00 TL",Tostlar,5.0
+8baf9d1a-5a7a-4180-b1c2-33ce97cf85bb,Kaşarlı Sucuklu Tost,"12,00 TL",Tostlar,5.0
+3d9a27d6-4f0c-48c0-a26e-2f462b4b4e6a,Kaşarlı Tost,"10,00 TL",Tostlar,5.0
+36ecce96-74b6-43e9-8e15-c212cab62b1c,Kavurmalı Kaşarlı Tost,"18,00 TL",Tostlar,5.0
+126c0bf0-f0ad-45a4-8877-02d954ea52b8,Sucuklu Tost,"10,00 TL",Tostlar,5.0
+f0417662-3c56-4f9c-a7a4-ee3c0ce26e01,Et Tanburger,"16,00 TL",Et Tantuniler,5.0
+b90ad874-27bb-4272-a290-8ce543713927,Et Tantuni Dürüm,"16,00 TL",Et Tantuniler,5.0
+bd3f448b-1187-41ac-9be2-b8fe89fe4024,Kaşarlı Et Tanburger,"19,00 TL",Et Tantuniler,5.0
+236f091d-97f4-4073-9592-c45798ba020c,Kaşarlı Et Tantuni Dürüm,"19,00 TL",Et Tantuniler,5.0
+0294bcea-b7af-4bb3-9e99-9dec9aea4135,Somun Ekmek Arası Et Tantuni,"16,00 TL",Et Tantuniler,5.0
+bc5d3725-ac9c-46bd-b599-86df3dec6a51,Somun Ekmek Arası Kaşarlı Et Tantuni,"19,00 TL",Et Tantuniler,5.0
+c6c5917b-ed68-4bf3-ac44-c56a107c10ef,Yoğurtlu Et Tantuni Dürüm,"19,00 TL",Et Tantuniler,6.0
+9085ecfe-d6e2-4183-8cac-4cb1f9c14a63,Kaşarlı Tavuk Tanburger,"13,00 TL",Tavuk Tantuniler,5.0
+41b42c0f-5c43-4a8c-8b38-7dc83d71498d,Kaşarlı Tavuk Tantuni Dürüm,"13,00 TL",Tavuk Tantuniler,5.0
+ac67e1b0-4d09-4744-9f92-f0be2ae6fd69,Somun Ekmek Arası Kaşarlı Tavuk Tantuni,"13,00 TL",Tavuk Tantuniler,5.0
+6fec9896-b16f-4316-bdba-bbd6df375137,Somun Ekmek Arası Tavuk Tantuni,"10,00 TL",Tavuk Tantuniler,10.0
+d332fddc-b193-49b5-877a-1cc00b4f399e,Tavuk Tanburger,"10,00 TL",Tavuk Tantuniler,5.0
+e75b7307-3e76-4d25-8066-cb7c4d798893,Tavuk Tantuni Dürüm,"10,00 TL",Tavuk Tantuniler,10.0
+18e4880e-9cf4-461d-a046-680c6ab4c16f,Yoğurtlu Tavuk Tantuni Dürüm,"13,00 TL",Tavuk Tantuniler,6.0
+941ecd6d-a867-41e2-ae4f-e199eabf64f1,Izgara Köfte,"25,00 TL",Köfteler,5.0
+ac737e93-6bf3-42a7-affd-68c5cff25415,Yarım Ekmek Arası Izgara Köfte,"15,00 TL",Köfteler,5.0
+75fdd9ab-f129-4f4d-a46b-b3911cb1012e,Çiğ Köfte Dürüm,"5,00 TL",Çiğ Köfteler,5.0
+f0f25ddc-2ce8-4fcf-a95e-1b3ef9e91582,Çiğ Köfte (200 gr.),"10,00 TL",Çiğ Köfteler,5.0
+8cc85d74-ae30-4b68-8bf6-2d0819e03ec1,Çiğ Köfte (400 gr.),"20,00 TL",Çiğ Köfteler,5.0
+0711e9c2-07b1-4f80-9329-45ef143d0635,Çiğ Köfte (600 gr.),"30,00 TL",Çiğ Köfteler,5.0
+50d14255-d46b-432f-a41e-9353053a5a36,Çiğ Köfte (1 kg.),"50,00 TL",Çiğ Köfteler,5.0
+217e39e2-4044-4466-ab21-95faddab58ae,Patates Kızartması,"7,00 TL",Sıcak Aperitifler,5.0
+2d81044f-fc58-48c8-b5f0-c52752cf4af9,Soğan Halkası (7 Adet),"9,00 TL",Sıcak Aperitifler,5.0
+35007107-c67c-405b-a55d-71186baa376b,Nugget (7 Adet),"9,00 TL",Sıcak Aperitifler,5.0
+c83eec4f-2706-496f-9e8f-39cadd704fd1,Midye Dolma (Büyük) (Adet),"2,00 TL",Midye Dolmalar,10.0
+3beb9641-a821-470b-9adb-fcb7b7e8ed15,Midye Dolma (Büyük) (10 Adet),"20,00 TL",Midye Dolmalar,5.0
+32bbdd0b-b90d-4e3d-bc20-c989ba0c0e38,Midye Dolma (Büyük) (20 Adet),"40,00 TL",Midye Dolmalar,5.0
+0e94f6d0-8d91-4db2-aa10-e3d6f8291645,Midye Dolma (Büyük) (30 Adet),"55,00 TL",Midye Dolmalar,5.0
+a98a692b-2a90-44d8-a086-3a41df998f0e,Midye Dolma (Büyük) (50 Adet),"90,00 TL",Midye Dolmalar,5.0
+549fa312-c9d6-4cd7-9e64-677f495dcafc,Ayran (20 cl.) (Cam şişe),"3,50 TL",İçecekler,5.0
+b055f835-2c73-402e-95f8-9b96c02e051a,Poşet,"0,25 TL",Poşet,5.0

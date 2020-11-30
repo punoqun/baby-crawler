@@ -1,0 +1,63 @@
+food_id,food_name,food_price,food_category,food_score
+7BB7831B-6B99-4521-A706-07BA327B1E9D,Dürüm Sever Döner Menü,"37,00 TL",Döner Menüleri,7.0
+F3E400B7-CEA5-40D3-B83D-EEECF3B55A06,İskender (Tavuk Dönerden) Menü,"28,00 TL",Döner Menüleri,5.0
+1CC7BE6F-07EF-4DA9-A3BD-20B28A8D9B46,Kaşarlı Dürüm Tavuk Döner Menü,"23,00 TL",Döner Menüleri,11.0
+4CE40E3A-04F5-4922-9954-A82AB2CC0FC0,Dürüm Tavuk Döner Menü,"19,00 TL",Döner Menüleri,11.0
+B8660DF5-CE86-4CD7-9203-E1627DEC1557,Ekmek Arası Tavuk Döner Menü,"16,00 TL",Döner Menüleri,9.0
+9FCB0098-1A38-4E2D-A561-27E27D43D83B,Tombik Ekmek Tavuk Döner Menü,"16,00 TL",Döner Menüleri,13.0
+105BD9D3-A2B9-418C-920D-96052A9E1DF8,Öğrenci Döner Menü,"30,00 TL",Döner Menüleri,6.0
+2953556a-58d8-451d-aba0-4b919b4d2bbe,Kumru Menü,"26,00 TL",Patso Menüleri,3.0
+2fdde72d-595b-4d80-a9d0-b97b011b8ab7,Tavuk Dönerli Patso Menü,"25,00 TL",Patso Menüleri,24.0
+7caef7e6-1f08-4282-a600-f8584aa8194b,Sade Patso Menü,"21,00 TL",Patso Menüleri,20.0
+8e96855e-8241-4841-b4de-d5527ffe6c1b,Karışık Patso Menü,"28,00 TL",Patso Menüleri,22.0
+4C307B1E-5A04-4E3D-806C-77E3A3A366A4,Ciğerli Patso Menü,"26,00 TL",Patso Menüleri,20.0
+1078FF99-2A02-47DC-9968-31D73838748F,BüfeX Patso Menü,"27,00 TL",Patso Menüleri,20.0
+761C382E-977B-49D6-9EC9-E600825FF27C,Sosisli Patso Menü,"25,00 TL",Patso Menüleri,20.0
+856E680C-72D5-4A16-A4D8-CCED1B06E2B2,Amerikanlı Patso Menü,"25,00 TL",Patso Menüleri,20.0
+1B48E644-9A6E-488A-8DC1-AA18D6087FD6,Kumrulu Patso Menü,"27,00 TL",Patso Menüleri,20.0
+072e4f54-e5ac-46b9-957a-547d461155f3,Cheeseburger Menü,"25,00 TL",Burger Menüleri,5.0
+b553c52d-dc7b-49ea-89d2-91c8166753bc,BüfeX Burger Menü,"27,00 TL",Burger Menüleri,5.0
+df489d55-5116-481d-acfe-3da75407a952,Tavuk Burger Menü,"20,00 TL",Burger Menüleri,9.0
+f95f9f8a-1c0c-4a51-87ea-70cc8c76a11c,Hamburger Menü,"23,00 TL",Burger Menüleri,4.0
+28537FB6-830F-49CD-929C-90820B5C704A,Double Burger Menü,"26,00 TL",Burger Menüleri,5.0
+4C7F11B2-3F3B-4C18-B2AA-2BEC0A70C483,BüfeX Mega Burger Menü,"36,00 TL",Burger Menüleri,5.0
+F32B364D-FE72-48A1-B99A-3267A6206FC2,Kumru Burger Menü,"23,00 TL",Burger Menüleri,3.0
+826F532A-1BF7-439B-85A1-7A55C8C3B8EE,Öğrenci Burger Menü,"44,00 TL",Burger Menüleri,5.0
+514447A8-3911-456E-8B97-44792D390541,3'lü Islak Hamburger Menü,"30,00 TL",Mega Menüler,7.0
+B69A2799-CB06-4998-890B-01294C40E615,2'li Sosisli Sandviç Menü,"23,00 TL",Mega Menüler,5.0
+FE447FC5-EC58-4F97-8C50-81B837DE1B3A,2 Kişilik Islak Hamburger Menü,"57,00 TL",Mega Menüler,13.0
+A06B0869-0C56-49AE-9E62-4F0E5ACD20D0,6'lı Sosisli Sandviç Menü,"57,00 TL",Mega Menüler,5.0
+B0C9537F-98DA-412C-AB88-63D93C81FF60,3'lü Sosisli Sandviç Menü,"30,00 TL",Mega Menüler,5.0
+3787B8CD-F360-48D9-BC36-193942C3055F,2'li Kumru Sandviç & Islak Hamburger Menü,"53,00 TL",Mega Menüler,5.0
+F963BB14-5A7A-4290-B6B0-D09CB29BEA85,Kavurmalı Kaşarlı Menemen,"16,00 TL",Kahvaltılıklar,6.0
+4BED9CEA-F44E-4979-BA71-848072296B3B,Kaşarlı Menemen,"13,00 TL",Kahvaltılıklar,5.0
+0A7CA729-B385-4042-A189-C6A9B879FF0F,Kaşarlı Sucuklu Sandviç,"12,00 TL",Soğuk Sandviçler,6.0
+B64F5996-3198-4E5A-A5B0-55EC78490BE5,Amerikan Salatalı Sandviç,"9,00 TL",Soğuk Sandviçler,5.0
+F711129B-8942-4CC9-A163-926F02213EF6,Üç Peynirli Sandviç,"14,00 TL",Soğuk Sandviçler,5.0
+586A9442-DF48-4C2C-980A-1D0BF126EBD0,Kaşarlı Sosisli Sandviç,"8,50 TL",Sandviçler,5.0
+2B5B439D-A2D5-44CF-80DA-847F87294995,Cheddarlı Sosisli Sandviç,"9,00 TL",Sandviçler,7.0
+AFD70953-33A2-4503-9B5C-285591EB4C76,Biftek,"26,00 TL",Et Biftekler,5.0
+3395CEAB-67C5-4E73-A9F9-3BFA92BB2001,Biftek Dürüm,"18,00 TL",Et Biftekler,6.0
+5229AA08-32FB-4174-B13D-F166ED18C0B0,Tombik Ekmek Arası Biftek,"16,00 TL",Et Biftekler,8.0
+473C6D23-D515-4158-86DC-0B1DEB41D7C7,Kaşarlı Biftek Dürüm,"20,00 TL",Et Biftekler,6.0
+61c629f9-a840-4304-9c44-2af11f53f565,Ekmek Arası Biftek,"16,00 TL",Et Biftekler,4.0
+CBA3282F-BA11-47E3-9060-7E0A2D079790,Amerikanlı Patso,"14,00 TL",Patsolar,20.0
+EE5D2741-C80A-4F18-9853-1DB2D05DEEBE,Kumrulu Patso,"16,00 TL",Patsolar,20.0
+7F0B4BB9-1068-4EF4-B4DC-BBC446DE9C4B,BüfeX Mega Burger,"27,00 TL",Burgerler,5.0
+7A7B8F90-F574-48A4-84A6-018F3A39E42C,Double Tavuk Burger,"16,00 TL",Burgerler,9.0
+762C2379-B32D-4D40-B8A4-D440C4BAC056,Kumru Burger,"15,00 TL",Burgerler,3.0
+51C17E9D-E229-44CF-A5BF-3C6D61251B61,3/4 Ekmek Arası Tavuk Döner,"10,00 TL",Tavuk Dönerler,9.0
+537B5E87-629D-4885-A5ED-7C675962B71B,Izgara Köfte Dürüm,"18,00 TL",Dürümler,8.0
+362C4E67-F25B-445C-A9CA-075F649BD7A5,Kaşarlı Izgara Köfte Dürüm,"21,00 TL",Dürümler,8.0
+096AD40F-B878-4955-959F-EB4B6D1A9F56,Sosis Tabağı,"16,00 TL",Diğer Lezzetler,6.0
+F80131E8-EA0F-4777-AC6F-A6D4BEA8E2C2,Atıştırmalık Tabağı,"22,00 TL",Diğer Lezzetler,5.0
+A0D7FEAC-1F54-42D5-B5D0-1E6EEF12CA44,Oreolu Mag,"14,00 TL",Tatlılar,5.0
+3EA21A81-EB32-4B79-AEE3-C5EBB3B037AE,BüfeX Açık Ayran,"3,50 TL",İçecekler,4.0
+868FEC36-2C9A-4E99-A28E-78D0B3939BFE,BüfeX Limonata,"7,00 TL",İçecekler,5.0
+0e0c030f-ba1f-430b-9c71-250831a4c4ee,Taze Sıkma Armut Suyu,"12,00 TL",Vitamin Bar,9.0
+6b5ce24d-5f3d-4382-b527-1c5d9c7c81ce,Taze Sıkma Havuç Suyu,"11,00 TL",Vitamin Bar,9.0
+8909d1d5-2c52-4c25-bb55-07fd1d96f205,Taze Sıkma Elma Suyu,"12,00 TL",Vitamin Bar,9.0
+eac86947-cc72-4631-af81-ffa45643d527,Taze Sıkma Portakal Suyu,"13,00 TL",Vitamin Bar,9.0
+9F3CD375-1D78-4660-B61F-D40B4190B5A1,Taze Sıkma Mandalina Suyu,"11,00 TL",Vitamin Bar,9.0
+81561D98-ECE1-48F6-ADEA-958B6050F8DE,Büfex Karışık Meyve Suyu,"15,00 TL",Vitamin Bar,7.0
+5d47feda-359f-4ddf-b427-29290a79f9ca,Poşet,"0,25 TL",Poşet,5.0

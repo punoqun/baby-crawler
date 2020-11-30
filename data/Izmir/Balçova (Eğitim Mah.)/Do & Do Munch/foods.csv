@@ -1,0 +1,52 @@
+food_id,food_name,food_price,food_category,food_score
+806b0191-f37c-479a-a4b2-5b7fc2a9a289,Doyuran 1,"28,90 TL",Menüler,27.0
+38ff1c6a-4ca4-431e-b87d-01266d0e1751,Munch 1,"24,90 TL",Menüler,25.0
+acb4e345-5b8b-4e06-83ed-9f9698734d30,Kemikli Menü,"30,90 TL",Menüler,10.0
+75aa8d73-65d3-4f5f-bed1-3cbc47e0e30d,Ekonomik Menü,"23,90 TL",Menüler,15.0
+0cb08d1b-61b1-4184-9a94-1bff09a80169,Patatessiz Karışık Menü,"33,90 TL",Menüler,10.0
+27c26093-03c1-4c2b-83e3-57597cd6d429,Ortaya Karışık Menü,"42,90 TL",Menüler,10.0
+b868b3a0-6b8e-4242-93ff-faa5c2352682,Tıka Basa Menü,"49,90 TL",Menüler,10.0
+bc01e326-9184-47b1-a4af-25b07e58ca44,Kanat Sever Menü,"26,90 TL",Menüler,12.0
+8ec0e6a8-d280-47fa-aab7-cbfcf3338716,Doyuran (Acı Lokmalı) Menü,"27,90 TL",Menüler,12.0
+c1675736-1c21-4cb2-8999-1ff9178dcbbb,Mini Karışık Menü,"19,90 TL",Menüler,10.0
+bd1b9540-14dc-4d22-b42e-2326b6105fc4,Atıştırmalık Menü,"21,90 TL",Menüler,10.0
+687f7b62-1a3b-456d-8f1c-03c54d2cd0e1,Do & Do Burger Menü,"32,90 TL",Burger Menüleri,18.0
+fdb6a3a2-925f-47dc-9e5c-5433df341af1,Do & Do Double Burger Menü,"42,90 TL",Burger Menüleri,18.0
+7c9aa06d-2460-4f52-af7a-633ed7f66bfa,Do & Do Double Tavuk Burger Menü,"31,90 TL",Burger Menüleri,39.0
+1fec30e7-da06-4323-b5b2-d5f2fb673337,Do & Do Tavuk Burger Menü,"26,50 TL",Burger Menüleri,39.0
+548209df-44fc-49f2-9721-e03e2b3f471b,Çıtır Tavuk (1 Adet),"5,00 TL",Çıtır Tavuklar,26.0
+72f45b27-48fe-43f6-ac4f-781c46faff41,Çıtır Tavuk (3 Adet),"13,00 TL",Çıtır Tavuklar,26.0
+4a5f0a6d-af11-456d-a71b-7cba3ccf3ff5,Çıtır Tavuk (6 Adet),"22,00 TL",Çıtır Tavuklar,26.0
+ff1b10d5-641e-4879-9d63-1b36f6611add,Çıtır Tavuk (9 Adet),"28,00 TL",Çıtır Tavuklar,26.0
+86de105d-5584-4f7e-96d9-7d29772febf0,Çıtır Tavuk (12 Adet),"34,00 TL",Çıtır Tavuklar,26.0
+6131d58a-2afb-4fb1-bf97-488f12dd713e,Çıtır Tavuk (15 Adet),"38,50 TL",Çıtır Tavuklar,26.0
+ba3b0cd4-4241-4cc1-8653-77217f7e5909,Çıtır Tavuk Kanat (2 Adet),"9,00 TL",Çıtır Tavuk Kanatlar,27.0
+1fe20099-4c17-42f3-bd70-54d1be20d9b4,Çıtır Tavuk Kanat (4 Adet),"17,00 TL",Çıtır Tavuk Kanatlar,27.0
+f6d1a351-6f34-4d4a-a6e2-176dd0afa797,Çıtır Tavuk Kanat (6 Adet),"24,00 TL",Çıtır Tavuk Kanatlar,27.0
+aeaf31a9-8631-4c9e-9074-c05da8d8d7e7,Çıtır Tavuk Kanat (8 Adet),"28,00 TL",Çıtır Tavuk Kanatlar,27.0
+64c56c7d-fddf-490f-b739-a719b8ae9f2d,Çıtır Tavuk Kanat (10 Adet),"32,00 TL",Çıtır Tavuk Kanatlar,27.0
+bfcd76db-69b5-4014-bdb4-f8921bd24d61,Çıtır Tavuk Kanat (12 Adet),"36,00 TL",Çıtır Tavuk Kanatlar,27.0
+8840c805-e383-43f4-8f46-7284e6221d79,Çıtır Tavuk Kanat (14 Adet),"38,00 TL",Çıtır Tavuk Kanatlar,27.0
+0c349d76-b417-4780-897e-650c8aa0717b,Çıtır Tavuk But (1 Adet),"6,00 TL",Çıtır Tavuk Butlar,26.0
+edd8db87-efdc-4eec-80e5-e37ca4f6eb24,Çıtır Tavuk But (2 Adet),"11,00 TL",Çıtır Tavuk Butlar,26.0
+6523c359-ea88-4b31-8704-8eb0e5b1c47d,Çıtır Tavuk But (4 Adet),"18,00 TL",Çıtır Tavuk Butlar,26.0
+32d5edce-7215-4ffc-b2d3-cda84a05186a,Çıtır Tavuk But (6 Adet),"25,00 TL",Çıtır Tavuk Butlar,26.0
+53a06beb-8bf5-430c-b925-0ea594c78970,Çıtır Tavuk But (8 Adet),"32,00 TL",Çıtır Tavuk Butlar,26.0
+5583297b-3cb2-4c62-bfc3-c214a61fb09d,Çıtır Tavuk But (10 Adet),"35,00 TL",Çıtır Tavuk Butlar,26.0
+8d8b2575-6393-483d-a65a-24aa10850edd,Do & Do Kaşarlı Sosis (Adet),"5,00 TL",Do & Do Kaşarlı Sosisler,15.0
+60cc3e6a-8e97-4ce3-8ed9-cbd14acce34e,Do & Do Kaşarlı Sosis (2 Adet),"9,00 TL",Do & Do Kaşarlı Sosisler,15.0
+59c3ad7d-7567-4ca0-9690-645f242aacc5,Do & Do Kaşarlı Sosis (4 Adet),"15,50 TL",Do & Do Kaşarlı Sosisler,15.0
+701c8995-5a8a-44be-9c4f-497683f11ac7,Do & Do Kaşarlı Sosis (6 Adet),"20,00 TL",Do & Do Kaşarlı Sosisler,15.0
+eeffb921-635e-4c37-ad7a-fc81ec9c7dc5,Acı Lokma (5 Adet),"7,00 TL",Acı Lokmalar,6.0
+abad3e0c-f6a5-42e4-ae7d-1bcbf1e0f90b,Acı Lokma (10 Adet),"12,00 TL",Acı Lokmalar,6.0
+80bc5fd2-6bb9-4d27-9831-09ca48f4d7f9,Acı Lokma (15 Adet),"16,00 TL",Acı Lokmalar,6.0
+f4779228-c2bb-47ee-be7c-a2cda8ffffc2,Acı Lokma (20 Adet),"19,50 TL",Acı Lokmalar,6.0
+01753008-1ae4-4a4e-a35e-b5fdb10c10fa,Soğan Halkası (5 Adet),"6,00 TL",Yan Ürünler,5.0
+8007df82-a3bb-4763-995a-33fbe36d3dbd,Soğan Halkası (10 Adet),"10,00 TL",Yan Ürünler,5.0
+5773c37d-7063-4cff-a7e4-6350143963d6,Soğan Halkası (15 Adet),"13,00 TL",Yan Ürünler,5.0
+58c129f8-6fd5-4712-a7eb-ac33ca2006f1,Soğan Halkası (20 Adet),"15,00 TL",Yan Ürünler,5.0
+34d6dc9e-b94b-4760-9d22-11f5842909f1,Orta Boy Patates Kızartması (200 gr.),"10,00 TL",Yan Ürünler,16.0
+2508323e-71de-4b49-8b3e-f3c2b3800e13,Büyük Boy Patates Kızartması (400 gr.),"18,00 TL",Yan Ürünler,16.0
+4db7f565-b790-4e64-abfb-d434de990127,Süper Boy Patates Kızartması (600 gr.),"25,00 TL",Yan Ürünler,16.0
+E3EC5C48-79A7-4EE0-9271-252061B2BDDB,Coleslaw,"5,00 TL",Yan Ürünler,5.0
+bb7be6e4-3506-4ed7-8e96-990a0c74946f,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,53 @@
+food_id,food_name,food_price,food_category,food_score
+9ffb24b3-7d58-401f-b23c-9e548490ff8b,Çiğ Köfte Dürüm Menü 1,"10,00 TL",Menüler,41.0
+1641a925-7955-4826-bfdc-7a7634a52398,Çiğ Köfte Dürüm Menü 2,"7,00 TL",Menüler,13.0
+597ea75f-8219-4409-a495-c564850f7474,Mega Çiğ Köfte Dürüm Menü 1,"14,00 TL",Menüler,41.0
+634d4223-ad5f-4688-829d-904d37ecfb78,Mega Çiğ Köfte Dürüm Menü 2,"11,00 TL",Menüler,13.0
+6B135E5A-B7E4-4D6D-BD63-8A6C468263B4,Ekmek Arası Anne Ciğeri Menü,"12,00 TL",Menüler,5.0
+4d9cb7dc-583c-4ad5-bdea-c5742ef2b012,Çiğ Köfte Dürüm,"6,00 TL",Çiğ Köfteler,26.0
+593a6fa5-1d42-4b6e-a5cd-0d71cea4d071,Mega Çiğ Köfte Dürüm,"10,00 TL",Çiğ Köfteler,21.0
+92d756e6-4b14-45c7-b720-7e797aa513bd,Çiğ Köfte (250 gr.),"14,00 TL",Çiğ Köfteler,19.0
+c5f8879a-4274-4ea1-86a2-176daf0bc87e,Çiğ Köfte (500 gr.),"27,50 TL",Çiğ Köfteler,19.0
+f7b2a6e5-74c2-4a8f-8934-f0eb765e82cf,Çiğ Köfte (1 kg.),"50,00 TL",Çiğ Köfteler,19.0
+98a8a0d6-94b6-4bce-9a36-f61dffcefa15,Midye Dolma (Adet) (Küçük),"1,25 TL",Yan Ürünler,24.0
+82db40d2-5f51-474a-baa4-9d413c70ceb9,Kızartma İçli Köfte (Adet),"6,50 TL",Yan Ürünler,6.0
+8cffb3b0-982d-4522-b613-9ffb9e915e3c,Lavaş (Adet),"0,50 TL",Yan Ürünler,7.0
+fd87dd56-a72b-48fd-80cd-60b7dc249b70,Midye Dolma (60 Adet),"70,00 TL",Yan Ürünler,19.0
+d5dfd24d-b31c-477a-96af-29fbc59ef1c0,Midye Dolma (Adet) (Büyük),"1,75 TL",Yan Ürünler,10.0
+F4290630-86DC-40DB-8C38-A9CE6B9DF3F1,Yaprak Sarma (250 gr.),"10,00 TL",Yan Ürünler,5.0
+9c7a94ef-58e4-4f46-b98a-350027c694e1,Yaprak Sarma (500 gr.),"20,00 TL",Yan Ürünler,5.0
+734e4767-2059-4619-89af-638a533aa84f,Yaprak Sarma (1 kg.),"40,00 TL",Yan Ürünler,5.0
+35dace99-60d1-40c3-b1a0-1f8115dc8b29,Kazandibi,"3,00 TL",Tatlılar,5.0
+2187c7d8-1c72-4cc6-b9ac-0055d772cef3,Puding,"3,00 TL",Tatlılar,5.0
+1cf0a0e3-519a-45a8-9d1a-14dbd2f6b964,Kadayıf Dolması,"5,00 TL",Tatlılar,5.0
+4345196e-dbc9-4986-abfa-94d0da90c5af,Keşkül,"3,00 TL",Tatlılar,5.0
+2ae08283-d367-4dd9-bb8b-94b3df575500,Sütlaç,"3,00 TL",Tatlılar,5.0
+B16B10DC-B385-4910-B126-9869E63645AB,Kıbrıs Tatlısı,"8,50 TL",Tatlılar,5.0
+E0FF65CC-E5A9-4C8E-8AFD-62303EDE1AA2,Çikolatalı Yaş Pasta (Küçük),"10,00 TL",Tatlılar,5.0
+D98961AE-0A2E-4CC0-B832-0DC3FF890282,Malaga Tatlısı,"15,00 TL",Tatlılar,5.0
+0467B083-B198-4635-846D-42E7DB5E1685,Muzlu Mag,"10,00 TL",Tatlılar,5.0
+0305FEF1-EA0E-4CA7-B823-CBF84C3D03AF,Kule Profiterol,"10,00 TL",Tatlılar,5.0
+09DF2244-D6C2-44C6-946E-800D0A1CB1C5,Supangle,"10,00 TL",Tatlılar,5.0
+4A30B58A-84B6-4825-A247-CC67C8B93A36,İbiza Tatlısı,"15,00 TL",Tatlılar,5.0
+795F33D0-2DB0-4A95-A913-3615CFB898A1,Fırın Sütlaç,"9,00 TL",Tatlılar,5.0
+892F4EDC-0569-46CC-AE9B-0DA0A7C07E07,Sufle,"10,00 TL",Tatlılar,7.0
+FCB7F672-A7C8-48E4-B868-90CECB8F0F62,Muzlu Petifur,"1,50 TL",Tatlılar,5.0
+A8328359-F6F5-4DBB-8606-53A310A99B6E,Karamelli Trileçe,"8,50 TL",Tatlılar,7.0
+faabf665-4a37-4feb-b8cf-3f4a321da88d,Kivili Mag,"10,00 TL",Tatlılar,5.0
+cbec96c5-1acc-4ef2-b4e2-d6c9224d27d8,Oreolu Mag,"10,00 TL",Tatlılar,5.0
+38a92017-9459-4764-a466-910e98c06448,Çilekli Mag,"10,00 TL",Tatlılar,5.0
+5fc06e4f-8408-4546-a1b6-093c6eafae44,Çilekli Petifur,"8,50 TL",Tatlılar,5.0
+e7ca47bb-d60a-4d67-8dd3-bc065ebe31c9,Frambuazlı Trileçe,"8,50 TL",Tatlılar,7.0
+8b6d8287-f8d4-4635-be3b-ac7f61a9d0c0,Hindistan Cevizli Trileçe,"8,50 TL",Tatlılar,7.0
+ab9c6bce-cfd8-441a-8819-a00a7755a63f,Çikolatalı Trileçe,"8,50 TL",Tatlılar,7.0
+54772795-69c9-4265-a6fd-956756066a5c,Portakallı Trileçe,"8,50 TL",Tatlılar,7.0
+882b8cc0-4ac6-4a3c-a57a-b66dbb70690e,Çikolatalı Trileçe (1 kg.),"45,00 TL",Tatlılar,7.0
+5d30d289-6d90-4c51-9e1a-6872fa54902f,Muzlu Petifur (1 kg.),"45,00 TL",Tatlılar,5.0
+0A4E909B-1B6C-4AC4-9809-7EBD5ECB4F35,Profiterol,"5,50 TL",Tatlılar,5.0
+5a077a41-44f3-4e18-80f7-481bcee64b98,Niğde Gazozu (25 cl.),"3,00 TL",İçecekler,5.0
+5cad2714-b194-40d4-b837-a080dfa6162a,Black Burn (25 cl.),"4,50 TL",İçecekler,5.0
+ACCB3EE3-FF49-4B01-97EF-3B9486667A0F,Eker Ayran (1.5 L.),"11,00 TL",İçecekler,5.0
+a58c8e8d-9794-4108-9412-95f2ca6153cb,Coca-Cola (2 L.),"7,50 TL",İçecekler,5.0
+a7db0ff0-0fc2-4344-b070-8b453edaf873,Fanta (2 L.),"7,50 TL",İçecekler,5.0
+b9a42650-8030-479f-b1d4-dcbea932a218,"Fanta (2,5 L.)","9,00 TL",İçecekler,5.0
+9fd552a4-78b2-4f57-857c-55b950a43ff7,Poşet,"0,25 TL",Poşet,5.0

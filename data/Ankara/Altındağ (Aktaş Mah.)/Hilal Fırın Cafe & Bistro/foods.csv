@@ -1,0 +1,28 @@
+food_id,food_name,food_price,food_category,food_score
+e94d4055-a2b4-49a5-aa22-e8c4c33b4394,Karışık Omlet,"14,00 TL",Kahvaltılıklar,6.0
+acc508b2-cd39-4a53-a47a-3ae4fa7924dc,Kaşarlı Omlet,"12,00 TL",Kahvaltılıklar,5.0
+f21aa646-da0e-4199-b431-89bf36c628c0,Sade Omlet,"11,00 TL",Kahvaltılıklar,5.0
+48a7dd59-530b-46e9-aa42-311a90add149,Kavurmalı Omlet,"19,00 TL",Kahvaltılıklar,5.0
+75ea408d-734d-4727-8ab9-4721db5c3aff,Kahvaltı Tabağı,"22,00 TL",Kahvaltılıklar,5.0
+e9fe4f75-e6b9-4e55-a456-3d0d9c43e1ed,Serpme Kahvaltı Tabağı,"60,00 TL",Kahvaltılıklar,7.0
+2a3f619a-df5c-4539-8aa4-a6bff741bc0a,Su Böreği,"12,00 TL",Kahvaltılıklar,7.0
+1a64f15d-fad5-456d-98a1-7289bd9dcdae,Kıymalı Karaköy Böreği,"12,00 TL",Kahvaltılıklar,5.0
+0ae3a97b-5510-41bc-8b1a-58b75624cf45,Karışık Tost,"18,00 TL",Tostlar,6.0
+ad264090-bde7-4bee-9435-b87327e2ca82,Kaşarlı Tost,"16,00 TL",Tostlar,5.0
+DD2CC9BA-9DA9-44DE-B8EB-F19DDBE44CBA,Sucuklu Tost,"16,00 TL",Tostlar,5.0
+8452fde2-3ed5-43c8-9259-b7177dd6e8f8,Hamburger,"25,00 TL",Burgerler,15.0
+f3de8c06-1544-4798-958c-cafa26c28f5c,Cheeseburger,"26,00 TL",Burgerler,5.0
+b51fe6f4-f607-4ab5-b868-aec296cb970a,İspir Kuru Fasulye,"25,00 TL",Diğer Lezzetler,5.0
+1d10bece-35c0-4b1e-9a63-add3801c62e9,Patates Tava,"10,00 TL",Yan Ürünler,5.0
+2cb6d25f-f156-46e3-9002-c7a6636fa4e1,Coca-Cola Light (25 cl.),"4,00 TL",İçecekler,5.0
+4d17f5ff-e195-412d-9907-4413045f0511,Coca-Cola Şekersiz (25 cl.),"4,00 TL",İçecekler,5.0
+c3f5ca90-cd5b-4b17-8a56-d880a3ceb064,Fanta (25 cl.),"4,00 TL",İçecekler,5.0
+dfa2e812-7df6-4198-b31c-b683d24cea10,Sprite (25 cl.),"4,00 TL",İçecekler,5.0
+4b90ea11-7c97-4165-b7bc-b896a2db5512,Cappy (25 cl.),"4,00 TL",İçecekler,5.0
+4043375b-b027-4d06-bde5-f58f7d794fb2,Fuse Tea (25 cl.),"4,00 TL",İçecekler,5.0
+3e628164-cdf3-4349-80ad-fc18d1edef89,Pepsi (25 cl.),"4,00 TL",İçecekler,5.0
+17bc6406-da00-44ea-9caf-4badf84f27d5,Lipton Ice Tea (25 cl.),"4,00 TL",İçecekler,5.0
+B100CFF6-C054-410A-993D-090679A74274,"Fanta (2,5 L.)","7,50 TL",İçecekler,5.0
+BACE1321-5B66-4F2C-B1B1-06867530EDB8,Su Böreği (1 kg.),"35,00 TL",Kiloluk Börekler,7.0
+230D6903-E0D1-4DA1-BADD-613F827D19E4,Karaköy Böreği (1 kg.),"35,00 TL",Kiloluk Börekler,5.0
+30de2ed1-16a8-4458-b9df-2a8ed05490bd,Poşet,"0,25 TL",Poşet,5.0

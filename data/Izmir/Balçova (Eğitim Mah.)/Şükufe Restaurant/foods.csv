@@ -1,0 +1,58 @@
+food_id,food_name,food_price,food_category,food_score
+e6d88e8b-63f1-427c-af8f-c733d8ec0482,Günün Menüsü,"33,90 TL",Menüler,10.0
+6da2934d-120e-416f-9c5b-b0efff8c502a,Şükufe Mantı Menü,"34,90 TL",Menüler,7.0
+d60f9002-3f13-4725-b922-d9eb072f70b6,Yoğurtlu Buğday Çorbası,"11,90 TL",Çorbalar,3.0
+b03175f7-f720-4e42-aeb8-283a4cbf583a,Zerdeçallı Mercimek Çorbası,"11,90 TL",Çorbalar,1.0
+cde0915b-39eb-42c2-b514-196f6378ad89,Beşamel Soslu Tavuk,"16,00 TL",Ana Yemekler,1.0
+3f152072-32c8-4dde-a2de-69d89cceb0d9,Fırın Makarna,"14,00 TL",Ana Yemekler,5.0
+e1314d94-6eec-4455-a439-bc51e1477299,Güveçte Etli Kuru Fasulye,"16,00 TL",Ana Yemekler,0.0
+88e12f49-b684-440e-98ec-0eec985d013d,Güveçte Etli Nohut,"16,00 TL",Ana Yemekler,5.0
+ef94a0b9-5c07-496e-a6a6-cfd02e27287e,Güveçte Kuru Fasulye,"16,00 TL",Ana Yemekler,-1.0
+158afd87-885b-4ea1-873c-72baef2bddb3,Güveçte Nohut,"16,00 TL",Ana Yemekler,4.0
+806f5d25-75ec-4661-a733-e0c9d54ea19d,Güveçte Sucuklu Kuru Fasulye,"16,00 TL",Ana Yemekler,0.0
+a444c970-91ef-403b-b8b8-e8b8990ff5f5,Köri Soslu Tavuk,"16,00 TL",Ana Yemekler,3.0
+8f905bec-82cc-46ab-9c7a-8af1a64ecb55,Patates Püresi Yatağında Soslu Köfte,"16,00 TL",Ana Yemekler,-3.0
+eacfcd8d-6780-4ee2-af16-1f5f6a23fc57,Patlıcan Beğendi Yatağında Soslu Köfte,"18,00 TL",Ana Yemekler,3.0
+66c82d71-e98a-49b5-9c7c-73ac1f6e3c28,Peynirli Sigara Böreği (6 Adet),"9,90 TL",Spesiyaller,7.0
+f3105711-6598-46b8-940f-1a884e4d0f9d,Pişi (3 Adet),"9,90 TL",Spesiyaller,5.0
+b4e9845b-d8d9-416a-aa44-cc1bd37870e1,Şükufe Zeytinyağlı Tabağı,"25,00 TL",Spesiyaller,13.0
+31f32a7f-e6e0-49a7-9e8c-801387578115,Şükufe Afilli Mantı,"29,90 TL",Mantılar,9.0
+19811e6f-dbcc-4bf3-b48c-3074d0b4ea01,Şükufe Kayseri Mantısı,"19,90 TL",Mantılar,9.0
+abc46754-f8e9-4c24-b025-c4fb8eca261a,Fırında Karnabahar Graten,"14,00 TL",Zeytinyağlılar & Mezeler,5.0
+50338602-57e0-440c-8804-b6b86178ce75,Havuç Tarator,"14,00 TL",Zeytinyağlılar & Mezeler,4.0
+d8100071-c40f-4e43-ba93-aba35b94235b,Haydari,"14,00 TL",Zeytinyağlılar & Mezeler,5.0
+24c7e044-2167-4340-a5c6-ed8ff2a7b750,Humus,"14,00 TL",Zeytinyağlılar & Mezeler,5.0
+11a82567-deb1-49d0-b48a-813e0899483c,Mercimek Köftesi,"14,00 TL",Zeytinyağlılar & Mezeler,1.0
+c7eebba0-aac5-4b3e-b6ab-ba6961048d4c,Şakşuka,"14,00 TL",Zeytinyağlılar & Mezeler,4.0
+7d2ebdf7-0b63-4f55-bf56-b3cfdbcc6f4f,Zeytinyağlı Ayvalı Kereviz,"14,00 TL",Zeytinyağlılar & Mezeler,8.0
+5a4660d1-b0b2-4b81-b3dd-93fa47a25080,Zeytinyağlı Barbunya Pilaki,"14,00 TL",Zeytinyağlılar & Mezeler,5.0
+f3948a2d-44a8-4da8-a22d-24913686e3e6,Zeytinyağlı Deniz Börülcesi,"14,00 TL",Zeytinyağlılar & Mezeler,8.0
+974e29f0-6e7c-424b-8400-6f80e90bec4a,Zeytinyağlı Kapuska,"14,00 TL",Zeytinyağlılar & Mezeler,8.0
+9797f053-b707-4303-8173-80923c18fd99,Zeytinyağlı Lahana Sarması (200 gr.),"16,00 TL",Zeytinyağlılar & Mezeler,8.0
+aa73f559-60cf-4f8a-9fe7-bbb05c9832e7,Zeytinyağlı Maş Fasulyesi,"14,00 TL",Zeytinyağlılar & Mezeler,10.0
+cb13d263-c290-4a95-8012-1c9b9ac697d7,Zeytinyağlı Pancar Sapı Ekşilemesi,"14,00 TL",Zeytinyağlılar & Mezeler,8.0
+40b78030-bc48-402a-ac46-3aa490610da0,Zeytinyağlı Pazı Yemeği,"14,00 TL",Zeytinyağlılar & Mezeler,7.0
+66db24cc-66ef-4064-b983-bdbb19c32f5c,Zeytinyağlı Pırasa,"14,00 TL",Zeytinyağlılar & Mezeler,8.0
+4d13edb0-728e-43a3-8082-6bd7c3cbdcde,Zeytinyağlı Portakallı Kereviz,"14,00 TL",Zeytinyağlılar & Mezeler,8.0
+11dbf9f1-2986-4cc7-9f8a-7160cb24924a,Zeytinyağlı Semizotu Ekşilemesi,"14,00 TL",Zeytinyağlılar & Mezeler,8.0
+aa25e315-ab08-42da-bb83-49744753a22a,Zeytinyağlı Taze Fasulye,"14,00 TL",Zeytinyağlılar & Mezeler,7.0
+38b6212e-1385-48f4-a9d5-571e7fb086cb,Zeytinyağlı Türlü,"14,00 TL",Zeytinyağlılar & Mezeler,8.0
+f571b53b-7338-441c-b298-0d00a125a5ce,Zeytinyağlı Yeşil Mercimek Salatası,"14,00 TL",Zeytinyağlılar & Mezeler,4.0
+def0a825-e895-4ef4-a978-10021950c5e2,Zeytinyağlı Yoğurtlu Pazı (Mastabe),"14,00 TL",Zeytinyağlılar & Mezeler,8.0
+98328680-a95d-421d-b4cd-3b9f56c82a20,Pirinç Pilavı,"8,00 TL",Yan Ürünler,6.0
+cb7eb389-5aa0-40fe-a0c3-600ccf55ab7c,Bulgur Pilavı,"8,00 TL",Yan Ürünler,4.0
+48ff9000-38e0-453d-87b5-b62323618ae0,Domates Soslu Makarna,"10,00 TL",Yan Ürünler,9.0
+cdab53fc-f277-4d80-bfd9-c279c27e02d0,Yoğurt,"6,00 TL",Yan Ürünler,6.0
+5d3dca68-4da3-4d32-acec-968b62e60bee,Cacık,"8,00 TL",Yan Ürünler,3.0
+921a74ec-e8ba-45f4-921c-fb6c4ec9abeb,Pancar Turşusu,"8,00 TL",Yan Ürünler,5.0
+ea186b51-e80b-46bb-8e9b-eb6517f24216,Kornişon Turşu,"8,00 TL",Yan Ürünler,5.0
+cd5a6fed-ba60-4c36-96e1-9863b5ff0901,Salata,"8,00 TL",Yan Ürünler,2.0
+49ff9fc0-8c06-4639-be61-7037438cf791,Şambali Tatlısı,"8,00 TL",Tatlılar,5.0
+140b5a47-f414-4d25-a246-47f17f19f5b3,Şükufe Günün Tatlısı,"8,00 TL",Tatlılar,5.0
+5D39C8E1-6262-432C-A89B-569A6EC9F181,Pepsi Twist (33 cl.),"7,00 TL",İçecekler,5.0
+279e824b-a849-4306-8063-7767ee36380f,Damla Su (33 cl.) (Cam Şişe),"5,00 TL",İçecekler,9.0
+0f1efc04-f5b4-4cd7-b038-d67cdbda5198,Zeytinyağlı Yaprak Sarma (1 kg.),"60,00 TL",Kiloluk Ürünler (Pişirilmiş),8.0
+6efe3097-173f-43b0-88a7-9b0911ba931b,Kıymalı Yaprak Sarma (1 kg.),"85,00 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+15076B7A-9CD2-4B59-88C6-35F677F924EE,Kıymalı Lahana Sarması (1 kg.),"95,00 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+361507D5-67C9-437A-93B6-A8D4F43EE9FC,Zeytinyağlı Lahana Sarması (1 kg.),"70,00 TL",Kiloluk Ürünler (Pişirilmiş),8.0
+C96721EA-E012-405C-9168-278E58B5CA79,Anne Köftesi (1 kg.),"90,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0

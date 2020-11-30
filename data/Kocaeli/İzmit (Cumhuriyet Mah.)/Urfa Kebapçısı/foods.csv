@@ -1,0 +1,52 @@
+food_id,food_name,food_price,food_category,food_score
+baa3c48e-1702-4d5c-812c-334bd213dd0a,2'li Kaşarlı Lahmacun Menü,"18,00 TL",Menüler,27.0
+71c7ed40-8e59-40a2-b0fe-e34e549d0ffd,Et Bonfile Menü,"40,00 TL",Menüler,5.0
+a65d8454-03d1-415a-9472-c8bb241947fc,10'lu Lahmacun Menü,"65,00 TL",Menüler,27.0
+b1826aad-cccb-488f-9271-4c8c9a270af9,20'li Lahmacun Menü,"127,00 TL",Menüler,27.0
+973fb12f-18bb-45ef-a972-71488484c995,3'lü Lahmacun Menü,"19,50 TL",Menüler,27.0
+ee23a753-d820-45b1-a5d2-b5740be0112f,Mini Karışık Kebap Menü,"40,00 TL",Menüler,6.0
+039cb506-05bc-4c4f-83a9-aad3c616ef57,Kebap Menü,"28,00 TL",Menüler,6.0
+429cd873-ace5-4d63-97b9-de07ac76e33c,Pide Menü,"20,00 TL",Menüler,7.0
+a35d53ae-bed8-4f14-8c47-a94e7227ab75,Dürüm Menü,"17,00 TL",Menüler,4.0
+21900ecb-5fe6-437f-936f-bb7184a2021d,Tavuklu Kaşarlı Pide Menü,"19,00 TL",Menüler,7.0
+6da1fb00-0483-4831-93a2-8c106a0e2ea2,Adana Kebap,"25,00 TL",Kebaplar,13.0
+d9a33db0-5594-4696-848f-c4a4517bf3dc,Urfa Kebap,"25,00 TL",Kebaplar,9.0
+e0ba51e1-3bfb-4187-8a69-47d680374c01,Patlıcanlı Kebap,"36,00 TL",Kebaplar,6.0
+a7bc729d-c662-4a4f-8404-2c304406a014,Domatesli Kebap,"36,00 TL",Kebaplar,6.0
+49069f92-3a38-42bd-af6a-181b6f931cea,Beyti Kebap,"36,00 TL",Kebaplar,10.0
+15dae4c5-c597-4856-acc8-0f076e6766f6,Karışık Kebap,"60,00 TL",Kebaplar,6.0
+5eb60e4b-68d9-4ffe-91ff-6c22a71a6b3c,Dana Şiş,"40,00 TL",Izgaralar,6.0
+97ad17b9-a0bc-4a79-a5ce-43787f46240d,Tavuk Şiş,"22,00 TL",Izgaralar,10.0
+18f29dde-d59e-41c1-98ee-45730cc37ee7,Tavuk Kanat,"22,00 TL",Izgaralar,8.0
+c2025ad4-8350-4de5-9d2d-96159b6a51a3,Izgara Köfte,"23,00 TL",Izgaralar,4.0
+40666b92-1a1f-4ac9-a0f2-2a1e8bc00704,Adana Dürüm,"15,00 TL",Dürümler,11.0
+cb19e184-9238-4a45-af01-5bfeb8e83583,Urfa Dürüm,"15,00 TL",Dürümler,7.0
+6ff7d62d-9582-4319-af5e-23642747891c,Tavuk Şiş Dürüm,"13,00 TL",Dürümler,9.0
+d5b90ba4-1d8f-41dd-a0ef-f5ca58db8f6a,Izgara Köfte Dürüm,"15,00 TL",Dürümler,3.0
+c0fe91ac-baa4-4b71-b413-1a51f56e0613,Özel Urfa Lahmacun,"9,00 TL",Fırın Ürünleri,32.0
+f52f30f8-db3c-436c-960e-bed5d5b4b7d9,Kuşbaşılı Kaşarlı Pide,"22,00 TL",Fırın Ürünleri,7.0
+8da16899-c5be-40a9-8536-783f881e45aa,Kıymalı Kaşarlı Pide,"21,00 TL",Fırın Ürünleri,7.0
+0226dadd-cd95-4fc4-9c1a-8aca3f97b436,Kavurmalı Kaşarlı Pide,"26,00 TL",Fırın Ürünleri,7.0
+01e1edcf-4416-4325-b48f-207999387fda,Tavuklu Kaşarlı Pide,"18,00 TL",Fırın Ürünleri,7.0
+2528ec46-735f-44ba-9caf-93d3d9f61f37,Kaşarlı Lahmacun,"8,00 TL",Fırın Ürünleri,27.0
+1e1f2e49-a13f-4c7c-853b-9d11ad1c72cf,Kıymalı Pide,"20,00 TL",Fırın Ürünleri,7.0
+01758e99-7c6e-4174-85c7-444050837066,Kaşarlı Pide,"20,00 TL",Fırın Ürünleri,7.0
+3b555c97-6308-4528-a3db-06e99b9f1c28,Kuşbaşılı Pide,"20,00 TL",Fırın Ürünleri,7.0
+f81ce513-5ef0-4d45-8cba-2c13eb9b8291,Karışık Pide,"22,00 TL",Fırın Ürünleri,7.0
+bef8d2ab-2623-488b-a3b6-07c89a127dfb,Kavurmalı Pide,"25,00 TL",Fırın Ürünleri,7.0
+f5487056-a170-4802-9421-2a2b400f31dd,Sucuklu Kaşarlı Pide,"20,00 TL",Fırın Ürünleri,7.0
+87204a22-3aad-4e79-8cb9-b92cfab47706,Yarım Ekmek Arası Köfte,"15,00 TL",Diğer Lezzetler,5.0
+2db0efe4-b41f-463d-a46b-44e0eef3a5e6,Tam Ekmek Arası Köfte,"20,00 TL",Diğer Lezzetler,2.0
+78997987-c88b-49c1-a0a2-f29041ffcef9,Kiremitte Tavuk,"20,00 TL",Diğer Lezzetler,9.0
+e0963d1c-3897-4f02-afcf-03c3f7fd1451,Kiremitte Kaşarlı Köfte,"22,00 TL",Diğer Lezzetler,4.0
+63bfde5b-9652-4c9c-9ee3-f4ea81a145bb,Urfa Çiğ Köfte Dürüm,"6,00 TL",Çiğ Köfteler,6.0
+7d30447c-3c77-4898-b321-d5d9a234508f,Urfa Çiğ Köfte (250 gr.),"12,00 TL",Çiğ Köfteler,7.0
+7beeeecd-3579-442c-b584-e90795733aed,Urfa Çiğ Köfte (500 gr.),"25,00 TL",Çiğ Köfteler,7.0
+9de881e4-f3eb-45bb-a902-d8f5708a275a,Urfa Çiğ Köfte (1 kg.),"50,00 TL",Çiğ Köfteler,7.0
+90156592-2926-41f5-98e2-8b7160c2cbda,Çoban Salata,"6,00 TL",Salatalar,7.0
+1f5610f1-299c-431c-91ec-a3be49d8febc,Acılı Ezme (250 gr.),"5,00 TL",Salatalar,9.0
+e0a9f72e-2acf-47f9-ac3c-ad46925bdf77,Künefe,"10,00 TL",Tatlılar,2.0
+a19f8f62-2aa8-4ace-8479-0882c9d454f4,Limonlu Soda,"3,00 TL",İçecekler,5.0
+524dce7b-0fd2-4841-bb96-4f7f7109699f,Su,"1,50 TL",İçecekler,7.0
+d7d2c815-c8d5-459b-8d99-fa0e5340cc2f,Eker Yayık Ayran (1 L.),"8,00 TL",İçecekler,5.0
+e57c5511-85e5-4e11-81cc-28220f90b9a8,Poşet,"0,25 TL",Poşet,5.0

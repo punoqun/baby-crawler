@@ -1,0 +1,69 @@
+food_id,food_name,food_price,food_category,food_score
+2e942a70-c9eb-4846-b78f-d159fab53c45,Çeyrek Ekmek Arası Kokoreç Menü,"12,75 TL",Kokoreç & Uykuluk Menüleri,11.0
+319f74cf-c1e0-4346-bf6a-0afe3d308827,3/4 Ekmek Arası Kokoreç Menü,"24,00 TL",Kokoreç & Uykuluk Menüleri,17.0
+8a17b110-8386-4084-8a99-5d37e8428efa,Yarım Ekmek Arası Kokoreç Menü,"18,00 TL",Kokoreç & Uykuluk Menüleri,12.0
+9035e8b9-a72b-441d-b6f1-70d6062ca5e4,Kokoreç Menü,"33,75 TL",Kokoreç & Uykuluk Menüleri,13.0
+48184bc8-3cd6-4947-9156-25d4f6aff6e5,Yarım Ekmek Arası Uykuluk Badem Menü,"18,00 TL",Kokoreç & Uykuluk Menüleri,2.0
+9414bcde-bd8f-4a28-b211-74ef496af5c0,Uykuluk Badem Menü,"30,00 TL",Kokoreç & Uykuluk Menüleri,8.0
+b0650a5b-6889-49b0-82d2-6eacdb617910,3/4 Ekmek Arası Uykuluk Badem Menü,"24,00 TL",Kokoreç & Uykuluk Menüleri,7.0
+b95cb5b5-bbec-40b0-9d00-91aebca671e5,Yarım Ekmek Arası Kokoreç & Uykuluk Badem Menü,"24,00 TL",Kokoreç & Uykuluk Menüleri,8.0
+2295ff2d-7be1-4dbf-8059-a5b816ac7a5b,Kokoreç & Uykuluk Badem Menü,"37,50 TL",Kokoreç & Uykuluk Menüleri,14.0
+2019d9aa-f4f6-4d2a-9ade-97d29da1c038,Tavuk İncik Menü,"25,50 TL",Tavuk Menüleri,8.0
+2fe0aa59-78c8-4d1d-9432-27658cd96334,Yarım Ekmek Arası Tavuk İncik Menü,"13,50 TL",Tavuk Menüleri,2.0
+99b7861b-fcd0-4395-ad7c-6371b0427948,Yarım Ekmek Arası Rus Salatalı Tavuk İncik Menü,"18,75 TL",Tavuk Menüleri,2.0
+DF7F33C7-5EEA-4082-B0B3-4D525F20D50D,Tavuk Sote (250 gr.) Menü,"22,50 TL",Tavuk Menüleri,8.0
+8592045B-FB2E-4446-BBC6-19AFECF809B8,Yarım Ekmek Arası Tavuk Sote Menü,"13,50 TL",Tavuk Menüleri,2.0
+693f9adf-1f9d-4659-bf29-85bfe03d8629,Yarım Ekmek Arası Sucuk Menü,"15,00 TL",Menüler,6.0
+79eb5026-0ff7-43c2-8160-61c31bac5441,3/4 Ekmek Arası Sucuk Menü,"21,00 TL",Menüler,11.0
+a9ec792c-2eb9-4ebe-aa5d-943bf9d57321,Çeyrek Ekmek Arası Sucuk Menü,"9,75 TL",Menüler,10.0
+6310ceea-ac01-45e6-9bf0-a8597dd68644,Yarım Ekmek Arası Rus Salatalı Sucuk Menü,"18,75 TL",Menüler,6.0
+e11b67d9-41d7-47c3-9585-951f84536679,3'lü Menü,"63,75 TL",Menüler,7.0
+44795a70-0267-4887-a809-a75c691612e9,2'li Menü 2,"52,50 TL",Menüler,-3.0
+a272033b-3987-4fb4-a061-a676fdb88c9e,Tavuk İncik (250 gr.) Menü,"45,00 TL",Menüler,8.0
+685d8177-761a-4437-933f-5ae60dcf01cc,Kokoreç (200 gr.) Menü,"52,50 TL",Menüler,13.0
+a34afc52-514f-4bf9-859f-35787a13ba37,Sucuk (200 gr.) Menü,"45,00 TL",Menüler,12.0
+859cb9f0-3daa-40e6-860f-eb1a718aa980,2'li Yarım Ekmek Arası Tavuk İncik Menü,"33,75 TL",Menüler,2.0
+0dcf233e-2dbd-4741-8449-e725d4c68f50,2'li Yarım Ekmek Arası Sucuk Menü,"33,75 TL",Menüler,6.0
+1c4dc81d-76d2-43a8-9602-b2ee6dee4b0d,4'lü Yarım Ekmek Arası Tavuk İncik Menü,"63,75 TL",Menüler,2.0
+960f4c37-1ee6-4477-9b2b-db908decdff6,4'lü Yarım Ekmek Arası Sucuk Menü,"67,50 TL",Menüler,6.0
+afbef7aa-dfef-42cf-b717-a699e2f1cf13,2 Kişilik Menü 1,"45,00 TL",Menüler,-23.0
+aff05d28-c06c-4460-905e-a6493f11e113,2 Kişilik Menü 2,"56,25 TL",Menüler,-7.0
+ab717b14-1ae2-486f-9f6f-124505712d37,2 Kişilik Menü 3,"48,75 TL",Menüler,-13.0
+c03129c0-cd38-4ce8-920e-ef58e14af087,3 Kişilik Menü 1,"52,50 TL",Menüler,-27.0
+09f9d2b6-c138-4f78-a34f-21eed401dfe7,3 Kişilik Menü 2,"74,25 TL",Menüler,-13.0
+ecd02fae-783e-498f-9929-a8e7ec9d478e,3 Kişilik Menü 3,"71,25 TL",Menüler,-15.0
+94055a7a-f731-40d2-ab73-a248e51d64ba,4 Kişilik Menü 1,"90,00 TL",Menüler,-15.0
+d364e891-9e04-4e26-8490-e82641beff72,4 Kişilik Menü 2,"82,50 TL",Menüler,-1.0
+e8f66651-17f3-4e77-99ab-7371baa67587,4 Kişilik Menü 3,"74,25 TL",Menüler,-5.0
+628422f8-d162-484b-ba19-be42f7a04d19,Yarım Ekmek Arası Kaşarlı Köfte Menü,"18,75 TL",Menüler,-1.0
+fb7b08e8-e12a-424a-8c13-e41abac4429f,Yarım Ekmek Arası Kasap Köfte Menü,"15,00 TL",Menüler,-1.0
+8a50e32f-8b19-437b-92ef-07c5c99de397,3/4 Ekmek Arası Kasap Köfte Menü,"21,00 TL",Menüler,4.0
+654aa648-9514-41d7-8355-25138d062c84,Kasap Köfte Menü,"30,00 TL",Menüler,5.0
+90db79ad-bde2-4632-8330-c11e44f4060c,Kasap Köfte & Meze Menü,"52,50 TL",Menüler,5.0
+65d6d853-431d-4090-8a5a-888bca36749b,Tavuk Kanat Menü,"37,50 TL",Menüler,9.0
+6a44e769-650f-477d-99d0-98bce32004a3,Tavuk Kanat & Köfte Menü,"63,75 TL",Menüler,7.0
+8ed9ffc4-a80e-4db4-bf77-697de5bb6834,Izgara Köfte,"26,25 TL",Izgaralar,3.0
+fca4a27f-0cb1-4233-9f55-e632a54524c4,Izgara Sucuk,"22,50 TL",Izgaralar,10.0
+6329a617-c86b-44d6-b5c6-732854489eee,Midye Dolma (500 gr.),"18,75 TL",Midyeler,10.0
+FF7A180C-9C32-4FC9-A6AB-8EF672E2B41B,Midye Dolma (2 kg.),"63,75 TL",Midyeler,10.0
+5BB2A27C-077F-4AF6-A32A-12C6FDD2AE4A,Midye Dolma (1.5 kg.),"52,50 TL",Midyeler,10.0
+3049de6d-7b91-4a7a-a486-a7e0cc162c25,Midye Dolma (1 kg.),"37,50 TL",Midyeler,10.0
+d5dc13f0-1ea0-4770-a365-4e0b5d0b06a0,Atom,"9,00 TL",Mezeler,5.0
+381968c3-9224-4c46-a0ad-f4c4da871a75,Haydari,"9,00 TL",Mezeler,5.0
+3157b4ef-babc-4bb8-92be-197f33d94f27,Közlenmiş Biber,"9,00 TL",Mezeler,5.0
+cdf62cb9-9067-42c5-b042-2637f63e4bd5,Pancar Turşusu,"9,00 TL",Mezeler,5.0
+dd170f48-f7c5-41f1-a2ba-a31be8ec6065,Rus Salatası,"9,00 TL",Mezeler,5.0
+c2035892-3623-476b-bc05-1a67cdad4703,Şakşuka,"9,00 TL",Mezeler,5.0
+2820b5fc-3956-4533-b0ab-c41b7e04d0bb,Halka Tatlı (Adet),"3,00 TL",Tatlılar,10.0
+c3279ade-f124-450c-8a13-2e58b351fde1,Tulumba Tatlısı (500 gr.),"15,00 TL",Tatlılar,5.0
+55dd2372-0a14-4d3a-9f70-5a34c8fdd1d9,Tulumba Tatlısı (1 kg.),"26,25 TL",Tatlılar,5.0
+686f3fba-9c36-4124-8cc4-adb059ac27aa,Pepsi (25 cl.),"3,75 TL",İçecekler,5.0
+D65C7DE9-9A0D-46E6-B94A-F83FEF8AFB6D,Şalgam Suyu (5 L.),"22,50 TL",İçecekler,5.0
+1fde7bff-f0b5-4c53-b031-aaac2c018670,Izgara Tavuk (500 gr.),"26,25 TL",Kiloluk Izgaralar (Pişirilmiş),6.0
+dd97cab6-f3a9-48fd-8c97-977b1bd783b5,Izgara Kanat (500 gr.),"30,00 TL",Kiloluk Izgaralar (Pişirilmiş),6.0
+afae8ab4-cd82-47de-adfc-0a9492cb930e,Izgara Tavuk İncik (500 gr.),"28,50 TL",Kiloluk Izgaralar (Pişirilmiş),6.0
+5d9197a0-cf64-4f25-9419-72351080aac6,Izgara Köfte (500 gr.),"45,00 TL",Kiloluk Izgaralar (Pişirilmiş),3.0
+7c732677-f6bb-4498-8c3b-bb69a6956591,Izgara Sucuk (500 gr.),"37,50 TL",Kiloluk Izgaralar (Pişirilmiş),10.0
+13e80c27-c489-4655-aa03-f254895c2547,Karışık Izgara 1,"56,25 TL",Kiloluk Izgaralar (Pişirilmiş),-20.0
+a99bbabd-d46f-4725-8afc-ab391d20eb08,Karışık Izgara 2,"71,25 TL",Kiloluk Izgaralar (Pişirilmiş),-5.0
+9c9cdbfc-f76d-4433-a6e5-43dde9a2382d,Poşet,"0,25 TL",Poşet,5.0

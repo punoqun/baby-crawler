@@ -1,0 +1,37 @@
+food_id,food_name,food_price,food_category,food_score
+c7a62a36-e70f-4998-84aa-00afc0aef66d,Chicken Burger Menü,"23,00 TL",Menüler,5.0
+e8d86bba-e872-467f-bcf6-4eb5c3b22d02,Hamburger Menü,"24,00 TL",Menüler,15.0
+0eda6a72-ff5e-4deb-9f16-1fb51925246b,Cheeseburger Menü,"26,00 TL",Menüler,5.0
+0c0b5eee-6534-4944-8f5b-0e85c1fdba9b,Kumru Menü,"26,00 TL",Menüler,7.0
+8FEE0327-C3AD-4090-A38C-8B73778811C1,Tost Menü,"22,00 TL",Menüler,5.0
+C558B5F1-29B6-4377-9F03-444D6AF68B5D,Islak Hamburger (Büyük) Menü,"17,00 TL",Menüler,15.0
+D4174C1E-75DD-4B3C-8C6A-C0A89A7B1620,Kokoreç Sandviç Menü,"28,00 TL",Menüler,5.0
+824f4f3f-4c94-4643-bb13-940035f9ea8c,Atom Tost,"17,00 TL",Tostlar,5.0
+26F8CB0F-BC4E-48A0-9FC7-965D40630F88,Kavurmalı Kaşarlı Tost,"18,00 TL",Tostlar,5.0
+696F842D-E9D9-4BF9-8BB3-4BE740610D7E,Kıymalı Kaşarlı Tost,"18,00 TL",Tostlar,5.0
+4fed248c-4365-483d-9749-f444a1dbb7f8,Sucuklu Tost,"14,00 TL",Tostlar,5.0
+3f286d7c-446b-4fc1-b345-ee00f2e4ebad,Kaşarlı Tost,"13,00 TL",Tostlar,5.0
+ab1932e2-69d8-4d7d-93c5-7b69f7b5c09b,Karışık Tost,"15,00 TL",Tostlar,5.0
+00531a38-0029-4a8d-82e0-68157bd5f8e0,Kumru,"17,00 TL",Sandviç & Ekmek Arası Ürünler,7.0
+2551BA01-D2D3-4ECC-8856-E5E90E54AC92,Midye Tava Sandviç,"16,00 TL",Sandviç & Ekmek Arası Ürünler,8.0
+5C6FD737-98FC-4F73-836B-2CDD44B2D4F9,Yarım Ekmek Arası Sebzeli Kuzu Kokoreç,"19,00 TL",Sandviç & Ekmek Arası Ürünler,5.0
+422fc3a2-2caa-42b8-8bf0-ea8089f460bb,Patso,"14,00 TL",Sandviç & Ekmek Arası Ürünler,5.0
+d1d5f6fe-4726-4b36-b5d1-616fcb6bf6d0,Ekmek Arası Köfte,"16,00 TL",Sandviç & Ekmek Arası Ürünler,5.0
+42b997db-881e-49c6-9656-67c6091cc49f,Chicken Burger,"14,00 TL",Burgerler,5.0
+b84ef50e-65fe-4670-890a-8c414f84d397,Hamburger,"15,00 TL",Burgerler,15.0
+f9417679-7ea2-42ea-a790-70b1412a17c7,Cheeseburger,"17,00 TL",Burgerler,5.0
+5B7195BC-87DA-4996-8F1E-0301CB7C319F,Islak Hamburger,"8,00 TL",Burgerler,10.0
+e0717822-4ceb-4e81-8696-1dbece66419d,Izgara Köfte,"25,00 TL",Ana Yemekler,5.0
+7CEEA671-46F5-4AB5-8A35-64E96A70C427,Midye Tava (Çift Çubuk),"22,00 TL",Ana Yemekler,8.0
+6E752904-589B-444B-BCEC-F5EFEBD6DAA4,Paprika Soslu Tavuk,"24,00 TL",Ana Yemekler,5.0
+0AD38E3A-BA74-4857-BB79-CECDACE23F8C,Köri Soslu Tavuk,"24,00 TL",Ana Yemekler,3.0
+E02F288F-AA1B-454F-A8FD-D6F3A9493CD2,Tavuk Kavurma,"24,00 TL",Ana Yemekler,5.0
+ec9a9412-c69c-4996-9294-b13cb41e8fb9,Izgara Köfte (Yarım),"18,00 TL",Ana Yemekler,5.0
+77802219-ef52-4a28-994e-9873dbc0ad16,Tavuk Şnitzel,"20,00 TL",Ana Yemekler,5.0
+d13dfbb1-1b63-480b-a796-6a83bf2fb0f8,Soğan Halkası (5 Adet),"8,00 TL",Yan Ürünler,5.0
+0d193e24-5960-4715-892b-202e9585acce,Soğan Halkası (10 Adet),"12,00 TL",Yan Ürünler,5.0
+cc613253-1642-4fbe-8c72-e7ffe63a088d,Patates Kızartması,"12,00 TL",Yan Ürünler,5.0
+53397ad3-9b9d-4922-994a-02f8333212f4,Sigara Böreği (8 Adet),"12,00 TL",Yan Ürünler,5.0
+265c0730-720b-45e6-9e68-330c0b3402db,Su Böreği (2 Adet),"12,00 TL",Yan Ürünler,5.0
+530A9B4D-BE2D-4952-9E7A-EF7C2BD7B1EC,Yedigün (20 cl.),"6,00 TL",İçecekler,5.0
+d8c53a70-b534-4f9d-9eb3-bb4c9939ac1e,Poşet,"0,25 TL",Poşet,5.0

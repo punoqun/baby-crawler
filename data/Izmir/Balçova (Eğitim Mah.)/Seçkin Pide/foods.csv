@@ -1,0 +1,34 @@
+food_id,food_name,food_price,food_category,food_score
+SEKN010114,Fındık Lahmacun,"8,00 TL",Fırın Ürünleri,8.0
+449fa994-89a0-4739-9458-2d163febaa89,Kaşarlı Lahmacun,"15,00 TL",Fırın Ürünleri,8.0
+6596274d-a8f0-48a0-a9f6-948f80a489a3,Karışık Yumurtalı Pide,"24,00 TL",Fırın Ürünleri,2.0
+SEKN010111,Karışık Pide,"23,00 TL",Fırın Ürünleri,2.0
+1efd8eab-37a3-4186-82c6-9ba2978538c0,Kaşarlı Mantarlı Yumurtalı Pide,"19,00 TL",Fırın Ürünleri,2.0
+7cfa84f8-e2fd-48de-bb2d-7fb993cd418f,Kaşarlı Sucuklu Yumurtalı Pide,"22,00 TL",Fırın Ürünleri,2.0
+SEKN010107,Sucuklu Pide,"17,00 TL",Fırın Ürünleri,2.0
+7332477e-3ee7-499a-994a-478666803ce1,Karışık Pizza,"22,00 TL",Fırın Ürünleri,5.0
+2f440e5e-fbaa-467e-915f-4dd42286f7e4,Patlıcanlı Kebap,"34,00 TL",Kebaplar,5.0
+728bba9d-cd4e-4c18-80ae-4f5968ed1089,Vali Kebabı,"65,00 TL",Kebaplar,5.0
+cb0d222d-0336-4102-a3f8-80b7cbd857d6,Kiremitte Kaşarlı Tavuk Şiş,"28,00 TL",Kiremitte Ürünler,6.0
+a3863ae0-084a-4739-99d9-cc324996fb9d,Kiremitte Kaşarlı Mantar,"18,00 TL",Kiremitte Ürünler,6.0
+SEKN010202,Kiremitte Kaşarlı Köfte,"28,00 TL",Kiremitte Ürünler,5.0
+34546a50-0cf3-4b12-80f1-17e26ef58a9a,Antep Ezme,"7,00 TL",Yan Ürünler,5.0
+a2bc399b-3853-4a27-94d3-21094b123a9e,Haydari,"7,00 TL",Yan Ürünler,5.0
+a573b69e-e33e-4284-a657-d97c5a571e45,Çoban Salata,"7,00 TL",Yan Ürünler,6.0
+8b97f065-fe92-4b7e-8ee6-91f7d35ebbd6,Bulgur Pilavı,"7,00 TL",Yan Ürünler,4.0
+d1ec9479-66fd-4704-8b21-9d1081100df3,Yoğurt,"7,00 TL",Yan Ürünler,5.0
+3ded64cf-7df6-4fd1-a1d5-efe8d376b3f3,Cacık,"7,00 TL",Yan Ürünler,5.0
+a988031c-ab68-47ad-b3f6-97ee48d5493e,Algida Maraş Usulü Cup Dondurma (100 ml.),"6,00 TL",Dondurmalar,5.0
+fd1afbaf-176e-407a-bc10-b0de5a0b4a17,Algida Maraş Usulü Dilim Dondurma (82 ml.),"5,00 TL",Dondurmalar,5.0
+8b68afc7-bdff-4651-80f6-bd9d5c500a46,Algida Carte d'Or Mini Cup Çikolata Karnavalı (110 ml.),"6,00 TL",Dondurmalar,5.0
+59eca143-07f1-4436-8043-7cc4b5d8cfc6,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"14,00 TL",Dondurmalar,5.0
+7f1a554c-80ce-4c30-9992-d9b2e89f1b32,Algida Carte d'Or Volcano Cup,"15,00 TL",Dondurmalar,5.0
+b8dccb7c-4be8-4781-bfec-9289d39d7e95,Carte d'Or Premium Kaymak Cup (100 ml.),"6,00 TL",Dondurmalar,5.0
+83fa775d-9c7a-4355-a3af-3db2adbe3276,Carte d'Or Premium Çikolata Cup (100 ml.),"6,00 TL",Dondurmalar,5.0
+1584A5F1-E58E-4B81-87C5-D1FC9BE84A54,Algida Carte d'Or Mini Cup Çilekli Yoğurtlu (110 ml.),"6,00 TL",Dondurmalar,5.0
+D3D71949-BF03-4301-9EDF-9805F31A621B,Magnum Badem,"8,00 TL",Dondurmalar,5.0
+dd0c3fd9-8c21-4420-9f99-e2ba4c5b6316,Künefe,"13,00 TL",Tatlılar,7.0
+472BA9D3-6199-40B6-87D2-F0B3A9ACE742,Antep Fıstıklı Katmer,"15,00 TL",Tatlılar,5.0
+78979d3e-0222-452b-928c-5051ff7baabf,Şalgam Suyu,"4,00 TL",İçecekler,5.0
+SEKN010406,Su,"2,00 TL",İçecekler,5.0
+9b270300-db5e-4e31-a80b-5551f18ad367,Poşet,"0,25 TL",Poşet,5.0

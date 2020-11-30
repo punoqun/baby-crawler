@@ -1,0 +1,34 @@
+food_id,food_name,food_price,food_category,food_score
+0a2c38cd-8b25-4869-b5dd-a19d305d87cf,Aftor Vize Menüsü,"50,99 TL",Menüler,5.0
+0d53b377-29b8-45df-ae3a-e28b15bbd442,Aftor Menü 5,"30,99 TL",Menüler,9.0
+100581ab-87b1-4845-95f9-2b7499c779dc,Aftor Menü 2,"17,99 TL",Menüler,11.0
+3160a2a6-9c5d-4d88-85f2-a15726c01c6a,Bazlama Menü 1,"19,99 TL",Menüler,26.0
+43e89ae0-f02f-4c05-bab4-9d16ced61bce,Bazlama Menü 2,"26,99 TL",Menüler,13.0
+4be94e9c-8341-4091-917c-336307dd2769,Bazlama Menü 4,"28,99 TL",Menüler,7.0
+60e08b1a-3dd9-4188-a96d-62a6e5b93d98,Bazlama Menü 3,"21,99 TL",Menüler,7.0
+766e5591-fed9-400e-9bf7-17a9f1cf5eef,Aftor Menü 3,"19,99 TL",Menüler,5.0
+8a46fe68-c73d-4d5d-af10-39140254ad85,Aftor Menü 1,"25,99 TL",Menüler,19.0
+c915c6f1-5473-4897-a4f8-f81fe10eb26b,Aftor Öğrenci Dostu Menü,"57,99 TL",Menüler,5.0
+e3445b77-c0cc-40ee-bede-f9a9aab459a1,Aftor Menü 4,"27,99 TL",Menüler,5.0
+f34af382-3f1a-4769-bded-b99f86c249c5,Aftor Özel Menü,"29,99 TL",Menüler,5.0
+44b794eb-7fa6-4232-ac58-bb168d1b273b,Sucuklu Bazlama Tost,"11,00 TL",Tostlar,11.0
+4945dc19-f26e-46b4-8ee0-e6e66a34efef,Sosisli Bazlama Tost,"15,00 TL",Tostlar,11.0
+6d501a52-482f-4421-bb12-e8f5f8a1c68e,Yumurtalı Bazlama Tost,"11,00 TL",Tostlar,11.0
+7dc90a4d-e699-4137-acdb-1861aacf7db9,Atom Bazlama Tost,"15,00 TL",Tostlar,18.0
+8bb5ad70-158f-481d-861e-ef9ceea1f60f,Veggi Bazlama Tost,"12,00 TL",Tostlar,11.0
+99f56e9b-6653-4050-92f6-f0ac568f1178,Karışık Bazlama Tost,"13,50 TL",Tostlar,15.0
+b6d0034d-0d60-4607-bc71-480c10f4dd22,Köfteli Bazlama Tost,"20,00 TL",Tostlar,13.0
+b9b68a54-7b38-46e2-a79b-a058f5f5a797,Aftor Ege Klasiği Tost,"15,00 TL",Tostlar,9.0
+d7ab1405-bdc8-4718-8cf1-5c28547cc2b2,Çikolatalı Aftor Tost,"15,00 TL",Tostlar,11.0
+e88763e6-6ad4-439a-afac-29124d91a5f2,Vejetaryen Tost,"14,00 TL",Tostlar,9.0
+f53cc106-016f-4572-be17-1c4456b742e6,Chicken Bazlama Tost,"18,00 TL",Tostlar,11.0
+fffdd32b-cb9d-464c-bf45-63ff72085bad,Kaşarlı Bazlama Tost,"11,00 TL",Tostlar,11.0
+1114c5fc-ff0a-416c-942f-dbd4ab500cdd,Patates Kızartması (Küçük),"6,50 TL",Yan Ürünler,7.0
+7e7a7a72-7e78-4c9d-bfce-0b89f05fb3d7,Soğan Halkası (Küçük),"6,50 TL",Yan Ürünler,5.0
+9d8f6b1d-fddc-427e-8686-44d4bf376773,Patates Kızartması (Orta),"10,00 TL",Yan Ürünler,7.0
+e7bc8413-0643-4429-bfbd-2784e3b687f9,Patates Kızartması (Büyük),"15,00 TL",Yan Ürünler,7.0
+54f15e0f-fa87-4de0-889d-6845a063ddbc,Sütlaç,"5,00 TL",Tatlılar,5.0
+b452a38a-ee92-4803-b6cb-288b79f6cf99,Puding,"5,00 TL",Tatlılar,5.0
+c880f1e6-2a6e-413f-a75a-a459da423ea9,Sakızlı Muhallebi,"5,00 TL",Tatlılar,5.0
+18af54ff-e078-4798-88dc-5521bdd17ff2,Turşu Suyu (20 cl.),"5,00 TL",İçecekler,5.0
+80a45fef-eb84-4808-8885-ce4fed820e98,Poşet,"0,25 TL",Poşet,5.0

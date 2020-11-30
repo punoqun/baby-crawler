@@ -1,0 +1,62 @@
+food_id,food_name,food_price,food_category,food_score
+8C116E6B-DCC3-456F-B540-56CFA130FE25,2'li Karışık Büyük Boy Pizza Menü,"100,00 TL",Menüler,1.0
+B2BB6B86-D350-4CFD-93FB-0BBEE9E714A8,Füme Kaburgalı Pizza (Küçük),"42,00 TL",Küçük Boy Pizzalar (24 cm.) (4 Dilim),1.0
+E1273772-C2C7-4E5D-9AB6-EBA6B922E063,Füme Kaburgalı Calzone Pizza (Küçük),"42,00 TL",Küçük Boy Pizzalar (24 cm.) (4 Dilim),3.0
+A67D013B-4D21-4B28-9E3A-EA54A3051A9F,Füme Kaburga Pizza (Orta),"48,00 TL",Orta Boy Pizzalar (30 cm.) (6 Dilim),1.0
+d735db42-4327-41b0-a1ec-8d0f834e4296,Füme Kaburgalı Calzone Pizza (Orta),"44,99 TL",Orta Boy Pizzalar (30 cm.) (6 Dilim),3.0
+4F8FAA04-050D-48D2-87C3-D5B1E22FFAE5,Karışık Pizza (Büyük),"44,99 TL",Büyük Boy Pizzalar (36 cm.) (8 Dilim),9.0
+E263F6D9-9935-4F41-A8F3-CE79C5316D1A,Sucuklu Pizza (Büyük),"44,99 TL",Büyük Boy Pizzalar (36 cm.) (8 Dilim),4.0
+359F1707-EBD7-420D-9B06-315F2F86B709,Sosisli Pizza (Büyük),"44,99 TL",Büyük Boy Pizzalar (36 cm.) (8 Dilim),0.0
+84EBD7A0-1792-47D9-8F04-D33EB15D934D,Vejetaryen Pizza (Büyük),"44,99 TL",Büyük Boy Pizzalar (36 cm.) (8 Dilim),1.0
+043B1444-05A2-4DF9-A6E9-7AFC135E1A2F,Füme Kaburga Pizza (Büyük),"62,99 TL",Büyük Boy Pizzalar (36 cm.) (8 Dilim),1.0
+59BE9A49-C30E-41F6-BCD4-08BFE351061F,Turco Pizza (Büyük),"62,99 TL",Büyük Boy Pizzalar (36 cm.) (8 Dilim),5.0
+94E87FDD-F62A-4905-BF7B-85A1EA7FA39C,Pastırmalı Pizza (Büyük),"54,99 TL",Büyük Boy Pizzalar (36 cm.) (8 Dilim),-3.0
+368595A8-42BF-457C-87BD-05C06B25F06D,Kavurmalı Pizza (Büyük),"54,99 TL",Büyük Boy Pizzalar (36 cm.) (8 Dilim),1.0
+02CC63D6-C5A6-48C2-9611-389541F382B8,The Ultimate Mexican Pizza (Büyük),"59,99 TL",Büyük Boy Pizzalar (36 cm.) (8 Dilim),1.0
+D377795E-B79B-46B1-8C9C-0C8F2EDC3C2A,Barbekü Tavuklu Pizza (Büyük),"44,99 TL",Büyük Boy Pizzalar (36 cm.) (8 Dilim),0.0
+E1A95437-0077-4D9D-A95A-296B006ADFF0,Hot Lovers Pizza (Büyük),"44,99 TL",Büyük Boy Pizzalar (36 cm.) (8 Dilim),-1.0
+e66a73bc-14e5-4d18-99ce-aebdb49d8565,Margarita Pizza (Büyük),"44,99 TL",Büyük Boy Pizzalar (36 cm.) (8 Dilim),1.0
+beb71c06-5fbe-4830-960c-57929546c127,Köz Patlıcanlı Pizza (Büyük),"44,99 TL",Büyük Boy Pizzalar (36 cm.) (8 Dilim),2.0
+84439D97-CD7E-4FDD-818F-58310582A1A6,Pepperoni Pizza (Büyük),"49,99 TL",Büyük Boy Pizzalar (36 cm.) (8 Dilim),-1.0
+6fd6a5f3-ce6d-44a2-bb1e-d379c349ee95,Al Tonno Pizza (Büyük),"49,99 TL",Büyük Boy Pizzalar (36 cm.) (8 Dilim),1.0
+ab1e9527-0695-4053-a30b-790495f64f07,Atomica Pizza (Büyük),"62,99 TL",Büyük Boy Pizzalar (36 cm.) (8 Dilim),1.0
+c9ff928b-6ac0-462a-a66c-a27bd0c06c45,Sucuklu Yumurtalı Pizza (Büyük),"48,00 TL",Büyük Boy Pizzalar (36 cm.) (8 Dilim),4.0
+7d5d1616-8d7a-4352-93d9-fd69de20af9a,Sucuklu Pizza Calzone (Büyük),"44,99 TL",Büyük Boy Pizzalar (36 cm.) (8 Dilim),6.0
+42b900ef-28c4-4fe9-86be-8832a263c250,Pastırmalı Calzone Pizza (Büyük),"44,99 TL",Büyük Boy Pizzalar (36 cm.) (8 Dilim),-1.0
+ad42fb8e-b9a7-472c-a8f0-775638662680,Füme Kaburgalı Calzone Pizza (Büyük),"54,99 TL",Büyük Boy Pizzalar (36 cm.) (8 Dilim),3.0
+6f622b47-b12f-4232-ac5a-e78f88849783,Funghi Pizza (Büyük),"44,99 TL",Büyük Boy Pizzalar (36 cm.) (8 Dilim),1.0
+E03E810F-365C-427D-9498-F987258D8603,5 Peynirli Pizza,"69,99 TL",Büyük Boy Pizzalar (36 cm.) (8 Dilim),-4.0
+c94d3431-4783-4b19-92e1-a0fe3c52ee2e,Burger de Delux,"49,90 TL",Burgerler,-11.0
+84fdbde3-742f-47bf-b630-bd8c652dd7c4,Hamburger,"29,90 TL",Burgerler,7.0
+31952f23-08e0-4f44-8d0b-d5d6fa6ed1df,Cheeseburger,"30,90 TL",Burgerler,5.0
+b353c12c-7788-49b6-ab24-619576dc2343,Mangal Tavuk Burger,"28,90 TL",Burgerler,2.0
+415c9f41-7cfa-43c0-9394-2bca93294dfc,Füme Burger,"35,90 TL",Burgerler,5.0
+76eba111-502b-4010-9aeb-065ff88a2bfa,Alaturka Burger,"34,90 TL",Burgerler,5.0
+51c64beb-5ed8-4752-8672-bfb647a5e12b,Meksikan Burger,"32,90 TL",Burgerler,5.0
+EFE82132-AC66-4E88-A0CC-56232136EDED,Patates Kızartması,"17,90 TL",Yan Ürünler,7.0
+FFE20E3E-4656-4788-883B-82444D38C99F,Soğan Halkası (10 Adet),"14,90 TL",Yan Ürünler,5.0
+1BB7C6BE-454D-497D-922E-EE4D7607A75C,Sütlü Çikolatalı Calzone,"24,00 TL",Tatlılar,6.0
+c907ca47-1b4b-4086-b148-79ff3aa23097,Tiramisu,"24,00 TL",Tatlılar,5.0
+567f5cc2-0660-4976-81bf-2e3ab7e7dead,Frambuazlı Cheesecake,"24,00 TL",Tatlılar,5.0
+b3167f70-666d-440f-a45e-438081a183f7,Limonlu Cheesecake,"24,00 TL",Tatlılar,5.0
+E39A7FE1-EAD3-4605-8566-1D8564F00D16,Sıcak Çikolata,"15,00 TL",Sıcak İçecekler,6.0
+B5DEACFF-E6FF-41A0-A9F1-298D2CC9ACFF,Americano (2 Kişilik),"27,00 TL",Sıcak İçecekler,5.0
+F4154808-699A-4E84-BCBC-A8C56FED5DAE,Americano (3 Kişilik),"40,00 TL",Sıcak İçecekler,5.0
+3B2A38D6-1AB9-4597-8C9F-13FB7BF42F9F,Soho Special Aromatic Cappuccino,"24,00 TL",Sıcak İçecekler,5.0
+A7CB5BD1-8112-4E1B-99A3-4AD3DD1BA628,Beyaz Sıcak Çikolata,"20,00 TL",Sıcak İçecekler,6.0
+6ED1238E-4CB0-45E0-A991-C527B77766BB,Soho Coffee Latte,"24,00 TL",Sıcak İçecekler,5.0
+20C7DCCA-3BC2-4C34-8959-90353D2D3AFE,Soho Coffee Mocha,"24,00 TL",Sıcak İçecekler,5.0
+A269F652-4B94-4337-AC9D-D3CBF09A38BD,Coffee Misto,"20,00 TL",Sıcak İçecekler,5.0
+E8A9DA9C-16A4-45C8-B43E-BCE61A447417,Caramel Latte,"24,00 TL",Sıcak İçecekler,5.0
+B8C5FA20-1F08-4FDE-9DB9-CAA2EBDE6E45,Caramel Macchiato,"24,00 TL",Sıcak İçecekler,5.0
+B455F6C4-4AC9-4693-AB08-3A0B681F000D,Dibek Türk Kahvesi,"15,00 TL",Sıcak İçecekler,5.0
+72E11F0C-1929-4647-9E01-4CD6C584CDE3,Filtre Kahve (2 Kişilik),"24,00 TL",Sıcak İçecekler,11.0
+96FF9D28-09E1-4773-B838-9D3375BCD7A6,Filtre Kahve (3 Kişilik),"33,00 TL",Sıcak İçecekler,11.0
+21DD87D3-D249-48EB-BEC0-62E862DC3197,Filtre Kahve (4 Kişilik),"40,00 TL",Sıcak İçecekler,11.0
+990C0C79-D0CF-4711-9CAE-58FF2C00E7BA,Filtre Kahve (5 Kişilik),"48,00 TL",Sıcak İçecekler,11.0
+b783a696-d3f4-4e35-969e-3be669a298b4,Türk Kahvesi,"11,00 TL",Sıcak İçecekler,5.0
+55442fab-1aeb-44c1-9e62-f372df3e7a5a,Filtre Kahve,"14,00 TL",Sıcak İçecekler,11.0
+d8f31407-694d-4d8c-82d9-d5500b9f3f2d,Americano,"15,00 TL",Sıcak İçecekler,5.0
+3dede592-4e8c-4eb8-ae83-7958ee75a871,Espresso,"14,00 TL",Sıcak İçecekler,5.0
+0d05de8e-0e0d-44ab-927b-71dd762d488d,Cappuccino,"16,00 TL",Sıcak İçecekler,5.0
+4a6f827c-a85d-450d-bfa5-60f9a161ea5a,Poşet,"0,25 TL",Poşet,5.0

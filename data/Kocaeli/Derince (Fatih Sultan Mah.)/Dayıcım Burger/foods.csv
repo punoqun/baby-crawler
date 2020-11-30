@@ -1,0 +1,41 @@
+food_id,food_name,food_price,food_category,food_score
+2d3a2e5e-cae1-47ac-915c-d7ea039f7390,Tavuk Burger Menü,"19,00 TL",Ekonomik Menüler,1.0
+40cd5bdb-5aff-4d04-a1f2-4b8f7a570e2c,Sosisli Menü,"53,00 TL",Ekonomik Menüler,4.0
+49db6ce6-c65f-4006-8e97-b4abe4509ca6,2'li Tavuk Burger Menü,"27,00 TL",Ekonomik Menüler,1.0
+61252262-da6e-4852-92ef-df29dff26917,Kumru Sandviç Menü,"25,00 TL",Ekonomik Menüler,4.0
+71215aec-e37e-4959-958a-e4f9e0783dce,4'lü Tavuk Burger Menü,"47,00 TL",Ekonomik Menüler,1.0
+766ea028-3455-45bb-8a11-f35a978f8cc6,2'li Hamburger Menü,"27,00 TL",Ekonomik Menüler,2.0
+84c15ce0-4e0c-4668-8464-1bf9f92dca57,10'lu Hamburger Menü,"110,00 TL",Ekonomik Menüler,-3.0
+0003e554-2d5b-40b9-9659-1b1a091597a1,Sucuklu Tost,"8,50 TL",Tostlar,3.0
+3554ec2e-11c9-41b6-9073-d35916a58cab,Yengen Tost,"9,50 TL",Tostlar,4.0
+bb319af2-2a3f-4853-b674-e5606f9bf497,Ayvalık Tostu,"17,00 TL",Tostlar,6.0
+c988e6ae-1ca9-4e89-9d5d-de0eeeaaab21,Kaşarlı Tost,"7,00 TL",Tostlar,3.0
+0c8380b9-3d88-4c5c-9b8c-cd26fae775e3,Kaşarlı Patso Sandviç,"9,00 TL",Sandviçler,3.0
+132be5ec-3f34-4a24-ae17-7e841f38cfa0,Yengen Sandviç,"10,00 TL",Sandviçler,6.0
+225d5558-0ac8-4e69-a7e7-12f583adf465,Patso Sandviç,"8,00 TL",Sandviçler,3.0
+9ddf3c9f-dd73-418c-82ce-60be0df9cb60,Sucuklu Patso Sandviç,"9,00 TL",Sandviçler,3.0
+da9bbd5c-1408-4ca4-9149-aeb66f48aa95,Sosisli Sandviç,"9,00 TL",Sandviçler,10.0
+f4bcc2f4-8c0f-443f-aa05-a69ad71d4166,Kumru Sandviç,"15,00 TL",Sandviçler,5.0
+599af95f-d50b-4663-baf9-8ade502b1946,Tavuk Burger,"9,00 TL",Burgerler,2.0
+7588f2e7-5dd6-4211-93d9-639bc72e718c,Hamburger,"9,00 TL",Burgerler,3.0
+8f15c30e-0952-4a04-9ae6-a2272655fbcd,Cheeseburger,"16,00 TL",Burgerler,4.0
+4222d6e3-574e-42d5-b1a9-f6ec4b04f58b,Patates Kızartması,"6,00 TL",Yan Ürünler,3.0
+C76DBFF8-BC89-48EC-837D-A2EB4ADD059A,Soğan Halkası (5 Adet),"6,00 TL",Yan Ürünler,5.0
+8E68E12A-AF86-43F8-8A90-E99B6C179143,Soğan Halkası (10 Adet),"10,00 TL",Yan Ürünler,5.0
+73C716DA-71EC-416C-B5BE-0DC43EE23A38,Acı Biber Turşusu (15 gr.),"1,50 TL",Yan Ürünler,5.0
+1F151E6C-DDEE-4662-81CE-545E92FF6BFB,Ekler (250 gr.),"12,50 TL",Tatlılar,5.0
+025A5A2E-75CE-456D-B983-0112D68ACF1A,Eker Sütlaç (150 gr.),"9,00 TL",Tatlılar,5.0
+3e5bc071-1a8d-49f6-8797-b348d9fe814c,Algida Maraş Usulü Cup Dondurma (100 ml.),"6,00 TL",Dondurmalar,5.0
+5efc1334-c121-4f3d-b394-f24c09b3c8ed,Algida Carte d'Or Mini Cup Çikotala Karnavalı (110 ml.),"7,00 TL",Dondurmalar,5.0
+ffc93fb7-2cbf-4d29-86fb-e0faafb6fcc4,Algida Carte d'Or Mini Cup Çilekli Yoğurtlu (110 ml.),"7,00 TL",Dondurmalar,5.0
+3fd7a1d5-d378-4b08-9baf-7ed68f84eb89,Algida Dondurmalı Supangle (125 ml.),"13,00 TL",Dondurmalar,5.0
+c9756c35-de09-40e6-9333-2d070727d89a,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"13,00 TL",Dondurmalar,5.0
+e7e5519a-104f-41dc-9f94-9b85bf5b17b6,Algida Carte d'Or Volcano Cup (160 ml.),"14,00 TL",Dondurmalar,5.0
+7dfdd704-bd0b-4653-b4b4-1bcd7a9af52d,Ev Yapımı Limonata,"6,00 TL",İçecekler,6.0
+061f6163-6442-43af-9b46-728b2e13dee3,Doğanay Şalgam Suyu (33 cl.),"5,00 TL",İçecekler,5.0
+F829EFD7-5A15-4607-8823-D7C5B415ADA6,Karadut Suyu (33 cl.),"6,00 TL",İçecekler,5.0
+a3940dcc-bcbc-450e-a3d2-3ad056bd4605,Ballı Bademli Lokma Tatlısı (500 gr.),"17,00 TL",Kiloluk Tatlılar,5.0
+276BD2EE-321E-430B-AB60-481E0370BED9,Ballı Bademli Lokma Tatlısı (1 kg.),"34,00 TL",Kiloluk Tatlılar,5.0
+8F31CBC7-FB31-4434-AD00-613B78FEF4D0,Ekler (1 kg.),"50,00 TL",Kiloluk Tatlılar,5.0
+E8919C2E-24D6-4E9F-8E4E-637621B4813E,Ekler (500 gr.),"25,00 TL",Kiloluk Tatlılar,5.0
+4b2c2a1e-bc44-489b-9faf-3213f4eef6e8,Poşet,"0,25 TL",Poşet,6.0

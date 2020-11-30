@@ -1,0 +1,45 @@
+food_id,food_name,food_price,food_category,food_score
+261e1a0a-967e-4f66-a4c9-41a54911068a,6'lı Lahmacun Menü,"47,00 TL",Menüler,13.0
+8a8a1397-292e-475f-a52a-5e11eb76abb9,8'li Lahmacun Menü,"61,00 TL",Menüler,13.0
+9f9ee2c4-a031-4d4d-9f24-53acd271bc23,10'lu Lahmacun Menü,"75,00 TL",Menüler,13.0
+c6674da3-1205-45d7-bd2e-27813662d3b8,3'lü Fırın Sütlaç Menü,"41,00 TL",Menüler,7.0
+d2c02b74-51a3-4685-a7ac-7503fe0e4814,3'lü Cevizli Burma Kadayıf Menü,"35,00 TL",Menüler,6.0
+cb3a1ae9-9cce-4c08-a52a-66ae42b08bc1,3'lü Kaymaklı Ekmek Kadayıfı Menü,"35,00 TL",Menüler,5.0
+762f719a-1ba1-4919-8776-4277f71b578c,Cips Menü,"15,00 TL",Menüler,5.0
+4CAB91D4-4F2E-4884-A25C-CD13C71FAE55,Menü 1,"17,00 TL",Menüler,14.0
+FA4CDAE2-C4FD-4870-A381-6875EF2E83DA,Menü 2,"24,00 TL",Menüler,5.0
+09861122-0D15-4B92-9C0B-D9DA375DB868,Menü 3,"19,00 TL",Menüler,1.0
+5D8454FF-28E3-4286-B3FE-F9FD39BCDA91,Menü 4,"26,00 TL",Menüler,5.0
+BF978445-6FE0-45F5-BE5E-0487FD2B0BA0,Menü 5,"19,50 TL",Menüler,5.0
+220BBC63-4439-4BCE-86AD-7D62C879E6A9,Menü 6,"29,00 TL",Menüler,4.0
+92BED701-C7CF-4A5E-98F1-7D6348719D77,Menü 7,"19,50 TL",Menüler,3.0
+0C762C7B-CA4A-41FC-86EF-A26C156F8A9B,Menü 8,"29,00 TL",Menüler,5.0
+B521A711-3867-4652-8308-7D438718401D,Köfte Dürüm,"14,00 TL",Ekmek Arası Ürünler & Dürümler,1.0
+522FA868-640F-4958-B75C-49FB3D77C85A,Sucuk Dürüm,"14,00 TL",Ekmek Arası Ürünler & Dürümler,3.0
+586ea389-0819-443f-a34b-1fc8506fc154,3/4 Ekmek Arası Izgara Köfte,"16,00 TL",Ekmek Arası Ürünler & Dürümler,3.0
+0A263628-C5FE-4E39-8CE7-C31CE209D6DC,Soğan Halkası (6 Adet),"7,50 TL",Yan Ürünler,5.0
+63DC5D33-5834-428D-BFB3-02AD973BAEA1,Soğan Halkası (9 Adet),"10,00 TL",Yan Ürünler,5.0
+FC509EF6-C91F-42DC-A26A-77C301DDA70C,Soğan Halkası (12 Adet),"12,00 TL",Yan Ürünler,5.0
+4D9CEDF1-6ADE-49F3-A200-A98876886C6D,Çıtır Peynir (6 Adet),"7,50 TL",Yan Ürünler,12.0
+BC0ABD75-5727-4C23-BCF9-4C2B1E180A42,Çıtır Peynir (9 Adet),"10,00 TL",Yan Ürünler,12.0
+F0DD3FAA-4A7C-4261-BB4C-80397130A177,Çıtır Peynir (12 Adet),"12,00 TL",Yan Ürünler,12.0
+59545740-7FBB-45F2-84EA-F2F956C67CB8,Nugget (6 Adet),"7,50 TL",Yan Ürünler,5.0
+793DB343-44DB-4E19-A63E-3EF7CBD3F278,Nugget (9 Adet),"10,00 TL",Yan Ürünler,5.0
+944AE522-7440-4DB4-9D4B-C778D74D5D1A,Nugget (12 Adet),"12,00 TL",Yan Ürünler,5.0
+b51930c9-12c0-40b9-9793-53c6c4e38a19,Patates Kızartması (Orta),"8,00 TL",Yan Ürünler,5.0
+7f730564-4289-4db0-b301-08eee9fb30ed,Patates Kızartması (Büyük),"12,00 TL",Yan Ürünler,5.0
+5525FAB1-799E-47C9-830F-999C47BA4585,Algida Maraş Usulü Cup Dondurma (100 ml.),"4,00 TL",Dondurmalar,5.0
+D0A1B78A-DB6C-4C49-BA67-25270497635E,Algida Carte d'Or Mini Cup Çikolata Karnavalı (110 ml.),"5,00 TL",Dondurmalar,5.0
+7c0500c6-b455-4c4d-bbe5-638a07710441,Algida Carte d'Or Mini Cup Çilekli Yoğurtlu (110 ml.),"5,00 TL",Dondurmalar,5.0
+DC800EF0-1203-44F7-9E71-5DD0D9E6EB48,Algida Maraş Usulü Dondurmalı Supangle (125 ml.),"10,00 TL",Dondurmalar,5.0
+3EBB35FA-519E-4D7F-8A6D-7B7915382E61,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"10,00 TL",Dondurmalar,5.0
+5CC623B5-7C30-4F35-B297-380A3C2824BD,Algida Carte d'Or Volcano Cup (160 ml.),"13,00 TL",Dondurmalar,5.0
+520530f2-0991-40a0-bbf4-72f2c92577c5,Fırın Sütlaç,"12,00 TL",Tatlılar,7.0
+83298d11-852d-4d33-9610-e828c3de9d14,Cevizli Burma Kadayıf,"10,00 TL",Tatlılar,6.0
+85242B30-1539-43A2-A859-E80C4844EB29,Limonata (33 cl.),"4,00 TL",İçecekler,5.0
+DA979417-2B37-4463-97DB-C59F794BFC0A,Niğde Gazozu (25 cl.),"4,00 TL",İçecekler,5.0
+36e3d7bd-c109-4701-898e-c4316019f731,"Fanta (2,5 L.)","10,00 TL",İçecekler,5.0
+75338A61-9C6E-4045-BF8D-BB645460EB8F,Colorado Barbekü Sos (20 gr.),"1,50 TL",Soslar,7.0
+3C9F6FF2-F0D0-43D6-8E62-F1C04B40D884,Colorado Ranch Sos (20 gr.),"1,50 TL",Soslar,7.0
+4FA987B6-AD62-4873-8029-01139A71694B,Colorado Acı Sos (20 gr.),"1,50 TL",Soslar,6.0
+69a0f81b-2702-4a33-b385-36bd1890ddaf,Poşet,"0,25 TL",Poşet,5.0

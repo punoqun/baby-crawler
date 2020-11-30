@@ -1,0 +1,52 @@
+food_id,food_name,food_price,food_category,food_score
+F7F9A536-C7B7-4583-B111-566B3AFC063D,Aile Boyu Çiğ köfte Dürüm Menü,"30,00 TL",Menüler,17.0
+0df49899-5b7b-49fb-8ab7-037adedd04c9,Çiğ Köfte (1 kg.) Menü,"50,00 TL",Menüler,15.0
+1fa01cdb-ee8d-4a76-98bc-1ba05c229666,Çiğ Köfte (2 kg.) Menü,"100,00 TL",Menüler,15.0
+6f63f7d7-75aa-4f63-a877-8875dc02ee97,Çiğ Köfte (500 gr.) Menü,"30,00 TL",Menüler,15.0
+9C6A4B77-9351-4B22-A505-34E11CD16CDE,Çiğ Köfte Sever Menü,"20,00 TL",Menüler,15.0
+8e8d50cb-78f4-4341-b597-d317007289ab,Double Doyuran Menü 1,"25,00 TL",Menüler,8.0
+9d70274e-aa1e-4858-b1e1-94215fdf1442,Double Doyuran Menü 2,"25,00 TL",Menüler,13.0
+95472646-6ccf-4c53-b110-e3640c6aaa3e,Doyuran Menü 1,"21,00 TL",Menüler,8.0
+a7d51e98-3f54-4f2d-b515-1fec62f58a35,Doyuran Menü 2,"21,00 TL",Menüler,13.0
+dbbea906-bb0f-40bf-a1e1-d15abd43c94c,Öğrenci Menü,"23,00 TL",Menüler,3.0
+fb106114-82fb-470d-a336-9709e626a85b,Öğrenci Menü 2,"23,00 TL",Menüler,11.0
+be30ff20-311b-48b3-94e0-36b57815e59a,Tıkabasa Doyuran Menü 1,"81,00 TL",Menüler,8.0
+c2b8a1cb-c406-4c03-bdc3-c5160eb0e353,Tıkabasa Doyuran Menü 2,"81,00 TL",Menüler,13.0
+ae434d08-62bd-4509-bb45-21c312dc5c6b,3/4 Ekmek Arası Baba Köfte,"18,00 TL",Ekmek Arası Ürünler,19.0
+06C16CA9-47A3-41C5-978D-C1C049A42266,Yarım Ekmek Arası Tavuk Pirzola,"12,00 TL",Ekmek Arası Ürünler,9.0
+7B90D152-1809-4001-8A3B-E8960F9A8C70,3/4 Ekmek Arası Tavuk Pirzola,"16,00 TL",Ekmek Arası Ürünler,9.0
+F250D0A3-DBF6-4AFF-B49F-0A46CF83803B,Tam Ekmek Arası Tavuk Pirzola,"22,00 TL",Ekmek Arası Ürünler,12.0
+626acd1e-96dc-4593-b5b3-dd56777efe42,3/4 Ekmek Arası Izgara Baton Sucuk,"18,00 TL",Ekmek Arası Ürünler,6.0
+875e61a8-0a5c-4912-893b-a64a83c17f1b,3/4 Ekmek Arası Kangal Sucuk,"18,00 TL",Ekmek Arası Ürünler,6.0
+2780425e-2447-4d52-882b-f3c4b7d98015,Tam Ekmek Arası Baba Köfte,"24,00 TL",Ekmek Arası Ürünler,17.0
+709d9e58-0a19-464e-a6fa-d918bc697c40,Tam Ekmek Arası Izgara Baton Sucuk,"25,00 TL",Ekmek Arası Ürünler,9.0
+87197118-5e28-42c8-98b1-123c6581d245,Tam Ekmek Arası Kangal Sucuk,"25,00 TL",Ekmek Arası Ürünler,9.0
+5a539757-5750-4c80-85c6-d4800be1c380,Yarım Ekmek Arası Baba Köfte,"13,00 TL",Ekmek Arası Ürünler,14.0
+05dec628-34de-48ce-90bc-bafe11ad439a,Yarım Ekmek Arası Izgara Baton Sucuk,"13,00 TL",Ekmek Arası Ürünler,6.0
+13b3884e-afdd-4ca3-a1f1-ca8aacfc1562,Yarım Ekmek Arası Kangal Sucuk,"13,00 TL",Ekmek Arası Ürünler,6.0
+1c7ecc6e-d4ca-4d47-bbdc-55dafe504e1a,Izgara Köfte Dürüm,"13,00 TL",Dürümler,14.0
+fb553837-3f67-4396-8873-b531d2a7e87b,Izgara Sucuk Dürüm,"13,00 TL",Dürümler,6.0
+eccd49a6-4cb7-4378-8afc-f904480ae789,Çiğ Köfte Dürüm,"5,00 TL",Çiğ Köfteler,20.0
+659c68e9-568c-46b8-9497-3eae719b821d,Mega Çiğ Köfte Dürüm,"8,00 TL",Çiğ Köfteler,15.0
+47e01021-95e7-4d1c-8f52-5ea11d96f75f,Çiğ Köfte (200 gr.),"10,00 TL",Çiğ Köfteler,15.0
+ca5a1d3a-89e2-41ca-b8df-fc829f3d1dba,Çiğ Köfte (250 gr.),"12,50 TL",Çiğ Köfteler,15.0
+50e17680-42e6-4c5e-8e11-ab71cb00878d,Çiğ Köfte (400 gr.),"20,00 TL",Çiğ Köfteler,15.0
+7cf6b2c4-7cf5-4859-ae5e-0d6340163453,Çiğ Köfte (500 gr.),"25,00 TL",Çiğ Köfteler,15.0
+bd273aa3-57cd-4b5d-b768-d42784e1cfad,Çiğ Köfte (750 gr.),"37,50 TL",Çiğ Köfteler,15.0
+403cc23f-c316-4955-a9c2-41d82dddc4f7,Çiğ Köfte (1 kg.),"50,00 TL",Çiğ Köfteler,15.0
+12953192-1BCB-4E95-9D18-C7B128C5E0FE,Karışık Izgara,"50,00 TL",Diğer Lezzetler,5.0
+599051CE-A410-4AED-A123-B80DACF956D3,Tavuk Izgara (500 gr.),"40,00 TL",Diğer Lezzetler,9.0
+4B6B1D04-0F72-46AB-B8AB-2DBBE1B0FAA4,Eker Profiterol (150 gr.),"6,00 TL",Tatlılar,5.0
+85538228-1BAD-41B2-AD97-DE361BBD826E,Eker Sütlaç (150 gr.),"6,00 TL",Tatlılar,5.0
+F9701164-7712-4E9E-8285-2F692AE2022B,Eker Tavukgöğsü (150 gr.),"6,00 TL",Tatlılar,7.0
+34BEBBD9-0A41-4AAE-A7A4-93DA3DBEF8E4,Eker Supangle (150 gr.),"6,00 TL",Tatlılar,5.0
+11188341-6004-4663-a0ec-b9fa6fe81d6f,Eker Kazandibi (150 gr.),"6,00 TL",Tatlılar,5.0
+68e183f9-029a-4655-90ee-b1e38e2344be,Ev Yapımı Tavukgöğsü,"6,00 TL",Tatlılar,7.0
+0436744a-0aa4-438d-a6c5-0b972c06ac33,Supangle (250 gr.),"6,50 TL",Tatlılar,5.0
+a3b23e32-1300-4008-af0b-3becb8fca060,Acı Sivri Biber Turşusu,"1,50 TL",Yan Ürünler,5.0
+96e99db1-6513-4cb9-a670-8eee585a57cd,Acı Sos (2 Adet),"1,50 TL",Yan Ürünler,5.0
+0dcd1191-4937-4364-b54a-6c7a448ad303,Kornişon Turşu,"1,50 TL",Yan Ürünler,5.0
+7c4ada21-dee1-4caa-b1bf-3ee050e4edfc,Lavaş Ekmeği (Adet),"0,50 TL",Yan Ürünler,5.0
+5e6742d5-13cb-4c95-bc71-9367f34dd4cd,Limon (Adet),"1,50 TL",Yan Ürünler,5.0
+07a5042f-8c92-414e-9166-0f49e7bdfc60,Nar Ekşisi (2 Adet),"1,50 TL",Yan Ürünler,5.0
+2db95361-2fd9-4d40-bcd9-e6a4bed2e525,Poşet,"0,25 TL",Poşet,5.0

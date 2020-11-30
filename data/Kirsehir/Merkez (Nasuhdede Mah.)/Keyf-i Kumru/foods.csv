@@ -1,0 +1,46 @@
+food_id,food_name,food_price,food_category,food_score
+AD3B0E9C-80D2-4DD7-8D19-AE003FBB2380,Yengen Sandviç Menü,"18,90 TL",Menüler,5.0
+c6b921ef-c67f-40f2-a120-aea1ff3ab1e0,Ekstra Ayvalık Tost Menü,"19,90 TL",Menüler,6.0
+0D235D91-FD18-4C9F-B4A5-AB1EAE91FB45,Büyük Boy Pizza Menü,"34,90 TL",Menüler,27.0
+D104A08E-41D1-4E98-9DF6-5E7D181722A1,Muhteşem İkili,"34,00 TL",Menüler,9.0
+dc402ad3-34ec-4873-9d4a-feb3315a6317,2'li Pizza Menü,"44,90 TL",Menüler,27.0
+fe239121-d3f6-457d-b0f8-d2f73323e0ff,Aile Boyu Menü,"54,90 TL",Menüler,5.0
+E615300E-EDB0-46A7-9B47-9313CD27EE6D,Tek Kişilik Pizza Menü,"29,90 TL",Menüler,33.0
+8213802F-FAEA-42E5-8B89-52B8DFA787A5,Karışık Bazlama Tost Menü,"19,90 TL",Menüler,8.0
+871734ac-2bb6-4820-93cc-696de793af0f,2'li Ayvalık Tostu Menü,"29,90 TL",Menüler,6.0
+156b7969-2a7b-4ccc-8941-f0befc99525e,Kumru Sandviç Menü 2,"17,90 TL",Menüler,21.0
+ef1c9fd8-9cb6-4c1c-ae92-30174b1d14e6,2'li Kumru Sandviç Menü,"29,90 TL",Menüler,17.0
+e0a3c5de-5262-4737-8b2c-4a5f4bdad092,Ayvalık Tostu Menü,"17,90 TL",Menüler,6.0
+4a025cc6-9f83-4e6f-bbab-dab9047e80c2,Karışık Tost Menü,"14,90 TL",Menüler,8.0
+64bc4ebc-424e-4bdd-a079-55533159492c,Kaşarlı Tost Menü,"14,90 TL",Menüler,6.0
+ce6a7323-dd56-454a-9860-c3b13dcc2c02,Patso Sandviç Menü,"14,90 TL",Menüler,4.0
+79795d33-9715-4bd8-ac43-bc64da0c8508,Çift Kaşarlı Tost,"8,00 TL",Tostlar,6.0
+7c07f9b3-7fb2-4dc1-a109-a2bb57004f2b,Karışık Tost,"7,50 TL",Tostlar,8.0
+9fe8a7b7-7034-407e-9c39-cd03ce7c1478,Kavurmalı Kaşarlı Tost,"11,90 TL",Tostlar,8.0
+d4e89aca-ddb1-4e13-a237-0ee9d57ffbf0,Ayvalık Tostu,"11,90 TL",Tostlar,6.0
+decc1700-bdc7-4955-bcb7-f458a9e6e5a9,Kaşarlı Tost,"7,00 TL",Tostlar,6.0
+F9F68310-0568-4D79-A96E-519730675876,Ekstra Ayvalık Tost,"12,90 TL",Tostlar,6.0
+E2F0C615-EE0B-43BF-8BDB-E39411A49E25,Bazlama Ekmeğine Karışık Tost,"9,00 TL",Tostlar,8.0
+3C4248D7-53BB-40C9-A9EE-65E197C9CF55,Bazlama Ekmeğine Kavurmalı Kaşarlı Tost,"12,90 TL",Tostlar,8.0
+CF91F46E-C328-489F-AA3B-49381A84BBF9,Bazlama Ekmeğine Kaşarlı Tost,"8,50 TL",Tostlar,6.0
+BAD65030-B56C-4CB5-8DE4-15108E10F73B,Pizza Soslu Karışık Bazlama Tost,"9,90 TL",Tostlar,29.0
+C9B6B16B-11A2-4DDB-9C1E-A4A4D718FB48,Bazlama Ekmeğine Pastırmalı Kaşarlı Tost,"13,90 TL",Tostlar,6.0
+0F1AEAEC-FE51-4BF6-B9B2-EA2D67F14149,Karışık Salçalı Tost,"9,90 TL",Tostlar,10.0
+014e57e0-4523-4c31-b143-004a845a2bd7,Patso Sandviç,"7,90 TL",Sandviçler,4.0
+784a3e69-92ea-478e-a98d-1bd08606cf08,Kumru Sandviç,"11,90 TL",Sandviçler,17.0
+7149B511-4DFC-4103-8273-0703C9E257A1,Yengen Sandviç,"11,90 TL",Sandviçler,5.0
+FFD1DAB3-A651-4F96-8421-8956EFCC9055,Sosisli Patso Sandviç,"11,90 TL",Sandviçler,3.0
+14CC3F2B-1B0C-4B59-AEA2-241A35BBC5BA,Orta Boy Full Karışık Pizza,"19,90 TL",Pizzalar,29.0
+C9FD3111-BDB8-4895-8CE3-B09601893D0E,Orta Boy Vejetaryen Pizza,"19,90 TL",Pizzalar,28.0
+961F4361-ECA3-451D-BFC7-75544BCAE238,Orta Boy Kavurmalı Pizza,"22,90 TL",Pizzalar,30.0
+0f5873a0-e725-4e81-accd-cd0c6739efb6,Orta Boy Ton Balıklı Pizza,"22,90 TL",Pizzalar,28.0
+be07a1f2-d7e4-42c4-ab3b-8492b3b4b130,Orta Boy Pastırmalı Sucuklu Pizza,"22,90 TL",Pizzalar,28.0
+2A229D9B-3B75-435C-8F1E-D6FBD14D00E6,Büyük Boy Full Karışık Pizza,"24,90 TL",Pizzalar,28.0
+18DB9075-AA89-47D6-972D-38EA1EFB2934,Büyük Boy Ton Balıklı Pizza,"27,90 TL",Pizzalar,27.0
+4993F28A-E828-425B-BDF8-6989DCFE0A34,Büyük Boy Kavurmalı Pizza,"27,90 TL",Pizzalar,29.0
+12b39f6d-0d41-4faf-9d67-44624db39a89,Patates Kızartması,"5,90 TL",Yan Ürünler,12.0
+38A8A5C4-70B2-4035-A854-76913D63ED7A,Soğan Halkası (4 Adet),"4,90 TL",Yan Ürünler,5.0
+15DAE1D3-44D4-4651-96DA-EA1D918A1DD7,Nugget (4 Adet),"7,90 TL",Yan Ürünler,5.0
+C1580315-45F1-43EF-A46C-504B417C7706,Sıcak Çikolatalı Sufle,"7,90 TL",Tatlılar,5.0
+AEC29960-97AF-4A29-ABF1-3F09E0ACCA5F,Künefe,"9,90 TL",Tatlılar,5.0
+ec1ab05c-4b3e-4016-9f5f-cfc9dfbcb7db,Poşet,"0,25 TL",Poşet,5.0

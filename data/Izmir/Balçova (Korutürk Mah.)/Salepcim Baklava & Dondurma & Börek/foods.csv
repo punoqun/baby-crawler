@@ -1,0 +1,113 @@
+food_id,food_name,food_price,food_category,food_score
+53d8f6d0-755d-4bba-9b2a-bbe7211bc9f9,Munchies Menü 1,"17,50 TL",Menüler,8.0
+2482193e-32a9-4265-a72b-3d358007c4ef,Munchies Menü 2,"21,00 TL",Menüler,-4.0
+7347cdd1-59bc-4a41-b79c-a1ccb4da6280,Munchies Menü 4,"14,00 TL",Menüler,7.0
+1ad6b3b3-2af4-4bd3-9d60-05bac78717f6,Munchies Menü 5,"17,50 TL",Menüler,14.0
+9a5fc232-fe07-442e-a475-1ecb014dc90b,Munchies Menü 6,"21,00 TL",Menüler,7.0
+5e7a6675-3cd4-4dec-8b2d-409b09e73da0,Munchies Menü 7,"17,50 TL",Menüler,1.0
+d68019f2-18f8-46b3-905e-4ed6b0cc37b3,Munchies Menü 8,"21,00 TL",Menüler,0.0
+86863ecf-acce-4d24-b590-8a2d0f9b4409,Munchies Menü 13,"17,50 TL",Menüler,4.0
+597da454-1000-491d-8b54-3cdd155b3133,Fıstıklı Baklava Menü,"17,50 TL",Menüler,1.0
+039d91d2-9690-4a40-a7e5-fb52848c1dbc,Salep (1 L.),"42,00 TL",Salepler,5.0
+58E9E880-3089-4603-A537-FB3C1EF220EC,Ev Yapımı Patatesli Boşnak Böreği (Dilim),"10,50 TL",Börekler,4.0
+1BAA5062-54A7-4415-A3A6-0B97F7BF2224,Ev Yapımı Patlıcanlı Boşnak Böreği (Dilim),"14,00 TL",Börekler,4.0
+2C373B07-3600-4E65-A03C-8BFB2C7F5029,Ev Yapımı Peynirli Boşnak Böreği (Dilim,"10,50 TL",Börekler,4.0
+bdc41f2f-ba38-4efe-8b00-1bab2b401a2d,Tereyağlı Su Böreği (Dilim),"7,00 TL",Börekler,21.0
+d5362f76-ed49-425c-a07a-ff0d90f04b63,Ev Yapımı Otlu Peynirli Boşnak Böreği,"10,50 TL",Börekler,5.0
+6ed1a839-9a09-4b0f-a508-6efb3b342408,Cevizli Baklava Menü,"14,00 TL",Tatlılar,7.0
+26c1d0e9-234b-469c-a3ae-e1bb989ea82a,Cevizli Kaymaklı Midye Baklava (Dilim),"4,20 TL",Tatlılar,10.0
+27154d94-370b-4505-886d-02e3c9df025c,Cevizli Kaymaklı Şöbiyet (Dilim),"4,20 TL",Tatlılar,9.0
+f195b0d8-ef31-4b88-9378-a12b573c5108,Cevizli Özel Baklava (2 Dilim),"4,20 TL",Tatlılar,13.0
+e8a13351-e872-4584-a3fe-f74aca892866,Fındıklı Çikolatalı Baklava (Dilim),"4,20 TL",Tatlılar,13.0
+1a199b32-5965-4844-8dd0-f612069f1d37,Cevizli Ev Yapımı Baklava (Dilim),"4,20 TL",Tatlılar,7.0
+c1c52021-0b54-4403-a82b-d3654ad3a08b,Fıstıklı Kaymaklı Midye Baklava (Dilim),"5,60 TL",Tatlılar,4.0
+ffdd559f-a4be-4489-819b-1a2a55888dbe,Fıstıklı Kaymaklı Şöbiyet (Dilim),"5,60 TL",Tatlılar,3.0
+5a63da46-1b28-46cb-92a6-a89173739220,Fıstıklı Kuru Baklava (Dilim),"5,60 TL",Tatlılar,8.0
+bec6f57b-858e-48fd-948f-c4c5201df2da,Fıstıklı Özel Baklava (2 Dilim),"5,60 TL",Tatlılar,7.0
+45d1fa7d-c078-4b41-a2fe-b713df6d2cb3,Fıstıklı Soğuk Baklava (Dilim),"5,60 TL",Tatlılar,1.0
+3d3c57ff-c6f6-4c4c-975c-44fe874b57d8,Cevizli Saray Burma (Dilim),"4,20 TL",Tatlılar,11.0
+ae9fcd4c-945b-4e10-8109-10ed8add0870,Cevizli Burma Kadayıf (Dilim),"4,20 TL",Tatlılar,4.0
+69ce3445-7cf4-498b-8160-32b32bcae99e,Cevizli Sütlü Nuriye (Dilim),"5,60 TL",Tatlılar,4.0
+b92d39f3-e8f0-4ae7-ad41-6416a49e0af7,Cevizli Ev Yapımı Baklava (4 Dilim),"10,50 TL",Tatlılar,7.0
+8f37f2b3-a3bb-47e1-b075-f652a75b3640,Cevizli Kaymaklı Midye Baklava (3 Dilim),"12,60 TL",Tatlılar,9.0
+0e5652a9-d1f8-4816-be00-f83af3ce8922,Cevizli Kaymaklı Şöbiyet (3 Dilim),"12,60 TL",Tatlılar,7.0
+e133f242-36a1-4d04-aed5-29b74fd527e9,Cevizli Özel Baklava (6 Dilim),"12,60 TL",Tatlılar,13.0
+02edd722-9e74-4d98-bbbd-5fd0f84921eb,Cevizli Saray Burma (4 Dilim),"10,50 TL",Tatlılar,11.0
+3186be43-f89b-4f52-a590-ba58fc0983bc,Fındıklı Çikolatalı Baklava (3 Dilim),"14,00 TL",Tatlılar,7.0
+c4d989f8-ffaf-4fc4-83ae-daa1deaf599d,Fındıklı Sütlü Nuriye (3 Dilim),"14,00 TL",Tatlılar,1.0
+8183174f-9239-450e-bb97-e8c9e119994c,Fıstıklı Baklava (3 Dilim),"15,40 TL",Tatlılar,1.0
+a5121aaa-5394-4837-a985-e802299b5f8c,Fıstıklı Havuç Dilim Baklava,"17,50 TL",Tatlılar,9.0
+76cd868f-30ed-4e6d-987f-48b636f4623e,Fıstıklı Kaymaklı Midye Baklava (3 Dilim),"17,50 TL",Tatlılar,3.0
+9da52bbf-58bd-44dc-81bd-c4e9787ce000,Fıstıklı Kaymaklı Şöbiyet (3 Dilim),"17,50 TL",Tatlılar,1.0
+fa2a16e2-f8f0-4573-921a-b72914e5382d,Fıstıklı Kuru Baklava (3 Dilim),"17,50 TL",Tatlılar,2.0
+d1efa960-47d9-49fa-9cdb-1f4350e29009,Fıstıklı Özel Baklava (6 Dilim),"17,50 TL",Tatlılar,7.0
+718a4d2a-8c06-4456-99ed-831eea6a9a74,Fıstıklı Soğuk Baklava (4 Dilim),"17,50 TL",Tatlılar,1.0
+c8f32049-a17b-41ec-9a0f-d968fdb6ca85,Yeşil Fıstıklı Gelin Bohçası (3 Dilim),"21,00 TL",Tatlılar,-2.0
+0eebe97e-9095-4e69-83d1-b6b1cc1cd296,Cevizli Burma Kadayıf (250 gr.),"17,50 TL",Tatlılar (250 gr.),4.0
+c92fda2e-580a-4240-9c41-2a760ae3d90a,Cevizli Ev Baklavası (250 gr.),"21,00 TL",Tatlılar (250 gr.),9.0
+429f2b9c-4c6d-4b3b-9238-b49160bce751,Cevizli Kaymaklı Midye Baklava (250 gr.),"21,00 TL",Tatlılar (250 gr.),10.0
+e9dcc735-ecaa-4d8a-8a3d-6530ed794a5c,Cevizli Kaymaklı Şöbiyet (250 gr.),"17,50 TL",Tatlılar (250 gr.),9.0
+fd076431-00d1-4267-83e4-dff31a099f09,Cevizli Özel Baklava (250 gr.),"18,90 TL",Tatlılar (250 gr.),13.0
+799e8868-59d3-45e6-ae86-cbfce71477c6,Fındıklı Çikolatalı Baklava (250 gr.),"17,50 TL",Tatlılar (250 gr.),8.0
+eaf1507f-2344-4ac1-bc50-dcef83fae54d,Fındıklı Sütlü Nuriye (250 gr.),"17,50 TL",Tatlılar (250 gr.),3.0
+a80c5690-9d58-4d32-a0d3-5014d0c395f2,Fıstıklı Baklava (250 gr.),"24,50 TL",Tatlılar (250 gr.),2.0
+d3656453-0399-4d5e-93f8-eb13a151fdd8,Fıstıklı Havuç Dilim Baklava (250 gr.),"28,00 TL",Tatlılar (250 gr.),9.0
+53b04efb-7178-4406-8da8-c2406dcdc9e6,Fıstıklı Kaymaklı Midye Baklava (250 gr.),"28,00 TL",Tatlılar (250 gr.),4.0
+2283c5d1-96f0-49bc-9d3d-62ba87e5a05b,Fıstıklı Kaymaklı Şöbiyet (250 gr.),"28,00 TL",Tatlılar (250 gr.),3.0
+488dbdc1-c036-4bdc-ab12-b28e8572c19e,Fıstıklı Kuru Baklava (250 gr.),"28,00 TL",Tatlılar (250 gr.),3.0
+1ce80f1e-7848-409d-bda9-c16262deb9e0,Fıstıklı Özel Baklava (250 gr.),"28,00 TL",Tatlılar (250 gr.),7.0
+020ac9c1-a1ee-44b9-90dc-9506dddeeec8,Fıstıklı Sarma (250 gr.),"35,00 TL",Tatlılar (250 gr.),0.0
+18264b68-d739-4e45-b387-b8e1fd613598,Fıstıklı Soğuk Baklava (250 gr.),"28,00 TL",Tatlılar (250 gr.),1.0
+a32c3269-0158-4bd8-a763-80144815a42e,Yeşil Fıstıklı Gelin Bohçası (250 gr.),"35,00 TL",Tatlılar (250 gr.),0.0
+1451bfec-da5d-48d0-8471-b3cd33e0f0c7,Ev Yapımı Otlu Peynirli Boşnak Böreği (500 gr.),"21,00 TL",Kiloluk Börekler,5.0
+14d316c5-5c2a-40e1-ac5f-a7d29adcfc94,Ev Yapımı Otlu Peynirli Boşnak Böreği (1 kg.),"38,50 TL",Kiloluk Börekler,5.0
+28a9cbe2-49e3-4856-a888-4c9082a90689,Tereyağlı Su Böreği (500 gr.),"21,00 TL",Kiloluk Börekler,16.0
+6e79aa3d-4413-4b02-abfe-ffac343b380f,Ev Yapımı Otlu Peynirli Boşnak Böreği (3 kg.),"84,00 TL",Kiloluk Börekler,3.0
+81b28281-153c-443e-882e-b28d992cf35f,Ev Yapımı Kıymalı Boşnak Böreği (3 kg.),"105,00 TL",Kiloluk Börekler,2.0
+a64c3623-f3ff-411a-8ceb-ab1858f76712,Tereyağlı Su Böreği (3 kg.),"94,50 TL",Kiloluk Börekler,14.0
+F155EC2A-9757-4FA7-9C60-01DEBBED46F1,Ev Yapımı Peynirli Boşnak Böreği (500 gr.),"24,50 TL",Kiloluk Börekler,4.0
+A49EA017-0D94-44B1-9081-8F0E67672CCA,Ev Yapımı Peynirli Boşnak Böreği (1 kg.),"42,00 TL",Kiloluk Börekler,4.0
+37A1A289-4A0C-4322-89B7-F7B821F5F529,Ev Yapımı Patlıcanlı Boşnak Böreği (500 gr.),"28,00 TL",Kiloluk Börekler,4.0
+36DF7EED-CF08-47BF-8333-B325C61978BA,Ev Yapımı Patatesli Boşnak Böreği (500 gr.),"24,50 TL",Kiloluk Börekler,4.0
+ADB7C4AC-A298-4C71-86DA-66DBAAC248AF,Ev Yapımı Patatesli Boşnak Böreği (1 kg.),"42,00 TL",Kiloluk Börekler,4.0
+7104C754-9200-4E4B-B61B-826D9FF2351B,Ev Yapımı Patlıcanlı Boşnak Böreği (1 kg.),"52,50 TL",Kiloluk Börekler,4.0
+b237d0cb-7a5a-4522-8a64-35c7636d8696,Cevizli Burma Kadayıf (500 gr.),"28,00 TL",Kiloluk Kadayıflar (500 gr.),4.0
+54D4AC6F-C39C-44AF-8D51-8872FF9CED02,Fıstıklı Sarma (500 gr.),"70,00 TL",Kiloluk Kadayıflar (500 gr.),0.0
+54dc05d6-121e-4e0d-a4a5-791ada4b206b,Cevizli Ev Yapımı Baklava (500 gr.),"35,00 TL",Kiloluk Baklavalar (500 gr.),7.0
+a943637f-9e65-41ea-97b6-4bfe94dff27a,Cevizli Kaymaklı Midye Baklava (500 gr.),"35,00 TL",Kiloluk Baklavalar (500 gr.),10.0
+e9eb9099-092b-4b75-b8bf-8423ad83a99c,Cevizli Kaymaklı Şöbiyet (500 gr.),"35,00 TL",Kiloluk Baklavalar (500 gr.),9.0
+a0112625-8270-4519-9820-85147905fefd,Cevizli Özel Baklava (500 gr.),"31,50 TL",Kiloluk Baklavalar (500 gr.),13.0
+c88a1f88-6fd6-4845-98b0-a7dd162ed007,Cevizli Saray Burma (500 gr.),"28,00 TL",Kiloluk Baklavalar (500 gr.),11.0
+b46c8321-e1d2-4fc7-b44e-5e01fdd36426,Fındıklı Çikolatalı Baklava (500 gr.),"35,00 TL",Kiloluk Baklavalar (500 gr.),8.0
+5235eff8-c215-413a-995d-0f0e5e98fa74,Fındıklı Sütlü Nuriye (500 gr.),"35,00 TL",Kiloluk Baklavalar (500 gr.),3.0
+ac14202b-a1cd-4b03-aac1-febe5a6476e7,Fıstıklı Baklava (500 gr.),"49,00 TL",Kiloluk Baklavalar (500 gr.),2.0
+5a53d2e2-d6b3-4655-a4a2-a77012702027,Fıstıklı Havuç Dilimi Baklava (500 gr.),"52,50 TL",Kiloluk Baklavalar (500 gr.),9.0
+cdd5186f-04c7-47a9-bbdc-683dd0e5fb9f,Fıstıklı Kaymaklı Midye Baklava (500 gr.),"52,50 TL",Kiloluk Baklavalar (500 gr.),4.0
+395208a6-e9d6-4973-887d-40300eda805a,Fıstıklı Kaymaklı Şöbiyet (500 gr.),"45,50 TL",Kiloluk Baklavalar (500 gr.),3.0
+f7dc39ad-05e5-4341-84ee-8abd92c052d6,Fıstıklı Kuru Baklava (500 gr.),"52,50 TL",Kiloluk Baklavalar (500 gr.),3.0
+dced2a68-8ee8-4fd3-8fe6-d0a670d8586b,Fıstıklı Özel Baklava (500 gr.),"49,00 TL",Kiloluk Baklavalar (500 gr.),7.0
+457d2ec5-c76a-4f4c-a0f7-1b82dfc26a29,Fıstıklı Soğuk Baklava (500 gr.),"52,50 TL",Kiloluk Baklavalar (500 gr.),1.0
+90778747-3797-4c1b-87f3-2e3e8945d8cd,Yeşil Fıstıklı Gelin Bohçası (500 gr.),"63,00 TL",Kiloluk Baklavalar (500 gr.),0.0
+95136d19-2197-4703-9a20-0f128a77a03e,Cevizli Basma Kadayıf & Cevizli Burma Kadayıf (3 kg.),"105,00 TL",Kiloluk Kadayıflar (1 kg.),1.0
+9088741e-4ac2-4900-843b-9da7ec74eb2c,Cevizli Burma Kadayıf (1 kg.),"49,00 TL",Kiloluk Kadayıflar (1 kg.),4.0
+8e6a8d33-16fa-4b13-be1c-446657481e08,Fıstıklı Basma Kadayıf & Fıstıklı Burma Kadayıf (3 kg.),"175,00 TL",Kiloluk Kadayıflar (1 kg.),-8.0
+B973DF65-DDAF-474A-8DB1-59A301A0743B,Fıstıklı Sarma (1 kg.),"140,00 TL",Kiloluk Baklavalar (1 kg.),0.0
+9B2CE472-FF8A-44EC-B5C6-F21F20D53850,Fındıklı Çikolatalı Baklava (1kg),"70,00 TL",Kiloluk Baklavalar (1 kg.),8.0
+7F964BDE-46B3-4586-8CB2-DC31553E3154,Fındıklı Sütlü Nuriye (1 kg.),"63,00 TL",Kiloluk Baklavalar (1 kg.),3.0
+d6bea611-6aa9-4a87-9c68-c65e3ed7cf54,Cevizli Ev Yapımı Baklava (1 kg.),"63,00 TL",Kiloluk Baklavalar (1 kg.),7.0
+6e724fa4-76c6-49da-ab2c-631df3bff326,Cevizli Kaymaklı Midye Baklava (1 kg.),"63,00 TL",Kiloluk Baklavalar (1 kg.),10.0
+878c3e78-d9b5-4e55-85f7-48fda5c01207,Cevizli Kaymaklı Şöbiyet (1 kg.),"63,00 TL",Kiloluk Baklavalar (1 kg.),9.0
+88803d71-3fa2-4afc-b3a5-293fe2052254,Cevizli Özel Baklava (1 kg.),"56,00 TL",Kiloluk Baklavalar (1 kg.),13.0
+3e7ce411-e125-40c3-808d-89902e0c4890,Cevizli Saray Burma (1 kg.),"56,00 TL",Kiloluk Baklavalar (1 kg.),11.0
+59ae0bc5-e32f-4ec8-8523-aceeaac1450c,Fıstıklı Baklava (1 kg.),"84,00 TL",Kiloluk Baklavalar (1 kg.),2.0
+d99aaa37-1cad-4dbf-aae2-d1b9f9134008,Fıstıklı Havuç Dilimi Baklava (1 kg.),"91,00 TL",Kiloluk Baklavalar (1 kg.),9.0
+3f267493-6917-44a2-9242-df15b0400a1b,Fıstıklı Kaymaklı Midye Baklava (1 kg.),"91,00 TL",Kiloluk Baklavalar (1 kg.),4.0
+d05e0199-d8f1-4d11-989b-4c54961ea247,Fıstıklı Kaymaklı Şöbiyet (1 kg.),"91,00 TL",Kiloluk Baklavalar (1 kg.),3.0
+537043f2-e57b-45f4-bce5-a18c657e8117,Fıstıklı Kuru Baklava (1 kg.),"91,00 TL",Kiloluk Baklavalar (1 kg.),3.0
+9677515a-f65b-43a6-9a43-0b3f96e83ef5,Fıstıklı Özel Baklava (1 kg.),"84,00 TL",Kiloluk Baklavalar (1 kg.),7.0
+7d7bf996-0d13-4568-bdd2-cf52c8b7e103,Fıstıklı Soğuk Baklava (1 kg.),"91,00 TL",Kiloluk Baklavalar (1 kg.),1.0
+d1fb1a70-40db-4f92-a4e6-fd935c029fc6,Sütlü Nuriye (1 kg.),"63,00 TL",Kiloluk Baklavalar (1 kg.),3.0
+7cffcd03-bff6-45b6-8c10-ee4cb3c6b66f,Yeşil Fıstıklı Gelin Bohçası (1 kg.),"126,00 TL",Kiloluk Baklavalar (1 kg.),0.0
+e5156826-dc56-4c87-8ec8-4043697fad15,Chocolate Garden Special (500 gr.),"80,50 TL",Kiloluk Çikolatalar,5.0
+95ae56c7-9332-4b78-9ef5-2f2309b293c6,Chocolate Garden Madlen (500 gr.),"70,00 TL",Kiloluk Çikolatalar,5.0
+866705e1-5cc8-429f-bb8e-6f8dc8d42484,Poşet,"0,25 TL",Poşet,5.0

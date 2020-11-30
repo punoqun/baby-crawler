@@ -1,0 +1,34 @@
+food_id,food_name,food_price,food_category,food_score
+992c5252-29a2-4b40-978d-b25f4d524889,Hamburger Menü,"17,00 TL",Ekonomik Menüler,4.0
+fe6bbcb8-3692-4090-a610-06455d176d19,Chicken Burger Menü,"16,00 TL",Ekonomik Menüler,3.0
+f3aa0e44-ce85-4deb-8d18-9707bca29cff,Tavuk Nugget Dürüm Menü,"15,00 TL",Ekonomik Menüler,7.0
+8fa6cda2-1f62-415b-b6b0-8793afea25df,Hot Dog Sandviç Menü,"14,00 TL",Ekonomik Menüler,0.0
+9b210d2b-72d4-478b-b6e7-f2c3457d851c,Tavuk Şavurma Dürüm Menü,"19,00 TL",Ekonomik Menüler,18.0
+78325fea-afaa-4225-af8a-11287d1168d9,Ciğer Dürüm Menü,"17,00 TL",Ekonomik Menüler,1.0
+1af8d684-58d3-46f0-8dc3-d5acbb80af99,Ekmek Arası Ciğer Menü,"18,00 TL",Ekonomik Menüler,3.0
+5e9b9232-0423-437d-9950-87047293d9db,Izgara Köfte Dürüm Menü,"18,00 TL",Ekonomik Menüler,5.0
+8988952d-ea09-43de-8868-431e6cdd9f88,Ekmek Arası Izgara Köfte Menü,"20,00 TL",Ekonomik Menüler,7.0
+72da8449-ceaf-4ad5-9c23-319336f74108,Çiğ Köfte (665 gr.) Menü,"29,00 TL",Ekonomik Menüler,9.0
+8c5ea8ef-8435-4faf-a52e-043ace29a535,Çiğ Köfte (830 gr.) Menü,"30,00 TL",Ekonomik Menüler,9.0
+d7591081-cca6-4a83-815e-090683ab8c40,Çiğ Köfte (1 kg.) Menü,"40,00 TL",Ekonomik Menüler,9.0
+c7a09f79-a1f9-411b-9120-60c3d50d1be1,Falafelanka Karışık Kumpir,"20,90 TL",Kumpirler,35.0
+081e3481-feb0-4c4f-8dce-56ec6aeb0eff,Kıtır Tavuklu Kumpir,"20,90 TL",Kumpirler,35.0
+8dbd6fb5-b1dc-4823-97e0-57ce40e521f4,Sade Kumpir,"17,90 TL",Kumpirler,35.0
+2edf81ef-37e2-4149-b56a-7c023f711514,Süper Karışık Kumpir,"25,50 TL",Kumpirler,39.0
+092ef4e1-18f1-43af-af17-876b5c01ec05,Duble Kaşarlı Kumpir,"19,50 TL",Kumpirler,35.0
+1019d55d-f257-4c12-8828-efd7bc523ca9,Ton Balıklı Kumpir,"22,50 TL",Kumpirler,35.0
+3c5264e7-189e-4c92-b199-f9b031d683ac,Veggie Kumpir,"20,50 TL",Kumpirler,35.0
+ECAB56AC-B38C-4544-8FC8-5E4D8B3B497A,Sushi Çiğ Köfte,"12,00 TL",Çiğ Köfteler,11.0
+ebcf13e7-19d2-4080-a1cc-ce045069786b,Hot Dog Sandviç,"9,00 TL",Sandviçler,2.0
+05ff85aa-842d-4fc9-8c4e-95901ec24fa9,Izgara Köfte Dürüm,"12,00 TL",Dürümler,7.0
+f6d37af1-5260-4029-9e04-3707ba693626,Tavuk Nugget Dürüm,"9,00 TL",Dürümler,9.0
+44c87c5a-d1d9-4e85-b10a-b94619097a6d,Patates Dürüm,"7,50 TL",Dürümler,1.0
+793cbdf2-14e5-47c7-a953-fe87d172297f,Ekmek Arası Patates,"7,00 TL",Ekmek Arası Ürünler,3.0
+e71e5dca-6f67-415d-bf68-db239572bedd,Ekmek Arası Ciğer,"10,00 TL",Ekmek Arası Ürünler,5.0
+bd625697-4377-4d4c-9b87-59ba8d42bc9a,Bardak Mısır (Küçük),"4,00 TL",Yan Ürünler,4.0
+84ea10b9-0bf9-472c-9534-6727135a7b87,Bardak Mısır (Orta),"6,00 TL",Yan Ürünler,4.0
+9eb17ed9-c44c-4151-8497-35c894c5a8c4,Bardak Mısır (Büyük),"8,00 TL",Yan Ürünler,4.0
+9f7bc01f-ad0a-4736-8405-a0c0576da69f,Patates Kızartması,"6,00 TL",Yan Ürünler,1.0
+e6765429-8cbd-4525-bda0-7ba18462ca68,Acılı Şalgam Suyu (33 cl.),"4,00 TL",İçecekler,5.0
+c4eb5e66-c97d-46fd-b522-bf65a9e1dddf,"Fanta (2,5 L.)","10,00 TL",İçecekler,5.0
+5a74ae29-a0fd-415c-bb0d-0105a8056117,Poşet,"0,25 TL",Poşet,5.0

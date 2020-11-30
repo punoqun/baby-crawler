@@ -1,0 +1,41 @@
+food_id,food_name,food_price,food_category,food_score
+0fcbc54d-d9e8-42a9-a97f-ba0643ebb0d7,Menü 1,"18,00 TL",Ekonomik Menüler,1.0
+92e5bfd1-02f4-4f8a-beef-a28f7129598d,Menü 3,"18,00 TL",Ekonomik Menüler,1.0
+637b5a42-6b01-4116-a49e-4ade60eba3a8,Menü 5,"15,75 TL",Ekonomik Menüler,-3.0
+aca22416-126c-4b88-ba27-5371e9cf410c,Menü 6,"18,75 TL",Ekonomik Menüler,8.0
+ea593753-86ca-4180-9abe-aab183a68e94,Menü 7,"24,00 TL",Ekonomik Menüler,5.0
+8ca922e9-c47b-46cb-8ff2-dab2cf8476da,Menü 9,"46,50 TL",Ekonomik Menüler,5.0
+4acc6268-858f-46dc-acd0-dc2102f2f71d,Menü 10,"61,50 TL",Ekonomik Menüler,9.0
+b28a73b4-3b10-49c1-9a7e-a43fd14a4998,Lahmacun,"9,00 TL",Lahmacunlar,2.0
+30e54fbe-f722-4644-9f15-eb9ad37e1cfb,Kıymalı Kaşarlı Lahmacun,"9,75 TL",Lahmacunlar,-3.0
+0205d529-ad9b-4e07-92c9-a32a9eaf5ab0,Kuşbaşılı Lahmacun,"12,00 TL",Lahmacunlar,-4.0
+238f1008-15c2-4a7c-bd78-b975703cd027,Kuşbaşılı Kaşarlı Lahmacun,"12,75 TL",Lahmacunlar,-4.0
+a02898d8-ceb2-466f-b011-ab3a884174cd,Akhisar Köfte,"19,50 TL",Izgaralar,13.0
+6d198da2-a2ab-42cc-9677-fb1ae1665b21,Tavuk Kanat,"19,50 TL",Izgaralar,5.0
+fa77a860-c1b9-469f-9646-976a631940d8,Tavuk Şiş,"19,50 TL",Izgaralar,6.0
+9484fea1-76d3-4ff2-8890-34b8f964924e,İskender (Et Dönerden),"20,25 TL",Dönerler,6.0
+cabf1c2a-aff0-4a3c-a531-5f173bf65a6b,Et Döner,"20,25 TL",Dönerler,3.0
+077d180a-b732-478f-96f1-9b84aa8b4473,Et Döner Dürüm,"12,75 TL",Dürümler,3.0
+bae04c3a-6c80-47c8-bb83-795cd89fd3b1,Tavuk Şiş Dürüm,"12,75 TL",Dürümler,6.0
+10399509-d94c-4662-80b9-e2618810627f,Köfte Dürüm,"12,75 TL",Dürümler,10.0
+25cdf12e-d16f-47c2-b4df-7e074cfa6619,Kıymalı Pide,"12,00 TL",Pideler,7.0
+0a2281b7-cac1-4d55-bd70-f1baa614f8e6,Kıymalı Kaşarlı Pide,"14,25 TL",Pideler,7.0
+d4778ec6-c581-4733-9210-07d5afa96bff,Kaşarlı Pide,"12,00 TL",Pideler,7.0
+362d0ed9-ad6c-4c92-ba3f-a0002414f096,Kuşbaşılı Pide,"16,50 TL",Pideler,6.0
+06627207-6807-4c1c-841f-752368ffe78b,Kuşbaşılı Kaşarlı Pide,"18,00 TL",Pideler,6.0
+b3d166ea-3f19-4abd-a7f2-18fa06eded1d,Kiremitte Köfte,"18,75 TL",Diğer Lezzetler,12.0
+fbd24044-b3cc-4812-bb68-b594ca9cb079,Kiremitte Kaşarlı Köfte,"20,25 TL",Diğer Lezzetler,12.0
+fce8c186-8f15-4901-b25f-0af530e9f73d,Lavaş Ekmeği,"1,50 TL",Yan Ürünler,5.0
+f54ccb10-864a-4a90-a9c3-9413e282ced6,Pide Ekmeği,"1,50 TL",Yan Ürünler,7.0
+f211c209-00b9-41d8-a238-7fb304a4de5f,Yoğurt,"6,00 TL",Yan Ürünler,5.0
+f4cacd1d-fa25-43f7-bcd1-f25474c59f6f,Çoban Salata,"9,00 TL",Salatalar,3.0
+d90502b9-08d8-40be-90ce-095b2b89bd59,Kaşık Salata,"9,00 TL",Salatalar,3.0
+f4c7bc23-2f42-4aca-bee2-7dbc1ee0dcf3,Mevsim Salata,"9,00 TL",Salatalar,3.0
+d7fb6f23-6608-43e8-8c10-c87fddb8ef85,Kemalpaşa Tatlısı,"9,75 TL",Tatlılar,5.0
+8385366e-d1e7-4726-8aba-36d4fdf5ab28,Algida Maraş Usulü Cup Dondurma (100 ml.),"5,25 TL",Dondurmalar,5.0
+b8a8ad2c-4d7e-4ea8-a62e-e6a89c1fc3de,Algida Carte d'Or Mini Cup Çikolata Karnavalı (110 ml.),"5,25 TL",Dondurmalar,5.0
+c2707f80-1aaa-48d6-b849-bdbaff059964,Algida Carte d'Or Mini Cup Çilekli Yoğurtlu (110 ml.),"5,25 TL",Dondurmalar,5.0
+88c4221f-31c9-4726-bbf5-2202f3824605,Algida Carte d'Or Volcano Cup,"9,75 TL",Dondurmalar,5.0
+026b15f8-855d-4d18-8460-9925de0b56b1,Algida Maraş Usulü Dilim Dondurma (82 ml.),"3,68 TL",Dondurmalar,5.0
+20df758f-1a6d-4b14-9cc9-f34c81a2bd0d,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"8,93 TL",Dondurmalar,5.0
+64ffb001-1940-4783-ad26-f3a823cd7802,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,53 @@
+food_id,food_name,food_price,food_category,food_score
+e4abbe73-f449-403f-870a-1d5a4500f1a1,Izgara Lokum,"55,90 TL",Kırmızı Etler,5.0
+8dd1ecc2-cb4c-452a-88fb-65116b2289e5,Izgara Antrikot,"45,90 TL",Kırmızı Etler,5.0
+91d2466e-354a-41b1-8ce2-33d623316408,Beef Stroganoff,"42,90 TL",Kırmızı Etler,6.0
+439d0793-c732-40ea-a71f-70cf77e62dbd,Etli Fajita,"44,90 TL",Kırmızı Etler,5.0
+f25e5d80-4f24-4279-81dc-cbaadcc88a9c,Etli Çökertme,"43,90 TL",Kırmızı Etler,5.0
+e3ffa989-f9f3-49c0-a6f6-f8c34fc2b7c5,Köri Soslu Tavuk,"27,90 TL",Beyaz Etler,19.0
+2bba80d9-67ba-4002-899b-d15543d793d6,Kremalı Mantarlı Tavuk,"27,90 TL",Beyaz Etler,7.0
+e8fc64c1-91d1-4238-9a1a-b4b8e8720c15,Isabella Tavuk,"28,90 TL",Beyaz Etler,8.0
+218a4a1b-878a-4cf9-8f6b-10871e03742a,Tavuklu Fajita,"28,90 TL",Beyaz Etler,9.0
+2b2ed116-0cbc-4837-bba1-a782415cfd5c,Tavuk Çöp Şiş,"28,90 TL",Beyaz Etler,7.0
+43e64317-fd13-41f7-b91f-d5bebb112b9c,Chicken Schnitzel,"28,90 TL",Beyaz Etler,5.0
+85917025-49bc-4bff-94bd-b3fd37118593,BBQ Soslu Tavuk,"27,90 TL",Beyaz Etler,8.0
+30c226a2-be5b-408b-97ba-eadc7d375af0,Soya Soslu Tavuk,"27,90 TL",Beyaz Etler,8.0
+1453f6df-191c-4768-942d-003330991303,Kekikli Tavuk,"29,90 TL",Beyaz Etler,8.0
+ab79f6eb-6f98-4cb3-b1bd-831442796c97,King Tavuk Sote,"27,90 TL",Beyaz Etler,8.0
+e376f5ca-3ca1-44da-b355-52d52e47b6d5,Fettuccine Alfredo,"23,90 TL",Makarnalar,8.0
+e7d979ae-bb09-4bce-a920-caaa16f48f7d,Spaghetti Bolognese,"25,90 TL",Makarnalar,5.0
+5a44dc84-77de-40e7-a2c5-0e48b55bb30e,Kremalı Tavuklu Penne,"23,90 TL",Makarnalar,8.0
+432b1af5-33cd-4a3d-a948-8376f2e7e69c,Penne Alla Carne,"29,90 TL",Makarnalar,5.0
+5dd66250-b194-40be-aa42-f8719a29f037,King Mantı,"28,90 TL",Makarnalar,5.0
+49723ee5-815f-4599-b9b4-8e69318ee13b,Tavuklu Noodle,"27,90 TL",Noodles,8.0
+b79b83d2-7826-486c-a8cd-acf4567bb3a5,Etli Noodle,"34,90 TL",Noodles,4.0
+7e6ce35b-04c8-4afa-b8ba-79bbd8f413b3,Sebzeli Noodle,"21,90 TL",Noodles,4.0
+67161cab-d17c-4b33-a3b1-968d008e743a,Mini Tavuk Burger,"24,90 TL",Burgerler,8.0
+07bc061f-9894-4dbd-b898-4541f8e89ee9,Lokum Burger,"39,90 TL",Burgerler,5.0
+3869d9f3-cbc2-46d9-9496-ec546f9524f1,Tavuk Burger,"24,90 TL",Burgerler,8.0
+90b6896f-d7cc-4b11-959a-e191063f9692,Chicken Quesadilla,"25,90 TL",Quesadillas,5.0
+f3ce4544-d33e-4afa-b980-1a15f4c3c1d8,Beef Quesadilla,"30,90 TL",Quesadillas,6.0
+d9a26ec7-829a-4fdf-a9a7-8849a657aecd,Tavuklu Wrap,"25,90 TL",Wraps,8.0
+9a954ddd-a8ec-4425-9a8c-1e065e35f669,Etli Wrap,"30,90 TL",Wraps,4.0
+d6f19cb9-320b-4585-a529-6665ffcb3ac0,Çıtır Tavuk Wrap,"25,90 TL",Wraps,7.0
+6c39f641-99f5-44d4-b039-36a5b0ca4005,Etli Krep,"30,90 TL",Krepler,5.0
+079d0c93-e944-4c3f-94bc-d06bb958efda,Tavuklu Krep,"25,90 TL",Krepler,9.0
+f543aa3b-752e-43dc-8f74-682bc46e5e71,Ispanaklı Mantarlı Krep,"23,90 TL",Krepler,5.0
+55a1f65f-94b4-451a-97f3-df0eab197c2e,Patates Kızartması,"13,90 TL",Yan Ürünler,-2.0
+97d75303-8e52-4286-9ad2-63030e2b37ea,Elma Dilim Patates Kızartması,"13,90 TL",Yan Ürünler,-3.0
+461a6eaa-db46-455f-9233-18339fc77648,Mozzarella Sticks (5 Adet),"15,90 TL",Yan Ürünler,5.0
+8997fcfb-65ff-4977-a473-d080a7e730cb,Soğan Halkası (10 Adet),"15,90 TL",Yan Ürünler,5.0
+d118982b-0908-42f7-9d49-7f2e609dbae4,Sosis Tava (8 Adet),"15,90 TL",Yan Ürünler,5.0
+34c5e824-4fdf-414f-b6ff-3ac579b49d49,Sigara Böreği (6 Adet),"15,90 TL",Yan Ürünler,5.0
+0f706e2e-3463-408f-a068-2e9ec66ea23c,King Combo Tabağı,"25,90 TL",Yan Ürünler,5.0
+acd05b6e-cec1-4c49-a447-9c917c9ce693,Akdeniz Salata,"22,90 TL",Salatalar,10.0
+43b345e4-411a-4a7c-8449-ed363f4ba3ef,Tavuklu Sezar Salata,"25,90 TL",Salatalar,12.0
+d88e16ee-e378-4c94-91c1-c0bf61a02b2d,Ton Balıklı Salata,"26,90 TL",Salatalar,10.0
+21ebb8c8-2b82-43ad-81c7-e97557a4c209,Acılı Beef Salata,"30,90 TL",Salatalar,11.0
+0699ecaf-9c91-47cf-a744-03bce1a78f66,Izgara Tavuklu Salata,"25,90 TL",Salatalar,14.0
+6da5dfd1-7f7f-4342-9317-fd7bf91e1de1,Çıtır Tavuklu Salata,"25,90 TL",Salatalar,14.0
+ebf70b0c-fe31-460c-925a-edf43914e3d9,Hellim Peynirli Salata,"26,90 TL",Salatalar,10.0
+BC068646-CA8D-4D6B-B467-05A9A1DB50D7,Nescafe Xpress Original (25 cl.),"11,90 TL",İçecekler,5.0
+073A60DA-C7B8-4731-A739-DB34BF3CB928,Red Bull (25 cl.),"11,90 TL",İçecekler,5.0
+FA2E484C-A29A-48C4-91BF-6DFDE6F16145,Schweppes Mandalina (25 cl.),"6,50 TL",İçecekler,5.0
+c30f3860-d8b2-4c10-9bfb-b1914dc7270a,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,80 @@
+food_id,food_name,food_price,food_category,food_score
+54f58729-3ace-4c4f-9de7-ad0cf95480a9,Parti Menü (Tavuk),"51,00 TL",Menüler,5.0
+EDBE34C3-B230-4C90-80C0-FA3FEA35BB2D,Akşam Tavuk Menü,"25,00 TL",Menüler,6.0
+e90f1e05-1f27-454b-81dd-5016d92144e0,Bade Menü,"35,00 TL",Menüler,13.0
+bf63ca03-bff1-4300-bbd7-35604c015db9,Akşam Et Menüsü,"35,00 TL",Menüler,6.0
+875b0e1f-675f-4a8e-9e8e-d4f863ba593d,Sabah Menüsü,"17,50 TL",Menüler,5.0
+926ea025-b189-4401-9074-573e0ee7acc0,Parti Menü (Et),"67,00 TL",Menüler,5.0
+6397362f-85a0-4805-a299-74c3c5065060,Kral Menü,"28,50 TL",Menüler,5.0
+e1cc1802-e09f-45a0-b8bf-2ad59252faea,Et Döner Menü,"20,00 TL",Menüler,1.0
+546cdb1d-05ad-4d4f-a36b-be42c8f735a7,Burger Menü,"14,50 TL",Menüler,7.0
+294f6aa5-a619-4678-9363-2b45c26ede6b,Bazlama Ekmeğine Tavuk Döner Menü,"16,00 TL",Menüler,12.0
+934f60a7-3d7b-4e9c-b213-56f0446877f1,Sosisli Menü,"13,50 TL",Menüler,4.0
+6f384fc9-cf48-40c0-9256-667093b89d39,Ortaya Karışık Menü,"40,00 TL",Menüler,9.0
+1531e8c3-b3b6-4a6a-a24d-d32fe5d6d833,Dev Menü,"36,00 TL",Menüler,5.0
+662c0d7e-3e0f-4013-8b6c-233762883f9a,Kahvaltı Tabağı,"22,00 TL",Kahvaltılıklar,3.0
+3c1d8f55-29ee-4be2-bbc5-4e2ec129dd9d,Menemen,"10,00 TL",Kahvaltılıklar,6.0
+acfdd95b-91c3-4f0c-baaa-326f9d08970b,Sucuklu Yumurta,"10,00 TL",Kahvaltılıklar,5.0
+1bef3983-1005-4bf8-b2ea-6ce914124f37,Kavurmalı Yumurta,"13,00 TL",Kahvaltılıklar,5.0
+9ebae599-0f69-4a07-94d8-c0a64e182ecc,Kaşarlı Tost,"7,00 TL",Tostlar,9.0
+b44d10b6-c652-4431-aff9-e38784da5a1e,Sosisli Tost,"7,50 TL",Tostlar,8.0
+54a96c64-a39b-490f-a6cd-18cb1640fad3,Sosisli Bazlama Tost,"9,50 TL",Tostlar,14.0
+992fa7bb-a470-4795-ae1f-082040bf69d8,Sucuklu Tost,"7,00 TL",Tostlar,9.0
+0eaf9871-c91b-40c5-b196-0e1a1d6b3a3c,Karışık Tost,"8,50 TL",Tostlar,13.0
+dead0159-b1a5-4bc1-9d87-a0f64ffcb2aa,Kaşarlı Bazlama Tost,"9,00 TL",Tostlar,15.0
+9eebcd93-5a74-4aa7-940b-c97972658577,Kavurmalı Tost,"10,50 TL",Tostlar,9.0
+b9cbb5ea-b0a5-4449-b909-1eb9add21d53,Sucuklu Bazlama Tost,"9,50 TL",Tostlar,15.0
+c225ba3b-315d-4383-b6a8-504d588bcd2f,Karışık Bazlama Tost,"12,00 TL",Tostlar,19.0
+c70d7779-585a-4ad8-ac7d-a299f6cc41a8,Çılgın Tost,"13,00 TL",Tostlar,9.0
+7a726e61-37c0-4dd5-982f-7c1b1c226e8b,Kavurmalı Kaşarlı Bazlama Tost,"13,50 TL",Tostlar,15.0
+91e51d0f-2268-4e3d-b836-7fa784fce9e3,Ayvalık Tostu,"15,00 TL",Tostlar,12.0
+38b61015-771a-4c75-b46a-c1be90e78146,Peynirli Soğuk Sandviç,"7,00 TL",Sandviçler,5.0
+081740c3-9233-459a-9586-e59bf04526ca,Kazım Sandviç,"8,00 TL",Sandviçler,5.0
+6cc38e68-f235-42df-b612-70727d2e1a96,Patso Sandviç (Küçük),"8,00 TL",Sandviçler,9.0
+2f281d55-3683-4e5c-aa0a-1d574161a46b,Sosisli Sandviç,"8,50 TL",Sandviçler,4.0
+2b2ad8a8-4ee9-4fd1-8bd5-985080f147b3,Kaşarlı Soğuk Sandviç,"7,50 TL",Sandviçler,5.0
+400c5cfb-9b04-4c9d-9839-c788c2ae4b22,Kaşarlı Patso Sandviç (Küçük),"8,00 TL",Sandviçler,9.0
+ff5f67ae-4126-4a2c-a663-efae439744ae,Patso Sandviç (Büyük),"10,00 TL",Sandviçler,9.0
+7d46b972-75ea-4aa0-a353-866b22886552,Karışık Soğuk Sandviç,"10,00 TL",Sandviçler,9.0
+f39c2f37-7480-4dd8-a380-ff2b5e4e3643,Kaşarlı Patso Sandviç (Büyük),"10,00 TL",Sandviçler,9.0
+03916024-8aa8-47f8-a64b-3ee37a2beb12,Bade Soğuk Sandviç,"10,00 TL",Sandviçler,13.0
+f2ae2c79-5682-45e7-8ee9-82d029507f94,Kumru Sandviç,"13,50 TL",Sandviçler,5.0
+ecbc46a2-60fa-4e9d-9d96-9beaae99e188,Et Döner,"22,00 TL",Et Dönerler,1.0
+2a8466f7-473d-4f7f-aa1e-4deacebeb117,Bazlama Ekmeğine Et Döner,"13,50 TL",Et Dönerler,7.0
+989016f0-1a74-4b91-83f2-33da31000119,Acılı Et Döner Dürüm,"14,50 TL",Et Dönerler,2.0
+c3809648-f632-4ef5-88d9-cafd0f1c8f6d,Kaşarlı Et Döner Dürüm,"15,50 TL",Et Dönerler,1.0
+044e70f9-d1fb-42d1-90af-7ff718172f9d,Bade Kaşarlı Et Döner Dürüm,"19,00 TL",Et Dönerler,9.0
+9fe1316e-ed4d-4aee-b5dd-768b476e232c,Tavuk Döner,"16,00 TL",Tavuk Dönerler,1.0
+922620c0-98ff-4ed1-b294-d3f83b78f1a8,Bazlama Ekmeğine Tavuk Döner,"9,00 TL",Tavuk Dönerler,12.0
+d7cd736d-b04c-42a3-a95f-f877ae40f25f,Acılı Tavuk Döner Dürüm,"9,50 TL",Tavuk Dönerler,2.0
+890a1878-fdf7-441c-9248-a6b5d602e396,Kaşarlı Tavuk Döner Dürüm,"10,50 TL",Tavuk Dönerler,1.0
+23521f6b-8ecc-4606-bf28-6d305237685a,Bade Kaşarlı Tavuk Döner Dürüm,"14,00 TL",Tavuk Dönerler,9.0
+54d9c026-3d74-4186-817c-a17cedabcf50,Bazlama Ekmek Arası Izgara Köfte,"12,00 TL",Köfteler,7.0
+577309dd-278f-45f9-9c67-cde8bce2405d,Bazlam Ekmek Arası Acılı Köfte,"12,50 TL",Köfteler,8.0
+7d87a41f-4ad2-4d66-bab5-5b4a2e07f109,Bazlama Ekmek Arası Kaşarlı Köfte,"14,00 TL",Köfteler,7.0
+579b5c7f-0026-44bf-8c58-504de54a6b89,Bazlama Ekmek Arası Bade Kaşarlı Köfte,"17,50 TL",Köfteler,14.0
+bb9c12e9-a2d6-44d7-9406-b65b9119d879,Izgara Köfte,"20,00 TL",Köfteler,5.0
+2385434e-24ae-455b-9cff-222d6cbdfa06,Tavuk Burger,"7,50 TL",Burgerler,8.0
+b11f9e41-0575-4e49-a0f7-d9d1a733c662,Kaşarlı Tavuk Burger,"8,50 TL",Burgerler,8.0
+0c488d70-0e6e-43bf-9486-8efcc68a10ce,Hamburger,"9,00 TL",Burgerler,12.0
+f7781c37-2853-49cb-9c09-6a9f18305b89,Cheeseburger,"10,00 TL",Burgerler,5.0
+a1210e36-5d10-40de-ab01-51eaee17449b,Big Burger,"15,00 TL",Burgerler,11.0
+0d59a474-c6ad-4672-bdd6-56a873a5b45f,Bade Burger,"16,00 TL",Burgerler,15.0
+e33dfb74-1384-41ce-b909-5d894c9afc76,Kral Burger,"20,00 TL",Burgerler,7.0
+bedcf4d3-64c3-4082-bfe7-5099ca6f1c99,Dev Burger,"25,00 TL",Burgerler,7.0
+200b2a9d-9ed2-4543-ad79-bc53c572c563,Patates Kroket (6 Adet),"7,00 TL",Diğer Lezzetler,3.0
+4A0205DD-65B5-41F1-BC4C-7A5288FE1B0E,Elma Dilim Patates Kızartması,"10,00 TL",Diğer Lezzetler,3.0
+bd570cda-9bd5-4b5d-91d7-f8895b7d9853,Tavuk Nugget (6 Adet),"7,00 TL",Diğer Lezzetler,5.0
+a7919450-7d58-424a-b568-11e2e4ec02a3,Sosis Tabağı (5 Adet),"7,00 TL",Diğer Lezzetler,3.0
+079112bf-341f-4084-a9d1-f49ee9184802,Soğan Halkası (6 Adet),"7,00 TL",Diğer Lezzetler,5.0
+136a9601-1818-4452-88b4-1b7c4768c4ab,Sigara Böreği (6 Adet),"7,00 TL",Diğer Lezzetler,5.0
+e82c2570-4c93-4b18-b7f2-cc1ff7640dc7,Patates Kızartması,"7,00 TL",Diğer Lezzetler,3.0
+fa9ade03-5615-422d-819e-7f3299fc7854,Çıtır Tavuk (100 gr.),"8,00 TL",Diğer Lezzetler,4.0
+e930df88-5b8c-452a-a99a-540d152f585f,Aperitif Tabağı,"20,00 TL",Diğer Lezzetler,5.0
+30724a5e-8e16-413f-bfaa-8118517fae41,Eker Çikolatalı Puding,"4,00 TL",Tatlılar,5.0
+d7a888a0-d5e4-4836-83f8-63481b340ba7,Karamelli Trileçe,"9,00 TL",Tatlılar,5.0
+3f0e3486-da80-49c6-b4fa-648c1c6299ee,Şekerpare (4 Adet),"9,00 TL",Tatlılar,5.0
+86CD798C-189A-414B-917C-1715C3845FDB,Algida Maraş Usulü Cup Dondurma (100 ml.),"4,00 TL",Tatlılar,6.0
+be40901d-60fc-40ad-ba90-0330a53b340d,Niğde Gazozu (25 cl.),"3,00 TL",İçecekler,5.0
+7555379d-214b-4015-b9cb-98a2d6bf9fcc,Su,"1,50 TL",İçecekler,5.0
+edf126e2-ea35-4f25-b7ac-d9ab328d214f,Poşet,"0,25 TL",Poşet,4.0

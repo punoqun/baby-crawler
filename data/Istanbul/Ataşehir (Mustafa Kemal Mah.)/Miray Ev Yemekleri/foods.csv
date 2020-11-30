@@ -1,0 +1,57 @@
+food_id,food_name,food_price,food_category,food_score
+28C489E9-F334-4B85-B0CA-49A2E54E3268,Izgara Köfte (1 kg.) (Pişirilmiş) Menü,"90,00 TL",Menüler,5.0
+428D14D6-0D58-497C-98A5-D845756E6C5F,Tavuk Bonfile (1 kg.) (Pişirilmiş) Menü,"80,00 TL",Menüler,5.0
+67DF995F-32F7-4FE2-856C-A65676D5B836,Kızartma İçli Köfte Menü,"19,00 TL",Menüler,5.0
+8043f719-d9b7-45e9-826e-792e58635762,Haşlama İçli Köfte Menü,"19,00 TL",Menüler,5.0
+7a04b5b4-defb-41be-b5ab-a5d3fa72373c,Günün Menüsü,"20,00 TL",Menüler,5.0
+107bbf5d-3f5f-4602-93c0-5f3ba4e0c15e,Menü 1,"22,00 TL",Menüler,10.0
+42b82b1e-c322-40f5-8962-a07868854bd8,Menü 2,"22,00 TL",Menüler,7.0
+597cf9b1-b038-4132-91b9-9ec62b4e755c,Menü 3,"28,00 TL",Menüler,5.0
+8754e726-c163-47b9-873f-370b6aba4591,Menü 4,"22,00 TL",Menüler,10.0
+d50b6a8c-240d-428b-910b-1af3fee3ec03,Menü 5,"30,00 TL",Menüler,5.0
+1fdbcfca-8f4e-4132-af49-33b0ac6b1d2a,Menü 6,"20,00 TL",Menüler,5.0
+9a67c0ad-03fe-42b4-a625-e887fac8e646,Menü 7,"25,00 TL",Menüler,5.0
+c56188dc-f146-46de-8abf-79cd95ca238c,Menü 8,"22,00 TL",Menüler,7.0
+60d9cfc6-264e-4223-ae5b-4cec91a115ee,Menü 9,"22,00 TL",Menüler,5.0
+e9d9af9a-e8d4-4f92-91d2-0d96b0290e27,Menü 10,"20,00 TL",Menüler,5.0
+1d2762b1-e4ad-45a2-ade9-ef76a38d2fdd,Omlet,"11,00 TL",Kahvaltılıklar,5.0
+4cdccd84-9d3a-4bfd-9261-42480000775b,Kahvaltı Tabağı,"12,00 TL",Kahvaltılıklar,5.0
+F80BCDC4-6011-4E19-8D72-1E6D7EB2C1C4,Peynirli Gözleme,"10,00 TL",Kahvaltılıklar,5.0
+f5483882-0eea-4ebe-8820-c2e048167dd6,Patatesli Gözleme,"10,00 TL",Kahvaltılıklar,5.0
+f6b82762-e474-4fb2-9ddd-886925399bf9,Sucuklu Yumurta,"13,00 TL",Yumurtalar,5.0
+4a6bc780-e90b-4191-8d8c-f2b9340d8140,Sahanda Yumurta,"11,00 TL",Yumurtalar,5.0
+64102250-90db-406b-9c8d-84b89ab80b35,Kavurmalı Yumurta,"16,00 TL",Yumurtalar,7.0
+482dad4a-d3db-4b52-ba7d-08abc09b4917,Menemen,"12,00 TL",Menemenler,5.0
+8b284611-148d-4f57-be10-0d95f75675b1,Kıymalı Menemen,"14,00 TL",Menemenler,5.0
+7eb0a3d0-c720-4082-8ca6-6efab2f8850c,Kavurmalı Menemen,"16,00 TL",Menemenler,7.0
+807a2697-d8e5-4924-8919-5a58cb7cf9cf,Et Kavurma,"24,00 TL",Ana Yemekler,7.0
+bd871758-8b3d-484d-a68a-240914890243,Kuru Fasulye,"11,00 TL",Ana Yemekler,5.0
+22f67857-7283-4eca-8a11-85f941d8e332,Soya Soslu Tavuk,"19,00 TL",Ana Yemekler,5.0
+030fffb4-8501-4b96-a227-258d88c5dcda,Köri Soslu Tavuk,"19,00 TL",Ana Yemekler,5.0
+4e5d9150-1c3c-4f72-aef3-c770d6d60686,Kremalı Mantarlı Tavuk,"19,00 TL",Ana Yemekler,5.0
+5A6B0892-647E-473F-9F9E-9E046AE8A355,Pilav Üstü Kuru Fasulye,"11,00 TL",Ana Yemekler,5.0
+8E732EB2-CE6B-4C9C-A289-F48387C2376E,Pilav Üstü Kavurma,"17,00 TL",Ana Yemekler,7.0
+a6814960-ef22-4128-ac22-890d97a6f31a,Izgara Köfte,"21,00 TL",Izgaralar,5.0
+bf2c07dc-47e6-44ce-97f4-857506c0de4b,Izgara Tavuk Bonfile,"19,00 TL",Izgaralar,5.0
+defec1b5-4b4b-4bb0-bfeb-3eaadefb0041,Çıtır Tavuk,"19,00 TL",Izgaralar,5.0
+0d609a11-4676-4eca-b3f2-cbef9ee86ba2,Izgara Tavuk Schnitzel,"19,00 TL",Izgaralar,5.0
+84e1fab7-2dba-4038-8f4c-52111f5e3188,Et Sac Tava,"24,00 TL",Tavalar,5.0
+2de3ced9-72a2-4e61-af41-ffbc9fd68f6f,Tavuk Sac Tava,"16,00 TL",Tavalar,5.0
+df46923f-4aa0-4332-860c-64d4dd7a929e,Yarım Ekmek Arası Köfte,"14,00 TL",Ekmek Arası Ürünler,5.0
+1f403261-a192-4422-b3e5-b67b91cb2a5a,Yarım Ekmek Arası Tavuk,"12,00 TL",Ekmek Arası Ürünler,5.0
+020C31BF-41EF-4AE7-A9BD-C392AD756015,Ekmek Arası Kavurma,"16,00 TL",Ekmek Arası Ürünler,7.0
+d3600180-ec64-467f-9164-d550eb177456,Kızartma İçli Köfte (Adet),"6,00 TL",Yan Ürünler,5.0
+33479AAA-62DC-4616-9F32-29E5FC2E7DE4,Gözleme,"9,00 TL",Yan Ürünler,5.0
+73930b09-ce88-4bc4-9f2b-b1dd3c9bef9b,Haşlama İçli Köfte (Adet),"6,00 TL",Yan Ürünler,5.0
+2bd59897-e629-49ce-a059-a5f829aa15df,Cacık,"4,00 TL",Yan Ürünler,5.0
+96c84ed7-d5f1-4bf7-9bb8-fb0e23b0e02b,Patates Kızartması,"5,00 TL",Yan Ürünler,5.0
+3f89eb75-5a6b-4943-ba4f-db182ad356a4,Bulgur Pilavı,"7,00 TL",Yan Ürünler,5.0
+6ffc3c47-9ab7-458a-9001-4273ed795845,Pirinç Pilavı,"8,00 TL",Yan Ürünler,5.0
+a04a8b9d-9648-4db7-9002-92e57a58e022,Mevsim Salatası,"8,00 TL",Salatalar,5.0
+a0a3b71a-9ed3-4bb1-b55c-eacb60c2b445,Çoban Salatası,"8,00 TL",Salatalar,5.0
+5fcac15c-13b5-44e0-8599-5f51db211160,Fırında Sütlaç,"10,00 TL",Tatlılar,5.0
+69ce5cbf-c778-426e-9d0a-a707ad7969e6,Şekerpare,"8,00 TL",Tatlılar,5.0
+da39e771-5118-4ce6-999e-786e301e4aa7,Ekmek Kadayıfı,"10,00 TL",Tatlılar,5.0
+57215972-0312-4e00-99f8-e3b811e9bc98,Yedigün (20 cl.),"3,00 TL",İçecekler,5.0
+bb7d8fe2-081f-4436-a583-b4dfd5ee334a,Fruko (20 cl.),"3,00 TL",İçecekler,5.0
+a6cb566c-fcf5-43a5-b661-633ac93b0f2b,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,51 @@
+food_id,food_name,food_price,food_category,food_score
+accab9b4-6a58-4606-987d-6601083e32d7,Menü 1,"34,49 TL",Menüler,-5.0
+57e6a514-4e07-4dd4-a55f-970c9cc2c653,Menü 2,"54,74 TL",Menüler,-1.0
+32cfc2ec-01f4-4e40-b670-79e9e69cc94d,Menü 3,"44,99 TL",Menüler,8.0
+3703fac8-c709-45f7-acc5-49d7f73fe109,Menü 4,"67,49 TL",Menüler,14.0
+c7bc8d41-d0b9-4a69-ad01-3d95c866b6ed,Menü 5,"74,99 TL",Menüler,-1.0
+0D779F0C-ABFD-4583-A88C-F4C6FC81AC9E,Süper Menü,"74,99 TL",Menüler,14.0
+63213910-F2A6-46F2-B6B1-670316D1F1F4,Süper Menü 2,"93,74 TL",Menüler,7.0
+178CCE08-B0BD-492E-B878-19768B77157E,Süper Menü 3,"112,49 TL",Menüler,16.0
+9969808d-a33a-4d61-962e-ad97c470dbe5,Süper Menü 4,"127,49 TL",Menüler,22.0
+7d1df1a0-b070-44e0-aaba-a339e0bab15b,Çift Kaşarlı Harbi Tost Menü 2,"17,24 TL",Menüler,-3.0
+2a62b4dd-4237-4e26-bb4d-08ef3ea07d7a,Sucuklu Harbi Tost Menü,"16,49 TL",Menüler,6.0
+C15E8491-44DD-44EC-A733-2C7634B54FA3,Harbi Karışık Pizza Menü,"22,49 TL",Menüler,6.0
+19AA5DC4-A5A2-42F7-BC03-FF5FCB3433F0,Veggie Pizza Menü,"14,99 TL",Menüler,7.0
+cd198ff9-4e39-46e8-ba46-a6bf9341a668,2'li Pizza Menü,"41,24 TL",Menüler,7.0
+CF5861CE-D5C8-4A86-84A1-B27BC863EE16,Kayseri Mantısı Menü,"18,00 TL",Menüler,6.0
+fd52f7cf-fe55-49d2-942b-536741b7ca23,Antakya Tavuk Döner Dürüm,"9,00 TL",Tavuk Dönerler,5.0
+d5847726-8f1f-47eb-b158-d762300b93e7,Kaşarlı Tavuk Döner Dürüm,"11,25 TL",Tavuk Dönerler,-1.0
+17c8dd2c-88e5-4aef-9975-038b75f8d980,Zurna Tavuk Döner Dürüm,"12,00 TL",Tavuk Dönerler,9.0
+55eb41f1-9261-4a35-9a9d-1e09f1b07fbf,Special Tavuk Döner Dürüm,"10,50 TL",Tavuk Dönerler,-1.0
+cb703119-d64e-49fb-ba32-4a3a6bb36c10,İskenderun Tavuk Döner Dürüm,"9,75 TL",Tavuk Dönerler,-1.0
+1216be4d-4195-4a4b-918a-2e6cd2988f99,İskender (Tavuk Dönerden),"18,75 TL",Tavuk Dönerler,3.0
+240135c6-801f-425f-97f1-7403e2974c6c,Tavuk Döner,"16,50 TL",Tavuk Dönerler,-2.0
+43a4ff67-2e32-4e7f-841b-355740053262,Pilav Üstü Tavuk Döner,"16,50 TL",Tavuk Dönerler,-5.0
+5405643b-5830-44f8-9c44-6e417001e337,Et Döner Dürüm,"12,00 TL",Et Dönerler,-5.0
+d428b4ae-c540-4395-bce6-c05860c83338,Kaşarlı Et Döner Dürüm,"14,25 TL",Et Dönerler,-5.0
+6323EF17-2093-4FB3-842C-507E4CF07D21,Zurna Et Döner Dürüm,"20,25 TL",Et Dönerler,0.0
+9b6ef313-0c26-4d93-8afb-f56e6c74069c,Special Et Döner Dürüm,"14,25 TL",Et Dönerler,-5.0
+76cd4c01-20fe-4753-a32a-f306db691b8b,Karışık Döner Dürüm,"11,25 TL",Et Dönerler,-1.0
+6e2d77f9-6a1d-40e8-b69a-b1d58fe1c095,İskender (Et Dönerden),"22,50 TL",Et Dönerler,3.0
+2c542eca-d9ca-4a5c-bf5f-85ad5bb9f641,Et Döner,"21,00 TL",Et Dönerler,-6.0
+fce4c7dc-8665-4aee-96cc-19c97c192aa0,Pilav Üstü Et Döner,"21,00 TL",Et Dönerler,-8.0
+f47ac2cf-10a8-4322-8366-720609c4834d,Vejetaryen Dürüm,"8,25 TL",Diğer Lezzetler,6.0
+0A5D6DB1-5E99-456E-9284-E2EAE5A5829E,Kayseri Mantısı,"18,75 TL",Diğer Lezzetler,5.0
+C90B597D-41F0-422E-BB79-793EAAE31CCF,Harbi Dilim Pizza,"4,50 TL",Diğer Lezzetler,6.0
+a7b0b153-cfb2-41ea-af85-7534ef5c01b9,Patates Kızartması (Küçük),"6,00 TL",Yan Ürünler,8.0
+38fd6dec-a4a5-45e5-b227-f17ff3f026a2,Patates Kızartması (Orta),"7,50 TL",Yan Ürünler,8.0
+03195b50-4535-42ae-bde7-7080f5e1f474,Patates Kızartması (Büyük),"9,00 TL",Yan Ürünler,8.0
+f9c88a16-10ab-4fdb-ab3b-413f1ddc3530,Karışık Turşu,"1,13 TL",Yan Ürünler,6.0
+7d6e6116-361f-4b65-b149-2949bae4a7ac,Peynirli Künefe,"9,00 TL",Tatlılar,5.0
+2806d0b4-e306-48f6-b7aa-87a7017e5d22,Kaymaklı Künefe,"11,25 TL",Tatlılar,5.0
+ecf37f80-9feb-4541-8d1f-1786a2e09ac0,Special Fıstıklı Künefe,"12,00 TL",Tatlılar,5.0
+59caa094-4bfa-4ca0-8b00-68eaf3be44f0,Muzlu Cheesecake,"9,38 TL",Tatlılar,5.0
+99c36085-976a-4585-a7c6-95b646b01c2e,Çilekli Cheesecake,"9,38 TL",Tatlılar,5.0
+c6e591a3-ee86-4d68-91eb-b2174eccb7bb,Frambuazlı Cheesecake,"9,38 TL",Tatlılar,5.0
+eb328454-e5de-45d5-b67a-8ad1a5962395,Oreolu Cheesecake,"9,38 TL",Tatlılar,5.0
+c4e5336d-8b2c-42bf-a6ff-b3f2864e2a44,Limonlu Cheesecake,"9,38 TL",Tatlılar,5.0
+b03094ea-6b21-4951-8f2c-30c6d289a056,Niğde Gazozu (20 cl.),"3,00 TL",İçecekler,5.0
+b9fc4be2-68e7-44cc-be94-c83534007b2b,Taze Sıkma Portakal Suyu,"5,25 TL",İçecekler,5.0
+2dcb8652-dbea-4f91-8bd4-e38db46b8325,Limonata,"5,25 TL",İçecekler,5.0
+c45533db-d754-460e-91a8-784d7264fc67,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,62 @@
+food_id,food_name,food_price,food_category,food_score
+184927bc-8212-4efc-b605-e8fe5db25ce3,2'li Classic Chicken Burrito Menü,"61,50 TL",Kampanyalı Menüler,14.0
+e9b4ed6f-07b3-4a3e-bf80-a632ee7b891e,Tanışma Menüsü,"94,50 TL",Kampanyalı Menüler,5.0
+fe1c8aa5-e742-4c4a-ba56-966b8e152e2f,3'lü Classic Beef Taco Menü,"46,00 TL",Taco Hut Size Menu's,6.0
+24a4f03d-1154-46de-9500-34aeb0a52b8e,3'lü Classic Chicken Taco Menü,"36,00 TL",Taco Hut Size Menu's,9.0
+705625bd-a28d-4713-9f77-14bc2c786b06,3'lü Classic Ground Beef Taco Menü,"42,00 TL",Taco Hut Size Menu's,6.0
+870d1671-05ab-44fb-a7d7-face1966f17f,3'lü Classic Veggie Taco Menü,"36,00 TL",Taco Hut Size Menu's,4.0
+043264ea-b679-42d0-8b1f-639c710b296c,4'lü Classic Beef Taco Menü,"51,00 TL",Taco Hut Size Menu's,11.0
+7684250b-272c-4d7a-92ae-4b1245d09f38,4'lü Classic Chicken Taco Menü,"41,00 TL",Taco Hut Size Menu's,14.0
+a624c808-30ee-4efa-9ea7-62e98761a435,4'lü Classic Ground Beef Taco Menü,"46,00 TL",Taco Hut Size Menu's,6.0
+363c7743-e0f4-4c3b-8432-f7b8e6b6e04d,4'lü Classic Veggie Taco Menü,"41,00 TL",Taco Hut Size Menu's,4.0
+f88da4b0-335f-4610-9a59-8db2c9de453e,5'li Classic Beef Taco Menü,"57,00 TL",Taco Hut Size Menu's,6.0
+6f91cf74-1263-4d92-91cc-8d1073dfb32c,5'li Classic Chicken Taco Menü,"47,00 TL",Taco Hut Size Menu's,9.0
+eeacf4f9-60e6-49c2-ad2a-985f51b4e3ee,5'li Classic Ground Beef Taco Menü,"55,00 TL",Taco Hut Size Menu's,6.0
+8ab7b07a-19bb-411c-8b83-cff2c06a8eca,5'li Classic Veggie Taco Menü,"47,00 TL",Taco Hut Size Menu's,4.0
+239f88e7-3c86-4297-bda2-2b92314ac640,6'li Classic Beef Taco Menü,"64,00 TL",Taco Hut Size Menu's,11.0
+7db74ad8-38b5-4dd9-b636-0f58b7ee3fb2,6'li Classic Chicken Taco Menü,"54,00 TL",Taco Hut Size Menu's,9.0
+933b7832-fa29-4a4e-819c-e15f41d98ef0,6'li Classic Ground Beef Taco Menü,"61,00 TL",Taco Hut Size Menu's,6.0
+e3bcd3dd-fc94-4fa5-a378-796823ed8b03,6'li Classic Veggie Taco Menü,"54,00 TL",Taco Hut Size Menu's,4.0
+eb40e794-ef41-4378-924f-1e87b8284337,Classic Beef Burrito Menü,"44,00 TL",Taco Hut Size Menu's,10.0
+5713913f-a24f-43db-b120-c4eadde1ab14,Classic Cheesy Beef Quesadilla Menü,"44,00 TL",Taco Hut Size Menu's,5.0
+784d0b4b-fb3e-4bb9-bd34-2ea6db660b63,Classic Cheesy Chicken Quesadilla Menü,"34,00 TL",Taco Hut Size Menu's,9.0
+3c3e8bb2-fd89-4f71-a597-a516e85d6ef8,Classic Cheesy Ground Beef Quesadilla Menü,"40,00 TL",Taco Hut Size Menu's,5.0
+77f71df4-f896-4970-962f-1530283ee579,Classic Cheesy Veggie Quesadilla Menü,"34,00 TL",Taco Hut Size Menu's,4.0
+b541b295-e86e-49a7-b8df-d93bebec4bbd,Classic Chicken Burrito Menü,"34,00 TL",Taco Hut Size Menu's,14.0
+7532b793-ab84-4525-a155-e29aeb1287e8,Classic Ground Beef Burrito Menü,"40,00 TL",Taco Hut Size Menu's,10.0
+7a464d98-c3e8-4b90-b65d-3a37359cc0e8,Classic Veggie Burrito Menü,"34,00 TL",Taco Hut Size Menu's,9.0
+74E6777F-EEB2-4D16-A38D-83B9067B7A43,3'lü Classic Tuna Taco Menü,"37,00 TL",Taco Hut Size Menu's,5.0
+5C073D26-8344-4546-8B2A-6F7CF9BC26C2,4'lü Classic Tuna Taco Menü,"43,00 TL",Taco Hut Size Menu's,5.0
+EC452154-E337-4B98-B066-1E9E9CD29958,5'li Classic Tuna Taco Menü,"49,00 TL",Taco Hut Size Menu's,5.0
+e0cc32ac-f187-4b8b-abf1-3d43650722cd,Classic Cheeseburger,"38,00 TL",Burgerler,5.0
+4dbce749-de0d-4f2c-af86-03e392e38ab1,Classic Hamburger,"35,00 TL",Burgerler,5.0
+bb86b52b-509c-47af-8087-9fe520e715f6,Tex-Mex Burger,"39,00 TL",Burgerler,5.0
+eaac54ab-09c1-48b4-a8f6-2ad9e110cc8b,Special Vegan Burger,"35,00 TL",Burgerler,6.0
+df991ff0-fe37-4a14-8dfd-4ae83913ca32,Premium Cheesy Steak Burger,"51,00 TL",Burgerler,5.0
+2c6180ac-ed65-4456-a6f5-9106378dd3cc,Premium Mozzarella Burger,"43,00 TL",Burgerler,5.0
+3fb656c1-098c-433a-8cbb-8b12d93736df,Et Fajita,"55,00 TL",Fajitas,10.0
+08d4fbf7-c44f-4501-8012-326c6f332bd8,Tavuk Fajita,"45,00 TL",Fajitas,7.0
+63ce5459-61bb-4b76-8f12-1c0dd9a351e7,Combo Fajita,"50,00 TL",Fajitas,9.0
+35fbaf6d-e5b2-427a-a061-98616e8f8af5,Special Nachos Deluxe,"29,00 TL",Nachos,4.0
+652cd1c3-9c01-41fe-a201-6410035f8301,Special Angry Nachos,"39,00 TL",Nachos,4.0
+2c06cc62-dbf6-4fd5-b9b5-b5cfd46f8bb7,Enchiladas Beef,"50,00 TL",Diğer Lezzetler,5.0
+0f22c90e-6a0b-48eb-bec4-97bca177ee7e,Enchiladas Ground Beef,"48,00 TL",Diğer Lezzetler,5.0
+b8da3d11-a899-4220-be30-3c57d10fd924,Enchiladas Chicken,"40,00 TL",Diğer Lezzetler,9.0
+83059c58-c991-4398-b35c-f3abb7521784,Enchiladas Veggie,"40,00 TL",Diğer Lezzetler,4.0
+1f69cc2d-69ad-4d9f-8387-f72fbd597ce5,Meksika Salatası,"23,00 TL",Salatalar,6.0
+769a75b2-35b4-463b-acbc-82a53af444a5,Kajun Baharatlı Tavuk Salatası,"26,00 TL",Salatalar,4.0
+59a371f7-5460-45cb-80a1-55c46f77f237,Corn Tortilla Chips (150 gr.),"15,00 TL",Yan Ürünler,4.0
+a66217bd-574e-4ad2-9ffe-8e73c886a73b,Corn Tortilla Chips (300 gr.),"22,00 TL",Yan Ürünler,4.0
+f2c9eb1c-7ea2-45e0-b7f7-4ab547b9dd83,Corn Tortilla Chips (500 gr.),"33,00 TL",Yan Ürünler,4.0
+d46389c2-c2b2-40a1-b8ce-7a57dd072f8f,Tortilla Chips (500 gr.),"32,00 TL",Yan Ürünler,2.0
+917497a2-df2b-4e52-9ffb-09a64af7cbae,Kajun Baharatlı Patates Kızartması (250 gr.),"14,00 TL",Yan Ürünler,6.0
+d6c40c11-8260-4dbf-8eae-29f425228c74,Classic Tortilla Chips (150 gr.),"14,00 TL",Yan Ürünler,2.0
+2efcebaf-bdc1-443f-b572-0762bcb53b49,Pepsi Twist (33 cl.),"6,50 TL",İçecekler,5.0
+675fb3db-99f5-4b44-ab7f-48c3b823b864,Pepsi (25 cl.),"5,50 TL",İçecekler,5.0
+9d916ce9-6fdd-4b83-afe8-6caa28f7e31c,Black Bruin (25 cl.),"7,00 TL",İçecekler,5.0
+8bf93b5e-8b99-414a-8111-8d3022cf6fbe,Ev Yapımı Baharatlı Acılı Ayran (200 cl.),"7,00 TL",İçecekler,9.0
+90b22680-688e-4c1c-8f68-015ee86b99f8,"Ayran (27,5 cl.)","5,00 TL",İçecekler,5.0
+d8b4ea3f-d049-4692-bb6d-ea5d1c732e26,"Su (1,5 L.)","5,00 TL",İçecekler,7.0
+c34a0d57-de26-42f0-802f-a1f37b28a10f,Meksika Pilavı Sos,"3,00 TL",XL Dip Sauces,2.0
+9f0f43c3-b864-42f1-b5c8-f3ce1b475270,Meksika Fasulyesi Püresi,"3,00 TL",XL Dip Sauces,5.0
+32d71834-869e-4b57-a9a6-1c094dfe7e9c,Poşet,"0,25 TL",Poşet,5.0

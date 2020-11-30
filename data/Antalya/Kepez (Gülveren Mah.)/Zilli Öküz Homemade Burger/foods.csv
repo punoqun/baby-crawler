@@ -1,0 +1,45 @@
+food_id,food_name,food_price,food_category,food_score
+87084c7f-7a14-4a78-9da9-08bb78b23831,Hamburger Menü,"27,95 TL",Menüler,-2.0
+5edc4a6b-1012-46a9-83c3-2d033ef39596,Cheeseburger Menü,"29,95 TL",Menüler,5.0
+ab6c7c75-ca04-44bf-a698-b68bc704340e,Dana Bacon Burger Menü,"30,95 TL",Menüler,7.0
+5713f309-9b19-483f-942f-a2a77d8c4031,Texas Burger Menü,"29,95 TL",Menüler,8.0
+5ab37919-2872-4626-a0de-aa0d881989f5,Türk Burger Menü,"30,95 TL",Menüler,7.0
+59dcfd08-c4b2-4857-97bd-8709ac1682e1,Köz Sebzeli Burger Menü,"30,95 TL",Menüler,7.0
+6caeb5e5-e29d-4296-a289-51bb250fef8b,Tavuk Burger Menü,"21,95 TL",Menüler,3.0
+9c1fc4a6-7467-41e7-815c-86fa4c59b444,Fileto Burger Menü,"22,95 TL",Menüler,12.0
+d4bf577a-dfda-4ca8-90c4-eee508363478,But Burger Menü,"23,95 TL",Menüler,7.0
+e83afe9c-269f-40ea-834c-f822086093e3,Çıtır Burger Menü,"22,95 TL",Menüler,7.0
+f8ce3b75-3945-49ce-84da-c97c206217cf,Fingers Burger Menü,"22,95 TL",Menüler,7.0
+7e94d0d5-62e7-4c96-8d9c-cf88df3ef098,Vegan Burger Menü,"27,95 TL",Menüler,8.0
+97b7e854-9001-4855-834c-3ffcb1800a41,Sucuk Burger Menü,"27,95 TL",Menüler,7.0
+8b1256b2-d46d-4243-836c-58172c4f0800,Öküzce Burger Menü,"42,95 TL",Menüler,7.0
+e212aa42-e889-4619-b223-014eba252099,Ahırca Menü,"50,95 TL",Menüler,7.0
+8a7a3e74-7abb-43d9-beb4-dc0262b1f183,Tavuk Çiftliği Menü,"23,95 TL",Menüler,1.0
+4d0b5f60-3a0a-4c9e-9a3e-fecac3a274a0,Tavuk Kanat Menü,"25,95 TL",Menüler,1.0
+2e3a7b8c-73cf-47e2-a0b4-583d5c63033d,Fingers Menü,"20,95 TL",Menüler,5.0
+7a114722-eaf9-4fbf-a732-3b5a7adf2e06,Kampanyalı Et Burger Menü,"21,95 TL",Menüler,4.0
+2e31c571-a660-456c-9842-b6e4b9e59365,Kampanyalı Tavuk Burger Menü,"17,95 TL",Menüler,6.0
+3806e16d-c4ae-4336-b19b-2673ea0d5c9d,Hamburger,"20,95 TL",Burgerler,-2.0
+bd3ffde5-5b90-4498-b900-79bfa4c00048,Cheeseburger,"22,95 TL",Burgerler,5.0
+8108e0d8-57da-4047-81c8-6866f859a151,Dana Bacon Burger,"23,95 TL",Burgerler,7.0
+23b2ca41-18ab-4dc7-bd32-c62f06f85b13,Texas Burger,"22,95 TL",Burgerler,8.0
+a9c19c21-1812-451a-8c05-42d1395060fd,Türk Burger,"23,95 TL",Burgerler,7.0
+db339934-826a-4567-88e1-4e5fb0ec03b2,Köz Sebzeli Burger,"23,95 TL",Burgerler,7.0
+cfa67c88-62cf-46fb-9014-2ee092e65aff,Tavuk Burger,"12,95 TL",Burgerler,3.0
+776cc281-3c7f-4e7b-aa98-3592b0f38aeb,Fileto Burger,"15,95 TL",Burgerler,7.0
+ddb34289-fdcb-4ef4-8b1c-0542e10a814e,But Burger,"16,95 TL",Burgerler,7.0
+2e805321-e178-4136-8ce5-c9c1e092f4a4,Çıtır Burger,"15,95 TL",Burgerler,7.0
+1dbfa0a6-498c-4417-bb96-e94042b54a53,Fingers Burger,"15,95 TL",Burgerler,7.0
+78f4a05b-a17c-45eb-b20f-6c4fa25a583f,Vegan Burger,"20,95 TL",Burgerler,8.0
+f3f440e6-f7cc-4643-ad54-74c677c22b09,Sucuk Burger,"21,95 TL",Burgerler,7.0
+f6b6bb3c-5e86-4121-8f04-f688e4149fb0,Öküzce Burger,"36,95 TL",Burgerler,7.0
+72b32040-5c24-485d-9b17-39903cfe7520,Patates Kızartması,"11,95 TL",Yan Ürünler,-6.0
+4ee7a3ed-bffc-4a77-ac81-e25573cdb782,Tavuk Çiftliği,"18,95 TL",Yan Ürünler,1.0
+b294a5e3-4ec7-43a9-a4f9-3be935ede332,Soğan Halkası,"7,95 TL",Yan Ürünler,5.0
+86877e4a-35c1-4258-8c7a-865b439fc2a8,Mozzarella Sticks,"12,95 TL",Yan Ürünler,5.0
+85c3dfed-3ba3-430d-9b43-95c671c88bc6,Zilli Kız,"14,95 TL",Yan Ürünler,9.0
+0b92a0c6-c79f-4d75-ae87-be18116dfe23,Patates Kroket (6 Adet),"11,95 TL",Yan Ürünler,-6.0
+f06e9531-6368-4746-833f-513335d9072d,Tavuk Fingers,"12,95 TL",Yan Ürünler,1.0
+78f8eb11-c178-424f-8504-5d97739f5ad5,Üüff Special (Sütlü Tatlı),"9,95 TL",Tatlılar,5.0
+1bbbcbff-6c76-4bcc-b594-d4970ba2bec5,Su,"2,00 TL",İçecekler,5.0
+950112c1-0f64-4713-bfa8-c6d62165fd84,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,38 @@
+food_id,food_name,food_price,food_category,food_score
+059195c9-1f6c-45d3-8849-99fcb0a783f3,Menemen,"12,00 TL",Kahvaltılıklar,5.0
+220bc41d-997c-42af-8274-def87a309e73,Omlet,"7,00 TL",Kahvaltılıklar,5.0
+56ad3978-a7f9-4e38-b3a0-545576f2cfc4,Karışık Tost,"7,00 TL",Tostlar,1.0
+8b38b28a-3ef2-4356-adfc-ac2b5bedcd5c,Kaşarlı Tost,"6,00 TL",Tostlar,3.0
+0ad6d652-2c39-4525-a441-4fab345e75c8,Izgara Köfte,"24,00 TL",Kebaplar & Izgaralar,10.0
+5e610fe1-54a3-41c0-be7d-00be4de6b8ab,Kuzu Şiş,"26,00 TL",Kebaplar & Izgaralar,4.0
+9f40c627-56c2-4828-bf48-953d202fc242,Urfa Kebap,"24,00 TL",Kebaplar & Izgaralar,8.0
+a94073eb-d812-4c3f-8515-0e883aba3522,Tavuk Kanat,"22,00 TL",Kebaplar & Izgaralar,13.0
+b7725104-ac92-454b-aca7-b48e960e172d,Ciğer Şiş,"24,00 TL",Kebaplar & Izgaralar,18.0
+cc87ed90-f448-4eae-aea2-92a9d0ded256,Adana Kebap,"24,00 TL",Kebaplar & Izgaralar,26.0
+df275a97-d55b-4442-9995-0c11975609f7,Tavuk Şiş,"21,00 TL",Kebaplar & Izgaralar,7.0
+f17732f9-750b-4c05-b42f-7643e70b0a5e,Tavuk Kelebek,"24,00 TL",Kebaplar & Izgaralar,7.0
+77289f62-0b66-4304-9d0b-e25aaa4debce,Tavuk Döner,"14,00 TL",Tavuk Dönerler,10.0
+d3ad267e-4d96-482a-a149-537d2b6aab63,Pilav Üstü Tavuk Döner,"17,00 TL",Tavuk Dönerler,11.0
+4cf37c88-e7ff-4651-9527-1e44a1b0820e,Tavuk İskender,"15,00 TL",Tavuk Dönerler,7.0
+a394ab85-2807-49bf-89b0-38b3c6ba14ec,Hatay Usulü Tavuk Döner Dürüm,"10,00 TL",Tavuk Dönerler,13.0
+fce71269-ac28-4597-83fa-0e741dd66647,Yarım Ekmek Arası Hatay Usulü Tavuk Döner,"10,00 TL",Tavuk Dönerler,8.0
+4539cbec-ce08-4a86-a13c-eab442810af9,Tam Ekmek Arası Hatay Usulü Tavuk Döner,"13,00 TL",Tavuk Dönerler,8.0
+27794b47-0ade-42be-8e34-c1208ed52281,Ciğer Şiş Dürüm,"13,00 TL",Dürümler,21.0
+44c2973e-3c4c-40c9-a12b-c59b6e6ff10a,Urfa Dürüm,"13,00 TL",Dürümler,8.0
+9adacfd2-de96-4114-a7f6-78bf866deb3c,Kuzu Şiş Dürüm,"15,00 TL",Dürümler,7.0
+aca3efb1-039e-428e-b106-f396fa560d4a,Tavuk Şiş Dürüm,"12,00 TL",Dürümler,10.0
+e5b3313f-3681-4563-975f-43f75e318471,Adana Dürüm,"13,00 TL",Dürümler,31.0
+7288359f-9693-4d2b-8c90-27c76ba94747,Duble Adana Dürüm,"22,00 TL",Dürümler,28.0
+a0e23190-24b8-41df-aad0-2ae9b699d179,Duble Ciğer Şiş Dürüm,"22,00 TL",Dürümler,23.0
+0bd4a462-7190-4f8d-b431-7b057a88dd6c,Duble Kuzu Şiş Dürüm,"24,00 TL",Dürümler,9.0
+b9e5120c-4f86-428a-9700-0ffcf22ce44a,Duble Tavuk Şiş Dürüm,"20,00 TL",Dürümler,12.0
+6ebd8e1a-b85e-4a76-9d12-943d50050515,Duble Urfa Dürüm,"22,00 TL",Dürümler,10.0
+35bd8c34-8f92-4afe-b1b4-120d6616470b,Ekmek Arası Köfte,"13,00 TL",Ekmek Arası Ürünler & Sandviçler,8.0
+3fb48924-faf1-46ea-acef-80fef08384f5,İzmir Sandviç,"12,00 TL",Ekmek Arası Ürünler & Sandviçler,5.0
+448b4e7f-bfab-4add-be75-1bc0daa4b77a,Ekmek Arası Sucuk,"10,00 TL",Ekmek Arası Ürünler & Sandviçler,4.0
+f50a6441-6224-4970-af44-54ea3c0eb583,Yengen Sandviç,"11,00 TL",Ekmek Arası Ürünler & Sandviçler,5.0
+05c3680e-7472-4289-be27-de96e3c4eaf5,Çoban Salata,"7,00 TL",Salatalar,3.0
+227ad268-a033-4422-bf81-3f36483e4359,Karışık Salata,"8,00 TL",Salatalar,1.0
+a3c6183b-ab0f-49ff-aac4-f742d331ea71,Künefe,"10,00 TL",Tatlılar,14.0
+f1e963b9-6b0f-4dc4-84d5-8e93f4fe9c8e,"Fanta (2,5 L.)","9,00 TL",İçecekler,5.0
+9c93ddbc-f41d-458e-a98e-53bd58de84e5,Poşet,"0,25 TL",Poşet,5.0

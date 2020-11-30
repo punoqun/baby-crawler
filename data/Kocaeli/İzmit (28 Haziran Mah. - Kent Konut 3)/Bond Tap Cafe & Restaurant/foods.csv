@@ -1,0 +1,129 @@
+food_id,food_name,food_price,food_category,food_score
+6c446f50-dc29-4098-b59c-bb2b03b921e1,Hamburger Menü,"27,00 TL",Burger Menüleri,12.0
+A7DF44D2-F7CA-4622-94C1-73BA36327D3E,Mushroom Burger Menü,"32,00 TL",Burger Menüleri,10.0
+CEE79748-56B9-42C6-B853-2BC47DB96630,Efsane Burger Menü,"46,00 TL",Burger Menüleri,14.0
+03af852c-8566-46fe-a429-25dfb7bf7d2c,Brunei Burger Menü,"37,00 TL",Burger Menüleri,10.0
+CE4B0417-7E22-4119-9149-5347EFD3387D,Mac & Cheese Burger Menü,"34,00 TL",Burger Menüleri,10.0
+074c699c-0052-4080-859e-0f643fac8f9f,Turco Burger Menü,"34,00 TL",Burger Menüleri,9.0
+aefe9a8e-34f3-4863-ba19-05132355a968,Chicken Burger Menü,"25,00 TL",Burger Menüleri,10.0
+ead502b6-11b6-4a60-bad1-af054061281a,Hawai Burger Menü,"32,00 TL",Burger Menüleri,10.0
+855629e2-7438-40ec-b707-7024ee243a94,Mexico Burger Menü,"31,00 TL",Burger Menüleri,12.0
+559cd1e0-7e9f-47f0-a947-0b8dd2d216d2,Cheeseburger Menü,"32,00 TL",Burger Menüleri,6.0
+6bc8c5b5-40f5-41e0-8482-abb18fa859da,Double Cheeseburger Menü,"45,00 TL",Burger Menüleri,6.0
+abb0e3ab-8257-4dfe-9687-18d1c93021a4,Bond Tap Burger Menü,"31,00 TL",Burger Menüleri,11.0
+48ae7441-4387-4411-b07b-d7f65a13c885,Double Burger Menü,"39,00 TL",Burger Menüleri,10.0
+87DF80E5-1FDE-434D-B181-29F6AD537AF5,Bond Tap Pizza BBQ (Büyük) Menü,"43,00 TL",Büyük Boy Pizza Menüleri,18.0
+8D7643BB-3386-49D5-B774-3BE614DC0460,Bond Tap Acılı Pizza (Büyük) Menü,"43,00 TL",Büyük Boy Pizza Menüleri,18.0
+d9fd24aa-070a-4438-802e-95612273e335,Barbekü Pizza (Büyük) Menü,"43,00 TL",Büyük Boy Pizza Menüleri,17.0
+15709a8b-094a-4664-8603-b31f5d86969a,Bond Tap Pizza (Büyük) Menü,"40,00 TL",Büyük Boy Pizza Menüleri,18.0
+0A83BAC9-FF72-4C77-8A32-64278F3A16DE,Carne Macinata Alla Pizza (Büyük) Menü,"43,00 TL",Büyük Boy Pizza Menüleri,17.0
+875f8e3c-16b9-4f29-a495-5136d1f048ba,Jambonlu Pizza (Büyük) Menü,"43,00 TL",Büyük Boy Pizza Menüleri,17.0
+9e793c4a-1069-4dd4-b85d-74c31bc5d948,Karışık Pizza (Büyük) Menü,"43,00 TL",Büyük Boy Pizza Menüleri,18.0
+07807ac3-35b6-41c0-ba33-613ee56f31f5,Mantarlı Pizza (Büyük) Menü,"38,00 TL",Büyük Boy Pizza Menüleri,17.0
+207d95db-28b6-45df-9d77-3e1b9234a0d1,Margherita Pizza (Büyük) Menü,"35,00 TL",Büyük Boy Pizza Menüleri,19.0
+1ccc02b4-70aa-4c4e-807f-78637dbaef67,Mexico Pizza (Büyük) Menü,"40,00 TL",Büyük Boy Pizza Menüleri,19.0
+045c8149-7325-4d7b-9dc9-31d7e5dafdc3,Milano Pizza (Büyük) Menü,"43,00 TL",Büyük Boy Pizza Menüleri,17.0
+545a8fe6-05b3-4b83-88f1-1b22172192b0,Napolitan Pizza (Büyük) Menü,"40,00 TL",Büyük Boy Pizza Menüleri,17.0
+74BE2CB8-7A7E-4731-9358-3A1C39CA49C7,Süper 3'lü Büyük Boy Pizza Menü,"52,00 TL",Büyük Boy Pizza Menüleri,21.0
+360d894f-af11-45d3-a36f-cff5125652a6,Ton Balıklı Pizza (Büyük) Menü,"43,00 TL",Büyük Boy Pizza Menüleri,19.0
+6de8d9cd-ee16-4c35-8fce-dc0743f80cad,Turco Pizza (Büyük) Menü,"46,00 TL",Büyük Boy Pizza Menüleri,16.0
+dc1d2bfa-2b70-409b-82db-1b9e23bb12be,Vejetaryen Pizza (Büyük) Menü,"39,00 TL",Büyük Boy Pizza Menüleri,17.0
+41933F7D-A4BA-42A0-9E99-17CDF7B636DB,Bond Tap BBQ Pizza (Orta) Menü,"38,00 TL",Orta Boy Pizza Menüleri,18.0
+AC60C903-2D2B-473B-80FF-7B363EBAD7C2,Bond Tap Acılı Pizza (Orta) Menü,"38,00 TL",Orta Boy Pizza Menüleri,18.0
+12da57e7-5c87-4973-8f5e-749c689b2caa,Barbekü Pizza Orta Menü,"38,00 TL",Orta Boy Pizza Menüleri,17.0
+24e6d587-9048-4eb2-8971-d5a867a8dcd5,Bond Tap Pizza (Orta) Menü,"35,00 TL",Orta Boy Pizza Menüleri,18.0
+FA5CC8EF-D49D-4BEA-9C5A-08FB36E4B919,Carne Macinata Alla Pizza (Orta) Menü,"38,00 TL",Orta Boy Pizza Menüleri,17.0
+bb930805-0ff9-4a49-aa65-26c9137e8e39,Jambonlu Pizza (Orta) Menü,"38,00 TL",Orta Boy Pizza Menüleri,17.0
+44bae9b3-89ea-4dc1-b290-582befc30fa7,Karışık Pizza (Orta) Menü,"38,00 TL",Orta Boy Pizza Menüleri,18.0
+09216635-2ab9-4e2b-8874-c46989a2c904,Mantarlı Pizza (Orta) Menü,"33,00 TL",Orta Boy Pizza Menüleri,17.0
+59ec83e4-8913-4882-a748-c6a687037d7f,Margherita Pizza (Orta) Menü,"30,00 TL",Orta Boy Pizza Menüleri,19.0
+aef3627d-ff2a-462f-af0a-dd16d583bdeb,Mexico Pizza (Orta) Menü,"35,00 TL",Orta Boy Pizza Menüleri,19.0
+9cefbc36-e90f-453c-8a19-abbbaae30417,Milano Pizza (Orta) Menü,"38,00 TL",Orta Boy Pizza Menüleri,17.0
+52c82b56-f13f-47da-bb22-222c17f1c825,Napolitan Pizza (Orta) Menü,"35,00 TL",Orta Boy Pizza Menüleri,17.0
+CE24F443-D687-490A-A96B-0B09F0807040,Süper 3'lü Orta Boy Pizza Menü,"50,00 TL",Orta Boy Pizza Menüleri,21.0
+a84c6b65-e6a0-4b37-b190-0b37e2d2d8ee,Ton Balıklı Pizza (Orta) Menü,"38,00 TL",Orta Boy Pizza Menüleri,19.0
+16ee7150-4a4a-4093-927a-14d8825fd459,Turco Pizza (Orta) Menü,"41,00 TL",Orta Boy Pizza Menüleri,16.0
+669ca6d8-9d82-4acd-aab7-9ecfe20afac9,Vejetaryen Pizza (Orta) Menü,"33,00 TL",Orta Boy Pizza Menüleri,17.0
+ee419c21-18ae-4416-bfb2-e3fd951f166a,Bond Tap Burger,"21,00 TL",Burgerler,10.0
+25C95960-1448-4131-9490-4A6CA2331425,Brunei Burger,"27,00 TL",Burgerler,9.0
+56BE0DBE-A2D2-42A3-92C3-03F86A6E8791,Mac & Cheese Burger,"24,00 TL",Burgerler,9.0
+c2228737-5679-4fbf-83f5-1b3e81279186,Cheeseburger,"22,00 TL",Burgerler,5.0
+84a79bce-6495-4717-86e1-d829b16c3700,Chicken Burger,"15,00 TL",Burgerler,9.0
+a726d650-da39-485b-a992-270c69d5e4bf,Double Burger,"29,00 TL",Burgerler,9.0
+7168a696-7e71-435a-b544-f83e7e9d2f0c,Double Cheeseburger,"35,00 TL",Burgerler,5.0
+04578b2d-96b2-4241-b18c-6c1c51c2d877,Hamburger,"17,00 TL",Burgerler,11.0
+06f2019a-3b16-4e0e-9b3c-727327803bb7,Hawai Burger,"22,00 TL",Burgerler,9.0
+0df88768-b5ef-4ee1-889c-fc468b0d4f87,Mexico Burger,"21,00 TL",Burgerler,11.0
+49795e62-95bf-4a26-b884-aa777f599712,Mushroom Burger,"22,00 TL",Burgerler,9.0
+ef14a5ab-6e10-4c26-b704-0bd324c12ee7,Turco Burger,"24,00 TL",Burgerler,8.0
+4ce4278d-c259-4de1-8905-3a45aa6731dd,Barbekü Pizza (Büyük),"33,00 TL",Büyük Boy Pizzalar,16.0
+57DDD3A8-593B-4628-BE26-8DFDF388C3FD,Bond Tap Acılı Pizza (Büyük),"33,00 TL",Büyük Boy Pizzalar,17.0
+270b6d82-561f-4e40-bb53-10aa5a1a2fe9,Bond Tap Pizza (Büyük),"30,00 TL",Büyük Boy Pizzalar,17.0
+3BBF1843-3F00-4DF9-A538-9A3AA89C6CBF,Bond Tap Pizza BBQ (Büyük),"33,00 TL",Büyük Boy Pizzalar,17.0
+1E80DA75-472A-4DE3-9B99-4E9BAB6B6E30,Carne Macinata Alla Pizza (Büyük),"31,00 TL",Büyük Boy Pizzalar,16.0
+293005af-547f-4176-b739-414f7617c062,Jambonlu Pizza (Büyük),"33,00 TL",Büyük Boy Pizzalar,16.0
+c05beb68-c4cb-41e1-8f6a-ace7ccf673ef,Karışık Pizza (Büyük),"33,00 TL",Büyük Boy Pizzalar,17.0
+194ee8c9-6426-4844-95aa-64132f316815,Mantarlı Pizza (Büyük),"28,00 TL",Büyük Boy Pizzalar,16.0
+4d68c093-69df-45f7-9ca7-b0afcacec4f5,Margherita Pizza (Büyük),"25,00 TL",Büyük Boy Pizzalar,18.0
+0ff1a9ac-f4fa-4ad7-b2da-af2dbe8b9361,Mexico Pizza (Büyük),"30,00 TL",Büyük Boy Pizzalar,18.0
+1dfd384e-26c6-4c46-86d5-50f05d62ce11,Milano Pizza (Büyük),"33,00 TL",Büyük Boy Pizzalar,16.0
+6aaa1005-e1bc-4a8b-8cc3-b08e333df363,Napolitan Pizza (Büyük),"30,00 TL",Büyük Boy Pizzalar,16.0
+c5d0ab70-db7a-46c7-9e92-d62b065ca222,Ton Balıklı Pizza (Büyük),"33,00 TL",Büyük Boy Pizzalar,18.0
+08554d94-964f-4892-8378-92c247bb130c,Turco Pizza (Büyük),"36,00 TL",Büyük Boy Pizzalar,15.0
+3a814d5e-5cc8-4972-a793-d2871040bd86,Vejetaryen Pizza (Büyük),"29,00 TL",Büyük Boy Pizzalar,16.0
+7d4af133-aff1-4013-a3d7-b6e1878861ae,Barbekü Pizza Orta,"28,00 TL",Orta Boy Pizzalar,16.0
+85066663-2B3A-4095-8F3A-20291C74C681,Bond Tap Acılı Pizza (Orta),"28,00 TL",Orta Boy Pizzalar,17.0
+EBF5547A-CCCB-4E35-9C8F-C2CEC1A758D5,Bond Tap BBQ Pizza (Orta),"28,00 TL",Orta Boy Pizzalar,17.0
+ce71eea5-5cc6-48cc-82dd-144731db155e,Bond Tap Pizza (Orta),"25,00 TL",Orta Boy Pizzalar,17.0
+3F543B39-3653-4218-8B13-2785BC8594D6,Carne Macinata Alla Pizza (Orta),"28,00 TL",Orta Boy Pizzalar,16.0
+2adc511e-b4a1-4e34-a1c7-442c16a0dfb7,Jambonlu Pizza (Orta),"28,00 TL",Orta Boy Pizzalar,16.0
+2394010a-a17d-4ad3-8252-558a394be5b5,Karışık Pizza (Orta),"28,00 TL",Orta Boy Pizzalar,17.0
+93dd4196-6871-4979-97fa-a57f60725262,Mantarlı Pizza (Orta),"23,00 TL",Orta Boy Pizzalar,16.0
+ab10706b-fbec-410a-9350-2ec6e0153d37,Margherita Pizza (Orta),"20,00 TL",Orta Boy Pizzalar,18.0
+8b69a3de-83e2-4428-b00c-6fa8bb15f7cd,Mexico Pizza (Orta),"25,00 TL",Orta Boy Pizzalar,18.0
+2a6dbed8-7bbf-47ce-9a76-fe592ba0fb59,Milano Pizza (Orta),"28,00 TL",Orta Boy Pizzalar,16.0
+4e9b0823-7695-47f7-a609-1fcced71d91e,Napolitan Pizza (Orta),"25,00 TL",Orta Boy Pizzalar,16.0
+f63a16ef-160f-497d-82c4-09d6a1e8dcd4,Ton Balıklı Pizza (Orta),"28,00 TL",Orta Boy Pizzalar,18.0
+79526801-cfad-409e-85ef-ab36db5f8a96,Turco Pizza (Orta),"31,00 TL",Orta Boy Pizzalar,15.0
+8ba631f2-b8da-41ca-a2d1-fb7e94933d98,Vejetaryen Pizza (Orta),"23,00 TL",Orta Boy Pizzalar,16.0
+0fc9b9a2-ff4c-4f45-b0c6-f14ea10ef16a,Izgara Köfte,"24,00 TL",Izgaralar,8.0
+8b67e3c4-972b-442e-a021-b055aec66866,Kaşarlı Köfte,"29,00 TL",Izgaralar,8.0
+0f3261b7-c0e3-41c4-9410-35ae171182b5,Tavuk Külbastı,"22,00 TL",Izgaralar,22.0
+be418b2e-dddc-425f-aca3-9f28e48a238b,Tavuk Şiş,"22,00 TL",Izgaralar,22.0
+1893691c-5bc2-4c4c-9d51-cb11ccdf1b9f,Köri Soslu Tavuk,"25,00 TL",Tavada Ürünler,30.0
+995a54c3-f4d0-4e0c-ab90-2d1568b736be,Soya Soslu Tavuk,"25,00 TL",Tavada Ürünler,22.0
+93d75e53-3a26-4e57-afba-78fb2f7f886b,Bond Tap Tavuk Sote,"25,00 TL",Tavada Ürünler,23.0
+1E760616-30E4-4785-A2C4-0ED822B5580D,Mac & Cheese,"26,00 TL",Tavada Ürünler,5.0
+09247e09-d64e-4cec-8aa8-50b38e81ee2f,Köfteli Wrap,"16,00 TL",Wraps,5.0
+998698AF-40E7-4584-ADC9-D27EF76ADE6E,Mexico Wrap,"16,00 TL",Wraps,6.0
+8DD1E462-1FDA-498C-94F5-EA9DDCA462F4,Arjantin Wrap,"16,00 TL",Wraps,4.0
+23f81576-21a3-467e-907c-3827d8047f7e,Tavuklu Wrap,"14,00 TL",Wraps,6.0
+a6e94695-297a-4121-baba-bd3cdb264df7,Penne Arrabbiata,"14,00 TL",Makarnalar,5.0
+ACC8D531-F9E9-44B8-8E68-4612F1DA1070,Fusilli Al Tonno,"20,00 TL",Makarnalar,5.0
+9C32F9B6-9FF1-4674-B520-0FA657F49CE1,Fettuccine Chicken,"19,00 TL",Makarnalar,8.0
+EDC1E75E-231D-43AF-9A51-927A51996147,Hot Chilli Fusilli Chicken Makarna,"19,00 TL",Makarnalar,9.0
+5ED2EE67-D2FD-4A04-AE3E-EF735F8C3F16,Barbekü Soslu Fusilli Chicken Makarna,"19,00 TL",Makarnalar,9.0
+c374e7db-e31a-418f-8110-68729cee8a97,Fettuccine Alfredo,"19,00 TL",Makarnalar,8.0
+01039c0c-e50a-46c5-8f97-86da5c53e550,Spaghetti Napolitan,"15,00 TL",Makarnalar,5.0
+76508767-c555-4d0a-9a78-1006c75e3d2c,Spaghetti Bolognese,"18,00 TL",Makarnalar,5.0
+a3d66a5e-f9f0-49f5-a349-cddd592f2b17,Kayseri Mantı,"20,00 TL",Makarnalar,15.0
+c9beb44c-48fe-4598-ab5a-fbe2e067b416,Kızarmış Mantı,"20,00 TL",Makarnalar,15.0
+bd6d981b-737c-43a5-8dc5-0b510c7e7ae5,Patates Kızartması,"8,00 TL",Yan Ürünler,9.0
+A0BA0995-04C6-4B76-93FB-F9B0DA019205,Nugget (7 Adet),"8,00 TL",Yan Ürünler,5.0
+DBCDE0CF-B6AC-42AD-A960-ED01F825DB08,Karışık Sıcak Tabağı,"21,00 TL",Yan Ürünler,8.0
+f0a460d1-2381-4b10-8351-1c57219aedf3,BBQ Tavuk Parçaları,"25,00 TL",Yan Ürünler,22.0
+ed59ad84-8495-4be4-9204-ca761d866a1d,Acı Tavuk Parçaları,"25,00 TL",Yan Ürünler,22.0
+c500c1ea-a791-40a3-b8fe-5bdb1bab7576,Mexico Şnitzel,"18,00 TL",Yan Ürünler,7.0
+b856044b-a0bc-4934-8e4a-817afb03bf05,Chicken Şnitzel,"18,00 TL",Yan Ürünler,5.0
+009144e3-3462-475b-aa77-489e4001f0fe,Chicken Stick,"18,00 TL",Yan Ürünler,5.0
+b3e43f4a-738a-449c-9ec6-eb672d5470c2,Soğan Halkası,"8,00 TL",Yan Ürünler,5.0
+a5adf86f-f41c-4d44-90ee-1465eff866c0,Ton Balıklı Salata,"18,00 TL",Salatalar,7.0
+162C5E9E-BFF0-430E-8C9C-C816F5BEBFC8,Izgara Hellim Salata,"19,00 TL",Salatalar,5.0
+65e4b9cd-5f9b-4516-a6bd-e63a20e9c0c9,Sezar Salata,"14,00 TL",Salatalar,5.0
+7c56d02b-a933-4a89-992a-ff460ba0a3e2,Tavuklu Sezar Salata,"18,00 TL",Salatalar,7.0
+28da654c-441b-4b8a-b61a-67a397200351,Yeşil Salata,"12,00 TL",Salatalar,5.0
+f672f883-164e-4d19-a77f-791bceceeb29,Sufle,"11,00 TL",Tatlılar,10.0
+695A97F9-377A-45BE-81CC-3A41FCE65178,Tahinli Sufle,"15,00 TL",Tatlılar,5.0
+3B83EBBA-2125-45DF-A7DF-F9E723C51E50,Lipton Ice Tea Karpuz (33 cl.),"6,00 TL",İçecekler,5.0
+1a7f042e-df75-499d-bba3-16ad8f5db86e,Niğde Gazozu (25 cl.),"4,00 TL",İçecekler,5.0
+65ccf423-6056-4748-bd22-ffe69df00930,Poşet,"0,25 TL",Poşet,5.0

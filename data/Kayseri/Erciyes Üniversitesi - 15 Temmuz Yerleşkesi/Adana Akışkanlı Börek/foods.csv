@@ -1,0 +1,16 @@
+food_id,food_name,food_price,food_category,food_score
+016BF027-BE87-49EC-B4D3-52EB688AA900,Aileme Özel Menü,"52,50 TL",Menüler,5.0
+12B7E3B2-68D7-4B39-92B1-1A900DFA07AA,Bana Özel Karmaşık Menü 1,"13,50 TL",Menüler,13.0
+60B6E62A-87A1-40AB-B8F1-0089E10B2203,Bana Özel Karmaşık Menü 2,"22,50 TL",Menüler,8.0
+071D079F-ABB3-4988-8AF2-515AFDCDF141,Bana Özel Karmaşık Menü 3,"30,00 TL",Menüler,8.0
+18D6FDC1-96FE-4DF8-A699-7B171AE66C1C,Süper 2'li Menü,"30,00 TL",Menüler,9.0
+2993C7EB-2161-4927-AFF7-EF14A26332E1,Tekim Menü,"3,75 TL",Menüler,5.0
+aa08bec6-339b-47b2-a7e9-2665399b6626,Kıymalı Börek (250 gr.),"18,75 TL",Börekler,19.0
+887b91ff-1efe-4990-bf92-95788d317e9c,Peynirli Börek (250 gr.),"12,75 TL",Börekler,18.0
+6a5c7937-11c5-4367-a04c-2d1aff58f637,Kıymalı Börek (500 gr.),"34,50 TL",Börekler (500 gr.) (Pişirilmiş),14.0
+caf79d13-5c66-40f6-9760-671e931bc3c1,Peynirli Börek (500 gr.),"24,75 TL",Börekler (500 gr.) (Pişirilmiş),18.0
+4de3705e-6d91-40f9-8c1e-f87aaad6ecf1,Kıymalı Börek (1 kg.),"75,00 TL",Börekler (1 kg.) (Pişirilmiş),14.0
+409545a8-bd54-4ecc-9e22-ce74f3987e56,Peynirli Börek (1 kg.),"45,00 TL",Börekler (1 kg.) (Pişirilmiş),13.0
+b867dcab-a50c-4000-ac3d-40f0a0c18081,"Kıymalı Börek (3,5 kg.)","191,25 TL",Börekler (Tepside) (Pişirilmiş),14.0
+4c7c3a7f-d70d-417c-acaa-323a276ec0b9,"Peynirli Börek (3,5 kg.)","168,75 TL",Börekler (Tepside) (Pişirilmiş),13.0
+662ebca2-fec6-4b58-9417-309473f1cda5,Poşet,"0,25 TL",Poşet,5.0

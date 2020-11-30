@@ -1,0 +1,71 @@
+food_id,food_name,food_price,food_category,food_score
+d4cf2701-0c48-4bc8-b949-83ecaeb6d097,Ekmek Arası Tavuk Döner Menü,"15,00 TL",Menüler,4.0
+9ba1f6ea-cfaf-4713-b37a-9460f520abc1,Patso Sandviç Menü,"15,00 TL",Menüler,5.0
+15fb0185-c0b7-45cd-8c6f-b8c8d2110f6b,Yarım Ekmek Arası Köfte Menü,"17,00 TL",Menüler,5.0
+bbc77261-9936-497d-8c00-1708cae5840d,Çiğ Köfte (1 kg.) Menü,"50,00 TL",Menüler,9.0
+e94b86b5-cc0e-4737-b60b-dfdc55470889,Dana Burger Menü,"17,00 TL",Menüler,5.0
+0a53888f-1a47-4269-b1f6-efe8bd8eab0a,Tavuk Ciğeri Dürüm Menü,"12,00 TL",Menüler,4.0
+993cefce-3ae6-4960-9235-e02d3ed18971,Tavuk Burger Menü,"15,00 TL",Menüler,4.0
+db831549-1013-4022-968e-93ee4130f15c,Menemen,"12,00 TL",Kahvaltılıklar,9.0
+d98b7db6-8fbe-400d-b686-ce5d2818c36c,Omlet,"8,00 TL",Kahvaltılıklar,5.0
+b968441d-24e8-4698-bb69-f4fe6fefcd32,Kaşarlı Tost,"12,00 TL",Kahvaltılıklar,3.0
+d946c915-8f0e-46aa-a7af-7c5f51bb8384,Sucuklu Tost,"12,00 TL",Kahvaltılıklar,3.0
+cb1f0e18-e81c-425b-bb6b-2883607263fe,Sucuklu Kaşarlı Tost,"14,00 TL",Kahvaltılıklar,3.0
+262DE8E7-193A-4A67-AB0F-59CB3F93FDC7,Yumurtalı Tost,"12,00 TL",Kahvaltılıklar,3.0
+5D391AAC-B02C-4E0E-9E49-2A2228FCFED2,Sosis Tava,"10,00 TL",Kahvaltılıklar,5.0
+67074FFD-F6ED-49AC-9350-91FEE1E9245D,Söğüş Tabağı,"8,00 TL",Kahvaltılıklar,5.0
+988342A6-9E14-42D4-AF0F-D89BB4EF1D7E,Peynirli Yumurta,"11,50 TL",Kahvaltılıklar,5.0
+4492E4CA-534B-481E-8C20-67254C3BEF88,Sucuklu Yumurta,"14,50 TL",Kahvaltılıklar,5.0
+F7196D89-B2BD-4A34-A10A-6F3AC992CD0E,Sosisli Yumurta,"14,00 TL",Kahvaltılıklar,5.0
+34DE5D33-A89B-4022-99C0-165A2913138B,Sucuklu Menemen,"17,00 TL",Kahvaltılıklar,9.0
+67CB8D1D-DD81-420A-B3EE-46A6AFC3C91E,Kaşarlı Omlet,"14,00 TL",Kahvaltılıklar,5.0
+D355BB45-C6E2-4AD5-ADA9-37E28B9A5B81,Sucuklu Omlet,"15,00 TL",Kahvaltılıklar,5.0
+F7061A03-9687-4FF4-AAB8-B208CA31BE8F,Salamlı Tost,"12,00 TL",Kahvaltılıklar,3.0
+FDDD6D74-A83E-4EA0-833B-771FAF48E3DA,Kaşarlı Sandviç,"10,00 TL",Sandviçler,5.0
+2BE59DBF-84C9-4169-9C73-82F1450C9ED6,Salamlı Sandviç,"11,00 TL",Sandviçler,5.0
+FA242B6D-2222-4F6B-A36D-AB1D5E832206,Tavuklu Sandviç,"15,00 TL",Sandviçler,5.0
+ba8ec0d2-c4c1-4d1b-86c7-5731635343c2,Çiğ Köfte Dürüm,"6,00 TL",Çiğ Köfteler,14.0
+4424708e-786a-473f-897a-1d45790ccbdf,Mega Çiğ Köfte Dürüm,"10,00 TL",Çiğ Köfteler,14.0
+aa512524-536b-465b-a128-5220bb781952,Çiğ Köfte (400 gr.),"18,00 TL",Çiğ Köfteler,14.0
+6218a369-998e-495c-85be-7c909531a44d,Çiğ Köfte (600 gr.),"27,00 TL",Çiğ Köfteler,9.0
+f535aa97-1be0-485f-8666-3cb9add0fac0,Çiğ Köfte (800 gr.),"36,00 TL",Çiğ Köfteler,9.0
+378c2b93-8012-422d-87e7-3f7d5d0016d0,Çiğ Köfte (1 kg.),"45,00 TL",Çiğ Köfteler,9.0
+79EBC855-B398-4BE1-BA62-EB9D3764727F,Çiğ Köfte (1 kg.) (Garnitürsüz),"30,00 TL",Çiğ Köfteler,9.0
+43b4fbde-b9a3-442e-b17a-d2430fbb05b7,Kırmızı Mercimek Çorbası,"12,00 TL",Çorbalar,5.0
+774e005f-89c3-45cb-b153-d0d2dd03f068,Tavuk Arnavut Ciğeri,"15,00 TL",Ana Yemekler,1.0
+531ec516-d566-4184-8070-19dfeeaa3867,Kayseri Mantısı,"15,00 TL",Ana Yemekler,5.0
+f1735cf6-013f-4b5d-8237-b5a8d054c6e7,Tavuklu Nohutlu Pilav,"12,00 TL",Ana Yemekler,7.0
+1C894F9F-0BCE-43EF-8A03-7963AB4E4BC6,Ciğerli Pilav,"13,00 TL",Ana Yemekler,7.0
+B09F09BF-52F2-4F79-9B99-7894243D7800,Pilav Üstü Tavuk Döner,"13,00 TL",Ana Yemekler,6.0
+78B5CE2F-9CFF-4129-8900-E9EE3C0950D6,Izgara Kasap Köfte,"25,00 TL",Ana Yemekler,5.0
+FF44A9CB-C84E-440A-BC51-058F5206652C,Tavuk Sote,"22,00 TL",Ana Yemekler,4.0
+61F32AA8-093F-47CF-9379-1057D391894B,Tavuk Şnitzel,"23,00 TL",Ana Yemekler,4.0
+b6447468-6d6b-43f4-a1ae-6d1f532592bd,Rus Mantısı,"15,00 TL",Ana Yemekler,7.0
+53d55118-f6a3-4932-abdd-836a2921cf48,Aperitif Tabağı,"20,00 TL",Diğer Lezzetler,5.0
+E12D6BA4-43D9-41EE-95B7-0A13F6734649,Sosis Sepeti,"14,00 TL",Diğer Lezzetler,5.0
+125EE90F-575D-4F13-9D1A-2CC73A37A3B4,Nugget Tabağı,"13,00 TL",Diğer Lezzetler,5.0
+84A76738-3CAD-4BB6-9255-34F4CE298D4D,Soğan Halkaları,"11,00 TL",Diğer Lezzetler,5.0
+040987db-0cb9-4af0-9818-865579ff4cf5,Iceberg Marul,"5,50 TL",Yan Ürünler,5.0
+888720f1-5a90-4f7b-ac4c-5e90487d21d3,Lavaş (Adet),"0,75 TL",Yan Ürünler,5.0
+a2577dfb-57be-41cb-bd08-91338986e1e4,Nar Ekşisi Sos,"0,50 TL",Yan Ürünler,0.0
+3074f5b2-ea50-4c7f-8e2e-5a206f1d03a8,Midye Dolma (10 Adet),"12,50 TL",Mezeler,4.0
+5384c3c6-9415-4600-8c4f-cdd6381ea0cc,Mantar Sote (150 gr.),"9,00 TL",Mezeler,5.0
+727ec413-96cc-4945-94c3-2ea65f460148,Pancar (200 gr.),"9,00 TL",Mezeler,5.0
+6412A76A-B6F6-4443-AFAF-18C8DB417B9F,Zeytinyağlı Lahana Sarma (150 gr.),"10,00 TL",Mezeler,5.0
+7C261503-343D-4E00-84AB-F24C1F57513A,Cacık,"7,00 TL",Mezeler,5.0
+F63DD54B-4C59-4D96-9642-35DE82020C32,Kaşık Salata,"8,00 TL",Mezeler,5.0
+f8da9e33-7d92-48f5-9aa1-a89f586cbbf3,Parmak Patates Kızartması (150 gr.),"9,00 TL",Mezeler,5.0
+884b994e-041b-4919-b98f-94b7a2746057,Yaprak Sarma (150 gr.),"10,00 TL",Mezeler,5.0
+3a099146-18c3-4f3d-8a7f-54b848dfcedf,Sebze Salatası,"9,00 TL",Mezeler,5.0
+ab35473c-3981-41d6-a5cf-2953e4407c9b,Rus Salatası (150 gr.),"9,00 TL",Mezeler,7.0
+2a0e49a2-5b0f-445a-82be-7b19fd43d76f,Havuç Salatası (150 gr.),"9,00 TL",Mezeler,5.0
+f9a8107a-ba38-4ccf-b25a-d97dfb4a80d0,Şakşuka (150 gr.),"9,00 TL",Mezeler,5.0
+5be1cf7c-0cc4-49b0-855f-419ccfd6fea2,Köpoğlu (150 gr.),"9,00 TL",Mezeler,5.0
+215d0653-95b4-4c30-bb4e-38937a1e0b84,Yoğurtlu Semizotu (150 gr.),"9,00 TL",Mezeler,5.0
+de52af07-4f77-4a47-8428-8845a8f80f34,Yoğurtlu Patlıcan (150 gr.),"9,00 TL",Mezeler,5.0
+6c8dccd1-e42c-462b-af63-c34c5c28bd34,Közlenmiş Biber Salatası (150 gr.),"9,00 TL",Mezeler,5.0
+adff393a-9877-41b7-8c7c-2e4aebd43bda,Ballı Rus Pastası,"12,00 TL",Tatlılar,7.0
+4EBFE8D7-18D4-4B1A-9DB9-C4208C0745AB,Napolyon Tatlısı (Dilim),"12,00 TL",Tatlılar,5.0
+D456DB20-E474-4199-871F-2D58207DF6A4,Turşu Suyu (25 cl.),"4,50 TL",İçecekler,5.0
+074949ac-b2e6-47cf-957d-4d3a1bb9703d,"Coca-Cola (1,5 L.)","8,00 TL",İçecekler,5.0
+a71a7d61-b6d3-425c-800a-bac38297d1ef,Poşet,"0,25 TL",Poşet,5.0

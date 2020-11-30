@@ -1,0 +1,58 @@
+food_id,food_name,food_price,food_category,food_score
+cdc745c1-f34f-4f84-91ed-601ea0bc9c06,Otlu Omlet,"10,00 TL",Omletler,5.0
+baaffeb7-ac20-43ff-9c97-942ac23a2763,Peynirli Omlet,"12,00 TL",Omletler,5.0
+e7350ba7-98aa-4c1c-b0ec-58cae7757f2e,Karışık Omlet,"15,00 TL",Omletler,5.0
+033b55c1-3a5c-4f75-aa08-e0f010825e45,Kaşarlı Tost,"10,00 TL",Tostlar,5.0
+26d206ad-a157-4adb-8396-d86332c758f0,Sucuklu Tost,"18,00 TL",Tostlar,5.0
+9f656f68-fb7a-4288-8275-2f7e1cf24196,Tosun Paşa Spesiyal Tost,"22,00 TL",Tostlar,5.0
+39a3bb6f-4b15-4fdf-afe0-e724bef9765b,Kasap Sucuklu Tost,"22,00 TL",Tostlar,5.0
+c584786d-ca12-44d9-816e-f4e480447cfc,Baharatlı Patates Kızartması,"12,00 TL",Başlangıçlar,5.0
+d72e7d91-6e54-4efd-a8c7-a936db74d709,Peynirli & Ispanaklı Börek,"15,00 TL",Başlangıçlar,5.0
+1c25371c-92f6-4ac4-b832-9bf3a78f354d,Fırında Kaşarlı Mantar,"25,00 TL",Başlangıçlar,5.0
+4b8a341e-b57d-4d48-aab3-c490ddf39e9f,Çıtır Tavuk,"25,00 TL",Başlangıçlar,5.0
+90efebd0-0ca5-4b43-8be5-46138c493b36,Yaprak Ciğer,"25,00 TL",Başlangıçlar,5.0
+3c6e7089-c1c9-4525-a9b1-4cbaa3ec2fba,Karidesli Güveç,"35,00 TL",Başlangıçlar,5.0
+8fca64e0-844e-4036-a9e3-0fefeebcdb10,Izgara Ahtapot,"40,00 TL",Başlangıçlar,5.0
+0e4b893f-bcb3-4834-9bdd-b1988a60056e,Kalamar Kızartması,"35,00 TL",Başlangıçlar,5.0
+4f5de1f0-7b83-4fb2-a562-ca844de40d43,Cheddar Soslu Tavuk,"25,00 TL",Ana Yemekler,5.0
+0B25AA09-296A-47E5-B8FD-9EA157D8390C,İspanyol Et,"35,00 TL",Ana Yemekler,12.0
+02D9F2C0-0DDD-42A5-B909-666612DF4917,İspanyol Tavuk,"28,00 TL",Ana Yemekler,7.0
+3a1f0b92-2e10-4312-af9d-08955e6cbd82,Tavuk Külbastı,"28,00 TL",Ana Yemekler,5.0
+5c469b3c-fecd-4b1d-8c90-834ef672c7ea,Izgara Tavuk Kanat,"28,00 TL",Ana Yemekler,10.0
+e9abbc0c-ef4d-4e97-8753-54e59092fba0,İnegöl Köfte,"28,00 TL",Ana Yemekler,5.0
+5ffdd909-5d29-4335-a443-327a440323f6,Izgara Köfte,"27,00 TL",Ana Yemekler,5.0
+1892cb7b-cab3-46e5-a32e-6e0039986218,Kaşarlı Köfte,"28,00 TL",Ana Yemekler,5.0
+48fc13fb-e37a-4354-8856-2da686cb1275,Kuzu Şiş,"40,00 TL",Ana Yemekler,5.0
+7f566b97-ea81-4bec-b7dd-cfef4df3c322,Izgara Bonfile,"55,00 TL",Ana Yemekler,5.0
+83aa8d68-5e13-4646-9111-e0d3751dc031,Tosun Paşa Spesiyal Izgara,"35,00 TL",Ana Yemekler,5.0
+285d7751-3c16-4777-8a17-201c356fca96,Karışık Izgara,"50,00 TL",Ana Yemekler,5.0
+085566af-d75d-4aaa-9408-a43dc9a7c079,Tavuk Burger,"24,00 TL",Burgerler,5.0
+9ae43674-a15f-4887-9138-ae5068d16661,Hamburger,"25,00 TL",Burgerler,7.0
+b699905c-837f-4490-ac2e-ec6e0aa85929,Cheeseburger,"27,00 TL",Burgerler,5.0
+e1c24a97-6701-4faf-bc91-f16973c8f506,Tosun Paşa Burger,"37,00 TL",Burgerler,5.0
+da836f41-5c84-4250-8496-c38fea45f949,Makarna,"20,00 TL",Makarnalar,5.0
+EAC41F0A-17D8-41FA-89BC-BFBFE19EE512,Deniz Mahsulleri Penne,"35,00 TL",Makarnalar,5.0
+7f40d19e-45cf-45d7-8d38-5549db9d987e,Penne Arrabbiata,"23,00 TL",Makarnalar,5.0
+7788f8b0-8c19-4773-b040-6973bc7bf3b7,Tosun Paşa Special,"26,00 TL",Makarnalar,5.0
+57994974-cf5b-492d-9e56-a4b192e190ef,Körili Penne,"26,00 TL",Makarnalar,5.0
+8513b093-115d-4dd9-8789-aac6da974119,Spaghetti Bolognese,"28,00 TL",Makarnalar,5.0
+0727EA12-3EAE-4D0A-988B-9BC05DDEF4F4,Çoban Salata,"20,00 TL",Salatalar,5.0
+7609c02a-196e-44c1-a590-b9b29a945e2c,Yeşil Salata,"15,00 TL",Salatalar,4.0
+8d43c006-aaf2-470a-856b-4cc74d58afbc,Greek Salata,"17,00 TL",Salatalar,5.0
+35717714-ebb1-444a-a8d2-881d37bdf7d0,Roka Salatası,"17,00 TL",Salatalar,5.0
+a9d64bc2-2bdd-4ae5-ac0b-cf0dfa660870,Çıtır Tavuklu Salata,"25,00 TL",Salatalar,5.0
+3b0e9221-4bc3-47f4-967c-245bff8b1c3b,Sezar Tavuklu Salata,"25,00 TL",Salatalar,5.0
+41dc8581-a1c3-461c-aaa6-caf59f4370b8,Bonfile Salata,"30,00 TL",Salatalar,5.0
+f3589a0a-8f80-4cbf-ad49-ce34b02ce6b9,Sakızlı Muhallebi,"12,00 TL",Tatlılar,5.0
+0C8FBFE0-6B5C-4FD3-8F5C-39140D8E1F73,Hamsiköy Sütlaç,"12,00 TL",Tatlılar,5.0
+F60A82EC-D4A5-460B-B06A-754A45CE8D0B,Karamelli Trileçe,"12,00 TL",Tatlılar,5.0
+fc684b59-8dfb-4e9a-b01e-3def1f839252,Frambuazlı Cheesecake,"15,00 TL",Tatlılar,5.0
+10bc81fe-b297-4da5-b87f-edb9eb4d4666,Limonlu Cheesecake,"15,00 TL",Tatlılar,10.0
+db0dfc14-5dcf-4b45-be49-59a6e4d40e4d,Mozaik Pasta,"16,00 TL",Tatlılar,5.0
+cdebf0d6-e54a-410e-81cf-c18f9a4fc849,Tiramisu,"18,00 TL",Tatlılar,5.0
+a0b09300-f4df-4db2-8856-b91b69483cc2,Yeşil Fıstıklı Antep Rüyası Pasta,"18,00 TL",Tatlılar,4.0
+FD7DFAAC-5ADD-463B-96BB-5BB48704E986,Tombul Ayran (30 cl.),"5,00 TL",İçecekler,5.0
+f58c91a0-42c3-47ab-9677-9f87e6ea6e18,Niğde Gazozu (25 cl.),"4,00 TL",İçecekler,5.0
+ac6ad779-3c27-4150-ac46-1596fbd6b9e6,Soğuk Kahve,"10,00 TL",İçecekler,5.0
+540e1cd1-a6c7-413a-a55d-907e50213fbd,Proteinli Soğuk Kahve,"15,00 TL",İçecekler,5.0
+a361d877-0828-4779-b0b4-eb735fcde6d3,Poşet,"0,25 TL",Poşet,5.0

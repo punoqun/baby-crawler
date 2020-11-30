@@ -1,0 +1,40 @@
+food_id,food_name,food_price,food_category,food_score
+57230233-af57-4884-8cfa-9dd2e2f90ea4,Klasik Burger Menü,"19,00 TL",Menüler,13.0
+76900103-d1c2-40e4-9f7c-25bfe7fb5788,Double Burger Menü,"27,00 TL",Menüler,13.0
+517cf26e-cb69-4e7a-8c6f-23a8b9f5ff06,Eko Burger Menü,"14,00 TL",Menüler,13.0
+022f2e95-68b4-4779-93ca-a42fc5617221,Eko Double Burger Menü,"20,00 TL",Menüler,13.0
+e49066d0-c849-44d9-823c-0c3d5867d046,Tavuk Burger Menü,"14,00 TL",Menüler,15.0
+846b5981-6cbe-4ff2-a2de-c72ea04025be,2'li Klasik Burger Menü,"36,00 TL",Menüler,13.0
+e76b96bc-851b-41c1-8b93-975b286d2885,2'li Double Burger Menü,"52,00 TL",Menüler,13.0
+4f4b3dc0-ccb8-4938-9864-08103515d9f2,2'li Eko Burger Menü,"26,00 TL",Menüler,13.0
+12bfb504-e94a-45e3-8228-1e9d79f67316,2'li Eko Double Burger Menü,"37,00 TL",Menüler,13.0
+478dcbca-a55d-4a1b-896a-f9d25e8ec0ad,2'li Tavuk Burger Menü,"27,00 TL",Menüler,15.0
+d09198e3-7c8c-42bb-95b8-85d57483f630,Lokma (6 Adet),"14,00 TL",Lokmalar,12.0
+1e2fc7b2-2e99-4eaf-84b2-18a30eea8115,Lokma (8 Adet),"18,00 TL",Lokmalar,7.0
+f9ca5cb3-b70f-4dc1-bbd2-3530adb7f9d6,Lokma (10 Adet),"22,00 TL",Lokmalar,12.0
+5785be2e-4501-4a47-a983-95efd79afb6b,Waffle,"18,00 TL",Tatlılar,16.0
+def939f1-8a8e-4075-90e7-563de30dbe3a,Katmer,"18,00 TL",Tatlılar,5.0
+5c05f0af-3f4a-44a1-b98d-ce15293d5616,Klasik Burger,"14,00 TL",Burgerler,11.0
+3baf96f5-10af-4a4d-86e0-0cc1bcf8b0f0,Double Burger,"22,00 TL",Burgerler,11.0
+fcd9f83e-bedd-47fa-8b05-9240335860e7,Eko Burger,"10,00 TL",Burgerler,11.0
+8c3f3690-aa8d-49af-adb2-e4f6966dc1ed,Eko Double Burger,"14,00 TL",Burgerler,11.0
+275d79d5-2d5b-47b6-a232-95165118708d,Tavuk Burger,"10,00 TL",Burgerler,13.0
+2036aea1-c6eb-469f-90ca-36d9739c236b,Patates Kızartması (150 gr.),"4,00 TL",Yan Ürünler,5.0
+bf22bf3a-b5dc-4bb3-98d8-15e9f333296e,Patates Kızartması (200 gr.),"5,00 TL",Yan Ürünler,5.0
+9477a69e-6573-4d7c-a8b7-cb2a8ea96987,Patates Kızartması (250 gr.),"6,00 TL",Yan Ürünler,5.0
+a59e7fb6-cb4f-46c5-9911-7393f65ffecf,Patates Kızartması (300 gr.),"7,00 TL",Yan Ürünler,5.0
+13b6e2f0-7d68-4b1a-a3b0-5659ecd39d5d,Soğan Halkası (6 Adet),"4,00 TL",Yan Ürünler,5.0
+40a190fd-3787-40c4-9063-6c05bb834764,Soğan Halkası (8 Adet),"5,00 TL",Yan Ürünler,5.0
+641b45d0-c7c4-44bd-92d9-2aa9d1d3ea8c,Soğan Halkası (10 Adet),"6,00 TL",Yan Ürünler,5.0
+6df25318-bed7-4f2c-9e14-4c8db53df7cd,Tavuk Nugget (6 Adet),"5,00 TL",Yan Ürünler,6.0
+5839ecb8-958e-4fa1-af0a-8151deded09d,Tavuk Nugget (8 Adet),"6,00 TL",Yan Ürünler,6.0
+d34153c9-f896-40a9-a1d6-893cb14b2ed9,Tavuk Nugget (10 Adet),"7,00 TL",Yan Ürünler,6.0
+5a8b674f-69a9-4943-84d6-59dbb4ae3518,Sigara Böreği (6 Adet),"5,00 TL",Yan Ürünler,5.0
+28ff9ebd-e94b-406f-9dcb-6f7a6c7a4ea0,Sigara Böreği (8 Adet),"6,00 TL",Yan Ürünler,5.0
+7c047525-fa4e-46a9-86a0-865f9b35255f,Sigara Böreği (10 Adet),"7,00 TL",Yan Ürünler,5.0
+10bb80e1-67f7-4108-8458-f5febfe38894,Cordon Bleu (2 Adet),"8,00 TL",Yan Ürünler,5.0
+df2189b2-5caa-4a6e-84bc-bd0da8490525,Cordon Bleu (3 Adet),"10,00 TL",Yan Ürünler,5.0
+93d8843c-f790-4136-86e6-373b6c7e3e6c,Tavuk Schnitzel (2 Adet),"6,00 TL",Yan Ürünler,7.0
+bf5b37f6-b219-4da5-b9df-1f4c2e407589,Tavuk Schnitzel (3 Adet),"8,00 TL",Yan Ürünler,7.0
+8da26f17-eb49-4d10-b226-507b11c0d2dc,Schweppes (25 cl.),"5,00 TL",İçecekler,5.0
+ab8f7dbf-c3d4-47b4-9274-680431ba8fcf,Poşet,"0,25 TL",Poşet,5.0

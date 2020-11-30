@@ -1,0 +1,49 @@
+food_id,food_name,food_price,food_category,food_score
+032d790c-ccf1-44dc-9ac5-eb341f75620b,Algida Menüsü (2 Lahmacun),"31,00 TL",Dodurmalı Menüler,5.0
+87376bad-ce3e-487d-b915-40a7368832eb,Algida Menüsü (Kıymalı Kaşarlı Pide),"25,00 TL",Dodurmalı Menüler,5.0
+2446dc00-05ce-4a81-a01b-72995717ada9,Algida Menüsü (Kuşbaşı Kaşarlı Pide),"32,00 TL",Dodurmalı Menüler,5.0
+034f993b-52a7-4dc8-81ee-b12cc084eb3d,Algida Menüsü (Kıymalı Yumurtalı Pide),"28,00 TL",Dodurmalı Menüler,5.0
+449851a7-84bc-4c72-a241-8295d1aeb470,Dondurmalı Menü 5,"22,00 TL",Dodurmalı Menüler,5.0
+c3d8a74c-f669-45bd-a361-331556ddb8d8,Dondurmalı Menü 6,"30,00 TL",Dodurmalı Menüler,7.0
+940cfa88-a791-4350-bc11-af4ebf28d0e6,Dondurmalı Menü 7,"29,00 TL",Dodurmalı Menüler,5.0
+9ace77e3-770d-461e-971b-747eee3dbc2d,Menü 1,"66,00 TL",Menüler,10.0
+0ac2e514-a526-480a-8b66-8c15c59cf09b,Menü 2,"50,00 TL",Menüler,6.0
+44f946fa-054a-4870-9639-9d93d8838abc,Menü 3,"70,00 TL",Menüler,2.0
+435a16ca-78cd-4698-b7b4-c3ba4a6aa324,Menü 4,"75,00 TL",Menüler,5.0
+aa8ac0f9-3812-4d27-9a3f-f30bf1d8ea7a,Menü 5,"40,00 TL",Menüler,5.0
+c5cc796c-e824-4d68-981e-583bbf4e6e7d,Menü 6,"110,00 TL",Menüler,7.0
+c1ac65f4-24e6-4bac-abda-e5ceb8b86d69,Menü 7,"50,00 TL",Menüler,5.0
+f50b931f-4d8d-4c57-9ded-593e505d99bc,Menü 8,"88,00 TL",Menüler,5.0
+97d14929-e605-4dd7-a946-e7a5859ce9ae,Menü 9,"30,00 TL",Menüler,6.0
+035f8d29-3dc0-4f20-9f48-5e78b209a127,Menü 10,"18,00 TL",Menüler,5.0
+6b0cdca6-9949-435b-9fd0-030bbf777276,Menü 11,"60,00 TL",Menüler,5.0
+d48ed3d0-8552-493d-bafe-48b6cc8a1161,Menü 12,"60,00 TL",Menüler,5.0
+aead53ae-6dc1-4bbf-8c8c-c04d60a5fb3a,Lahmacun,"11,00 TL",Fırın Ürünleri,10.0
+ba978f17-8795-4551-bad6-008b9f12369f,Nazilli Gülü (3 Adet),"20,00 TL",Fırın Ürünleri,5.0
+0d148962-6c02-4f3c-ae42-9e62badcf555,Kıymalı Kaşarlı Lahmacun,"13,00 TL",Fırın Ürünleri,5.0
+87b333fe-a491-4d43-ae1e-828119e9b096,Kıymalı Pide,"15,00 TL",Fırın Ürünleri,4.0
+303140b2-1cd2-4bdf-b294-7536692cc916,Kaşarlı Pide,"16,00 TL",Fırın Ürünleri,4.0
+bf2a21bf-9416-49de-9363-a4bfc12f6fba,Kuşbaşılı Pide,"22,00 TL",Fırın Ürünleri,6.0
+feff5071-d92a-46b0-a651-56818c69af7a,Ispanaklı Peynirli Pide,"15,00 TL",Fırın Ürünleri,4.0
+c27f3cc6-eeec-4a72-bf82-5be3dcbb5e68,Peynirli Pide,"15,00 TL",Fırın Ürünleri,4.0
+b5515d88-c935-4364-a30c-d222f3b85286,Kuşbaşılı Kaşarlı Pide,"22,00 TL",Fırın Ürünleri,6.0
+b63a6217-c049-45ad-9d0b-591593fb52f6,Kıymalı Kaşarlı Pide,"17,00 TL",Fırın Ürünleri,9.0
+0029e4c4-82af-46bf-816c-3a2b5ffca35e,Mantarlı Kaşarlı Pide,"17,00 TL",Fırın Ürünleri,4.0
+48861824-1348-49df-baea-0e2aa89c2206,Sucuklu Kaşarlı Pide,"17,00 TL",Fırın Ürünleri,4.0
+539b5465-c443-4a72-93a2-d7d2fe665d90,Salamlı Kaşarlı Pide,"17,00 TL",Fırın Ürünleri,4.0
+dbb04026-e736-4c37-adf1-0275cba94769,Tavuklu Kaşarlı Pide,"17,00 TL",Fırın Ürünleri,4.0
+8544df28-0c48-473d-8984-755ea09b5c04,Karışık Pizza,"20,00 TL",Fırın Ürünleri,5.0
+f99478a6-f72a-49df-a164-4e13e48bed4a,Adana Kebap,"30,00 TL",Kebaplar,7.0
+fa573eb3-3ecf-4209-ba65-ae86479ec6bd,Urfa Kebap,"30,00 TL",Kebaplar,5.0
+3124bc70-adcd-48e2-8452-1ba7bdebf655,Kiremitte Köfte,"25,00 TL",Spesiyaller,5.0
+62e3703f-5dc7-4c79-96ed-d405778ee884,Kiremitte Kaşarlı Köfte,"25,00 TL",Spesiyaller,5.0
+eae54db2-4d8d-4fe4-a6b9-94889b48cf72,Kiremitte Tavuk Sote,"25,00 TL",Spesiyaller,5.0
+545966ed-98f4-42cd-9375-2e890d33121b,Kiremitte Kaşarlı Tavuk Sote,"25,00 TL",Spesiyaller,5.0
+f329ec65-08ef-4976-a9af-d3e48e81855a,Kiremitte Tavuk Şiş,"25,00 TL",Spesiyaller,5.0
+31dc66a1-2f39-4fdf-93df-c635c4a840f8,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"11,00 TL",Dondurmalar,5.0
+4c40550e-899e-4854-9501-11ce592ce6f4,Carte d'Or Dondurmalı Volcano,"12,00 TL",Dondurmalar,5.0
+fa753f7f-8c4a-4726-b220-9e6a3b308e4f,Algida Maraş Usulü Cup Dondurma (100 ml.),"5,00 TL",Dondurmalar,5.0
+129f31bb-1d55-482f-998d-dab6222975cb,Künefe,"15,00 TL",Tatlılar,5.0
+3029f65a-63cb-4aa4-9968-592e2577becc,Tahinli Pide,"18,00 TL",Tatlılar,4.0
+44dff566-64f1-4dad-87e3-e9e9dc8289c3,Su,"1,00 TL",İçecekler,5.0
+3817ae88-4ec4-462c-bc13-7b90401268a5,Poşet,"0,25 TL",Poşet,5.0

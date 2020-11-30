@@ -1,0 +1,20 @@
+food_id,food_name,food_price,food_category,food_score
+8dac3144-af8a-40b8-8b7e-0aef1b730d3c,Menü 1,"16,00 TL",Menüler,13.0
+9a979275-90c6-44d9-ad9c-7abedeb4db72,Menü 2,"18,00 TL",Menüler,10.0
+ddf7886a-e24d-4799-8b45-6e0f6a1f174c,Menü 3,"19,00 TL",Menüler,8.0
+813f8492-c2f3-429e-b302-ccafe93cd475,Menü 4,"21,00 TL",Menüler,2.0
+ca5c6415-ccc6-4b0e-9098-cbaa644160cb,Menü 5,"19,00 TL",Menüler,-2.0
+4d0c4058-c126-4fb8-bfcd-5df275618d59,Menü 6,"21,00 TL",Menüler,3.0
+3b4dde8c-58ff-4d0f-8f35-b477bbce51ba,Menü 7,"22,00 TL",Menüler,7.0
+b8114efd-6cb1-42b7-8648-f3e34150f2b9,Menü 8,"24,00 TL",Menüler,1.0
+a8b9eac3-7cc8-436e-b7f7-30d11a17d33b,Süper İkili Menü,"26,00 TL",Menüler,12.0
+1b2d53cb-9322-4539-b5e2-f3c4f40b597e,Süper Dörtlü Menü,"54,00 TL",Menüler,12.0
+17c3cd48-3dd8-4eed-8246-0134260a947b,Çocuk Menüsü 1,"12,00 TL",Menüler,13.0
+5bc3848a-91be-4031-bf58-4e1bd3fb620c,Tavuk Döner Dürüm,"11,00 TL",Tavuk Dönerler,13.0
+6add9b99-d99d-4a24-94e0-9d6ec8621cbb,Zurna Tavuk Döner Dürüm,"13,50 TL",Tavuk Dönerler,16.0
+71a58bf5-f0a8-42a5-9d95-b0dd0773522e,Cheddarlı Tavuk Döner Dürüm,"13,00 TL",Tavuk Dönerler,12.0
+ac299aba-0ef0-405e-add3-fe7e01d13eca,Tavuk Döner,"19,00 TL",Tavuk Dönerler,5.0
+ccfe17f7-b4bc-4d9d-bf67-e5bd49b99cfb,Cheddarlı Zurna Tavuk Döner Dürüm,"17,50 TL",Tavuk Dönerler,20.0
+0bfda6cd-0ccb-4912-b7e7-d20dc4167d19,Patates Kızartması,"5,00 TL",Yan Ürünler,6.0
+03d1ea67-bec1-40d0-bc76-05299be8ccae,Sütaş Tatlım,"4,00 TL",Tatlılar,5.0
+e3a19862-8242-45a4-bd05-ef26261c7240,Poşet,"0,25 TL",Poşet,5.0

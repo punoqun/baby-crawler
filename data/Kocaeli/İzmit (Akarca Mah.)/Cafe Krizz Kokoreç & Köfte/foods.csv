@@ -1,0 +1,48 @@
+food_id,food_name,food_price,food_category,food_score
+1647f5dc-dfa1-40a7-861c-f44ad075e940,Kokoreç,"55,00 TL",Kokoreçler,1.0
+4f10aee7-fd5e-4d24-be5d-4933d7a959e0,Çeyrek Ekmek Arası Kokoreç,"12,00 TL",Kokoreçler,1.0
+6c935eec-56d0-4a5c-88d4-3db3c3030203,Yarım Ekmek Arası Kokoreç,"20,00 TL",Kokoreçler,6.0
+dbcdcc47-4d48-43a4-b6b5-7314eb8c9ce6,3/4 Ekmek Arası Kokoreç,"28,00 TL",Kokoreçler,1.0
+fc12d95e-48fa-445c-920a-28f31a53b426,Tam Ekmek Arası Kokoreç,"40,00 TL",Kokoreçler,1.0
+703c3c4a-7de2-4564-9b6b-7514d54c0b97,Kaşarlı Köfte,"27,00 TL",Köfteler,5.0
+ae7032b7-7a99-4fdb-b54a-b48c929f0aff,Izgara Köfte,"25,00 TL",Köfteler,5.0
+175d8b74-3431-46fc-a26c-c1e82a5a25bf,Çeyrek Ekmek Arası Köfte,"9,00 TL",Köfteler,5.0
+c8ea8e61-adc6-41e9-b9de-845a03c86751,Yarım Ekmek Arası Köfte,"14,00 TL",Köfteler,10.0
+acdf6b0e-dad6-4be1-9a73-ad481e86cf11,3/4 Ekmek Arası Köfte,"19,00 TL",Köfteler,5.0
+9bb762bc-e32b-406e-a597-e482da08ef5e,Tam Ekmek Arası Köfte,"23,00 TL",Köfteler,5.0
+4af94959-029b-451d-9f3b-0d65389d9c29,Çeyrek Ekmek Arası Kaşarlı Köfte,"10,00 TL",Köfteler,5.0
+beb94948-883b-47d0-8e88-cd3f7ad90e8d,Yarım Ekmek Arası Kaşarlı Köfte,"16,00 TL",Köfteler,5.0
+f4ed3584-eaac-432f-9645-64aeeef9890f,3/4 Ekmek Arası Kaşarlı Köfte,"21,00 TL",Köfteler,5.0
+fa852db7-2624-43ea-880e-2af7d0d82f87,Tam Ekmek Arası Kaşarlı Köfte,"25,00 TL",Köfteler,5.0
+cefdea2b-d783-45dd-ace8-212d224e8206,Izgara Sucuk,"30,00 TL",Izgaralar,5.0
+d14469c5-5c61-412c-881c-b80232400c41,Izgara Tavuk Pirzola,"22,00 TL",Izgaralar,6.0
+ca85b892-d2b8-49a9-8a27-a140a9a4bcc3,3/4 Ekmek Arası Sucuk,"22,00 TL",Ekmek Arası Ürünler,5.0
+b15da4d1-f6c0-4f88-a478-f393fdff56b2,3/4 Ekmek Arası Tavuk Pirzola,"15,00 TL",Ekmek Arası Ürünler,11.0
+a2ded106-4fbc-4c3a-bae3-5951970f462c,Çeyrek Ekmek Arası Sucuk,"10,00 TL",Ekmek Arası Ürünler,5.0
+db2b115b-561b-4cf1-bdb2-f4d3f2174b9f,Tam Ekmek Arası Sucuk,"28,00 TL",Ekmek Arası Ürünler,5.0
+841267ce-2de0-404c-8da4-cc6f8d56e703,Tam Ekmek Arası Tavuk Pirzola,"20,00 TL",Ekmek Arası Ürünler,6.0
+f7520192-67d2-4acb-aa75-2e63dc47a8ab,Yarım Ekmek Arası Karışık Patso,"12,00 TL",Ekmek Arası Ürünler,5.0
+92d3c67f-f0f1-4d88-9b25-2036d8e54276,Yarım Ekmek Arası Kaşarlı Patso,"9,00 TL",Ekmek Arası Ürünler,5.0
+af3d7b7e-3a83-4282-9ff7-bd63979aebd1,Yarım Ekmek Arası Sade Patso,"7,50 TL",Ekmek Arası Ürünler,5.0
+fff8740e-1184-4fd4-a144-11a933f6b6d8,Yarım Ekmek Arası Sosisli Patso,"10,00 TL",Ekmek Arası Ürünler,5.0
+0722b3fb-7253-4e4f-836f-ddb3eca54aa6,Yarım Ekmek Arası Sucuk,"16,00 TL",Ekmek Arası Ürünler,5.0
+363be9e4-7efe-4df2-98ad-4204beec606c,Yarım Ekmek Arası Tavuk Nugget,"8,00 TL",Ekmek Arası Ürünler,6.0
+c73d5bb2-a5a1-417c-9b46-db383a35f14a,Yarım Ekmek Tavuk Pirzola,"10,00 TL",Ekmek Arası Ürünler,6.0
+6807a8d6-beba-454c-9368-15fe00e1f5e5,Midye Dolma (10 Adet),"15,00 TL",Midye Dolmalar,4.0
+a4855d5f-43fc-4546-91ea-413a5aedf073,Midye Dolma (20 Adet),"28,00 TL",Midye Dolmalar,4.0
+cdfec069-6b79-466d-a938-4e29afd3bc6b,Midye Dolma (30 Adet),"42,00 TL",Midye Dolmalar,4.0
+d1741c20-0876-4dd0-b382-a32ca6fba994,Midye Dolma (50 Adet),"67,50 TL",Midye Dolmalar,4.0
+7726720b-611b-4c71-8148-439ffe4a0e4e,Midye Dolma (80 Adet),"100,00 TL",Midye Dolmalar,4.0
+169d7636-573b-4d58-9072-678e3294b9e1,Midye Dolma (100 Adet),"125,00 TL",Midye Dolmalar,4.0
+c9d3c191-5ddb-4c94-846e-ff8f2383d786,Patates Kızartması,"7,00 TL",Yan Ürünler,5.0
+A27D6F1F-7289-4D00-A767-7C7A289EF9A9,Fuse Tea (20 cl.),"3,00 TL",İçecekler,5.0
+1EC106A7-025D-4809-9647-ABDD5CE36FCA,Aroma Meyve Suyu (20 cl.),"2,50 TL",İçecekler,5.0
+2A151306-88BC-40F2-B4B5-45D6AB99DF38,Niğde Gazozu (25 cl.),"3,00 TL",İçecekler,5.0
+2d6ef9d9-2529-4793-b4e1-4645f1b542b3,Limonata (33 cl.),"3,50 TL",İçecekler,5.0
+3b49caa8-37fa-4e1d-84e1-d76c5d6b7317,Limonata (1 L.),"6,50 TL",İçecekler,5.0
+70a91cee-36d5-4131-a8d2-b60bb7302533,"Su (1,5 L.)","3,00 TL",İçecekler,5.0
+f4ea5407-be35-46c5-bddd-c256af09a5a2,"Fanta (2,5 L.)","8,50 TL",İçecekler,5.0
+11b3cd2a-9366-4b74-b5ca-de4cff86c3cc,Izgara Köfte (1 kg.) (Pişirilmiş),"85,00 TL",Kiloluk Ürünler,5.0
+846ad4fd-ebe3-4512-9ebe-6ecf0f6ffec3,Kaşarlı Köfte (1 kg.) (Pişirilmiş),"85,00 TL",Kiloluk Ürünler,5.0
+c9c6a73f-9b1f-4eee-a66f-efaf2f2596fc,Izgara Tavuk Pirzola (1 kg.) (Pişirilmiş),"45,00 TL",Kiloluk Ürünler,6.0
+f116f36e-3d95-41d9-9bd5-82a833c05a94,Poşet,"0,25 TL",Poşet,5.0

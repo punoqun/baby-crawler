@@ -1,0 +1,14 @@
+food_id,food_name,food_price,food_category,food_score
+331ae0de-cf15-4feb-a0c4-96a2576e7ceb,Orta Boy Pizza Menü,"33,90 TL",Ekonomik Menüler,10.0
+aa694bd3-47df-45b2-bf6f-fa98c71d66fc,Büyük Boy Pizza Menü,"41,90 TL",Ekonomik Menüler,9.0
+804bd8a1-8a9e-4776-a7ba-e96aa156b6c1,2 Büyük Boy Pizza Menü,"66,90 TL",Ekonomik Menüler,-5.0
+81183e80-40fc-42db-9b22-f4ed677d76b3,Mantarlı Pizza (Orta),"39,90 TL",Orta Boy Pizzalar (30 cm.),10.0
+d437ae0d-c4cb-4533-bff6-55caab06d51d,Sucuklu Pizza (Orta),"42,90 TL",Orta Boy Pizzalar (30 cm.),6.0
+cd0f009d-d223-4ea8-80b0-f2d317f071c0,Sosisli Pizza (Orta),"42,90 TL",Orta Boy Pizzalar (30 cm.),10.0
+0aa4d3de-e529-4175-adf9-19991fc76e42,Salamlı Pizza (Orta),"42,90 TL",Orta Boy Pizzalar (30 cm.),10.0
+7c57d0eb-7791-4061-a3ce-eef5a36c6a2d,Mantarlı Pizza (Büyük),"46,90 TL",Büyük Boy Pizzalar (36 cm.),10.0
+9f94ddf8-8222-4417-85d7-d470cf3a0e09,Sucuklu Pizza (Büyük),"52,90 TL",Büyük Boy Pizzalar (36 cm.),6.0
+2978fefb-1f4f-4eda-9408-b92d46f64f6f,Sosisli Pizza (Büyük),"52,90 TL",Büyük Boy Pizzalar (36 cm.),10.0
+ad488762-d097-443b-8e2a-cf46e72081e1,Salamlı Pizza (Büyük),"52,90 TL",Büyük Boy Pizzalar (36 cm.),10.0
+d1773a5d-b55a-4532-aa9c-c576c344d9ab,Su,"2,00 TL",İçecekler,1.0
+fee15f92-cc5c-4ec2-ae8d-6b829ee6401d,Poşet,"0,25 TL",Poşet,5.0

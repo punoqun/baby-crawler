@@ -1,0 +1,150 @@
+food_id,food_name,food_price,food_category,food_score
+93f687ff-5465-490e-8e45-d5fbc71ad790,Beef Bento 1,"69,00 TL",Menüler,7.0
+f64bf07a-3cda-4fc9-ab09-9c4ce9d4fada,Niku Bento 2,"69,00 TL",Menüler,12.0
+cc7fa6bf-10d4-4f1c-b333-7a9ce5798db1,Chicken Bento 4,"64,00 TL",Menüler,4.0
+0ee9ee83-90f1-4d4c-8e91-9a3238a6083a,Duck Bento 6,"89,00 TL",Menüler,3.0
+759a8d86-054b-48a0-b148-44259d0785f1,Tempura Bento 8,"119,00 TL",Menüler,4.0
+0F7A96F2-4D80-4A36-80A4-58159F06A96F,Hot Sushi Plate (14 Pcs) Menü,"89,00 TL",Sushi Setleri,14.0
+81c4d1ab-e9c6-4460-b6b9-fe0cbb05c9d7,Salmon Dream (16 Pcs.),"99,00 TL",Sushi Setleri,5.0
+ca4be357-8f6e-4436-82a0-dc3f0e291a8e,Sakemania (20 Pcs.),"119,00 TL",Sushi Setleri,5.0
+b294a3e0-551d-47ca-8f49-7e9dd99b2f7f,Non-Fishy Sushi (22 Pcs.) Menü,"124,00 TL",Sushi Setleri,14.0
+4B5F2B91-6735-4957-9070-79405C0CF7BE,Hot Sushi Plate 2 (24 Pcs.),"139,00 TL",Sushi Setleri,20.0
+f20c58ca-0a40-46a3-8da8-5cb223b3a9fb,41 Kere Sushi,"219,00 TL",Sushi Setleri,12.0
+11b4bf6d-0b4a-460e-8bee-b4b575348559,Big Mom (71 Pcs.) Menü,"349,00 TL",Sushi Setleri,7.0
+1fe72ebf-1931-437e-9d59-8e6c0e7d67f1,Shanghai Tavuk / Shanghai Chicken,"49,00 TL",Beyaz Etler,19.0
+c38cd24f-9a5e-4261-bd70-4fb0fa6cd05b,Acılı Tavuk / Hot Chicken,"49,00 TL",Beyaz Etler,19.0
+47066e2e-0c68-4b32-8503-85673936f8c0,Çıtır Patlıcanlı Tavuk / Crispy Eggplant Chicken,"49,00 TL",Beyaz Etler,21.0
+480028d2-1f61-4675-b9d4-f06e3df1bf27,İstiridye Soslu Dana Eti / Beef with Oyster Sauce,"55,00 TL",Kırmızı Etler,10.0
+85f91bcc-415d-4231-9fcc-2bd0cf857a70,İnce Kıyım Biberli Dana Eti / Fine Ground Pepper Beef,"59,00 TL",Kırmızı Etler,9.0
+1a9530e0-5351-420a-8c04-a77c53c31410,Körili Dana Eti / Beef Curry,"55,00 TL",Kırmızı Etler,9.0
+d2aa906c-42bc-4b0f-8663-1e15c8168d03,Hanoi Acılı Karışık Sebze / Hanoi Hot Mixed Vegetable,"29,00 TL",Sebzeler,9.0
+a5096b13-3722-4732-9a7b-bf681adf0cc6,Sarımsak Soslu Brokoli / Broccoli with Garlic Sauce,"29,00 TL",Sebzeler,10.0
+26ce6159-d66f-494a-b82b-9b6489f41ab0,Edamame & Kuşkonmaz Sote / Sauteed Edamame Asparagus,"34,00 TL",Sebzeler,9.0
+50098091-3f01-4ae0-9fce-db3d6bb854e5,Tatlı Ekşi Soslu Somon / Salmon with Sweet Sour Sauce,"54,00 TL",Deniz Mahsulleri,10.0
+d6eec1a2-05b7-414e-b5eb-7729e253c791,Acı Soslu Karides / Shrimp with Hot Sauce,"54,00 TL",Deniz Mahsulleri,10.0
+7a283cdf-554a-46b7-a90c-d78cd063b359,Zencefilli Çıtır Levrek / Ginger Crispy Sea Bass,"54,00 TL",Deniz Mahsulleri,11.0
+9af02b87-1c7e-42ae-a45f-8c26bea66d7c,Acılı Sebzeli Levrek / Spicy Vegetable Sea Bass,"59,00 TL",Deniz Mahsulleri,9.0
+6270d52c-d84f-4ac3-aa3a-a501b1d60843,Mathiatus Karides / Mathiatus Shrimp,"79,00 TL",Deniz Mahsulleri,9.0
+95f2de2a-8e82-4872-8268-985aa5574e72,Kuşkonmazlı Bangkok Usulü Fıstıklı Karides / Bangkok Style Pistachio Shrimp with Asparagus,"79,00 TL",Deniz Mahsulleri,10.0
+96dad5b4-d619-401d-9f6b-8a59a89e160f,Kızarmış Pekin Ördeği (Çeyrek) / Fried Duck Quarter,"74,00 TL",Ördekler,9.0
+1813bdaf-9953-40f6-ab97-a0d0f60b680e,Sebzeli Acılı Ördek / Spicy Duck with Vegetables,"80,00 TL",Ördekler,10.0
+5ddc8ad9-1e5c-419f-8dfe-2f49a0be1c2c,Ace Lux Nigiri Mix (12 Pcs.),"149,00 TL",Nigiris,6.0
+8d561c1e-2000-44d2-b32e-c79b160da7c3,Sake Set (12 Pcs.),"139,00 TL",Nigiris,5.0
+cf438c6d-91c5-4725-9566-130df2009797,Tuna Set (12 Pcs.) / Tuna Set,"139,00 TL",Nigiris,9.0
+6e1c04e9-f8ac-4a4f-a52d-66d0407b6ec5,Sake & Maguro Set (12 Adet),"89,00 TL",Sashimis,5.0
+b6c60146-e13a-4f83-a0c5-36d9b41e62db,Unangi & Sake Set (12 Adet),"109,00 TL",Sashimis,5.0
+1bb74cc8-7248-464c-ad96-8d0950881d32,Sashimi Mix (12 Adet),"99,00 TL",Sashimis,7.0
+93000462-d30c-4e19-9030-72825a3b6489,Luffy Beef Roll (8 Pcs.),"57,00 TL",Special Rolls,5.0
+4a88e097-6d1a-4b07-825f-2c30b299fa4f,Teriyaki Chicken Sushi Roll (8 Pcs.),"49,00 TL",Special Rolls,12.0
+8bcf4d11-7de0-4aa0-9384-daf95ba38114,Ace İstanbul Roll (5 Pcs.),"54,00 TL",Special Rolls,4.0
+77124985-2720-43c3-975c-ccd9a4815c4d,Fish & Chips Roll (6 Pcs.),"50,00 TL",Special Rolls,5.0
+255510f2-e971-47b7-ab5a-9097f59416f2,Dragon California Roll (6 Pcs.),"60,00 TL",Special Rolls,8.0
+ed697e91-a05f-4b44-a809-5d2c9b63f559,Şef Wichit Roll (8 Pcs.) / Chef Wichit Roll,"52,00 TL",Special Rolls,9.0
+40f2d6b0-39ff-4aa1-8eb7-408423b61727,Robin Roll (8 Pcs.),"52,00 TL",Special Rolls,5.0
+14594864-5333-4cc1-bd68-c9ddb7b20459,Sanji Philly Roll (8 Pcs.),"59,00 TL",Special Rolls,5.0
+7f12e28f-b946-4a7e-af61-1917b46df263,Franky Roll (8 Pcs.),"50,00 TL",Special Rolls,5.0
+dc5e0d95-7aa2-4179-933e-a36450078d30,Chopper Mango Roll (6 Pcs.),"55,00 TL",Special Rolls,5.0
+3feb0b6e-bd5e-4694-be3d-6c8f521bc26b,Mango Roll (8 Pcs.),"55,00 TL",Special Rolls,5.0
+7a420044-7cb3-4dfa-820b-8d26b389539f,Sake Ten Roll (6 Pcs.),"39,00 TL",Special Rolls,5.0
+9c874073-fcd8-4d7c-9059-d011fb24fc8b,Gotham Roll (6 Pcs.),"55,00 TL",Special Rolls,5.0
+cb10a684-a546-4a05-94b0-8b62b672f282,Dynamite Roll (6 Pcs.),"39,00 TL",Special Rolls,5.0
+c32f4148-263d-4c43-a547-a4c2efea972d,Philadelphia Roll (8 Pcs.),"40,00 TL",Special Rolls,10.0
+db934415-9fc1-4670-9a92-e956fd715e65,San Diego Roll (6 Pcs.),"40,00 TL",Special Rolls,5.0
+bf73ed42-bc7c-40e7-bc48-24ff489b7fba,Ace Tiger Roll (5 Pcs.),"44,00 TL",Special Rolls,4.0
+cc9e7e84-cd93-4197-a6f2-8b0893b1ab87,Canadian Roll (6 Pcs.),"40,00 TL",Special Rolls,5.0
+70b2466a-ee7d-4042-b7d6-dd1fdea82e95,Crunchy Roll (5 Pcs.),"49,00 TL",Special Rolls,5.0
+36f07134-a3f7-4f28-b33e-9f50d3c27cc7,Ebi California Roll (8 Pcs.),"49,00 TL",Special Rolls,8.0
+e1c749e5-e996-44d7-a919-3a5b77447615,Rainbow Roll (6 Pcs.),"44,00 TL",Special Rolls,5.0
+fd73239c-1b9e-4543-8c98-74381ddbdcc8,Ninja Roll (6 Pcs.),"49,00 TL",Special Rolls,5.0
+f635d1d6-2d04-46af-9346-164e7e86b2b4,Ebi Ten Roll (5 Pcs.),"44,00 TL",Special Rolls,5.0
+1eb6264e-a286-4634-9bee-8e9de9130b33,Samurai Roll (8 Pcs.),"44,00 TL",Special Rolls,6.0
+e3a3c809-503d-45b3-a65f-1595453fa5e1,Sesame California Roll (8 Pcs.),"37,00 TL",Special Rolls,7.0
+cb98f374-a61e-4da7-b6bf-3070386038c5,Fish & Chips,"54,00 TL",Dim Sum,5.0
+74e54960-9525-4bea-b845-167bb8d39994,Chicken & Chips,"37,00 TL",Dim Sum,5.0
+9ec76eab-f013-4fdf-98d9-7cceb4e884da,Mu Shu Tavuklu / Mu Shu Chicken & Pancake,"54,00 TL",Mu Shu,28.0
+27649af5-cb73-4c6c-96f8-c867453fad22,Mu Shu Dana Etli / Mu Shu Beef & Pancake,"59,00 TL",Mu Shu,19.0
+9da94535-2040-4524-84a8-833f3b62c2d5,Mu Shu Deniz Mahsullü / Mu Shu Seafood & Pancake,"74,00 TL",Mu Shu,18.0
+94f4f2cb-121e-4de0-a644-c1e077df2641,Unagi Lux Donburi,"99,00 TL",Donburi,5.0
+2be67775-2865-4203-812f-8c8f85fd787c,Ördek Donburi / Duck Donburi,"69,00 TL",Donburi,9.0
+c62f3360-c00c-43e1-b384-0b530ddc73e3,Shrimp Poke Bowl,"56,00 TL",Donburi,5.0
+00ec321b-a917-4458-ab0d-adde75c11b48,Salmon Poke Bowl,"56,00 TL",Donburi,5.0
+81eca504-646d-47a9-8244-5d1c8a914581,Chili Karides Donburi / Chili Shrimp Donburi,"34,00 TL",Donburi,9.0
+f8abef07-badd-441a-8dd8-fe71327198fc,Ace Peynirli Erişte / Ace Cheese Handmade Noodle,"27,00 TL",Özel Ace Hamuruyla Hazırlanmış Erişteler,14.0
+f7939998-cb9b-4113-805f-b7beffc84576,Ace Tavuklu Erişte / Ace Chicken Handmade Noodle,"30,00 TL",Özel Ace Hamuruyla Hazırlanmış Erişteler,24.0
+06fec68f-90f9-4606-be04-467e4911f2e7,Ace Karidesli Erişte / Ace Shrimp Handmade Noodle,"44,00 TL",Özel Ace Hamuruyla Hazırlanmış Erişteler,14.0
+c3a7f686-289b-44a2-a148-71c3c0a52e4b,Ace Mix Mantarlı Erişte / Ace Mix Mushroom Handmade Noodle,"49,00 TL",Özel Ace Hamuruyla Hazırlanmış Erişteler,17.0
+1ef6a710-8cb4-4b5b-b15e-b20a3365d163,Ace Dana Etli Erişte / Ace Beef Handmade Noodle,"33,00 TL",Özel Ace Hamuruyla Hazırlanmış Erişteler,15.0
+16a08206-b884-4ebd-b107-71dc227f0f5e,Italian Style Ace Erişte / Italian Style Ace Noodle,"50,00 TL",Özel Ace Hamuruyla Hazırlanmış Erişteler,14.0
+1cbc5801-55d3-4398-b0d1-2571fc9cf36c,Sade Noodle / Plain Noodle,"27,00 TL",Noodles,20.0
+73a2dfb1-969c-47b7-8cdd-e26cf90656a4,Karidesli Noodle / Shrimp Noodle,"44,00 TL",Noodles,20.0
+4a07d6c3-37d5-40a3-8ae7-b3dd04bf3a8b,Tatlı Ekşi Soslu Tavuklu Noodle / Sweet Sour Chicken Noodle,"49,00 TL",Noodles,30.0
+48f790c3-ad22-4dd6-8af0-2f642c200b4e,Singapur Noodle,"44,00 TL",Noodles,12.0
+81aeba21-5256-4bf0-b957-00868adaf85c,Sebzeli Ramen Noodle / Vegetable Ramen Noodle,"35,00 TL",Noodles,20.0
+a43dc7ce-8797-40fc-910b-263d3a1966fa,Tavuklu Ramen Noodle / Chicken Ramen Noodle,"40,00 TL",Noodles,30.0
+60e18fe6-a7a2-469f-ab5d-221f4221ee13,Dana Etli Ramen Noodle / Beef Ramen Noodle,"44,00 TL",Noodles,21.0
+5823638f-919c-42b9-88e8-0166bec7ab61,Karidesli Ramen Noodle / Shrimp Ramen Noodle,"49,00 TL",Noodles,20.0
+e1312a51-81bb-4b9d-acbe-403d3f2b3806,Ace Mix Ramen Noodle,"59,00 TL",Noodles,13.0
+90c43a8b-5667-4e16-bfd6-526f01c66e8c,Tavuklu Pad Thai Noodle / Chicken Vermicelli,"44,00 TL",Noodles,26.0
+e96e21f6-e23b-4012-90b4-0e8d0f10c8fd,Dana Etli Pad Thai Noodle / Beef Vermicelli,"49,00 TL",Noodles,17.0
+f141d6fc-801b-4f30-aa71-ad935ef8e05d,Karidesli Pad Thai Noodle / Shrimp Vermicelli,"53,00 TL",Noodles,16.0
+06928e4e-2366-43e6-a5ca-73c3c12db703,Ace Mix Pad Thai Noodle,"59,00 TL",Noodles,13.0
+184b3be2-ce03-4fec-b94c-b54d2c4f3f30,Mantarlı Dana Etli Udon Noodle / Mushroom And Beef Udon Noodle,"49,00 TL",Noodles,24.0
+10117ccb-3410-402c-90eb-d0031a669c43,Niku Special Udon Noodle,"49,00 TL",Noodles,14.0
+f6ca9b78-750f-45ac-b881-8169bbb29c65,Sebzeli Udon Noodle / Vegetable Udon Noodle,"44,00 TL",Noodles,23.0
+faf85035-f056-498a-aa33-5484add57fb9,Ace Mix Udon Noodle,"55,00 TL",Noodles,15.0
+bf4eaf0b-e09e-456e-9d22-0f372e1093c0,Sade Pirinç Pilavı / Plain Rice,"23,00 TL",Pilavlar,9.0
+23c76daa-4ec0-41f2-8e5b-bff39018a968,Yumurtalı Pirinç Pilavı / Egg Rice,"29,00 TL",Pilavlar,9.0
+8630da3b-6171-4d7b-aa7a-0aa67dcf66ba,Sebzeli Pirinç Pilavı / Vegetable Rice,"29,00 TL",Pilavlar,9.0
+676c1d0a-1b24-4bff-a1c9-b2c48a1f9ec6,Tavuklu Pirinç Pilavı / Chicken Rice,"31,00 TL",Pilavlar,19.0
+e0ce5a30-7c36-4d19-abfa-3ff833fcb26f,Dana Etli Pirinç Pilavı / Beef Rice,"35,00 TL",Pilavlar,10.0
+3c3db88a-6ee2-4a07-b205-53fe30be4e92,Karidesli Pirinç Pilavı / Shrimp Rice,"39,00 TL",Pilavlar,9.0
+f75c87e8-57ee-481a-9c1f-132282e9ebe5,Ace Mix Pilav / ACE Mix Rice,"59,00 TL",Pilavlar,11.0
+6a3168f3-d386-41e0-9224-3f107103669b,Sebzeli Edamameli Pilav / Rice with Vegetables and Edamame,"34,00 TL",Pilavlar,30.0
+e48828cd-1157-40b7-a33e-ccdbdd99bf6f,Delhi Fıstıklı Dana Etli Pilav / Delhi Pistachio Beef Rice,"39,00 TL",Pilavlar,10.0
+395da9a3-fc67-4cf0-ab07-ee3e43512792,Phuket Ananaslı Fıstıklı Pilav / Phuket Pineapple Rice,"34,00 TL",Pilavlar,9.0
+d416def3-3a26-4c7e-84a6-fcd7a7cb92fb,Tavuk Topları / Chicken Balls,"25,00 TL",Aperitifler,19.0
+a18c0724-512f-4193-bd62-ac587790706e,Çıtır Pane Tavuk / Crispy Breaded Chicken,"29,00 TL",Aperitifler,21.0
+ea8c253c-82b8-4f5f-8099-b64bdc677fea,Karides Topları / Shrimp Balls,"34,00 TL",Aperitifler,9.0
+c95f85fd-2126-4293-be5d-fb837a803d47,Crazy Shrimp,"34,00 TL",Aperitifler,5.0
+cb06ffaa-ba1f-4438-8173-79a93e755aa7,Çıtır Pane Somon / Crispy Breaded Salmon,"39,00 TL",Aperitifler,11.0
+50dc9935-bc49-444a-acf0-b4855554cb6a,Ponzu Soslu Somon Carpaccio / Salmon Carpaccio with Ponzu Sauce,"39,00 TL",Aperitifler,10.0
+395a1207-bf35-44a7-b562-2ac4c337feb7,Çıtır Karides / Crispy Shrimp,"44,00 TL",Aperitifler,11.0
+19f39d90-6dbd-42d3-ba7c-3a57cb717fd4,Çıtır Levrek / Crispy Sea Bass,"44,00 TL",Aperitifler,11.0
+f30b97dd-2699-4e86-9994-a20414dddfe4,Ace Peynirli Eyfel Salata / Eiffel Salad with ACE Cheese,"39,00 TL",Salatalar,7.0
+e60226f4-647c-4130-b7e9-75d4f28c717f,Ace Peynirli Izgara Niku Salata / ACE Cheese Grilled Niku Salad,"49,00 TL",Salatalar,6.0
+84350803-e1c3-4ec8-9ab8-daf1da2f1fbc,Acı Lahana Salatası / Spicy Cabbage Salad,"24,00 TL",Salatalar,9.0
+d9b7ecb3-3bf9-4f46-94ab-b17f900a0574,Yosun Salatası / Wakame Salad,"24,00 TL",Salatalar,9.0
+8ca88867-e99b-4bbb-b6d6-bdbe02ad18a5,Kani Salatası / Kani Salad,"29,00 TL",Salatalar,9.0
+4698f2e6-1fff-4d57-baf7-c088523ef14e,Soya Filizi Salatası / Soybean Sprout Salad,"29,00 TL",Salatalar,11.0
+3eb46438-8798-49df-9b1d-cd3c3f1f5ddf,Çin Salatası / Chinese Salad,"29,00 TL",Salatalar,13.0
+8bffd608-66cd-40c5-9ca6-6e368afde8fb,Kimchi Kore Salata / Kimchi Korean Salad,"33,00 TL",Salatalar,7.0
+9eeb4521-7418-48d3-92a8-32b6718a52d8,Tavuklu Thai Salata / Chicken Thai Salad,"39,00 TL",Salatalar,17.0
+f2516d8b-3a55-46a7-8945-2eb1d32c6f9a,Kimchi Noodle Salata,"40,00 TL",Salatalar,10.0
+42c878fb-32d6-4976-981a-18aa32a6cbe8,Izgara Levrek Salatası / Grilled Sea Bass Salad,"44,00 TL",Salatalar,9.0
+a2efbf89-b56e-44a3-8dba-5a74b8638e1a,Izgara Somon Salatası / Grilled Salmon Salad,"44,00 TL",Salatalar,9.0
+e16ba904-6efe-44b6-b0f2-fcfc944e0065,Sashimi Yosun Salatası / Sashimi Wakame Salad,"49,00 TL",Salatalar,9.0
+c0d306b7-d020-4ff3-8e85-dcf24ab84af8,Deniz Mahsulleri Salatası / Seafood Salad,"60,00 TL",Salatalar,9.0
+eb167337-c100-43ca-9184-35534e131dc9,BuNutella Roll,"25,00 TL",Tatlılar,5.0
+b2cd7819-cd7a-4723-b7d7-31d525066877,Balda Kızarmış Muz,"25,00 TL",Tatlılar,5.0
+94d20282-ad20-4d83-adb8-3593c2f02a66,Kızarmış Ceviz,"29,00 TL",Tatlılar,5.0
+5897eb1a-f3b8-4c8b-875f-1088d2fe5e20,Mozaik Roll,"25,00 TL",Tatlılar,5.0
+7d224646-650c-44a2-9024-58d18804531f,Carte d'Or Monoportion Çilek Yoğurt (105 ml.),"10,00 TL",Dondurmalar,5.0
+858a5559-323d-4339-8073-ce6c4a010e21,Carte d'Or Monoportion Çikolata Karnavalı (105 ml.),"10,00 TL",Dondurmalar,5.0
+1eff3502-a999-4109-8f82-d7abe056fb2a,Algida FS Cup Premium Kaymak (100 ml.),"10,00 TL",Dondurmalar,5.0
+1f7e1543-9674-49a4-81ea-674be0c1123f,Algida FS Cup Premium Çikolata (100 ml.),"10,00 TL",Dondurmalar,5.0
+f29a00bb-2e52-44c3-ac6f-e64dc12ebe98,Algida Classics Cookie Cup (105 ml.),"10,00 TL",Dondurmalar,5.0
+1f8835eb-1df9-426e-a6d2-985122d605bc,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"16,00 TL",Dondurmalar,5.0
+a956faea-78ee-4b3f-a9d0-58342bab0274,Magnum Classic Cup,"16,00 TL",Dondurmalar,5.0
+699b6da9-7630-4014-b8ee-0aa889ceef7d,Pepsi Twist (33 cl.),"7,00 TL",İçecekler,5.0
+C2BDE93D-E6B6-4137-8EC8-AE76BB5F7740,Ace Tatlı Ekşi Sos,"3,00 TL",Soslar,2.0
+6C8D8D46-6711-497B-8405-9B48C3BB34F5,Ace Acı Sos,"2,00 TL",Soslar,2.0
+6B6742E3-D6F9-499F-9DF9-6695711B5062,Ace Acılı Mayonez,"2,00 TL",Soslar,4.0
+6091F2B2-0E0B-4A70-8450-B2D561F6CD1C,Ace Sarımsak Sos,"2,00 TL",Soslar,2.0
+DB0F60ED-DFFF-4980-93A2-CCE5FF4B731F,Ace Tempura Sos,"4,00 TL",Soslar,2.0
+B5169416-D3C8-48F0-A502-A4D8DAFB1A78,Sriracha Sos,"3,00 TL",Soslar,3.0
+6851B28C-6D53-4606-9911-7938F85AE1EC,Chili Garlic Sos,"3,00 TL",Soslar,3.0
+B98349F7-CEDF-4B23-AC4F-8D7B46834FCD,Ördek Sos,"3,00 TL",Soslar,3.0
+922F6AD6-EAFF-4751-A81A-75113DDD7815,Soya Sosu,"1,50 TL",Soslar,7.0
+89665FEB-006E-4AC9-895D-75A8ABD49F97,Ace Lime Sos,"3,00 TL",Soslar,2.0
+AFD004DB-5BE3-4249-A961-4727451540C2,Ace Mirin Sos,"4,00 TL",Soslar,2.0
+f880b0ba-7b08-4f91-90fb-3fbe6acc47a0,Poşet,"0,25 TL",Poşet,5.0

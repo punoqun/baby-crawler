@@ -1,0 +1,45 @@
+food_id,food_name,food_price,food_category,food_score
+d31540e5-5bcb-4e68-ad9e-80dcdd24c916,2 Kafadar Menü,"49,50 TL",Menüler,28.0
+49aca65b-6f13-4b19-9a05-ca1d061a2b4d,3 Kafadar Menü,"69,90 TL",Menüler,14.0
+c4397ffe-fef5-40ee-98b1-da2fee7acdbf,Buffalo Bacon Burger Menü,"36,25 TL",Menüler,10.0
+ef424b46-c6dd-449c-9330-3a0291d29cc3,Cheese Frenzy Burger Menü,"49,50 TL",Menüler,12.0
+34f5cc57-9d63-431f-8c77-fbc647b49e3f,Cheeseburger Menü,"29,50 TL",Menüler,15.0
+91eeb9f1-4d7f-4405-9208-83bba5d4cb89,Double Jimmy's Burger Menü,"34,90 TL",Menüler,10.0
+f9e2187f-206e-4591-8358-889131b006b3,Etobur Menü,"45,90 TL",Menüler,8.0
+c599c7e5-cef9-41f0-b886-3e6d1803e1dd,Hawaii Burger Menü,"35,50 TL",Menüler,10.0
+84471823-80e5-4899-841d-90f6eefa05fa,Hindi Fümeli Cheddarlı Burger Menü,"35,50 TL",Menüler,10.0
+30d005b5-3a70-45a5-91a4-ad645807544b,Jimmy's Burger Menü,"25,50 TL",Menüler,10.0
+e34f301f-3ba7-4fd2-9965-1bb2969ea1f3,Jimmy's Original Burger Menü,"31,50 TL",Menüler,15.0
+68e55f24-eaea-4aea-9d49-28e00c3eda54,Köz Veggie Burger Menü,"27,25 TL",Menüler,14.0
+d5db850e-f573-433e-973a-b79a38cc123c,Nutellalı Ananaslı Burger Menü,"33,50 TL",Menüler,10.0
+07d039c6-768f-4419-9924-0aa59a16990d,Rokfor Burger Menü,"45,90 TL",Menüler,10.0
+ac9fccce-772a-4dc7-b8ff-8a5808ae5c9d,Yumurtalı Mozzarellalı Burger Menü,"36,50 TL",Menüler,10.0
+b6757165-053a-4c5b-bd8f-d3dd23974ed8,1000'e 200 Kala Menü,"118,00 TL",Menüler,11.0
+90433ab3-8a58-499b-ab18-c7208c3fbcd5,3 Peynirli Burger Menü,"47,50 TL",Menüler,16.0
+e8920ddb-d1f3-4d6f-bd9b-cecb03361a60,3 Peynirli Burger Menü (2 Kişilik),"79,50 TL",Menüler,16.0
+a783f36e-bca4-4a35-a139-c947167ab56e,3 Peynirli Burger Menü (4 Kişilik),"135,00 TL",Menüler,16.0
+e7268e59-6f4e-4c94-91ae-125663be817c,Dana Jambon Burger Menü,"34,50 TL",Menüler,10.0
+0794f2cb-e70e-43d9-9167-29797790b289,Jimmy's Burger,"22,75 TL",Burgerler,7.0
+82e960d8-dd53-4b5c-92f1-9015a7677f7d,Double Jimmy's Burger,"31,50 TL",Burgerler,7.0
+03860a25-b45e-45b9-bad3-9727d17d1029,Cheeseburger,"25,75 TL",Burgerler,7.0
+e20b7b13-21aa-46a2-88be-4ac953248d87,Buffalo Bacon Burger,"33,50 TL",Burgerler,7.0
+872fcf90-1c74-48d6-a0b4-89ee48a9c7ea,Dana Jambon Burger,"31,00 TL",Burgerler,7.0
+830fa7f6-8e38-4a23-9f23-ebd267235eb5,Yumurtalı Mozzarellalı Burger,"33,50 TL",Burgerler,7.0
+97e1f6ec-e046-42fe-bc60-b153e1b6febb,Hindi Fümeli Cheddarlı Burger,"32,25 TL",Burgerler,7.0
+3acac2bf-071b-4106-aaef-405f69eaff9e,Hawaii Burger,"31,90 TL",Burgerler,7.0
+a1aa600a-f581-4da2-99e9-c2432649f336,Nutellalı Ananaslı Burger,"31,50 TL",Burgerler,7.0
+368d1e79-bc8b-4d77-be72-44307810536d,3 Peynirli Burger,"43,90 TL",Burgerler,13.0
+b306d880-5e1d-49fd-9b36-94f0cc781215,Rokfor Burger,"42,50 TL",Burgerler,7.0
+742ecbf2-6d0e-4af1-8f32-7290254164f6,Cheese Frenzy Burger,"45,90 TL",Burgerler,9.0
+673f5493-e22d-436a-ab14-caf5f7652cc3,Köz Veggie Burger,"24,25 TL",Burgerler,11.0
+e615efdd-0eac-4eec-8ca2-5a46789148e8,Jimmy's Original Burger,"27,50 TL",Burgerler,7.0
+7fe5f2a0-930d-4b82-bf53-c4e38bb562ab,Çıtır Soğan Halkası (6 Adet),"7,50 TL",Yan Ürünler,6.0
+5deca766-6b61-444a-b4af-c7dd4fa5a28f,Mozzarella Sticks,"9,90 TL",Yan Ürünler,5.0
+BA0B6F47-02C4-42FB-A59E-3195E425682E,Patates Kızartması,"7,50 TL",Yan Ürünler,12.0
+e757af77-2e69-4fad-a8e2-619eac7cd5ad,Mozaik Pasta (150 gr.),"14,00 TL",Tatlılar,5.0
+1a991bd2-6ddc-4153-98d4-b7a628581df3,Tiramisu,"14,00 TL",Tatlılar,3.0
+17cb5799-c804-4c3b-936c-e0319f2d3d17,Limonlu Cheesecake,"15,00 TL",Tatlılar,5.0
+3711f7be-8906-4074-9780-8c0f0b761929,Frambuazlı Cheesecake,"15,00 TL",Tatlılar,5.0
+c19ed7f2-811b-4d6b-bc5b-3482ff51923d,Fruko (1 L.),"7,50 TL",İçecekler,5.0
+199bfdb6-8489-44aa-bcab-40c2ae9e442f,Jimmy Souce,"2,00 TL",Soslar,5.0
+ef2cb7af-ea67-48eb-a298-d1889e2782d9,Poşet,"0,25 TL",Poşet,5.0

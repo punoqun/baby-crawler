@@ -1,0 +1,58 @@
+food_id,food_name,food_price,food_category,food_score
+c732a637-3aa3-4fa0-8621-ee8c8970db8b,Çıtır Dürüm Menü,"25,90 TL",Menüler,8.0
+7c178f57-55c8-4dd7-a512-79ae0a1f530f,Karışık Kova Menü,"36,00 TL",Menüler,4.0
+b736fd54-cb13-4cf5-9ba8-f420adebe83e,Kemiksiz Kova Menü,"35,00 TL",Menüler,4.0
+b670bbf4-c518-4041-833a-f34d7c8cd050,XL Kova Menü,"58,00 TL",Menüler,4.0
+bdab5fcc-f035-4610-be14-1b1e13434ac6,2'li Kremalı Tavuk Menü,"57,80 TL",Menüler,8.0
+cc104a0a-9cae-4373-8272-438222e366e4,2'li Çedsal Menü,"61,80 TL",Menüler,6.0
+08b24747-01b9-4e81-8ffd-e59dbef88877,2'li Körili Tavuk Menü,"57,80 TL",Menüler,1.0
+e78de94a-f2b4-4e94-97a6-5242f89619e2,Çedsal Menü,"32,90 TL",Menüler,6.0
+939915f4-b717-408f-a562-2dcf060a6d43,Kremalı Mantarlı Tavuk Menü,"31,90 TL",Menüler,8.0
+491bd504-33df-40fe-a6cc-cd618d1aa1a7,Körili Tavuk Menü,"30,90 TL",Menüler,1.0
+c35618d0-702f-4972-b8e5-7ea8ace34f08,Fit Tavuk Menü,"30,90 TL",Menüler,5.0
+dbddbaff-b206-4eef-bd00-12d91bba5f66,Mix Menü 1,"33,90 TL",Mix Chicken Menüler,19.0
+ac061130-e425-4cd2-93ee-395163474b72,Mix Menü 2,"33,90 TL",Mix Chicken Menüler,12.0
+5c308a8a-7ba0-4c25-ab14-dd160f3320d8,Mix Menü 3,"33,90 TL",Mix Chicken Menüler,9.0
+6c33011a-2813-41a3-8a09-1844c65cb500,Mix Menü 4,"33,90 TL",Mix Chicken Menüler,14.0
+20d1d47f-1c88-42ce-97d4-8e215679c9dc,XL Mix Menü,"47,90 TL",Mix Chicken Menüler,4.0
+6161da27-8488-4a60-ad7b-be10b158f1ca,Kutu Menü 1,"30,90 TL",Kutu Menüleri,17.0
+05a19bf4-45ef-4bf2-954a-c0efbe2d87ea,Kutu Menü 2,"30,90 TL",Kutu Menüleri,10.0
+1e51349c-17c5-4aa4-a6aa-64391a67c998,Kutu Menü 3,"30,90 TL",Kutu Menüleri,7.0
+8c5aaf18-7426-412f-a18b-49c37cd9d0c9,Kutu Menü 4,"30,90 TL",Kutu Menüleri,12.0
+bdb4a953-81f9-4caa-8caf-19b28387c2e7,Kutu Menü 5,"69,90 TL",Kutu Menüleri,6.0
+3ceaa120-5fec-43df-9100-9d1fccdb4cfd,Meksikan Chicken Burger Menü,"29,90 TL",Burger Menüleri,3.0
+5f01e48a-788c-4873-8434-2e6b7dddc5b8,Crispy Chicken Burger Menü,"29,90 TL",Burger Menüleri,3.0
+961d144a-770c-4a5a-a47d-583fae91dcdd,BBQ Chicken Burger Menü,"29,90 TL",Burger Menüleri,3.0
+e04b54b5-6ee1-40e9-9434-7521017544ab,Buffalo Chicken Burger Menü,"29,90 TL",Burger Menüleri,5.0
+05f70df6-4b04-46b9-80d6-e0c0fc8c9302,Cheeseburger Menü,"29,90 TL",Burger Menüleri,4.0
+727d7ccd-716d-4776-87f9-4c21e8ac4a43,Kremalı Domates Çorbası,"13,90 TL",Çorbalar,12.0
+794480c1-2619-49e1-8598-d0c911b69d0b,Patates Kızartması (250 gr.),"14,90 TL",Atıştırmalıklar,7.0
+295add40-a2fd-44d1-b5bd-8cb8b6c7d6d6,Soğan Halkası (12 Adet),"15,90 TL",Atıştırmalıklar,5.0
+f9fd5122-cb37-418c-afbd-31ea8e81f295,Chicken Nugget (150 gr.),"17,90 TL",Atıştırmalıklar,5.0
+e210e2c6-9ab5-4763-acd8-415dd3fdae56,Chicken Fingers (150 gr.),"18,90 TL",Atıştırmalıklar,5.0
+81955644-3698-4d96-8c70-c59928ff40e9,Peynir Çubukları (6 Adet),"18,90 TL",Atıştırmalıklar,5.0
+7060c14d-ce71-4b4b-be0c-93e046c69874,Tavuk Kanat (6 Adet),"22,90 TL",Atıştırmalıklar,-1.0
+0aed5daf-b48d-4cbb-bfd0-6f112f5d5231,Tavuk Kanat (12 Adet),"43,90 TL",Atıştırmalıklar,-1.0
+1b854e04-fde0-4a28-bf8d-669bd5968f1d,Meksikalı Acılı Tavuk,"27,90 TL",Tavada Tavuklar,2.0
+6b3d3826-4cd1-45ba-9c3d-9375c58d2d7b,Dağ Kekikli Tavuk,"27,90 TL",Tavada Tavuklar,7.0
+729727e6-060d-477f-9266-a9f0839193be,Kremalı Mantarlı Tavuk,"27,90 TL",Tavada Tavuklar,14.0
+995f8865-f66d-4dbd-bed0-06630ac2b7ab,Sweet Chili Tavuk,"27,90 TL",Tavada Tavuklar,11.0
+cc448724-43d9-443e-b718-be87d9343af4,Ballı Hardallı Tavuk,"27,90 TL",Tavada Tavuklar,2.0
+d07d841c-5a62-4391-87ce-7d1a3ef3988a,Barbekü Buffalo Tavuk,"27,90 TL",Tavada Tavuklar,3.0
+dd9651fe-d6a6-42ce-8201-f2549115cb8d,Çedsal Tavuk,"28,90 TL",Tavada Tavuklar,4.0
+eca142a3-00a9-43c4-ac4c-2f406bdccc28,Körili Tavuk,"26,90 TL",Tavada Tavuklar,2.0
+5a63bacc-fe2f-4098-b349-9638f8f88b99,Beğendili Tavuk,"28,90 TL",Tavada Tavuklar,2.0
+07fcdbc8-9fcd-4315-9463-c66b215905fb,Tavuklu Noodle,"22,90 TL",Makarnalar,14.0
+a886208a-c763-4b20-b705-eb8625bdb254,Sebzeli Noodle,"19,90 TL",Makarnalar,11.0
+eb02b798-67c5-4aec-8ec3-002a3391a4bb,Tavuklu Mantarlı Penne,"22,90 TL",Makarnalar,10.0
+70f48ba2-503d-4c19-b218-64757ed04e90,Fit Izgara Tavuk,"26,90 TL",Light Ürünler,6.0
+6a64bc0a-b53e-45ba-a7c7-0651fc4917f1,Buffalo Chicken Burger,"26,90 TL",Burgerler,6.0
+858dbbc8-05f6-4f18-8f4a-eab9fa3779bd,BBQ Chicken Burger,"26,90 TL",Burgerler,4.0
+9850659f-1592-4101-8320-70cc748bc18f,Crispy Chicken Burger,"26,90 TL",Burgerler,4.0
+a63d870f-d5c7-46db-b422-0c0eb8781936,Meksikan Chicken Burger,"26,90 TL",Burgerler,4.0
+4cbd0b45-77a7-40a6-89a0-e50d8f358040,Sweet Chili Chicken Burger,"26,90 TL",Burgerler,8.0
+33a1b168-54ed-4728-b292-da910cffea1f,Tavuklu Sezar Salata,"19,90 TL",Salatalar,11.0
+da507a67-ad86-495c-ae89-6a80dc8c513c,Pepsi Twist (33 cl.),"6,00 TL",İçecekler,5.0
+2aa93207-3771-4c7e-92ec-2c747d1573e6,Fruko (1 L.),"9,00 TL",İçecekler,5.0
+9691e62f-ce42-439c-a82e-90c5cf6ce8a2,7UP (1 L.),"9,00 TL",İçecekler,5.0
+27ef3959-c144-4ad8-b0ca-479bccb862a2,Poşet,"0,25 TL",Poşet,5.0

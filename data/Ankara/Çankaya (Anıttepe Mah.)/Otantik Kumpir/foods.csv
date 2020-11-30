@@ -1,0 +1,79 @@
+food_id,food_name,food_price,food_category,food_score
+d9364412-d309-4fd9-8354-9f7d7b7e6f5b,Menü 1,"24,50 TL",Menüler,19.0
+91eec325-34b4-4ee9-941c-55464258f681,Menü 2,"34,50 TL",Menüler,5.0
+2f3980b9-4fc5-46c7-be0d-03b1dca2fa89,Menü 3,"45,00 TL",Menüler,3.0
+b09865d9-7dc4-4610-a53a-c30ba0e3011d,Menü 4,"63,00 TL",Menüler,2.0
+834931d4-6aa6-4be0-9e17-f50695e6d204,Menü 6,"27,50 TL",Menüler,3.0
+0a43207e-8b1b-44b8-9f25-3fbcad5f57af,Menü 7,"21,90 TL",Menüler,7.0
+c0de77f4-b654-43e4-88ea-0c005f1b2975,Menü 8,"39,90 TL",Menüler,7.0
+fb459ec4-bb56-430a-b8c3-1627833a5092,Menü 9,"71,00 TL",Menüler,5.0
+772e692f-5c83-49c0-b71a-8dda34b6594b,Menü 10,"22,90 TL",Menüler,16.0
+5d82ed41-14e6-4e48-ad6c-8a5586c17f14,Menü 11,"23,90 TL",Menüler,5.0
+0655f649-ca3c-4034-98a7-fc4450bac9e6,Mini Menü,"29,90 TL",Menüler,5.0
+5dbac3d0-f3b2-4cf3-a171-4684c40f4272,Otantik Classic Kumpir Menü,"29,50 TL",Menüler,15.0
+7ea3ee5d-f58d-460d-878c-e66f737af84d,Salamlı Tost,"11,90 TL",Tostlar,4.0
+6778725d-7d2a-4f3b-bd16-236f2636bce7,Sucuklu Tost,"11,90 TL",Tostlar,4.0
+ee62b6bf-a8cb-4dc1-94a6-172f21bef408,Kaşarlı Tost,"12,50 TL",Tostlar,4.0
+b779852a-7bf9-48ed-a3e8-6e5aa0a3a205,Kavurmalı Tost,"16,50 TL",Tostlar,4.0
+32104c52-0908-4470-87d2-1019d022f4c7,Kaşarlı Salamlı Tost,"13,50 TL",Tostlar,4.0
+96e37296-3327-488e-827d-a14fed2f8761,Kaşarlı Sucuklu Tost,"13,50 TL",Tostlar,4.0
+c7dea412-fbc6-4d55-b21b-d9d77ae823ac,Karışık Tost,"13,90 TL",Tostlar,4.0
+ee0cfa6c-26e6-4e0f-9ed1-9d90711a9c2b,Ayvalık Tostu,"16,90 TL",Tostlar,5.0
+aed79417-9275-43e6-abe7-6afccdd40577,Otantik Tost,"16,90 TL",Tostlar,6.0
+d1346058-a773-44c9-a6c3-adf7b4469cf4,Bazlama Ekmeğine Kaşarlı Tost,"13,90 TL",Tostlar,4.0
+2a6f18cf-8fb3-42ce-ad93-158e8b3867c4,Bazlama Ekmeğine Kavurmalı Tost,"19,90 TL",Tostlar,4.0
+5b74f5bc-061b-48a6-b24f-c81f2bb5f790,Bazlama Ekmeğine Karışık Tost,"15,90 TL",Tostlar,4.0
+f575b396-920c-4353-b284-240baf43025c,Sosisli Sandviç,"12,90 TL",Sandviçler,3.0
+46155967-ec4b-486a-a406-2a50ad533910,Beyaz Peynirli Sandviç,"13,50 TL",Sandviçler,5.0
+3835005c-ba26-4a56-9406-c31a42d1597c,Kaşarlı Sandviç,"14,50 TL",Sandviçler,5.0
+1d3dc4c7-8880-49e8-b447-df048aafeb93,Veggie Sandviç,"14,50 TL",Sandviçler,5.0
+7454c66f-2a63-4835-855c-7f3bb2f78081,Barbekü Soslu Tavuklu Sandviç,"16,50 TL",Sandviçler,7.0
+7b1e6b7d-c890-4b23-b006-fd1738fa4951,Kıtır Tavuklu Sandviç,"16,50 TL",Sandviçler,4.0
+6211f251-0e1a-4bc6-bb9f-41010e497716,Ton Balıklı Sandviç,"19,50 TL",Sandviçler,5.0
+9ba93d87-9539-43a8-9b06-224ed9fbd316,Karışık Sandviç,"16,50 TL",Sandviçler,5.0
+a48bc52c-c4c5-4eac-a73f-6f5201a85937,Kumru Sandviç,"16,90 TL",Sandviçler,5.0
+1695f463-2533-4305-a0c1-78783372c010,Hamburger,"18,90 TL",Burgerler,5.0
+82626792-9ca3-4412-a588-5b9775da5e90,Cheeseburger,"19,90 TL",Burgerler,5.0
+2fe08dd0-9353-438c-a924-3ea5cdd1a024,Otantik Burger,"21,90 TL",Burgerler,7.0
+61306070-5d88-4bb0-8bd5-c6fdea8b87c0,Double Burger,"23,90 TL",Burgerler,5.0
+cc19df34-9121-47ea-b3b7-19b04a3f378b,Sade Kumpir,"19,90 TL",Kumpirler,24.0
+8703c65d-cab6-4c9d-9e99-62ec1fee970f,Kıtır Tavuklu Kumpir,"26,00 TL",Kumpirler,18.0
+819dfd4a-9f5c-4b2e-9026-7350c6709d44,Barbekü Tavuklu Kumpir,"26,00 TL",Kumpirler,15.0
+3314ebc8-ffdf-4012-82ef-e06229ae2a9b,Misket Köfteli Kumpir,"26,00 TL",Kumpirler,13.0
+11989e9d-9fc6-414f-81e2-15b3029a8386,Mexican Kumpir,"26,00 TL",Kumpirler,13.0
+83da306f-74f4-4c48-bd15-33901465c48b,Kavurmalı Kumpir,"28,50 TL",Kumpirler,13.0
+f3278dc5-bcaa-4646-a1d7-ba8b81ec45be,Veggie Kumpir,"25,00 TL",Kumpirler,13.0
+72756907-84de-4015-b789-3c83bad839e8,Ton Balıklı Kumpir,"26,90 TL",Kumpirler,13.0
+4d2a8e72-032f-44a0-a322-feeac20b306d,Duble Kaşarlı Kumpir,"22,90 TL",Kumpirler,13.0
+682e859f-b8b6-4733-a658-faba2b0c8c1e,Rus Salatalı Kumpir,"22,90 TL",Kumpirler,12.0
+ba817d02-04b6-46bb-9320-8c6ed2542038,Otantik Classic Kumpir,"25,00 TL",Kumpirler,20.0
+c8ea0512-f3aa-42db-b7d6-e58860f1419b,Süper Karışık Kumpir,"30,50 TL",Kumpirler,20.0
+201607ba-16cd-47ee-9284-160e12374191,Izgara Tavuk,"25,90 TL",Ana Yemekler,8.0
+f9d5ec69-66ba-47f8-9d62-6fb1d5f24462,Izgara Köfte,"28,90 TL",Ana Yemekler,7.0
+f425487e-9b76-4e4f-969c-256cac2bf246,Tavuk Şnitzel,"25,90 TL",Ana Yemekler,8.0
+95c99caa-9136-4e60-ab38-74e6e36c2020,Penne Arrabbiata,"18,90 TL",Makarnalar,5.0
+4d70247e-2268-484f-8827-7eb143f45a32,Tavuklu Penne Pesto,"22,00 TL",Makarnalar,5.0
+32d79e9a-efdb-41ee-ba09-ebe007d2ba5c,Mantarlı Penne Pesto,"22,00 TL",Makarnalar,4.0
+679987b9-450a-4383-9fcf-e3838fb7f656,Penne Napolitan,"18,90 TL",Makarnalar,5.0
+4d161105-944d-424b-9236-fda2046ff06f,Ekmek Arası Izgara Tavuk,"15,90 TL",Ekmek Arası Ürünler,8.0
+eba27b62-9404-479d-b955-992a5f677c5c,Ekmek Arası Izgara Köfte,"17,90 TL",Ekmek Arası Ürünler,7.0
+94492655-3064-447e-bd3e-0e5959ad91f5,Patates Kızartması,"12,90 TL",Yan Ürünler,3.0
+db3cfdff-2fd7-42ac-9bf6-585606b37cb5,Elma Dilim Patates Kızartması,"13,90 TL",Yan Ürünler,3.0
+e1077f57-3753-463f-ad48-5be801eaa2e1,Soğan Halkası (12 Adet),"12,90 TL",Yan Ürünler,5.0
+63805053-be8b-492f-8ed7-e2e571e7cd44,Sosis Tabağı,"21,00 TL",Yan Ürünler,1.0
+1d348819-9047-487a-9c6f-e91d13090658,Mevsim Salata,"17,90 TL",Salatalar,14.0
+f9f9cf2e-371f-4ac8-bf94-c0f77bd581a7,Akdeniz Salatası,"18,90 TL",Salatalar,8.0
+803079ed-c8b5-450d-9112-2fd7b855a981,Hellim Peynirli Salata,"24,90 TL",Salatalar,13.0
+a0551d33-a70c-4c06-8fb6-4b32d8f8df8c,Kıtır Tavuklu Salata,"25,90 TL",Salatalar,13.0
+9a30467c-4af8-487b-9c2a-0b092b591161,Barbekü Tavuklu Salata,"25,90 TL",Salatalar,16.0
+c7f7bddf-45b9-4ebb-bfd6-f4de6c1b4ea7,Ton Balıklı Salata,"28,90 TL",Salatalar,14.0
+df31356c-93a4-4ff7-af5e-0a739ad142c9,Otantik Salata,"28,90 TL",Salatalar,16.0
+9B370501-86D9-4E4B-9087-83D9C0BB098B,Sütlaç (150 gr.),"7,00 TL",Tatlılar,5.0
+3F5CFEDD-E28E-466F-BB8C-A38E38D4C8F6,Kazandibi (150 gr.),"7,00 TL",Tatlılar,5.0
+84A002EE-D27B-47AD-AB98-D31EFE084739,Supangle (150 gr.),"7,00 TL",Tatlılar,5.0
+34232FC0-9DA9-4A11-93EB-F96C8F1F20BF,İncirli Muhallebi,"7,00 TL",Tatlılar,5.0
+B9D47940-D763-42E4-9962-8436482064D9,Profiterol (150 gr.),"7,00 TL",Tatlılar,5.0
+c70a731d-497d-49c2-9063-8101f34ca2c8,Su,"2,00 TL",İçecekler,5.0
+5461105d-fd89-4cc6-a2ff-653b6d0bc2a6,Taze Sıkma Portakal Suyu,"15,00 TL",İçecekler,5.0
+3e04ecde-21a6-47ab-9e0a-0b3a26f2cddf,Fesleğenli Acı Sos,"1,00 TL",Soslar,3.0
+4fbe8161-e790-4570-8c44-b7ee644073df,Poşet,"0,25 TL",Poşet,5.0

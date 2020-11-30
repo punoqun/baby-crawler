@@ -1,0 +1,196 @@
+food_id,food_name,food_price,food_category,food_score
+82967434-702a-407e-aa78-b15579dc4e51,Wonton Çorbası,"21,00 TL",Çorbalar,7.0
+cfc9b054-7623-42ee-863e-447cc0d1a586,Etli Acılı Ekşili Çorba,"21,00 TL",Çorbalar,1.0
+f242bd37-79a9-4295-97d2-472da6682b21,Ramen Çorba,"29,00 TL",Çorbalar,3.0
+3cab5e07-6032-4c74-a794-59f1a457d525,Tavuklu Acılı Ekşili Çorba,"20,00 TL",Çorbalar,8.0
+428b026a-3bcf-4659-885d-abc363d2e8f1,Miso Çorbası,"21,00 TL",Çorbalar,5.0
+c710e6d8-aab8-45ce-b362-e8398abba983,Tom Yum Çorbası,"25,00 TL",Çorbalar,5.0
+c5e93149-0a7e-445b-a670-1edb173116f8,Tavuklu Mısır Çorbası,"20,00 TL",Çorbalar,11.0
+e6e21a27-b8eb-4ed6-b3db-32d834d59162,Sebzeli Noodle Çorba,"20,00 TL",Çorbalar,4.0
+1dc6ce6f-9800-40c5-9015-1b63ecf1528b,Çıtır Tavuk,"25,00 TL",Başlangıçlar,13.0
+e5db524a-d43b-4d92-b5c0-3f2ea96521ef,Spicy Edamame,"23,00 TL",Başlangıçlar,3.0
+8809f699-7ea0-444f-a9a9-905b0f34b6ba,Kızarmış Tavuk Topları (8 Adet),"25,00 TL",Başlangıçlar,14.0
+d74019c5-329e-47a4-a802-fc674120b5aa,Çin Böreği (2 Adet),"20,00 TL",Başlangıçlar,6.0
+25bda280-29d8-411e-aae9-f8d2bf9db95c,Kızarmış Susamlı Tavuk,"25,00 TL",Başlangıçlar,14.0
+45b3d825-615d-4ca6-9e61-b9713c7a7adb,Kızarmış Kalamar,"43,00 TL",Başlangıçlar,5.0
+0c112a97-0dce-4aff-b2d9-999b9e48bb89,Dynamite Shrimps (10 Adet),"46,00 TL",Başlangıçlar,6.0
+f8098271-5cc8-4516-be42-cd3b9f3439c3,Edamame,"22,00 TL",Başlangıçlar,5.0
+211fe775-168b-4eb9-ac27-2046ef32cb7e,Kızarmış Susamlı Karides,"46,00 TL",Başlangıçlar,6.0
+8aa4fbb0-5e02-41f0-9327-58ca5e4c0c0b,Çıtır Karides,"46,00 TL",Başlangıçlar,5.0
+1d85bb18-4f6c-47a3-84a9-f79e0c8a76f8,General Tso Tavuk,"41,00 TL",Beyaz Etler,18.0
+be55efaf-48d8-47d9-ab69-3cc5d1fc36dd,Karışık Sebzeli Tavuk,"39,00 TL",Beyaz Etler,15.0
+c8b0d684-b59f-48e3-9f78-9bcda4b49ef3,Bademli Tavuk,"39,00 TL",Beyaz Etler,14.0
+c8c843d4-35c1-4927-a743-f2c561063460,Limon Soslu Tavuk,"41,00 TL",Beyaz Etler,14.0
+da316abd-0ec5-41c5-9bea-08bc061c9a2a,Brokoli Tavuk,"39,00 TL",Beyaz Etler,14.0
+97b893eb-6c8c-4dfc-86c7-302518a15c51,Kung Pao Tavuk,"39,00 TL",Beyaz Etler,14.0
+93fbb410-4379-49d9-a768-14fc31ed2667,Szechuan Tavuk,"39,00 TL",Beyaz Etler,14.0
+33b475fb-b7eb-438c-96c9-56b9f3a03a03,Acı Soslu Kızarmış Tavuk,"39,00 TL",Beyaz Etler,15.0
+ae0b8093-f442-44fc-ae86-853dbe5c37a2,Acılı Mantarlı Tavuk,"39,00 TL",Beyaz Etler,15.0
+012ff39a-01b6-422f-9806-459362c13955,Köri Soslu Tavuk,"39,00 TL",Beyaz Etler,14.0
+c8abd87d-e6fd-456b-9f19-fb5bd1611ad4,Tatlı Ekşi Soslu Dana Eti,"49,00 TL",Kırmızı Etler,10.0
+2d2fa205-b59a-46a8-b1ec-b3fd7916ff7f,Patlıcanlı Dana Eti,"46,00 TL",Kırmızı Etler,6.0
+acb75025-da8e-43b5-aa3d-b71347233363,Acı Biberli Dana Eti,"46,00 TL",Kırmızı Etler,7.0
+07bf7b37-dda8-4aec-958d-637a36aef29b,Mançuryan Usulü Dana Eti,"49,00 TL",Kırmızı Etler,6.0
+25413fa0-b303-4337-b0d4-1d8d0f0b2a12,Kuşkonmazlı Dana Eti,"46,00 TL",Kırmızı Etler,6.0
+52746e81-be6e-4b40-82d6-e0317d3c0d76,Limon Soslu Et,"49,00 TL",Kırmızı Etler,4.0
+4b643b99-a973-4f66-8fa3-f11ed7798bc5,Acılı Mantarlı Dana Eti,"46,00 TL",Kırmızı Etler,7.0
+db489167-0883-45b4-ae7e-a7ae6f3e965d,Zencefil Soslu Dana Eti,"49,00 TL",Kırmızı Etler,6.0
+46dad1af-0580-4c8b-bffe-8933503e15ee,Brokoli Dana Eti,"46,00 TL",Kırmızı Etler,6.0
+bc966e3d-0d48-44b1-879d-dfe7b583eed9,Teriyaki Soslu Dana Eti,"46,00 TL",Kırmızı Etler,6.0
+38049db9-1dc0-48f3-ab62-7554a933462a,Karışık Sebzeli Dana Eti,"46,00 TL",Kırmızı Etler,7.0
+de2b41a8-9845-48b9-9d9d-6f3c380eb9f3,Tatlı Ekşi Soslu Somon,"51,00 TL",Deniz Mahsulleri,10.0
+bbec5eca-2013-40ac-aa90-79588dd0e139,Teriyaki Soslu Somon,"51,00 TL",Deniz Mahsulleri,6.0
+7f6c4f20-1d61-4ddc-970d-42de24aabb69,Buharda Somon,"51,00 TL",Deniz Mahsulleri,8.0
+a01b386d-3cee-4142-bb51-a0f04db3e8ab,Karışık Sebzeli Karides,"53,00 TL",Deniz Mahsulleri,7.0
+034a6fb9-8a7c-4a3c-a7d8-bced16c2065b,Acı Soslu Kızarmış Karides,"53,00 TL",Deniz Mahsulleri,7.0
+d63ba7d1-1833-40e3-9784-5a42d08b0d83,Tatlı Ekşi Soslu Karides,"53,00 TL",Deniz Mahsulleri,10.0
+5532ebeb-8a41-4d6b-906c-f386c14d3f13,Acı Soslu Kalamar,"50,00 TL",Deniz Mahsulleri,6.0
+f7c46062-5512-4f1a-bd45-2002f314cf17,Tatlı Ekşi Soslu Kalamar,"50,00 TL",Deniz Mahsulleri,9.0
+4174f041-1560-4197-8568-bd39a348587c,Karışık Sebze,"28,00 TL",Sebzeler,6.0
+7feefc38-92e4-46a0-b776-2c3cb1439afa,Sarımsak Soslu Brokoli,"28,00 TL",Sebzeler,5.0
+74093f2e-ca28-4c55-b314-664ed458bce7,Acı Soslu Karışık Sebze,"29,00 TL",Sebzeler,7.0
+239e74dd-8005-44c8-9dd7-82f7912fed95,Buharda Sade Pilav,"20,00 TL",Pilavlar,7.0
+047865ae-9d82-469d-bd17-1170c20e0774,Sebzeli Pilav,"25,00 TL",Pilavlar,6.0
+dd79eeb9-6803-4eca-99d0-63c4f95ed32b,Sebzeli Yumurtalı Pilav,"25,00 TL",Pilavlar,6.0
+97de0b44-7f97-4428-8a1a-ac39bfd9657f,Tavuklu Pilav,"30,00 TL",Pilavlar,11.0
+b6bc2af3-7b16-4524-839e-925e71f7da2d,Dana Etli Pilav,"32,00 TL",Pilavlar,5.0
+0b4ff121-711e-49a5-8dd1-18f92269e7c8,Karidesli Pilav,"35,00 TL",Pilavlar,5.0
+9d9bf524-f8ba-4493-8f17-53d44e9e5f19,Bademli Pilav,"26,00 TL",Pilavlar,5.0
+b4894185-84f9-4531-adb4-3fa4ccfc22da,Körili Pilav,"25,00 TL",Pilavlar,5.0
+ecb84155-0a28-47da-9165-fcd0b811745c,Deniz Mahsullü Pilav,"36,00 TL",Pilavlar,6.0
+c93af97d-cc26-432f-bc0f-2523d945a6d7,Mix Pilav,"36,00 TL",Pilavlar,5.0
+4b876858-5801-4fc2-b82b-0a42618b5c7d,Sade Erişte,"25,00 TL",Erişteler,5.0
+4551807d-bbdf-4103-89bd-0e6b1b4de361,Tavuklu Erişte,"32,00 TL",Erişteler,16.0
+334420ab-e778-457a-bd57-96bcede4c66c,Dana Etli Erişte,"35,00 TL",Erişteler,10.0
+5a6fa691-053f-449d-a95c-2d9ec05db759,Karidesli Erişte,"39,00 TL",Erişteler,5.0
+841bca13-3b17-4edf-8324-9398c2a2fc65,Singapur Erişte,"39,00 TL",Erişteler,5.0
+1571d68c-ca5b-425f-b75d-06ed5b8d0b24,East Noodle,"40,00 TL",Erişteler,5.0
+f9c1f80f-9378-4bb7-a05d-c54d71807968,Karidesli Soba Noodle,"44,00 TL",Soba Noodles,5.0
+3dbe0e7e-ed5e-45cc-9054-ef92afb798fd,Tavuk Soba Noodle,"39,00 TL",Soba Noodles,14.0
+1522e751-8021-4b8c-a731-ea31507995c7,Dana Etli Soba Noodle,"41,00 TL",Soba Noodles,5.0
+75f84828-7c9d-408f-b8cb-436234ecb239,Sebzeli Soba Noodle,"37,00 TL",Soba Noodles,6.0
+cae09892-6246-4f56-bc87-aa4b7aa8266a,Sebzeli Udon,"37,00 TL",Udon,9.0
+27d9100f-dbb0-4186-86cb-9bfe7ad6576b,Tavuklu Udon,"40,00 TL",Udon,14.0
+e3dcd76d-0497-40a9-90c8-737f20a59884,Dana Etli Udon,"43,00 TL",Udon,8.0
+bfcc8bdc-1b9e-485a-9f92-5b55bd522b97,Karidesli Udon,"46,00 TL",Udon,8.0
+556d97cb-7143-40ca-a125-fb0859501b2f,Sebzeli Ramen,"33,00 TL",Ramenler,6.0
+92db49ed-56ce-4b0c-a4db-e692d81a74ed,Tavuklu Ramen,"36,00 TL",Ramenler,11.0
+dc72bc22-d119-4007-8cc0-4e0c872679b9,Dana Etli Ramen,"39,00 TL",Ramenler,5.0
+a43dbf8e-3c9a-4a80-8da1-450eea2472e3,Karidesli Ramen,"42,00 TL",Ramenler,5.0
+d21ac9a9-eac3-47d3-b979-82ccb9d78e3c,Salmon Bowl,"41,00 TL",Roke Bowls,3.0
+ea3e8b71-e83d-4e69-be52-290d0772f0a0,Veggie Bowl,"38,00 TL",Roke Bowls,3.0
+46471117-05b1-4e56-829e-0f3dddc507e9,East Bowl,"49,00 TL",Roke Bowls,3.0
+d1c8fbd1-bd75-4c48-8ca9-6ff3e9c2847c,Shrimp Bowl,"46,00 TL",Roke Bowls,3.0
+61f747c7-0a8e-4c6b-9b80-ad173df2e03f,California Bowl,"41,00 TL",Roke Bowls,1.0
+09b47cda-9472-4473-a50a-88f54c320a59,Miks Bowl,"47,00 TL",Roke Bowls,3.0
+0a1c666c-7a35-4aa3-9a08-51aef700095c,Philadelphia Bowl,"41,00 TL",Roke Bowls,3.0
+08e9cef7-96f5-46dd-8345-c52730c6b9b8,Kyoto Bowl,"43,00 TL",Roke Bowls,3.0
+bef696bc-95c6-45b8-9444-e1306c2aa81c,Avokado Maki Roll (8 Adet),"23,00 TL",Maki Rolls,5.0
+25c3d15e-6bab-40b3-8517-dbed9b8f0c7c,Avokado Kappa Maki Roll (8 Adet),"22,00 TL",Maki Rolls,5.0
+6d43c00f-2478-40e7-90dc-c4145292c048,Avokado Sake Maki Roll (8 Adet),"29,00 TL",Maki Rolls,4.0
+d13efc34-e166-4d5c-9cad-fed8306c1446,Ebi Maki Roll (8 Adet),"30,00 TL",Maki Rolls,5.0
+07d3f14c-9242-40ed-929d-87fb15b0a097,Tekke Maki Roll (8 Adet),"31,00 TL",Maki Rolls,5.0
+766cbf4a-9ba7-43e8-bf58-b335e169b1b4,Sake Maki Roll (8 Adet),"29,00 TL",Maki Rolls,4.0
+276191de-a887-4013-8c69-05a1d06d5ca6,Kani Maki Roll (8 Adet),"28,00 TL",Maki Rolls,5.0
+92948bfb-3c21-4017-8f78-13becfa43e7a,Unagi Maki Roll (8 Adet),"33,00 TL",Maki Rolls,5.0
+3127b4b3-0b97-444e-a7e8-fef433baac87,Tamago Maki Roll (8 Adet),"21,00 TL",Maki Rolls,5.0
+383210e2-2474-4ed9-a1bc-e95886599f3f,Suzuki Maki Roll (8 Adet),"29,00 TL",Maki Rolls,5.0
+d7d91209-a380-43d2-8077-a17015b7ba70,Philadelphia Maki Roll (8 Adet),"28,00 TL",Maki Rolls,5.0
+97d51045-4070-4414-86c5-bbd822cb9460,Futomaki Roll (8 Adet),"27,00 TL",Maki Rolls,5.0
+9ee9cb8b-702b-4138-89be-1424fd479764,Mix Maki Set (24 Adet),"65,00 TL",Maki Set,5.0
+f0bc6afb-9979-4050-8d5f-c047ef5e7d34,Maki Set (16 Adet),"51,00 TL",Maki Set,5.0
+9a77e626-2960-4901-b6fd-6ce07d203982,Veggie Maki Set (24 Adet),"55,00 TL",Maki Set,5.0
+54b4217a-723f-4a47-8d87-db14b4db653e,King Maki Set (72 Adet),"205,00 TL",Maki Set,5.0
+8ec11c67-b485-47e5-9214-1dc1a46fd9cc,Mini Maki Set (12 Adet),"45,00 TL",Maki Set,5.0
+56c77972-aac4-4064-912a-db5994439519,California Roll (8 Adet),"41,00 TL",Classic Rolls,3.0
+3c62845b-5422-4387-a7d6-9f49f5aa3953,California Salmon Roll (8 Adet),"41,00 TL",Classic Rolls,3.0
+a612fe76-a98b-4905-8bdc-aa07fe3819b2,California Unagi Roll (8 Adet),"44,00 TL",Classic Rolls,3.0
+3ce3e992-a95d-44a9-9bd9-206ae1f01f9d,California Shrimp Roll (8 Adet),"44,00 TL",Classic Rolls,3.0
+35a2cd49-65e3-47f4-b2cf-0d7d4c1156de,Alaska Hit Roll (8 Adet),"41,00 TL",Classic Rolls,5.0
+e25a5f43-d906-4c2b-8982-a10264c9a201,Boom Clap Roll (8 Adet),"43,00 TL",Classic Rolls,5.0
+2ef7bbf2-e06b-48dd-85de-28d2a92464d5,Fujiyama Roll (8 Adet),"41,00 TL",Classic Rolls,5.0
+4defc222-6a07-4cc7-93a8-64d4314dbdc6,Okinawa Roll (8 Adet),"40,00 TL",Classic Rolls,5.0
+96078de0-6dde-4303-a03e-55d465f32245,Philadelphia Roll (8 Adet),"41,00 TL",Classic Rolls,5.0
+39909566-492f-4031-ac0d-2c97300a0e9d,Canada Roll (8 Adet),"44,00 TL",Classic Rolls,5.0
+068b2b4f-f0ed-483c-aaa6-1ab6eff788b6,Susamlı California Roll (8 Adet),"40,00 TL",Classic Rolls,3.0
+0253d140-75cd-4dd0-be9f-dca754b69d76,Bonito Roll (8 Adet),"41,00 TL",Classic Rolls,5.0
+335f04a9-5a20-490d-9b70-62966a8c6ce6,Samurai Roll (8 Adet),"43,00 TL",Classic Rolls,5.0
+89e60174-a252-4155-bd5f-273f4a343aff,Mozaik Roll (8 Adet),"45,00 TL",Classic Rolls,5.0
+b9108778-4720-4869-ae33-8e81cbe5f2ca,New York Roll (8 Adet),"41,00 TL",Classic Rolls,5.0
+1cce0bfa-9fbf-4173-ab0c-02f04cbf6104,Osaka Roll (8 Adet),"42,00 TL",Classic Rolls,5.0
+e8789a73-3fbb-43be-8bc8-09873256f4ef,Spice Tuna Roll (8 Adet),"42,00 TL",Spice Rolls,5.0
+c28354a5-bff3-4549-b70b-01634ccb0149,Spice Ebi Roll (8 Adet),"44,00 TL",Spice Rolls,5.0
+5d61ef67-050c-4994-be1f-991afe62d8c6,Spice Unagi Roll (8 Adet),"47,00 TL",Spice Rolls,5.0
+2f4a37cc-4169-49ea-9d85-80b817b9fb28,Spice Salmon Roll (8 Adet),"41,00 TL",Spice Rolls,5.0
+b58f4249-05b7-4b64-8377-6ae50ad681b5,Spice California Roll (8 Adet),"43,00 TL",Spice Rolls,3.0
+541ff10b-262b-40aa-b643-4a2cb44ef364,Spice Suzuki Roll (8 Adet),"42,00 TL",Spice Rolls,5.0
+df813748-9c17-481c-aaaf-574cd6e670bd,Panda Roll (6 Adet),"47,00 TL",Special Rolls,5.0
+94e9a2d8-d10c-4f54-a0df-c681976d9a35,Yin Yang Roll (6 Adet),"48,00 TL",Special Rolls,11.0
+72ed9014-279c-407a-82e5-bf48d42aa9a1,Crispy Salmon Roll (8 Adet),"41,00 TL",Special Rolls,7.0
+f70f1eda-4e96-4d59-bc47-52f421ab6224,Crispy Crab Roll (10 Adet),"41,00 TL",Special Rolls,7.0
+b798e1e1-2589-4a7d-ad8c-89b0dacc55e4,Crispy Calamary Roll (8 Adet),"42,00 TL",Special Rolls,7.0
+ae885f76-ec11-48e4-8983-a24052de7667,Kunsei Tempura Roll (8 Adet),"42,00 TL",Tempura Rolls (Kızarmış),7.0
+5a31f235-8c20-4d7f-9b07-9d5aca73a702,Shrimp Tempura Roll (8 Adet),"44,00 TL",Tempura Rolls (Kızarmış),7.0
+b2e5e590-7b3d-4cb1-a9ee-e8f377574738,Unagi Tempura Roll (8 Adet),"43,00 TL",Tempura Rolls (Kızarmış),7.0
+8221f312-3c15-4780-9c71-f1fa610ba358,Tempura California Roll (8 Adet),"42,00 TL",Tempura Rolls (Kızarmış),5.0
+aaaa8790-23bc-469b-a760-3ce501bd3469,East Tempura Roll (8 Adet),"46,00 TL",Tempura Rolls (Kızarmış),7.0
+7bd238c4-98a7-439b-95e6-9ce855f6970f,Tempura Caesar Salmon Roll (10 Adet),"46,00 TL",Tempura Rolls (Kızarmış),7.0
+3f845af6-0414-4a23-bc4a-ab9e436f2799,Tempura Shrimps Caesar Roll (10 Adet),"46,00 TL",Tempura Rolls (Kızarmış),7.0
+430b723d-1c38-4dca-b01e-a8b29af57347,Maguro Tempura Roll (8 Adet),"44,00 TL",Tempura Rolls (Kızarmış),7.0
+11ccc262-887b-4e00-9d62-3b98b82016b2,Dai Salmon Roll (10 Adet),"41,00 TL",Hot Rolls,5.0
+e9a9c63b-6665-43e3-bbff-350f920d7d9c,Dai Crab Roll (10 Adet),"41,00 TL",Hot Rolls,5.0
+7143cade-ba89-44e7-b922-8897122b836c,California Hot Roll (8 Adet),"41,00 TL",Hot Rolls,3.0
+a0fe1331-bd09-41a4-b389-ebfd393f637e,Salmon Hot Roll (8 Adet),"41,00 TL",Hot Rolls,5.0
+1f95f514-3f7a-4a2f-b25e-4a32ca5f5fa7,East Roll (8 Adet),"45,00 TL",Hot Rolls,5.0
+d4347be8-3c54-49ad-904f-b5397b6bffe3,Keto Philadelphia Roll (8 Adet),"37,00 TL",Keto Rolls,5.0
+b3184fdc-2af6-4f8d-8885-85c806edc234,Keto Roll (8 Adet),"37,00 TL",Keto Rolls,5.0
+ecd62734-2a7f-4c39-8f31-85b030a257f1,Green Dragon Roll (8 Adet),"38,00 TL",Keto Rolls,5.0
+a951281a-37bd-40c7-bc97-bc3b4c84e892,Avokado Keto Roll (8 Adet),"37,00 TL",Keto Rolls,5.0
+72aa9d2e-eb48-457e-bf0b-182354d2710b,Keto California Roll (8 Adet),"37,00 TL",Keto Rolls,3.0
+3f8da295-47bf-4e68-b467-2c24b8906937,Gunkan Chuka (Adet),"15,00 TL",Gunkan Rolls,5.0
+0bc8589f-c580-4b3d-b3a1-1d96745b388c,Gunkan Tobiko (Adet),"20,00 TL",Gunkan Rolls,5.0
+e63f2c85-bd95-43c3-9690-4866289e1132,Gunkan Hot Unagi (Adet),"25,00 TL",Gunkan Rolls,5.0
+d5e31ebf-5b1a-40fc-bbb5-f182e3dccd1f,Gunkan Hot Syake (Adet),"16,00 TL",Gunkan Rolls,5.0
+525b6595-9601-4e81-a007-add715ec3478,Gunkan Hot Ebi (Adet),"20,00 TL",Gunkan Rolls,5.0
+c0e601e8-7873-43f7-861b-0fe8d937d83e,Gunkan Spice Unagi (Adet),"28,00 TL",Gunkan Rolls,5.0
+9888b479-ffae-40af-b8c2-94c85bdad421,Gunkan Spice Syake (Adet),"16,00 TL",Gunkan Rolls,5.0
+93fd52eb-d005-4493-9c97-0da0c282c6f2,Gunkan Spice Ebi (Adet),"20,00 TL",Gunkan Rolls,5.0
+91f7f754-4519-44ce-84d3-3140d6485fe4,Suzuki Nigiri (12 Adet),"120,00 TL",Nigiri Sushi,6.0
+d9d58f1b-3e31-4b16-8516-143ac5b60d08,Kani Nigiri (Adet),"14,00 TL",Nigiri Sushi,6.0
+3888d4a4-a61f-4937-9a4e-72cadca91af5,Sake Nigiri (12 Adet),"140,00 TL",Nigiri Sushi,5.0
+aac4c6ae-7d56-4380-b967-b71182ed1581,Unagi Nigiri (Adet),"18,00 TL",Nigiri Sushi,6.0
+a973968f-db14-4588-94fe-b115b7f20914,Suzuki Nigiri (Adet),"12,00 TL",Nigiri Sushi,6.0
+a83beef8-197d-4562-b009-e72047109c4f,Ebi Nigiri (12 Adet),"150,00 TL",Nigiri Sushi,6.0
+af0519a5-ca85-4aa2-a71f-be005973a93f,Ebi Nigiri (Adet),"15,00 TL",Nigiri Sushi,6.0
+f49ff3bd-f414-4284-9105-99f76c3b9756,Sake Nigiri (Adet),"14,00 TL",Nigiri Sushi,5.0
+50bda56a-a3ec-467f-93e7-26644b421f2d,Tamago Nigiri (Adet),"10,00 TL",Nigiri Sushi,6.0
+871a30a0-732f-4e6e-b901-cd6da1eb526b,Mix Nigiri Set (12 Adet),"150,00 TL",Nigiri Sushi,6.0
+9faa819b-a1be-4d01-b658-681c29251f2e,Unagi Nigiri (12 Adet),"180,00 TL",Nigiri Sushi,6.0
+67951b8b-f20a-4d5d-9fcf-5f3c655f3915,Kani Nigiri (12 Adet),"140,00 TL",Nigiri Sushi,6.0
+040ad84f-d30e-4a36-b067-dc8b42bd502c,Ebi (Sashimi) (5 Adet),"45,00 TL",Sashimi Sushi,5.0
+13bab1f5-4a80-40eb-adce-c1a1047ff07d,Unagi (Sashimi) (5 Adet),"67,00 TL",Sashimi Sushi,5.0
+de68e9d2-d978-40ff-b368-6f716eb22d82,Tamago (Sashimi) (5 Adet),"32,00 TL",Sashimi Sushi,5.0
+7a8a91bf-d9df-45d2-a8e1-ca55814450a8,Sake (Sashimi) (5 Adet),"50,00 TL",Sashimi Sushi,4.0
+996932bd-0be5-4fd6-b8b4-a3b241630e80,Suzuki (Sashimi) (5 Adet),"45,00 TL",Sashimi Sushi,5.0
+16d6d7e4-22b2-4688-abe3-9ac6814a6230,Ekonomi Set (32 Adet),"95,00 TL",Sushi Setler,5.0
+d17389f3-a31f-40ae-bca4-11e502037186,Amerika Set (24 Adet),"110,00 TL",Sushi Setler,5.0
+b086bd1f-d1c0-4a33-a96e-09c7d254682d,Jakure Set (32 Adet),"140,00 TL",Sushi Setler,5.0
+e34bfdee-41ba-4aab-80c7-29357997b9c3,Çıtır Set (24 Adet),"105,00 TL",Sushi Setler,4.0
+98290a49-ff7b-4cf6-ad00-996e48fd1ab9,Arigato Hot Set (36 Adet),"145,00 TL",Sushi Setler,5.0
+87a4fec8-7a43-4fc2-a911-6e02e2c79a9a,Hanagesumi Set (20 Adet),"110,00 TL",Sushi Setler,5.0
+8c62b45b-233d-4158-a3f7-f1cecc6791b7,Çin Salatası,"22,00 TL",Salatalar,6.0
+a28c4ea2-aace-4924-9a72-9cb67f9d820c,Çiğ Balık Salatası,"35,00 TL",Salatalar,5.0
+2a8f4439-3956-4058-ae3e-afd1c7fe566f,Karides Salatası,"30,00 TL",Salatalar,6.0
+8bb7fe7d-2761-43f4-8354-01e060c91f53,Yosun Salatası,"27,00 TL",Salatalar,5.0
+d2b4d150-8133-446d-b895-6bcad69bcfdf,Yengeç Salatası,"28,00 TL",Salatalar,4.0
+3fb053f0-3b35-4aba-8ebc-78ec55aa146f,Soya Filizi Salatası,"25,00 TL",Salatalar,8.0
+b661829a-0d9a-48b1-90a4-44455501823e,Ballı Kızarmış Muz,"23,00 TL",Tatlılar,5.0
+271a576e-c99a-4bd0-9aa9-845e8a6fc22f,Kızarmış Ananas,"23,00 TL",Tatlılar,5.0
+815fbf21-4edd-4482-b46e-f59656584067,Kızarmış Dondurma,"23,00 TL",Tatlılar,5.0
+9c370cd4-f50d-4c57-8f2c-879fad1e1b19,Wasabi,"2,50 TL",Soslar,3.0
+cbbd9edf-4f79-47b5-9cf3-6f9628fe1be8,Zencefil Turşusu,"2,50 TL",Soslar,5.0
+da2abab3-0996-45de-a3d6-e115e35282f6,Teriyaki Sos,"2,50 TL",Soslar,4.0
+044995e0-89d7-4843-943e-b777b83e4118,Sriracha Sos,"2,50 TL",Soslar,4.0
+6c9b00e8-b43b-4341-992b-c6ed59aa894f,Soya Sos,"2,50 TL",Soslar,7.0
+a8ffe83b-5645-42ba-af5c-6413b153dee0,Hoisin Sos,"2,50 TL",Soslar,4.0
+f1b87d4d-8a27-41e2-9587-26012114594d,Poşet,"0,25 TL",Poşet,5.0

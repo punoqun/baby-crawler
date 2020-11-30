@@ -1,0 +1,40 @@
+food_id,food_name,food_price,food_category,food_score
+c8cadfc8-94e6-48f4-a584-8839e2cc9a87,Eminönü Usulü Balık Ekmek Menü 1,"30,00 TL",Menüler,15.0
+e3907ae0-477e-4fb1-ae5c-dc9a378c3da9,2'li Eminönü Usulü Balık Ekmek Menü,"58,00 TL",Menüler,17.0
+863E3630-9361-4102-9C98-A7AB19FD96D0,Eminönü Usulü Balık Ekmek Menü 2,"36,00 TL",Menüler,14.0
+524C76DE-0D4C-4E29-B913-3DF13EB5935A,Izgara Palamut,"65,00 TL",Balıklar,3.0
+DB659915-AF02-455E-BDAA-C0DA2F0D659D,İstavrit Tava,"40,00 TL",Balıklar,5.0
+85cc1925-355a-424a-947d-8cca094d4b21,Tava Palamut,"65,00 TL",Balıklar,3.0
+FF9FE974-2200-4E14-8437-4F9C57E9A331,Tekir Tava,"55,00 TL",Balıklar,4.0
+2E85606E-3820-41D7-936A-9F5A612F518E,Hamsi,"40,00 TL",Balıklar,4.0
+FFF34940-2F45-4CE9-AE97-2BEFB0F338B0,Kalamar Tava,"55,00 TL",Balıklar,5.0
+96B5960B-EA59-4E47-8D18-9690E583D818,Biberiyeli Izgara Somon,"75,00 TL",Balıklar,5.0
+5bf21618-d884-451b-a32d-ff96d9a723c4,Izgara Dil,"90,00 TL",Balıklar,5.0
+9e942082-7d87-47c6-a7a8-35c3b77f739c,Yerli Ahtapot Izgara,"55,00 TL",Balıklar,5.0
+ad46356c-1980-4b6e-ae35-e8109f9c51d8,Sebzeli Çipura,"60,00 TL",Balıklar,7.0
+c8b38fa7-18aa-48e0-a150-761e52b38375,Dil Kavurma,"90,00 TL",Balıklar,3.0
+d6971ddd-d2cc-4617-af0b-3cdd2a4f0ba6,Kağıtta Levrek,"60,00 TL",Balıklar,6.0
+EBC59070-B9E6-46E6-941C-E524BCF2FEA4,Fish & Chips,"50,00 TL",Balıklar,6.0
+f3029a45-4111-4ff5-af35-191ee821190e,Fener Kavurma,"65,00 TL",Balıklar,3.0
+f9fbd15d-d653-4e2d-84eb-69f62c7ef309,Levrek Kavurma,"60,00 TL",Balıklar,4.0
+56C8D8A2-DF08-4C94-B1E5-DF023E878B65,Izgara Levrek,"50,00 TL",Balıklar,6.0
+1C731D5C-578D-4513-B411-0080A4097F28,Izgara Çipura,"50,00 TL",Balıklar,5.0
+5150aa62-b89c-4e5f-a946-c73b358941c6,Balık Köfte (Adet),"12,00 TL",Ara Sıcaklar,23.0
+442bfb94-5e55-4491-b74a-2818ed88f065,Balık Kokoreç,"38,00 TL",Ara Sıcaklar,18.0
+b21e8d94-3bd8-4ccd-9c6d-93030efe4187,Balık Böreği (Adet),"12,00 TL",Ara Sıcaklar,18.0
+02978272-4D6F-4549-BB67-AA5B5F423EFE,Tereyağda Karides,"50,00 TL",Ara Sıcaklar,5.0
+31D1616E-B075-4326-A6CF-5B04E11F0FB7,Ekmek Arası Balık Kokoreç,"35,00 TL",Ekmek Arası Ürünler,17.0
+223C517C-BAF3-4B45-862C-C1104ABB9D39,Ekmek Arası Balık Köfte,"35,00 TL",Ekmek Arası Ürünler,17.0
+B55CF218-DE53-4965-8928-AEB10720147C,Tarama,"32,00 TL",Mezeler,5.0
+8B391BD2-9144-4A00-AD39-5F76D62999B8,Dilim Peyniri,"8,00 TL",Mezeler,5.0
+29c2e149-aaf4-4bce-a9b8-0cae2d911ffc,Balık Pastırma,"20,00 TL",Mezeler,18.0
+257ce33d-7144-4f80-ab17-c2fcf6ffca45,Kaya Koruğu,"14,00 TL",Mezeler,5.0
+eb3a1951-8318-412c-bcf6-51d215c99b0d,Kuru Börülce Salatası,"16,00 TL",Mezeler,4.0
+657bbb7b-4da4-4b2b-b254-b96ac3d4ab78,Vişne Turşusu,"12,00 TL",Mezeler,5.0
+BB17D02F-0BD2-49A7-BE49-752DC1EF038B,Çoban Salata,"18,00 TL",Salatalar,5.0
+2CDA6AF8-0FBB-4E9C-A4A1-F33345F548AD,Roka Salatası,"18,00 TL",Salatalar,6.0
+27104af2-ef1e-40a7-bab7-4fb9dc1aec71,İrmik Tatlısı,"16,00 TL",Tatlılar,6.0
+75df4799-4628-4869-9bce-549312d359e4,Adaşal Şalgam Suyu (30 cl.),"6,00 TL",İçecekler,5.0
+67178B05-257D-456D-9327-81CB5EC15263,Uludağ Soda (20 cl.),"4,00 TL",İçecekler,5.0
+e7e46de0-294b-4154-9c85-3d3fa6943fa0,Adaşal Şalgam Suyu (1 L.),"12,00 TL",İçecekler,5.0
+c2cb77cc-31b6-4f5d-9e38-b84c2375ab38,Poşet,"0,25 TL",Poşet,5.0

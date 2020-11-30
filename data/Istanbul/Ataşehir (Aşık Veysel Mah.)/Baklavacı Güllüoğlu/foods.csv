@@ -1,0 +1,48 @@
+food_id,food_name,food_price,food_category,food_score
+013fa4f7-7909-4e9c-8514-e70836e77845,Peynirli Su Böreği (250 gr.),"30,00 TL",Börekler,5.0
+fa4e9556-7608-4f51-b2c4-05a435ca492e,Peynirli Su Böreği (500 gr.),"49,00 TL",Börekler,5.0
+88eed218-0f12-4234-8335-e35fb02c5f88,Peynirli Su Böreği (1 kg.),"79,00 TL",Börekler,5.0
+82c819ab-8fa1-4dda-a918-7fee7e8777f0,Kıymalı Kol Böreği (500 gr.),"53,00 TL",Börekler,5.0
+cf92d48c-670b-49c6-9ccd-443759361027,Kıymalı Kol Böreği (250 gr.),"32,00 TL",Börekler,5.0
+d3e60939-b101-43d7-a848-42799086d19e,Kıymalı Kol Böreği,"20,00 TL",Börekler,5.0
+737d833d-39e7-4dcc-88e2-b6b3d27d0482,Tavukgöğsü,"22,00 TL",Sütlü Tatlılar,5.0
+af796396-6230-41d7-aa64-d72b7358e5bd,Fırın Sütlaç,"22,00 TL",Sütlü Tatlılar,5.0
+7753b96d-2ac9-4048-a95d-630f401375f5,Kazandibi,"22,00 TL",Sütlü Tatlılar,5.0
+40120574-a332-4001-b3a4-bec4715f745d,Profiterol,"26,00 TL",Sütlü Tatlılar,5.0
+288346a2-5f5f-4cbc-b123-3c81816f6404,Katmer,"49,00 TL",Spesiyal Tatlılar,5.0
+A86B63B8-BCD8-4DB0-937A-2834882F3463,Soğuk Baklava,"39,00 TL",Şerbetli Tatlılar,3.0
+708D090C-070D-4D6B-BD71-653E14D6F0E2,Soğuk Baklava (250 gr.),"50,00 TL",Şerbetli Tatlılar (250 gr.),3.0
+B8502A3E-07FA-42D3-A529-4F9C3E098346,Soğuk Baklava (500 gr.),"90,00 TL",Şerbetli Tatlılar (500 gr.),3.0
+A4EC25CE-BA2C-49FE-9D34-F6AF2D1ECD8B,Soğuk Baklava (1 kg.),"170,00 TL",Şerbetli Tatlılar (1 kg.),3.0
+6FF8C867-8043-4C14-9CF3-4EE1E262CAB6,Mois Pasta (No: 0) (6 - 8 Kişilik),"80,00 TL",Pastalar,8.0
+ABD810C3-A621-4678-9977-261112265888,Mois Pasta (No: 1) (10 - 12 Kişilik),"95,00 TL",Pastalar,7.0
+0BCD2CF6-A2EB-41AC-8EDD-100E51D6D496,Mois Pasta (Adet),"29,00 TL",Pastalar,7.0
+d08244d8-cc70-4775-93ac-783d019b37e9,Fıstıklı Çikolatalı Pasta (Adet),"29,00 TL",Pastalar,9.0
+efb2eb36-79b6-41ba-9d40-6cc5003bbaf2,Meyveli Pasta (Adet),"29,00 TL",Pastalar,7.0
+cd264428-30cb-4742-b202-b6a5799f5f76,Çikolatalı Pasta (Adet),"29,00 TL",Pastalar,7.0
+7578d4ce-c7b7-490d-bddc-c7c0ba6ab278,Frambuazlı Çikolatalı Pasta (Adet),"29,00 TL",Pastalar,7.0
+334ac934-d746-41b6-8d35-b9f6ab507e48,Çilekli Pasta (No: 0) (6 - 8 Kişilik),"80,00 TL",Pastalar,8.0
+db7deb39-b3f4-4e9c-a970-dfecb6e91652,Frambuazlı Çikolatalı Pasta (No: 0) (6 - 8 Kişilik),"80,00 TL",Pastalar,8.0
+2aac3ee8-aea1-4377-9b47-1b44c1460515,Ballı İncirli Cevizli Pasta (No: 0) (6 - 8 Kişilik),"80,00 TL",Pastalar,8.0
+a97e85e4-3bfc-4af1-85fa-6723babfe6da,Kokteyl Pasta (No: 0) (6 - 8 Kişilik),"80,00 TL",Pastalar,8.0
+5a703412-a373-4241-ac6b-7b231a082f40,Frambuazlı Çikolatalı Pasta (No: 1) (10 - 12 Kişilik),"95,00 TL",Pastalar,7.0
+6c663737-a603-4d53-b2ea-36eff6bea9ff,Kokteyl Pasta (No: 1) (10 - 12 Kişilik),"95,00 TL",Pastalar,7.0
+6ec3c16a-0338-4e5f-be4a-d35c7f101647,Ballı İncirli Cevizli Pasta (No: 1) (10 - 12 Kişilik),"95,00 TL",Pastalar,7.0
+7c15d615-cd9b-462f-8db4-774460f0d502,Profiterollü Pasta (No: 1) (10 - 12 Kişilik),"95,00 TL",Pastalar,7.0
+1e1d110b-375f-4398-b88c-3bf043de3f6e,Cezerye Lokum (500 gr.),"44,00 TL",Lokumlar,5.0
+1938f5ba-be78-4eeb-8d7a-8f5a48d0b574,Asorti Karışık Lokum (500 gr.),"41,00 TL",Lokumlar,5.0
+dbc8d080-4573-494a-b583-9f7485562f3d,Spesiyal Sultan Lokum (500 gr.),"37,00 TL",Lokumlar,5.0
+655fc738-f758-4131-b376-6deb28458022,Klasik Sade Lokum (500 gr.),"29,00 TL",Lokumlar,5.0
+2e634b1f-aedb-4173-86b7-1cc6c184c4b9,Sade Dondurma (50 gr.),"9,00 TL",Dondurmalar,5.0
+e11f1a05-a7b3-493a-869a-8f53ebb53eb6,Sade Dondurma (500 gr.),"40,00 TL",Dondurmalar,5.0
+110286C4-C2A7-49E9-8881-8F3117BB73FF,Çikolatalı Dondurma (500 gr.),"40,00 TL",Dondurmalar,5.0
+70CF7501-F24B-43A9-A8A9-E9153F31D4FD,Sade & Çikolatalı Dondurma (500 gr.),"40,00 TL",Dondurmalar,5.0
+30AF52B5-4E03-44D3-AC3B-AE9CE9F70AA3,Karışık Dondurma (500 gr.),"40,00 TL",Dondurmalar,5.0
+202758fa-0f3b-4483-8eac-3e9a6e0fc6be,Coca-Cola Şekersiz (25 cl.),"8,00 TL",İçecekler,5.0
+267c8b11-0728-4c4a-adb2-e430c92d9fce,Fanta (25 cl.),"8,00 TL",İçecekler,5.0
+32ac1283-341a-4451-a05d-d40517d051f8,Sprite (25 cl.),"8,00 TL",İçecekler,5.0
+f97fa601-6c26-4a5c-9063-365210924dd4,Cappy (20 cl.),"5,00 TL",İçecekler,5.0
+e502d8b6-c282-4ad8-bc63-691895dad713,Şipa Kızılcık Suyu (1 L.),"29,00 TL",İçecekler,5.0
+d60369fc-81cb-44e3-837d-5d030729cc48,Şira Şıra (1 L.),"29,00 TL",İçecekler,5.0
+0c93a020-6165-4e7f-8b0b-cb12c22112b8,Şipa Demirhindi Şerbeti (1 L.),"29,00 TL",İçecekler,5.0
+a3721cd3-53d5-4790-822a-6914702bc892,Poşet,"0,25 TL",Poşet,5.0

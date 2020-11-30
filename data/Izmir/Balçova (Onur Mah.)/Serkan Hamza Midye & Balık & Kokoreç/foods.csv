@@ -1,0 +1,48 @@
+food_id,food_name,food_price,food_category,food_score
+f8d37fff-7180-421a-bca1-9d975e8ad67d,Izgara Çipura Menü,"58,00 TL",Menüler,5.0
+fdd6b386-4f26-47c4-b080-98f3b67ea8f1,Mezgit Menü,"53,00 TL",Menüler,7.0
+B1D716CA-3BAC-4AEE-876B-0F372E43D46C,Izgara Granyoz Menü,"63,00 TL",Menüler,5.0
+621135f4-4fdb-410f-bfe6-dcc7a49f2a83,Hamsi Menü,"41,00 TL",Menüler,5.0
+f9838f4e-f1d9-48fa-94bd-6228f372caa9,Izgara Köfte Menü,"45,00 TL",Menüler,5.0
+7c91f5c3-da8b-4e90-a5d6-b27d028cc672,Izgara Levrek Menü,"58,00 TL",Menüler,5.0
+e8497385-72e1-4103-a2cf-74832ece2788,Sardalya Menü,"45,00 TL",Menüler,6.0
+83b9da11-5b9a-4ebd-8697-4505cbbef3cd,Izgara Somon Menü,"63,00 TL",Menüler,5.0
+c02c21a8-f650-4689-b30b-9f26b689947f,Izgara Tavuk Menü,"43,00 TL",Menüler,5.0
+359ec7bc-17db-4f09-aba7-6db299b928b5,Ekmek Arası Hamsi Menü,"34,00 TL",Menüler,4.0
+959b6874-172d-4e39-b757-67be2cde585b,Ekmek Arası Izgara Köfte Menü,"39,00 TL",Menüler,4.0
+49a56a46-ccec-41f6-ac86-a275b9bdae9d,Ekmek Arası Levrek Menü,"45,00 TL",Menüler,4.0
+2e8e208b-c64a-4ec0-bf61-18eb926eedd0,Ekmek Arası Mezgit Menü,"48,00 TL",Menüler,6.0
+b9f9614c-1a96-4dfc-a1d1-998f7f0ad1d7,Ekmek Arası Sardalya Menü,"36,00 TL",Menüler,5.0
+c2b3392e-539f-48e0-8034-85eee05d0523,Ekmek Arası Izgara Tavuk Menü,"37,00 TL",Menüler,4.0
+ED9ED042-EA56-472B-9069-B304B4058C05,Patates Kızartması,"25,00 TL",Yan Ürünler,5.0
+4d455993-2eb9-486f-b9a3-655fd6a24c44,Ekmek Arası Sardalya,"22,00 TL",Ekmek Arası Ürünler,5.0
+99a4f199-25e8-4a3b-a76f-ce0082d3c647,Ekmek Arası Midye,"23,00 TL",Ekmek Arası Ürünler,2.0
+a8efc4a5-b586-4e47-84bf-388604c39de3,Ekmek Arası Hamsi,"18,00 TL",Ekmek Arası Ürünler,4.0
+bb3721aa-eeea-448b-a42f-c7b9f2a98c42,Ekmek Arası Levrek,"28,00 TL",Ekmek Arası Ürünler,4.0
+dd46af3a-3f41-443b-a87d-d5cfefc21bf7,Ekmek Arası Mezgit,"33,00 TL",Ekmek Arası Ürünler,6.0
+6E2C0B09-1424-45AE-A1A6-A2BDB69D058E,Midye Tava,"30,00 TL",Balıklar,3.0
+318A204D-190D-4069-91EB-A9C63ED8D739,Izgara Granyoz,"46,00 TL",Balıklar,5.0
+bfae2641-9521-41ab-bf7b-4314e60faaf5,Mezgit,"40,00 TL",Balıklar,7.0
+07e79192-5609-4c3e-9301-da4459c18f22,Izgara Levrek,"41,00 TL",Balıklar,5.0
+d43eb200-25be-402d-bac3-9403f94f577e,Izgara Çipura,"41,00 TL",Balıklar,5.0
+64792ba7-9647-476d-a7e6-baa471dc719c,Izgara Somon,"44,00 TL",Balıklar,5.0
+ea0d8369-1938-4ab4-94e3-16903c15a92c,Sardalya,"28,00 TL",Balıklar,6.0
+05853a21-add7-471b-b426-69daf4ef425a,Hamsi,"25,00 TL",Balıklar,5.0
+a8b042a3-a251-4ab1-b71c-447d0d9a2c53,Izgara Köfte,"40,00 TL",Köfteler,5.0
+0f8e3f5c-b4c9-491e-bdfb-f5d3632edc03,Ekmek Arası Izgara Köfte,"25,00 TL",Köfteler,4.0
+029abeb2-2ee7-49e4-93d4-f5c35151460f,Izgara Tavuk,"27,00 TL",Tavuklar,5.0
+c980819d-2feb-4288-80e8-3918803e7e68,Ekmek Arası Izgara Tavuk,"23,00 TL",Tavuklar,4.0
+306AE09C-B061-464E-A50E-5A7DCB47F8A1,Yarım Ekmek Arası Kokoreç,"24,00 TL",Kokoreçler,9.0
+77DD7F0E-BF98-4C6C-8161-95D2E5C120CC,Çeyrek Ekmek Arası Kokoreç,"16,00 TL",Kokoreçler,4.0
+FF0245FF-ED50-4E38-998F-600C57F9E310,3/4 Ekmek Arası Kokoreç,"39,00 TL",Kokoreçler,4.0
+157A9F59-D67E-4294-85F3-DC00AF2102F4,Kokoreç,"44,00 TL",Kokoreçler,5.0
+C7CA1F0D-7E13-4CFF-A134-9D8C813E90FC,Atom Ekmek Arası Kokoreç,"32,00 TL",Kokoreçler,4.0
+1E8CA5D9-CB5E-46D4-B023-8A8F1B07EB8C,Atom Kokoreç,"52,00 TL",Kokoreçler,5.0
+768BF972-D6E3-4F13-9FC6-9556F9BD2BF1,Sayko Kokoreç,"47,00 TL",Kokoreçler,5.0
+04c8cfc8-7bec-4804-9ef7-dba780f63d7c,Tereyağlı Karides,"70,00 TL",Diğer Lezzetler,5.0
+6020655b-8163-409a-aa92-72289b2dd04f,Karides Güveç,"75,00 TL",Diğer Lezzetler,5.0
+78ba223c-b9db-424c-8e84-bbdaca4a0c34,Midye Güveç,"55,00 TL",Diğer Lezzetler,3.0
+c7dbfb0b-15d5-4ae0-b116-8b2d2160a122,Kalamar Tava,"85,00 TL",Diğer Lezzetler,4.0
+A5A2A175-ED63-4DA0-AAFE-4202D3049AFA,Midye Dolma (500 gr.),"27,50 TL",Midye Dolmalar,8.0
+7489eb4e-dd1a-4b71-b029-aa4ee2143516,Midye Dolma (1 kg.),"55,00 TL",Midye Dolmalar,8.0
+63ad9bd8-c671-4528-985b-005053eb72c3,Doğanay Şalgam Suyu (33 cl.),"7,00 TL",İçecekler,5.0

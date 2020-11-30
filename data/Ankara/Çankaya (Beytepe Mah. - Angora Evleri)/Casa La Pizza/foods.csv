@@ -1,0 +1,67 @@
+food_id,food_name,food_price,food_category,food_score
+3395b17e-db7f-47d0-9ceb-3ba254fed70b,2'li Büyük Boy Classico Pizza Menü,"94,90 TL",Classico Pizza Menüleri,33.0
+fe030e11-489a-46fc-91a2-77d72f766828,2'li Orta Boy Classico Pizza Menü,"89,90 TL",Classico Pizza Menüleri,33.0
+8c6d9049-fca7-4598-826a-2e988cded261,2'li Küçük Boy Classico Pizza Menü,"74,90 TL",Classico Pizza Menüleri,33.0
+0ae5c86c-1cbe-4517-a3d5-653d17ad8ccf,Kardeşler Pizza Menü,"104,90 TL",Classico Pizza Menüleri,33.0
+41df4906-c3c4-4be2-a73d-310f8f246322,Abone Pizza Menü,"99,90 TL",Classico Pizza Menüleri,33.0
+f08d71c4-bc09-4cfc-906a-b96f4f1348cd,Acıktık Pizza Menü,"84,90 TL",Classico Pizza Menüleri,33.0
+6936fd27-894c-44cb-892a-659c6af84142,Büyük Boy Classico Pizza Menü,"69,90 TL",Classico Pizza Menüleri,33.0
+54bc7147-e850-4fbb-b72d-4f9e9695191a,Orta Boy Classico Pizza Menü,"64,90 TL",Classico Pizza Menüleri,33.0
+b18ddffc-b0fa-4eda-9619-903dc8a42688,Küçük Boy Classico Pizza Menü,"54,90 TL",Classico Pizza Menüleri,33.0
+0ad34a62-c682-401c-9a5e-402f127511ff,2'li Büyük Boy Misto Pizza Menü,"99,90 TL",Misto Pizza Menüleri,33.0
+7b526538-9081-49d3-b6c3-f6e9267bd74a,2'li Orta Boy Misto Pizza Menü,"94,90 TL",Misto Pizza Menüleri,33.0
+af505a73-c814-45ca-82f6-bb3e471ec2a4,2'li Küçük Boy Misto Pizza Menü,"89,90 TL",Misto Pizza Menüleri,33.0
+b3142031-ae1d-4b9d-a9a3-14302d27ed71,Ortaklar Menü,"109,90 TL",Misto Pizza Menüleri,5.0
+f9fd2d9c-9b67-4563-8349-2fb770c9019b,Kanka Pizza Menü,"104,90 TL",Misto Pizza Menüleri,33.0
+232c6327-c167-4d41-afaa-ef8360486d2c,Casa La Pizza Menü,"89,90 TL",Misto Pizza Menüleri,32.0
+bafd5f3f-a397-4eec-ba66-da2ae3bfa76b,Büyük Boy Misto Pizza Menü,"74,90 TL",Misto Pizza Menüleri,33.0
+ce094f46-acd2-43af-a0da-205aa103743d,Orta Boy Misto Pizza Menü,"69,90 TL",Misto Pizza Menüleri,33.0
+4d2805f8-c9cd-4f2c-b9b6-ef3c46404f73,Küçük Boy Misto Pizza Menü,"62,90 TL",Misto Pizza Menüleri,33.0
+f6348582-1626-4efb-83ae-cd28ffd0c863,2'li Büyük Boy Turco Pizza Menü,"109,90 TL",Turco Pizza Menüleri,33.0
+229cbd9f-f5f3-4911-9cbd-3bdf801f780f,2'li Orta Boy Turco Pizza Menü,"104,90 TL",Turco Pizza Menüleri,33.0
+807978fa-b593-4bab-8f7c-478a6c5edde8,2'li Küçük Boy Turco Pizza Menü,"94,90 TL",Turco Pizza Menüleri,33.0
+f36543fd-9c54-405d-8aba-a533a68f8c26,Parti Pizza Menü,"114,90 TL",Turco Pizza Menüleri,33.0
+6bcb4979-a0c5-415f-aac7-4b69907a8b98,Çılgın Pizza Menü,"114,90 TL",Turco Pizza Menüleri,33.0
+eba65484-4937-40d1-81af-efc1674e0e49,Friends Pizza Menü,"104,90 TL",Turco Pizza Menüleri,33.0
+c3a31bf8-c859-44e2-8191-0980b482fd35,Büyük Boy Turco Pizza Menü,"84,90 TL",Turco Pizza Menüleri,33.0
+5c0828a3-ec27-4613-af21-29b7cbf55dbf,Orta Boy Turco Pizza Menü,"79,90 TL",Turco Pizza Menüleri,33.0
+d69bf7c9-4b8f-4f04-ab68-21c24ad8f33e,Küçük Boy Turco Pizza Menü,"69,90 TL",Turco Pizza Menüleri,33.0
+351a970a-e638-4cfc-880f-aa2f45e80ae5,Aile Boyu Pizza Menü,"169,00 TL",Promosyon Menüler,33.0
+0beee51e-66f1-471b-8161-269eb509eaa8,Menü 1,"109,90 TL",Promosyon Menüler,13.0
+efd8f307-f5d7-4b5a-a5a8-e8dd2b4f3003,Menü 2,"104,90 TL",Promosyon Menüler,16.0
+8b847d1d-8fe9-47ab-ac28-fea49a4ad075,Menü 3,"109,90 TL",Promosyon Menüler,11.0
+7f34cdf4-0fe6-454b-aa68-b4d11fe0b2c0,Menü 4,"89,90 TL",Promosyon Menüler,4.0
+12a34d08-77bd-4da9-8f51-42589ffcc94c,Sosisli Mantarlı Pizza,"29,90 TL",Kahvaltılık Pizzalar,34.0
+E7A9847A-BB2A-4A92-8350-875226E04829,Deniz Feneri Pizza (Küçük) (İnce Hamur),"44,90 TL",Küçük Boy Pizzalar (22 cm.),36.0
+ef69c878-459a-4ad2-870a-6f0c5a1acc73,Pesto 4 Lezzet Pizza (Küçük) (İnce Hamur),"39,90 TL",Küçük Boy Pizzalar (22 cm.),51.0
+ea640ba3-6feb-44db-9f7d-07e6236cfbf9,Sosisli Pizza (Küçük) (İnce Hamur),"31,90 TL",Küçük Boy Pizzalar (22 cm.),34.0
+af6b80c6-72d2-43b8-87e4-0011e9e74604,Deniz Feneri Pizza (Orta),"54,90 TL",Orta Boy Pizzalar (27 cm.),36.0
+681a6635-3290-460f-b1d9-86764caf7357,Pesto 4 Lezzet Pizza (Orta),"49,90 TL",Orta Boy Pizzalar (27 cm.),51.0
+f0c9ff9c-8409-45aa-a386-2a83cf1974cc,Sosisli Pizza (Orta),"39,90 TL",Orta Boy Pizzalar (27 cm.),34.0
+2b845585-42f7-4d95-a8e8-41ce6497c52b,Deniz Feneri Pizza (Büyük),"59,90 TL",Büyük Boy Pizzalar (33 cm.),36.0
+a1e2261f-d1f4-499e-b66d-35a2cd5da7f5,Pesto 4 Lezzet Pizza (Büyük),"54,90 TL",Büyük Boy Pizzalar (33 cm.),51.0
+510a81d3-bd37-462f-827a-8af3459d4594,Pesto Pizza (Büyük),"54,90 TL",Büyük Boy Pizzalar (33 cm.),32.0
+ac190475-81e4-4e43-8949-96b085bd339c,Sosisli Pizza (Büyük),"44,90 TL",Büyük Boy Pizzalar (33 cm.),34.0
+af935ccc-6fd6-47ff-a029-655307eb48f8,Atıştırma Sepeti,"29,90 TL",Yan Ürünler,5.0
+65A684A8-3D61-4D6B-B14A-E635F1FDAA6E,Kızartma İçli Köfte (Adet),"10,00 TL",Yan Ürünler,7.0
+CB11E98F-6EC9-4D6E-B8ED-07720FBB4BFD,Kıymalı Çiğ Börek,"22,00 TL",Yan Ürünler,7.0
+34094aed-6b09-473c-84fb-b93e495e1baf,Peynirli Sigara Böreği (6 Adet),"14,90 TL",Yan Ürünler,4.0
+3133a942-0606-418f-b659-c1883d5e3073,Elma Dilim Patates Kızartması,"14,90 TL",Yan Ürünler,4.0
+3cbf65b4-621b-4359-9989-19e6d3102ddf,Soğan Halkası (10 Adet),"12,90 TL",Yan Ürünler,5.0
+9b5ba9e6-0f71-49d5-91ef-d7f6abdd13ee,Soğan Halkası (16 Adet),"15,90 TL",Yan Ürünler,5.0
+9247b524-4e2c-4904-a662-a507d25d584b,Mozarella Sticks (6'lı),"14,90 TL",Yan Ürünler,5.0
+d6c11d03-20c0-46d6-87bb-f200959ded1f,Mozarella Sticks (10'lu),"19,90 TL",Yan Ürünler,5.0
+f7c55e24-1361-445b-b390-f69042dcf408,Tavuk Nuggets (10'lu),"16,90 TL",Yan Ürünler,7.0
+435a7df1-b42f-4216-b146-0af4a721e58b,Peynirli Roka Salatası,"21,90 TL",Salatalar,7.0
+8b506cb9-71bd-49b5-9404-433d8ecba52b,Ton Balıklı Salata,"26,90 TL",Salatalar,5.0
+455a96d8-28af-49c3-993d-2a4084dc6514,Sezar Salata,"21,90 TL",Salatalar,5.0
+58e931b9-61a2-4706-a271-8b6daa0f1a1a,Tavuklu Sezar Salata,"26,90 TL",Salatalar,7.0
+1ebd4cfa-11b8-4602-9214-432e0c5f6f69,Bonfileli Sezar Salata,"32,90 TL",Salatalar,7.0
+e6437537-2a8c-4f86-864b-159a7251a9d1,Çikolatalı Sufle (3 Adet),"27,90 TL",Tatlılar,6.0
+4f7b719a-b04b-4740-82e3-d77642fda371,Tiramisu (3 Adet),"35,90 TL",Tatlılar,5.0
+ca0694a9-f17e-4cee-a0f2-0d9e66e6fa91,Çikolatalı Cheesecake,"17,00 TL",Tatlılar,8.0
+6366ed84-4d5f-46ff-b5cf-f4f2a8b099ce,Jalapeno Acı Biber,"2,50 TL",Soslar,5.0
+b5b58eae-9ca8-4dba-8c23-e279e924c04d,Pesto Sos,"2,50 TL",Soslar,5.0
+16370b7b-2941-4764-bbd4-02040feafeba,Acı Zeytinyağı,"2,50 TL",Soslar,5.0
+8f21755c-0a90-44d1-ad7e-29a1bcdfe92a,Toz Parmesan Peyniri,"2,50 TL",Soslar,5.0
+62a66045-5efd-4061-bfad-8c91d1465431,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,43 @@
+food_id,food_name,food_price,food_category,food_score
+86095530-ace4-474b-8fb3-6001f7cc668d,Menü 1,"12,00 TL",Menüler,-3.0
+d3316cb2-5882-449a-94a0-d3eb8e391b4f,Menü 2,"19,00 TL",Menüler,-4.0
+5c158488-17e5-43c9-8a0c-a4474f3a9f19,Menü 3,"17,00 TL",Menüler,-1.0
+ecc6b45d-4aca-4964-953c-2362d221de6a,Menü 4,"25,00 TL",Menüler,-2.0
+4a539e86-fc01-499a-bb1e-9de8208f2d46,Menü 5,"28,00 TL",Menüler,0.0
+8c4507c3-b365-4b1b-90f6-f31b78f35bb9,Menü 6,"17,00 TL",Menüler,1.0
+ffd04d17-02b8-4050-9c65-00a634269f1c,Menü 7,"19,00 TL",Menüler,1.0
+f59514b1-50fc-435d-b362-57fd45fc0c5d,Menü 8,"24,00 TL",Menüler,1.0
+579aa6f8-e51d-49fc-be1c-dff4859f8787,Menü 9,"26,00 TL",Menüler,-1.0
+0bc81ef9-3418-44c5-bbba-0ecc2f9e9af0,Menü 10,"18,00 TL",Menüler,3.0
+a2ed3a74-0b28-4c88-945d-4ba85dc84089,Menü 11,"25,00 TL",Menüler,5.0
+df2e0596-173f-4562-866c-a90c5200e0f6,Et Döner,"23,00 TL",Et Dönerler,10.0
+bc18e1a0-6740-40ae-a881-a127d2511101,Pilav Üstü Et Döner,"24,00 TL",Et Dönerler,10.0
+90e1726b-d5b1-488b-a3a0-f80a970d7a95,İskender (Et Dönerden),"25,00 TL",Et Dönerler,4.0
+42c9eca7-1f46-49c9-8cfd-0e9ac45d6e13,Yarım Ekmek Arası Et Döner,"16,00 TL",Et Dönerler,10.0
+7016a6b1-aa37-4d06-b020-595617d73c1e,Et Döner Dürüm,"17,00 TL",Et Dönerler,7.0
+cb79faf3-1661-4511-af6c-05c48b37071a,Tombik Ekmek Arası Et Döner,"16,00 TL",Et Dönerler,10.0
+8913720b-0f24-471a-8a70-14f24a7868a1,Kaşarlı Et Döner Dürüm,"19,00 TL",Et Dönerler,7.0
+ca08a040-4634-4c5a-88d0-3abf38078f9f,Jumbo Et Döner Dürüm,"23,00 TL",Et Dönerler,7.0
+9109e4ea-5155-4768-846c-5add32f43984,Maxi Et Döner Dürüm (50 cm.),"24,00 TL",Et Dönerler,6.0
+23243ac7-a0c4-442d-89b0-c88fd95871ba,Tavuk Döner,"16,00 TL",Tavuk Dönerler,15.0
+9e2ad520-a480-4e9a-a380-ad7ae6c044db,Pilav Üstü Tavuk Döner,"17,00 TL",Tavuk Dönerler,15.0
+b4bd277a-228a-49c9-a8ce-24044d41e3d9,İskender (Tavuk Dönerden),"18,00 TL",Tavuk Dönerler,4.0
+5d0a81d3-6311-4d0b-b47e-65c2e5695456,Yarım Ekmek Arası Tavuk Döner,"7,00 TL",Tavuk Dönerler,20.0
+e121b579-1522-480e-909f-eb1df7dbd768,Tombik Ekmek Arası Tavuk Döner,"7,50 TL",Tavuk Dönerler,15.0
+b6642c7b-03f6-45ba-bd25-4712baf14e40,Tavuk Döner Dürüm,"10,00 TL",Tavuk Dönerler,17.0
+761daa51-24a5-43e2-9222-50176adfcded,Kaşarlı Tavuk Döner Dürüm,"13,00 TL",Tavuk Dönerler,12.0
+15dacd6e-72dd-4857-970d-209e9e8544f0,Jumbo Tavuk Döner Dürüm,"14,00 TL",Tavuk Dönerler,12.0
+0fb5b55a-e07d-4881-a63a-ce6915c98e28,Maxi Tavuk Döner Dürüm (50 cm.),"14,00 TL",Tavuk Dönerler,16.0
+8e7a72f6-f390-402e-ae56-0c7485db5669,Patates Kızartması,"10,00 TL",Yan Ürünler,13.0
+ebe6dbea-80dd-4cce-a5a1-4e3f65388e9b,Patso Külahı,"6,00 TL",Yan Ürünler,3.0
+6f4be0cc-69d7-484f-8743-72549ad8af5d,Sütlaç,"12,00 TL",Tatlılar,5.0
+d6058454-987b-4a28-a041-a981a30ef1c2,Algida Maraş Usulü Cup Dondurma (100 ml.),"6,00 TL",Dondurmalar,5.0
+cb1363c4-7a64-40dd-b79c-3ec9109ddd9f,Carte d'Or Monoportion Çikolata Karnavalı (105 ml.),"7,00 TL",Dondurmalar,5.0
+9201dcc8-71a5-498a-b043-4d6c6b959762,Carte d'Or Monoportion Çilek Yoğurt (105 ml.),"7,00 TL",Dondurmalar,5.0
+d55c6a86-bc0b-41b0-ae0f-b9e2a9437f85,Algida FS Cup Premium Kaymak (100 ml.),"8,00 TL",Dondurmalar,5.0
+23257ec6-4160-49d4-8bdf-609bae4d3505,Algida FS Cup Premium Çikolata (100 ml.),"8,00 TL",Dondurmalar,5.0
+4080cc81-f155-45ce-89b4-78da7ddcd9d8,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"13,00 TL",Dondurmalar,5.0
+e2c7b05f-7bf6-4861-8845-7b96493d5c6a,Algida Carte d'Or Volcano Cup (160 ml.),"14,00 TL",Dondurmalar,5.0
+35ad500f-cab3-46ee-914a-2c96517d23b1,Su,"2,00 TL",İçecekler,7.0
+3ee24fb5-22d4-4c10-8ca6-44c0053b0d93,"Yedigün (2,5 L.)","9,50 TL",İçecekler,5.0
+5a06c070-e99c-4d6e-bfcb-6b216c05b1af,Poşet,"0,25 TL",Poşet,6.0

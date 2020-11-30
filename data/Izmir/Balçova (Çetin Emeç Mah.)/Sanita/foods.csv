@@ -1,0 +1,96 @@
+food_id,food_name,food_price,food_category,food_score
+1e983d56-206b-42c1-b7ef-52773e9f3d71,Sahanda Yumurta,"18,00 TL",Sabah Keyfi,5.0
+SNTA021603,Sanita Kahvaltı,"28,00 TL",Sabah Keyfi,5.0
+0aeb2dd1-03ce-475b-bead-93b5c7dd8e59,Kaşarlı Omlet,"13,00 TL",Sabah Keyfi,5.0
+dfd714b4-3630-41a3-8008-e2f3ce6d29a9,Sucuklu Omlet,"15,00 TL",Sabah Keyfi,5.0
+064ba49b-f614-4952-ae2a-766f7bce5a10,Kaşarlı Sucuklu Omlet,"18,00 TL",Sabah Keyfi,5.0
+b20ad841-dfb4-41de-9578-811f58ffd2ca,Kaşarlı Mantarlı Omlet,"17,00 TL",Sabah Keyfi,5.0
+SNTA021601,Sade Omlet,"13,00 TL",Sabah Keyfi,5.0
+SNTA021602,Karışık Omlet,"18,00 TL",Sabah Keyfi,5.0
+SNTA020101,Domatesli Kaşarlı Tost,"15,00 TL",Sandviçler,5.0
+2354ffd4-4c97-460a-a219-c75ae84a503a,Sucuklu Domatesli Tost,"16,00 TL",Sandviçler,5.0
+b93c2262-17d3-496b-b844-91e6b3769be1,Karışık Tost,"17,00 TL",Sandviçler,5.0
+SNTA020102,Hamburger,"17,00 TL",Sandviçler,5.0
+SNTA020103,Hot Dog,"15,00 TL",Sandviçler,5.0
+SNTA020104,Yengen,"16,00 TL",Sandviçler,5.0
+SNTA020105,Tavuklu Sandviç,"16,00 TL",Sandviçler,5.0
+SNTA020106,Yarım Ekmek Arası Köfte,"17,00 TL",Sandviçler,5.0
+SNTA020107,Sanita Burger,"19,00 TL",Sandviçler,5.0
+SNTA020201,Tavuklu Soğuk Sandviç,"17,00 TL",Soğuk Sandviçler,5.0
+SNTA020202,Jambonlu Soğuk Sandviç,"17,00 TL",Soğuk Sandviçler,5.0
+SNTA020203,Ton Balıklı Soğuk Sandviç,"17,00 TL",Soğuk Sandviçler,5.0
+SNTA020204,Club Sandviç,"23,00 TL",Soğuk Sandviçler,5.0
+SNTA020301,Ispanaklı Krep,"20,00 TL",Krepler,5.0
+SNTA020302,Tavuklu Krep,"22,00 TL",Krepler,10.0
+SNTA020303,Karışık Krep,"22,00 TL",Krepler,5.0
+SNTA020401,Pomfrit,"15,00 TL",Aperatifler,5.0
+SNTA020402,Elma Dilimli Patates,"16,00 TL",Aperatifler,5.0
+SNTA020403,Fırın Mantar,"20,00 TL",Aperatifler,5.0
+SNTA020404,Mantar Sote,"20,00 TL",Aperatifler,5.0
+SNTA020405,Sosis Dolma,"20,00 TL",Aperatifler,5.0
+SNTA020406,Mösyö Crok,"23,00 TL",Aperatifler,5.0
+SNTA020407,Fırın Patates,"23,00 TL",Aperatifler,5.0
+SNTA020501,Rus Salatası,"17,00 TL",Salatalar,5.0
+SNTA020502,Mevsim Salata,"15,00 TL",Salatalar,5.0
+SNTA020503,Tavuklu Şef Salata,"18,00 TL",Salatalar,5.0
+SNTA020504,Greek Salata,"18,00 TL",Salatalar,5.0
+SNTA020505,Ton Balıklı Salata,"18,00 TL",Salatalar,5.0
+SNTA020601,Soya Soslu Tavuk Salata,"18,00 TL",Sıcak Salatalar,5.0
+SNTA020602,Teriyaki Soslu Tavuklu Salata,"18,00 TL",Sıcak Salatalar,5.0
+SNTA020603,Susamlı Tavuklu Salata,"18,00 TL",Sıcak Salatalar,5.0
+SNTA020604,Köri Soslu Tavuk Salata,"18,00 TL",Sıcak Salatalar,5.0
+SNTA020605,Tavuklu Cesar Salata,"18,00 TL",Sıcak Salatalar,5.0
+SNTA020606,Bonfile Cesar Salata,"21,00 TL",Sıcak Salatalar,5.0
+96a903d6-f3e4-456d-86ad-d2463d753a22,Tavuklu Sanita Salata,"21,00 TL",Sıcak Salatalar,5.0
+012e26e4-5abb-4629-98e0-989d8448f64d,Bonfileli Sanita Salata,"23,00 TL",Sıcak Salatalar,5.0
+SNTA020701,Penne Arrabbiata,"20,00 TL",Makarnalar,5.0
+SNTA020702,Penne Primivare,"20,00 TL",Makarnalar,5.0
+SNTA020703,Penne Ala Pane,"21,00 TL",Makarnalar,10.0
+SNTA020704,Penne Special,"22,00 TL",Makarnalar,5.0
+SNTA020705,Tortellini Alla Panna,"28,00 TL",Makarnalar,10.0
+SNTA020706,Tortellini Pesto,"27,00 TL",Makarnalar,5.0
+SNTA020707,Tagliatelle Alla Panna,"28,00 TL",Makarnalar,5.0
+SNTA020708,Tagliatelle Alfredo,"26,00 TL",Makarnalar,5.0
+SNTA020709,Spaghetti Bolognese,"22,00 TL",Makarnalar,5.0
+SNTA020801,Napolitan Pizza (Küçük),"14,00 TL",Küçük Pizzalar,5.0
+SNTA020802,Margaritha Pizza (Küçük),"15,50 TL",Küçük Pizzalar,5.0
+SNTA020803,Milanez Pizza (Küçük),"16,00 TL",Küçük Pizzalar,5.0
+SNTA020804,Sanita Pizza (Küçük),"17,00 TL",Küçük Pizzalar,5.0
+SNTA020805,Dönerli Pizza (Küçük),"19,00 TL",Küçük Pizzalar,5.0
+SNTA020806,Ton Balıklı Pizza (Küçük),"19,00 TL",Küçük Pizzalar,5.0
+SNTA020901,Napolitan Pizza (Orta),"16,00 TL",Orta Pizzalar,5.0
+SNTA020902,Margaritha Pizza (Orta),"17,50 TL",Orta Pizzalar,5.0
+SNTA020903,Milanez Pizza (Orta),"20,00 TL",Orta Pizzalar,5.0
+SNTA020904,Sanita Pizza (Orta),"20,00 TL",Orta Pizzalar,5.0
+SNTA020905,Dönerli Pizza (Orta),"21,00 TL",Orta Pizzalar,5.0
+SNTA020906,Ton Balıklı Pizza (Orta),"22,50 TL",Orta Pizzalar,5.0
+SNTA021001,Napolitan Pizza (Büyük),"20,00 TL",Büyük Pizzalar,5.0
+SNTA021002,Margaritha Pizza (Büyük),"21,50 TL",Büyük Pizzalar,5.0
+SNTA021003,Milanez Pizza (Büyük),"26,00 TL",Büyük Pizzalar,5.0
+SNTA021004,Sanita Pizza (Büyük),"30,00 TL",Büyük Pizzalar,5.0
+SNTA021005,Dönerli Pizza (Büyük),"30,00 TL",Büyük Pizzalar,5.0
+SNTA021006,Ton Balıklı Pizza (Büyük),"30,00 TL",Büyük Pizzalar,5.0
+SNTA021101,Vegeterian Lavaş Pizza,"19,00 TL",Lavaş Pizzalar,5.0
+SNTA021102,Karışık Lavaş Pizza,"22,00 TL",Lavaş Pizzalar,5.0
+d3dc376e-0a51-4df3-87bf-59fa09034eab,Polo All Permajan,"42,00 TL",Kırmızı Etler,5.0
+b3c0d45a-14d3-4799-ac02-7b5be351fa5d,Plan Steak,"41,00 TL",Kırmızı Etler,5.0
+af7fab97-732c-43cb-8cc4-065b0e9889a7,Et Tortillas,"35,00 TL",Kırmızı Etler,5.0
+9c59333b-5a94-4a79-8f7b-6a775a4a019b,Et Teriyaki,"33,00 TL",Kırmızı Etler,5.0
+SNTA021201,Sanita Köfte,"26,00 TL",Kırmızı Etler,5.0
+SNTA021202,Tire Köfte,"28,00 TL",Kırmızı Etler,5.0
+SNTA021203,Yoğurtlu Kebap,"30,00 TL",Kırmızı Etler,5.0
+SNTA021204,Sanita Kebap,"32,00 TL",Kırmızı Etler,5.0
+SNTA021205,Sanita Mixed,"34,00 TL",Kırmızı Etler,5.0
+SNTA021206,Pepper Steak,"41,00 TL",Kırmızı Etler,5.0
+SNTA021301,Piliç Şiş,"25,00 TL",Beyaz Etler,5.0
+SNTA021302,Piliç Tandır,"29,00 TL",Beyaz Etler,5.0
+SNTA021303,Piliç Shcnitzel,"28,00 TL",Beyaz Etler,5.0
+SNTA021304,Piliç Teriyaki,"30,00 TL",Beyaz Etler,5.0
+SNTA021305,Köri Soslu Piliç,"27,00 TL",Beyaz Etler,5.0
+SNTA021306,Yoğurtlu Piliç Kebabı,"26,00 TL",Beyaz Etler,5.0
+SNTA021307,Mexikan Usulü Piliç,"30,00 TL",Beyaz Etler,5.0
+SNTA021308,Sanita Special,"32,00 TL",Beyaz Etler,5.0
+SNTA021309,Piliç Kievski,"34,00 TL",Beyaz Etler,5.0
+SNTA021310,Piliç Kavurma,"28,00 TL",Beyaz Etler,5.0
+SNTA021311,Piliç Tortillas,"32,00 TL",Beyaz Etler,5.0
+9654412b-16d3-4dde-aa57-8d8b85ccd72b,Poşet,"0,25 TL",Poşet,5.0

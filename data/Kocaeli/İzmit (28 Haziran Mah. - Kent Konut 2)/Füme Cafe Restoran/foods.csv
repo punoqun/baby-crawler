@@ -1,0 +1,33 @@
+food_id,food_name,food_price,food_category,food_score
+D3A2571C-4C09-4902-9DBC-0AAAAD3EA44D,Kısırlı Çay Saati Menü,"29,00 TL",Menüler,5.0
+A975771A-A5DB-4628-A4BA-0295613F881A,Patates Salatalı Çay Saati Menü,"29,00 TL",Menüler,6.0
+291AA5EA-D02F-45CE-9A83-1EE944216F4D,Kuru Patlıcan Dolmalı Çay Saati Menü,"29,00 TL",Menüler,5.0
+884c0abf-2202-410e-b44d-fe9aa89cedb7,Kayserilim Menü 2,"42,00 TL",Menüler,4.0
+c61e4599-1f0d-4e18-95f7-851d8e1639ae,2'li Waffle Menü,"35,00 TL",Menüler,21.0
+0882df8c-282f-436a-a99b-ed6e688d86ba,3'lü Waffle Menü,"49,00 TL",Menüler,16.0
+7efa6006-8071-452c-97ec-3020fab8d6c1,Kayserilim Menü,"27,00 TL",Menüler,5.0
+1CDD7426-23A2-4660-B3DC-EA464515B495,Menemen,"17,00 TL",Kahvaltılıklar,6.0
+1C4B4743-AA59-4924-97C0-AE018AA993A2,Menemenli Kahvaltı,"28,00 TL",Kahvaltılıklar,6.0
+C3793290-C2FC-447B-BD9C-AE19B5DFAD57,Sicak Kahvaltı Tabağı,"28,00 TL",Kahvaltılıklar,6.0
+BEA22E5D-DFE5-44E7-B554-A1F8FB1DCD93,Kavurmalı Yumurtalı Kahvaltı Tabağı,"34,00 TL",Kahvaltılıklar,6.0
+3D79E031-62C8-4103-B8EA-A720FC7332A1,Menemenli Sıcak Kahvaltı Tabağı (2 Kişilik),"48,00 TL",Kahvaltılıklar,6.0
+ca63b8f8-e189-42d3-9cb0-f0577f4e90f0,Sucuklu Yumurtalı Kahvaltı Tabağı,"28,00 TL",Kahvaltılıklar,6.0
+f7e37162-2e93-46c1-827b-fccd4d50896a,Kuzu Paça Çorbası,"23,00 TL",Çorbalar,5.0
+18648f56-6413-4f91-a841-504de3bc5a70,Sigara Böreği (5 Adet),"12,00 TL",Ara Sıcaklar,6.0
+672c8d3e-bc69-47ea-9764-949406bacf6d,Domatesli Biber Kızartması,"11,00 TL",Ara Sıcaklar,5.0
+9b504b36-e2f9-498c-a251-41e81e1b4cd5,Patates Kızartması,"10,00 TL",Ara Sıcaklar,6.0
+15962aae-52f5-4f17-8cf0-bd2bf47b888e,Soğan Halkası (8 Adet),"12,00 TL",Ara Sıcaklar,5.0
+b5392940-b005-4aa2-a2b7-ba896599f660,Pişi,"16,00 TL",Ara Sıcaklar,5.0
+8f7e26a1-8ee5-4458-bc8f-4366541d7c39,Kızartma Tabağı,"29,00 TL",Ara Sıcaklar,6.0
+03B02EF2-3C46-45D4-8224-DE85977631DE,Çıtır Tavuk Parçaları,"12,00 TL",Ara Sıcaklar,7.0
+E74D1FAC-9038-4E21-858A-6A2B09E816B1,Çıtır Tabağı,"24,00 TL",Ara Sıcaklar,7.0
+42b791ac-09d0-4357-84f3-54e277ee34e5,Kıymalı Ev Mantısı,"24,00 TL",Mantı & Makarnalar,5.0
+3b9779b9-aa9d-4e8b-bd9d-9cac86ff3b43,Közlenmiş Patlıcan,"15,00 TL",Mezeler,5.0
+f464e289-9473-414d-a293-5664e0465428,Mevsim Salata,"13,00 TL",Salatalar,9.0
+bb997905-e5d9-4d61-82b0-83c797c5cce5,Çoban Salata,"13,00 TL",Salatalar,9.0
+49b21b72-6d4e-458f-a490-d6543bed944c,Ton Balıklı Salata,"22,00 TL",Salatalar,9.0
+89982245-546B-4D92-8A74-64004EB2322D,Tavuklu salata,"19,00 TL",Salatalar,9.0
+12F09440-5919-4D35-B381-EE7F08BC2A63,Sezar salata,"19,00 TL",Salatalar,14.0
+00429736-34f8-4e0b-a887-f0eae672d116,Katmer,"16,00 TL",Tatlılar,5.0
+16540f22-6b58-4288-83d8-8679df73888e,Waffle,"19,00 TL",Tatlılar,21.0
+999fc444-edce-453c-a119-07beb564b816,Su,"2,00 TL",İçecekler,5.0

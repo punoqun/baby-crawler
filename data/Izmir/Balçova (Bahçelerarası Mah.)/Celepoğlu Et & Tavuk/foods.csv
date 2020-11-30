@@ -1,0 +1,48 @@
+food_id,food_name,food_price,food_category,food_score
+75511114-083e-4bde-ad9e-74546efdc293,Izgara Köfte,"25,00 TL",Izgaralar & Kebaplar,14.0
+543a9c83-a29b-4f08-ae96-97d711943af5,Izgara Sucuk,"25,00 TL",Izgaralar & Kebaplar,5.0
+d15a35bd-80a8-419a-8b5c-4197ef9532ce,Izgara Ciğer Şiş,"30,00 TL",Izgaralar & Kebaplar,5.0
+755e4b11-5635-4029-a8eb-998be823b715,Izgara Kuzu Şiş,"40,00 TL",Izgaralar & Kebaplar,7.0
+26a16f98-0483-42d9-b84b-c83b2e6f004a,Adana Kebap,"25,00 TL",Izgaralar & Kebaplar,5.0
+b5c75ed2-3d0a-43f9-b392-d75989dd890e,Izgara Pirzola,"48,00 TL",Izgaralar & Kebaplar,5.0
+3228a55c-b684-4dc5-9f2f-6c1aba466db7,Izgara Tavuk Kanat,"25,00 TL",Izgaralar & Kebaplar,9.0
+ebcf469c-e409-45b6-a3d7-c3a401fad579,Izgara Tavuk But Şiş,"25,00 TL",Izgaralar & Kebaplar,3.0
+39c7db11-5fb5-4b31-a85e-ba06776c560d,Yarım Ekmek Arası Kuzu Kokoreç,"22,00 TL",Kokoreçler,9.0
+1c2a2cb3-a46d-43ba-a235-9f2cf95e5dba,3/4 Ekmek Arası Kuzu Kokoreç,"30,00 TL",Kokoreçler,9.0
+331bd3da-7214-4ddf-bd0c-9ab9f047561b,Kuzu Kokoreç,"38,00 TL",Kokoreçler,9.0
+65aea4e1-0b8f-4dc2-8237-f8dde44bd25e,Yarım Ekmek Arası Atom Kokoreç,"25,00 TL",Kokoreçler,7.0
+27fb70f5-96ed-41f2-9c91-e50f2aadf6df,Atom Kokoreç,"30,00 TL",Kokoreçler,7.0
+8a42b48d-b9d0-4ef0-ac4b-9842db981ad3,Yarım Ekmek Arası Karışık Kokoreç,"25,00 TL",Kokoreçler,7.0
+f2a2c4d1-92b8-4421-84fe-f5cad56b8248,Karışık Kokoreç,"40,00 TL",Kokoreçler,7.0
+8531241d-f5e2-4d18-bbdc-4049fc815f95,Yarım Ekmek Arası İstanbul Kokoreç,"22,00 TL",Kokoreçler,7.0
+20a9060c-af04-4afb-975f-a59c3a75bea2,3/4 Ekmek Arası İstanbul Kokoreç,"30,00 TL",Kokoreçler,7.0
+4C18C6CE-F781-4900-A6EF-AB6139F27BC6,Çeyrek Ekmek Arası Kuzu Kokoreç,"18,00 TL",Kokoreçler,9.0
+5A1ECBDB-3997-44BA-AFFF-47EED1771008,Çeyrek Ekmek Arası Duble Kokoreç,"28,00 TL",Kokoreçler,7.0
+6F4E579F-73F9-4CD5-BA9F-6B25FC130EE6,Aile Boyu Kokoreç,"100,00 TL",Kokoreçler,7.0
+f0e8eb8c-ec29-4d07-a7b3-67e04f830b7b,Yarım Ekmek Arası Köfte,"18,00 TL",Ekmek Arası Ürünler,9.0
+97773194-6ce1-44af-aea5-78f6cdf28c9a,3/4 Ekmek Arası Köfte,"27,00 TL",Ekmek Arası Ürünler,9.0
+f4e298e9-5681-4d98-9af1-656096004e7f,Yarım Ekmek Arası Sucuk,"18,00 TL",Ekmek Arası Ürünler,5.0
+33bf6f4a-c22d-48d0-96b6-6af6c4137256,3/4 Ekmek Arası Sucuk,"27,00 TL",Ekmek Arası Ürünler,5.0
+2e87c269-05d3-4da5-91df-8b241cb8b38e,Yarım Ekmek Arası Sosis,"18,00 TL",Ekmek Arası Ürünler,5.0
+7acb7c44-d5cb-45c4-8e12-11e2ba3af9ce,3/4 Ekmek Arası Sosis,"27,00 TL",Ekmek Arası Ürünler,5.0
+bc9a02fb-390f-4a42-9315-9e002dbd17c4,Tavuk Kanat (1 kg.),"50,00 TL",Tavuklar,4.0
+8D1E939A-A0C8-4F83-AF86-872531A1956A,Kızarmış Tavuk (Bütün),"28,00 TL",Tavuklar,3.0
+e31c14b7-e3b7-4028-9c4f-d200b09ecf9f,Ciğer Şiş Dürüm,"24,00 TL",Dürümler,5.0
+3efddae5-1d87-473e-97c2-c9a20efe2de9,Adana Kebap Dürüm,"22,00 TL",Dürümler,10.0
+f8eaf885-59a3-4b51-8aa7-ee97fafd4ba1,Kuzu Şiş Dürüm,"25,00 TL",Dürümler,7.0
+e9507a2c-716f-49e0-ac23-3b4f14cafbd5,Tavuk Şiş Dürüm,"18,00 TL",Dürümler,3.0
+DB81BEA2-D167-4877-BBC0-4F683C96FE1D,Köfte Dürüm,"20,00 TL",Dürümler,9.0
+CD252510-66BC-4808-93A7-0DE5AFE94959,Kokoreç Dürüm,"22,00 TL",Dürümler,7.0
+b5476b46-6860-493b-b2c1-b512f2176490,Kuzu Kelle Söğüş,"45,00 TL",Söğüşler,11.0
+cab096a1-b215-48f7-9337-eb0a500de533,Kuzu Kelle Söğüş Dürüm,"28,00 TL",Söğüşler,11.0
+d054a3c2-c768-49d8-ab11-402422949819,Beyin Tabağı,"45,00 TL",Söğüşler,5.0
+aec0f0aa-7a66-4688-b5d2-eccc41ddb495,Beyin Söğüş Dürüm,"28,00 TL",Söğüşler,9.0
+E76C8175-98D2-402E-A55F-498606EF1D6B,Yarım Ekmek Arası Kokoreç,"22,00 TL",Diğer Lezzetler,7.0
+ef382d74-1d28-4f45-b61d-9b94b7b5ea3f,Süzme Yoğurtlu Patlıcan (100 gr.),"6,00 TL",Mezeler,5.0
+82ea2dc2-94da-4294-a3ef-71877181a271,Süzme Yoğurtlu Havuç (100 gr.),"6,00 TL",Mezeler,5.0
+cb0a9d15-7c9d-4a60-9d27-e992d4e08306,Süzme Yoğurtlu Semiz Otu (100 gr.),"6,00 TL",Mezeler,5.0
+C0EE6105-7164-407B-9C32-2D68B04E1EB2,Niğde Gazozu (25 cl.),"4,00 TL",İçecekler,5.0
+77711CD4-9276-481D-BEF5-D84F59AF3167,Kasap Köfte (1 kg.),"110,00 TL",Kiloluk Ürünler (Pişirilmiş),9.0
+D250A3B2-018D-4ABB-9782-F130780F324D,Tavuk Kanat Izgara (1 kg.),"50,00 TL",Kiloluk Ürünler (Pişirilmiş),4.0
+2DA9EC95-707D-44F9-868C-A74D3801CA32,Kemiksiz But Izgara (1 kg.),"50,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+b72e52be-9ef8-4436-bf7d-4ae1183ac184,Poşet,"0,25 TL",Poşet,5.0

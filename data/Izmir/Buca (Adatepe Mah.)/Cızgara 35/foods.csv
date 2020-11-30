@@ -1,0 +1,42 @@
+food_id,food_name,food_price,food_category,food_score
+95d374fd-9ba7-4e3d-b5a3-f38bbb1b470d,Menü 1,"32,00 TL",Menüler,6.0
+bcd94562-a752-4d02-8cc2-e053fcb8f5eb,Menü 2,"32,00 TL",Menüler,5.0
+f6dc7b6a-a68f-40f7-bc7b-86185fac4662,Menü 3,"30,00 TL",Menüler,6.0
+34f65c31-70a0-4d0b-945c-61be752894bf,Menü 4,"16,00 TL",Menüler,6.0
+42499ddb-f90a-4cf9-b83f-c01f0c68e10f,Menü 5,"16,00 TL",Menüler,1.0
+e5f728d7-e166-41d7-a731-8b03ff962eac,Menü 6,"24,00 TL",Menüler,5.0
+16c607fb-d3ff-4a27-8094-5db17656ba3f,Menü 7,"20,00 TL",Menüler,7.0
+738af8b1-fc5a-4b91-a44e-b3ec12a316c0,Menü 8,"13,00 TL",Menüler,6.0
+18d0c93b-d1e3-4744-b91e-7e8a3120eca5,Menü 9,"25,00 TL",Menüler,9.0
+9fe8d4d6-2ac2-4f85-8386-8f76353821bc,Menü 10,"18,00 TL",Menüler,9.0
+0002f901-1433-40c0-9cb4-eda8d366b3d7,Aile Menü,"110,00 TL",Menüler,7.0
+411EAFA5-C208-44B1-B4BF-016682F7C95E,Boost Menü,"50,00 TL",Menüler,7.0
+CAA74A07-8143-40FA-AFE2-0F4A54C3394C,1/2 Menü,"25,00 TL",Menüler,7.0
+8294504f-5259-46b6-8524-cc5fe59959a6,Sushi Çiğ Köfte Menü,"15,00 TL",Menüler,6.0
+93032168-66b3-4c0e-a905-168e820d491e,Ayvalık Tostu,"10,00 TL",Tostlar,5.0
+344cafc2-dd58-462f-9fbb-1cc36e43a6f3,Adana Kebap,"26,00 TL",Izgaralar & Kebaplar,4.0
+7124fbe0-ab43-4856-a68e-e122f26b96d8,Izgara Köfte,"24,00 TL",Izgaralar & Kebaplar,4.0
+09dca0f8-0b8f-4269-936d-41f430e7da4a,Tavuk Şiş,"24,00 TL",Izgaralar & Kebaplar,3.0
+b49fba59-a444-490a-a931-e03ea25827f5,Ekmek Arası Köfte,"10,00 TL",Ekmek Arası Ürünler,11.0
+364ab58b-0390-405f-96a6-97b2a06b61c5,Ekmek Arası Sucuk,"10,00 TL",Ekmek Arası Ürünler,6.0
+5c686ca8-06ea-455c-998e-fdba098d04ac,Tavuklu Pilav,"8,00 TL",Pilavlar,5.0
+b351d0c6-fa89-4f79-ab28-cee4d82c3d78,Nohutlu Pilav,"8,00 TL",Pilavlar,4.0
+2cc425d6-2eff-4c07-9f51-d00ed8d219d2,Mısırlı Pilav,"8,00 TL",Pilavlar,4.0
+da70aff8-811f-498e-b238-73f0cdbd06f3,Et Dönerli Pilav,"15,00 TL",Pilavlar,4.0
+040423b2-7904-4cc1-ae3f-1d4d75d367f8,Sade Pilav,"6,00 TL",Pilavlar,4.0
+8075e027-a2bb-4c44-8094-dc45e2a4c73e,Çiğ Köfte Dürüm,"6,00 TL",Çiğ Köfteler,6.0
+a7b51a20-ced4-4446-8936-ac466d4706a4,Mega Çiğ Köfte Dürüm,"9,00 TL",Çiğ Köfteler,6.0
+29c63066-0b07-4bce-80ec-6013a4f32215,Çiğ Köfte (250 gr.),"15,00 TL",Çiğ Köfteler,4.0
+b6a7fb59-aa25-426e-9b08-415b53dff0a7,Çiğ Köfte (500 gr.),"25,00 TL",Çiğ Köfteler,4.0
+60d9246f-7642-418e-a1ce-56af8e68ce43,Çiğ Köfte (1 kg.),"45,00 TL",Çiğ Köfteler,4.0
+36418d88-608c-4f57-84dc-0538f9d61331,Kuru Fasulye,"10,00 TL",Diğer Lezzetler,7.0
+44703406-0070-4d86-b835-3d517eeeb391,Kızartma İçli Köfte (Adet),"5,00 TL",Diğer Lezzetler,4.0
+4a065c2f-ee76-4abb-a4e6-f45c5da5b0ae,Adana Dürüm,"12,00 TL",Dürümler,11.0
+7ec130f6-fad5-4203-b57c-f7826296f7bb,Tavuk Şiş Dürüm,"10,00 TL",Dürümler,10.0
+C8ED11FA-53CF-40F3-8E6A-0589CE304875,Köfte Dürüm,"12,00 TL",Dürümler,6.0
+d8331c37-1d40-4892-9177-5cd5fdcd5c6c,Rus Salatası,"7,50 TL",Mezeler,5.0
+498badd3-a487-496d-89e3-27ee258e8d2d,Atom,"7,50 TL",Mezeler,5.0
+9941c5f6-ffc3-4bf1-8e0c-5c0c61a08dbe,Haydari,"7,50 TL",Mezeler,5.0
+93cd5d48-182b-4838-aaad-1c65d1907a96,Kalburabastı,"3,00 TL",Tatlılar,5.0
+c8209907-70b5-4b8c-9199-f7d9553e6e66,Niğde Gazozu (25 cl.),"3,00 TL",İçecekler,5.0
+035ecd45-0dec-4347-b46a-764014d0abd6,Poşet,"0,25 TL",Poşet,5.0

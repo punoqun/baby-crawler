@@ -1,0 +1,19 @@
+food_id,food_name,food_price,food_category,food_score
+4d72c4dc-6c9b-46db-bd57-3807601d013a,Gobit Ekmek Arası Et Döner,"15,00 TL",Et Dönerler,10.0
+8b95cd75-390d-403c-be39-40fa50126e67,Et Döner Dürüm,"15,00 TL",Et Dönerler,8.0
+a05b780d-778b-40a6-a9b1-ea58ffb784c1,Özel Soslu Et Döner,"25,00 TL",Et Dönerler,10.0
+4a6b7082-5c6c-4d4c-a709-feb61ba3e97f,Yoğurtlu Et Döner,"25,00 TL",Et Dönerler,8.0
+9c5381ae-6062-4101-b971-34ceb20ee916,Et Döner,"25,00 TL",Et Dönerler,8.0
+0e4cb8f1-4a0e-4e9d-896a-2f5c4ceb4070,İskender (Et Dönerden),"25,00 TL",Et Dönerler,11.0
+ee184c7a-3f8f-44f9-b1bc-f12248841669,Pilav Üstü Et Döner,"28,00 TL",Et Dönerler,8.0
+dda6fe83-8940-411a-81cb-96df1cb325ca,Tavuk Döner Dürüm,"10,00 TL",Tavuk Dönerler,11.0
+16aaad7c-2756-4862-b959-5933fb869a46,Gobit Ekmek Arası Tavuk Döner,"10,00 TL",Tavuk Dönerler,13.0
+d3becc10-1ed8-437d-b43c-b5eefd88ec9e,Tavuk Döner,"20,00 TL",Tavuk Dönerler,6.0
+6b6de8f7-8b66-4e29-8708-d2b536e008ae,Adana Kebap,"25,00 TL",Kebaplar & Izgaralar,5.0
+0b6ce3d3-e66d-4da2-89e9-a043f47a88c3,Urfa Kebap,"25,00 TL",Kebaplar & Izgaralar,5.0
+148365bf-4a6a-4a2a-82ce-69f55937fea5,Tavuk Şiş,"20,00 TL",Kebaplar & Izgaralar,4.0
+e3c485d6-41b2-4460-a1f9-90e06715eaf8,Kuzu Şiş,"35,00 TL",Kebaplar & Izgaralar,5.0
+45b4d7c4-88ff-424a-af9f-3065b5a021cb,Sarma Beyti Kebap,"30,00 TL",Kebaplar & Izgaralar,5.0
+33538AD3-953B-41B1-B3B8-26BC59A3EB64,Adana Dürüm,"15,00 TL",Dürümler,5.0
+6A7F480F-53CA-4A43-958D-3DC4A4E3CE5B,Urfa Dürüm,"15,00 TL",Dürümler,5.0
+ef222774-b862-4bbd-9f15-21289e6d442a,Poşet,"0,25 TL",Poşet,5.0

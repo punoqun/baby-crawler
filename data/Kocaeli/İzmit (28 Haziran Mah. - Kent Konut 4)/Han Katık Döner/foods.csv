@@ -1,0 +1,31 @@
+food_id,food_name,food_price,food_category,food_score
+ec57147f-5c29-4c60-a2ac-2e7f1f1501d8,Menü 1,"14,00 TL",Menüler ,12.0
+62198943-4b54-43c2-bff2-64b56e101b91,Menü 2,"16,00 TL",Menüler ,6.0
+87df3d3f-76c1-4ab8-a025-e13e52d380f1,Menü 3,"17,00 TL",Menüler ,7.0
+703395d4-b8e5-4e4a-a9f1-95b17ba3b29e,Menü 4,"19,50 TL",Menüler ,5.0
+E241613A-2BA6-4D21-95E4-B7E871B989C2,5'li Islak Hamburger Menü,"35,00 TL",Menüler ,6.0
+59B04A4D-EC56-45FF-93BD-01780EE0E3DD,Tombik Ekmek Arası Et Döner,"13,00 TL",Et Dönerler,8.0
+6724D663-7A22-49D8-A452-497FDB8D441B,Boru Et Döner Dürüm,"15,00 TL",Et Dönerler,8.0
+E8589816-7A7F-459F-8578-A83FA83F47D1,Yarım Ekmek Et Döner,"13,00 TL",Et Dönerler,8.0
+DBB522DB-E005-4353-837B-28BC4B3262EC,Et Döner Beyti Sarma,"20,00 TL",Et Dönerler,8.0
+58C73279-7773-4D99-9BE6-ACCE9BC28FB1,Psikopat Et Döner Dürüm,"15,00 TL",Et Dönerler,8.0
+0f4c7cc1-df47-406d-bc91-232796e5fd83,Et Döner,"18,00 TL",Et Dönerler,8.0
+72925937-c158-4477-ba18-6a37a6db89b5,Pilav Üstü Et Döner,"17,00 TL",Et Dönerler,8.0
+ce9c6236-e239-4e60-ba65-dc9f12dd8f76,İskender (Et Dönerden),"21,00 TL",Et Dönerler,5.0
+b96f9873-77d7-4924-b4ad-986de15afda8,Zurna Et Döner Dürüm,"17,00 TL",Et Dönerler,8.0
+d6bad2cd-ca46-437a-9005-142cff01211c,Et Döner Dürüm,"14,00 TL",Et Dönerler,8.0
+67B6F78E-9F0D-4E3D-857C-9DEC1A007A20,Boru Tavuk Döner Dürüm,"11,00 TL",Tavuk Dönerler,12.0
+092CB4CE-1C5D-4397-996E-153AEB104993,Yarım Ekmek Tavuk Döner,"8,00 TL",Tavuk Dönerler,12.0
+B5B25043-A13E-4C50-AF4C-DC9EC4766B0D,Tavuk Döner Beyti Sarma,"17,00 TL",Tavuk Dönerler,12.0
+BC938E28-7F42-4FB3-AFBE-97FCE007E3AD,Psikopat Tavuk Döner Dürüm,"11,00 TL",Tavuk Dönerler,12.0
+6CCDF6AA-67DD-4877-B754-003E5C7EF889,Shawarma Tavuk Döner Dürüm,"10,00 TL",Tavuk Dönerler,12.0
+da0e066b-b59d-4f26-b39e-cc015a0bf05d,Tavuk Döner,"14,00 TL",Tavuk Dönerler,12.0
+0bd3e7de-0974-4bce-9d2e-1f0c09301583,Pilav Üstü Tavuk Döner,"13,00 TL",Tavuk Dönerler,12.0
+ea5a7330-1f62-401e-bb3c-463903d18f4d,Tavuk Döner Dürüm,"10,00 TL",Tavuk Dönerler,17.0
+c9b41d79-e0e1-426c-9121-6a5f6ded4d5d,Zurna Tavuk Döner Dürüm,"13,00 TL",Tavuk Dönerler,17.0
+474876cf-998c-44d2-b162-fc11531209ba,Tombik Ekmek Arası Tavuk Döner,"10,00 TL",Tavuk Dönerler,12.0
+102E62E1-F40C-45E3-9BF1-DF1D602B0CE2,Yarım Ekmek Arası Köfte,"12,00 TL",Köfteler,5.0
+4a6330c4-065c-479d-9338-8b488de371b8,Izgara Köfte,"20,00 TL",Köfteler,5.0
+8662AE27-7BAE-4889-9F96-5409114FA892,Islak Hamburger,"8,00 TL",Burgerler,11.0
+1c7e4778-78c0-411c-9136-3939e0bcc54c,Patates Kızartması,"5,00 TL",Yan Ürünler,7.0
+4d89fa50-33ee-45ce-8c1e-d19f2e06a33c,Poşet,"0,25 TL",Poşet,5.0

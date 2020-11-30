@@ -1,0 +1,21 @@
+food_id,food_name,food_price,food_category,food_score
+474c7cd8-cd78-4c56-ba7c-728c4cea558b,Republican Waffle,"26,50 TL",Waffles,19.0
+b72b754f-5239-4179-9b57-5d1a57fb24f4,Darkside Waffle,"30,00 TL",Waffles,14.0
+9ebf3d9f-a65b-426a-8d8f-2f6483d1a368,Coco Spesiyal Waffle,"31,00 TL",Waffles,14.0
+b7673b7c-c2a6-4528-8f9a-53e77bb9bbbe,Mini Pancake,"20,50 TL",Waffles,14.0
+0134ac48-1f86-4d53-a76d-9a31d6230618,Kaymaklı Gelato (300 gr.),"24,00 TL",Dondurmalar,5.0
+320d876d-a43b-46c8-b088-ce42d5f55bc8,Kaymaklı Gelato (500 gr.),"38,00 TL",Dondurmalar,5.0
+3a27a24b-ed34-47a9-8449-94b15d4f7a8c,Antep Fıstıklı Gelato (500 gr.),"41,00 TL",Dondurmalar,5.0
+957b1879-4bcb-43f3-8bec-71afc202da09,Antep Fıstıklı Gelato (300 gr.),"26,00 TL",Dondurmalar,5.0
+d6deaed0-750b-4db4-9c5b-bbc73fe71db0,İtalyan Karamelli Gelato (300 gr.),"24,00 TL",Dondurmalar,5.0
+f4ac6b89-b207-462d-b413-c16c7c3e6ed0,Bal Bademli Gelato (300 gr.),"24,00 TL",Dondurmalar,5.0
+bad55286-55a7-47d4-a201-4113132e8b54,Bal Bademli Gelato (500 gr.),"38,00 TL",Dondurmalar,5.0
+f25e27c2-9e7b-439e-b3f2-d94fdbfc7e54,Oreolu Gelato (300 gr.),"26,00 TL",Dondurmalar,5.0
+8bdb2e00-89bf-4252-969f-63f6cfb15af2,Oreolu Gelato (500 gr.),"41,00 TL",Dondurmalar,5.0
+07d3f05a-957a-4e4d-80ae-e7780535c374,Meyve Şöleni Gelato (300 gr.),"24,00 TL",Dondurmalar,14.0
+ae1c0409-fa98-4c64-b3b6-0188199fe234,Meyve Şöleni Gelato (500 gr.),"38,00 TL",Dondurmalar,14.0
+c0b2e473-2921-4c2a-a396-d5df365ceee1,Limonlu Sorbe (300 gr.),"24,00 TL",Sorbe Dondurmalar,5.0
+b580118e-47ce-47ca-9e0d-26413f035305,Limonlu Sorbe (500 gr.),"38,00 TL",Sorbe Dondurmalar,5.0
+49b108df-d335-4964-974d-69b682b10012,Lipton Ice Tea Karpuz (33 cl.),"5,00 TL",İçecekler,5.0
+4c374396-7c60-4328-bde3-47ca00e71e2b,Su,"2,50 TL",İçecekler,9.0
+94fe6c24-bbf0-4852-bbc1-464065968655,Poşet,"0,25 TL",Poşet,5.0

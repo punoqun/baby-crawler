@@ -1,0 +1,35 @@
+food_id,food_name,food_price,food_category,food_score
+429F34BF-73C9-4C6F-A044-C7112DD97FF3,Tavuk Nugget Menü,"20,00 TL",Kampanyalı Menüler,5.0
+fed5d990-b8d9-403d-9d78-8dbad9b48c05,Kampanya Menü 1,"72,90 TL",Kampanyalı Menüler,14.0
+38eebf0d-3d0c-4429-9224-23a7957157f5,Kampanya Menü 2,"59,90 TL",Kampanyalı Menüler,21.0
+18885d7f-bce5-4ced-add3-be396de1a2be,Kampanya Menü 3,"49,90 TL",Kampanyalı Menüler,7.0
+f629adcb-36ed-4b50-9497-1623f19bb510,Kampanya Menü 4,"59,90 TL",Kampanyalı Menüler,4.0
+c7155867-4ed3-486d-ad4c-a2ab47525af4,Klasik Pizza (Küçük) Menü,"26,90 TL",Küçük Boy Pizza Menüleri,18.0
+46ad2dfd-b47d-4ad0-ba10-7edd88b68309,Klasik Pizza (Orta) Menü,"39,90 TL",Orta Boy Pizza Menüleri,18.0
+E83C0C38-F6D8-4306-84B8-214CCB60F1AD,3'lü Orta Boy Pizza Menü,"79,90 TL",Orta Boy Pizza Menüleri,20.0
+53cb4320-fce8-4adc-b8ff-f9eba9417ac6,Margherita Pizza (Orta),"28,90 TL",Orta Boy Pizza Menüleri,18.0
+b24bb2d8-adf9-4c84-97a8-5d03a7e8941c,Veggie Pizza (Orta),"28,90 TL",Orta Boy Pizza Menüleri,18.0
+d3b89a32-8179-4b22-aa12-dfcf7d1791d2,Bol Sucuklu Pizza (Orta),"28,90 TL",Orta Boy Pizza Menüleri,23.0
+ee9c1c86-d5b0-4891-b187-c37fa190e1f1,Kavurmalı Pizza (Orta),"32,90 TL",Orta Boy Pizza Menüleri,18.0
+c6c9ae92-d7f3-4023-b728-c7dd539d0211,Pastırmalı Pizza (Orta),"32,90 TL",Orta Boy Pizza Menüleri,18.0
+db6352a0-286b-4388-9ea7-1c6c08331437,Ton Balıklı Pizza (Orta),"32,90 TL",Orta Boy Pizza Menüleri,18.0
+4b1ec14d-1c7f-46f0-8c0a-7a36cb3633f4,Klasik Pizza (Orta) & Sufle Menü,"39,90 TL",Orta Boy Pizza Menüleri,18.0
+326da503-6868-47d9-817d-cfc00478d779,Klasik Pizza (Büyük) Menü,"47,90 TL",Büyük Boy Pizza Menüleri,18.0
+bdce0cd7-0f43-4329-bfe8-14bf11fe7716,Margherita Pizza (Büyük),"39,90 TL",Büyük Boy Pizza Menüleri,18.0
+061e6110-e479-42f1-9730-807ef54405a0,Klasik Pizza (Büyük),"39,90 TL",Büyük Boy Pizza Menüleri,23.0
+AA673B0D-65B0-4081-ABBE-64EC36D0E3B5,3'lü Büyük Boy Pizza Menü,"99,90 TL",Büyük Boy Pizza Menüleri,21.0
+ac87b91f-f700-4edc-9c77-47b89126e988,Veggie Pizza (Büyük),"39,90 TL",Büyük Boy Pizza Menüleri,18.0
+c457017d-8e44-4408-a71a-25800e49fc25,Bol Sucuklu Pizza (Büyük),"39,90 TL",Büyük Boy Pizza Menüleri,18.0
+d7d91fbd-73c2-424c-ae43-55c9b6c1aa76,Kavurmalı Pizza (Büyük),"44,90 TL",Büyük Boy Pizza Menüleri,18.0
+8b73b03b-8319-4e3b-b4fa-159efc654e91,Pastırmalı Pizza (Büyük),"44,90 TL",Büyük Boy Pizza Menüleri,18.0
+23e6d63a-c472-499b-b46f-2eea9d6eea9f,Ton Balıklı Pizza (Büyük),"44,90 TL",Büyük Boy Pizza Menüleri,18.0
+4fe2b4cf-2476-4753-a862-c0359ea58cf0,Klasik Pizza (Küçük),"17,90 TL",Küçük Boy Pizzalar,18.0
+c884d787-e774-4098-b104-7baeda4e7f14,Klasik Pizza (Orta),"28,90 TL",Orta Boy Pizzalar,18.0
+79b58a4c-81a2-43e2-8a9c-967135ed928a,Çıtır Nugget,"12,90 TL",Yan Ürünler,5.0
+44f08c0a-0477-441d-9afb-424f945942e3,Çıtır Tavuk,"15,90 TL",Yan Ürünler,5.0
+648a66c6-0084-4655-9728-5de7b141c865,Patates Kızartması,"12,90 TL",Yan Ürünler,4.0
+18803d72-9919-4db8-8f0f-64a118707e64,Soğan Halkası (10 Adet),"12,90 TL",Yan Ürünler,5.0
+073a1a5b-791d-4978-bcfe-ab66cab2f545,Sufle,"15,90 TL",Tatlılar,5.0
+D679A4D5-FC6A-48BA-A2C3-D1241EBD3E70,Fıstık Dünyası Pasta (Dilim),"15,00 TL",Tatlılar,5.0
+95773A01-F423-4E30-9C26-C0AD1FE5F067,Frambuazlı Cheesecake (Dilim),"15,00 TL",Tatlılar,5.0
+94ae3a14-6827-4f52-aa31-baa40d315722,Poşet,"0,25 TL",Poşet,5.0

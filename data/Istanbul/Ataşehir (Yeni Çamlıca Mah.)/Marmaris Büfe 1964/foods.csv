@@ -1,0 +1,51 @@
+food_id,food_name,food_price,food_category,food_score
+049caaaa-27cd-4e0f-90ed-7917cb8d3511,Kavurmalı Omlet,"19,00 TL",Kahvaltılıklar,3.0
+f5445dcc-4937-42d5-85f3-4d3c984b4579,Çift Kaşarlı Tost,"10,00 TL",Tostlar,2.0
+9e6beb7d-86fa-4491-8c77-c4985d478a4c,Beyaz Peynirli Tost,"10,00 TL",Tostlar,3.0
+58349ce3-5924-4b57-8412-4a7cc105b717,Sucuklu Tost,"10,00 TL",Tostlar,3.0
+0bac9940-2cc5-4522-ab04-e76a50aaa767,Karışık Tost,"12,00 TL",Tostlar,3.0
+75f472ab-41d3-4303-9028-0cd66edc9754,Yengen Tost,"13,00 TL",Tostlar,3.0
+cc303b9f-51c1-47c3-884d-4abe6e76c84a,Etsiz Ayvalık Tostu,"16,50 TL",Tostlar,4.0
+2d9d5fe4-755c-41f9-823f-1d8c51ba0d95,Marmaris Nurdiş Tost,"16,00 TL",Tostlar,7.0
+5a67b8e1-8080-4b80-90f4-37b838fecae2,Marmaris Köfte Dürüm,"18,50 TL",Dürümler,8.0
+6793b181-6932-48c0-881d-21ee76e96090,Tavuk Şiş Dürüm,"17,00 TL",Dürümler,4.0
+b020dfbb-774d-4858-b150-2e3af3596def,Kaşarlı Tavuk Şiş Dürüm,"19,50 TL",Dürümler,3.0
+a1dd9e7f-fc86-4d01-88d0-a05598d65203,Ciğer Dürüm,"18,00 TL",Dürümler,5.0
+b91272e9-bcde-4501-b157-ae4cbfc0e9bc,Kaşarlı Ciğer Dürüm,"20,00 TL",Dürümler,4.0
+db3d415c-81a4-4f9e-a8a4-7fd21f066d64,Sosisli Kaşarlı Sıcak Sandviç,"10,50 TL",Sandviçler,5.0
+2e233dfc-d324-46fa-bffa-99588e8e279f,Füme Dilli Sandviç,"19,50 TL",Sandviçler,6.0
+32d80560-0269-485e-8c1f-03d76243bbeb,Füme Dilli Kaşarlı Sandviç,"19,50 TL",Sandviçler,5.0
+2d035cb2-fa93-4b19-8569-7b289c8bf728,Kaşarlı Tavuk Şiş Sandviç,"17,00 TL",Sandviçler,3.0
+9d7ddece-5a69-493f-9fd0-9786f0eadfc9,Yarım Ekmek Arası Marmaris Köfte Sanviç,"19,50 TL",Sandviçler,8.0
+aba53630-93bc-4bab-b210-c5da6751f628,Sucuklu Amerikan Sandviç,"14,00 TL",Sandviçler,4.0
+08ed5b17-24c8-4d94-8ff5-a1a51a3f6abe,Sucuklu Kaşarlı Amerikan Sandviç,"16,00 TL",Sandviçler,3.0
+695b48e7-09a7-4d33-8d32-f72f9b4ca4e9,Patso Sıcak Sandviç,"13,50 TL",Sandviçler,6.0
+2fe92ec2-62a6-46f2-8a6a-1e990c6e6b63,Kaşarlı Patso Sandviç,"15,00 TL",Sandviçler,3.0
+377b8d40-f2d5-41e3-b766-40b841ef4297,Sosisli Patso Sandviç,"15,00 TL",Sandviçler,8.0
+9b0fe654-fa9a-4359-b1b7-6ae0824bca7c,Amerikan Patso Sandviç,"15,00 TL",Sandviçler,3.0
+883238e7-df0d-4c84-a7b8-22c7c2dd554a,Sucuklu Patso Sandviç,"15,00 TL",Sandviçler,4.0
+1c8f173e-0e46-4b8d-af2c-02ee8aade7c9,Islak Hamburger,"8,50 TL",Burgerler,18.0
+e27e3893-9120-4c21-ba87-c4a8576d5e16,Islak Cheeseburger,"10,50 TL",Burgerler,16.0
+8b041012-a032-42af-9e0b-538e68592d6b,Hamburger,"9,50 TL",Burgerler,2.0
+7259b66e-07b0-492a-8526-4b6c73a8453a,Cheeseburger,"11,50 TL",Burgerler,5.0
+8e0a65a0-cb48-48bd-a717-99f774cd724e,Marmaris Duble Burger (Normal),"14,50 TL",Burgerler,9.0
+434abe7f-5b98-4fc3-861a-c97d1801ab60,Marmaris Duble Burger (Büyük),"16,50 TL",Burgerler,9.0
+b130c5f4-57e3-453b-aa93-6160d5d22652,Marmaris Duble Cheeseburger (Normal),"16,00 TL",Burgerler,9.0
+b042c656-6867-48da-9da7-54b3a9eeb31e,Marmaris Duble Cheeseburger (Büyük),"18,00 TL",Burgerler,9.0
+07da7882-594d-4c3f-afa2-62494be9230a,Marmaris Burger,"22,00 TL",Burgerler,9.0
+608f6453-ff35-401d-8e0b-21e6ea1d7960,Lüxburger (Normal),"12,50 TL",Burgerler,5.0
+e765b8bf-5958-48cf-8f67-61c4609e7991,Lüxburger (Büyük),"13,50 TL",Burgerler,5.0
+96329b43-3f52-422c-b132-e62582308c50,Tavuk Burger,"8,50 TL",Burgerler,4.0
+106235a2-559d-42d8-99da-f9e1b60e5ac8,Marmaris Tavuk Burger,"17,50 TL",Burgerler,8.0
+d9396ccc-b94e-4e20-bfb5-f8a37b59c144,Dilli Kaşarlı Tost,"19,50 TL",Spesiyaller,3.0
+888d8117-0377-4eb6-a006-5a33417a3860,Goralı Sandviç,"11,00 TL",Spesiyaller,3.0
+7374713b-2cc8-4f75-b254-2ede90673b23,Rambo Sandviç,"20,00 TL",Spesiyaller,5.0
+2b6d8cb4-27ac-4250-89d0-093fb1a42747,Sade Ciğerli Sandviç,"15,00 TL",Spesiyaller,4.0
+c6d5f448-3972-4f06-b72d-3de0bfa0957a,Ciğerli Amerikanlı Sandviç,"17,00 TL",Spesiyaller,4.0
+534077e5-71b4-44f1-bed2-b31ab61618be,Kaşarlı Ciğerli Amerikan Sandviç,"19,50 TL",Spesiyaller,3.0
+b918d389-a483-4ba6-8244-60d88579d09f,Artist Sandviç,"16,50 TL",Spesiyaller,5.0
+1f6dd560-33da-488f-83c2-1e516e6ed4fa,Tavuk Çöp Şiş,"25,00 TL",Izgaralar,4.0
+bd85e3dd-5dfc-4c5a-b79b-c337e749b57d,Marmaris Kaşarlı Köfte,"31,50 TL",Izgaralar,7.0
+f68f6528-7258-40ad-b80b-1f7121489c7d,Fırın Sütlaç,"13,00 TL",Tatlılar,5.0
+b9ddf6b4-872b-4a26-bbe2-e2ed92ba4a29,Kazandibi,"13,00 TL",Tatlılar,5.0
+08865659-9924-4371-bced-a5456c3d941a,Poşet,"0,25 TL",Poşet,5.0

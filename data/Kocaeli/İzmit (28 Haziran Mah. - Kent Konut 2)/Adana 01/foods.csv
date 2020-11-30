@@ -1,0 +1,16 @@
+food_id,food_name,food_price,food_category,food_score
+2adeca2b-a1b1-466c-9399-9d576996d202,Adana Kebap,"29,00 TL",Kebaplar,4.0
+937a6d32-95bd-4926-b58b-449ee4ecb351,Urfa Kebap,"29,00 TL",Kebaplar,10.0
+b772b636-1c85-490a-bc89-ca3e35c7425e,Patlıcanlı Kebap,"38,00 TL",Kebaplar,5.0
+4fc84886-d68f-4be7-9e15-b8d8e57ab38c,Karışık Izgara 1,"43,00 TL",Izgaralar,5.0
+50c57750-0181-4b50-8890-09a3547df065,Karışık Izgara 2,"48,00 TL",Izgaralar,5.0
+a748ab50-8e58-479f-8023-418d66c50c70,Tavuk Kanat,"26,00 TL",Izgaralar,5.0
+bb04b1f9-2664-452f-af50-58cb939a5ca5,Ciğer Şiş,"29,00 TL",Izgaralar,5.0
+bc617729-fd86-4c6f-aa08-06cf6ad15060,Kuzu Şiş,"40,00 TL",Izgaralar,5.0
+e562780d-ed85-4cb3-aaaa-c9ce33bec92a,Tavuk Şiş,"26,00 TL",Izgaralar,5.0
+31967f0d-d543-4088-8a6e-02b4124faf3c,Urfa Dürüm,"14,00 TL",Dürümler,8.0
+3c7c00e9-8ccd-419b-bfb2-ac1488b2470f,Adana Dürüm,"14,00 TL",Dürümler,12.0
+8946d0b9-3b96-40db-adb1-bcdcaa23d7bc,Kuzu Şiş Dürüm,"20,00 TL",Dürümler,8.0
+b60868d5-b9ce-4722-a67d-1c667cef96d6,Ciğer Şiş Dürüm,"14,00 TL",Dürümler,13.0
+e525cdf1-4bd2-4f14-939a-58248ff65f24,Tavuk Şiş Dürüm,"14,00 TL",Dürümler,8.0
+af8b8160-d114-4ef2-9311-a2931a4b3a2c,Poşet,"0,25 TL",Poşet,5.0

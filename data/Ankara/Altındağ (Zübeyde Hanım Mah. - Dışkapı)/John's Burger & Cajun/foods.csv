@@ -1,0 +1,42 @@
+food_id,food_name,food_price,food_category,food_score
+5b21c25e-217d-4590-a80b-ac67d132068b,Cajun Burger Menü,"29,50 TL",Burger Menüleri,6.0
+09da1f8f-1868-4175-89ef-2763eb9e9b61,Cheeseburger Menü,"29,00 TL",Burger Menüleri,5.0
+8A57B71E-A469-4AAA-89A6-792C996D0EBC,Chicken Burger Menü,"26,50 TL",Burger Menüleri,6.0
+bb9f5223-de11-41b3-ac4e-3ffb02190a0d,Double John Burger Menü,"44,50 TL",Burger Menüleri,6.0
+e5665c22-ca7d-4478-b200-03ecded8de05,John Burger Menü,"30,50 TL",Burger Menüleri,11.0
+63efcf93-e0c3-4c6f-a44f-781305509abd,Mexican Burger Menü,"32,50 TL",Burger Menüleri,6.0
+65C7BCCC-D05D-44B1-B122-381EACA3B76E,John's Cajun Energy Menü,"35,50 TL",Menüler,5.0
+A5A709C4-A09A-4491-8F61-13CD0E6DF5A9,Hot John Cajun Menü,"28,50 TL",Menüler,10.0
+1F4E4054-BD43-43DD-AA3C-47343719363C,John 1 Menü,"27,50 TL",Menüler,10.0
+EAE4D26F-F6D5-45D1-8CB6-139917A0457D,John 2 Menü,"51,50 TL",Menüler,7.0
+BD267983-40E6-41D9-BC5F-19DD378CD3FA,John 3 Menü,"69,50 TL",Menüler,3.0
+81B75072-84C0-48F5-A080-FF0F59112526,John 4 Menü,"89,50 TL",Menüler,5.0
+3210C415-A1DC-4275-A8E2-107F497AA95D,John 5 Menü,"24,50 TL",Menüler,2.0
+FCD39791-246B-4A63-812D-CB1897330ABB,John 6 Menü,"21,50 TL",Menüler,5.0
+7E59AB5D-A2CF-4A1A-BBE2-A537E6E2B7CE,John 7 Menü,"29,00 TL",Menüler,3.0
+FAB07987-AEC4-477D-9C96-DC7DC8CA8248,John 8 Menü,"42,50 TL",Menüler,5.0
+08382D5F-E080-498C-B07F-E96421173D1E,John 9 Menü,"32,50 TL",Menüler,5.0
+E7ECF19B-8F1F-41AC-81DC-00A9C2BE3F2E,Kids Burger,"18,90 TL",Burgerler,6.0
+4130f8ac-bc64-4b64-bbee-e4b1c299f8e7,John Chef Burger,"28,90 TL",Burgerler,6.0
+5e385dd1-ae1f-43c0-9519-497f8a0707a7,Hamburger,"27,50 TL",Burgerler,7.0
+663afd2f-60f4-4136-a98f-551dcbd16efe,Jumbo John Burger,"42,90 TL",Burgerler,6.0
+7a8cb1ea-bb11-4203-a9ea-8186b4348788,John Cajun Burger,"18,90 TL",Burgerler,6.0
+a27fe28f-074f-4b2e-bc3e-618a75eb717b,Cheeseburger,"28,50 TL",Burgerler,5.0
+abb501c4-9d35-47b8-a504-9d41f80ee74e,John Burger,"22,90 TL",Burgerler,6.0
+b3458ee3-383c-4eef-9245-98020177071c,John Double Cheeseburger,"32,90 TL",Burgerler,5.0
+f07dbd98-c7e6-439a-ac80-aa38e06051db,John's Cheeseburger,"23,90 TL",Burgerler,5.0
+f47421ed-e8b6-49b5-ae81-f7c5ecfa987b,Cajun Burger,"24,50 TL",Burgerler,6.0
+603c54e3-5aaf-4946-bef7-8676999ef62d,Mexican Burger,"32,50 TL",Burgerler,6.0
+1F7C0D28-323C-40FD-8A0B-609F55112F22,John Baharatlı Tavuk Dürüm,"19,00 TL",Dürümler,5.0
+d61543cb-2a2f-4491-87c0-c679d26795e5,Sıcak Sepeti,"32,00 TL",Yan Ürünler,5.0
+11A9B5FA-CC3D-452B-8B35-785D33088D41,John Lezzet Topları (10 Adet),"16,50 TL",Yan Ürünler,7.0
+805D3B6A-BB95-474C-947D-848DD302103C,Acılı John Tavuk Sepeti,"26,00 TL",Yan Ürünler,5.0
+C71CDE84-7B07-4ED3-8C8A-D63E7FABAB40,John Baharatlı Tavuk Sepeti,"25,00 TL",Yan Ürünler,5.0
+e91c0361-5674-4033-a0ce-ee8530ce01e3,Baharatlı Soğan Halkası (10 Adet),"15,00 TL",Yan Ürünler,5.0
+1c0d3559-dbc0-43f4-b94c-e0cd662a8d41,Patates Kızartması (200 gr.),"8,00 TL",Yan Ürünler,9.0
+0d936557-0a74-4a21-a781-dc26d5b1b2c3,Lavaş Ekmeği (Adet),"1,00 TL",Yan Ürünler,5.0
+2cc8ba76-a7eb-48da-8d69-764cdaa68289,Eker Puding,"4,50 TL",Tatlılar,5.0
+459d9583-4060-4228-b31c-81dc34cc0d89,Eker Sütlaç,"4,50 TL",Tatlılar,5.0
+81b445e3-4684-4e06-90cf-e939c88e3b27,Eker Kazandibi,"4,50 TL",Tatlılar,5.0
+D5E122E0-72F6-494E-8DF0-91BEA7AB0FD1,"Fanta (2,5 L.)","11,00 TL",İçecekler,5.0
+e3ac76bf-cbd3-465e-92fc-93f77a019f20,Poşet,"0,25 TL",Poşet,5.0

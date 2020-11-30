@@ -1,0 +1,23 @@
+food_id,food_name,food_price,food_category,food_score
+ab022f75-ac9b-419d-8d6b-1a2cc94ceafc,Patates Kızartması,"17,50 TL",Başlangıçlar,12.0
+32d246b6-88c5-4226-8a19-dd3f31390d53,Daily Burger (200 gr.),"42,50 TL",Burgerler,28.0
+7b04f119-e9e4-48bf-9e4a-d9dfe31c0ce7,Daily Halloumi Burger (200 gr.),"59,50 TL",Burgerler,23.0
+9ae4d060-d2ed-47ac-85ee-039c035173b9,Virgin Olive Burger (200 gr.),"44,00 TL",Burgerler,16.0
+7f77fd21-09fc-42bd-bbec-e119f34a452b,French Burger (200 gr.),"54,50 TL",Burgerler,16.0
+85a9574b-3238-40cd-ac95-2b16d8cbea3c,Mexican Burger (200 gr.),"47,50 TL",Burgerler,16.0
+02fbc9ab-d36f-4556-b8a0-d3e430321e46,Steak Burger (150 gr.),"75,50 TL",Burgerler,14.0
+ab95f8be-0fff-4f2d-97c2-5ed7f1c6a465,3'lü Mini Chicken Burger (40 gr.),"35,00 TL",Mini Burgerler,14.0
+b478de6a-5301-4ea1-aea3-169657f452a9,Mini Burger (50 gr.),"16,00 TL",Mini Burgerler,14.0
+58ed72a4-fb5a-40cd-a6c6-6da08ebe6381,Mini Hellim Burger (50 gr.),"15,00 TL",Mini Burgerler,14.0
+2076b9c8-3964-46fd-95d7-c6df8effa44c,Mini Steak Burger (50 gr.),"25,00 TL",Mini Burgerler,14.0
+7917abaf-d5c9-4256-9254-c5092cf1a43a,Mini Chicken Burger (40 gr.),"15,00 TL",Mini Burgerler,14.0
+a908c44d-2061-4a47-84d0-73bf82e3f8cd,Dana Lokum (50 gr.),"22,50 TL",Tekli Izgaralar,5.0
+a71256d7-0b26-43c6-8e78-13a54bfe54c2,Mergez (60 gr.),"16,00 TL",Tekli Izgaralar,7.0
+be750220-86a4-435d-aee3-f7fbc4b40660,Hellim Peynirli & Fıstıklı Sucuk (75 gr.),"16,00 TL",Tekli Izgaralar,7.0
+694639c4-e69b-42c8-858d-7ebcb9895742,Kuzu Pirzola (60 gr.),"22,00 TL",Tekli Izgaralar,5.0
+e579f456-8e5b-4f32-86b2-e94a9df3d8ea,Schweppes Mandalina (25 cl.),"12,00 TL",İçecekler,5.0
+d9eb717d-1a48-480c-8df3-6aa73b65daa6,Soda (25 cl.),"6,00 TL",İçecekler,5.0
+750be2af-8a49-4c3b-a121-26708ef2889d,Daily Sos (Adet),"4,00 TL",Soslar,13.0
+2fa776a9-a508-4d3e-a4f7-fb366b729f67,Barbekü Sos (Adet),"4,00 TL",Soslar,5.0
+2d414048-4221-461f-b70d-43bdb32fe40a,Hardal (Adet),"4,00 TL",Soslar,5.0
+f08d8e39-df8b-4aa7-9003-6371189de8a3,Poşet,"0,25 TL",Poşet,5.0

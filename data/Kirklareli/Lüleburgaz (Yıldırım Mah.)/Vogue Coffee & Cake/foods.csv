@@ -1,0 +1,53 @@
+food_id,food_name,food_price,food_category,food_score
+9ef65ea5-f9ee-4f54-90c9-5fd7d8e583e9,Peynirli Gözleme Menü,"20,00 TL",Menüler,4.0
+0a1e611c-988c-4a13-ab6b-46b660cdb384,Kaşarlı Gözleme Menü,"20,00 TL",Menüler,4.0
+e8ab89b7-cea0-4e12-b2ab-352f57d7f87a,Karışık Gözleme Menü,"20,00 TL",Menüler,3.0
+146a496c-48a4-41dc-b658-4941ff0d313d,Cheeseburger,"16,90 TL",Burgerler,5.0
+5f5a74cc-1e98-48f5-afd2-0a30e7d71eb6,Hamburger,"14,90 TL",Burgerler,10.0
+774edad4-6cc8-4d1a-ab73-1c73a9e7fd3f,Vogue Burger,"24,90 TL",Burgerler,19.0
+8b7b0c89-94fa-4869-b1a5-2881c153c097,Tavuk Burger,"12,90 TL",Burgerler,9.0
+99eae36c-3a88-4dc3-a027-b59b936fa2fb,3'lü Mini Burger,"21,90 TL",Burgerler,9.0
+b1ff0c67-78b8-4df5-a091-7b57a165ad34,Double Burger,"29,90 TL",Burgerler,9.0
+15831175-3ae4-4c5d-91f7-dfdf2646464f,Spesiyal Vog Pizza (Orta),"23,90 TL",Orta Boy Pizzalar,55.0
+5892b28f-9d2f-423a-9742-0bdcba969f01,Ton Balıklı Pizza (Orta),"20,90 TL",Orta Boy Pizzalar,44.0
+5d6ff96f-4ce2-4ec6-b3bf-a5002dadea7b,Margherita Pizza (Orta),"15,90 TL",Orta Boy Pizzalar,44.0
+93844e3f-7dde-4081-9b6e-137d6b96b6d2,Pepperoni Pizza (Orta),"19,90 TL",Orta Boy Pizzalar,44.0
+43fd0fcb-6e28-4be7-9ac3-8e68f4c5ce4e,Ton Balıklı Pizza (Büyük),"25,90 TL",Büyük Boy Pizzalar,44.0
+7f289f63-2410-432c-8496-a215c608c141,Spesiyal Vog Pizza (Büyük),"28,90 TL",Büyük Boy Pizzalar,60.0
+89bc9dbe-6c6e-4297-a06f-80a8a8f520c2,Margherita Pizza (Büyük),"19,90 TL",Büyük Boy Pizzalar,44.0
+8ac389a0-84e4-4b10-9a2e-099cf180607f,Pepperoni Pizza (Büyük),"24,90 TL",Büyük Boy Pizzalar,44.0
+8AA0CE6C-7CAB-4B2B-8932-7AA7BC4560E9,Tavuklu Wrap,"17,00 TL",Wraps,4.0
+2875575C-3D04-48FB-A2B8-E92E6BF4E055,Etli Wrap,"20,00 TL",Wraps,4.0
+4020AB20-64E9-4FE4-A7CE-78A04050510C,Köfteli Wrap,"18,00 TL",Wraps,4.0
+ce91c31a-2197-4e07-9489-72a0a605e99c,Kumpir,"15,90 TL",Diğer Lezzetler,43.0
+B9D81B65-010B-4A64-8DE3-977780928D1E,Lokma Kahvaltı Tabağı,"15,00 TL",Diğer Lezzetler,5.0
+8CC5B593-C4C5-42C3-9264-DB054C8057C1,Mantı,"18,00 TL",Diğer Lezzetler,7.0
+3BBA941A-BD88-409B-B4F3-63247D0EA81C,Express Kahvaltı,"25,00 TL",Diğer Lezzetler,5.0
+0CF0ED68-52DD-4F10-86F1-1D77480C897D,Izgara Köfte,"25,00 TL",Diğer Lezzetler,5.0
+f901c4c2-ad50-4b98-8255-5078ad0ee974,Waffle (Açık),"17,50 TL",Tatlılar,11.0
+C2C63798-6B95-462C-9B46-8674E12B837D,Çilekli Mag,"12,50 TL",Tatlılar,5.0
+6F5D3F9C-9431-4ED9-827E-8A5573CA8CBC,Çikolatalı Sufle,"13,00 TL",Tatlılar,5.0
+221eb863-aed4-44fc-91b9-6084e864014b,Schweppes (25 cl.),"5,00 TL",İçecekler,5.0
+cfc374b0-c108-4655-a552-4a6a6d42a8ee,Americano,"9,00 TL",Kahveler,5.0
+11ca7bca-c3da-48c2-bf08-d228bb018afe,Cafe Latte,"10,00 TL",Kahveler,5.0
+8026ad2f-72b6-4fa5-bda2-632fc7b47d90,Cafe Mocha,"9,00 TL",Kahveler,5.0
+c93cf1db-dac3-4eb6-bc03-43133bc2acf0,Cappuccino,"9,00 TL",Kahveler,5.0
+dd9b69a8-7321-4306-bb50-3c8d57a3df31,Caramel Macchiato,"12,00 TL",Kahveler,5.0
+8fc7f456-d07a-47ca-92e1-de0b034f6dee,Çikolata Aromalı Filtre Kahve,"12,00 TL",Kahveler,4.0
+5052fa8f-5aa0-437e-9030-7d93c351b68c,Damla Sakızlı Filtre Kahve,"12,00 TL",Kahveler,5.0
+0f9dac9f-aef3-46b4-8e20-e0e0d40d9c49,Double Espresso,"10,00 TL",Kahveler,5.0
+54ab1758-b2a6-48bf-939d-5081920581ed,Espresso,"8,00 TL",Kahveler,5.0
+bd7b6635-cfa2-4733-b835-b1645dec470c,Espresso Con Panna,"12,00 TL",Kahveler,5.0
+e5006833-e10f-4133-983a-6db33c48da4e,Etiyopya Filtre Kahve,"10,00 TL",Kahveler,5.0
+14906c76-1bb4-4681-b4be-60ee0e47b862,Filtre Kahve,"10,00 TL",Kahveler,5.0
+832dbb85-77e1-4d41-9432-9f399cea627a,Guatemala Filtre Kahve,"10,00 TL",Kahveler,5.0
+4ca771b8-530b-4e9b-b582-20a5c40999ef,Karamel Aromalı Filtre Kahve,"12,00 TL",Kahveler,5.0
+ab73fd92-f217-4ab6-a954-130c10548c7c,Kenya Filtre Kahve,"10,00 TL",Kahveler,5.0
+a51affbe-8913-4ee5-8735-b69fb461ce60,Kolombiya Filtre Kahve,"10,00 TL",Kahveler,5.0
+6691204b-2b36-43ab-a861-785a0629f17c,Latte Macchiato,"10,00 TL",Kahveler,5.0
+942e3018-f254-422d-8561-e44f6d74af9e,Macchiato,"9,00 TL",Kahveler,5.0
+bb93ee30-a186-4fcf-95a4-6b25625d6beb,Sade Nescafe,"9,00 TL",Kahveler,5.0
+a71f2cbb-7c1b-4989-86b0-d2c61ec2db1d,Santos Filtre Kahve,"10,00 TL",Kahveler,5.0
+aae28c17-d9ce-4cf3-8af7-92060706c970,Sütlü Nescafe,"10,00 TL",Kahveler,5.0
+cd032a98-58ba-4d1e-b41d-dc07fbcf640a,White Chocolate Mocha,"10,00 TL",Kahveler,5.0
+1e8fc4e5-4dbe-4241-9697-3f9c4e9d33ef,Poşet,"0,25 TL",Poşet,5.0

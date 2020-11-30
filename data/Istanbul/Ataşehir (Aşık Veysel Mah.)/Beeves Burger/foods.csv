@@ -1,0 +1,30 @@
+food_id,food_name,food_price,food_category,food_score
+c1b428d3-8537-4d30-9252-9e2318bdc591,Şirket Menü (4 Kişilik),"150,00 TL",Spesiyal Menüler,7.0
+4ac7f83e-14bf-4f51-98bb-3381da99dec0,Derbi Menü (2 Kişilik),"95,00 TL",Spesiyal Menüler,7.0
+d0fde22d-6717-4849-8fe6-9d675773cd30,Jack Burger Menü,"46,00 TL",Ekonomik Menüler,10.0
+a2efc33b-3e1e-4fcb-a693-0a826ad8d576,Monte Carlo Burger Menü,"46,00 TL",Ekonomik Menüler,10.0
+eb262156-14a9-431b-9da0-04371cf8a976,Chicago Burger Menü,"51,00 TL",Ekonomik Menüler,8.0
+42d40ee7-420a-40d9-8c51-9e7fcc936400,Teksas Burger Menü,"50,00 TL",Ekonomik Menüler,10.0
+10bccc91-9f59-44dd-a64d-880e6426df26,Çıtır Patatesli Burger Menü,"41,00 TL",Ekonomik Menüler,10.0
+aee88d1c-0e0f-41aa-af64-1170dadbde27,Garlic Mushroom Burger Menü,"45,00 TL",Ekonomik Menüler,10.0
+53120953-5470-4a32-bda7-b0cd60598272,New York Burger Menü,"50,00 TL",Ekonomik Menüler,10.0
+a6a255df-8877-497a-8c43-836fae2cc393,Pastrami Tiftik Burger Menü,"42,00 TL",Ekonomik Menüler,10.0
+6b31f608-b24b-4e66-a2ee-dfef02b892aa,Steak Burger Menü,"50,00 TL",Ekonomik Menüler,10.0
+07ccc09b-b758-4cb2-bc20-2adda8101cc9,Mozzarellalı Izgara Sosis,"35,50 TL",Atıştırmalıklar,6.0
+960d5235-b37d-4854-b4ad-f827cd454d67,Monte Carlo Burger,"33,50 TL",Burgerler,8.0
+f0abc46b-b7b3-4e2b-9035-a804828fd8c2,New York Burger,"39,00 TL",Burgerler,8.0
+7b515152-8373-492b-a6aa-4a103c49ceb2,Mini Burger,"26,00 TL",Burgerler,8.0
+3d60b09c-d6dd-49c5-894e-9f7c9782c8e1,Pastrami Tiftik Burger,"33,00 TL",Burgerler,8.0
+3b464048-fc87-47c8-a211-ec6470f6f9b3,Tandır Burger,"33,00 TL",Burgerler,8.0
+940cfcf6-2491-46a5-b08e-f76e9af54889,Frankfurter Sosis,"35,00 TL",Hot Dogs,7.0
+aae7db65-acdf-48d8-af29-05068e9c18a9,Asado Dana Kaburga,"90,00 TL",Steaks,6.0
+ad850183-e0b8-44b2-ab75-29327c599ef2,Kadayıf (Dana Kaburgadan),"85,00 TL",Steaks,5.0
+859ef460-aaed-412e-b8a8-e0f60841509c,Kuzu Küşleme,"100,00 TL",Steaks,5.0
+d94f6f98-1428-40a0-89cc-b681621d39cc,Kuzu Pirzola,"95,00 TL",Steaks,5.0
+12eed680-b5a4-4e4e-99e4-2ed1348a555a,Loaded Potato Skin,"22,00 TL",Yan Ürünler,5.0
+913179f3-406a-45b2-a87a-ab7a54e12ea9,Kremalı Mantarlı Ispanak,"15,00 TL",Yan Ürünler,7.0
+930b880c-5937-4c6a-842f-55547b1f1524,Coleslaw Salata,"11,00 TL",Yan Ürünler,5.0
+7a75809e-aa68-4f4f-b767-d075281f6e63,Tavuklu Caesar Salata,"37,00 TL",Salatalar,5.0
+e17b53c1-30c7-4312-baa9-72381811cf59,Oreolu Mag,"24,00 TL",Tatlılar,5.0
+7c34ba3b-26c9-48c2-b3a9-86c3c572ba06,Damla Su (33 cl.),"6,00 TL",İçecekler,13.0
+32d22302-f4ab-4a21-be7a-eaccd1c29629,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,57 @@
+food_id,food_name,food_price,food_category,food_score
+EB20A759-83C9-4955-B5AA-8D995E719D20,Ekonomi Plus Menü 1 (1 Kişilik),"29,90 TL",Menüler,17.0
+1435D5BC-A8E2-4661-9CB6-4081DA1A2FC8,Ekonomi Plus Menü 2 (1 Kişilik),"26,90 TL",Menüler,3.0
+E21469D4-F4E0-48D6-95F2-65E4A6EB1EAC,Ekonomi Plus Menü 3 (1 Kişilik),"34,90 TL",Menüler,1.0
+1B8A9EE9-6FC5-4AD1-82E5-CBDCB9C67F8B,Ekonomi Plus Menü 4 (1 Kişilik),"40,40 TL",Menüler,-2.0
+FA6CEAEE-0598-415C-9797-BB940F2612C5,Ekonomi Plus Menü 5 (1 Kişilik),"45,40 TL",Menüler,3.0
+C3D442E7-6F5C-46BE-AE98-03B1BC33F9FA,Ekonomik Menü 1 (2 Kişilik),"51,50 TL",Menüler,12.0
+E3E6B3CE-45A2-4CB3-BE7B-A70F9B7266A9,Ekonomik Menü 2 (2 Kişilik),"45,90 TL",Menüler,3.0
+0E104383-70A0-490B-8B19-E3572D5D97D1,Ekonomik Menü 3 (4 Kişilik),"97,50 TL",Menüler,1.0
+ABEC642E-1118-472A-9E82-C22B959785A1,Ekotost Menü 1 (1 Kişilik),"20,00 TL",Menüler,12.0
+DC2E247D-8756-48F6-B55D-1FE85277AA77,Ekotost Menü 2 (1 Kişilik),"25,00 TL",Menüler,3.0
+980DF814-BE74-44CB-949A-42474E34C83D,Ekotost Menü 3 (2 Kişilik),"37,90 TL",Menüler,1.0
+DDAAC6E8-9F4F-4CE1-B9FD-7A9736D3B24E,Ekotost Menü 4 (2 Kişilik),"47,90 TL",Menüler,-2.0
+FA4F367D-EE85-4418-91CE-690D690FD9A9,Ekotost Menü 5 (4 Kişilik),"71,90 TL",Menüler,3.0
+4C4087BD-11C2-449E-802B-EAD456F1FB20,Ekotost Menü 6 (4 Kişilik),"92,90 TL",Menüler,5.0
+12b2f811-c59b-4acb-825c-b32af2297874,Et Sever Menü,"50,00 TL",Menüler,5.0
+7f47f58e-caee-4c48-98cc-1dd87a3e9662,Kral İkili Menü,"45,00 TL",Menüler,5.0
+7faf78ed-688f-4377-8e8a-07cc995ed21b,Peynir Sever Menü,"48,00 TL",Menüler,4.0
+02d1d821-22be-4093-a101-e5f9bf88a622,Ye Doy Menü,"50,00 TL",Menüler,6.0
+819d33de-dfa2-4d16-aa47-01400766b80d,Kaşarlı Tost,"10,00 TL",Tostlar,5.0
+766db9ca-4d38-4572-9000-bf1e26d9962a,Sucuklu Tost,"13,00 TL",Tostlar,5.0
+991e9a7a-40c4-43d1-bc06-2761d033cbda,Ayvalık Tost,"14,00 TL",Tostlar,5.0
+4ca25c21-30b3-4364-b9bc-ebabd6b75aa4,Beydom Tost,"15,00 TL",Tostlar,5.0
+967e9d63-5993-4819-a724-66a46c921aaf,Mexican Tost,"17,00 TL",Tostlar,5.0
+8787553e-c63a-4cc3-ae29-2a9d04df1394,Cheddar Tost,"17,00 TL",Tostlar,5.0
+4627d4d4-d448-4dcd-95b2-dbdc491cc42b,Eski Tost,"18,00 TL",Tostlar,5.0
+b39d918e-1abc-4802-a4bb-1aaf1898f63a,Yiyingari Tost,"20,00 TL",Tostlar,5.0
+e42757e1-3f3f-4150-a758-a476e8419eb0,Sanayi Tostu,"21,00 TL",Tostlar,5.0
+0c46979c-371a-4697-a8f3-785d102e9144,Turkish Tost,"22,00 TL",Tostlar,5.0
+b62256d1-7b3f-4915-88e1-0026e5cef892,Chicken Burger,"20,00 TL",Burgerler,10.0
+521672f6-d473-4d0a-98a8-26774733a5a9,Chicken Cheeseburger,"21,00 TL",Burgerler,12.0
+5c739d3c-0029-47e3-b36c-2e3dddd8885f,Veggie Burger,"22,00 TL",Burgerler,5.0
+cc1c56fb-373a-4ea5-9265-1bfcc43de102,Classico Burger,"23,00 TL",Burgerler,5.0
+9989cb7f-0f5a-492d-854e-c4d4947ed8b0,Milano Burger,"24,00 TL",Burgerler,5.0
+b744f3d4-b7e5-4474-95ed-2e540f54479f,Cheeseburger,"25,00 TL",Burgerler,12.0
+a3dd40d1-4b53-4559-a6c5-01022955d448,Cheddar's Dream Burger,"27,00 TL",Burgerler,5.0
+c099fac1-eca6-4dcf-9d0b-a052940e6612,Fresh Burger,"27,00 TL",Burgerler,5.0
+93dd2b8f-439d-44c3-905b-ee860716dd13,Haam Burger,"27,00 TL",Burgerler,5.0
+efd3e246-a75a-4c93-989b-4c53094ce49b,Boom Boom Burger,"28,00 TL",Burgerler,5.0
+652cf7d9-2cc4-4c0f-a774-85bf9e1dde22,Mix Burger,"28,00 TL",Burgerler,5.0
+43849a5e-d335-4970-ad13-900b1b55bd9f,Garlic Mushroom Burger,"28,00 TL",Burgerler,5.0
+4de095d4-761a-4699-97e7-8337b4f505b1,BBQ Burger,"28,00 TL",Burgerler,5.0
+eb175e69-ee64-4ebf-888d-ce0b853d39bb,Sucuk Burger,"28,00 TL",Burgerler,5.0
+2c7ff139-75d7-4283-a462-2f4059da1bb7,Turkish Burger,"29,00 TL",Burgerler,5.0
+05a8dbe1-2ae5-4a86-99b0-cb8e149853c5,Red Burger,"33,00 TL",Burgerler,12.0
+041f3613-33d5-4924-9e7b-217af17e2361,King Burger,"38,50 TL",Burgerler,5.0
+565dafee-1a77-4110-a645-f5a50654ae69,Big Burger,"43,50 TL",Burgerler,5.0
+5f18050f-b5b1-470a-a5ef-f1a1c029f643,İzmir Kumru Sandviç,"13,00 TL",Sıcak Sandviçler & Ekmek Arası Ürünler,5.0
+f9658492-b9e1-4da3-978f-72685836db08,İzmir Usulü Eritme Sandviç,"16,00 TL",Sıcak Sandviçler & Ekmek Arası Ürünler,5.0
+d489fb2d-070c-4d88-bbe4-aeac3cefbe65,Pastırmalı Eritme Sandviç,"17,00 TL",Sıcak Sandviçler & Ekmek Arası Ürünler,5.0
+5206ebac-52b4-4341-a3fd-c0a90438a474,Pastırmalı Yumurtalı Eritme Sandviç,"19,00 TL",Sıcak Sandviçler & Ekmek Arası Ürünler,5.0
+91772d4a-6e07-45e3-b00d-8828f6291a68,Ekmek Arası Köfte,"17,00 TL",Sıcak Sandviçler & Ekmek Arası Ürünler,2.0
+f286778e-8ffb-400b-b55c-fe796a5a18f5,Patates Kızartması (1 Kişilik),"6,00 TL",Yan Ürünler,-1.0
+de15f3f6-cc9f-4856-8e80-6df466d6baca,Patates Kızartması (2 Kişilik),"11,00 TL",Yan Ürünler,-1.0
+d16ea23d-d194-4142-907f-35df373cad81,Soğan Halkası,"12,00 TL",Yan Ürünler,6.0
+fad23f0a-2d4c-4b88-ab98-70de71b7479b,"Sprite (1,5 L.)","12,00 TL",İçecekler,5.0
+b465c08c-ece8-47ea-bc83-cd268205954d,Poşet,"0,25 TL",Poşet,5.0

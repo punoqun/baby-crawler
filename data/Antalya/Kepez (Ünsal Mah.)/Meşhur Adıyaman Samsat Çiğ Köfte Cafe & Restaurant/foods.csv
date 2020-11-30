@@ -1,0 +1,50 @@
+food_id,food_name,food_price,food_category,food_score
+20880D75-66A9-429E-867D-349341563D9F,Karışık Tost Menü,"25,00 TL",Menüler,7.0
+66DB2C14-CBE8-4778-87B8-0A0870EB7979,2'li Mega Çiğ Köfte Dürüm Menü,"24,00 TL",Menüler,0.0
+0a0bb4ac-9f65-40fd-ad9b-48802faab12a,5'li Çiğ Köfte Dürüm Menü,"40,00 TL",Menüler,0.0
+62155FD8-F7BD-413E-9E6C-80E04896A4C4,2'li Mega Çiğ Köfte Dürüm Menü 2,"24,00 TL",Menüler,-2.0
+9653a4e4-900b-4771-b77b-116035f6ff53,Çiğ Köfte Sevenler Menü,"42,00 TL",Menüler,4.0
+7031d782-f5c5-4c6f-9123-b0dd431636ae,Çiğ Köfte Dürüm Menü,"8,00 TL",Menüler,0.0
+e3cfa760-8343-4a31-b59d-4161a108947f,2'li Çiğ Köfte Dürüm Menü,"16,00 TL",Menüler,0.0
+baf60e65-f3c4-4edc-9caf-18d87a69ebe9,3'lü Çiğ Köfte Dürüm Menü,"24,00 TL",Menüler,0.0
+b071e5c1-7299-41cf-ad80-63364668bb13,4'lü Çiğ Köfte Dürüm Menü,"32,00 TL",Menüler,0.0
+4582eca0-82ee-4e20-991c-0552a609e298,Duble Çiğ Köfte Dürüm,"7,50 TL",Çiğ Köfteler,0.0
+673e5e06-1229-48d8-b302-2beb281aefc2,Mega Çiğ Köfte Dürüm,"9,00 TL",Çiğ Köfteler,5.0
+d54b6d23-fbc4-4fe1-9e69-47b744e3d73f,Atom Dürüm,"13,00 TL",Çiğ Köfteler,6.0
+9c52cc39-9443-4dbe-b6a7-c0150224b7cc,Çiğ Köfte (250 gr.),"12,50 TL",Çiğ Köfteler,4.0
+1b2f82ad-497e-4e79-b06d-e8a97b619dff,Çiğ Köfte (300 gr.),"16,00 TL",Çiğ Köfteler,9.0
+b7eb9433-b68c-472a-b353-13957afb3c78,Çiğ Köfte (500 gr.),"25,00 TL",Çiğ Köfteler,4.0
+153276cf-7039-4819-b641-1f092e434bca,Çiğ Köfte (630 gr.),"34,00 TL",Çiğ Köfteler,4.0
+a834cbc1-6c3f-47dc-ac71-61062899d6bf,Çiğ Köfte (750 gr.),"37,50 TL",Çiğ Köfteler,4.0
+7b786763-ae31-41f0-94fd-3903ff3c9c92,Çiğ Köfte (1 kg.),"50,00 TL",Çiğ Köfteler,4.0
+2d49ca14-bb5f-4cbc-9e65-f9ea4d32e811,Çiğ Köfte (1 kg.) (Garnitürsüz),"35,00 TL",Çiğ Köfteler,4.0
+6256d87f-61a4-49ed-8ce5-e9e14eb4cd23,Kaşarlı Tost,"10,00 TL",Tostlar,7.0
+B8683ED7-4021-4364-A8C2-B0384DF6753C,Peynirli Tost,"10,00 TL",Tostlar,7.0
+0F186377-BF3B-4223-9AB0-9B5973844A98,Yumurtalı Kaşarlı Tost,"10,00 TL",Tostlar,7.0
+885BEAC5-7B0E-41CE-9FDC-DB6F77E83CBC,Yumurtalı Sucuklu Kaşarlı Tost,"12,00 TL",Tostlar,7.0
+a0444900-372e-4312-bca5-3759b38a42ce,Sucuklu Tost,"10,00 TL",Tostlar,7.0
+fec7d7a2-add4-411e-931f-3409b6d47492,Karışık Tost,"11,00 TL",Tostlar,7.0
+e60c5027-a8f5-4912-b666-1dcb31ef3441,Full Karışık Tost,"12,00 TL",Tostlar,7.0
+bdc8357c-7b17-4cdc-8681-32a94032c691,Sosisli Patso Sandviç,"15,00 TL",Sandviçler,5.0
+ecee05ee-7ee6-4d35-80ba-a14eaf0de152,Patso Sandviç,"13,00 TL",Sandviçler,5.0
+8790294F-C04A-4D9F-A4C0-A1410334C8F0,Yarım Ekmek İzmir Eritme Sandviç,"16,00 TL",Sandviçler,1.0
+62B20C49-9ABE-49C7-BCC9-EBE5F7CE1BB3,Tarhana Çorbası,"12,00 TL",Çorbalar,5.0
+d482673e-48f9-495d-a8d6-614d63d4c937,Ekmek Arası Tavuk Şnitzel,"12,50 TL",Ekmek Arası Ürünler,7.0
+cd7b8acb-96dd-4a1c-b557-7e03c9ed38b8,Ekmek Arası Sosis Tava,"22,00 TL",Ekmek Arası Ürünler,4.0
+A6B5855B-161F-4BBA-9C34-1D74BECE110C,Kahvaltı Tabağı,"15,00 TL",Diğer Lezzetler,5.0
+6EE282E1-1178-40ED-8775-8EEFE8D66880,Mantı (200 gr.),"20,00 TL",Diğer Lezzetler,7.0
+3a89f6a8-c5a8-4d66-91e8-27f7e3a3aad0,Kızartma İçli Köfte (Adet),"7,00 TL",Diğer Lezzetler,5.0
+263e5ba1-2a4e-4f75-863d-cf1893965d1a,Kızartma İçli Köfte (5 Adet),"30,00 TL",Diğer Lezzetler,5.0
+ea0fec60-c0b6-44b0-af3d-3fdb306a0014,Kızartma İçli Köfte (10 Adet),"60,00 TL",Diğer Lezzetler,5.0
+adf81165-5ce5-4171-ad3c-25cc9d2b455c,Patates Kızartması (250 gr.),"11,00 TL",Diğer Lezzetler,5.0
+c10c903d-53a3-41eb-87db-7caba6fbc23e,Lavaş (Adet),"1,00 TL",Yan Ürünler,3.0
+f6fcdc66-7909-4150-aafb-d00b54c3a8ab,Iceberg Marul (Tam),"6,00 TL",Yan Ürünler,5.0
+07681bbf-a5a9-4588-b951-5a1de50ee27a,Iceberg Marul (Yarım),"3,00 TL",Yan Ürünler,5.0
+d58d0193-39fe-4997-a542-90e0fdc3b2ee,Soğan Halkası (9 Adet),"10,00 TL",Yan Ürünler,5.0
+3B9FBFA8-F704-44A6-A7B0-CDDD901B555C,Cappy Şeftali (33 cl.),"6,00 TL",İçecekler,5.0
+309C03EE-B4D0-4191-B9AB-80AE4E166285,Niğde Gazozu (25 cl.),"4,00 TL",İçecekler,5.0
+d86995f8-8853-4590-856d-f054b1f85462,"Su (1,5 L.)","3,00 TL",İçecekler,5.0
+fdcad354-d98f-4e09-b018-e6d74e103840,Patates Kızartması (500 gr.),"15,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+1540dfa0-58fa-4bad-be1f-71c450e17de8,Patates Kızartması (750 gr.),"20,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+4C267248-C037-4BE9-8419-1F4EBC91F703,Mantı (1 kg.) (Pişirilmiş),"50,00 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+dace1144-f747-4ce9-afdd-54af22391797,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,22 @@
+food_id,food_name,food_price,food_category,food_score
+470d9bd9-73a6-46fb-ac52-70bc3539c506,Urfa Dürüm Menü,"18,00 TL",Menüler,14.0
+1f057c61-0604-4165-9edb-465c4a57565b,Adana Dürüm Menü,"18,00 TL",Menüler,22.0
+67c2c258-7ac4-4284-8738-00e9519fe67b,Kuşbaşı Dürüm Menü,"20,00 TL",Menüler,18.0
+eec8ba20-c98e-4aad-adc7-f07c319f64d4,Ciğer Dürüm Menü,"20,00 TL",Menüler,14.0
+6123f8f1-d583-45da-ba38-dc73c349e542,Tavuk Şiş Dürüm Menü,"16,00 TL",Menüler,19.0
+9b1fa75c-7e94-4491-9cdd-c77babc9523a,Adana Kebap Menü,"32,00 TL",Menüler,11.0
+9debb9d8-e48c-4f5c-951c-58cab4322382,Urfa Kebap Menü,"32,00 TL",Menüler,7.0
+c107a1be-eac8-467a-93b1-2a5455afb475,Patlıcanlı Kebap Menü,"35,00 TL",Menüler,7.0
+2786b971-663f-4ea9-a4db-d8d00ed55af7,Sarma Beyti Kebap Menü,"35,00 TL",Menüler,5.0
+16a91a13-4837-4d28-bc1e-5cea5467a487,Kuşbaşı Kebap Menü,"35,00 TL",Menüler,6.0
+34a3b2f2-4d87-4607-a8e9-e213e3877bab,Ciğer Şiş Menü,"35,00 TL",Menüler,7.0
+5d3f5cdd-ec55-4f09-b4dc-834837568d4e,Çöp Şiş Menü,"35,00 TL",Menüler,7.0
+c7136f1c-ce63-44cd-9dc3-065d6b3b774f,Tavuk Şiş Menü,"30,00 TL",Menüler,7.0
+e2e3d78d-739d-4272-ac93-6bba4566dc5a,Tavuk Kanat Menü,"30,00 TL",Menüler,8.0
+58703c18-2875-43c0-9ec3-ac2219eba414,Sade Humus,"15,00 TL",Mezeler,6.0
+b7c63a4b-cf0e-4e57-af0c-4222a87ebaac,Babagannuş,"10,00 TL",Mezeler,5.0
+c5860a71-7caf-4b6c-9392-aadde3f41240,Patlıcan Ezmesi,"7,00 TL",Mezeler,5.0
+863b53c1-ff92-4258-8583-647359f5dfba,Acı Ezme Salatası,"7,00 TL",Mezeler,7.0
+8ae8c76f-f71f-4075-b15e-484ebc8e0071,Çoban Salata,"10,00 TL",Salatalar,5.0
+618969fb-5dfb-4d42-af52-7bfb49e4ce58,Soğan Salatası,"5,00 TL",Salatalar,6.0
+5e64ce3d-08e1-440f-bed1-e2b963438301,Poşet,"0,25 TL",Poşet,5.0

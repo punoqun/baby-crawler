@@ -1,0 +1,57 @@
+food_id,food_name,food_price,food_category,food_score
+826312D7-11CB-4753-BC06-9C64E1AAF0A1,Cevizli İrmik Helvası,"15,90 TL",Sıcak Tatlılar,20.0
+9AF4BB6D-323D-4240-A2EA-2072386C74EE,Kaymaklı İrmik Helvası,"17,90 TL",Sıcak Tatlılar,10.0
+8F4B7F19-32EA-41CF-B082-838CFE84F8D8,Fındıklı İrmik Helvası,"15,90 TL",Sıcak Tatlılar,10.0
+DB9172DA-17BF-4A1D-AAE4-5C322FE7F8A5,Antep Fıstıklı İrmik Helvası,"17,90 TL",Sıcak Tatlılar,11.0
+16E96F87-B91E-4B07-A15D-529CA00D8569,Nutellalı İrmik Helvası,"17,90 TL",Sıcak Tatlılar,9.0
+4BE69AB7-C912-43AA-A611-71E7D26B5D3C,Muzlu İrmik Helvası,"16,90 TL",Sıcak Tatlılar,10.0
+89C1DE16-32E0-443A-9A89-62A35FB3CCB4,Antep Fıstıklı Künefe,"20,90 TL",Sıcak Tatlılar,10.0
+BEA2FC35-2D23-4FEF-9341-E30B86C90443,Çikolatalı Büyük Simit Katmer,"46,90 TL",Sıcak Tatlılar,7.0
+1381E3E2-A1D6-4670-8AF2-2771F0714453,Çikolatalı Büyük Yassı Katmer,"43,90 TL",Sıcak Tatlılar,8.0
+BA0233DC-EE8F-40C1-A263-420A4B2D7304,Çikolatalı Küçük Simit Katmer,"34,90 TL",Sıcak Tatlılar,7.0
+BEFA2C73-8C65-485F-9001-9699A95DAF2E,Çikolatalı Küçük Yassı Katmer,"26,90 TL",Sıcak Tatlılar,8.0
+C6495EEB-6A8F-49E9-9697-A55015D029DE,İrmik Helvası,"12,00 TL",Sıcak Tatlılar,10.0
+ab9f9c45-7775-4327-aad3-6ba19f38e969,Klasik Künefe,"15,90 TL",Sıcak Tatlılar,9.0
+AEC3345F-E063-4186-9B67-A69241F361D9,Muzlu Künefe,"20,90 TL",Sıcak Tatlılar,9.0
+8e896727-de13-479c-b412-1256bd47aa65,Simit Katmer (2 Kişilik),"29,90 TL",Sıcak Tatlılar,7.0
+eede747c-9403-4d7a-97dd-60b1f263ae27,Simit Katmer (3 - 4 Kişilik),"42,90 TL",Sıcak Tatlılar,4.0
+80470cd2-9f39-40a4-8144-a3378e90fcad,Yassı Katmer (1 - 2 Kişilik),"22,90 TL",Sıcak Tatlılar,6.0
+d41cf4af-cb23-4e88-8e01-d5a7e854dc43,Yassı Katmer (3 - 4 Kişilik),"38,90 TL",Sıcak Tatlılar,5.0
+4f0dfab1-4799-4982-afd6-770070101273,Atom Mag,"22,90 TL",Tatlılar,12.0
+bede62e1-0233-42bf-93fc-8c758e15fbae,Mozaik Pasta (Dilim),"12,99 TL",Tatlılar,5.0
+7F41E21F-6369-452F-9A7D-0B100795904E,Tiramisu Pasta (Dilim),"13,90 TL",Tatlılar,5.0
+47D423E9-E7BA-45B2-AF35-7D92CC315A9E,Frambuazlı Cheesecake (Dilim),"11,99 TL",Tatlılar,6.0
+BD124CB0-2EA2-4CF0-9CB6-4F841D20222B,Coffe Latte Pasta (Dilim ),"14,90 TL",Tatlılar,11.0
+ED5AB502-D2CC-458A-9A7F-E75D0AA185C3,Limonlu Cheesecake (Dilim),"11,99 TL",Tatlılar,5.0
+A8E2CE76-0B2D-4612-B77F-905F594F8B65,Kıbrıs Tatlısı,"12,99 TL",Tatlılar,5.0
+9613CAD7-335E-4690-A651-424A372B676E,Peynır Helvası,"11,99 TL",Tatlılar,5.0
+CD5C0E89-781E-4BE0-B7F3-1C4799808284,Bonibonlu Mag,"19,90 TL",Tatlılar,7.0
+5CEFFD1A-17B7-475F-AAD2-87EB04ABA4A1,Brownie Mag,"19,90 TL",Tatlılar,7.0
+D3A220BC-6BD6-4222-AB1B-5DC1C9ED8E43,Çilekli Browni Mag,"20,90 TL",Tatlılar,7.0
+2b18ab19-9645-4b7d-bdfd-ea2312dbdaa9,Çilekli Mag,"20,90 TL",Tatlılar,7.0
+8E81A3EA-2818-4762-9827-B1A2EBCF1FD6,Dolu Dolu Mag,"24,90 TL",Tatlılar,9.0
+C770097C-D6A9-4908-93B1-05CBC8B12F3E,Muzlu Brownie Mag,"22,90 TL",Tatlılar,7.0
+A779C787-FB94-463A-8A14-C7E853568D20,Muzlu Çilekli Brownie Mag,"23,90 TL",Tatlılar,12.0
+D6AF6357-AA59-4954-8768-A6CA9A6FF086,Muzlu Çilekli Mag,"20,90 TL",Tatlılar,7.0
+515EC9DE-CD31-43BB-994D-25E9FF374EB0,Muzlu Mag,"19,90 TL",Tatlılar,7.0
+C2C3BA64-8836-414A-BFDD-38076821F354,Nutellalı Çilekli Mag,"21,90 TL",Tatlılar,6.0
+453e0c2e-626b-4d3e-aa55-77488100aea1,Nutellalı Mag,"20,90 TL",Tatlılar,6.0
+B4C89339-F7B6-475B-81C9-D05B9F21A8AF,Nutellalı Muzlu Mag,"21,90 TL",Tatlılar,11.0
+B155C9BF-E367-4E38-818A-7FD0AF4750C6,Oreo Çilek Nutella Mag,"24,90 TL",Tatlılar,6.0
+2E51465F-2A1A-4901-9D17-AF6BCD8A38CB,Oreolu Çilekli Mag,"21,90 TL",Tatlılar,7.0
+fa61d4d5-5a25-4e2a-b2ef-07ec4a2b78f2,Oreolu Mag,"19,90 TL",Tatlılar,7.0
+9D2A44C0-3440-466B-96F1-2BC9449611CD,Rulokatlı Mag,"19,90 TL",Tatlılar,7.0
+DD865EA6-01A0-42DA-978E-699E788C5A0D,Twixli Mag,"19,90 TL",Tatlılar,7.0
+c308d25a-40f5-42b8-8e1c-532d264f7720,Özkaynak Soda (20 cl.),"4,00 TL",İçecekler,5.0
+CD19657C-AC5F-4076-A4BB-BC45D1A5EC81,Kaymak (100 gr.),"7,50 TL",Kiloluk Tatlılar,7.0
+6F60470A-14CC-4108-AC19-4EAA129CB5AA,Maraş Kesme Dondurma,"7,50 TL",Kiloluk Tatlılar,5.0
+98866648-2b7e-42ac-9802-20eed9d896c1,Fıstık Cenneti Antep Sarma (1 kg.),"120,00 TL",Kiloluk Tatlılar,5.0
+6C155173-6A7D-41DA-B50B-F1336304AAA0,Fıstık Cenneti Antep Sarma (500 gr.),"60,00 TL",Kiloluk Tatlılar,5.0
+75A5E82B-711F-4F5A-BE94-EACD2FCCCF01,Fıstık Cenneti Yeşil Sultan Baklava (1 kg.),"120,00 TL",Kiloluk Tatlılar,1.0
+C258BCDB-46E0-4A39-B281-301BC4F31B42,Fıstık Cenneti Yeşil Sultan Baklava (500 gr),"60,00 TL",Kiloluk Tatlılar,1.0
+84eaf6e0-ada6-455b-95cb-a5005f00f7f4,Fıstıklı Baklava (1 kg.),"80,00 TL",Kiloluk Tatlılar,2.0
+52c35af1-933f-4cb6-96a7-38451bad7b92,Tereyağlı Cevizli Antep Baklava (1 kg.),"60,00 TL",Kiloluk Tatlılar,16.0
+163AE524-571A-4AB6-B969-9EFC2E212134,Tereyağlı Cevizli Antep Baklava (250 gr.),"20,00 TL",Kiloluk Tatlılar,16.0
+2C487200-91F2-4765-B60E-09B0199E3C88,Tereyağlı Cevizli Antep Baklava (500 gr.),"30,00 TL",Kiloluk Tatlılar,16.0
+6F38492A-53E4-4E21-9E0F-B686A53F0DAA,Tereyağlı Fıstıklı Baklava (250 gr.),"25,00 TL",Kiloluk Tatlılar,3.0
+D53135A0-B8DA-46E3-ABAB-6900D6EEFA61,Tereyağlı Fıstıklı Baklava (500 gr.),"40,00 TL",Kiloluk Tatlılar,3.0

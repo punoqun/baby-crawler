@@ -1,0 +1,114 @@
+food_id,food_name,food_price,food_category,food_score
+115be0fc-93a0-4244-ae3f-fdec318f2ba1,Çocuk Menüsü,"50,00 TL",Çocuk Menüsü / Kids Menu,5.0
+36b5ce9e-24d7-4a77-9435-178c7cf14fd0,03. Sebze Çorbası,"20,00 TL",Çorbalar / Soups,8.0
+f7d13524-0d6e-4f5b-99f2-04a801d4acce,04. Tavuk & Mısırlı Çorba,"20,00 TL",Çorbalar / Soups,8.0
+ab7a2f12-c4b4-47b1-902b-f70be957c3df,04A. Deniz Mahsullü Çorbası,"35,00 TL",Çorbalar / Soups,3.0
+d9a65f9f-f6c7-4386-9ccb-232d6dbfe587,04B. Karidesli Noodle Çorbası,"35,00 TL",Çorbalar / Soups,9.0
+18f6bc78-9b7a-4ebd-889c-8fb96514a5a0,04C. Miso Çorbası,"20,00 TL",Çorbalar / Soups,5.0
+adb13ce6-35d2-43b5-a97c-abbb0eb56dfd,05A. Çıtır Levrek,"45,00 TL",Başlangıçlar / Appetizers,6.0
+0f2fb22a-a78f-4ad3-9328-26e356a95a05,09. Buharda Çin Mantısı,"20,00 TL",Başlangıçlar / Appetizers,8.0
+3ff62e5b-da3b-494c-b043-1901b5888b7d,10. Susamlı Tavuk,"25,00 TL",Başlangıçlar / Appetizers,6.0
+5da6611f-5879-44b8-a0ac-f54c62a5f114,10A. Lotus Karides Köfte,"40,00 TL",Başlangıçlar / Appetizers,1.0
+589afc4a-077d-409e-9c74-c2ab92a37faa,10D. Panko Tavuk,"30,00 TL",Başlangıçlar / Appetizers,6.0
+5e4c634f-711e-4c6b-918b-e94f27ab3b1c,11. Acı Lahana Salatası,"30,00 TL",Salatalar / Salads,7.0
+e6bf6fdd-db33-4ec9-9fee-b804ea4e2d88,12. Çin Salatası,"30,00 TL",Salatalar / Salads,6.0
+5538f3cd-1463-4e2f-a606-3e8c7ef935c0,13. Tavuklu Çin Salatası,"35,00 TL",Salatalar / Salads,7.0
+8063d024-bc3b-47c7-9a97-9afb60ad8cae,13A. Beyaz Lahana,"30,00 TL",Salatalar / Salads,5.0
+51ba406e-da03-44be-8df3-2e7d21bf9658,13B. Somon Salatası,"50,00 TL",Salatalar / Salads,5.0
+0d6cdd34-5795-4129-ae53-4847b4ff98a4,13C. Yosun Salatası,"50,00 TL",Salatalar / Salads,5.0
+255a37c1-ae43-4a6d-ad05-03f730e7b14d,14C. Yeşilbiberli Dana Eti,"50,00 TL",Dana Eti / Beef,9.0
+19341a12-d35b-45df-a141-ed98cc4ca0c8,15. İstiridye Soslu Dana Eti,"50,00 TL",Dana Eti / Beef,9.0
+28844a8e-a078-449f-a0bd-26ab69fdf31b,15A. Acılı Mısırlı Dana Eti,"50,00 TL",Dana Eti / Beef,13.0
+ec99b5d9-a2cf-4e21-9226-fdbca85e8fd0,15B. Dana Etli Sizzling,"50,00 TL",Dana Eti / Beef,9.0
+181b3ebe-33f6-4463-bc18-4080191b7598,16. Kuru Soğanlı Dana Eti,"50,00 TL",Dana Eti / Beef,9.0
+fca4ef3f-1e80-461a-906b-faae3352d9d5,19. Köri Soslu Dana Eti,"50,00 TL",Dana Eti / Beef,9.0
+bca616bc-dae0-4922-bf4b-b15384f7c678,20. Bademli Gökkuşağı Dana Eti,"50,00 TL",Dana Eti / Beef,9.0
+ec39b126-b82b-4f86-85c2-857760b13ad5,20A. Kaju Fıstıklı Dana Eti,"50,00 TL",Dana Eti / Beef,9.0
+1556a528-5692-43a5-b79c-5322714cb5c9,20B. Brokoli Dana,"50,00 TL",Dana Eti / Beef,9.0
+7e94b4e5-bbdc-478a-8c57-8134a50186ea,20C. Acılı Portakallı Dana Eti,"50,00 TL",Dana Eti / Beef,13.0
+cb800a3b-7ece-421b-a297-ad6cff34ffac,21A. Erik Acı Soslu Tavuk,"40,00 TL",Tavuk / Chicken,8.0
+a8956df0-bbac-457f-af58-de6ecd9884f8,23. Körili Tavuk,"40,00 TL",Tavuk / Chicken,6.0
+3685d163-219a-4d81-a9e0-64536fec9ae9,25. Acılı Portakallı Tavuk,"40,00 TL",Tavuk / Chicken,11.0
+58413178-1d58-418e-a2bd-fdeefb083302,27. Bademli Gökkuşağı Tavuk,"40,00 TL",Tavuk / Chicken,6.0
+8e4e5c56-3ccb-44bf-8da9-429f013fcadb,28C. Brokoli Tavuk,"40,00 TL",Tavuk / Chicken,6.0
+bb8dd7c4-bebb-41fc-882d-a04563fcdae8,29A. Tatlı Ekşi Levrek,"55,00 TL",Deniz Mahsulleri / Sea Food,7.0
+ac6ad9eb-bd8b-49c5-a280-39a9da82b6c6,29B. Zencefilli Levrek,"55,00 TL",Deniz Mahsulleri / Sea Food,5.0
+c65889d3-ec12-4410-8e1d-0b7572f00171,30. Sebzeli Levrek,"55,00 TL",Deniz Mahsulleri / Sea Food,8.0
+1a465b80-6df6-4eab-bdc4-58775f650a52,30A. Somon Teriyaki,"55,00 TL",Deniz Mahsulleri / Sea Food,3.0
+ee29ef4a-041e-4619-b464-f659fde44fe8,30B. Tempura Karides,"60,00 TL",Deniz Mahsulleri / Sea Food,1.0
+3341eacd-f2fb-46a0-bc21-7f7a0990908e,31. Acılı Jumbo Karides,"60,00 TL",Deniz Mahsulleri / Sea Food,6.0
+21aed282-d169-4476-a374-54f386ee52ff,31A. Sarımsaklı Jumbo Karides,"60,00 TL",Deniz Mahsulleri / Sea Food,1.0
+40e0fecb-b267-4e71-a75e-306d9460bf04,32. Sebzeli Jumbo Karides,"60,00 TL",Deniz Mahsulleri / Sea Food,4.0
+04afe52d-5af1-46bc-b660-cb3e35e21023,32A. Acılı Somon,"55,00 TL",Deniz Mahsulleri / Sea Food,10.0
+dc284cf8-a88d-492b-aa10-998a2870c395,32B. Fileto Levrek,"55,00 TL",Deniz Mahsulleri / Sea Food,5.0
+fde0b920-0e0a-41e7-95de-73d281ca5fd2,34. Acılı Sebze,"35,00 TL",Sebzeler / Vegetables,13.0
+a04855d6-a57e-4633-96a1-22788e88f282,37. Kıtır Sebzeler,"35,00 TL",Sebzeler / Vegetables,5.0
+1a6e4973-a6f4-46cb-b13f-d90564b85f0f,39. Karışık Acılı Mantar,"40,00 TL",Sebzeler / Vegetables,10.0
+42048b34-38cd-402f-a5ee-64b1622cef74,40. Tavuklu Erişte,"33,00 TL",Erişteler / Noodles,10.0
+3371033e-243c-4d62-b7ec-63a8855c6078,44. Kanton Usulü Erişte,"40,00 TL",Erişteler / Noodles,4.0
+50b748a8-008e-4840-a111-6de7a97d1bfd,45. Sade Erişte,"25,00 TL",Erişteler / Noodles,7.0
+2966d9d2-1404-4564-adc0-9ba7a61cd723,45A. Tavuklu Pirinç Erişte,"35,00 TL",Erişteler / Noodles,6.0
+4d6ab8c9-2787-4d2e-9aae-caab7237beb8,45B. Dana Etli Pirinç Erişte,"40,00 TL",Erişteler / Noodles,9.0
+ac4efc31-f1f0-4328-98be-f15472cadc16,45C. Deniz Mahsullü Pirinç Eriştesi,"40,00 TL",Erişteler / Noodles,4.0
+9328ed4b-94fe-41da-84fa-86d0562b05e8,46. Tavuklu Pilav,"30,00 TL",Pilavlar / Rices,6.0
+e4f89026-0f52-4bae-a526-159a40908330,47. Dana Etli Pilav,"32,00 TL",Pilavlar / Rices,9.0
+df5d1b8f-dd37-44c3-9c4a-c09e2146fe6d,48. Sebzeli Pilav,"27,00 TL",Pilavlar / Rices,8.0
+38177f9e-e190-4ddb-b32d-94a65ea40073,48A. Karidesli Pilav,"37,00 TL",Pilavlar / Rices,3.0
+d051f0e9-bfd8-4d98-9eda-9ec13890ac95,49. Körili Mantarlı Pilav,"27,00 TL",Pilavlar / Rices,5.0
+ef24da33-bfc3-4ed3-a27c-195bd828a681,50A. Bademli Pilav,"27,00 TL",Pilavlar / Rices,5.0
+6d968a02-335f-4381-8ff7-7be2d44daf21,51A. Kızarmış Pekin Ördeği (Çeyrek),"75,00 TL",Şefin Önerileri / Chef's Specialities,4.0
+bc8ac31c-320a-40cc-aab9-1801ff44480e,54. Siyah Çin Mantarlı Dana Eti,"50,00 TL",Şefin Önerileri / Chef's Specialities,10.0
+d80d9899-da82-4913-9835-c6d0d2cf9d53,54A. Tavuklu Sebzeli Pirinç Eriştesi,"45,00 TL",Şefin Önerileri / Chef's Specialities,10.0
+ac4f558e-bc46-4c5d-966b-1c71722789bc,54B. Mançuryan Somon,"55,00 TL",Şefin Önerileri / Chef's Specialities,5.0
+a2e301f8-b91b-4d10-97bb-0e6eee5d9d33,Special Rolls (40 Pcs.),"165,00 TL",Sushi Promosyonlar,5.0
+6223be71-d070-4dcf-a982-2eea277314e7,Sıcak Roll Menüsü (20 Pcs.),"145,00 TL",Sushi Promosyonlar,7.0
+3db27d08-b8bf-4d5c-919f-149b79b2a8a8,Nigiri Moriawase (14 Pcs.),"165,00 TL",Sushi Promosyonlar,5.0
+a81b51a3-8cec-4df2-9d0b-c9f7720cbb01,Kappa (Salatalık) (Maki),"20,00 TL",Maki (6 Adet),5.0
+83a64e1f-8e0a-4053-b9ae-c0cb43cf02b7,Kani (Yengeç) (Maki),"25,00 TL",Maki (6 Adet),5.0
+2d217210-16a5-4cc1-ac14-f319353adade,Sake Avocado (Somon Avokado) (Maki),"30,00 TL",Maki (6 Adet),5.0
+ce9a678b-5cbe-433b-bb83-669f413119a2,Avocado (Maki),"25,00 TL",Maki (6 Adet),5.0
+3c604dd8-3bb7-4c96-a4ff-1ec818b071a7,Ebi Avocado Temaki (Karides Avokado),"30,00 TL",Temaki (1 Adet),5.0
+02e53ad7-b967-483e-a971-001db639ea8e,Sake Avocado Temaki (Somon Avokado),"30,00 TL",Temaki (1 Adet),5.0
+478ff53f-fbb5-40f0-85ab-201c60a059e8,Suzuki Temaki (Levrek),"32,00 TL",Temaki (1 Adet),5.0
+361b8beb-89f8-4824-b418-e318f300b809,Ebi Temaki (Karides),"30,00 TL",Temaki (1 Adet),5.0
+b6fb5a30-05d5-4946-8f2e-be0f3215d077,Avocado (Temaki),"25,00 TL",Temaki (1 Adet),5.0
+affd2610-939d-483b-b510-2601bdd6c6d5,60. Acılı Ekşili Karides Çorbası,"30,00 TL",Thai Mutfağından,6.0
+cc1162a0-0657-4d78-a409-b4f2c3d9d43e,62. Dana Etli Thai Salata,"35,00 TL",Thai Mutfağından,9.0
+eb221c06-06f5-4f85-b118-0f16e7e6188a,63. Chili Soslu Thai Jumbo Karidesli Noodle,"60,00 TL",Thai Mutfağından,9.0
+727a3eda-0487-4310-a97c-845e02931d40,66. Fesleğenli Tavuk Pirinç Eriştesi ile,"40,00 TL",Thai Mutfağından,3.0
+4daf49eb-e74e-495c-b156-9bd256767020,67. Fesleğen Jumbo Karides Pirinç Eriştesi ile,"60,00 TL",Thai Mutfağından,-3.0
+87f069ce-c139-4116-9e02-577e5a57c0dd,Tako Nigiri (Ahtapot),"15,00 TL",Nigiri/ Sashimi (1 Adet),5.0
+861803fc-4943-48ea-bc5d-5748cd7dee92,Ika Nigiri (Kalamar),"15,00 TL",Nigiri/ Sashimi (1 Adet),5.0
+71888c91-8337-46eb-b86c-17de272354ae,Sake Avocado Nigiri (Somon Avokado),"18,00 TL",Nigiri/ Sashimi (1 Adet),5.0
+6df31c65-3460-45de-96f2-3334e430f559,Suzuki Nigiri (Levrek),"15,00 TL",Nigiri/ Sashimi (1 Adet),5.0
+cf5f9aa1-82df-42a5-932f-40d8fd6b2baa,Sake Nigiri (Somon),"16,00 TL",Nigiri/ Sashimi (1 Adet),5.0
+96acb924-6bec-419a-a1a9-7f543a28f668,Sake Sashimi (Somon),"50,00 TL",Sashimi (5 Adet),5.0
+aa741566-dd80-4ced-b3d2-028e999e6e37,Suzuki Sashimi (Levrek),"50,00 TL",Sashimi (5 Adet),5.0
+54dd003b-6655-4182-b0b7-a82078b5df74,Sashimi Mix,"60,00 TL",Sashimi (5 Adet),5.0
+5869e862-1de1-4d3e-a4cf-689e1609a6b0,California Roll (8 Pcs.),"43,00 TL",China Lotus Special Rolls (Inside Out),3.0
+6d98185d-75af-4f9c-8b5e-bc327e81c933,Boston Roll (8 Pcs.),"43,00 TL",China Lotus Special Rolls (Inside Out),5.0
+ce8ebc08-11d2-4a2d-81b1-28e7726e45b5,Sesame Roll (8 Pcs.),"43,00 TL",China Lotus Special Rolls (Inside Out),5.0
+c9f31392-7a76-4bd3-8f11-bdcd32f6a6a4,Sake Ten Roll (8 Pcs.),"43,00 TL",China Lotus Special Rolls (Inside Out),5.0
+30e73511-7d05-43dc-89ef-888d55416d2b,Special Boston Roll (8 Pcs.),"43,00 TL",China Lotus Special Rolls (Inside Out),5.0
+da04fd39-5c7a-4f55-be4b-9b445d1c29af,Special Cruchy Roll (8 Pcs.),"43,00 TL",China Lotus Special Rolls (Inside Out),5.0
+1609c7ea-081a-4ea7-9fe4-0ab02a9d3dce,Special Spicy Salmon (8 Pcs.),"43,00 TL",China Lotus Special Rolls (Inside Out),5.0
+12d0d95b-8482-4609-86c9-545b95166725,İstanbul Roll (5 Pcs.),"50,00 TL",Sıcak Sushi Rolls (Inside Out),5.0
+42e349a1-d0fe-42f3-8bed-5c3fc0c0d2ea,Special Ebi Crispy Roll (8 Pcs.),"50,00 TL",Sıcak Sushi Rolls (Inside Out),5.0
+d7b4413a-c00c-41a5-a7c0-2b7086f16c34,Rock & Roll (8 Pcs.),"55,00 TL",Sıcak Sushi Rolls (Inside Out),5.0
+b48dd7b0-09a9-41e1-8394-d37f0ed9352b,Lotus Ebiten Roll (6 Pcs.),"47,00 TL",Sıcak Sushi Rolls (Inside Out),5.0
+a499c68b-8ffb-45d0-824a-8ac749c5198f,Lotus Dragon Roll (6 Pcs.),"45,00 TL",Sıcak Sushi Rolls (Inside Out),5.0
+4f0a3a96-0d22-40c8-9206-3d12d0ddce89,Lotus Rainbow Roll (6 Pcs.),"48,00 TL",Sıcak Sushi Rolls (Inside Out),5.0
+559f2d19-d528-4e89-826e-307ec534ac48,Lotus Philadelphia Roll (6 Pcs.),"48,00 TL",Sıcak Sushi Rolls (Inside Out),5.0
+e5b438fc-3d51-4fb5-b5af-5cbfd2beb1ef,Lotus California Roll (6 Pcs.),"45,00 TL",Sıcak Sushi Rolls (Inside Out),3.0
+2772cd83-65aa-4756-9334-b3c464c08d24,King Cup California Roll (8 Pcs.),"45,00 TL",Sıcak Sushi Rolls (Inside Out),3.0
+410e6239-cfc2-415d-81ef-d72db878136b,Shiro Miro Roll (8 Pcs.),"55,00 TL",Sıcak Sushi Rolls (Inside Out),5.0
+b21777bc-3805-4840-8def-b1e41e8d6eb6,Sushi Moriawase (13 Pcs.),"55,00 TL",Set Menüler / Set Menus,4.0
+c936b5e3-2052-4efd-a1f9-85a515e885e8,Lotus Sashimi (10 Pcs.),"95,00 TL",Set Menüler / Set Menus,5.0
+c7f92b56-dc1a-44a4-be52-09d5572df5c8,Lotus Moriawase (11 Pcs.),"90,00 TL",Set Menüler / Set Menus,5.0
+7f2b050c-8407-4224-8a7f-b9f8b601fa83,Sushi (32 Pcs.),"165,00 TL",Set Menüler / Set Menus,4.0
+bb760478-1b5b-4cec-bfb3-14acf41f5c1c,Sushi (36 Pcs.),"155,00 TL",Set Menüler / Set Menus,4.0
+099ab1e6-4a19-4460-b083-ae2b55bcc4f4,55. Kızarmış Ceviz,"30,00 TL",Tatlılar / Desserts,4.0
+4a950b52-c2eb-4140-8754-a19e955e343e,56. Bademli Kızarmış Dondurma,"25,00 TL",Tatlılar / Desserts,4.0
+f2322c9d-8f2f-41d8-bf32-a7f7953c3566,58. Kızarmış Ananas,"25,00 TL",Tatlılar / Desserts,4.0
+dca567af-f50b-4427-b041-4091f1dc5290,Soda (22 cl.),"5,00 TL",İçecekler / Soft Drinks,5.0
+b0bc9a7c-1485-4b70-aa84-cf5a417e3ff4,Poşet,"0,25 TL",Poşet,5.0

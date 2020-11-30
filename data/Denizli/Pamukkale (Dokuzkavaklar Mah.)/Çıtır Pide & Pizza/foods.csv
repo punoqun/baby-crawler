@@ -1,0 +1,85 @@
+food_id,food_name,food_price,food_category,food_score
+a9be3092-78ae-48d9-bfa1-beb78633c9f9,10'lu Lahmacun Menü,"90,00 TL",Menüler,3.0
+2eee1a0f-f8f6-4517-b542-eae028ec5174,2'li Kıymalı Pide Menü,"45,00 TL",Menüler,-1.0
+5e36582f-db47-412c-a463-bf1df146ec29,3'lü Kıymalı Pide Menü,"80,00 TL",Menüler,-1.0
+5fa4c062-6237-4133-8125-000c743a5172,3'lü Pide Menü,"70,00 TL",Menüler,2.0
+4e70cd22-7fc7-47c6-9d3c-4a5f6297107c,4'lü Kıymalı Kaşarlı Pide Menü,"75,00 TL",Menüler,-3.0
+889faa85-41b0-4b38-b496-235eb0f3f990,4'lü Kuşbaşı Kaşarlı Pide Menü,"89,75 TL",Menüler,-1.0
+d6aed87d-ce36-483d-9352-dd22d0df6cc3,Gold Menü,"91,25 TL",Menüler,4.0
+05f55d98-ae72-406a-9fca-3897b505092c,Kuşbaşı Kaşarlı Pide Menü,"55,00 TL",Menüler,-1.0
+a2a25b50-7506-4660-aa4b-75809f926b53,Muhteşem 3'lü Menü,"72,50 TL",Menüler,6.0
+3758d818-5454-45da-8299-25210145507a,Parti Menü,"80,75 TL",Menüler,4.0
+14d36575-1897-4011-8f30-4fbed9e4b038,Tahinli Ballı Pide Menü,"27,50 TL",Menüler,2.0
+027aee2e-00d2-483e-a041-4944f0ef1dd9,Fındık Lahmacun,"7,00 TL",Fırın Ürünleri,4.0
+fe1211fe-04c3-4604-81a5-ac7dfc28b104,Lahmacun,"10,00 TL",Fırın Ürünleri,9.0
+6917aad5-ca5d-4aa8-a455-fdc62dfa6f2e,Lahmacun Dürüm,"14,00 TL",Fırın Ürünleri,4.0
+D4344440-D70C-4663-BD46-AD9E92AA4A03,Kuşbaşılı Kaşarlı Mantarlı Pide,"21,75 TL",Fırın Ürünleri,0.0
+90753b6d-91d9-4756-a2c4-33df1489bcd9,Kıymalı Çift Yumurtalı Pide,"17,50 TL",Fırın Ürünleri,0.0
+85e96d02-5d82-4dfc-8602-d473c619c667,Kıymalı Cantık (Açık),"18,00 TL",Fırın Ürünleri,2.0
+36e786e7-ac2e-41dd-8855-4d81f4795d4c,Kaşarlı Lahmacun,"14,00 TL",Fırın Ürünleri,2.0
+9de970ae-40c3-489b-9672-f7bc21ae4530,Kuşbaşılı Kaşarlı Lahmacun,"16,00 TL",Fırın Ürünleri,1.0
+f48ff825-0723-45f2-a6c1-e3afecdd7dec,Tavuklu Lahmacun,"12,00 TL",Fırın Ürünleri,4.0
+3edd6ce9-1b65-4395-84a4-56d26c2a67e0,Mantarlı Pide,"13,00 TL",Fırın Ürünleri,3.0
+84de1bcc-0728-4dce-977c-18f363bdbee3,Mantarlı Kaşarlı Pide,"15,00 TL",Fırın Ürünleri,1.0
+8920f0aa-fbd6-405a-a16f-cc8562f8b8eb,Sucuklu Pide,"15,00 TL",Fırın Ürünleri,3.0
+b0be87d1-e876-4d2b-983f-53cd7d23848f,Sucuklu Kaşarlı Pide,"17,50 TL",Fırın Ürünleri,1.0
+d7fee806-3a03-48e5-9996-63a8500c41a0,Salamlı Pide,"15,00 TL",Fırın Ürünleri,3.0
+942f5ec4-a85f-449b-b38d-502dc6a7ef1d,Salamlı Kaşarlı Pide,"17,00 TL",Fırın Ürünleri,1.0
+29e7dbf7-f00c-4f65-98f4-f213ef14c3cb,Sosisli Pide,"15,00 TL",Fırın Ürünleri,3.0
+f2e6cf92-668d-4c5f-9e38-5dca43fd6eeb,Sosisli Kaşarlı Pide,"17,00 TL",Fırın Ürünleri,1.0
+66b011b1-8e10-4a13-9759-e13ab6af6271,Kaşarlı Pide,"16,00 TL",Fırın Ürünleri,1.0
+2de9fedc-bc19-4322-b685-1ce728604809,Kıymalı Kaşarlı Pide,"18,00 TL",Fırın Ürünleri,-2.0
+f63b54db-cdaf-495c-9e7e-aa6f177fb102,Kuşbaşılı Kaşarlı Pide,"20,00 TL",Fırın Ürünleri,0.0
+057dd472-f9ba-48a5-9ce5-8374befbe86a,Karışık Pide,"22,80 TL",Fırın Ürünleri,3.0
+3542df24-ba2a-488e-a258-e8f64684dac0,Tavuklu Pide,"15,00 TL",Fırın Ürünleri,3.0
+948b05fe-9ddf-404c-a2b1-6aca3ec0ee52,Beyaz Peynirli Pide,"14,00 TL",Fırın Ürünleri,3.0
+8584ac91-6808-43e4-8359-bc5c0a105f2b,Pastırmalı Pide,"18,00 TL",Fırın Ürünleri,3.0
+dca986c7-b38a-466b-80f6-670c46a17941,Pastırmalı Kaşarlı Pide,"22,00 TL",Fırın Ürünleri,1.0
+dddab408-1287-48ce-81a5-b63c1068470b,Pastırmalı Yumurtalı Kaşarlı Pide,"25,75 TL",Fırın Ürünleri,1.0
+e701cafc-6c78-44c7-90a2-2fc5e70c226d,Pastırmalı Yumurtalı Mantarlı Kaşarlı Pide,"27,00 TL",Fırın Ürünleri,1.0
+20e3bc32-6dab-4505-9b78-b69702df8eab,Kavurmalı Pide,"19,50 TL",Fırın Ürünleri,2.0
+8add56a5-ae5a-4f02-9053-147c12fcd42d,Kavurmalı Yumurtalı Pide,"21,00 TL",Fırın Ürünleri,2.0
+76f3a6a5-ea16-4109-a5a3-aa13792ec190,Kaşarlı Yumurtalı Pide,"17,50 TL",Fırın Ürünleri,1.0
+7c9bf026-cbe6-4ccf-a0d1-0ae215132ab2,Kavurmalı Kaşarlı Mantarlı Yumurtalı Pide,"24,80 TL",Fırın Ürünleri,0.0
+13877115-f0d1-4638-836f-d948b916347f,Ananaslı Kaşarlı Yumurtalı Pide,"20,00 TL",Fırın Ürünleri,1.0
+99218c92-835d-4f14-aff1-8aac00fca476,Ananaslı Kaşarlı Yumurtalı Mantarlı Pide,"25,00 TL",Fırın Ürünleri,1.0
+f876b9e2-6f84-4bba-9c80-a93df841f6e7,Margherita Pizza (Orta),"17,00 TL",Orta Boy Pizzalar,3.0
+6ef70d7c-d06a-4861-a5fb-f0dd8fe36e6b,Mexicano Pizza (Orta),"19,00 TL",Orta Boy Pizzalar,3.0
+55d89f03-bfed-4182-b864-454421fdbf9c,Vejetaryen Pizza (Orta),"18,00 TL",Orta Boy Pizzalar,1.0
+37619655-16aa-4542-9504-e8f093fbf25e,İtalyano Pizza (Orta),"23,00 TL",Orta Boy Pizzalar,3.0
+551c2139-0d35-4d26-94a5-e2a49a255259,Akdeniz Pizza (Orta),"19,00 TL",Orta Boy Pizzalar,3.0
+7823ab6b-a9eb-45df-8899-7026cf20a4df,Karışık Pizza (Orta),"22,25 TL",Orta Boy Pizzalar,3.0
+4703bda1-bca0-40bf-936d-4710e16c6231,Pastırmalı Pizza (Orta),"27,00 TL",Orta Boy Pizzalar,3.0
+123b6b09-9e11-4a19-8e1b-d9c1448915ce,Kavurmalı Pizza (Orta),"24,00 TL",Orta Boy Pizzalar,2.0
+df9bf7fb-6897-46ca-989b-c871466838de,Spesiyal Pizza (Büyük),"36,00 TL",Büyük Boy Pizzalar,1.0
+19739a6c-b819-4b02-8ffc-6267bdb46294,Margherita Pizza (Büyük),"34,00 TL",Büyük Boy Pizzalar,3.0
+5d600fc5-4345-4995-b07f-e91823be410b,Mexicano Pizza (Büyük),"36,00 TL",Büyük Boy Pizzalar,3.0
+a57dbc70-61bc-4f8d-8fcb-103a2c8c2f0b,Vejetaryen Pizza (Büyük),"30,00 TL",Büyük Boy Pizzalar,1.0
+3d48bb2a-5c5d-4a45-b87e-3c2f7b483305,İtalyano Pizza (Büyük),"38,00 TL",Büyük Boy Pizzalar,3.0
+02ef06ad-d744-4acd-8fc7-1a914ec2e33c,Akdeniz Pizza (Büyük),"35,00 TL",Büyük Boy Pizzalar,3.0
+739d7970-7b81-48b4-b960-9c71cecbb4d1,Karışık Pizza (Büyük),"36,00 TL",Büyük Boy Pizzalar,3.0
+808ee5dc-0a63-4726-9ed1-14f94c6af618,Pastırmalı Pizza (Büyük),"46,00 TL",Büyük Boy Pizzalar,3.0
+53868be7-409f-4587-8bd4-b15ff2fd5ce4,Kavurmalı Pizza (Büyük),"40,00 TL",Büyük Boy Pizzalar,2.0
+164220ff-d983-4d25-b9f7-08d9d6b0703b,Margherita Pizza (Jumbo),"45,00 TL",Jumbo Boy Pizzalar,3.0
+1115aefb-30c6-4521-bde0-3b81e6d3749e,Mexicano Pizza (Jumbo),"47,00 TL",Jumbo Boy Pizzalar,3.0
+bb84d40e-e06b-4549-a327-7d435131eb8f,Vejetaryen Pizza (Jumbo),"41,00 TL",Jumbo Boy Pizzalar,1.0
+f8d5d09a-ed4b-4180-b590-469509e309e0,İtalyano Pizza (Jumbo),"56,00 TL",Jumbo Boy Pizzalar,3.0
+f832f8e1-f0b8-4a33-8a40-c490b60e37fe,Akdeniz Pizza (Jumbo),"48,00 TL",Jumbo Boy Pizzalar,3.0
+ab4a0451-dc4b-40f9-8e0e-8914553bb75f,Karışık Pizza (Jumbo),"52,00 TL",Jumbo Boy Pizzalar,3.0
+d106cfac-881f-40af-bf02-d54b64e383e7,Pastırmalı Pizza (Jumbo),"69,00 TL",Jumbo Boy Pizzalar,3.0
+f0d03688-b497-4975-980f-2578dc1cff5e,Kavurmalı Pizza (Jumbo),"59,00 TL",Jumbo Boy Pizzalar,2.0
+98727dab-444f-42b5-82d7-9dbabd9d118e,Spesiyal Pizza (Battal Boy),"69,00 TL",Battal Boy Pizzalar,1.0
+0db2423e-4ab4-4a2f-94eb-8292613c6e93,Mexicano Pizza (Battal Boy),"69,00 TL",Battal Boy Pizzalar,3.0
+74d58d5d-35a3-4b55-acdd-a175c214d06f,Vejetaryen Pizza (Battal Boy),"51,00 TL",Battal Boy Pizzalar,1.0
+fc6a4446-d3ae-4451-a57a-e4f22ee3a067,Akdeniz Pizza (Battal Boy),"67,00 TL",Battal Boy Pizzalar,3.0
+25c457ff-adab-48e0-8f24-15e8b963c077,Karışık Pizza (Battal Boy),"72,00 TL",Battal Boy Pizzalar,3.0
+0bbe11aa-f4ba-41cd-9355-566f1f3f76ff,Pastırmalı Pizza (Battal Boy),"87,00 TL",Battal Boy Pizzalar,3.0
+6c53ff58-cde4-484a-b975-60ba8cc40a7b,Kavurmalı Pizza (Battal Boy),"83,00 TL",Battal Boy Pizzalar,2.0
+883abf2f-24e9-4508-9487-bd86af86b584,Çıtır Sarımsaklı Ekmek (Tek Kişilik),"10,00 TL",Yan Ürünler,8.0
+1a66d6de-ca2c-4fd8-ba5e-02074c27ecda,Çıtır Sarımsaklı Ekmek (Büyük),"14,00 TL",Yan Ürünler,8.0
+234d2171-8736-4a11-b94f-f3259a5c30d6,Çıtır Sarımsaklı Ekmek (Jumbo),"28,00 TL",Yan Ürünler,8.0
+7a4487a8-8312-441d-be60-a78405fbcbb4,Gavurdağı Salata,"14,00 TL",Salatalar,10.0
+5b920722-572d-403e-987d-02e0ed68c2c0,Peynirli Salata,"13,00 TL",Salatalar,10.0
+d04b0353-33fb-4b0c-99d7-12651aa70b20,Ballı Cevizli Tahinli Pide,"22,00 TL",Tatlılar,3.0
+ff2b0dd4-04f7-4dbf-b0bc-f8900499742f,Turşu Suyu (25 cl.),"4,00 TL",İçecekler,5.0
+bfc9004c-6211-4ece-8c1d-36c7c5485e22,Poşet,"0,25 TL",Poşet,5.0

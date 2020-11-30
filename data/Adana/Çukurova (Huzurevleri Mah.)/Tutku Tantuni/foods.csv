@@ -1,0 +1,21 @@
+food_id,food_name,food_price,food_category,food_score
+741c4d3c-5a7f-4456-b83b-663f9e1c1c70,Öğrenci Menü,"17,00 TL",Ekonomik Menüler,1.0
+1BA55CE3-473D-4050-B00F-B9021586D1E1,Biftek Et Tantuni Menü,"23,00 TL",Ekonomik Menüler,-9.0
+06BC6FEC-DC34-44E5-9586-998054E84CE1,Edirne Yaprak Ciğer Menü,"25,00 TL",Ekonomik Menüler,4.0
+20e95538-e058-4c69-a409-68e1684258a3,Et Tantuni Dürüm,"17,00 TL",Et Tantuniler,-2.0
+e329b681-438c-4d6e-91e1-27851bc7df24,Sütlü Ekmek Arası Et Tantuni,"18,00 TL",Et Tantuniler,1.0
+c1d50c88-ac88-4ed1-9163-573d26f9b2d3,Yoğurtlu Tereyağlı Et Tantuni,"22,00 TL",Et Tantuniler,-9.0
+4A25ED19-07AE-452E-A58A-0158D142576F,Atom Ekmek Arası Biftek Tantuni,"20,00 TL",Et Tantuniler,0.0
+aa65cff9-24a7-40e9-9183-26bef22beb34,Tavuk Tantuni Dürüm,"12,00 TL",Tavuk Tantuniler,7.0
+5e197bd5-365d-4f20-a112-3d454d04fad1,Sütlü Ekmek Arası Tavuk Tantuni,"13,00 TL",Tavuk Tantuniler,5.0
+4246dc91-1d1e-4491-9df6-e1d2a4e3995e,Yoğurtlu Tereyağlı Tavuk Tantuni,"17,00 TL",Tavuk Tantuniler,-1.0
+E9FFA29E-9E49-48C3-A94A-B74D77AD9309,Atom Ekmek Arası Tavuk Tantuni,"15,00 TL",Tavuk Tantuniler,5.0
+52C11273-0C77-4EB2-B59D-E1AD8B89247D,Tutku Et Burger,"20,00 TL",Burgerler,0.0
+A8BC491F-A376-4B35-8A17-C0A0C947B46B,Tutku Tavuk Burger,"17,00 TL",Burgerler,9.0
+7B706913-2B77-43EA-950D-701E4447D02F,Edirne Yaprak Ciğer,"22,00 TL",Diğer Lezzetler,7.0
+8EF3ECD3-BB4D-4E2E-BEB7-CE6C21445BBA,Edirne Ciğer Dürüm,"18,00 TL",Diğer Lezzetler,3.0
+28668d97-22a3-44ae-86b6-2b173066848b,Patates Kızartması,"8,00 TL",Yan Ürünler,5.0
+1ae210f7-2f68-49ab-a98f-f735fd653c1a,Yayık Köy Ayranı (33 cl.),"4,00 TL",İçecekler,5.0
+B7075750-50A2-410F-A503-55EBBC816BB7,Beypazarı Soda (20 cl.),"3,00 TL",İçecekler,5.0
+218db008-7dc0-46b6-b3b3-c0bf4cf19d4e,"Su (1,5 L.)","4,00 TL",İçecekler,5.0
+f9b1a617-4221-4ed8-9867-9cbe27e76f69,Poşet,"0,25 TL",Poşet,5.0

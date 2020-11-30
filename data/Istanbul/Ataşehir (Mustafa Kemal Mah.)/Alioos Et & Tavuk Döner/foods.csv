@@ -1,0 +1,37 @@
+food_id,food_name,food_price,food_category,food_score
+c50817fc-a4fc-43fa-8b3c-1aa174896ca9,Et Döner (120 gr.),"33,75 TL",Et Dönerler,10.0
+251EE959-80AF-4A04-B37B-9766AE8D06FA,Et Dönerli Kumpir,"26,25 TL",Et Dönerler,7.0
+4f8c9002-9216-4652-b194-b2e6ec9c577c,Et Döner (180 gr.),"45,00 TL",Et Dönerler,10.0
+6b0b3f61-b21c-42ff-9367-22f5865baf07,Et Döner (250 gr.),"60,00 TL",Et Dönerler,10.0
+bba7e760-0d7f-48f0-974f-b020986b9550,Pilav Üstü Et Döner (100 gr.),"30,00 TL",Et Dönerler,10.0
+2a787645-a414-4ff3-90e1-19532a60b3d2,Pilav Üstü Et Döner (150 gr.),"39,00 TL",Et Dönerler,10.0
+cce2fed1-6c01-407d-9a7e-b3624cd74e7b,Et Döner Dürüm (60 gr.),"15,00 TL",Et Dönerler,10.0
+ae093cbc-0146-4e83-9af0-6f0886ca42e8,Et Döner Dürüm (80 gr.),"17,25 TL",Et Dönerler,15.0
+b07ff877-5057-4409-a025-9fb61fe8cc64,Et Döner Sandviç (60 gr.),"15,00 TL",Et Dönerler,10.0
+8b791ab9-9c6e-4ff9-a0f8-dea06823fe15,Et Döner Sandviç (90 gr.),"18,75 TL",Et Dönerler,10.0
+6aa83dba-851d-43d3-85f3-61617449570a,3/4 Ekmek Arası Et Döner (80 gr.),"16,50 TL",Et Dönerler,11.0
+eadcf03e-11d6-4aac-9e43-5ffe96b735c0,3/4 Ekmek Arası Et Döner (120 gr.),"24,75 TL",Et Dönerler,11.0
+33bdf968-fe98-4448-a087-86e25115f8d2,Tam Ekmek Arası Et Döner (100 gr.),"21,00 TL",Et Dönerler,9.0
+b69f51a5-35fe-4d68-a7a3-147899aa74bd,Tam Ekmek Arası Et Döner (150 gr.),"30,00 TL",Et Dönerler,9.0
+047f5bd7-7eba-4413-841c-2494a4b0eb84,Tavuk Döner (130 gr.),"17,25 TL",Tavuk Dönerler,5.0
+62727708-412E-4E7E-949E-716B3CCED8F6,Tavuk Dönerli Kumpir,"24,75 TL",Tavuk Dönerler,2.0
+f5740e4b-ffbe-4bc6-aadf-c20d44bdc661,Pilav Üstü Tavuk Döner (130 gr.),"20,25 TL",Tavuk Dönerler,5.0
+64358078-2d59-4c40-9e33-429dd5c1f471,Hatay Usulü Tavuk Döner Dürüm (120 gr.),"12,00 TL",Tavuk Dönerler,14.0
+c8983f13-d7ac-4bd1-86ad-b95b2f99ca53,Hatay Usulü Tavuk Döner Dürüm (180 gr.),"18,00 TL",Tavuk Dönerler,9.0
+acacf4ed-a8c6-4235-b04e-cb0d414e4882,Kaşarlı Hatay Usulü Tavuk Döner Dürüm (120 gr.),"14,25 TL",Tavuk Dönerler,9.0
+5cc14aec-6eb8-4d71-a5b9-e1cf56a969a8,Kaşarlı Hatay Usulü Tavuk Döner Dürüm (180 gr.),"18,75 TL",Tavuk Dönerler,9.0
+c300c751-eeb6-4ae4-a8c9-c7788de00185,Tavuk Döner Dürüm (80 gr.),"10,50 TL",Tavuk Dönerler,5.0
+e840a616-ccb8-45e7-847b-2ef299b9c710,Tavuk Döner Dürüm (120 gr.),"12,00 TL",Tavuk Dönerler,5.0
+75ce763f-93af-423e-a58a-20d2086eb29f,Kaşarlı Tavuk Döner Dürüm (80 gr.),"11,25 TL",Tavuk Dönerler,5.0
+31af6490-4182-45a6-9a4d-8aea2cf9ba09,Kaşarlı Tavuk Döner Dürüm (120 gr.),"14,25 TL",Tavuk Dönerler,5.0
+1d9e58bc-4580-43e1-893e-3a408249dcba,Yarım Ekmek Arası Tavuk Döner (90 gr.),"11,25 TL",Tavuk Dönerler,6.0
+c3d44ff9-ad45-44b7-a055-cf18d3fece72,3/4 Ekmek Arası Tavuk Döner (100 gr.),"10,50 TL",Tavuk Dönerler,6.0
+19bc7e73-6559-4c0f-8135-3544d8f67f42,3/4 Ekmek Arası Tavuk Döner (140 gr.),"13,50 TL",Tavuk Dönerler,6.0
+468ce766-4db4-4c30-8c6a-2e7c19ecc97c,Tam Ekmek Arası Tavuk Döner (120 gr.),"12,00 TL",Tavuk Dönerler,9.0
+6659fe24-3294-4a72-86c0-2f0981d4c429,Tam Ekmek Arası Tavuk Döner (180 gr.),"21,75 TL",Tavuk Dönerler,4.0
+10525091-953a-4474-87ae-749169e889d8,Yarım Ekmek Arası Tavuk Kokoreç (70 gr.),"9,75 TL",Tavuk Kokoreçler,3.0
+84225b23-744a-44cb-841d-6d25de409b1a,Tam Ekmek Arası Tavuk Kokoreç (120 gr.),"13,50 TL",Tavuk Kokoreçler,1.0
+77cd79db-e015-41b1-9a3c-cf4cac07305c,Tavuk Kokoreç Dürüm (120 gr.),"13,50 TL",Tavuk Kokoreçler,2.0
+0a8bfda9-bc6d-40df-a31a-c24071a5fbb4,Et Döner (500 gr.),"90,00 TL",Kiloluk Dönerler (Pişirilmiş),10.0
+0b6364ed-0d22-4860-81a2-124fa183378c,Et Döner (1 kg.),"172,50 TL",Kiloluk Dönerler (Pişirilmiş),10.0
+3875293d-f4ea-4795-85ae-73f40c35b0b9,Poşet,"0,25 TL",Poşet,5.0

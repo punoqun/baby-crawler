@@ -1,0 +1,28 @@
+food_id,food_name,food_price,food_category,food_score
+12b9d004-bee2-4e03-a09b-84cbfc5dc6c7,Çikolatalı Poğaça,"3,50 TL",Poğaçalar & Simit,7.0
+13a4b735-77f2-4fd3-b5c1-7b4bd2f77248,Simit,"1,75 TL",Poğaçalar & Simit,10.0
+4143490f-1f03-49e3-95f7-e184cbdb73cf,Sade Poğaça,"1,75 TL",Poğaçalar & Simit,9.0
+c831497e-d43e-44c3-843d-95b307bc3ef2,Peynirli Poğaça,"1,75 TL",Poğaçalar & Simit,8.0
+BE19D0F1-EB15-49C0-83D8-0FF67D15118B,Kaşarlı Poğaça,"1,75 TL",Poğaçalar & Simit,5.0
+73A3F9B8-AC79-4A6B-9568-5FF2BD38B135,Ispanaklı Börek,"11,00 TL",Börekler,8.0
+a30ebf29-9f11-4a45-b578-8bca6e0b961d,Kıymalı Börek,"11,00 TL",Börekler,9.0
+df59d2c5-89f6-4abc-9d98-d0bec7152f23,Peynirli Börek,"11,00 TL",Börekler,9.0
+ed863438-2e5b-4873-a983-360e07792a64,Patatesli Börek,"11,00 TL",Börekler,10.0
+86a714ff-bca5-4993-a440-77fa3301bdeb,Sade Börek,"10,00 TL",Börekler,10.0
+2ec049a8-bf28-4e07-a7c6-643099606bf9,Tereyağlı Su Böreği,"11,00 TL",Börekler,1.0
+27420b79-f572-4296-8037-8810319e2572,Kaşarlı Su Böreği,"13,00 TL",Börekler,1.0
+4cd69b4f-868b-4b14-affb-d93ed1b1cddb,Kavurmalı Su Böreği,"18,00 TL",Börekler,6.0
+bdd4ee91-afbd-412c-93f4-090c98424bd5,Kıymalı Kır Pidesi,"4,50 TL",Pideler,8.0
+c1482c6e-40fc-4db8-a749-ba2966fcbdff,Patatesli Kır Pidesi,"4,50 TL",Pideler,9.0
+fd1bc836-b77f-4058-bed0-ccdb293be970,Peynirli Kır Pidesi,"4,50 TL",Pideler,8.0
+DC777517-619B-474E-8351-E8EA91BF8303,Kuşbaşı Kaşarlı Pide,"11,00 TL",Pideler,1.0
+3d76aa22-1e5c-4ab4-8f8b-3066fcb66f1a,Cappy (20 cl.),"3,00 TL",İçecekler,5.0
+07ba95dd-4323-4246-9e1e-2370238f965a,Cappy (1 L.),"8,00 TL",İçecekler,5.0
+46ac0c2a-9966-4572-8638-17e5850dce47,Peynirli Börek (500 gr.),"22,00 TL",Kiloluk Börekler,9.0
+5e19d23a-118b-4f86-acaf-4176be4f4a2d,Patatesli Börek (500 gr.),"22,00 TL",Kiloluk Börekler,10.0
+beeed9e6-27ff-45d4-a697-c85d4d1e457e,Sade Börek (500 gr.),"20,00 TL",Kiloluk Börekler,10.0
+c70b63e3-cc6b-429c-b3a7-790a0413900a,Kıymalı Börek (500 gr.),"22,00 TL",Kiloluk Börekler,4.0
+ef86cfd6-0472-44f8-a937-074a428bc277,Tereyağlı Su Böreği (500 gr.),"22,00 TL",Kiloluk Börekler,1.0
+be45c960-0af9-4b51-b06a-d13572fc8fb3,Kavurmalı Su Böreği (500 gr.),"35,00 TL",Kiloluk Börekler,6.0
+88178110-3028-4e87-b05f-2a20506e7e78,Kaşarlı Su Böreği (500 gr.),"26,00 TL",Kiloluk Börekler,1.0
+27113410-cc78-46cc-b16b-b8516ebee995,Poşet,"0,25 TL",Poşet,5.0

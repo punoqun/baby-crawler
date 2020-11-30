@@ -1,0 +1,46 @@
+food_id,food_name,food_price,food_category,food_score
+c2224773-f118-4015-9686-3d69cfe76db3,Yarım Ekmek Arası Beyaz Peynirli & Domates Tost Menü,"20,00 TL",Menüler,0.0
+cd786a7a-9add-48ac-97c0-453458ccaf7e,Yarım Ekmek Arası Kaşarlı Tost Menü,"18,00 TL",Menüler,2.0
+d181daf2-76a8-4de3-bba3-7b310b73cc95,Yarım Ekmek Arası Karışık Tost Menü,"20,00 TL",Menüler,2.0
+e7ebac36-4148-499b-ae71-865a450d88a3,Kahvaltı Tabağı,"20,00 TL",Kahvaltılıklar,5.0
+d5e3f506-f58f-464c-9751-6d6d7b4015bb,Kıymalı Yumurta,"18,00 TL",Kahvaltılıklar,5.0
+568e4109-6206-4c82-942b-ef04cd94ba82,Kıymalı Salçalı Yumurta,"18,00 TL",Kahvaltılıklar,5.0
+3151c5ce-d2ba-42dd-91c7-91a99e817f4a,Domatesli Yumurta,"15,00 TL",Kahvaltılıklar,5.0
+dbde35f8-4e3d-4162-b6b3-f0110a57d9b9,Kavurmalı Yumurta,"20,00 TL",Kahvaltılıklar,5.0
+fae710d7-10f4-43f0-aa49-2589de97f59b,Paçanga Böreği (2 Adet),"20,00 TL",Kahvaltılıklar,5.0
+86c5923f-f6b4-4e64-b558-80f04793bc93,Kuymak,"20,00 TL",Kahvaltılıklar,4.0
+23f9026c-2ed6-421f-a065-4bc508ebdfb3,Menemen,"10,00 TL",Kahvaltılıklar,7.0
+489d902d-b09f-4c2b-8855-1c30afca6553,Kaşarlı Menemen,"12,00 TL",Kahvaltılıklar,2.0
+a0b4dfc5-d18b-416b-8058-6aae6ead222e,Sahanda Yumurta,"12,00 TL",Kahvaltılıklar,5.0
+3654e8e2-70e1-4b33-8f73-0600487e16ef,Kaşarlı Yumurta,"15,00 TL",Kahvaltılıklar,5.0
+0691b320-0530-49dc-a795-2ff10e0c8b3c,Sucuklu Yumurta,"15,00 TL",Kahvaltılıklar,5.0
+92a2976c-db4e-4ab5-9b9a-3dc82a94202d,Patates Kızartması,"10,00 TL",Kahvaltılıklar,5.0
+a0dc8d2a-c777-4279-bbe3-f41977eeb8b7,Beyaz Peynirli Gözleme,"8,00 TL",Gözlemeler,7.0
+1b683061-391c-4dfb-93d8-a26ef0478f1c,Patatesli Gözleme,"8,00 TL",Gözlemeler,7.0
+063d88db-021b-4060-9d29-53c6b0dd31fb,Patlıcanlı Gözleme,"8,00 TL",Gözlemeler,9.0
+27ed8de8-635a-4720-8196-2b6681327a7f,Kıymalı Gözleme,"12,00 TL",Gözlemeler,7.0
+1a87ea3c-aa19-4157-aa1b-d0874996a675,Kaşarlı Gözleme,"8,00 TL",Gözlemeler,7.0
+e76c062a-08b4-44a8-8749-19e0893d8c9b,Kaşarlı Sucuklu Gözleme,"8,00 TL",Gözlemeler,12.0
+a92ee313-cc2f-4487-8619-acec0cba8af7,Islama Köfte,"22,00 TL",Izgaralar,5.0
+2b67b8ce-57bf-4b3c-a5a6-b913c29c2436,Izgara Kanat,"25,00 TL",Izgaralar,5.0
+afc5526b-92ea-4425-b3fd-d5e35c4e7713,Izgara Köfte,"22,00 TL",Izgaralar,5.0
+e3d1caee-02b1-496f-b091-ca5810a534f9,Izgara Tavuk Göğüs,"20,00 TL",Izgaralar,5.0
+883fd86e-36b1-41d2-8e40-c800c1e61793,Tavuk Şiş,"22,00 TL",Izgaralar,5.0
+b61e28f2-7a11-4e08-b685-aa1ba985d0d2,Hamsi Tava,"22,00 TL",Deniz Ürünleri,5.0
+1791b4cf-c0d4-4cb1-b46e-687098a26c48,İstavrit Tava,"20,00 TL",Deniz Ürünleri,5.0
+59cc28f2-7add-4aa1-b9d9-bf145950425c,Izgara Palamut,"22,00 TL",Deniz Ürünleri,5.0
+9bd4fb39-2c34-4e41-be38-8482a84bbb56,Palamut Tava,"22,00 TL",Deniz Ürünleri,5.0
+9f2ed15d-4fe0-4fa4-891d-423a4512d7c8,Ekmek Arası Sucuk,"10,00 TL",Ekmek Arası Ürünler,3.0
+dc8c8c4b-785c-480d-a8af-906321eb1125,Yarım Ekmek Arası Balık,"10,00 TL",Ekmek Arası Ürünler,7.0
+b44a4dda-a45a-4220-be0d-98f48c4d929a,Ekmek Arası Izgara Köfte,"12,00 TL",Ekmek Arası Ürünler,3.0
+548791d3-05ac-452e-a2fd-4e5a453a49c4,Ekmek Arası Izgara Tavuk,"10,00 TL",Ekmek Arası Ürünler,3.0
+5194df65-b8ea-44e7-b5fd-8318f89c06b8,3/4 Ekmek Arası Izgara Köfte,"17,00 TL",Ekmek Arası Ürünler,3.0
+0299d2ee-1304-4347-a0a1-51dfaecc1a7e,3/4 Ekmek Arası Izgara Tavuk,"17,00 TL",Ekmek Arası Ürünler,3.0
+407a7f66-c890-4eae-b7a4-faa76614c644,Cacık,"5,00 TL",Yan Ürünler,5.0
+a97f8eb0-b038-4ef7-b431-36d817be3917,Bardak Yoğurt,"4,00 TL",Yan Ürünler,5.0
+4c8b8371-b6af-45d6-802d-93a4d497c50f,Çoban Salatası,"6,00 TL",Salatalar,5.0
+e1d28d16-0919-485a-a366-858eb7cff11f,Mevsim Salata,"6,00 TL",Salatalar,10.0
+12a7ef3f-50d7-4124-b6c6-7f417f1e41dd,Tavukgöğsü,"8,00 TL",Tatlılar,5.0
+05be0e2e-e400-441c-97d7-7ed11bcd6af5,Bisküvi Pastası,"5,00 TL",Tatlılar,5.0
+569ef762-2664-4d26-bc81-68f136ad8aa0,Kadayıf,"8,00 TL",Tatlılar,5.0
+cb5640de-90ea-4ec9-84fe-59aaac78c995,Poşet,"0,25 TL",Poşet,6.0

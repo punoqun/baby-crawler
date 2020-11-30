@@ -1,0 +1,63 @@
+food_id,food_name,food_price,food_category,food_score
+be15340f-506c-4fef-9b45-00fe8c42ea1c,Menü 1,"16,00 TL",Ekonomik Menüler,30.0
+9b62e6e3-e6f5-4675-bbba-5f71bfcacbc5,Menü 2,"18,50 TL",Ekonomik Menüler,-3.0
+2364f1fc-87aa-402f-8b08-ff611222888a,Menü 3,"23,00 TL",Ekonomik Menüler,2.0
+f172a232-9b05-458b-8b86-b7a1551d3aba,Menü 4,"14,50 TL",Ekonomik Menüler,1.0
+f049f84b-7a87-44bf-b76e-700f91d67d7b,Menü 5,"18,00 TL",Ekonomik Menüler,11.0
+164132dd-6d4f-4658-9f28-e1442a736c2b,Menü 6,"23,50 TL",Ekonomik Menüler,7.0
+ba491c06-c0d3-4c95-8e6e-684e36beeb7f,Menü 7,"16,50 TL",Ekonomik Menüler,7.0
+cbf84095-70c1-4679-b32a-cc493857b5e5,Menü 8,"19,00 TL",Ekonomik Menüler,5.0
+c754b757-5e7c-43c1-89bf-5f23d4becf1b,Menü 9,"24,50 TL",Ekonomik Menüler,6.0
+07a7e9e3-1643-401d-8496-6bbc285fc514,Menü 10,"17,00 TL",Ekonomik Menüler,25.0
+3c049115-4dda-4a1a-862f-110bf699fc4f,Menü 11,"21,00 TL",Ekonomik Menüler,7.0
+64cc29de-3c67-4657-a681-eac08ef506bd,Menü 12,"23,00 TL",Ekonomik Menüler,5.0
+71312941-d796-45d8-9759-654d4c916aeb,Menü 13,"23,00 TL",Ekonomik Menüler,5.0
+7a6ba7da-fd18-44f1-9840-af9869b3e01b,Menü 14,"25,00 TL",Ekonomik Menüler,5.0
+81957944-a69d-4c14-b508-ca7c4a4df5c3,Menü 15,"26,00 TL",Ekonomik Menüler,7.0
+96f630e7-d8da-454d-b6ef-81d26fa47e4d,Menü 16,"21,00 TL",Ekonomik Menüler,7.0
+a75115c2-342f-4f04-a856-0a65f67bdf5a,Menü 17,"23,50 TL",Ekonomik Menüler,5.0
+b43485b8-9b00-401f-aa5a-a3a412670363,Menü 18,"25,50 TL",Ekonomik Menüler,5.0
+cd8e9de3-435f-4032-ac92-5fee687ec7f5,Menü 19,"25,50 TL",Ekonomik Menüler,5.0
+60e704db-bdcf-482e-8a99-3e8799b7cae0,Menü 20,"28,50 TL",Ekonomik Menüler,5.0
+d607e69e-adf5-4908-8355-a3a2d6a97509,Menü 21,"29,00 TL",Ekonomik Menüler,5.0
+632bbd52-d789-42ab-a086-5d8bbf1bc4d7,Menü 22,"65,00 TL",Ekonomik Menüler,5.0
+c2821fd9-e6e3-4e7b-ac36-e1002af0106e,Menü 23,"60,00 TL",Ekonomik Menüler,5.0
+d4410cf0-b7f8-4769-9ae6-f7380463c64f,Menü 24,"70,00 TL",Ekonomik Menüler,5.0
+B9DC8C3E-0C98-457A-9340-C828220B1F33,Efsane Menü,"53,00 TL",Ekonomik Menüler,5.0
+3a882a26-9b92-49b5-aa28-4fbb14b5e26e,Yarım Ekmek Arası Tavuk Döner Menü,"18,50 TL",Ekonomik Menüler,-1.0
+9fdb696f-0ee2-4853-be52-02cf492eb94d,Tavuk Döner Dürüm Menü,"22,00 TL",Ekonomik Menüler,4.0
+e515a432-3929-45fc-9136-39dd138b2af8,Kaşarlı Tavuk Döner Dürüm Menü,"24,00 TL",Ekonomik Menüler,5.0
+a2355206-00f1-401c-9f69-48eb313af993,3/4 Ekmek Arası Tavuk Döner Menü,"24,00 TL",Ekonomik Menüler,1.0
+f3c98f6b-7957-4e43-8bf4-a79db427a33f,Tam Ekmek Arası Tavuk Döner Menü,"26,00 TL",Ekonomik Menüler,1.0
+21a11396-f336-45bf-a213-8205e013c090,Tavuk Döner Menü,"29,50 TL",Ekonomik Menüler,1.0
+8e2172a1-d1ac-4c1a-9485-40b77daec6f4,Yarım Ekmek Arası Tavuk Döner & Tatlı Menü,"21,00 TL",Ekonomik Menüler,-1.0
+2eeea7ba-f4c8-4352-9945-f8cf820e69a4,Tavuk Döner Dürüm & Tatlı Menü,"24,50 TL",Ekonomik Menüler,4.0
+395816a0-1ec2-40af-bc2a-7ea72fba2c51,Kaşarlı Tavuk Döner Dürüm & Tatlı Menü,"26,50 TL",Ekonomik Menüler,5.0
+cd292bae-70e2-4442-ade6-58467e93dd7d,3/4 Ekmek Arası Tavuk Döner & Tatlı Menü,"26,50 TL",Ekonomik Menüler,1.0
+fd204ac6-5016-407d-9f28-cb82350a1f0e,Tam Ekmek Arası Tavuk Döner & Tatlı Menü,"28,50 TL",Ekonomik Menüler,1.0
+dc42152a-c927-4574-a3ee-3b3d9ad6af47,Tavuk Döner & Tatlı Menü,"31,50 TL",Ekonomik Menüler,1.0
+6780e31c-88a4-40f7-952e-61fb13ac4602,Sosisli Aperitif Menü,"20,00 TL",Ekonomik Menüler,5.0
+559d4762-46a7-46aa-9e72-6dcec96554ec,Aperifit Tost Menü,"19,50 TL",Ekonomik Menüler,5.0
+2a2aef06-49aa-4b10-9ad1-06c4c048fe59,Kaşarlı Patso Sandviç,"11,00 TL",Sandviçler,7.0
+6f96bbdd-1713-471c-8e23-2792fc62497a,Goralı Patso Sandviç,"12,00 TL",Sandviçler,6.0
+41fb1258-0b8d-42b5-996c-3a44f2c13037,Sosisli Sandviç,"7,00 TL",Sandviçler,5.0
+96902f27-c28a-4419-a120-2f02cf821fc5,Goralı Sandviç,"8,00 TL",Sandviçler,5.0
+cbae9b72-cdb7-4880-b6b5-b31cf6f69508,Kaşarlı Tost,"7,50 TL",Tostlar,6.0
+abbff2e6-6035-4b32-a1e2-786ea95f4ac5,Sucuklu Tost,"9,00 TL",Tostlar,5.0
+365fa2fd-21a1-4c4a-a383-f7642a420d50,Karışık Tost,"9,00 TL",Tostlar,5.0
+fbfe6e4e-7845-4ce5-8409-ec92bf974ea2,3/4 Ekmek Arası Tavuk Döner,"13,50 TL",Tavuk Dönerler,1.0
+fd87d5c0-b629-4868-a63a-8acf8bcd13de,Tam Ekmek Arası Tavuk Döner,"15,50 TL",Tavuk Dönerler,1.0
+fe53d080-703d-4337-94d3-f55c34d4eda8,Yarım Ekmek Arası Amerikan Salatalı Ciğer,"11,50 TL",Ekmek Arası Ürünler,-1.0
+37fd0c13-533e-4a84-b609-8a0f8d5a0670,3/4 Ekmek Arası Arnavut Ciğeri,"13,50 TL",Ekmek Arası Ürünler,5.0
+1d805ba6-e3bb-406d-b673-e06f50a6091d,Yarım Ekmek Arası Izgara Köfte,"14,00 TL",Ekmek Arası Ürünler,3.0
+61c3cbf1-e170-46a1-94fd-7e8a7972fb2d,3/4 Ekmek Arası Izgara Köfte,"20,00 TL",Ekmek Arası Ürünler,5.0
+74afd02d-f7ee-4c6a-b76f-8ebb98f4e3db,Tam Ekmek Arası Izgara Köfte,"24,00 TL",Ekmek Arası Ürünler,5.0
+b44cf0e4-3513-40d2-8508-b000ab06fb2a,Tam Ekmek Arası Arnavut Ciğeri,"15,50 TL",Ekmek Arası Ürünler,5.0
+ed91cf62-b368-402d-83e5-e87579bd29f3,Arnavut Ciğeri Dürüm,"11,50 TL",Dürümler,8.0
+9b678883-e164-43ab-bb6b-466515638e7e,Pilav Üstü Ciğer,"21,00 TL",Diğer Lezzetler,0.0
+cbf5bcd6-a656-44cb-8aae-d64eaceb7b47,Kaşarlı Izgara Köfte,"25,00 TL",Diğer Lezzetler,6.0
+17b72072-8d6e-4d3c-bb5f-4800da2a4711,Patates Kızartması,"8,00 TL",Yan Ürünler,4.0
+033bd00f-803e-408a-ab04-c951af49ea01,Soğan Halkası (10 Adet),"9,00 TL",Yan Ürünler,3.0
+abcbff1d-bfc2-44cd-b516-643c836b24ad,Eker Sütlaç (100 gr.),"4,00 TL",Tatlılar,5.0
+3097b8e4-1079-4ba0-819a-ea26d50eab5d,Eker Çikolatalı Puding (100 gr.),"4,00 TL",Tatlılar,5.0
+34bc4334-4a18-4852-8268-e8a6971d6fe2,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,36 @@
+food_id,food_name,food_price,food_category,food_score
+8f6fe562-cda1-45a8-995a-1765784241ab,Adana Kebap,"30,00 TL",Kebaplar & Izgaralar,16.0
+fa19427b-6f6b-4a71-bdf3-82096285fc25,Tavuk Şiş,"25,00 TL",Kebaplar & Izgaralar,6.0
+7260cff0-ad2c-4d2d-9d7f-5818989b8e7d,Tavuk Kanat,"28,00 TL",Kebaplar & Izgaralar,10.0
+7b3c7575-ecf8-44df-ba0a-22cad4563c18,Dana Lokum,"60,00 TL",Kebaplar & Izgaralar,5.0
+f18b3974-126b-4683-8ce2-30f19bd99032,Kuzu Pirzola,"55,00 TL",Kebaplar & Izgaralar,7.0
+2d3a55d8-365f-44f5-9c83-4d2cf1330239,Dana Antrikot,"55,00 TL",Kebaplar & Izgaralar,5.0
+b9ce520d-48bd-44f7-98e3-329f57f38a65,Karışık Izgara,"65,00 TL",Kebaplar & Izgaralar,10.0
+486839f4-b4a0-451a-88ce-afd0eb0a2821,Izgara Kasap Köfte,"35,00 TL",Kebaplar & Izgaralar,30.0
+defac266-7b96-423a-8e66-fa912d53f639,Develi Cıvıklısı,"24,00 TL",Fırın Ürünleri,10.0
+15948dbc-2de3-486b-a7b0-f13fc59eaf9d,Kıymalı Pide,"18,00 TL",Fırın Ürünleri,18.0
+e7b1d6ab-1b9b-4ee0-a02e-ff0161a6d04f,Kuşbaşılı Pide,"25,00 TL",Fırın Ürünleri,14.0
+602f651d-df5a-4ab4-a775-ba767328fb97,Peynirli Pide,"18,00 TL",Fırın Ürünleri,14.0
+28543883-45bc-45d0-8cda-9cdc8832a5b1,Kavurmalı Pide,"30,00 TL",Fırın Ürünleri,14.0
+5aa9510b-5780-4cae-8c2e-b0f02939b84c,Sucuklu Pide,"27,00 TL",Fırın Ürünleri,14.0
+a67010f6-1a98-4791-9292-e42908eee3ac,Pastırmalı Pide,"30,00 TL",Fırın Ürünleri,14.0
+4b83ef86-6f63-4430-a905-3a2d163dc3a5,Cevizli Pide,"30,00 TL",Fırın Ürünleri,14.0
+4b339f4c-4706-428e-a3f4-fa8428ef5b00,Tahinli Pide,"30,00 TL",Fırın Ürünleri,14.0
+a0a733eb-0b00-48db-91a1-542a1b00322e,Karışık Pide,"30,00 TL",Fırın Ürünleri,16.0
+62989a7e-9657-4135-a495-172080dfd407,Adana Dürüm,"20,00 TL",Dürümler,20.0
+79d49155-5c49-4102-8e36-b3bf1ade54a4,Kasap Burger,"35,00 TL",Burgerler,15.0
+0d633659-d961-438a-a297-f46a2b4a3bca,Lokum Burger,"40,00 TL",Burgerler,7.0
+edc13825-dc7a-49b6-bb66-beddf690fc7a,Havuç Dilim Baklava,"20,00 TL",Tatlılar,5.0
+6dc0b079-14b7-48e8-8dfa-ac2ef525c340,Dondurmalı Havuç Dilim Baklava,"25,00 TL",Tatlılar,5.0
+a9fcdca8-d04b-4100-a477-5c96e7aee878,Izgara Köfte (1 kg.),"75,00 TL",Kiloluk Ürünler (Pişirilmiş),22.0
+d2011792-21e4-4571-9943-26155e094844,Tavuk Şiş (1 kg.),"60,00 TL",Kiloluk Ürünler (Pişirilmiş),6.0
+df048625-0d77-49c6-93aa-44d897522e7b,Tavuk Kanat (1 kg.),"65,00 TL",Kiloluk Ürünler (Pişirilmiş),10.0
+06dc56d7-31fa-4145-84a4-749ba990e48b,Kuzu Biftek (1 kg.),"130,00 TL",Kiloluk Ürünler (Pişirilmiş),6.0
+5594a319-530f-4e6c-b3e5-9b6fcfbb888c,Dana Biftek (1 kg.),"130,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+a62b85f0-ff49-409b-836a-d92823763fc5,Kuzu Pirzola (1 kg.),"140,00 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+f56f499f-742a-49a0-87c0-95afb87e9aaa,Karışık Et (1 kg.),"140,00 TL",Kiloluk Ürünler (Pişirilmiş),10.0
+46dc10cf-1726-43f7-870f-f56ab49b674c,"Kuzu Kol (1-1,2 kg.)","140,00 TL",Kiloluk Ürünler (Pişirilmiş),6.0
+ec9ce235-cba3-4676-84a7-41052ed924b0,Dana Lokum (1 kg.),"220,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+e533d995-550e-4563-96fa-d5f4b7687954,"Kuzu Gerdan (1-1,2 kg.)","140,00 TL",Kiloluk Ürünler (Pişirilmiş),6.0
+bbe8c7ef-c5ec-4e03-81b8-db1d65e0527b,Dana Kaburga Assado (1 kg.),"140,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+cf7f1290-9785-478d-b1e4-1db4e36aaf33,Poşet,"0,25 TL",Poşet,5.0

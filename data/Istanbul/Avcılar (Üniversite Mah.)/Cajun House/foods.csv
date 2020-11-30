@@ -1,0 +1,21 @@
+food_id,food_name,food_price,food_category,food_score
+0e5fa744-4564-42b8-a9e0-9d60ffa8f9e7,Menü 1,"27,00 TL",Menüler,3.0
+6b5b94b8-2658-4c9c-ac92-c5c6363dec24,Menü 2,"52,00 TL",Menüler,4.0
+7e5237df-3287-4032-8154-a2eee8ac8a7e,Menü 3,"69,00 TL",Menüler,-4.0
+8d0d8004-77c4-4ffb-a3ed-8602bf928d6f,Menü 4,"88,00 TL",Menüler,3.0
+8894d81c-34ce-405f-83b0-1119db9c95f5,Menü 5,"22,00 TL",Menüler,-1.0
+0af59fb0-82a9-487a-95b9-aec7cd07e4e6,Café de Paris Soslu Tavuk,"31,90 TL",Ana Yemekler,21.0
+28c9c0a8-f30a-4cb1-b7d5-4df7601a26ff,Barbekü Soslu Tavuk,"29,90 TL",Ana Yemekler,14.0
+3c1f0ea2-75f1-4066-b0b4-fcf03b32a90a,Kekikli Tavuk Tava,"29,90 TL",Ana Yemekler,14.0
+79c06745-8d38-466c-9d20-753ececcdef3,Meksika Soslu Tavuk,"31,90 TL",Ana Yemekler,14.0
+83e7b703-7e34-4431-be3b-68d9535d5369,Mantarlı Tavuk Tava,"31,90 TL",Ana Yemekler,12.0
+962609a2-1e5e-44db-b1f0-01f819eabbef,Acılı Tavuk,"29,90 TL",Ana Yemekler,14.0
+b7fc837d-7413-4ec9-9b2b-e2e8eaaf3279,Buffalo Soslu Tavuk,"29,90 TL",Ana Yemekler,14.0
+cdf7bfb9-633b-44d0-ace2-f091b400729d,Patlıcanlı Tavuk,"31,90 TL",Ana Yemekler,14.0
+d0aa55a5-b932-4348-b8eb-fc56efc81fec,Cheddarlı Tavuk,"31,90 TL",Ana Yemekler,19.0
+07d457cc-0956-4c6d-95d1-2053ccea6312,Cheese Whiz Soslu Patates Kızartması,"13,00 TL",Yan Ürünler,3.0
+2f72b2d4-482e-4c69-af77-e1c1df616e89,Parmesan Soslu Patates Kızartması,"13,00 TL",Yan Ürünler,3.0
+8b6d87b2-7d5a-49f3-839c-5b54c031cc5c,Nuggets (8 Adet),"10,00 TL",Yan Ürünler,5.0
+a959d15b-0206-488b-bada-745acda7daa0,Soğan Halkası (8 Adet),"10,00 TL",Yan Ürünler,5.0
+b39eef7b-6e80-4f3d-adc0-6c94f6563e2e,Patates Kızartması (300 gr.),"10,00 TL",Yan Ürünler,3.0
+d14912ed-12e2-4092-ab0a-d5fd363f8832,Poşet,"0,25 TL",Poşet,5.0

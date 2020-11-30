@@ -1,0 +1,49 @@
+food_id,food_name,food_price,food_category,food_score
+85ee4f98-a65c-46d5-b290-bc963f95df8c,Kumru Menü,"26,00 TL",Menüler,3.0
+462263ec-20ca-4a7d-9778-5fb360344c09,Biftek Kaşarlı Menü,"26,00 TL",Menüler,6.0
+22be2fb7-be71-433c-8b85-2220f0d01f9c,Dilli Kaşarlı Menü,"26,00 TL",Menüler,6.0
+6617c11e-eea8-4256-9ee1-bce8c091eec4,Islak Hamburger Menü,"22,00 TL",Menüler,-2.0
+516b65d5-1454-4527-844f-bb3315617f71,Kavurmalı Kaşarlı Ayvalık Menü,"32,00 TL",Menüler,7.0
+7a852518-16a1-4c8f-883b-de157bcccfb0,Sosis Amerikan Menü,"20,00 TL",Menüler,5.0
+8853c204-b573-4395-85ad-2ebca6199966,Süper Ayvalık Menü,"26,00 TL",Menüler,12.0
+f3146670-b794-47be-b451-5745b3fa8649,Tavuklu Kaşarlı Menü,"22,00 TL",Menüler,6.0
+7fea7b92-f3eb-47a9-9f1f-91c024fdf8f0,9 Islak Hamburger Menü,"69,00 TL",Menüler,-4.0
+52f6d3a4-ace3-45d8-ad84-5aab575f85a7,Çocuk Menüsü,"24,00 TL",Menüler,5.0
+3821cd3d-715c-475d-8f94-faa2e5edd5b9,4'lü Menü,"90,00 TL",Tıka Basa Menüler,5.0
+42a3c78f-c664-4846-8c3d-01d0ed07b712,3'lü Menü,"70,00 TL",Tıka Basa Menüler,5.0
+ea4e32d3-719b-4dea-b35b-250f8113c217,2'li Menü,"35,00 TL",Tıka Basa Menüler,5.0
+49d1d1f9-0bb5-406e-b56f-30e927f4fd63,Ev Yapımı Patatesli Gözleme,"20,00 TL",Gözlemeler,3.0
+f28e6b6e-60fd-4214-9b9e-b87b8acd98b9,Ev Yapımı Peynirli Gözleme,"20,00 TL",Gözlemeler,2.0
+4b8df777-902a-4415-b27b-3bff06a83f0e,Tavuk Şiş Dürüm,"14,00 TL",Izgaralar,3.0
+a7dba22d-7a2b-4761-9a5d-c5afac048e5f,Tavuk Schnitzel,"20,00 TL",Izgaralar,3.0
+d10178f0-3e98-4bc1-97c5-976f7e2ad728,Tavuk Nugget,"20,00 TL",Izgaralar,3.0
+26fce8a4-35f7-48b2-9c71-c5e34021073b,Yarım Ekmek Arası Izgara Tavuk,"14,00 TL",Izgaralar,3.0
+022bf13d-b27a-46d2-9a1b-683c43029d51,Kaşarlı Izgara Tavuk Dürüm,"18,00 TL",Izgaralar,4.0
+d463ce41-7fd4-4f3b-a588-6feacebedec5,Izgara Tavuk Dürüm,"17,00 TL",Izgaralar,3.0
+a03cbb66-1d0d-479f-a868-183b92cf4e10,Kaşarlı Tavuk Şiş Dürüm,"15,00 TL",Izgaralar,4.0
+b0cfcb03-46af-4add-aed6-81c333d29c49,3/4 Ekmek Arası Izgara Köfte,"23,00 TL",Izgaralar,6.0
+d62026ce-1e8b-4e0e-ab6e-313b3fcce3a4,Pilav Üstü Izgara Köfte,"28,00 TL",Izgaralar,6.0
+d75f166d-ea93-4f0b-860e-76c05a0a459e,Yarım Ekmek Arası Izgara Köfte,"16,00 TL",Izgaralar,6.0
+a09952fa-b612-4e66-bec8-00c415bd6645,Tam Ekmek Arası Izgara Köfte,"25,00 TL",Izgaralar,6.0
+b1df2be5-a629-4e05-8c3e-7f16a5a50386,Izgara Köfte Dürüm,"17,00 TL",Izgaralar,6.0
+77974857-26a2-4140-8574-8db99eb0fd0c,Kaşarlı Köfte Dürüm,"18,00 TL",Izgaralar,7.0
+156946d0-6859-4229-987c-ff8d753e61d5,Marmaris Tost,"12,00 TL",Tostlar,4.0
+eb2beb3a-bef9-4584-bcc6-a254d549ba4b,Kavurmalı Kaşarlı Tost,"18,00 TL",Tostlar,5.0
+39635c7b-134c-4229-908d-233bd61f4cb4,Kaşarlı Ayvalık Tostu,"12,00 TL",Ayvalık Tostlar,7.0
+33008c6a-a337-4580-918e-6b51a1a92db2,Salamlı Kaşarlı Ayvalık Tostu,"14,00 TL",Ayvalık Tostlar,7.0
+6fa5fd85-4090-4838-a218-d1896b9dbc95,Karışık Ayvalık Tostu,"14,00 TL",Ayvalık Tostlar,6.0
+31efcb07-82b7-4eed-8a7d-7efbac689e0d,Dilli Kaşarlı Ayvalık Tostu,"25,00 TL",Ayvalık Tostlar,7.0
+afef4aae-ede2-432a-9624-23112cbd9246,Lüx Burger,"15,00 TL",Burgerler,5.0
+28231964-acdf-4720-b534-5cc20313227e,Hot Dog Sandviç,"17,00 TL",Sıcak Sandviçler,5.0
+d1a81698-6b11-4474-9cec-8655d46681cf,Kaşarlı Patso Sandviç,"13,00 TL",Sıcak Sandviçler,8.0
+190b6831-7f90-448d-a6d4-e533ae900d60,Double Salamlı Kaşarlı Sandviç,"17,00 TL",Soğuk Sandviçler,6.0
+b25cffda-6398-44eb-b7cb-c95bf64d6c26,Patates Kızarması (Büyük Boy),"13,00 TL",Yan Ürünler,1.0
+5cab3d5a-824d-4861-8fb5-5a794292ad8d,Patates Kızarması (Duble Boy),"18,00 TL",Yan Ürünler,1.0
+65d2d9e0-28a8-45aa-9741-f13e1ab39d3a,Ev Yapımı Patatesli Sigara Böreği,"17,00 TL",Yan Ürünler,4.0
+b339af27-655e-405a-99c7-784a404ca823,Ev Yapımı Peynirli Sigara Böreği,"17,00 TL",Yan Ürünler,3.0
+30346273-d664-4e62-8533-5a5ca07ffdd8,Niğde Gazozu (20 cl.),"5,00 TL",İçecekler,5.0
+09128fd2-c20a-4c56-9b93-1956fb183a2a,Ev Yapımı Limonata (1 L.),"15,00 TL",İçecekler,3.0
+e735ffed-755f-4601-a82b-b086e2dd1a0a,Açık Ayran (1 L.),"15,00 TL",İçecekler,5.0
+79a252cb-e971-4354-870b-5457af006d29,Limonata,"6,00 TL",Vitamin Bar,5.0
+07bb4aa4-1bc3-4f76-9389-8c3bdb58896c,Taze Sıkma Nar & Portakal Suyu,"13,00 TL",Vitamin Bar,6.0
+dc1c5364-f2e8-49eb-b956-652f1ebe4f41,Poşet,"0,25 TL",Poşet,5.0

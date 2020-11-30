@@ -1,0 +1,48 @@
+food_id,food_name,food_price,food_category,food_score
+49f986b0-7d65-4455-bd61-89c59b133d5c,Menü 2,"24,00 TL",Menüler,14.0
+42D19ECA-A87C-4887-A448-3B6982B906F4,Pilav Üstü Et Döner Menü,"34,00 TL",Menüler,23.0
+43A1F4BB-B3A9-4265-9B50-80C9A5B61CA9,Pilav Üstü Et Döner & Tatlı Menü,"38,00 TL",Menüler,22.0
+f9dc2395-2163-4b13-943f-4b237f82edd7,Menü 1,"24,00 TL",Menüler,17.0
+c29056de-757e-4c4b-917e-06a02bac58be,Köfteli Pilav Menü,"31,00 TL",Menüler,23.0
+d237a41b-42f7-479c-b581-0e511a2ed9c3,Kuru Fasulyeli Pilav Menü,"21,00 TL",Menüler,20.0
+e5e6e361-3bc0-4fd5-84ae-b19573b93ab9,Mısırlı Pilav Menü,"21,00 TL",Menüler,23.0
+b6894458-09fd-4b73-8eaa-5df72712a730,Şnitzelli Pilav Menü,"27,00 TL",Menüler,23.0
+896d3901-ca2f-4855-92cf-7a4c6b4a67b1,Sporcu Pilav Menü,"32,00 TL",Menüler,29.0
+f5f8f702-dccd-478e-8991-a9292a2f7c13,Tavuklu Pilav Menü,"26,00 TL",Menüler,23.0
+2b9d48ba-5b8c-4c3e-bad4-75ac4318abd5,Ton Balıklı Pilav Menü,"32,00 TL",Menüler,23.0
+eadcd866-8fc6-4904-a683-0390d7e29149,Tavuk Soteli Pilav Menü 1,"23,00 TL",Menüler,37.0
+a9bdd1d8-f7cf-470e-8bb9-c70343b39982,Tavuk Soteli Pilav Menü 2,"26,00 TL",Menüler,33.0
+ADE95B8E-8DC5-4688-AC2F-178FE1599DD6,Pilav Üstü Et Döner,"25,00 TL",Pilavlar,23.0
+a77e56af-0c79-4860-b92b-091368921a06,Kuru Fasulyeli Pilav,"15,00 TL",Pilavlar,20.0
+705ba14a-711e-40a0-961b-53af2c8a1493,Mısırlı Pilav,"16,00 TL",Pilavlar,23.0
+3646687d-7a8c-4f1f-a3ed-ae32f03c2703,Şnitzelli Pilav,"16,00 TL",Pilavlar,23.0
+d57b872b-fe8b-4d50-a1ee-83078b0844f4,Tavuk Soteli Pilav,"18,00 TL",Pilavlar,26.0
+4d8c2b20-5888-4914-bf47-36c9688a4363,Duble Tavuk Soteli Pilav,"23,00 TL",Pilavlar,28.0
+3124c49e-8eca-4d58-a156-e33fbda58dd0,Ton Balıklı Pilav,"21,00 TL",Pilavlar,23.0
+12c581a2-d025-4288-a49c-38c08cdd5c49,Sporcu Pilav,"21,00 TL",Pilavlar,34.0
+75a54914-7b0c-453a-a577-5c0f7ff696fb,Köfteli Pilav,"25,00 TL",Pilavlar,23.0
+c45e80b6-542f-42fc-a7d4-d6e496331dce,Duble Ton Balıklı Pilav,"27,00 TL",Pilavlar,25.0
+e85598ea-53ce-45fe-be4a-b84b85f16d29,Yarım Ekmek Arası Izgara Köfte,"17,00 TL",Ekmek Arası Ürünler,5.0
+a33fc03b-08d6-43d9-8c77-2b6b5318d676,Tam Ekmek Arası Izgara Köfte,"30,00 TL",Ekmek Arası Ürünler,5.0
+b325d505-49f6-4db3-8312-4cd70aba70b1,Kuru Fasulye,"12,00 TL",Diğer Lezzetler,2.0
+4095F787-FBE6-4415-932A-00F32C36E56F,Tavuk Sote,"16,00 TL",Diğer Lezzetler,9.0
+F5AC461E-03E8-4C5A-B9D3-3E1C75B81F4A,Sulu Köfte,"14,00 TL",Diğer Lezzetler,5.0
+F514B7BF-6960-456D-A256-389A9108A620,Kıymalı Ev Mantısı,"22,00 TL",Diğer Lezzetler,7.0
+b9bff909-5c29-4f4f-b8e0-159b0ff2b468,Soğan Halkası (6 Adet),"6,00 TL",Yan Ürünler,5.0
+86290911-6335-4e62-bf25-ae9dd1fada6e,Soğan Halkası (10 Adet),"10,00 TL",Yan Ürünler,5.0
+34e9b75e-525c-4d7a-9e2b-d78d38ba2af9,Cacık,"7,00 TL",Yan Ürünler,9.0
+A7E1262E-F145-401B-BE64-6D738C0960D4,Çilekli Mag,"12,00 TL",Tatlılar,5.0
+1b7b9cbc-6ef4-41ec-a602-6eeec7be22dc,Ekler (5 Adet),"12,00 TL",Tatlılar,5.0
+e03bd12c-c17e-4d41-9a50-9b95b81b5d5b,Fırın Sütlaç,"12,00 TL",Tatlılar,5.0
+8f91ef96-db93-4b17-a458-fc9424ff94d2,Frambuazlı Trileçe,"12,00 TL",Tatlılar,5.0
+0700026a-09a8-4d94-ab64-2363a1da8256,Karamelli Trileçe,"12,00 TL",Tatlılar,5.0
+6158bc8d-4c5f-4a33-8944-6f0601960342,Karışık Tatlı,"12,00 TL",Tatlılar,6.0
+A4052BB0-1DE4-432E-8231-7003A0BDF002,Kazandibi (200 gr.),"12,00 TL",Tatlılar,5.0
+65169bfe-3f71-4928-9701-bcf7f0b35689,Kemalpaşa Tatlısı (4 Adet),"7,50 TL",Tatlılar,5.0
+e6483cf8-7b60-4fd8-9083-f49e214db9f0,Muzlu Rulo Pasta (5 Adet),"12,00 TL",Tatlılar,5.0
+319E6C26-ACE7-448C-B4BE-BA761C0B2E31,Oreolu Mag,"12,00 TL",Tatlılar,5.0
+79b538b9-3d00-4247-b674-5e38d96d2728,Profiterol,"12,00 TL",Tatlılar,5.0
+B34C038F-F89E-4C97-9F9C-6EA13D919EA2,Supangle (200 gr.),"12,00 TL",Tatlılar,5.0
+095a0aaa-7865-4426-9a85-d48a9ef59d7f,Tartolet (5 Adet),"14,00 TL",Tatlılar,5.0
+069bb0ec-60e3-45e3-ac8b-e09f7cee7776,Yedigün (20 cl.),"4,00 TL",İçecekler,5.0
+3391b58d-1698-40f5-80fc-f6060087401c,Poşet,"0,25 TL",Poşet,5.0

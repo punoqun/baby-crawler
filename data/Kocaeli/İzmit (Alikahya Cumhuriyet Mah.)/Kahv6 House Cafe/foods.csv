@@ -1,0 +1,29 @@
+food_id,food_name,food_price,food_category,food_score
+7e28b2a7-c941-4997-9619-d6e008de970a,Hamburger Menü,"25,00 TL",Menüler,5.0
+b3082dc0-0218-46e2-8c08-c4a12bdce56f,Cheseeburger Menü,"25,00 TL",Menüler,7.0
+8a27be74-a72c-4824-9b9a-f2a94f3c5b6d,Tost Menü,"20,00 TL",Menüler,2.0
+14f62917-72a9-4d5a-863d-b40aa97856c3,Omlet,"10,00 TL",Kahvaltılar,5.0
+4b99b480-b594-4c7b-bf44-88f97428fbfc,Sucuklu Yumurta,"13,00 TL",Kahvaltılar,5.0
+7c104ff3-cc54-439c-8a86-285fd95b5fd0,Menemen,"13,00 TL",Kahvaltılar,4.0
+ec8a0d31-9bcb-47ed-9bf3-8fee9058ac73,Kahvaltı Tabağı,"20,00 TL",Kahvaltılar,9.0
+f0a7262f-8737-42c9-b83c-815a1b2045ed,Sahanda Yumurta,"8,00 TL",Kahvaltılar,5.0
+FAB0503C-6DA6-487C-8AF8-8A8DA81E8FFA,Sucuk Kaşarlı Gözleme,"10,00 TL",Gözlemeler,12.0
+20769F29-BF03-404D-992C-470BE6C35B27,Sucuklu Gözleme,"10,00 TL",Gözlemeler,7.0
+645010BB-A87F-4B97-B510-5A3F337EF6B8,Kaşarlı Gözleme,"10,00 TL",Gözlemeler,7.0
+3C8C44BA-0A9B-4AF3-B473-FD91626AF2BD,Patatesli Gözleme,"10,00 TL",Gözlemeler,7.0
+9DBA87B1-12AB-4120-91DF-E678D63B166C,Peynirli Gözleme,"10,00 TL",Gözlemeler,7.0
+894984DC-3CA8-4887-876E-08A54A4F3DD8,Nutellalı Gözleme,"10,00 TL",Gözlemeler,7.0
+17b89f98-e332-4020-bd3e-5952f1051b73,Sucuklu Yumurtalı Tost,"13,00 TL",Tostlar,2.0
+55ca6540-9b62-4497-ba3e-913340f1b699,Kaşarlı Tost,"10,00 TL",Tostlar,2.0
+5de50f80-b8f6-411a-a2d5-f86377d85e23,Sucuklu Tost,"10,00 TL",Tostlar,2.0
+748470df-1686-476b-b614-f76e5eca849e,Kaşarlı Sucuklu Tost,"12,00 TL",Tostlar,2.0
+abee6cb0-ac2a-4c52-b2ba-6e606f569009,Bol Malzemeli Tost,"15,00 TL",Tostlar,2.0
+ede8f4e5-436e-43ac-bfcc-7c5e0deab8e6,Full Karışık Kumpir,"20,00 TL",Diğer Lezzetler,12.0
+041fc7b4-9a88-40b3-9b58-351849d97339,Patates Kızartması,"6,00 TL",Yan Ürünler,4.0
+5641ef9a-3a01-41b6-836e-4625f9bc7a25,Bitter Çikolatalı Waffle,"23,00 TL",Waffles,10.0
+9e88984b-4ac0-4ab7-8895-a9447d3c20d1,Sütlü Çikolatalı Waffle,"23,00 TL",Waffles,15.0
+bab4dc29-6f9b-4548-9a1d-c9f64c8d9f8c,Beyaz Çikolatalı Wafffle,"23,00 TL",Waffles,5.0
+5138a69a-f092-4151-aa92-bc89c92f0847,Beyaz Çikolatalı Lokma,"20,00 TL",Lokmalar,8.0
+a009f2d3-343f-42bf-a9bd-0410736fea1e,Sütlü Çikolatalı Lokma,"20,00 TL",Lokmalar,8.0
+b1a4ef39-642b-4d53-8031-3ce589a8e123,Bitter Çikolatalı Lokma,"20,00 TL",Lokmalar,8.0
+c5611662-925c-46d0-b197-efce51d35295,Poşet,"0,25 TL",Poşet,5.0

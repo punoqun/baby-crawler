@@ -1,0 +1,80 @@
+food_id,food_name,food_price,food_category,food_score
+2b9b89fa-4318-49c9-94ce-2e92b2839fd6,2'li Cheese Hot Dog Menü,"76,00 TL",Menüler,9.0
+f021a296-b3f2-4c03-b832-8823da973cf7,2'li Cheeseburger Menü,"91,00 TL",Menüler,8.0
+c17e4fe0-a230-4cee-b3b4-cfa4bca6dbd7,2'li Classic Hot Dog Menü,"66,00 TL",Menüler,5.0
+252def1d-fcf0-4278-aa0d-ac7453feda74,2'li Hamburger Menü,"86,00 TL",Menüler,2.0
+6fe064a9-bf45-4c33-9a21-a8d805ba4d99,2'li Special Menü,"107,00 TL",Menüler,4.0
+7bbcfa6c-3144-4676-b546-378fb98066a7,2'li Tavuk Lokum Burger Menü,"72,00 TL",Menüler,12.0
+1ab0a2a9-b987-40a2-9d77-440be0f71f75,3'lü Cheeseburger Menü,"135,00 TL",Menüler,8.0
+9b9a1c15-7463-48ca-a635-cf3a4cdf55c3,3'lü Hamburger Menü,"126,00 TL",Menüler,2.0
+a0c4707b-7795-4ce3-b48c-2041f0608b3c,4'lü Cheeseburger Menü,"172,00 TL",Menüler,8.0
+55967f73-1a59-48a8-adf7-2c9302041801,4'lü Hamburger Menü,"162,00 TL",Menüler,2.0
+1e5ecd11-d3a9-493d-b1e6-1bdfe3c45afe,Acı Sever Fırsat Menü,"53,00 TL",Menüler,4.0
+0cd99dba-f74e-4bbc-a979-aa4eb8c4f55e,Burger & Hot Dog Menü,"87,00 TL",Menüler,3.0
+15a918bb-b95a-4600-af2f-353cae9e9665,Cheese Hot Dog & Classic Hot Dog Menü,"71,00 TL",Menüler,9.0
+800468f4-e82d-4e13-a34f-081c3f4db0c9,Cheeseburger & Cheese Hot Dog Menü,"79,00 TL",Menüler,11.0
+8d41a357-e826-4872-9441-832715e1f94d,Çocuk Menüsü,"36,00 TL",Menüler,6.0
+0ddcb70e-ac06-4159-aff5-a251e0613516,Hamburger & Tavuk Lokum Burger & Hot Dog Menü,"101,00 TL",Menüler,11.0
+c84519e9-0d7d-4332-8653-1c543fb03302,Hamburger & Tavuk Lokum Burger Menü,"79,00 TL",Menüler,10.0
+97f94ee9-ff31-48c0-af73-29ab053fe905,Special Burger Menü,"56,00 TL",Burger Menüleri,7.0
+72605a1c-5cdd-458a-a26b-8c395deefead,Hamburger Menü,"48,00 TL",Burger Menüleri,2.0
+97b48c8c-d942-4e2b-98f1-2c32984b3ad7,Cheeseburger Menü,"50,00 TL",Burger Menüleri,13.0
+79367d17-fb6a-48b9-9fef-6f3cf1b6f9a5,Rokfor & Mushroom Burger Menü,"55,00 TL",Burger Menüleri,3.0
+a1e4d464-6aba-4434-9bfb-16752d83be52,Cyprus Burger Menü,"53,00 TL",Burger Menüleri,4.0
+4692c20a-042f-4038-9859-05e4b7ed1e3f,Barbeque Burger Menü,"53,00 TL",Burger Menüleri,2.0
+848144fb-4dcd-40bb-8fad-d314a23df10c,Garlic & Parmesan Burger Menü,"53,00 TL",Burger Menüleri,2.0
+99833179-8cbe-402d-83b7-67c54f1dc7ad,Trüf Burger Menü,"53,00 TL",Burger Menüleri,2.0
+d7b6de72-359a-48d5-b643-271c065e3003,Tavuk Lokum Burger Menü,"42,00 TL",Burger Menüleri,12.0
+cc467f43-d00d-4382-b95b-5c4273829744,Ekonomik Special Burger Menü,"45,00 TL",Ekonomik Burger Menüleri,6.0
+6bcfa4cf-913c-4dfc-b576-fd06daf92ee6,Ekonomik Turko Burger Menü,"44,00 TL",Ekonomik Burger Menüleri,7.0
+ad17fc48-ecd4-4438-b6b1-6ba8b6403664,Ekonomik Cheeseburger Menü,"39,00 TL",Ekonomik Burger Menüleri,17.0
+43af7991-6d71-4673-8871-b21b7e2c5c15,Ekonomik Hamburger Menü,"37,00 TL",Ekonomik Burger Menüleri,6.0
+4510fae1-e4ff-44c3-9c03-8e3485520eba,Ekonomik Tavuk Lokum Burger Menü,"30,00 TL",Ekonomik Burger Menüleri,16.0
+4f2157eb-5d8b-4cd2-bfe0-9eda69d44535,Special Hot Dog Menü,"48,00 TL",Hot Dog Menüleri,5.0
+ce9a053a-3200-4da7-a88e-f12e7e42d6c3,Cheese Hot Dog Menü,"44,00 TL",Hot Dog Menüleri,9.0
+b93798ac-9d6a-4ff4-af8c-63c583ace65c,Classic Hot Dog Menü,"38,00 TL",Hot Dog Menüleri,5.0
+816b75f4-c2f4-46e3-9114-d14a54ee2c8d,Ekmek Arası Köfte Menü,"41,00 TL",Ekmek Arası Menüleri,7.0
+51e75058-d1c8-4899-bd37-99d5137c0b40,Ekmek Arası Kasap Sucuk Menü,"41,00 TL",Ekmek Arası Menüleri,8.0
+7b3f6326-6528-4a09-bc1b-8e7411d8d60d,Atıştırma Tabağı,"39,00 TL",Başlangıçlar,6.0
+f96addb2-376d-4828-bd16-fff858a36db3,Izgara Tavuk Parçaları,"16,00 TL",Başlangıçlar,13.0
+ef7f56cf-aecf-4fd5-b773-53e5c6804498,Mozzarella Sticks (5 Adet),"18,00 TL",Başlangıçlar,5.0
+721c66ac-2049-4050-aa78-11f770d5d004,Patates Kızartması,"16,00 TL",Başlangıçlar,16.0
+039977c1-832c-4600-a5ad-295b6ec38f2c,Peynir Soslu Füme Etli Patates Kızartması,"32,00 TL",Başlangıçlar,16.0
+97352e31-6468-4f0f-9f54-3bc15dae3c04,Soğan Halkası (8 Adet),"16,00 TL",Başlangıçlar,5.0
+7a4870ef-238a-4c21-a480-43b0d168dd3d,Sosis & Patates Tabağı,"35,00 TL",Başlangıçlar,17.0
+bb4511ea-09b8-4484-a137-f6e3f7c325a8,Türüflü Parmesanlı Patates Kızartması,"32,00 TL",Başlangıçlar,16.0
+7a503956-83f1-4600-8856-cbabe4fcef69,Barbeque Burger,"41,00 TL",Burgerler,3.0
+76d39a4e-a916-42cd-bb2d-6dfc7bd8532f,Chicken Burger,"32,00 TL",Burgerler,3.0
+2e73cdeb-c234-4784-b96c-ce86a7d59b31,Double Meat Burger,"70,00 TL",Burgerler,3.0
+341a1d1a-5b71-4816-84d3-3dc06656d7b5,Hamburger,"36,00 TL",Burgerler,3.0
+c7b6f9fb-0f78-40ad-bdba-fd4bceda5193,Hot Chicken Burger,"33,00 TL",Burgerler,4.0
+bdab4e9b-09ed-4648-82e7-904eea7ec1c6,Kendi Burgerini Kendin Yap,"36,00 TL",Burgerler,9.0
+721d3554-51bb-4c9f-8fa0-eb413ae03ee1,Lokum Burger,"72,00 TL",Burgerler,7.0
+efd0aeb2-9db2-4157-be8d-0f3c93a5d7ef,Mexican Burger,"41,00 TL",Burgerler,3.0
+6ecec180-cada-4fea-80ea-d5f6b0a0dfa3,Special Burger,"44,00 TL",Burgerler,3.0
+dcff8929-ad5b-40c5-b0d7-30154275c803,Tavuk Lokum Burger,"30,00 TL",Burgerler,13.0
+370ae923-2737-4628-9156-d3b40cee7db5,Tereyağlı Burger,"42,00 TL",Burgerler,3.0
+a51d963f-1d0e-45c5-8c93-525c99cc01f3,Classic Hot Dog,"28,00 TL",Hot Doglar,6.0
+988e1d05-b972-43d2-a8b1-70a72e9ed247,Mexican Hot Dog,"33,00 TL",Hot Doglar,6.0
+18e38f19-bbbb-4f39-8c82-b42648c96603,Arjantin Hot Dog,"33,00 TL",Hot Doglar,6.0
+2ef0b2f4-0855-4bf4-9f91-c26befd71ff2,Rokfor Mushroom Hot Dog,"38,00 TL",Hot Doglar,7.0
+d0acc7f8-c7a7-4604-aa51-f66400aaf6d2,Special Hot Dog,"38,00 TL",Hot Doglar,6.0
+00c405e3-34db-4734-8a17-7f572622d251,Karışık Izgara,"82,00 TL",Izgaralar,7.0
+2ba6434d-c5de-473b-92b7-a63c6d78e7e5,Kasap Sucuk Izgara,"45,00 TL",Izgaralar,7.0
+308db3c2-58a7-4fcb-b49d-b1c016ccc84c,Tavuk Lokum Izgara,"38,00 TL",Izgaralar,17.0
+42704db9-cd13-4f56-b34b-bcd519e981b5,Kasap Köfte,"45,00 TL",Izgaralar,4.0
+480e507c-40aa-47dc-9514-ef5be057b706,Ekmek Arası Kasap Sucuk,"29,00 TL",Ekmek Arası Ürünler,9.0
+5c1c9733-fc28-4b37-8254-b088f3eb5da5,Ekmek Arası Köfte,"29,00 TL",Ekmek Arası Ürünler,8.0
+8ca86fb7-43e9-4c3b-b764-d0d0b1cb02d4,Ev Yapımı Sufle,"19,00 TL",Tatlılar,8.0
+a2095840-af13-418a-b7ab-86a35820a9ae,Nutella Burger,"15,00 TL",Tatlılar,5.0
+1fd7f8c2-610a-4f62-9420-70559d855193,Mozaik Pasta,"19,00 TL",Tatlılar,5.0
+3d8e922e-b0d2-4cd6-a93c-01e3204f8fdd,Schweppes Mandalina (25 cl.),"8,00 TL",İçecekler,5.0
+d3bcc02e-b083-4d49-b7ca-93d36f07d6bd,San Pellegrino (25 cl.),"12,00 TL",İçecekler,4.0
+e7c79e77-992d-4247-8a1d-0fc75610e873,Damla Su (50 cl.),"4,00 TL",İçecekler,10.0
+5ecae235-5940-4755-8b5c-ad495ddf780d,Avokado Sos,"5,00 TL",Soslar,7.0
+6f5cc5ac-0687-4bac-94ab-39d492a28bb3,Chimichurri Sos,"5,00 TL",Soslar,7.0
+75a69b52-f3dc-4b5d-a045-a15e37a602c5,Rokfor Sos,"5,00 TL",Soslar,8.0
+2CFD5AE6-F497-408A-A4F8-3A1C1B4F7090,Sriracha Acı Sos,"3,00 TL",Soslar,7.0
+ea2031d6-c666-4691-bcf4-f19c90b11486,Tabasco Acı Sos,"5,00 TL",Soslar,7.0
+b418cf67-11ad-4987-b44b-f68342584c14,Trüflü Mayonez,"3,00 TL",Soslar,5.0
+31bfe755-4342-44d4-aa5f-f68d8c5b9ad2,Poşet,"0,25 TL",Poşet,5.0

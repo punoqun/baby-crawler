@@ -1,0 +1,30 @@
+food_id,food_name,food_price,food_category,food_score
+6c2679cb-0cc1-4119-9b58-e40ff08bcdd6,Tavuklu Bazlama Güveç Tost,"19,50 TL",Güveç Bazlama Tostlar,4.0
+8d2468e8-7c5c-41a0-824b-62a0aa8f3ac8,Sanayi Bazlama Güveç Tost,"25,50 TL",Güveç Bazlama Tostlar,4.0
+9a08949b-ed42-4c72-b046-01637345d925,Cheesy Bazlama Güveç Tost,"25,50 TL",Güveç Bazlama Tostlar,4.0
+bc311e70-9522-4edd-91c2-e9c3d822bfd2,Veggie Bazlama Güveç Tost,"17,00 TL",Güveç Bazlama Tostlar,4.0
+f1314444-9e67-454d-b071-46f5190adb8b,Kıymalı Yumurtalı Bazlama Güveç,"23,50 TL",Güveç Bazlama Tostlar,5.0
+550f8dd7-1387-41c2-af56-a1dd414f2382,Duble Kıymalı Yumurtalı Bazlama Güveç,"34,00 TL",Duble Güveç Bazlama Tostlar,5.0
+9d7c9214-cdf1-413d-b7e4-06c749a30ccb,Duble Cheesy Bazlama Güveç Tost,"38,50 TL",Duble Güveç Bazlama Tostlar,4.0
+a999b0c0-96be-4555-a2d3-9d085494a0ff,Duble Tavuklu Bazlama Güveç Tost,"33,50 TL",Duble Güveç Bazlama Tostlar,4.0
+b30e9760-a65b-4aa3-ade2-648d8dd1030e,Duble Sanayi Bazlama Güveç Tost,"38,50 TL",Duble Güveç Bazlama Tostlar,4.0
+b6d8ce29-436c-4c81-9a42-1a8b7220a4fb,Duble Veggie Bazlama Güveç Tost,"25,75 TL",Duble Güveç Bazlama Tostlar,4.0
+75d81a29-11bd-42d9-b054-7b805903d1be,Kıymalı Yumurtalı Cheddar Peynirli Tost,"17,50 TL",Cheesy Tostlar,6.0
+7eb76f6d-f9c3-428e-8932-efc93f3088d4,Kavurmalı Cheddar Peynirli Tost,"25,50 TL",Cheesy Tostlar,6.0
+b0f7287b-2576-4339-9b44-f7859eb8d013,Cheddar Bombası Tost,"19,75 TL",Cheesy Tostlar,11.0
+be35dd01-e0e6-4693-8665-267dded39366,Kaşarlı Tost,"12,00 TL",Cheesy Tostlar,4.0
+c1fadeec-307a-4a6f-842f-e4e7274368c5,The Cheesy Special Tost,"23,50 TL",Cheesy Tostlar,9.0
+e0f622bb-e42f-444a-a014-8bbccde2cfe0,Dana Füme Bacon Cheddar Tost,"22,50 TL",Cheesy Tostlar,6.0
+fe9d2b0d-71d8-448b-b7b5-e5aa84590ece,Meksikalı Afyon Tostu,"19,75 TL",Cheesy Tostlar,5.0
+23a8bee5-09b6-45d5-914b-480de5d37b4f,Dublex Peynirli Sebzeli Tost,"16,50 TL",Dublex Tostlar,4.0
+479a2822-a081-4c49-8a17-400325129c82,Dublex The Cheesy Special Tost,"26,50 TL",Dublex Tostlar,4.0
+6758f53c-e7e1-43df-8a74-595939fa3e93,Dublex Köy Yumurtalı Kayseri Tostu,"27,50 TL",Dublex Tostlar,5.0
+d83c681a-a583-41c1-9c52-091d9e098887,Dublex Cheddar Bombası Tost,"24,50 TL",Dublex Tostlar,6.0
+0d3c045d-5f19-40e3-83bd-c1809bf13d3c,Eski Sanayi Tostu,"18,70 TL",Tostlar,10.0
+160e755b-719f-4fbc-9d93-30ace08ede60,Köy Yumurtalı Sanayi Tostu,"19,75 TL",Tostlar,5.0
+9781582e-f673-4029-aa53-6fffbcb5cbde,Cheddar Peynirli Salçalı Tost,"14,50 TL",Tostlar,6.0
+0ed5f752-9e47-408c-b90d-eafdfc25e5b2,Patates Kızartması,"8,75 TL",Yan Ürünler,5.0
+c53b4d5c-e566-494b-8f66-781d99a3b037,Soğan Halkası (8 Adet),"13,50 TL",Yan Ürünler,5.0
+c6a5370c-301b-4fed-8f0c-554dab2902bc,Ev Yapımı Patates Kızartması,"12,00 TL",Yan Ürünler,5.0
+ed66e5ce-ee5b-4a63-88de-bb69794919f8,Elma Dilim Patates Kızartması,"8,75 TL",Yan Ürünler,5.0
+7c183a55-0640-4be9-a237-f61505da426e,Poşet,"0,25 TL",Poşet,5.0

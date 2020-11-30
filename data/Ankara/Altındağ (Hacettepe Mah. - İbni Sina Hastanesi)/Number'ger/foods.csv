@@ -1,0 +1,38 @@
+food_id,food_name,food_price,food_category,food_score
+d4dd9393-2f8e-42bc-aabc-679200ce8472,Classic Burger Menü,"26,90 TL",Menüler,19.0
+b18be3a8-fc9f-49db-b2e6-399e380c2720,Cheeseburger Menü,"27,90 TL",Menüler,14.0
+54718085-16df-407a-b80c-6a18f38f3965,Numberger Menü,"36,90 TL",Menüler,15.0
+8a521574-5f3f-4cd7-b8ad-b7842aa93fd1,Latin Burger Menü,"28,90 TL",Menüler,18.0
+1610561e-b7fb-44e3-b3dd-119d21eada68,Akdeniz Burger Menü,"29,90 TL",Menüler,18.0
+ebbc84b3-08f4-4bf0-b70d-2450257175b8,Şefin Burger Menü,"29,90 TL",Menüler,23.0
+2f8428cb-0ea9-4b80-915d-cede3d8ff3c0,Mushroom Burger Menü,"29,90 TL",Menüler,18.0
+ce907ffd-8866-4780-afcd-ae145b9bc42e,Bo-A Burger Menü,"35,90 TL",Menüler,18.0
+f669a31d-0a0b-4fb9-9cfa-b1ecad6917ce,Çıtır Tavuk Burger Menü,"25,90 TL",Menüler,19.0
+20c67eb5-8e11-45ec-9dfa-05453d307836,Izgara Tavuk Burger Menü,"26,90 TL",Menüler,22.0
+662caeb6-5158-41e8-a863-516788740770,Falafel Burger Menü,"22,90 TL",Menüler,21.0
+13684ebd-7a31-48ec-a3a0-4fc742a72a2c,Egg Burger Menü,"22,90 TL",Menüler,18.0
+819ff7db-d779-408a-80a7-3a6e831ca6f9,Aile Boyu Menü,"64,90 TL",Avantajlı Menüler,9.0
+87c53120-8d43-4120-9264-cd5a5f905c60,Classic Burger,"18,90 TL",Burgerler,15.0
+6d78c341-0b17-4323-85a2-baba3e0f00c6,Cheeseburger,"19,90 TL",Burgerler,5.0
+b31695c7-544b-4ff1-b7bc-89e7dc5e5105,Latin Burger,"21,90 TL",Burgerler,14.0
+41fd0939-9e0a-4941-bc65-aec6cb778ef7,Akdeniz Burger,"21,90 TL",Burgerler,14.0
+b111264a-3f85-4137-ba5e-8eb45201aa06,Şefin Burger,"21,90 TL",Burgerler,14.0
+de340ebc-08ef-4352-bc0c-0990846be840,Mushroom Burger,"21,90 TL",Burgerler,14.0
+701abba1-3c5a-45fd-bbec-c018b5f7bab5,Bo-A Burger,"25,90 TL",Burgerler,14.0
+743695a8-d6a5-443d-86a8-5f0c0436fbc2,Çıtır Tavuk Burger,"18,90 TL",Burgerler,15.0
+768239fa-654b-4a03-80d4-28b84fa83d00,Izgara Tavuk Burger,"18,90 TL",Burgerler,18.0
+514ed078-67b4-4af5-bab0-feae234a1f09,Falafel Burger,"14,90 TL",Burgerler,17.0
+d135b2b1-0d41-47fa-9adb-6988358de7b9,Egg Burger,"14,90 TL",Burgerler,14.0
+ed91ca7d-fabc-47f8-90b1-0d9e7c897f90,Numnum Cajun Tavuk (8 Adet),"17,90 TL",Atıştırmalıklar,7.0
+fef3a945-8308-44b8-a1a0-7154b91ea2e4,Atıştırma Tabağı,"23,90 TL",Atıştırmalıklar,5.0
+96353164-464d-4e7a-8fb8-6b110906b0a0,Cheddar Soslu Pato,"15,90 TL",Atıştırmalıklar,11.0
+6d25ea8e-6383-4dfa-b4c2-eafc47d3b561,Patates Kızartması,"7,90 TL",Atıştırmalıklar,24.0
+1a116565-ab5d-409e-8a06-242f56384164,Cheddar Soslu Patates Kızartması,"9,90 TL",Atıştırmalıklar,30.0
+3f419cd7-fa20-455f-974d-e775975450ab,Çıtır Soğan Halkası (5 Adet),"6,90 TL",Atıştırmalıklar,4.0
+22849b9a-3480-438a-a63b-20027b575b93,Kıymalı Burrito,"22,90 TL",Burritos,5.0
+de978ffd-0613-47fb-b408-8573c91b1c4c,Tavuklu Burrito,"21,90 TL",Burritos,5.0
+c9e4cc7b-c00d-4271-9dbc-5a3a86880f41,Tavuklu Salata,"20,90 TL",Salatalar,5.0
+7873b743-5871-4562-8591-7820da47caa6,Tavuklu Sezar Salata,"20,90 TL",Salatalar,5.0
+3c2b7064-67bf-4ceb-815c-10bbf83484fc,Louisiana Sos,"1,90 TL",Soslar,8.0
+1671fd36-982d-4bad-a41c-c18d72ff0204,Acı Tatlı Sos,"1,90 TL",Soslar,7.0
+d5296ba8-1db7-4644-bb7e-4862700b6464,Poşet,"0,25 TL",Poşet,5.0

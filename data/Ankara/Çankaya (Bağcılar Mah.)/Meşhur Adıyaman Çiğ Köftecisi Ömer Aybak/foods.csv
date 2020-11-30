@@ -1,0 +1,57 @@
+food_id,food_name,food_price,food_category,food_score
+1DEC1AC4-50C4-4D48-AE91-159F7038BCA3,Çiğ Köfte (500 gr.) & Coca-Cola Menü,"29,50 TL",Menüler,19.0
+B6753B15-ED8C-4AE8-9831-6C26BEE51AF1,Çiğ Köfte (400 gr.) & Ballı Badem Menü,"32,00 TL",Menüler,20.0
+F4F69EB1-FFD1-4545-96D4-9E235671E2DA,Tatlı Çift Menü,"24,00 TL",Menüler,6.0
+FBD5103C-FEAF-41B4-8582-070CF9E56EEC,Kalabalık Aileye Özel,"36,00 TL",Menüler,5.0
+BBFB42C6-68BD-4DF4-BF0A-2ACB9E0880A7,3'lü Ateş Menü,"25,00 TL",Menüler,5.0
+C5888B54-4A69-4D91-90AF-ABFE09B296AA,Çiğ Köfte (400 gr.) Menü,"33,50 TL",Menüler,19.0
+c236bdcb-b5d7-4fa8-9601-25236f9b1b55,Çiğ Köfte Dürüm Menü,"14,25 TL",Menüler,19.0
+d01b17ef-54df-4b52-9c2a-a1230921e6b8,2'li Çiğ Köfte Dürüm Menü,"18,00 TL",Menüler,19.0
+cf40f1b0-f7de-4c4d-a015-d94f7f227306,Çiğ Köfte (200 gr.) Menü,"16,50 TL",Menüler,19.0
+d0cf9469-72ef-4c50-99d6-2892530b7d64,Çiğ Köfte (500 gr.) Menü,"44,50 TL",Menüler,19.0
+5520d9e7-4aa8-4c46-8830-63b85e09d4b5,Çiğ Köfte (1 kg.) Menü,"70,00 TL",Menüler,19.0
+5393d8a0-7cde-4f04-bfe5-db2b2bf037c9,XL Menü 1,"20,00 TL",Menüler,14.0
+3875ef2d-5984-4958-b9ad-2e707d392f34,XL Menü 2,"18,00 TL",Menüler,6.0
+df574f9e-c460-43ec-9bd8-54008af5eb9d,4'lü Menü,"31,50 TL",Menüler,5.0
+93395580-b663-48c6-be43-c5e61e97caca,Midye Menü 1,"39,00 TL",Menüler,13.0
+044ce094-e097-4ad2-9c31-dfbff7e96145,Midye Menü 2,"48,00 TL",Menüler,6.0
+ae2ccbec-7d92-452f-af8d-2bf7eb006d6b,Çiğ Köfte Dürüm,"6,50 TL",Çiğ Köfteler,24.0
+a6b64fe7-3d9a-465b-bff9-60761e646c06,XL Çiğ Köfte Dürüm,"12,50 TL",Çiğ Köfteler,19.0
+2a4775e8-9988-47d5-b546-b5fc9ef95a1a,Çiğ Köfte (200 gr.),"11,50 TL",Çiğ Köfteler,19.0
+35c46ed0-2d02-4d7a-a967-418baba0337a,Çiğ Köfte (300 gr.),"15,00 TL",Çiğ Köfteler,19.0
+0bd8c456-dc64-4c9b-87dc-d69204a89f14,Çiğ Köfte (400 gr.),"20,00 TL",Çiğ Köfteler,19.0
+15d2c027-198a-489f-abfc-0dcd32c3b307,Çiğ Köfte (500 gr.),"24,00 TL",Çiğ Köfteler,19.0
+384f4794-23b5-4c21-a640-e9514e101d9d,Çiğ Köfte (750 gr.),"36,00 TL",Çiğ Köfteler,19.0
+bd8a1d4f-ad54-4109-8ffe-93d1f643df75,Çiğ Köfte (1 kg.),"48,00 TL",Çiğ Köfteler,19.0
+B65A4584-E8FD-4661-971C-DF521B62C790,Midye Dolma (45 Adet),"53,00 TL",Yan Ürünler,5.0
+F8F3B770-A808-4F60-A49A-8329A25AAFF5,Midye Dolma (Orta) (50 Adet),"59,00 TL",Yan Ürünler,5.0
+ba36212a-0984-47f6-baa8-1d005c646f65,Midye Dolma (Orta) (Adet),"1,25 TL",Yan Ürünler,5.0
+b469f606-a7f1-475b-957a-5a2495e6e710,Midye Dolma (Büyük) (10 Adet),"16,00 TL",Yan Ürünler,5.0
+cef1b0c6-199e-4bc9-bd4a-71f8d8276d22,Midye Dolma (Büyük) (5 Adet),"8,00 TL",Yan Ürünler,5.0
+6ca7a7b7-a188-4cc4-8a81-c199ffc900ff,Midye Dolma (Orta) (10 Adet),"12,00 TL",Yan Ürünler,5.0
+b22fd274-0fd1-4908-b561-73b18b1aeb07,Midye Dolma (Büyük) (25 Adet),"35,00 TL",Yan Ürünler,5.0
+9A8B380E-93F1-495B-A8B1-34B657405056,Limon (Adet),"1,50 TL",Yan Ürünler,5.0
+B4437F75-983D-4D9F-AF0B-8380788BEC75,Nar Ekşisi (15 gr.),"1,00 TL",Yan Ürünler,5.0
+e00c5fb1-5c57-49c4-88b8-0537aac70686,Kızartma İçli Köfte (Adet),"5,50 TL",Yan Ürünler,2.0
+f1e0e627-4c6d-46a4-b294-86c2c1d50a8c,Lavaş (Adet),"0,50 TL",Yan Ürünler,4.0
+1cc0790b-83fd-4848-a13d-0ed1e5a4c26a,Lavaş (50 Adet),"25,00 TL",Yan Ürünler,4.0
+E52D68DA-C54A-45F8-AE89-C5CB737479ED,Iceberg Marul (Tam),"7,00 TL",Yan Ürünler,5.0
+0B686635-D6F4-4B5D-89F9-A41C96D65A43,Bisküvili Lokum (Adet),"1,50 TL",Tatlılar,5.0
+91061f6c-554e-41a2-b9f9-ab4d004cb56d,Vişneli Brownie,"1,75 TL",Tatlılar,10.0
+25619b05-9877-441a-839b-bc76057690ff,Orjinal Brownie,"1,75 TL",Tatlılar,10.0
+c575d120-2452-4e84-af04-ab4d9c3732fb,Ballı Badem Tatlısı (5 Adet),"6,00 TL",Tatlılar,6.0
+294412e5-836e-4076-b775-9222a5d72ca7,Çilekli Puding,"3,50 TL",Tatlılar,5.0
+6e90365e-9396-4958-b574-1cdcae9b1a48,Kakaolu Puding,"3,50 TL",Tatlılar,5.0
+2788ce2a-1721-4ba7-a9a6-9c2cd6a6a977,Muzlu Puding,"3,50 TL",Tatlılar,5.0
+f985e190-03da-41d9-a0fb-03c70cdf7b8c,Coca-Cola (20 cl.) (Cam Şişe),"3,25 TL",İçecekler,5.0
+9b341294-67ea-4d4a-9b80-0b5214c5fdd9,Niğde Gazozu (25 cl.),"3,00 TL",İçecekler,5.0
+2B7FA0B1-9EA3-419E-A85E-8162A503988C,Red Bull (25 cl.),"7,75 TL",İçecekler,5.0
+182d69cf-4fd5-42ae-9d70-5bc9369a6137,Nescafe Xpress Black (25 cl.),"8,00 TL",İçecekler,5.0
+5bfe9f9c-9ab9-43ba-b322-15b1a8b4ca03,Nescafe Xpress Vanilla (25 cl.),"8,00 TL",İçecekler,5.0
+0b6348d4-4239-4689-a280-1492a76cdd3a,"Su (1,5 L.)","2,50 TL",İçecekler,5.0
+0DA2D3C7-F58E-4DAC-A1BD-2E8EC5F4A58D,Doğanay Şalgam Suyu (1 L.),"6,50 TL",İçecekler,5.0
+aec49121-90b3-45de-82ff-acb55b12c6fd,Kilikya Şalgam Suyu (1 L.),"6,50 TL",İçecekler,5.0
+87596b80-2932-43e9-b738-dafde161e387,"Fuse Tea Şeftali (1,5 L.)","6,00 TL",İçecekler,5.0
+cb7dbeaa-9e52-4bf0-9388-dffb5d46dccf,"Coca-Cola Şekersiz (2,5 L.)","8,50 TL",İçecekler,5.0
+bed63cb9-f4ab-4a9d-8fe3-8650f751ae25,"Fanta (2,5 L.)","8,50 TL",İçecekler,5.0
+37e1d147-5eb0-495c-b3ea-e3456f42aed3,Poşet,"0,25 TL",Poşet,4.0

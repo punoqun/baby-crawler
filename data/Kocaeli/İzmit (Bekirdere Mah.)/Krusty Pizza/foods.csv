@@ -1,0 +1,79 @@
+food_id,food_name,food_price,food_category,food_score
+5c65cafc-35da-403b-ab4a-6767fb071e9f,Orta Boy Özel Menü,"43,90 TL",Menüler,4.0
+dbe11913-067c-4b2c-a94d-ee2aa4c46e3a,Moscow Burger Menü,"29,90 TL",Menüler,5.0
+c6fbf65d-02a7-4032-9445-1268fb8c0eff,Kemiksiz Çıtır Tavuk Menü,"21,90 TL",Menüler,3.0
+005BCD71-7669-4BD4-B142-31F18E8493CE,Krusty Devi Hepsini Tat Menü,"85,90 TL",Menüler,6.0
+9f8ec71c-9c36-4757-9b60-0abab0d4284b,Süper 3'lü Büyük Boy Pizza Menü,"104,90 TL",Menüler,1.0
+7427dbb9-8317-46d9-9203-50f6b3f349bb,Süper 3'lü Küçük Boy Pizza Menü,"49,90 TL",Menüler,3.0
+756e935f-9826-4a3c-93c1-0aec9c77fe71,Süper 5'li Büyük Boy Pizza Menü 1,"189,90 TL",Menüler,-9.0
+2c23a0b9-adb0-49fa-a3cf-e116f299c029,Süper 5'li Büyük Boy Pizza Menü 2,"199,90 TL",Menüler,-3.0
+79992899-cdc4-4ce4-ac77-ca1b026b3799,Süper 5'li Küçük Boy Pizza Menü 2,"99,90 TL",Menüler,-1.0
+18772673-250b-4137-8497-37863f564d26,Süper 5'li Orta Boy Pizza Menü 2,"119,90 TL",Menüler,-2.0
+147c3d5f-c7e1-4e72-a720-7a1eadf26664,Küçük Boy Özel Menü,"26,90 TL",Menüler,5.0
+9115c38a-ea1e-42af-96e4-3260fd69695f,2'li Orta Boy Karışık Menü 1,"52,90 TL",Menüler,-6.0
+9667c37d-e9b2-4e09-8501-5c63989bb77f,3'lü Orta Boy Karışık Menü,"79,90 TL",Menüler,3.0
+4de5d289-f895-41df-8aa4-4587c65f37cc,Beraber Yiyelim Menü,"99,90 TL",Menüler,5.0
+9bca55be-1a3a-49d4-8be8-6893e0c94280,Tek Kişi Doy Menü,"23,90 TL",Menüler,8.0
+3927dfc1-a6a9-465e-80a5-79cf6174a8f0,İş Yerinde Ye Menü,"26,90 TL",Menüler,5.0
+a18e2de2-1bb0-4d8d-a853-8e1644617b0d,Çıtır Menü,"31,90 TL",Menüler,5.0
+0e4f9de5-e7fb-4a53-a1c2-c4d198e1eb8b,Küçük Boy Hepsini Tat Menü,"33,90 TL",Menüler,6.0
+879ec8bd-87e3-4170-9b12-927b3414fd6f,Orta Boy Menü,"33,90 TL",Menüler,4.0
+538d4885-1f2a-49df-9361-19879b0f33b6,Orta Boy Tavuklu Menü,"36,90 TL",Menüler,4.0
+a624ed53-b784-432f-bfeb-c992dccaf1dd,Orta Boy Klasik Menü,"39,90 TL",Menüler,4.0
+ab2e9b17-171d-497d-bb90-8fc5b4557c70,Orta Boy Seç Menü,"45,90 TL",Menüler,6.0
+229e4b85-a3f9-446a-a41f-5e1467ed2f17,Büyük Boy Klasik Menü,"48,90 TL",Menüler,3.0
+4be01138-f88a-47c1-85d4-c1d1086e6aae,Orta Boy Hepsini Tat Menü,"47,90 TL",Menüler,5.0
+e7956455-4bc1-48ce-a3b8-af604873639e,Büyük Boy Pizza Menü (3-4 kişilik),"51,90 TL",Menüler,-1.0
+d780ab59-b2b3-43f4-b0fc-55cace8806f7,2'li Orta Boy Karışık Menü 2,"59,90 TL",Menüler,-1.0
+33010b24-5643-479e-9c28-23f6a19ec6c0,Büyük Boy Özel Menü,"55,90 TL",Menüler,3.0
+8f8b420b-e6ca-4257-af00-fbe01e3f06e7,2'li Büyük Boy Klasik Menü,"79,90 TL",Menüler,3.0
+9faaed55-30f0-4060-b528-e787bc96d0ed,Büyük Boy Hepsini Tat Menü,"69,90 TL",Menüler,4.0
+fc4ab3af-7771-4805-a8f8-132f37be52ad,Chef Sensin Pizza (Küçük),"11,90 TL",Chef Sensin Pizzalar,4.0
+7a6317f0-2ce4-4e68-8793-ea0c12085e9e,Chef Sensin Pizza (Orta),"14,90 TL",Chef Sensin Pizzalar,4.0
+bb691ffa-b850-458e-a9b7-1124839d97f8,Chef Sensin Pizza (Büyük),"22,90 TL",Chef Sensin Pizzalar,4.0
+a85135b6-1b9c-4b02-ae0a-23012e6607fb,Chef Sensin Pizza (Dev),"36,90 TL",Chef Sensin Pizzalar,4.0
+2fd2a4df-eb4f-453b-9a51-d876909fd10e,Waffle Pizza (Küçük),"6,90 TL",Chef Sensin Pizzalar,2.0
+4ed2360e-be37-4f40-bef6-bc11e28b9888,Waffle Pizza (Orta),"11,90 TL",Chef Sensin Pizzalar,2.0
+0e608233-78f6-4b23-9311-4b17b8faa2c2,Waffle Pizza (Büyük),"17,90 TL",Chef Sensin Pizzalar,2.0
+9f2de43c-49a0-41c0-bc26-2386054f46dd,Waffle Pizza (Dev),"25,90 TL",Chef Sensin Pizzalar,2.0
+60AC986A-A14E-489C-A79D-00199E67ECF0,Nairobi Burger,"27,90 TL",Burgerler,5.0
+AB05EB2D-33B5-4662-AC15-6093A5B5660C,Profesör Burger,"33,90 TL",Burgerler,5.0
+1EC94199-46E1-4C12-B551-E5899ED314B0,Berlin Burger,"24,90 TL",Burgerler,5.0
+8760DDA9-377D-456C-96AA-DF78C443555C,Denver Burger,"20,90 TL",Burgerler,5.0
+C8F9064F-F9F1-4C49-9030-69B365254952,Helsinky Burger,"27,90 TL",Burgerler,5.0
+65A8B40C-0907-4F5A-B6BC-1F8ACFF40D9C,Lizbon Burger,"27,90 TL",Burgerler,5.0
+c24d5244-ce54-4c72-a9d7-a28e6ab29c00,Moscow Burger,"20,90 TL",Burgerler,5.0
+AC2718EE-BB5C-480C-A4CD-C59BAB13D408,Oslo Burger,"27,90 TL",Burgerler,7.0
+db561805-dc2b-400c-8979-3611ee73008f,Rio Burger,"13,90 TL",Burgerler,5.0
+61D21BF7-34BD-4B8F-90E3-0037BEAB3A75,Tokyo Burger,"21,90 TL",Burgerler,5.0
+743CFF78-6FC6-4D00-AE44-3F826B19E77B,Krusty Devi Klasik Çiftlik Pizza (45 cm.),"65,90 TL",Pizzalar (45 cm.),2.0
+A30B9AD6-D8F0-4E2F-9EE2-284D56F27120,Krusty Devi Gurme Sultan Pizza (45 cm.),"85,90 TL",Pizzalar (45 cm.),2.0
+B3B62DB5-B2F2-4232-A14F-EC91AC6B0263,Krusty Devi Gurme Norway Pizza (45 cm),"95,90 TL",Pizzalar (45 cm.),2.0
+4991F29F-95F8-4FEF-8590-DA1C66931220,Krusty Devi Özel Cheddars'Han Pizza (45 cm),"74,90 TL",Pizzalar (45 cm.),2.0
+101921c4-04ef-4b07-bb30-280cc7295164,Sultan Pizza (Küçük),"51,90 TL",Küçük Boy Gurme Pizzalar (2 Kişilik) (1+1),2.0
+26B663CE-5180-45B6-B86F-BC1F1F1E2C82,Küçük Boy Gurme Sultan Pizza (Tek),"28,90 TL",Küçük Boy Gurme Pizzalar (Tek),2.0
+A644B016-FD57-47E2-A226-BC79FA6B08BB,Küçük Boy Gurme Norway Pizza (Tek),"39,90 TL",Küçük Boy Gurme Pizzalar (Tek),2.0
+16FA235E-A81F-4C6A-9D8F-3774F5401E29,Küçük Boy Klasik Çiftlik Pizza (Tek),"20,90 TL",Küçük Boy Klasik Pizzalar (Tek),2.0
+F43A1D43-1C3D-435E-AFCA-C4B8E486454E,Küçük Boy Özel Cheddars'Han Pizza (Tek),"23,90 TL",Küçük Boy Özel Pizzalar (Tek),2.0
+aa6b56a4-7eb5-4aed-8111-b7f9cd684250,Sultan Pizza (Orta),"74,90 TL",Orta Boy Gurme Pizzalar (2 Kişilik) (1+1),2.0
+5711F541-A5E6-43C5-A829-E0683AC10CF6,Orta Boy Gurme Sultan Pizza (Tek),"39,90 TL",Orta Boy Gurme Pizzalar (Tek),1.0
+FDA78624-152D-4D69-9F2D-BE891C3DB46A,Orta Boy Gurme Norway Pizza (Tek),"51,90 TL",Orta Boy Gurme Pizzalar (Tek),1.0
+1BE4698F-7D11-48E8-A393-26D32FABDECD,Orta Boy Klasik Çiftlik Pizza (Tek),"30,90 TL",Orta Boy Klasik Pizzalar (Tek),1.0
+4E1C2E48-4D42-4494-8A3A-5E60E9BAE0AF,Orta Boy Özel Cheddars'Han Pizza (Tek),"33,90 TL",Orta Boy Özel Pizzalar (Tek),1.0
+8bd89d91-4b42-4512-a78a-4a6ccf08eeeb,Akdeniz Pizza (Büyük),"42,90 TL",Büyük Boy Klasik Pizzalar (4 Kişilik),2.0
+21F21AD8-2597-4B28-BCCE-1868176E97F7,Cheddars'Han Pizza (Büyük),"45,90 TL",Büyük Boy Özel Pizzalar (4 Kişilik),2.0
+2305DB18-DDEC-4CE1-81F7-32E4CFD78EEE,Norway Pizza (Büyük),"74,90 TL",Büyük Boy Gurme Pizzalar (4 Kişilik),2.0
+8d2cb365-35e9-46fc-a3e9-5f9d6b48e1ac,Sultan Pizza (Büyük),"52,90 TL",Büyük Boy Gurme Pizzalar (4 Kişilik),2.0
+35be57be-95f6-4bc9-9bfb-fef616c58115,Patates Kızartması,"8,90 TL",Yan Ürünler,8.0
+A77B3D6F-39DE-4B0B-87C3-E6DF2E50A250,Kaşık Patates Kızartması,"10,90 TL",Yan Ürünler,8.0
+C8838708-92C7-4CCE-AB1D-5A9522D8D9BE,Çıtır Tavuk Topu (15 Adet),"23,90 TL",Yan Ürünler,3.0
+2cc2e155-b060-42c7-b472-a66ab365284a,Elma Dilim Patates Kızartması,"10,90 TL",Yan Ürünler,8.0
+b43e10a6-b526-4f96-9c19-63fe4f102672,Nugget (5 Adet),"8,90 TL",Yan Ürünler,5.0
+b4a302b3-4036-4aff-b7ac-57db0c8eb56d,Soğan Halkası (7 Adet),"8,90 TL",Yan Ürünler,4.0
+6ba220e4-51af-478f-9098-3051b4a404f3,Çıtır Tavuk (200 gr.),"14,90 TL",Yan Ürünler,3.0
+318e17f0-354f-482f-acac-a4bc535507b6,Mozzarella Sticks (5 Adet),"9,90 TL",Yan Ürünler,5.0
+be6e7dfe-e312-41b8-836b-73e160e14f96,Akdeniz Salatası,"16,90 TL",Salatalar,5.0
+62e35cad-433e-4b12-a8ab-f030829be173,Coca-Cola Şekersiz (20 cl.),"3,75 TL",İçecekler,5.0
+3F2030F6-82E0-488A-BD73-F79674857BFC,Cappy (1 L.),"7,50 TL",İçecekler,5.0
+D81617B2-586D-4730-8A0A-C8D19457EA7F,Krusty Sosu,"1,50 TL",Soslar,5.0
+8787c500-33e9-40c0-a341-b23933ede2ba,Poşet,"0,25 TL",Poşet,5.0

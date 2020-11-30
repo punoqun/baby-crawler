@@ -1,0 +1,55 @@
+food_id,food_name,food_price,food_category,food_score
+bc2f264a-09fc-4be3-bcfe-7cef9b10a4e1,Çiğ Köfte (300 gr.) Menü,"16,50 TL",Menüler,21.0
+ce04df6a-36a2-48c2-afec-d6f313c5fc10,Çiğ Köfte (400 gr.) Menü,"24,00 TL",Menüler,21.0
+14d7f413-6665-4d41-a9e7-cce90bd65c82,Çiğ Köfte (400 gr.) & Cola Menü,"27,50 TL",Menüler,21.0
+61a3f43c-f704-4d0c-951c-9d837bf93eb8,Çiğ Köfte (600 gr.) Menü,"33,00 TL",Menüler,21.0
+7ec64879-1dfa-4d2d-9e19-64ac2beb36db,Mega Çiğ Köfte Dürüm Menü,"10,50 TL",Menüler,20.0
+f5c4137b-82f7-4e27-87ed-eec3d01f211d,İkili Mega Dürüm Menü,"20,50 TL",Menüler,2.0
+2b24d6e5-e78b-4138-b0db-b4d3e88412ec,3'lü Dürüm Menü,"21,50 TL",Menüler,3.0
+7eb6dfd2-433d-4442-a941-2f1e97261536,Mega Dürüm Cola Menü,"12,50 TL",Menüler,2.0
+4048e82f-6f70-4fb7-9cb2-15db28aee7dd,Dürüm Menü,"8,25 TL",Menüler,3.0
+428679ed-3941-4ca2-ac1c-896a8169bf34,Çiğ Köfte (800 gr.) Menü,"41,00 TL",Menüler,21.0
+622290e9-df83-4492-9efa-cf9b8e01183a,Çiğ Köfte (1 kg.) Menü,"51,00 TL",Menüler,21.0
+5e2df78f-29d8-463f-b151-1e64229d0d40,İçli Menü 1,"21,00 TL",Menüler,23.0
+db667db4-ad97-4016-bcd0-37a2bad48fdd,İçli Menü 2,"34,00 TL",Menüler,12.0
+38118407-99d5-4ef7-8f5a-9aa2fa618da2,İçli Menü 3,"48,00 TL",Menüler,7.0
+3912c591-9a74-41cb-a58a-b8a5e50377b6,İçli Menü 4,"61,00 TL",Menüler,4.0
+640147f7-cb9e-4820-b32f-d22a1aa52029,İçli Menü 5,"24,00 TL",Menüler,6.0
+e8766e2e-2204-488f-8de2-1f531f5e8fe3,Çiğ Köfte Dürüm,"5,50 TL",Çiğ Köfteler,28.0
+041bb43b-75ff-4954-bd8b-f408d582d568,Mega Çiğ Köfte Dürüm,"8,00 TL",Çiğ Köfteler,27.0
+7338b63a-0de4-42d8-9cb9-07ad54094eca,Midyeli Çiğ Köfte Dürüm,"13,00 TL",Çiğ Köfteler,23.0
+304f764f-aa50-4b07-b43e-573cc3b37ec3,Çiğ Köfte (300 gr.),"14,00 TL",Çiğ Köfteler,23.0
+370b3b74-730b-47ba-b405-ea9a68bdf948,Çiğ Köfte (400 gr.),"19,00 TL",Çiğ Köfteler,23.0
+9e1b686b-1a1c-44d8-9ae6-2b260464535b,Çiğ Köfte (600 gr.),"27,00 TL",Çiğ Köfteler,23.0
+958c3210-5b38-465e-8a5e-ca94afa1096e,Çiğ Köfte (800 gr.),"36,00 TL",Çiğ Köfteler,23.0
+3ce35649-81f3-42b4-9af8-8a7a16218329,Çiğ Köfte (1 kg.),"45,00 TL",Çiğ Köfteler,23.0
+88f9ebee-27b0-4024-93fc-bbeedba3a376,Midye Dolma (5 Adet),"7,50 TL",Yan Ürünler,26.0
+d05a7242-30e6-4bb6-bcf6-5e02ab038c58,Midye Dolma (10 Adet),"14,00 TL",Yan Ürünler,26.0
+7a6c2a3d-89cb-4592-9ec5-2d05196de0e5,Midye Dolma (25 Adet),"32,50 TL",Yan Ürünler,26.0
+bac34882-fa97-4975-a182-674fdd8c51cb,Iceberg Marul (Tam),"4,50 TL",Yan Ürünler,5.0
+5c0ab568-7cea-4f05-a969-6866550a5f80,Iceberg Marul (Yarım),"3,00 TL",Yan Ürünler,5.0
+7dff3c4a-0837-48b1-8eb4-38ea07924110,Limon (Adet),"1,50 TL",Yan Ürünler,9.0
+50b694b8-0fa2-4258-8ae3-5580bbba9375,Kızartma İçli Köfte (Adet),"5,00 TL",Yan Ürünler,6.0
+1f8fd60a-dc2a-40be-9071-023fe70f543d,Lavaş (Adet),"0,50 TL",Yan Ürünler,7.0
+fb38440d-df6c-417c-976f-f7cefc1aa828,Eker Sütlaç,"3,50 TL",Tatlılar,4.0
+e73438e7-d7e3-4afe-bf66-8c3838afe522,Eker Kazandibi,"3,50 TL",Tatlılar,6.0
+7ee26372-89f4-4101-aab5-9ad50909e687,Eker Çikolatalı Puding,"3,50 TL",Tatlılar,4.0
+617bb726-e0ba-4d68-9d83-daf7742d4d39,Eker Keşkül,"3,50 TL",Tatlılar,4.0
+6cfc4c73-5ea2-4340-8d21-fd32d00937e8,Eker Profiterol,"5,00 TL",Tatlılar,4.0
+4861f043-fe97-4e81-9757-c4219c6b6031,Sade Kağıt Helva,"1,75 TL",Tatlılar,6.0
+c480d260-9ec9-45c2-b519-47001158be3d,Waffle,"19,00 TL",Tatlılar,22.0
+04cdd32a-3476-4e3f-ac0b-76ad2edaf640,Algida Dondurma (Açık) (1 kg.),"40,00 TL",Dondurmalar,5.0
+fdc73163-6459-45ea-9776-bc56f9cb4a00,Algida Dondurma (Açık) (750 gr.),"30,00 TL",Dondurmalar,5.0
+8a82b309-bdd6-4b00-8f8a-05f8b9283b18,Algida Dondurma (Açık) (500 gr.),"20,00 TL",Dondurmalar,5.0
+307fbbba-bca2-4da9-84b8-22ada753a889,Algida Dondurma (Açık) (350 gr.),"15,00 TL",Dondurmalar,5.0
+8b5a548a-0abc-4705-878a-256185d5cbec,Sup Kase Dondurma,"5,00 TL",Dondurmalar,5.0
+c4a15137-3965-404b-b1f4-80b6f02e1fb5,Algida Maraş Usulü Cup Dondurma (100 ml.),"6,00 TL",Dondurmalar,5.0
+e3babf78-2609-4340-8cce-4e44a71d0391,Algida Carte d'Or Mini Cup Çilekli Yoğurtlu (110 ml.),"6,00 TL",Dondurmalar,5.0
+53b32cda-0b3a-45f0-8467-15b95eb1d5e4,Carte d'Or Premium Kaymak Cup (100 ml.),"7,00 TL",Dondurmalar,5.0
+8f955129-3339-4ca6-a477-cc4d765e100b,Magnum Badem (100 ml.),"10,00 TL",Dondurmalar,5.0
+7aaa0825-23a2-46f8-b36a-aa2b6b3d246b,Niğde Gazozu (25 cl.),"2,50 TL",İçecekler,5.0
+1072e479-bfd2-44e2-aca4-2a1e0a084c2b,Kavaklıdere Şalgam Suyu (30 cl.),"3,00 TL",İçecekler,5.0
+b9952c97-36ca-46d0-8a4c-ca21cba978a4,Beypazarı Limonlu Soda (20 cl.),"2,00 TL",İçecekler,5.0
+36afa287-068d-44c3-82bc-49e64697bbdb,Beypazarı Soda (20 cl.),"1,75 TL",İçecekler,5.0
+6d07d6c0-3786-4a03-98ea-4ca8005385be,Kavaklıdere Şalgam Suyu (1 L.),"6,50 TL",İçecekler,5.0
+24d76294-48b7-40f0-a7ab-5fa46d93a8be,Poşet,"0,25 TL",Poşet,5.0

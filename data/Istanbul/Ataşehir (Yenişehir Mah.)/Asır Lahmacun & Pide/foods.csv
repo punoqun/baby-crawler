@@ -1,0 +1,55 @@
+food_id,food_name,food_price,food_category,food_score
+fc4ea6c6-6be7-4578-80cd-00a54c6d7b11,10'lu Lahmacun Menü,"90,00 TL",Menüler,17.0
+f60b3717-b1d6-4f5f-9a6e-a66c911deb08,Kaşarlı Pide Menü,"34,00 TL",Menüler,6.0
+2cd1e70e-4b38-4823-87a9-e03f3d03e58e,Kuşbaşılı Kaşarlı Pide Menü,"31,00 TL",Menüler,6.0
+d52ad1c8-ade3-45ef-9a4a-b0d4879e04d9,Karışık Pide Menü,"43,00 TL",Menüler,6.0
+89a2ceb7-3997-4bae-9841-ac93f9509a20,Fındık Lahmacun,"5,00 TL",Lahmacunlar,17.0
+b9cb29fb-2ee2-429f-b591-f2ea2ce4da6f,Lahmacun,"8,00 TL",Lahmacunlar,22.0
+0c921aa1-cd95-451e-a882-1e492a1c50b9,Antep Lahmacun,"9,00 TL",Lahmacunlar,21.0
+58ad97a9-1132-474d-8fb5-bb249afa7d2a,Kaşarlı Lahmacun,"9,00 TL",Lahmacunlar,17.0
+e08ba30a-b7d8-4b41-ab0a-db9ab699fdac,Atom Pide,"35,00 TL",Pideler,6.0
+c642019d-40c9-4e77-b4c0-86cdc0da9929,Karışık Pide,"30,00 TL",Pideler,6.0
+2f3b4db9-cb7e-4fca-a15f-c60f99cd3a80,Kaşarlı Pide,"24,00 TL",Pideler,6.0
+c2447747-c240-4736-ae19-22b2f80110aa,Kaşarlı Sosisli Pide,"25,00 TL",Pideler,6.0
+601f5b27-f9b9-4206-8ebc-0229ca3ae4dd,Kavurmalı Kaşarlı Pide,"30,00 TL",Pideler,6.0
+dcabced0-f7a3-4d64-9052-7ccf51b253c2,Kavurmalı Pide (Kapalı),"30,00 TL",Pideler,6.0
+18636508-886e-4b69-8235-37ae7130ee75,Kıymalı Kaşarlı Pide,"25,00 TL",Pideler,11.0
+b129f68d-7ad6-45ec-83ca-5706efe323eb,Kıymalı Pide,"24,00 TL",Pideler,6.0
+e4e287e7-f40f-48c0-90b6-e5dcaed1ba2b,Kuşbaşılı Kaşarlı Mantarlı Pide,"30,00 TL",Pideler,6.0
+3b555a90-8a60-401a-a30c-b73e0dc6ea3a,Kuşbaşılı Kaşarlı Pide,"30,00 TL",Pideler,6.0
+c37a21b6-76ec-41b4-a9ef-710efa2e3b9f,Kuşbaşılı Mantarlı Pide,"30,00 TL",Pideler,6.0
+863ccb58-3f5f-4519-bf2f-9c8fc3f3258f,Kuşbaşılı Pide,"27,00 TL",Pideler,6.0
+811ebfa1-889a-4589-a89e-4057ee0a0459,Mantarlı Kaşarlı Pide,"25,00 TL",Pideler,6.0
+183c7aae-c312-4164-ab35-44c50526aaaa,Nutella Pide,"20,00 TL",Pideler,6.0
+7bb0330c-2051-4047-af31-d10ddbab47b4,Pastırmalı Kaşarlı Pide,"30,00 TL",Pideler,6.0
+de275cbc-f6b7-404d-9f0c-95c6df1a49f8,Pastırmalı Pide (Kapalı),"30,00 TL",Pideler,6.0
+99efdf77-236f-4c35-bff7-75c981f95c03,Sucuklu Kaşarlı Pide,"25,00 TL",Pideler,6.0
+c181cf3b-23d8-439e-95f8-5d9f423f62c7,Tavuklu Kaşarlı Mantarlı Pide,"27,00 TL",Pideler,4.0
+e075deb4-f833-443e-a808-977e75852914,Tavuklu Kaşarlı Pide,"25,00 TL",Pideler,4.0
+723cceff-e4fa-435f-a656-2720bdcb659c,Tavuklu Mantarlı Pide,"25,00 TL",Pideler,4.0
+af2f8afa-106f-4400-a306-2936d353f437,Tavuklu Pide,"24,00 TL",Pideler,4.0
+65ae36fe-6266-48ff-8699-a5bd7bfc47e4,Et Sote,"40,00 TL",Diğer Lezzetler,5.0
+b6dad26d-5626-46df-8d70-2ea31cc05b3e,Tavuk Sote,"30,00 TL",Diğer Lezzetler,3.0
+79597724-754e-4744-8b7f-1aa3a7a61e43,Kaşarlı Et Sote,"40,00 TL",Diğer Lezzetler,5.0
+378396a3-0334-4705-96b9-6ac3f0b5bf11,Kaşarlı Tavuk Sote,"30,00 TL",Diğer Lezzetler,3.0
+757d7702-95b4-4cc2-b337-a26d39b5f3ad,Cevizli Lahmacun,"10,00 TL",Diğer Lezzetler,17.0
+ddf56470-7e33-460d-b189-42f3f0b6963b,Çiğ Köfte Dürüm,"8,00 TL",Çiğ Köfteler,3.0
+d5b88046-7baa-4eb0-8437-a2ff25dfe76a,Çiğ Köfte (7 Sıkım),"8,00 TL",Çiğ Köfteler,3.0
+5c6a63b0-23b8-49e5-a1b7-c8a428f6c138,Çiğ Köfte (13 Sıkım),"15,00 TL",Çiğ Köfteler,3.0
+54651125-7923-4ffe-a8bb-5fefc5c05312,Çiğ Köfte (500 gr.),"25,00 TL",Çiğ Köfteler,3.0
+c27afe2f-cda9-4668-8f8a-ec514ccac34b,Çiğ Köfte (1 kg.),"50,00 TL",Çiğ Köfteler,3.0
+60A352A6-5EEA-4200-82D0-554C6B49B40D,Cacık,"12,00 TL",Yan Ürünler,5.0
+1e85bfdc-be63-43ac-8aa2-9b70f88e8138,Gavurdağı Salata,"15,00 TL",Salatalar,6.0
+765e817d-5853-47df-b9b0-918f70c10ea8,Çoban Salata,"12,00 TL",Salatalar,6.0
+91c1458a-803a-4ceb-8ab2-2e22f9f20f7b,Mevsim Salata,"10,00 TL",Salatalar,6.0
+f3265a75-0f9c-4fc3-ae99-bb80f305775c,Ezme Salata,"12,00 TL",Salatalar,6.0
+628fa75f-98b5-4509-9959-452574a7ef02,Künefe,"15,00 TL",Tatlılar,6.0
+bae1439e-1d99-4bda-93e2-9dfda396ba37,Kadayıf,"15,00 TL",Tatlılar,5.0
+d64f4714-2782-486e-9c80-17d6e4d450ec,Katmer,"18,00 TL",Tatlılar,6.0
+a254b2e0-3092-4d0d-ba6e-45f986029f39,Fırın Sütlaç,"12,00 TL",Tatlılar,7.0
+20860abf-7401-4443-9699-6417797a2252,Suffle,"15,00 TL",Tatlılar,5.0
+620d0d29-9e29-4a94-92ca-ee234324bd43,İrmik Helvası,"15,00 TL",Tatlılar,3.0
+52CC255B-72B7-4BEC-804E-7F4433B03D0D,Antep Fıstıklı Dolama,"20,00 TL",Tatlılar,4.0
+931DCD8A-A233-4708-AC5E-B44BC21980FB,Uludağ Limonata (1 L.),"10,00 TL",İçecekler,5.0
+656959F2-B086-447D-9FF8-257E145B2F8E,Uludağ Limonata (Şekersiz) (1 L.),"10,00 TL",İçecekler,5.0
+3ce9aaf2-d94b-465f-8528-9f4cdb79b6f9,Poşet,"0,25 TL",Poşet,5.0

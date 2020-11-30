@@ -1,0 +1,26 @@
+food_id,food_name,food_price,food_category,food_score
+0dbbd2d0-2563-45cb-afc4-83c832cee45e,Adana Kebap,"26,00 TL",Kebaplar & Izgaralar,5.0
+083b3948-f9cf-4987-9d82-e255e2908ad7,Urfa Kebap,"26,00 TL",Kebaplar & Izgaralar,5.0
+0094e1ce-2a5c-4221-a2e9-ec07702ec151,Tavuk Şiş,"24,00 TL",Kebaplar & Izgaralar,7.0
+a43c65ca-1ad5-45d4-9248-a163b04cfbac,Karışık Kanat,"24,00 TL",Kebaplar & Izgaralar,5.0
+8d37c404-e87a-433a-b1bb-21adab1c08b4,Yaprak Kanat,"28,00 TL",Kebaplar & Izgaralar,5.0
+78a02696-59f7-4220-963d-0ce41573f9d4,Çöp Şiş,"32,00 TL",Kebaplar & Izgaralar,5.0
+caddb25a-fe14-4e00-ad73-4da31f6e30aa,Et Şiş,"34,00 TL",Kebaplar & Izgaralar,4.0
+e084154a-388b-4fc7-a0e8-0a50ab400a6b,Yaprak Kuzu Şiş,"40,00 TL",Kebaplar & Izgaralar,5.0
+bfc48a7d-2011-4556-b1e4-aac7a6b08dfa,Domatesli Kebap,"35,00 TL",Kebaplar & Izgaralar,5.0
+7932e323-ec56-417f-ac5f-e6ac45ee3ca9,Patlıcanlı Kebap,"35,00 TL",Kebaplar & Izgaralar,5.0
+2ea60a7c-89aa-46ff-8973-3b12504ea0d2,Alinazik Kebap,"35,00 TL",Kebaplar & Izgaralar,5.0
+57b6af98-9040-41b8-b1e3-51b7a618b67a,Karışık Kebap,"55,00 TL",Kebaplar & Izgaralar,5.0
+308b52f9-8669-4b70-a9e0-7551574d4c74,Özel Karışık,"65,00 TL",Kebaplar & Izgaralar,5.0
+8f6d5e34-0982-4738-8436-371c5d654a5d,Adana Dürüm,"13,00 TL",Dürümler,12.0
+7bc1bd20-78be-4e46-8044-5c60dc911d1e,Urfa Dürüm,"13,00 TL",Dürümler,12.0
+f48da1dc-c621-469e-b16f-7d40b815debc,Tavuk Şiş Dürüm,"12,00 TL",Dürümler,14.0
+aace6119-2c19-42f4-8868-ce85474b9c40,Çöp Şiş Dürüm,"16,00 TL",Dürümler,7.0
+e7538ee1-2eac-4953-92e8-437c83e74345,Yaprak Kuzu Şiş Dürüm,"20,00 TL",Dürümler,7.0
+dd4c7164-eb41-4328-ba58-4cd057b2e693,Et Şiş Dürüm,"17,00 TL",Dürümler,6.0
+a2c2bd2a-2a11-417d-9903-1a40b0d0adc2,Çoban Salata,"9,00 TL",Salatalar,5.0
+4c03ca73-b653-4a4a-a866-81d4587cc2d6,Mevsim Salata,"9,00 TL",Salatalar,5.0
+f3a1a732-23e2-4170-b126-b8c8a4966586,Gavurdağ Salata,"13,00 TL",Salatalar,5.0
+98F90FAB-3D68-4872-8E48-E242E8262CCE,Kızartma İçli Köfte (Adet),"8,00 TL",Yan Ürünler,5.0
+b51bdadf-cb93-48df-846a-ba4c4d158094,Fırın Sütlaç,"10,00 TL",Tatlılar,5.0
+bad28d54-d529-4783-b214-2b4fe9c21503,Poşet,"0,25 TL",Poşet,5.0

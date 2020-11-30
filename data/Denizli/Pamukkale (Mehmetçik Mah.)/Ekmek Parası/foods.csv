@@ -1,0 +1,39 @@
+food_id,food_name,food_price,food_category,food_score
+00c8ec33-9621-4e6e-9077-65d8c4b7c11e,Big Chicken Burger Menü,"17,50 TL",Burger Menüleri,7.0
+a61c5f84-9ad8-4617-bae5-5f882715f8cd,Barbekü Chicken Burger Menü,"19,00 TL",Burger Menüleri,7.0
+56713587-4204-4181-a9ba-9af070719bac,Tavuk Dönerli Tost Menü 1,"20,00 TL",Ekonomik Menüler,18.0
+e938735f-58bd-4728-91d4-718c06ee66a8,Tavuk Dönerli Tost Menü 2,"17,50 TL",Ekonomik Menüler,13.0
+f5c2f0fd-cc8b-4866-989f-5fb94279e885,Menü 2,"28,00 TL",Ekonomik Menüler,8.0
+a4b17ba5-59ae-46ad-ac8e-21e3902fe737,Menü 4,"36,00 TL",Ekonomik Menüler,5.0
+84448f85-a7ab-4335-bbad-dbf53fa9e9a4,3/4 Ekmek Arası Karışık Tost Menü,"14,50 TL",Ekonomik Menüler,12.0
+09a9b2c9-45b3-4080-bfab-5895717902f0,3/4 Ekmek Arası Sanayi Tostu Menü,"17,00 TL",Ekonomik Menüler,12.0
+0d2c2435-6d6e-4015-9e9d-07259430982e,Sade Tost Menü,"12,50 TL",Ekonomik Menüler,14.0
+e48ac031-7286-4f5e-a6b8-f60e75c9086a,Sanayi Tostu Menü,"14,00 TL",Ekonomik Menüler,7.0
+c3486692-0b26-49c9-ac9b-88dc3ddbab29,Kaşarlı Tost Menü,"11,50 TL",Ekonomik Menüler,12.0
+c3ad8914-d3db-46ea-9e93-064b2a21f51c,Karışık Tost Menü,"11,00 TL",Ekonomik Menüler,12.0
+78dd48d1-e71c-415c-9ee5-b3a294fef36d,Patso Menü,"10,00 TL",Ekonomik Menüler,7.0
+94a16967-dacb-4c01-9dc0-5307f9952086,Sosisli Patso Menü,"11,00 TL",Ekonomik Menüler,7.0
+59e514d6-9ca5-44e9-83af-8b5e6fe5d855,Barbekü Soslu Patso Menü,"12,00 TL",Ekonomik Menüler,7.0
+56bc47bb-1f33-4ab6-8167-8e2387c1389c,Kaşarlı Patso Menü,"13,00 TL",Ekonomik Menüler,7.0
+33fa842e-c2bb-4f6c-9873-fd0938609f6f,Cheddarlı Sanayi Tostu,"12,50 TL",Tostlar,5.0
+397936bf-c57c-4d79-b56d-cc8cd3b0f99e,Sanayi Tostu,"12,00 TL",Tostlar,5.0
+4ac41fbc-7765-4109-be6d-b4f70f5a8c55,Esnaf Tostu,"13,00 TL",Tostlar,5.0
+598a96c3-6c9a-4aa3-83ea-f0e38e1d8cc8,Ekmek Parası Special Tost,"14,50 TL",Tostlar,10.0
+6509cfa8-019a-47b8-89dd-9c89aed5af81,Kaşarlı Tost,"10,00 TL",Tostlar,10.0
+7307af1c-5cb0-4b4e-a4dd-c38160bce236,Karışık Tost,"9,00 TL",Tostlar,15.0
+95aaec63-8f88-454f-b5b9-63553abbcb5e,Pizza Tost,"15,00 TL",Tostlar,10.0
+9cfcdb3b-4bdf-441c-aec6-111d5febe76f,Kafası Karışık Tost,"14,50 TL",Tostlar,10.0
+c9ee330e-92a0-4955-ad01-a931e613031a,Cheddarlı Tost,"11,00 TL",Tostlar,10.0
+d49fd50e-0583-49d9-aafe-4f73a4ab7291,BBQ Tost,"12,00 TL",Tostlar,10.0
+2d9cadb3-59c6-45bc-95f9-82a317dab350,Vegan Tost,"8,00 TL",Tostlar,12.0
+230b21ce-9ad9-4a9d-9c0d-3408479ff009,Ayvalık Tostu,"16,00 TL",Tostlar,5.0
+0ee1cfe8-01e3-48ce-a241-b0f95d1c4e50,3/4 Ekmeğe Karışık Tost,"13,00 TL",Tostlar,10.0
+d0bbbfcb-f1f0-4a32-8808-e58dda1c2e4d,3/4 Ekmeğe Sanayi Tostu,"15,00 TL",Tostlar,10.0
+48bdb45e-4649-4868-ad62-91b875d2752a,Sigara Böreği (6 Adet),"12,00 TL",Yan Ürünler,5.0
+3ab4d1f5-cf1d-4a97-a3a8-c2f1471172d7,Çıtır Sepeti,"15,00 TL",Yan Ürünler,5.0
+8776a0fc-e70d-4114-be25-b92bca90e529,Patates Kızartması (Büyük),"8,00 TL",Yan Ürünler,5.0
+9a308892-4462-4457-9022-2e6701eaf8b8,Kazandibi (180 gr.),"6,00 TL",Tatlılar,5.0
+73c6f324-c8f9-4651-b47f-c049678b9837,Fırın Sütlaç (180 gr.),"6,00 TL",Tatlılar,5.0
+65eb1cb5-4157-4419-9f80-cabd78df5224,Supangle (180 gr.),"6,00 TL",Tatlılar,5.0
+acfdfd8e-e6ea-4fe2-b094-37d630946626,Profiterol (180 gr.),"6,00 TL",Tatlılar,5.0
+b78ace7a-66ae-4917-970f-5df79516d8e3,Poşet,"0,25 TL",Poşet,5.0

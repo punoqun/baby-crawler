@@ -1,0 +1,39 @@
+food_id,food_name,food_price,food_category,food_score
+1ad6f4f4-461d-4686-9b84-b7ac661bcb7d,Ekmek Arası Kuzu Kokoreç,"14,00 TL",Kokoreçler,10.0
+6E28D84C-15EC-41B9-972D-AF03A1A5D130,Kokoreç Dürüm,"16,00 TL",Kokoreçler,5.0
+7E3DB07B-195B-4A06-AFC1-BC29A736D20B,Ekmek Arası İstanbul Usulü Kokoreç,"16,00 TL",Kokoreçler,5.0
+06a6bdfc-8d6f-4778-97c4-1feb0aad3471,Ekmek Arası Uykuluk,"17,00 TL",Uykuluklar,7.0
+92a54e7c-cb8e-4821-b325-2a08b1fcf197,Ekmek Arası Izgara Köfte,"14,00 TL",Köfteler,11.0
+fde36588-191e-4528-993a-d1d568f236db,Izgara Köfte & Piyaz,"32,00 TL",Köfteler,6.0
+29ca9bdf-db45-4f07-b5b5-5cfabc61c186,Izgara Köfte & Piyaz (Yarım),"22,00 TL",Köfteler,6.0
+49ab6091-e632-4cb1-a490-bbe5779529d8,Kızarmış Tavuk,"22,00 TL",Diğer Lezzetler,6.0
+204C6AA7-A94E-426B-8DC3-EB5515534BF7,Kızarmış Tavuk (Bütün),"35,00 TL",Diğer Lezzetler,6.0
+08934352-1989-4489-BF06-237E246B6A41,Kızarmış Tavuk (Yarım),"22,00 TL",Diğer Lezzetler,6.0
+733ea4e5-260e-4cb4-ace1-52c277886a9f,Ekmek Arası Izgara Sucuk,"9,00 TL",Ekmek Arası Ürünler,4.0
+466862df-0b3b-46f2-ba8e-8334f8f92df0,Ekmek Arası Izgara Tavuk,"7,00 TL",Ekmek Arası Ürünler,6.0
+c2b6e064-e58a-4d73-8ca0-b11791307653,Adana Dürüm,"10,00 TL",Dürümler,5.0
+4ddae2fa-95cd-4198-ad75-1166b6ca0735,Izgara Tavuk Dürüm,"9,00 TL",Dürümler,11.0
+B518C93B-C72B-4C7C-A443-87AC37CC4B6F,Tavuk Şiş Dürüm,"10,00 TL",Dürümler,6.0
+e1b6c0a2-97dd-425c-b82b-19929ed4e12b,Pirinç Pilavı,"5,00 TL",Yan Ürünler,5.0
+5fcc3c37-e971-45b1-af22-f192ba44be14,Piyaz,"14,00 TL",Yan Ürünler,5.0
+BB1D399F-2EA1-424B-ACE1-42E45A313801,Lavaş (Adet),"1,50 TL",Yan Ürünler,5.0
+F61696AE-3907-484E-BC93-5EA2E39402DB,Kuru İncir (200 gr.),"12,00 TL",Yan Ürünler,5.0
+F4197EB0-02EF-4AA3-A9E4-0E376EBAEAEA,Antep Fıstığı (100 gr.) (Paket),"12,00 TL",Yan Ürünler,5.0
+A77D1F2D-F827-42A5-8879-E10C0E500469,Fındık (100 gr.) (Paket),"12,00 TL",Yan Ürünler,5.0
+D822B6F3-32EC-4466-8116-662BD28ED257,Kavrulmuş İç Badem (100 gr.) (Paket),"12,00 TL",Yan Ürünler,5.0
+6883821E-E775-4730-BB86-AD26F8A4B64D,Tuzlu Siyah Çekirdek (500 gr.),"12,00 TL",Yan Ürünler,5.0
+7d67310f-3208-4fed-9545-6c64b0ab2c29,Siyah Çekirdek (500 gr.),"12,00 TL",Yan Ürünler,5.0
+3082DF5F-0311-4479-B219-C06AF851D6A9,Tuzlu Kavurulmuş Fıstık (300 gr.),"12,00 TL",Yan Ürünler,5.0
+5510d008-9c2d-4dff-9a0b-ea2f2c5e37ca,Kavurulmuş Fıstık (300 gr.),"12,00 TL",Yan Ürünler,5.0
+C2612FBE-921D-4D87-B202-41A90E93B82F,Muz (500 - 600 gr.),"8,00 TL",Yan Ürünler,5.0
+0576EA54-6B96-4339-BA91-65992A9F0940,Kırmızı Elma (1 kg.),"8,00 TL",Yan Ürünler,5.0
+43FD26F9-5D88-49F5-9039-5EF0DD012613,Mandalina (1 kg.),"6,00 TL",Yan Ürünler,5.0
+209C0734-CD41-470F-9922-B032829F9127,Armut (1 kg.),"10,00 TL",Yan Ürünler,5.0
+21C488AF-973F-4806-8FF2-265395369D1A,Ayva (1 kg.),"10,00 TL",Yan Ürünler,5.0
+4EE5FF2D-2682-4A14-80D3-F51941894C10,Nar (1 kg.),"8,00 TL",Yan Ürünler,5.0
+05C4387B-DCF1-4A0A-B8E8-93F5C3A0DA51,Cennet Hurması (1 kg.),"10,00 TL",Yan Ürünler,5.0
+85FF45BB-9818-46E3-990A-F1154469460A,"Fanta (2,5 L.)","11,00 TL",İçecekler,5.0
+7B4D2E1F-295C-4F7B-A2CC-8CC7CBC0D9D8,Şalgam Suyu (5 L.),"23,00 TL",İçecekler,5.0
+e3a3c3a4-14bf-4f8b-b32e-33c1d53a3509,Izgara Tavuk Kanat (1 kg.) (Pişirilmiş),"45,00 TL",Kiloluk Ürünler,6.0
+E3DC4581-5CA1-4827-B10F-9B72B0B1C863,Tavuk Kanat (1 kg.) (Pişirilmiş),"35,00 TL",Kiloluk Ürünler,6.0
+9f7c45ae-3f24-4d94-9c3b-1c1f8659ebc0,Poşet,"0,25 TL",Poşet,5.0

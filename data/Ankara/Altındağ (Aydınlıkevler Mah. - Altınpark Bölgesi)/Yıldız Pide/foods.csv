@@ -1,0 +1,41 @@
+food_id,food_name,food_price,food_category,food_score
+3bc06c28-b645-4868-8792-6c557795947b,Kıymalı Pide Menü,"22,50 TL",Pide Menüleri,6.0
+18a1b2f4-c1ee-4e23-ae6a-46dbc771e30d,Kuşbaşılı Pide Menü,"26,25 TL",Pide Menüleri,11.0
+9447f289-8079-4f1a-ae3e-a6da47f1bfcc,Kuşbaşılı Kaşarlı Pide Menü,"22,50 TL",Pide Menüleri,11.0
+abdf8072-9885-4208-bdd0-a744fb7ec245,Kaşarlı Pide Menü,"22,50 TL",Pide Menüleri,6.0
+7850cb38-dfd9-49eb-9edd-cb3cc6a5fc58,Mantarlı Kaşarlı Pide Menü,"22,50 TL",Pide Menüleri,6.0
+88e5413e-8867-4129-ac3d-b4217ceb0a5d,Sucuklu Kaşarlı Pide Menü,"22,50 TL",Pide Menüleri,6.0
+ad262a4a-f909-439b-b90b-9e0a2d2036c4,Sucuklu Yumurtalı Pide Menü,"22,50 TL",Pide Menüleri,6.0
+bea98ec4-0318-41a2-a223-8bd381c0fa8c,Beyaz Peynirli Pide Menü,"22,50 TL",Pide Menüleri,6.0
+71da0cb6-7eed-4f8c-8fe6-9e977b68e6ba,Kavurmalı Pide Menü,"22,50 TL",Pide Menüleri,6.0
+83738e74-fb89-4ede-9114-c97a70d65bf5,Kapalı Karadeniz Pide Menü,"22,50 TL",Pide Menüleri,6.0
+09d0701a-2005-4449-be0e-9e3ad49b540d,Kapalı Kavurmalı Kaşarlı Menü,"22,50 TL",Pide Menüleri,6.0
+ec64c9ce-73b1-4bc2-8828-2cf93631aec6,Kuşkaş Pide Menü,"26,25 TL",Pide Menüleri,6.0
+3c8c5d0c-7baf-459e-a43a-01ab2a67e4a9,Karışık Pide Menü,"22,50 TL",Pide Menüleri,5.0
+d936a62c-3871-43bb-880b-bdd9c04762ad,Kıymalı Yumurtalı Pide Menü,"22,50 TL",Pide Menüleri,6.0
+9adf337f-a87d-4249-b913-7803effb03f2,Ispanaklı Pide Menü,"22,50 TL",Pide Menüleri,6.0
+4e4edc91-0cdf-4746-9e12-e3f21c823479,Patatesli Pide Menü,"22,50 TL",Pide Menüleri,4.0
+a2ccedcc-a862-4153-8edd-5cb611a8f069,Patatesli Kıymalı Pide Menü,"22,50 TL",Pide Menüleri,4.0
+abbfaf18-a8d9-46b7-b2c9-d44ed6f2e65d,Lahmacun Menü,"12,75 TL",Pide Menüleri,7.0
+29fe5ade-0080-439d-81a6-ba92f0ae00dd,Urfa Dürüm Menü,"15,00 TL",Dürümler,6.0
+4a0bca66-25b7-4501-af5e-b07c65f62f69,Köfte Dürüm Menü,"15,00 TL",Dürümler,6.0
+f8188671-51eb-466c-8cb9-309d5c5f506d,Adana Dürüm Menü,"15,00 TL",Dürümler,11.0
+0dd985cd-c7b2-44f5-9e94-5a1227eb7116,Izgara Tavuk Kanat Menü,"26,25 TL",Kebap & Izgara Menüleri,6.0
+1c697a3e-71ff-4cde-a3d4-b2c32fc0b7f9,Izgara Tavuk Bonfile Menü,"26,25 TL",Kebap & Izgara Menüleri,6.0
+2d3837a2-bf7c-4e9a-bc73-5f72da01f6b1,Karışık Izgara Menü,"37,50 TL",Kebap & Izgara Menüleri,5.0
+38355fcb-4807-41e1-b0ae-8dd671a1ee88,Beyti Kebap Menü,"30,00 TL",Kebap & Izgara Menüleri,6.0
+7eccd4bb-c386-4707-ad16-e2b4dcbd795c,Izgara Tavuk Şiş Menü,"26,25 TL",Kebap & Izgara Menüleri,6.0
+a226a49b-43f8-49bc-a294-b57c6780631e,Urfa Kebap Menü,"26,25 TL",Kebap & Izgara Menüleri,6.0
+b32d8649-12ff-44d0-b6e9-0df01c589525,Izgara Köfte Menü,"26,25 TL",Kebap & Izgara Menüleri,6.0
+c8012433-d2ee-4568-8663-4493ff56f82b,Patlicanlı Kebap Menü,"26,25 TL",Kebap & Izgara Menüleri,6.0
+d9b02fbc-36d2-4084-8196-4ea277d6a998,Mantar Kebap Menü,"26,25 TL",Kebap & Izgara Menüleri,6.0
+dc89b739-86ee-4a9d-a01f-772482df91e1,Izgara Tavuk Açma Menü,"26,25 TL",Kebap & Izgara Menüleri,6.0
+de018704-8be2-4bcb-aea6-1067fe1c9013,Adana Kebap Menü,"26,25 TL",Kebap & Izgara Menüleri,6.0
+e113e479-7e61-46cc-87a5-96fd8490826e,Izgara Tavuk Pirzola Menü,"26,25 TL",Kebap & Izgara Menüleri,6.0
+e836e715-d926-4f1f-ad65-21902c199095,Sac Kavurma Menü,"30,00 TL",Kebap & Izgara Menüleri,4.0
+b0c910cd-a55d-4549-9855-ab68f812d63d,Kiremitte Köfte,"26,25 TL",Kiremitte Ürünler,5.0
+986ef700-8e1f-4e77-a910-c777745b7fbc,Kiremitte Kuşbaşı,"26,25 TL",Kiremitte Ürünler,5.0
+821cdaf6-d0ea-4e1a-8fb8-d75f1e60298d,Kiremitte Et Şiş,"26,25 TL",Kiremitte Ürünler,5.0
+1b37e800-ca49-4610-a61d-6084f0c9bebb,Kiremitte Karışık Kebap,"30,00 TL",Kiremitte Ürünler,4.0
+ca792e4c-035a-4df3-bab5-f2014acaf5c6,Kiremitte Mantarlı Kebap,"26,25 TL",Kiremitte Ürünler,5.0
+827d6f04-82b3-49e3-b81e-6d22d0cf5007,Poşet,"0,25 TL",Poşet,5.0

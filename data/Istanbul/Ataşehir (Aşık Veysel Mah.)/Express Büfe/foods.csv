@@ -1,0 +1,44 @@
+food_id,food_name,food_price,food_category,food_score
+1e8798e8-1c78-4c8c-afae-c6ebffb7bc4e,Tavuk Burger Menü,"24,99 TL",Menüler,3.0
+2B518150-E490-4E56-8FFE-D08C0B8D4BF3,Zurna Tavuk Döner Dürüm Menü,"31,99 TL",Menüler,5.0
+6AC4A72D-66C2-404D-9B37-14C451D04649,Tavuk Şiş Dürüm Menü,"32,99 TL",Menüler,4.0
+C6CBC1E3-1873-4EBC-85B2-4097D93C9241,Tavuk Nugget Menü,"29,99 TL",Menüler,3.0
+4c2bfc94-150b-4409-a7b5-f58932c808c6,Artist Tost Menü,"31,99 TL",Menüler,5.0
+8f1fad2b-cf90-4655-956e-b6d1d7c6b919,Tavuk Döner Menü,"29,99 TL",Menüler,4.0
+8f6ba8ed-d8a9-4109-896c-983492a1f04a,Kumru Menü,"29,99 TL",Menüler,0.0
+b39ac9df-ba74-4be1-abfa-ae9911ea0961,Sosisli Menü,"24,99 TL",Menüler,4.0
+cc644617-f3ad-43a9-a278-95546cebfaff,Kokoreç Menü,"43,99 TL",Menüler,6.0
+f5b60fbf-34ff-48dd-aa14-a55af4f20a01,Schnitzel Menü,"24,99 TL",Menüler,5.0
+ffac0789-a95b-4e1b-9c4d-93efcc5d2953,Cheeseburger Menü,"25,99 TL",Menüler,5.0
+c48a4122-269f-4e43-a167-127e8b6dd4f6,Kokoreç Dürüm Menü,"31,99 TL",Menüler,7.0
+860faa99-b4d7-46b6-8c93-fe31741382d3,Yarım Ekmek Arası Kokoreç Menü,"32,99 TL",Menüler,6.0
+1f8f55b1-b398-42dc-a262-91de1be9e6d7,Tavuk Döner Dürüm Menü,"26,99 TL",Menüler,5.0
+05379347-85c3-44d3-8bee-047ab1d21e59,Sucuklu Tost,"14,99 TL",Tostlar,5.0
+58fcc756-b51e-4076-b5dd-c32649e29841,Leyla Tost,"16,99 TL",Tostlar,5.0
+5fb274e6-f6d3-42cd-a402-2db23277ccb1,Yengen Tost,"16,99 TL",Tostlar,5.0
+71765efc-9788-4f0a-ae91-c7082f945a2f,Çift Kaşarlı Tost,"12,99 TL",Tostlar,5.0
+ac95c4e1-7af1-4f79-a99b-9f6ee8c40d2d,Süper Ayvalık Tostu,"22,99 TL",Tostlar,11.0
+baaf977d-8af9-4193-98af-7892f563bc65,Karışık Tost,"14,99 TL",Tostlar,5.0
+df8b2243-e5ca-45fa-bc5f-5f70d2d7ab79,Kavurmalı Kaşarlı Tost,"28,99 TL",Tostlar,5.0
+f65a226b-3c9d-4b9d-a5ff-786ec1d69841,Artist Tost,"18,99 TL",Tostlar,5.0
+ff11264b-e8c0-4221-8e4a-0e75c1ef03a6,Ayvalık Tostu,"19,99 TL",Tostlar,5.0
+573cb3e6-9cc7-42c2-991b-12d9d19ae6a0,Izgara Köfte,"31,99 TL",Ana Yemekler,2.0
+fe1c374d-b63d-45b5-a4ca-4fabe3569988,Izgara Sosis,"26,99 TL",Ana Yemekler,3.0
+13a23f74-2597-4ecf-91d5-ffecd1ba73ee,Kokoreç Sandviç,"20,99 TL",Kokoreçler,6.0
+b9b11824-f30e-467f-b33b-163cc68bad9e,Soğuk Sandviç,"16,99 TL",Soğuk Sandviçler,4.0
+1a9ee597-20e3-471f-96d2-dc1a6503be83,Sosisli Sandviç,"9,99 TL",Sıcak Sandviçler,9.0
+210eebb2-17ac-474e-a774-4080ac8a2cfe,Goralı Sandviç,"9,99 TL",Sıcak Sandviçler,2.0
+6c5defa9-701c-4c0f-9dc6-e3b5521fac0d,Sade Patso,"16,99 TL",Sıcak Sandviçler,4.0
+c0888b19-8d05-41f2-8ec6-78f3d035cbae,Sosisli Patso,"17,99 TL",Sıcak Sandviçler,3.0
+c7d07986-67e0-424a-8dab-f0a6c10a7438,Ton Balıklı Sandviç,"18,99 TL",Sıcak Sandviçler,5.0
+cdd8a1c6-2cb7-464c-a587-ba6139ce19d6,Kumru Sandviç,"18,99 TL",Sıcak Sandviçler,5.0
+e50d1cc5-9d94-4ebf-b56c-b639b2c1024e,Sosisli Kaşarlı Sandviç,"10,99 TL",Sıcak Sandviçler,4.0
+fd99c81e-03cb-47a0-b819-66506383bb2f,Yarım Ekmek Arası Tavuk Döner,"13,99 TL",Tavuk Dönerler,4.0
+604eec1e-4e5d-4f41-b068-9d3926b200ee,Tavuk Burger,"8,90 TL",Burgerler,3.0
+6fd5ff8e-39fa-4bb9-bb15-bba184bd35fd,Midye Dolma (Adet),"2,00 TL",Diğer Lezzetler,6.0
+ebbf26e6-eb9f-45a2-8b80-38ba6b45fc46,Algida Maraş Usulü Cup Dondurma (100 ml.),"5,99 TL",Dondurmalar,5.0
+4af7f5d4-8f7b-4ad6-98ee-f7df5a5091ce,Carte d'Or Monoportion Çilek Yoğurt (105 ml.),"6,99 TL",Dondurmalar,5.0
+3c1c34c9-fc09-4417-95d0-368f021bfadd,Carte d'Or Monoportion Çikolata Karnavalı (105 ml.),"6,99 TL",Dondurmalar,5.0
+aa222f00-41c2-4ad8-88b5-f5e88f670ed0,Algida FS Cup Premium Çikolata (100 ml.),"6,99 TL",Dondurmalar,5.0
+b0e296ed-58cd-4d8b-8f68-e00ef12b9530,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"12,99 TL",Dondurmalar,5.0
+92aadbcd-2d46-48a5-8bd7-c22b23110567,Poşet,"0,25 TL",Poşet,5.0

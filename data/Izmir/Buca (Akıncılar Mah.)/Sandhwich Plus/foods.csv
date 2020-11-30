@@ -1,0 +1,56 @@
+food_id,food_name,food_price,food_category,food_score
+e5f3a0f0-665d-4b86-b0a6-f29fadcebd35,3 Köfteli Burger Menü,"23,00 TL",Menüler,4.0
+9ee22a42-a972-42e9-b154-6eedf5bfdc7c,Special Plus Sandviç Menü,"25,00 TL",Menüler,5.0
+a1dfb76a-99e7-4d71-9009-0d727885aa14,Diyet Tost Menü,"19,00 TL",Menüler,3.0
+2398CE80-96CD-410E-A489-D77AD50160D7,Sucuklu Kaşarlı Sandviç Menü,"21,00 TL",Menüler,5.0
+ae555691-3db8-4258-b51d-10630b6928ad,Ayvalık Tost Menü,"20,00 TL",Menüler,5.0
+51420e1d-512e-4748-be9d-1b3c728194c0,Cheeseburger Menü,"20,00 TL",Menüler,1.0
+f737f06f-c7cb-456e-94b7-be6f1b10611a,Full Karışık Sandviç Menü,"19,00 TL",Menüler,10.0
+ef96befd-3742-433a-bfe4-c4f7ab2a48ef,Hamburger Menü,"19,00 TL",Menüler,-3.0
+3c2da466-d874-48dd-9af7-a9d85fc79713,Kavurmalı Kaşarlı Sandviç Menü,"25,00 TL",Menüler,5.0
+b807a787-a4df-4f9d-b449-aa89e300eef2,Kumru Karışık Sandviç,"21,00 TL",Menüler,9.0
+a98df229-0a89-453a-9785-ebe24e4772d8,Maxi Burger Menü,"19,00 TL",Menüler,2.0
+460c9d5c-d343-4a6b-b76d-1a31bc311c97,Maxi Cheeseburger Menü,"20,00 TL",Menüler,1.0
+aa56323e-59af-40e6-a981-f8c23fb53305,Maxi Karışık Menü,"22,00 TL",Menüler,3.0
+0e284db5-2da7-4b5f-9481-35bd92f1e719,Maxi Yumurtalı Sandviç Menü,"24,00 TL",Menüler,5.0
+b5ba38e6-4467-46b6-842a-17e62f7683c8,Özel Ekmek Arası Izgara Köfte Menü,"24,00 TL",Menüler,5.0
+15c58983-3f99-4b89-9f8b-578b48e0a45a,Özel Ekmek Arası Izgara Tavuk Menü,"20,00 TL",Menüler,8.0
+d08862fb-0bbd-4d58-bfb8-74bd0ad494f4,Hamburger,"11,00 TL",Burgerler,-2.0
+f2dff4f7-5008-45ab-88e0-e09d00cdc564,Maxi Burger,"12,00 TL",Burgerler,4.0
+a7159568-8f23-4c50-96f7-f4f419b4c8a9,Cheeseburger,"12,00 TL",Burgerler,3.0
+d691ea3f-cdd2-4fd1-b507-1ff771b200f9,Maxi Cheeseburger,"13,00 TL",Burgerler,3.0
+ffa5e89c-f57a-4843-87ad-bf8cec351f71,Kavurmalı Kaşarlı Sandviç,"17,00 TL",Sandviçler,7.0
+fb2511e5-e6c4-45a8-9929-c7eb340cb3d3,Soğuk Sandviç,"10,00 TL",Sandviçler,4.0
+a5b6a591-7ead-43af-8786-c6798ec36cfb,Special Plus Sandviç,"17,00 TL",Sandviçler,7.0
+47B0176A-89BB-49C0-9C70-32C0D2188EC6,Hindi Fümeli Sandviç,"13,00 TL",Sandviçler,7.0
+9b679d35-6d2b-47fa-9483-41f9ac4bef29,Çeşme Kumru,"13,00 TL",Sandviçler,7.0
+d650a9d8-68e5-4b3c-8d8a-98151443312a,Duble Karışık Sandviç,"15,00 TL",Sandviçler,12.0
+f56d050f-fdd8-4c67-844b-1926e35178a5,Full Karışık Sandviç,"12,00 TL",Sandviçler,12.0
+1aff5246-db47-44ed-864a-696145c3fd60,Maxi Karışık Sandviç,"14,00 TL",Sandviçler,7.0
+2453a10c-c077-4bfe-9604-de463bf68e20,Maxi Yumurtalı Sandviç,"15,00 TL",Sandviçler,7.0
+6b4b9f6b-fc32-4fcb-b6a5-7deb1a040837,Patso Sandviç,"11,00 TL",Sandviçler,9.0
+5fc8aef2-4d62-4f7a-b629-4113354426e2,Ton Balıklı Sandviç,"12,00 TL",Sandviçler,7.0
+52b33182-e26b-4671-995f-d64b246f2642,Özel Ekmek Arası Izgara Sucuk,"13,00 TL",Ekmek Arası Ürünler,7.0
+8ab0b78a-22b0-4f5a-97b9-37eaea665879,Ekmek Arası Şnitzel,"12,00 TL",Ekmek Arası Ürünler,3.0
+8edac809-5d22-418d-86f3-ed7cba185e5e,Özel Ekmek Arası Izgara Köfte,"15,00 TL",Ekmek Arası Ürünler,7.0
+fc82a846-eaf6-4b0e-8fbc-cc07076cd3ae,Özel Ekmek Arası Izgara Tavuk,"12,00 TL",Ekmek Arası Ürünler,10.0
+2daa1c8f-0c57-4c1a-bfb0-a3128a2b8939,Ayvalık Tostu,"12,00 TL",Tostlar,7.0
+c9a03b6f-1bdf-4c7a-800c-b13d4afc0a7d,Kepekli Kare Tost,"12,00 TL",Tostlar,5.0
+FC32ED1C-D9F6-48A1-A70D-1FEEDAA79BA4,3 Peynirli Ayvalık Tostu,"15,00 TL",Tostlar,9.0
+4d6cd18e-0fc4-4e61-972e-85a0334e113d,Izgara Tavuk,"20,00 TL",Izgaralar,8.0
+54fd2667-05bc-41dd-b22e-5f4b7642c737,Izgara Köfte,"23,00 TL",Izgaralar,5.0
+D5C5D87E-FA6F-4374-B19E-767E134CF13D,Karışık Izgara,"22,00 TL",Izgaralar,5.0
+1f961f09-6b3c-4e75-8947-5d485732e0d4,Çıtır Tavuk (3 Adet),"5,00 TL",Yan Ürünler,8.0
+9b55a2dd-1c04-40c1-86ca-ab2bac61e6c4,Çıtır Tavuk (6 Adet),"10,00 TL",Yan Ürünler,8.0
+60c1dd5a-cf87-4dfc-a43e-54ea993a0708,Soğan Halkası (3 Adet),"3,50 TL",Yan Ürünler,4.0
+2efbfbf9-7eaa-43dd-8f47-ccb862243a2c,Soğan Halkası (5 Adet),"5,50 TL",Yan Ürünler,4.0
+4fcba8f9-0355-4651-8be1-83a6983afd6f,Soğan Halkası (7 Adet),"7,50 TL",Yan Ürünler,4.0
+2dbbd5a1-363f-47ed-b0b3-a45e01411c3f,Nugget (3 Adet),"4,00 TL",Yan Ürünler,6.0
+37015543-c2b8-4623-9d52-fb3a96f82ebf,Nugget (5 Adet),"6,00 TL",Yan Ürünler,6.0
+d2f1f43b-70d0-4b92-8767-3fb4c8cb2852,Nugget (7 Adet),"8,00 TL",Yan Ürünler,6.0
+8bb1eb02-f3e0-4faa-927f-3183af42827f,Patates Kızartması (Küçük),"7,00 TL",Yan Ürünler,4.0
+556924ef-1f93-427b-9942-0e192e48e492,Patates Kızartması (Büyük),"13,00 TL",Yan Ürünler,4.0
+c511470e-466a-4570-a248-c8dfeaa90788,Eker Sütlaç,"3,00 TL",Tatlılar,3.0
+bbecd882-8aba-4f85-b659-51adf7d3e974,Eker Çikolatalı Puding,"3,00 TL",Tatlılar,5.0
+c8cb292c-7937-42c8-9b67-9ba11d7f8541,Ketçap (9 gr.),"0,75 TL",Soslar,3.0
+47f61a37-d2b3-4abe-b613-66b5cc737729,Poşet,"0,25 TL",Poşet,5.0

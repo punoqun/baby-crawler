@@ -1,0 +1,56 @@
+food_id,food_name,food_price,food_category,food_score
+705dfce0-7a58-4bf7-a4d5-6bc18ecd369c,Menü 1,"24,00 TL",Menüler,4.0
+d765d5a9-06be-48b5-a32f-9f58e6823546,Menü 2,"24,00 TL",Menüler,12.0
+45bcf160-dfdb-426e-8f2e-3b7657eb2ab3,Menü 3,"30,00 TL",Menüler,7.0
+9bd6cc19-7bde-47e9-b199-3993621a3321,Menü 4,"25,00 TL",Menüler,4.0
+b95b6423-f1fa-4984-9d96-c43ae5ff7333,Mega Menü,"46,00 TL",Menüler,9.0
+e982a7da-2f55-4865-846a-df96391c3b81,Izgara Köfte (500 gr.) Menü,"53,00 TL",Menüler,10.0
+de25f6f5-006e-4a39-b915-3068699e643b,Tavuk Biftek (500 gr.) Menü,"48,00 TL",Menüler,10.0
+94BE91C6-5985-4298-8403-AD6BAA781832,Tavuk Döner (500 gr.) (Pişirilmiş) Menü,"48,00 TL",Menüler,17.0
+00c1329d-abf7-42c2-876b-40f992d8c417,Çiğ Köfte Menü 1,"9,00 TL",Çiğ Köfte Menüleri,5.0
+60a09b07-8d80-4020-a320-487dff3f6348,Çiğ Köfte Menü 2,"12,00 TL",Çiğ Köfte Menüleri,13.0
+2da2080c-d40c-4742-8efd-d746b0a9addd,Çiğ Köfte Menü 3,"12,00 TL",Çiğ Köfte Menüleri,8.0
+f0c50eba-277b-4e2e-83bf-969da06d82c4,Çiğ Köfte Menü 4,"15,00 TL",Çiğ Köfte Menüleri,5.0
+e4dae0c1-a7f4-49da-a7fe-140abe5998af,Çiğ Köfte Menü 5,"17,00 TL",Çiğ Köfte Menüleri,12.0
+8eab55ea-37a0-437a-8409-e904f8dead51,Beyti Tavuk Döner,"22,00 TL",Tavuk Dönerler,13.0
+37698a6b-c24f-4646-8a36-3c87d8320aba,İskender (Tavuk Dönerden),"22,00 TL",Tavuk Dönerler,5.0
+7948569d-80f6-47f1-a035-77e35645bae9,Pilav Üstü Tavuk Döner,"22,00 TL",Tavuk Dönerler,13.0
+17f61124-bdb2-4cb4-aabf-ccc7e7727c50,Hatay Usulü Tavuk Döner Dürüm,"15,00 TL",Tavuk Dönerler,28.0
+9a3fb551-79e3-44b7-9937-97ae5bef0ed6,Hatay Usulü Duble Tavuk Döner Dürüm,"22,00 TL",Tavuk Dönerler,33.0
+e65689a8-a502-418b-9cfb-8aa6230ad30c,Ekmek Arası Tavuk Döner,"12,00 TL",Tavuk Dönerler,18.0
+f3b79015-7680-4555-88b7-9006b751bb24,Izgara Köfte,"22,00 TL",Izgaralar,6.0
+bdc9d1bf-abcd-4b12-9991-069ea03b88b6,Tavuk Şiş,"22,00 TL",Izgaralar,6.0
+8f43a766-e02b-4d8b-b4ce-e072fd4c565e,Tavuk Biftek,"22,00 TL",Izgaralar,6.0
+3a61d915-4bff-48ef-a87e-b03f75a088cc,Yoğurtlu Köfte,"25,00 TL",Izgaralar,5.0
+89019808-4031-450e-88d9-bfd79d322151,Et Tantuni Dürüm,"22,00 TL",Et Tantuniler,-4.0
+272575f4-53d3-40d0-900c-209b6966d05e,Ekmek Arası Et Tantuni,"22,00 TL",Et Tantuniler,-2.0
+3bdd34a4-08b2-4c81-8fa9-90134b741705,Tavuk Tantuni Dürüm,"16,00 TL",Tavuk Tantuniler,-2.0
+0fea97f2-5866-4ccd-8cee-4e3740b3bbdf,Ekmek Arası Tavuk Tantuni,"16,00 TL",Tavuk Tantuniler,1.0
+faaf56cf-9eb6-4034-a1f2-e7be3d3afde7,Ekmek Arası Köfte,"17,00 TL",Ekmek Arası Ürünler,6.0
+e42317e9-9ced-4812-991b-da8c87106aa4,Ekmek Arası Tavuk Şiş,"17,00 TL",Ekmek Arası Ürünler,6.0
+1eaccc2e-d4c3-44b8-9684-6176b94c7e23,Ekmek Arası Tavuk Biftek,"17,00 TL",Ekmek Arası Ürünler,6.0
+8c2e736c-d79d-46f8-8f0c-5584a7d76d59,Ekmek Arası Arnavut Ciğeri,"17,00 TL",Ekmek Arası Ürünler,5.0
+7eea2b29-5a03-4916-96b5-20ed606fcf06,Çiğ Köfte Dürüm,"7,00 TL",Çiğ Köfteler,3.0
+18934230-f310-4ede-b22c-f84e316e2872,Mega Çiğ Köfte Dürüm,"9,00 TL",Çiğ Köfteler,3.0
+8e7d1516-e054-449a-9bac-adadc6b1c517,Double Çiğ Köfte Dürüm,"11,00 TL",Çiğ Köfteler,3.0
+56a95aef-ad6b-4ea7-a3e5-eb7deb2b8483,Çiğ Köfte (300 gr.),"15,00 TL",Çiğ Köfteler,6.0
+0a7f0b66-b724-4c79-96b8-d3e62b9602a6,Çiğ Köfte (500 gr.),"26,00 TL",Çiğ Köfteler,6.0
+215d7dc9-d1f9-4db2-bd79-ae94630bb0b1,Çiğ Köfte (1 kg.),"48,00 TL",Çiğ Köfteler,6.0
+0eb6bafa-2b68-4604-8ed9-dd12b7df35f1,Arnavut Ciğeri,"22,00 TL",Diğer Lezzetler,5.0
+3F5D4A5E-CF72-4AD8-9B7F-215CFC792176,Tavuklu Pirinç Pilavı,"22,00 TL",Diğer Lezzetler,3.0
+B55727E0-533F-4332-A979-E9A449D3963F,Etli Pilav,"26,00 TL",Diğer Lezzetler,5.0
+33729A33-34AB-4D1C-8154-710C0C7BDD74,Ciğerli Pilav,"22,00 TL",Diğer Lezzetler,5.0
+00ced59f-ba7f-4643-a4d3-18f42698bed5,Çiğ Köfte Lavaşı (Adet),"1,00 TL",Yan Ürünler,8.0
+002B9B6F-21B0-4E35-A335-21DA2623F7C3,Hatay Tandır Lavaşı (Adet),"2,00 TL",Yan Ürünler,21.0
+75E03831-F81D-4942-BC37-7EEDCA9B5BBD,Çoban Salata (Küçük),"5,00 TL",Yan Ürünler,5.0
+8798DE6C-76E1-4D28-AC04-474FBC0B2143,Pirinç Pilavı,"8,00 TL",Yan Ürünler,5.0
+49A9A820-3CDB-4F65-9A92-051875BCE0A5,Patates Kızartması (Küçük),"5,00 TL",Yan Ürünler,4.0
+4DB04601-0F82-42DE-947B-91A1FD6C177F,Patates Kızartması (Orta),"8,00 TL",Yan Ürünler,4.0
+84370730-F5D9-43BF-99F2-4B25A2F15C16,Patates Kızartması (Büyük),"13,00 TL",Yan Ürünler,4.0
+f9474da0-6175-46e8-bc80-a232276bde86,Cevizli Baklava,"12,00 TL",Tatlılar,5.0
+75f72eac-f3f0-43f2-ae3c-2e459cbfb87a,Kıbrıs Tatlısı,"8,00 TL",Tatlılar,5.0
+95f8c772-1b6d-42d8-81c1-c0111209c236,Frambuazlı Trileçe,"8,00 TL",Tatlılar,5.0
+7e141444-9785-4bf6-a8ba-b2e5058c419f,Karamelli Trileçe,"8,00 TL",Tatlılar,5.0
+43CCBB28-BB81-4003-BA1C-B04E26609224,Şekerpare,"7,00 TL",Tatlılar,5.0
+2AD08ADA-B6B0-4354-9DC3-4A58411DDD48,Kadayıf Tatlısı,"10,00 TL",Tatlılar,5.0
+6398a2a9-eebb-409b-83c8-ebbb1a7d7939,Poşet,"0,25 TL",Poşet,5.0

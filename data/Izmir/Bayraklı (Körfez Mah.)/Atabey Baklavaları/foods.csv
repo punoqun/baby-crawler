@@ -1,0 +1,107 @@
+food_id,food_name,food_price,food_category,food_score
+91460c1b-ad98-484f-9e7e-35ff554b1629,Bomba Kovası Menü,"29,00 TL",Menüler,4.0
+90b81ce2-fc1c-482f-979b-f83ce7c7b6d6,Trileçe Menü,"35,00 TL",Menüler,5.0
+3EDAE59A-F77F-4F81-AE6F-636D258CB5F4,Kars Ketesi,"15,00 TL",Börekler,9.0
+29AF1970-8460-45BE-80EA-151A50000230,Kars Katmeri,"15,00 TL",Katmerler,9.0
+f683a857-e9fb-4c2b-9102-70835a8691da,Sade Katmer,"13,00 TL",Katmerler,10.0
+cb2e9971-2113-4f36-9103-eaaf0ef1592f,Haşhaşlı Katmer,"13,00 TL",Katmerler,5.0
+69e6e9c6-e982-4b2f-86f5-5316ef393c61,Tahinli Katmer,"13,00 TL",Katmerler,6.0
+b99dd9c7-dc9d-43ec-a083-84c72de07df2,Külah,"0,50 TL",Yan Ürünler,5.0
+435be0d5-175c-41bb-9f07-82873ca3ed35,Kornet Külah,"1,50 TL",Yan Ürünler,5.0
+2e9e2e4f-f949-4bd1-9561-bd4694dd614f,Çikolatalı Pasta (Adet),"13,50 TL",Tatlılar,6.0
+85ec0b80-3916-41d7-84b4-78eb49d9d815,Torpil,"12,50 TL",Tatlılar,5.0
+7655d3b3-a621-4162-85e4-ec8717152313,Ekler (Küçük) (Ekler),"2,50 TL",Tatlılar,3.0
+a4910152-aff4-4dd7-bdb7-54ef0eb9da70,Tiramisu,"12,50 TL",Tatlılar,6.0
+795E11F3-2818-4C66-9718-91A9D3BC156C,Acı Badem Ezme,"5,00 TL",Tatlılar,5.0
+7273AE39-4EE8-4E6B-8A7E-672088DD7E50,Cevizli Burma Kadayıf,"7,50 TL",Tatlılar,7.0
+24e37cd2-f247-4be3-a68c-e98559ddde45,Çikolatalı Yaş Pasta (Dilim),"13,50 TL",Tatlılar,7.0
+691e5556-3491-4799-bf55-d2d24d7b1f96,Fıstıklı Havuç Dilim Baklava,"18,00 TL",Tatlılar,28.0
+b9a5d1c2-bde3-490b-9ff6-56c457565ecb,Halka Tatlısı (Adet),"6,00 TL",Tatlılar,10.0
+55828360-ee0a-4932-8463-524329dbe333,İzmir Bomba Tatlısı (Adet),"4,50 TL",Tatlılar,4.0
+6F953DFD-2A10-4821-90FF-5DCCE7F12169,Karamelli Trileçe (Dilim),"11,50 TL",Tatlılar,5.0
+264c3422-2458-43a7-9bf8-c531416c0c6a,Kazandibi,"13,00 TL",Tatlılar,5.0
+A478964F-9FCC-485D-9443-31415C7841BD,Malaga Pasta (Dilim),"16,50 TL",Tatlılar,8.0
+0cc534ae-756d-44d8-b9fa-dd282dc2e2f6,Meyveli Pasta (Adet),"13,50 TL",Tatlılar,7.0
+8c58b49b-e63a-4a9d-9898-f9e2835233d3,Meyveli Yaş Pasta (Dilim),"13,50 TL",Tatlılar,8.0
+AC35247E-7D7E-42C3-84E6-88D65D910F75,Profiterol,"12,00 TL",Tatlılar,4.0
+c21a3510-ffaa-4b6a-b1c7-04c54cedeac5,Şambali Tatlısı (Adet),"4,50 TL",Tatlılar,10.0
+3d75f5d4-7e6d-44ab-bfcb-8aea3160d681,Supangle,"12,00 TL",Tatlılar,6.0
+87025e13-3443-4084-bcde-769660566c54,Sütlaç,"12,00 TL",Tatlılar,5.0
+969eb9ce-3017-4677-9c3a-10ed08750275,Kakaolu Dondurma (Top),"5,00 TL",Top Dondurmalar,9.0
+4361d783-fba0-4aa2-84cf-abb1237f0065,Çilekli Dondurma (Top),"5,00 TL",Top Dondurmalar,9.0
+876184f1-a139-419c-a7d2-d05b8cbb5c3c,Karamelli Dondurma (Top),"5,00 TL",Top Dondurmalar,9.0
+f5536c93-43e0-4e9e-87b3-d7473028fafc,Sade Kesme Dondurma,"6,00 TL",Dondurmalar,14.0
+186f5113-0529-4f0c-8d30-ba3f1299ad0c,Sade Dondurma (500 gr.),"33,00 TL",Dondurmalar,14.0
+67b980ec-5572-4682-b6ba-c3042dc8a7d9,Kakaolu & Sade Dondurma (500 gr.),"33,00 TL",Dondurmalar,14.0
+a9431e1d-500c-4e6a-a1a6-dccb1d51a183,Uludağ Gazoz (25 cl.),"3,00 TL",İçecekler,5.0
+fd6e9926-39fb-407d-afcd-05e7e77c4be4,Niğde Gazozu (25 cl.),"3,00 TL",İçecekler,5.0
+f919ed1a-2e8b-4296-b14d-a3e1bd38268d,Dimes Meyve Suyu (20 cl.),"3,00 TL",İçecekler,4.0
+85585c59-75b6-411d-9ab4-11e53f42be9b,Red Bull (25 cl.),"7,00 TL",İçecekler,5.0
+f25b94cf-cbba-48df-979d-2bb464780f2d,Vişne Suyu (20 cl.),"3,00 TL",İçecekler,5.0
+66388612-80f0-4435-84ee-77a00276fccc,Limonata (20 cl.),"3,00 TL",İçecekler,5.0
+889ac1e0-b2b9-4f20-8227-ee1223fbd252,Cappy (1 L.),"8,00 TL",İçecekler,5.0
+79096093-e55e-4349-9846-3ddf98c2f5da,Tropicana (1 L.),"7,50 TL",İçecekler,5.0
+e791f334-457b-4428-bd3e-8292678a3416,Dimes Kayısı (1 L.),"7,25 TL",İçecekler,5.0
+efed4b7d-6f0a-4f25-b7b4-231413a29a75,"Coca-Cola (1,5 L.)","8,00 TL",İçecekler,5.0
+aa702932-882f-468c-be4d-3a556fadad23,"Pepsi (1,5 L.)","7,00 TL",İçecekler,5.0
+fd186698-15f6-49e1-839f-643824c7c1c7,Schweppes Tonic Water (1 L.),"8,00 TL",İçecekler,5.0
+aed5eaed-7367-43fb-b684-c55319700120,Schweppes Mandalina (1 L.),"7,50 TL",İçecekler,5.0
+d337f7e2-04ef-4527-b509-01eabc24ad35,Su (5 L.),"7,50 TL",İçecekler,4.0
+483FE1FD-A9E1-414F-83CC-2DCD5328D6F9,Taze Sıkma Portakal Suyu,"11,00 TL",İçecekler,4.0
+FD4F7458-98B3-4B79-9016-90A4767F160B,Taze Sıkma Nar Suyu,"11,00 TL",İçecekler,4.0
+ACB9CD5E-4BBB-436F-BD60-9F50BE7C16A9,Taze Sıkma Greyfurt Suyu,"11,00 TL",İçecekler,4.0
+251B0657-3E7B-404B-BE78-D14663C88F37,Atom,"12,50 TL",İçecekler,5.0
+ad39bf0f-75a5-439f-a564-0bcdf7b7b6b5,Cevizli Baklava (250 gr.),"21,50 TL",Cevizli Baklavalar (250 gr.),22.0
+fdcda625-4a69-486b-992f-f544fbdaa0b5,Kuru Baklava (250 gr.),"35,00 TL",Fıstıklı Baklavalar (250 gr.),17.0
+0ec9bf85-2eff-4c7e-921c-726be68b9749,Fıstıklı Özel Baklava (250 gr.),"33,00 TL",Fıstıklı Baklavalar (250 gr.),23.0
+c6fb59df-b619-49ad-898d-1aab419e08e5,Fıstıklı Baklava (250 gr.),"33,00 TL",Fıstıklı Baklavalar (250 gr.),23.0
+6702821f-1509-4a13-9004-74ec86c0092d,Fıstıklı Kaymaklı Şöbiyet (250 gr.),"34,00 TL",Fıstıklı Baklavalar (250 gr.),10.0
+1A2D0776-1006-48D2-BD82-90F043376E8E,Soğuk Baklava (250 gr.),"33,00 TL",Fıstıklı Baklavalar (250 gr.),24.0
+87638a4a-8af4-4b09-839e-fff71c7ac6d0,Cevizli Baklava (500 gr.),"35,00 TL",Cevizli Baklavalar (500 gr.),22.0
+9edec16c-9d2d-4867-851f-16829e8ff027,Cevizli Baklava (1 kg.),"70,00 TL",Cevizli Baklavalar (1 kg.),22.0
+95462fbb-f1ce-4f80-983d-7c1309f5014f,Fıstıklı Baklava (500 gr.),"52,00 TL",Fıstıklı Baklavalar (500 gr.),23.0
+a0e098c9-932f-408b-952a-c9d21e406930,Bol Fıstıklı Kuru Baklava (500 gr.),"58,00 TL",Fıstıklı Baklavalar (500 gr.),26.0
+f7d2db5d-7d48-455a-aefb-7e93b468f35a,Özel Baklava (500 gr.),"56,00 TL",Fıstıklı Baklavalar (500 gr.),20.0
+03c46bf6-09b0-48ad-ba18-ed2f1eee3aeb,Fıstıklı Havuç Dilimi Baklava (500 gr.),"55,00 TL",Fıstıklı Baklavalar (500 gr.),26.0
+06936B35-740E-4F6D-B828-4E4E9DA68CE2,Soğuk Baklava (500 gr.),"56,00 TL",Fıstıklı Baklavalar (500 gr.),24.0
+37959cd3-6747-4cb7-adc5-6a4fc2b72446,Özel Baklava (1 kg.),"90,00 TL",Fıstıklı Baklavalar (1 kg.),20.0
+9fab9385-0782-4d25-b5e4-f3e911e2b13c,Fıstıklı Baklava (1 kg.),"90,00 TL",Fıstıklı Baklavalar (1 kg.),23.0
+a67aa2b7-4d91-42db-b4cb-24d4c1252907,Bol Fıstıklı Kuru Baklava (1 kg.),"100,00 TL",Fıstıklı Baklavalar (1 kg.),26.0
+aa378815-9a1b-4f58-af7a-fe0424f8dfc8,Fıstıklı Havuç Dilimi Baklava (1 kg.),"90,00 TL",Fıstıklı Baklavalar (1 kg.),26.0
+054D052A-C21A-468A-B26A-6E7CF27E880E,Soğuk Baklava (1 Kg.),"100,00 TL",Fıstıklı Baklavalar (1 kg.),24.0
+ce5cfe30-304f-4e7c-b6a9-8dd59b67016f,Çikolatalı Meyveli Pasta (4 Kişilik),"48,00 TL",Pastalar (4 Kişilik),5.0
+32dc65a9-9b93-4a46-a610-0d733d9210a2,Çikolatalı Pasta (4 Kişilik),"48,00 TL",Pastalar (4 Kişilik),6.0
+81c2b7a7-eac8-4b41-b681-a0b797e829c2,Çikolatalı Meyveli Pasta (6 Kişilik),"66,00 TL",Pastalar (6 Kişilik),5.0
+58397914-d356-4a1a-92e0-55497fd20942,Çikolatalı Pasta (6 Kişilik),"66,00 TL",Pastalar (6 Kişilik),6.0
+21eadc31-b999-4406-b4dc-6c1a8246201c,Tulumba Tatlısı (250 gr.),"12,50 TL",Kiloluk Tatlılar (250 gr.),11.0
+d19abe9f-817b-4f6a-8d78-522c95e02fa3,Çikolatalı Ekler (500 gr.),"30,00 TL",Kiloluk Tatlılar (500 gr.),-4.0
+bb0020c7-ad72-4b30-bdfb-3c304a098842,Çikolatalı Ekler (1 kg.),"50,00 TL",Kiloluk Tatlılar (1 kg.),-4.0
+4d0b4f5a-98bc-4cf8-96ad-4583387abbe4,Un Kurabiyesi (250 gr.),"12,50 TL",Kiloluk Kuru Pastalar (250 gr.),5.0
+31ecd7c6-0dd0-459b-a262-ea4f75af5ea2,Susamlı Çubuk Kurabiye (250 gr.),"10,00 TL",Kiloluk Kuru Pastalar (250 gr.),5.0
+50747A2F-DBD7-4C63-A801-FF2AD019A016,Kavala Kurabiyesi (250 gr.),"13,00 TL",Kiloluk Kuru Pastalar (250 gr.),5.0
+415BF94E-971C-4452-B3E0-1FF01E2137A1,Tahinli Kurabiye (250 gr.),"13,00 TL",Kiloluk Kuru Pastalar (250 gr.),6.0
+59D9D2F3-FF36-419E-8C0E-06E0658856EC,Cevizli Kurabiye (250 gr.),"14,00 TL",Kiloluk Kuru Pastalar (250 gr.),7.0
+4f2ea9dc-ecba-47a4-8981-9100443e05fa,Tuzlu Kuru Pasta (500 gr.),"20,00 TL",Kiloluk Kuru Pastalar (500 gr.),5.0
+9c2ed73f-bd2e-4540-9d78-e86cd0350f8c,Tatlı Kuru Pasta (500 gr.),"20,00 TL",Kiloluk Kuru Pastalar (500 gr.),7.0
+241be712-ad3a-4aa4-aca8-fcc2bf4104e8,Un Kurabiyesi (500 gr.),"25,00 TL",Kiloluk Kuru Pastalar (500 gr.),5.0
+4daad792-f1fb-461a-9e77-0d66f7d3ba5a,Susamlı Çubuk Kurabiye (500 gr.),"18,00 TL",Kiloluk Kuru Pastalar (500 gr.),5.0
+4ACB84FE-2034-4450-9355-CE2C01781540,Kavala Kurabiyesi (500 gr.),"26,00 TL",Kiloluk Kuru Pastalar (500 gr.),5.0
+048E7009-3EAE-44FB-A1B0-906B877A0CFB,Tahinli Kurabiye (500 gr.),"26,00 TL",Kiloluk Kuru Pastalar (500 gr.),6.0
+DE9D7619-1FC4-4BC6-A87E-11E54431B36F,Tarçınlı Kurabiye (500 gr.),"24,00 TL",Kiloluk Kuru Pastalar (500 gr.),5.0
+D9C0F95F-DD0E-4313-8D12-370CA14247F5,Cevizli Kurabiye (500 gr.),"28,00 TL",Kiloluk Kuru Pastalar (500 gr.),7.0
+fe667355-40cc-467d-8bc1-307a398cdaea,Tatlı Kuru Pasta (1 kg.),"40,00 TL",Kiloluk Kuru Pastalar (1 kg.),7.0
+5c0db0a7-e7b2-42a1-8e41-3107aa5d060e,Un Kurabiyesi (1 kg.),"50,00 TL",Kiloluk Kuru Pastalar (1 kg.),5.0
+26770fee-f342-4d45-94c7-56d587217d50,Susamlı Çubuk Kurabiye (1 kg.),"35,00 TL",Kiloluk Kuru Pastalar (1 kg.),5.0
+7AC11CC8-532D-45A2-B4D6-AA3F5F6A4856,Kavala Kurabiyesi (1 kg.),"50,00 TL",Kiloluk Kuru Pastalar (1 kg.),5.0
+497A293D-F163-4C77-B40C-68BFA9878068,Tahinli Kurabiye (1 kg.),"50,00 TL",Kiloluk Kuru Pastalar (1 kg.),6.0
+3274470F-939E-46DB-86D6-DFED2D9D91B2,Tarçınlı Kurabiye (1 kg.),"45,00 TL",Kiloluk Kuru Pastalar (1 kg.),5.0
+2bdafbe8-31a7-426b-a9fd-0f4d5013c679,Tuzlu Kuru Pasta (1 kg.),"40,00 TL",Kiloluk Kuru Pastalar (1 kg.),5.0
+3572a5a9-cb9a-4628-a0ba-3f190a3f1125,Kakaolu Maraş Dondurması (500 gr.),"30,00 TL",Kiloluk Dondurmalar (500 gr.),7.0
+cf63eb3b-80ea-4077-b3b2-4a9ce028fdb6,Maraş Çilekli Dondurma (500 gr.),"30,00 TL",Kiloluk Dondurmalar (500 gr.),9.0
+6a62e35c-b6d8-46a8-a305-a87c8443b44e,Maraş Karamelli Dondurma (500 gr.),"30,00 TL",Kiloluk Dondurmalar (500 gr.),9.0
+8828d2e9-ea82-4e0f-ab54-949a20af0cab,Maraş Karışık Dondurma (500 gr.),"30,00 TL",Kiloluk Dondurmalar (500 gr.),9.0
+ea0cd522-a0a6-447b-868b-3f679db46dc3,Maraş Böğürtlenli Dondurma (1 kg.),"50,00 TL",Kiloluk Dondurmalar (1 kg.),9.0
+582893d2-cca3-4ba2-ae0d-6d5a257fe59c,Maraş Karışık Dondurma (1 kg.),"50,00 TL",Kiloluk Dondurmalar (1 kg.),9.0
+8a157006-74d6-41a0-876c-7b82fa5324f8,Kakaolu Maraş Dondurması (1 kg.),"50,00 TL",Kiloluk Dondurmalar (1 kg.),7.0
+6de657c8-b816-4ced-bbe1-497c0e160b01,Karamelli Dondurma (1 kg.),"50,00 TL",Kiloluk Dondurmalar (1 kg.),9.0
+6965fd58-4f2c-4cd6-9756-298fb2f21689,Sade Dondurma (1 kg.),"50,00 TL",Kiloluk Dondurmalar (1 kg.),14.0

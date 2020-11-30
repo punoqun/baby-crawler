@@ -1,0 +1,47 @@
+food_id,food_name,food_price,food_category,food_score
+9faa5a92-dc2d-4adb-942b-d0420ca40b78,Tavuk Çevirme (Çeyrek) Menü,"30,00 TL",Günlük Menüler,8.0
+90c42ebe-4b32-4bce-8bd2-4b5326b8c36b,Sporcu Menü 1,"48,00 TL",Günlük Menüler,4.0
+59B448A3-70EB-4C6B-AD8D-D440E4F073F7,Tavuklu Pilav Menü,"30,00 TL",Günlük Menüler,-2.0
+B9C59E23-59E0-4E82-B7C4-C6CCEDBF9E52,Nohutlu Pilav Menü,"27,00 TL",Günlük Menüler,-1.0
+6C38E0EE-D74D-4B0D-A574-370C9030B567,Nohutlu Tavuklu Pilav Menü,"31,00 TL",Günlük Menüler,-3.0
+9092340B-AB91-4CDF-A888-D130AD61402B,Kuru Fasulyeli Pilav Menü,"27,00 TL",Günlük Menüler,0.0
+6B5564B6-FB65-4D2D-931B-D4F40A27CBA7,Kavurmalı Pilav Menü,"36,00 TL",Günlük Menüler,0.0
+40C12841-59BA-4B5D-BC0E-DD1893C3A922,Kuru Fasulye Menü,"33,00 TL",Günlük Menüler,3.0
+3F4BFA03-DB1A-46F5-9843-5A61360EA0A7,Tavuk Sote Menü,"32,00 TL",Günlük Menüler,7.0
+d847c155-e7e1-482e-b15b-c324b8c5a818,Tavuk Yemeği Menü,"30,00 TL",Günlük Menüler,6.0
+03dc1ac4-8a0e-4fe2-a74d-58412f1ffc78,Arnavut Ciğeri,"24,00 TL",Günlük Ev Yemekleri,5.0
+0a7a92eb-2fad-40d9-b0e5-14ea5fc8b17b,Kuru Fasulye,"15,00 TL",Günlük Ev Yemekleri,5.0
+142d83e7-eaaa-4281-92d3-97b653f8daf7,Patates Oturtma,"20,00 TL",Günlük Ev Yemekleri,5.0
+8a1954b3-d5ac-4539-8f9e-fda1881f3b23,Kabak Dolması,"20,00 TL",Günlük Ev Yemekleri,5.0
+a3de0b65-a893-4045-8b07-06872a0e93cc,Karnıyarık,"22,00 TL",Günlük Ev Yemekleri,5.0
+aef66f2c-b129-4b3c-b96a-b259027a1d58,Etli Yaprak Sarma,"24,00 TL",Günlük Ev Yemekleri,5.0
+b0cacf90-9279-4f2f-b076-050fabd59931,Tas Kebabı,"24,00 TL",Günlük Ev Yemekleri,5.0
+baa37cae-75b8-4c63-89bc-fb6870dabef2,Tavuk Haşlama,"20,00 TL",Günlük Ev Yemekleri,9.0
+bbea987c-6cce-45c2-841e-8bdc06e827ef,Et Kavurma,"28,00 TL",Günlük Ev Yemekleri,5.0
+bc626691-f142-43fb-987b-3bfcb909baa1,Et Haşlama,"28,00 TL",Günlük Ev Yemekleri,5.0
+c319f389-68de-45a4-ae05-541b4c18ee62,Nohut,"15,00 TL",Günlük Ev Yemekleri,4.0
+b531e261-8337-43f7-b4cc-d9f5a6c05d04,Etli Lahana Sarma,"24,00 TL",Günlük Ev Yemekleri,5.0
+f73fa8a6-4e5c-41f9-8630-222387ff5580,Mantarlı Tavuk Sote,"20,00 TL",Günlük Ev Yemekleri,9.0
+afdf7968-e82e-4174-9bd0-f65fa20aec77,Karışık Dolma,"22,00 TL",Günlük Ev Yemekleri,5.0
+27e57acb-cec0-4699-8c15-3526dcc582a8,Musakka,"15,00 TL",Günlük Ev Yemekleri,5.0
+f0a5cd2e-80b6-43b2-9c24-804a1bbea887,Sebzeli Köfte,"20,00 TL",Günlük Ev Yemekleri,5.0
+9977b99f-7bd7-4868-bacd-aaaa91304c8b,Rosto Köfte,"24,00 TL",Günlük Ev Yemekleri,5.0
+c06c16ee-3ab3-4769-b121-90258412e419,Fırında Tavuk Kanat,"17,00 TL",Günlük Ev Yemekleri,9.0
+88d749eb-d72f-492c-afc6-f9651ec63c12,Tavuk Çevirme (Yarım),"17,00 TL",Tavuklar,15.0
+5E41D284-2AC6-4D9D-978B-B877C5812264,Bütün Tavuk Menü,"54,00 TL",Tavuklar,7.0
+3EC6D1A4-0D2E-4938-AB88-E9EF19B57535,Yarım Tavuk Menü,"33,00 TL",Tavuklar,9.0
+51a8332e-163c-423c-94c2-d86e802b6702,Tavuk Çevirme (Tam),"29,00 TL",Tavuklar,15.0
+9ac4c5be-bf4d-43d6-9760-ae255cfdd5ad,Soslu Tavuk Çevirme (Yarım),"22,00 TL",Tavuklar,10.0
+8e8e4d29-d9b8-448b-876c-ff937a0b2b66,Soslu Tavuk Çevirme (Tam),"33,00 TL",Tavuklar,10.0
+2f2a2245-01a7-46f8-893a-e0f1834893d3,Pirinç Pilavı (300 gr.),"12,00 TL",Pilavlar,5.0
+ebcbf5a5-9ca9-430b-9135-c8bf5514e4b1,Tavuklu Pilav,"16,00 TL",Pilavlar,5.0
+e7f9de46-638a-4db1-9ee2-d2c84e5504f1,Nohutlu Pilav,"15,00 TL",Pilavlar,1.0
+0ce3e768-cdc9-4b03-9e68-f96925bc6691,Etli Pilav,"25,00 TL",Pilavlar,2.0
+85496d2e-5894-49b1-9c34-3d72063e2352,Turşu,"8,00 TL",Yan Ürünler,5.0
+db685e1d-aab7-41a7-8f14-d31b5a1d3644,Cacık,"10,00 TL",Yan Ürünler,5.0
+0f275f88-0734-4c0d-bba0-1624030a43cb,Yoğurt,"8,00 TL",Yan Ürünler,5.0
+25850272-953e-4d73-94b1-2cbce9d35940,Pirinç Pilavı (160 gr.),"8,00 TL",Yan Ürünler,5.0
+664a7d17-1130-41ef-b063-ac63c21763ec,Mevsim Salata,"8,00 TL",Salatalar,7.0
+7C900D16-45CE-4E6F-9B87-666F3796DC91,İrmik Helvası,"12,00 TL",Tatlılar,6.0
+668ef7b6-4405-4162-8bb6-c7117bc11184,Sütlaç,"14,00 TL",Tatlılar,5.0
+c12585f9-46b7-4ece-8aac-1f15cf1efc08,Poşet,"0,25 TL",Poşet,5.0

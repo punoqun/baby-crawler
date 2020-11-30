@@ -1,0 +1,39 @@
+food_id,food_name,food_price,food_category,food_score
+9BFA2131-0878-4DF4-8014-BBE9D84464E3,Fırsat Burger Menü,"55,50 TL",Menüler,12.0
+78d0d7a9-0b05-48b5-9063-f16da7192fef,Pony Express Pizza (30 cm.),"38,25 TL",Pizzalar,2.0
+b91048cb-78ab-4c79-bcc3-afe6b27809a8,King Pasific Pizza (30 cm.),"45,00 TL",Pizzalar,1.0
+47916bea-df60-48c2-b38d-a26d95aa035a,Cheese Lovers Pizza (30 cm.),"35,25 TL",Pizzalar,2.0
+f99dd973-9d60-4a56-8b32-1d6777905074,El Paso BBQ Pizza (30 cm.),"35,25 TL",Pizzalar,18.0
+1d0a9a34-feac-4c67-9385-73dcb0437c8b,El Paso Steak Pizza (30 cm.),"48,00 TL",Pizzalar,19.0
+76a63e41-6c39-4f6a-9ae1-d1c2215b0e94,El Paso Favourite Pizza (30 cm.),"39,75 TL",Pizzalar,18.0
+bef272ea-e0be-4abc-90eb-0dcd61339844,Poohawh American Burger,"27,00 TL",Burgerler,11.0
+6b67da52-8459-4ac1-8c16-270d8c210f76,Wells Fargo Burger,"27,75 TL",Burgerler,11.0
+3468d1bc-c13b-4869-a2db-07300b43de84,Izgara Tavuklu Burger,"28,50 TL",Burgerler,11.0
+062a2e05-8a89-4ad5-9a3f-8c4d0a10474c,Yellow Rose Burger,"28,50 TL",Burgerler,15.0
+62ffa2f0-3b4c-44b9-be2b-0b3a9d1828eb,New York Eggstasy Boy Burger,"30,75 TL",Burgerler,11.0
+66d90632-4203-481c-8bca-23175dad526c,Apachi Kid Burger,"31,50 TL",Burgerler,11.0
+deff2e01-1bf4-41fb-8a8b-de94488ced95,Ringo Lobo Burger,"34,50 TL",Burgerler,11.0
+e0ba305c-4a02-4df4-acc1-4a88d577d79f,Moab Burger,"39,00 TL",Burgerler,11.0
+29fb97da-92d5-4e07-8653-2fe4e3d1b07f,Double Cheeseburger,"40,50 TL",Burgerler,3.0
+10aaee85-fe45-4e02-94ef-304fae51a3e2,Billy The Kid Burger,"41,25 TL",Burgerler,13.0
+aedbb799-8a98-4846-b6d7-f78639a52090,Mexican Burger,"31,50 TL",Burgerler,13.0
+1c91e599-77e2-4582-95cc-26098cec995f,Fettuccine Pollo,"27,00 TL",Makarnalar,10.0
+7bb9c912-816b-4bfb-a395-b58c674b85ee,Macaroni And Cheese,"25,50 TL",Makarnalar,10.0
+EA5E648A-C1C5-4AB2-BC09-A9B7264A7C9F,Penne Arrabbiata,"28,50 TL",Makarnalar,5.0
+bdfa1d1d-8dbb-4690-be20-8725db0a7dbf,Spaghetti Bolognese,"24,00 TL",Makarnalar,6.0
+265d5c0f-8ec6-417e-8725-5030974c315b,Cheese Salad,"30,75 TL",Salatalar,5.0
+3e0c344b-dec5-46ab-a9ee-4ecd214b6db9,Cezar Salad,"30,75 TL",Salatalar,5.0
+afb51a6b-d899-4a80-a750-3056ae4cf761,Tuna Fish Salad,"34,50 TL",Salatalar,5.0
+71253dfa-7f0f-4501-b952-2c93d0d913bf,Steak Salad,"42,75 TL",Salatalar,6.0
+cd935417-adbb-4d59-bca1-c53ec1511fe8,Garlic Bread,"14,25 TL",Yan Ürünler,5.0
+69f0c7d3-68c9-4620-a139-a15d7b4770e4,French Fried Potatoes,"14,25 TL",Yan Ürünler,5.0
+9fb8e909-7c90-4b00-9ff2-4312ba929222,American Potatoes,"15,00 TL",Yan Ürünler,5.0
+0fd595ce-a335-4196-8db6-9fa86c67ada6,Drunken Onion Rings,"19,50 TL",Yan Ürünler,5.0
+a6ccdd00-b4bf-4be4-b618-b8660983b640,Fried Sausage,"23,25 TL",Yan Ürünler,5.0
+038329d9-8695-491f-8925-1e8444d40c90,Chicken Cips,"21,75 TL",Yan Ürünler,4.0
+e99fa3da-3a7b-485a-8be1-aebdf29c6bc9,Mixed Apperative Plate,"42,75 TL",Yan Ürünler,5.0
+2875cbc5-75da-4bfb-b17d-3ff995f0ace3,Eker Kazandibi,"5,25 TL",Tatlılar,5.0
+50e3b549-732e-4f1d-809a-074217fda9a1,Eker Sütlaç,"5,25 TL",Tatlılar,5.0
+2aafc765-e984-4ed2-92c2-593334663886,Eker Çikolatalı Puding,"5,25 TL",Tatlılar,5.0
+8eb42462-461f-450a-a4f1-bf9ac10f6b36,Eker Keşkül,"5,25 TL",Tatlılar,5.0
+b524b014-ff04-492b-a55a-07167b97fe13,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,44 @@
+food_id,food_name,food_price,food_category,food_score
+0C70E5FF-8B66-40B1-8A21-52A393CCA474,Çınar Eğlence Sepeti Menü,"37,00 TL",Menüler,5.0
+6725AE1F-59FC-45C1-B382-C77F718B61A0,Margherita Pizza & Karışık Pizza Menü,"62,00 TL",Menüler,5.0
+034F727E-BE08-4CFC-9971-961401FEE337,Çınar Special Pizza Menü,"39,00 TL",Menüler,5.0
+9DE5AFC4-3C98-4008-974F-559A74DAE63F,Çınar Special Pide Menü,"40,00 TL",Menüler,3.0
+8B2DD3FA-9C8D-4EE5-BAFF-EAEB355F127D,Kavurmalı Pide (Kapalı) Menü,"37,00 TL",Menüler,3.0
+E3324994-DEAA-4A03-8B65-733C5F9047EC,Kuşbaşılı Pide & Kıymalı Pide Menü,"49,00 TL",Menüler,4.0
+DB226E1F-90AE-4124-BD11-71C8A62F369F,Tavuklu Salata Menü 2,"33,00 TL",Menüler,1.0
+EF2145CD-CE8D-4AFC-A8E9-13902EE55FA0,Tavuk Şiş Menü,"28,00 TL",Menüler,8.0
+5197C427-B7DA-41F6-9AA1-91ED39BA1C16,Bonfileli Wrap Menü,"35,00 TL",Menüler,5.0
+EC8C7636-60D4-4D40-A394-4B48E7849521,Köfteli Wrap Menü,"35,00 TL",Menüler,5.0
+F6CEA15F-DA39-41A1-85B9-8C52E9F4609A,Tavuk Burger Menü,"28,00 TL",Menüler,8.0
+8BCE3FF4-DD80-4D7E-B429-4E2F30D8F1EF,Tost Menü,"20,00 TL",Menüler,5.0
+9C8E1AE3-3A4E-4E2B-B850-41A8718D352A,Bazlama Tost Menü,"23,00 TL",Menüler,5.0
+8C1E9177-1B3F-4700-B3DC-A088CAC4647B,Gözleme Menü,"17,00 TL",Menüler,5.0
+30440641-594b-407a-9126-cb89774da606,Cheeseburger Menü,"30,00 TL",Menüler,11.0
+b0661bd6-c27d-4c07-8897-f13eb6fab19b,Karışık Pizza (1 Kişilik) Menü,"35,00 TL",Menüler,5.0
+95e460f8-95e9-4c41-946e-40756a3dc706,Kıymalı Kaşarlı Pide Menü,"27,00 TL",Menüler,5.0
+0c8edc50-a5a1-4ab5-920d-f8a93b234170,Kuşbaşılı Pide Menü,"28,00 TL",Menüler,3.0
+8fa2f2a2-1d9c-484c-a630-7d4310e7ebc7,Lahmacun Menü,"16,00 TL",Menüler,5.0
+4adf9d99-a3da-46c7-b731-fc4e9774c324,Izgara Köfte Menü,"44,00 TL",Menüler,6.0
+0d57876a-798a-4320-953d-43e4ca97b98b,Et Döner Dürüm Menü,"28,00 TL",Menüler,4.0
+14c780f6-9def-481e-8eb2-6f130c6f03ba,Tavuk Döner Dürüm Menü,"20,00 TL",Menüler,8.0
+45d9b586-2389-4eb9-83a2-1d55417e1d9d,Etli Wrap Menü,"35,00 TL",Menüler,5.0
+8bb8318d-e5a0-4b0e-a1d9-70eabfa8b076,Tavuklu Wrap Menü,"30,00 TL",Menüler,10.0
+a5ae60ca-4e92-4456-ba42-e72bc636c112,Köri Soslu Tavuk Menü,"46,00 TL",Menüler,6.0
+3611a2bd-8119-4a2e-a65c-9fc17d85c797,Barbekü Soslu Tavuk Menü,"46,00 TL",Menüler,8.0
+5d35efd0-4b0b-4263-9122-881caedec26b,Hızlı Kahvaltı Menü,"25,00 TL",Menüler,10.0
+87c6a13c-3117-4165-8925-b1fb500e8e26,Börek Menü,"23,50 TL",Menüler,2.0
+cf6c6ac4-b0ec-47f5-bd2e-dd6adda6b14a,Pasta Menü,"21,00 TL",Menüler,7.0
+64966205-6650-43cb-a753-2a9d8e405777,Waffle Menü,"27,50 TL",Menüler,10.0
+66e1408c-ea70-4f1b-a6ae-d0b28659c39f,Supangle,"17,00 TL",Tatlılar,5.0
+00962d89-359a-46eb-81e7-7c08a65d1315,Profiterol,"17,00 TL",Tatlılar,5.0
+fb6a8965-45b8-4aa4-ac0a-3fbd4a0f9fb1,Sütlaç,"15,00 TL",Tatlılar,6.0
+309258BB-6D43-4DA1-BEF6-2FBB2C2F203E,Alman Pastası,"9,00 TL",Tatlılar,6.0
+B09DB5E1-8ACE-4AD9-A1C7-A5B0D849F88B,Büyük Ekler,"9,00 TL",Tatlılar,2.0
+9A12AE36-F317-4C63-B2BC-29D14FAB653B,Red Bull (25 cl.),"8,00 TL",İçecekler,6.0
+8965EB55-E401-4424-AB5E-B83B4D07D040,Dark Blue (25 cl.),"6,75 TL",İçecekler,5.0
+24C06CE2-B5F0-4C28-BB95-4DA730B2F08A,Nescafe Xpress Orjinal (25 cl.),"8,00 TL",İçecekler,5.0
+a212b7a5-f216-4fff-81d1-f79fafd4685d,Su,"2,00 TL",İçecekler,6.0
+7acd1184-ff49-4170-8ced-fa9a867e5192,Kalbura Bastı (1 kg.),"23,00 TL",Kiloluk Tatlılar,5.0
+1459b60f-88ed-4777-baaf-7f22c6bb3fff,Şekerpare (1 kg.),"23,00 TL",Kiloluk Tatlılar,6.0
+39fecb4b-ecd8-4c20-8287-db28e63d6412,Cevizli Ev Baklavası (1 kg.),"60,00 TL",Kiloluk Tatlılar,5.0
+24d5875a-8d8c-4340-9891-82666a7e2df7,Fıstıklı Baklava (1 kg.),"65,00 TL",Kiloluk Tatlılar,7.0

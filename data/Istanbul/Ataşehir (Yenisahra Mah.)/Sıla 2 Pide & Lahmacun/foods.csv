@@ -1,0 +1,43 @@
+food_id,food_name,food_price,food_category,food_score
+10e8803b-1994-4ece-a79a-d8d31d49d74d,Menü 1,"80,00 TL",Menüler,23.0
+ddd77f32-d1de-4ccd-b6bb-0cb1be879f07,Fındık Lahmacun,"5,00 TL",Lahmacunlar,36.0
+8b4adabe-d2fd-4b40-8731-2d9d074a7474,İsotlu Lahmacun,"9,00 TL",Lahmacunlar,36.0
+cc8e8330-0e46-41b8-b69e-12f373f5ec78,Sarımsaklı Antep Lahmacun,"9,00 TL",Lahmacunlar,45.0
+AF243E90-11D9-45AA-9F64-988C95C5145D,İsotlu Urfa Lahmacun,"9,00 TL",Lahmacunlar,37.0
+01b73534-8cfc-4b7a-879a-90ebc4333866,Lahmacun,"8,00 TL",Lahmacunlar,41.0
+45e6c0f9-4588-4518-a62e-8348844a022b,Kaşarlı Lahmacun,"10,00 TL",Lahmacunlar,39.0
+80e13706-85f8-473d-a0e2-3e151d0173f1,Kaşarlı Pide,"22,00 TL",Pideler,3.0
+666e48bd-aadb-42f8-91bc-4e73df1e03ac,Tavuklu Pide,"22,00 TL",Pideler,5.0
+3c1e4b68-95b5-4d4e-abdd-c0263065d44a,Kaşarlı Mantarlı Pide,"25,00 TL",Pideler,4.0
+0ca39ed0-70cd-4abd-8c6c-c1358d858ec4,Kıymalı Pide,"24,00 TL",Pideler,5.0
+dbe9846d-1780-4055-ad80-53e2a9eac5e3,Sucuklu Pide,"25,00 TL",Pideler,5.0
+62eafb2f-4cde-4c57-90b5-e2106000f0dc,Kıymalı Kaşarlı Pide,"26,00 TL",Pideler,3.0
+2356dbe0-d60a-4970-8b51-3e5648375d5c,Kuşbaşılı Pide,"25,00 TL",Pideler,5.0
+db3ec060-a726-4064-84dc-e55221eaec19,Sucuklu Kaşarlı Pide,"25,00 TL",Pideler,3.0
+bf1a3dcb-2934-4346-bd09-6782cce57a7b,Kuşbaşılı Kaşarlı Pide,"27,00 TL",Pideler,3.0
+8456849d-0d89-4ded-92a8-daa089868230,Karışık Pide,"27,00 TL",Pideler,7.0
+9be7ac0e-93c5-4b0f-bc6c-695b46b2956e,Kavurmalı Kaşarlı Pide,"27,00 TL",Pideler,2.0
+a619ee3d-79cc-420e-8a5c-c8102850615d,Kavurmalı Pide,"27,00 TL",Pideler,4.0
+1e7b71e0-3fd2-4ada-af05-dd90fe9b1a7b,Çiğ Köfte Dürüm,"7,00 TL",Çiğ Köfteler,8.0
+36CB8379-239E-44D4-8C07-91BEF87C02B2,Çiğ Köfte (24 Sıkım),"27,00 TL",Çiğ Köfteler,8.0
+F6671541-19B4-4D91-98AF-48008C6D33C2,Çiğ Köfte (8 Sıkım),"9,00 TL",Çiğ Köfteler,8.0
+c7cc6cc7-3e3e-40cc-ab2a-240b5784f3ba,Çiğ Köfte (16 Sıkım),"17,00 TL",Çiğ Köfteler,8.0
+8d8c7185-079a-457e-b4d2-6a2de56a71c1,Sütlaç,"9,00 TL",Tatlılar,5.0
+e9564ba8-4f3f-41b5-82b1-7a9829fc08fa,Kazandibi,"9,00 TL",Tatlılar,5.0
+fb46903b-cc06-4e23-ae29-dff7878dcf20,Supangle,"9,00 TL",Tatlılar,5.0
+b19771cf-fe53-4fae-a746-387f6f669bb3,Profiterol,"9,00 TL",Tatlılar,5.0
+f30d057a-c9e2-4e57-bcce-1596ca20396d,Künefe,"15,00 TL",Tatlılar,5.0
+01ac4078-9fd0-43e1-b854-7582776620f4,Katmer,"18,00 TL",Tatlılar,5.0
+7f21e8e4-81f8-4d38-93f7-6212c89e8072,Algida Maraş Usulü Cup Dondurma (100 ml.),"6,00 TL",Dondurmalar,5.0
+5ac39ddf-86c0-409a-bc8f-5b6d09f18193,Algida Maraş Usulü Dilim Dondurma (82 ml.),"6,00 TL",Dondurmalar,5.0
+831321db-e0e0-40e1-ae79-7b30162c2d3f,Algida Carte d'Or Mini Cup Çilekli Yoğurtlu (110 ml.),"7,00 TL",Dondurmalar,5.0
+3e87ce9c-3053-4095-bf10-af689207e382,Algida Carte d'Or Mini Cup Çikolata Karnavalı (110 ml.),"7,00 TL",Dondurmalar,5.0
+2b083647-ba91-42ee-8a58-5d76b9ed0082,Carte d'Or Premium Çikolata Cup (100 ml.),"8,00 TL",Dondurmalar,5.0
+276152ab-3994-452e-8030-364484fc0278,Carte d'Or Premium Kaymak Cup (100 ml.),"8,00 TL",Dondurmalar,5.0
+0203118f-9ea0-4609-ae68-ab7a888bc1d5,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"13,00 TL",Dondurmalar,5.0
+0dadccbd-d237-406e-8b52-1c94c04bc0a0,Algida Maraş Dondurmalı Supangle,"13,00 TL",Dondurmalar,5.0
+db98ffbe-c508-4ed2-9df1-09d9f08d3491,Algida Carte d'Or Volcano Cup,"14,00 TL",Dondurmalar,5.0
+955c35a0-1e91-4af4-874a-ccca76f32d6c,Algida La Gelateria Kaymak - Çikolata - Karadut,"40,00 TL",Dondurmalar,30.0
+e5d4141a-6577-47fd-b20c-0e193df3e0e8,Algida La Gelateria Kaymak - Çikolata - Fıstık,"40,00 TL",Dondurmalar,30.0
+24848BF1-BB9E-4A82-B6AC-49C58EAC9EE1,"Fanta (2,5 L.)","13,00 TL",İçecekler,5.0
+0be61c32-76d6-40d8-b4d2-931288916d04,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,45 @@
+food_id,food_name,food_price,food_category,food_score
+ae538113-6f4d-4d15-9db5-c1be659bca9c,Kaşarlı Tost,"12,00 TL",Tostlar,13.0
+1c15dbe0-5188-4c9a-bf77-254e3bfce781,Beyaz Peynirli Tost,"14,00 TL",Tostlar,13.0
+1e503235-13a5-4694-8a9d-966f0a43fe9b,Kaşarlı Yumurtalı Tost,"14,00 TL",Tostlar,13.0
+f849e229-d092-42c7-8078-3333bdc2ba97,Kaşarlı Patates Kızartmalı Tost,"14,00 TL",Tostlar,20.0
+8797b445-b309-4c03-a5a3-a97ed35da88b,Karışık Tost,"15,00 TL",Tostlar,18.0
+e583be41-07b6-472f-a9ae-3157041b21d9,Patatesli Yumurtalı Tost,"16,00 TL",Tostlar,13.0
+5789a308-6359-4709-9f0c-f5065621cdda,Sosisli Yumurtalı Tost,"16,00 TL",Tostlar,13.0
+ec34d2d0-bd74-47bd-826a-24415ad75fd1,Goralı Tost,"16,00 TL",Tostlar,13.0
+22103230-6393-4cce-b4d1-07a63083ba0d,Sucuklu Yumurtalı Tost,"17,00 TL",Tostlar,13.0
+5e5b5ce8-f354-4ebd-ada1-d06a550a6e24,Sucuklu Sosisli Tost,"16,00 TL",Tostlar,13.0
+9367a577-eccf-451c-8101-9d3753513ded,Közledim Tost,"17,00 TL",Tostlar,13.0
+30b7c3d2-23ac-40ba-a076-3c65cc254b8c,Sucuklu Cheddarlı Tost,"16,00 TL",Tostlar,13.0
+5253b418-570e-4176-9b13-f6568608186b,Tavuklu Tost,"20,00 TL",Tostlar,13.0
+dcdf375e-07e1-4e9f-95b8-2c7f675fef4d,Margherita Tost,"19,00 TL",Tostlar,13.0
+6508973a-60d2-49af-8811-e6f6948d84a2,Dört Peynirli Tost,"19,00 TL",Tostlar,13.0
+7ab98b46-cd41-4190-8dba-e7168d631bf5,Russian Tost,"20,00 TL",Tostlar,13.0
+48edce6e-708f-4353-a0bf-d901d1080121,Ultra Karışık Tost,"20,00 TL",Tostlar,18.0
+cad78dd2-44de-4170-b65d-6bee14d36069,Kokoş Tost,"20,00 TL",Tostlar,13.0
+85fe8ec5-bbc9-4bda-aa94-56b014fe581f,Double 3'lü Tost,"20,00 TL",Tostlar,13.0
+0db26c80-7e6f-4cdf-a243-8614a9271bb5,Kavurmalı Yumurtalı Tost,"26,00 TL",Tostlar,12.0
+a5d9c4f3-eb31-4a91-b379-7df6d1fe973d,Süper Kavurmalı Tost,"28,00 TL",Tostlar,14.0
+983cb7d6-5e5d-416a-8ba5-ca0f142bf0f8,Kavurmalı Tost,"25,00 TL",Tostlar,12.0
+409e3951-6f0c-4cc4-9fa5-22281c00c717,Sosisli Sandviç,"9,00 TL",Sandviçler,5.0
+3282A085-6306-4B39-B5F3-44EF733D7944,Yengen Kumru,"14,00 TL",Sandviçler,5.0
+94922D87-B6E7-4336-A13F-2F72246773E2,Kaşarlı Kumru,"12,00 TL",Sandviçler,5.0
+B2E060FC-C3E9-444A-87AA-027CE384EAE6,Kokoş Kumru,"17,00 TL",Sandviçler,5.0
+ee8eb53d-6a3d-46e2-aff8-1faae901f259,Patso Sandviç,"10,00 TL",Sandviçler,5.0
+43a9b92f-fed1-4279-9a93-daed1ab8caf1,Sosisli Patso Sandviç,"12,00 TL",Sandviçler,5.0
+3a83484c-07ef-4eed-a2ea-ec04b1b7cfd8,Beyaz Peynirli Sandviç,"15,00 TL",Sandviçler,5.0
+283d8a0d-9064-4288-9c68-0bf1502d6500,Schnitzel Sandviç,"15,00 TL",Sandviçler,7.0
+b31a58d7-bba5-457d-9c85-940dfe271eca,Dana Jambonlu Sandviç,"18,00 TL",Sandviçler,5.0
+9708df51-f436-4cec-b75c-47e2b64d650a,Sucuklu Sandviç,"20,00 TL",Sandviçler,5.0
+C3C64B14-C2B3-4060-8472-769E36E9D983,Peynir Sticks,"10,95 TL",Yan Ürünler,4.0
+0502a942-3543-458e-8635-c5c2362a41bc,Patates Kızartması,"10,00 TL",Yan Ürünler,7.0
+0fadb8f0-c8f7-441c-aa1b-1bf8bb834164,Soğan Halkası (8 Adet),"12,00 TL",Yan Ürünler,5.0
+782dd50e-bd96-49f8-ac62-242ce0a17cfa,Sosis Tabağı,"12,00 TL",Yan Ürünler,5.0
+762d9a3b-73ac-41bc-b575-2b2b02c90d50,Çıtır Tavuk Tabağı,"14,00 TL",Yan Ürünler,5.0
+6c63fa44-957b-4bd1-92a7-7db345a2a625,Tavuk Schnitzel,"14,00 TL",Yan Ürünler,7.0
+3ed60eb7-2d36-4713-91bc-9eda4de1837f,Tostladım Spesiyal,"20,00 TL",Yan Ürünler,5.0
+20098898-77c8-4003-bbc9-a46c1d9d4daf,Magnum Cup,"13,00 TL",Dondurmalar,5.0
+603e7b41-905e-4eba-aeed-eb7632c70d0d,Algida Maraş Usulü Cup Dondurma (100 ml.),"6,00 TL",Dondurmalar,5.0
+dc9fa7f8-be43-4285-91e6-69d1931a88fc,Carte d'Or Monoportion Çilek Yoğurt (105 ml.),"7,00 TL",Dondurmalar,5.0
+7ecf242d-8a8d-4e17-9b9a-1c6e7d9e30a3,Carte d'Or Monoportion Çikolata Karnavalı (105 ml.),"7,00 TL",Dondurmalar,5.0
+f994aa0f-c268-4905-88b0-fe36c50e8a33,Poşet,"0,25 TL",Poşet,5.0

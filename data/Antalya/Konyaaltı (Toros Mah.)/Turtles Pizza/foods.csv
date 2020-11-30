@@ -1,0 +1,45 @@
+food_id,food_name,food_price,food_category,food_score
+f7af0ec1-971d-491d-a4b2-9aabd8b2b8d4,Burger Pizza (24 cm.),"26,50 TL",Küçük Boy Pizzalar,8.0
+aa8f4a26-c4a2-4896-aac2-5afc4eaa25d5,BBQ Pizza (24 cm.),"26,50 TL",Küçük Boy Pizzalar,6.0
+a4e63bb1-85d1-4ef0-91ff-c76197fc8497,Cannibal Pizza (24 cm.),"26,50 TL",Küçük Boy Pizzalar,8.0
+eb346526-f33c-453b-badb-c28685bae0e6,Cheese Cheddar Pizza (24 cm.),"26,50 TL",Küçük Boy Pizzalar,6.0
+41f33ba6-29a5-468e-a03e-3e0cff91ab87,Ballım Pizza (24 cm.),"26,50 TL",Küçük Boy Pizzalar,6.0
+24d32b63-90fd-4a0c-8e83-92357386c649,Spicy Pizza (24 cm.),"26,50 TL",Küçük Boy Pizzalar,6.0
+34cb1a48-2acd-4f14-9ed0-907bf6f54c7f,Karışık Pizza (24 cm.),"19,50 TL",Küçük Boy Pizzalar,11.0
+d574d483-27ce-49fd-96aa-7009647e150d,Margarita Pizza (24 cm.),"19,50 TL",Küçük Boy Pizzalar,6.0
+d08fff87-a030-4e56-8a32-9e787c1a2d71,Vejetaryen Pizza (24 cm.),"19,50 TL",Küçük Boy Pizzalar,6.0
+cf600ea4-b262-484d-9c2b-1131451c50ee,Royal Pizza (24 cm.),"19,50 TL",Küçük Boy Pizzalar,6.0
+59205950-40d0-4ddd-b7af-42bc9a299b26,4 Peynirli Pizza (24 cm.),"19,50 TL",Küçük Boy Pizzalar,6.0
+8e9c56ac-5bd1-41df-a64c-c88157e1a6db,Bolonez Pizza (24 cm.),"19,50 TL",Küçük Boy Pizzalar,6.0
+bab7079a-9474-4617-9883-b6085192796d,Carzon Pizza (Sufle) (24 cm.),"19,50 TL",Küçük Boy Pizzalar,6.0
+0249bab9-fc9c-4fa5-a64d-fc762d04bcc7,Cheese Cheddar Pizza (30 cm.),"35,50 TL",Orta Boy Pizzalar,6.0
+1e382a2e-da65-4902-83a7-e4efd431c174,Royal Pizza (30 cm.),"24,50 TL",Orta Boy Pizzalar,6.0
+2a81b93e-2ba6-46ff-92b8-e4aa44a9bd3f,BBQ Pizza (30 cm.),"35,50 TL",Orta Boy Pizzalar,6.0
+3e99eef4-a555-420c-ba05-01bc870228ac,Ocean Pizza (30 cm.),"32,50 TL",Orta Boy Pizzalar,6.0
+5a7fd3ae-a207-4086-9753-c85cf89f3a3f,Carzon Pizza (Sufle) (30 cm.),"24,50 TL",Orta Boy Pizzalar,6.0
+731e21f0-89e8-44cb-b055-d7d0acd2aa2f,Karışık Pizza (30 cm.),"24,50 TL",Orta Boy Pizzalar,11.0
+7e025da4-3d78-44f2-ae36-3294e73fc77b,Ballım Pizza (30 cm.),"35,50 TL",Orta Boy Pizzalar,6.0
+802bfdf7-cff6-4457-b119-6f963eefc357,4 Peynirli Pizza (30 cm.),"24,50 TL",Orta Boy Pizzalar,6.0
+86aa671b-fdec-4e4b-9cc3-12a7a41ad029,Somon Pizza (30 cm.),"32,50 TL",Orta Boy Pizzalar,6.0
+9e5935d8-82c4-46e0-bfae-f009f192cfa7,Köri Soslu Pizza (30 cm.),"35,50 TL",Orta Boy Pizzalar,6.0
+ab773989-5cf1-47ae-b3b7-3e7148aadc7d,Bolonez Pizza (30 cm.),"24,50 TL",Orta Boy Pizzalar,6.0
+bcdf1e07-31db-4cfa-94d2-72a3320f16be,Vejetaryen Pizza (30 cm.),"24,50 TL",Orta Boy Pizzalar,6.0
+c3ae28b6-ce16-4a24-9906-b958aff67a14,Burger Pizza (30 cm.),"35,50 TL",Orta Boy Pizzalar,8.0
+e7b7346a-f742-4f92-bb4e-a529bd29d764,Cannibal Pizza (30 cm.),"35,50 TL",Orta Boy Pizzalar,8.0
+008449f4-af19-4816-97ed-c6d1eee2abe3,Karışık Pizza (40 cm.),"39,50 TL",Büyük Boy Pizzalar,11.0
+24c14cac-0229-428b-961d-d1a4fb98f129,Bolonez Pizza (40 cm.),"39,50 TL",Büyük Boy Pizzalar,6.0
+319ca314-8ad6-4369-9133-3cce92a153bf,4 Peynirli Pizza (40 cm.),"39,50 TL",Büyük Boy Pizzalar,6.0
+484f0ea4-1772-4350-9dde-66fbaf2a940d,Margarita Pizza (40 cm.),"39,50 TL",Büyük Boy Pizzalar,6.0
+53dbbf23-4b21-489d-af9b-d1e346dc0e4a,Vejetaryen Pizza (40 cm.),"39,50 TL",Büyük Boy Pizzalar,6.0
+623c0249-7421-4d3c-9e82-af4a58d407dc,Köri Soslu Pizza (40 cm.),"55,50 TL",Büyük Boy Pizzalar,6.0
+630d4d75-4535-49a4-a650-bcfead9c21bf,Cannibal Pizza (40 cm.),"55,50 TL",Büyük Boy Pizzalar,8.0
+67859d73-3863-4da3-854c-0ab281fbaef3,Ballım Pizza (40 cm.),"55,50 TL",Büyük Boy Pizzalar,6.0
+6cacf50b-bea6-43b7-ba3b-f01222d9bc87,Burger Pizza (40 cm.),"55,50 TL",Büyük Boy Pizzalar,8.0
+703ddaa5-fb8b-4655-8e9a-0ee634e7216e,Cheese Cheddar Pizza (40 cm.),"55,50 TL",Büyük Boy Pizzalar,6.0
+87af36a4-ca97-484a-be2f-84a782e8c832,Spicy Pizza (40 cm.),"55,50 TL",Büyük Boy Pizzalar,6.0
+955e2cd8-c8a3-4964-b1e5-988289f9e368,BBQ Pizza (40 cm.),"55,50 TL",Büyük Boy Pizzalar,6.0
+dd606830-9d26-4432-b58d-b309b429bdc2,Carzon Pizza (Sufle) (40 cm.),"39,50 TL",Büyük Boy Pizzalar,6.0
+eb3d9318-0d9b-4d60-831a-60a7a4c0121c,Royal Pizza (40 cm.),"39,50 TL",Büyük Boy Pizzalar,6.0
+32f47540-8bed-4e72-8253-c845772f3c23,Patates Kızartması,"9,90 TL",Yan Ürünler ,5.0
+a08c0a29-ea9b-4bea-8b3c-0d981ae9c086,Soğan Halkası (6 Adet),"9,90 TL",Yan Ürünler ,5.0
+c6a727a3-3dd0-479d-8ef6-274dae4bada0,Elma Dilim Patates Kızartması,"9,90 TL",Yan Ürünler ,5.0

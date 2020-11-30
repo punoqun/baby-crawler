@@ -1,0 +1,41 @@
+food_id,food_name,food_price,food_category,food_score
+B23583EA-A9CC-4596-978C-5B416FDF245E,Susamlı Simit,"2,00 TL",Açmalar & Simitler,4.0
+3F8E64E5-E106-4E79-ABD7-69FB50145735,Peynirli Açma,"3,00 TL",Açmalar & Simitler,10.0
+d95a0a63-63ba-42a8-9c65-bf32b7d500cb,Katmer Tatlısı,"30,00 TL",Tatlılar,-1.0
+bf29ae31-dedb-4561-91d5-ae6d0a410b35,Karamelli Trileçe (Dilim),"6,00 TL",Tatlılar,5.0
+01d86180-808d-4ce6-8b31-a9330a67e4ee,Islak Kek (Dilim),"6,00 TL",Tatlılar,5.0
+e2032815-2f4b-4904-97c4-47a0e63e7b0b,Meyveli Pasta (1 kg.),"40,00 TL",Pastalar (1 kg.),8.0
+e37b473c-4c5e-4865-8b66-8af179a08847,Çikolatalı Pasta (1 kg.),"40,00 TL",Pastalar (1 kg.),10.0
+6D7400BC-E94B-4D15-98BE-151904BB1D2D,"Çikolatalı Pasta (1,5 kg.)","60,00 TL",Pastalar (1 kg.),10.0
+EBD77CD5-3A51-4FCF-96F9-78A66D910662,"Meyveli Pasta (1,5 kg.)","60,00 TL",Pastalar (1 kg.),8.0
+fa6bf419-be4e-4a8c-820e-8bf9776119dd,Tamek (33 cl.),"5,00 TL",İçecekler,5.0
+8f06bb33-4a58-43f2-8955-b15bda99c3ac,Fruko (1 L.),"6,00 TL",İçecekler,5.0
+f11e17fe-cddb-4c4f-8a1e-fcf0c1472a61,Sigara Böreği (1 kg.) (Pişirilmiş),"25,00 TL",Kiloluk Ürünler,3.0
+6339d0e7-c236-418e-a3be-ba8a3b2322ee,Tuzlu Kurabiye (1 kg.),"25,00 TL",Kiloluk Ürünler,5.0
+c2b2f312-2446-4c87-999d-2fd0e326b826,Şekerli Kurabiye (1 kg.),"35,00 TL",Kiloluk Ürünler,5.0
+e22f7aff-79a4-4afd-8554-fb37678f0579,Susamlı Çubuk (1 kg.),"25,00 TL",Kiloluk Ürünler,5.0
+DB2B717C-0488-4F65-963B-48247A9C2752,Peynirli Poğaça (1 kg.),"25,00 TL",Kiloluk Ürünler,3.0
+12017C5B-1146-4FDA-A536-5CBD36F4C16B,Kaşarlı Poğaça (1 kg.),"25,00 TL",Kiloluk Ürünler,4.0
+4F69563F-1B1D-4770-B7FF-E6719B2B1215,Patatesli Poğaça (1 kg.),"25,00 TL",Kiloluk Ürünler,3.0
+A937FB28-D156-4BEF-88ED-24C6D5625D78,Zeytinli Poğaça (1 kg.),"25,00 TL",Kiloluk Ürünler,4.0
+9A956612-1D0F-4C34-ABE8-8FD09C1B88B0,Peynirli Sigara Böreği (1 kg.),"25,00 TL",Kiloluk Ürünler,2.0
+BAC67100-137A-4ACD-91CC-A05D1BCFC52D,Patatesli Sigara Böreği (1 kg.),"25,00 TL",Kiloluk Ürünler,2.0
+7D946873-0A1D-4977-8B5B-BB7CB8274E83,Talaş Böreği (1 kg.),"25,00 TL",Kiloluk Ürünler,6.0
+7C83349B-50DC-4774-871F-9D2DBB0D855F,Zeytinli Sigara Böreği (1 kg.),"25,00 TL",Kiloluk Ürünler,3.0
+8F0C66F8-B706-44CB-9C46-F19AE4DF0DA1,Peynirli Poğaça (500 gr.),"12,50 TL",Kiloluk Ürünler,3.0
+3F9C9BF3-F807-46B9-86DF-93126BC5C22B,Patatesli Poğaça (500 gr.),"12,50 TL",Kiloluk Ürünler,3.0
+F5D9CA9C-79E4-4949-AC2C-FFD3FCD659EC,Kaşarlı Poğaça (500 gr.),"12,50 TL",Kiloluk Ürünler,4.0
+D9B10EEE-1903-4A40-88B0-56D30D76F2B5,Zeytinli Poğaça ( 500 gr.),"12,50 TL",Kiloluk Ürünler,7.0
+CE594548-4FE6-450E-92B8-4D3B35A63493,Peynirli Sigara Böreği (500 gr.),"12,50 TL",Kiloluk Ürünler,2.0
+5C14617A-18C8-4CDE-A861-8C578BC3D785,Patatesli Sigara Böreği (500 gr.),"12,50 TL",Kiloluk Ürünler,2.0
+E927B77C-CD9C-4A0D-8478-7FC3B81B8430,Zeytinli Sigara Böreği (500 gr.),"12,50 TL",Kiloluk Ürünler,3.0
+38DF7E81-FAB3-452F-8DAA-8D4B17148B54,Talaş Böreği ( 500 gram ),"12,50 TL",Kiloluk Ürünler,13.0
+F95BD96C-E9DB-4F03-ADBD-8902BD9784CB,Küçük Pizza (1 kg.),"25,00 TL",Kiloluk Ürünler,7.0
+7E848594-5900-4077-AAA4-FECB26AB0221,Küçük Pizza (500 gr.),"12,50 TL",Kiloluk Ürünler,7.0
+5141BFFF-7E51-4286-AE7B-84735B4E49BF,Karışık Poğaça (1 kg.),"25,00 TL",Kiloluk Ürünler,6.0
+FE66D35C-40B0-43E9-BC0B-DEB74D3AB8AF,Karışık Poğaça (500 gr. ),"12,50 TL",Kiloluk Ürünler,11.0
+195C0674-F424-409B-9CCA-55E273D773D6,Karışık Sigara Böreği (1 kg.),"25,00 TL",Kiloluk Ürünler,5.0
+AA42BBE1-4117-453E-92FA-5B0E379F24BF,Karışık Sigara Böreği (500 gr.),"12,50 TL",Kiloluk Ürünler,5.0
+d09e8409-4d14-4db1-8783-9cb3af09bc50,Şekerpare (1 kg.),"25,00 TL",Kiloluk Tatlılar,5.0
+BBBCC1DA-F101-400E-911F-3DB9927A8C56,Şekerpare (500 gr.),"12,50 TL",Kiloluk Tatlılar,5.0
+78798ab6-9b26-405b-b20f-cc36902a128c,Poşet,"0,25 TL",Poşet,5.0

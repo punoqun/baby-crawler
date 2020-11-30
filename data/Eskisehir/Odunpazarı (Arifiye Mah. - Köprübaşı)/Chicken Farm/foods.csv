@@ -1,0 +1,120 @@
+food_id,food_name,food_price,food_category,food_score
+0debb956-5ce5-4e70-9ed4-cd73a33759c8,Çıtır Barbekü Sandviç Menü,"27,00 TL",Çıtır Sandviç Menüleri,4.0
+d693c7f1-4aff-4d35-b52a-00515b0277dc,Çıtır Cheese Sandviç Menü,"27,50 TL",Çıtır Sandviç Menüleri,3.0
+4e33267b-2f8a-4096-ba0d-6b89823d64a1,Çıtır Cheese Mix Sandviç Menü,"31,50 TL",Çıtır Sandviç Menüleri,3.0
+faba0750-31fa-49eb-84de-b07c61ca5b64,Çıtır Cheese Ultra Mix Sandviç Menü,"32,00 TL",Çıtır Sandviç Menüleri,3.0
+7510f588-2380-4704-bf47-cf93210224cb,Çıtır Crispy Sandviç Menü,"25,50 TL",Çıtır Sandviç Menüleri,4.0
+e9eb1c52-8865-4b73-83aa-de0554291f49,Çıtır Garlic Sandviç Menü,"27,00 TL",Çıtır Sandviç Menüleri,6.0
+6f07af70-7361-4187-b825-ffbbea9c28de,Çıtır Hellim Sandviç Menü,"29,50 TL",Çıtır Sandviç Menüleri,4.0
+a6e10ec9-0450-4402-8b79-c8c9d14549ed,Çıtır Hot Chili Sandviç Menü,"27,00 TL",Çıtır Sandviç Menüleri,4.0
+2faa9cab-28a1-44b9-9376-d1b73031a1d4,Çıtır Mexican Sandviç Menü,"27,00 TL",Çıtır Sandviç Menüleri,4.0
+32caf5f2-4844-4d95-b5ba-4a2d48e8a3e5,Çıtır Ranch Sandviç Menü,"27,00 TL",Çıtır Sandviç Menüleri,8.0
+3782d7a5-0003-4541-bc15-223b089e4bba,Çıtır Salat Sandviç Menü,"27,00 TL",Çıtır Sandviç Menüleri,4.0
+f22702f5-7865-4d17-96e0-3e100d7b11f9,Çıtır Turkish Cheese Sandviç Menü,"27,50 TL",Çıtır Sandviç Menüleri,3.0
+eba391ba-5fc6-4635-88a0-2d6a875ab5df,Çıtır Cheese Dürüm Menü,"29,00 TL",Çıtır Dürüm Menüler,-1.0
+2d399f88-8f78-49bb-a735-3ada8fa0cf08,Çıtır Ranch Dürüm Menü,"28,50 TL",Çıtır Dürüm Menüler,4.0
+f22c2b68-f982-42bf-a28f-a6da1ed0d796,Çıtır Barbekü Dürüm Menü,"28,50 TL",Çıtır Dürüm Menüler,0.0
+d8718ad8-9e90-4233-82f0-b80ba9d952b3,Çıtır Turkish Cheese Dürüm Menü,"29,00 TL",Çıtır Dürüm Menüler,-1.0
+498fe7de-6316-4f12-b1d8-4b0f09a18ee4,Çıtır Garlic Dürüm Menü,"28,50 TL",Çıtır Dürüm Menüler,2.0
+b1d8d891-e4e4-4d70-b6fe-2beac6e09f45,Çıtır Hot Chili Dürüm Menü,"28,50 TL",Çıtır Dürüm Menüler,0.0
+adee5d0b-bca6-4137-aaa0-80b02a30a427,Çıtır Mexican Dürüm Menü,"28,50 TL",Çıtır Dürüm Menüler,0.0
+41532be2-febb-49fa-8a24-1934a8807125,Çıtır Cheese Mix Dürüm Menü,"32,50 TL",Çıtır Dürüm Menüler,-1.0
+f2c0ff54-cbbf-4d45-8760-2b8edce9dcc9,Çıtır Crispy Dürüm Menü,"27,00 TL",Çıtır Dürüm Menüler,0.0
+af77aafa-1ef9-4561-88f3-1b27d6b1bb4b,Çıtır Salat Dürüm Menü,"28,50 TL",Çıtır Dürüm Menüler,0.0
+0bdfaf90-7348-4ac9-9ca8-dcecadf67492,Çıtır Cheese Ultra Mix Dürüm Menü,"34,00 TL",Çıtır Dürüm Menüler,-1.0
+30a91df6-fcc5-4c48-8273-14b6fbdbd15f,Çıtır Hellim Dürüm Menü,"31,50 TL",Çıtır Dürüm Menüler,0.0
+90f1f157-e88f-48a9-a519-d2de394d2444,Cheeseburger Menü,"27,00 TL",Çıtır Burger Menüler,4.0
+788af0c8-a517-45e0-bf3c-e17a3812f7e6,Turkish Cheeseburger Menü,"27,00 TL",Çıtır Burger Menüler,4.0
+db6863d9-50f6-407a-a9a0-3435b79c1280,Ranch Burger Menü,"25,00 TL",Çıtır Burger Menüler,9.0
+09f3af76-748e-4b30-861b-7518837cc885,Barbekü Burger Menü,"25,00 TL",Çıtır Burger Menüler,5.0
+5c93b506-aa8c-4d37-b4fc-609f95f77924,Hot Chili Burger Menü,"25,00 TL",Çıtır Burger Menüler,5.0
+facb8600-8232-429c-be98-500e412889fe,Cheese Ultra Mix Burger Menü,"32,00 TL",Çıtır Burger Menüler,4.0
+0a1d877c-524b-4827-857d-ca664e8ab31f,Cheese Mix Burger Menü,"30,00 TL",Çıtır Burger Menüler,4.0
+9b0ce127-51d9-4dcf-9fdd-0b1204346645,Crispy Burger Menü,"23,50 TL",Çıtır Burger Menüler,5.0
+5AA9CE32-456C-404A-9A24-AC76F7BE3C34,Russ Burger Menü,"29,00 TL",Çıtır Burger Menüler,5.0
+186B8A94-CCC4-4239-B1E0-C2745F5FF5B7,Muhteşem Üçlü Burger Menü,"29,00 TL",Çıtır Burger Menüler,7.0
+79a3c03a-3616-4510-9a33-077c191f2a85,Kaşarlı Cajun Baharatlı Tavuk (250 gr.) Menü,"32,50 TL",Cajun Çıtır Menüler,7.0
+5b819249-685b-4792-970f-f77898026d64,Kaşarlı Cajun Baharatlı Tavuk (500 gr.) Menü,"61,75 TL",Cajun Çıtır Menüler,7.0
+d17415c4-d6a9-42d3-a59a-cdeb435d9f00,Kaşarlı Cajun Baharatlı Tavuk (750 gr.) Menü,"87,75 TL",Cajun Çıtır Menüler,7.0
+c96db291-4636-4655-aaec-055f6d47a9e2,Kaşarlı Cajun Baharatlı Tavuk (1 kg.) Menü,"110,50 TL",Cajun Çıtır Menüler,7.0
+d1dbf585-8457-4ad8-8cc2-0b0e9563f138,Cheddarlı Cajun Baharatlı Tavuk (250 gr.) Menü,"32,50 TL",Cajun Çıtır Menüler,7.0
+249006a5-f2d9-4ed1-aea6-43a32bdb9de7,Cheddarlı Cajun Baharatlı Tavuk (500 gr.) Menü,"61,75 TL",Cajun Çıtır Menüler,7.0
+8449af58-6404-4263-9b60-bd3f2031ea73,Cheddarlı Cajun Baharatlı Tavuk (750 gr.) Menü,"87,75 TL",Cajun Çıtır Menüler,7.0
+b0e76b38-544c-45af-a310-b063d87a36e7,Cheddarlı Cajun Baharatlı Tavuk (1 kg.) Menü,"110,50 TL",Cajun Çıtır Menüler,7.0
+6e90eb40-8c38-4906-9cf3-9244bd872b37,Hellim Peynirli Cajun Baharatlı Tavuk (250 gr.) Menü,"37,50 TL",Cajun Çıtır Menüler,7.0
+e44ddcfe-685c-4d08-a4db-651c91c5fc74,Hellim Peynirli Cajun Baharatlı Tavuk (500 gr.) Menü,"71,25 TL",Cajun Çıtır Menüler,7.0
+4ccbe21e-012e-4ed0-bbef-171b9dc44247,Hellim Peynirli Cajun Baharatlı Tavuk (750 gr.) Menü,"101,25 TL",Cajun Çıtır Menüler,7.0
+3143e030-ba98-4444-be8e-f2c4f171fbf8,Hellim Peynirli Cajun Baharatlı Tavuk (1 kg.) Menü,"127,50 TL",Cajun Çıtır Menüler,7.0
+68a9172c-24a1-49bb-adf7-f6cebc8fc919,Cajun Baharatlı Tavuk (250 gr.) Menü,"27,50 TL",Cajun Çıtır Menüler,7.0
+114bc495-4129-4075-a7bf-df8943c3c183,Cajun Baharatlı Tavuk (500 gr.) Menü,"52,25 TL",Cajun Çıtır Menüler,7.0
+0434cd28-54f8-4d05-8d33-94021e87b047,Cajun Baharatlı Tavuk (750 gr.) Menü,"74,25 TL",Cajun Çıtır Menüler,7.0
+5e18f18d-3f23-4e94-a400-c67ef5793720,Cajun Baharatlı Tavuk (1 kg.) Menü,"93,50 TL",Cajun Çıtır Menüler,7.0
+75d3de47-9a66-4787-80f2-24455c68f6f4,Aile Boyu Mutluluk (Kemiksiz) Menü,"90,00 TL",Aile Boyu Menüler,4.0
+18a13762-ffec-4582-b794-e3c5a246be41,Çıtır Barbekü Sandviç,"14,00 TL",Çıtır Sandviçler,5.0
+02b2c9f1-a58f-4d00-aada-99e17d64f9fc,Çıtır Cheese Sandviç,"14,50 TL",Çıtır Sandviçler,9.0
+6f0d9c06-e9f7-42ce-9c1b-e2eb014b16c6,Çıtır Cheese Mix Sandviç,"19,00 TL",Çıtır Sandviçler,4.0
+3a4831ed-6b86-465d-9d5f-e91d7552cb24,Çıtır Cheese Ultra Mix Sandviç,"19,50 TL",Çıtır Sandviçler,4.0
+0e698f35-9468-4b0d-9256-4ae4ec8fc83c,Çıtır Crispy Sandviç,"12,50 TL",Çıtır Sandviçler,5.0
+8fcc6576-5b29-4b75-ad63-d62d0c878113,Çıtır Garlic Sandviç,"14,00 TL",Çıtır Sandviçler,7.0
+fe037f54-1508-4fba-aea9-f67350f72f61,Çıtır Hellim Sandviç,"16,50 TL",Çıtır Sandviçler,5.0
+fe6bb477-b869-47d1-b3c4-d286eb7fa963,Çıtır Hot Chili Sandviç,"14,00 TL",Çıtır Sandviçler,5.0
+d5ead320-7146-4471-a1d8-fb0e801e1f8d,Çıtır Mexican Sandviç,"14,00 TL",Çıtır Sandviçler,5.0
+deff22af-6857-4afb-bb16-149cb9e92797,Çıtır Ranch Sandviç,"14,00 TL",Çıtır Sandviçler,9.0
+05a73aec-b675-4419-9388-f64f40ea2b7f,Çıtır Rus Sandviç,"15,50 TL",Çıtır Sandviçler,5.0
+39eab6b5-de3e-431e-8273-2552960f3b0b,Çıtır Salat Sandviç,"14,00 TL",Çıtır Sandviçler,5.0
+caf94eb2-2227-4636-b927-19d38df29740,Çıtır Turkish Cheese Sandviç,"14,50 TL",Çıtır Sandviçler,4.0
+616b8119-4891-48da-88d0-b19c5a1a5a2e,Muhteşem İkili Çıtır Sandviç,"16,50 TL",Çıtır Sandviçler,7.0
+4ed55e4a-17ee-407f-9349-6e65bf8eba43,Muhteşem Üçlü Çıtır Sandviç,"17,50 TL",Çıtır Sandviçler,7.0
+6B187655-FBC9-4298-BDA0-0712E823C9F9,Tavuklu Patso Sandviç,"16,50 TL",Çıtır Sandviçler,7.0
+10DBC007-5764-416B-9CAD-E87AA199B271,Veggie Patso Sandiviç,"18,00 TL",Çıtır Sandviçler,5.0
+77AB6A21-E193-4719-B20B-687D87E74BB7,Amerikano Çıtır Sandiviç,"14,00 TL",Çıtır Sandviçler,3.0
+140D4638-8FF4-473E-97EA-5D3FBF91C694,Americano Çıtır Dürüm,"16,00 TL",Çıtır Dürümler,1.0
+91B0C43B-C309-470A-8841-E848DFBCF87E,Maxi Çıtır Tavuk Dürüm (200 gr.),"21,50 TL",Çıtır Dürümler,3.0
+52e5f09a-fbf1-4811-b484-94c74be061a9,Çıtır Barbekü Dürüm,"15,50 TL",Çıtır Dürümler,1.0
+a25ceae7-b378-4ef5-8a99-3da146e445cd,Çıtır Cheese Dürüm,"16,00 TL",Çıtır Dürümler,5.0
+6624888c-3628-478e-9e96-028f615c1e14,Çıtır Cheese Mix Dürüm,"20,00 TL",Çıtır Dürümler,0.0
+9636a577-1f7a-4766-b38e-f62a6b84c1f5,Çıtır Cheese Ultra Mix Dürüm,"21,50 TL",Çıtır Dürümler,0.0
+a5a9d9a2-b58a-487b-8937-b9f84c239ac5,Çıtır Crispy Dürüm,"14,00 TL",Çıtır Dürümler,1.0
+2cb245c6-9084-445f-9f12-56706d944d68,Çıtır Garlic Dürüm,"15,50 TL",Çıtır Dürümler,3.0
+1982fc6c-7a0a-4748-a625-b75a4831bdf7,Çıtır Hellim Dürüm,"18,50 TL",Çıtır Dürümler,1.0
+5662c00e-a4f3-40d5-bedc-61ec6b606dd9,Çıtır Hot Chili Dürüm,"15,50 TL",Çıtır Dürümler,1.0
+59ee48f4-f86d-40cd-8d63-58b8be5ba0a8,Çıtır Mexican Dürüm,"15,00 TL",Çıtır Dürümler,1.0
+2b8500a8-d892-4215-9c53-58dd1169b1cc,Çıtır Ranch Dürüm,"15,50 TL",Çıtır Dürümler,10.0
+3D7C1CF9-6F65-4BA5-B444-2D0058AA753B,Çıtır Rus Dürüm,"18,00 TL",Çıtır Dürümler,1.0
+a6b624fe-377f-4114-b434-d1100fdf23c1,Çıtır Salat Dürüm,"15,50 TL",Çıtır Dürümler,1.0
+6edbe986-0cbc-481d-b9f6-fb00acc2dc86,Çıtır Turkish Cheese Dürüm,"16,00 TL",Çıtır Dürümler,0.0
+BBB5FD5F-F9F5-4316-AFCE-903E8B72F85C,Kral Çıtır Dürüm,"20,00 TL",Çıtır Dürümler,1.0
+7a4883a5-314d-4c96-a866-4a1befaec33f,Muhteşem İkili Çıtır Dürüm,"18,00 TL",Çıtır Dürümler,3.0
+467c74e3-edd5-4421-b41c-dbcdcd9efc6e,Muhteşem Üçlü Çıtır Dürüm,"19,00 TL",Çıtır Dürümler,3.0
+28b75c86-5446-43e5-8710-29606a53545c,Cheeseburger,"19,00 TL",Çıtır Burgerler,5.0
+7326d47e-38d3-4988-8f98-610e1585808e,Turkish Cheeseburger,"19,00 TL",Çıtır Burgerler,5.0
+439d3de6-614e-48be-b2b2-feb568def80d,Ranch Burger,"18,00 TL",Çıtır Burgerler,10.0
+216fa09a-de25-410a-9a00-34b7e8d7c376,Barbekü Burger,"18,00 TL",Çıtır Burgerler,6.0
+79320647-e9c1-48a1-820b-06b81e87773e,Hot Chili Burger,"18,00 TL",Çıtır Burgerler,6.0
+2219390f-d16e-4717-b722-26ccac98d663,Cheese Ultra Mix Burger,"22,50 TL",Çıtır Burgerler,5.0
+3aee6e1d-a3ae-4381-aa05-b94c87a2fc6d,Cheese Mix Burger,"20,00 TL",Çıtır Burgerler,5.0
+d0f1b22f-47f3-4007-8a0e-11a2e5bd9414,Crispy Burger,"16,00 TL",Çıtır Burgerler,6.0
+D32F0755-C099-479A-B5AB-098D2A7547AF,Muhteşem Üçlü Burger,"21,00 TL",Çıtır Burgerler,8.0
+AADE4B8D-6330-46B4-AB87-D827300BC603,Russ Burger,"20,00 TL",Çıtır Burgerler,6.0
+96d7bcc2-eca7-4bc6-a897-38fc8da7155b,Kaşarlı Cajun Baharatlı Tavuk (250 gr.),"27,50 TL",Cajun Çıtırlar,8.0
+db49d0f1-f33b-4716-bf55-b671a42351ef,Kaşarlı Cajun Baharatlı Tavuk (500 gr.),"52,25 TL",Cajun Çıtırlar,8.0
+8297496d-b8d1-4885-b45b-864db64a885b,Kaşarlı Cajun Baharatlı Tavuk (750 gr.),"74,25 TL",Cajun Çıtırlar,8.0
+d3b3a6e6-ba2f-445b-a749-6ca08e2caf32,Kaşarlı Cajun Baharatlı Tavuk (1 kg.),"93,50 TL",Cajun Çıtırlar,8.0
+89d4db05-d7a5-409c-bd36-ce1520253a89,Cheddarlı Cajun Baharatlı Tavuk (250 gr.),"27,50 TL",Cajun Çıtırlar,8.0
+db9611fb-ab39-4d8c-84e4-2204d8a1b777,Cheddarlı Cajun Baharatlı Tavuk (500 gr.),"52,25 TL",Cajun Çıtırlar,8.0
+eef8d897-d13e-4052-a993-e4b4184a9098,Cheddarlı Cajun Baharatlı Tavuk (750 gr.),"74,25 TL",Cajun Çıtırlar,8.0
+984897b0-4936-438a-8258-0b60c1852fba,Cheddarlı Cajun Baharatlı Tavuk (1 kg.),"93,50 TL",Cajun Çıtırlar,8.0
+a0c1105d-aed0-42f9-9588-89137f63bf4f,Hellim Peynirli Cajun Baharatlı Tavuk (250 gr.),"32,50 TL",Cajun Çıtırlar,8.0
+cfc0f0e4-3b1a-46b6-a044-161da05bc307,Hellim Peynirli Cajun Baharatlı Tavuk (500 gr.),"57,00 TL",Cajun Çıtırlar,8.0
+8181ef17-90e2-4ee2-bbe2-a22a5a654653,Hellim Peynirli Cajun Baharatlı Tavuk (750 gr.),"81,00 TL",Cajun Çıtırlar,8.0
+b025e315-8e0e-4904-8fc5-382217d49d0d,Hellim Peynirli Cajun Baharatlı Tavuk (1 kg.),"102,00 TL",Cajun Çıtırlar,8.0
+6c16c508-4fc7-483b-b6ea-bbe18214da7e,Cajun Baharatlı Tavuk (250 gr.),"22,50 TL",Cajun Çıtırlar,8.0
+4460bcbe-6d9b-42ac-98e1-e9c943aae6b0,Cajun Baharatlı Tavuk (500 gr.),"42,75 TL",Cajun Çıtırlar,8.0
+af51bd21-b255-45b7-973f-190de02b7fef,Cajun Baharatlı Tavuk (750 gr.),"60,75 TL",Cajun Çıtırlar,8.0
+f24b0d03-da92-42d0-9e8e-6f576360ee73,Cajun Baharatlı Tavuk (1 kg.),"76,50 TL",Cajun Çıtırlar,8.0
+3e7609e0-3ccb-41aa-94ac-b97599033462,Aile Boyu Mutluluk (Kemiksiz),"70,00 TL",Aile Boyu Tavuklar,5.0
+417C82D1-BD6C-4EC8-9A9C-E854A31DE5BD,Tavuk Nugget (8 Adet),"12,00 TL",Yan Ürünler,7.0
+58826d55-d5be-41e5-8647-584ec81fe2c9,Patates Kızartması,"12,00 TL",Yan Ürünler,4.0
+2189b6da-00e9-4eff-bbec-c4f6f143a8c9,Soğan Halkası (8 Adet),"12,00 TL",Yan Ürünler,5.0
+173ffd2c-d4a8-4956-8c8c-ecc61f87c369,Patates Kroket (8 Adet),"12,00 TL",Yan Ürünler,4.0
+156204CA-F830-4EE7-900E-6C56F3615320,Acı Biber,"8,00 TL",Yan Ürünler,5.0

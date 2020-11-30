@@ -1,0 +1,42 @@
+food_id,food_name,food_price,food_category,food_score
+b2a03c2a-7d9a-47d1-9669-98cbee929e62,Tavuk Kanka Menü,"34,00 TL",Menüler,5.0
+01001cf8-abab-4d88-8beb-69d33afb520a,3 Kafadar Tavuk Döner Menü,"43,00 TL",Menüler,-11.0
+d237f9f7-5248-41e3-b9e8-40fc56482ee4,3 Kafadar Et Döner Menü,"54,00 TL",Menüler,-14.0
+850cebe0-1318-404d-988c-2937a666c5c0,Pis 7'li Katık Tavuk Döner Menü,"90,00 TL",Menüler,-3.0
+ec1dd3e7-2aa0-467e-bb29-276d4738bb62,Pis 7'li Katık Et Döner Menü,"110,00 TL",Menüler,-6.0
+2d233854-3936-45f7-b033-9901f244d73b,Et Döner Dürüm & Tatlı Menü,"20,00 TL",Menüler,-11.0
+f4b6a1da-29a2-49c2-8b29-595b350ad59f,Et Kanka Menü,"44,00 TL",Menüler,2.0
+d72171fb-92aa-492b-bc21-904a37caa5df,Kanka Mix Menü,"36,00 TL",Menüler,5.0
+e9858629-e994-4c00-823e-bf5189c9ac8a,Tavuk Aile Menü,"55,00 TL",Menüler,5.0
+51715bd0-0274-4599-92b4-dd7963cef57c,Et Aile Menü,"70,00 TL",Menüler,2.0
+dea01fa5-0d8c-46ce-a4f1-4acf30e8d20f,Mix Aile Menü,"63,00 TL",Menüler,5.0
+bf1a47b1-5270-44d9-89ee-5179e069cee3,Tavuk Döner Dürüm Menü,"19,00 TL",Menüler,-3.0
+f8279b19-dee4-4c19-a7c2-3c3cd5df062c,Kaşarlı Tavuk Döner Dürüm Menü,"22,00 TL",Menüler,-10.0
+7ebb84b6-9e1c-4ef8-ad46-e635710127bc,Et Döner Dürüm Menü,"25,00 TL",Menüler,-11.0
+66ec37f5-271b-4a3e-8edc-30bab0781b06,4'lü Tavuk Döner Dürüm Menü,"69,00 TL",Menüler,-8.0
+ab719d1a-029e-4b13-baea-657bbcb71055,4'lü Et Döner Dürüm Menü,"83,00 TL",Menüler,-11.0
+cf78e039-02b9-465f-b6ec-e880a87834a4,Döner Dürüm Menü,"68,00 TL",Menüler,-8.0
+b2aaead2-4335-40cf-bf66-b86cfb55a53c,8'li Tavuk Döner Dürüm Menü,"100,00 TL",Menüler,-8.0
+3cfe0480-6721-4c98-8e62-83652f322b20,8'li Et Döner Dürüm Menü,"136,00 TL",Menüler,-11.0
+357701d1-d15a-41f9-a1ec-04621cff454f,8'li Et Döner Dürüm Menü 2,"100,00 TL",Menüler,-10.0
+32a8dbd1-7758-43df-b2ba-8fcadbb61835,Tavuk Döner,"22,00 TL",Tavuk Dönerler,-5.0
+3cabff2d-50aa-4d9b-ba86-1673902544eb,Tavuk Döner Dürüm,"12,00 TL",Tavuk Dönerler,-3.0
+4355459a-a86a-4421-b5e6-f04345478b0c,İskender (Tavuk Dönerden),"24,00 TL",Tavuk Dönerler,3.0
+4d6fbfc0-e27a-4b03-883d-eeb6c6e885a1,Zurna Tavuk Döner Dürüm,"14,00 TL",Tavuk Dönerler,-5.0
+99747af4-5490-4e6c-b958-df6e2bc3e1ff,Boru Tavuk Döner Dürüm,"13,00 TL",Tavuk Dönerler,-8.0
+4c78a670-6f01-4fbf-980d-e1f05744c091,Kaşarlı Tavuk Döner Dürüm,"14,00 TL",Tavuk Dönerler,-10.0
+08c16c09-2b95-4be8-baeb-4934e710aa07,Ekmek Arası Tavuk Döner,"12,00 TL",Tavuk Dönerler,-5.0
+0fa146d4-55b6-4611-9ed5-9a25b649ff75,İskender (Et Dönerden),"28,00 TL",Et Dönerler,3.0
+4f204a85-a4d4-4b14-a5bf-df5831e6a272,Boru Et Döner Dürüm,"16,00 TL",Et Dönerler,-11.0
+06d0cf60-d33a-4f33-a902-f0309f6fb826,Zurna Et Döner Dürüm,"17,00 TL",Et Dönerler,-13.0
+d87448ac-0020-4071-976d-154398b5a82b,Et Döner,"28,00 TL",Et Dönerler,-8.0
+4896aa2c-ba24-4fbd-bd17-996b37020c1a,Et Döner Dürüm,"15,00 TL",Et Dönerler,-11.0
+f9b375ad-879a-4daf-ad72-76cd5ceb2a3d,Kaşarlı Et Döner Dürüm,"17,00 TL",Et Dönerler,-13.0
+525e174f-b34a-44fa-a9aa-d07836eb9261,Ekmek Arası Et Döner,"15,00 TL",Et Dönerler,-8.0
+e6d8ba7a-2671-40c6-b1f5-fdfe8ae81adc,Patso Sandviç,"10,00 TL",Diğer Lezzetler,5.0
+1fd0a2e7-73ca-476d-a200-9a70c5380061,Patates Kızartması,"8,00 TL",Yan Ürünler,6.0
+32c6ace3-86d4-44b3-825e-b2f18dbdb345,Turşu,"0,50 TL",Yan Ürünler,7.0
+8ab16f15-c5a4-45f7-a233-e72913f6fcad,Puding,"4,00 TL",Tatlılar,7.0
+a9b391a2-408f-4fb7-a318-c85f40a7da71,Niğde Gazozu,"4,00 TL",İçecekler,5.0
+4716a8a0-d6b8-4fdd-897a-67470cc435e0,"Eker Ayran (29,8 cl.)","4,00 TL",İçecekler,5.0
+dfcb04e8-e1a0-463c-9b9a-b32183c04117,Fruko (1 L.),"8,00 TL",İçecekler,5.0

@@ -1,0 +1,35 @@
+food_id,food_name,food_price,food_category,food_score
+3f62d8ea-96ab-4467-83fb-b6e319cfc02b,Menü 1,"105,00 TL",Menüler,20.0
+7323B60E-2B0F-4350-ACD2-0B0D9F21FEF9,4'lü Lahmacun Menü,"49,00 TL",Menüler,27.0
+2C2ADA70-5170-4827-960A-74492E3BD37D,Yaprak Tavuk Kanat Menü,"39,00 TL",Menüler,8.0
+9656796a-071a-49b3-8c42-93345e299ef9,Menü 2,"125,00 TL",Menüler,7.0
+9f3c603e-d3a3-4af1-a7fd-274f6c246334,Menü 3,"65,00 TL",Menüler,3.0
+896ad53d-4507-44e9-b3e5-a3d86df1b48a,Menü 4,"79,00 TL",Menüler,3.0
+9a785329-c68c-4f58-b24a-38d6c92f0c75,Özel Soslu Mercimek Çorbası,"13,00 TL",Çorbalar,17.0
+46c2208a-37b9-46fa-9e39-0c47e4af9282,Meksika Usulü Jülyen Tavuk,"20,00 TL",Beyaz Etler,8.0
+64e33f7a-9692-4f9d-bc37-25e6768bc667,Tavuk Pirzola,"21,00 TL",Beyaz Etler,8.0
+689e8e0b-d32e-438a-9ef1-c6f0ad6978fe,Köri Soslu Tavuk,"20,00 TL",Beyaz Etler,9.0
+718e80ad-6c2f-477b-b573-5909f4cd0687,Barbekü Soslu Tavuk,"20,00 TL",Beyaz Etler,9.0
+c4b98d18-ee20-4e4d-86d7-c4f10d12dcc1,Kiremitte Tavuk,"24,00 TL",Beyaz Etler,7.0
+d7607b18-3171-4e89-8751-050990cb9577,Mantarlı Tavuk Dürüm,"20,00 TL",Beyaz Etler,8.0
+d8a5a619-4a5d-4487-a6a9-d9d3fdd21312,Tavuk Şiş,"21,00 TL",Beyaz Etler,8.0
+efb4bea3-aa7b-48cf-83a2-5944c6b05cd5,Chicken Stroganoff,"20,00 TL",Beyaz Etler,5.0
+0b6a8f93-9d2e-4544-9327-3c7482b09c8f,Beyti Kebap (Kıymadan),"29,00 TL",Kırmızı Etler,5.0
+351a6f6a-79d3-412c-9cca-a06b00fa13e6,Kiremitte Köfte,"27,00 TL",Kırmızı Etler,4.0
+993e6af3-9c57-462f-85d0-e05d11312ae8,Adana Kebap,"27,00 TL",Kırmızı Etler,9.0
+9a053d8a-9455-46cc-80ec-8f042533165c,Çökertme Kebabı,"27,00 TL",Kırmızı Etler,5.0
+9f3faa5a-4ca1-45d8-abc3-d68527b28178,Yoğurtlu Adana Kebap,"29,00 TL",Kırmızı Etler,9.0
+b43990e5-23f0-4d8e-aabc-cdddb7f157e0,Kaşarlı Köfte,"27,00 TL",Kırmızı Etler,5.0
+c9db6ac2-a4fb-4f3d-8d86-3a473eb2a1b9,Izgara Köfte,"24,00 TL",Kırmızı Etler,5.0
+2eaeedd2-e761-4520-8c07-8adeea6646c4,Kıtırcık Pide,"26,00 TL",Fırın Ürünleri,31.0
+30e72fb9-bd85-422b-935b-452597deeb92,Mantarlı Pide,"27,00 TL",Fırın Ürünleri,18.0
+4ceb3b6f-c457-4b22-8099-754252b78d6e,Karışık Pide,"23,00 TL",Fırın Ürünleri,18.0
+6a8e9d93-7052-4751-bb0f-0ffd1e4917e3,Kıymalı Pide,"21,00 TL",Fırın Ürünleri,24.0
+bdc43da4-e3bb-4483-ae77-b4d30cf4134e,Sebzeli Pide,"26,00 TL",Fırın Ürünleri,20.0
+df31abf6-6bd7-4da6-81f2-1b2bbc0ea262,Özel Peynirli Pide,"22,00 TL",Fırın Ürünleri,18.0
+f000ef0a-d057-46b4-b429-fa6725305501,Ispanaklı Pide,"19,00 TL",Fırın Ürünleri,20.0
+08f7ac2f-1d6a-46f9-a00c-b5460e00b4eb,Lahmacun,"12,00 TL",Fırın Ürünleri,32.0
+6a812c21-561f-4a98-9bd3-9b0d2026384f,Künefe,"12,00 TL",Tatlılar,4.0
+AF0395E8-5DE2-4834-90F3-F0CCB54ABC73,Eker Sütlaç (100 gr.),"4,00 TL",Tatlılar,5.0
+EF1474E5-9312-48EA-99EF-6EDC9AF0F430,Eker Puding (100 gr.),"4,00 TL",Tatlılar,5.0
+a36ecc45-49c7-4360-ad91-5e8912171200,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,91 @@
+food_id,food_name,food_price,food_category,food_score
+d600a0e3-4390-4d3a-9e9a-c875ecf2a4a2,2'li Büyük Boy Karışık Pizza Menü,"74,00 TL",Ekonomik Menüler,0.0
+c1496840-83c6-4dbd-8187-fb3f93da2a39,2'li Game Of Burger Menü,"48,90 TL",Ekonomik Menüler,13.0
+43ffdff8-a4b0-4b86-b49b-104f5c3cba76,2'li Orta Boy Pizza Menü,"53,00 TL",Ekonomik Menüler,2.0
+e98c03d2-d997-4341-8e37-772e3c2b73b8,2'li Wanted Burger Menü,"39,90 TL",Ekonomik Menüler,11.0
+acea45f3-a93a-489f-9600-bc430ffa782d,3'lü Orta Boy Pizza Menü,"79,90 TL",Ekonomik Menüler,2.0
+b0568000-a96d-44e4-8a02-fe7a2b1bc14f,Büyük Boy Hepsinden Tat Menü,"63,90 TL",Ekonomik Menüler,14.0
+7f2da0ee-14d9-4954-b945-2e730c023196,Büyük Boy Karışık Pizza Menü,"51,00 TL",Ekonomik Menüler,0.0
+04a9885c-3501-446f-badf-c2299d764035,Çıtır Combo Hepsinden Tat Menü,"29,90 TL",Ekonomik Menüler,20.0
+e09d01d2-a8ab-4445-b710-33c480084d39,Esnaf Pizza Menü,"29,90 TL",Ekonomik Menüler,1.0
+08a059aa-b903-44d8-b8a9-ab62e45db5db,Game Of Burger Menü,"33,90 TL",Ekonomik Menüler,13.0
+1e6997d1-f010-481e-a3af-4b5471effb15,Orta Boy Hepsinden Tat Menü,"41,50 TL",Ekonomik Menüler,16.0
+609cc02f-5819-450f-983f-6e87be449cb4,Orta Boy Pizza Menü,"34,90 TL",Ekonomik Menüler,2.0
+89e3405b-e678-4c0c-8025-8faa95cfbf0e,Wanted Burger Menü,"30,90 TL",Ekonomik Menüler,11.0
+30650838-229f-49e2-a2cc-5864a1cc8062,Kızartma İçli Köfte (Adet),"7,90 TL",Başlangıçlar,4.0
+3ba3026a-2726-47ac-b787-5a3a30b99484,Elma Dilim Patates Kızartması (Büyük),"11,45 TL",Başlangıçlar,2.0
+6078b88f-1ce6-4970-8952-f9c7f219abf9,Patates Kızartması (Küçük),"8,90 TL",Başlangıçlar,2.0
+6df9924a-b67e-4921-b6f0-ea29a905e63b,Soğan Halkası (10 Adet),"10,90 TL",Başlangıçlar,6.0
+71765a2d-3c5d-418e-afea-17efebc1ced7,Elma Dilim Patates Kızartması (Küçük),"9,90 TL",Başlangıçlar,2.0
+962b62e6-7018-4de2-afef-1d5eb0e6d55f,Soğan Halkası (6 Adet),"8,90 TL",Başlangıçlar,6.0
+9d5d1222-bfe1-4413-b6fa-5a641cea5848,Tavuk Nugget (6 Adet),"8,90 TL",Başlangıçlar,9.0
+b15b2a7a-2d55-4bf4-a350-bf751c755f6d,Patates Kızartması (Büyük),"11,44 TL",Başlangıçlar,2.0
+ddf70ea7-b26f-4048-9cb6-67a812105af6,Tavuk Nugget (12 Adet),"17,90 TL",Başlangıçlar,9.0
+f313e28e-f58c-4914-a8a2-5862757b2017,Mozzarella Sticks (5 Adet),"9,90 TL",Başlangıçlar,5.0
+BE63C743-098C-4496-8770-6A33D273AEC0,Patates Kroket (5 Adet),"8,90 TL",Başlangıçlar,2.0
+22db77d5-2614-4ee9-b117-44124dbceb76,Köfte Wrap,"25,90 TL",Wraplar,6.0
+2e131479-81b7-445a-848e-cfe959585e30,Meksikan Wrap,"24,90 TL",Wraplar,6.0
+a9e9fab5-03b8-4657-a502-322b8cd6435d,Çıtır Tavuklu Wrap,"23,90 TL",Wraplar,19.0
+c68d6136-2c34-4e85-84cd-5fba7f98af5c,Tavuklu Wrap,"23,92 TL",Wraplar,9.0
+38608767-eb33-4307-9136-3797f1f60219,Keyfeen Burger,"27,90 TL",Burgerler,9.0
+3d9d22a2-cb65-45a9-9e80-fd65c98ced19,Gurme Big Burger,"25,90 TL",Burgerler,9.0
+4d6d0cf4-8bed-43f0-890b-06a8f4c1e525,Game Of Burger,"26,90 TL",Burgerler,11.0
+ea489b2b-ed1e-4268-8fba-8483821276d0,Meksika Burger,"25,90 TL",Burgerler,9.0
+18f40131-2e6a-4bbd-adba-b794c7b64381,Çiftlik Pizza (Orta),"29,90 TL",Orta Boy Pizzalar,1.0
+26388f52-1d3d-4edd-b1d5-f27fff62eeb9,Akdeniz Pizza (Orta),"24,90 TL",Orta Boy Pizzalar,-1.0
+2e4d3a90-7574-43a3-925e-f1cdf20e9d6f,Meatball Pizza (Orta),"28,90 TL",Orta Boy Pizzalar,-1.0
+386574b4-db2b-4adf-926b-3c57bd692b15,Şef Sensin Pizza (Orta),"20,90 TL",Orta Boy Pizzalar,1.0
+4d2bd0c1-7317-42ac-8e13-a0ba5c79443b,Sultan Pizza (Orta),"30,90 TL",Orta Boy Pizzalar,-1.0
+730bde53-2119-466d-ae3f-0fddd13cb3a6,Meat Lover Pizza (Orta),"29,90 TL",Orta Boy Pizzalar,-1.0
+7e971f00-8d77-4fba-9a94-fbc61429884e,Sucuklu Mantarlı Pizza (Orta),"27,90 TL",Orta Boy Pizzalar,-1.0
+91adbf13-2a22-47a9-aa56-0e814552f2b7,Meksika Pizza (Orta),"28,90 TL",Orta Boy Pizzalar,-1.0
+a6261183-2bea-4624-bfb8-694fecb5f851,Mix Cheese Pizza (Orta),"27,90 TL",Orta Boy Pizzalar,-1.0
+b671e835-1d56-4dfa-a1e6-356da6a765db,Osmanlı Pizza (Orta),"35,90 TL",Orta Boy Pizzalar,-1.0
+cc0bf126-a29a-4bd3-99e4-acb702f597b8,Veggie Pizza (Orta),"23,90 TL",Orta Boy Pizzalar,-1.0
+e01d2f1c-e3c9-455f-ab13-31635ed6f20a,Karışık Pizza (Orta),"28,50 TL",Orta Boy Pizzalar,-1.0
+e51fc28d-9746-40a2-9dee-19729b09d253,BBQ Tavuklu Pizza (Orta),"31,90 TL",Orta Boy Pizzalar,2.0
+f62be65d-6911-4a5f-a835-799b38886484,Ton Balıklı Pizza (Orta),"26,90 TL",Orta Boy Pizzalar,-1.0
+00adc96b-067d-4dd0-bb44-3690d9579c64,Çiftlik Pizza (Büyük),"36,90 TL",Büyük Boy Pizzalar,1.0
+2763acbe-74de-4772-b5ef-6672a1c20d02,Ton Balıklı Pizza (Büyük),"35,90 TL",Büyük Boy Pizzalar,-1.0
+2c55f534-5728-41e0-a2ae-53fd1fab0706,Sucuklu Mantarlı Pizza (Büyük),"34,90 TL",Büyük Boy Pizzalar,-1.0
+3cb0a2b6-be46-48fd-aef7-6f0af48e18ba,Şef Sensin Pizza (Büyük),"25,90 TL",Büyük Boy Pizzalar,1.0
+3f66af03-1350-4c18-a065-d0128a32e92b,Mix Cheese Pizza (Büyük),"35,90 TL",Büyük Boy Pizzalar,-1.0
+53f11e94-4878-48a1-a4e5-0b1cef1fac8f,Akdeniz Pizza (Büyük),"33,90 TL",Büyük Boy Pizzalar,-1.0
+5d03f442-f34b-4c3c-a1f8-058a9aea84f0,BBQ Tavuklu Pizza (Büyük),"35,90 TL",Büyük Boy Pizzalar,2.0
+7a8931de-8ca5-47c4-884f-dba2d6af30f6,Karışık Pizza (Büyük),"33,90 TL",Büyük Boy Pizzalar,-1.0
+b2ed9777-8ce8-488f-953a-b95942f3bd42,Meat Lover Pizza (Büyük),"35,90 TL",Büyük Boy Pizzalar,-1.0
+b3106b35-090c-49b9-b31f-d0f31f6bdaad,Veggie Pizza (Büyük),"32,90 TL",Büyük Boy Pizzalar,-1.0
+d076af43-13d3-4b76-97fb-591b8143f70b,Meksika Pizza (Büyük),"40,90 TL",Büyük Boy Pizzalar,-1.0
+d42ec042-c3bc-4ae8-958e-a1e484366bc2,Meatball Pizza (Büyük),"35,90 TL",Büyük Boy Pizzalar,-1.0
+d7c6c0ec-3401-409e-94f7-83cedaf74c8a,Osmanlı Pizza (Büyük),"40,90 TL",Büyük Boy Pizzalar,-1.0
+e0fa0b5e-4495-4976-8393-67fe3e195af2,Sultan Pizza (Büyük),"40,90 TL",Büyük Boy Pizzalar,-1.0
+e10d5f58-7eae-4fc7-8481-385d64a7af98,Alfredo Soslu Tavuk,"28,90 TL",Ana Yemekler,9.0
+cb6b89c4-7382-457d-bf15-db55d5907789,BBQ Soslu Tavuk,"28,90 TL",Ana Yemekler,9.0
+c79dea41-a720-4ed7-9665-1df79e222050,Izgara Köfte,"30,90 TL",Ana Yemekler,5.0
+1ec0c7d4-f2af-4f6a-aef7-d93c51925674,Izgara Tavuk,"26,90 TL",Ana Yemekler,9.0
+3dab661d-3f91-4dc8-968e-43032fb1d9bf,Kekikli Tavuk,"28,90 TL",Ana Yemekler,9.0
+bf0dbc85-224c-4905-80ca-46b35150b3ed,Köri Soslu Tavuk,"28,90 TL",Ana Yemekler,17.0
+b7844e91-d4cf-474a-9e54-0d738ef68799,Soya Soslu Tavuk,"28,90 TL",Ana Yemekler,9.0
+a2453092-fd5b-42c6-a3fb-7756f166e2fa,Tavuk Schnitzel,"27,90 TL",Ana Yemekler,9.0
+0f73fae2-f7c3-4833-a874-212a0c49abd5,Ev Yapımı Mantı (350 gr.),"26,90 TL",Makarnalar,9.0
+6098a435-a0ab-455c-8af7-9d94bfd79e98,Spaghetti Napoliten,"24,90 TL",Makarnalar,5.0
+80069c94-2713-4c8a-9b31-6d74d0f4db70,Spaghetti Bolonez,"26,90 TL",Makarnalar,5.0
+85d8102c-012f-4529-821e-d383cad310b0,Penne Al Arrabbiata,"24,90 TL",Makarnalar,8.0
+d6960a7d-37bf-49e4-a04c-0a78d91e0086,Körili Tavuklu Penne,"25,90 TL",Makarnalar,12.0
+fb59b7da-f4bd-4cfa-bf20-f5ffb70ad092,Penne Alfredo,"26,90 TL",Makarnalar,5.0
+3edc34a2-ab6e-4a41-84c7-5df8bb041c52,Akdeniz Salata,"20,90 TL",Salatalar,5.0
+4cc86f31-0201-45b4-af40-f8f8fa3f94e3,Tavuklu Sezar Salata,"23,90 TL",Salatalar,13.0
+83f9cb8e-af7e-4900-8481-7b5b1406f95b,Çıtır Tavuklu Sezar Salata,"23,90 TL",Salatalar,18.0
+c1ba9904-f63c-498d-a1c3-2164e08f4d6e,Izgara Köfteli Salata,"25,90 TL",Salatalar,5.0
+f18c2cfb-5fa8-40d3-a176-1f0ce15df4ac,Ton Balıklı Salata,"25,90 TL",Salatalar,5.0
+076b4327-8cca-4a83-85d7-b82bf23152ac,Çikolatalı Puding,"6,00 TL",Tatlılar,10.0
+5EF6D567-CD9D-4593-900F-A63DE7D8FAC3,Nutellalı Çilekli Mag,"17,90 TL",Tatlılar,6.0
+ea52d150-3d85-40f5-820c-aac4ba154f6a,Nutellalı Muzlu Mag,"17,90 TL",Tatlılar,4.0
+1ce0cca7-3019-4f16-98b5-c7ecc02173c0,Algida Viennetta - Çikolata Vanilya (800 ml.),"17,00 TL",Dondurmalar,12.0
+39f180be-ff16-472b-b7b7-60ec54e114a9,Algida Maraş Usulü Cup Dondurma (100 ml.),"6,00 TL",Dondurmalar,5.0
+5ef7a25b-2aa0-4651-8e43-b4ac986cf0a5,Algida Maraş Usulü Dondurma (500 gr.),"19,00 TL",Dondurmalar,5.0
+baa69a90-c9e9-488f-a7c2-f431d010218d,Algida Çokosos Dondurma (700 gr.),"14,00 TL",Dondurmalar,5.0
+c416a88b-94ff-4249-ba54-21f39c263502,Carte d'Or Selection Bitter Çikolata Aşkı (900 ml.),"22,00 TL",Dondurmalar,10.0
+eeafd0e4-9bcc-4d39-a1ad-45ac30872d89,Carte D'or Selection Meyve Şöleni (850 ml.),"23,00 TL",Dondurmalar,5.0
+1eb6527c-ac22-4ac7-955e-0ddc66ab712f,"Ayran (19,5 cl.)","3,00 TL",İçecekler,5.0
+7cf49ae4-fd90-4715-9c84-633b0cbda2fb,Poşet,"0,25 TL",Poşet,5.0

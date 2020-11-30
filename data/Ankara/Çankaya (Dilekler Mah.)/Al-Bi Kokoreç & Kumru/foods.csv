@@ -1,0 +1,34 @@
+food_id,food_name,food_price,food_category,food_score
+dd974aa5-7891-4e97-a193-7c7be9b4ffec,Kumru Menü 1,"26,00 TL",Menüler,56.0
+5d52789d-820b-4085-9865-146caa237f16,Kumru Menü 2,"45,00 TL",Menüler,39.0
+94bdfd27-4299-4644-83fc-15e3b085e317,Kokoreç Menü 1,"35,00 TL",Menüler,48.0
+12af165c-a155-4d29-ae18-3b97e0f15dad,Kokoreç Menü 2,"65,00 TL",Menüler,28.0
+846754ad-eb7b-4d41-9ddd-c7f25f8547a5,Köfte Menü 1,"30,00 TL",Menüler,37.0
+3fb3e50f-8568-4433-94c8-89c710916f05,Köfte Menü 2,"53,00 TL",Menüler,18.0
+46c85a86-db25-431b-a7c1-aa7b5c38d148,Tavuk Biftek Menü,"25,00 TL",Menüler,7.0
+091bafc8-e996-416b-b51a-02eec117e7c4,Izgara Köfte Menü,"31,00 TL",Menüler,15.0
+42f1446d-2b8f-44cf-b6bb-857043884989,Karışık Menü 1,"51,00 TL",Menüler,27.0
+50286895-0422-41b8-af77-e6d90348dd86,Karışık Menü 2,"63,00 TL",Menüler,8.0
+ef791601-7322-4ed7-bad6-49a897f794df,Karışık Menü 3,"76,00 TL",Menüler,4.0
+4750e139-ca37-4f48-812b-d81b0f203a7a,Ekmek Arası Kokoreç,"27,00 TL",Kokoreçler,31.0
+0446b198-7e0d-4a52-a13f-6845ce619d9c,Ekmek Arası Sebzeli Kokoreç,"29,00 TL",Kokoreçler,26.0
+c1c4383d-f118-4259-9355-554c63c497ab,Kumru Sandviç,"15,00 TL",Sandviçler,41.0
+5248b1aa-8cda-4e08-93bf-3871fda5e323,Izgara Köfte (250 gr.),"27,00 TL",Izgaralar,15.0
+33cba0bc-ed07-48ea-adb5-345b6aa86fbb,Tavuk Biftek (250 gr.),"23,00 TL",Izgaralar,7.0
+44275814-bdfc-401d-af3e-4c1c1e9fc981,Ekmek Arası Köfte,"16,00 TL",Ekmek Arası Ürünler,15.0
+e6c5cd10-8741-40bf-908e-5cdf30eaea16,Ekmek Arası Sucuk,"16,00 TL",Ekmek Arası Ürünler,9.0
+33944f3b-e02a-415d-b188-814cd191b6c0,Ekmek Arası Tavuk Biftek,"15,00 TL",Ekmek Arası Ürünler,7.0
+855b99dd-f3b4-4dfd-bcf6-f90bef5c899f,Ekmek Arası Arnavut Ciğeri,"21,00 TL",Ekmek Arası Ürünler,7.0
+C6679422-5188-4711-9653-6148CF52B61F,Patso Sandviç,"12,00 TL",Ekmek Arası Ürünler,7.0
+1ece5bbd-c8a3-4b07-8fa5-33c13ee9bb3d,Midye Dolma (Adet),"2,10 TL",Yan Ürünler,30.0
+398f39f0-7799-4635-8382-474dcb58cc16,Midye Dolma (10 Adet),"18,00 TL",Yan Ürünler,25.0
+f31a72b5-df87-43d2-9967-f1159a6d7f18,Midye Dolma (20 Adet),"32,00 TL",Yan Ürünler,25.0
+d11c2a91-ef5c-4a2d-b7b1-70ae0a6a6a4e,Midye Dolma (40 Adet),"56,00 TL",Yan Ürünler,25.0
+9267de52-f5d7-4bfb-a52a-2435af8cad4c,Midye Dolma (50 Adet),"65,00 TL",Yan Ürünler,25.0
+8a77356b-8515-42d8-a317-e9e50d0ac6ee,Kavaklıdere Şalgam Suyu (33 cl.),"6,00 TL",İçecekler,5.0
+F57C4A72-DA1B-4550-9B2C-AB2FE2A3AD4F,"Su (1,5 L.)","4,00 TL",İçecekler,7.0
+db7ac0be-1cb1-4aff-b3dd-aa1f27a4551a,Izgara Köfte (500 gr.),"43,00 TL",Kiloluk Ürünler (Pişirilmiş),15.0
+5ff40667-b7f5-4206-abcd-f8fc70853c89,Izgara Köfte (1 kg.),"80,00 TL",Kiloluk Ürünler (Pişirilmiş),15.0
+adb3ea0c-b45a-4e5b-93c7-473a01035855,Tavuk Biftek (500 gr.),"36,50 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+475a2edb-2613-4be8-8b5d-a5a8fa3f6ecf,Tavuk Biftek (1 kg.),"60,00 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+89d83ad2-abdd-4d7d-9d2e-b8db6db3e16a,Poşet,"0,25 TL",Poşet,5.0

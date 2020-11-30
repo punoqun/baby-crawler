@@ -1,0 +1,79 @@
+food_id,food_name,food_price,food_category,food_score
+f5507c9c-a763-46c1-ab0d-e1e04a860f1b,Antakya Bulgur Pilavı Menü 1,"28,00 TL",Günlük Menüler,37.0
+02740015-3587-459c-821c-89a868e0b799,Antakya Bulgur Pilavı Menü 2,"28,00 TL",Günlük Menüler,8.0
+804abc53-9be3-465c-9bdb-bb6aea129d78,Antakya Usulü Dolma Menü,"28,00 TL",Günlük Menüler,6.0
+0d4b9f77-1b74-4d6a-9a87-9f76e9833537,Arnavut Ciğer Menü,"32,00 TL",Günlük Menüler,16.0
+130afade-351d-41a3-a0ea-60d2f7839faf,Dana Kavurma Menü,"42,00 TL",Günlük Menüler,4.0
+d895501c-b856-4339-9fc7-dab439ce0614,Fırında Tavuk Menü,"32,00 TL",Günlük Menüler,12.0
+ebdd6c5d-9d0c-4714-be9b-ba7d85a79cdf,Ispanak Menü,"28,00 TL",Günlük Menüler,4.0
+2caf1849-0fac-41a2-b8d4-67cab65dbfd8,Karnıyarık Menü,"32,00 TL",Günlük Menüler,5.0
+1a85e7d0-c863-4409-b733-2134c153c0ff,Köfte Tava Menü,"28,00 TL",Günlük Menüler,24.0
+6fa236c4-9605-4e0f-b490-e5aa6f3e1162,Kuru Fasulye Menü,"28,00 TL",Günlük Menüler,4.0
+523c3d7f-19e6-458e-acd6-50d46f268bd7,Pilav Üstü Ciğer Menü,"24,00 TL",Günlük Menüler,13.0
+0d908c03-3dd6-449f-950b-094ba41cb76f,Pilav Üstü Tavuk Menü,"20,00 TL",Günlük Menüler,8.0
+bc03cc0e-9231-4ca9-9ece-c50933b20b2e,Tas Kebabı Menü,"42,00 TL",Günlük Menüler,7.0
+b4020e3c-af5d-4c63-a227-39aa55c92c66,Yaprak Ciğer Menü,"32,00 TL",Günlük Menüler,15.0
+4724c7fa-90de-4dd1-8f5c-cb9f151df550,Yarım Ekmek Arası Köfte Menü,"28,00 TL",Menüler,24.0
+4dd804e5-182d-40bb-aa99-2c468cbfc453,Yarım Ekmek Arası Tavuk Şiş Menü,"28,00 TL",Menüler,9.0
+a672cfe0-4f8f-4f57-b36d-07cc9900a0b0,Adana Dürüm Menü,"28,00 TL",Menüler,6.0
+b6161f6b-b42b-4d6f-8649-61d8321976d2,Ciğer Şiş Dürüm Menü,"28,00 TL",Menüler,14.0
+1217B161-DAD7-4B03-A5AF-5965B5BBD987,Ciğerli Pilav Menü,"24,00 TL",Menüler,4.0
+7d02ad9d-afff-4776-a5cd-1c5ce878f137,Adana Kebap,"28,00 TL",Kebaplar,6.0
+50c96f39-2b74-4d30-957b-e5e8d8915ab3,Özel Soslu Tavuk Göğüs,"28,00 TL",Izgaralar,16.0
+8a5fac0b-7b71-48bf-a378-e8a40a2070df,Şah Köfte,"28,00 TL",Izgaralar,32.0
+fab9f5f1-504c-4126-96eb-d1633d37a328,Tavuk İncik Şiş,"28,00 TL",Izgaralar,9.0
+a7b0c362-b319-4608-9431-f57039117aaa,Ev Yapımı Mantı,"32,00 TL",Ev Yemekleri,21.0
+4c9d0001-7056-4711-aeea-87b70e54c480,Köfte Tava,"20,00 TL",Ev Yemekleri,24.0
+b3fd533c-6b06-472a-82e2-fe228a95f2c9,Zeytinyağlı Lahana Sarması,"20,00 TL",Ev Yemekleri,7.0
+738CBA76-AC9C-498F-BD77-4312C476D7DB,Zeytinyağlı Semizotu,"18,00 TL",Ev Yemekleri,5.0
+D5CE681A-358C-4DA3-8391-0C5D442B537E,Yoğurtlu Semizotu,"20,00 TL",Ev Yemekleri,4.0
+FD403392-7E30-447C-AC12-5FBEB85B9BEF,Zeytinyağlı Kabaklı Semizotu,"20,00 TL",Ev Yemekleri,5.0
+eb8205a0-cedf-43aa-b2e3-3b70e2b638bb,Antakya Biber Dolması,"20,00 TL",Ev Yemekleri,6.0
+b40d8de1-e348-4f0a-87ff-fabd15be75d4,Antakya Kısır,"20,00 TL",Ev Yemekleri,4.0
+cb03ebca-502e-4b37-868c-8d2e1111583d,Antakya Yaprak Sarma,"20,00 TL",Ev Yemekleri,9.0
+0b70aabc-210b-496c-a432-b8861f00f3d9,Arnavut Ciğeri,"28,00 TL",Ev Yemekleri,11.0
+825f9426-2577-4024-9f76-b0865d472e84,Dana Kavurma,"32,00 TL",Ev Yemekleri,4.0
+e69f4a82-35a5-4831-aa5a-a6a50c146d78,Fırında Tavuk But,"20,00 TL",Ev Yemekleri,12.0
+4e5aeedc-a54b-475e-9788-e5964fcf7b71,Ispanak,"18,00 TL",Ev Yemekleri,4.0
+7383d831-fab1-4f78-8814-53e6ebe4907d,Karnıyarık,"20,00 TL",Ev Yemekleri,5.0
+e91c25ba-2b1c-492f-9fa6-0e82f7e9dcc3,Kızartma,"14,00 TL",Ev Yemekleri,5.0
+c85b722b-83d2-4697-8076-c865172f1339,Kuru Fasulye,"14,00 TL",Ev Yemekleri,4.0
+2707d598-8bae-4a1b-be85-313ed5aa4c12,Özel Soslu Makarna,"14,00 TL",Ev Yemekleri,12.0
+905eab67-2b62-4096-a063-87300cfd8a4b,Portakallı Kereviz,"20,00 TL",Ev Yemekleri,7.0
+e693467c-1168-40bb-b42d-ac22248e74f3,Soslu Kızartma,"16,00 TL",Ev Yemekleri,7.0
+4b64a75c-b3c9-44d5-9543-70ceefc6a191,Tas Kebabı,"32,00 TL",Ev Yemekleri,7.0
+151ef98a-cf66-4f8c-a9ab-ac3f81894fe2,Tavuk Kapama,"20,00 TL",Ev Yemekleri,9.0
+9956ec50-2613-43ab-93ac-184038baa000,Yaprak Ciğer,"28,00 TL",Ev Yemekleri,15.0
+625eb146-fcf2-45d2-a653-8ff413c803fc,Yoğurlu Soslu Makarna,"18,00 TL",Ev Yemekleri,7.0
+211749e5-0eef-4654-bfd4-1f619dd7b834,Yoğurtlu Soslu Kızartma,"18,00 TL",Ev Yemekleri,6.0
+556c993f-241d-433b-97a6-ea6e95f1d8a2,Şah Köfte Dürüm,"18,00 TL",Dürümler,27.0
+7f251674-0c76-412b-98b6-0a3f2eb86a6f,Adana Dürüm,"18,00 TL",Dürümler,6.0
+98059907-a134-436b-8112-6c90e28e1ba1,Tavuk İncik Şiş Dürüm,"18,00 TL",Dürümler,9.0
+9d85dc38-cfbe-480b-b044-8ee31bb93311,Ciğer Şiş Dürüm,"18,00 TL",Dürümler,14.0
+cf572d73-cb14-4a4b-8a0b-519e658561d4,Özel Soslu Antakya Ciğer Dürüm,"20,00 TL",Dürümler,22.0
+fbbda655-7264-48e1-9677-418dfead2a40,Özel Soslu Antakya Tavuk Şiş Dürüm,"20,00 TL",Dürümler,17.0
+1074b264-d3b6-4cba-b471-013b089492ca,Yarım Ekmek Arası Kasap Sucuk,"18,00 TL",Ekmek Arası Ürünler,5.0
+1d606ed9-ce7b-4044-8949-d92aa887ec3f,Yarım Ekmek Arası Şah Köfte,"18,00 TL",Ekmek Arası Ürünler,27.0
+707e3457-9cf4-4018-9614-2482d6e30411,Kaşarlı Bazlama Ekmeği Arası Şah Köfte,"20,00 TL",Ekmek Arası Ürünler,37.0
+be6615ef-67fa-42e9-9a84-22b05c7ad00a,Yarım Ekmek Arası Tavuk İncik,"18,00 TL",Ekmek Arası Ürünler,9.0
+5d3a9fea-a48a-4bfe-bcaa-1e5f896b86cc,Mevsim Salata,"18,00 TL",Salatalar,7.0
+495d55f2-a7dc-4d50-a2ee-8396e79efc3b,Çoban Salata,"18,00 TL",Salatalar,7.0
+38d07b81-71ed-4ea9-851a-6c9364f3533e,Zeytinyağlı Yaprak Sarma,"20,00 TL",Diğer Lezzetler,8.0
+395f804d-d17e-4d43-a3c1-ee738ed0fae6,Zeytinyağlı Dolma,"20,00 TL",Diğer Lezzetler,5.0
+46339190-6c80-482d-9ebe-54217dbbc367,Közlenmiş Patlıcan,"20,00 TL",Diğer Lezzetler,7.0
+04dedd2a-f6b8-40be-9533-985f4baeccb0,Pirinç Pilavı,"8,00 TL",Yan Ürünler,5.0
+dd4ecda3-89a0-4fe3-88e3-1f6df9e1a7aa,Antakya Usulü Bulgur Pilavı,"8,00 TL",Yan Ürünler,6.0
+feeba657-b423-468e-a637-d702e2f94602,Patates Kızartması,"16,00 TL",Yan Ürünler,5.0
+e21858e4-5024-4f5d-a541-813eba4fa178,Ev Yapımı Patates Kızartması,"16,00 TL",Yan Ürünler,8.0
+8566c813-4497-4b83-8455-870757aecb99,Piyaz,"18,00 TL",Yan Ürünler,5.0
+fe708032-8656-4e1c-9ca1-c9118dc24a05,Cacık,"8,00 TL",Yan Ürünler,6.0
+169b24e3-7e41-4c49-9d15-4898f9eedc32,Yoğurt,"10,00 TL",Yan Ürünler,4.0
+3d6be56e-2f7c-4bef-9396-26c9c172d556,Sade Kaşarlı Bazlama,"10,00 TL",Yan Ürünler,15.0
+08fbf020-f87c-4ffb-b9f1-5417fe9f8a99,Niğde Gazozu (25 cl.),"7,00 TL",İçecekler,5.0
+ec13a36a-1e98-4d88-9568-aa967b50a380,Şah Köfte (1 kg.) (Pişirilmiş),"140,00 TL",Kiloluk Ürünler,27.0
+53d55a54-6182-40df-8683-365a60accc37,Özel Soslu Tavuk İncik Şiş (1 kg.) (Pişirilmiş),"90,00 TL",Kiloluk Ürünler,16.0
+6d04c170-fe7a-4738-a4c2-47406c67306d,Özel Soslu Badem Kanat (1 kg.) (Pişirilmiş),"90,00 TL",Kiloluk Ürünler,12.0
+4a85da41-9180-457e-92fc-cca36dbbeba4,Şah Köfte (500 gr.) (Pişirilmiş),"70,00 TL",Kiloluk Ürünler,27.0
+7ab8dede-d3f0-461a-8f6a-8c50101e05cd,Özel Soslu Tavuk İncik Şiş (500 gr.) (Pişirilmiş),"50,00 TL",Kiloluk Ürünler,16.0
+04ee316a-2787-461e-9f98-d80d5d48b559,Özel Soslu Badem Kanat (500 gr.) (Pişirilmiş),"50,00 TL",Kiloluk Ürünler,12.0
+15042ebc-b0d7-4b45-98ce-882b9c9d65d9,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,339 @@
+food_id,food_name,food_price,food_category,food_score
+20606f4e-5236-4cbb-97a8-e24534c82b5d,Profiterol (2-3 Kişilik) Menü,"50,00 TL",Ekonomik Menüler,16.0
+ddc15fd2-9014-44e3-9336-75d698b2c7b7,Profiterol (3-5 Kişilik) Menü,"69,60 TL",Ekonomik Menüler,16.0
+48616ce3-07fb-4cf7-bf24-a15beae225b3,Profiterol (5-8 Kişilik) Menü,"103,60 TL",Ekonomik Menüler,16.0
+a55c15ad-69ca-433b-8493-60d7f615f4a1,Ekler (2-3 Kişilik) Menü,"53,20 TL",Ekonomik Menüler,-3.0
+fb4e2044-c39e-429b-8ee9-92aa364e7e24,Ekler (3-5 Kişilik) Menü,"74,40 TL",Ekonomik Menüler,-3.0
+516bbf86-7ce6-4a4e-9dba-db0ff341b2c2,Ekler (5-8 Kişilik) Menü,"107,60 TL",Ekonomik Menüler,-3.0
+9985158c-822d-44fa-b295-62fa49d53285,Mix Menü (2-3 Kişilik),"55,60 TL",Ekonomik Menüler,5.0
+27cdd0d9-d4c1-4898-b546-4159c7e7b7c0,Mix Menü (3-5 Kişilik),"73,60 TL",Ekonomik Menüler,5.0
+a581c70e-10ad-408f-ac00-6231e6f4ac51,Mix Menü (5-8 Kişilik),"110,00 TL",Ekonomik Menüler,5.0
+a0de3b12-f414-4739-a409-014f4af5eb3a,Tatlım 1,"24,80 TL",Ekonomik Menüler,4.0
+65acdd37-5f89-42e5-b130-f2492c1183b7,Tatlım 2,"26,40 TL",Ekonomik Menüler,-6.0
+d2431f40-34e9-4109-978c-bfc735e6e87a,Tatlım 3,"24,80 TL",Ekonomik Menüler,-2.0
+487cc2eb-0812-4827-94d1-175ec2b0c35b,Tatlım 4,"26,40 TL",Ekonomik Menüler,3.0
+d8881367-e01b-476e-8468-e20a23b4adfe,Tatlım 5,"46,80 TL",Ekonomik Menüler,1.0
+F998A17D-D608-4744-9033-71D245809834,Tatlım 6,"47,60 TL",Ekonomik Menüler,6.0
+b3a24222-b708-404f-8e4f-3473b700e3c6,Tatlım 7,"48,00 TL",Ekonomik Menüler,6.0
+f986450e-9eba-4cb3-b4db-7d41f7831375,Tatlım 8,"50,40 TL",Ekonomik Menüler,5.0
+a39df87e-f776-489e-a3c9-77002c3685f7,Tatlım 9,"46,00 TL",Ekonomik Menüler,8.0
+116c447e-53e8-4f67-8ee0-80d8805b6e73,Tatlım 10,"46,00 TL",Ekonomik Menüler,9.0
+08eb0893-3ea1-459d-81bf-1c9c7d05099f,Macaron Menü 1,"40,00 TL",Ekonomik Menüler,4.0
+b6455cdc-dbda-432d-8eae-8e8550450cc5,Macaron Menü 2,"78,00 TL",Ekonomik Menüler,-6.0
+83fa89ce-7ada-4224-89ff-231c48252096,Macaron Menü 3,"140,00 TL",Ekonomik Menüler,-2.0
+236e434d-1d53-42ee-8070-d0093d522a45,Joker Menü 1,"39,20 TL",Ekonomik Menüler,4.0
+62c015de-8f51-4dcf-a328-01f56eb4cb19,Joker Menü 2,"45,20 TL",Ekonomik Menüler,-6.0
+2727c6fc-5a93-493e-ab1c-0fb16a54c448,Joker Menü 3,"94,40 TL",Ekonomik Menüler,-2.0
+636623ff-2e67-48ac-98fd-d1169bbf0146,Joker Menü 4,"135,20 TL",Ekonomik Menüler,3.0
+77b0149f-8084-41fb-b97e-8cab4ecd222b,4'lü Mix Trileçe Menü,"68,80 TL",Ekonomik Menüler,3.0
+6af2c30b-be34-4b94-8bbf-9427af37d8c5,Ev Yapımı Özbek Mantı & Tatlı Menü,"45,60 TL",Aile Menüleri,4.0
+be6c1433-ffc2-4011-838a-a93c6b0a169b,Ev Yapımı Kayseri Mantı & Tatlı Menü,"45,60 TL",Aile Menüleri,5.0
+d08d8d50-58a8-40c1-a96a-6b6236b38a89,Ev Yapımı Boşnak Mantı Böreği & Yoğurtlu & Tatlı Menü,"36,80 TL",Aile Menüleri,4.0
+c75ada80-1310-4463-bc6e-ebd0e75d2a8b,Hafif Tatlı Menüsü,"120,00 TL",Aile Menüleri,7.0
+cfa38fff-b363-4c7a-b0e5-e31b5f6c659a,5 Çayı Menüsü,"124,00 TL",Aile Menüleri,1.0
+8898017d-b01b-4399-a132-760c8244d198,Profiterol (8-12 Kişilik) Menü,"156,40 TL",Aile Menüleri,16.0
+d627455e-905c-48c1-9117-0c17a6aeafdd,Ekler (8-12 Kişilik) Menü,"162,40 TL",Aile Menüleri,-3.0
+151d3cf4-b1c4-4f09-a721-7b5d9278b794,Mix Menü (8-12 Kişilik),"166,00 TL",Aile Menüleri,5.0
+6d6338ed-04c5-4989-837f-cb5ce5b6f583,Kahvaltı Tabağı,"23,85 TL",Kahvaltılıklar,5.0
+96497b75-59ff-47a2-8d0f-78fb21bfc108,Kahvaltı Tabağı (3 Adet),"62,55 TL",Kahvaltılıklar,5.0
+e6ed81b6-7ccf-4ce2-96c2-5d73997b684c,Özel Gurme Nutellalı Profiterol,"18,90 TL",Profiteroller,15.0
+c481e6cd-b219-4328-b77f-2c1a254f186c,Özel Gurme Nutellalı Rende Çikolatalı Profiterol,"19,80 TL",Profiteroller,15.0
+eb96c4af-41cb-4d3a-be63-4fc7b4826dcf,Rende Çikolatalı Profiterol,"14,40 TL",Profiteroller,16.0
+3c2b694f-7632-41a7-bd17-6cf6fb274eaf,Özel Gurme Profiterol,"15,30 TL",Profiteroller,16.0
+24b477b3-a11d-412f-9060-b0843b85d3d8,Özel Gurme Rende Çikolatalı Profiterol,"16,20 TL",Profiteroller,16.0
+c3ad91c3-50a7-46cc-aee5-fef110cac6d7,Nutellalı Profiterol,"16,20 TL",Profiteroller,15.0
+d21328fa-cbdf-45a3-ae94-745601a77cc5,Nutellalı Rende Çikolatalı Profiterol,"18,00 TL",Profiteroller,15.0
+d065ff98-7fe3-440b-b1db-2237329152db,Kajulu Rende Çikolatalı Profiterol,"16,20 TL",Profiteroller,16.0
+79f37ca1-9a36-4bdf-8ed1-1894d7a9d54f,Bademli Rende Çikolatalı Profiterol,"16,20 TL",Profiteroller,16.0
+0eb98531-5a56-44ff-8417-d167748ece93,Cevizli Rende Çikolatalı Profiterol,"16,20 TL",Profiteroller,16.0
+b326d922-85a7-47b7-a5da-c089055d6ace,Fındıklı Rende Çikolatalı Profiterol,"16,20 TL",Profiteroller,16.0
+744f533e-4c06-41e5-907b-b34d90aece3f,Hindistian Cevizli Rende Çikolatalı Profiterol,"14,40 TL",Profiteroller,16.0
+e733ebe2-7367-4569-8c98-52157080f34a,Yer Fıstıklı Rende Çikolatalı Profiterol,"14,40 TL",Profiteroller,17.0
+E2F6AEC6-89F6-4FC3-A134-AA0497672492,Özel Gurme Çilekli Rende Çikolatalı Profiterol,"19,80 TL",Profiteroller,15.0
+E8B00D39-C3EE-46CE-A70C-983DA41F820B,Özel Gurme Muzlu Rende Çikolatalı Profiterol,"19,80 TL",Profiteroller,16.0
+55B9A874-FE4F-49A9-A977-2052913B6539,Özel Gurme Oreolu Rende Çikolatalı Profiterol,"19,80 TL",Profiteroller,16.0
+A34A9311-A09A-4ACA-9519-5FDCA582B99E,Özel Gurme Antep Fıstıklı Profiterol,"18,00 TL",Profiteroller,17.0
+3C1C3BDA-97D4-4FC3-B8B3-70613E562FCF,Özel Gurme Yeşil Boz Tane Antep Fıstıklı Profiterol,"19,80 TL",Profiteroller,17.0
+D687995F-921D-4224-87C1-B1A232F45662,Özel Gurme Kırmızı Çifte Kavrulmuş Tane Antep Fıstıklı Profiterol,"18,90 TL",Profiteroller,17.0
+0289CFAB-3650-487E-9472-038ED0A9D3DC,Özel Gurme Oreolu Profiterol,"18,90 TL",Profiteroller,16.0
+B7CD1377-A3EC-472E-9BD0-692BF6056F00,Özel Gurme Muzlu Profiterol,"18,90 TL",Profiteroller,16.0
+7972A3C3-DE6C-45DF-9F45-681202787C59,Özel Gurme Çilekli Profiterol,"18,90 TL",Profiteroller,15.0
+5eb9749c-dc3c-49ff-be8b-181f4ea74090,Yer Fıstıklı Profiterol,"14,40 TL",Profiteroller,17.0
+afc88d81-3f20-4617-9b43-a23bcecadb6e,Özel Doğal Tahin Pekmezli (Keçiboynuzu) Profiterol,"14,40 TL",Profiteroller,16.0
+6bccb1a9-0834-44a2-b366-fb283c1f7611,Özel Türk Kahveli (Çifte Kavrulmuş) Profiterol,"15,30 TL",Profiteroller,16.0
+8797791c-82b8-4cc9-9013-87cdbccb7b3e,Hindistian Cevizli Profiterol,"14,40 TL",Profiteroller,16.0
+89187470-1427-4ba8-8527-90fdbfd5d2ef,Kajulu Profiterol,"15,30 TL",Profiteroller,16.0
+b3e99e8b-c85c-4e62-8f38-9207d61eeb6a,Fındıklı Profiterol,"15,30 TL",Profiteroller,16.0
+96065f42-4d70-48a6-8824-8751678cb0af,Özel Türk Kahveli (Çifte Kavrulmuş) Rende Çikolatalı Profiterol,"16,20 TL",Profiteroller,16.0
+f2e3310f-8ea9-428c-9976-2e8d0f60e2a4,Bademli Profiterol,"15,30 TL",Profiteroller,16.0
+450fbe0e-4fd9-4fd9-8a2c-a989b2f76adb,Cevizli Profiterol,"15,30 TL",Profiteroller,16.0
+66510f05-30b3-4c16-b880-394ed8cfd3c8,Özel Doğal Tahinli Profiterol,"16,20 TL",Profiteroller,16.0
+794c2029-48ab-439d-b379-d9304007329e,Özel Bütün Kırmızı Antep Fıstıklı (Çifte Kavrulmuş) Profiterol,"18,00 TL",Profiteroller,17.0
+ecbd8c9c-1527-452a-ae6b-e0aa6ca8220a,Özel Bütün Yeşil Boz Antep Fıstıklı Profiterol,"18,90 TL",Profiteroller,17.0
+ae973188-9b33-4e9d-801f-79a895bd5c4d,Antep Fıstıklı Rende Çikolatalı Profiterol,"18,00 TL",Profiteroller,17.0
+dfcc4f11-7b8b-4e0d-9d72-6bea2b26d222,Özel Bütün Yeşil Boz Antep Fıstıklı Rende Çikolatalı Profiterol,"19,80 TL",Profiteroller,17.0
+72A58EE2-16C8-4A59-BB07-89497BFFFD75,Antep Fıstıklı Gurme Profiterol (500 gr.),"50,40 TL",Kiloluk Profiteroller,17.0
+775AC3CB-31DA-4CA1-A96A-A46CB7C24979,Özel Gurme Rende Çikolatalı Profiterol (500 gr.),"44,10 TL",Kiloluk Profiteroller,16.0
+cd83effe-e3ec-4f91-bdb4-c9cce751bc13,Rende Çikolatalı Profiterol (500 gr.),"37,80 TL",Kiloluk Profiteroller,16.0
+fa16e01a-03e5-439a-9223-756036b45fca,Özel Gurme Profiterol (500 gr.),"39,60 TL",Kiloluk Profiteroller,16.0
+9df342d3-bd7b-43f9-9ef6-fcb22ef7b02c,Antep Fıstıklı Profiterol (500 gr.),"44,10 TL",Kiloluk Profiteroller,17.0
+182f31b9-3cda-4b30-b0a9-72f3720ed823,Yer Fıstıklı Profiterol (500 gr.),"37,80 TL",Kiloluk Profiteroller,17.0
+693fc595-7925-40ff-bbda-b375e841c4b6,Yer Fıstıklı Rende Çikolatalı Profiterol (500 gr.),"39,60 TL",Kiloluk Profiteroller,17.0
+8485322d-785b-458d-8f9f-302692227c21,Hindistian Cevizli Profiterol (500 gr.),"37,80 TL",Kiloluk Profiteroller,16.0
+efd6c579-93b0-453a-8381-6e784d2075f0,Hindistian Cevizli Rende Çikolatalı Profiterol (500 gr.),"39,60 TL",Kiloluk Profiteroller,16.0
+b71ea0aa-cccd-494f-9a78-5e2a795232e0,Antep Fıstıklı Rende Çikolatalı Profiterol (500 gr.),"48,60 TL",Kiloluk Profiteroller,17.0
+ed7b3f06-ba34-4dc1-8d0b-f55a22fa1e3f,Bademli Profiterol (500 gr.),"42,30 TL",Kiloluk Profiteroller,16.0
+e7762e2c-ed33-4379-b43b-13af2921f63b,Bademli Rende Çikolatalı Profiterol (500 gr.),"44,10 TL",Kiloluk Profiteroller,16.0
+705e3fc4-e78b-463e-a68a-3a99ff782c04,Cevizli Profiterol (500 gr.),"42,30 TL",Kiloluk Profiteroller,16.0
+adab83e6-59a6-439b-b914-8556b1ddd20b,Cevizli Rende Çikolatalı Profiterol (500 gr.),"44,10 TL",Kiloluk Profiteroller,16.0
+58cc1e1e-9092-4926-9c14-3e990c0f8400,Fındıklı Profiterol (500 gr.),"42,30 TL",Kiloluk Profiteroller,16.0
+d145f218-5cb2-4b27-b95c-1719741d7e14,Fındıklı Rende Çikolatalı Profiterol (500 gr.),"44,10 TL",Kiloluk Profiteroller,16.0
+5f923336-0205-41fe-a7c6-fe046c5c09c6,Kajulu Profiterol (500 gr.),"42,30 TL",Kiloluk Profiteroller,16.0
+1a051d01-add5-4510-a861-de358957b407,Kajulu Rende Çikolatalı Profiterol (500 gr.),"44,10 TL",Kiloluk Profiteroller,16.0
+0d69812d-d034-4ca6-a7f6-8abcc2fe066f,Özel Bütün Kırmızı Boz Antep Fıstıklı (Çifte Kavrulmuş) Profiterol (500 gr.),"44,10 TL",Kiloluk Profiteroller,17.0
+f00ef454-8875-489e-b626-aff38749b987,Özel Bütün Kırmızı Boz Antep Fıstıklı (Çifte Kavrulmuş) Rende Çikolatalı Profiterol (500 gr.),"48,60 TL",Kiloluk Profiteroller,17.0
+d0a10eaf-bda2-4cfd-beef-4ddcf03fa856,Özel Bütün Yeşil Boz Antep Fıstıklı Profiterol (500 gr.),"50,40 TL",Kiloluk Profiteroller,17.0
+de5c9651-688b-42d5-952d-6023c4b0b4a9,Özel Bütün Yeşil Boz Antep Fıstıklı Rende Çikolatalı Profiterol (500 gr.),"52,20 TL",Kiloluk Profiteroller,17.0
+650bcd82-b001-4622-aa5d-7a492c2a9f41,Özel Türk Kahveli (Çifte Kavrulmuş) Profiterol (500 gr.),"42,30 TL",Kiloluk Profiteroller,16.0
+122b036f-b7fd-40c4-8ea6-ae515f7bce5f,Özel Türk Kahveli (Çifte Kavrulmuş) Rende Çikolatalı Profiterol (500 gr.),"44,10 TL",Kiloluk Profiteroller,16.0
+0d982acd-2f35-42b2-b29c-cc604554913d,Karamel Çikolatalı Klasik Ekler,"15,30 TL",Eklerler,-4.0
+2b97eaeb-4702-4a3e-8945-b7f8ebe5fc63,Karamel Rende Çikolatalı Kaplı Klasik Ekler,"17,10 TL",Eklerler,-4.0
+0618707d-7fb3-4095-8f05-a49235e781b1,Portakal Çikolatalı Klasik Ekler,"15,30 TL",Eklerler,-2.0
+0dce7210-79d0-4b33-99ed-41a9a9bba76c,Portakal Rende Çikolata Kaplı Klasik Ekler,"17,10 TL",Eklerler,-3.0
+663d0cc2-6ee5-46c3-afa5-deb548e328ff,Nutellalı Ekler,"17,10 TL",Eklerler,-4.0
+92e2851c-e920-4ca3-8424-68cc57c6b49d,Nutellalı Rende Çikolatalı Ekler,"18,90 TL",Eklerler,-4.0
+813c94d5-960e-495d-9bf7-d2b806a61b39,Sütlü Çikolatalı Klasik Ekler,"15,30 TL",Eklerler,-4.0
+633f23ba-5360-44ea-904b-c311f163fc7d,Sütlü Rende Çikolata Kaplı Klasik Ekler,"17,10 TL",Eklerler,-5.0
+9bace5c1-8373-4c85-b756-99889cf84206,Bitter Çikolatalı Klasik Ekler,"15,30 TL",Eklerler,-5.0
+5e9f42dc-c61f-4f0b-8ad4-0b57a68c1879,Bitter Rende Çikolata Kaplı Klasik Ekler,"17,10 TL",Eklerler,-6.0
+358f5e6c-a6b9-499b-80e7-5ee2fa072a1c,Beyaz Fildişi Çikolatalı Klasik Ekler,"15,30 TL",Eklerler,-4.0
+d2dfc3bf-ab88-4748-be13-de898c456fee,Beyaz Fildişi Rende Çikolata Kaplı Klasik Ekler,"17,10 TL",Eklerler,-5.0
+79bff419-22ff-48e9-8cd8-0b781dcfbc53,Frambuaz Çikolatalı Klasik Ekler,"15,30 TL",Eklerler,-5.0
+370c3d30-d91d-4bea-985b-4414721de756,Frambuaz Rende Çikolata Kaplı Klasik Ekler,"17,10 TL",Eklerler,-6.0
+9a7a1667-e043-46dd-bd39-1737330b0e6e,Siyah Beyaz Rende Çikolata Kaplı Klasik Ekler,"17,10 TL",Eklerler,-5.0
+e215f75e-24d0-4701-a24a-a0a3058b3d41,Karışık Rende Çikolata Kaplı Klasik Ekler,"17,10 TL",Eklerler,-2.0
+c6dce199-e036-437f-993b-13daa5623859,Karamelli Ekler,"15,30 TL",Eklerler,-3.0
+83cfaa3a-cea9-49c7-a3ec-987df962f9f2,Özel Türk Kahveli (Çifte Kavrulmuş) Beyaz Fildişi Çikolatalı Ekler,"17,10 TL",Eklerler,-3.0
+fcdfb416-14e3-480e-a765-1cb663f8741b,Özel Türk Kahveli (Çifte Kavrulmuş) Sütlü Çikolatalı Klasik Ekler,"17,10 TL",Eklerler,-4.0
+e06390ad-4fe7-48fe-8fd6-6126eb8c7f41,Özel Türk Kahveli (Çifte Kavrulmuş) Beyaz Fildişi Rende Çikolatalı Ekler,"18,90 TL",Eklerler,-3.0
+3b5cac70-e490-4b49-958b-b11abe8f18a1,Özel Türk Kahveli (Çifte Kavrulmuş) Sütlü Rende Çikolatalı Klasik Ekler,"18,90 TL",Eklerler,-4.0
+e859fa09-68ab-4c7f-bbf0-51a54ce3c578,Özel Doğal Tahinli Ekler,"15,30 TL",Eklerler,-3.0
+645a9360-f6c9-49aa-b722-39c4e6ddd07e,Karamel Çikolatalı Klasik Ekler (500 gr.),"37,80 TL",Kiloluk Eklerler,-4.0
+073800c3-a44c-49b2-a95c-f7032bab690a,Karamel Rende Çikolatalı Kaplı Klasik Ekler (500 gr.),"42,30 TL",Kiloluk Eklerler,-4.0
+c0d27216-094d-440a-a10e-3503708268dc,Portakal Çikolatalı Klasik Ekler (500 gr.),"37,80 TL",Kiloluk Eklerler,-2.0
+9f0a8ea2-0a3f-4f35-9e2a-43dac69de588,Portakal Rende Çikolata Kaplı Klasik Ekler (500 gr.),"42,30 TL",Kiloluk Eklerler,-3.0
+a0682a93-821c-460a-83c4-82e8b529433a,Sütlü Çikolatalı Klasik Ekler (500 gr.),"37,80 TL",Kiloluk Eklerler,1.0
+5922e8b5-23aa-442a-a4b1-d048fea33b0b,Sütlü Rende Çikolata Kaplı Klasik Ekler (500 gr.),"42,30 TL",Kiloluk Eklerler,-5.0
+3e3fa41c-4e01-4dea-932f-0c3cf810ad70,Bitter Çikolatalı Klasik Ekler (500 gr.),"37,80 TL",Kiloluk Eklerler,-5.0
+4c20216d-0edf-4d30-a891-503fb2e045f3,Bitter Rende Çikolata Kaplı Klasik Ekler (500 gr.),"42,30 TL",Kiloluk Eklerler,-6.0
+49ce085d-710a-4478-9f20-5418aea2ef8f,Beyaz Fildişi Çikolatalı Klasik Ekler (500 gr.),"37,80 TL",Kiloluk Eklerler,-4.0
+913c88f5-5124-4549-a1ec-2308798e7b3d,Beyaz Fildişi Rende Çikolata Kaplı Klasik Ekler (500 gr.),"42,30 TL",Kiloluk Eklerler,-5.0
+62a7420c-1fc7-48a0-8db4-48d9f8d1e324,Frambuaz Çikolatalı Klasik Ekler (500 gr.),"37,80 TL",Kiloluk Eklerler,-5.0
+035247a2-c4da-4d4e-b02d-119bf5c8a000,Frambuaz Rende Çikolata Kaplı Klasik Ekler (500 gr.),"42,30 TL",Kiloluk Eklerler,-6.0
+6995b00d-a460-4e8d-82d8-77380683e1c0,Siyah Beyaz Rende Çikolata Kaplı Klasik Ekler (500 gr.),"42,30 TL",Kiloluk Eklerler,-5.0
+dca1fe63-894e-4a53-aa75-b9a025a91688,Kuru Yemişli Özel Klasik Ekler (500 gr.),"37,80 TL",Kiloluk Eklerler,-4.0
+66ab0e4d-26e7-4539-be8a-70c733504c59,Özel Türk Kahveli (Çifte Kavrulmuş) Beyaz Fildişi Çikolatalı Ekler (500 gr.),"42,30 TL",Kiloluk Eklerler,-3.0
+fd135f71-0f1e-48c1-b8d0-3aa679893652,Özel Türk Kahveli (Çifte Kavrulmuş) Sütlü Çikolatalı Klasik Ekler (500 gr.),"42,30 TL",Kiloluk Eklerler,-4.0
+a63c3f2c-66da-49de-b6ea-73cc792ad554,Cam Kavanozda Tane Frambuazlı Mago,"23,40 TL",Ev Yapımı Magolar,3.0
+99cd85f1-02c0-497e-ac40-0727cd00d911,Cam Kavanozda Oreolu Mago,"19,80 TL",Ev Yapımı Magolar,4.0
+4cc37b69-89dc-43e8-9f21-e922862bd0d9,Cam Kavanozda Nutellalı Mago,"19,80 TL",Ev Yapımı Magolar,3.0
+fe4e0663-72a8-4b0b-84b5-dee7b5349152,Cam Kavanozda Çilekli Mago,"19,80 TL",Ev Yapımı Magolar,3.0
+85713511-a1e9-4561-b792-44e15bd647a4,Cam Kavanozda Kivili Mago,"19,80 TL",Ev Yapımı Magolar,4.0
+b6f4ad81-ca44-45b1-8d00-9d3cee83a855,Cam Kavanozda Vişneli Mago,"21,60 TL",Ev Yapımı Magolar,4.0
+d53bcabb-8371-42e9-90e6-727097e4bd1d,Cam Kavanozda Nutellalı Çilekli Mago,"21,60 TL",Ev Yapımı Magolar,2.0
+a5d7fd8a-7bec-4539-b273-1cc7f358a692,Cam Kavanozda Oreolu Çilekli Mago,"21,60 TL",Ev Yapımı Magolar,3.0
+ec4035ac-702c-47c5-a86d-13b0bee4a83d,Cam Kavanozda Oreolu Muzlu Mago,"21,60 TL",Ev Yapımı Magolar,4.0
+f11f44c5-9694-47f5-baa5-21c48284ff8c,Cam Kavanozda Muzlu Çilekli Mago,"21,60 TL",Ev Yapımı Magolar,3.0
+c4b11796-16dc-4a45-9f3a-3a74b2d23f2b,Cam Kavanozda Nutellalı Muzlu Mago,"21,60 TL",Ev Yapımı Magolar,3.0
+7dd46594-6cf5-4c1c-97cd-4f7dd2f85ad8,Cam Kavanozda Nutellalı & Çilekli & Muzlu Mago,"23,40 TL",Ev Yapımı Magolar,2.0
+9b9292df-9004-42f8-9924-6c2e8a586318,Cam Kavanozda Oreolu & Çilekli & Muzlu Mago,"23,40 TL",Ev Yapımı Magolar,3.0
+bba281b7-ba71-4bc2-8374-253887dbb246,Cam Kavanozda Oreolu & Nutellalı & Muzlu Mago,"23,40 TL",Ev Yapımı Magolar,3.0
+35ee50a2-7ab9-4a1e-a1c4-d70cd62c4140,Cam Kavanozda Oreolu & Nutellalı & Çilekli Mago,"23,40 TL",Ev Yapımı Magolar,2.0
+f35875e9-e466-43bb-8a40-15761d5a9678,Cam Kavanozda Armutlu Profiterol,"19,80 TL",Özel Gurme & Yaş & Egzotik & Tropikal & Kuru Meyveli Profiteroller,15.0
+68572961-07e3-4df8-8eeb-f910b85fd79a,Cam Kavanozda Vişneli Profiterol,"21,60 TL",Özel Gurme & Yaş & Egzotik & Tropikal & Kuru Meyveli Profiteroller,15.0
+eb550654-f215-4754-b017-29cbcb90b924,Cam Kavanozda Ayvalı Profiterol,"19,80 TL",Özel Gurme & Yaş & Egzotik & Tropikal & Kuru Meyveli Profiteroller,15.0
+3d303099-ff54-462e-b574-d3d9877dc1f6,Cam Kavanozda Rende Çikolatalı Profiterol,"21,60 TL",Özel Gurme & Yaş & Egzotik & Tropikal & Kuru Meyveli Profiteroller,15.0
+b11aec97-413f-4764-9e15-dd2a30571ddc,Cam Kavanozda Üzümlü Profiterol,"21,60 TL",Özel Gurme & Yaş & Egzotik & Tropikal & Kuru Meyveli Profiteroller,15.0
+e21c233c-4b37-403b-9e98-657fee9f122b,Cam Kavanozda Elmalı Tarçınlı Profiterol,"21,60 TL",Özel Gurme & Yaş & Egzotik & Tropikal & Kuru Meyveli Profiteroller,15.0
+9b364aec-d909-44fe-a80c-898f0bc75ad2,Cam Kavanozda Frambuazlı Profiterol,"21,60 TL",Özel Gurme & Yaş & Egzotik & Tropikal & Kuru Meyveli Profiteroller,14.0
+fa1199f5-0ccc-43cd-b29a-c3aa8f86c0ff,Cam Kavanozda Muzlu Profiterol,"21,60 TL",Özel Gurme & Yaş & Egzotik & Tropikal & Kuru Meyveli Profiteroller,15.0
+ae5c5127-5ba7-4b80-bb36-8da4a62812dd,Cam Kavanozda Kuru Yemişli Profiterol,"23,40 TL",Özel Gurme & Yaş & Egzotik & Tropikal & Kuru Meyveli Profiteroller,15.0
+1a5197d8-697a-4c1e-b85b-8163d1678388,Cam Kavanozda Çilekli Profiterol,"21,60 TL",Özel Gurme & Yaş & Egzotik & Tropikal & Kuru Meyveli Profiteroller,14.0
+d258292e-28c2-4e28-96c2-93ae8e27793b,Cam Kavanozda Kuru Yemişli Rende Çikolatalı Profiterol,"23,40 TL",Özel Gurme & Yaş & Egzotik & Tropikal & Kuru Meyveli Profiteroller,15.0
+bf4b0f95-9a27-4663-8fa7-c50bbb959ca1,Cam Kavanozda Narlı Profiterol,"23,40 TL",Özel Gurme & Yaş & Egzotik & Tropikal & Kuru Meyveli Profiteroller,15.0
+dd7fedc2-8871-4368-b641-d4f3cd13914e,Cam Kavanozda Böğürtlenli Profiterol,"21,60 TL",Özel Gurme & Yaş & Egzotik & Tropikal & Kuru Meyveli Profiteroller,15.0
+18338fd1-abf4-4916-9503-56044b5c5210,Cam Kavanozda Greyfurtlu Profiterol,"21,60 TL",Özel Gurme & Yaş & Egzotik & Tropikal & Kuru Meyveli Profiteroller,15.0
+ca43f858-fcc6-446c-8ba8-8d435ad92d83,Cam Kavanozda Kivili Profiterol,"21,60 TL",Özel Gurme & Yaş & Egzotik & Tropikal & Kuru Meyveli Profiteroller,15.0
+f5cfd3a4-fd07-4dff-9a14-50d99bd5b2e2,Cam Kavanozda Limonlu Profiterol,"21,60 TL",Özel Gurme & Yaş & Egzotik & Tropikal & Kuru Meyveli Profiteroller,15.0
+05e7ff31-a962-4b85-a305-259bbd79e322,Cam Kavanozda Mandalinalı Profiterol,"23,40 TL",Özel Gurme & Yaş & Egzotik & Tropikal & Kuru Meyveli Profiteroller,15.0
+f86efd8e-a692-4129-9c08-f03171b13715,Cam Kavanozda Kuru Dutlu Profiterol,"23,40 TL",Özel Gurme & Yaş & Egzotik & Tropikal & Kuru Meyveli Profiteroller,15.0
+7ebf4940-84ef-4942-bb27-00c0097ada4f,Cam Kavanozda Mangolu Profiterol,"26,10 TL",Özel Gurme & Yaş & Egzotik & Tropikal & Kuru Meyveli Profiteroller,15.0
+e0cfc1f2-016b-426a-bd66-a7f74ed3229b,Cam Kavanozda Kuru Yaban Mersinli Profiterol,"23,40 TL",Özel Gurme & Yaş & Egzotik & Tropikal & Kuru Meyveli Profiteroller,15.0
+4d461b88-3a0a-4cbe-a402-95fc8a6a1706,Cam Kavanozda Hurmalı Profiterol,"21,60 TL",Özel Gurme & Yaş & Egzotik & Tropikal & Kuru Meyveli Profiteroller,15.0
+f66e83c1-40dc-4556-b3ea-6df3ec996681,Cam Kavanozda Papayalı Profiterol,"26,10 TL",Özel Gurme & Yaş & Egzotik & Tropikal & Kuru Meyveli Profiteroller,15.0
+696bc51c-0bc1-485e-ac6b-1da0c2a30af3,Cam Kavanozda Kuru Altınçilekli Profiterol,"23,40 TL",Özel Gurme & Yaş & Egzotik & Tropikal & Kuru Meyveli Profiteroller,15.0
+695c9f5c-b803-45f3-8ccb-2ff10aae9d6f,Cam Kavanozda Kuru İncirli Profiterol,"23,40 TL",Özel Gurme & Yaş & Egzotik & Tropikal & Kuru Meyveli Profiteroller,15.0
+8cc686bf-4065-48e4-9fd5-5e9bfd2e8ea0,Cam Kavanozda Kuru Kayısılı Profiterol,"23,40 TL",Özel Gurme & Yaş & Egzotik & Tropikal & Kuru Meyveli Profiteroller,15.0
+2997a60b-de10-402a-ad7f-04f6baa8a46e,Cam Kavanozda Siyah Kayısılı (Gün Kurusu) Profiterol,"23,40 TL",Özel Gurme & Yaş & Egzotik & Tropikal & Kuru Meyveli Profiteroller,15.0
+2d858d73-a1b3-436c-8c38-4ec50121c5aa,Cam Kavanozda Kuru Üzümlü Profiterol,"23,40 TL",Özel Gurme & Yaş & Egzotik & Tropikal & Kuru Meyveli Profiteroller,15.0
+af271242-cf59-45cb-b7df-560e427cb906,Cam Kavanozda Ananaslı Profiterol,"23,40 TL",Özel Gurme & Yaş & Egzotik & Tropikal & Kuru Meyveli Profiteroller,15.0
+10506d08-6bca-4e37-9298-7e0a56bf3ca3,Fıstıklı Özel Kuru Baklava,"20,25 TL",Geleneksel Baklavalar,6.0
+18a1ffa3-8eb1-44f3-beac-89b054a837d1,Fıstıklı Özel Kuru Baklava (500 gr.),"48,60 TL",Kiloluk Geleneksel Baklavalar,6.0
+9895905a-6d31-40b7-bbc2-5ad549e0dac3,Sütlü Nuriye (500 gr.),"35,10 TL",Kiloluk Geleneksel Baklavalar,5.0
+aadfb57f-64a6-49e0-addb-2ccbe98d2966,Fıstıklı Baklava (500 gr.),"44,10 TL",Kiloluk Geleneksel Baklavalar,6.0
+bf9ab743-b72a-4078-956b-6c3ce9ac02aa,Cevizli Ev Baklavası (500 gr.),"35,10 TL",Kiloluk Geleneksel Baklavalar,3.0
+14994BF5-40B7-4B4C-866D-3075D7E6ECE4,Özel Kaymaklı Ekmek Kadayıfı (3 Adet),"44,55 TL",Spesiyal Tatlılar,5.0
+021AA59A-7557-4EB9-870D-901621798F5A,Özel Antep Fıstıklı Kaymaklı Ekmek Kadayıfı (3 Adet),"52,65 TL",Spesiyal Tatlılar,6.0
+C09EEC20-5195-43D9-8535-8F7F13798253,Özel Hatay Çıtır Kabak Tatlısı (3 Adet),"31,05 TL",Spesiyal Tatlılar,6.0
+95D7FF25-4B4F-4886-846B-A0CFFA3AAC81,Peynir Helvası (3 Adet),"21,60 TL",Spesiyal Tatlılar,5.0
+CC535A13-1888-4A8F-93B6-5DB45C933606,Fırında Kızarmış Peynir Helvası (3 Adet),"24,30 TL",Spesiyal Tatlılar,4.0
+b28a12e8-ae0d-4a43-b6f2-dbcd7a374b0d,İzmir Bomba,"6,75 TL",Spesiyal Tatlılar,5.0
+c87ee7be-3f73-4d46-91aa-6508e4c52af0,İzmir Bomba (3 Adet),"17,55 TL",Spesiyal Tatlılar,0.0
+c2ee03c0-5bb5-4fb7-ba92-d7b4a0eebaf4,Antep Fıstıklı Kaymaklı Hayrabolu Peynir Tatlısı,"13,95 TL",Spesiyal Tatlılar,4.0
+e586ba4c-2235-4d13-87fb-82b6a188bfe6,Antep Fıstıklı Kaymaklı Hayrabolu Peynir Tatlısı (3 Adet),"37,80 TL",Spesiyal Tatlılar,4.0
+9313cf0c-c417-4d26-8ab1-65c63f430359,Sütlava Cevizli (Dilim),"10,35 TL",Spesiyal Tatlılar,4.0
+697d2c6a-8d63-42d3-880f-4b90f6725d30,Sütlava Cevizli (3 Adet),"27,00 TL",Spesiyal Tatlılar,4.0
+cea49aed-280f-4661-99ab-51dbe1b37c2f,Çikolatalı Sufle (Büyük),"14,85 TL",Spesiyal Tatlılar,4.0
+7433f15d-bc37-463b-8514-81746a7e11e0,Çikolatalı Sufle (Büyük) (3 Adet),"39,15 TL",Spesiyal Tatlılar,4.0
+28b72c1c-f07f-41f2-96a6-5428ab65d4cf,Hayrabolu Peynir Tatlısı,"5,85 TL",Spesiyal Tatlılar,3.0
+43230b35-822b-4b53-919b-43e583157e5e,Hayrabolu Peynir Tatlısı (3 Adet),"16,20 TL",Spesiyal Tatlılar,3.0
+b7c5da92-504f-4980-bd9d-f99d7e783ff6,İrmik Sufle,"14,85 TL",Spesiyal Tatlılar,4.0
+d8a67a6c-8347-46dd-9f7d-aae265421caa,Kaymaklı Hayrabolu Peynir Tatlısı,"8,55 TL",Spesiyal Tatlılar,3.0
+fb7a6ccf-0b36-419e-8458-b28355f8eb9d,Kaymaklı Hayrabolu Peynir Tatlısı (3 Adet),"24,30 TL",Spesiyal Tatlılar,3.0
+1d3a5644-d3e0-44b7-9c73-8fac81abced4,Özel İrmik Helvası (Sütlü),"11,25 TL",Spesiyal Tatlılar,5.0
+15f6510d-d49d-4a34-91bf-96b998350d35,Özel İrmik Tatlısı (Sütlü) (3 Adet),"31,05 TL",Spesiyal Tatlılar,5.0
+50e7a5a1-d87a-44e9-8e8e-7997dae970af,Özel Kaymaklı Ekmek Kadayıfı,"16,65 TL",Spesiyal Tatlılar,5.0
+d77891d9-ccbc-4b49-ba9f-f193ed9a6e86,Özel Şekerpare (2 Adet),"7,65 TL",Spesiyal Tatlılar,5.0
+e502aa7d-29f1-47ab-84dc-0d58347711e4,Sütlava Bitter Çikolatalı (Dilim),"9,45 TL",Spesiyal Tatlılar,3.0
+b6de81a1-57f2-4c8a-a5c2-b448e51b4da5,Sütlava Bitter Çikolatalı (3 Dilim),"24,30 TL",Spesiyal Tatlılar,3.0
+5bcb3d27-0d61-4fbc-828e-3c3d988f7b71,Sütlava Sade (Dilim),"7,65 TL",Spesiyal Tatlılar,3.0
+d2dc8830-6623-4817-ba92-86882254a456,Sütlava Sade (3 Dilim),"18,90 TL",Spesiyal Tatlılar,3.0
+5e8fc172-231d-4efe-8184-de9c76ef239f,Tahinli Fıstıklı Hayrabolu Peynir Tatlısı,"8,55 TL",Spesiyal Tatlılar,4.0
+2c598167-5a9a-4028-b757-0081d5de7aea,Tahinli Fıstıklı Hayrabolu Peynir Tatlısı (3 Adet),"22,95 TL",Spesiyal Tatlılar,4.0
+ad17db36-15ff-443d-b5bf-8636b9bc4de7,Özel Şekerpare (500 gr.),"22,05 TL",Kiloluk Spesiyal Tatlılar,5.0
+ad94069e-0c6d-4a6e-a3dd-50ef269c2da5,Fırında Kızarmış Peynir Helvası (250 gr.),"15,75 TL",Kiloluk Spesiyal Tatlılar,4.0
+7b2015d4-f26b-4231-ac72-406f74742e10,Özel Hatay Çıtır Kabak Tatlısı (500 gr.),"26,55 TL",Kiloluk Spesiyal Tatlılar,6.0
+33eeb9fb-ce12-4fa9-8a1d-9f340247dade,Özel İrmik Helvası (Sütlü) (500 gr.),"26,55 TL",Kiloluk Spesiyal Tatlılar,5.0
+0c0a0f3e-aaf4-44fa-ac6a-44fe576b0dfb,Kıbrıs Tatlısı (Dilim),"13,95 TL",Sütlü Tatlılar,5.0
+94e9fbb1-d424-4d58-ab8d-1f8eea1ffbdf,Portakallı Muhallebi,"15,75 TL",Sütlü Tatlılar,7.0
+04a80fcc-d517-4180-8f25-18365519823a,İncirli Muhallebi,"15,75 TL",Sütlü Tatlılar,5.0
+bc3ae60d-ad0d-4184-9001-5eb6c74a7b55,Aşure (3 Adet),"39,15 TL",Sütlü Tatlılar,3.0
+be700498-272c-4476-b359-d4fdad4f4860,Ev Yapımı Doğal Sütlaç (Fırınlamış) (3 Adet),"44,55 TL",Sütlü Tatlılar,3.0
+6731c18e-4c79-44ab-82e4-6b924efae76f,İncirli Muhallebi (3 Adet),"44,55 TL",Sütlü Tatlılar,5.0
+d74bcf80-0ca6-432b-beba-3e86c0f1a0c0,Keşkül (3 Adet),"39,15 TL",Sütlü Tatlılar,5.0
+40d20f57-4d18-4513-bf21-30c1598c8977,Supangle (3 Adet),"39,15 TL",Sütlü Tatlılar,5.0
+cf05dbef-489a-4e44-9834-a58e05a4eb3a,Çilekli Trileçe (Dilim),"12,60 TL",Trileçeler,2.0
+e4091654-fae8-417f-9c85-790cfc9d384f,Vişneli Trileçe (Dilim),"12,60 TL",Trileçeler,3.0
+1FD7A992-A646-458B-8B5E-A271745AAB93,Frambuazlı Çikolatalı Kare Mono Pasta (Dilim),"15,75 TL",Dilim Pastalar,8.0
+40513b16-d3ff-4656-b64c-5402553f53b7,Marlenka Klasik (Dilim),"17,55 TL",Dilim Pastalar,4.0
+0bb38942-d91c-4317-91d6-f231961157ac,Çikolatalı & Fıstıklı Pasta (Dilim),"14,85 TL",Dilim Pastalar,10.0
+f6664524-45e8-438f-8ee8-4644b89c40f0,Çikolatalı Rulo Pasta (Büyük),"13,95 TL",Dilim Pastalar,9.0
+3ea9ff0d-2415-45e2-8e2a-3acff8321c74,Çikolatalı Rulo Pasta,"5,85 TL",Dilim Pastalar,9.0
+14ee0d2d-26d7-487d-9ec2-b3f093edf8d7,Çilekli Rulo Pasta (Büyük),"13,95 TL",Dilim Pastalar,8.0
+e535c580-e977-492b-93e4-ea2b377b5f53,Çilekli Rulo Pasta,"5,85 TL",Dilim Pastalar,8.0
+e5c211be-ed8e-4a1d-a9c1-b52c3e7fe350,Devils Cake Çikolatalı Pasta (Dilim),"13,95 TL",Dilim Pastalar,11.0
+f27d1155-28a1-44c5-991d-c3e2317bb7b7,Medovik Üçgen Pasta (Dilim),"14,85 TL",Dilim Pastalar,9.0
+d2d0dab0-53c4-4f44-98c2-4f0bb7b0dd99,Muzlu Rulo Pasta (Büyük),"13,95 TL",Dilim Pastalar,9.0
+61bfc82b-79a8-4887-aee8-2267401b0847,Muzlu Rulo Pasta,"5,85 TL",Dilim Pastalar,9.0
+af83d760-fe1d-488b-9f22-2f703bd5f318,N-Ballım Üçgen Pasta (Dilim),"14,85 TL",Dilim Pastalar,9.0
+4e3193b1-aaed-40e4-bbbf-12dccfc4f918,N-Fıstıklım Üçgen Pasta (Dilim),"14,85 TL",Dilim Pastalar,9.0
+a4d61daf-fbf3-467a-b0a3-447fec104c39,Red Velvet Kırmızı Kadife Pasta (Dilim),"15,75 TL",Dilim Pastalar,9.0
+1BF3E214-A409-4005-9980-9298CBFC7755,Kechy Gurme Sade Dondurma (100 ml.),"10,35 TL",Keçi Sütlü Dondurmalar,13.0
+3F9F1F9F-C071-4C25-BA41-4FE40E51C76E,Kechy Gurme Sade Dondurma (500 ml.),"45,00 TL",Keçi Sütlü Dondurmalar,13.0
+9A26E22B-E97A-4105-A6D6-F34F29862B48,Kechy Gurme Sade Dondurma (1000 ml.),"85,50 TL",Keçi Sütlü Dondurmalar,13.0
+F40B7C50-79FD-4944-8460-0F03CE7E716B,Kechy Gurme Bitter Dondurma (100 ml.),"10,35 TL",Keçi Sütlü Dondurmalar,13.0
+871AF768-B7AC-42E2-AB88-B70ABF61DC8C,Kechy Gurme Bitter Dondurma (500 ml.),"45,00 TL",Keçi Sütlü Dondurmalar,13.0
+F067ABC6-6D9C-427A-AE65-D4F5A0A40347,Kechy Gurme Bitter Dondurma (1000 ml.),"85,50 TL",Keçi Sütlü Dondurmalar,13.0
+5C1FD6A2-F71D-4EBC-9898-B486FEAEE523,Kechy Gurme Yeşil Elmalı Dondurma (1000 ml.),"85,50 TL",Keçi Sütlü Dondurmalar,14.0
+83449673-64C3-4B91-BC7D-CF9F2E7BDC14,Kechy Gurme Çilekli Dondurma (1000 ml.),"85,50 TL",Keçi Sütlü Dondurmalar,13.0
+A7004B53-8957-4FD3-B22D-CFAE5F9B23BD,Kechy Gurme Doğa Dondurma (1000 ml.),"94,50 TL",Keçi Sütlü Dondurmalar,14.0
+DE47FE0E-7AA5-45DF-A334-BC156DD93DEC,Kechy Gurme Reyon Dondurma (500 gr.),"58,50 TL",Keçi Sütlü Dondurmalar,14.0
+EAA9C676-0CCB-459A-BE2B-69FB9C7A0912,Kechy Gurme Doğa Reyon Dondurma (500 gr.),"63,00 TL",Keçi Sütlü Dondurmalar,14.0
+cf896c80-12df-4327-baff-b0582552df56,"Ketçi Keçi Sütlü Sade Maraş Kol Dondurma (1,2 L.)","80,55 TL",Keçi Sütlü Dondurmalar,13.0
+8D959FB2-39AF-40D2-ABD5-00501B392088,"Ketçi Keçi Sütlü Ham Kakaolu Kol Dondurma (1,2 L.)","111,60 TL",Keçi Sütlü Dondurmalar,14.0
+32ff55f8-46db-40f0-a3b7-ff6d9116a9d0,Ketçi Keçi Sütlü Antep Fıstıklı Dondurma (500 ml.),"85,05 TL",Keçi Sütlü Dondurmalar,15.0
+B1161E72-BBB0-4D8D-A39A-C041B04E18FB,"Ketçi Keçi Sütlü Antep Fıstıklı Kol Dondurma (1,2 L.)","174,60 TL",Keçi Sütlü Dondurmalar,15.0
+2EDFDA2B-082F-496F-8C4A-F3241D0347ED,Orijinal Bask Cheesecake,"23,85 TL",Cheesecakeler,5.0
+74CA248A-5274-4C31-9325-A42B25D66607,Çikolatalı Bask Cheesecake,"20,25 TL",Cheesecakeler,5.0
+89282e22-ec0a-48d3-aceb-d1565fb7e7e6,Bask Cheesecake (3 Adet),"55,35 TL",Cheesecakeler,5.0
+3f4a5eee-2dc9-4870-b158-8f45191f716e,Çikolatalı Bask Cheesecake (3 Adet),"55,35 TL",Cheesecakeler,5.0
+71110acc-69b2-441b-a59b-0f835f0b7bac,Orijinal Bask Cheesecake (3 Adet),"66,15 TL",Cheesecakeler,5.0
+f3034457-c3a7-4386-8e18-92a327efa4f1,Limonlu Cheesecake (Mini),"5,85 TL",Cheesecakeler,5.0
+cbd09df7-9192-4ccf-b25d-99c12222dac2,Frambuazlı Cheesecake (Mini),"5,85 TL",Cheesecakeler,4.0
+BE7CB51B-CB5D-4763-9472-20D7D9C49EEE,Sade New York Cheesecake,"17,55 TL",Cheesecakeler,4.0
+15187576-0EB7-4382-97D8-37E62ED4F2E3,Limonlu New York Cheesecake,"17,55 TL",Cheesecakeler,5.0
+792E1948-7302-4D44-84C0-84A9E8D2DD2A,Frambuazlı New York Cheesecake,"17,55 TL",Cheesecakeler,4.0
+B173BFDB-F9FA-40C6-87A5-1E23BBAECE80,Cookie New York Cheesecake,"17,55 TL",Cheesecakeler,5.0
+3F0AE703-A42D-4B86-99F9-B5F7546AEEB8,Tadımlık Frambuazlı İzmir Bomba,"7,65 TL",Tadımlık Tatlılar,-1.0
+de875d53-f330-4e0d-81b9-cda449c81ac2,Tadımlık İzmir Bomba,"6,75 TL",Tadımlık Tatlılar,0.0
+dc14751a-af6d-4c0e-9ebd-61c1c0fa30e4,Tadımlık Profiterol,"7,65 TL",Tadımlık Tatlılar,16.0
+8ef62f53-03bb-4db0-9719-2ab8fa337d49,Tadımlık Sütlü Çikolatalı Ekler,"7,65 TL",Tadımlık Tatlılar,-3.0
+e321d695-421b-4821-8a1d-95681050779b,Tadımlık Beyaz Çikolatalı Ekler,"7,65 TL",Tadımlık Tatlılar,-3.0
+66a09de2-7b66-4ace-87d1-ba2ff37578a6,Tadımlık Frambuazlı Ekler,"7,65 TL",Tadımlık Tatlılar,-4.0
+fecd2d13-8f9d-4113-b657-9478a57850e1,Tadımlık Karamelli Ekler,"7,65 TL",Tadımlık Tatlılar,-3.0
+d1d4fc03-167e-4e4a-9355-8280c81201d5,Tadımlık Mini Frambuazlı Cheesecake,"7,65 TL",Tadımlık Tatlılar,4.0
+9f006e91-55cd-4d17-9096-3669e1d0446c,Tadımlık Mini Limonlu Cheesecake,"7,65 TL",Tadımlık Tatlılar,5.0
+99af94a8-46bd-43c3-8e82-cfd935eec0c2,Tadımlık Siyah Beyaz Klasik Ekler,"7,65 TL",Tadımlık Tatlılar,-4.0
+7de68a9d-2420-4c7f-998a-c837b2c192fb,Tadımlık Özel Hatay Çıtır Kabak Tatlısı,"7,65 TL",Tadımlık Tatlılar,6.0
+85aacb80-c646-42f0-8cfb-986baf39dd58,Tadımlık Özel Sütlü İrmik Helvası,"7,65 TL",Tadımlık Tatlılar,5.0
+3bc2e6e4-e3e1-4f01-ad6b-e4fa3a3522c1,Tadımlık Bitter Çikolatalı Ekler,"7,65 TL",Tadımlık Tatlılar,-4.0
+f139b8e1-3552-4d59-8bd3-064aa99a4921,Tadımlık Portakal Çikolatalı Ekler,"7,65 TL",Tadımlık Tatlılar,-1.0
+af9a6c2d-d000-4233-a000-311d14a59166,Tadımlık Çilekli Rulo Pasta,"3,15 TL",Tadımlık Tatlılar,8.0
+2885d162-3df3-4d96-8301-5a21f0f77c37,Tadımlık Muzlu Rulo Pasta,"3,15 TL",Tadımlık Tatlılar,9.0
+18b728b8-03bb-4646-ae42-f56ac89fc933,Tadımlık Çikolatalı Rulo Pasta,"3,15 TL",Tadımlık Tatlılar,9.0
+e0c0b4da-3951-4255-8a06-3079dc8e083c,Antep Fıstıklı Macaron,"5,85 TL",Macaronlar,6.0
+44d15e5c-56b1-4446-95de-e70d1728591f,Çikolatalı Fıstıklı Bukleli Pasta (6 - 8 Kişilik),"72,00 TL",Bütün Pastalar (6 - 8 Kişilik),11.0
+0ff1e562-9e26-4971-ad64-68ddb300445c,Çikolatalı Nugat Pasta (6 - 8 Kişilik),"72,00 TL",Bütün Pastalar (6 - 8 Kişilik),10.0
+c7e17474-685b-476e-87ee-f579a65396c4,Çikolatalı Rulo Baton Pasta (8 - 10 Kişilik),"79,20 TL",Bütün Pastalar (6 - 8 Kişilik),14.0
+3fd4d887-132b-440a-bb22-7e5791fdc6ed,Çilekli Rulo Baton Pasta (8 - 10 Kişilik),"79,20 TL",Bütün Pastalar (6 - 8 Kişilik),13.0
+05fad451-3593-42b8-85ab-b1aae8cf53f2,Fıstıklı Çikolatalı Pasta (6 - 8 Kişilik),"72,00 TL",Bütün Pastalar (6 - 8 Kişilik),11.0
+e67aaca5-d6af-4a3b-a96a-f8841ba091ef,Muzlu Rulo Baton Pasta (8 - 10 Kişilik),"79,20 TL",Bütün Pastalar (6 - 8 Kişilik),14.0
+34991003-23c0-41b2-8488-a7acec2104df,Ev Yapımı Dana Etli Özbek Mantı,"29,25 TL",Mantılar,2.0
+47a143e5-85ea-416b-b789-a7981648e2dd,Ev Yapımı Dana Etli Kayseri Mantı,"29,25 TL",Mantılar,3.0
+560c9df4-eec9-4af1-bf6e-e9746d002719,Ev Yapımı Kıymalı Yoğurtlu & Özel Tereyağlı Soslu Boşnak Mantı Böreği,"20,25 TL",Mantılar,2.0
+2a61200c-e3c2-474e-9884-83e077b8ebe5,Özel Duble Beyaz Peynirli Kaşarlı Su Böreği,"16,65 TL",Su Börekleri,4.0
+3c6866f0-10dc-4d07-a4ef-54de31a984c9,Özel Duble Mantarlı Kaşarlı Su Böreği,"17,55 TL",Su Börekleri,4.0
+005ac6f7-7a22-4821-bbe9-415b62acbe84,Özel Peynirli Kaşarlı Su Böreği,"14,85 TL",Su Börekleri,4.0
+9f5724d0-d1a8-46b0-b8ca-85d830792aac,Ev Yapımı Pırasalı Boşnak Böreği,"13,95 TL",Boşnak Börekleri,3.0
+7d12987f-d35f-43f6-854a-61690678adae,Ev Yapımı Bal Kabaklı Boşnak Böreği,"13,95 TL",Boşnak Börekleri,3.0
+7926b7ae-53e4-41a0-a076-8d2c1b4878f7,Ev Yapımı Patlıcanlı Dana Etli Boşnak Böreği,"15,75 TL",Boşnak Börekleri,3.0
+915efcde-1dd9-4930-b6e6-6dc5bcddbae6,Ev Yapımı Kıymalı Boşnak Böreği,"14,85 TL",Boşnak Börekleri,3.0
+ab075705-0dd8-4ff1-a7d3-bf695dc920ca,Ev Yapımı Ispanaklı Boşnak Böreği,"13,95 TL",Boşnak Börekleri,3.0
+72cb3652-73d6-4b17-98a7-7d2422a5bb91,Ev Yapımı Pırasalı Boşnak Böreği (500 gr.),"26,55 TL",Kiloluk Boşnak Börekleri,3.0
+e2c7d05f-6e2f-469c-b55d-533521b396f3,Ev Yapımı Bal Kabaklı Boşnak Böreği (500 gr.),"26,55 TL",Kiloluk Boşnak Börekleri,3.0
+e3ac0f6b-cff7-4732-bd22-285fba23f76e,Ev Yapımı Patlıcanlı Dana Etli Boşnak Böreği (500 gr.),"35,55 TL",Kiloluk Boşnak Börekleri,3.0
+11206989-4ecd-4e89-b80c-5ba01d650946,Ev Yapımı Kıymalı Boşnak Böreği (500 gr.),"31,05 TL",Kiloluk Boşnak Börekleri,3.0
+70b6e568-af7e-40c4-aae8-e5e33952c239,Ev Yapımı Ispanaklı Boşnak Böreği (500 gr.),"26,55 TL",Kiloluk Boşnak Börekleri,3.0
+8141d548-8e8e-44f5-8cf2-f91d808fa61b,Özel Maraş Dondurması (1 Top),"4,95 TL",Ado Maraş Dondurmaları,5.0
+8b99d258-a3cd-4add-ada7-619355c48ebd,Özel Maraş Dondurması (1 kg.),"66,60 TL",Ado Maraş Dondurmaları,5.0
+0e934932-0467-4aca-99b3-3c7bffda2f4b,Ado Marasta Özel Maraş Dondurması Çikolatalı Kesme Baton (500 gr.),"29,25 TL",Ado Maraş Dondurmaları,5.0
+aefbdd5b-cb2a-45e8-aabe-991fd9bfac5e,Ado Marasta Özel Maraş Dondurması Sade Kesme Baton (500 gr.),"29,25 TL",Ado Maraş Dondurmaları,4.0
+1be81c0c-7658-4b2a-8584-8b578faf5375,Ado Marasta Sade Özel Maraş Dondurması (500 gr.),"29,25 TL",Ado Maraş Dondurmaları,4.0
+54866f4d-c0fd-4349-9a22-62b2e7976c8b,Ado Marasta Maraş Dondurması Mix (500 gr.),"31,05 TL",Ado Maraş Dondurmaları,5.0
+7e3846a5-e504-4392-ac1c-2a1aabe035ad,Ado Marasta Sade Özel Kesme Maraş Dondurması (70 gr.),"5,85 TL",Ado Maraş Dondurmaları,4.0
+3a8ec975-8ba3-4fd4-b64a-20997ac25f08,Ado Marasta Çikolatalı Özel Maraş Dondurması (100 gr.),"6,75 TL",Ado Maraş Dondurmaları,5.0
+90f15084-4273-4ec1-be41-2df17e46d61a,Ado Marasta Sade Özel Maraş Dondurması (100 gr.),"6,75 TL",Ado Maraş Dondurmaları,4.0
+15e571f7-70f2-4ce0-9f96-2c5d279ed73e,Ado Marasta Sade Özel Maraş Dondurması (140 gr.),"8,55 TL",Ado Maraş Dondurmaları,4.0
+0c4ab2ab-53dc-4ce0-b788-6e82eb1c844f,Ado Marasta Sade Özel Maraş Dondurması (250 gr.),"15,75 TL",Ado Maraş Dondurmaları,4.0
+81b72f1c-ee5d-4ac0-ab3a-4c4deeff8b23,Özel Maraş Dondurması (250 gr.),"20,25 TL",Ado Maraş Dondurmaları,5.0
+73d4922d-36dc-4d7a-84d3-e50fbba48d4b,Coca-Cola Light (20 cl.),"6,75 TL",İçecekler,5.0
+9b768a38-7597-460f-ba02-267aa808c9ff,Coca-Cola Şekersiz (20 cl.),"6,75 TL",İçecekler,5.0
+3837210A-0029-47F6-B69E-7EE04C02C267,Klasik Beyoğlu Gazozu (25 cl.),"5,85 TL",İçecekler,4.0
+f6ddfe18-dca2-4663-a03a-b8d858867462,Çamlıca Gazoz (25 cl.),"5,40 TL",İçecekler,5.0
+FE5BACBC-2681-43EC-8D4D-8FC59C7F6B07,Zencefilli Beyoğlu Gazozu (25 cl.),"6,75 TL",İçecekler,5.0
+77402624-41a8-48a1-ac99-a78aa52f9267,Niğde Gazozu (25 cl.),"4,50 TL",İçecekler,5.0
+79F682B4-AF14-40D5-9FB0-FC9972DDE756,Schweppes Mandalina (25 cl.),"7,65 TL",İçecekler,5.0
+f2eb4673-f8b0-4242-8ed9-0644968d466c,Red Bull (25 cl.),"13,50 TL",İçecekler,5.0
+15af70b4-d104-44ce-95de-d2d35cd13038,Süt (20 cl.),"2,70 TL",İçecekler,4.0
+3c61b69f-9d2e-400b-9819-7e041ac028c9,Brownissa,"11,25 TL",İçecekler,5.0
+4e100037-3a73-4114-a87f-d34349d3c721,Limonata,"11,25 TL",İçecekler,5.0
+42f920c3-def9-4e79-9eb2-8bf4e056bd46,Erikli Su (33 cl.) (Cam Şişe),"4,50 TL",İçecekler,4.0
+a9d482e9-5af2-4e44-8c36-7839e7d01730,Erikli Su (50 cl.),"2,70 TL",İçecekler,4.0
+96f90325-484b-4c70-aac7-8d63ed0a7528,Erikli Su (1 L.),"4,50 TL",İçecekler,4.0
+bc40b045-ee6a-4df1-b87a-89961f12f493,"Erikli Su (1,5 L.)","5,40 TL",İçecekler,4.0
+a28169c3-385a-4517-89b1-427611745d6a,Taze Sıkma Portakal Suyu,"13,05 TL",Vitamin Bar,11.0
+c8502c46-bfdb-4c51-9aa3-80a26cafd182,Taze Sıkma Nar Suyu,"11,25 TL",Vitamin Bar,9.0
+cb930688-577e-47b9-ad39-1a4c8c771d46,Ev Yapımı Limonata,"11,25 TL",Vitamin Bar,3.0
+82b7de21-36ed-46c5-9efb-d4f8c152a0eb,Taze Sıkma Karadut Suyu,"11,25 TL",Vitamin Bar,9.0
+75247109-3156-46d7-8966-c0f133c32827,Taze Sıkma Çilekli Limonata,"13,05 TL",Vitamin Bar,8.0
+0ebb251e-cf6b-4ee8-b46a-32f4a1b8c95f,Poşet,"0,25 TL",Poşet,6.0

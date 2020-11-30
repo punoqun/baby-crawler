@@ -1,0 +1,76 @@
+food_id,food_name,food_price,food_category,food_score
+16448daa-b5c7-4441-86e2-8a96d6c985ea,Combo Menü,"25,00 TL",Menüler,5.0
+3df31b93-b6d8-4d16-9595-0596e3fab3f7,Izgara Köfte Menü,"26,00 TL",Menüler,8.0
+4c286ea6-b02e-49b1-bade-7f6faf6e54e9,Tam Parçalı Özel Pizza Menü,"32,00 TL",Menüler,25.0
+542ebd39-3920-47b9-829c-60350cadda9c,Mix Pizza (1 Kişilik) Menü,"30,00 TL",Menüler,21.0
+63a03f2f-d510-4b08-9fb7-9b0108c3d5c1,Sosisli Menü,"25,00 TL",Menüler,5.0
+6db666e2-1d0c-4538-be41-ebf68a64876b,Jumbo Ekmeğe Karışık Sandviç Menü,"25,00 TL",Menüler,3.0
+8760501f-170a-46e2-bed4-b2992a25a2d5,Chicken Fingers Menü,"25,00 TL",Menüler,5.0
+962afead-aefc-469f-af1b-9116eb3ea5f8,Izgara Tavuk Menü,"25,00 TL",Menüler,5.0
+c272b7d6-1d25-46f0-8d17-48c4d7b2e110,Hamburger Menü,"25,00 TL",Menüler,4.0
+d334a677-ea12-4128-9d7e-8b5fbcc6e1d1,Mix Pizza (2 Kişilik) Menü,"50,00 TL",Menüler,21.0
+547ef899-d46b-46c5-b8bb-d0b6b7b41234,Yarım Ekmek Arası Dana Kavurma Menü,"30,00 TL",Menüler,7.0
+18737c2c-9702-43a4-8ae9-bb48503f64d3,Veggie Pizza (3-4 Kişilik) Menü,"45,00 TL",Büyük Boy Pizza Menüleri (3 Kişilik),21.0
+334eec9f-026b-4fa4-a271-5b848811baa5,Chicken Pizza (3-4 Kişilik) Menü,"50,00 TL",Büyük Boy Pizza Menüleri (3 Kişilik),21.0
+3ec1910c-e50a-4d35-b4ff-df5c6ce8c687,Luna Pizza (3-4 Kişilik) Menü,"45,00 TL",Büyük Boy Pizza Menüleri (3 Kişilik),21.0
+47c6e472-69ef-4fb0-b2e0-9ac018f9fb07,Margherita Pizza (3-4 Kişilik) Menü,"40,00 TL",Büyük Boy Pizza Menüleri (3 Kişilik),21.0
+5c80ade5-4f69-4ef0-b601-cef95d943026,Mushroom Pizza (3-4 Kişilik) Menü,"40,00 TL",Büyük Boy Pizza Menüleri (3 Kişilik),21.0
+63daf5e7-1a37-4515-822e-715a0e03747c,Mix Pizza (3-4 Kişilik) Menü 2,"60,00 TL",Büyük Boy Pizza Menüleri (3 Kişilik),27.0
+6aa72a95-d4ea-4e28-9d8c-fd4c191a62f5,Dream Pizza (3-4 Kişilik) Menü,"45,00 TL",Büyük Boy Pizza Menüleri (3 Kişilik),21.0
+8c0f98fa-3417-478d-86ab-4900109cc457,Pastırmalı Pizza (3-4 Kişilik) Menü,"60,00 TL",Büyük Boy Pizza Menüleri (3 Kişilik),21.0
+9f3813a8-9717-4dfc-9084-3c703e6a9401,Special Pizza (3-4 Kişilik) Menü,"60,00 TL",Büyük Boy Pizza Menüleri (3 Kişilik),21.0
+feb805cf-23af-478c-9c8c-65518f4116ee,Fish Pizza (3-4 Kişilik) Menü,"55,00 TL",Büyük Boy Pizza Menüleri (3 Kişilik),21.0
+1C3E49DA-54F1-4AA7-BE40-6E57A23BD50E,Mix (L) Pizza (3 - 4 Kişilik) Menü,"50,00 TL",Büyük Boy Pizza Menüleri (3 Kişilik),21.0
+3377a2ba-1506-4e9c-8950-606292b91cd9,Mushroom Pizza (1 Kişilik),"17,00 TL",Küçük Boy Pizzalar (1 Kişilik),21.0
+33b5debf-f734-4462-bb31-aed6c8607462,Luna Pizza (1 Kişilik),"17,00 TL",Küçük Boy Pizzalar (1 Kişilik),21.0
+4ae32d36-ffd0-4eba-9b2a-6a544b98e681,Chicken Pizza (1 Kişilik),"22,00 TL",Küçük Boy Pizzalar (1 Kişilik),21.0
+8c32f10c-03e3-452f-9f3c-95a1cf56f3d2,Dream Pizza ((1 Kişilik),"19,00 TL",Küçük Boy Pizzalar (1 Kişilik),21.0
+9fd81821-470b-4929-9a66-bd7f3c9107fb,Fish Pizza (1 Kişilik),"25,00 TL",Küçük Boy Pizzalar (1 Kişilik),21.0
+b198eee0-a1c0-4a8c-9812-31400b0588cf,Margherita Pizza (1 Kişilik),"15,00 TL",Küçük Boy Pizzalar (1 Kişilik),21.0
+c9a5b9ce-52d0-4606-bffc-222a27623b8c,Special Pizza (1 Kişilik),"25,00 TL",Küçük Boy Pizzalar (1 Kişilik),21.0
+dcd847b0-d4f7-4989-9ba3-f47f2e61ed36,Veggie Pizza (1 Kişilik),"20,00 TL",Küçük Boy Pizzalar (1 Kişilik),21.0
+e38c28d5-cea6-4eeb-b659-17dea07e62b9,Mix Pizza (1 Kişilik),"20,00 TL",Küçük Boy Pizzalar (1 Kişilik),21.0
+f8179677-7fba-4522-96fc-41641402186f,Pastırmalı Pizza (1 Kişilik),"27,00 TL",Küçük Boy Pizzalar (1 Kişilik),21.0
+32ef41e3-8847-4175-b3c9-56d56a422e3f,Kavurmalı Pizza (1 Kişilik),"27,00 TL",Küçük Boy Pizzalar (1 Kişilik),21.0
+20646a37-c017-4ad7-a102-c9f98119bd63,Dream Pizza (2 Kişilik),"25,00 TL",Orta Boy Pizzalar (2 Kişilik),21.0
+25587b95-669e-4bdc-9b11-21267cb7d1b0,Fish Pizza (2 Kişilik),"37,00 TL",Orta Boy Pizzalar (2 Kişilik),21.0
+3cd5f0a1-1030-410f-a7f2-bf5b5cd8ceb9,Luna Pizza (2 Kişilik),"24,00 TL",Orta Boy Pizzalar (2 Kişilik),21.0
+5f0dbda8-88f3-4fa6-bcba-909f98fbc877,Mushroom Pizza (2 Kişilik),"25,00 TL",Orta Boy Pizzalar (2 Kişilik),21.0
+8a8cede3-d1e1-4b23-9bbf-ad4a17cdd71b,Mix Pizza (2 Kişilik),"27,00 TL",Orta Boy Pizzalar (2 Kişilik),26.0
+9a1e89d6-b71d-4461-8404-3d36b41362fc,Veggie Pizza (2 Kişilik),"27,00 TL",Orta Boy Pizzalar (2 Kişilik),21.0
+a23c1c6c-d587-4d79-ae86-b605c5906b70,Special Pizza (2 Kişilik),"37,00 TL",Orta Boy Pizzalar (2 Kişilik),21.0
+cd323100-1a19-4009-8071-9a4f9a3d730f,Margherita Pizza (2 Kişilik),"22,00 TL",Orta Boy Pizzalar (2 Kişilik),21.0
+f51c42ba-ad38-4a2b-9842-5669efcc3da8,Pastırmalı Pizza (2 Kişilik),"40,00 TL",Orta Boy Pizzalar (2 Kişilik),21.0
+faae357d-d875-4d45-9e96-b37a96f52eed,Chicken Pizza (2 Kişilik),"30,00 TL",Orta Boy Pizzalar (2 Kişilik),21.0
+f768aaa4-4b68-41af-80e3-ea38f71bfa22,Kavurmalı Pizza (2 Kişilik),"40,00 TL",Orta Boy Pizzalar (2 Kişilik),21.0
+065c8e60-c182-4d25-ae4c-0bd7043d5106,Kaşarlı & Tahinli Pizza (2 Kişilik),"18,00 TL",Orta Boy Pizzalar (2 Kişilik),21.0
+bd1ffb9d-7a40-48a0-8bba-ed5923c1a551,Kavurmalı Pizza (3 Kişilik),"60,00 TL",Pizzalar,21.0
+e0a2272d-ce19-46d1-895e-6f4269744698,Kaşarlı & Tahinli Pizza (4 Kişilik),"28,00 TL",Pizzalar,21.0
+09d4826a-0e2e-4ec5-a518-e8c724cea3c3,Kaşarlı & Tahinli Pizza (6 Kişilik),"38,00 TL",Pizzalar,21.0
+6f793060-5954-4d01-b6d1-38cb61e977a8,Ayvalık Tostu,"13,00 TL",Tostlar,7.0
+7335965a-f97a-43b4-9e18-29922abe66eb,Kaşarlı Ayvalık Tostu,"13,00 TL",Tostlar,7.0
+0a6ddae9-8df0-44e1-8b55-f9417662c372,Yarım Ekmek Arası Patates Kızartması,"12,00 TL",Ekmek Arası Ürünler,10.0
+b1d48b59-150b-4132-8bd5-c1abd1d5c03e,Yarım Ekmek Arası Izgara Köfte,"13,00 TL",Ekmek Arası Ürünler,10.0
+b6927cad-0ee1-4adf-bc1d-0ae4ae829d4e,Yarım Ekmek Arası Karışık,"13,00 TL",Ekmek Arası Ürünler,7.0
+bd5571be-fe57-4d77-8f85-311f35682730,Yarım Ekmek Arası Yumurtalı Karışık,"15,00 TL",Ekmek Arası Ürünler,7.0
+c75230b9-eb18-4e60-a7c8-704bc1f7643c,Yarım Ekmek Arası Kaşarlı Izgara Köfte,"15,00 TL",Ekmek Arası Ürünler,10.0
+e8600e60-1dd1-4811-bf46-b0921d4d07d0,Yarım Ekmek Arası Dana Kavurma,"16,00 TL",Ekmek Arası Ürünler,7.0
+965bf0b2-9c36-417c-b535-9eb686c977e8,3/4 Ekmek Arası Izgara Köfte,"20,00 TL",Ekmek Arası Ürünler,10.0
+2c9be505-add2-4b57-82ae-8c28bf8938a8,Hamburger,"13,00 TL",Burgerler,4.0
+5d154814-5d3d-4bb8-bbea-b50985810f4f,Cheeseburger,"15,00 TL",Burgerler,3.0
+a581966d-d889-46f1-91e5-ca09c7f1adc6,Jumbo Ekmeğe Karışık Sandviç,"13,00 TL",Sandviçler,8.0
+f9674d13-e426-4336-96a1-6601cac2381e,Jumbo Ekmeğe Yumurtalı Karışık Sandviç,"15,00 TL",Sandviçler,3.0
+e442f4fa-6f2d-4a78-8636-d0db1fe88a6a,3/4 Ekmek Arası Karışık Sandviç,"20,00 TL",Sandviçler,5.0
+252ecb96-6670-434b-9d57-a446c50cea93,Çiğ Köfte Dürüm,"6,00 TL",Çiğ Köfteler,16.0
+4eff5c2d-71bd-411c-8bed-51c1fd57d222,Çiğ Köfte (500 gr.),"30,00 TL",Çiğ Köfteler,12.0
+ff1da921-901d-4f53-9623-f511a62ab090,Çiğ Köfte (1 kg.),"60,00 TL",Çiğ Köfteler,12.0
+41eb44e4-9dce-4231-bfa3-e8657bdd3ebe,Chicken Fingers (5 Adet),"15,00 TL",Yan Ürünler,5.0
+5ade98d0-7449-4969-978a-f85fb0ffb0d6,Patates Kızartması,"12,00 TL",Yan Ürünler,8.0
+c2818e4a-2fd3-4f35-a653-a9f49f2d2e56,Parça Pizza,"12,00 TL",Yan Ürünler,21.0
+adb9028d-5390-4e85-b44f-3209c455efc8,Soğan Halkası (5 Adet),"6,00 TL",Yan Ürünler,5.0
+fb42f8ca-36fa-436e-a6d6-324f30c35c9c,Tiramisu (160 gr.),"13,00 TL",Tatlılar,5.0
+3c2b5375-77b3-46fd-8c5a-05728c9b1e78,Sufle (150 gr.),"13,00 TL",Tatlılar,5.0
+f70642a7-8128-4fc7-a795-d91ff80df09b,Niğde Gazozu (20 cl.),"4,00 TL",İçecekler,5.0
+c595619b-abca-4c71-9ae8-f007e9d2c4a0,"Fanta (2,5 L.)","10,00 TL",İçecekler,5.0
+b4154fad-9be1-4d9e-84c7-4866ceb7ad28,Ketçap (9 gr.),"0,75 TL",Soslar,5.0
+f079ddb1-eeeb-44e0-bed0-3a090439977b,Poşet,"0,25 TL",Poşet,5.0

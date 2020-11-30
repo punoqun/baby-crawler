@@ -1,0 +1,40 @@
+food_id,food_name,food_price,food_category,food_score
+df105e66-0d11-42fb-a7cb-4464d9519482,Çiğ Köfte Dürüm Menü 2,"20,00 TL",Ekonomik Menüler,-5.0
+b0b79cd0-13dc-432b-8119-3ee142c5220c,Zeytinyağlı Yaprak Sarma Menü,"12,00 TL",Ekonomik Menüler,5.0
+d44fb54c-4494-4906-b68f-88214b37e82b,İçli Köfte Menü,"17,00 TL",Ekonomik Menüler,5.0
+fd2ddcce-4187-44c5-a3b7-3622d61cd1a4,Midye Dolma Menü,"30,00 TL",Ekonomik Menüler,4.0
+5D1D6C12-CDB7-49A7-B720-CD776505234D,2'li Mega Dürüm Menü,"22,00 TL",Ekonomik Menüler,7.0
+475f8e97-f6f2-4762-8c0e-8ea992efb53b,Çiğ Köfte Dürüm Menü 1,"8,00 TL",Ekonomik Menüler,9.0
+dd42ce67-7a7a-4266-bd86-dab04b49c5bb,Mega Çiğ Köfte Dürüm Menü,"10,00 TL",Ekonomik Menüler,9.0
+efdb9d36-3f09-4977-a729-4393161dbabc,2'li Çiğ Köfte Dürüm Menü 1,"15,00 TL",Ekonomik Menüler,4.0
+4d8f84ba-f9dc-45cc-abf2-814321147863,2'li Çiğ Köfte Dürüm Menü 2,"20,00 TL",Ekonomik Menüler,-5.0
+c1bdfa76-df19-4315-8ef9-5b160a3d9c95,3'lü Çiğ Köfte Dürüm Menü,"23,00 TL",Ekonomik Menüler,4.0
+4451861C-7393-4F9A-BC23-DB0777993033,Ultura Mega Çiğ Köfte Dürüm,"10,00 TL",Çiğ Köfteler,4.0
+8D41228F-7D4B-4195-AECB-1A5F1E48AC50,Double Çiğ Köfte Dürüm (200 gr.),"12,00 TL",Çiğ Köfteler,4.0
+f05bd2a9-20a0-4170-a662-88213bfdd9d9,Mega Çiğ Köfte Dürüm,"9,00 TL",Çiğ Köfteler,4.0
+57810783-84c2-4a5c-b1ed-9dbc6c1d02fb,Çiğ Köfte (600 gr.) (Joker),"30,00 TL",Çiğ Köfteler,2.0
+670d41b9-6b52-449c-ac6d-d2c8b694b185,Çiğ Köfte (1 kg.) (7 Kişilik),"49,00 TL",Çiğ Köfteler,2.0
+cd965860-8141-499c-a9df-50148162047e,Güveçte Yaprak Sarma (1-2 Kişilik) (500 gr.),"20,00 TL",Yan Ürünler,3.0
+be88f9b5-407d-4beb-a43c-81b237015ef6,Hatay Usulü Kızartma İçli Köfte (3 Adet),"15,00 TL",Yan Ürünler,5.0
+a4a91063-4fb0-4752-b46a-018448ae9ae0,İzmir Midye Dolma (Küçük) (10 Adet),"10,00 TL",Yan Ürünler,4.0
+b8efdb8d-eabe-4a80-9759-6e618eb810ed,İzmir Midye Dolma (Küçük) (20 Adet),"19,00 TL",Yan Ürünler,4.0
+ca57d194-bf23-4d22-8064-8fd524bde3fa,Kızartma İçli Köfte (Adet),"6,00 TL",Yan Ürünler,5.0
+3e3ff894-eb26-4195-8ad8-8638a0ec9c61,Midye Dolma (Küçük) (25 Adet),"23,00 TL",Yan Ürünler,4.0
+be67f6b0-8561-4dd9-8df6-d4fb0cde8241,Midye Dolma (Küçük) (50 Adet),"40,00 TL",Yan Ürünler,4.0
+d52e4b44-1624-43c1-a50d-ee422b2a4f4c,Zeytinyağlı Yaprak Sarma (250 gr.),"10,00 TL",Yan Ürünler,5.0
+f719f5a4-eb70-493e-9dc2-7074c98e2aa3,Eker Sütlaç,"4,00 TL",Tatlılar,5.0
+b71d12a3-89d5-422e-be94-13adacbad3e9,Eker Sakızlı Muhallebi,"4,00 TL",Tatlılar,5.0
+f08af745-f197-4630-a437-ed81472ad57f,Eker Çikolatalı Puding,"4,00 TL",Tatlılar,5.0
+c53db6dd-ac12-4c44-b349-74418dbb20d3,Halka Tatlısı,"3,00 TL",Tatlılar,7.0
+076886a1-0a63-4cfe-9e35-4f9e59912d32,Cin Biberi,"5,00 TL",Extra Ürünler,5.0
+c8621823-f78c-48d3-868a-30328bda355f,Domates (Adet),"2,00 TL",Extra Ürünler,5.0
+24c53608-c6ae-456f-915f-6a9917794c73,Havuç (Adet),"2,00 TL",Extra Ürünler,5.0
+395b929b-e115-4f8b-b1dc-0c7597e944b3,Iceberg Marul (Yarım),"4,00 TL",Extra Ürünler,5.0
+3d750316-105c-48bf-b0c1-308573c42a03,Lavaş (Adet),"1,00 TL",Extra Ürünler,5.0
+6cf84a22-494b-4a7e-baa9-2496ed5ca788,Limon (Adet),"2,00 TL",Extra Ürünler,5.0
+f5e14114-d6ba-4566-aa3d-9652ebacc256,Maydanoz (Az),"2,00 TL",Extra Ürünler,5.0
+a75e753c-61b0-42be-b40d-367b7eabdf6f,Nane (Az),"2,00 TL",Extra Ürünler,5.0
+ae7a051f-4077-45b5-8e38-83fca81e5ea0,Salatalık Turşusu,"5,00 TL",Extra Ürünler,5.0
+19bf22fb-fb06-4ca8-b0e5-42dd1bfb9e41,Eker Yayık Ayran (30 cl.),"4,00 TL",İçecekler,3.0
+cf70eab4-83de-4a97-8be8-7efb911347ca,Su,"2,00 TL",İçecekler,5.0
+2a38360a-21af-4cfa-8760-917fa240431f,Poşet,"0,25 TL",Poşet,5.0

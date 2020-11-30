@@ -1,0 +1,22 @@
+food_id,food_name,food_price,food_category,food_score
+5b96c67a-b57e-404d-8302-732756f95618,Çift Kaşarlı Tostos,"11,00 TL",Tostoslar,6.0
+69AAA5E7-7379-4102-ADF9-DCC0B082BF99,Kavurmalı Yumurtalı Tost,"15,00 TL",Tostoslar,5.0
+70b18ed7-928d-4e8c-a40e-80061e9f0310,Karışık Tostos,"11,00 TL",Tostoslar,10.0
+ef906f19-8142-43cf-9df2-0b78299d8f6c,Kaşarlı Tostos,"9,00 TL",Tostoslar,5.0
+906aed76-7e5c-4f75-8904-437c44e9259a,Kavurmalı Tostos,"14,00 TL",Tostoslar,5.0
+b33f7f56-e10c-4618-85c9-381391b4ecd8,Mantarlı Tostos,"11,00 TL",Tostoslar,5.0
+0ae6dd80-cb03-4504-b43b-b160608e415f,Nutellalı Tostos,"12,00 TL",Tostoslar,15.0
+1ee4ad34-7480-4ed8-a182-15d18e5c8602,Pastırmalı Tostos,"14,00 TL",Tostoslar,7.0
+b4e9af1c-6867-4101-8fb2-fca1813ad66f,Pizza Tostos,"13,00 TL",Tostoslar,11.0
+595e0416-1707-42ee-9ae0-ec66daa15e32,Sucuklu Tostos,"10,00 TL",Tostoslar,5.0
+5f30d334-f213-447b-a5bd-e6081473cffb,Yengen Tostos,"12,00 TL",Tostoslar,6.0
+8f457a09-10c2-4fea-a75a-ef65c7e5e39e,Yumurtalı Tostos,"13,00 TL",Tostoslar,5.0
+4751e2df-d6d4-4a7b-8d59-59d84866d5ce,Beyaz Peynirli Sandviç,"10,00 TL",Sandviçler,8.0
+31635bed-accb-4748-bc56-15d063a183c9,Patso Sandviç,"12,00 TL",Sandviçler,10.0
+998fc64b-d6f2-4201-842a-d4282f37d3e3,Ton Balıklı Sandviç,"12,00 TL",Sandviçler,8.0
+690efdc5-8349-4c90-a031-096cd4a9a8f1,Ekmek Arası Izgara Köfte,"13,00 TL",Ekmek Arası Ürünler,5.0
+1F561A63-BD84-48BA-A7B3-B771D212ECF8,Baharatlı Patates Kızartması,"7,00 TL",Yan Ürünler,4.0
+7de7e03d-7f33-4fdd-8159-dc57e2cedba0,Fuse Tea Şeftali (20 cl.),"3,00 TL",İçecekler,5.0
+30067139-25f4-4950-b47c-05ff84a21e5f,Muzlu Süt,"7,00 TL",İçecekler,5.0
+45196979-2184-49e4-ab1b-b979a1631ce0,Cappy (1 L.),"7,00 TL",İçecekler,5.0
+3a558503-a776-44fa-8da2-643c16d2fbe5,Poşet,"0,25 TL",Poşet,5.0

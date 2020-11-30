@@ -1,0 +1,51 @@
+food_id,food_name,food_price,food_category,food_score
+ea87ca35-a6d6-4cfe-827c-81a19217d3ae,Kids Menü,"27,75 TL",Ekonomik Menüler,5.0
+a9b49604-4953-4d9c-b2b5-d86653a4486f,Fit Menü,"30,00 TL",Ekonomik Menüler,5.0
+cb474177-3ce5-414c-9354-d83a5d0df792,Çatlatan Menü,"31,50 TL",Ekonomik Menüler,5.0
+23479e56-5519-4c9f-bdfe-07ef2c02d0e3,Muhteşem 3'lü Menü,"72,00 TL",Ekonomik Menüler,7.0
+5ea847c9-9b4f-4f56-903d-147330b8cfea,Chicken Burger,"24,00 TL",Burgerler,5.0
+866ee266-f3ea-4746-aca3-6ea2113f4f50,Veggie Burger,"24,75 TL",Burgerler,9.0
+b6255bc9-911c-4cda-b8aa-4961c82c2216,Hamburger,"27,00 TL",Burgerler,8.0
+f8e4c58b-31ab-4739-a4f6-c34c78178408,Cheeseburger,"28,50 TL",Burgerler,10.0
+6ea2a1db-0991-4aea-a9db-dc7a503fb51e,Egg Burger,"34,50 TL",Burgerler,5.0
+7b88abce-fb63-4e4b-b7dd-b765df9ca107,BBQ Burger,"34,50 TL",Burgerler,10.0
+ffaba3b9-eeb8-4e6b-ad9e-899c1628b646,Mushroom Swiss Burger,"34,50 TL",Burgerler,7.0
+5c14f686-00aa-4a9e-b1c7-4fd8087fbd69,Combo Cheeseburger,"34,50 TL",Burgerler,5.0
+be189ea3-446d-491f-b0bc-29cd1b0fbe8c,Western Bacon Cheeseburger,"36,00 TL",Burgerler,5.0
+d652ea60-9b94-490a-b075-c23996ed5a94,Propper Burger,"36,00 TL",Burgerler,5.0
+b5cc98af-4a17-4a49-8078-fd482ba998a8,Texx Burger,"34,50 TL",Burgerler,5.0
+c4f4c70d-f32e-4b87-b12d-5e2b4d822013,Chipotle Burger,"39,75 TL",Burgerler,5.0
+149d6e40-071c-426f-bc69-3669800c0662,Sample Burger,"45,00 TL",Burgerler,5.0
+df80442f-d8d8-41e8-975e-7556f63ecb95,Jülyen Steak Burger,"45,00 TL",Burgerler,5.0
+be5db795-7ae9-459b-a570-e2bd7bf5981d,SoBig Burger,"45,00 TL",Burgerler,5.0
+389945da-79cf-4e7d-95e3-2d3eb2928819,Grill Steak,"43,50 TL",Izgaralar,5.0
+e7d5d920-609b-445a-8275-a55be409c6a8,Café de Paris Steak,"40,50 TL",Izgaralar,19.0
+9850add0-c060-4003-b69d-dcb69f4d28eb,Mexico Steak,"45,00 TL",Izgaralar,5.0
+0067b7bf-3918-4f10-9449-5dc0c75a6c66,Roquefort Steak,"45,00 TL",Izgaralar,5.0
+016a8f75-0245-4d02-a937-a6c4deca34eb,SoBig Steak,"45,00 TL",Izgaralar,5.0
+3f0aa070-777e-4796-8075-3f514b359812,Patates Kızartması,"15,00 TL",Yan Ürünler,6.0
+d0528f5b-050d-4ea0-bb7b-db9f9dc5db94,Elma Dilim Patates Kızartması,"15,00 TL",Yan Ürünler,6.0
+f486dab0-1b66-48e1-8ff2-ead67ed65eeb,Nugget Pane (10 Adet),"15,00 TL",Yan Ürünler,5.0
+0bc8ad34-c9de-4e60-92c0-b539d773352d,Soğan Halkası (10 Adet),"15,75 TL",Yan Ürünler,5.0
+496ca2d3-aa97-45e2-b1c1-4593a8ec88d0,Mozzarella Sticks (10 Adet),"17,25 TL",Yan Ürünler,5.0
+26205660-1f7b-48d4-833b-befe485c6d63,Cajun Basket,"20,25 TL",Yan Ürünler,5.0
+c9980760-d425-4f18-a774-5b84960d3c93,Combo Turco,"24,75 TL",Yan Ürünler,5.0
+21458bdd-bb28-48c0-9af7-9389db87df53,Season Salad,"24,75 TL",Salatalar,5.0
+eeb58156-de82-4178-acb8-58222b022da4,New York Salad,"30,00 TL",Salatalar,5.0
+7cd69cba-bc2f-4a28-a161-4705914bf433,Tuna Fish Salad,"30,00 TL",Salatalar,5.0
+5aec679f-4c87-456e-9ecb-8f8590b116f9,SoBig Steak Salad,"36,75 TL",Salatalar,5.0
+9dbe16e4-7e18-4b53-b7f5-9ae097915331,Coca-Cola (33 cl.),"4,88 TL",İçecekler,5.0
+a05da0cc-d062-4435-b4d1-695286636817,Coca-Cola (25 cl.),"4,88 TL",İçecekler,5.0
+bd7843a7-d758-4f9d-911c-dcde9ecb2d3c,Coca-Cola Light (25 cl.),"4,88 TL",İçecekler,5.0
+03b50f59-1e83-4508-9370-8880cf5c143c,Coca-Cola Şekersiz (25 cl.),"4,88 TL",İçecekler,5.0
+da5f3ccc-f061-4842-af2a-fc263c1a19cc,Fanta (33 cl.),"4,88 TL",İçecekler,5.0
+aad5e0f8-721c-4f6e-8e3d-0859efe7525c,Sprite (33 cl.),"4,88 TL",İçecekler,5.0
+94552b03-dc88-4d0b-b3a7-b7b887439201,Cappy (33 cl.),"4,88 TL",İçecekler,5.0
+d872fb7d-629b-4116-947b-4a22d2359fef,Fuse Tea (33 cl.),"4,88 TL",İçecekler,5.0
+4c600124-2586-4d98-afdb-93b9a8d770f6,Eker Ayran (30 cl.),"5,25 TL",İçecekler,5.0
+39263e39-4edc-47c7-954d-8bb31eb9e3f4,Limonata,"7,50 TL",İçecekler,5.0
+d32fd8ea-ba8f-4a50-82e4-8fca39b9c35c,Soda,"3,75 TL",İçecekler,5.0
+8673d815-29c4-4ff1-9843-d4d0782d9c9a,Su,"3,38 TL",İçecekler,5.0
+c112cdd1-83f6-480b-bfb3-bff1012b2f8a,Coca-Cola (1 L.),"8,25 TL",İçecekler,5.0
+ad92f4d4-b7f3-4c26-bca0-ad76863b7620,Sprite (1 L.),"8,25 TL",İçecekler,5.0
+c418fa90-1dc3-4de4-9888-8ceef06752ce,Poşet,"0,25 TL",Poşet,5.0

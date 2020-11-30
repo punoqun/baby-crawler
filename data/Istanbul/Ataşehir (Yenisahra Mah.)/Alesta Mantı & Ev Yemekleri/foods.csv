@@ -1,0 +1,48 @@
+food_id,food_name,food_price,food_category,food_score
+34d094de-88f6-462a-8e06-00717b8b1385,Mantı Menü,"41,30 TL",Menüler,5.0
+816d6e2f-d701-4239-9a59-0d55c59b3059,Mantı Menü (2 Kişilik),"77,00 TL",Menüler,5.0
+7af49c5b-f8ac-4dc8-b831-c5f340488da1,Köfte Menü,"42,70 TL",Menüler,1.0
+91bfdab6-13ac-4b59-8609-f1221a336785,Köfte Menü (2 Kişilik),"80,50 TL",Menüler,1.0
+5cd25a07-e143-463d-aca8-9b29b228a9db,Aile Menüsü (4 Kişilik),"139,30 TL",Menüler,5.0
+f259d6e9-7674-402b-8c85-ce9a2eaa99c0,Güveçte Etli Kuru Fasulye Menü,"21,00 TL",Menüler,4.0
+5aaffee5-a691-4230-95e5-f824a5512b9a,Sucuklu Omlet,"10,50 TL",Kahvaltılıklar,5.0
+d8669f62-c57d-4171-b4f9-4ed04c7d5697,Ispanaklı Kaşarlı Gözleme,"12,60 TL",Gözlemeler,8.0
+82b2bab8-51a6-45e5-84e8-d398c96ac0ae,Patatesli Gözleme,"11,90 TL",Gözlemeler,6.0
+067c5cd9-1378-4c99-a508-479b9e3485d2,Patırmalı Kaşarlı Çiğ Börek,"16,80 TL",Börekler,6.0
+0cc40170-dc29-456e-a9a3-41f594fa0989,Kayseri Mantısı (1 kg.),"59,50 TL",Mantılar,3.0
+6e406856-572c-46e9-ac8f-59cc2651999d,Alesta Mix Mantı,"22,40 TL",Mantılar,8.0
+51dde234-d516-4746-b345-454c18cedca0,Kayseri Mantısı,"19,60 TL",Mantılar,3.0
+e11bd4c7-f744-49dc-a2c6-96c7508b62cd,Kızarmış Kayseri Mantısı,"19,60 TL",Mantılar,2.0
+e3acd5b7-7958-4864-9b42-9c16f557a72c,Karışık Mantı (Yarı Kızarmış Yarı Haşlanmış),"19,60 TL",Mantılar,7.0
+f1ae5dee-11ef-4fa3-ab66-36721280c891,Kids Mantı,"14,70 TL",Mantılar,6.0
+79acb1d8-e3ed-4907-b627-7d1fa321baa7,Kids Kızarmış Mantı,"14,70 TL",Mantılar,5.0
+1b11ed42-4cd1-4c6a-a45d-62d07e4f1b57,Çıtır Mantı,"19,60 TL",Mantılar,8.0
+687e5820-d73d-406d-b95d-8e26ac69abf2,İri Taneli Kızarmış Mantı,"19,60 TL",Mantılar,5.0
+180a90b0-f394-4e69-9b4b-b1eb9c645266,İri Taneli Mantı,"19,60 TL",Mantılar,6.0
+b4e8cd98-ea5c-451f-b5de-fdd7d4aafcda,Ispanaklı Mantı,"18,90 TL",Mantılar,8.0
+70b8e2b9-dd3f-4f38-a93a-3a40ef683206,Patatesli Mantı,"18,90 TL",Mantılar,6.0
+37577724-c578-4932-8052-528ef47baf23,Karışık Sebzeli Mantı,"18,90 TL",Mantılar,8.0
+4f5d3d5b-4a77-4ca9-9b73-7f3e3b5efe42,Kızarmış Patatesli Mantı,"18,90 TL",Mantılar,5.0
+2818037a-d489-4b4b-aa8c-c373665dd0cf,Kızarmış Karışık Sebzeli Mantı,"18,90 TL",Mantılar,7.0
+9ee94663-2de9-428f-a771-c3972b3a7005,Kızarmış Ispanaklı Mantı,"18,90 TL",Mantılar,7.0
+a4d01288-d1c0-42d5-a68d-bde15b02ce08,Pilav Üstü Izgara Köfte,"17,50 TL",Ana Yemekler,0.0
+75DECB67-15EE-418C-8B86-6784FBC0CE4A,Pilav Üstü Kuru Fasulye,"15,40 TL",Ana Yemekler,3.0
+ac6092d9-b316-47a0-9e13-c27e2db1db25,Köfte Tabağı,"20,30 TL",Ana Yemekler,2.0
+ec74fd57-e83a-432f-91c6-b7e998296de3,Kızartma İçli Köfte (Adet),"6,30 TL",Ana Yemekler,4.0
+835db965-66db-4d09-a59d-72f7a55f8354,Mevsim Salata,"5,60 TL",Salatalar,5.0
+5027fc51-7a84-4708-b3cf-efcc44b60abe,Cacık,"5,60 TL",Yan Ürünler,5.0
+1d28bf21-0762-4104-bcd5-82a675be1d0a,Pirinç Pilavı,"7,00 TL",Yan Ürünler,5.0
+FE56A613-7EBD-48EB-A499-5296B00D87A4,Patates Kızartması (Büyük),"12,60 TL",Yan Ürünler,5.0
+CE06CC69-DE59-4854-9428-C98EB6091DE8,Karışık Turşu (Küçük),"2,80 TL",Yan Ürünler,7.0
+D472C6D6-F9C2-42C6-9C98-595C12DB0236,Karışık Turşu (Büyük),"5,60 TL",Yan Ürünler,7.0
+AD06F832-036F-4EE3-AA5E-BE75DFD07B26,Haşlama İçli Köfte (Adet),"6,30 TL",Yan Ürünler,6.0
+085DD2D0-3BC9-4AD3-ACBA-342EB00ACC24,Yoğurt (250 gr.),"4,20 TL",Yan Ürünler,3.0
+BCD250D4-3FFE-43A6-8876-CDD0AFEA1312,Yoğurt (400 gr.),"5,60 TL",Yan Ürünler,3.0
+0ea3266c-ad3d-40e4-8bc3-551a96278198,Katmer Tatlısı,"10,50 TL",Tatlılar,3.0
+50bdaf40-fc95-4bd1-9c78-d74f881be10f,İrmik Helvası,"7,00 TL",Tatlılar,4.0
+0455F8C8-A398-45CE-AFD6-A61896B7DD62,Çikolatalı Cheesecake,"9,73 TL",Tatlılar,5.0
+D4DE5126-FD68-4799-A177-A4495A15AE1A,Çikolatalı Pasta,"10,43 TL",Tatlılar,5.0
+55091FB7-1F58-4848-B71A-D11A2B0C590C,Tiramisu,"9,03 TL",Tatlılar,4.0
+66ee55e9-06a2-41c4-a2b5-b9b095560580,Niğde Gazozu (25 cl.),"2,80 TL",İçecekler,5.0
+d402cd0f-721b-4fe3-bd5f-0453c2b658f1,Çamlıca Gazozu (25 cl.),"2,80 TL",İçecekler,5.0
+bc413e8a-37aa-4116-a978-ed6bff9353d9,Poşet,"0,25 TL",Poşet,5.0

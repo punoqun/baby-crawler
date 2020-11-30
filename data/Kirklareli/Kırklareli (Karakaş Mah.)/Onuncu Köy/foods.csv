@@ -1,0 +1,31 @@
+food_id,food_name,food_price,food_category,food_score
+0ae59d72-0ce1-49a2-8e17-9989486422e8,Menü 1,"25,00 TL",Menüler,30.0
+9fe784a5-c582-459c-80ac-576539994d37,Menü 2,"25,00 TL",Menüler,15.0
+9D8B6D55-774F-4DC7-8EAB-920E86777DDF,Menü 3,"18,00 TL",Menüler,11.0
+B4D7E2F6-641E-4F68-B72B-3C53E1B02DF8,Menu 4,"10,00 TL",Menüler,12.0
+ab2abc8b-d9a8-444a-9113-fd450a6679f9,Izgara Köfte,"22,00 TL",Izgaralar,4.0
+acbf42ad-5073-48dc-8e2e-7e36cb8b04af,Izgara Sucuk,"22,00 TL",Izgaralar,5.0
+853cf253-3a1d-4f63-add7-4a2a259542b7,Kuzu Şiş,"25,00 TL",Izgaralar,5.0
+964AC4D0-7A60-4A1B-86DB-AEC34DFB8D62,Dana Antrikot,"35,00 TL",Izgaralar,5.0
+C835F4B1-DC0D-4744-8446-126857529215,Izgara Tavuk,"18,00 TL",Izgaralar,5.0
+382c985b-98f8-4a5e-86f2-498b77e2e52a,Çömlekte Kuru Fasulye,"10,00 TL",Ev Yemekleri,10.0
+abd80344-811b-41c3-9f46-246c8c54189f,Ekmek Arası Izgara Köfte,"12,00 TL",Ekmek Arası Ürünler,10.0
+493610ae-cbbb-4138-8199-72499f90a46e,Yarım Ekmek Arası Izgara Sucuk,"12,00 TL",Ekmek Arası Ürünler,6.0
+84a78aa8-feab-4dd9-9b5b-dd63a68f88d5,Yarım Ekmek Arası Kuzu Kokoreç,"13,00 TL",Ekmek Arası Ürünler,6.0
+103c9bdf-816b-466f-b894-208ec94eef40,Ekmek Arası Tavuk Köfte,"10,00 TL",Ekmek Arası Ürünler,5.0
+62939853-08D2-4EE5-BADB-C2A265E9D1E6,Ekmek Arası Izgara Sucuk,"17,00 TL",Ekmek Arası Ürünler,6.0
+c41d3060-d28c-4929-a8b6-826c7746dc49,Ekmek Arası Biftek Köfte,"17,00 TL",Ekmek Arası Ürünler,5.0
+251E3C9A-6E7F-4D4C-ABD9-89A66FD583CE,Ekmek Arası Izgara Tavuk,"10,00 TL",Ekmek Arası Ürünler,6.0
+aaec4307-5d9b-4c2f-bf8d-2ebf84cbc7d7,Koyun Yoğurdu,"5,00 TL",Diğer Lezzetler,6.0
+1992ee29-2902-4471-a166-f598262fda8f,Türkmen Pilavı,"9,00 TL",Diğer Lezzetler,7.0
+3F4DAC81-E795-4359-AA28-04C034C69080,Sarımsaklı Cacık,"7,00 TL",Diğer Lezzetler,5.0
+BE771EB7-45A4-4C22-9647-8DF80A0E0009,Çoban Salata,"7,00 TL",Salatalar,5.0
+699f3fbe-1076-4ef3-9927-bd4b043e2821,Hayrabolu Tatlısı,"5,00 TL",Tatlılar,6.0
+c901aa42-31d6-4f36-a7f3-7dd6cc2e0de9,Kadayıflı Muhallebi,"5,00 TL",Tatlılar,7.0
+4f1d2d94-3963-4883-ae3f-18e28823b981,Yedigün (20 cl.),"3,00 TL",İçecekler,5.0
+e8c14e2b-3754-4de8-bc91-9ce486f56ae0,Fruko (20 cl.),"3,00 TL",İçecekler,5.0
+A3FD553E-0D80-4C0B-A98B-FD8AE127BE16,Freşa Limonlu Soda (20 cl.),"2,00 TL",İçecekler,5.0
+E0BAD353-B124-4054-930B-C42BF08E02EA,Limonata (1 L.),"7,00 TL",İçecekler,5.0
+CBCCA0DD-9A71-4FCC-87AD-07B23E8E118E,Izgara Köfte (1 kg.),"80,00 TL",Kiloluk Ürünler (Pişirilmiş),4.0
+AFEEDFA6-7B44-4E48-9E19-8E8DE8FEAAFD,Izgara Sucuk (1 kg.),"80,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+2d979bf7-5f26-4905-8774-7d9501724b3e,Poşet,"0,25 TL",Poşet,5.0

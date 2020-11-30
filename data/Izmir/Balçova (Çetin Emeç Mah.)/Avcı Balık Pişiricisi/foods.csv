@@ -1,0 +1,48 @@
+food_id,food_name,food_price,food_category,food_score
+2cf5bb0c-2fdc-428c-916a-0eb1d49dae0f,Deniz Çipura Menü,"45,00 TL",Menüler,10.0
+64c25a60-2b9e-427d-a383-010f23de3b1c,Sardalya Tava Menü,"17,00 TL",Menüler,15.0
+9cb094a2-cd31-435a-bf96-83016c1da49e,Sardalya Tava (Kılçıksız) Menü,"20,00 TL",Menüler,20.0
+99E8898E-B1D2-42B2-9D85-DDD5702E9615,Kanka Izgara Menü,"60,00 TL",Menüler,12.0
+6be868e9-5403-41d0-83c8-3377edb44bd0,Ara Sıcak Menü,"100,00 TL",Menüler,10.0
+c8fca841-ddd0-436d-9dca-e584290f44a8,3/4 Ekmek Arası Kılçıksız Sardalya Menü,"15,00 TL",Menüler,20.0
+73fdb78f-23ec-45b5-8010-e04ec9fc4e4b,Ekmek Arası Ton Balıklı Sandviç (Soğuk) Menü,"15,00 TL",Menüler,12.0
+e3069193-f90a-4a28-9921-87517f7252ad,Deniz Levrek Menü,"50,00 TL",Menüler,11.0
+d63a88d6-4848-494c-809a-143fc5ece0b4,Ekmek Arası Sardalya Menü,"13,00 TL",Menüler,23.0
+7d8b0ac7-a07d-4e06-b75d-12a46cbe0be6,Izgara Çipura Menü,"30,00 TL",Menüler,11.0
+14795926-1c80-4fe4-b015-a425d7468f4f,Izgara Levrek Menü,"35,00 TL",Menüler,12.0
+6806ec6e-dab8-44ae-a842-53080756fa8d,Izgara Somon Menü,"40,00 TL",Menüler,12.0
+BBAA1C21-6F68-4791-A87D-B103D4ADBA6C,Kaba Lidaki Tava Menü,"25,00 TL",Menüler,8.0
+eca62f83-6c02-4191-81a5-7b9412d56d6f,Tereyağlı Karides,"45,00 TL",Ara Sıcaklar,5.0
+ee46986b-7da8-482d-9c75-b6122eab2448,Midye Tava,"20,00 TL",Ara Sıcaklar,7.0
+ef8f7806-279d-4682-94b6-ad732dc01e88,Okyanus Lokumu (5 Adet),"20,00 TL",Ara Sıcaklar,7.0
+CD9CFB8C-343A-46BC-997A-60CDEE2B16C6,Karides Söğüş,"40,00 TL",Ara Sıcaklar,5.0
+1e4b825a-da95-4aa4-b822-2631e19d3a13,Tekir Tava,"30,00 TL",Tavada Balıklar,7.0
+6df76332-e510-441d-a410-8baac205cfaf,Mezgit Tava,"30,00 TL",Tavada Balıklar,5.0
+e5942b6e-aa69-449b-8b75-89d7749aead6,Hamsi Tava,"17,00 TL",Tavada Balıklar,5.0
+9666dd00-c1ce-47e3-8cdd-e56b692a3de6,Ekmek Arası Sardalya (Kılçıksız),"13,00 TL",Ekmek Arası Ürünler,15.0
+D7B55A1E-E4CA-4413-A6B6-1028F1710A45,Ekmek Arası Midye Tava,"13,00 TL",Ekmek Arası Ürünler,11.0
+fb7723fc-56c8-4b6d-a2e1-f2e452b1c95c,3/4 Ekmek Arası Kılçıksız Sardalya,"17,00 TL",Ekmek Arası Ürünler,17.0
+1bf5015f-8c16-4758-8832-5f9adc5e3373,Atom,"12,00 TL",Mezeler,5.0
+36f73a7d-64ae-4589-bbc3-4bb51f8a05bb,Közlenmiş Biber,"12,00 TL",Mezeler,5.0
+a8d92472-e23d-4116-a337-c902552b9f6e,Karışık Turşu,"12,00 TL",Mezeler,5.0
+e7878d3f-010c-4582-946e-b741eee8a0b8,Rus Salatası,"12,00 TL",Mezeler,5.0
+0248f993-7806-4c5a-80ca-adc207078b4c,Roka Tabağı,"2,00 TL",Yan Ürünler ,5.0
+8e8896c8-804c-45fd-ba49-5c8a5e0df1a3,Soğan Tabağı,"2,00 TL",Yan Ürünler ,5.0
+fd5b4a72-6508-4651-82bc-3a4786b042d2,Limon Tabağı,"2,50 TL",Yan Ürünler ,5.0
+327eb5eb-beea-47ca-a837-85eca9314832,Ekmek,"2,50 TL",Yan Ürünler ,9.0
+1872af21-ee2f-4fd9-b709-ecc86ee19859,Çoban Salatası (1 Kişilik),"15,00 TL",Salatalar,5.0
+4863748c-6a6d-4082-b924-9638789641e5,Çoban Salatası (Duble),"15,00 TL",Salatalar,5.0
+58e1a272-53a7-4b00-bd59-bfaf9e8d0fec,Roka Salatası (Duble),"15,00 TL",Salatalar,5.0
+814c2481-b396-4f5d-8c08-aefeaa09cd7f,Mevsim Salata (Duble),"15,00 TL",Salatalar,5.0
+e7de7658-1202-4293-a438-f5b391b2c108,Roka Salatası (1 Kişilik),"10,00 TL",Salatalar,5.0
+edec1ee1-c376-4735-b58c-cacbeefd0f95,Mevsim Salata (1 Kişilik),"10,00 TL",Salatalar,5.0
+e77509a0-a887-4653-9537-773e779f7f9f,Coca-Cola Şekersiz (20 cl.),"4,50 TL",İçecekler,5.0
+4bdbdcf7-f228-40a0-ba00-33d71782f9fa,Pepsi Max (20 cl.),"4,50 TL",İçecekler,5.0
+1cf9fbfb-569f-446a-bdb5-814c805aea94,Yedigün (20 cl.),"4,50 TL",İçecekler,5.0
+d1b2dcea-0e61-4788-b2aa-cefdf47e54e4,Niğde Gazozu (20 cl.),"4,00 TL",İçecekler,5.0
+4C8BD0DB-8465-489B-8BCE-DBA7D3E2E031,"Fanta (1,5 L.)","10,00 TL",İçecekler,5.0
+FA08C50F-DC42-4985-BC7E-08725B6689D8,"Sprite (1,5 L.)","10,00 TL",İçecekler,5.0
+4EAA38DC-57A1-407A-84E5-928F2C203688,Coca-Cola (2 L.),"11,00 TL",İçecekler,5.0
+15c85c5b-4869-4c88-812a-89ebe173c3cd,Sardalya Tava (1 kg.),"35,00 TL",Kiloluk Balıklar (Pişirilmiş),17.0
+784b427f-44af-4f20-a4c4-58de90eb428c,Hamsi Tava (1 kg.),"45,00 TL",Kiloluk Balıklar (Pişirilmiş),5.0
+F8EE7B3B-F185-4AA2-8243-146547C0BF83,"Sardalya Tava (1,5 kg.)","50,00 TL",Kiloluk Balıklar (Pişirilmiş),12.0

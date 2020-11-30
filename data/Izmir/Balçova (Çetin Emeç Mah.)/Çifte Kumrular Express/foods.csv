@@ -1,0 +1,39 @@
+food_id,food_name,food_price,food_category,food_score
+dd657a09-4c70-4ef8-9ed4-b78db9622e56,Kıtır Patatesli Cheeseburger Menü,"32,00 TL",Menüler,3.0
+94ab13df-57dd-40c7-8055-d0a0211863e0,Kızartılmış Mantarlı Karışık Ayvalık Tostu Menü,"21,00 TL",Menüler,3.0
+db89dbc2-0c62-4ca5-a6d0-475b5fc4d5cb,Çarşamba Kumru Menü,"26,50 TL",Menüler,4.0
+7e490ac9-f89a-472f-a634-06ad2fb42fc5,Yumurtalı Karışık Ayvalık Tost Menü,"22,50 TL",Menüler,3.0
+0643679f-56dd-4882-8ac0-6378a8e5ed06,Yumurtalı Kaşarlı Ayvalık Tost Menü,"21,00 TL",Menüler,3.0
+4bbfe68c-4510-4ada-a7dc-0d757fbbd3a3,Karadeniz Kumru,"25,00 TL",Kumrular,6.0
+ae1b1c63-dd29-474b-9758-bc9a53c79cfd,Çarşamba Kumru,"20,00 TL",Kumrular,6.0
+15e189cd-a8ee-44da-bbbe-de2a6f9a0155,Cheddarlı & Salamlı & Kasap Sucuklu Ayvalık Tostu,"16,50 TL",Tostlar,5.0
+083bbc92-9065-41d1-9e7b-f89f1069a104,Cheddarlı & Salamlı & Kasap Sucuklu Susurluk Tostu,"16,50 TL",Tostlar,5.0
+b39b89ab-243c-46d9-9bb3-ceb4e42e0e4b,Cheddarlı & Kasap Sucuklu Ayvalık Tostu,"16,50 TL",Tostlar,5.0
+026724ed-d92b-4356-9dcd-c7ab8f64a479,Cheddarlı & Kasap Sucuklu Susurluk Tostu,"16,00 TL",Tostlar,5.0
+10940d97-d828-4922-98d1-66162c71c212,Çift Kaşarlı Ayvalık Tostu,"16,00 TL",Tostlar,5.0
+65fcf89c-adf0-40fe-a245-7f5482b9d95e,Çift Kaşarlı Susurluk Tostu,"15,50 TL",Tostlar,5.0
+ac52c03e-bfdc-428c-9404-494b5de72ce3,Kaşarlı & Salamlı Ayvalık Tostu,"16,50 TL",Tostlar,5.0
+4f12bead-9716-456f-b28a-e22d46816e24,Kaşarlı & Salamlı Susurluk Tostu,"16,00 TL",Tostlar,5.0
+f79e823b-0650-42b9-847b-4c5672ff2c4c,Kaşarlı & Kasap Sucuklu & Salamlı Ayvalık Tostu,"16,50 TL",Tostlar,5.0
+c3836885-ad82-42c2-b8c8-35f7284e85f2,Kaşarlı & Kasap Sucuklu & Salamlı Susurluk Tostu,"16,00 TL",Tostlar,5.0
+cf526eca-6c51-4820-91a0-8c467ef35967,Kaşarlı & Kasap Sucuklu Ayvalık Tostu,"16,50 TL",Tostlar,5.0
+58e87234-993b-4f8f-aa23-41bcc7822e6b,Kaşarlı & Kasap Sucuklu Susurluk Tostu,"16,00 TL",Tostlar,5.0
+a3bfcf9e-d083-4ecd-a49f-00a91fe997cf,Kızartılmış Mantarlı Karışık Ayvalık Tostu,"18,50 TL",Tostlar,5.0
+1913aa34-bbef-4f8b-b3d3-2cfd302c176d,Light Tost,"12,00 TL",Tostlar,5.0
+29e27039-35ab-479a-878b-f253741fb748,Ton Balıklı Susurluk Tost,"17,00 TL",Tostlar,5.0
+fd2c512c-bdf6-4b02-8fde-1c322e52b8c9,Yumurtalı Karışık Ayvalık Tostu,"18,50 TL",Tostlar,5.0
+b7b6e39c-ff5b-4992-8f78-8e9e7ab36493,Yumurtalı Kaşarlı Ayvalık Tostu,"17,50 TL",Tostlar,5.0
+69d38cb9-5091-47eb-a6d4-b62783bd1766,Kaşarlı Sandviç,"16,50 TL",Sandviçler,3.0
+53e5499f-2f70-47b0-8105-b547fba86b5c,Patsoex Sandviç,"16,00 TL",Sandviçler,3.0
+9924b5d6-e890-469d-97dd-477c25c7b4f2,Raniş Sandviç,"20,50 TL",Sandviçler,3.0
+fb56c1d6-77c4-45b8-b34c-02ff15d555f9,Ev Yapımı Hamburger,"24,00 TL",Burgerler,5.0
+a3445fd9-75e5-4458-9a0c-cad4c45d2d58,Ev Yapımı Üç Kat Burger,"50,00 TL",Burgerler,6.0
+30ccd2ff-3fe4-4798-9670-940b9e2efb36,Ev Yapımı Anadolu Ateşi Burger,"31,00 TL",Burgerler,6.0
+17c00e1e-73cb-46a0-8249-7e90c14df84a,Ev Yapımı Patso Burger,"22,00 TL",Burgerler,6.0
+7a58313b-32a4-46aa-a1c3-e9aa36a6d1ca,Ev Yapımı Kıtır Patatesli Cheeseburger,"23,00 TL",Burgerler,5.0
+c929403d-b79d-47e8-b111-bace8834a4e2,Rus Salatası,"8,00 TL",Yan Ürünler,3.0
+d5d84d86-5ba9-4d6a-8bc9-6f60fda1ae2c,Soğan Halkası (6 Adet),"8,00 TL",Yan Ürünler,5.0
+adb61afe-bb24-4223-a10c-ea6084fa70e1,Haydari,"8,00 TL",Yan Ürünler,5.0
+2bbae01d-b36f-4aa6-9084-53db3c5d1f37,Paprika,"6,00 TL",Yan Ürünler,5.0
+7ca81f98-d4f3-4eb7-9aa2-bd133a4dabe4,İtalyan Salatası,"8,00 TL",Yan Ürünler,5.0
+9a79cf88-0258-4fa9-a246-bfad55e4be11,Poşet,"0,25 TL",Poşet,5.0

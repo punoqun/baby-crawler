@@ -1,0 +1,40 @@
+food_id,food_name,food_price,food_category,food_score
+e55c8934-0ed6-43d8-828d-5a13ef61cdd9,Menü 1,"90,00 TL",Menüler,12.0
+0cd0c841-cf69-407c-90c4-7658511eab23,Menü 2,"90,00 TL",Menüler,4.0
+C8DF6D53-4C57-4F3D-85B5-94F0563AA286,Süper Combo,"50,00 TL",Başlangıçlar,11.0
+DB90F1AA-4C4A-411E-B852-0BBD8FD35D00,Soğan Halkası (5 Adet),"6,00 TL",Başlangıçlar,5.0
+4b3783f4-30a5-4ff6-930b-0b9a2b796531,Falafel,"20,00 TL",Başlangıçlar,4.0
+16814e28-27f2-4305-b948-b11b910301f4,Combo Strike,"33,00 TL",Başlangıçlar,3.0
+e94b650c-ebd6-4170-9a6a-a7e2a7ae9f9e,Frankfurter Sosis,"30,00 TL",Başlangıçlar,5.0
+23d43fa3-f232-4378-98bd-dd99cea5b930,Aduket,"30,50 TL",Başlangıçlar,5.0
+65716180-0666-4d6b-9b51-a35020e3d095,Onion Rings,"17,00 TL",Başlangıçlar,5.0
+f2cfab85-c6c8-4d3a-bfdc-13c7004b7bbc,Crispy Chicken Tenders,"28,00 TL",Başlangıçlar,5.0
+FAA92BC1-E8E7-45F9-B14C-2B4DDAE40C67,Zirve Burger,"45,00 TL",Burgerler,6.0
+8CA255FD-1486-42EE-9F2A-DAD42249A2BB,Trüf Burger,"32,00 TL",Burgerler,6.0
+AE694CEB-D863-4D7F-B6B8-2E68259AE424,Koko Burger,"39,50 TL",Burgerler,6.0
+99d3aa46-d05a-4393-89e1-865b5948d698,Mantar Rüyası (Mushroom Bomb Burger),"37,00 TL",Burgerler,10.0
+ed8b896f-da10-43e5-80a3-eb421ca34522,T.N.T (Acılı Burger - 200 gr.),"43,00 TL",Burgerler,12.0
+e5c64d19-d228-42f2-b8fb-58bad2ddf7b7,Mexica 86 (Acılı Burger),"38,00 TL",Burgerler,5.0
+c74a9068-4741-4718-8893-37190886fc9b,Gecekondu (Cheddar Kaşar),"40,00 TL",Burgerler,5.0
+27b6f6bf-0aa8-456e-990c-8288eef4c62e,Çok İyi Ya (Cheeseburger),"31,50 TL",Burgerler,68.0
+87609cbb-9e89-4c58-a1ea-128b67693cff,Afacan (Çocuk Burger),"23,00 TL",Burgerler,5.0
+e10308f9-3a33-4656-8f49-e7aef245615b,Çatapat (Crispy Chicken Burger),"26,50 TL",Burgerler,5.0
+72272143-7c78-4871-88aa-86a35eb941db,Öyle Ölmem Füze At (Füze Burger),"38,00 TL",Burgerler,5.0
+6dd34180-b3a7-4357-8dc1-5da7ef36f438,Sulugöz (Juicy Lucy's),"42,00 TL",Burgerler,6.0
+5fc90d56-6530-4137-aafd-bfa2be4bf635,Ağır Abi (Kaburga Burger),"39,00 TL",Burgerler,8.0
+e5d7dd69-52a9-466b-b30a-2563ea98d4ad,90'lar Hit (Klasik Burger),"28,50 TL",Burgerler,10.0
+b4d211c2-c061-4d80-9b69-5b241e142b47,Rocky (Philly Cheese Steak Burger),"36,00 TL",Burgerler,9.0
+809ea699-c639-48bb-b71e-db1befce3a0d,Six Pack,"49,50 TL",Burgerler,4.0
+3db4dc61-8c94-4129-9c4c-b15b1fd82136,Tavuk Burger,"27,00 TL",Burgerler,3.0
+8efb9f61-3c20-4986-ab4e-27265a6f0263,Simple Hot Dog,"23,00 TL",Hot Dogs,5.0
+a74d58c8-0031-4222-a5da-c7b43fd14f3a,Full Hot Dog,"31,00 TL",Hot Dogs,5.0
+b760b5a4-b52b-42ac-a000-98a88d1819d5,Cheese Hot Dog,"27,00 TL",Hot Dogs,9.0
+50525703-265a-4754-937f-2f21212a0bfd,Arabesk,"15,00 TL",Patatesler,5.0
+391f6780-2883-4434-82ad-48a799dafec3,California Cheesecake,"18,00 TL",Tatlılar,5.0
+F8A9DF9B-B8E1-414F-A01E-62D3508599A8,Niğde Gazozu (20 cl.),"5,50 TL",İçecekler,5.0
+8f646be1-e8ab-4043-ab0d-e727dd131915,Chipotle Mayonez,"3,00 TL",Soslar,5.0
+c61380f5-d93d-491c-96e0-b964a4e9d0ea,Trüflü Mayonez,"5,00 TL",Soslar,5.0
+f316c0f6-79ea-41d5-a431-c7d29c5ec826,Burger Sosu,"3,00 TL",Soslar,10.0
+507F2D1F-617F-4D0E-A177-7A029C27128E,Sriracha Acı Sos,"3,00 TL",Soslar,11.0
+0097E68B-6A09-4B19-B5C9-044396D8C6E0,Sarımsaklı Acı Sos,"4,00 TL",Soslar,11.0
+11f917a5-04e3-4764-90f8-5cd88125c7d0,Poşet,"0,25 TL",Poşet,5.0

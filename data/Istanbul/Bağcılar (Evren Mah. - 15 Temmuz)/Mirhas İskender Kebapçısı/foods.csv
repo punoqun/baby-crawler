@@ -1,0 +1,76 @@
+food_id,food_name,food_price,food_category,food_score
+d68b83f3-c281-4ebd-a261-f038b4ad80ed,Etsiz Çiğ Köfte (10 Sıkım),"9,00 TL",Başlangıçlar,7.0
+471982ff-3045-4f1a-95b2-dcf4a35520c8,Fındık Lahmacun,"5,00 TL",Başlangıçlar,14.0
+HAS010606,Kızartma İçli Köfte (Adet),"8,00 TL",Başlangıçlar,4.0
+HAS010605,Etsiz Çiğ Köfte (15 Adet),"14,00 TL",Başlangıçlar,7.0
+HAS010115,Urfa Kebap,"25,00 TL",Kebaplar,5.0
+b3cf5b22-54fc-4365-9a6c-c98dffe49c74,Soğanlı Kebap,"39,00 TL",Kebaplar,7.0
+HAS010116,Domatesli Kebap,"37,00 TL",Kebaplar,7.0
+HAS010117,Patlıcanlı Kebap,"35,00 TL",Kebaplar,7.0
+HAS010118,Alinazik Kebabı (Kuzu Şişten),"36,00 TL",Kebaplar,5.0
+HAS010119,"Sarma Beyti (1,5 Porsiyon)","36,00 TL",Kebaplar,5.0
+HAS010120,Altı Ezmeli Kebap,"35,00 TL",Kebaplar,7.0
+HAS010125,Fıstıklı Kebap,"39,00 TL",Kebaplar,7.0
+HAS010126,Haşhaş Kebabı,"38,00 TL",Kebaplar,5.0
+HAS010121,Karışık Kebap,"55,00 TL",Kebaplar,9.0
+3db89225-da2c-4c4d-9833-9436fb4ec714,Et Sote,"33,00 TL",Kırmızı Etler,2.0
+d320f377-6118-4915-9d60-6fc61d0263eb,Çömlekte İskender,"30,00 TL",Kırmızı Etler,4.0
+HAS010208,Kuzu Şiş,"35,00 TL",Kırmızı Etler,5.0
+HAS010209,Çöp Şiş,"35,00 TL",Kırmızı Etler,5.0
+HAS010211,Kaşarlı Köfte,"23,00 TL",Kırmızı Etler,5.0
+HAS010212,Kasap Köfte (Acılı),"22,00 TL",Kırmızı Etler,4.0
+HAS010213,İnegöl Köfte,"22,00 TL",Kırmızı Etler,4.0
+HAS010214,Sac Tava,"33,00 TL",Kırmızı Etler,5.0
+HAS010215,Mirhas Köfte,"22,00 TL",Kırmızı Etler,11.0
+acb288f3-f65f-47f7-92c2-95e38a09b042,Tavuk Şiş,"25,00 TL",Beyaz Etler,2.0
+f4a2f214-8112-4c65-8025-9911e0865312,Tavuk Pirzola,"25,00 TL",Beyaz Etler,2.0
+ad6a60fc-c3c4-4aaf-b171-3b77fd683e06,Soslu Tavuk,"25,00 TL",Beyaz Etler,2.0
+7cec16f2-4b37-4ed1-bbc7-2a449a660ba7,Tavuk Beyti Kebap,"35,00 TL",Beyaz Etler,4.0
+c7d92779-13d4-4ad5-855d-64982e63440c,Tavuk Adana Kebap,"25,00 TL",Beyaz Etler,1.0
+134cb75d-44ca-4b72-89ee-73f171d5cde4,Tavuk Urfa Kebap,"24,00 TL",Beyaz Etler,2.0
+HAS010509,Soya Soslu Tavuk,"25,00 TL",Beyaz Etler,2.0
+HAS010511,Tavuk Biftek,"25,00 TL",Beyaz Etler,2.0
+HAS010512,Tavuk Şnitzel,"26,00 TL",Beyaz Etler,2.0
+HAS010513,Tavuk Sac Tava,"25,00 TL",Beyaz Etler,2.0
+HAS010514,Tavuk Sote,"28,00 TL",Beyaz Etler,2.0
+HAS010515,Tavuk Çöp Şiş,"25,00 TL",Beyaz Etler,2.0
+HAS010517,Tavuk Çevirme,"22,00 TL",Beyaz Etler,2.0
+61d29b43-4083-4342-9942-509c157c1d89,Tavuk Çevirme (Bütün),"20,00 TL",Beyaz Etler,2.0
+HAS010420,Özel Lahmacun,"9,00 TL",Fırın Ürünleri,19.0
+HAS010411,Kaşarlı Pide,"22,00 TL",Fırın Ürünleri,7.0
+HAS010423,Kaşarlı Sucuklu Pide,"23,00 TL",Fırın Ürünleri,7.0
+HAS010412,Sucuklu Pide,"23,00 TL",Fırın Ürünleri,7.0
+HAS010413,Kıymalı Pide,"22,00 TL",Fırın Ürünleri,8.0
+HAS010424,Kıymalı Kaşarlı Pide,"23,00 TL",Fırın Ürünleri,8.0
+HAS010414,Kuşbaşılı Pide,"28,00 TL",Fırın Ürünleri,7.0
+HAS010422,Kuşbaşılı Kaşarlı Pide,"27,00 TL",Fırın Ürünleri,7.0
+98653f40-88a9-44d2-b124-0e7caffe596d,Kavurmalı Pide,"26,00 TL",Fırın Ürünleri,7.0
+HAS010421,Kavurmalı Kaşarlı Pide,"26,00 TL",Fırın Ürünleri,7.0
+HAS010416,Etli Ekmek,"23,00 TL",Fırın Ürünleri,3.0
+HAS010415,Karışık Pide,"24,00 TL",Fırın Ürünleri,9.0
+HAS010418,Mirhas Pizza,"25,00 TL",Fırın Ürünleri,11.0
+HAS010124,Et Döner,"25,00 TL",Et Dönerler,3.0
+ac22dcb3-85a0-4ea4-a7b9-9aa76c69ecc2,Etibol İskender,"45,00 TL",Et Dönerler,4.0
+c52a05e5-2e96-4b11-8ada-00d3eb87ce8d,Pilav Üstü Et Döner,"28,00 TL",Et Dönerler,1.0
+1473f995-7dbf-4419-9dbd-30a8bf9511d2,Alinazik Kebap (Et Dönerden),"34,00 TL",Et Dönerler,7.0
+HAS010123,Sarma Fırın Döner,"34,00 TL",Et Dönerler,6.0
+HAS010316,Yarım Ekmek Arası Et Döner,"12,00 TL",Et Dönerler,1.0
+fa9556e3-44ef-4c2e-b0b1-cb384d077ced,Çöp Şiş Dürüm,"25,00 TL",Dürümler & Ekmek Arası Ürünler,6.0
+eb56092f-cdfb-4c00-9c45-013cd1d7a75f,Kuzu Şiş Dürüm,"25,00 TL",Dürümler & Ekmek Arası Ürünler,6.0
+HAS010309,Tavuk Şiş Dürüm,"16,00 TL",Dürümler & Ekmek Arası Ürünler,3.0
+HAS010310,İnegöl Köfte Dürüm,"15,00 TL",Dürümler & Ekmek Arası Ürünler,5.0
+HAS010311,Adana Dürüm,"16,00 TL",Dürümler & Ekmek Arası Ürünler,8.0
+HAS010312,Urfa Dürüm,"16,00 TL",Dürümler & Ekmek Arası Ürünler,4.0
+HAS010313,Yarım Ekmek Arası İnegöl Köfte,"12,00 TL",Dürümler & Ekmek Arası Ürünler,2.0
+HAS010315,İnegöl Köfte Sandviç,"10,00 TL",Dürümler & Ekmek Arası Ürünler,4.0
+4b7d0c9a-63f1-4920-8c8e-576bd93d65e8,Tavuk Burger,"10,00 TL",Burgerler,2.0
+HAS010607,Cacık,"8,00 TL",Yan Ürünler,5.0
+HAS010608,Yoğurt,"8,00 TL",Yan Ürünler,5.0
+HAS010707,Gavurdağı Salata,"13,00 TL",Salatalar,5.0
+HAS010710,Çoban Salata,"8,00 TL",Salatalar,5.0
+HAS010711,Mevsim Salata,"10,00 TL",Salatalar,5.0
+HAS010712,Acılı Ezme,"7,00 TL",Salatalar,5.0
+HAS010808,Burma Kadayıf,"9,00 TL",Tatlılar,5.0
+HAS010810,Fırın Sütlaç,"9,00 TL",Tatlılar,5.0
+58e20d5f-ed94-4936-be8b-645cd617bfd7,Şalgam Suyu (23 cl.),"5,00 TL",İçecekler,5.0
+37a3356d-b468-4ee8-ad9f-3f9893e2f104,Poşet,"0,25 TL",Poşet,5.0

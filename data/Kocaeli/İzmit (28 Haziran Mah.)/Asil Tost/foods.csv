@@ -1,0 +1,35 @@
+food_id,food_name,food_price,food_category,food_score
+01c35d1e-ca99-438e-9b60-c5cc4ad23462,Ispanaklı Tost,"8,00 TL",Tostlar,11.0
+08eff8e8-c41c-4624-b7b4-4afc449f0262,Bababi Tost,"8,00 TL",Tostlar,18.0
+0bfaf79c-b979-49f1-8163-36ca3bfc65c9,Yumurtalı Tost,"10,00 TL",Tostlar,11.0
+1242db2e-990c-4717-bc11-590d150c2c31,Gözleme Patatesli Tost,"6,00 TL",Tostlar,15.0
+1e697c2a-64b8-409b-ba0a-a87c65be399f,Bazlama Ekmeğine Kavurmalı Asil Tost,"12,00 TL",Tostlar,14.0
+23617ce2-e70a-49db-9315-30dc29453522,Bazlama Ekmeğine Asil Tavuklu Tost,"10,00 TL",Tostlar,19.0
+2c68cd66-061f-4019-83e2-88a1f19b1168,Bazlama Ekmeğine Asil Bababi Tost,"10,00 TL",Tostlar,15.0
+329862a9-c07e-4c0e-86cf-675796806b2e,Mantarlı Tost,"8,00 TL",Tostlar,11.0
+558d2187-9092-4ecd-98ae-aa21bfc191ee,Bazlama Ekmeğine Asil Ispanaklı Tost,"10,00 TL",Tostlar,13.0
+58bc8ba3-0a9c-4aab-8c7e-8f8b8ac4fb28,Ciğerli Tost,"8,00 TL",Tostlar,12.0
+6d1a4ba9-7c81-4f59-96a5-fc6c72b087f9,Gözleme Peynirli Tost,"6,00 TL",Tostlar,15.0
+72fc4317-9d0a-410f-9a3a-bef2aa04e645,Kavurmalı Tost,"10,00 TL",Tostlar,12.0
+77b7b92a-5ab2-448d-94ac-ca0c10baf98d,Bazlama Ekmeğine Asil Sucuklu Tost,"9,00 TL",Tostlar,13.0
+78c14915-e4b0-4645-a3d5-124351c5cb7d,Kavurmalı Yumurtalı Tost,"12,00 TL",Tostlar,12.0
+9ac8b350-a746-4e87-99af-201eedbe2783,Bazlama Ekmeğine Asil Ciğerli Asil Tost,"10,00 TL",Tostlar,14.0
+a3acc153-f8ed-4166-93fd-6a4b149b59ad,Bazlama Ekmeğine Asil Patatesli Tost,"9,00 TL",Tostlar,13.0
+af814e07-d9d9-49d9-8ee6-23dfa225c718,Bazlama Ekmeğine Kavurmalı Yumurtalı Tost,"15,00 TL",Tostlar,14.0
+b5a3db9b-74c7-4e2c-818d-e42495f0865d,Tavuklu Tost,"8,00 TL",Tostlar,22.0
+cf3c0a66-1b14-4921-8a76-6c32b029180c,Patatesli Tost,"8,00 TL",Tostlar,11.0
+e877e393-0346-4696-a6b6-bb7ea7a884c2,Bazlama Ekmeğine Asil Mantarlı Tost,"10,00 TL",Tostlar,13.0
+fe8cd88f-3710-49a6-8e72-c8f931c63ae6,Bazlama Ekmeğine Asil Kaşarlı Tost,"9,00 TL",Tostlar,12.0
+0c5489d4-38ee-4dab-9722-cf80edbc66ed,Patatesli Gözleme,"6,00 TL",Diğer Ürünler,9.0
+221845c1-9bef-4cbb-a54a-8a5bf2f79ed3,Peynirli Gözleme,"6,00 TL",Diğer Ürünler,9.0
+2cae9231-1722-4f8a-8b7b-a8eda1f7a24d,Kaşarlı Gözleme,"6,00 TL",Diğer Ürünler,8.0
+5921390f-be63-496e-8305-07bbb11bff78,Islak Hamburger,"6,00 TL",Diğer Ürünler,18.0
+eaecc221-e1ba-4065-9b97-f645cf6476de,Çiğ Köfte Dürüm,"5,00 TL",Diğer Ürünler,5.0
+166295fd-5924-4256-b8d3-dd35e3048bb5,Çiğ Köfte (400 gr.),"20,00 TL",Diğer Ürünler,5.0
+8255B48F-061B-4F3D-AC04-192F66DD7C1B,Çiğ Köfte (1 kg.),"50,00 TL",Diğer Ürünler,5.0
+AECB6899-F527-47DD-9C53-45A0C8217E23,Ispanaklı Gözleme,"6,00 TL",Diğer Ürünler,9.0
+4f42402e-8029-4df4-bca3-7365e098ed68,Pirinç Pilavı,"5,00 TL",Pilavlar,5.0
+cf5997b0-7c71-468f-9e62-ed09d4f7cf92,Nohutlu Pilav,"6,00 TL",Pilavlar,4.0
+e2d97c2a-c5ea-4f77-bc04-52e3ae26cd66,Tavuklu Pilav,"7,00 TL",Pilavlar,8.0
+36a8f61c-742c-47b9-85de-cb89b4288bbe,Limonata,"2,00 TL",İçecekler,5.0
+2caec0a2-2974-454f-86e1-50c30082620e,Poşet,"0,25 TL",Poşet,5.0

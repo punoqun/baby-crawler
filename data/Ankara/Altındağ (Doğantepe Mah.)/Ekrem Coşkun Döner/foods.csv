@@ -1,0 +1,32 @@
+food_id,food_name,food_price,food_category,food_score
+8ed4b36e-26d5-4e6a-a883-e0edbb4d3652,Ekmek Arası Et Döner (55 - 60 gr.),"10,00 TL",Et Dönerler,-4.0
+FC28B56C-46C0-425F-8231-A9F9E29A2C13,Pilav Üstü Et Döner (120 gr.),"21,00 TL",Et Dönerler,-5.0
+A5B6C099-4850-4096-B6B6-08452087A05B,Pilav Üstü Et Döner (150 gr.),"24,00 TL",Et Dönerler,-5.0
+124AFEDD-756B-4053-BEBA-50E0912932A3,Pilav Üstü Et Döner (200 gr.),"29,00 TL",Et Dönerler,-5.0
+98E39034-A024-420B-9169-360FDEF6712D,Pilav Üstü Et Döner (250 gr.),"34,00 TL",Et Dönerler,-5.0
+3A943B32-98F3-4769-ABFA-D2BB74C594C6,Pilav Üstü Et Döner (80 gr.),"16,00 TL",Et Dönerler,-5.0
+B9084107-B63F-4E4E-921F-6508A9056ADE,Pilav Üstü Et Döner (100 gr.),"18,00 TL",Et Dönerler,-5.0
+e2923ffe-2735-40d9-b8eb-fc930978ba34,Et Döner Dürüm (55 - 60 gr.),"10,00 TL",Et Dönerler,-7.0
+16c1e7c4-7dae-4482-84c7-7dd4fd8bde29,Ekmek Arası Et Döner (75 - 80 gr.),"12,00 TL",Et Dönerler,-4.0
+1b9e2173-56a3-4c33-9218-2009d03393d6,Et Döner Dürüm (75 - 80 gr.),"12,00 TL",Et Dönerler,-7.0
+339fc3c3-0c5f-4c31-8c91-2f14756f47ca,Ekmek Arası Et Döner (95 - 100 gr.),"14,00 TL",Et Dönerler,4.0
+fe7d7550-d722-4d20-88d4-47cd840149cf,Et Döner Dürüm (95 - 100 gr.),"14,00 TL",Et Dönerler,-4.0
+8661e2d8-78e6-4826-b991-c163fd411bb7,Ekmek Arası Et Döner (115 - 120 gr.),"17,00 TL",Et Dönerler,1.0
+250fa71b-2860-4bb5-8d65-40dfd4e9c7d6,Et Döner Dürüm (115 - 120 gr.),"17,00 TL",Et Dönerler,-7.0
+85a4fafa-d7af-4832-a719-4b0a44b85d4e,Ekmek Arası Et Döner (145 - 150 gr.),"20,00 TL",Et Dönerler,1.0
+dc4993ca-65e6-4c52-b3fc-a3fbc3160347,Et Döner Dürüm (145 - 150 gr.),"20,00 TL",Et Dönerler,-7.0
+e91dd3f9-f203-4786-93dc-1e4ca2b77646,Ekmek Arası Et Döner (195 - 200 gr.),"25,00 TL",Et Dönerler,-4.0
+872523d9-7f0e-42fb-b8b6-bc33f61c4da3,Et Döner Dürüm (195 - 200 gr.),"25,00 TL",Et Dönerler,-7.0
+A8AD3E4C-FB91-4FD3-BE34-BE733436671C,Patates Kızartması,"5,00 TL",Yan Ürünler,3.0
+8653E23B-2A27-4ABB-976E-0037D975718E,Tereyağlı Pirinç Pilavı,"4,50 TL",Yan Ürünler,2.0
+84DB8C44-2C09-460C-A73A-D441F3D54397,Ekmek (Adet),"1,00 TL",Yan Ürünler,6.0
+22E2CC80-1EEC-4BBB-8771-948ACEBF4DA1,Lavaş (Adet),"1,00 TL",Yan Ürünler,4.0
+df494cde-2ae5-4e28-9b8e-2cea4f34e55f,Hamsiköy Sütlacı,"7,00 TL",Tatlılar,5.0
+b90676d2-6c87-4a1f-b391-e1f99cb9b0db,Eker Supangle (150 gr.),"4,00 TL",Tatlılar,5.0
+c33beea3-38fd-4f41-a584-339a25155688,Lita Limonata (25 cl.),"3,50 TL",İçecekler,5.0
+391A6E96-4C8B-4B2A-8127-04AB8F4D25BB,Kızılay Maden Suyu (20 cl.),"2,50 TL",İçecekler,5.0
+e20369f9-e82a-41e2-aa90-e8d42522e22e,Erikli Su (50 cl.),"2,00 TL",İçecekler,6.0
+cbeab234-8ec2-44b3-9318-94b15eee75a2,Et Döner (250 gr.),"32,00 TL",Kiloluk Ürünler (Pişirilmiş),-4.0
+57dff5ec-d490-48d7-a100-6153f4e07c5b,Et Döner (500 gr.),"62,00 TL",Kiloluk Ürünler (Pişirilmiş),-4.0
+faeaaab2-64ef-4144-9554-67ae0920e890,Et Döner (750 gr.),"92,00 TL",Kiloluk Ürünler (Pişirilmiş),-4.0
+6b6645e6-a821-40e5-bdb9-829ce8172aa5,Poşet,"0,25 TL",Poşet,3.0

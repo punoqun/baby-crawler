@@ -1,0 +1,38 @@
+food_id,food_name,food_price,food_category,food_score
+d0fba212-9047-4f4c-857c-48607d6db226,Menü 1,"20,00 TL",Ekonomik Menüler,28.0
+81673f50-1171-4921-8967-84ea8076060a,Menü 2,"20,00 TL",Ekonomik Menüler,6.0
+03454674-0a22-435f-b472-31509e36b548,Menü 3,"22,00 TL",Ekonomik Menüler,5.0
+48e8380d-edc0-408f-a229-a6b2b06b8cde,Menü 4,"20,00 TL",Ekonomik Menüler,6.0
+b42a0f42-f416-43fc-90dc-f775a0dee481,Menü 7,"22,00 TL",Ekonomik Menüler,9.0
+13ece305-c252-405c-af7c-c2ecdc7d4875,Menü 8,"20,00 TL",Ekonomik Menüler,9.0
+14b7d2ab-e563-41f1-a8cf-af44a33934ec,Menü 9,"20,00 TL",Ekonomik Menüler,6.0
+466fdb17-c976-4d70-9511-1eb4f98fddf0,Menü 10,"20,00 TL",Ekonomik Menüler,17.0
+3c65ddca-d7f9-4914-81bd-848f9a7f769c,Menü 11,"22,00 TL",Ekonomik Menüler,9.0
+7437ba20-f2d2-4972-88ac-1d9f53aae547,Menü 12,"22,00 TL",Ekonomik Menüler,11.0
+2f379aa7-30d8-4ffb-9b46-84ae99ed6fbc,Ayvalık Tostu,"11,00 TL",Tostlar,11.0
+c5bb15ae-3fbc-44d6-b70b-4b1a24f6b008,Karışık Ayvalık Tostu,"12,00 TL",Tostlar,13.0
+165c31c4-2fd5-44c4-ad8c-b5ba27af22c7,Maxi Karışık Sandviç,"13,00 TL",Sandviçler,9.0
+c3ab5844-f0c4-4347-b4ee-941edb2d2194,Full Karışık Sandviç,"13,00 TL",Sandviçler,0.0
+af17a855-ab09-414b-b66e-7c0d0232c0ac,Çeşme Kumru Sandviç,"15,00 TL",Sandviçler,5.0
+41d320d5-f59c-4a2c-9916-673ccfe6cdbe,Yumurtalı Maxi Sandviç,"15,00 TL",Sandviçler,7.0
+dc81ab60-86c0-484c-8485-537bdffd4bc1,Üç Peynirli Kumru Sandviç,"20,00 TL",Sandviçler,5.0
+90718329-8033-4915-8c19-d978bce61079,Hamburger,"15,00 TL",Burgerler,5.0
+9cd8f104-33a4-4ef5-940c-c22752eaa390,Cheeseburger,"18,00 TL",Burgerler,5.0
+fc110043-685a-4ae7-95b0-8d94473adc36,Izgara Köfte,"22,00 TL",Izgaralar,4.0
+cb265f8c-a513-44e9-8eae-d734b0fefac1,Izgara Tavuk,"22,00 TL",Izgaralar,4.0
+ba9fa0dd-2359-492b-8576-4f9f3d08465b,Yarım Ekmek Arası Izgara Köfte,"13,00 TL",Ekmek Arası Ürünler,1.0
+d0fcbf0e-f85c-4b11-8cc0-10f02dcf35a8,Yarım Ekmek Arası Kaşarlı Sucuk,"15,00 TL",Ekmek Arası Ürünler,-2.0
+0a7f8ff8-dcd1-40be-9a44-d06fabd16574,Yarım Ekmek Arası Izgara Tavuk,"13,00 TL",Ekmek Arası Ürünler,1.0
+4a5c02f1-4180-4825-9e21-70300115be79,Ekmek Arası Izgara Sucuk,"13,00 TL",Ekmek Arası Ürünler,-4.0
+63b7f299-365a-46d5-9e31-c3e89e9c78b7,Yarım Ekmek Arası Kaşarlı Izgara Köfte,"15,00 TL",Ekmek Arası Ürünler,3.0
+97cd5040-0dcf-4b34-82c1-68346b60cc71,Yarım Ekmek Arası Tavuk İncik,"13,00 TL",Ekmek Arası Ürünler,3.0
+c382ab80-7f04-44e8-8114-887ab7e6ac09,Yarım Ekmek Arası Kaşarlı Tavuk İncik,"15,00 TL",Ekmek Arası Ürünler,5.0
+6b28ea01-9e14-4890-9090-94c4a0244892,Mevsim Salata,"7,50 TL",Diğer Lezzetler,5.0
+adce801f-6101-4d70-9112-a3d014769cf6,Rus Salatası,"7,50 TL",Diğer Lezzetler,5.0
+65f084d1-524d-4c8e-8a92-7ea3af72d7a3,Çiftlik Midye Dolma (Adet),"1,00 TL",Yan Ürünler,5.0
+23f7cf13-0328-42ab-a774-8103f4391982,Patates Kızartması,"8,00 TL",Yan Ürünler,5.0
+d56a6fa5-8569-4241-9410-61a2272d2853,Niğde Gazozu (25 cl.),"4,50 TL",İçecekler,5.0
+c271bb57-164a-430d-84c0-b5cbad3e4204,Limonlu Soda,"2,50 TL",İçecekler,5.0
+a81cb62d-bebb-4327-addc-031e151c430f,Su,"1,50 TL",İçecekler,1.0
+ba9caee3-57c3-488a-8a2c-f7b1925a3aa8,Çiftlik Midye Dolma (1 kg.),"40,00 TL",Kiloluk Ürünler,5.0
+4984cb18-8635-4433-962c-bf015ca991f8,Poşet,"0,25 TL",Poşet,5.0

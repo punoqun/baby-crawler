@@ -1,0 +1,44 @@
+food_id,food_name,food_price,food_category,food_score
+285994d2-ad9d-4359-a067-cc2f4c84b9f3,Menü 1,"11,00 TL",Pilav Menüleri,62.0
+4683faa7-9eb2-4ba1-9cd6-b245cc1c89b7,"Menü 1,5","16,00 TL",Pilav Menüleri,12.0
+8f0dba8b-af40-4b76-8822-27f42713a99e,Menü 2,"16,00 TL",Pilav Menüleri,9.0
+01687c1e-b609-4f34-9f44-039247e97f54,"Menü 2,5","21,00 TL",Pilav Menüleri,7.0
+3e800e05-a9ee-4bb6-8195-5d385d7a748e,Menü 4,"22,00 TL",Pilav Menüleri,9.0
+c8f4f674-247e-4699-b46c-6e2967306303,"Menü 4,5","27,00 TL",Pilav Menüleri,7.0
+4f8aa02c-81bb-46b1-ae25-b6a9882ab5d6,Menü 5,"17,00 TL",Pilav Menüleri,10.0
+02fa25cd-2eef-4b6f-a190-df7d84f88e00,"Menü 5,5","22,00 TL",Pilav Menüleri,7.0
+3d48116a-9066-49ff-b326-deebe850a04f,Menü 6,"32,00 TL",Pilav Menüleri,7.0
+b410e9ac-971b-4ba7-a34e-4285f5a0c5ae,"Menü 6,5","42,00 TL",Pilav Menüleri,7.0
+0442f18a-9958-42b4-a9f2-f655fd2f3311,Menü 7,"32,00 TL",Pilav Menüleri,7.0
+4ca32cea-88fc-4081-a419-3af61d56121b,"Menü 7,5","42,00 TL",Pilav Menüleri,7.0
+647436f5-96d1-44c9-8b99-5344533d5c05,Menü 8,"45,00 TL",Pilav Menüleri,7.0
+ed6db6e7-77a8-42e0-b7b3-56927551eaa9,"Menü 8,5","60,00 TL",Pilav Menüleri,7.0
+d2f2c9b5-f6c7-49be-85ca-a65eb94c3901,Menü 9,"45,00 TL",Pilav Menüleri,7.0
+17ebded5-e521-4b0d-bfee-c097d69130a2,"Menü 9,5","60,00 TL",Pilav Menüleri,7.0
+7b2f746b-e287-4672-9810-91ccfb6b8f5a,Sade Pilav,"8,00 TL",Pilavlar,1.0
+d8e37a30-8158-4675-b529-b0d86513e7d1,Tavuklu Pilav,"10,00 TL",Pilavlar,10.0
+847c8652-eef2-49d1-8ede-85bfa0f51e22,Pilav Üstü Köfte,"22,00 TL",Pilavlar,1.0
+2b368c0f-3f4f-4bf2-be8c-eb5be51c8e6c,Çiğ Köfte Dürüm,"5,00 TL",Çiğ Köfteler,6.0
+11b0a9e9-fe7d-4cbd-a83c-230747151f0c,Mega Çiğ Köfte Dürüm,"10,00 TL",Çiğ Köfteler,6.0
+31584637-5eb8-4eb6-855d-fae9eb578ff6,Çiğ Köfte (200 gr.),"10,00 TL",Çiğ Köfteler,6.0
+aa5a5a80-116c-40a4-9e30-120e5988b99d,Çiğ Köfte (300 gr.),"16,00 TL",Çiğ Köfteler,6.0
+b0ccdf8c-f7e2-4ed4-ac0d-1ade53896acd,Çiğ Köfte (400 gr.),"20,00 TL",Çiğ Köfteler,6.0
+7fb40109-fa4e-4cdd-9da9-c5a57bf04ce7,Çiğ Köfte (500 gr.),"25,00 TL",Çiğ Köfteler,6.0
+35e3e19b-f41b-4bb4-934b-e1f7f54406a6,Çiğ Köfte (600 gr.),"30,00 TL",Çiğ Köfteler,6.0
+7f15df5e-8dbe-430d-ab27-cf7e605d4a6a,Çiğ Köfte (800 gr.),"40,00 TL",Çiğ Köfteler,6.0
+d21a525b-1427-405e-aa2a-fe214f935c1d,Çiğ Köfte (1 kg.),"50,00 TL",Çiğ Köfteler,6.0
+d17b6019-e28e-4f83-b635-3508d43e2bf7,Patates Kızartması (Orta Boy),"9,00 TL",Yan Ürünler,5.0
+b9418b21-c0f9-4b5b-a4e7-10df7e107f91,Patates Kızartması (Büyük Boy),"14,00 TL",Yan Ürünler,5.0
+ad656699-a5fa-46f3-ad04-ca407a8b1ba4,Algida Maraş Usulü Cup Dondurma (100 ml.),"5,00 TL",Dondurmalar,6.0
+6414a74e-5020-41ac-b6fe-4770d4669a58,Algida Carte d'Or Mini Cup Çikolata Karnavalı (110 ml.),"6,00 TL",Dondurmalar,5.0
+6f085ff3-4d89-4190-b9d7-c33dff63fcdd,Algida Classics Cookie Cup (105 ml.),"6,00 TL",Dondurmalar,5.0
+40a96806-5a2b-4236-be69-35a4ebb5e2a7,Algida Carte d'Or Mini Cup Çilekli Yoğurtlu (110 ml.),"6,00 TL",Dondurmalar,5.0
+e478cd8b-6b1a-41f6-b0c9-fc7b740112ad,Carte d'Or Premium Çikolata Cup (100 ml.),"7,00 TL",Dondurmalar,5.0
+bfb40d9c-77a6-422c-af0e-8d0ae29c9d50,Carte d'Or Premium Kaymak Cup (100 ml.),"7,00 TL",Dondurmalar,5.0
+edbdbbce-4f3c-4470-8b4b-52b90bfc5683,Magnum Double Çikolata (95 ml.),"9,90 TL",Dondurmalar,5.0
+0cdd8487-28e5-457d-af0a-84deb113e9fd,Magnum Badem (100 ml.),"9,90 TL",Dondurmalar,5.0
+1e4e89a1-e51c-40ba-a568-2c459b747702,Magnum Beyaz Çikolata (100 ml.),"9,90 TL",Dondurmalar,5.0
+6dd820c5-713e-4bff-8f1f-3992b489d035,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"15,00 TL",Dondurmalar,5.0
+366b7b8e-4545-45a7-b95b-9925165e6d98,Soda (30 cl.),"3,00 TL",İçecekler,5.0
+e12d67fb-91ea-4416-a827-b5c85c12985e,Su (20 cl.),"2,00 TL",İçecekler,9.0
+faa0e683-81a4-4eba-8a21-70e51620254d,Poşet,"0,25 TL",Poşet,5.0

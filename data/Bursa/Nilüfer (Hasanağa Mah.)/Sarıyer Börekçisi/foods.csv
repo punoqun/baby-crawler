@@ -1,0 +1,132 @@
+food_id,food_name,food_price,food_category,food_score
+ab4906a5-bb9f-4134-8f6d-941fc7e60ca5,Baklava & Börek Menü,"22,50 TL",Menüler,12.0
+c183b024-6a59-4092-90b7-6cd9ae19318f,2'li Börek Menü 2,"27,00 TL",Menüler,8.0
+b34a1112-3548-4d41-9895-f3cee9bb2e43,3'lü Börek Menü,"36,00 TL",Menüler,5.0
+367424fc-3f89-43f8-9637-f92bdd47cac7,4'lü Börek Menü,"45,50 TL",Menüler,5.0
+f4536a82-9928-4efb-9b1d-1600bc67d3ff,Su Böreği Menü,"23,50 TL",Menüler,-1.0
+b19bc42e-33c3-4d63-a4c3-7df30d883010,4'lü Cantık Pide Menü,"45,50 TL",Menüler,5.0
+6f71df92-31e0-4ca9-8fb7-d8823dea5599,3'lü Lahmacun Menü,"22,00 TL",Menüler,3.0
+83a32526-d64e-413a-9844-4ceb62fc032e,10'lu Lahmacun Menü,"67,00 TL",Menüler,3.0
+ccb5b6c3-b29b-4889-b859-e2ecd222c37f,5'li Lahmacun Menü,"37,00 TL",Menüler,3.0
+d1401fb2-205f-49ce-bdf2-fa47a263269e,10'lu Kır Pidesi Menü,"46,00 TL",Menüler,4.0
+9ef40559-5b45-4674-bf60-4ed7c169ab3e,2'li Açma & Baklava Menü,"16,50 TL",Menüler,14.0
+3146089c-60cd-42a1-bc27-366b3716acf6,2'li Börek Menü,"28,00 TL",Menüler,5.0
+e9aa6969-2f1c-437c-a468-3981ed86033f,2'li Pide Menü,"54,00 TL",Menüler,5.0
+d21768cc-e441-4dda-8e18-faf3481bf25f,2'li Poğaça & Baklava Menü,"15,00 TL",Menüler,10.0
+254d8a41-0622-4b37-b8cf-9cb6462c2d7e,3 Kişilik Menü,"58,00 TL",Menüler,2.0
+288525ba-9f89-4f03-8fe9-1d3f96077b2f,3'lü Kır Pidesi Menü,"21,50 TL",Menüler,4.0
+119dbbd6-7583-47b6-9417-c2a9c77500c2,3'lü Tost Menü,"38,00 TL",Menüler,5.0
+8744f150-1c29-4968-8f8c-bf1a8da86443,5 Kişilik Menü,"92,50 TL",Menüler,5.0
+03356cdd-5892-4ab1-adaa-a617473077f7,5'li Açma Menü,"27,00 TL",Menüler,7.0
+30e76cbf-35e0-4440-afd9-1bcc6f8954ab,5'li Kır Pidesi Menü,"23,50 TL",Menüler,4.0
+e9c894b5-ee5c-496c-9fd0-db601662c542,5'li Kıymalı Kır Pidesi Menü,"27,50 TL",Menüler,2.0
+225c577d-5009-4e17-99d6-03c064dab124,5'li Poğaça Menü,"22,50 TL",Menüler,3.0
+4813b556-baff-44c9-95e3-f97dbb484075,6'lı Kıymalı Kır Pidesi Menü,"49,90 TL",Menüler,2.0
+c6d5f539-6d19-48dd-8d53-193a25c3f416,7 Kişilik Menü,"118,00 TL",Menüler,6.0
+7590ffc4-3654-42f6-a3ce-b083585b7b78,Açma & Poğaça Menü,"18,90 TL",Menüler,5.0
+fcf5d6ce-fbd8-4261-b06f-a21a223d49ae,Açma Menüsü,"15,50 TL",Menüler,7.0
+57fb81fe-e2f2-43d2-b85b-fc35e2320ab9,Baklava & Kır Pidesi Menü,"82,50 TL",Menüler,11.0
+3e89fa57-4fa9-40f9-8deb-41bdfe331143,Baklava (1 kg.) Menü,"52,50 TL",Menüler,12.0
+793f27db-07ef-4fe0-94c3-15d083b1e3dc,Baklava Menü,"10,50 TL",Menüler,12.0
+cf45a81a-5030-4ffc-a425-b88e35398483,Börek & Baklava Menü,"20,00 TL",Menüler,12.0
+65b47b4a-a80c-49bc-b5fd-1a8a564d899c,Börekçi Menü,"34,50 TL",Menüler,5.0
+a6805813-088f-46f2-a900-3e6c6845e5e0,Boyoz Menü,"11,00 TL",Menüler,5.0
+77c72124-47b4-44da-bedb-67d6277cf04c,Bursa Lokum Menü,"16,50 TL",Menüler,5.0
+cdc66bfd-7089-45f9-bf62-afe4375c62b6,Double Tost Menü,"29,00 TL",Menüler,5.0
+328e6617-ccb0-46ae-ade1-baeee6067ac6,Kahvaltı Menü 1,"12,25 TL",Menüler,-5.0
+6b1cf5d7-2963-41d0-84a3-c5ad80e7e146,Kahvaltı Menü 2,"15,00 TL",Menüler,8.0
+be2fb2aa-8e6e-4167-85bf-5e54c0d827aa,Karışık Boyoz Menü,"21,50 TL",Menüler,5.0
+7c22ea22-3f64-4de9-8f42-257f897d62b8,Karışık Menü,"25,50 TL",Menüler,5.0
+e8b0e2da-d1fb-479e-9bb4-5ca7826b8ed0,Kete Menüsü,"11,00 TL",Menüler,5.0
+88c0eb82-da90-4cb4-8d65-83ee9cc34350,Kıymalı Cantık Menü,"19,50 TL",Menüler,3.0
+2b161645-736d-499e-8024-ae93838b4423,Kuşbaşılı Cantık Menü,"16,50 TL",Menüler,5.0
+b8ca6a44-22c0-4856-a7b1-10988be9ed28,Küt Böreği Menü,"12,50 TL",Menüler,6.0
+419dfb8d-8c45-4e92-b67c-40f3c12192aa,Pide & Baklava Menü,"30,50 TL",Menüler,12.0
+e65b1e6f-2aba-4bca-953e-ba998cfc5245,Pideci Menü,"69,50 TL",Menüler,5.0
+7085d24a-3890-4843-b64e-c9da02129ad3,Sandviç Menü,"27,50 TL",Menüler,5.0
+90bcc609-c493-4c99-a63a-e71bf4b7c1d6,Simit Menü,"13,00 TL",Menüler,10.0
+c7df8bc8-3f10-4241-a835-4d10e14f28c5,Talaş Böreği Menü,"21,00 TL",Menüler,5.0
+6dffc13f-bb58-42c1-83a9-b7cd9cbc6dce,Tost Menü,"33,50 TL",Menüler,5.0
+4f30d067-a25e-4cda-b6f3-0e272b2841d9,Tost Menü 1,"15,50 TL",Menüler,-5.0
+51d92e8c-7efe-41ba-b6f0-a3018204103c,3'lü Açma Menü,"12,50 TL",Öğrenci Menüleri,7.0
+6032bb95-c1f6-479f-84db-d06f2c471b38,3'lü Poğaça Menü,"11,00 TL",Öğrenci Menüleri,3.0
+16760ec7-cc3a-4060-a8d9-0417e7cf9887,3'lü Kır Pidesi Menü (Öğrenci),"13,50 TL",Öğrenci Menüleri,4.0
+db6ef486-df58-45b7-a70a-e258957d135b,Börek Menü,"12,00 TL",Öğrenci Menüleri,5.0
+7fb52d9c-40c5-4e2d-b5b6-775741faccb0,Cantık Menü,"12,00 TL",Öğrenci Menüleri,5.0
+f3b958b8-d756-4c05-9b9b-d2220308e71d,Kıymalı Kol Böreği (200 gr.),"9,99 TL",Börekler,8.0
+16d6846a-9868-45a0-a2d1-29d2cbccdd69,Küt Böreği (200 gr.),"9,99 TL",Börekler,6.0
+9f739fdf-5a12-44fe-a0a1-9eb8ea6cadb3,Patatesli Kol Böreği (200 gr.),"9,99 TL",Börekler,6.0
+98686d32-d206-4dd3-ad5c-a29d9d5f6c48,Peynirli Kol Böreği (200 gr.),"9,99 TL",Börekler,5.0
+9927c9e4-ba42-4506-a599-37aacaf47394,Su Böreği (180 gr.),"8,50 TL",Börekler,-1.0
+589d3875-8305-4429-9d1a-338345a8d226,Kıymalı Talaş Böreği,"3,50 TL",Börekler,2.0
+61ade1bf-45e9-476c-bfc4-ceb826ccbc9f,Patatesli Talaş Böreği,"3,50 TL",Börekler,6.0
+0b8d534e-dd19-4dba-87b9-652e2cebe3f4,Peynirli Talaş Böreği,"3,50 TL",Börekler,5.0
+9af0baae-588f-4646-aa49-96b8eb3cbe9e,Haşlanmış Yumurta,"2,00 TL",Kahvaltılıklar,6.0
+A62ECEFC-3E6A-4AD8-916C-1FB6D66B02D6,Çikolatalı Kruvasan,"3,00 TL",Kahvaltılıklar,5.0
+b17e0064-49ac-4e35-ab24-005fd79ef3ff,Bal,"2,00 TL",Kahvaltılıklar,5.0
+d3a4d343-4dfb-4ead-bc60-d746e5fa3e01,Vişne Reçeli,"1,50 TL",Kahvaltılıklar,5.0
+d6a9d612-da42-4eda-bd4a-7d70e2c17389,Kayısı Reçeli,"1,50 TL",Kahvaltılıklar,5.0
+75e35917-498d-4733-995d-5fe0175eb56c,Çilek Reçeli,"1,50 TL",Kahvaltılıklar,5.0
+a247025e-710c-4d0f-bba7-c2ea0fd6ccbc,Siyah Zeytin,"2,00 TL",Kahvaltılıklar,9.0
+4ce00613-c81a-4eff-b2d2-160f59651fe1,Üçgen Peynir,"2,00 TL",Kahvaltılıklar,3.0
+a5f809bc-a7e7-404c-b7bb-152681c77ab1,Sade Boyoz Açma,"3,50 TL",Açmalar,7.0
+dd0aeac4-8990-4539-87fd-e2d089ec5918,Çikolatalı Açma,"3,50 TL",Açmalar,7.0
+4d588c56-99c1-4c34-9cdf-ddfdb85ad5e0,Kaşarlı Açma,"3,50 TL",Açmalar,5.0
+b1839c82-fc30-4b08-9d15-ed7af0d88eec,Kete,"4,00 TL",Açmalar,5.0
+000bded6-8bc0-42f6-bf4c-2f5e930acc08,Mini Tahinli Açma,"3,00 TL",Açmalar,6.0
+77fd2d6f-a1d7-4ae4-9187-9b7bd6c7f865,Patatesli Açma,"3,00 TL",Açmalar,8.0
+ef2f641a-0df6-4c89-aac4-4538c2cb962f,Peynirli Açma,"3,00 TL",Açmalar,7.0
+b73330bf-906b-44e2-9c32-e2b22f684a21,Sade Açma,"3,00 TL",Açmalar,7.0
+5d84b6a5-c20f-4ff0-876f-128a562df647,Sosisli Açma,"3,50 TL",Açmalar,7.0
+cc068110-cd37-478b-8c17-735a08b1e3ca,Sucuklu Açma,"3,50 TL",Açmalar,7.0
+67580c1c-6dcb-4ab8-bf37-51edf6f1536d,Tahinli Açma,"4,00 TL",Açmalar,6.0
+672dfeb9-1069-4648-86b2-9f1d10d4a793,Zeytinli Açma,"3,50 TL",Açmalar,10.0
+168c98f8-2817-49a4-a30e-705e1b63b33f,Patatesli Poğaça,"2,75 TL",Poğaçalar,4.0
+2298201b-9ab0-43a4-aa26-23443a5c7be1,Zeytinli Poğaça,"2,75 TL",Poğaçalar,7.0
+4a650341-e0da-4c68-ab15-52953328daa9,Peynirli Poğaça,"2,75 TL",Poğaçalar,3.0
+b2514546-216a-4630-99b1-afd8fbeceb8b,Dereotlu Poğaça,"3,00 TL",Poğaçalar,3.0
+bbce8840-ce6e-41aa-8ecd-c975fc977c3e,Sade Poğaça,"2,75 TL",Poğaçalar,3.0
+897fd9ae-5630-4160-a78b-bd60a57d7170,Kaşarlı Poğaça,"3,00 TL",Poğaçalar,6.0
+4ba2143b-b88a-491e-8551-6238c02e80bb,Mini Pizza (Adet),"4,00 TL",Poğaçalar,4.0
+727f45cb-83ba-442d-902a-dadbc14f19d9,Orta Boy Pizza,"9,50 TL",Poğaçalar,4.0
+ffdc5dfd-9a47-4e23-8b86-0a5a5f79713a,Sade Simit,"2,75 TL",Simitler,10.0
+78a70805-0c38-43b8-a549-0c49e15b067b,Kaşarlı Tost,"9,00 TL",Tostlar & Sandviçler,3.0
+6ed3cda1-94a5-4fa0-b2a4-0f1b7389cfbf,Karışık Tost,"10,00 TL",Tostlar & Sandviçler,5.0
+d0de06d2-8e46-4f35-b815-4c129ae8ac41,Soğuk Sandviç,"7,00 TL",Tostlar & Sandviçler,5.0
+a30c13a6-4b13-421c-9283-41783dcbdc68,Patatesli Kır Pidesi,"4,00 TL",Kır Pideleri,5.0
+b533f15c-1c6b-453c-a410-2ac901dfc65c,Peynirli Kır Pidesi,"4,00 TL",Kır Pideleri,4.0
+ff44ad8c-b9fd-427f-8a8c-f684f9f6d0cd,Kıymalı Kır Pidesi,"4,00 TL",Kır Pideleri,7.0
+4842a438-b86f-4c92-99fe-e198a42f0f9f,Kıymalı Cantık Pide (110 gr.),"10,00 TL",Cantık Pideler,3.0
+8bb0a576-50aa-4ca4-8eca-ef5920530b40,Kaşarlı Cantık Pide (110 gr.),"8,00 TL",Cantık Pideler,3.0
+6c354791-00a5-47de-8de6-64ad29a3e751,Kaşarlı Sucuklu Cantık Pide (110 gr.),"9,00 TL",Cantık Pideler,3.0
+59626c44-9488-47a3-bcd4-c9ba6bef34bb,Sucuklu Yumurtalı Cantık Pide (110 gr.),"10,00 TL",Cantık Pideler,5.0
+836ce0d6-59e4-4110-9132-8fdbcf6ddbeb,Kuşbaşılı Cantık Pide (110 gr.),"11,00 TL",Cantık Pideler,5.0
+85ea6599-b5d7-47b3-bc20-b842539331f0,Kuşbaşılı Kaşarlı Cantık Pide (110 gr.),"12,00 TL",Cantık Pideler,3.0
+a7717863-c58e-4347-94bd-3d4322df4eec,Kıymalı Karadeniz Cantık Pidesi (110 gr.),"10,00 TL",Cantık Pideler,3.0
+0a178f62-0c1a-4071-9929-7513847cb6c4,Tavuklu Cantık Pide (110 gr.),"8,50 TL",Cantık Pideler,5.0
+26763823-9da8-4b4b-84a1-e3849ebc95a6,Karışık Pide,"25,00 TL",Pideler,5.0
+2f1becd8-eeb4-4d92-93dd-87c8c4379283,Kaşarlı Pide,"22,00 TL",Pideler,3.0
+9b39efbf-1d1c-4457-a911-c24ca54d4f76,Kıymalı Karadeniz Pidesi,"25,00 TL",Pideler,3.0
+482d9389-c901-4fc5-827f-7ce08bafe1cd,Kıymalı Kaşarlı Pide,"25,00 TL",Pideler,1.0
+ed9aea27-8e1a-468f-86a8-04a3e446b7ea,Kıymalı Yumurtalı Pide,"25,00 TL",Pideler,3.0
+d14c875d-55bb-459c-b47a-71aba6937739,Sucuklu Kaşarlı Pide,"22,00 TL",Pideler,3.0
+67095c30-1ad2-488b-980b-a1e21940598e,Kuşbaşılı Kaşarlı Pide,"25,00 TL",Pideler,3.0
+5385dfa4-b856-4773-b39c-80fc3818d486,Tahinli Pide,"8,00 TL",Pideler,4.0
+707cf909-7ad4-47f2-b2d6-8ef1438ca3ad,Mini Bursa Lokumu,"3,00 TL",Kurabiyeler,5.0
+2006fb97-b56f-4924-a3ed-3ae10360e7e7,Cevizli Baklava (6 Adet),"8,50 TL",Tatlılar,12.0
+b6689d40-0c8b-4dba-bebc-b762faa5fbab,Cevizli Şöbiyet (4 Adet),"8,50 TL",Tatlılar,5.0
+d5b19ee8-6ec8-41e2-9745-2e40d2e01cb9,Çilekli Link,"3,00 TL",İçecekler,5.0
+65fc1193-439a-48f3-a147-9a85e2c568ab,Vişneli Link,"3,00 TL",İçecekler,5.0
+cf496ee7-2b1e-4c57-a50d-4214690cfb7a,Gold Meyve Suyu (20 cl.),"2,00 TL",İçecekler,5.0
+bb1753d5-bb28-4b5c-b42f-8521ae7a8cfc,Su,"2,00 TL",İçecekler,-1.0
+83f92bef-e824-4ed7-aedc-8203efeed844,Fruko (1 L.),"7,00 TL",İçecekler,5.0
+f9bf2ed3-510c-43dd-b47a-7cb2c9a20b03,Süt (1 L.),"7,00 TL",İçecekler,5.0
+1f728aac-6acb-4921-89e2-3c2fb71b5a9c,Kaşarlı Adana Su Böreği (1 kg.),"50,00 TL",Kiloluk Börekler (Pişirilmiş),-5.0
+d26bcc89-eb73-40d3-89f2-7836098d682a,Kıymalı Börek (1 kg.),"50,00 TL",Kiloluk Börekler (Pişirilmiş),3.0
+35d8be10-fdb7-41f9-ac47-a1b1061454ba,Patatesli Kol Böreği (1 kg.),"50,00 TL",Kiloluk Börekler (Pişirilmiş),6.0
+ee3e2e4d-7494-42d7-ad89-77e6b1cef911,Peynirli Kol Böreği (1 kg.),"50,00 TL",Kiloluk Börekler (Pişirilmiş),5.0
+7b29506e-416c-4cac-ba7f-c45b054b80be,Tatlı Karışık Kurabiye (1 kg.),"35,00 TL",Kiloluk Kurabiyeler,7.0
+44aacf6d-7fe6-4079-9e78-a22b8ee587f8,Cevizli Baklava (1 kg.),"50,00 TL",Kiloluk Tatlılar,12.0
+3dbc1a74-bd03-4074-89b8-ed1658e9bd11,Cevizli Şöbiyet (1 kg.),"50,00 TL",Kiloluk Tatlılar,5.0
+F553EF35-4B14-4160-AB2F-93D8CEFB57BB,Sarma Kadayıf (1 kg.),"50,00 TL",Kiloluk Tatlılar,3.0
+3654b719-7116-4e3f-be21-2b3c7cf14161,Poşet,"0,25 TL",Poşet,5.0

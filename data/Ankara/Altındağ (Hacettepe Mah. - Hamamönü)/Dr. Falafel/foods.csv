@@ -1,0 +1,74 @@
+food_id,food_name,food_price,food_category,food_score
+713ad92d-ae77-4ef2-9fde-d3f4d0cf37f7,Cheddar Nugget Roll Menü,"22,00 TL",Ekonomik Menüler,8.0
+172ea1bb-f4bf-4575-8e08-f087eaef2a9a,Çiğ Köfte (200 gr.) Menü,"20,00 TL",Ekonomik Menüler,8.0
+a347a820-fcb2-4355-aaa7-70e7587b03b3,Çiğ Köfte (400 gr.) Menü,"36,00 TL",Ekonomik Menüler,8.0
+79d2efab-baf0-4649-b635-d09faf62d381,Dr. Falafel Special Roll Menü,"23,00 TL",Ekonomik Menüler,41.0
+215fc2f3-86b6-4b37-8724-34c4c8a70254,Falafel Burger Menü,"22,00 TL",Ekonomik Menüler,31.0
+bdd72bd7-4421-4947-a1fe-fe33b358c778,Falafel Dürüm Menü,"20,00 TL",Ekonomik Menüler,37.0
+31442ba1-8620-4365-bbd1-ae7326c7e5e8,Falafel Menü,"27,00 TL",Ekonomik Menüler,30.0
+ad395581-0b9e-4ff1-bb7c-d0b0764c789d,Falafel Pita Sandviç Menü,"22,00 TL",Ekonomik Menüler,30.0
+50601fb2-f5ba-41ea-be3a-b693eceac985,Jumbo Humus Menü,"29,00 TL",Ekonomik Menüler,17.0
+28db336c-2c26-4f6e-bfd2-9998f432e228,Kaşarlı Falafel Dürüm Menü,"22,00 TL",Ekonomik Menüler,32.0
+7a902e93-9012-42ec-9405-15d66a8f2aa0,Kıtırbahar Dürüm Menü,"22,00 TL",Ekonomik Menüler,7.0
+7a14e852-579a-4f30-8e8b-27d40c200d0d,Köz Patlıcanlı Falafel Dürüm Menü,"22,00 TL",Ekonomik Menüler,34.0
+2c795f2e-2e83-4552-bb51-c8ae71ef52f5,Mega Menü,"33,00 TL",Ekonomik Menüler,6.0
+71511c97-04cf-401d-9102-522c1b9cd4b7,Nohut Dürüm Menü,"23,00 TL",Ekonomik Menüler,9.0
+eb4e6fad-4c0a-4327-bbcd-3ca59f81ff07,Rodeo Falafel Burger Menü,"23,00 TL",Ekonomik Menüler,31.0
+5997A9F8-15FD-4B8F-9DDD-40C64FC2C4B8,Vegan Burger Menü,"25,00 TL",Ekonomik Menüler,17.0
+68561318-65AE-4AF2-8BF7-CD38B4290FDB,Vegan Şnitzel Burger Menü,"25,00 TL",Ekonomik Menüler,17.0
+4c349349-ae34-42a3-9725-e028b0166566,Vejetaryen Burger Menü,"22,00 TL",Ekonomik Menüler,9.0
+14c19074-6723-4646-ac65-ed543dea5c57,Vejetaryen İçli Köfte Menü,"25,00 TL",Ekonomik Menüler,8.0
+67819cbe-d335-4efe-b703-488a289d7803,Vejetaryen Mücver Dürüm Menü,"22,00 TL",Ekonomik Menüler,11.0
+f09b89c3-0fb8-47ea-bf6a-257b22f79cfd,Texas Çıtır Tavuk Dürüm Menü,"20,00 TL",Çıtır Tavuk Menüleri,6.0
+bf32802f-9592-43ab-9019-ce88793cd9d1,Texas Crispy Chicken Menü,"25,00 TL",Çıtır Tavuk Menüleri,6.0
+42c6f660-08a8-4cf5-a93b-ed5061535411,Falafel Pita Sandviç,"15,50 TL",Sandviçler,29.0
+e873f508-2af2-4205-be2d-b913b3d9aee9,Falafel Burger,"15,50 TL",Burgerler,30.0
+6CBE2581-E136-4195-BC08-D28034AEAADE,Vegan Şnitzel Burger,"18,00 TL",Burgerler,16.0
+B078E8C8-79BC-4471-A11B-AF43B6F92CD1,Vegan Burger,"18,00 TL",Burgerler,16.0
+212ec2cd-f8bf-498c-aaf1-0fd45594c93c,Rodeo Falafel Burger,"16,50 TL",Burgerler,30.0
+e51ed736-0172-41e8-9b77-c1c2b93631e2,Mücver Burger,"15,50 TL",Burgerler,7.0
+41a83bfd-db10-4c1c-b743-78c14d7b7671,Falafel,"20,00 TL",Falafeller,29.0
+ae403e5a-ab88-4d1b-9429-2ab97e1103ba,Kaşarlı Falafel,"23,00 TL",Falafeller,29.0
+1f3b7fb2-4fae-4986-a603-4f121ff4a7c8,Barbekü Soslu Falafel Dürüm,"13,00 TL",Dürümler,31.0
+9020a06e-dc7b-405f-b6b4-19b6403beaef,Cheddarlı Sucuklu Yumurtalı Dürüm,"20,00 TL",Dürümler,5.0
+1ce65c10-ac28-45af-a3a0-e0db4badb867,Chilli Hot Falafel Dürüm,"13,00 TL",Dürümler,31.0
+db0d6e73-1ed5-4ee5-b7c8-ac89e8811202,Dr. Falafel Special Roll,"16,50 TL",Dürümler,35.0
+cd49a424-6cee-48e3-8332-264b9744caf6,Falafel Dürüm,"13,00 TL",Dürümler,36.0
+23d81645-5a05-4891-85e0-0ff959213c61,Nohut Dürüm,"14,00 TL",Dürümler,8.0
+3ef1e6de-5834-4e54-af27-9873009b6589,Hardallı Falafel Dürüm,"13,00 TL",Dürümler,31.0
+d5e002e7-a887-4797-bd02-f5f2db27066a,Kaşarlı Falafel Dürüm,"15,50 TL",Dürümler,31.0
+7171d2a9-a399-4df4-8afd-73b658035904,Köz Patlıcanlı Falafel Dürüm,"15,50 TL",Dürümler,33.0
+e39258f2-7969-4a98-9b29-5ade79018ba3,Nugget Dürüm,"14,00 TL",Dürümler,7.0
+6a2a78e3-b47d-4109-b3aa-2fc0297694f8,Sucuklu Yumurtalı Dürüm,"19,00 TL",Dürümler,5.0
+7e7ce407-e985-43a7-8bea-c8f9abff7f97,Texas Çıtır Tavuk Dürüm,"13,00 TL",Dürümler,5.0
+a0443d55-9bc8-4411-bf88-00bc17e59030,Vegan Falafel Dürüm,"13,00 TL",Dürümler,40.0
+3ca1f61a-9f53-4bd1-aca5-35e1a24c3658,Kıtırbahar Dürüm,"15,00 TL",Dürümler,6.0
+0c9652e9-ad9d-4335-bba7-611b6dfd781c,Mücver,"22,00 TL",Diğer Lezzetler,6.0
+caf5ad79-2f09-404f-abd8-1ccf84179760,Vegan İçli Köfte,"8,50 TL",Diğer Lezzetler,15.0
+05d93e20-4925-475c-905c-7ab8e4ad3b19,Kıtırbahar Sepet,"23,00 TL",Diğer Lezzetler,4.0
+664d8cf6-050c-41cc-bcf7-2d58f5fd84bb,Sushi Çiğ Köfte,"19,00 TL",Diğer Lezzetler,7.0
+24B56EFF-670E-4A52-BC21-0222E085B9E3,Vegan Pattis Köfte,"28,00 TL",Diğer Lezzetler,17.0
+b252f552-3047-4e0f-8eb1-2ed4cf3e5648,Çiğ Köfte Dürüm,"8,00 TL",Çiğ Köfteler,9.0
+c044a818-6d3b-4ce5-b105-c51bf06d0cb5,Humus,"17,00 TL",Yan Ürünler,11.0
+c2ca90e4-0fb2-4ab6-8004-57c4889cc4b5,Patates Kızatması,"10,00 TL",Yan Ürünler,5.0
+cc93a86c-84f9-49da-b615-2302b6d3b03b,Soğan Halkası (6 Adet),"10,00 TL",Yan Ürünler,4.0
+b7be9a30-f533-4a04-85f8-fd0da6c2ab8e,Tabbule Salatası,"14,00 TL",Salatalar,5.0
+38fbaa98-5c9e-47d3-a7e8-6e32bc8f7f8a,Bitter Donut,"8,00 TL",Tatlılar,10.0
+c23e4569-0290-48c3-9d90-9fade48a30ef,Renkli Şekerli Çikolatalı Donut,"8,00 TL",Tatlılar,9.0
+235c30f4-099d-43ef-9bca-f51ef1818486,Hindistan Cevizli Çikolatalı Donut,"8,00 TL",Tatlılar,9.0
+7a7a8e0f-757e-446f-85b2-66ab98231b49,Vegan Brownie,"12,50 TL",Tatlılar,16.0
+C15A121B-7E90-40F5-85AA-33884639AD1C,Çikolatalı Sufle,"12,50 TL",Tatlılar,4.0
+4f6623e0-58f4-4874-9f29-31340edb63a4,Coca-Cola Şekersiz (20 cl.),"5,00 TL",İçecekler,5.0
+a3b7832d-9d8d-47a1-867e-b1001a0de3e8,Fuse Tea (25 cl.),"5,00 TL",İçecekler,5.0
+0dffce71-8072-4107-b931-811388c46bc9,Taze Sıkma Portakal Suyu,"10,00 TL",İçecekler,5.0
+23e1531a-45cc-40a4-b7cf-126f25a30578,Hardal Sos (20 gr.),"1,00 TL",Soslar,11.0
+b7e7fdaf-afca-4074-97e7-f4b41f6d1401,Ballı Hardal Sos (20 gr.),"1,00 TL",Soslar,11.0
+9ba43783-8d52-454d-89a5-c96b2b52ae56,Sweet Chilli Sos (20 gr.),"1,00 TL",Soslar,11.0
+5e4154d0-c643-41ae-b36e-d6639479c71d,Louisiana Sos (20 gr.),"1,00 TL",Soslar,11.0
+a9a6979c-fbf4-44cf-a201-7f723122d7c0,BBQ Sos (20 gr.),"1,00 TL",Soslar,11.0
+acb3087e-24bf-4687-b383-e70a57b8fd28,Hot Mexican Sos (20 gr.),"1,00 TL",Soslar,11.0
+5215d771-1806-4bdc-a6e8-ef02801b71fb,Sweet Sour Sos (20 gr.),"1,00 TL",Soslar,11.0
+14409bf5-4b0c-45c6-b16b-0040e20b6c46,Garlic Sos (100 gr.),"6,00 TL",Soslar,13.0
+170c9821-c66f-4acc-b797-771f585eebb0,Sweet Chilli Sos (100 gr.),"6,00 TL",Soslar,11.0
+d78f4495-12ff-4ad1-a7b2-d1601177336f,Louisiana Sos (100 gr.),"6,00 TL",Soslar,11.0
+e679ff20-e060-448b-a2f7-957605690dd7,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,85 @@
+food_id,food_name,food_price,food_category,food_score
+7346791B-3A69-46F5-B47C-CC22EC985C45,Cheeseburger Menü,"40,00 TL",Menüler,10.0
+C924002D-1876-44DD-BF95-5D666631CA00,Füme Etli Mantarlı Burger Menü,"44,00 TL",Menüler,16.0
+382C7BE2-98A4-46BB-9626-C1A7F9A9D992,Kaserol Double Burger Menü,"60,00 TL",Menüler,17.0
+11CA7B56-774D-48AA-ABA0-B0AE9846E201,Pizza Menü,"42,00 TL",Menüler,8.0
+1A472363-7593-46EB-9BA0-8D3CB0717EB8,Izgara Köfte Menü,"42,00 TL",Menüler,10.0
+62BDC364-C5E2-482C-AF2A-F96292BD23BC,Chicken Burger Menü,"37,00 TL",Menüler,14.0
+AD0D9B31-873B-4F4B-B9BA-E13C1C338C30,Köfteli Dürüm Menü,"39,00 TL",Menüler,8.0
+39B5EE55-F034-4329-AD11-5B48E4DE7074,Patates Kızartması,"19,00 TL",Atıştırmalıklar,6.0
+90edf940-ac7d-41cd-9814-14de6231a31c,Cajun Çöp Şiş,"26,00 TL",Atıştırmalıklar,3.0
+0a0d4250-0886-47a5-bfec-72bc8795d93c,Soğan Halkası,"21,00 TL",Atıştırmalıklar,5.0
+97b193fc-c399-4613-a050-02c15ace3908,Karışık Ara Sıcak Sepeti,"35,00 TL",Atıştırmalıklar,2.0
+ff561248-9e10-4c83-aa91-9093db9f1d5e,Tavuk Kanat,"25,00 TL",Atıştırmalıklar,13.0
+c7582da0-00c7-47e3-811c-38f664817cc5,Mozzarella Sticks,"23,00 TL",Atıştırmalıklar,3.0
+eb1faec6-6624-44e4-900d-6998959a8198,Sigara Böreği,"22,00 TL",Atıştırmalıklar,5.0
+682c2e5b-76bd-4ac7-9475-db30e5c1e7a0,Klasik Burger,"34,00 TL",Burgerler,11.0
+2f715329-4b88-4297-9c42-c9a266c7ce78,Cheeseburger,"36,00 TL",Burgerler,12.0
+9893e803-6b3c-4096-95d6-27f28571eaba,Dana Jambonlu Burger,"38,00 TL",Burgerler,13.0
+f76f81e6-a4a8-4790-a8c2-b8c4b8777d98,Füme Etli Mantarlı Burger,"39,00 TL",Burgerler,13.0
+09e9cb7e-a872-4d79-908c-f2a5c7aafb01,Chicken Cheeseburger,"31,00 TL",Burgerler,7.0
+58d89239-b5b7-422c-9a4a-7f2b54b77431,Mexican Beef Burger,"41,00 TL",Burgerler,11.0
+d8717f0a-3ceb-47f8-a89d-882e16170349,Köri Soslu Burger,"36,00 TL",Burgerler,9.0
+50896940-b3b3-48bb-b1ff-d28259b27aef,Kaserol Double Burger,"55,00 TL",Burgerler,14.0
+FF3A82E3-3C2C-4F19-8ACB-E09A0949B0A4,Beğendili Burger,"38,00 TL",Burgerler,11.0
+ce068816-6c7d-477a-a9ba-c4ec75e3e81e,Margherita Pizza (Orta),"31,00 TL",Orta Boy Pizzalar (1-2 Kişilik),5.0
+771586f7-868a-44b8-bea5-dbcccb1acd48,Funghi Pizza (Orta),"30,00 TL",Orta Boy Pizzalar (1-2 Kişilik),5.0
+7fa4cee1-2341-48f1-93ab-b410406c7e01,Veggie Pizza (Orta),"30,00 TL",Orta Boy Pizzalar (1-2 Kişilik),5.0
+89892fb6-d693-4bda-be70-ee304f537e89,Capriciossa Pizza (Orta),"37,00 TL",Orta Boy Pizzalar (1-2 Kişilik),5.0
+6c5dea68-df00-4c57-9822-1fc7b72819a6,Piccante Pizza (Orta),"39,00 TL",Orta Boy Pizzalar (1-2 Kişilik),5.0
+312d5c6a-dc88-4b59-bc25-901d86726812,Ton Balıklı Pizza (Orta),"36,00 TL",Orta Boy Pizzalar (1-2 Kişilik),5.0
+cf29c317-cb73-4275-ae00-641b8292d1da,Hot Chilli Pizza (Orta),"38,00 TL",Orta Boy Pizzalar (1-2 Kişilik),5.0
+9966b064-20be-4f48-aa29-c0aaa54b6138,Misket Köfteli Pizza (Orta),"39,00 TL",Orta Boy Pizzalar (1-2 Kişilik),5.0
+5bb26652-01d1-423a-88b6-4ac79ec0cfb5,Füme Etli Kestane Mantarlı Pizza (Orta),"47,00 TL",Orta Boy Pizzalar (1-2 Kişilik),7.0
+58891e4c-1315-4662-ba2b-5fb2541eb72a,Toronto Pizza (Orta),"42,00 TL",Orta Boy Pizzalar (1-2 Kişilik),5.0
+418BC396-54CF-488B-87AC-F7FE93BA939C,Hünkârbeğendi,"50,00 TL",Ana Yemekler,5.0
+14663503-75A4-428B-BA5A-04B47AA7513A,Kuzu Pirzola,"90,00 TL",Ana Yemekler,5.0
+64A4347D-C573-44AF-9A15-25B1822A9F9A,Kuzu Sırt,"90,00 TL",Ana Yemekler,5.0
+3664CCCE-0C49-425C-A1C2-325ECB67D49F,Beğendili Köfte,"45,00 TL",Ana Yemekler,7.0
+ef7e5539-15f4-4888-8b2f-5beada5841ec,Izgara Köfte,"39,00 TL",Ana Yemekler,7.0
+F2B0F65A-B6CF-4E80-B85E-495CC3F98974,Çoban Kavurma,"60,00 TL",Ana Yemekler,6.0
+01FBE8B2-C5CE-4E9D-A463-7959901217E0,Tavuk Çoban Kavurma,"40,00 TL",Ana Yemekler,11.0
+9FEA27A7-B69C-4ED7-BF2A-230E794A6F80,Diyet Izgara Tavuk,"39,00 TL",Ana Yemekler,15.0
+D989E4F5-D8F9-4AFA-A72D-EFFC6917581A,Yoğurtlu Kebap,"49,00 TL",Ana Yemekler,5.0
+08afda72-2c5f-4404-ac7a-a9eff1435f7d,Külbastı,"48,00 TL",Ana Yemekler,11.0
+42f02330-7f38-4d31-a103-3039ffcdfc65,Adaçaylı Limon Soslu Tavuk Izgara,"39,00 TL",Ana Yemekler,10.0
+6306ea2e-2fa3-405e-8be4-a7f65b79907b,Mantar Soslu Tavuk Izgara,"39,00 TL",Ana Yemekler,17.0
+9a2cb949-63cb-45e8-91e8-10a9fab5f636,Tavuk Schnitzel,"36,00 TL",Ana Yemekler,14.0
+03b8fb6c-60b6-46c0-86f6-4dab5b6cfd8c,Köri Soslu Tavuk Izgara,"39,00 TL",Ana Yemekler,8.0
+fb6dcf2c-188d-49d3-bc97-cb3864398224,Taze Kekikli Tavuk But,"39,00 TL",Ana Yemekler,12.0
+0b10f5c4-0b33-4a62-822a-c8f0814f1ec7,BBQ Soslu Tavuk Izgara,"38,00 TL",Ana Yemekler,10.0
+374c9132-b8f1-4b8b-a0d2-b3d12397ce6b,Dana Lokum (200 gr.),"85,00 TL",Steakler,7.0
+9d6edee7-d29d-4770-b90e-41b6cf47bf58,Dana Antrikot (250 gr.),"85,00 TL",Steakler,7.0
+b02c27c6-f777-434e-863a-d56965933bbe,Bonfile Madalyon (250 gr.),"89,00 TL",Steakler,5.0
+79e30048-3bfa-4dbb-a051-39eadbe37c1b,Dallas Steak (350 - 400 gr.),"115,00 TL",Steakler,2.0
+88f5be0d-9c01-4b47-861d-a758f1cfb4a4,T-Bone Steak (350 - 400 gr.),"115,00 TL",Steakler,2.0
+d3030461-f35d-47b3-a441-cbc0942768ca,New York Steak (300 - 350 gr.),"90,00 TL",Steakler,2.0
+a1eda40d-2cd8-425f-8059-2c927f3f20e0,Spaghetti Bolognese,"33,00 TL",Makarnalar,5.0
+5e0398ac-d5cc-4e15-a7ce-11b8bd18b761,Sebze Domates Soslu Penne,"30,00 TL",Makarnalar,13.0
+27bb8413-7370-4638-8de1-eac9b2a9a2dd,Acılı Sebzeli & Tavuklu Noodle,"34,00 TL",Noodle,6.0
+e6a59793-2c8f-4848-88e1-49f2a2e604ad,Dalian Soslu Biftekli Noodle,"39,00 TL",Noodle,4.0
+109e44f2-4b21-42f6-9fd9-4f51d8fb0339,Sebzeli Köri Soslu Noodle,"33,00 TL",Noodle,2.0
+5E75F0B8-48A9-475C-8134-DE6016AF30F8,Biftekli Quesadilla,"36,00 TL",Quesadillas,5.0
+BC54E880-8296-4F92-A138-559259B335B6,Sebzeli Quesadilla,"30,00 TL",Quesadillas,5.0
+DBD08830-68CB-4D04-8D85-6D1BC9B1AF8C,Tavuklu Quesadilla,"34,00 TL",Quesadillas,7.0
+c51452cb-49d6-4c6b-9df7-8cdfaae44d03,Etli Mantarlı Dürüm,"33,00 TL",Dürümler,7.0
+AF509784-B1DA-42C6-B1DA-13AFDCCD2A27,Beğendili Köfte Dürüm,"33,00 TL",Dürümler,7.0
+e7cc8b69-72be-49b2-9a33-662cd677c751,Tavuklu Mantarlı Dürüm,"29,00 TL",Dürümler,9.0
+f19db458-8fc6-41f9-b180-d80ee25d1890,Köfteli Dürüm,"31,00 TL",Dürümler,5.0
+c4e1ad48-e2ef-4e58-86ec-14f7878b8236,Sebzeli Peynirli Dürüm,"25,00 TL",Dürümler,5.0
+bf8113b7-d760-4eeb-97bb-335d543c2af9,Roka & Domates & Mozzarella Salata,"32,00 TL",Salatalar,12.0
+68324c04-4ab0-4e25-946a-5371d67e0e0c,Hoisin Soslu Tavuk Salata,"33,00 TL",Salatalar,11.0
+f55ac493-b847-42ac-a867-dd12828db82c,Oyster Soslu Biftek Salata,"40,00 TL",Salatalar,5.0
+c6433db7-442f-4cb2-8e60-4caf56091147,Klasik Caesar Salata,"34,00 TL",Salatalar,6.0
+c5f7b2c5-0d37-4d8f-bbb6-2b79200f5089,Tavuklu Caesar Salata,"38,00 TL",Salatalar,8.0
+c61eac5b-3f2b-4a65-9262-44db8961accc,Beyaz Peynirli Izgara Sebze Salata,"34,00 TL",Salatalar,6.0
+b03a4114-eb28-43b3-8267-242c9f57d1e4,Izgara Hellim Salata,"36,00 TL",Salatalar,6.0
+c4eb4b3f-11fd-4261-ac01-65dcdd189286,Kızarmış Tavuklu Salata,"34,00 TL",Salatalar,8.0
+fd0da644-a495-4453-b55d-d48dcbc00628,Kinoa Salata,"37,00 TL",Salatalar,6.0
+b6e5ba2e-0870-445f-b263-9dcc3ca8f76e,Ton Balıklı Salata,"39,00 TL",Salatalar,6.0
+F49F1FF4-3176-4DA9-8F5F-FED530B5F91D,Limonlu Cheesecake,"25,00 TL",Tatlılar,6.0
+6ca5d5cb-a391-410c-988a-8fab85721084,Frambuazlı Cheesecake,"25,00 TL",Tatlılar,6.0
+ea65882b-2647-48c6-836a-bb9f3cb48b44,Çikolatalı Cheesecake,"25,00 TL",Tatlılar,7.0
+ED4FFDB5-1F8F-46DC-81EC-38EA0B0C4F38,Ev Yapımı Limonata,"12,00 TL",İçecekler,7.0
+6fa926c1-734c-4cea-ac55-dbcfd5a6534a,Niğde Gazozu (25 cl.),"7,00 TL",İçecekler,5.0
+5ff884d2-12b8-40d1-9bf8-403ecf36e2ec,Poşet,"0,25 TL",Poşet,5.0

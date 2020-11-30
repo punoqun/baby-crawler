@@ -1,0 +1,69 @@
+food_id,food_name,food_price,food_category,food_score
+ae574d05-ee39-4578-8926-8f72ed8bb5e6,Tepsi Burma Kadayıfı & Tepsi Kol Böreği,"175,00 TL",Tepsi Menüleri,4.0
+3adec765-bf7b-4bec-b731-76234fbc5594,Tepsi Burma Kadayıfı & Tepsi Su Böreği,"175,00 TL",Tepsi Menüleri,3.0
+64fda354-43e8-4cc1-857a-dd030cd051c3,Tepsi Ev Baklavası & Tepsi Su Böreği,"199,00 TL",Tepsi Menüleri,3.0
+d2d2647d-f986-4c4f-bfc4-c54700943cf3,Tepsi Su Böreği & Tepsi Karışık Kol Böreği,"160,00 TL",Tepsi Menüleri,-1.0
+0f51535b-fec0-4233-a029-469f56b3dc08,Tepsi Cevizli Baklava & Tepsi Karışık Kol Böreği,"199,00 TL",Tepsi Menüleri,1.0
+80d5433f-c31b-43c4-a794-e2d5aaf9737e,Tepsi Cevizli Baklava & Tepsi Su Böreği,"199,00 TL",Tepsi Menüleri,3.0
+b3f39154-00af-46d6-9652-e6c1a5d80602,Tepsi Fıstıklı Baklava & Tepsi Karışık Kol Böreği,"249,00 TL",Tepsi Menüleri,0.0
+27fb9879-56d0-4f6b-9c19-3a329fa57409,Tepsi Fıstıklı Baklava & Tepsi Su Böreği,"249,00 TL",Tepsi Menüleri,2.0
+dff679d0-3198-4afe-a385-362a3dea027c,Patatesli Kol Böreği,"13,00 TL",Börekler,4.0
+5ebe234b-4e3a-4f9a-a550-25043126f36b,Peynirli Kol Böreği,"13,00 TL",Börekler,3.0
+3402b3c5-67b8-44e2-9f5d-7691ecba3984,Ispanaklı Kol Böreği,"13,00 TL",Börekler,4.0
+3627b5fa-c0f1-402a-a11b-e36cabc80ff8,Kıymalı Kol Böreği,"14,50 TL",Börekler,3.0
+82789ded-2fc6-4ed0-a3e6-ca496c049391,Kıymalı Karaköy Böreği,"14,50 TL",Börekler,4.0
+d5be6a29-75f9-41e2-a169-ba2479634491,Peynirli Karaköy Poğaçası,"2,25 TL",Poğaçalar & Açmalar,4.0
+44b57089-ce24-4d9e-b109-547304679587,Peynirli Poğaça,"2,25 TL",Poğaçalar & Açmalar,4.0
+ac730e11-bf87-49a7-b40c-c7cb76fd51aa,Zeytinli Poğaça,"3,00 TL",Poğaçalar & Açmalar,5.0
+ae841649-11b9-45a1-8927-118211c31e29,Patatesli Poğaça,"2,25 TL",Poğaçalar & Açmalar,5.0
+9c83f68f-49a4-4771-a83b-fb98724a2ac7,Kıymalı Poğaça,"2,25 TL",Poğaçalar & Açmalar,4.0
+e7099e2f-1e8c-454c-b3ae-1e3084ddc357,Kaşarlı Poğaça,"2,25 TL",Poğaçalar & Açmalar,5.0
+332df92c-0be3-4bc9-8941-c29973998e65,Dereotlu Peynirli Poğaça,"2,25 TL",Poğaçalar & Açmalar,4.0
+e6421d72-01fd-403c-8231-5ec51c7356f2,Zeytinli Açma,"3,00 TL",Poğaçalar & Açmalar,5.0
+be80fd78-29a7-451a-9624-f1412d1f9f05,Sade Açma,"3,00 TL",Poğaçalar & Açmalar,5.0
+7ea76abf-721e-43db-b4ad-8b66e4f20f38,Kapama (Peynirli),"3,00 TL",Poğaçalar & Açmalar,5.0
+aa3050b9-b81d-4763-a332-3737f7206248,Simit,"3,00 TL",Poğaçalar & Açmalar,5.0
+5b313acc-c90f-4537-9a8b-c38edf69483a,Ramazan Pidesi,"3,50 TL",Yan Ürünler,5.0
+2fa8bee1-666c-4362-b055-55d069cfa329,Alman Pastası (Adet),"5,50 TL",Adet Pastalar,5.0
+262d2e2b-e964-4105-86e3-abad158f25a4,Frambuazlı Trileçe,"11,00 TL",Sütlü Tatlılar,5.0
+e4e29f88-1b1b-4a6c-94c5-76d332249691,Güllaç Tatlısı,"11,00 TL",Sütlü Tatlılar,5.0
+0dcfe038-03e2-4b6e-860a-75fd4ed72b77,Kaymaklı Baklava (4 Adet),"14,00 TL",Şerbetli Tatlılar,3.0
+ad80bfd7-82a5-4dd9-804e-df0616f9b122,Fıstıklı Spesiyal Baklava (200 gr.),"22,50 TL",Şerbetli Tatlılar,4.0
+ef321d89-f5dc-4d2f-b4e8-f02978754777,Cevizli Spesiyal Baklava (200 gr.),"17,50 TL",Şerbetli Tatlılar,5.0
+78cd3e5c-cbfd-4929-9e57-9707231331a8,İrmikli Şam Tatlısı,"11,00 TL",Şerbetli Tatlılar,5.0
+d55e1ac8-8362-4f7f-8d87-f7733ae37f6e,Maraş Dondurması,"5,00 TL",Dondurmalar,5.0
+65d351a3-fa14-4000-9d7b-74219ade6e34,Maraş Dondurması (250 gr.),"18,00 TL",Dondurmalar,5.0
+62376601-30a5-4b0b-a1a0-84e50a1e2502,Maraş Dondurması (500 gr.),"30,00 TL",Dondurmalar,5.0
+1360bd50-184a-4c89-884c-57fc2676178a,Maraş Dondurması (1 kg.),"55,00 TL",Dondurmalar,5.0
+17ec21f4-591b-4229-a744-98406144e9f2,Su,"2,00 TL",İçecekler,3.0
+5ffb89d3-686e-4e7b-a3b3-540718fd3f03,"Fanta (2,5 L.)","9,00 TL",İçecekler,5.0
+33891e58-87b7-4da6-ae01-0c45e78d66f4,Patatesli Kol Böreği (1 kg.),"45,00 TL",Kiloluk Börekler,4.0
+4fecef64-dca8-425a-b5b0-1217bca8737c,Peynirli Kol Böreği (1 kg.),"45,00 TL",Kiloluk Börekler,3.0
+ad5c2154-58e9-416e-848d-a07fdf4f82c5,Ispanaklı Kol Böreği (1 kg.),"45,00 TL",Kiloluk Börekler,4.0
+9fc228d4-8631-4a94-b382-3ac66d31be92,Kıymalı Kol Böreği (1 kg.),"48,00 TL",Kiloluk Börekler,3.0
+53aecaa9-7f1b-4817-b477-bb5a6695fbfa,Kıymalı Karaköy Böreği (1 kg.),"48,00 TL",Kiloluk Börekler,4.0
+a0cca558-84ca-476f-abc2-74ff01c416b9,Patatesli Karaköy Böreği (1 kg.),"45,00 TL",Kiloluk Börekler,5.0
+beea7d19-e460-4f9f-82f2-df4f2a6497e9,Peynirli Karaköy Böreği (1 kg.),"45,00 TL",Kiloluk Börekler,4.0
+36afad72-7822-4492-a066-fc6a275cd6db,Karamelli Trileçe (1 kg.),"50,00 TL",Kiloluk Tatlılar,5.0
+9eaf98cb-e494-487a-ab79-cef2db3d8854,Ekler (1 kg.),"60,00 TL",Kiloluk Tatlılar,5.0
+F101E040-05BE-41D9-ADD0-5F778D61EB16,Güllaç (500 gr.),"25,00 TL",Kiloluk Tatlılar,5.0
+CA7285CA-984A-4FBC-BD0F-CE8EAE106E3B,Güllaç (1 kg.),"50,00 TL",Kiloluk Tatlılar,5.0
+969a04f3-dcd1-47ad-b91a-a1e065ea284a,Cevizli Spesiyal (1 kg.),"59,90 TL",Kiloluk Şerbetli Tatlılar,5.0
+f46752fa-79be-4d71-a71f-d378e07f9c2b,Fıstıklı Spesiyal (1 kg.),"80,00 TL",Kiloluk Şerbetli Tatlılar,4.0
+c331dcc8-f7c8-4874-be82-f4530abc7275,İrmikli Şam Tatlısı (1 kg.),"45,00 TL",Kiloluk Şerbetli Tatlılar,5.0
+efa9cc41-4c74-46af-9e6f-ff4683b41efb,Kaymaklı Baklava (1 kg.),"59,90 TL",Kiloluk Şerbetli Tatlılar,3.0
+03926841-30FF-4279-B6B9-00B69B24DC6F,Soğuk Baklava (1 kg.),"95,00 TL",Kiloluk Şerbetli Tatlılar,5.0
+8a824b5e-177a-44e9-97e3-6fec5998e353,Karışık Tatlı Kuru Pasta (1 kg.),"45,00 TL",Kiloluk Kuru Pastalar,0.0
+3959a01b-b54a-44b5-b0d9-3b34ba9ed911,Karışık Tuzlu Kuru Pasta (1 kg.),"45,00 TL",Kiloluk Kuru Pastalar,2.0
+8ee4aec8-21a1-4f9d-b033-a1517e515e82,Karışık Tatlı Tuzlu Pasta (1 kg.),"45,00 TL",Kiloluk Kuru Pastalar,0.0
+8d7cf5f3-947d-4f47-b978-6918d589c2c5,Karışık Tatlı Tuzlu Pasta (500 gr.),"22,50 TL",Kiloluk Kuru Pastalar,0.0
+73473761-e1cb-480c-8f36-7bb3cc158d69,Karışık Tatlı Kuru Pasta (500 gr.),"22,50 TL",Kiloluk Kuru Pastalar,0.0
+5f5577fd-cb03-451d-8cfa-eb8612964c39,Karışık Tuzlu Kuru Pasta (500 gr.),"22,50 TL",Kiloluk Kuru Pastalar,2.0
+4c18dfff-d7f0-4ce6-bcc0-ffedb3b4bdfe,Karışık Tatlı Tuzlu Kuru Pasta (1 kg.),"45,00 TL",Kiloluk Kuru Pastalar,0.0
+f188ec8a-cfa3-47ac-86c3-fae591c3ca23,Tatlı Kurupasta (500 gr.),"22,50 TL",Kiloluk Kuru Pastalar,3.0
+75807aff-6df3-4055-b00b-8978b9aaa171,Tuzlu Kurupasta (500 gr.),"22,50 TL",Kiloluk Kuru Pastalar,5.0
+bce61924-9f66-4e22-aeba-178cac913b20,Patatesli Kol Böreği (Tepsi),"85,00 TL",Tepside Börekler,4.0
+7f644a66-b430-47bc-8949-28086508563b,Peynirli Kol Böreği (Tepsi),"85,00 TL",Tepside Börekler,3.0
+c5bb005a-0638-4986-91d2-2be3cd3b0264,Ispanaklı Kol Böreği (Tepsi),"85,00 TL",Tepside Börekler,4.0
+b49b4489-734b-46d5-8614-7b2ca661f875,Kıymalı Kol Böreği (Tepsi),"110,00 TL",Tepside Börekler,3.0
+3b0245ea-2936-4803-a868-6f89dfdf6f2a,Poşet,"0,25 TL",Poşet,5.0

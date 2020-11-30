@@ -1,0 +1,37 @@
+food_id,food_name,food_price,food_category,food_score
+1500674e-fc88-4a2f-a972-9ff4785bbde0,Sporcu Menüsü,"21,00 TL",Menüler,5.0
+9c21ead3-5546-4ff0-995a-0985c3b06155,Öğrenci Tavuk Döner Dürüm Menü 1,"13,00 TL",Menüler,16.0
+507e576d-9861-4883-84ec-3b3bd0d542d3,Öğrenci Tavuk Döner Dürüm Menü 2,"14,00 TL",Menüler,0.0
+4ea480ce-57d7-438f-8965-8085c3a9417d,Tavuk Döner Dürüm Menü 1,"14,00 TL",Menüler,11.0
+5738fbcb-030e-4837-a918-8e01d0665a56,Tavuk Döner Dürüm Menü 2,"16,00 TL",Menüler,0.0
+fbcaf9ba-894e-4631-a890-2b24332267f7,Soba Tavuk Döner Dürüm Menü 1,"15,00 TL",Menüler,12.0
+e39861a3-d2ca-4144-bdc8-c7688755b2b8,Soba Tavuk Döner Dürüm Menü 2,"17,00 TL",Menüler,1.0
+5d114488-b163-496a-9327-55ae5f5da279,Zurna Tavuk Döner Dürüm Menü 1,"15,00 TL",Menüler,15.0
+804aeb52-8b1a-47eb-9d10-4488e834a41e,Zurna Tavuk Döner Dürüm Menü 2,"17,00 TL",Menüler,-1.0
+51d9d51f-71a4-4cb8-bc39-5da6db4dee28,Et Döner Dürüm Menü 1,"17,00 TL",Menüler,18.0
+ef0c8906-da13-42e6-9629-42d4c135cdca,Et Döner Dürüm Menü 2,"19,00 TL",Menüler,7.0
+6f6f8fee-6f1d-44b8-bc09-0f1004b741d5,Soba Et Döner Dürüm Menü 1,"18,00 TL",Menüler,19.0
+b68448bb-93b7-4364-8993-9b9ccbbc9058,Soba Et Döner Dürüm Menü 2,"20,00 TL",Menüler,8.0
+c7e6f8da-b690-4236-a9d8-9f51913ac0bb,Zurna Et Döner Dürüm Menü 1,"18,00 TL",Menüler,17.0
+dbb50a14-0e06-47f0-920a-13f18c24a7c5,Zurna Et Döner Dürüm Menü 2,"20,00 TL",Menüler,6.0
+e8c42330-a15a-4b1c-8cd8-921aa1779ef4,Sütlü Ekmek Arası Et Döner Menü 1,"18,00 TL",Menüler,17.0
+13d40f61-1d68-44ec-8924-80c23556d509,Sütlü Ekmek Arası Et Döner Menü 2,"20,00 TL",Menüler,6.0
+eb3b9799-f51a-49a9-84d4-8cac404667d8,Et Döner,"20,00 TL",Et Dönerler,10.0
+76a07706-906e-40d5-a596-81976e3a0a95,Pilav Üstü Et Döner,"23,00 TL",Et Dönerler,12.0
+03ddf1e5-5028-4d7c-8ae4-0c72d674b3cb,İskender (Et Dönerden),"24,00 TL",Et Dönerler,5.0
+acf69de0-ec7f-4cf7-b2d9-56a1becfe595,Et Döner Dürüm,"14,00 TL",Et Dönerler,10.0
+51a3a49f-f800-4d2a-b5ca-5c19c7a8ac15,Soba Et Döner Dürüm,"15,00 TL",Et Dönerler,11.0
+8e569612-cdfb-49df-b420-e5b0e988dbd2,Zurna Et Döner Dürüm,"15,00 TL",Et Dönerler,9.0
+1550402b-9fc3-4e9d-9a44-62ee1b34b589,Sütlü Ekmek Arası Et Döner,"15,00 TL",Et Dönerler,9.0
+7D1E3CE5-12B8-4C8E-8265-F46F63771E95,Antakya Usulü Ekmek Arası Tavuk Döner,"10,00 TL",Tavuk Dönerler,5.0
+4556E595-8B70-4F64-A614-78C7F3C4678F,Antakya Usulü Soba Tavuk Döner Dürüm,"11,00 TL",Tavuk Dönerler,8.0
+97CB5928-0C20-4347-BFBA-68FB1271A652,Antakya Usulü Zurna Tavuk Döner Dürüm,"11,00 TL",Tavuk Dönerler,6.0
+68AF878B-8B29-4966-B3C7-3A00C33B9818,Antakya Usulü Sütlü Ekmek Arası Tavuk Döner,"11,00 TL",Tavuk Dönerler,6.0
+26d38b7c-9340-4a38-93dd-0305ea80efed,Tavuk Döner,"18,00 TL",Tavuk Dönerler,3.0
+6af2078c-55e8-40a4-9a80-44c5f37fee2b,Pilav Üstü Tavuk Döner,"19,00 TL",Tavuk Dönerler,5.0
+90cde4f4-6ce5-4342-b77b-94784bff2d21,Tavuk Döner Dürüm,"10,00 TL",Tavuk Dönerler,3.0
+c9683f0d-acbb-49df-8e31-32ff50764db4,Soba Tavuk Döner Dürüm,"11,00 TL",Tavuk Dönerler,4.0
+370d028e-215c-4afa-ab96-f5ee8fb62867,Zurna Tavuk Döner Dürüm,"11,00 TL",Tavuk Dönerler,7.0
+cfd76fc4-36cb-4337-9458-7abf8ff5e438,Sütlü Ekmek Arası Tavuk Döner,"11,00 TL",Tavuk Dönerler,2.0
+37dbd498-4a2a-4971-9a3e-e2b04100cf69,Patates Kızartması,"7,00 TL",Yan Ürünler,9.0
+7e4394e8-01c1-4aa8-b5c4-5948961b50ff,Poşet,"0,25 TL",Poşet,5.0

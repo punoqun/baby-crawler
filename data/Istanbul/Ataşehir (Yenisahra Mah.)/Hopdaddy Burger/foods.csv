@@ -1,0 +1,32 @@
+food_id,food_name,food_price,food_category,food_score
+c93c8611-189c-492a-837e-24932e310d03,Truffle Burger,"28,50 TL",Burgerler,16.0
+c011199f-f9dd-494c-a25d-9c034503be81,Goat Burger,"28,50 TL",Burgerler,16.0
+ab841361-32dc-49fc-b521-c0aa415b9a65,Fried Chicken Burger,"28,50 TL",Burgerler,16.0
+0fe4c6f2-9595-4636-addd-01c37a992ce8,Hopdaddy Burger,"28,50 TL",Burgerler,19.0
+b6c401d8-f36c-46af-93a4-11fad783c2fa,Mexico Burger,"28,50 TL",Burgerler,14.0
+d6d22003-2104-433a-a561-691bcf4d0bc9,Tropicana Burger,"28,50 TL",Burgerler,14.0
+aef92c59-d0be-4418-b965-2df96d5feeff,Lokum Burger,"42,00 TL",Burgerler,14.0
+6a2811c5-1906-49ab-b8e2-5483fb3b9d62,Grill Chicken Burger,"26,25 TL",Burgerler,14.0
+d9c1cce3-13f3-4bcd-bf2c-1a83cbcc61de,Classic Burger,"24,75 TL",Burgerler,14.0
+24032473-3b1c-4597-b572-46a39a2abc76,Vegan Farmer John Burger,"26,25 TL",Burgerler,19.0
+8e4f7294-2164-4a3b-8fb5-605bca93549d,Hopdaddy Kids Burger,"24,00 TL",Burgerler,14.0
+dcf3aff1-4124-4275-8609-dce43d240822,Classic Hot Dog,"18,75 TL",Hot Doglar,4.0
+9691604f-c5ae-487c-91d7-8c65fe6a149d,Frankfurter Hot Dog,"28,50 TL",Hot Doglar,4.0
+cdece11d-b59f-4f96-abe6-8cce998458fa,Cheese Hot Dog,"19,50 TL",Hot Doglar,4.0
+f5d79a4c-0790-4f3f-a972-7d3b201ea106,Fire House Hot Dog,"22,50 TL",Hot Doglar,4.0
+1ae8c4e8-c72e-45bc-bc97-897b4a7c7636,Mamma Mia Hot Dog,"24,75 TL",Hot Doglar,4.0
+530e8108-1ff0-4f11-9482-04b4a95fe3a4,Izgara Lokum,"48,75 TL",Izgaralar,5.0
+c8f73310-e80b-436d-996f-3fdd20d60978,Izgara Tavuk,"26,25 TL",Izgaralar,5.0
+22d06910-fb96-4988-b3f1-bad9800be30a,Patates Kızartması,"10,50 TL",Yan Ürünler,6.0
+7ed4788a-023f-4785-9c02-d1dd6476d7e0,Kızarmış Tavuk Parçaları,"21,00 TL",Yan Ürünler,5.0
+673976a9-0bcd-4d52-aeb1-c9f9b658fc69,Hopdaddy Patates Kızartması,"12,00 TL",Yan Ürünler,6.0
+6e5b9e78-bf7b-4365-bdad-37d1076bece8,Sosis Sepeti,"19,50 TL",Yan Ürünler,6.0
+89e59759-eb79-4a32-9466-7908ad184ad1,Soğan Halkası (8 Adet),"16,50 TL",Yan Ürünler,7.0
+d2a9c646-3c71-4709-b3d7-a01c27cc1178,Limonlu Cheesecake,"15,00 TL",Tatlılar,5.0
+d832c0b4-236e-45b7-a53d-d0e1313202d9,Kızarmış Keçi Peynirli Salata,"22,50 TL",Salatalar,5.0
+c3edacd3-62b3-492b-aced-01409b8db2bc,Izgara Bonfileli Salata,"30,00 TL",Salatalar,5.0
+6a764f2e-3065-45ed-8fd6-a6e26aa2a50a,Izgara Tavuklu Salata,"24,00 TL",Salatalar,5.0
+43df67bb-ed53-4c3f-8c8a-a1d17b1544eb,Cappy Karışık (25 cl.),"6,75 TL",İçecekler,5.0
+daaa8c46-f7e6-4c82-a0bc-5e140a071157,Fuse Tea (25 cl.),"6,75 TL",İçecekler,5.0
+ffd2744a-4c98-4954-93b9-b9fdc76b7461,Schweppes Mandarin (25 cl.),"6,75 TL",İçecekler,5.0
+0ea4d28b-f2cc-4e79-ada2-60348abf0754,Poşet,"0,25 TL",Poşet,5.0

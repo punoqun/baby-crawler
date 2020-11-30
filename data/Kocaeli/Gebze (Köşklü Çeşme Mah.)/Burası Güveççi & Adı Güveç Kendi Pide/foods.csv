@@ -1,0 +1,68 @@
+food_id,food_name,food_price,food_category,food_score
+C81FF28E-66FC-429B-84A2-F48072861741,2'li Güveç Pide Menü,"11,00 TL",Menüler,14.0
+2D7187CA-C548-4FBD-8A51-82C22A1899D3,6'lı Güveç Pide Menü,"27,50 TL",Menüler,14.0
+1429B208-7A9E-4F12-8C21-C34067B8BD42,10 Adet Güveç Pide Menü,"43,50 TL",Menüler,18.0
+41864A2D-2D7B-463A-93B7-C53258EB266F,20'li Güveç Pide Menü,"85,00 TL",Menüler,14.0
+0EBEFB4E-0DD4-49F5-9561-F35E8D3D4653,Kuşbaşı Kaşarlı Pizza,"20,00 TL",Fırın Ürünleri,3.0
+BE6DD455-53AC-4571-9E03-E41EADB6D2AC,Sütlü Çikolatalı Çokopi Pide,"4,00 TL",Fırın Ürünleri,13.0
+F6D90160-02C2-4CDF-9E1C-F20F3D8B835F,Beyaz Çikolatalı Çokopi Pide,"5,00 TL",Fırın Ürünleri,13.0
+b5cbf7a2-8978-495b-9010-190c0a80c9dd,Pastırmalı Pide,"25,00 TL",Fırın Ürünleri,13.0
+caae95f1-1b8f-406d-92b6-b0ad064818cc,Pastırmalı Kaşarlı Pide,"25,00 TL",Fırın Ürünleri,13.0
+229c4fff-4b4a-42db-a56a-e0737e8074fb,Kaşarlı Mantarlı Pide,"20,00 TL",Fırın Ürünleri,13.0
+cb41fd32-b2b9-4806-83be-0f4b606f3f3a,Kavurmalı Pide,"22,00 TL",Fırın Ürünleri,12.0
+03874f3c-3a7f-4d7c-a21a-ba48c34feae3,Kıymalı Güveç Pide,"4,00 TL",Fırın Ürünleri,19.0
+46e20669-49d4-4fc4-b1c9-a41a6308a79e,Kıymalı Kaşarlı Güveç Pide,"5,00 TL",Fırın Ürünleri,19.0
+b0b824e7-bc5c-4f31-a7dc-0fbd2a765740,Karışık Güveç Pide,"7,00 TL",Fırın Ürünleri,14.0
+21a4e3e5-6f2f-4924-b342-3d7e11491bf4,Kaşarlı Cantık Pide,"7,00 TL",Fırın Ürünleri,13.0
+4e63d6c1-e834-418b-b2c5-147f48c27e71,Kaşarlı Sucuklu Cantık Pide,"8,00 TL",Fırın Ürünleri,13.0
+db1aa080-4fc6-4df1-a85e-0f0d52fb7d9c,Kıymalı Yumurtalı Cantık Pide,"8,00 TL",Fırın Ürünleri,13.0
+19d18950-bcaf-480f-ab9d-6c5481326727,Karışık Cantık Pide,"8,00 TL",Fırın Ürünleri,13.0
+f914fda3-9333-40d6-b543-ca1f6fe3224f,Pizza XL Kaşarlı,"17,00 TL",Fırın Ürünleri,3.0
+47ee8421-3a09-4073-bf45-013293dcd718,Pizza XL Kaşarlı Sucuklu,"18,00 TL",Fırın Ürünleri,3.0
+911FB86A-0584-48C2-8502-5F0024832AA1,Kıymalı Kaşarlı Cantık Pide,"8,00 TL",Fırın Ürünleri,13.0
+a80a39eb-4ac2-4dac-8e33-bd4d72d35207,Alioos Karışık Pizza (Küçük),"21,00 TL",Küçük Boy Pizzalar (20 - 22 cm.),3.0
+02ed0f66-6ffd-4abf-80c2-7b14d72e1fb7,Alioos Turkish Pizza (Küçük),"21,00 TL",Küçük Boy Pizzalar (20 - 22 cm.),3.0
+c1355b0f-4522-45bd-80c9-1e43d4ca17c0,Alioos İtalyan Pizza (Küçük),"21,00 TL",Küçük Boy Pizzalar (20 - 22 cm.),3.0
+ff4cf7a2-684c-4fe2-b2bb-5ea048247143,Alioos Osmanlı Pizza (Küçük),"21,00 TL",Küçük Boy Pizzalar (20 - 22 cm.),3.0
+1c79cf06-9219-4872-941d-eb2e39a2e134,Alioos Anadolu Pizza (Küçük),"21,00 TL",Küçük Boy Pizzalar (20 - 22 cm.),3.0
+ca0b9a3f-2b79-4ed6-b11c-c39475046712,Alioos Kayseri Ateşi Pizza (Küçük),"23,00 TL",Küçük Boy Pizzalar (20 - 22 cm.),3.0
+638e97c9-792d-42e6-adb1-eca52c35bb1e,Alioos Sebzeli Pizza (Küçük),"21,00 TL",Küçük Boy Pizzalar (20 - 22 cm.),3.0
+ab9ff7b9-c3aa-4661-ac05-1c227c966594,Alioos Saray Pizza (Küçük),"23,00 TL",Küçük Boy Pizzalar (20 - 22 cm.),3.0
+3ac6b29b-7dd1-4f36-b28d-e4a97a9143e8,Alioos Akdeniz Pizza (Küçük),"23,00 TL",Küçük Boy Pizzalar (20 - 22 cm.),3.0
+c04e8f15-b3b7-4448-8e96-ad8bd93a1864,Alioos Kaşarlı Pizza (Küçük),"19,00 TL",Küçük Boy Pizzalar (20 - 22 cm.),3.0
+bd002b26-2859-4428-ae6f-370bc1ab1933,Alioos Bol Sucuklu Pizza (Küçük),"21,00 TL",Küçük Boy Pizzalar (20 - 22 cm.),3.0
+bbf45c1a-f72d-448b-bc26-c50c3311f487,Alioos Bol Kavurmalı Pizza (Küçük),"23,00 TL",Küçük Boy Pizzalar (20 - 22 cm.),2.0
+3de2b5b0-8861-4e1f-b1a2-5c683ee429f6,Alioos Kavurmalı Kaşarlı Sucuklu Pizza (Küçük),"25,00 TL",Küçük Boy Pizzalar (20 - 22 cm.),2.0
+b49c183f-98ab-4323-8219-1cb8c5529681,Alioos Kendi Pizzanı Kendin Yap (Küçük),"19,00 TL",Küçük Boy Pizzalar (20 - 22 cm.),5.0
+6e74c76f-dba2-42a8-a2c4-ba537c2eac86,Alioos Karışık Pizza (Orta),"29,00 TL",Orta Boy Pizzalar (26 - 28 cm.),3.0
+03677a77-5cbc-44f4-bac8-2980979cc80a,Alioos Turkish Pizza (Orta),"29,00 TL",Orta Boy Pizzalar (26 - 28 cm.),3.0
+923a9425-3b5b-4f67-b368-8da72725568f,Alioos İtalyan Pizza (Orta),"29,00 TL",Orta Boy Pizzalar (26 - 28 cm.),3.0
+dfcc8168-71a4-4bed-b7aa-8d6208cf2664,Alioos Osmanlı Pizza (Orta),"29,00 TL",Orta Boy Pizzalar (26 - 28 cm.),3.0
+efa2b6e0-7eb0-4e07-8444-7c08e1a3ea55,Alioos Kayseri Ateşi Pizza (Orta),"31,00 TL",Orta Boy Pizzalar (26 - 28 cm.),3.0
+0695cdac-ba09-4aab-94f4-dc2531fb3705,Alioos Anadolu Pizza (Orta),"29,00 TL",Orta Boy Pizzalar (26 - 28 cm.),3.0
+c8897160-2af5-4540-bb65-fe2dd609abce,Alioos Sebzeli Pizza (Orta),"29,00 TL",Orta Boy Pizzalar (26 - 28 cm.),3.0
+4f8eda79-b75a-48a4-9073-dd58e7d1ce74,Alioos Saray Pizza (Orta),"31,00 TL",Orta Boy Pizzalar (26 - 28 cm.),3.0
+935424b8-1bb7-4562-8d00-3879845d2e9b,Alioos Akdeniz Pizza (Orta),"31,00 TL",Orta Boy Pizzalar (26 - 28 cm.),3.0
+7630e7b5-b75c-4a56-b406-c1deb360a71b,Alioos Kaşarlı Pizza (Orta),"26,00 TL",Orta Boy Pizzalar (26 - 28 cm.),3.0
+cad5e650-a6fd-4506-80d6-27e94a16a75e,Alioos Bol Sucuklu Pizza (Orta),"29,00 TL",Orta Boy Pizzalar (26 - 28 cm.),3.0
+be19bf57-920e-41cc-8503-101df1ec6bc4,Alioos Bol Kavurmalı Pizza (Orta),"31,00 TL",Orta Boy Pizzalar (26 - 28 cm.),2.0
+d995cc19-2e5a-4197-b1b8-13f316f4d1e0,Alioos Kavurmalı Kaşarlı Sucuklu Pizza (Orta),"34,00 TL",Orta Boy Pizzalar (26 - 28 cm.),2.0
+d820024c-41a4-4057-971e-9a530c40d892,Alioos Kendi Pizzanı Kendin Yap (Orta),"25,00 TL",Orta Boy Pizzalar (26 - 28 cm.),5.0
+569c5466-c93e-45d7-9a88-d6cc8ee5cf0f,Alioos Karışık Pizza (Büyük),"40,00 TL",Büyük Boy Pizzalar (30 - 32 cm.),3.0
+7a66d77e-0c7c-4856-86ae-5e8bde08ff8c,Alioos Turkish Pizza (Büyük),"40,00 TL",Büyük Boy Pizzalar (30 - 32 cm.),3.0
+45f566ae-bb19-45d5-a408-e2107bdf5993,Alioos İtalyan Pizza (Büyük),"40,00 TL",Büyük Boy Pizzalar (30 - 32 cm.),3.0
+6078ab03-dfde-45b2-9df3-0df968b8daf0,Alioos Osmanlı Pizza (Büyük),"40,00 TL",Büyük Boy Pizzalar (30 - 32 cm.),3.0
+7574bc41-cdd5-424a-bf03-9f29c08aa646,Alioos Anadolu Pizza (Büyük),"40,00 TL",Büyük Boy Pizzalar (30 - 32 cm.),3.0
+cda4d3c3-e263-4d47-b27f-a8a886e3a21f,Alioos Kayseri Ateşi Pizza (Büyük),"43,00 TL",Büyük Boy Pizzalar (30 - 32 cm.),3.0
+c0b198dd-d151-4193-990e-daa96667bab0,Alioos Sebzeli Pizza (Büyük),"40,00 TL",Büyük Boy Pizzalar (30 - 32 cm.),3.0
+e3c9b891-b99d-436a-8274-a698e3f93ccc,Alioos Saray Pizza (Büyük),"43,00 TL",Büyük Boy Pizzalar (30 - 32 cm.),3.0
+f4b12881-5f1a-48cf-8308-b98f52ee8b65,Alioos Akdeniz Pizza (Büyük),"43,00 TL",Büyük Boy Pizzalar (30 - 32 cm.),3.0
+a67ccf32-5273-486f-9b71-abb8133298c7,Alioos Kaşarlı Pizza (Büyük),"37,00 TL",Büyük Boy Pizzalar (30 - 32 cm.),3.0
+ff6c1616-41f5-4f6e-81bd-a3c24a0ddbc9,Alioos Bol Sucuklu Pizza (Büyük),"40,00 TL",Büyük Boy Pizzalar (30 - 32 cm.),3.0
+dcfd4aaf-9bad-43d4-9ddc-6da1e8a63b49,Alioos Bol Kavurmalı Pizza (Büyük),"43,00 TL",Büyük Boy Pizzalar (30 - 32 cm.),2.0
+479d0d71-6fbd-4a18-8d8e-4601086ebdee,Alioos Kavurmalı Kaşarlı Sucuklu Pizza (Büyük),"45,00 TL",Büyük Boy Pizzalar (30 - 32 cm.),2.0
+fe64c5d8-9a51-42a8-849e-9ad83d785de3,Alioos Kendi Pizzanı Kendin Yap (Büyük),"37,00 TL",Büyük Boy Pizzalar (30 - 32 cm.),5.0
+75712cac-123b-4658-8c9f-d8f9e208d7b2,Hamsiköy Sütlacı,"10,00 TL",Tatlılar,5.0
+97651A12-98B2-4162-B6B8-4BB2701EA66F,Eker Puding (100 gr.),"4,00 TL",Tatlılar,5.0
+C3DBD904-B183-4AED-AFD5-8649837FAFCA,Eker Kazandibi (100 gr.),"4,00 TL",Tatlılar,5.0
+34ceb8d1-8bb2-4b26-ae3c-b52a5084af08,Poşet,"0,25 TL",Poşet,5.0

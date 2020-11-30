@@ -1,0 +1,50 @@
+food_id,food_name,food_price,food_category,food_score
+1dad00ff-448a-455f-8f50-b5ca0d91eb7d,Tavuklu Pilav Menü,"15,50 TL",Ekonomik Menüler,6.0
+86b448d0-a7c1-4fbe-9641-bd2687080e23,Çiğ Köfte Dürüm Menü 1,"8,50 TL",Ekonomik Menüler,22.0
+216256cc-18aa-4592-8824-dafd710fe38a,Çiğ Köfte Dürüm Menü 2,"12,00 TL",Ekonomik Menüler,13.0
+3c0bc135-df09-41f1-8f9e-aec055cad0f1,Çiğ Köfte Dürüm Menü 3,"17,00 TL",Ekonomik Menüler,8.0
+699d0c2b-1c48-4b3a-8d3d-4180c3a2f8f5,Çiğ Köfte Dürüm Menü 4,"19,50 TL",Ekonomik Menüler,12.0
+6e878fe5-e4b6-450f-adc0-8ad4a4e13310,Çiğ Köfte Menü 5,"31,50 TL",Ekonomik Menüler,11.0
+273682c3-93e7-46bd-8743-f2cd6917d0b9,Çiğ Köfte Menü 6,"41,50 TL",Ekonomik Menüler,8.0
+0444dc4e-98ec-46fb-ab3b-a5c4f2287548,Çiğ Köfte Menü 7,"51,50 TL",Ekonomik Menüler,7.0
+5d2046c1-f209-48c5-98e1-5392490abaec,Çiğ Köfte Dürüm,"6,50 TL",Çiğ Köfteler,14.0
+385C7471-2F18-4E47-AB92-44558D986B45,Taco Doritoslu Çiğ Köfte Dürüm,"8,00 TL",Çiğ Köfteler,9.0
+89cb8dc6-62a1-4fb2-8c87-5e5ac783d37d,Mega Çiğ Köfte Dürüm,"9,00 TL",Çiğ Köfteler,14.0
+391b70dd-cdec-44a0-94cf-15a99a95083d,Double Çiğ Köfte Dürüm,"14,00 TL",Çiğ Köfteler,9.0
+b2d1c51e-82f2-4d7f-b233-6575686036e7,Jumbo Çiğ Köfte Dürüm,"16,50 TL",Çiğ Köfteler,9.0
+857f331d-60f8-43be-a4a7-a403c925f998,Çiğ Köfte (350 gr.),"18,50 TL",Çiğ Köfteler,8.0
+18b86276-ce9d-46ac-b608-f2ad4b7f28db,Çiğ Köfte (500 gr.),"25,00 TL",Çiğ Köfteler,8.0
+f3f775d8-f4d1-47ac-b328-3e161cd41d49,Çiğ Köfte (750 gr.),"35,00 TL",Çiğ Köfteler,8.0
+d24b33dc-8192-465f-abd7-7997d36d3fc2,Çiğ Köfte (1 kg.),"45,00 TL",Çiğ Köfteler,8.0
+9f4da15f-15fe-4111-a369-0ee1a98cff04,"Çiğ Köfte (1,5 kg.)","65,00 TL",Çiğ Köfteler,8.0
+162061e9-0566-4a68-9390-0892c27c9e9d,Çiğ Köfte (2 kg.),"85,00 TL",Çiğ Köfteler,8.0
+7d3b4f5e-6dbb-4e9c-bfd7-2057f39a0d73,"Çiğ Köfte (2,5 kg.)","105,00 TL",Çiğ Köfteler,8.0
+69C8AC13-4555-47B1-99B2-C4A1450BD48B,Kuzu Kestane,"10,00 TL",Diğer Lezzetler,5.0
+be5030a4-feb0-4a98-8ab8-b21616172346,Midye Dolma (Orta Boy) (Adet),"1,25 TL",Diğer Lezzetler,5.0
+72dc71a6-f95d-4a5f-9a09-af1e1c866dda,Midye Dolma (Orta Boy) (10 Adet),"12,50 TL",Diğer Lezzetler,5.0
+62b9a0ca-e278-4e83-a5e6-8f440d2117e7,Midye Dolma (Orta Boy) (20 Adet),"25,00 TL",Diğer Lezzetler,5.0
+B25E8E8A-86F7-4D50-96D5-A5B96360FCB0,Midye Dolma (Orta Boy) (30 Adet),"37,00 TL",Diğer Lezzetler,5.0
+ec6fd39c-bb9d-4d53-a49a-a01b5acc8165,Tavuklu Pilav (300 gr.),"13,50 TL",Diğer Lezzetler,6.0
+d08d778a-3f80-48cc-8904-eb6bc5f22d1f,Kızartma İçli Köfte (2 Adet),"12,00 TL",Diğer Lezzetler,7.0
+3ad6b9c7-961a-488a-80f3-f00e62082ba0,Limon,"2,00 TL",Yan Ürünler,6.0
+b0a4a613-8c07-417c-9147-a4a35e90ba9d,Lavaş (Adet),"1,00 TL",Yan Ürünler,3.0
+5ddeb13e-a99c-4a59-b634-37c8dc828f78,Iceberg Marul (Yarım),"4,90 TL",Yan Ürünler,5.0
+7c385e3e-967f-4c6a-aa68-f3868b661bc3,Salatalık Turşusu (150 gr.),"5,90 TL",Yan Ürünler,5.0
+e403faed-0e9f-43be-821f-cd3ef1a1b262,Cin Biberi Turşusu (150 gr.),"5,90 TL",Yan Ürünler,5.0
+6f75f13c-6c9c-44bf-b811-f5632fdce6b8,Iceberg Marul (Çeyrek),"3,90 TL",Yan Ürünler,5.0
+54119523-8a07-4be0-af5d-e3f5e7928074,Iceberg Marul (Tam),"6,90 TL",Yan Ürünler,5.0
+53acf9eb-6ccd-4834-bc2f-6a468ddd05a9,Eker Sütlaç (150 gr.),"6,50 TL",Tatlılar,5.0
+12d07763-87fd-4e66-b972-af8cd9b17e6f,Eker Keşkül (150 gr.),"6,50 TL",Tatlılar,5.0
+8fbe9814-49e1-4a54-a580-05f4efec7cce,Eker Sakızlı Muhallebi (150 gr.),"6,50 TL",Tatlılar,5.0
+e9ec9c6f-18b0-4753-a769-9d531255abb2,Eker Kazandibi (150 gr.),"6,50 TL",Tatlılar,5.0
+68fefa17-7823-4cd7-ba84-5f7ca383292c,Eker Profiterol (150 gr.),"6,50 TL",Tatlılar,5.0
+5163e8ad-975d-4369-8ddd-2942cf70ec02,Eker Supangle (150 gr.),"6,50 TL",Tatlılar,5.0
+c6b411e6-2b9f-4148-a3b8-a3e6ecde303e,Eker Tavukgöğsü (150 gr.),"6,50 TL",Tatlılar,5.0
+BDAC05D7-3180-4225-820E-C9D4B4C164D4,Coca-Cola (2.5 L.),"12,00 TL",İçecekler,5.0
+48ADB44F-8959-4DA0-BB35-24371FF8A835,Red Bull (25 cl.),"10,00 TL",İçecekler,5.0
+052FF0B8-4C55-4118-8197-69C78831A111,Turşu Suyu (20 cl.),"4,00 TL",İçecekler,5.0
+2E9EBE45-9273-4043-90A6-DB7F703DD2CE,"Su (1,5 L.)","4,00 TL",İçecekler,5.0
+549AF242-2CCE-4CE2-BB38-EB42E3CBC5E4,Cappy (1 L.),"9,00 TL",İçecekler,5.0
+587AF02B-6D4F-4E4C-B4A1-211D177A5083,Schweppes (1 L.),"9,50 TL",İçecekler,5.0
+6E4B4CF3-254F-473B-995E-D9994A9057B1,Limonata (1 L.),"8,50 TL",İçecekler,5.0
+e4400c05-07be-48f7-bbc5-bb98ecb68525,Poşet,"0,25 TL",Poşet,5.0

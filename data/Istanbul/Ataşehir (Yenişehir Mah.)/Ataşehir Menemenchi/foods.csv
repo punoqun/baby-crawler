@@ -1,0 +1,32 @@
+food_id,food_name,food_price,food_category,food_score
+db736bda-cfd5-48e5-a28d-090ee63d6e85,Sade Menemen,"19,00 TL",Menemenler,6.0
+1aa2dd7f-f5d7-40d7-812f-e772373209d5,Çakallı Menemen,"22,00 TL",Menemenler,10.0
+7edd9666-740f-4ebf-8c56-35cadbe61d08,Soğanlı Menemen,"21,00 TL",Menemenler,8.0
+b05c9b78-b448-4552-819c-b33f7050537a,Karışık Menemen,"24,00 TL",Menemenler,13.0
+0f892cbf-1c51-4234-a61a-e378545c045d,Kahvaltı Tabağı 1,"22,00 TL",Kahvaltı Tabakları,-4.0
+ccb9dc7a-a752-471e-a86a-cf89b3139b6a,Kahvaltı Tabağı 2,"22,00 TL",Kahvaltı Tabakları,11.0
+4d63db55-d1ef-492a-88de-f0676b4cf80c,Sade Yumurta,"17,00 TL",Sahanda Yumurtalar,5.0
+05d30da9-06f9-4f5f-bb9d-4a965773f0ac,Peynirli Yumurta,"19,00 TL",Sahanda Yumurtalar,5.0
+b1621c85-d052-4ed4-895b-3085bdcd8fd1,Kaşarlı Yumurta,"19,00 TL",Sahanda Yumurtalar,5.0
+59b7b558-087a-46cb-b83b-8b040492a350,Patatesli Yumurta,"19,00 TL",Sahanda Yumurtalar,3.0
+10bd3022-409c-47fb-a874-8b4c4073e4ec,Sucuklu Yumurta,"21,00 TL",Sahanda Yumurtalar,7.0
+905685b9-2e2d-4e07-b3a8-8721beb44d29,Kavurmalı Yumurta,"23,00 TL",Sahanda Yumurtalar,5.0
+13a14064-283a-48b7-a2d5-ca26eb9f5ee7,Pastırmalı Yumurta,"24,00 TL",Sahanda Yumurtalar,5.0
+621a4dad-ef2d-488a-8c0b-982f4b988a8f,Karışık Yumurta,"25,00 TL",Sahanda Yumurtalar,7.0
+42f89f60-3bc9-4945-8c18-a73499fecb6c,Sade Omlet,"18,00 TL",Omletler,5.0
+9c8f1ef8-dcff-4bb1-a5aa-560bfac1f2cd,Peynirli Omlet,"22,00 TL",Omletler,5.0
+0a8605b5-9e6d-4cc3-ae8e-1b1c8d2a89c2,Kaşarlı Omlet,"22,00 TL",Omletler,5.0
+523d4f80-c959-4795-b177-4ba5420723a7,Mantarlı Omlet,"22,00 TL",Omletler,5.0
+8225E711-9753-4C8D-82A9-9AA32A6C9EDC,Ispanaklı Gözleme,"20,00 TL",Gözlemeler,8.0
+45EDE6F6-8A51-4D4B-A97B-5DCE00F635C5,Sucuklu Kaşarlı Gözleme,"22,00 TL",Gözlemeler,10.0
+0e2b4c17-335c-47f6-8306-01c9bc2132d8,Peynirli Gözleme,"20,00 TL",Gözlemeler,8.0
+325542ed-f359-4eb4-bf9f-5758f19e663f,Patatesli Gözleme,"20,00 TL",Gözlemeler,6.0
+e4c07a0f-4e2b-4dca-b2ba-1dfcfcde1a9b,Kaşarlı Tost,"12,00 TL",Tostlar,8.0
+9a4c937f-bc3f-4320-9536-66bb6d74528b,Karışık Tost,"14,00 TL",Tostlar,10.0
+f56909c6-13ad-4834-a6b4-0d445164e6e1,Peynirli Tost,"12,00 TL",Tostlar,8.0
+3df7dae0-a3f6-484d-8030-02de9be171b2,Tavuklu Pilav (300 gr.),"16,00 TL",Pilavlar,5.0
+23bd90c0-437e-4848-ac32-6fedfa4f8743,Pirinç Pilavı (500 gr.),"16,00 TL",Pilavlar,5.0
+2c76d084-809f-4aa5-a9b3-b62571d79f00,Tavuk Çevirme (Yarım),"17,00 TL",Tavuklar,5.0
+448f6780-bae6-4402-a47f-334a2c4d04aa,Tavuk Çevirme (Bütün),"30,00 TL",Tavuklar,5.0
+18033c60-efa5-4406-971e-394baa4a9acb,Fındıklı Fırın Sütlaç,"15,00 TL",Tatlılar,5.0
+fc422349-2854-4ed6-945b-96c3e7cb8e19,Poşet,"0,25 TL",Poşet,5.0

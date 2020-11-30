@@ -1,0 +1,40 @@
+food_id,food_name,food_price,food_category,food_score
+19c26480-42d9-4e8d-a52c-5aa7b47ebccf,Ayvalık Tost Menü,"25,00 TL",Menüler,4.0
+9d57f44a-f23e-465b-b0d9-1e99243a4bab,Kumru Menü,"23,00 TL",Menüler,5.0
+298665ec-c63c-49c2-a796-f4abec3b5f75,Hamburger Menü,"20,00 TL",Menüler,4.0
+de22dbbe-77ee-487d-a08e-f8e9701174f0,Cheeseburger Menü,"20,00 TL",Menüler,5.0
+7e9c9c83-aef0-4e0f-84ca-f3ccc96bca9a,Tavuk Burger Menü,"17,00 TL",Menüler,5.0
+494d15a7-ae72-4457-8de4-ce3912fda071,Patso Menü,"15,00 TL",Menüler,5.0
+49c278db-517c-471e-b25c-e821c0a43229,Boşnak Böreği Menü 1,"18,00 TL",Menüler,7.0
+4276ec00-3a79-432b-bb7b-2455bd561712,Boşnak Böreği Menü 2,"35,00 TL",Menüler,5.0
+dbdbef01-8936-4866-bc4d-b7984a4e4b40,Boşnak Böreği Menü 3,"18,00 TL",Menüler,5.0
+aac74ab7-0739-49bc-8672-77db5c1ff39e,Boşnak Böreği Menü 4,"35,00 TL",Menüler,5.0
+d351ab64-c5ad-4401-93af-3ccb9f881a5f,Boşnak Böreği Menü 5,"60,00 TL",Menüler,5.0
+73d13103-86a2-4e69-83ab-58de2d081773,Kavurmalı Su Böreği Menü,"25,00 TL",Menüler,7.0
+41f920f2-74e1-4f21-a200-b3de18e7e662,Kaşarlı Çıtır Su Böreği,"13,00 TL",Börekler,5.0
+5c7177c3-cdba-4f18-81cc-6a897ac3577d,Kavurmalı Su Böreği,"16,00 TL",Börekler,7.0
+ee70adb7-7015-4f5e-8fbe-8136046be4f8,Ispanaklı Köy Böreği,"13,00 TL",Börekler,4.0
+0483fbda-bbac-4e69-a4d1-1c43dbb48aae,Ayvalık Tost,"16,50 TL",Tostlar,9.0
+06f5d766-ab9b-44b0-902d-685ec0c8939e,Karışık Tost,"12,00 TL",Tostlar,4.0
+7397c668-4c4f-494a-9532-1a5c29811df0,Kaşarlı Tost,"10,00 TL",Tostlar,4.0
+7a961388-1e5e-4951-8bbf-4c487a85bc71,Beyaz Peynirli Tost,"10,00 TL",Tostlar,4.0
+08f06a21-6e0c-41db-be2e-209d04dbdf0c,Kavurmalı Kaşarlı Tost,"17,50 TL",Tostlar,6.0
+38b98020-4cea-4cc7-988a-4374a723afe7,Kumru,"16,50 TL",Tostlar,5.0
+412396d2-f0ae-4836-805f-7678230125e5,Beyaz Peynirli & Domatesli Sandviç,"9,00 TL",Sandviçler,5.0
+cb2639db-2a7b-432c-b81a-54ea685bf176,Kaşarlı Domatesli Sandviç,"9,00 TL",Sandviçler,5.0
+7ed7e30e-e101-441b-baf7-a5fcb2e969a8,Mayalı Kaşarlı Poğaça,"2,00 TL",Poğaça & Açmalar,5.0
+cdce8897-523d-4271-89d5-48ddaf957f42,Cevizli Açma,"3,50 TL",Poğaça & Açmalar,4.0
+d6cfcaaa-0c04-4b96-8f24-89f2fe5c42e6,Çikolatalı Açma,"3,50 TL",Poğaça & Açmalar,4.0
+c581881d-6620-4a3d-b012-0b90012bae4d,Peynirli Açma,"3,50 TL",Poğaça & Açmalar,4.0
+3cd8af95-79f1-4274-a941-e1e92c8fd97d,Sade Açma,"3,50 TL",Poğaça & Açmalar,4.0
+6a7c612e-501c-4999-b8e4-e5c7296f7d5a,Kaşarlı Gözleme,"15,00 TL",Gözlemeler,5.0
+b9425625-214b-4efe-a32b-3caf8c0bd90b,Peynirli Gözleme,"15,00 TL",Gözlemeler,5.0
+6f49817d-f86b-49b1-bbd0-0a515d4fa31e,Sucuklu Kaşarlı Gözleme,"17,00 TL",Gözlemeler,5.0
+1ca51cf8-d902-42cf-b2d9-4a904942ea6e,Kavurmalı Kaşarlı Gözleme,"20,00 TL",Gözlemeler,7.0
+52758455-00f7-4a97-81b8-59e78e309ad3,Patatesli Gözleme,"15,00 TL",Gözlemeler,5.0
+8b118742-dd4d-4640-88ef-2b692ab92679,Coca-Cola Şekersiz (20 cl.),"3,00 TL",İçecekler,5.0
+3e78bb2f-a369-4d3e-a0f7-3b93f248d829,Cappy (1 L.),"8,00 TL",İçecekler,5.0
+c0b0a8b3-f087-47de-82df-61ba5f49d605,Kavurmalu Su Böreği (500 gr.),"35,00 TL",Kiloluk Börekler (Pişirilmiş),5.0
+c686b479-7d6c-4629-bb06-fe32af1850c5,Kavurmalu Su Böreği (1 kg.),"70,00 TL",Kiloluk Börekler (Pişirilmiş),5.0
+12bc055f-2799-4624-8ce1-e1d67a35242d,Kaşarlı Çıtır Su Böreği (500 gr.),"35,00 TL",Kiloluk Börekler (Pişirilmiş),5.0
+6f411bad-6814-42af-afe9-9a816e593eb1,Kaşarlı Çıtır Su Böreği (1 kg.),"70,00 TL",Kiloluk Börekler (Pişirilmiş),5.0

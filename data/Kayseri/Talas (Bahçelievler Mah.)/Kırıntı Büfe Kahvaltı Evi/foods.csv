@@ -1,0 +1,31 @@
+food_id,food_name,food_price,food_category,food_score
+2b68e2d9-c735-4b22-b0c0-6ac7a4ac7ce8,Sade Katmer,"6,50 TL",Kahvaltılıklar,2.0
+473f584b-0072-4c7f-9ef8-ea9251e65e26,Peynirli Katmer,"7,00 TL",Kahvaltılıklar,6.0
+af8869b3-3566-4ee0-bc7c-71ef527cbcc3,Kaşarlı Gözleme,"8,00 TL",Gözlemeler,1.0
+e928b8f5-45af-4818-94bd-c10c76f29f1d,Kaşarlı Tulum Peynirli Gözleme,"9,50 TL",Gözlemeler,9.0
+1c92fc61-f921-4cf7-bb12-43c11b12bbe8,Beyaz Peynirli Gözleme,"8,00 TL",Gözlemeler,2.0
+9332399f-7f95-4e39-bb6c-5ed8bf77c99a,Ispanaklı Tulum Peynirli Gözleme,"10,00 TL",Gözlemeler,4.0
+d387b18f-3bfe-4803-a236-53a98a5ff8ef,Karışık Gözleme,"10,00 TL",Gözlemeler,3.0
+F0B99DCA-3E8A-45E0-BBC3-0441DE8AB764,Kavurmalı Kaşarlı Gözleme,"13,00 TL",Gözlemeler,1.0
+DA463618-8C69-4077-9261-2407D705E734,Ispanaklı Gözleme,"9,00 TL",Gözlemeler,1.0
+7E97C816-1A15-4B0A-B433-D9D4B25DEA1B,Ayvalık Ekmeğine Kaşarlı Salamlı Tost,"7,00 TL",Tostlar,1.0
+AD48F2F9-734C-4D93-9AE3-BD11605754C6,Pizza Tost,"6,50 TL",Tostlar,5.0
+a13db3bb-79ac-48ad-9ce3-687e4689f104,Kaşarlı Tost,"8,00 TL",Tostlar,4.0
+5fa1b075-ec77-4428-8f43-080f8317b8ba,Domatesli Biberli Kaşarlı Tost,"8,50 TL",Tostlar,4.0
+4455420a-f7bc-4e58-bfa4-cacbc2ffed85,Kumru Tost,"9,00 TL",Tostlar,8.0
+2627f41e-52f8-4e79-b966-a1ba98656d77,Kavurmalı Kaşarlı Tost,"12,00 TL",Tostlar,4.0
+73f6cd72-5234-4ff2-9faf-a656f26e1ad7,Atom Tost,"14,00 TL",Tostlar,9.0
+60567e4d-a81a-4a7d-a6a5-5f9a7368b874,Soğuk Sandviç,"6,50 TL",Ekmek Arası Ürünler & Sandviçler,4.0
+7FB89796-BDA1-4366-BED6-7517298F210D,Ekmek Arası Sucuk,"10,90 TL",Ekmek Arası Ürünler & Sandviçler,5.0
+3c7c3b2c-69f7-4edd-a38a-9b1c9ea0eedd,Ekmek Arası Domates & Biber & Beyaz Peynir,"6,50 TL",Ekmek Arası Ürünler & Sandviçler,6.0
+28fa02d4-657e-41b3-8ad3-f2fa0133ef1b,Karışık Sandviç,"6,50 TL",Ekmek Arası Ürünler & Sandviçler,7.0
+7fd5f0a5-03b5-41c3-a9de-f0e4ef2479fa,Didi Şeftali (33 cl.),"5,00 TL",İçecekler,5.0
+afb4fea9-e6a9-4d60-9d08-2d61e5515bbf,Didi (25 cl.),"4,00 TL",İçecekler,5.0
+B1E30EEA-6F4D-41C3-B3D1-7AD96F2D8A69,Niğde Gazozu (25 cl.),"3,50 TL",İçecekler,5.0
+F39C959D-1D2C-4F1E-A95D-3E71EB03DC8A,Red Bull (25 cl.),"8,50 TL",İçecekler,5.0
+6931F1CF-26BE-4325-A0DB-CC0EA3BEBAE0,"Red Bull (35,5 cl.)","12,00 TL",İçecekler,5.0
+B21EE791-BBD7-45BA-9EE7-4D27864D5883,Burn (25 cl.),"8,00 TL",İçecekler,5.0
+ca55652b-e602-4b97-a77d-f91d8699d387,Didi (1 L.),"5,50 TL",İçecekler,5.0
+820C271F-5587-48BE-ACD2-B5478A1BD546,"Su (1,5 L.)","3,00 TL",İçecekler,5.0
+4BBC9225-7E33-4286-817F-AA1CE620B85A,"Fanta (2,5 L.)","8,50 TL",İçecekler,5.0
+54f7631d-b989-4d64-a09a-c151ffe7d7f2,Poşet,"0,25 TL",Poşet,5.0

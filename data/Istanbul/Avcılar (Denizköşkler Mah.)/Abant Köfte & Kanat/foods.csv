@@ -1,0 +1,28 @@
+food_id,food_name,food_price,food_category,food_score
+1F52F4BB-8B27-42BD-A694-24B34EE94BFC,Tavuk Pirzola,"27,00 TL",Izgaralar & Kebaplar,7.0
+3CAFAE13-325D-4D64-83FA-00540F4C2630,Çöp Şiş,"39,00 TL",Izgaralar & Kebaplar,5.0
+6756CD18-1C78-4979-A667-0851DB2D120C,Tavuk Kanat,"27,00 TL",Izgaralar & Kebaplar,11.0
+86CD3206-0508-4B96-AEA9-964B399D199A,Tavuk Bonfile,"26,00 TL",Izgaralar & Kebaplar,7.0
+F543105D-FD23-4BC9-8B06-0414B7BC36AA,Karışık Tavuk Izgara,"27,00 TL",Izgaralar & Kebaplar,12.0
+FBFB4609-F9C5-43A7-89B7-6AE9E3592377,Izgara Köfte,"28,00 TL",Izgaralar & Kebaplar,4.0
+bbf010f6-8ea6-4ab4-82b6-44885ebf8636,Tavuk Şiş,"28,00 TL",Izgaralar & Kebaplar,7.0
+a83c2525-6435-4115-9e40-b191952bd2d8,Adana Kebap,"27,00 TL",Izgaralar & Kebaplar,5.0
+ae3549cd-338c-4d36-9f5f-12b0929f2c5f,Urfa Kebap,"29,00 TL",Izgaralar & Kebaplar,7.0
+75A71D5E-826A-4866-A923-8ADAB95576F3,Karışık Et Izgara,"60,00 TL",Izgaralar & Kebaplar,0.0
+291b7d60-0605-4921-9c8c-677f28b6d385,Adana Dürüm,"18,00 TL",Dürümler & Ekmek Arası Ürünler,9.0
+7cd544d2-21a5-41c3-b088-448fd9a3beb8,Urfa Dürüm,"18,00 TL",Dürümler & Ekmek Arası Ürünler,11.0
+a31cb5d9-1a82-45eb-8e62-10c848432960,Tavuk Şiş Dürüm,"18,00 TL",Dürümler & Ekmek Arası Ürünler,11.0
+b01f669e-9700-4184-9257-4df0613f3b7f,Çöp Şiş Dürüm,"19,00 TL",Dürümler & Ekmek Arası Ürünler,9.0
+c38de242-2c8c-41a0-9e6d-89f668a9b0d3,Yarım Ekmek Arası Köfte,"18,00 TL",Dürümler & Ekmek Arası Ürünler,-1.0
+cf809452-7863-42e1-b1a0-7d42c4a87c82,Tam Ekmek Arası Köfte,"27,00 TL",Dürümler & Ekmek Arası Ürünler,-1.0
+dd505999-c6b3-4284-b9b9-1cbe5c3b62a0,Sucuk Dürüm,"17,00 TL",Dürümler & Ekmek Arası Ürünler,8.0
+48ba3bd1-ad5e-4ba2-8614-e9b11670e85a,Cacık,"10,00 TL",Yan Ürünler,5.0
+5874e318-f595-4966-9d90-fd73fdf6a23e,Yoğurt,"10,00 TL",Yan Ürünler,5.0
+70194e4a-efba-4f5e-b532-d432742254b5,Acılı Ezme,"10,00 TL",Yan Ürünler,8.0
+6a0b321b-459a-4ded-a2ba-6cc4af3684da,Çoban Salata,"10,00 TL",Salatalar,5.0
+ab4deaf7-98c4-4e99-b7a8-089ee3473a9b,Künefe,"20,00 TL",Tatlılar,5.0
+bcd62791-ca71-45d5-aa25-b1bb5a784828,Katmer,"20,00 TL",Tatlılar,5.0
+c64ec077-923d-4f4d-a4b4-a73d59316f14,Sütlaç,"15,00 TL",Tatlılar,5.0
+f0beb0b0-51de-480d-90ae-cc8d68c19c75,"Fanta (2,5 L.)","13,00 TL",İçecekler,5.0
+0f0012f3-5a59-4e5f-87c5-c39df21f71c5,"Sprite (2,5 L.)","13,00 TL",İçecekler,5.0
+1b36b414-74fd-447c-9580-fcb06c7a8943,Poşet,"0,25 TL",Poşet,5.0

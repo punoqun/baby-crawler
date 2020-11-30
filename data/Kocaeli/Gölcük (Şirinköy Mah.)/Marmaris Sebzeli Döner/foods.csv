@@ -1,0 +1,42 @@
+food_id,food_name,food_price,food_category,food_score
+2e999fbd-3cb5-460f-bf85-1b4fbc0d34f8,Menü 1,"20,00 TL",Menüler,13.0
+1984b99b-a262-4e37-abb7-340a25b8c57e,Menü 2,"25,00 TL",Menüler,11.0
+5d339998-70b1-4a0f-95c9-2cb8afd5ec3f,Menü 3,"25,00 TL",Menüler,7.0
+24fcdce4-5053-4ec0-8024-d50ac604fef0,Menü 4,"65,00 TL",Menüler,3.0
+29623c42-a996-458a-8253-5de0710ba1f8,Menü 5,"120,00 TL",Menüler,3.0
+AF11B9E9-A72A-48CF-9C96-A03A66058C18,Bitirim İkili Menü,"29,00 TL",Menüler,5.0
+77DFC4D9-4B1E-4C22-A49D-353790C48FB2,Süper Üçlü Menü,"45,00 TL",Menüler,5.0
+200e4b98-c2b8-4169-8ab0-67e4cd7c572f,Double Tavuk Döner Dürüm,"16,00 TL",Tavuk Dönerler,16.0
+4fe73a8f-b7e9-481d-b607-c499bd6673a7,Tavuk Sandviç,"10,00 TL",Tavuk Dönerler,2.0
+58484c33-de15-49dd-a2df-3e9f3ae67800,Tavuk Döner,"20,00 TL",Tavuk Dönerler,9.0
+78edcb1a-3811-4ae6-b942-4793ebcca27d,Pilav Üstü Tavuk Döner,"20,00 TL",Tavuk Dönerler,8.0
+837c811f-b1f9-4fde-8dac-de54621c2e12,Tavuk Döner Dürüm,"11,00 TL",Tavuk Dönerler,16.0
+a9cbe91a-fe82-4c48-bd64-58b4fedf81a9,Tavuklu Kaşarlı Döner Dürüm,"13,00 TL",Tavuk Dönerler,14.0
+ccaba1dd-906d-411d-b823-3fda578d3628,Cheddarlı Tavuk Döner Dürüm,"14,00 TL",Tavuk Dönerler,11.0
+9B708CA6-5F30-457A-958F-705732EE70EC,Peynir Karnavalı Tavuk Döner Dürüm,"16,00 TL",Tavuk Dönerler,14.0
+b484cf1e-14cc-4466-afab-582da4efdd63,1/2 Ekmek Arası Izgara Köfte,"15,00 TL",Köfteler,1.0
+1d232f5b-396d-4b17-9de2-521914d5ce2c,Izgara Köfte Dürüm,"15,00 TL",Köfteler,5.0
+F32BAEF3-C352-474B-9390-2CD4E1C0C930,Kaşarlı Izgara Köfte Dürüm,"17,00 TL",Köfteler,5.0
+C626364A-A2A5-4317-B720-ABF61BB2FE41,Kaşarlı Cheddarlı Köfte Dürüm,"20,00 TL",Köfteler,7.0
+86d35cbf-ad3a-4576-8630-8c255a6d621e,Tam Ekmek Arası Izgara Köfte,"27,00 TL",Köfteler,1.0
+2a76cf32-2f16-4139-b759-915c4cc78a50,Izgara Köfte,"20,00 TL",Köfteler,3.0
+5DBA9301-5A04-4DE9-87D5-EDCBE267D291,Izgara Köfte (200 gr.),"20,00 TL",Köfteler,3.0
+6F6FBAA6-32BB-406D-A470-1B8CDBAD617B,Izgara Köfte (300 gr.),"30,00 TL",Köfteler,3.0
+EB54B85A-D934-486E-A73C-B727067246BF,Izgara Köfte (500 gr.) (Pişirilmiş),"45,00 TL",Köfteler,3.0
+1A60F8A4-4A6E-46F2-B095-2D7013849CB7,Izgara Köfte (1 kg.) (Pişirilmiş),"85,00 TL",Köfteler,3.0
+13492be7-ee8a-478f-8cb6-affd4e3bb744,Tam Ekmek Arası Arnavut Ciğeri,"27,00 TL",Ciğerler,3.0
+1bde3092-8a9b-487e-a52d-236a95788812,Pilav Üstü Arnavut Ciğeri,"20,00 TL",Ciğerler,3.0
+77bd9533-b083-43a9-9933-49e78514ab53,Arnavut Ciğeri,"20,00 TL",Ciğerler,5.0
+8a0e593c-d557-40c5-8e44-af91614e05f3,Arnavut Ciğeri Dürüm,"15,00 TL",Ciğerler,7.0
+b1052cb1-d404-43f6-9c07-1a6d6c89f406,1/2 Ekmek Arası Arnavut Ciğeri,"15,00 TL",Ciğerler,3.0
+28a2cc1e-748a-4620-b469-d8e7977d3112,Patates Kızartması (Orta Boy),"6,00 TL",Yan Ürünler,2.0
+8b61cfc7-1772-4866-b036-172962455929,Soğan Halkası (6 Adet),"5,00 TL",Yan Ürünler,2.0
+9B4BB8BF-D417-4CD1-AC21-7906C55B7350,Patates Kızartması (2 Kişilik),"10,00 TL",Yan Ürünler,2.0
+8AAA8EF8-F2A0-4F27-8652-D5CAF13A0D51,Aperitif Tabağı,"15,00 TL",Yan Ürünler,5.0
+ec5f9d34-3918-4a1a-a9f5-a66a4567bfa3,Algida Maraş Usulü Cup Dondurma (100 ml.),"6,00 TL",Dondurmalar,5.0
+a54fd298-35ca-4612-9ce9-61927b75cc52,Algida Maraş Usulü Dilim Dondurma (82 ml.),"6,00 TL",Dondurmalar,5.0
+975ba6fe-054a-47b5-9c20-eda80f23b2f5,Carte d'Or Monoportion Çikolata Karnavalı (105 ml.),"7,00 TL",Dondurmalar,5.0
+92810b19-6438-427d-8dfd-7cb5af4ee817,Carte d'Or Monoportion Çilek Yoğurt (105 ml.),"7,00 TL",Dondurmalar,5.0
+2f73a43e-e3ea-4d25-a0c4-d74a583c35f8,Magnum Cup,"13,00 TL",Dondurmalar,5.0
+5db2e0c4-2558-4fb4-9219-621791bb5d58,Algida Carte d'Or Volcano Cup (160 ml.),"14,00 TL",Dondurmalar,5.0
+79ed6244-68bb-4ed6-a026-3287774567e3,Poşet,"0,25 TL",Poşet,5.0

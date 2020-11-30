@@ -1,0 +1,35 @@
+food_id,food_name,food_price,food_category,food_score
+19579af8-30e7-4fc3-8132-f93b04a5160b,Çiğ Köfte Dürüm,"6,00 TL",Çiğ Köfteler,20.0
+840a3c5a-f284-4ed7-a2f7-ddbc102f0617,Mega Çiğ Köfte Dürüm,"10,00 TL",Çiğ Köfteler,22.0
+18012eee-ce00-426d-b1ed-2fdb61520023,Çiğ Köfte (200 gr.),"12,00 TL",Çiğ Köfteler,15.0
+eeae8d0d-44a2-4bdb-8179-a886ce3162ea,Çiğ Köfte (300 gr.),"15,00 TL",Çiğ Köfteler,20.0
+3f817031-966c-4450-bb22-db23e00330a1,Çiğ Köfte (400 gr.),"20,00 TL",Çiğ Köfteler,15.0
+cf57de8e-7241-4c72-8c95-23c423be545e,Çiğ Köfte (500 gr.),"25,00 TL",Çiğ Köfteler,15.0
+19cd5283-3b92-459d-be77-5a98360372df,Çiğ Köfte (600 gr.),"30,00 TL",Çiğ Köfteler,15.0
+9e256688-88be-4c4e-a8cc-c31550eff735,Çiğ Köfte (700 gr.),"35,00 TL",Çiğ Köfteler,15.0
+1d401e04-26fc-429a-a4a6-1fe9812d61a2,Çiğ Köfte (800 gr.),"40,00 TL",Çiğ Köfteler,15.0
+248c71f3-2870-47c3-9a65-8b297fe7144b,Çiğ Köfte (1 kg.),"50,00 TL",Çiğ Köfteler,15.0
+431a6535-2983-43e5-8518-f6a5aab5ef66,Çiğ Köfte (500 gr.) (Garnitürsüz),"20,00 TL",Çiğ Köfteler,15.0
+ee476bef-3433-48ca-8f7d-a4a1d378726b,Çiğ Köfte (1 kg.) (Garnitürsüz),"40,00 TL",Çiğ Köfteler,15.0
+545D998D-6E68-4A06-81EE-0BC7EDBA392C,Zeytinyağlı Yaprak Sarma (250 gr.),"10,00 TL",Zeytinyağlılar & Mezeler,14.0
+13965c0a-bffd-4aad-b32d-0057dbed78ca,Lavaş (3 Adet),"2,00 TL",Yan Ürünler,6.0
+4689d362-64f0-4f81-ab9c-37c5674c7cd4,Turşu (75 gr.),"3,00 TL",Yan Ürünler,7.0
+d4c110cf-19eb-486e-b367-1f6881ff0b7b,Limon,"2,00 TL",Yan Ürünler,5.0
+e3c750d7-7fea-4f95-a120-11e2da1fdcee,Iceberg Marul,"7,00 TL",Yan Ürünler,8.0
+2e44afd7-ab30-48aa-a1af-dbc089d59df4,Şambali Tatlısı (Adet),"4,00 TL",Tatlılar,5.0
+5A0D321A-30C3-4F6B-9F1C-8B1A90A98E75,Cevizli Kadayıf (Adet),"4,00 TL",Tatlılar,5.0
+aa0b2e59-413a-4408-9d58-0574db2099ff,Şambali Tatlısı (3 Adet),"10,00 TL",Tatlılar,5.0
+cd637d2e-f05b-403e-8292-023fce33ddcf,Halep Tatlısı (Adet),"4,00 TL",Tatlılar,5.0
+d5462ec0-e0e5-4f45-a3af-dc15bc6f2231,Halep Tatlısı (3 Adet),"12,00 TL",Tatlılar,5.0
+AC6EDE77-7E25-4ABE-8CFB-523985349EE6,Kakaolu Puding (100 gr.),"3,00 TL",Tatlılar,5.0
+CEA4CA76-2C17-4909-BE26-930E382DA2CD,Cevizli Baklava (4 Dilim),"10,00 TL",Tatlılar,5.0
+809A522A-F56A-4058-A183-3DA78E152C3B,Kadayıf (3 Dilim),"10,00 TL",Tatlılar,5.0
+8813caaf-e3ba-409a-bfdc-1b6fd572cd54,Niğde Gazozu (25 cl.),"4,00 TL",İçecekler,5.0
+f2738947-5852-4ab2-b21d-6e4eb0ce33ce,Kızılay Meyveli Soda (20 cl.),"4,00 TL",İçecekler,5.0
+fb84eec3-56fa-4613-9c66-fc8c8bb8f6dc,"Su (1,5 L.)","5,00 TL",İçecekler,5.0
+76bdfd86-a2ef-45c3-a40a-ad93635d3b1a,Su (5 L.),"8,00 TL",İçecekler,5.0
+AF788106-E056-415E-9ED3-B510B88BAEE4,Cevizli Baklava (1 kg.),"40,00 TL",Kiloluk Ürünler,5.0
+AE795B32-1206-47A8-8B7A-B5EC9A3558FC,Cevizli Baklava (500 gr.),"22,00 TL",Kiloluk Ürünler,5.0
+7FB5AD4F-FA1B-476E-8C8C-321D127C8B0C,Kadayıf (1 kg.),"40,00 TL",Kiloluk Ürünler,5.0
+F3F513BB-5528-4939-9662-A37FAC026720,Kadayıf (500 gr.),"21,00 TL",Kiloluk Ürünler,5.0
+6e4cc936-4ada-4a47-b9bb-4bf21489b576,Poşet,"0,25 TL",Poşet,5.0

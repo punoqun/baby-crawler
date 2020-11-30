@@ -1,0 +1,67 @@
+food_id,food_name,food_price,food_category,food_score
+2972C239-3F51-4FD6-8534-D6F933582B44,Küçük Panya Menü,"28,50 TL",Menüler,6.0
+bb2c77b0-e8c0-4d7e-9ebe-629c21522d67,Alt Menü,"24,90 TL",Menüler,6.0
+681e1018-739c-4963-aca7-8110ec2e8aa5,Bizbize Büyük Menü,"69,90 TL",Menüler,12.0
+a556f072-3e8f-4414-93b5-d597d8240c92,Bizbize Orta Menü,"59,90 TL",Menüler,4.0
+212dc9ad-075b-4daa-a984-d1a085b51d11,Bungo Menü,"23,90 TL",Menüler,6.0
+89b691b4-90ba-438c-a41e-e469027f9a3f,Büyük Panya Menü,"52,00 TL",Menüler,7.0
+7e7ba857-a2bb-40e1-825a-4f2d1126a562,Eko Menü,"18,50 TL",Menüler,6.0
+c8b53b23-1c56-4e8a-8d2a-21cccf621426,Extra Menü,"29,90 TL",Menüler,6.0
+9ba271e6-0837-47d9-b57c-8d10b2d5ce18,Fingers Menü,"23,90 TL",Menüler,6.0
+f73e78dd-fc28-47ea-b686-05f3691e11af,Grande Menü,"59,90 TL",Menüler,6.0
+54ebbb8d-11d3-452d-9965-3bcc65a4b2d2,Mix Menü,"23,90 TL",Menüler,11.0
+a961266e-8f14-4ab2-a9f1-ada06f31509a,Murphy Menü,"23,90 TL",Menüler,6.0
+58a6ab66-08af-442e-8dc6-8c3b650d0bdf,Nugget Menü,"23,90 TL",Menüler,6.0
+2b8ba71e-3d1c-4cfd-bfd4-612d9b1971d0,Ortapanya Menü,"42,00 TL",Menüler,6.0
+38cd55e9-db1e-4093-8c9b-4f413765e879,Samba Menü,"23,90 TL",Menüler,6.0
+015b15d3-40de-46fc-af57-78ff107002da,Ultra Menü,"49,90 TL",Menüler,6.0
+1f3f4eeb-86dc-453b-a459-990fdff72416,Mantarlı Pizza (Küçük),"16,90 TL",Küçük Boy Pizzalar (1 Kişilik),6.0
+bf27fb16-ffd5-4202-bac7-7240c2141f9d,Veggie Pizza (Küçük),"16,90 TL",Küçük Boy Pizzalar (1 Kişilik),7.0
+15fdd09f-7013-475e-9850-7a6b079143d2,Karışık Pizza (Küçük),"16,90 TL",Küçük Boy Pizzalar (1 Kişilik),7.0
+567e9536-8625-44d0-bf4e-3eff61cc35df,Margherita Pizza (Küçük),"16,90 TL",Küçük Boy Pizzalar (1 Kişilik),7.0
+1ab90647-7aa5-4ad1-9cb3-1466476448fb,Sucuklu Pizza (Küçük),"20,90 TL",Küçük Boy Pizzalar (1 Kişilik),7.0
+a78b61e2-0b67-4735-b64a-7dc49e0d68cc,Mantarlı Pizza (Orta),"27,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),6.0
+eb70914f-7b77-4f2c-9794-b2b601c020b9,Veggie Pizza (Orta),"27,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),7.0
+cf128a06-e84c-4311-b39e-efdf5a0552a0,Karışık Pizza (Orta),"27,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),7.0
+4db5411c-7985-4495-9a2f-a84190894ddc,Margherita Pizza (Orta),"27,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),7.0
+b9c31248-c0be-4908-981e-25550b5cd877,Sucuklu Pizza (Orta),"32,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),7.0
+BD449B25-394E-4321-875F-EE3BDC7262BE,BBQ Chicken Pizza (Orta),"29,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),7.0
+61a2aee1-d9b3-4510-872b-ee5057307a9e,Mantarlı Pizza (Büyük),"37,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),6.0
+367586bf-026d-4410-acf0-bcd5040d9a51,Veggie Pizza (Büyük),"37,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),7.0
+1ea5f59b-5b5c-46f1-a94e-a2b1f59d1334,Karışık Pizza (Büyük),"37,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),12.0
+ab30dc3b-3ae8-44c9-bcba-8e1a2b81be3e,Margherita Pizza (Büyük),"37,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),7.0
+c4d0da77-b58c-4ceb-b100-fcdf8aaa13b4,Sucuklu Pizza (Büyük),"43,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),7.0
+21D0A19D-4142-4AB2-8696-453F65F8FCE0,BBQ Chicken Pizza (Büyük),"39,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),7.0
+74f28610-4ce5-4376-877c-c0047f9b2d3e,Elma Dilim Patates Kızartması,"14,90 TL",Yan Ürünler,9.0
+c20f931e-8bc2-4cfc-a00c-0124d82da8c0,Chicken Morfel (10 Adet),"17,00 TL",Yan Ürünler,5.0
+599dd0e5-b6ae-4d96-ace3-079a91843e86,Chicken Morfel (15 Adet),"23,00 TL",Yan Ürünler,5.0
+4657b57b-a0e4-46ad-bb10-921acefb6fae,Chicken Morfel (20 Adet),"28,00 TL",Yan Ürünler,5.0
+d6427518-bc2e-4e10-893f-453347a47fc1,Patates Kızartması,"12,00 TL",Yan Ürünler,9.0
+766ffabb-a092-4324-bc47-6dd8d1d331a9,Chicken Fingers (3 Adet),"15,00 TL",Yan Ürünler,5.0
+84fa0727-0e0e-456e-94d3-cd98d7990f23,Chicken Nuggets (3 Adet),"8,00 TL",Yan Ürünler,5.0
+5bff1ba6-985c-446e-9a6d-b22f83214fcc,Chicken Morfel (5 Adet),"10,00 TL",Yan Ürünler,5.0
+4beb1d8b-729d-4ddb-a0e7-a0436131328d,Chicken Nuggets (6 Adet),"15,00 TL",Yan Ürünler,5.0
+28de9fd5-e082-44ab-8c8c-71247cc0776f,Fırında Mantar,"18,90 TL",Yan Ürünler,4.0
+6c9fe354-3c92-455c-afd5-1596bee6f3bb,Soğan Halkası (10 Adet),"12,00 TL",Yan Ürünler,3.0
+e0a2823f-5117-4f1a-a79d-0b60eededa83,Mozzarellalı Sarımsaklı Ekmek,"13,00 TL",Yan Ürünler,5.0
+00613750-4a3f-4382-a6d7-66bc0ba748c9,Mozzarellalı Sucuklu Ekmek,"17,00 TL",Yan Ürünler,5.0
+ecac6cd9-bced-4e82-b712-4325d949fe70,Soğan Halkası (3 Adet),"5,00 TL",Yan Ürünler,3.0
+23bf2f02-b78d-4522-aa08-a6aa8d1d8dd4,Ege Salatası,"16,50 TL",Salatalar,2.0
+3cfe6714-f8b1-46d2-9c9b-c026909bc8de,Rus Salatası,"14,00 TL",Salatalar,5.0
+c340420e-7513-4126-a881-c08f5cfdce8e,Chicken Salata,"17,50 TL",Salatalar,1.0
+37ca577c-f09f-44e2-972c-929806325337,Çıtır Salata,"17,50 TL",Salatalar,1.0
+77c818ce-ebeb-4ad2-b0c4-c4f27bce4012,Fıstık Rüyası,"16,50 TL",Tatlılar,5.0
+5cd10412-660b-4f0a-9b8d-8d3d9c844cdb,Karamelli Suffle,"12,50 TL",Tatlılar,4.0
+761DE497-0576-4247-A6DB-7F11AD508146,Orman Meyveli Pasta,"16,50 TL",Tatlılar,5.0
+182EEC36-3FAB-4358-AE6C-4A09575659AF,Beyaz Profiterollü Pasta (Dilim),"16,00 TL",Tatlılar,5.0
+e7f571ef-0d90-426e-bab2-4b39c140e655,Sufle,"11,90 TL",Tatlılar,5.0
+F8C5DA47-BBD6-43E6-89F4-9753DF79813D,Pepsi Mango (33 cl.),"6,00 TL",İçecekler,5.0
+a48f0c1f-03aa-4150-b18e-fa77587607ed,Tropicana Karışık (33 cl.),"6,00 TL",İçecekler,5.0
+e962da99-c10a-4e4e-a370-99872fd604a5,Cappy Şeftali (33 cl.),"6,00 TL",İçecekler,5.0
+5458820d-96ec-4220-a860-9465958318bb,Niğde Gazozu (25 cl.),"4,00 TL",İçecekler,5.0
+49267ea9-b146-44d8-ab72-800f8d103e9b,İzmit Gazozu (25 cl.),"4,00 TL",İçecekler,5.0
+c25aa1ff-acc4-494b-ae60-fadcc89bb2bd,Çamlıca Gazoz (25 cl.),"4,00 TL",İçecekler,6.0
+7292593a-477e-4535-8b23-688fa3393062,Fruko (1 L.),"7,50 TL",İçecekler,5.0
+b6c83635-9bf8-472f-a567-fbd0f4dcc47b,Uludağ Limonata (1 L.),"7,50 TL",İçecekler,5.0
+a3fc7c16-919e-4c50-850f-767dbb35deaf,Morfel Sos,"2,00 TL",Ekstralar,5.0
+a01189f8-22cb-4877-aa79-c2c34077f72a,Poşet,"0,25 TL",Poşet,5.0

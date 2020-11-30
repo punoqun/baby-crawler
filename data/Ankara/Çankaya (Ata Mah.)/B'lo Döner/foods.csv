@@ -1,0 +1,65 @@
+food_id,food_name,food_price,food_category,food_score
+18af4489-78b4-42ae-b6ea-4c2fe4b21b19,3'lü Ekmek Arası Tavuk Döner,"27,00 TL",Ekonomik Menüler,-2.0
+c26c5140-50db-4c15-aee1-787030a83980,3'lü Hatay Usulü Tavuk Döner Dürüm Menü,"33,00 TL",Ekonomik Menüler,0.0
+fa80c4f2-bee3-4369-a187-7ea152ba6ff2,3'lü Kaşarlı Hatay Usulü Tavuk Döner Dürüm Menü,"40,00 TL",Ekonomik Menüler,0.0
+7b38b7bc-d021-49ba-ae53-995698c5523b,3'lü Zurna Tavuk Döner Dürüm Menü,"40,00 TL",Ekonomik Menüler,-1.0
+1a844300-24ff-480f-99cd-2d4165bf1cb7,3'lü Kaşarlı Zurna Tavuk Döner Dürüm Menü,"50,00 TL",Ekonomik Menüler,-1.0
+61af0d85-4d21-44b1-91b1-70ce3e344d77,3'lü Arnavut Ciğeri Ekmek Menü,"33,00 TL",Ekonomik Menüler,6.0
+ca824bbd-be83-408f-8952-3fcbbf675c40,3'lü Köfte Ekmek Menü,"39,00 TL",Ekonomik Menüler,4.0
+b3c81ef7-afb6-4d95-8d0e-a0eaf4dcc5fa,5'li Hatay Usulü Tavuk Döner Dürüm Menü,"65,00 TL",Ekonomik Menüler,0.0
+bbcce790-1781-41dd-a464-5006136f7e77,5'li Kaşarlı Hatay Usulü Tavuk Döner Dürüm Menü,"79,00 TL",Ekonomik Menüler,0.0
+be8e108b-e83a-49c6-915b-f478e50ee0e7,5'li Zurna Tavuk Döner Dürüm Menü,"79,00 TL",Ekonomik Menüler,-1.0
+376f563e-6d5b-4052-9912-8cbd2f5b128f,5'li Kaşarlı Zurna Tavuk Döner Dürüm Menü,"92,00 TL",Ekonomik Menüler,-1.0
+67686b87-ee42-4bf7-9520-96fcdfc32e6f,5'li Arnavut Ciğeri Ekmek Menü,"65,00 TL",Ekonomik Menüler,6.0
+38dac781-b951-484f-9ddc-c283494e3e41,5'li Köfte Ekmek Menü,"75,00 TL",Ekonomik Menüler,4.0
+6e58f079-4456-4f89-ab39-b1c8e692f370,10'lu Tavuk Döner Menü,"95,00 TL",Ekonomik Menüler,-1.0
+31addf39-c693-4151-ab25-e42b4277e220,10'lu Hatay Usulü Tavuk Döner Dürüm Menü,"115,00 TL",Ekonomik Menüler,0.0
+9201df9d-8445-4c49-ac39-12d80e5fa8db,10'lu Zurna Tavuk Döner Dürüm Menü,"140,00 TL",Ekonomik Menüler,-1.0
+3dab95b2-d95a-4cf1-923a-eef2ce76951e,Tavuk Döner Dürüm (120 gr.) Menü,"10,00 TL",Döner Menüleri,-1.0
+ed8eee9b-d49f-4033-aae7-84ada4934e8b,Hatay Usulü Tavuk Döner Dürüm (120 gr.) Menü,"12,00 TL",Döner Menüleri,5.0
+66695e3d-09dc-4652-b09d-6913d21b2152,Kaşarlı Hatay Usulü Tavuk Döner Dürüm (120 gr.) Menü,"15,00 TL",Döner Menüleri,0.0
+f529b513-68d6-48ba-91b8-b1b9948a454d,Zurna Tavuk Döner Dürüm (150 gr.) Menü,"15,00 TL",Döner Menüleri,-1.0
+796ee9b0-e185-4b38-a2e1-5a701f4a8e40,Kaşarlı Tavuk Döner Dürüm (150 gr.) Menü,"18,00 TL",Döner Menüleri,-1.0
+af5d020e-d269-4c55-a2b5-5c8a1f37e836,B'lo Bomba Dürüm Menü,"20,00 TL",Döner Menüleri,5.0
+64cbdbb2-b020-4219-8560-6eab036cfd4c,Ekmek Arası Tavuk Döner (120 gr.) Menü,"10,00 TL",Döner Menüleri,3.0
+ba5ccedb-230a-4fff-abe2-1c23ef410bb5,1/5 Tavuk Döner Menü,"45,00 TL",Kiloluk Menüler,-1.0
+86533b2f-91df-413b-b3ba-7e66da4a6f3a,Tavuk Döner (1 kg.) Menü,"79,00 TL",Kiloluk Menüler,-1.0
+24e24a7f-6b7c-46a4-b374-b35374c0d308,1/5 Tavuk Şiş Menü,"50,00 TL",Kiloluk Menüler,4.0
+949d7d00-330c-4b0d-8db6-f6e802408812,Tavuk Şiş (1 kg.) Menü,"89,00 TL",Kiloluk Menüler,4.0
+e73a7da7-6f18-45a0-b19b-291aad8d1c21,1/5 Arnavut Ciğeri Menü,"55,00 TL",Kiloluk Menüler,7.0
+a9695feb-aa4b-452e-9538-9d27f5f04501,Arnavut Ciğeri (1 kg.) Menü,"95,00 TL",Kiloluk Menüler,7.0
+4aad5a23-9790-4bdd-b0d4-37b591b2013a,1/5 Izgara Köfte Menü,"59,00 TL",Kiloluk Menüler,5.0
+ff36afc2-2258-4189-9509-2ad218b2e1b1,Izgara Köfte (1 kg.) Menü,"99,00 TL",Kiloluk Menüler,5.0
+96eaa18a-32eb-44f9-93ba-ab89ba64335e,Pilav Üstü Tavuk Döner (150 gr.) Menü,"17,50 TL",Ana Yemek Menüleri,-2.0
+1e03ec1f-1850-4811-a0bc-4a290d2b3889,Pilav Üstü Tavuk Sote Menü,"19,00 TL",Ana Yemek Menüleri,3.0
+a647ef58-c142-4e1a-b0af-865b5d7202cc,Pilav Üstü Tavuk Şiş Menü,"20,00 TL",Ana Yemek Menüleri,3.0
+35bbbc1d-fa6c-4d87-8e0f-6cd95c713a34,Pilav Üstü Arnavut Ciğeri Menü,"20,00 TL",Ana Yemek Menüleri,6.0
+fb6f35da-5e41-4115-9fd3-b0473bf92203,Pilav Üstü Izgara Köfte Menü,"21,50 TL",Ana Yemek Menüleri,4.0
+5109cd05-7adb-41a1-aa07-b82adab36865,Pilav Üstü Adana Kebap (2 Şiş) Menü,"30,00 TL",Ana Yemek Menüleri,5.0
+493d4ef7-d871-40e1-bc6e-c47210f29451,"Ata Ekmeğine Tavuk Döner (1,5 Porsiyon) Menü","15,00 TL",Ata Ekmeği Menüleri,3.0
+b166e684-5e39-4024-9014-4f62080b0dfe,"Ata Ekmeğine Tavuk Sote (1,5 Porsiyon) Menü","16,00 TL",Ata Ekmeği Menüleri,3.0
+3ee8d604-65d4-469e-b42c-1397d37f5c35,"Ata Ekmeğine Tavuk Kokoreç (1,5 Porsiyon) Menü","16,00 TL",Ata Ekmeği Menüleri,3.0
+080e8f89-6651-4d96-976c-34592b2bfcc5,"Ata Ekmeğine Arnavut Ciğeri (1,5 Porsiyon) Menü","17,00 TL",Ata Ekmeği Menüleri,6.0
+8bfd99a1-f573-41e1-ae9d-0cdda63d22b4,"Ata Ekmeğine Izgara Köfte (1,5 Porsiyon) Menü","18,00 TL",Ata Ekmeği Menüleri,4.0
+23e18aa2-4cf7-492e-9a41-58fc6e52ea36,Izgara Köfte Ekmek Menü,"14,00 TL",Ekmek Arası Menüler,4.0
+2dbaf4f8-6059-447d-884f-51e857aabf8f,Kaşarlı Köfte Ekmek Menü,"18,00 TL",Ekmek Arası Menüler,4.0
+9df9b280-864f-47da-bd5d-763fe97096f3,Arnavut Ciğeri Ekmek (Sıcak) Menü,"12,00 TL",Ekmek Arası Menüler,6.0
+db7ffbc8-ede7-4d2f-af25-8a46d7bfe358,Tavuk Şiş Ekmek Menü,"14,00 TL",Ekmek Arası Menüler,3.0
+bc037033-4fcb-4865-aa1d-f57769950800,Tavuk Sote Ekmek Menü,"12,00 TL",Ekmek Arası Menüler,3.0
+643fdba7-03c0-4fe8-83d7-aee416f8e35b,Tavuk Kokoreç Ekmek Menü,"12,00 TL",Ekmek Arası Menüler,3.0
+ed1e7dc2-b783-478e-94b9-d8b022ca20bc,Adana Kebap Ekmek Menü,"18,00 TL",Ekmek Arası Menüler,5.0
+d28c9be5-1884-48f0-aa4f-8abe520922bf,Izgara Köfte Dürüm Menü,"14,00 TL",Dürüm Menüler,6.0
+f065377a-7498-4431-968b-441982e93e35,Kaşarlı Köfte Dürüm Menü,"18,00 TL",Dürüm Menüler,6.0
+a4c8e534-2d41-4472-8bc4-15ebe4667a4d,Arnavut Ciğeri Dürüm Menü,"12,00 TL",Dürüm Menüler,8.0
+c6b1cc5a-c997-4663-9568-953886f4a7c4,Tavuk Şiş Dürüm Menü,"14,00 TL",Dürüm Menüler,5.0
+5ae23be0-ce82-49a1-8e83-ce61deb2c8f4,Adana Dürüm Menü,"18,00 TL",Dürüm Menüler,7.0
+8c5ba6fc-c259-4379-926b-e2409f5391d3,Urfa Dürüm Menü,"18,00 TL",Dürüm Menüler,6.0
+36cfa8c5-cf3a-4764-af8e-321116b2119b,Eker Keşkül,"3,50 TL",Tatlılar,5.0
+784a0652-5664-47ef-9375-14d532904b68,Eker Sakızlı Muhallebi,"3,50 TL",Tatlılar,5.0
+9e7355af-413f-4b69-8797-f823f178e844,Eker Çikolatalı Puding,"3,50 TL",Tatlılar,5.0
+97003d4f-157e-428f-b9c9-5bb331f61c09,Eker Kazandibi,"3,50 TL",Tatlılar,5.0
+c1d9c74d-7cf9-437c-8092-03e31efa5c9d,Sütlaç,"3,50 TL",Tatlılar,5.0
+494afaf7-2dde-490a-b8a3-cf533d2626f3,Niğde Gazozu (25 cl.),"4,00 TL",İçecekler,5.0
+C9B01771-BB58-4D0F-9DEE-BA0823ABA9EF,"Coca Cola (2,5 L.)","12,00 TL",İçecekler,5.0
+F863A605-6482-4A0D-AEAA-5A60F94CE25B,"Fanta (2,5 L.)","12,00 TL",İçecekler,5.0
+f7db00ba-c4f7-4e10-95ac-1c0647f0c861,Poşet,"0,25 TL",Poşet,5.0

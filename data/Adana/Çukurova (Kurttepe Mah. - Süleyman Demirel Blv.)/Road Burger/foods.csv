@@ -1,0 +1,44 @@
+food_id,food_name,food_price,food_category,food_score
+fc982b22-37c7-40da-999c-a0432d7148a2,Chicken Box,"45,75 TL",Kampanyalı İkili Menüler,5.0
+cab1c33e-21b3-4d3c-ab68-5efb3e42a18a,Hit The Road Jack Menü,"82,75 TL",Kampanyalı İkili Menüler,3.0
+1df7bdf2-3d6a-4600-9d45-9ae09739e606,Mix Box,"49,75 TL",Kampanyalı İkili Menüler,5.0
+8945bd90-b9d1-4e9a-a6ff-6a6d28c86d1d,Bacon Cheese Box,"59,95 TL",Kampanyalı İkili Menüler,5.0
+291DA638-9974-4F66-9B32-2D88F4DE4ED4,2'li Eco Road Burger Menü,"48,00 TL",Kampanyalı İkili Menüler,4.0
+67218aa3-2b3a-4cc6-b5cc-ecd464cb1240,Road Burger Menü,"29,95 TL",Menüler,9.0
+747e6ff2-2eb7-47e2-8500-56a282ee4677,Big Road Cheeseburger Menü,"39,95 TL",Menüler,3.0
+a7093f5c-3002-4a42-b9a1-16f8c3957606,Nugget Menü,"21,00 TL",Menüler,2.0
+9b5b0199-5146-4923-a17d-f9b0670a143d,BBQ Burger Menü,"35,95 TL",Menüler,4.0
+e3bbb8a8-ebf8-4312-b56e-e3ecb54cbac5,Eco Road Burger Menü,"28,00 TL",Menüler,4.0
+ae725ebc-41bf-4ce8-9d75-f03c5b9b1f0f,Eco Road Cheeseburger Menü,"26,25 TL",Menüler,3.0
+3e85ab90-8b54-41f8-a7c8-0292c01a18ed,Big Boys Road Burger Menü,"47,75 TL",Menüler,4.0
+28c8ded5-3c3b-42b1-ad7e-45b1ef2529fa,Cajun Baharatlı Tavuk (250 gr.) Menü,"24,75 TL",Menüler,-2.0
+fb9c0d58-53d5-4221-bce5-a92115cfdf3c,Cajun Baharatlı Tavuk (500 gr.) Menü,"46,75 TL",Menüler,-2.0
+d2c8c135-2a8a-4750-8fe0-caba8d7f98b3,Road Mushroom Burger Menü,"29,95 TL",Menüler,4.0
+7e9531ce-d695-480a-ab4d-1e0515437df9,Road Bacon Burger Menü,"32,95 TL",Menüler,4.0
+7d783a38-12fb-46c9-8f86-5d12dbd8e77d,Road Cheeseburger Menü,"30,95 TL",Menüler,3.0
+c2e351d4-ae9e-4d28-b166-d031b7a01b71,Road Egg Burger Menü,"32,95 TL",Menüler,4.0
+a1f5da93-986a-4916-be13-93c4449d129f,Road Chicken Burger Menü,"24,75 TL",Menüler,4.0
+98b40d60-8a4c-4875-8d3a-7a1a2cbe009b,Road Hot Burger Menü,"29,95 TL",Menüler,4.0
+41d8d4d4-2d34-4fb1-8414-c89147b98224,Big Road Burger Menü,"39,95 TL",Menüler,4.0
+25c2e94c-309b-44f9-a091-a70cdb8d6cec,Brother Road Mix Menü,"34,75 TL",Üniversiteli Menüleri,3.0
+d9d23254-6563-4915-b194-91313b351dca,Brother Road Chicken Menü,"32,75 TL",Üniversiteli Menüleri,3.0
+ee177948-7b27-444f-983c-958b9c6e3f54,Brother Road Meat Menü,"38,75 TL",Üniversiteli Menüleri,3.0
+a1feab2f-e362-4b2e-b360-2966fede3a51,Big Brother Road Mix Menü,"43,75 TL",Üniversiteli Menüleri,3.0
+64a905c3-3e54-4337-9edc-30b9c36cb388,Big Brother Road Chicken Menü,"39,95 TL",Üniversiteli Menüleri,3.0
+3f4777ac-ef84-40d4-9c40-ce4a506389df,Big Brother Road Meat Menü,"45,75 TL",Üniversiteli Menüleri,3.0
+3b484c23-e6d4-4758-b771-378a847862e0,Road Burger,"26,75 TL",Burgerler,6.0
+b4609050-17a8-4b2d-838b-f99cfe2df622,Road Cheeseburger,"27,75 TL",Burgerler,5.0
+69f341eb-dc7b-4cd6-b9ad-7089c9bd421f,Road Mushroom Burger,"26,75 TL",Burgerler,6.0
+75b3f775-d9c6-48ca-b3aa-e5e7e1496678,Road Bacon Burger,"28,75 TL",Burgerler,6.0
+5fbd3837-c022-49a4-b62d-2f689965d316,Road Chicken Burger,"22,75 TL",Burgerler,6.0
+bec6b0ef-82e1-48d9-9ea1-26e212b3b045,Eco Road Burger,"22,25 TL",Burgerler,6.0
+8fec5e96-1bff-4be9-a969-90a6c0a2eb26,Eco Road Cheeseburger,"22,25 TL",Burgerler,5.0
+2a0ae231-f582-4da8-b751-643dc0efaa1f,Big Road Burger,"33,25 TL",Burgerler,6.0
+b4be7c03-b16e-4712-9346-e38ed758dc7b,Patates Kızartması (1 Kişilik),"9,75 TL",Yan Ürünler,5.0
+c879211c-f851-421b-9fb9-5e6230fd9fc7,Patates Kızartması (2 Kişilik),"15,75 TL",Yan Ürünler,5.0
+d68a765e-8f61-4d39-8374-f92bfd095765,Nugget (6 Adet),"9,00 TL",Yan Ürünler,4.0
+162dc930-073b-44b1-9da3-2d3ca99a97fa,Nugget (12 Adet),"13,00 TL",Yan Ürünler,4.0
+3743f644-2b30-4018-bf6b-dacbf0459e36,Coca-Cola Şekersiz (20 cl.),"5,50 TL",İçecekler,5.0
+54401c01-201f-446c-ab26-8e4606ad82b3,Fuse Tea (20 cl.),"5,50 TL",İçecekler,5.0
+156374d3-3a39-4ecb-bc73-472e72103ec0,Ketçap & Mayonez,"3,00 TL",Soslar,5.0
+531283a4-92b3-45be-a50a-ef543897ea15,3'lü Gurme Sos,"5,00 TL",Soslar,13.0

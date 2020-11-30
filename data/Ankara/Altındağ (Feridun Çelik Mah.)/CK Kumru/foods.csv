@@ -1,0 +1,29 @@
+food_id,food_name,food_price,food_category,food_score
+b8e5c32b-c525-4427-9856-551c54a80a7d,Ekmek Arası Ciğer Menü,"19,00 TL",Menüler,7.0
+2ca20be2-57c0-4046-96e2-c1aa72cdcf8a,Ekmek Arası Izgara Köfte Menü,"19,00 TL",Menüler,9.0
+562dcd50-27f7-4208-86b0-5dc818bdd9e7,Ekmek Arası Kumru Menü,"19,00 TL",Menüler,13.0
+8f5ec4ce-1c5d-43ca-858a-3011435ada66,Ekmek Arası Izgara Sucuk Menü,"21,00 TL",Menüler,7.0
+d1ec59bd-716a-4452-b173-3e88bbf8f188,Ekmek Arası Hamburger Menü,"21,00 TL",Menüler,5.0
+cf541153-c07c-4c03-8de5-358fa1b5e27e,Kaşarlı Bazlama Tost,"11,00 TL",Tostlar,5.0
+42a5094f-1aa9-44f7-baa0-3fc9d87bf8f1,Sucuklu Kaşarlı Bazlama Tost,"13,00 TL",Tostlar,5.0
+e7b2b195-aa66-4cc9-b3bd-a2a8bb8f4563,Sucuklu Bazlama Tost,"11,00 TL",Tostlar,5.0
+9020f7dc-bcbd-4185-b2b4-f5189fd41a6a,Kaşarlı Tost,"8,00 TL",Tostlar,5.0
+46662b3c-db88-4e4f-af68-3ba123b3d125,Sucuklu Tost,"8,00 TL",Tostlar,5.0
+32ce1aaf-4595-4eac-9306-f77abd5de1c9,Sucuklu Kaşarlı Tost,"10,00 TL",Tostlar,5.0
+52fefde7-00ec-4693-97ef-c4d6778d6cca,Salamlı Kaşarlı Tost,"8,00 TL",Tostlar,5.0
+bf5097b2-6a3e-4c78-b453-487711a34a70,Sucuklu Salamlı Tost,"8,00 TL",Tostlar,5.0
+4376236b-a259-4619-89ac-3f66d049bf00,Salamlı Kaşarlı Bazlama Tost,"11,00 TL",Tostlar,5.0
+fc612060-6693-4927-9f8c-8c32536caf85,Salamlı Sucuklu Bazlama Tost,"11,00 TL",Tostlar,5.0
+27b03558-a0f3-409b-8a6a-2b1e541a9159,Kumru,"12,00 TL",Sandviçler,13.0
+cac46b11-01da-4541-9d45-8beadf6cff70,Hamburger,"13,00 TL",Burgerler,10.0
+76529c98-e7b9-4fdb-a547-9c8d1383ae96,Ekmek Arası Izgara Köfte,"12,00 TL",Ekmek Arası Ürünler,9.0
+2b12eb0a-1369-4dad-8bab-9fea9d7952f8,Ekmek Arası Ciğer,"12,00 TL",Ekmek Arası Ürünler,7.0
+7821a2fd-4fc7-4387-bc4d-56f0febc2d97,Ekmek Arası Izgara Sucuk,"13,00 TL",Ekmek Arası Ürünler,7.0
+cea1df6c-49fd-4548-8e60-1fe0d46400d8,Soğan Halkası (5 Adet),"5,00 TL",Yan Ürünler,5.0
+30d49a26-e0e9-4621-8961-a28c04dd7c3b,Patates Ekmek,"7,00 TL",Yan Ürünler,7.0
+af1cad72-2ff8-4afb-8672-484e7506a556,Patates Kızartması,"5,00 TL",Yan Ürünler,7.0
+8651bfd6-fff9-4336-a28d-d98d4e35df1b,Puding,"3,50 TL",Tatlılar,5.0
+f566fc1c-6f42-4112-bc58-b81eefabdc71,Keşkül,"3,50 TL",Tatlılar,5.0
+e3fbdbbe-fed4-431c-ab46-a3e81fb69eb2,Muhallebi,"3,50 TL",Tatlılar,5.0
+8a4d695b-08c3-4dce-a146-d95c6727d080,Kazandibi,"3,50 TL",Tatlılar,5.0
+10fc7016-fb9f-4ed6-a26b-9d64ea3a666d,Poşet,"0,25 TL",Poşet,5.0

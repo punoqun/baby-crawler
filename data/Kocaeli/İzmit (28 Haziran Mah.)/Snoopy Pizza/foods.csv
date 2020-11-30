@@ -1,0 +1,47 @@
+food_id,food_name,food_price,food_category,food_score
+ee45f02e-26e9-4c1f-8935-85e20dfb61ea,Alt Menü,"24,90 TL",Menüler,9.0
+017b9b69-e4bb-4a4b-bb56-f6e9f10eeae5,Bizbize Büyük Menü,"69,90 TL",Menüler,8.0
+2006d263-318b-4a2f-8c38-2b8b78759160,Bizbize Orta Menü,"59,90 TL",Menüler,0.0
+17f27f82-ebb1-4684-9648-6d99a016ae30,Bungo Menü,"23,90 TL",Menüler,3.0
+7116d988-ebbe-4448-8bed-34c179c4b403,Büyükpanya Menü,"39,90 TL",Menüler,3.0
+428efa12-30f0-453a-927e-30289f14ef04,Eko Menü,"18,50 TL",Menüler,3.0
+4a34ec0e-30b5-400b-a27c-274abf055b03,Extra Menü,"28,50 TL",Menüler,2.0
+a0989eee-4580-497b-bcde-b9bfead93bc7,Fingers Menü,"23,90 TL",Menüler,3.0
+69efe874-fe7e-406d-9684-790236ed8ddf,Grande Menü,"59,90 TL",Menüler,3.0
+e8d697d3-d04a-4c1a-9354-611899ada8b7,Murphy Menü,"23,90 TL",Menüler,3.0
+afe5b526-afd2-4951-967e-621dd4c31852,Ortapanya Menü,"29,90 TL",Menüler,3.0
+5171737b-103c-4d21-972f-8e6c1230c7f3,Ultra Menü,"49,90 TL",Menüler,3.0
+32710675-c594-495f-9173-4c7b7a10d0a5,Orta Boy Pizza Menü,"39,90 TL",Menüler,6.0
+7a4dc64e-5bda-4bc0-8bfd-74ba2d886f91,Büyük Boy Pizza Menü,"49,90 TL",Menüler,9.0
+2cfba2b7-b126-4f45-913e-ddede130b407,Mantarlı Pizza (Küçük),"16,90 TL",Küçük Boy Pizzalar (1 Kişilik),11.0
+4ce0ebaa-2aac-4662-9da1-9bd8a968ddde,Veggie Pizza (Küçük),"16,90 TL",Küçük Boy Pizzalar (1 Kişilik),11.0
+478ce117-f25a-4c11-8149-219df736404b,Karışık Pizza (Küçük),"16,90 TL",Küçük Boy Pizzalar (1 Kişilik),11.0
+d4ad004d-9c29-499d-ad13-10a8d3b4cefd,Margherita Pizza (Küçük),"16,90 TL",Küçük Boy Pizzalar (1 Kişilik),11.0
+c059b65c-4b30-456c-b716-647cd70b916c,Mantarlı Pizza (Orta),"27,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),11.0
+edf19119-df29-486f-bddf-805c9d5832d4,Veggie Pizza (Orta),"27,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),11.0
+d6a71ed5-a989-439b-bd0c-5bc277c98c9e,Karışık Pizza (Orta),"27,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),11.0
+7dac0f92-f476-4c27-b972-5dc68834d990,Margherita Pizza (Orta),"27,90 TL",Orta Boy Pizzalar (1 - 2 Kişilik),11.0
+f1f91605-e415-4c8c-9ead-e1ee23de6976,Mantarlı Pizza (Büyük),"37,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),11.0
+fb5c1b5b-e97e-4127-88f0-3070ec7e288f,Veggie Pizza (Büyük),"37,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),11.0
+72010969-bd1f-485a-b9be-31cab953308d,Karışık Pizza (Büyük),"37,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),16.0
+a320b78e-670e-48e5-aa0c-bb9d777cc6c9,Margherita Pizza (Büyük),"37,90 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),11.0
+B967F625-932F-4224-9897-831316F6036A,BBQ Chicken Pizza (Büyük),"39,50 TL",Büyük Boy Pizzalar (2 - 3 Kişilik),11.0
+b5c601f0-78b1-4ef4-9d4b-abe26ccc5b49,Elma Dilim Patates Kızartması,"15,00 TL",Yan Ürünler,6.0
+da8ce44e-bbcf-4ecd-8be6-8d0271f394d9,Patates Kızartması,"11,90 TL",Yan Ürünler,6.0
+71faa412-cbd8-433e-895e-13f8ca7fab20,Chicken Fingers (3 Adet),"15,00 TL",Yan Ürünler,5.0
+5bc54839-26ff-4ae8-9c39-65655e841cd4,Chicken Morfel,"10,00 TL",Yan Ürünler,7.0
+30aaff3c-0a0a-4695-8e30-d9e3c4ade1bc,Chicken Nuggets (3 Adet),"7,50 TL",Yan Ürünler,5.0
+0ff13cf2-c93a-4650-9f3e-4dd0a6f42a2b,Chicken Nuggets (6 Adet),"15,00 TL",Yan Ürünler,5.0
+64120dfb-5c5f-43d4-ba0a-e1836a909f20,Fırında Mantar,"12,50 TL",Yan Ürünler,5.0
+f1c6f8c7-c240-4515-b9cb-9ef2744ff29b,Soğan Halkası,"6,00 TL",Yan Ürünler,4.0
+58926f5e-3c02-4c40-9038-ca741a2f8b79,Mozzarellalı Sarımsaklı Ekmek,"12,00 TL",Yan Ürünler,5.0
+772e7a06-b8bc-4963-b3bf-208fdea46017,Mozzarellalı Sucuklu Ekmek,"15,00 TL",Yan Ürünler,5.0
+71f16cce-ed7b-49f9-a445-f94ba061b12e,Ege Salatası,"12,50 TL",Salatalar,5.0
+56ae1362-8513-4a8d-a436-ca24ad76a999,Chicken Salata,"12,50 TL",Salatalar,5.0
+0b8b66fc-4f51-4eab-a3be-479bc322e0fc,Çıtır Salata,"12,50 TL",Salatalar,5.0
+e5b43dd3-2d40-4626-b21a-986860e9799b,Sufle,"11,90 TL",Tatlılar,5.0
+513918a3-ea5b-4ca7-9173-0bbc812b8791,Tamek (33 cl.),"6,00 TL",İçecekler,5.0
+b46b34fb-8341-47ad-8be9-80b225b07992,Niğde Gazozu (25 cl.),"4,00 TL",İçecekler,5.0
+c9786e09-b994-4c29-9da4-298da7057c68,Su,"1,50 TL",İçecekler,7.0
+3839b980-d82e-440a-842b-3cd53bd21b0e,Fruko (1 L.),"7,00 TL",İçecekler,5.0
+e0351587-a92c-403b-a69d-29e8911552c5,Morfel Sos,"2,00 TL",Soslar,7.0

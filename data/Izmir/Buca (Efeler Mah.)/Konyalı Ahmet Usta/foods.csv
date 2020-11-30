@@ -1,0 +1,76 @@
+food_id,food_name,food_price,food_category,food_score
+98da7b23-9c71-425f-a966-c81b1de9c5da,Çocuk Menüsü (Köfte),"28,00 TL",Çocuk Menüleri,5.0
+42ce60ee-0017-4eba-99ca-1c0a9733f114,Çocuk Menüsü (Tavuk Şiş),"28,00 TL",Çocuk Menüleri,5.0
+28695200-737C-4996-858B-525C7F2DDB92,Cimbom Çorbası,"12,00 TL",Çorbalar,8.0
+74675040-b54d-4612-baf6-bbe6bad4a6bb,Kızartma İçli Köfte,"10,00 TL",Ara Sıcaklar,5.0
+646f1c33-fcb9-4938-ac31-7ab1b0b3f383,Patates Kızartması,"11,00 TL",Ara Sıcaklar,5.0
+KONAHU010203,Fındık Lahmacun,"10,00 TL",Ara Sıcaklar,0.0
+KONAHU010204,Çiğ Köfte,"10,00 TL",Ara Sıcaklar,5.0
+KONAHU010301,Adana Kebap,"30,00 TL",Kebaplar,6.0
+KONAHU010302,Urfa Kebap,"30,00 TL",Kebaplar,4.0
+e42854c1-af67-478c-859e-1830fe13c784,İskender (Kebaptan),"31,00 TL",Kebaplar,5.0
+KONAHU010306,Patlıcanlı Kebap,"35,00 TL",Kebaplar,4.0
+KONAHU010307,Domatesli Kebap,"35,00 TL",Kebaplar,4.0
+KONAHU010308,Soğan Kebabı,"35,00 TL",Kebaplar,5.0
+b18a9f7a-998b-4010-934b-715fdfb2fb07,Diyet Tavuk Kebabı,"30,00 TL",Kebaplar,5.0
+KONAHU010309,Beyti Kebap,"31,00 TL",Kebaplar,4.0
+KONAHU010310,Beyti Sarma,"32,00 TL",Kebaplar,5.0
+KONAHU010313,Alinazik Kebap (Kuzu Şişten),"43,00 TL",Kebaplar,4.0
+KONAHU010314,Alinazik Kebap (Kıymadan),"33,00 TL",Kebaplar,4.0
+KONAHU010315,Altı Ezmeli Kebap,"32,00 TL",Kebaplar,4.0
+KONAHU010319,Karışık Kebap,"45,00 TL",Kebaplar,4.0
+9318e5d3-4748-44ba-b0c5-b32a6ae9cf90,Ciğer Şiş,"35,00 TL",Izgaralar,5.0
+KONAHU010303,Tavuk Şiş,"30,00 TL",Izgaralar,5.0
+KONAHU010801,Kanat Izgara,"30,00 TL",Izgaralar,5.0
+KONAHU010803,Izgara Köfte,"30,00 TL",Izgaralar,5.0
+0a3d11c9-5c27-49fb-bc9f-4dc88fbd18e4,Kuzu Şiş,"42,00 TL",Izgaralar,5.0
+31e97bed-79f4-4ded-9313-d9e95f5df8df,Tavuk Kanat,"30,00 TL",Izgaralar,5.0
+b294965e-031e-40b4-a67c-1d607dec5bb0,Kiremitte Konya Tava,"39,00 TL",Kiremitte Ürünler,9.0
+11ca3d52-7c9d-42af-8e7a-60225e24d907,Kiremitte Kaşarlı Konya Tava,"41,00 TL",Kiremitte Ürünler,9.0
+4ae9dcfb-d522-48db-abce-2b340958e9cb,Kiremitte Kaşarlı Kuzu Şiş,"44,00 TL",Kiremitte Ürünler,5.0
+KONAHU010802,Kiremitte Kuzu Şiş,"42,00 TL",Kiremitte Ürünler,5.0
+KONAHU010804,Kiremitte Piliç,"32,00 TL",Kiremitte Ürünler,5.0
+KONAHU010805,Kiremitte Kaşarlı Piliç,"33,00 TL",Kiremitte Ürünler,5.0
+0332be36-9537-4a60-9f37-d8683c8589a4,Kiremitte Köfte,"32,00 TL",Kiremitte Ürünler,5.0
+e99f765b-785a-474e-b555-c7ae4e9c7fbb,Kiremitte Kaşarlı Köfte,"33,00 TL",Kiremitte Ürünler,5.0
+940a6101-f200-497a-9386-65099331bb1d,Yarım Adana Dürüm,"17,00 TL",Dürümler,7.0
+20B7BD35-C81B-46EC-9A37-FE2DBD283E9C,Ciğer Şiş Dürüm,"22,00 TL",Dürümler,5.0
+88cab3f5-81b9-4f9b-9f5d-3acde70178e0,Yarım Urfa Dürüm,"17,00 TL",Dürümler,5.0
+bd169921-ffca-4c03-8cae-5bf973188c2f,Yarım Tavuk Şiş Dürüm,"17,00 TL",Dürümler,5.0
+7de79c51-763a-41a4-8414-e21f33282591,Yarım Köfte Şiş Dürüm,"17,00 TL",Dürümler,5.0
+KONAHU010901,Adana Dürüm,"30,00 TL",Dürümler,7.0
+KONAHU010902,Urfa Dürüm,"30,00 TL",Dürümler,5.0
+KONAHU010903,Köfte Dürüm,"30,00 TL",Dürümler,5.0
+KONAHU010904,Tavuk Şiş Dürüm,"30,00 TL",Dürümler,5.0
+KONAHU010401,Fırın Kebabı,"47,00 TL",Fırın Ürünleri,5.0
+KONAHU010402,Etli Ekmek,"25,00 TL",Fırın Ürünleri,5.0
+KONAHU010403,Mevlana Pide,"26,00 TL",Fırın Ürünleri,5.0
+KONAHU010404,Bıçak Arası Pide,"27,00 TL",Fırın Ürünleri,5.0
+KONAHU010405,Lahmacun,"12,00 TL",Fırın Ürünleri,5.0
+fb13a7d6-70a2-4741-8445-b5f366533bb3,Tereyağlı Peynirli Börek,"25,00 TL",Fırın Ürünleri,5.0
+f010d752-1985-4f97-a206-ac5f23cb0cfb,Yumurtalı Etli Ekmek,"26,00 TL",Fırın Ürünleri,5.0
+b70e5479-5cdc-4d7a-a90a-80c1757ddd2d,Kaşarlı Lahmacun,"14,00 TL",Fırın Ürünleri,0.0
+d46dbe21-2b6d-4092-bfd8-31e8e00695ab,Bıçak Arası Kaşarlı Pide,"29,00 TL",Fırın Ürünleri,5.0
+98cb9fcd-5787-4be7-a36e-929bcb74a762,Kıymalı Pide,"15,00 TL",Fırın Ürünleri,5.0
+b98851d3-ffd1-43ad-b1c5-52171a403818,Kaşarlı Pide,"18,00 TL",Fırın Ürünleri,5.0
+c7741284-5884-4ff6-a11f-6bf5314df61a,Kıymalı Kaşarlı Pide,"19,00 TL",Fırın Ürünleri,5.0
+b041f456-107d-43de-887b-0f5464b4a9f2,Kuşbaşılı Pide,"20,00 TL",Fırın Ürünleri,5.0
+f1f6d572-053b-4a33-8657-7cd74f264b05,Kuşbaşılı Kaşarlı Pide,"21,00 TL",Fırın Ürünleri,5.0
+KONAHU010320,Vali Kebabı,"70,00 TL",Konya Spesiyalleri,5.0
+KONAHU010321,Konya Special (2 Kişilik),"140,00 TL",Konya Spesiyalleri,9.0
+941568d2-8191-4221-88f2-1a4ac21b6cb9,Konya Special (3 Kişilik),"210,00 TL",Konya Spesiyalleri,9.0
+b971b6e9-7a23-490a-b6ef-3f9b00e4e993,Konya Special (4 Kişilik),"280,00 TL",Konya Spesiyalleri,9.0
+KONAHU010501,Antep Ezme,"10,00 TL",Yan Ürünler,5.0
+KONAHU010502,Mevsim Salata,"10,00 TL",Yan Ürünler,6.0
+KONAHU010505,Patlıcan Ezme,"10,00 TL",Yan Ürünler,5.0
+356da0a7-393a-413d-a38c-b0d8e4333d76,Çoban Salata,"10,00 TL",Salatalar,6.0
+378d4ab5-eddd-4f6e-ae0c-f33816de7af7,Yeşil Salata,"10,00 TL",Salatalar,6.0
+428a0d9d-a38c-4228-8728-1a35339b0503,Gavurdağı Salatası,"10,00 TL",Salatalar,5.0
+1f6eaf10-67e2-4ff1-a045-f4a7abe7d984,Akdeniz Salatası,"10,00 TL",Salatalar,5.0
+e9456406-02e2-416d-a80b-78dd2fa7e803,Tavuklu Salata,"24,00 TL",Salatalar,6.0
+08472333-6a65-40fd-a235-fd0a10d864cf,Burma Kadayıf,"13,00 TL",Tatlılar,5.0
+cce389db-afe6-4878-95c5-ce46b682e5ef,Kemalpaşa Tatlısı,"11,00 TL",Tatlılar,5.0
+KONAHU010601,Fırın Sütlaç,"11,00 TL",Tatlılar,5.0
+KONAHU010602,Künefe,"13,00 TL",Tatlılar,-1.0
+KONAHU010710,Su,"1,50 TL",İçecekler,7.0
+9d72fceb-c0ae-4954-aabd-58546beddfb4,Poşet,"0,25 TL",Poşet,4.0

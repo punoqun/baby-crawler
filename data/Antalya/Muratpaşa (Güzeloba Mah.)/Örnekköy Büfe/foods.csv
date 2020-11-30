@@ -1,0 +1,26 @@
+food_id,food_name,food_price,food_category,food_score
+f1498f16-cb7a-4cd8-9346-b54757dcf613,Yarım Ekmek Arası Köfte Menü,"18,00 TL",Menüler,4.0
+ac3254d6-d95a-415c-93ea-3ea564c3fc12,Tavuk Döner Dürüm Menü,"12,00 TL",Menüler,15.0
+af3b5d3b-ff47-4027-8950-0a5e62175279,Kaşarlı Tost,"8,00 TL",Tostlar,11.0
+493e29c1-fd23-43b7-8147-8bfecab353df,Karışık Tost,"8,00 TL",Tostlar,13.0
+efd32f0e-2f6d-4e01-b1ea-a2df87e49545,Kaşarlı Domatesli Tost,"8,00 TL",Tostlar,11.0
+7167552c-9525-49c9-897b-78b95aaab938,Kaşarlı Salamlı Tost,"9,00 TL",Tostlar,11.0
+4765b5ec-23ef-4d39-a7db-1c75919b2806,Kavurmalı Tost,"20,00 TL",Tostlar,9.0
+ce6b82c5-2d49-4c92-82b7-e89fb07d79e0,Yengen Tost,"10,00 TL",Tostlar,10.0
+09f08034-a28a-4430-99d5-014467d0cc3a,İzmir Eritme Sandviç,"17,00 TL",Sandviçler,5.0
+149d0b7e-9fa0-4fc8-936d-52bf3b33a139,İzmir Sandviç,"14,00 TL",Sandviçler,5.0
+facce34b-ec17-432a-8dc7-c569c55b18c0,Tavuklu Sandviç,"10,00 TL",Sandviçler,10.0
+3a897182-5d0a-49e6-a58a-10c2cae55429,Sosisli Sandviç,"10,00 TL",Sandviçler,5.0
+893c256c-5453-4e3e-ab02-357e2e4f6a98,Soğuk Sandviç,"11,00 TL",Sandviçler,5.0
+d8cd55dd-ec36-4956-a2e3-2b9d98d28fed,Hamburger,"12,00 TL",Burgerler,5.0
+b31835ec-fd05-4513-a62c-7167f3e32c07,Cheeseburger,"15,00 TL",Burgerler,5.0
+6eda0681-16d6-4c02-a124-0f73e1bb9a91,Yarım Ekmek Arası Köfte Eritme,"17,00 TL",Ekmek Arası Ürünler,4.0
+24693158-2fb8-4cdb-8117-0949141d4d05,Yarım Ekmek Arası Köfte,"14,00 TL",Ekmek Arası Ürünler,4.0
+daa79fd1-e666-44d8-90c5-a226f1b501cb,Ekmek Arası Kavurma,"20,00 TL",Ekmek Arası Ürünler,2.0
+f95f0651-5ab5-4075-a498-6389bb855ef6,Et Döner Dürüm,"16,00 TL",Dürümler,5.0
+021ecb26-9869-40a6-941d-33d514399ed6,Tavuk Döner Dürüm,"10,00 TL",Dürümler,10.0
+75794f75-4458-42d6-81dc-47f91aff2645,Meksikan Dürüm,"14,00 TL",Dürümler,7.0
+9b9e5ca0-a318-471e-930d-3167a4b43c2b,Kaşarlı Köfte Dürüm,"17,00 TL",Dürümler,11.0
+efc0c304-a8c4-4bed-9afa-2002ca8ca396,Kaşarlı Tavuk Döner Dürüm,"14,00 TL",Dürümler,12.0
+552a311f-82de-45b4-8433-75dbae9468a2,Patates Kızartması,"11,00 TL",Yan Ürünler,5.0
+a633e736-e945-41b4-bae5-6e3bd4bd7059,Poşet,"0,25 TL",Poşet,5.0

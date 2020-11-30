@@ -1,0 +1,30 @@
+food_id,food_name,food_price,food_category,food_score
+c3313b2c-bd0d-4a26-8987-68fb92ca0f00,Çiğ Köfte (250 gr.) Menü,"17,00 TL",Menüler,3.0
+c37678d5-2e3f-4d90-8984-0398c9e74e39,Çiğ Köfte (500 gr.) Menü,"27,00 TL",Menüler,3.0
+3b16afbd-6496-4665-8e3e-955746049f63,Çiğ Köfte (750 gr.) Menü,"35,00 TL",Menüler,3.0
+e5ea2880-776b-45c8-9c2c-8994d441a8d2,Çiğ Köfte (1000 gr.) Menü,"44,00 TL",Menüler,3.0
+52c3e7f9-c13f-4dc5-a56a-4b04203dbaff,Çiğ Köfte Dürüm (100 gr.),"6,00 TL",Çiğ Köfteler,12.0
+43b08cd6-0467-480c-886a-ac8b6da453d9,Çiğ Köfte Dürüm (150 gr.),"9,00 TL",Çiğ Köfteler,12.0
+8a6c02ad-8b26-4462-b737-20ded96cea20,Çiğ Köfte Dürüm (200 gr.),"11,00 TL",Çiğ Köfteler,12.0
+d588fed8-238b-4eb7-b4a7-a062764c2fcd,Çiğ Köfte (200 gr.),"12,00 TL",Çiğ Köfteler,3.0
+e950323f-baa0-4977-9e53-2123af09acff,Çiğ Köfte (300 gr.),"15,00 TL",Çiğ Köfteler,3.0
+0d26021d-22fa-416e-b65d-cda267afbbe3,Çiğ Köfte (400 gr.),"18,00 TL",Çiğ Köfteler,3.0
+9106d4fb-26cb-4137-9b6e-7e9cacd72c45,Çiğ Köfte (500 gr.),"22,00 TL",Çiğ Köfteler,3.0
+b13e87a3-5d53-4815-90d8-caadb566fee6,Çiğ Köfte (600 gr.),"25,00 TL",Çiğ Köfteler,3.0
+b79c2740-5949-4421-b23f-0dc63e5ab5b7,Çiğ Köfte (700 gr.),"29,00 TL",Çiğ Köfteler,3.0
+be9ae45f-f6d8-422d-9bc5-27f1f7b888f5,Çiğ Köfte (800 gr.),"32,00 TL",Çiğ Köfteler,3.0
+d8dd1a97-136b-4b34-8e01-0e117430f8ae,Çiğ Köfte (900 gr.),"35,00 TL",Çiğ Köfteler,3.0
+6c5ccb3b-71ec-4339-9aaa-2bb4b776f862,Çiğ Köfte (1000 gr.),"38,00 TL",Çiğ Köfteler,3.0
+43f3dcf2-82cc-4a71-b9a8-f6d78f1a2475,Izgara Köfte,"18,00 TL",Izgaralar,5.0
+ac879070-2db8-41a3-bda6-13c38550c8e7,Izgara Tavuk,"18,00 TL",Izgaralar,5.0
+1d2b4c89-1544-4b95-9c83-c8b88c6d53bb,Izgara Yürek,"18,00 TL",Izgaralar,5.0
+16d8c879-af31-4161-a690-d3ee834a13ab,Tam Ekmek Arası Izgara Köfte,"14,00 TL",Ekmek Arası Ürünler,5.0
+9a28f240-8b35-4722-9300-ab23dfc3f2bd,Tam Ekmek Arası Izgara Tavuk,"14,00 TL",Ekmek Arası Ürünler,5.0
+59009f42-c2d2-4ddf-9dab-b0cf518cc1e8,Tam Ekmek Arası Izgara Yürek,"14,00 TL",Ekmek Arası Ürünler,5.0
+dc6fa87b-c1a6-4be5-9a89-4806460c9580,Tam Ekmek Arası Arnavut Ciğeri,"14,00 TL",Ekmek Arası Ürünler,5.0
+f6c769a0-385f-4853-91eb-3960e84b81eb,Arnavut Ciğeri,"18,00 TL",Diğer Lezzetler,5.0
+d21e76de-3e11-44a3-b6f9-280869259389,Kızarmış Piliç (Bütün),"32,00 TL",Diğer Lezzetler,7.0
+72b87115-befe-4fe6-b0f3-699be1b29827,Kızarmış Piliç (Yarım),"17,00 TL",Diğer Lezzetler,7.0
+5063ae02-5352-4150-a297-851b20672e18,Limon (Adet),"3,00 TL",Yan Ürünler,5.0
+b1ea04c9-a4ed-4703-b0a2-c874f3de8c97,Iceberg Marul (Bütün),"8,00 TL",Yan Ürünler,5.0
+a31981f1-ccce-42c5-be73-5e3d93c8e21d,Poşet,"0,25 TL",Poşet,5.0

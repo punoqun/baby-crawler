@@ -1,0 +1,58 @@
+food_id,food_name,food_price,food_category,food_score
+c5fb5c46-cef6-49a1-a2d8-7751bc2712b9,Aile Menüsü,"60,00 TL",Menüler,5.0
+4f14c46f-5ff0-4108-b757-61025799f35d,Kanka Menü,"50,00 TL",Menüler,5.0
+dddc0ee9-3cc2-4d4b-a809-571cba945836,Cheeseburger Menü,"30,00 TL",Menüler,5.0
+4ff8d116-533a-4cf3-8208-b705983ff5af,Ekmek Arası Köfte Menü,"25,00 TL",Menüler,3.0
+ee90d077-8595-43a7-b0e2-e20800e810ec,Hamburger Menü,"25,00 TL",Menüler,5.0
+cf96fbc1-9b1e-4148-a4b0-5b64352657e1,İzmir Kumru Menü,"25,00 TL",Menüler,7.0
+8e7204f6-62f4-48dc-9d7a-e488149b6a05,Kavurmalı Tost Menü,"25,00 TL",Menüler,5.0
+e4ff00d8-842f-41df-8319-754b334d1b04,Tavuk Sandviç Menü,"20,00 TL",Menüler,4.0
+b306c6d4-c055-4223-b6a7-34f585efa847,Avyalık Ekmeğine Kavurmalı Kaşarlı Tost,"18,00 TL",Tostlar,3.0
+b7f5f3e4-3835-46f7-8d01-a1480984fa5f,Ayvalık Ekmeğine Beyaz Peynirli Tost,"10,00 TL",Tostlar,4.0
+86f7efb9-ba35-4b37-9aba-071d7115bba8,Ayvalık Ekmeğine Kaşarlı Sucuklu Tost,"12,00 TL",Tostlar,2.0
+757bf824-fa90-4943-b8ff-e3a1c3bd5949,Ayvalık Ekmeğine Kaşarlı Tost,"10,00 TL",Tostlar,2.0
+d4a66333-2d68-422f-853c-79c92a2c55c3,Ayvalık Ekmeğine Sucuklu Tost,"10,00 TL",Tostlar,4.0
+29dee088-b0a5-4d34-968a-4050090e1b5d,Ayvalık Ekmeğine Yengen Tost,"14,00 TL",Tostlar,2.0
+c3aeda62-fa2f-4b24-8d71-1802701b7ef2,Ayvalık Tostu,"18,00 TL",Tostlar,4.0
+41ced98a-3025-485a-877e-31fd5cf724b1,Beyaz Peynirli Tost,"8,00 TL",Tostlar,5.0
+890f3023-a7f7-4e60-a89a-81c62a45dd5b,İmamoğlu Sucuklu Tost,"8,00 TL",Tostlar,5.0
+5d5ec251-a57f-4cdb-8997-8e23c347c3c9,Kaşarlı Sucuklu Tost,"10,00 TL",Tostlar,8.0
+f7654817-b02f-4bfd-ae1e-7577ec1bd4dd,Kaşarlı Tost,"8,00 TL",Tostlar,8.0
+02117078-a3f6-43ad-ae5c-d9bd2200c8d6,Kepek Ekmeğine Beyaz Peynirli Tost,"8,00 TL",Tostlar,6.0
+90865ce1-b766-4f4c-a2d8-13d215168b89,Kepek Ekmeğine Kaşarlı Sucuklu Tost,"10,00 TL",Tostlar,4.0
+be539ae3-e0de-47e2-bffa-89fd92c018e4,Kepek Ekmeğine Kaşarlı Tost,"8,00 TL",Tostlar,4.0
+a2fb0922-7335-4efe-9da4-5adafbda3961,Kepek Ekmeğine Sucuklu Tost,"8,00 TL",Tostlar,6.0
+e437b5ae-fa0a-4213-bb91-d66a9231f62a,Kepek Ekmeğine Yengen Tost,"12,00 TL",Tostlar,4.0
+43093c81-658b-4f7f-a8f9-2e1ff5bc6de4,Yengen Tost,"12,00 TL",Tostlar,8.0
+96f52dc8-cea9-43d4-a7fc-f2b5c57a7590,Kumru Sandviç,"18,00 TL",Sandviçler,6.0
+77834102-1d82-4d65-947e-980be5213514,Tavuklu Sandviç,"12,00 TL",Sandviçler,4.0
+eb86abb8-c3f9-485e-9318-a73eeeada782,Sosisli Sandviç,"10,00 TL",Sandviçler,4.0
+73291e7d-a41b-4422-82ab-0275b2631007,Patso Sandviç,"10,00 TL",Sandviçler,3.0
+2b038c14-de3b-43e7-8c49-9a2c9536e8e4,Kaşarlı Patso Sandviç,"14,00 TL",Sandviçler,1.0
+1d167797-e1e7-4393-ab13-f889df337fbb,Tavuklu Patso Sandviç,"15,00 TL",Sandviçler,3.0
+7b9ca734-8a77-44f0-aac2-687a90756dfd,Kaşarlı Soğuk Sandviç,"10,00 TL",Sandviçler,2.0
+f8435dd9-7d74-4c65-bbe9-c087ab7bc8bf,Beyaz Peynirli Soğuk Sandviç,"10,00 TL",Sandviçler,4.0
+678208fb-e9d4-4e46-a640-14f7ae534f07,Karışık Soğuk Sandviç,"14,00 TL",Sandviçler,4.0
+f29032b2-f3b5-4537-981e-c58ec25e2715,Tavuklu Kaşarlı Patso Sandviç,"18,00 TL",Sandviçler,1.0
+1c70c5d1-acd6-444a-91ac-5d8a04071594,Hamburger,"18,00 TL",Burgerler,5.0
+2326b9d6-81e4-4029-81f7-acd1277e51cd,Ekmek Arası Köfte,"18,00 TL",Ekmek Arası Ürünler,3.0
+389f11fe-19ee-4648-aab3-72e22dec1688,Kaşarlı Simit,"8,00 TL",Yan Ürünler,3.0
+79f0bb42-f419-4870-8d56-74141fc039f0,Patates Kızartması (250 gr.),"10,00 TL",Yan Ürünler,5.0
+65c18fd5-1ac9-4bc1-b4fc-024ae60e4afd,Şalgam Suyu (50 cl.),"5,00 TL",İçecekler,5.0
+2ff0f56b-3c80-4cf3-bcf2-654ec174464d,"Eker Ayran (29,3 cl.)","3,00 TL",İçecekler,5.0
+9c160173-8df6-4d25-bf03-a272eca7b2bf,Atom (75 cl.),"20,00 TL",Vitamin Bar,5.0
+eb37a13c-7e8e-4986-a317-410a356b9786,Ballı Muzlu Süt (75 cl.),"15,00 TL",Vitamin Bar,4.0
+d436bce5-524e-46a9-ae8f-299253cf4342,Çilekli Muzlu Süt (75 cl.),"15,00 TL",Vitamin Bar,4.0
+6d435590-4dc5-4b7b-9d30-b5a21712b3e4,Kivili Çikolatalı Çilekli Muzlu Süt (75 cl.),"20,00 TL",Vitamin Bar,4.0
+fdadad04-ad74-4dcc-b25d-30880db6beae,Kivili Muzlu Süt (75 cl.),"15,00 TL",Vitamin Bar,4.0
+2634f1b7-d24f-43e7-986e-6ea8240406e2,Limonata (25 cl.),"3,00 TL",Vitamin Bar,5.0
+5cacc247-48f5-4329-b146-b5e0c1875819,Muzlu Süt (75 cl.),"12,00 TL",Vitamin Bar,4.0
+1b00ebe3-7fb6-4090-850b-db36de3be7f2,Sade Çikolatalı Muzlu Süt (75 cl.),"15,00 TL",Vitamin Bar,4.0
+bc42e059-9437-4553-a7fa-3079d2421df8,Vişne Suyu (25 cl.),"3,00 TL",Vitamin Bar,5.0
+003c8684-2c0c-40b6-bccd-004139045357,Meyve Kokteyli (50 cl.),"10,00 TL",Vitamin Bar,7.0
+cba19819-61c7-4af8-83f4-5b90df357f4c,Taze Sıkma Elma Suyu (50 cl.),"10,00 TL",Vitamin Bar,3.0
+97f6f660-473e-4031-a965-d54f6c0613a6,Taze Sıkma Greyfurt Suyu (50 cl.),"10,00 TL",Vitamin Bar,5.0
+ccac70c1-4a38-4d97-98c4-be6a773f15c2,Taze Sıkma Havuç Suyu (50 cl.),"10,00 TL",Vitamin Bar,5.0
+4ee1638c-e9b5-4c5b-ac7e-137782308033,Taze Sıkma Nar Suyu (50 cl.),"10,00 TL",Vitamin Bar,5.0
+86cef459-6578-4cb5-9132-74228ce639ff,Taze Sıkma Portakal Suyu (50 cl.),"10,00 TL",Vitamin Bar,5.0
+184215ca-5091-4423-921c-45193f52db6f,Poşet,"0,25 TL",Poşet,5.0

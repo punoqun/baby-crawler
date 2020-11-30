@@ -1,0 +1,43 @@
+food_id,food_name,food_price,food_category,food_score
+ce05805a-374e-4080-9969-e4f3bd45bfd5,Çıtır Tavuk (1 kg.) Menü,"50,00 TL",Menüler,7.0
+c8881cd8-e006-4b14-a6fc-9f4e5c5086d8,Izgara Menü,"50,00 TL",Menüler,6.0
+15f004b5-123e-4761-ab8d-3475d3068ae8,Çıtır Tavuk (350 gr.),"15,00 TL",Izgaralar,7.0
+440b6505-95f9-453d-b874-d960579cec5d,Izgara Sucuk (200 gr.),"20,00 TL",Izgaralar,6.0
+4eff6392-6871-4274-a32d-afd2d8b5c5e2,Izgara Sucuk (300 gr.),"33,00 TL",Izgaralar,6.0
+56fa3155-b99b-4af2-88ef-b13c5c3e9457,Izgara Köfte (200 gr.),"20,00 TL",Izgaralar,10.0
+579b5520-afb9-4ca6-b180-d77d4f97c33f,Tavuk Pirzola (350 gr.),"15,00 TL",Izgaralar,12.0
+73463f1a-24e0-4b32-bd04-cf4d5e1de691,Dana Pirzola (250 gr.),"30,00 TL",Izgaralar,5.0
+74f02c70-032b-4bde-baa9-ed8ff73ce344,Tavuk Sarma (350 gr.),"15,00 TL",Izgaralar,7.0
+af864925-7750-45b7-8a3b-da444c3b6672,Tavuk Kanat (350 gr.),"15,00 TL",Izgaralar,13.0
+c3ff223c-65bd-4369-89a5-b03bc6bb6234,Antrikot (250 gr.),"30,00 TL",Izgaralar,5.0
+f520faa7-17a0-401d-ac96-dad27d756f90,Izgara Köfte (300 gr.),"33,00 TL",Izgaralar,10.0
+b22f7bfa-3bbd-4919-b38c-1fbfbf976266,Kuzu Şiş (250 gr.),"35,00 TL",Izgaralar,7.0
+13dad3dc-b896-4278-a4e9-55fb639a5448,3/4 Ekmek Arası Izgara Sucuk,"22,00 TL",Ekmek Arası Ürünler,5.0
+1af15c80-556b-4957-a180-800bb396d409,3/4 Ekmek Arası Izgara Köfte,"22,00 TL",Ekmek Arası Ürünler,9.0
+4aa32a1a-5667-4210-bf9b-352cd6362c40,Yarım Ekmek Arası Tavuk Sarma,"10,00 TL",Ekmek Arası Ürünler,6.0
+618e7d1a-7dcf-4503-9682-f7c281da87d8,Yarım Ekmek Arası Izgara Sucuk,"15,00 TL",Ekmek Arası Ürünler,5.0
+62f234a0-d13d-4584-9679-376fff2ca914,Tam Ekmek Arası Izgara Sucuk,"30,00 TL",Ekmek Arası Ürünler,5.0
+a10f3a16-088c-4103-a417-f61f5ed17ebd,Yarım Ekmek Arası Izgara Köfte,"15,00 TL",Ekmek Arası Ürünler,9.0
+b9cd2c7f-60aa-4283-b2b4-3eb35685e486,Tam Ekmek Arası Tavuk Sarma,"20,00 TL",Ekmek Arası Ürünler,6.0
+c64589d5-d118-472f-bb14-eed2bedceb3a,Tam Ekmek Arası Izgara Köfte,"30,00 TL",Ekmek Arası Ürünler,9.0
+e87c64fe-7bbe-43da-bfa2-fb3e8819a221,3/4 Ekmek Arası Tavuk Sarma,"15,00 TL",Ekmek Arası Ürünler,6.0
+850dcca2-2db9-4e78-b7ea-f9c5fc4043e1,Kızarmış Tavuk (Bütün),"20,00 TL",Diğer Lezzetler,7.0
+89cbcc9c-aeb5-4235-a3cd-a8c0ff2cc8c4,Mevsim Salata,"5,00 TL",Salatalar,11.0
+f85f21f6-2833-4658-bc93-206adb73c9e0,Su,"1,50 TL",İçecekler,6.0
+41e4534a-c330-46ae-b524-b2548a86eab9,Dana Pirzola (500 gr.),"60,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+465f5a20-a5aa-49cc-8e77-d6ec97bc072d,Çıtır Tavuk (500 gr.),"22,00 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+56bf809f-3a53-441a-ac2c-e26bede88b1a,Tavuk Pirzola (500 gr.),"22,00 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+6646f40b-c489-4040-a890-7e95b54d4b15,Tavuk Sarma (500 gr.),"22,00 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+a00d502f-f41b-49c7-ad54-d97334eaed2b,Antrikot (500 gr.),"60,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+ab465cb1-6e94-407e-87eb-e12d2654cb76,Izgara Sucuk (500 gr.),"45,00 TL",Kiloluk Ürünler (Pişirilmiş),6.0
+d522e22f-ce56-435d-83e4-4b7d0818c396,Tavuk Kanat (1 kg.),"40,00 TL",Kiloluk Ürünler (Pişirilmiş),8.0
+f0b35e42-4137-4935-aef6-191d9ba5d8ba,Tavuk Sarma (1 kg.),"40,00 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+f3c837fa-f1f5-4f53-9aa6-4306bf805892,Tavuk Pirzola (1 kg.),"40,00 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+f9fb1b38-f418-49a1-b352-a173961c61d0,Izgara Köfte (500 gr.),"45,00 TL",Kiloluk Ürünler (Pişirilmiş),10.0
+fbce3fd4-68af-435f-921a-afefdd7a2cb3,Tavuk Kanat (500 gr.),"22,00 TL",Kiloluk Ürünler (Pişirilmiş),8.0
+fbf35228-2492-49cf-8d54-0bc50de202d2,Çıtır Tavuk (1 kg.),"40,00 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+4d3d9d85-dd3e-45a5-ab16-87df4383b212,Kuzu Pirzola (500 gr.),"60,00 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+b58c81ca-0c4b-4a86-a5ae-4277288b6240,Kuzu Şiş (500 gr.),"60,00 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+e8cd4466-599f-4795-8336-af8592242f4e,Kuzu Pirzola (1 kg.),"130,00 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+dd37b98e-357b-4f03-842f-0cced728971c,Kuzu Şiş (1 kg.),"130,00 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+9dd884d0-bae2-4420-a744-0dba878b2b6f,Poşet,"0,25 TL",Poşet,5.0

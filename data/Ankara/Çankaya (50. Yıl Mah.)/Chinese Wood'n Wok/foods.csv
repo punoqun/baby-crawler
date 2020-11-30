@@ -1,0 +1,42 @@
+food_id,food_name,food_price,food_category,food_score
+fa189ae9-4b21-434b-9a16-6bb5dba90d3f,Acılı Ekşili Karidesli Çorba,"32,00 TL",Çorbalar,13.0
+bc7c8795-47c7-421f-a82e-6ac618fc3e09,Tavuklu Kuşkonmazlı Çorba,"25,00 TL",Çorbalar,5.0
+1cadf84b-e899-4042-bef0-b92e237c790a,Acılı Mantarlı Dana Eti,"54,00 TL",Kırmızı Etler,16.0
+5de0c232-b8dd-4b60-b065-ba3cd0a6af79,Karışık Sebzeli Dana Eti,"52,00 TL",Kırmızı Etler,6.0
+8192a127-47c1-4ab4-9b26-54b655dc925d,Kung Pao Dana Eti,"55,00 TL",Kırmızı Etler,8.0
+cdf4dde2-43f1-49b2-83e9-40923c95ef8c,Siyah Sarımsaklı Dana Eti,"58,00 TL",Kırmızı Etler,8.0
+68e5b564-fcc7-426e-aee8-e82b0ec145bd,Sarımsak Soslu Dana Eti,"54,00 TL",Kırmızı Etler,8.0
+9a7cb4c7-71f7-450d-b583-afe2b460e612,Mançuryan Tavuk,"44,00 TL",Beyaz Etler,5.0
+6ff29ec3-c951-420b-af2d-1ddc2808fee5,Karışık Sebzeli Tavuk,"40,00 TL",Beyaz Etler,3.0
+581d4b7f-85c6-48e5-95a6-f009b66625a7,Acılı Tavuk,"45,00 TL",Beyaz Etler,13.0
+15303c2f-434e-4444-83ff-95cbca72033a,Acılı Mantarlı Tavuk,"44,00 TL",Beyaz Etler,13.0
+491cc4f9-de2f-49fe-9fec-78ae33ac42c7,Wood'n Wok Special Tavuk,"48,00 TL",Beyaz Etler,7.0
+331a8b1c-d331-42cc-9b72-e2da9b835543,Çeyrek Ördek,"58,00 TL",Ördekler,5.0
+76d04d1f-7bfa-48a4-be0f-fc5b341d28da,Ördek Domburi,"54,00 TL",Ördekler,5.0
+69705ae7-c53f-4ec3-abb5-6ddd2f3cf938,Edemameli Asparagus,"40,00 TL",Sebze Yemekleri,5.0
+2af95729-f17a-4276-8167-87489628418e,Dana Etli Ramen,"48,00 TL",Ramens,8.0
+da061e06-3383-4de4-bb4f-5e3a7d26801f,Tavuk Etli Ramen,"45,00 TL",Ramens,5.0
+ba6ef265-c7e5-401c-94f2-1018e55ded05,Karidesli Ramen,"54,00 TL",Ramens,5.0
+fdfa4c0e-cdb0-4de2-9162-37aa5675620b,Sebzeli Noodle,"30,00 TL",Noodles,14.0
+2ebc7033-2fab-40ef-9376-29e933aafb0a,Tavuk Etli Noodle,"33,00 TL",Noodles,11.0
+fab2f989-cbb1-4be6-92c1-ca9f52bd3cc9,Singapur Noodle,"38,00 TL",Noodles,11.0
+ae4fd25d-3d17-497f-8f9d-705b7a78d34c,Sade Noodle,"28,00 TL",Noodles,11.0
+77277b0e-e37e-40ca-9546-e13b5367c323,Dana Etli Pilav,"38,00 TL",Pilavlar,8.0
+6e662d20-8f8f-41e4-aba1-00014976bbef,Tavuklu Pilav,"30,00 TL",Pilavlar,5.0
+5789bd21-b732-49c0-a700-e17379300736,Bademli Pilav,"33,00 TL",Pilavlar,5.0
+923b880d-22c7-44ab-8d63-9a70bc987eaf,Bangkok Pilav,"28,00 TL",Pilavlar,5.0
+5c3496cb-0160-4937-95fd-59309eebde9f,Yumurtalı Pilav,"26,00 TL",Pilavlar,5.0
+a3d1ebd9-01d9-427b-872c-10b24f140e9b,Sade Pilav,"20,00 TL",Pilavlar,5.0
+548de158-93ec-441d-b9d1-1f4013aac554,Baharatlı Crispy Kalamar,"40,00 TL",Aperitifler,5.0
+d45b9d3d-3b45-47a6-b146-06e378a5c017,Karides Topları,"40,00 TL",Aperitifler,5.0
+a316aaff-e625-403a-9ae1-6fe80283af62,Tavuk Topları,"25,00 TL",Aperitifler,5.0
+4141c98c-ea3d-446a-a191-8f8a867f8315,Midye Topları,"26,00 TL",Aperitifler,5.0
+ff6e02b7-030b-4c1b-9e62-ce4af8aee4de,Edemame,"26,00 TL",Aperitifler,5.0
+2D1BE528-0021-4F03-86A1-F2283DE52392,Sebzeli Çin Böreği,"23,00 TL",Aperitifler,3.0
+e68bc973-4846-436e-b100-74012169a2dc,Chinese Salata,"24,00 TL",Salatalar,5.0
+088B7B8C-8795-4E42-8D6C-CC97CF666322,Çikolatalı Kızarmış Dondurma,"25,00 TL",Tatlılar,5.0
+7EA88AA4-AB6D-4ABA-93B3-1C49F1A4BFAC,Taze Sıkma Portakal Suyu,"15,00 TL",İçecekler,5.0
+FDF51DE5-3410-446C-B88F-A0E652B7C19C,Taze Sıkma Greyfurt Suyu,"15,00 TL",İçecekler,5.0
+42701D15-C7D2-4264-AAC2-84C2569B6488,C+,"20,00 TL",İçecekler,5.0
+9ff5634c-e11c-4ce4-86f1-c45303c4177c,Limonata,"10,00 TL",İçecekler,5.0
+f149cc73-6891-4d7f-96be-967346026386,Poşet,"0,25 TL",Poşet,5.0

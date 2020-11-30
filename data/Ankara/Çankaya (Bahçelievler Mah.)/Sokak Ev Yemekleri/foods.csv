@@ -1,0 +1,38 @@
+food_id,food_name,food_price,food_category,food_score
+78029810-6C11-45D8-B204-2C507D7EC103,Tavuklu Pilav,"23,00 TL",Ana Yemekler,8.0
+5CC1258D-FEF7-409E-A14D-F2FCC57B91A4,Etsiz Kuru Fasulye,"19,00 TL",Ana Yemekler,6.0
+956E37F9-D1B9-4558-9BF2-2DD2F812264A,Nohutlu Pilav Üstü Tavuk,"25,00 TL",Ana Yemekler,5.0
+3768cf6f-c129-4d16-a09f-b8ce6b22c5eb,Sokak Çıtır Mantı,"32,00 TL",Ana Yemekler,34.0
+f486b9c0-d5b8-48e8-83a4-ba5f1e597843,Sokak Kasap Köfte,"30,00 TL",Ana Yemekler,17.0
+779e77ec-bfc1-49ca-ba55-e7d6018d9f7c,Sokak Mantı,"30,00 TL",Ana Yemekler,24.0
+1A2BC93D-6E9E-4AB5-942E-A30EE1AD357C,Sokak Tagliatelle,"40,00 TL",Ana Yemekler,9.0
+99215D15-F932-4B2E-8D66-51675673F5AC,Taze Fasulye,"19,00 TL",Ana Yemekler,7.0
+FAC53395-025C-4BC5-80F1-621C3837180F,Zeytinyağlı Yaprak Sarma,"29,00 TL",Ana Yemekler,7.0
+25EAFB02-1FAB-4D9B-8D82-DF3EDB651EC6,Sokak Şarküteri Sandviç,"39,00 TL",Sandviçler,9.0
+685011C8-F94C-4814-A4AA-22FF3B49EB6B,Sokak Frankfurter Sandviç,"39,00 TL",Sandviçler,10.0
+B872DE95-B9E7-4696-8D74-7D9B0EB3A2CC,Sokak Soğuk Sandviç,"32,00 TL",Sandviçler,9.0
+95BBC93B-349C-4FE7-9810-7FE516276767,Sokak Sucuk Ekmek,"35,00 TL",Sandviçler,9.0
+76187A52-9B1E-47F2-A1C3-1ECED868A4BA,Beyaz Etli Sandviç,"35,00 TL",Sandviçler,5.0
+1d038ac0-915f-440f-b8c5-df50597e724d,Balzamik Soslu Tavuk Salata,"30,00 TL",Salatalar,3.0
+D31CD6CD-2712-473D-A4D0-50FC10FC9B67,Sokak Kaşık Salata,"10,00 TL",Salatalar,12.0
+90F0C276-E738-4241-BBB5-188711CB19B0,Kereviz Saplı Tavuklu Beyaz Salata,"30,00 TL",Salatalar,6.0
+442DE99C-01B4-4745-82E5-36EC3C38CD99,Ton Balıklı Yeşil Salata,"35,00 TL",Salatalar,8.0
+F3544EB5-5FED-475A-AB8F-C41508C6A2A8,Sokak Ezme Salata,"15,00 TL",Salatalar,12.0
+F12044F2-F469-46A7-9CC6-A40EF9DE16C8,Karides Kraker Cipsi,"22,00 TL",Yan Ürünler,5.0
+12493D05-B81F-4ACC-BA8A-73B5BA687188,Karışık Turşu,"5,00 TL",Yan Ürünler,5.0
+E30BBDE4-823D-49F4-B90E-18C44B20B509,Yoğurt,"8,00 TL",Yan Ürünler,7.0
+f17b41f1-50c6-475a-8aee-da401443bbb5,Pirinç Pilavı,"10,00 TL",Yan Ürünler,6.0
+B30EFE05-B923-4B90-96DA-186F58B56F7F,Kuru Cacık,"12,00 TL",Yan Ürünler,7.0
+de310445-0a4b-4289-956d-e5565ba5a48c,Sokak Kısır,"15,00 TL",Yan Ürünler,15.0
+4db6fb25-4765-4ff5-86b4-20467e9b539e,Sokak Kat Kat Börek,"24,00 TL",Yan Ürünler,12.0
+1AEE5597-9FD5-4F22-8078-85203FFCAE79,Sokak Kaymaklı Baklava,"25,00 TL",Tatlılar,9.0
+C9A5F470-107A-4FA2-A3B9-325C672F294D,Acqua Panna Cam Şişe Su (25 cl.),"8,00 TL",İçecekler,5.0
+2A539E01-9E8A-4067-B17B-8DC1646CFE5A,Perrier (25 cl.),"8,00 TL",İçecekler,5.0
+54CE0E9C-3524-4609-B724-E2B928886AD5,A.O.Ç Meyve Suyu (25 cl.),"6,00 TL",İçecekler,5.0
+37563C66-03CD-4ADE-B6C2-FED7E3B2E109,Uludağ Gazoz (25 cl.),"6,00 TL",İçecekler,5.0
+813f42c0-70c8-44d5-8c3b-5ac5c2eafdf3,San Pellegrino (25 cl.),"8,00 TL",İçecekler,5.0
+10ce97f3-2746-45ce-b25c-3c2fe9fdaaf5,San Pellegrino (75 cl.),"18,00 TL",İçecekler,5.0
+6b25df3b-3702-4221-81d5-6e1b58ac9d02,Pınar Su (33 cl.),"5,00 TL",İçecekler,5.0
+60E382DC-8BFA-4B39-AA9A-3AF98B0E02E1,Taze Sıkma Portakal Suyu,"16,00 TL",İçecekler,7.0
+B1A5C201-EE4A-45D8-A163-B53C52B67DB8,Taze Sıkma Nar Suyu,"18,00 TL",İçecekler,7.0
+ebbad0a0-177d-4fd7-9c91-888ea08bbde7,Poşet,"0,25 TL",Poşet,5.0

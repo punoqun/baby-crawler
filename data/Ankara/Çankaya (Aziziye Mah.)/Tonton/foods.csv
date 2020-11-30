@@ -1,0 +1,62 @@
+food_id,food_name,food_price,food_category,food_score
+69f6b216-0fa6-4f20-a404-8a5e47325df4,5'li Çiğ Köfte Dürüm Menü,"45,00 TL",Çiğ Köfte Menüleri,11.0
+d46d5835-c6d6-48c7-b777-fab2ce85107a,10'lu Çiğ Köfte Dürüm Menü,"70,00 TL",Çiğ Köfte Menüleri,11.0
+aede8622-3585-4c38-9f68-001ff270d2a7,2'li Çiğ Köfte Dürüm Menü,"20,00 TL",Çiğ Köfte Menüleri,11.0
+8592e9a0-cacf-4014-9d50-f59d1f0d38d4,Menü 1,"25,00 TL",Ekonomik Menüler,10.0
+ea430157-c2d4-4cfa-b8ef-c2368224344c,Menü 2,"32,00 TL",Ekonomik Menüler,8.0
+5c802742-d13c-4d1d-9815-317608df8a16,Menü 3,"33,00 TL",Ekonomik Menüler,3.0
+bf28fc7f-d8b7-4587-acc6-f50ca9e2db63,Menü 5,"29,00 TL",Ekonomik Menüler,4.0
+67e2de0b-646e-4e9c-839b-011b818ebfbe,Menü 6,"30,00 TL",Ekonomik Menüler,5.0
+f050b8f5-3efa-4e07-a8bc-f2bc9dec3f1b,Menü 7,"65,00 TL",Ekonomik Menüler,8.0
+6f0368fd-549e-4b3a-a38e-f5532af68ec6,Menü 8,"33,00 TL",Ekonomik Menüler,7.0
+4858da5a-7d7c-4021-8d9e-f4866c0049ab,Menü 9,"35,00 TL",Ekonomik Menüler,9.0
+031e9d6b-0d68-4ba5-8794-20b0b964deb0,Menü 11,"29,00 TL",Ekonomik Menüler,9.0
+9fae3983-008a-4b55-8b67-bbac77f817e9,Menü 12,"28,00 TL",Ekonomik Menüler,7.0
+fd21cc22-ac54-4946-813e-22e205d3cf1d,Ayvalık Tostu,"20,00 TL",Tostlar & Sandwichler,5.0
+2FEB570E-DFBB-416A-9376-B8BFA0B16A3A,Tavuk Döner Sandviç,"16,00 TL",Tostlar & Sandwichler,17.0
+113D51D5-E9B2-45BD-B359-5C363EC37FB4,Et Döner Sandviç,"19,00 TL",Tostlar & Sandwichler,6.0
+F862339A-3845-4E23-805D-56A2E5560B35,Ton Balıklı Sandviç,"24,00 TL",Tostlar & Sandwichler,8.0
+dd4f6bb0-ebd2-4b54-ab17-0f69ca261e75,Karışık Tost,"14,00 TL",Tostlar & Sandwichler,5.0
+79003ae5-8f6e-402a-94a0-dff217390fa8,Kavurmalı Kaşarlı Tost,"24,00 TL",Tostlar & Sandwichler,1.0
+39ea7ce9-6e09-41a3-a4de-c3467762c658,Kaşarlı Tost,"11,00 TL",Tostlar & Sandwichler,2.0
+65b47317-1a9a-45a2-aeb2-63a5b2efc829,Salamlı Tost,"12,00 TL",Tostlar & Sandwichler,5.0
+2f057d57-3eb7-4054-b698-659b01ad45ea,Sucuklu Tost,"12,00 TL",Tostlar & Sandwichler,5.0
+8865ab3c-35f8-431c-b9d8-49dd9a35b706,Tavuklu Kaşarlı Tost,"15,00 TL",Tostlar & Sandwichler,15.0
+f9efe620-8220-4bb2-996a-f2486c43b093,Arnavut Ciğeri,"25,00 TL",Arnavut Ciğerleri,5.0
+6a9f7226-6723-4a4a-877f-0fe31467929c,Arnavut Ciğeri Sandviç,"20,00 TL",Arnavut Ciğerleri,5.0
+5bd5a98c-5ed1-4801-891e-14dc8337e2ac,Nohutlu Arnavut Ciğerli Pilav,"22,00 TL",Pilavlar,21.0
+71adaf98-ee44-42e8-a1ee-ff569388fe0c,Pirinç Pilavı,"12,00 TL",Pilavlar,6.0
+e7684fe5-19f0-45aa-aa43-4cfd6800691e,Kavurmalı Nohutlu Pilav,"27,50 TL",Pilavlar,19.0
+57c85243-4cd5-443b-b71c-aae18148739e,"Nohutlu Arnavut Ciğerli Pilav (1,5 Porsiyon)","30,00 TL",Pilavlar,21.0
+6527b82b-de86-4771-b04a-e49d8f6942d3,Pilav Üstü Et Döner,"24,00 TL",Pilavlar,19.0
+1109d3b0-9093-4435-a7f1-8c1058bf91cb,Pilav Üstü Tavuk Döner,"20,00 TL",Pilavlar,30.0
+67586c8b-a59a-48f8-a857-a7235e1a03a2,Nohutlu Tavuklu Pilav,"16,00 TL",Pilavlar,39.0
+a340905f-cb46-48fc-ac4c-d6270426251a,Nohutlu Pilav,"14,00 TL",Pilavlar,20.0
+98e7ea02-15a2-45f0-b00a-cdf650027286,"Nohutlu Tavuklu Pilav (1,5 Porsiyon)","21,00 TL",Pilavlar,34.0
+827129b2-5182-4a51-b7a1-1fc1751077c7,Ton Balıklı Pilav,"24,00 TL",Pilavlar,21.0
+0e81ef89-0536-4785-aba8-ffd149817059,Ton Balıklı Nohutlu Pilav,"25,00 TL",Pilavlar,23.0
+9659d309-af16-4e81-b814-f3959e831594,Etli Yaprak Sarma (10 Adet) (Küçük),"18,00 TL",Sokak Lezzetleri,6.0
+59702fff-96ec-4f57-8f48-90db328bb914,Midye Dolma (50 Adet),"60,00 TL",Sokak Lezzetleri,12.0
+192fcf83-c62a-477d-934f-a66cb5c8d002,Midye Dolma (20 Adet),"25,00 TL",Sokak Lezzetleri,14.0
+00076d35-991d-4271-a1e6-082cc745ce99,Midye Dolma (Adet),"1,50 TL",Sokak Lezzetleri,17.0
+8e8508cd-9e4f-4d04-b436-7f7ad382e673,Kızartma İçli Köfte (Adet),"6,00 TL",İçli Köfteler,4.0
+b621dc29-729d-4b50-b0c4-9a7fad32e57a,Kızartma İçli Köfte (5 Adet),"27,50 TL",İçli Köfteler,4.0
+e156d04a-6d6b-48c2-a155-e3fe2ff7146e,Çiğ Köfte Dürüm,"7,00 TL",Çiğ Köfteler,9.0
+a42001a7-e277-4466-a8a8-3ed9c3631960,Duble Çiğ Köfte Dürüm,"10,00 TL",Çiğ Köfteler,9.0
+4b0e40f0-6d54-4192-bc68-a0835342fce2,Çiğ Köfte (250 gr.),"18,00 TL",Çiğ Köfteler,9.0
+ba9fa401-463d-40fd-ba64-ec133388588b,Çiğ Köfte (500 gr.),"28,00 TL",Çiğ Köfteler,9.0
+d840ab00-b82d-4c88-adf7-0df771de3a08,Çiğ Köfte (1 kg.),"50,00 TL",Çiğ Köfteler,9.0
+e681eee1-e449-43c3-a53d-80d51910a9a8,Atom,"10,00 TL",Mezeler,5.0
+decbf423-c38a-4526-b4f0-0df3d2d031d9,Köpoğlu,"10,00 TL",Mezeler,5.0
+deaeaa58-ed13-4c33-ad66-4a9915d723a2,Ciğer,"10,00 TL",Mezeler,3.0
+514fb8a7-c5cc-41fd-be64-ef66118c3709,Lavaş (Adet),"0,75 TL",Yan Ürünler,5.0
+d9fef46f-e3a7-40ab-a0e7-5409a9496353,Iceberg Marul (Yarım),"5,00 TL",Yan Ürünler,5.0
+88f81b5c-cb2c-4371-84e0-2ac34e80060e,Limon (Adet),"2,50 TL",Yan Ürünler,5.0
+e53f2137-31bd-44fa-8c95-a41f31987a06,Eker Yoğurt (150 gr.),"5,00 TL",Yan Ürünler,5.0
+68c8d27e-2115-4306-b4b6-d7f022177d59,Eker Profiterol,"6,00 TL",Tatlılar,5.0
+dbe4e17c-459a-4d7c-b5e7-d05b4914c716,Eker Kazandibi,"6,00 TL",Tatlılar,5.0
+5198302f-82ca-4cf7-9332-cee53f53bfab,Niğde Gazozu (33 cl.),"5,00 TL",İçecekler,5.0
+e6bbec45-a242-4367-9de4-017c282fda31,"Su (1,5 L.)","5,00 TL",İçecekler,5.0
+85df9a37-499a-41e8-8cb4-6f331a7509f7,Taze Sıkma Greyfurt Suyu (30 cl.),"15,00 TL",Vitamin Bar,5.0
+68f2ebf1-88f2-4996-8826-c1ff17d460ac,Taze Sıkma Karışık Meyve Suyu (30 cl.),"18,00 TL",Vitamin Bar,5.0
+68c0dffd-9324-4e59-9064-d1b9b7bc96c5,Poşet,"0,25 TL",Poşet,5.0

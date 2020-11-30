@@ -1,0 +1,39 @@
+food_id,food_name,food_price,food_category,food_score
+4f85775c-56ae-44f9-a842-4ccb1e747794,Kebap Köfte,"39,00 TL",Köfteler,6.0
+66894dd9-f40f-40e5-bb77-a10eb543d977,Merkezefendi Köfte,"35,00 TL",Köfteler,17.0
+778aad42-d9dc-4e18-a537-05621195e33f,Ekmek Arası Izgara Köfte,"27,00 TL",Köfteler,16.0
+87de9cde-f8bf-4a05-a1fe-382b44ec11ff,Kaşarlı Köfte,"39,00 TL",Köfteler,8.0
+1913efc6-7d7d-4993-afbb-72d0a37ed023,Dana Antrikot,"46,00 TL",Izgaralar,7.0
+1a237ffd-b164-4712-9e3b-7ea1f776e4d5,Dana Lokum,"48,00 TL",Izgaralar,11.0
+4eac358c-f6f7-44a3-a33a-bfe9de03eaf6,Izgara Et,"45,00 TL",Izgaralar,6.0
+37b888b6-a450-4ef0-b37f-8b558a52e037,Izgara Tavuk,"35,00 TL",Izgaralar,5.0
+919a5ff0-f56a-42d3-a887-37fbf99b6b55,Karışık Kebap,"72,00 TL",Izgaralar,5.0
+3ef6b16a-4c40-4c2c-9123-208e20ed9b22,Kasap Sucuk,"33,00 TL",Izgaralar,4.0
+4e18c23c-e452-406b-a736-6b486bdf1896,Kuzu Pirzola,"65,00 TL",Izgaralar,5.0
+2dc1a010-d786-451b-9560-a144d610d3f9,Tavuk Külbastı,"29,00 TL",Izgaralar,5.0
+C8F011FE-BE5A-483E-A5AE-56AF940191F3,Merkezefendi Hamburger,"37,00 TL",Burgerler,28.0
+9f8be084-63c0-418b-a501-0f249dca0e66,Merkezefendi Cheeseburger,"39,00 TL",Burgerler,28.0
+203758AB-A0AA-457E-B6E6-19C31F923A34,Merkezefendi Çocuk Cheeseburger,"33,00 TL",Burgerler,23.0
+90DBC933-B3CE-4AD6-88E7-6F565DAE4937,Merkezefendi Çocuk Hamburger,"29,00 TL",Burgerler,28.0
+EA35B0F7-4B3C-4198-9E84-0499E9302680,Ekmek Arası Et Döner (100 gr.),"33,00 TL",Et Dönerler,24.0
+D642AE70-B43B-4C66-9ED9-6E84BEC20A18,Et Döner (120 gr.),"39,00 TL",Et Dönerler,19.0
+3D162F51-7F4F-4078-B650-0FB06EE0FA3E,Et Döner (180 gr.),"58,00 TL",Et Dönerler,19.0
+84A3784B-6944-40F2-9124-5BB790079976,Pilav Üstü Et Döner (120 gr.),"42,00 TL",Et Dönerler,18.0
+8241475A-EF82-41C5-9D3D-9FD5767F8FC9,Pilav Üstü Et Döner (180 gr.),"62,00 TL",Et Dönerler,18.0
+39A5FAC2-A9BA-4251-9574-DC8016E2A7F6,Et Döner Dürüm (100 gr.),"33,00 TL",Et Dönerler,20.0
+1946AD18-9FAA-4012-891D-870DB276DA3C,Et Döner Dürüm (150 gr.),"47,00 TL",Et Dönerler,20.0
+269e5a0d-3c66-4cef-9d3a-3e5736a5f64c,Ekmek Arası Izgara Sucuk,"25,00 TL",Ekmek Arası Ürünler,9.0
+d25f224a-4812-48a2-b4ca-dae375d109a2,Ekmek Arası Izgara Tavuk,"22,00 TL",Ekmek Arası Ürünler,10.0
+f9bebe97-18a8-4166-9bb7-c4b9602f1a3e,Ekmek Arası Izgara Lokum,"35,00 TL",Ekmek Arası Ürünler,14.0
+2d6885d8-3606-487d-a706-dafe5cfd4312,Patates Kızartması,"15,00 TL",Yan Ürünler,5.0
+39fa7462-07c8-4b5a-b110-718cff7414b5,Piyaz,"17,00 TL",Yan Ürünler,6.0
+78527ffc-5abd-4ad4-a0bf-45d993d8cb04,Salata,"15,00 TL",Yan Ürünler,5.0
+5283735c-404b-4b0a-b546-8359bfab0ffa,Biber Turşusu,"10,00 TL",Yan Ürünler,5.0
+FB90160D-E9B9-4771-9DAC-D164C55AF0CE,Tandır Lavaşı (Adet),"3,00 TL",Yan Ürünler,5.0
+07411405-8c2c-4788-93c7-4f5a9a857135,Kemalpaşa Tatlısı,"12,00 TL",Tatlılar,3.0
+125bbac6-97c5-4eb0-bd96-077bf466a3c1,Süt Helvası,"25,00 TL",Tatlılar,3.0
+D242C9F9-1C67-43E8-BFBB-F3C2D28DD47C,Sütlaç,"20,00 TL",Tatlılar,5.0
+16F07451-774E-47D5-AD37-5EC385993140,Sütlü Kemalpaşa Tatlısı,"15,00 TL",Tatlılar,3.0
+F92BC323-1BBD-4302-928A-DC47AA1F4F44,Et Döner (500 gr.) (Pişirilmiş),"140,00 TL",Kiloluk Et Dönerler (Pişirilmiş),19.0
+097AB2F7-4337-4D81-B6BC-3FFFDFBCC679,Et Döner (1 kg.) (Pişirilmiş),"280,00 TL",Kiloluk Et Dönerler (Pişirilmiş),19.0
+fd73b799-0092-4cc8-81e1-2a02b65caee7,Poşet,"0,25 TL",Poşet,5.0

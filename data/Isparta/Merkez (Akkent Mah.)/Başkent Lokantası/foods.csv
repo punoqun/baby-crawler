@@ -1,0 +1,42 @@
+food_id,food_name,food_price,food_category,food_score
+b8cb853a-52a0-4685-a1ce-4ee3c133decd,Menemen,"14,00 TL",Kahvaltılıklar,5.0
+14b77d2b-e752-490c-9889-3c8b1be3e875,Kaşarlı Menemen,"18,00 TL",Kahvaltılıklar,5.0
+c8e0fa10-19e8-4d99-9098-84ddc1091c05,Sucuklu Menemen,"20,00 TL",Kahvaltılıklar,5.0
+1bd6e006-f2de-4172-bffa-95aa07fc313e,Kaşarlı Sucuklu Menemen,"24,00 TL",Kahvaltılıklar,5.0
+57de4bb2-0302-4dff-9b55-6c12fe5de5f0,Sucuklu Yumurta,"18,00 TL",Kahvaltılıklar,5.0
+78ede9fd-8759-41e4-b183-b04e77678a1f,Kaşarlı Sucuklu Yumurta,"22,00 TL",Kahvaltılıklar,5.0
+0ef1adec-5124-4480-99a7-5364dd8b27b5,Isparta Şiş Köfte,"23,00 TL",Kebap & Izgaralar,3.0
+a1507e07-6b19-49c6-a76e-039e59419cf5,Adana Kebap,"28,00 TL",Kebap & Izgaralar,4.0
+e5111219-13b7-4bc0-9a7a-3777d2cbaac3,Kasap Köfte,"23,00 TL",Kebap & Izgaralar,2.0
+36a432ba-2d77-4fbe-bb2d-9b0115c94546,Izgara Antrikot,"28,00 TL",Kebap & Izgaralar,5.0
+7fa2df0e-ef71-456e-9c19-015c84e3618a,Izgara Tavuk,"23,00 TL",Kebap & Izgaralar,0.0
+e781d34e-7ce9-4b6b-a093-250c09bd8fd1,Izgara Sucuk,"23,00 TL",Kebap & Izgaralar,5.0
+45cb947a-bee8-4689-9dc8-4e27d596f138,Karışık Izgara,"50,00 TL",Kebap & Izgaralar,5.0
+e4f4514c-715a-49d3-86ca-847ac012b5fd,Başkent Karışık Izgara (4 Kişilik),"180,00 TL",Kebap & Izgaralar,5.0
+bf2a65b3-9b3e-4ded-ab86-30db4b231e8b,Fırında Tavuk (Yarım Piliç),"18,00 TL",Ana Yemekler,0.0
+2794c8e6-f4e6-4bc7-90a2-63e0a5b32c6a,Yarım Ekmek Arası Adana Kebap,"15,00 TL",Ekmek Arası Ürünler,4.0
+92bcc0af-171f-4abd-ab56-2b5262ce77c7,Yarım Ekmek Arası Izgara Sucuk,"13,00 TL",Ekmek Arası Ürünler,5.0
+f5547110-7805-4b15-95df-57d310a41c60,Yarım Ekmek Arası Izgara Köfte,"13,00 TL",Ekmek Arası Ürünler,2.0
+d9bff1c0-ed14-4d00-a7b1-b70f94a3c9fe,Yarım Ekmek Arası Şiş Köfte,"13,00 TL",Ekmek Arası Ürünler,1.0
+6f5c14c9-45c2-4778-88c2-9940af001266,Yarım Ekmek Arası Tavuk,"10,50 TL",Ekmek Arası Ürünler,0.0
+39c87494-be7a-4bbc-8802-3496b7c7613e,Izgara Köfte Dürüm,"13,00 TL",Dürümler,2.0
+70221831-1e59-4979-81c3-e7787f3423c7,Tavuk Dürüm,"10,50 TL",Dürümler,0.0
+2a6f158b-109f-4d35-9e73-d1704f6d53f3,Pilav,"6,00 TL",Yardımcı Yemekler,4.0
+197a0e0c-0473-4be5-ad80-a393b38c7f58,Pilav (Yarım),"4,00 TL",Yardımcı Yemekler,4.0
+a878ed46-26ba-4d50-a3ae-a8b7d6aa092e,Cacık,"6,00 TL",Yan Ürünler,5.0
+8e84e1b4-5a07-48d4-93af-037f4c6758dd,Yoğurt,"6,00 TL",Yan Ürünler,5.0
+3adfac79-f60b-4155-80d3-cdd41025e738,Soğan Söğüş,"3,00 TL",Yan Ürünler,5.0
+bbc42f3c-f6cd-4492-ba8a-ab6f4e6cbaeb,Ketçap (10 gr.),"1,00 TL",Yan Ürünler,5.0
+882999b7-f391-401a-997e-f618c4774f11,Domates Söğüş,"3,00 TL",Yan Ürünler,5.0
+0e1b2d72-714b-407c-a9b5-68ae10d0138e,Limon (3 Dilim),"1,50 TL",Yan Ürünler,5.0
+9cf18db1-e3e4-4849-b09e-60972229b798,Marul,"3,00 TL",Yan Ürünler,5.0
+6de470e8-7bcb-4b73-a950-b7b9bf9a968c,Jalapeno Biberi,"3,00 TL",Yan Ürünler,5.0
+0a64f5d8-9dd9-4abd-ae57-bc063859d091,Çoban Salata,"6,00 TL",Salatalar,4.0
+7534e1f9-e7e5-412a-8e9c-22a3dc061352,Antep Fıstıklı Kadayıf,"12,00 TL",Tatlılar,5.0
+2ad046ae-2b6c-4fc8-a647-2d67adae0d4e,Antep Fıstıklı Kaymaklı Kadayıf,"16,00 TL",Tatlılar,5.0
+ba770efc-0f85-4cde-9b28-ba7fa0652049,Cevizli Kadayıf,"10,00 TL",Tatlılar,5.0
+1f933bc9-5b21-413a-aea8-45dd74789ae9,Cevizli Kaymaklı Kadayıf,"14,00 TL",Tatlılar,5.0
+35311f94-966c-4bb1-b5af-46287702c5a3,Fırın Sütlaç,"10,00 TL",Tatlılar,5.0
+735A3DC9-6EE4-4075-91E4-3564ED7BF43C,Benda Gazoz (25 cl.),"4,50 TL",İçecekler,5.0
+761a8c2c-627d-4f05-96d0-1430f79f985e,Su,"1,00 TL",İçecekler,5.0
+b18fee5a-91b9-4df8-b17a-25ee8fd5c936,Poşet,"0,25 TL",Poşet,5.0

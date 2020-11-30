@@ -1,0 +1,66 @@
+food_id,food_name,food_price,food_category,food_score
+b43fc528-6620-480c-9bdc-7655b24ab25b,Menü 1,"30,00 TL",Menüler,9.0
+9007528c-248e-4217-8255-aaf30f708eb3,Menü 2,"30,00 TL",Menüler,5.0
+c0acef3e-d875-4f0f-abef-102abd658f76,Menü 3,"28,00 TL",Menüler,5.0
+2186b774-eacc-4d9e-9abf-efcc90b33c7a,Menü 4,"30,00 TL",Menüler,5.0
+ebf75660-9128-4741-9ee7-f43ec30b4566,Menü 5,"28,00 TL",Menüler,5.0
+f96f7a0f-e322-4f01-b601-e187a0d0bf45,Menü 6,"30,00 TL",Menüler,5.0
+99dc89fb-5243-4fa2-84b5-148d34a9aff8,Menü 7,"30,00 TL",Menüler,5.0
+0cc7110a-5f7a-4e9c-9625-67c1e6dd9219,Menü 8,"28,00 TL",Menüler,5.0
+179b80ea-2275-4117-b303-2b45e4dac417,Menü 9,"32,00 TL",Menüler,5.0
+e697977e-e936-4599-87e9-62af07da1e71,Menü 10,"30,00 TL",Menüler,9.0
+fac6b3d3-ca01-46dc-939b-046694854f15,Menü 12,"30,00 TL",Menüler,5.0
+fe2d3e69-e60f-4455-85ce-3f0b0cce197f,Menü 13,"25,00 TL",Menüler,5.0
+95afe5bb-189b-4058-af95-b433355b75d6,Menü 14,"30,00 TL",Menüler,5.0
+31fdb242-c3ff-4a19-bcd9-5f8dd46e3eb5,Menü 15,"30,00 TL",Menüler,5.0
+7a4b98da-112e-4c25-9a16-6488e4ce8e65,Menü 16,"25,00 TL",Menüler,5.0
+8B426359-B826-40CC-A0B9-B87CA3A4F184,Muzlu Mag,"18,50 TL",Tatlılar,7.0
+4069ba5e-8bac-4496-b5f5-026fa7427a0a,Çilekli Mag,"18,50 TL",Tatlılar,7.0
+439ab162-55b9-4a5a-8e7a-66c16e768662,Oreolu Mag,"18,50 TL",Tatlılar,12.0
+3f6ce84d-9e05-4ff6-bcbd-18412f324cc1,Limonlu Cheesecake,"18,50 TL",Cheesecakes,3.0
+50078133-fdea-4452-9411-b64e7ed9bd95,Frambuazlı Cheesecake,"18,50 TL",Cheesecakes,3.0
+b5155761-636c-4817-8580-0b63dc83504f,Limonata,"15,00 TL",İçecekler,5.0
+2ac20c01-006f-42c5-b6b8-f1f23739155e,Americano,"15,25 TL",Sıcak Kahveler,10.0
+cc27a2c9-fc2f-4dc2-8d32-b9ee81223bb1,Café Latte,"17,50 TL",Sıcak Kahveler,5.0
+fb5dfc98-49d9-46e5-b379-cbd34bd4fbcf,Caramel Macchiato,"19,75 TL",Sıcak Kahveler,5.0
+ce491f09-6fbf-45d7-ab89-3da39be7ed09,Filtre Kahve,"14,25 TL",Sıcak Kahveler,12.0
+4c49678c-29b7-4adc-9e7c-ded3e3878f71,Mocha,"19,75 TL",Sıcak Kahveler,5.0
+2a97fabe-d0a6-4788-9ae0-c99e8353079d,White Chocolate Mocha,"19,75 TL",Sıcak Kahveler,5.0
+a693eef6-f12a-448e-a44f-c7029bba1603,Cold Brew,"17,75 TL",Soğuk Kahveler,5.0
+2932da89-b90a-4c65-9cff-8d7f4df671f0,Cold Brew Glass,"19,75 TL",Soğuk Kahveler,5.0
+5aaaea48-590e-438b-b105-e9728e56cede,Iced Americano,"16,75 TL",Soğuk Kahveler,5.0
+0979ffda-7310-46d4-a356-8b84736fbcce,Iced Filtre Kahve,"15,75 TL",Soğuk Kahveler,7.0
+9c27f913-b747-4fd1-8c38-89a53ab3d031,Iced Frappe,"19,75 TL",Soğuk Kahveler,5.0
+691d0f90-f112-4afb-9e65-e9927bd7749c,Iced Karamel Mocha,"19,00 TL",Soğuk Kahveler,5.0
+7e731fce-5ace-4a8d-a514-c8620946bda1,Iced Latte,"18,00 TL",Soğuk Kahveler,5.0
+a047b50a-8efa-4d5e-91e8-2b0a151581c7,Iced Mocha,"19,00 TL",Soğuk Kahveler,5.0
+2dd58b99-3960-4019-8f81-fa7bc7b0ee07,Iced White Mocha,"19,50 TL",Soğuk Kahveler,5.0
+579dfec5-b556-4c14-8ad9-583961db209a,Chai Tea Latte,"19,00 TL",Sıcak İçecekler,5.0
+A3AAE331-1DD2-4073-B21A-DEDBF99DF6C9,Kış Çayı,"15,50 TL",Sıcak İçecekler,5.0
+E5B2E56A-CD97-40E0-8896-5D2D6AE0E8E8,Yeşil Çay,"15,50 TL",Sıcak İçecekler,5.0
+3998B0C9-FC87-4FE1-9C93-7FE982C70D8B,Papatya Çayı,"15,50 TL",Sıcak İçecekler,5.0
+8C31F36D-89D0-4101-8F17-F0D8B855CA8B,Nane Limon Çayı,"15,50 TL",Sıcak İçecekler,5.0
+E057CF8A-EC88-4D90-B21E-EE4E3DF4A358,Ihlamur Çayı,"16,50 TL",Sıcak İçecekler,5.0
+662DA0AF-DD38-493B-AB74-66BA7B16E5EF,Ada Çayı,"15,50 TL",Sıcak İçecekler,5.0
+D3C7788C-295F-4AAA-BE8A-9C3EFA291BEC,Sıcak Çikolata,"16,50 TL",Sıcak İçecekler,5.0
+9E4AB1F5-80C1-4496-9D96-5CB7D79CE8BF,Beyaz Sıcak Çikolata,"16,50 TL",Sıcak İçecekler,5.0
+cd9bbfef-3747-4770-aed8-6b73ea3405c4,Iced Chai Tea Latte,"19,00 TL",Soğuk İçecekler,5.0
+a6030e30-b472-4663-bd9a-649c4e7f5009,Ananas & Böğürtlen Frozen,"19,25 TL",Frozens,5.0
+58855574-20C5-4117-9AC4-10785CD1C51C,Kavunlu Frozen,"19,25 TL",Frozens,5.0
+e909239f-0736-4c9e-b62d-8acc0f3694e0,Karpuz & Çilek Frozen,"19,25 TL",Frozens,5.0
+ab5faf22-a0c9-4fd8-94c2-9459d941f4e4,Limonlu Frozen,"19,25 TL",Frozens,5.0
+f6d4d00e-54df-4dec-8736-995dd037f367,Mangolu Frozen,"19,25 TL",Frozens,5.0
+76c8e9fa-bd87-4851-a7cd-b485aca5aac6,Orman Meyveli Frozen,"19,25 TL",Frozens,5.0
+f2141d71-5137-45d5-bf67-756adfc31893,Çikolatalı Milkshake,"19,50 TL",Milkshakes,5.0
+5C6829D7-B0EA-4BCD-8A82-1C5406C42D76,Karamelli Milkshake,"19,50 TL",Milkshakes,5.0
+fa6a0b06-d17c-440e-8c96-5a978aa7d599,Çilekli Milkshake,"19,50 TL",Milkshakes,5.0
+21f8129e-f9a8-42c2-973f-419d85ac3dfb,Muzlu Milkshake,"19,50 TL",Milkshakes,5.0
+2046ac68-f28f-446b-90dd-c0ca3494883c,Orman Meyveli Milkshake,"19,50 TL",Milkshakes,5.0
+bb5ba8eb-b2b0-47f8-8f5f-e085e22d6baf,Vanilyalı Milkshake,"19,50 TL",Milkshakes,5.0
+d773d78d-0f3b-4508-ac94-3a73e7722d30,Ananas & Böğürtlen Smoothies,"19,50 TL",Smoothies,5.0
+68C16458-7A4B-41E8-A40D-328229EB0118,Kavunlu Smoothie,"19,50 TL",Smoothies,5.0
+44369802-4b26-4637-8c9b-cf0bc955577b,Karpuz & Çilek Smoothies,"19,50 TL",Smoothies,5.0
+9c82e632-7667-4288-bf4c-f999bc344003,Limonlu Smoothies,"19,50 TL",Smoothies,5.0
+f7af6c28-0141-4512-9a56-35c45b62402e,Mangolu Smoothies,"19,50 TL",Smoothies,5.0
+76a06825-d8a6-49ca-b7fb-74f401153da3,Orman Meyveli Smoothies,"19,50 TL",Smoothies,5.0
+636cf258-56ba-4820-a0b9-5a4252518be6,Poşet,"0,25 TL",Poşet,5.0

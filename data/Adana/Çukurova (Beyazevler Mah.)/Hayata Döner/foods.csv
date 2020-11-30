@@ -1,0 +1,35 @@
+food_id,food_name,food_price,food_category,food_score
+31f6d471-0d7d-4057-9ba6-d29f0185fc67,Et Döner Dürüm Menü,"24,00 TL",Menüler,5.0
+ce4e24a2-ebbd-4ac3-8739-475fddc37ab5,Tavuk Döner Dürüm Menü,"18,00 TL",Menüler,17.0
+9f2abbd9-ce3e-49fa-ac33-54b8c874e2a3,Hayat Dolu Menü 1,"48,00 TL",Menüler,54.0
+cca2bb39-f2f0-4630-9e9c-e5fd07de4313,Hayat Dolu Menü 2,"36,00 TL",Menüler,11.0
+7507f3b7-3ab3-486f-ad39-7b9215b478fd,İskender (Et Dönerden),"24,00 TL",Et Dönerler,7.0
+36aada8f-f619-4361-a27a-d00693a77f88,Pilav Üstü Et Döner,"24,00 TL",Et Dönerler,1.0
+3410ccf9-c085-4e0e-a293-8eda02b64bc6,Et Döner,"23,00 TL",Et Dönerler,3.0
+bff4c7ec-a82a-4285-8bab-1d6b2852e908,Et Döner Dürüm,"16,00 TL",Et Dönerler,4.0
+9c9c8eb2-8f7e-4f0c-b207-5c6b44a67bda,İskender (Tavuk Dönerden),"18,00 TL",Tavuk Dönerler,7.0
+82917f05-ba5a-43d3-b052-301f15f25a8e,Pilav Üstü Tavuk Döner,"18,00 TL",Tavuk Dönerler,8.0
+9799a067-7fe3-47e6-847d-5e406b7cb526,Tavuk Döner,"17,00 TL",Tavuk Dönerler,10.0
+b818a2a3-333b-449e-bed3-d7536e6585e6,Tavuk Döner Dürüm,"10,00 TL",Tavuk Dönerler,16.0
+e1f9785b-95c3-4e10-9e9c-7fa7bd799d1e,Tavuk Köri,"22,00 TL",Ana Yemekler,7.0
+a016037d-29d2-427e-8653-b797dd16f9c3,Tavuk Meksika Köfte,"22,00 TL",Ana Yemekler,5.0
+5874745f-f63e-41e4-a648-2045815ad70a,Spesiyal Tavuk,"22,00 TL",Ana Yemekler,5.0
+54810ec8-2a9c-49fc-a12f-84494cada5a0,Tavuk Izgara,"22,00 TL",Ana Yemekler,5.0
+06cdfc3a-2eb8-480a-9805-0e1ab4b4c5cb,Tavuk Kavurma,"22,00 TL",Ana Yemekler,5.0
+665408a5-b4a3-4349-9701-0636d7d8adbe,Tavuk Sorrento,"22,00 TL",Ana Yemekler,5.0
+20f83097-7a84-4a09-8f54-5b7e89a8be8b,Et Sac Kavurma,"32,00 TL",Ana Yemekler,-2.0
+6c869889-e378-4d86-9bc1-d1acf47e492a,Et Sote,"32,00 TL",Ana Yemekler,-2.0
+42D36E59-216A-4BED-BA10-D19553373D17,Tavuk Şanzelize,"22,00 TL",Ana Yemekler,5.0
+44D24B62-FCA6-4BEA-858D-641C5BC78F2D,Tavuk Sote,"22,00 TL",Ana Yemekler,5.0
+11C4548F-2A91-45F0-B5BE-AA62A3778469,Tavuk Çökertme,"22,00 TL",Ana Yemekler,5.0
+923ed0d2-ed3b-4958-96ee-4f570789b02c,Tavuklu Kremalı Penne,"19,00 TL",Makarnalar,5.0
+82daa046-c85c-4d87-8f2b-23e9bfe1e27b,Tavuklu Körili Penne,"19,00 TL",Makarnalar,5.0
+52f24b26-8428-48a4-bcd4-162b13a9eb15,Penne Napolitan,"16,00 TL",Makarnalar,5.0
+0a2d81d9-297f-482b-b713-b5bf1213d902,Ton Balıklı Penne,"20,00 TL",Makarnalar,5.0
+da10696c-e3b2-4534-bc57-66540478fdb1,Pesto Penne,"16,00 TL",Makarnalar,7.0
+c63e7fc5-fc5e-458e-9613-4f028c930cad,Patates Kızartması,"8,00 TL",Yan Ürünler,9.0
+00e857db-77f5-46a1-9a63-da0549ffe1b4,Soğan Halkası (8 Adet),"8,00 TL",Yan Ürünler,5.0
+6f93e5d8-19b0-48fe-b64d-dee63d791137,Soğan Halkası (12 Adet),"10,00 TL",Yan Ürünler,5.0
+6ce3bd79-be26-4ad8-88ee-2cb8419f6be0,Ton Balıklı Salata,"17,00 TL",Salatalar,5.0
+04fbbcfe-82ab-440f-a1a1-124fe60449e9,Izgara Tavuklu Salata,"17,00 TL",Salatalar,5.0
+a77ac1d0-9fa1-4ac7-8fd2-cf44ba1f1574,Poşet,"0,25 TL",Poşet,5.0

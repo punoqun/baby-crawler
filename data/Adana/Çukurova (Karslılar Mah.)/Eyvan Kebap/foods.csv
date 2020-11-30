@@ -1,0 +1,35 @@
+food_id,food_name,food_price,food_category,food_score
+7e70fb5e-7a76-487b-b08d-ed963772eeaa,Çiğ Köfte Dürüm Menü,"18,00 TL",Menüler,6.0
+f404d0fd-9fd5-47bc-bfe0-6d670395c5a7,Mega Çiğ Köfte Dürüm Menü,"27,00 TL",Menüler,6.0
+fc2cfc77-134c-47f1-818a-13e25aba8ca4,Adana Kebap,"33,00 TL",Kebaplar & Izgaralar,13.0
+323c3f8a-a46e-45f1-a607-6993160c846e,Kuşbaşı Kebap,"33,00 TL",Kebaplar & Izgaralar,4.0
+7de95a04-27a4-419f-a593-f611577b14fb,Ciğer Şiş,"33,00 TL",Kebaplar & Izgaralar,5.0
+b1ac9fd3-9d3d-42ad-9aed-0d301c338519,Çöp Şiş,"33,00 TL",Kebaplar & Izgaralar,5.0
+86e9b768-dafa-4a8b-849c-ad22e7dda590,Et Külbastı,"49,50 TL",Kebaplar & Izgaralar,3.0
+3c920206-9804-4209-ab99-005680797fe9,Kemikli Tavuk,"33,00 TL",Kebaplar & Izgaralar,4.0
+27a34b66-47c6-4e13-b3f6-adbb9bafe6b4,Kemiksiz Tavuk,"33,00 TL",Kebaplar & Izgaralar,9.0
+ec5076b7-8c8b-46b7-a7e7-14c5dbde292d,Tavuk Sarma,"33,00 TL",Kebaplar & Izgaralar,4.0
+d1d8bf3e-088f-47e0-b8ca-9db819ec79fa,Tavuk Kanat,"33,00 TL",Kebaplar & Izgaralar,2.0
+bf37aa5d-73b1-4804-b1f7-2d81339334cf,Fındık Lahmacun (10 Adet),"28,00 TL",Fırın Ürünleri,5.0
+6cd6b062-a212-4768-b923-6024c83fd897,Fındık Lahmacun (15 Adet),"42,00 TL",Fırın Ürünleri,5.0
+eb8e8cfe-2884-45eb-9dd1-6a08bf8174fd,Adana Lahmacun (5 Adet),"28,00 TL",Fırın Ürünleri,9.0
+a25982ae-8b9a-4577-b901-a2b3209677b7,Adana Lahmacun (7 Adet),"42,00 TL",Fırın Ürünleri,9.0
+b922ea4c-026d-470d-85a6-27f693de271c,Antep Lahmacun (3 Adet),"28,00 TL",Fırın Ürünleri,5.0
+abc9e567-fd7c-4464-9bf7-307becbd7a23,Antep Lahmacun (5 Adet),"42,00 TL",Fırın Ürünleri,5.0
+2f06ab80-9d05-4017-af3b-b2a01cacee5f,Kaşarlı Pide,"28,00 TL",Fırın Ürünleri,5.0
+a8fbc8a2-9953-4a66-a144-28ecf1b08fc9,Etli Pide,"28,00 TL",Fırın Ürünleri,5.0
+5fbe9c3c-b13d-4641-ab56-f3966adbfe95,Etli Kaşarlı Pide,"28,00 TL",Fırın Ürünleri,5.0
+64e24a59-8ad4-4e18-993d-25f5fd96124c,Kıymalı Pide,"28,00 TL",Fırın Ürünleri,4.0
+9f5691d2-2af8-414b-a134-fc7625160854,Adana Dürüm,"28,00 TL",Dürümler,14.0
+4877fd7e-a4de-41f6-8491-a2a4ea1c7556,Kuşbaşı Dürüm,"28,00 TL",Dürümler,5.0
+6e2d6a68-5d94-4105-a47b-04a4e1c44ac8,Ciğer Dürüm,"28,00 TL",Dürümler,5.0
+d4feb119-eeef-44d7-9fbf-aefb522810fe,Çöp Şiş Dürüm,"28,00 TL",Dürümler,5.0
+fd88c076-fa5d-4d2b-9d8e-ac8c266d2d3f,Beyti Dürüm,"42,00 TL",Dürümler,5.0
+4469729d-1324-401c-b5af-01d1f793ecb5,Külbastı Dürüm,"42,00 TL",Dürümler,5.0
+68b65061-4d16-40dd-887a-ac3273b7681d,Kemiksiz Tavuk Dürüm,"28,00 TL",Dürümler,4.0
+ef9cb0e6-216c-487f-8c2e-66683a799de2,Tavuk Sarma Dürüm,"28,00 TL",Dürümler,4.0
+9927c190-e87a-4634-8845-ca006018064c,Çiğ Köfte (10 Sıkım),"18,00 TL",Çiğ Köfteler,6.0
+b88f6fd0-7056-40ca-974e-87100291a9a4,Çiğ Köfte (15 Sıkım),"27,00 TL",Çiğ Köfteler,6.0
+9280389d-2cfc-444e-a8b8-a0edc57eccee,Su (1 L.),"4,00 TL",İçecekler,5.0
+f3d00f47-513a-4443-82a6-3188e721e255,Şalgam Suyu (2 L.),"12,00 TL",İçecekler,5.0
+e552287f-5c0d-44c3-ae46-7849b10c5247,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,28 @@
+food_id,food_name,food_price,food_category,food_score
+a2330c0d-b89f-4267-9660-09c7bcb97eaa,Ekmek Arası Köfte Menü,"19,00 TL",Menüler,3.0
+d5f8400b-402c-4ca5-a765-ea67bf0007f4,Cheeseburger Menü,"17,00 TL",Menüler,5.0
+0f1d7c0e-0977-45e5-ae1f-68f4df333a74,Et Döner Dürüm Menü 1,"19,00 TL",Menüler,25.0
+7fff7aea-b277-4c52-946b-b841b50234c6,Hamburger Menü,"16,00 TL",Menüler,5.0
+5430635d-58b1-4551-9cb3-85b75b6f2095,İskender (Et Dönerden) Menü,"27,00 TL",Menüler,5.0
+8772b4aa-8cb7-405e-9baf-4cfeadb14f3f,İskender (Tavuk Dönerden) Menü,"25,00 TL",Menüler,5.0
+438dc80a-00bc-4a78-99c8-dfe374551b93,Kumru Sandviç Menü,"18,00 TL",Menüler,11.0
+3293ef09-2721-4ae4-aaff-27a0f8c6dbf9,Tavuk Döner Dürüm Menü 1,"10,00 TL",Menüler,21.0
+3a5c5dd0-f8dc-4762-9fbf-ff1e86072e31,Tavuk Döner Dürüm Menü 2,"16,00 TL",Menüler,16.0
+0c508e9e-1826-40e7-be31-e473e49b3e59,Ayvalık Tostu,"10,00 TL",Tostlar,12.0
+CC186CE4-6392-4D4C-9343-E5733E605C07,Sucuklu Tost,"7,00 TL",Tostlar,6.0
+3a44961e-98a7-43d6-988c-d4c150a40141,Kaşarlı Sucuklu Tost,"8,00 TL",Tostlar,6.0
+d07d1975-648f-4e56-aef8-ced2613d1ba8,Kaşarlı Tost,"7,00 TL",Tostlar,6.0
+4c5c579c-8db2-493a-b20c-4e70c9328e0c,Yengen Tost,"9,00 TL",Tostlar,8.0
+b6e17576-bee7-40f3-a86d-290220770a5b,Kumru Sandviç,"13,00 TL",Sandviçler,11.0
+5dda8171-f36e-4294-96b0-d037e15704fa,Et Döner Dürüm,"13,00 TL",Et Dönerler,14.0
+f4745e7b-9284-47ec-add5-048631b82fc5,Et Döner Sandviç,"13,00 TL",Et Dönerler,13.0
+52f3bc28-ea3e-49f1-9996-f46fe8a0acfb,Tablacı Usulü Tavuk Döner Dürüm,"10,00 TL",Tavuk Dönerler,10.0
+7B4B2015-20FC-47FB-88DC-9788BC3AD13E,Eren Special,"13,00 TL",Tavuk Dönerler,4.0
+c7f7c7b5-db65-44ba-a524-19f9821c1976,Tavuk Döner Dürüm,"10,00 TL",Tavuk Dönerler,15.0
+268fc7f9-235f-417e-8f90-10c85031f20a,Tavuk Döner Sandviç,"10,00 TL",Tavuk Dönerler,9.0
+b1ed076a-d9f3-4451-9dc2-9481db2d826a,Ekmek Arası Köfte,"13,00 TL",Ekmek Arası Ürünler,3.0
+c8716582-001d-475f-98fa-919a158d2f93,Hamburger,"10,00 TL",Burgerler,5.0
+8e6ae551-e245-4df3-bae5-80dfa7355021,Cheeseburger,"11,00 TL",Burgerler,5.0
+f72da50d-7c3f-44f8-82db-2676489522f1,Patates Kızartması (Küçük),"7,00 TL",Yan Ürünler,9.0
+97bc84e3-5cfb-4cd0-8571-1bcbe40094c4,Patates Kızartması (Büyük),"9,00 TL",Yan Ürünler,9.0
+1a2bf931-8c6d-4df6-acd0-a77f35d2ba3b,Poşet,"0,25 TL",Poşet,5.0

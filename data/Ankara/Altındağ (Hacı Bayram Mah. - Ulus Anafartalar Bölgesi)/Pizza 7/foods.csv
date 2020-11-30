@@ -1,0 +1,94 @@
+food_id,food_name,food_price,food_category,food_score
+121368ea-0906-4360-85f1-b091cad3b55f,Menü 2,"35,00 TL",Ekonomik Menüler,12.0
+725601dc-936a-4f6f-ae4c-b39fdc560246,Menü 3,"45,00 TL",Ekonomik Menüler,6.0
+2f471ce2-06ee-4216-bfcd-6dd1cf1bdd38,Menü 4,"99,00 TL",Ekonomik Menüler,5.0
+efab0527-3c71-4f88-b867-0e3e55525ed3,Menü 5,"70,00 TL",Ekonomik Menüler,6.0
+39146ad5-4bbe-4666-af32-b77e2c58d3bc,Menü 6,"105,00 TL",Ekonomik Menüler,5.0
+2c7ba141-9943-4ab2-93f9-4794ca77ec69,Menü 7,"85,00 TL",Ekonomik Menüler,8.0
+bd8ec37a-39c8-4f81-8805-fc2ceef4045e,Menü 8,"50,00 TL",Ekonomik Menüler,5.0
+3113f27c-75b4-48cb-b6de-ebb508815afe,Menü 9,"65,00 TL",Ekonomik Menüler,3.0
+6971669e-413a-4286-84b9-41133c1ccac0,Menü 10,"88,00 TL",Ekonomik Menüler,11.0
+b289401c-a5e9-4976-bd60-58a4c3160942,Menü 11,"65,00 TL",Ekonomik Menüler,5.0
+6e235927-2ae8-45c3-9229-93a99ff9cc66,Acı Sever Pizza (Küçük),"21,00 TL",Küçük Boy Pizzalar,7.0
+b7022f18-542e-4027-95f2-271556bbac7d,Akdeniz Pizza (Küçük),"21,00 TL",Küçük Boy Pizzalar,7.0
+dd9d997e-6e0b-47f9-8c55-07f16de1bb45,Mangal Pizza (Küçük),"22,00 TL",Küçük Boy Pizzalar,7.0
+a19d08d4-8229-4ee1-b4c7-2ac2034397e2,Kavurmalı Pizza (Küçük),"26,50 TL",Küçük Boy Pizzalar,5.0
+2d99440d-ecba-4526-9908-aba8dd87a6ae,Chicken Pizza (Küçük),"21,00 TL",Küçük Boy Pizzalar,7.0
+cddc0d3f-611e-45b1-aec7-d4ca0d543f07,Etli Pizza (Küçük),"23,00 TL",Küçük Boy Pizzalar,7.0
+df731824-549b-40fa-89b6-f97185b3f730,Karışık Pizza (Küçük),"21,00 TL",Küçük Boy Pizzalar,7.0
+bbcb99e8-44fa-48df-b7d1-98799a1dc602,Mantarlı Pizza (Küçük),"21,00 TL",Küçük Boy Pizzalar,6.0
+1c2eb977-7adb-4014-a7f0-9e0744d9d9fc,Margherita Pizza (Küçük),"21,00 TL",Küçük Boy Pizzalar,7.0
+ff8575c8-9a58-4199-9c8a-58ff1e305455,Meksika Pizza (Küçük),"21,00 TL",Küçük Boy Pizzalar,7.0
+0883e0ed-55d8-441d-ab9e-c71a84d12428,Otantik Pizza (Küçük),"21,00 TL",Küçük Boy Pizzalar,7.0
+fa6d192b-b169-4245-ad29-b48788abd0b6,Pastırmalı Pizza (Küçük),"23,50 TL",Küçük Boy Pizzalar,7.0
+af43d486-d8e7-4340-904e-17a206ed5405,Peynirli Pizza (Küçük),"23,00 TL",Küçük Boy Pizzalar,7.0
+ddda4792-3065-4cc6-84fc-c26cf02e2ff1,Salamlı Pizza (Küçük),"21,00 TL",Küçük Boy Pizzalar,7.0
+0a0803b8-652b-49e7-b8b0-0d13b8b4fc50,Sebzeli Pizza (Küçük),"21,00 TL",Küçük Boy Pizzalar,7.0
+8cf63f00-bacc-42e7-aab1-93aada216564,Sosisli Pizza (Küçük),"21,00 TL",Küçük Boy Pizzalar,7.0
+879910d8-10c1-4032-8c93-ff357964629a,Sucuklu Pizza (Küçük),"21,00 TL",Küçük Boy Pizzalar,7.0
+f77f4701-875c-447a-a3ea-7d027e3c455f,Ton Balıklı Pizza (Küçük),"23,00 TL",Küçük Boy Pizzalar,7.0
+ee38e4b3-bde4-4a6c-adb4-496cb0fa28b2,Acı Sever Pizza (Orta),"30,00 TL",Orta Boy Pizzalar,7.0
+bb5ab6bb-3976-454c-b27e-0aed254acd76,Akdeniz Pizza (Orta),"28,00 TL",Orta Boy Pizzalar,7.0
+5d48a9fe-887f-4078-a176-89b2089c59cd,Mangal Pizza (Orta),"30,00 TL",Orta Boy Pizzalar,7.0
+e2b40d73-7dd2-497c-a784-160b1e5146c0,Kavurmalı Pizza (Orta),"35,00 TL",Orta Boy Pizzalar,5.0
+a6ce9b58-68ce-463f-908b-12732121d515,Chicken Pizza (Orta),"29,00 TL",Orta Boy Pizzalar,7.0
+75b7497d-1aa9-43e0-b702-09469d539343,Etli Pizza (Orta),"30,00 TL",Orta Boy Pizzalar,7.0
+1190f800-6ce2-48e3-8f0f-a06aed1540ee,Karışık Pizza (Orta),"27,00 TL",Orta Boy Pizzalar,12.0
+9b05fce1-1fbe-44fb-9f28-10798088a919,Mantarlı Pizza (Orta),"26,00 TL",Orta Boy Pizzalar,6.0
+4081d122-dd2d-47c4-9d10-9d4e77e08d35,Margherita Pizza (Orta),"26,00 TL",Orta Boy Pizzalar,7.0
+e6f6e327-84c6-4c2c-81e3-00046ab7bfbc,Meksika Pizza (Orta),"26,00 TL",Orta Boy Pizzalar,7.0
+778ad9a0-2370-48e8-9b41-691f34d9b435,Otantik Pizza (Orta),"28,00 TL",Orta Boy Pizzalar,7.0
+f92e6dcf-ae6a-4886-9bff-c03ec6859459,Pastırmalı Pizza (Orta),"32,00 TL",Orta Boy Pizzalar,7.0
+57e52184-f2c9-4503-b26e-8fdd879c5f56,Peynirli Pizza (Orta),"28,00 TL",Orta Boy Pizzalar,7.0
+a828fc71-9694-45c1-bddb-4026fa28d28b,Salamlı Pizza (Orta),"26,00 TL",Orta Boy Pizzalar,7.0
+49b312ff-53b0-41d3-95b2-8d959879fbd7,Sebzeli Pizza (Orta),"26,00 TL",Orta Boy Pizzalar,7.0
+ad2d0397-d5e8-4025-b212-dd6e0d21ca3b,Sosisli Pizza (Orta),"26,00 TL",Orta Boy Pizzalar,7.0
+e0afed29-16e6-4621-aa80-17d1ee0a517a,Sucuklu Pizza (Orta),"26,00 TL",Orta Boy Pizzalar,7.0
+259e06ee-1e0b-4347-828a-2bd32fafef0a,Ton Balıklı Pizza (Orta),"30,00 TL",Orta Boy Pizzalar,7.0
+bbca6bc0-71b7-45d6-97dc-ef02f91ef78b,Acı Sever Pizza (Büyük),"40,00 TL",Büyük Boy Pizzalar,7.0
+a9109f8d-3d94-4343-bd1e-6a07d415fcd4,Akdeniz Pizza (Büyük),"40,00 TL",Büyük Boy Pizzalar,7.0
+a668ba0a-cee9-4726-9243-55fcd4f26ece,Mangal Pizza (Büyük),"45,00 TL",Büyük Boy Pizzalar,7.0
+4adfa5cc-faa3-4dd9-93d5-e50ad1ff3220,Kavurmalı Pizza (Büyük),"45,00 TL",Büyük Boy Pizzalar,5.0
+f134c4a4-ae68-42f6-837d-fa93b414d515,Chicken Pizza (Büyük),"40,00 TL",Büyük Boy Pizzalar,7.0
+2afd67fe-ca11-4edf-94be-d69397efd940,Etli Pizza (Büyük),"42,00 TL",Büyük Boy Pizzalar,7.0
+5abe303d-6219-41dc-868d-748285f11011,Karışık Pizza (Büyük),"38,50 TL",Büyük Boy Pizzalar,12.0
+24356d69-9a3e-4f6d-9f3c-b751cec08190,Mantarlı Pizza (Büyük),"40,00 TL",Büyük Boy Pizzalar,6.0
+0e9a36a3-d3f1-4692-80dc-c26dd1f4a194,Margherita Pizza (Büyük),"38,00 TL",Büyük Boy Pizzalar,7.0
+e8ec9604-a695-4303-adef-85a18d1a96b8,Meksika Pizza (Büyük),"40,00 TL",Büyük Boy Pizzalar,7.0
+1ac05ef4-b9e5-409b-9c4a-ec51d8b145ff,Otantik Pizza (Büyük),"40,00 TL",Büyük Boy Pizzalar,7.0
+00cbfeac-306c-4270-acb3-632f3e178c84,Pastırmalı Pizza (Büyük),"45,00 TL",Büyük Boy Pizzalar,7.0
+7365ca84-10b6-4415-b9f3-f3e215feae1e,Peynirli Pizza (Büyük),"40,00 TL",Büyük Boy Pizzalar,7.0
+48a15c91-223c-48f3-adae-4749bb9fb4be,Salamlı Pizza (Büyük),"38,00 TL",Büyük Boy Pizzalar,7.0
+e620defc-bf24-4ec1-b3d9-66422fc6aca5,Sebzeli Pizza (Büyük),"38,00 TL",Büyük Boy Pizzalar,7.0
+cd634524-f39c-4b15-bf67-31df29c581df,Sosisli Pizza (Büyük),"38,00 TL",Büyük Boy Pizzalar,7.0
+0eae2d83-9187-4963-941a-2c5819f9d2c2,Sucuklu Pizza (Büyük),"38,00 TL",Büyük Boy Pizzalar,7.0
+1c193ba2-ee1a-41fd-ae42-b21388c0b3a7,Ton Balıklı Pizza (Büyük),"45,00 TL",Büyük Boy Pizzalar,7.0
+0106aeba-b2d0-49ed-b368-ecfaa7f239e7,Acı Sever Pizza (Jumbo),"55,00 TL",Jumbo Boy Pizzalar,7.0
+cc87de0e-e8d1-4a2c-a0e2-c712a625b8fa,Akdeniz Pizza (Jumbo),"55,00 TL",Jumbo Boy Pizzalar,7.0
+4dec8647-f734-4c75-a00d-7cde8994b2cb,Mangal Pizza (Jumbo),"55,00 TL",Jumbo Boy Pizzalar,7.0
+0dc069d5-877f-4f98-b0ce-e2c2bb58e929,Kavurmalı Pizza (Jumbo),"60,00 TL",Jumbo Boy Pizzalar,5.0
+aa62b5bd-b334-47fb-88b3-2a56a800b946,Chicken Pizza (Jumbo),"55,00 TL",Jumbo Boy Pizzalar,7.0
+7b9264d3-4f9e-4d94-b2c7-7bca5ce104dd,Etli Pizza (Jumbo),"55,00 TL",Jumbo Boy Pizzalar,7.0
+95ae8728-c424-40fa-ac65-bee4530c1829,Karışık Pizza (Jumbo),"55,00 TL",Jumbo Boy Pizzalar,7.0
+30768de3-8de1-4790-a542-5cc284595810,Mantarlı Pizza (Jumbo),"55,00 TL",Jumbo Boy Pizzalar,6.0
+9ea03c29-a302-4e51-a9d6-1f36b92843e7,Margherita Pizza (Jumbo),"55,00 TL",Jumbo Boy Pizzalar,7.0
+96746adf-866e-44d6-afd2-f793a0e93d17,Meksika Pizza (Jumbo),"55,00 TL",Jumbo Boy Pizzalar,7.0
+11e02036-2e25-4300-8b0a-455bfd4cec05,Otantik Pizza (Jumbo),"55,00 TL",Jumbo Boy Pizzalar,7.0
+6667ce80-2917-42f2-8fb3-d05f1487feed,Pastırmalı Pizza (Jumbo),"60,00 TL",Jumbo Boy Pizzalar,7.0
+31e9f4d2-1ee2-42b3-a8f4-e4dd5991d60f,Peynirli Pizza (Jumbo),"58,00 TL",Jumbo Boy Pizzalar,7.0
+676f950c-ef34-4e4c-a4d1-408946e14403,Salamlı Pizza (Jumbo),"55,00 TL",Jumbo Boy Pizzalar,7.0
+4b07c028-cc75-450c-b755-b0b6ebf7d65f,Sebzeli Pizza (Jumbo),"55,00 TL",Jumbo Boy Pizzalar,7.0
+6bdb0a95-768d-499b-8bfb-7a7fe98be841,Sosisli Pizza (Jumbo),"55,00 TL",Jumbo Boy Pizzalar,7.0
+2442c393-b356-4854-aa39-4cfae0344ccb,Sucuklu Pizza (Jumbo),"55,00 TL",Jumbo Boy Pizzalar,7.0
+93d8560a-882d-4397-b163-413bfb8ee4cd,Ton Balıklı Pizza (Jumbo),"60,00 TL",Jumbo Boy Pizzalar,7.0
+d9b4834f-95f7-4728-844c-8f365375ae9c,Soğan Halkası (8 Adet),"10,00 TL",Yan Ürünler,5.0
+e18894c8-f789-45ff-88ce-582102e0b2c6,Elma Dilim Patates Kızartması,"10,00 TL",Yan Ürünler,7.0
+43efa0bc-25a9-4795-9519-1e6da2eaed9d,Patates Kızartması,"10,00 TL",Yan Ürünler,7.0
+c706e92b-e35d-4bb8-9fe4-52abeac03650,Nugget (7 Adet),"10,00 TL",Yan Ürünler,5.0
+36185d68-185a-4780-9527-38d4563091d8,Sufle,"10,00 TL",Tatlılar,9.0
+91516277-2a82-408e-a1b6-7a298da55c64,Fuse Tea Limon (1 L.),"9,00 TL",İçecekler,5.0
+8080cc32-68af-4a82-ba11-4dd4ebaf3da9,Fuse Tea Mango & Ananas (1 L.),"9,00 TL",İçecekler,5.0
+739153dd-9aae-42db-a0e4-e12bd1c4fcbe,Fuse Tea Karpuz (1 L.),"9,00 TL",İçecekler,5.0
+3f58297f-e918-423b-b246-7072f2378863,"Su (1,5 L.)","5,00 TL",İçecekler,9.0
+e083a74d-44db-4ba9-84ed-c011ea571042,Su (5 L.),"10,00 TL",İçecekler,9.0
+b85b4fc6-2934-41f5-8841-a3c8c1e1e685,Poşet,"0,25 TL",Poşet,5.0

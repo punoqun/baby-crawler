@@ -1,0 +1,19 @@
+food_id,food_name,food_price,food_category,food_score
+19ef14c3-ff0c-400f-be38-900a557ddf0a,Sucuklu Kaşarlı Gözleme,"17,50 TL",Gözlemeler,10.0
+2ae0c02b-9715-4732-b933-8f18a66b233e,Peynirli Gözleme,"11,50 TL",Gözlemeler,12.0
+398e684f-8ead-4fc5-ba0b-447217d76b66,Patatesli Gözleme,"11,50 TL",Gözlemeler,15.0
+3e2790da-2fb3-46e0-919c-b2493bf28fc7,Kıymalı Gözleme,"16,50 TL",Gözlemeler,13.0
+cd35874a-3689-43ac-be2e-e7c87826ed07,Kaşarlı Gözleme,"14,50 TL",Gözlemeler,10.0
+72d18150-1fd8-458e-85bf-6734e243eb03,Sucuklu Kaşarlı Tost,"13,00 TL",Tostlar,5.0
+885bb293-0595-4b26-9f94-601376b78469,Karışık Tost,"15,00 TL",Tostlar,5.0
+b3c2d58b-0c15-4d92-913b-28ac9a3b947f,Kaşarlı Tost,"10,50 TL",Tostlar,5.0
+29cf2465-c930-4580-9843-86111e56d5fc,Çiğ Börek,"6,00 TL",Ana Yemekler,22.0
+849a8e78-1b3f-4f11-869a-80ef29ef8ae3,Mantı,"25,00 TL",Ana Yemekler,7.0
+a2234a29-c744-4127-afc3-2a478304f13c,Tavuk Şiş,"27,50 TL",Ana Yemekler,6.0
+fce31e8a-744f-461e-83b1-7885b45ceadb,Karışık Spesiyal Tabak,"33,00 TL",Ana Yemekler,5.0
+ff6aa491-a3b9-4292-ab17-3cc29fb8f84c,Izgara Köfte,"29,90 TL",Ana Yemekler,8.0
+4a9b6d47-521e-4231-a9b2-cd396106de0f,Yarım Ekmek Arası Tavuk Şiş,"13,00 TL",Ekmek Arası Ürünler,6.0
+74c28810-73ec-480c-9cc8-7e936e75fbd5,Yarım Ekmek Arası Izgara Köfte,"15,00 TL",Ekmek Arası Ürünler,8.0
+8b4f304e-1815-4b2e-804b-d928c5dbd4ca,Kızartma İçli Köfte (Adet),"7,50 TL",Yan Ürünler,9.0
+e7db25fd-2695-45d0-a803-0fc9fa3368f4,Patates Kızartması (Küçük),"7,50 TL",Yan Ürünler,5.0
+1364ff03-ae30-495e-a1ba-eb7b708470b8,Poşet,"0,25 TL",Poşet,5.0

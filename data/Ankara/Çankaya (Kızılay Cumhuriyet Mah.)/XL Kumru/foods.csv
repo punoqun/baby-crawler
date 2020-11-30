@@ -1,0 +1,49 @@
+food_id,food_name,food_price,food_category,food_score
+c1bde65f-f057-41d3-a367-2533367a87e7,X Menü,"40,00 TL",Ekonomik Menüler,6.0
+1127b9c4-42c9-400d-ae1f-f6fd57d1face,L Menü,"40,00 TL",Ekonomik Menüler,25.0
+0af994f1-3145-49f8-af06-d2edd3b65403,XL Menü,"50,00 TL",Ekonomik Menüler,6.0
+ef87b550-2047-461c-a40c-cf060b94ecc5,Ayvalık Ekmeğine Karışık Tost Menü,"22,50 TL",Menüler,5.0
+4e1b69df-1f02-4ff9-a7f1-2e66458fc3d3,Ayvalık Ekmeğine Kaşarlı Tost Menü,"22,50 TL",Menüler,5.0
+288c7415-b1eb-4f0b-89d2-589bf8b6830c,Ayvalık Ekmeğine Sucuklu Tost Menü,"22,50 TL",Menüler,6.0
+1d8720f8-0eae-493e-8d82-a3363ced8902,Ayvalık Tostu Menü,"22,50 TL",Menüler,6.0
+8030db21-224f-432a-9000-60e41e8b571f,Babayaro XL Sandviç Menü,"49,95 TL",Menüler,8.0
+5dbb72fe-469c-4671-866d-4e71b57ae34d,Bazlama Ekmeğine Karışık Tost Menü,"25,00 TL",Menüler,5.0
+5f9773d4-dc20-4761-8161-ff291a0a8da0,Bazlama Ekmeğine Kaşarlı Tost Menü,"25,00 TL",Menüler,5.0
+73abdcaf-3cae-45db-9cf9-f6203dbc5631,Bazlama Ekmeğine Sucuklu Tost Menü,"25,00 TL",Menüler,6.0
+742426c3-949f-4a69-8710-1fe7bcde3164,İzmir Eritme XL Kumru Sandviç Menü,"35,00 TL",Menüler,23.0
+b824aab3-05c3-41c0-a2ae-59794ad6c09a,İzmir Kumru Sandviç Menü 1,"22,50 TL",Menüler,48.0
+d2115730-9356-4f24-8f76-96cbe4e09ee5,Karışık Köyüm Tost Menü,"22,50 TL",Menüler,5.0
+0003ef3c-256e-47e5-8edc-9ad198bbd809,Kaşarlı Köyüm Tost Menü,"22,50 TL",Menüler,5.0
+79b3e0a3-9623-48f3-923c-130c743a8233,Öküz Doyuran XL Kumru Sandviç Menü,"30,00 TL",Menüler,39.0
+4079dafd-0a1e-4039-a98c-cc4197cc4dc1,Sanayi Tostu Menü,"35,00 TL",Menüler,6.0
+63dbd4f0-23ed-4ba1-9494-19832b235a64,Sayko Sandviç Menü,"30,00 TL",Menüler,8.0
+e3bcb9bb-cc47-4656-9d9b-ff0b17f4e4e1,Somun Ekmek Arası Sucuk Menü,"30,00 TL",Menüler,5.0
+0b9a195e-6c44-4504-b61e-383b254ce68a,Sosisli Sandviç Menü,"22,50 TL",Menüler,12.0
+664733a1-ea37-42ec-b5a1-c613d2ce3b48,Sucuklu Köylüm Tost Menü,"22,50 TL",Menüler,6.0
+861de57b-9f2b-44bb-9333-fb1c5f2d5ac3,Somun Ekmeğe Kaşarlı Tost Menü,"25,00 TL",Tost Menüleri,5.0
+d2784adb-faa6-4c35-ad67-111d8c78ab5a,Somun Ekmeğe Sucuklu Tost Menü,"25,00 TL",Tost Menüleri,6.0
+d978955c-4a01-407e-b149-1b88475231c3,Somun Ekmeğe Karışık Tost Menü,"25,00 TL",Tost Menüleri,5.0
+6a97c6aa-5cd8-43de-8654-b377719309d4,Ayvalık Ekmeğine Karışık Tost,"15,00 TL",Tostlar,4.0
+6fd374c6-7990-400f-a63c-6e3f8533e710,Ayvalık Ekmeğine Kaşarlı Tost,"15,00 TL",Tostlar,4.0
+23bdfdec-53d9-4fa7-aed2-fc8d6f6f4da6,Ayvalık Ekmeğine Sucuklu Tost,"15,00 TL",Tostlar,5.0
+e2ff0991-e7af-4aa4-bc39-e2817fec1694,Ayvalık Tostu,"15,00 TL",Tostlar,5.0
+6db19cc0-f68b-477a-b48b-88677e2678af,Bazlama Ekmeğine Karışık Tost,"17,50 TL",Tostlar,4.0
+7c4addb4-94ac-4b14-85a5-e611b7fcc5cd,Bazlama Ekmeğine Kaşarlı Tost,"17,50 TL",Tostlar,4.0
+259e54e5-2985-4f88-be79-678a7454786b,Bazlama Ekmeğine Sucuklu Tost,"17,50 TL",Tostlar,5.0
+58b16275-5482-4594-bb7b-ba2fc9a0823c,Karışık Köyüm Tost,"15,00 TL",Tostlar,4.0
+2624fe52-32de-4346-b197-64e00cf56f35,Kaşarlı Köyüm Tost,"15,00 TL",Tostlar,4.0
+6ba490c0-4463-496e-8cd1-ad07bfd42122,Sanayi Tostu,"30,00 TL",Tostlar,5.0
+ad09364b-951e-481f-9784-210f96672ef3,Sucuklu Köylüm Tost,"15,00 TL",Tostlar,5.0
+e0724838-7b4e-45de-a980-afa6cb6a8412,Kaşarlı Patso Sandviç,"17,50 TL",Patsolar,8.0
+c305351a-b776-47c8-9aa7-29260873b29c,Salamlı Patso Sandviç,"17,50 TL",Patsolar,9.0
+3b30a126-625f-4cac-9919-72883e0ce9dc,Sosisli Patso Sandviç,"17,50 TL",Patsolar,13.0
+8b822749-64c4-4116-8b1a-487488c499b7,Full Karışık Patso Sandviç,"20,00 TL",Patsolar,8.0
+313f8eae-6777-45df-8f92-9be4998ad48c,Sosisli Sandviç,"15,00 TL",Sandviçler,11.0
+bf4517ec-1260-4924-84c5-64704e942838,İzmir Kumru Sandviç,"15,00 TL",Sandviçler,27.0
+416cb4fc-e0ea-4faf-8a8c-1621fcefb090,Öküz Doyuran XL Kumru Sandviç,"23,50 TL",Sandviçler,38.0
+db67d5f2-473c-4264-9b80-4ab767057101,Sayko Sandviç,"23,50 TL",Sandviçler,7.0
+e9ac5097-88ef-4452-8cda-79e18ee5b46d,İzmir Eritme XL Kumru Sandviç,"35,00 TL",Sandviçler,22.0
+d06ccc9c-c4c6-4482-92a9-3d2c7f773cc6,Babayaro XL Sandviç,"45,00 TL",Sandviçler,7.0
+f7a5b837-e3f6-473f-924e-d0ce22756c22,Patates Kızartması,"7,00 TL",Yan Ürünler,14.0
+2de4e7e5-3df8-4b1a-b9cf-7efc06d63123,Su,"2,50 TL",İçecekler,6.0
+4b50fe5e-e8df-43f3-aed1-89a4d067e8d8,"Su (1,5 L.)","5,00 TL",İçecekler,6.0

@@ -1,0 +1,38 @@
+food_id,food_name,food_price,food_category,food_score
+82ae6432-a985-4484-9e78-54a2937b55f7,2'li Cheeseburger Menü,"70,00 TL",Menüler,6.0
+a9ae97ee-b75d-4e37-ae09-427c95770355,Chicken Burger Menü,"31,00 TL",Menüler,14.0
+d745c57e-f841-4661-9c6f-58b8a7ac751f,2'li Burger Menü,"65,00 TL",Menüler,14.0
+45e52023-8e77-4bb4-94c1-cfb5b0f4a87f,3'lü Cheeseburger Menü,"105,00 TL",Menüler,6.0
+2cf3f831-cee4-487c-a39b-ac1c7ff27b0b,Bol Köfte Menü,"75,00 TL",Menüler,5.0
+a65fc178-4507-43e7-90b1-2fd550fcf0e9,Blue Cheeseburger,"43,00 TL",Burgerler,6.0
+3b8fd1af-fd22-4beb-9901-1906fc973fde,Cheeseburger,"33,00 TL",Burgerler,11.0
+21e5129d-bc5e-4e3a-a849-5df221aeca5e,Fajita Burger,"32,00 TL",Burgerler,16.0
+cca76e48-bbb9-4e93-afa9-33ebb97f8653,Gurme Burger,"46,00 TL",Burgerler,14.0
+613462e8-8206-4a19-87cf-55c6e2441bf5,Hamburger,"32,00 TL",Burgerler,23.0
+0b98f3fa-57dc-400f-a656-695a76e8cccd,Red Baron Burger,"36,00 TL",Burgerler,14.0
+aa77284b-f206-4650-8ece-618070674057,Steak House Burger,"50,00 TL",Burgerler,14.0
+1d04a8c8-fd38-42cb-b6d7-f550818a4cb8,The Bad The Good The Ugly Burger,"64,00 TL",Burgerler,14.0
+a2d58ae3-008d-41d1-a01c-1da46a4c660a,The Centilmen Burger,"44,00 TL",Burgerler,14.0
+17812595-4d76-4945-9352-1617e0402f1c,The Mamma Mia Burger,"41,00 TL",Burgerler,14.0
+806977ce-b591-4d13-8891-f3b04f6d857d,Guacamole Meat Man Burger,"50,00 TL",Antrikot Burgerler,14.0
+40016586-9c90-4136-8946-77f60644525b,Mushroom Meat Man Burger,"48,00 TL",Antrikot Burgerler,16.0
+10a5d96a-8208-4a78-8af0-944ed6c9b295,Füme Meat Man Burger,"50,00 TL",Antrikot Burgerler,14.0
+d39d61b0-a30e-43b8-9444-91d38c150f1b,Sicilyalı Meat Man Burger,"46,00 TL",Antrikot Burgerler,14.0
+33c59231-b4b5-4e0a-b564-a34c7bfe2122,The Meat Man Burger,"45,00 TL",Antrikot Burgerler,14.0
+c3364261-0931-4ca2-81e8-9d3bf876e673,Antrikot (250 gr.),"80,00 TL",Izgaralar,5.0
+5de10b32-894c-41cc-9dca-2b4eadd0a197,New York Steak (350 gr.),"100,00 TL",Izgaralar,5.0
+53e61b1b-93a6-4853-8fb0-707ea8830aad,Izgara Piliç Pirzola,"30,00 TL",Izgaralar,7.0
+5cd73294-1418-41be-9f37-0e221eaaf7bd,Kasap Köfte,"33,00 TL",Izgaralar,3.0
+7ec97692-148c-4d51-8800-710e5ee8b219,Soğan Halkası (8 Adet),"13,00 TL",Yan Ürünler,4.0
+251521d6-5949-41fe-9d8f-87c93e9ae63e,Patates Kızartması,"13,00 TL",Yan Ürünler,14.0
+0a34ab94-c30b-490c-85cc-6a197d198bd6,Füme Et Tabağı,"22,00 TL",Yan Ürünler,5.0
+D71B6A0F-915E-4ABF-9C45-58693B6D4F8F,Ev Yapımı Pastırma,"20,00 TL",Yan Ürünler,5.0
+500c0eaa-e2ed-4979-bad5-c9c20085b30e,Çoban Salata,"22,00 TL",Salatalar,6.0
+01cb16d5-fe8c-4afb-9cee-cb99c981f760,Tulum Peynirli Yeşil Salata,"29,00 TL",Salatalar,7.0
+a88c28a8-800c-497e-9f87-425204bd56e9,Ton Balıklı Salata,"32,00 TL",Salatalar,6.0
+bcd1095b-218e-4bb0-a565-cfaafd3b2a9b,Izgara Bonfileli Salata,"38,00 TL",Salatalar,8.0
+f27914d1-34ea-4ebb-be0e-f7f10972d993,Çikolatalı Sufle,"12,00 TL",Tatlılar,5.0
+aa61d634-8226-4a51-a0e3-3b805cdffbf4,Fırın Sütlaç,"12,00 TL",Tatlılar,5.0
+f885faf6-83a1-4365-91f3-2c673f23b9f7,Lipton Ice Tea Limon (33 cl.),"6,00 TL",İçecekler,5.0
+e20510bc-eb34-4089-8c17-deecf8398748,Burger Sos,"2,00 TL",Soslar,14.0
+a1b17591-1ce7-4eb3-9c6e-101421a17769,Poşet,"0,25 TL",Poşet,5.0

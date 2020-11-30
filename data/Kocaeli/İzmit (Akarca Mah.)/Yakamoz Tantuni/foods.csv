@@ -1,0 +1,54 @@
+food_id,food_name,food_price,food_category,food_score
+ecd42c62-00c4-46b6-85c7-1e38f6c9b2cc,Menü 01,"17,00 TL",Menüler,5.0
+60427cdf-9d3b-495a-bf6e-bbfaa3b43cf4,Menü 02,"26,00 TL",Menüler,5.0
+edc8a122-c39b-4f77-a37e-09e46cb7b2d4,Menü 03,"20,00 TL",Menüler,5.0
+3d95e9c6-66eb-4e0b-9a49-ac30a3db5981,Menü 04,"21,00 TL",Menüler,5.0
+196903dd-9c9c-4005-8cc1-068182e9b358,Menü 05,"35,00 TL",Menüler,5.0
+654f2d36-8db1-4854-812a-96ab20354af7,Menü 06,"25,00 TL",Menüler,5.0
+56879a2f-e4b6-4502-aea3-99264d0af865,Menü 07,"18,00 TL",Menüler,5.0
+d1839801-b7d7-4b25-af05-22b18327baf5,Menü 08,"27,00 TL",Menüler,5.0
+f6c8858a-db11-464b-bb7b-fa93dc8a3665,Menü 09,"21,00 TL",Menüler,5.0
+7fa08b23-851f-42d9-8da6-cd1b6e4dfb0f,Menü 10,"22,00 TL",Menüler,17.0
+3b0562f5-eb1f-425c-aec5-1be799d179be,Menü 11,"36,00 TL",Menüler,5.0
+f5c8b75f-ffb4-4141-bc9d-94d6d3536e2a,Menü 12,"26,00 TL",Menüler,5.0
+185e3912-4660-4ce6-aeba-602cabd2e3d1,Tavuk Tantuni Dürüm,"10,00 TL",Tavuk Tantuniler,3.0
+9fce905f-28a5-4b86-bf1e-7e9add4c57e9,Yoğurtlu Tavuk Tantuni,"14,00 TL",Tavuk Tantuniler,-1.0
+e21baa2f-92ac-4ef4-9f44-337b98c9de03,Kaşarlı Tavuk Tantuni Dürüm,"14,00 TL",Tavuk Tantuniler,-2.0
+11932b78-e4d0-4590-86ff-50750579a34f,Yarım Ekmek Arası Kaşarlı Tavuk Tantuni,"14,00 TL",Tavuk Tantuniler,0.0
+6e1a0af3-4083-4c51-adb6-e5557cf15559,Yoğurtlu Kaşarlı Tavuk Tantuni,"18,00 TL",Tavuk Tantuniler,-1.0
+6b55e760-8cbf-4a19-9be3-510a26bdff04,Yarım Ekmek Arası Et Tantuni,"15,00 TL",Et Tantuniler,-3.0
+a4358013-1af9-44c3-8c80-e7993ed8a18e,Kaşarlı Et Dürüm,"19,00 TL",Et Tantuniler,0.0
+03135cd8-dff8-4b09-a523-00986bda9582,Yarım Ekmek Arası Kaşarlı Et Tantuni,"19,00 TL",Et Tantuniler,-3.0
+25923705-19a3-4415-8161-2e2dc28921f7,Yoğurtlu Kaşarlı Et Tantuni,"23,00 TL",Et Tantuniler,-4.0
+1e1f7654-9d45-49c2-b981-a128893cba03,Yarım Ekmek Arası Biftek Tantuni,"16,00 TL",Biftek Tantuniler,1.0
+22bf621f-a1e4-4878-a27c-2510d1a28a0f,Yoğurtlu Biftek Tantuni,"19,00 TL",Biftek Tantuniler,0.0
+7dd3fbf4-278b-4a55-b679-c5f6f9322b6b,Kaşarlı Biftek Tantuni Dürüm,"20,00 TL",Biftek Tantuniler,-1.0
+32eab3e6-f470-4315-ab45-b96302e2947f,Yarım Ekmek Arası Kaşarlı Biftek Tantuni,"20,00 TL",Biftek Tantuniler,1.0
+f339e5d8-d0c9-4d38-985f-d292de519576,Yoğurtlu Kaşarlı Biftek Tantuni,"23,00 TL",Biftek Tantuniler,0.0
+88d7fff4-d238-4543-86c7-9c625f5262e1,Çiğ Köfte (200 gr.),"10,00 TL",Çiğ Köfteler,4.0
+31b525a6-ddda-4bb3-a370-939c79f74280,Patates Kızartması,"6,00 TL",Yan Ürünler,5.0
+c438a1e1-6de9-4c11-8fe3-edff78dd3683,Tavuk Nugget (6 Adet),"9,00 TL",Yan Ürünler,4.0
+d2bd0c8a-2ae6-41cf-b66a-a4c3b1fbfa37,Soğan Halkası (8 Adet),"10,00 TL",Yan Ürünler,4.0
+72d58ace-3c29-415d-ae36-2f9a34ac1329,Antakya Usulü Künefe,"8,00 TL",Tatlılar,5.0
+dd563386-5311-4fb5-b39d-f010e4f67c83,Antakya Usulü Fıstıklı Kadayıf,"9,00 TL",Tatlılar,5.0
+c73aada3-0517-48a6-9f37-a8a5f1eb4fdd,Eker Sütlaç (150 gr.),"6,00 TL",Tatlılar,5.0
+b5586c0e-e79f-494b-854e-9ee7af57cd25,Eker Supangle (150 gr.),"6,00 TL",Tatlılar,5.0
+a70af441-714e-42e3-83f4-1bda7dec3ece,Eker Kazandibi (150 gr),"6,00 TL",Tatlılar,5.0
+9470a2ba-6fbe-44b4-9f41-743b06d928a0,Eker Profiterol (150 gr.),"6,00 TL",Tatlılar,5.0
+162fab8d-87db-42c9-acef-48a34518587b,Kesme Maraş Dondurma,"5,00 TL",Tatlılar,5.0
+0342ea02-8a66-495f-a771-32e6af028265,Cevizli Baklava (1 kg.),"50,00 TL",Tatlılar,4.0
+b9ba09eb-c48f-4644-b8ba-5673916df97e,Fıstıklı Baklava (1 kg.),"90,00 TL",Tatlılar,4.0
+efdc0606-fe8a-4a97-b291-246e8e4454d6,Fıstıklı Havuç Dilimi Baklava (1 kg.),"90,00 TL",Tatlılar,4.0
+d5c448af-91f1-4590-a706-37c57cb1b62c,Cevizli Baklava (4 Adet),"12,00 TL",Tatlılar,5.0
+13904062-898a-4ae9-b17a-1fcffe71678a,Fıstıklı Baklava (4 Adet),"15,00 TL",Tatlılar,5.0
+4d405cbb-3910-49ff-9070-9a6cf7b0e474,Cevizli Baklava (2 Adet),"6,00 TL",Tatlılar,4.0
+8aa7edd1-3aaa-4bac-b383-e79dd1b77f4f,Fıstıklı Baklava (2 Adet),"8,00 TL",Tatlılar,4.0
+241d0ad0-4767-44ce-881d-feb4f4963009,Fıstıklı Havuç Dilimi Baklava (Adet),"15,00 TL",Tatlılar,5.0
+3f6c9e3c-c9b3-4e03-be3b-cb3011d789d1,Kaymak,"4,00 TL",Tatlılar,5.0
+a9a5ed83-0258-4488-bcc6-6fcfd045e1df,Dondurma,"4,00 TL",Tatlılar,5.0
+78b9efba-b40a-470e-a19c-bc275f3d9e20,Şalgam Suyu (33 cl.) (Cam Şişe),"3,00 TL",İçecekler,5.0
+d229bfad-a8fb-4cda-8b2c-abfda7409570,Limonlu Soda,"2,50 TL",İçecekler,5.0
+0d95ae0d-48ba-4ccd-9049-15128378588d,Su,"1,50 TL",İçecekler,5.0
+c7fee6f3-14bf-4e32-b405-2f29a1fa8f37,Eker Yayık Ayran (1 L.),"8,00 TL",İçecekler,2.0
+d88fc49a-da48-4c2e-b147-58dc8112dc2d,Şalgam Suyu (3 L.),"10,00 TL",İçecekler,4.0
+7cb80673-aa4c-4b67-9fb4-9bb260dd4396,Poşet,"0,25 TL",Poşet,5.0

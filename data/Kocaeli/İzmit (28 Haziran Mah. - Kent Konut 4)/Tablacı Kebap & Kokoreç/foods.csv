@@ -1,0 +1,28 @@
+food_id,food_name,food_price,food_category,food_score
+4c450978-5bc3-4a8b-aae2-4bbee571ebf7,Dürüm Menü,"20,00 TL",Menüler,13.0
+AEC53434-C73B-41AE-87FB-AF31A97EAE0A,Adana Kebap Menü,"40,00 TL",Menüler,9.0
+50F2B2EB-0F8B-4C68-868C-A7A6BF16F681,Tavuk Şiş & Kanat Menü,"38,00 TL",Menüler,8.0
+8FA83E25-FC1C-45F8-8235-3E4A0CD8BFA5,Tablacı Menü,"45,00 TL",Menüler,5.0
+392C20B6-9B80-45B4-8CA2-7E5FF0ACDBA8,Ekstra Dürüm Menü,"24,00 TL",Menüler,8.0
+4449C3C7-212A-494F-B754-1AA58F456B2C,Ekstra Tavuk Dürüm Menü,"22,00 TL",Menüler,11.0
+f3fc32ac-66c5-4dbc-85ff-dcaf9c382a22,Tavuk Şiş Dürüm Menü,"18,00 TL",Menüler,11.0
+f91b71c6-597a-4c5e-8efc-c2a7ddac5a0c,Kuzu Şiş Dürüm Menü,"23,00 TL",Menüler,10.0
+b3c3c9b5-2d60-4ece-9128-0c76aa3c842c,Adana Kebap (150 gr.),"32,00 TL",Kebaplar & Izgaralar,9.0
+f6a7582c-baae-42f5-ab97-e194ce440c07,Urfa Kebap (150 gr.),"30,00 TL",Kebaplar & Izgaralar,9.0
+a83416cd-24ee-41eb-836d-2b7fbe4a5795,Patlıcanlı Kebap (200 gr.),"40,00 TL",Kebaplar & Izgaralar,10.0
+bb43c897-4c6b-4d24-94ff-3de992d167f7,Ciğer Şiş (220 gr.),"40,00 TL",Kebaplar & Izgaralar,5.0
+7f81d9d0-2300-415d-b8f3-5d76bf928073,Kuzu Şiş (220 gr.),"40,00 TL",Kebaplar & Izgaralar,7.0
+69d559f8-c5e1-494c-a30e-694b8d22fbd4,Tavuk Şiş (220 gr.),"25,00 TL",Kebaplar & Izgaralar,13.0
+3941a2e4-5dfb-447c-90e5-bfec0c579468,Tavuk Kanat (250 gr.),"27,00 TL",Kebaplar & Izgaralar,8.0
+6fa16cf4-45f9-4051-afbc-5db9d92d75e3,Adana Dürüm (100 gr.),"17,00 TL",Dürümler,12.0
+64e45f67-dd68-49e2-be81-51ba9462bc5e,Urfa Dürüm (100 gr.),"17,00 TL",Dürümler,7.0
+f5a4d711-0fc4-4c49-a592-fe87d3a1307c,Tavuk Dürüm (100 gr.),"15,00 TL",Dürümler,11.0
+fe73add7-6525-44aa-a8d3-134ff084d02d,Ciğer Dürüm (120 gr.),"20,00 TL",Dürümler,8.0
+ea583b9d-32a6-4441-b639-6e2efe1cff3a,Kuzu Şiş Dürüm (120 gr.),"20,00 TL",Dürümler,10.0
+809ca178-26e2-4015-9061-c5668db2e07b,Cevizli Baklava,"12,00 TL",Tatlılar,5.0
+9babff81-0bbe-4d77-bde9-221a741be6c3,Adana Kebap (1 kg.),"165,00 TL",Kiloluk Ürünler (Pişirilmiş),9.0
+d06f3f29-4cb9-4320-a6f8-483fdf5728ea,Tavuk Kanat (1 kg.),"75,00 TL",Kiloluk Ürünler (Pişirilmiş),8.0
+c9595e41-ed47-4e95-9dbc-f0ac7cf044dd,Tavuk Şiş (1 kg.),"70,00 TL",Kiloluk Ürünler (Pişirilmiş),8.0
+75959b21-8da0-4dd8-8d1d-f6eb5300af3e,Kuzu Şiş (1 kg.),"180,00 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+25258368-33f8-465a-ad42-44ff452900f1,Kuzu Ciğer (1 kg.),"180,00 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+def336ef-a7c4-4256-b297-1d26e9413092,Cevizli Baklava (1 kg.),"45,00 TL",Kiloluk Tatlılar,5.0

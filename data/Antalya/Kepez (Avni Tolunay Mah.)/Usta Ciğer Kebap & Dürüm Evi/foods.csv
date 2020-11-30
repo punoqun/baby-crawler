@@ -1,0 +1,31 @@
+food_id,food_name,food_price,food_category,food_score
+F216AD2B-8DBF-4192-8F36-B786E7834BA2,Adana Dürüm Menü,"16,50 TL",Menüler,20.0
+4C55250A-283C-483F-8CD1-D337DAD1C369,Adana Dürüm Menü 2,"16,50 TL",Menüler,22.0
+8ACA62DF-089E-402F-9FF7-05CD92D02DA4,Adana Kebap (1.5 Porsiyon) Menü,"35,00 TL",Menüler,16.0
+61AF2178-BDE6-4002-BD81-4B5FED061A95,Doyuran Tavuk Şiş (1.5 Porsiyon) Menü,"32,00 TL",Menüler,8.0
+f358ed0f-ed97-4bae-bc46-e3a9cef702ad,Adana Kebap,"22,00 TL",Kebaplar,16.0
+de05846e-0614-4342-bcca-37434e5e1457,Urfa Kebap,"22,00 TL",Kebaplar,5.0
+157589dc-f7f4-445c-b258-db9e66a58993,Ciğer Şiş,"25,00 TL",Kebaplar,15.0
+6760fa3f-d586-495b-90a6-617e3f955190,Izgara Köfte,"22,00 TL",Kebaplar,5.0
+7ec5ce7d-d86d-457c-8001-41ebdfbaea03,Tavuk Şiş,"20,00 TL",Kebaplar,8.0
+d868f570-5f31-4172-b3f1-fff13ad5ee2e,Tavuk Kanat,"22,00 TL",Kebaplar,8.0
+04d605a0-9098-429b-afaf-496b27bf850a,Domatesli Kebap,"28,00 TL",Kebaplar,5.0
+e6f9d1a2-cfd7-4491-a0d0-c3eb376112ca,Patlıcanlı Kebap,"28,00 TL",Kebaplar,5.0
+b0df5aed-bf95-438f-aeed-ee0b9ae88c8b,Kuzu Şiş,"28,00 TL",Kebaplar,5.0
+90363244-0233-45fd-aa41-35e98d0ed859,Karışık Izgara (2 Kişilik),"120,00 TL",Kebaplar,5.0
+897bb9bc-01d0-439b-a769-689fc5c1d06a,Adana Dürüm,"14,00 TL",Dürümler,25.0
+d54b76ba-0605-4383-8dd0-2ff077876bde,Urfa Dürüm,"14,00 TL",Dürümler,9.0
+c11b0523-fa76-4554-908e-b9c06dd4cfb9,Tavuk Şiş Dürüm,"13,00 TL",Dürümler,17.0
+245f1ab0-922c-4c9e-8bd6-db38b45c4396,Ciğer Şiş Dürüm,"15,00 TL",Dürümler,24.0
+c3d01fa2-e38e-4d42-9b69-e67f183a57ed,Kuzu Şiş Dürüm,"17,00 TL",Dürümler,9.0
+334b916d-37da-4660-81f6-bfa627adb658,Çoban Salata,"10,00 TL",Salatalar,6.0
+9370b21e-a092-4ee8-bfd0-8930c05ba2b7,Künefe,"14,00 TL",Tatlılar,9.0
+A204F040-05B8-423E-923B-541F4032BFC5,Lipton İceTea (33 cl.),"5,00 TL",İçecekler,5.0
+8B0D4690-2A1C-4BC3-9B2C-F32F99E91DD7,Pepsi Twist (33 cl.),"5,00 TL",İçecekler,5.0
+1748E378-939B-4002-B562-AF126F7F9E3F,Pepsi (25 cl.),"3,50 TL",İçecekler,5.0
+0201AFF2-E1AE-4B96-B553-B0956E9BBAC6,Fruko (25 cl.),"3,50 TL",İçecekler,5.0
+43B3058B-E79D-433B-8172-1EE6A88BF7B2,Yedigün (25 cl.),"3,50 TL",İçecekler,5.0
+7d7f62a8-3961-4fe0-bde7-cdb9a3fcb5ac,Soda (20 cl),"2,00 TL",İçecekler,5.0
+77a80875-6c98-41c7-a2f2-6fb60004e2ae,"Fanta (2,5 L.)","10,00 TL",İçecekler,5.0
+09AFDF89-0E5C-477C-8965-B310CD5CC0C7,"Yedigün (2,5 L.)","10,00 TL",İçecekler,5.0
+bcc1a1b4-0a0f-4f9b-b0ca-359e153a6fee,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,35 @@
+food_id,food_name,food_price,food_category,food_score
+9B2A372E-BA7A-44B3-9952-A8CF50850628,Çılgın Hamburger Menü,"21,00 TL",Menüler,3.0
+a137649e-082c-4def-9878-75722bbe68a4,Kaşarlı Ayvalık Tostu,"9,00 TL",Tostlar,5.0
+a0dda920-c121-4348-a669-77b9e40e110c,Yarım Ekmek Arası Karışık Sandviç,"12,00 TL",Sandviçler,10.0
+1af1658a-d344-498a-b4ad-3e5370679956,3/4 Ekmek Arası Karışık Sandviç,"15,00 TL",Sandviçler,9.0
+9df86e54-aa21-4e3d-8ab4-87b64757e1cf,Tam Ekmek Arası Karışık Sandviç,"22,50 TL",Sandviçler,5.0
+df974e32-3b15-42fa-a61d-f73c98d081a3,Yarım Ekmek Arası Ciğer,"11,25 TL",Ekmek Arası Ürünler,4.0
+184F04DF-3B7A-431E-949B-9B8F34CA3F91,Yarım Ekmek Arası Tavuk İncik,"12,00 TL",Ekmek Arası Ürünler,4.0
+3F566435-2623-4A26-83DA-019F19FF8264,3/4 Ekmek Arası Tavuk İncik,"15,00 TL",Ekmek Arası Ürünler,3.0
+B3F834B3-95D1-4F77-BE7D-C96B302B6627,Tam Ekmek Arası Tavuk İncik,"22,50 TL",Ekmek Arası Ürünler,4.0
+6cf3213b-e15b-45f2-9d2a-a679922cd211,Yarım Ekmek Arası Köfte,"13,50 TL",Ekmek Arası Ürünler,7.0
+e27eb966-7aae-4011-85f9-350f6ff3c5f8,Yarım Ekmek Arası Sucuk,"12,00 TL",Ekmek Arası Ürünler,5.0
+849b1c45-a93f-4c79-8c8f-00a1b8e3a3d0,Yarım Ekmek Arası Sucuk & Kaşar,"13,50 TL",Ekmek Arası Ürünler,5.0
+8cfeac3e-ca82-4914-a01d-870da64b871b,Yarım Ekmek Arası Sucuk & Yumurta,"11,25 TL",Ekmek Arası Ürünler,5.0
+d0ca2f12-5f92-4d01-894c-5de9ca992810,3/4 Ekmek Arası Ciğer,"15,00 TL",Ekmek Arası Ürünler,3.0
+e397b4ea-8fc0-49eb-ac3d-4dc208f2ccbc,3/4 Ekmek Arası Köfte,"16,50 TL",Ekmek Arası Ürünler,11.0
+71bc5852-58f1-421d-9aed-036ab9edeecc,3/4 Ekmek Arası Sucuk,"15,00 TL",Ekmek Arası Ürünler,4.0
+cf684caa-9388-4d7d-96b8-23dca7409ed2,3/4 Ekmek Arası Sucuk & Kaşar,"15,00 TL",Ekmek Arası Ürünler,4.0
+842f3d6f-e5cc-4250-a406-a12326be3449,3/4 Ekmek Arası Sucuk & Yumurta,"15,00 TL",Ekmek Arası Ürünler,4.0
+12d66c94-4a69-4ad3-a792-dc9f15134822,Tam Ekmek Arası Ciğer,"21,00 TL",Ekmek Arası Ürünler,4.0
+244713b1-ec93-4510-89fe-2955ad5fc9b0,Tam Ekmek Arası Köfte,"24,00 TL",Ekmek Arası Ürünler,7.0
+fb84c81e-e254-45da-9ab3-41c0611aa1aa,Tam Ekmek Arası Sucuk,"21,00 TL",Ekmek Arası Ürünler,5.0
+0e188dd2-4b52-44cd-84cf-6cc34ecf5e5d,Tam Ekmek Arası Sucuk & Kaşar,"21,00 TL",Ekmek Arası Ürünler,5.0
+77992022-8869-4079-b723-f09e729fd2b0,Tam Ekmek Arası Sucuk & Yumurta,"21,00 TL",Ekmek Arası Ürünler,5.0
+C4869F2B-EDF4-4917-A5A0-3AD3E5085014,Adana Dürüm,"11,25 TL",Dürümler,5.0
+dc4604e7-3da2-4d99-93d0-5300e9a67274,Köfte Dürüm,"13,50 TL",Dürümler,7.0
+b3fd6834-bb81-4828-9915-273c63898686,Tavuk Ciğer Dürüm,"12,00 TL",Dürümler,3.0
+9e2f4362-18e1-4f74-a0a6-b0592900e745,Izgara Köfte,"22,50 TL",Diğer Lezzetler,7.0
+b38e5cb6-46cd-49fa-916b-0cdb0626f413,Patates Kızartması (Büyük),"11,25 TL",Yan Ürünler,5.0
+19289b35-ee75-4bad-a5e2-2d1d22ecc773,Patates Kızartması (Küçük),"9,75 TL",Yan Ürünler,5.0
+cf40a5bd-651e-4af7-876f-fcbb101152d6,Pirinç Pilavı,"9,75 TL",Yan Ürünler,5.0
+608F9CD4-C2C2-4CC9-B44E-5C1CB920AAB7,Çiğ Köfte (300 gr.),"15,00 TL",Yan Ürünler,7.0
+0E322E30-101E-4BDF-A5DC-5C2938C8E602,Çiğ Köfte (500 gr.),"22,50 TL",Yan Ürünler,7.0
+E1A8818D-5A5B-4870-B95C-124D476E7C68,Çiğ Köfte (1 kg.),"45,00 TL",Yan Ürünler,7.0
+8fb3eb13-50b5-42d7-973c-12b20dccc6e7,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,42 @@
+food_id,food_name,food_price,food_category,food_score
+0B61D5A2-93BA-4F23-8B6A-88F6FF236C63,Diyet Tavuk Menü,"13,00 TL",Menüler,3.0
+A9A7BCCF-D82A-4590-8252-05A670935931,Makarna Menü,"12,00 TL",Menüler,3.0
+CF845243-4C93-4D31-B0B6-B25AC5CF825C,Günün Menüsü,"27,00 TL",Menüler,5.0
+9d4876ca-c520-4c2a-ab2f-9350aff826b6,Sahanda Yumurta,"9,90 TL",Kahvaltılıklar,5.0
+c1d9ea74-4f9b-49d9-954d-11f7294d3c6f,Sebzeli Omlet,"9,90 TL",Kahvaltılıklar,5.0
+1d1370fe-4517-4136-ae79-864809141691,Kaşar Peynirli Omlet,"11,00 TL",Kahvaltılıklar,5.0
+31ca8f0d-24c6-4593-9ad3-b2b47730dfba,Menemen,"9,90 TL",Kahvaltılıklar,5.0
+902DAF66-0142-4570-A512-F539BC752B20,Toyga Çorbası,"6,00 TL",Çorbalar,5.0
+F4036340-9729-4680-A9BE-29B9F5AFE03F,Kremalı Sebze Çorbası,"6,00 TL",Çorbalar,5.0
+5a08f826-ef1e-40e3-81eb-4446711db072,Etli Fasulye,"8,00 TL",Sebze Yemekleri,10.0
+b6429a5d-4f2d-43ff-b488-9355df586d5d,Etli Nohut Yemeği,"8,00 TL",Sebze Yemekleri,8.0
+8cdb5a68-1c24-46a7-887b-3f602c80ae2c,Taze Fasulye,"8,00 TL",Sebze Yemekleri,6.0
+2d4f37a8-2b72-4d95-911a-8fc4d515fbf1,Yoğurtlu Ispanak,"7,00 TL",Sebze Yemekleri,5.0
+2AAEF638-28DA-4C53-A4A6-E76EA2D49B96,Piliç Topkapı,"15,00 TL",Tavuklu Yemekler,6.0
+093481B3-EAB9-4473-BCF1-D51DF97034FB,Tavuk Dolma,"15,00 TL",Tavuklu Yemekler,2.0
+d3b3b4a2-0444-4d56-aa08-398207921579,Köri Soslu Tavuk,"13,00 TL",Tavuklu Yemekler,0.0
+88F1E912-4E28-4DF5-8FF7-279A5B056CD4,Patatesli Fırın Tavuk,"13,00 TL",Tavuklu Yemekler,-2.0
+ee61fd16-b6b4-4d56-8d9b-cc0523fda89b,Tavuk Sote,"13,00 TL",Tavuklu Yemekler,2.0
+E7253896-DE1E-4475-9B1E-A7316F830431,Nohut Yahni,"8,00 TL",Etli Yemekler,5.0
+D329E6FA-2B94-4AA1-B368-249A674DC4D5,Patlıcan Musakka,"13,00 TL",Etli Yemekler,10.0
+0C016647-C05D-44BB-905C-F602AE46AEC2,Et Kavurma,"20,00 TL",Etli Yemekler,3.0
+1995C945-AE8E-45A4-9F24-AC9F8C25CA48,Kadınbudu Köfte,"13,00 TL",Etli Yemekler,5.0
+7F457B74-0EE7-4DE6-AE18-1D2233915A0F,Patlıcan Tava,"15,00 TL",Etli Yemekler,9.0
+FAB8B4A7-2066-45B6-A727-C9F393895E00,Hasanpaşa Köfte,"15,00 TL",Etli Yemekler,5.0
+86F8F892-6105-4A05-9B46-049086089F51,Sarımsaklı Köfte,"8,00 TL",Etli Yemekler,5.0
+a574ed45-f45a-4720-b0d4-ab50cdbb030a,Haşlama İçli Köfte (2 Adet),"12,00 TL",Etli Yemekler,5.0
+1250115e-4ee4-48c7-8d11-497a0be135e4,İzmir Köfte,"13,00 TL",Etli Yemekler,9.0
+B856A782-8893-4053-B9C6-D9B5F4BC9853,Kayseri Mantısı,"15,00 TL",Etli Yemekler,5.0
+21AAF274-28F1-4A6A-8705-0031CE628D08,Kızartma İçli Köfte (3 Adet),"18,00 TL",Etli Yemekler,4.0
+d5223b1f-c90d-4b4b-9466-1628a125cc0f,Sivas Kavurma,"20,00 TL",Etli Yemekler,2.0
+dd0bfa80-04af-4abd-b88b-c0d74afda7cd,Pirinç Pilavı,"5,00 TL",Yardımcı Yemekler,4.0
+cf6c3915-3fe6-4c68-a861-ba764f5c67f9,Bulgur Pilavı,"5,00 TL",Yardımcı Yemekler,5.0
+86E532AC-894E-4611-B204-09E127165D89,Karışık Kızartma,"8,00 TL",Yardımcı Yemekler,6.0
+3C28200C-CA82-40C9-85E2-B360150AC918,Lahana Sarması,"8,00 TL",Yardımcı Yemekler,5.0
+a2eba2a5-b0bb-44c8-a656-00a27af37f50,Makarna,"5,00 TL",Yardımcı Yemekler,1.0
+c9f70ca8-b509-4586-84de-2d004d22320c,Akdeniz Salata,"5,00 TL",Salatalar,4.0
+0241c424-c01e-4d41-9840-81293b1b587e,Mevsim Salata,"5,00 TL",Salatalar,4.0
+70ff7d49-746b-44f0-a147-9fe28d70c0b4,Kısır,"5,00 TL",Mezeler,16.0
+3890E32A-327D-41CE-8731-B36A78DD5D66,Yoğurt,"4,00 TL",Mezeler,5.0
+14391C99-FD68-4ED0-85C6-3475BBE0AAE3,Cacık,"4,00 TL",Mezeler,5.0
+5C638990-F5E8-45FC-A779-26D6371E4731,Meyve Suyu (33 cl.),"4,00 TL",İçecekler,5.0

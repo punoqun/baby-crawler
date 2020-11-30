@@ -1,0 +1,20 @@
+food_id,food_name,food_price,food_category,food_score
+ae70176b-26f4-4c50-be26-259a00fc0b60,Hamburger Menü,"15,00 TL",Menüler,10.0
+38bcbfcc-3471-46a8-b34b-49992d7d6c9a,Kahvaltı Tabağı,"15,00 TL",Kahvaltılıklar,5.0
+8F5D7869-0A2C-46D1-8EEE-A36411C509BB,Kaşarlı Omlet,"13,00 TL",Kahvaltılıklar,5.0
+078FF049-98C4-4C77-B228-BD5F0689F003,Menemen,"15,00 TL",Kahvaltılıklar,5.0
+fa39b3b4-ef2d-4270-a6bd-765f8b07c61c,Karışık Tost,"8,00 TL",Tostlar & Sandviçler,5.0
+cd4e6a12-db4e-4748-9989-ba3a696e708c,İzmir Kumru Sandviç,"15,00 TL",Tostlar & Sandviçler,5.0
+86928cc5-e9f2-465c-9a24-a3b43d6e31f2,Adana Kebap,"20,00 TL",Kebaplar & Izgaralar,10.0
+05d739f4-0d75-4de8-8ca2-d8f1a5e59093,Et Şiş,"22,00 TL",Kebaplar & Izgaralar,3.0
+8eb71d95-bfac-42f8-bcba-6f6adcb5daad,Tavuk Kanat,"17,00 TL",Kebaplar & Izgaralar,5.0
+6ea2365d-ea74-4a5b-9ff4-70616c3fc807,Tavuk Şiş,"17,00 TL",Kebaplar & Izgaralar,3.0
+38318e49-1211-4283-a853-9a2ffd5bd99f,Ciğer Şiş,"20,00 TL",Kebaplar & Izgaralar,3.0
+494b0b2a-87d2-44a5-bbb2-61e4a47c060a,Karışık Izgara,"30,00 TL",Kebaplar & Izgaralar,10.0
+D741D4D2-5746-4DC0-A328-1615FCF1B24F,Tavuk Kanat (1 kg.) (Pişirilmiş),"50,00 TL",Kebaplar & Izgaralar,5.0
+CF1B7227-3C4A-4B05-852C-AF3BAE359936,Izgara Köfte,"18,00 TL",Kebaplar & Izgaralar,3.0
+8851ddfc-465e-46c3-bb7b-2dd3c1f68dc6,Hamburger,"10,00 TL",Burgerler,5.0
+986c7e71-451a-4db6-a8cc-e8ed7f772364,Patates Kızartması,"10,00 TL",Yan Ürünler,5.0
+2b8e4316-d37e-4c59-9e7a-9c9b5b3466c5,Peynirli Sigara Böreği,"10,00 TL",Yan Ürünler,5.0
+ED36403D-3E64-4C13-820C-52EAE8D60726,Combo Tabağı,"15,00 TL",Yan Ürünler,5.0
+618dd742-ae32-4da9-8afc-b7ebb629421a,Poşet,"0,25 TL",Poşet,5.0

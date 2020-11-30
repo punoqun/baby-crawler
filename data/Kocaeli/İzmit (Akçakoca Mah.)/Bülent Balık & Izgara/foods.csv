@@ -1,0 +1,42 @@
+food_id,food_name,food_price,food_category,food_score
+9ad5e767-eaab-46ad-9c79-e0b50e55e404,Hamsi (1 kg.) Menü,"60,00 TL",Menüler,16.0
+2dfe241f-de2b-4585-b00b-fa2620ca5990,İstavrit (1 kg.) Menü,"60,00 TL",Menüler,5.0
+A38AE53F-B209-4F5A-896A-5ABCA44E4439,Karadeniz Mezgit (1 kg.) Menü,"60,00 TL",Menüler,7.0
+42FB787C-97AD-45D9-96A7-5AB469A5CF85,Izgara Sardalya (1 kg.) Menü,"60,00 TL",Menüler,5.0
+3a9c2034-311f-420a-b238-547a56745fde,"Menemen
+","10,00 TL",Kahvaltılıklar,5.0
+b42d8db2-6b74-4266-adeb-42729c570379,"Karışık Tost
+","10,00 TL",Tostlar,5.0
+ba2ea4d0-935a-4386-8d5c-d09337ff2f97,"Kaşarlı Tost
+","10,00 TL",Tostlar,5.0
+963dc845-3f68-4903-9b68-812d3a7b7fe9,Yarım Ekmek Arası Izgara Uskumru,"12,00 TL",Ekmek Arası Ürünler,12.0
+2F4ACD9C-AEEF-4A3C-878D-9455CADA024E,Ekmek Arası Hamsi,"12,00 TL",Ekmek Arası Ürünler,23.0
+8B273497-2B0B-41E6-A7B8-749E42D192C2,Ekmek Arası Sardalya (Kılçıksız),"12,00 TL",Ekmek Arası Ürünler,7.0
+16fccbd2-3806-495f-9077-b1658657621a,Yarım Ekmek Arası Izgara Köfte,"12,00 TL",Ekmek Arası Ürünler,8.0
+33619a43-c908-43cc-a377-61af6d78ec7b,Yarım Ekmek Arası Izgara Sucuk,"15,00 TL",Ekmek Arası Ürünler,10.0
+3aea5244-1d90-4490-b8b9-6920f30292c3,Yarım Ekmek Arası Izgara Tavuk,"12,00 TL",Ekmek Arası Ürünler,7.0
+502ea98b-6fa0-4744-8748-3d6791c1dd56,Yarım Ekmek Arası Arnavut Ciğeri,"15,00 TL",Ekmek Arası Ürünler,5.0
+a3f069f4-da02-4af4-abda-3d5025a0f3f6,Hamsi Tava,"25,00 TL",Balıklar,21.0
+9f0e1c33-a692-4a22-a68b-6e05f9575f5a,Kılçıksız Hamsi Kuşu,"25,00 TL",Balıklar,16.0
+AF780780-62BC-4598-85F5-8F2625AAD267,Karadeniz Mezgit,"25,00 TL",Balıklar,7.0
+EF3F4DE4-286A-4838-80A0-3A46B93C823A,Turna Mezgit,"40,00 TL",Balıklar,7.0
+8A30BA33-71C0-45DC-8769-81D16408BFDE,Somon,"40,00 TL",Balıklar,5.0
+CBFC7710-DE48-4FEB-8878-14803B0DB9C3,Çipura (400 - 600 gr.),"50,00 TL",Balıklar,7.0
+686F05AE-D926-46E7-BF13-E5DF199DC3C5,Levrek (400 - 600 gr.),"60,00 TL",Balıklar,7.0
+DF498F8E-DDE6-48DD-AD0D-9CA267F74AD4,Sardalya,"25,00 TL",Balıklar,5.0
+73380E30-E4E1-4D05-BA45-28F3F11AC442,İstavrit,"25,00 TL",Balıklar,5.0
+D1FFC73E-47B4-4E11-8E98-CDE533E82445,Mercan Tava,"25,00 TL",Balıklar,5.0
+270D9463-5CEE-456C-A422-0582A7D95DD9,Kalkan Tava,"80,00 TL",Balıklar,5.0
+1214892A-A5D5-4D24-A6E5-9B6760B4B2B2,Dil Balığı Tava,"50,00 TL",Balıklar,5.0
+D13C665C-2BEF-4668-8836-FBCACDEAD70B,Çinekop Tava,"50,00 TL",Balıklar,5.0
+69F83D8E-7010-4C80-8A85-5778B682C9AF,Sarıkanat Tava,"100,00 TL",Balıklar,5.0
+89F3E074-3C9A-45C5-BCD2-CEBAEA127919,Sarıkanat Izgara,"100,00 TL",Balıklar,5.0
+52ED3144-1F35-474B-B6E3-72F1BB34504D,Lüfer Izgara,"90,00 TL",Balıklar,5.0
+E95CB26C-A4B9-4673-99D6-983B13B4F210,Lüfer Tava,"90,00 TL",Balıklar,5.0
+C15A8A3F-4AB8-49CA-B804-D175E7F4405A,Sade Tereyağlı Karides Güveç,"35,00 TL",Yan Ürünler,5.0
+a584b13e-3bbf-442e-b96c-e74a8364a385,Sebzeli Karides Güveç,"35,00 TL",Yan Ürünler,5.0
+D403F331-D983-49FF-81D0-27BF1A0A4FDB,Kalamar Tava,"35,00 TL",Yan Ürünler,5.0
+AD8C1CFF-2C2B-4A26-9F9F-96BF737126F9,Mevsim Salata,"6,00 TL",Salatalar,5.0
+C3151030-2FAC-4C23-B438-62457AD04BFE,Çoban Salata,"8,00 TL",Salatalar,5.0
+B87575FB-1037-4F6E-A0F5-A636C6B6EB31,Güveçte Helva,"7,00 TL",Tatlılar,5.0
+2bc6ff64-0c93-4f84-9e56-ca9a436cf72a,Poşet,"0,25 TL",Poşet,5.0

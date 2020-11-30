@@ -1,0 +1,88 @@
+food_id,food_name,food_price,food_category,food_score
+c7722004-5a89-4f36-9e95-742f95fe62f3,Karışık Izgara Menü (2 Kişilik),"68,00 TL",Kampanyalı Menüler,3.0
+559a4daa-f308-4333-9fa5-2857cedda288,Menü 1,"40,00 TL",Kampanyalı Menüler,2.0
+bf3a5187-623f-4f4e-a997-fa64cbfa1bd6,Menü 2,"50,00 TL",Kampanyalı Menüler,5.0
+2e2d67c6-6198-4263-8879-81fa849770f2,Menü 3,"69,00 TL",Kampanyalı Menüler,8.0
+fb8879fa-f4c8-4233-a50b-29aace1032c4,2'li Hamburger Menü,"39,00 TL",Kampanyalı Menüler,5.0
+9d6b1a2f-70aa-4a3a-be85-a967feb9eb78,Pizza Menü,"21,00 TL",Spesiyal Menüler,5.0
+c810ac99-98fe-410a-a393-985c7b1891e8,Chicken Fingers Menü,"28,00 TL",Spesiyal Menüler,5.0
+f05757e4-058d-4c73-9e5c-8e4185ef1afe,Lüx Grilla Pizza Menü,"28,50 TL",Spesiyal Menüler,10.0
+5cddb8d2-6537-4d46-ad8b-df55864446d0,VG Special Menü,"36,00 TL",İtalyan Pizza Menüleri,5.0
+3022e6ff-e5d9-4bca-8ab1-0d458bb296db,Extra Sucuklu Pizza Menü,"44,00 TL",İtalyan Pizza Menüleri,5.0
+A7E16B72-C4C3-449A-AE5D-76D664616355,Tavuklu Barbekülü Pizza Menü,"29,00 TL",İtalyan Pizza Menüleri,4.0
+09EBEDA1-CDFA-466C-BA3F-9DB72D2D7875,Kavurmalı Pizza Menü,"41,00 TL",İtalyan Pizza Menüleri,8.0
+debacd9d-7424-44a3-9cac-29ea54fadffe,Veggie Menü,"28,00 TL",İtalyan Pizza Menüleri,4.0
+d7c53fd7-9fc8-468b-9c75-96235db5d1c8,Sweet Danger Menü,"40,00 TL",İtalyan Pizza Menüleri,5.0
+c920dd68-453f-4549-a7c4-f7f13d096135,Frutti Di Mare Menü,"38,00 TL",İtalyan Pizza Menüleri,5.0
+4724f50e-4710-43ad-a661-b20b925b4f1f,Hot Dog Pizza Menü,"29,00 TL",İtalyan Pizza Menüleri,5.0
+8b7955a7-1c10-4ab9-bde2-70e6a1293f52,Anatolia Menü,"29,00 TL",İtalyan Pizza Menüleri,5.0
+5cbe162e-0ed1-486c-995d-9876eff4ced2,Americano Menü,"31,00 TL",İtalyan Pizza Menüleri,5.0
+13f4e816-f3ef-475e-b393-33f6df3d8be9,Mexicano Menü,"29,00 TL",İtalyan Pizza Menüleri,5.0
+2bf1cad6-ec5f-40ac-92b2-82a853667641,Opera Menü,"28,00 TL",İtalyan Pizza Menüleri,5.0
+f4b078bc-c60e-41f9-a4cf-05a860bab83c,Slim Margarita Menü,"26,00 TL",İtalyan Pizza Menüleri,5.0
+0cdc65b8-1cda-4185-80de-94c9de59abb5,Bollywood Pizza Menü,"32,50 TL",İtalyan Pizza Menüleri,5.0
+3b5b4556-d99a-40af-94f3-f8ec657c456c,Karışık Köfte Menü,"38,00 TL",Köfte Menüler,-1.0
+721282b1-ebd3-4e22-ab85-11d7cfdfc612,İnegöl Köfte Menü,"36,00 TL",Köfte Menüler,1.0
+3b7700e4-212b-4360-a7f6-078bc9e86c0a,Kaşarlı Köfte Menü,"35,00 TL",Köfte Menüler,1.0
+aa5ee34f-e623-4d1a-b1e4-38b4c04e8f14,Izgara Köfte Menü,"33,00 TL",Köfte Menüler,1.0
+6682a55f-cd66-4dc8-a94d-725e32cdfb0a,İskender Köfte Menü,"36,00 TL",Köfte Menüler,1.0
+8e8ccc1a-0c59-41db-b478-8a643ffc145e,Ahtamara Köfte Menü,"37,00 TL",Köfte Menüler,1.0
+ec570ea6-91e8-4423-8b32-654ebef68149,Tavuk Pirzola Menü,"33,00 TL",Tavuk Izgara Menüler,2.0
+79610c69-deaa-4c88-b917-f880ae3f6be7,Tavuk Çöp Şiş Menü,"28,50 TL",Tavuk Izgara Menüler,2.0
+7d50a82a-b78c-44c9-8c8b-3a0f0d76ae28,Tavuk Kanat Menü,"34,00 TL",Tavuk Izgara Menüler,2.0
+bb5fc489-636f-423f-b5af-dfe9ef2b5da0,Tavuk Izgara Menü,"33,00 TL",Tavuk Izgara Menüler,2.0
+95078ebe-ca02-4026-912f-262423943125,Tavuk Bonfile Menü,"27,00 TL",Tavuk Izgara Menüler,2.0
+84668fe3-afdb-45d7-a803-2cdde9753a35,Karışık Izgara Menü,"37,00 TL",Tavuk Izgara Menüler,3.0
+08c2d0d6-a4bc-4db0-86fa-6d5c94bd8eb9,Mantarlı Tavuk Menü,"27,50 TL",Tavuk Spesiyal Menüler,2.0
+4b772771-e250-4c60-9dd9-3e5df4bb4f66,Mexican Tavuk Menü,"28,00 TL",Tavuk Spesiyal Menüler,4.0
+01868afb-f04b-4d63-b086-1ff7450d6cd7,Soya Soslu Mantarlı Tavuk Menü,"27,50 TL",Tavuk Spesiyal Menüler,0.0
+93c54f93-cf2a-4970-89dd-cf3cc9153164,Tavuk Sote Menü,"26,00 TL",Tavuk Spesiyal Menüler,2.0
+b832b8f9-922a-432d-aa4e-bab80b8f1d8b,Dağ Kekikli Tavuk Menü,"28,00 TL",Tavuk Spesiyal Menüler,1.0
+47c2fcf2-18ef-4e16-9cca-d3bac1c477ae,Çin Usulü Tavuk Menü,"27,50 TL",Tavuk Spesiyal Menüler,6.0
+d412db4a-1e96-45ff-bd9f-8ec8b83661f2,Köri Soslu Tavuk Menü,"27,50 TL",Tavuk Spesiyal Menüler,-2.0
+8fc011bc-8ec6-497d-bca6-2eb7c4b1e2f0,Tavuk Kievski Menü,"29,00 TL",Tavuk Spesiyal Menüler,2.0
+e7e85efe-b72c-499d-a45b-9ccb0fea8406,Tavuk Şnitzel Menü,"27,00 TL",Tavuk Spesiyal Menüler,2.0
+6c73b7f3-3022-4e59-9844-01bdcc35bf18,Avcı Usulü Tavuk Menü,"27,50 TL",Tavuk Spesiyal Menüler,2.0
+afcf8eb6-6f47-4e36-bbda-81269c675b7f,Piliç Special Menü,"30,00 TL",Tavuk Spesiyal Menüler,5.0
+2db49db6-83d9-4ac1-aa13-c1e918a9b612,Kendini Beğenmiş Tavuk Menü,"29,00 TL",Tavuk Spesiyal Menüler,2.0
+bafc901e-d68f-4af2-bd94-93af26745463,Reyhani Tavuk Menü,"27,00 TL",Tavuk Spesiyal Menüler,2.0
+3e18b875-3657-486d-b989-0d5feef04944,Hamburger Menü,"22,00 TL",Burger Menüleri,5.0
+42e134d3-d748-4147-8c8b-bba682e575dc,Cheeseburger Menü,"24,00 TL",Burger Menüleri,5.0
+745f0376-5fc7-4f47-8c07-468eaf134f9e,Kaşar Peynirli Fırın Makarna Menü,"27,00 TL",Fırında Makarna Menüleri,3.0
+04186f70-077d-4e6e-a8de-3ec3df3b38f2,Mantarlı Kaşar Peynirli Fırın Makarna Menü,"26,00 TL",Fırında Makarna Menüleri,3.0
+8216416f-e9d9-42fe-ad87-ce2e8a6c8d1c,Bolognese Fırın Makarna Menü,"28,00 TL",Fırında Makarna Menüleri,1.0
+c973cc1e-08e8-40d0-8b28-e29980068465,Tavuklu Mantarlı Fırın Makarna Menü,"28,00 TL",Fırında Makarna Menüleri,2.0
+0e18477d-cebf-485f-9219-b9e3b6224a68,Villa Grilla Fırın Makarna Menü,"27,00 TL",Fırında Makarna Menüleri,3.0
+3c5b4e5f-238d-4a26-8af8-f3822a54c56c,Napolitan Soslu Penne Menü,"23,00 TL",Penne Makarna Menüler,5.0
+c44bb692-e2d4-4288-a98d-09bb0a654dd4,Penne Şho Menü,"29,00 TL",Penne Makarna Menüler,5.0
+f0a1f498-036c-4163-9a15-c97c87f4dc94,Mantar Soslu Penne Menü,"25,00 TL",Penne Makarna Menüler,5.0
+c67b0cc7-57ba-48a3-945c-c6756037e06b,Bolognese Soslu Penne Menü,"27,00 TL",Penne Makarna Menüler,3.0
+1e53d957-6e94-4f02-aff7-bd539f103a12,İtalyan Penne Menü,"26,00 TL",Penne Makarna Menüler,5.0
+b45cb7b1-d1a1-4caf-ae7b-36f0ed623bc0,Arrabbiata Penne Menü,"25,00 TL",Penne Makarna Menüler,5.0
+97184a41-6eb4-427e-b2ab-305ce0b3e945,Tavuklu Penne Menü,"27,00 TL",Penne Makarna Menüler,4.0
+846ea3ec-bd56-464e-bc82-ddd3db4f6784,Ton Balıklı Penne Menü,"28,00 TL",Penne Makarna Menüler,5.0
+6952e883-854f-420e-b6e5-ee8c917baec8,Çin Tavuklu Penne Menü,"27,00 TL",Penne Makarna Menüler,8.0
+36de9810-1b08-4b61-8141-db6440ea4947,Topico Ekmek,"5,00 TL",Yan Ürünler,7.0
+4b88fb29-d29b-4633-bbfc-4809ef0b7dea,Jalapeno Biberi,"2,00 TL",Yan Ürünler,5.0
+e1eba4bb-ae59-47dc-8639-a085a04fc949,Soğan Halkası (8 Adet),"10,00 TL",Yan Ürünler,5.0
+9dff3120-31ad-40fb-9cf2-c91e70a5fb3e,Patates Kızartması,"12,00 TL",Yan Ürünler,2.0
+fa71bd6c-27ee-4c24-b572-83e02c6561c4,Elma Dilim Patates Kızartması,"13,00 TL",Yan Ürünler,2.0
+793b8e9c-3bd6-4da7-bacc-43c3f7da32d4,Hamburger (80 gr.),"13,00 TL",Yan Ürünler,5.0
+50f7a6f2-2b11-46bd-a0e8-9f08eb52b754,Pizza (Adet),"12,00 TL",Yan Ürünler,5.0
+f11700a4-fb2a-400a-803a-86772b9da9f5,Chicken Fingers (8 Adet),"20,00 TL",Yan Ürünler,5.0
+f8070318-abfd-47e9-bcc1-768cd676bcff,Fırın Mantar,"15,00 TL",Yan Ürünler,5.0
+8c517098-2cf1-498c-baee-5d9eba485238,Mevsim Salata,"18,00 TL",Soğuk Salatalar,6.0
+664dc5ef-43fc-4969-831e-5d417f1a3aa8,Beyaz Peynirli Salata,"20,00 TL",Soğuk Salatalar,6.0
+2409eff2-d57d-415c-9b3b-d0c32032b86d,Ton Balıklı Salata,"25,00 TL",Soğuk Salatalar,6.0
+c0ea0e5c-7115-4045-9c23-d69e3ee6f668,Sezar Salata,"24,00 TL",Soğuk Salatalar,6.0
+3b20a8fd-ec0e-4ede-be8a-69e07b8f603e,Çin Tavuklu Salata,"25,00 TL",Sıcak Salatalar,9.0
+f20ea523-036c-453a-b394-80726ded83c1,Körili Tavuk Salata,"24,00 TL",Sıcak Salatalar,2.0
+8dd4d079-eafb-4629-8ae7-a54df6e02297,Mexican Salata,"25,00 TL",Sıcak Salatalar,8.0
+d8536131-ee2a-42c9-b268-5babdace91c0,Tavuk Special Salata,"26,00 TL",Sıcak Salatalar,3.0
+4787d19d-17a8-4769-a871-6b55132a43f2,Dream Tavuklu Salata,"26,00 TL",Sıcak Salatalar,5.0
+0e4f4d28-5349-47d4-9a48-4a61682f9533,Noodle Tavuklu Salata,"24,00 TL",Sıcak Salatalar,8.0
+b582933e-7cf3-4612-9f91-e5a8a3f558f3,Tavuklu Salata,"24,00 TL",Sıcak Salatalar,5.0
+86098500-4042-4bbe-9d46-17128ef7081e,Künefe,"13,00 TL",Tatlılar,4.0
+1117d35d-8d92-4485-b401-c80282f7e725,Sufle,"12,00 TL",Tatlılar,9.0
+6DA25147-A330-4C8A-BCB1-B2C92E7A10DD,Fruko (1 L.),"7,00 TL",İçecekler,5.0
+8d80b693-59fd-4789-b378-4eaec970dd8e,Poşet,"0,25 TL",Poşet,5.0

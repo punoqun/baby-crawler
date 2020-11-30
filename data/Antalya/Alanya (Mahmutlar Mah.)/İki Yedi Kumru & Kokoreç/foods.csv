@@ -1,0 +1,28 @@
+food_id,food_name,food_price,food_category,food_score
+2D6C234A-219D-4045-8B9A-FDADAC180152,Adana Dürüm Menü,"14,00 TL",Menüler,7.0
+C9D85FFE-1139-4802-A562-3831CA793A93,Ciğer Dürüm Menü,"15,00 TL",Menüler,7.0
+A4524270-B9AE-4AF2-A760-D57BADD89FDE,Et Şiş Dürüm Menü,"15,00 TL",Menüler,7.0
+418002DA-3800-487B-97A6-91F9E500C3B0,Tavuk Şiş Dürüm Menü,"12,00 TL",Menüler,8.0
+60efe2f8-127c-429c-990d-75113afef3b2,Sucuklu Tost,"12,00 TL",Tostlar,5.0
+8c6bdb96-453e-40ac-865d-a3f2ee73a98a,Kaşarlı Tost,"12,00 TL",Tostlar,5.0
+9ACED1A3-A366-4E7D-BD5E-F8DC1F05B850,Karışık Tost,"13,00 TL",Tostlar,10.0
+20AC178E-6E8C-40A1-A1E9-68733B1A24BC,Kavurmalı Tost,"15,00 TL",Tostlar,5.0
+6799DB6E-B1CF-4C1E-8F1C-643E753B6924,Yumurtalı Sucuklu Kaşarlı Tost,"14,00 TL",Tostlar,5.0
+4B588049-B3D7-47CC-8790-98275CC07683,Ayvalık Tostu,"15,00 TL",Tostlar,3.0
+0B65E880-02FE-409F-9FE8-9E6713927700,Yumurtalı Tost,"12,00 TL",Tostlar,5.0
+6101b2c5-e6a4-4524-95b4-5595ef1b5834,Kumru Sandviç,"15,00 TL",Sandviçler,23.0
+27ADE93B-59FE-4D5D-BF76-E348AE20F435,Sosisli Kaşarlı Sıcak Sandviç,"14,00 TL",Sandviçler,7.0
+C0FD7B40-D60A-4F0D-9041-2129B35A8A71,Soğuk Sandviç,"13,00 TL",Sandviçler,5.0
+AE644881-7623-4527-9628-5BE6C4297561,Yumurtalı Kumru Sandviç,"20,00 TL",Sandviçler,18.0
+6e564fde-df43-4a14-bad5-b2aa7c38d8b7,Hamburger,"12,00 TL",Burgerler,5.0
+D1D16844-8560-495C-8829-ACA8F6758237,Cheeseburger,"15,00 TL",Burgerler,5.0
+3adfab7c-94d7-4617-b821-81171d74bc46,Yarım Ekmek Arası Kokoreç,"18,00 TL",Kokoreçler,18.0
+0D769E08-F3EC-4549-AB93-A1C5B163F547,Köfte Dürüm,"15,00 TL",Dürümler,9.0
+7b2c890f-4d46-4425-9176-2c8dd844599c,Izgara Tavuklu Dürüm,"14,00 TL",Dürümler,6.0
+df0cf64f-0e01-40c8-83fc-56bc6f1e33c1,Yarım Ekmek Arası Izgara Tavuk,"14,00 TL",Ekmek Arası Ürünler,6.0
+a7949fb4-6c7e-4b5e-99a6-1ca5cd8bb505,Yarım Ekmek Arası Izgara Sucuk,"13,00 TL",Ekmek Arası Ürünler,5.0
+9533fde0-0269-4c6f-b0ae-3f385a1ee887,Yarım Ekmek Arası Izgara Köfte,"15,00 TL",Ekmek Arası Ürünler,9.0
+0D53A4A6-518F-4B9A-BAF3-03CA73259BAA,Ekmek Arası Tavuk Döner (100 gr.),"12,00 TL",Ekmek Arası Ürünler,8.0
+6A922991-F25D-4F63-B6C0-DC00AFE23A5F,Ekmek Arası Et Döner (100 gr.),"13,00 TL",Ekmek Arası Ürünler,7.0
+0a978059-4799-4917-9f11-c455e1ab6517,Patates Kızartması,"10,00 TL",Yan Ürünler,5.0
+2c59909a-a3bf-4a52-b523-1aefe52a017e,Kabak Tatlısı,"12,00 TL",Tatlılar,5.0

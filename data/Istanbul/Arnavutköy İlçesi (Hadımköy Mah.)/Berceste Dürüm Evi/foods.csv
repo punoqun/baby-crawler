@@ -1,0 +1,35 @@
+food_id,food_name,food_price,food_category,food_score
+70ecbeb2-5cb5-47b6-8c1f-2843dd0021d0,Menü 1,"24,00 TL",Menüler,12.0
+9e3b78a7-1462-41ad-99b2-dacb86f9fe51,Menü 2,"24,00 TL",Menüler,5.0
+a65688a2-3932-4367-b68d-a872beaf402a,Menü 3,"26,00 TL",Menüler,5.0
+8cd9bf1f-65f8-4021-88f7-e344eb7468cc,Menü 4,"24,00 TL",Menüler,5.0
+c5de4619-f3e1-4c18-bbfe-1109d97fb9bf,Menü 5,"26,00 TL",Menüler,5.0
+4af4e130-b04a-4e44-ae49-92f72f2d3122,Menü 6,"26,00 TL",Menüler,5.0
+6289ba34-d244-4579-8933-4b997acf232a,Menü 7,"35,00 TL",Menüler,5.0
+62333bed-e043-4e8c-bf61-3cb5320bd5de,Menü 8,"30,00 TL",Menüler,5.0
+2f7777d5-361f-4236-8311-3bcb456ee8ed,Menü 9,"40,00 TL",Menüler,5.0
+0779d9c3-3704-4087-8924-a5b369c63c48,Menü 10,"32,00 TL",Menüler,7.0
+0bb0664e-61ec-4121-b5c3-d7b24d400539,Menü 11,"32,00 TL",Menüler,5.0
+f16dcd38-4495-4c50-92ce-1eee9219b519,Karışık Kebap,"50,00 TL",Izgaralar & Kebaplar,5.0
+bab13276-914f-4a2c-93ac-58d2401b43c4,Ciğer Şiş,"30,00 TL",Izgaralar & Kebaplar,7.0
+62522776-c456-47d9-aae5-103aef5c9a99,Tavuk Şiş,"22,00 TL",Izgaralar & Kebaplar,5.0
+791cf171-f42d-4bf7-97cf-d70d8d44d424,Tavuk Kelebek,"20,00 TL",Izgaralar & Kebaplar,5.0
+90cf8ae2-4ecb-4f7c-b156-cb096112a54f,Patlıcan Kebap,"30,00 TL",Izgaralar & Kebaplar,5.0
+6934693f-56e9-4bbf-b8aa-3c58bfbe5ce1,Tavuk Kanat,"20,00 TL",Izgaralar & Kebaplar,5.0
+293d77d5-92ff-415a-b9d7-5b85477548e3,Karışık Kebap (3 Kişilik),"140,00 TL",Izgaralar & Kebaplar,5.0
+5e967c7e-0886-43d7-9654-55870bbe321b,Urfa Kebap,"22,00 TL",Izgaralar & Kebaplar,5.0
+46adbbf9-78ce-4550-82e8-13500eff5879,Adana Kebap,"22,00 TL",Izgaralar & Kebaplar,5.0
+662e4ecc-b9fa-4057-a098-381479004126,Kuşbaşı Şiş,"30,00 TL",Izgaralar & Kebaplar,5.0
+bcf5d4ce-21ae-4139-b332-9fef3816c3ed,Yürek Şiş,"30,00 TL",Izgaralar & Kebaplar,5.0
+f0bfd240-d72c-4d37-bc38-b0de25ab0749,Ciğer Dürüm,"15,00 TL",Dürümler,7.0
+c493a0eb-613d-4a6a-ba4d-e445d43a02aa,Yürek Dürüm,"15,00 TL",Dürümler,5.0
+774ea6dc-a221-4f3c-b463-915dfbbf58db,Berceste Special Dürüm,"30,00 TL",Dürümler,5.0
+d32ebc43-fa1e-4d0d-a4f4-21504b301e7e,Kuşbaşı Et Dürüm,"15,00 TL",Dürümler,5.0
+768ea1c2-7c00-4860-aaf4-8fb6f33506dd,Beyti Dürüm,"25,00 TL",Dürümler,5.0
+2b61e48a-ae8b-4d11-a796-928202f0c398,Adana Dürüm,"14,00 TL",Dürümler,10.0
+c9466e1c-1ad4-4f1e-b4b8-164d0f6121da,Tavuk Dürüm,"14,00 TL",Dürümler,5.0
+5b0b6906-4465-4a1f-8701-287a8fdf53b6,Urfa Dürüm,"14,00 TL",Dürümler,5.0
+5501bfca-4788-4e2b-9682-d981607dc47f,Tavuk Şiş (1 kg.),"45,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+3d27c805-fb98-436e-9972-82e0a8cd79dc,Izgara Kelebek (1 kg.),"45,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+3b190117-d5e4-49d5-adec-7fd9aa312b18,Tavuk Kanat (1 kg.),"45,00 TL",Kiloluk Ürünler (Pişirilmiş),10.0
+1755820b-a344-4356-8363-8936a6dc2d1c,Poşet,"0,25 TL",Poşet,5.0

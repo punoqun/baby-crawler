@@ -1,0 +1,31 @@
+food_id,food_name,food_price,food_category,food_score
+bf33e0ab-0353-4b5d-95dd-488a759722ea,Hamburger Menü,"18,00 TL",Menüler,8.0
+5e30fbcc-b116-4d17-a93b-ace8e7880e6d,Tavuk Döner Menü,"17,00 TL",Menüler,5.0
+7a686b73-13e6-4c8f-98aa-0e5cc499f02e,Tavuk Burger Menü,"19,00 TL",Menüler,4.0
+814fdff2-2a9d-4931-ab24-9fa5c467939d,Ekmek Arası Köfte Menü,"22,00 TL",Menüler,3.0
+57cb9dd1-958b-4c08-aec6-19db34e48b52,Tavuk Döner Menü 1,"16,00 TL",Menüler,10.0
+6a9f59c8-47e2-4950-aa6b-9041714ddf52,2'li Tavuk Döner Menü 2,"28,00 TL",Menüler,4.0
+7d20200a-406a-48bc-a046-28043a0cad1b,Hamburger Menü 2,"25,00 TL",Menüler,7.0
+5faa7f63-8d69-4a06-bf21-ed2a11fbea22,Afilli Menü,"18,00 TL",Menüler,10.0
+DC5F8FB3-6527-43F8-80F5-087A86E71E84,2'li Et Döner Menü,"38,00 TL",Menüler,7.0
+a2a321fb-b1f8-4cb5-9ba1-117bb501ea56,Kaşarlı Tost,"10,00 TL",Tostlar,3.0
+6c22f774-645a-4a52-b2b4-59520ab39e22,Karışık Tost,"12,00 TL",Tostlar,3.0
+4bad7cce-8816-43b6-9649-56d705af78f5,Yengen Tost,"13,00 TL",Tostlar,4.0
+adab59bb-f04b-456e-aa76-be5103325384,Hamburger,"9,00 TL",Burgerler,8.0
+32614e1e-85d3-4887-bb2e-22de89000051,Tavuk Burger,"10,00 TL",Burgerler,4.0
+a9a97362-8b2d-449a-8c79-01792fec5376,İskender (Tavuk Dönerden),"20,00 TL",Tavuk Dönerler,3.0
+ba4cdbf1-30fb-41cd-8140-5c6088a54f4c,Tavuk Döner,"18,00 TL",Tavuk Dönerler,5.0
+2351b624-35cb-4342-a93a-bbe5e1f066af,Pilav Üstü Tavuk Döner,"20,00 TL",Tavuk Dönerler,5.0
+263e3cf4-a7d4-4987-9867-4be4a3e8ed2e,Tavuk Döner Dürüm,"10,00 TL",Tavuk Dönerler,10.0
+079c06f8-cb17-418c-a2a1-f21fb77a7c0a,Kaşarlı Tavuk Döner Dürüm,"14,00 TL",Tavuk Dönerler,5.0
+04e7af76-29da-42a1-b49a-9b5ca899e814,Et Döner,"14,00 TL",Et Dönerler,7.0
+46f21641-f8cf-49d0-bc3d-95d4b4cfbc99,İskender (Et Dönerden),"22,00 TL",Et Dönerler,3.0
+72E36C10-03C9-463E-843E-ADE318A44468,Pilav Üstü Et Döner,"22,00 TL",Et Dönerler,7.0
+3d54f0d3-55bb-4891-8b6e-8d83bb024148,Izgara Köfte,"22,00 TL",Izgaralar,5.0
+5b125615-a362-4d5d-8c1f-fd07b87ad343,Ekmek Arası Köfte,"14,00 TL",Ekmek Arası Ürünler,3.0
+a260cfe0-76f7-4f4e-893f-f66cf91bf670,Patates Kızartması,"9,00 TL",Yan Ürünler,5.0
+29b2fe3a-9dbc-4563-8b30-ac66d9c6e88d,Pirinç Pilavı,"9,00 TL",Yan Ürünler,5.0
+7941f3d4-7c81-4da2-879b-6f1c648c4a98,Soğan Halkası (8 Adet),"9,00 TL",Yan Ürünler,5.0
+5f3112c0-0a8c-4e0e-9c93-b57ea74eb710,Şalgam Suyu (23 cl.),"2,50 TL",İçecekler,5.0
+08b6b011-e397-4929-b8b7-42f5eeead7b1,Su,"2,00 TL",İçecekler,5.0
+fb79f65c-fcd2-4b38-a30e-f30960148b1c,Poşet,"0,25 TL",Poşet,5.0

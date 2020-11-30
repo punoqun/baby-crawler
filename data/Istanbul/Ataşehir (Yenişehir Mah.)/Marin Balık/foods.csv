@@ -1,0 +1,74 @@
+food_id,food_name,food_price,food_category,food_score
+5560ca7d-3bf7-4603-ade5-622fe65161d2,Hamsi Tava,"38,00 TL",Tavada Balıklar,11.0
+265ab250-452f-4fba-ac35-868acc0f715e,İstavrit Tava,"40,00 TL",Tavada Balıklar,6.0
+d17fa998-5a75-4248-8aa0-f3eb601f9ef5,Tekir Tava,"45,00 TL",Tavada Balıklar,6.0
+8140f103-24a1-42cd-8cb3-d32554eda4eb,Barbun Tava,"69,00 TL",Tavada Balıklar,6.0
+2d654b1d-ada6-4394-b83e-dd75420a218a,Karadeniz Mezgit Tava,"40,00 TL",Tavada Balıklar,8.0
+76b939fe-4cc4-4b80-9a06-13ef193059c7,Fileto Mezgit Tava,"43,00 TL",Tavada Balıklar,8.0
+041F18E2-7C0A-4ACC-971C-BE8A298EB680,Fileto Somon Izgara,"50,00 TL",Izgara Balıklar,13.0
+F8A4AA6E-15B3-405B-B403-EBAE41D7DE20,Izgara Fileto Çinekop,"60,00 TL",Izgara Balıklar,7.0
+9581DA75-8FB9-4700-8599-7CACA2DAE492,Izgara Ahtapot,"60,00 TL",Izgara Balıklar,7.0
+01e51dcd-dd1e-4e67-b154-7dbbc3ae879a,Izgara Lüfer,"120,00 TL",Izgara Balıklar,7.0
+da19c37b-ea2f-48fb-9a5b-3563ca9ac85f,Izgara Sardalya,"38,00 TL",Izgara Balıklar,7.0
+da79ee06-5c2b-483d-8149-7e214c2e6d0f,Izgara Çipura,"42,00 TL",Izgara Balıklar,7.0
+7d1f2dce-749d-4b1f-a209-c6f57f0f0241,Izgara Somon,"48,00 TL",Izgara Balıklar,8.0
+6445891b-0857-47ee-ab0c-7ec4840f4281,Izgara Levrek,"42,00 TL",Izgara Balıklar,8.0
+789aafb9-ad75-4ea3-b0f0-b3658f0ae8c7,Izgara Çinekop,"55,00 TL",Izgara Balıklar,7.0
+619B8879-559F-460B-A967-6F3E0C1130C7,Izgara Sarıkanat,"70,00 TL",Izgara Balıklar,7.0
+9234C371-5FAE-4842-A258-075777F20DE1,Izgara Hamsi,"40,00 TL",Izgara Balıklar,7.0
+285059E2-2C08-4BFE-9B47-3F3EB3D923FB,Izgara Barbun,"69,00 TL",Izgara Balıklar,7.0
+1FF6D7A5-0FEA-400C-8BF1-92B8F5CE6D8B,Közde Patlıcan,"22,00 TL",Diğer Lezzetler,5.0
+9f786ffb-008b-40e5-9075-e2ba5d2bb76d,Çipura Güveç,"45,00 TL",Diğer Lezzetler,5.0
+F2BC486A-DD81-498E-A8D9-F0A535E69954,Yoğurtlu Semizotu,"22,00 TL",Diğer Lezzetler,5.0
+A01F4F67-232B-4A4D-8C4F-E0FAF7D3763E,Kereviz Salatası,"22,00 TL",Diğer Lezzetler,5.0
+8956F66A-C087-4A8B-87A9-E38B130DC052,Közde Biber,"18,00 TL",Diğer Lezzetler,5.0
+A612E27A-D407-4858-9C61-4E8F77D2148C,Levrek Marin,"38,00 TL",Diğer Lezzetler,7.0
+67E3F20D-87C5-49AF-9BE3-EBDDB505A6AA,Somon Füme,"25,00 TL",Diğer Lezzetler,6.0
+166CCD73-B839-4688-815D-E5E48E6EDB65,Lakerda,"40,00 TL",Diğer Lezzetler,5.0
+9C656507-93CE-4E13-AAC3-C549AC40E669,Fava Tam Tekmil,"22,00 TL",Diğer Lezzetler,3.0
+53994AB3-F06F-47CC-AB5F-EEF56A5B44EA,Acılı Ezme,"20,00 TL",Diğer Lezzetler,5.0
+FD902BA0-0595-42FB-8829-BC3D77608617,Gavurdağı Salatası,"25,00 TL",Diğer Lezzetler,5.0
+6ED5F24D-B117-408D-971B-4136EEB5C7EF,Zeytinyağlı Sarma,"30,00 TL",Diğer Lezzetler,5.0
+A21B81F3-7355-4016-92F9-796C71DE3835,Zeytinyağlı Kereviz,"15,00 TL",Diğer Lezzetler,5.0
+F8EAF39A-4528-438F-AE58-B4934574F04C,Şakşuka,"20,00 TL",Diğer Lezzetler,5.0
+FF0F60D1-2ECF-473E-ADF1-404D23049D17,Girit Ezme,"25,00 TL",Diğer Lezzetler,5.0
+4ACADAE4-B947-41F3-8E74-9AD7F55E7CE0,Susamlı Jumbo Karides,"60,00 TL",Diğer Lezzetler,3.0
+B950BB01-D862-4FF5-A549-649B97F5C5DB,Avkadolu Karides,"45,00 TL",Diğer Lezzetler,3.0
+88E9BD59-43D9-4634-A30D-3C52A88BFE99,Girit Lekardası,"25,00 TL",Diğer Lezzetler,5.0
+13ED6FC5-3D10-4F0C-9C88-E1821A75B268,Balık Çiğ Köftesi (250),"40,00 TL",Diğer Lezzetler,10.0
+219C9835-D77C-4D84-889B-3F05E89EB4E9,Pancar Turşusu,"18,00 TL",Diğer Lezzetler,5.0
+A96C2D6D-4B9D-45CF-9BB6-E101CA0216B5,Atom Acılı (Cevizli),"25,00 TL",Diğer Lezzetler,5.0
+CF4CE15A-CD87-41DF-ABD5-82CD4D2E8B76,Nar Salatası,"25,00 TL",Diğer Lezzetler,5.0
+1D426799-D6D8-43D0-AEC4-72A773E339A8,Havuç Tarama,"18,00 TL",Diğer Lezzetler,5.0
+3857DEAE-7606-4FF1-8FD0-F330346B6BF5,Fırında Kumpir,"22,00 TL",Diğer Lezzetler,5.0
+2D020A39-4CE2-4A94-A8B9-779A907D4864,Tereyağlı Kekikli Ahtapot,"60,00 TL",Diğer Lezzetler,5.0
+FC57630D-A2AD-4182-B373-14804804B3F4,Kaya Levreği Pirzola,"50,00 TL",Diğer Lezzetler,5.0
+d3e549c7-c289-41c5-bf17-12911440c542,Levrek Güveç,"45,00 TL",Diğer Lezzetler,7.0
+8eb57b9d-ea22-427d-9e3a-a0afd49d5bf6,Somon Güveç,"45,00 TL",Diğer Lezzetler,6.0
+33f0f181-40ec-44e1-a7b6-528aedab7901,Fener Kavurma,"40,00 TL",Diğer Lezzetler,6.0
+92c2c366-fe3d-4db6-a1ca-c231caba1d6d,Kalamar Tava,"50,00 TL",Diğer Lezzetler,4.0
+9837a001-551b-4d95-9e83-59ae1f14431b,Balık Kokoreç,"36,00 TL",Diğer Lezzetler,8.0
+099bfa11-e9de-4872-a3ea-254d564ccf9d,Tereyağlı Karides,"40,00 TL",Diğer Lezzetler,3.0
+bae6f291-7c4e-497c-b52a-e986a4f8ac6a,Levrek Külbastı,"45,00 TL",Diğer Lezzetler,7.0
+a5671771-c863-4035-bc9c-26047397e7ae,Karides Güveç,"40,00 TL",Diğer Lezzetler,3.0
+a862a1a6-68d4-47b4-a344-c7f24b10cb95,Levrek Beğendi,"45,00 TL",Diğer Lezzetler,7.0
+3e04b30a-59b3-47b9-8f0a-59269ea32195,Karides Söğüş,"38,00 TL",Diğer Lezzetler,3.0
+31ab3e2c-13d5-4983-a31d-224b2c42e7e8,Izgara Kalamar,"50,00 TL",Diğer Lezzetler,5.0
+18662d21-cf0b-496d-b4ca-1d4a923ff238,Levrek Sarma (Adet),"14,00 TL",Diğer Lezzetler,7.0
+e50412ff-117b-4998-ab96-1d9b5add6c68,Balık Köftesi (Adet),"13,00 TL",Diğer Lezzetler,10.0
+3C80B53A-E320-4A1D-A39C-5A5B79FDEEAD,Fish Burger,"20,00 TL",Diğer Lezzetler,7.0
+e8b49d52-8722-4a72-b9e2-f8bc1ef5b7e4,Çoban Salata,"16,00 TL",Salatalar,5.0
+C10E6A35-EF98-4D74-9EF7-3C52CD8D16BA,Marin Salara,"30,00 TL",Salatalar,5.0
+0824d0b6-1832-478a-a32b-adfd31af7caa,Harman Salata,"16,00 TL",Salatalar,5.0
+e38e1897-dd8d-4f51-b899-08eb8479de1b,Mevsim Salata,"16,00 TL",Salatalar,5.0
+3e21aa4d-8e30-4f6d-bcee-4b26070e532b,Roka Salatası,"16,00 TL",Salatalar,5.0
+c05183a0-289c-46a7-adf2-e2cd1b758cd2,Fırında Sıcak Helva,"24,00 TL",Tatlılar,7.0
+DCDE6AD9-ED5D-4371-8A93-098318D823F3,Çikolatalı Sufle,"25,00 TL",Tatlılar,5.0
+F1E8CA93-9C48-4A9E-8137-E3571893DBFD,Dondurmalı İrmik Tatlısı,"20,00 TL",Tatlılar,5.0
+71A38B15-3EA0-443D-9372-5A2301823D4C,Kabak Tatlısı,"15,00 TL",Tatlılar,5.0
+19BE945E-FA8B-4D42-B021-BA493F9E0A24,Ayva Tatlısı,"15,00 TL",Tatlılar,5.0
+E0B16CE0-D7B6-4C1E-915E-18C3AB232838,Marin Tatlısı,"25,00 TL",Tatlılar,5.0
+e8523c8d-a846-4fe8-b3d9-a1607cab1935,Izgara Deniz Levreği (800 gr. - 1 kg.),"125,00 TL",Kiloluk Ürünler,9.0
+b54e23aa-5e11-47f9-8c19-49e73cc7ce6a,Izgara Deniz Çipurası (800 gr. - 1 kg.),"120,00 TL",Kiloluk Ürünler,9.0
+9D803BE5-1865-4BFE-82AC-58FE86E6E978,Kaya Levreği (1 kg.) (Pişirilmiş),"140,00 TL",Kiloluk Ürünler,5.0
+3669b8c6-7443-4b91-8a03-0bbe9400dcaa,Poşet,"0,25 TL",Poşet,5.0

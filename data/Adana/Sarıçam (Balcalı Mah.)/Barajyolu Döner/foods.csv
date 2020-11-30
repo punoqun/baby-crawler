@@ -1,0 +1,35 @@
+food_id,food_name,food_price,food_category,food_score
+9b690208-9365-4ac1-bb94-21882ec7b8a7,Tavuk Döner Dürüm Menü,"15,00 TL",Menüler,13.0
+9d5f22ce-0969-4475-9917-9015610f8c7e,Öğrenci Menü,"11,00 TL",Menüler,9.0
+aab4a0de-1513-4d64-b2ad-1319f9109bc6,İzmir Kumru Sandviç Menü,"15,00 TL",Menüler,9.0
+08650fb4-9c9e-49ac-a2b7-bff5c0df1ed3,İskender (Et Dönerden) Menü,"30,00 TL",Menüler,9.0
+0321799d-72fd-4798-9ef2-9f3c8595e976,Et Döner Dürüm Menü,"18,00 TL",Menüler,15.0
+2413f2a3-65a5-4d5e-bac5-255f492499ff,Menü 4,"19,00 TL",Menüler,16.0
+7949e8c9-4a26-4079-b2ef-3b73928da823,Cazım Usta Tavuk Döner Menü,"16,00 TL",Menüler,13.0
+91b3c2d3-4c48-4026-8d61-6327997ae269,İskender (Tavuk Dönerden) (Orta Boy),"15,00 TL",Tavuk Dönerler,5.0
+e5b26909-0962-4039-bb15-be3dcabe822c,Pilav Üstü Tavuk Döner,"20,00 TL",Tavuk Dönerler,12.0
+e65921b4-51be-49b4-928c-8fb9742c70b6,İskender (Tavuk Dönerden),"24,00 TL",Tavuk Dönerler,5.0
+933b3fee-8c11-4bf5-8770-ba39b43a4b1c,Taş Fırın Ekmeğine Tavuk Döner,"11,00 TL",Tavuk Dönerler,10.0
+e082918f-10eb-4454-964a-e9ab1971345d,Tavuk Döner Dürüm,"10,00 TL",Tavuk Dönerler,15.0
+803e89a1-5777-4956-a756-556262417f63,Pide Ekmek Arası Tavuk Döner,"10,00 TL",Tavuk Dönerler,8.0
+2b1126b6-152c-4465-bdb0-398038751ec4,Sütlü Ekmek Arası Tavuk Döner,"10,00 TL",Tavuk Dönerler,8.0
+f3f43da1-8529-4805-9340-7296c509f6c3,Sütlü Ekmek Arası Tavuk Döner Patso,"15,00 TL",Tavuk Dönerler,8.0
+a93e6904-e2db-4ee5-9731-a5a11504ab7b,Kaşarlı & Tavuk Dönerli Bomba Sarma,"16,00 TL",Tavuk Dönerler,6.0
+692815dc-eef8-4dcb-bab7-f643c12a1136,Et Döner,"21,00 TL",Et Dönerler,11.0
+0a5a0e24-99bd-4752-bc25-d722d7a39c9c,İskender (Et Dönerden) (Orta Boy),"20,00 TL",Et Dönerler,5.0
+8b873a40-952f-44df-9a66-39bbe2f54724,Pilav Üstü Et Döner,"23,00 TL",Et Dönerler,13.0
+f20e8dfe-d727-4216-a8b9-dca0ca1dafaf,İskender (Et Dönerden),"25,00 TL",Et Dönerler,5.0
+26494b86-3632-42b1-9f71-27f6c4bb570e,Et Döner Dürüm,"13,00 TL",Et Dönerler,11.0
+5fc4a4e3-e2f2-4522-99bc-9a7140c9354b,Pide Ekmek Arası Et Döner,"13,00 TL",Et Dönerler,9.0
+4efd7b22-3b10-40bd-81b9-150d6e140230,Sütlü Ekmek Arası Et Döner,"13,00 TL",Et Dönerler,9.0
+a138706e-3d07-4451-b8d9-5d117c825504,Sütlü Ekmek Arası Et Döner Patso,"20,00 TL",Et Dönerler,9.0
+38ae9d73-9a1d-417d-91a7-43933debb601,Kaşarlı & Et Dönerli Bomba Sarma,"22,00 TL",Et Dönerler,7.0
+da1e9487-d287-4741-b6d6-8229276e663f,Ekmek Arası Köfte,"15,00 TL",Ekmek Arası Ürünler,3.0
+55DA1A94-C371-460E-99E2-33FA1CB83864,Sade Patso,"10,00 TL",Ekmek Arası Ürünler,7.0
+73A70441-4E27-467D-A888-167855F629D5,Sosisli Patso,"12,50 TL",Ekmek Arası Ürünler,5.0
+44F6B056-2BD1-4198-8DCA-9B4366345867,Kaşarlı Patso,"12,50 TL",Ekmek Arası Ürünler,6.0
+8b2973d0-b50a-48f6-8ab0-5639ef9065bf,İzmir Kumru Sandviç,"10,00 TL",Sandviçler,5.0
+68303ec4-a5c9-455c-81a1-1be68e5259b2,Sporcu Tavuk Germeç,"20,00 TL",Diğer Lezzetler,14.0
+a5487832-6ca9-4fe8-aec0-c43f398f0480,Patates Kızartması,"5,00 TL",Yan Ürünler,-3.0
+27bcbb36-15e5-4370-b3ac-6afa655a1e3f,Patates Kızartması (Küçük),"3,00 TL",Yan Ürünler,-3.0
+6938a3cd-e9e7-4f83-8cb3-831cfdb969a7,Poşet,"0,25 TL",Poşet,6.0

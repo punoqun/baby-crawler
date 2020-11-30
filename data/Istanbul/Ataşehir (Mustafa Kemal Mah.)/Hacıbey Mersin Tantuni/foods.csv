@@ -1,0 +1,52 @@
+food_id,food_name,food_price,food_category,food_score
+17363420-01df-4fec-ad48-21fc0e77a8ee,5'li Et Tantuni Menü,"90,00 TL",Ekonomik Menüler,11.0
+184f42d9-2b2d-40e4-b107-6fee08ca5636,6'lı Tavuk Tantuni Menü,"71,00 TL",Ekonomik Menüler,18.0
+8f3b4456-2b6a-4ba8-9b1e-b231cb674d14,Menü 1,"28,50 TL",Ekonomik Menüler,21.0
+d4e34dd0-0e81-4e47-8e80-5035d14c247d,Menü 2,"22,50 TL",Ekonomik Menüler,7.0
+c067fbf5-f81c-4205-8f7f-b723a7efb004,Menü 3,"57,00 TL",Ekonomik Menüler,4.0
+0b1a3356-933b-49c4-80bd-046e649e49a4,Menü 4,"45,00 TL",Ekonomik Menüler,5.0
+457c10b7-4f39-4327-8c7e-baccfe8d4856,Menü 5,"33,50 TL",Ekonomik Menüler,6.0
+34f7d285-fa7e-49e2-bf6b-4de69d927d1d,Menü 6,"27,50 TL",Ekonomik Menüler,5.0
+5d39d338-5f27-4bf8-a026-f54aa5d18aea,Menü 7,"39,00 TL",Ekonomik Menüler,5.0
+9096bd24-238e-4843-8c79-71972c3a692e,Menü 8,"27,00 TL",Ekonomik Menüler,7.0
+87389621-b4dc-4c5b-be1c-e6cde1e57fdf,Menü 9,"33,00 TL",Ekonomik Menüler,5.0
+450fdf19-4a8f-4674-b243-fa4c89101d75,Menü 10,"33,50 TL",Ekonomik Menüler,21.0
+b920068c-bbaf-446c-acab-fc15690f651d,Menü 11,"27,50 TL",Ekonomik Menüler,5.0
+A9E52BF1-D9F4-44BE-9C6F-85A9C3B1C908,"Et Tantuni Dürüm (Eti 1,5 Porsiyon)","25,50 TL",Et Tantuniler,10.0
+1bdb1f37-0267-4f48-9816-c1dfd1ff9519,Et Tantuni Dürüm,"17,00 TL",Et Tantuniler,15.0
+ed3af989-548b-458f-95aa-cc535f5c555d,Eti Bol Et Tantuni Dürüm,"34,00 TL",Et Tantuniler,11.0
+39bfe610-4992-4ee9-96eb-ff31e070b63e,Eti Bol Yarım Ekmek Arası Et Tantuni,"34,00 TL",Et Tantuniler,12.0
+F1B352A2-56BD-46A6-ADFA-26D0BF57FD52,Eti Bol Yoğurtlu Et Tantuni,"43,00 TL",Et Tantuniler,18.0
+cc388a90-b38a-4f7f-8819-d6a2dfce4e8f,Yarım Ekmek Arası Et Tantuni,"17,00 TL",Et Tantuniler,11.0
+D2021146-091A-456B-BEF4-945E9C0B2A73,"Yarım Ekmek Arası Et Tantuni (Eti 1,5 Porsiyon)","25,50 TL",Et Tantuniler,11.0
+c0346eef-3819-4c10-b80b-a98d49092b5f,Yoğurtlu Et Tantuni,"22,00 TL",Et Tantuniler,17.0
+F35E20FF-9BE0-4162-AA99-11586DAE08EF,"Tavuk Tantuni Dürüm (Eti 1,5 Porsiyon)","16,50 TL",Tavuk Tantuniler,16.0
+178470b3-dde1-4eda-b75d-0fdbc8ffe56d,Eti Bol Tavuk Tantuni Dürüm,"22,00 TL",Tavuk Tantuniler,15.0
+83ff9a81-2999-4b43-be7e-1bcce30a637b,Eti Bol Yarım Ekmek Arası Tavuk Tantuni,"22,00 TL",Tavuk Tantuniler,17.0
+03E85E7A-43FE-4701-AA40-5CDF604EA642,Eti Bol Yoğurtlu Tavuk Tantuni,"31,00 TL",Tavuk Tantuniler,23.0
+b4ea53a1-732b-4740-a6dc-b88f09a8702e,Tavuk Tantuni Dürüm,"11,00 TL",Tavuk Tantuniler,21.0
+6c26493c-fd6c-4c04-a8da-982194a1fc16,Yarım Ekmek Arası Tavuk Tantuni,"11,00 TL",Tavuk Tantuniler,23.0
+C594455C-489F-42C8-A812-B42DC5A84C47,"Yarım Ekmek Arası Tavuk Tantuni ((Eti 1,5 Porsiyon)","16,50 TL",Tavuk Tantuniler,18.0
+174ff9f0-bc84-4580-9266-32305c990fab,Yoğurtlu Tavuk Tantuni,"16,00 TL",Tavuk Tantuniler,24.0
+03269ec9-3377-4c85-857a-c0055bd0a817,Çiğ Köfte (24 Sıkım),"23,00 TL",Çiğ Köfteler,9.0
+0808B258-6752-4482-8944-30744C308DF7,Çiğ Köfte (1 Sıkım),"1,00 TL",Çiğ Köfteler,9.0
+454d1dbd-9755-4d76-8134-d164af919067,Çiğ Köfte (8 Sıkım),"8,00 TL",Çiğ Köfteler,9.0
+980bb76b-db85-4c94-af5b-fdb43410fcf3,Çiğ Köfte Dürüm,"6,00 TL",Çiğ Köfteler,7.0
+a509629a-17bf-4e32-a7c6-81cf00a89a8e,Çiğ Köfte (16 Sıkım),"15,00 TL",Çiğ Köfteler,9.0
+BA173131-1CC4-4CDA-9F34-BF12A484FEBB,Çiğ Köfte (1 kg.),"40,00 TL",Çiğ Köfteler,9.0
+A92F1394-788F-4DE8-A46E-B1D7B9F2AFF8,Çiğ Köfte (500 gr.),"22,50 TL",Çiğ Köfteler,9.0
+7e223297-9226-4af1-9508-96d1c980d804,Biber Turşusu,"7,00 TL",Yan Ürünler,5.0
+d5ddb5c8-a12b-4ea8-9a3c-1896bf27484b,Roka,"7,00 TL",Yan Ürünler,5.0
+23E2E229-DF77-44E6-9962-0DBA0CEF914E,Lavaş (Adet),"1,00 TL",Yan Ürünler,5.0
+51273684-a85a-4636-9304-d7956ab4455e,Çoban Salata,"13,00 TL",Yan Ürünler,5.0
+fb2d21ba-9b5e-4855-afd4-c65a822e042c,Mevsim Salata,"13,00 TL",Yan Ürünler,5.0
+4a137b41-6ee5-4111-b906-2dc0c6e48200,Cacık,"10,00 TL",Yan Ürünler,5.0
+791347dc-b35a-403f-ac57-651234ac8918,Kadayıf,"13,00 TL",Tatlılar,5.0
+8268a509-f0df-45f9-a511-b83b16c8a867,Künefe,"13,00 TL",Tatlılar,6.0
+08de725a-f46b-493d-aca6-02ccca1280cf,Sütlaç,"8,00 TL",Tatlılar,5.0
+3d86d16c-734c-4864-882f-fd9a63803abf,Katmer,"15,00 TL",Tatlılar,6.0
+ae400b3c-979b-4627-b72d-e576e911c94d,Algida Maraş Usulü Cup Dondurma (100 ml.),"6,00 TL",Dondurmalar,5.0
+5a3796d5-2eaf-4778-91ba-4d689fa5cf8d,Algida Maraş Usulü Dilim Dondurma (82 ml.),"6,00 TL",Dondurmalar,5.0
+dfb81aae-8007-4fc2-93ad-a367f421329b,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"13,00 TL",Dondurmalar,5.0
+556445df-3be2-41a4-97e5-3b45f41458c8,Algida Carte d'Or Volcano Cup,"14,00 TL",Dondurmalar,5.0
+ab9de7b8-be43-4159-95b6-9ec20528c99e,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,31 @@
+food_id,food_name,food_price,food_category,food_score
+086bea60-f3a8-4318-b340-ab30b789bc37,Kıymalı Pide,"13,00 TL",Pideler,7.0
+12abdedb-652c-488d-9d9f-afb2b1adeeb3,Kaşarlı Pide,"13,00 TL",Pideler,7.0
+2131fa0b-bf83-42e6-b985-19e460193074,Kıymalı Kaşarlı Pide,"17,00 TL",Pideler,7.0
+33096eed-1b86-4704-84a1-6567d3658ab0,Kavurmalı Pide,"16,00 TL",Pideler,7.0
+7026e57c-bf09-44c7-b528-733b31dca856,Kavurmalı Kaşarlı Pide,"17,00 TL",Pideler,12.0
+88719bef-9773-4a09-bbfa-3b76db64848f,Sebzeli Pide,"16,00 TL",Pideler,7.0
+945e3e9c-569b-4e20-b7bd-bfa48736e348,Pastırmalı Kaşarlı Pide,"17,00 TL",Pideler,7.0
+ca7d68ae-c8b3-4b83-9231-f6fa2dc07443,Kuşbaşılı Kaşarlı Pide,"17,00 TL",Pideler,12.0
+d5e7d21e-b0b4-4aa0-9e70-cdf18e1e019d,Kuşbaşılı Pide,"16,00 TL",Pideler,7.0
+dfba36dd-edb1-43a5-8dde-8ec366ad776b,Sucuklu Kaşarlı Pide,"17,00 TL",Pideler,7.0
+06b76021-067a-4d7e-9487-912e81025eed,Sebzeli Pide (Yuvarlak),"21,00 TL",Yuvarlak Pideler,7.0
+2e7faaa2-68cc-4deb-bd41-e89967effe72,Sucuklu Kaşarlı Pide (Yuvarlak),"21,00 TL",Yuvarlak Pideler,7.0
+38d59054-dc91-4540-bc24-38774663c4b5,Kavurmalı Kaşarlı Pide (Yuvarlak),"21,00 TL",Yuvarlak Pideler,7.0
+460bda18-37ff-4be6-bb8b-6d9e7f2fe822,Pastırmalı Kaşarlı Pide (Yuvarlak),"21,00 TL",Yuvarlak Pideler,7.0
+479f38e3-3c59-405f-9bf1-07b014fcbbe8,Kuşbaşılı Pide (Yuvarlak),"19,00 TL",Yuvarlak Pideler,7.0
+7a459f6e-0153-46fd-af62-b7cc45e8a991,Kıymalı Kaşarlı Pide (Yuvarlak),"19,00 TL",Yuvarlak Pideler,7.0
+859c9627-4153-4ac6-9a22-4eb251d0789d,Kavurmalı Pide (Yuvarlak),"20,00 TL",Yuvarlak Pideler,7.0
+8748c921-f371-4acd-aca6-70739cb15a47,Kıymalı Pide (Yuvarlak),"16,00 TL",Yuvarlak Pideler,7.0
+a302499e-8ecf-40b3-86d0-3d95dd39382a,Kuşbaşılı Kaşarlı Pide (Yuvarlak),"21,00 TL",Yuvarlak Pideler,7.0
+a311a6c7-87d5-44a2-b15c-4be9638364eb,Kavurmalı Yumurtalı Pide (Yuvarlak),"21,00 TL",Yuvarlak Pideler,7.0
+c225816e-1ac0-49a8-ade0-85ea563eb1c2,Kaşarlı Pide (Yuvarlak),"16,00 TL",Yuvarlak Pideler,7.0
+f9f10942-15a2-471b-bab0-90cf3a0d1612,Kıymalı & Kaşarlı & Kavurmalı Pide,"32,00 TL",Gurme Pideler,7.0
+ea5fa210-9f27-4536-a841-ce314f06592b,Kaşarlı Kavurmalı Pide,"33,00 TL",Gurme Pideler,7.0
+ccd2e82f-b407-4951-8ba0-4d26789af192,Kaşarlı Sucuklu Pide,"30,00 TL",Gurme Pideler,7.0
+0fd5e029-f99d-4b26-8bc3-4c74c4fb31c6,Kaşarlı Pastırmalı Gurme Pide,"33,00 TL",Gurme Pideler,7.0
+1e7b3480-07e7-4213-8655-94f41ec1409c,Kaşarlı & Pastırmalı & Kavurmalı Pide (Kapalı),"35,00 TL",Gurme Pideler,7.0
+040ed5db-fbf3-4695-8169-5efcb4552791,Karışık Pide (Açık),"35,00 TL",Gurme Pideler,7.0
+1a060d72-8fa3-4f16-936e-4d048ac66e13,Kuşbaşılı & Kaşarlı & Kavurmalı Pide,"33,00 TL",Gurme Pideler,7.0
+b7080837-4ab0-43d4-9c8c-e0e97a24ba61,Kavurmalı Yumurtalı Pide,"33,00 TL",Gurme Pideler,7.0
+8a733119-cc90-47e5-8efb-73c1cc0905a7,Su,"1,50 TL",İçecekler,5.0

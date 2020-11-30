@@ -1,0 +1,36 @@
+food_id,food_name,food_price,food_category,food_score
+32911651-8e8a-4522-bcdd-254b836ba600,Nohut,"13,00 TL",Ev Yemekleri,5.0
+cfbf0c79-6943-46d8-8956-9f282fb3b99e,Kuru Fasulye,"11,00 TL",Ev Yemekleri,5.0
+0c8e7a9c-881f-432a-aa4f-2ef83955930d,Tam Ekmek Arası Arnavut Ciğeri,"17,00 TL",Ciğerler,5.0
+1f37dccf-7c40-417f-a449-9a7d19cb3845,Tombik Ekmek Arası Arnavut Ciğeri,"9,00 TL",Ciğerler,5.0
+4a4bf7d3-6df1-4a4f-b4d8-e8c1d9a68ce1,Pilav Üstü Arnavut Ciğeri,"17,00 TL",Ciğerler,5.0
+6ab3e2bf-aae0-490c-9fe5-a2da6df9d140,Yarım Ekmek Arası Arnavut Ciğeri,"9,00 TL",Ciğerler,5.0
+b3bc930b-65df-4258-86c8-10e75bf7d210,Arnavut Ciğeri,"17,00 TL",Ciğerler,5.0
+d5107555-3b40-4c03-bf15-fabb77141689,3/4 Ekmek Arası Arnavut Ciğeri,"13,00 TL",Ciğerler,5.0
+0c94f06a-025e-449f-a920-43d302d483d9,Yarım Ekmek Arası Köfte,"13,00 TL",Köfteler,10.0
+1cc9b1ef-df0a-4d54-884c-84f34e0cc7cc,3/4 Ekmek Arası Köfte,"18,00 TL",Köfteler,5.0
+2f09ed11-3d72-4f56-b39d-aa3b37452a15,Izgara Köfte,"25,00 TL",Köfteler,5.0
+b742aaa5-14cd-4fc2-b57c-3fe84d1c029b,Tam Ekmek Arası Köfte,"25,00 TL",Köfteler,5.0
+3EE1D61F-7712-43A3-A567-7F7D7474D037,Yarım Ekmek Arası Izgara Tavuk,"8,50 TL",Tavuklar,7.0
+5B14B154-C244-414F-BE37-DECF2D6CC4EB,3/4 Ekmek Arası Izgara Tavuk,"13,00 TL",Tavuklar,7.0
+E6A9CBA5-C491-494F-A547-1ECB9B891A61,Tam Ekmek Arası Izgara Tavuk,"16,00 TL",Tavuklar,7.0
+6352B26E-F88C-4458-BC70-69086D6DABA5,Izgara Tavuk,"16,00 TL",Tavuklar,7.0
+0bc93502-7763-48da-af63-ae2cda79102f,Tavuk Döner,"16,00 TL",Tavuk Dönerler,7.0
+252e54dc-6330-4462-a9b8-5f75f1d86a93,Tombik Ekmek Arası Tavuk Döner,"8,00 TL",Tavuk Dönerler,7.0
+29be9e72-9a07-4427-a72b-0ec71c8ad7b8,Yarım Ekmek Arası Tavuk Döner,"7,00 TL",Tavuk Dönerler,7.0
+525f89d1-ca1e-44e2-85de-8ea0f1ccc1cf,Pilav Üstü Tavuk Döner,"16,00 TL",Tavuk Dönerler,7.0
+86c9ec36-7652-4477-8a0f-81fae1215b85,3/4 Ekmek Arası Tavuk Döner,"10,00 TL",Tavuk Dönerler,7.0
+880e3263-ecad-457b-9452-5767bfed50b2,Tam Ekmek Arası Tavuk Döner,"13,00 TL",Tavuk Dönerler,7.0
+16e3c0b3-00ea-4e35-b7a0-e8c777a5a64e,Lahmacun,"6,00 TL",Fırın Ürünleri,9.0
+da282b61-03df-4dd2-ba9a-edd0301d1852,Kaşarlı Lahmacun,"8,00 TL",Fırın Ürünleri,9.0
+621441fd-64be-4260-8441-8c884f5235a5,Kıymalı Pide,"18,00 TL",Fırın Ürünleri,4.0
+d297541d-4e17-46d0-9bfc-77ff93fc6017,Sucuklu Pide,"18,00 TL",Fırın Ürünleri,4.0
+e93fe944-c3ec-4f21-840f-bd5d9d911714,Sucuklu Kaşarlı Pide,"18,00 TL",Fırın Ürünleri,4.0
+1b391694-0e70-4b85-a977-ac358a7bb566,Kavurmalı Kaşarlı Pide,"32,00 TL",Fırın Ürünleri,4.0
+5ca4ab2c-7c3b-4fba-947f-867641d5ef8c,Kavurmalı Yumurtalı Pide,"33,00 TL",Fırın Ürünleri,4.0
+4ebb10d8-cb10-4147-96cb-38f5abccd0b0,Kuşbaşılı Pide,"21,00 TL",Fırın Ürünleri,4.0
+8daf0894-84de-43a5-97bf-1285911e3e50,Kuşbaşılı Kaşarlı Pide,"21,00 TL",Fırın Ürünleri,4.0
+163a61d2-389d-4cb6-a40c-2f4322568989,Kaşarlı Pide,"14,00 TL",Fırın Ürünleri,4.0
+5409e88a-c6a2-4d96-a612-7f9b0219dfc2,Karışık Pide,"19,00 TL",Fırın Ürünleri,4.0
+23b417cc-0bf1-4eae-b067-68012e1754b3,Pirinç Pilavı,"7,00 TL",Yan Ürünler,5.0
+88b3e07e-7068-4de2-b38e-305827d65c7f,Poşet,"0,25 TL",Poşet,5.0

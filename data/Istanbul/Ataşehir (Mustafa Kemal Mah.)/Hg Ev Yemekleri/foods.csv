@@ -1,0 +1,66 @@
+food_id,food_name,food_price,food_category,food_score
+fd715042-cf79-4f95-9e98-305bb0e3aba4,Mantı Menü,"51,00 TL",Günlük Menüler,7.0
+4a024e09-442c-4db2-96a9-0c97869eecd5,Nohut Menü,"39,00 TL",Günlük Menüler,5.0
+148b7443-ad81-4d90-9ce6-bd471343af56,Akçaabat Köfte Menü,"42,00 TL",Günlük Menüler,5.0
+0e8f4f5f-1189-4c66-b4b1-acfaca860085,Günlük Etli Yemek Menü,"52,00 TL",Günlük Menüler,23.0
+09b3086a-2dcf-45e2-a1fb-75ef94880c88,Günlük Tavuklu Yemek Menü,"43,00 TL",Günlük Menüler,18.0
+2db6318a-ceac-424b-a76c-932eef5e5268,Günlük Sebzeli Yemek Menüsü,"39,00 TL",Günlük Menüler,18.0
+7ee083bc-2047-429a-9543-953d130163a9,Izgara Tavuk Menü,"40,00 TL",Izgara Menüleri,3.0
+f2ed3fe2-1235-489a-b98b-5364bb46971d,Izgara Köfte Menü,"44,00 TL",Izgara Menüleri,5.0
+555e415d-0965-4af9-be51-0506670b9575,Buzlu Ayran Aşı Çorbası,"13,00 TL",Günlük Çorbalar,5.0
+4f1cfcea-7921-4bf5-a2b5-b8f41c18de5b,Kıymalı Bamya,"26,00 TL",Günlük Etli Yemekler,5.0
+f88434cf-42a5-4c4e-801a-39e202847f6b,Etli Biber Dolması,"22,00 TL",Günlük Etli Yemekler,4.0
+7e49329e-d92d-4220-846d-c94f1ed1b826,Etli Kabak Dolması,"21,00 TL",Günlük Etli Yemekler,5.0
+6c256025-8f09-4d08-832c-b0951464ea76,Etli Kuru Fasulye,"19,00 TL",Günlük Etli Yemekler,6.0
+5bec4c6f-410f-46a1-a0a8-586ee12cb458,Etli Lahana Sarma,"26,00 TL",Günlük Etli Yemekler,7.0
+8f0c27fa-193f-4205-8cc8-8d4ae30dad7b,Etli Nohut,"19,00 TL",Günlük Etli Yemekler,5.0
+59773ac9-2115-4fa3-935b-ff10f6d6ac8d,Etli Taze Fasulye,"20,00 TL",Günlük Etli Yemekler,4.0
+358c2e0e-6e70-4743-9499-2cdc17ff3379,Etli Yaprak Sarma,"26,00 TL",Günlük Etli Yemekler,10.0
+fd459829-b055-4dcc-a089-deb6de148918,Fırın Köfte,"26,00 TL",Günlük Etli Yemekler,5.0
+226e91da-d8a3-4c00-8357-fc4a3aa33ab5,Karışık Köfte,"41,00 TL",Günlük Etli Yemekler,5.0
+ade1f286-f692-4b4a-9c0c-ef08b72e309b,Kadınbudu Köfte,"32,00 TL",Günlük Etli Yemekler,5.0
+db304cd1-eaa3-4308-afe6-51e9c8118c5b,Kıymalı Bezelye,"19,00 TL",Günlük Etli Yemekler,5.0
+3e2b814e-970e-42b6-bcb7-ef27485467d5,Kıymalı Ispanak,"19,00 TL",Günlük Etli Yemekler,4.0
+7ddefc03-3dcb-45ad-bf9b-54aa3b71c312,Kıymalı Karnabahar,"19,00 TL",Günlük Etli Yemekler,5.0
+615537cb-4978-4238-853b-2a7b84acf38d,Kıymalı Mercimek,"18,00 TL",Günlük Etli Yemekler,4.0
+57c15bf8-6648-4cbc-b3da-f9639fe2c404,Kıymalı Patlıcan Musakka,"23,00 TL",Günlük Etli Yemekler,4.0
+bcb2929d-7d67-4052-af01-a966f3b1fe68,Püreli Kadınbudu Köfte,"44,00 TL",Günlük Etli Yemekler,5.0
+2691da68-11b9-400f-bb4a-4c8cde4adabd,Sulu Köfte,"26,00 TL",Günlük Etli Yemekler,5.0
+75479069-5bec-467b-a2b5-2d8a0680f166,Tavuk Sote,"26,00 TL",Günlük Tavuklu Yemekler,3.0
+893338a5-9fe2-4acd-b92a-dfaa3905e5a7,Kabak Kalye,"19,00 TL",Günlük Sebzeli Yemekler,5.0
+40c7ee70-2fc3-47b4-a2a0-1001bd2831c1,Bamya,"24,00 TL",Günlük Sebzeli Yemekler,5.0
+8dcbcd20-eab1-4b6b-be8d-558811ce04b2,Pazı Kavurma,"19,00 TL",Günlük Sebzeli Yemekler,5.0
+e86e1136-3fc5-43ad-b66d-500fcbfe2baf,Izgara Köfte,"41,00 TL",Izgaralar,5.0
+925a7b59-78b0-4f89-9863-9e358d4bbe5c,Acılı Köfte,"42,00 TL",Izgaralar,5.0
+3ea83599-a1b1-4f92-b06b-83e49038813c,Akçaabat Köfte,"42,00 TL",Izgaralar,5.0
+1972ce17-610b-4971-b42f-cfa0e18b1974,Kaşarlı Köfte,"42,00 TL",Izgaralar,5.0
+8d1d1c28-fb16-4f2d-b1a6-b6d2dfb561e9,Kasap Köfte,"42,00 TL",Izgaralar,5.0
+fa2333bf-9514-4c5e-aa6c-c2099e6ce272,Izgara Tavuk Göğüs,"36,00 TL",Izgaralar,3.0
+5f3b662d-bf2b-4631-8a9d-831e78ed747d,Karışık Izgara,"44,00 TL",Izgaralar,5.0
+5e98c546-af85-4f1e-981a-6aa32ee90ea5,Mantı,"33,00 TL",Mantılar,7.0
+12fbedc9-6778-4082-a3e6-c16a813abbd7,Özbek Mantı,"33,00 TL",Mantılar,7.0
+9bea640c-3ed5-4596-a21d-14a04a9f93ef,Muska Mantı,"32,00 TL",Mantılar,7.0
+4858d63a-5516-49e9-a6c8-78f4946c378e,Kayseri Mantı,"33,00 TL",Mantılar,7.0
+13dfc954-7078-4c92-8819-7b3653abf376,Yaprak Sarma,"26,00 TL",Günlük Yardımcı Yemekler,10.0
+8b620703-2ae8-4fed-bf92-37e8a117131c,Bulgur Pilavı,"10,00 TL",Günlük Yardımcı Yemekler,5.0
+aa39b048-f2fd-41ea-aba9-71e78751301b,Cacık,"12,00 TL",Günlük Yardımcı Yemekler,5.0
+2486023e-2de4-4ee7-b041-8274591d39cd,Kısır,"16,00 TL",Günlük Yardımcı Yemekler,5.0
+ac04b03b-b11e-4540-b1dc-a82010e80d3b,Patates Püresi,"19,00 TL",Günlük Yardımcı Yemekler,5.0
+e3b99538-4d99-4312-b635-a128acc1ad1d,Pirinç Pilavı,"10,00 TL",Günlük Yardımcı Yemekler,5.0
+cdd591c7-a79e-4419-87b7-bc1173f35201,Salçalı Makarna,"16,00 TL",Günlük Yardımcı Yemekler,7.0
+8c8e35a9-6c01-44f7-83c2-d5ec3750ea4f,Turşu,"9,00 TL",Günlük Yardımcı Yemekler,5.0
+560b61d0-086b-4779-b2f1-dbf13ce79376,Yoğurt,"10,00 TL",Günlük Yardımcı Yemekler,5.0
+06499af8-a687-41e6-acad-f84b0de72b79,Zeytinyağlı Barbunya,"18,00 TL",Günlük Yardımcı Yemekler,5.0
+e72866ee-aa33-4471-97df-b88be74eac47,Zeytinyağlı Közlenmiş Biber,"14,00 TL",Günlük Yardımcı Yemekler,4.0
+287fe5a8-f497-41ea-8b57-3fe3cbb08582,Zeytinyağlı Pırasa,"18,00 TL",Günlük Yardımcı Yemekler,4.0
+e92da463-ba6e-4a16-9818-b7454c993c13,Zeytinyağlı Taze Fasulye,"20,00 TL",Günlük Yardımcı Yemekler,4.0
+16e99a4d-68e0-4861-9b9e-492865a6ca0e,Zeytinyağlı Yaprak Sarma,"23,00 TL",Günlük Yardımcı Yemekler,10.0
+1f63bf26-fb5a-4631-8ab9-14286ae1c996,Mevsim Salata,"19,00 TL",Salatalar,5.0
+5fea3c17-0158-4c4c-b520-e388f73e6e7d,Çoban Salata,"19,00 TL",Salatalar,5.0
+fa3ebbf7-4607-4354-aae5-123af337324c,Akdeniz Salata,"26,00 TL",Salatalar,5.0
+7bbf1acb-b239-4fec-88e9-35785461e2c5,Ton Balıklı Salata,"32,00 TL",Salatalar,5.0
+19cf57ee-a343-4469-aafd-d0aa64f2a4ad,Sezar Salata,"34,00 TL",Salatalar,5.0
+4864858c-da8d-42a6-af88-b88af024b4ed,Izgara Köfteli Salata,"39,00 TL",Salatalar,5.0
+5f6851e6-7a74-4084-b5d6-d3b8dbda51a1,Kemalpaşa Tatlısı,"12,00 TL",Tatlılar,5.0
+2f3c04aa-09b4-4eb6-8754-f924b6dbd007,Haşhaş Tatlısı,"15,00 TL",Tatlılar,5.0
+7d5c2197-cea8-47e4-8581-ac9e5c122736,Kazandibi,"12,00 TL",Tatlılar,5.0

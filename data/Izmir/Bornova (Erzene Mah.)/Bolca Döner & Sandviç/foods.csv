@@ -1,0 +1,20 @@
+food_id,food_name,food_price,food_category,food_score
+5366d1eb-dd40-4831-bc48-4da931b15953,İskender (Tavuk Dönerden) Menü,"23,00 TL",Menüler,1.0
+bf0875ed-d33f-4974-8215-202358e1701d,Et Döner Dürüm Menü,"18,00 TL",Menüler,2.0
+d33aae9f-4550-4374-853e-e90b7aefca07,Tavuk Döner Dürüm Menü,"15,00 TL",Menüler,2.0
+17c24847-3961-4c7c-bf96-ea090146ee11,İskender (Et Dönerden) Menü,"30,00 TL",Menüler,1.0
+4a558172-a18f-484d-b0f7-8648fa0cdcd7,2'li Duble Karışık Sandviç Menü,"34,00 TL",Menüler,11.0
+c536888e-303c-4b5f-a4be-faa484faa637,Kaşarlı Et Döner Dürüm,"16,00 TL",Et Dönerler,2.0
+6847dbc0-4395-4f4f-b2cd-2c130df5efff,3/4 Ekmek Arası Et Döner,"17,00 TL",Et Dönerler,-1.0
+807d6cef-cc2b-4915-8f15-30266192f8b3,Kaşarlı Tavuk Döner Dürüm,"12,00 TL",Tavuk Dönerler,2.0
+974ba6de-b32c-4169-8d58-fded8ee6cd34,3/4 Ekmek Arası Tavuk Döner,"13,00 TL",Tavuk Dönerler,-1.0
+04c0c984-adb4-49d3-b3b0-42cf5ab4f92d,Ayvalık Ekmeğine Kaşarlı Tost,"10,00 TL",Tostlar,1.0
+bb0719c7-c217-4bf0-9d8f-cbb0e539b615,Ekmek Arası Sucuk,"12,00 TL",Sandviçler,4.0
+b7e55a05-ad78-4ec4-ae50-74730b2cc764,Sucuklu Kumru Sandviç,"14,00 TL",Sandviçler,6.0
+934e2681-61d5-4a53-97cb-ea9bf1e2a9b2,Yarım Ekmeğe Karışık Sandviç,"14,00 TL",Sandviçler,10.0
+a02006e3-e757-415b-ac25-bcbb37d21e71,Yarım Ekmek Arası Kaşarlı Izgara Köfte,"15,00 TL",Köfteler,3.0
+286bba0f-d130-43df-9132-2b309115f3cd,Sütlaç,"3,00 TL",Tatlılar,5.0
+abb8b0fc-436b-4679-aa24-24b753b92e99,Sakızlı Muhallebi,"3,00 TL",Tatlılar,5.0
+08fa22d3-5af1-40ef-9a6e-be47d1e3ff1c,Puding,"3,00 TL",Tatlılar,4.0
+7991699d-0ebf-408b-a64e-804f491c4466,Limonlu Soda,"3,00 TL",İçecekler,5.0
+ec7cd5d8-7862-40eb-af1d-0b473ed0c896,Su,"1,50 TL",İçecekler,5.0

@@ -1,0 +1,49 @@
+food_id,food_name,food_price,food_category,food_score
+a8fd9579-439e-4364-91f7-f201d427aab9,Peynirli Börek,"12,00 TL",Unlu Mamüller,5.0
+034ed200-507c-42af-b4ae-86579441b00c,Klasik Ekmek (750 gr.),"14,00 TL",Ekmekler,5.0
+48d9edd5-cd1e-4b03-b4b3-fc7b636f0c7c,Cevizli Ekmek (750 gr.),"25,00 TL",Ekmekler,5.0
+92c135e4-db3b-44dc-9a88-b65334e6484f,Zeytinli Ekmek (750 gr.),"19,00 TL",Ekmekler,5.0
+05147137-d8d4-45a8-8598-c176e615c820,Tam Buğday Ekmeği (750 gr.),"19,00 TL",Ekmekler,5.0
+8a021df9-17a2-4948-9e04-953ea11bddee,Fransız Baget Ekmeği (330 gr.),"11,00 TL",Ekmekler,5.0
+31941d34-0ad2-4f4e-9e01-20055a4c776f,Siyez Ekmeği (770 gr.),"25,00 TL",Ekmekler,5.0
+33c9904b-4187-4020-8ae7-b73a6c91956d,Ege Sandviç,"22,00 TL",Sandviçler & Tostlar,5.0
+b348f6c0-47e2-4d7b-8b23-6caea807be5d,Kaşarlı Salamlı Sandviç,"22,00 TL",Sandviçler & Tostlar,5.0
+65a19cc5-e334-4c4e-9202-343b634413bc,Asansör,"41,50 TL",Şerbetli Tatlılar,5.0
+ddac16d8-6489-4a3f-8a32-17d2e95debbd,Nostalji,"41,50 TL",Şerbetli Tatlılar,5.0
+0b6a4aef-ea9e-4d2c-bc31-aac33c2f9e50,Kestaneli Mag (Bardak),"21,50 TL",Bardak Pastalar,5.0
+f857b5ca-068c-463d-83bb-839658f9774e,Balkabaklı (Bardak),"21,50 TL",Bardak Pastalar,5.0
+3841a7ec-6f04-4791-9cf9-5bd6182e76f3,Ananaslı Bademli (Bardak),"21,50 TL",Bardak Pastalar,5.0
+acb84c19-024c-4959-9b3b-611d22f706ef,Sakızlı Markiz (Bardak),"21,50 TL",Bardak Pastalar,5.0
+50c62f31-9169-4ded-8639-7cbfa72e4735,Balım (Adet),"32,00 TL",Özsüt Pastaları (Adet),5.0
+feb96d12-ea65-4ade-8a92-27afcbfedade,Kanaş (6 Kişilik),"114,00 TL",Özsüt Pastaları (Bütün),5.0
+2940b725-1459-40d1-ae85-7367d1d3d8cc,Özsüt Ayva Reçeli,"24,00 TL",Diğer Lezzetler,5.0
+b7444596-ef73-4a9b-b784-59bd385eefb4,Özsüt Çilek Reçeli,"24,00 TL",Diğer Lezzetler,5.0
+d04535d2-0e82-487d-a6e1-d6de13d30b7b,Özsüt Mandalina Reçeli,"24,00 TL",Diğer Lezzetler,5.0
+d19889a9-fa3e-4c91-a4fd-d75511b97fbb,Özsüt Vişne Reçeli,"24,00 TL",Diğer Lezzetler,5.0
+13e3a2ee-5a5b-4b38-b707-ec9997916892,Özsüt Domates Reçeli,"27,00 TL",Diğer Lezzetler,5.0
+764d5505-e35f-499d-813f-a9c701e02e34,Sade Grissini,"22,00 TL",Diğer Lezzetler,5.0
+3004f050-cebf-47fc-aef8-dfde440605f7,Parmesanlı Grissini,"27,00 TL",Diğer Lezzetler,5.0
+27bd8832-7e98-4e79-ba08-4b761f60e756,Dondurma (1 kg.),"72,00 TL",Dondurmalar,5.0
+54a98e21-ff0f-4346-8a54-e0d660eb58bb,Schweppes (25 cl.),"10,00 TL",İçecekler,5.0
+f3cbbaff-2cb5-4ce5-9c82-e3fa89912c29,Limonata,"17,00 TL",İçecekler,5.0
+058c5719-0170-4b73-be3b-d5e4b9b3696c,Çilek Şerbeti (25 cl.),"11,00 TL",İçecekler,5.0
+20d0b2a2-2804-454e-9a77-2b3154771546,Vanilyalı Milkshake,"22,00 TL",Soğuk İçecekler,5.0
+48bc3252-b71d-484a-a95e-a72bb421c926,Çilekli Milkshake,"22,00 TL",Soğuk İçecekler,5.0
+7663e4da-7235-4611-abda-882ecf6ec27c,Muzlu Milkshake,"22,00 TL",Soğuk İçecekler,5.0
+d25184c9-7204-403d-8752-5b15f7f12b86,Çikolatalı Milkshake,"22,00 TL",Soğuk İçecekler,5.0
+06e8b571-4fd8-4169-9cb2-4e4cfe5a91c3,Türk Kahvesi,"12,50 TL",Sıcak Kahveler,5.0
+81556df4-2f35-4748-91f0-f68683dc246f,Damla Sakızlı Türk Kahvesi,"13,00 TL",Sıcak Kahveler,5.0
+bbc2cb31-a2bf-479a-b2f1-372fb53c6cb7,Spesiyal Çikolata Salted Caramel (1 kg.),"227,00 TL",Çikolatalar,5.0
+562b94a9-593d-409c-bde4-ad86a051d65b,Spesiyal Çikolata Madagascar Finger (1 kg.),"227,00 TL",Çikolatalar,5.0
+95aeacad-c187-4ab9-8ca2-9a15d1380515,Spesiyal Çikolata Coco (1 kg.),"227,00 TL",Çikolatalar,5.0
+3f8dc97d-53e8-4c04-8be9-759820a9c166,Spesiyal Çikolata Mystique (1 kg.),"227,00 TL",Çikolatalar,5.0
+465c9051-fb83-44fa-99a2-339c153d86b8,Spesiyal Çikolata Natural Noir (1 kg.),"227,00 TL",Çikolatalar,5.0
+f3c548fe-6645-4b11-8617-a586b3e11a52,Spesiyal Çikolata Mendiant (1 kg.),"227,00 TL",Çikolatalar,5.0
+a2a2f803-556f-4d84-96f7-04e5772467d8,Spesiyal Çikolata Bitter Truf (1 kg.),"227,00 TL",Çikolatalar,5.0
+394e2b25-d92b-4b44-8765-99f8e1787423,Spesiyal Çikolata Oranjet (1 kg.),"227,00 TL",Çikolatalar,5.0
+ab828fa6-a38b-48e9-81fa-c66a9efa8865,Madlen Sütlü Çikolata (1 kg.),"177,00 TL",Çikolatalar,5.0
+babf16c3-f015-4f91-81b6-6cc0bd86713c,Madlen Bitter Çikolata (1 kg.),"177,00 TL",Çikolatalar,5.0
+edb86ae8-6f33-416d-a3ca-79e7c6c51c0e,Kazandibi (1 kg.),"86,00 TL",Kiloluk Ürünler,5.0
+a2dc30d6-078b-47ee-b914-3832ff91ad43,Ekmek Kadayıfı (1 kg.),"86,00 TL",Kiloluk Ürünler,5.0
+0ac23cff-c4ed-44bc-903d-2e755a89f28a,Kıymalı Börek (1 kg.),"77,00 TL",Kiloluk Ürünler,5.0
+9d876fe3-8190-4a6a-8682-446399920167,Peynirli Börek (1 kg.),"67,00 TL",Kiloluk Ürünler,5.0

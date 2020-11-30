@@ -1,0 +1,114 @@
+food_id,food_name,food_price,food_category,food_score
+4e118ac4-5167-44eb-9533-4ab64d8375c5,Çocuk Menüsü,"25,00 TL",Menüler,5.0
+cd2939a1-6d3c-49c5-97da-f1f334f5659f,Köri Soslu Tavuk Menü,"32,00 TL",Menüler,9.0
+14c60e04-07fe-4e2e-bec5-ba2327dbfbea,Barbekü Soslu Tavuk Menü,"32,00 TL",Menüler,9.0
+0df612f3-8f06-419f-9acd-2b3e4628182e,Meksika Soslu Tavuk Menü,"32,00 TL",Menüler,9.0
+eac59849-5c66-4fd0-99c0-9bcee46c5936,Tavuklu Wrap Menü,"28,00 TL",Menüler,9.0
+a6fd2532-51a5-40b0-84f3-ed5cbdb09e02,Genç Menü,"30,00 TL",Menüler,5.0
+121343f9-656b-4877-9625-19c3b1a84d95,Hamburger Menü,"30,00 TL",Menüler,9.0
+a9e7b06f-c6a5-4882-aa15-093e2c1d0f6d,Cheeseburger Menü,"32,00 TL",Menüler,10.0
+b2e7bb0b-5fb3-4d51-9cda-945ea7a5710c,Köfteli Wrap Menü,"30,00 TL",Menüler,5.0
+2c345b10-7078-4289-9d4b-6ee62db41fe6,Orta Menü,"35,00 TL",Menüler,5.0
+418db8c6-04fb-4c27-b510-a463fe77fd66,Aile Menü,"75,00 TL",Menüler,5.0
+56f00bd5-910c-4dd0-b712-56ba1cd46afc,Jumbo Menü,"85,00 TL",Menüler,5.0
+8a96d619-6a64-4eea-a730-e6d8e2b5a9a7,Anatolia Pizza (Small),"25,00 TL",Pizzalar (Small) (24 cm.),15.0
+f3b6d72d-b25e-44d7-b78b-8296144d6c98,BBQ Tavuklu Pizza (Small),"25,00 TL",Pizzalar (Small) (24 cm.),19.0
+67fbbe5e-7e4a-4aaf-8820-17dac48bba89,Beyaz Peynirli Pizza (Small),"25,00 TL",Pizzalar (Small) (24 cm.),15.0
+ccd4254a-249a-4a35-b5b8-bccbec8fe2ba,Dört Peynirli Pizza (Small),"25,00 TL",Pizzalar (Small) (24 cm.),15.0
+929cb742-b39f-41d6-8085-033a59a7338c,Fit Pizza (Small),"25,00 TL",Pizzalar (Small) (24 cm.),15.0
+431bea26-9c88-46f3-9705-b04bd3221ec9,Füme Hindi Pizza (Small),"25,00 TL",Pizzalar (Small) (24 cm.),15.0
+07d119e1-698a-409d-b11d-229fd48fe24c,Füme Kaburgalı Pizza (Small),"30,00 TL",Pizzalar (Small) (24 cm.),15.0
+4558828f-a15a-44bc-a0fa-62d9bcbac3b5,Hawaii Pizza (Small),"25,00 TL",Pizzalar (Small) (24 cm.),15.0
+337f0866-923e-4b22-ab63-f8775569466b,Inferno Pizza (Small),"25,00 TL",Pizzalar (Small) (24 cm.),16.0
+f8d4ea77-52f4-42c8-aa97-75abf2c682d9,Karışık Pizza (Small),"25,00 TL",Pizzalar (Small) (24 cm.),15.0
+93792871-a20f-479d-9539-f036fcfd0ad7,Kasap Sucuklu Pizza (Small),"30,00 TL",Pizzalar (Small) (24 cm.),15.0
+3b892d37-18e9-4381-a9df-f8d82cd8071e,Kavurmalı Pizza (Small),"30,00 TL",Pizzalar (Small) (24 cm.),15.0
+e2551512-34ac-40b3-ba07-082476ff4426,Mantarlı Pizza (Small),"22,00 TL",Pizzalar (Small) (24 cm.),15.0
+db0abb8b-a44b-41f1-a75d-76495485974f,Margherita Pizza (Small),"22,00 TL",Pizzalar (Small) (24 cm.),15.0
+fa8bc491-48fb-4092-b3f2-f85d491a176b,Pastırmalı Pizza (Small),"30,00 TL",Pizzalar (Small) (24 cm.),15.0
+b6e7874c-e823-44a2-8947-fb6bbbf5e64b,Pepperoni Pizza (Small),"27,00 TL",Pizzalar (Small) (24 cm.),15.0
+3ea0f438-35f6-41a0-97e3-0aadf723f2ba,Salamlı Pizza (Small),"25,00 TL",Pizzalar (Small) (24 cm.),15.0
+3918afbb-521f-4ed3-8cc7-15d3daef80e8,Şarküteri Pizza (Small),"30,00 TL",Pizzalar (Small) (24 cm.),15.0
+2edeeb18-08a7-474c-9a1b-38c3e9e9d878,Sosisli Pizza (Small),"25,00 TL",Pizzalar (Small) (24 cm.),15.0
+5986f1a9-3aba-463f-88b6-ce244248227e,Sucuklu Pizza (Small),"25,00 TL",Pizzalar (Small) (24 cm.),15.0
+f2dae8c0-7c2c-4db0-9e54-6d6a2bd5fd12,Tavuklu Sezar Pizza (Small),"25,00 TL",Pizzalar (Small) (24 cm.),18.0
+772dd91a-d98e-4be7-b993-ce02a689a5e3,Ton Balıklı Pizza (Small),"25,00 TL",Pizzalar (Small) (24 cm.),15.0
+c9231572-37d3-4b41-9d55-d3013f167f65,Vejeteryan Pizza (Small),"25,00 TL",Pizzalar (Small) (24 cm.),15.0
+a068d267-3ab6-40e6-962e-f79604e7c0b6,Zeytinli Pizza (Small),"25,00 TL",Pizzalar (Small) (24 cm.),15.0
+66ed7a3a-6184-41cb-af1d-f21110f31ccd,Anatolia Pizza (Medium),"33,00 TL",Pizzalar (Medium) (30 cm.),15.0
+8d531192-8007-4431-9bbb-36d07d3d0293,BBQ Tavuklu Pizza (Medium),"34,00 TL",Pizzalar (Medium) (30 cm.),19.0
+17bd3b6b-fa3f-49f4-99cd-448e40bd5bba,Beyaz Peynirli Pizza (Medium),"33,00 TL",Pizzalar (Medium) (30 cm.),15.0
+f3ab663e-8dbe-47f0-8248-fcab332bb6fd,Dört Peynirli Pizza (Medium),"33,00 TL",Pizzalar (Medium) (30 cm.),15.0
+4dd8c2b2-cefb-4817-abf6-a672de1196a2,Fit Pizza (Medium),"33,00 TL",Pizzalar (Medium) (30 cm.),15.0
+5f5662cf-dac2-4d79-80e5-62c1d8ed1bbe,Füme Hindi Pizza (Medium),"30,00 TL",Pizzalar (Medium) (30 cm.),15.0
+d6b54190-994e-4261-b43a-9d21d21bf16d,Füme Kaburgalı Pizza (Medium),"37,00 TL",Pizzalar (Medium) (30 cm.),15.0
+ca92d57f-6147-4ee9-890f-396b86ff8619,Hawaii Pizza (Medium),"35,00 TL",Pizzalar (Medium) (30 cm.),15.0
+6dc1391a-0aa5-44ca-a05d-dce95fd36e0d,Inferno Pizza (Medium),"35,00 TL",Pizzalar (Medium) (30 cm.),16.0
+c7148ceb-2c59-4616-b22a-e8d6b2e87d20,Karışık Pizza (Medium),"35,00 TL",Pizzalar (Medium) (30 cm.),15.0
+d802379b-a471-4f97-8183-e6b89c4f86bc,Kasap Sucuklu Pizza (Medium),"37,00 TL",Pizzalar (Medium) (30 cm.),15.0
+4995c618-8c32-492e-8288-4757422b4d8b,Kavurmalı Pizza (Medium),"37,00 TL",Pizzalar (Medium) (30 cm.),15.0
+e0c51e61-cd65-4817-884f-1d70aef29508,Mantarlı Pizza (Medium),"33,00 TL",Pizzalar (Medium) (30 cm.),15.0
+8e16db4b-bab8-4aa6-b420-f17c625239ed,Margherita Pizza (Medium),"30,00 TL",Pizzalar (Medium) (30 cm.),15.0
+ed953145-b8f1-44cf-b507-0bc699860c75,Pastırmalı Pizza (Medium),"37,00 TL",Pizzalar (Medium) (30 cm.),15.0
+0921938e-53bf-4356-9609-b12d7e316a27,Pepperoni Pizza (Medium),"35,00 TL",Pizzalar (Medium) (30 cm.),15.0
+75d088b7-078f-48e4-b117-1e7d73fea784,Salamlı Pizza (Medium),"30,00 TL",Pizzalar (Medium) (30 cm.),15.0
+39f022f0-dd04-440c-b554-2cc15c7bf3f5,Şarküteri Pizza (Medium),"40,00 TL",Pizzalar (Medium) (30 cm.),15.0
+0e78e798-749d-4461-bbf9-e2c41eb4896b,Sosisli Pizza (Medium),"33,00 TL",Pizzalar (Medium) (30 cm.),15.0
+dc167f30-6a42-406b-bf91-c1da4a19dda9,Sucuklu Pizza (Medium),"35,00 TL",Pizzalar (Medium) (30 cm.),15.0
+7477b4b5-3091-4a1b-9c71-337703283b62,Tavuklu Sezar Pizza (Medium),"35,00 TL",Pizzalar (Medium) (30 cm.),18.0
+20c010bd-0337-42aa-9f70-646e1e81a484,Ton Balıklı Pizza (Medium),"35,00 TL",Pizzalar (Medium) (30 cm.),15.0
+d9ba7630-15c3-41b6-b90c-30df89f52bb2,Vejeteryan Pizza (Medium),"33,00 TL",Pizzalar (Medium) (30 cm.),15.0
+b3da32ae-1bba-4b54-9eca-2159607ec769,Zeytinli Pizza (Medium),"33,00 TL",Pizzalar (Medium) (30 cm.),15.0
+2be4a212-1c15-4f78-9ee1-d23d12d2209f,Anatolia Pizza (Large),"45,00 TL",Pizzalar (Large) (34 cm.),15.0
+3bea4a03-3b08-419f-ab96-01b36849a2db,BBQ Tavuklu Pizza (Large),"47,00 TL",Pizzalar (Large) (34 cm.),19.0
+5b037300-b303-4df2-ab19-7e5f3cb03f26,Beyaz Peynirli Pizza (Large),"43,00 TL",Pizzalar (Large) (34 cm.),15.0
+d126bb19-9b7a-46fa-b1ca-9ff8393a0e62,Dört Peynirli Pizza (Large),"43,00 TL",Pizzalar (Large) (34 cm.),15.0
+13dfda16-8c86-4352-a8ee-cb7514843e13,Fit Pizza (Large),"43,00 TL",Pizzalar (Large) (34 cm.),15.0
+40f830bb-d6fd-4af7-bed3-e2431c7cfedc,Füme Hindi Pizza (Large),"40,00 TL",Pizzalar (Large) (34 cm.),15.0
+68761ca2-6257-400a-b7df-9848b35a8d6c,Füme Kaburgalı Pizza (Large),"49,00 TL",Pizzalar (Large) (34 cm.),15.0
+15885dae-3bcc-47fb-adbd-826183da5816,Hawaii Pizza (Large),"47,00 TL",Pizzalar (Large) (34 cm.),15.0
+865a2291-487a-4e2a-89cc-0bf56b479887,Inferno Pizza (Large),"47,00 TL",Pizzalar (Large) (34 cm.),16.0
+68493ceb-1561-44c9-ac75-67a8cc0a27d9,Karışık Pizza (Large),"47,00 TL",Pizzalar (Large) (34 cm.),20.0
+93e8332d-49e7-42f6-b52c-9d89a006c301,Kasap Sucuklu Pizza (Large),"49,00 TL",Pizzalar (Large) (34 cm.),15.0
+d697ca25-a871-47e6-ba0b-aec0facd3180,Kavurmalı Calzone Pizza (Large),"49,00 TL",Pizzalar (Large) (34 cm.),15.0
+9939d099-6edd-46c5-b99e-b21a2e89eb1b,Kavurmalı Pizza (Large),"49,00 TL",Pizzalar (Large) (34 cm.),15.0
+a9166c98-4f34-4cbf-81de-b98e3656c71c,Mantarlı Pizza (Large),"39,00 TL",Pizzalar (Large) (34 cm.),15.0
+e488efe3-a4ea-4af2-9826-599ef0431e02,Margherita Pizza (Large),"37,00 TL",Pizzalar (Large) (34 cm.),15.0
+41b872a8-24c6-469b-b87f-38919ffd9270,Pastırmalı Pizza (Large),"49,00 TL",Pizzalar (Large) (34 cm.),15.0
+12b576bf-033a-4307-acf5-e65bc8d87954,Pepperoni Pizza (Large),"47,00 TL",Pizzalar (Large) (34 cm.),15.0
+069784f6-e384-456e-8ab7-844bb32c6146,Salamlı Pizza (Large),"37,00 TL",Pizzalar (Large) (34 cm.),15.0
+9a738fe4-9ef6-4ac9-8604-d8ae8fc83349,Şarküteri Pizza (Large),"49,00 TL",Pizzalar (Large) (34 cm.),15.0
+4246ebcf-d00f-4540-8187-77372f9c3314,Sosisli Pizza (Large),"37,00 TL",Pizzalar (Large) (34 cm.),15.0
+f70a9993-e56f-4603-8497-6da6c9e562c6,Sucuklu Pizza (Large),"40,00 TL",Pizzalar (Large) (34 cm.),15.0
+b27140cc-cf5b-40c2-9087-d286e3efc5eb,Tavuklu Sezar Pizza (Large),"47,00 TL",Pizzalar (Large) (34 cm.),18.0
+739d300f-7fcc-46b5-8132-b71e7e3563b0,Ton Balıklı Pizza (Large),"47,00 TL",Pizzalar (Large) (34 cm.),15.0
+c68dd102-5d56-4bf9-837f-fb51840fb521,Vejeteryan Pizza (Large),"40,00 TL",Pizzalar (Large) (34 cm.),15.0
+3fa4c5cd-269f-4f69-b49d-58092e4b1562,Zeytinli Pizza (Large),"40,00 TL",Pizzalar (Large) (34 cm.),15.0
+42cb1266-817d-44c7-8b9b-341516e89e3d,Izgara Köfte,"35,00 TL",Izgaralar,5.0
+7f049f6d-e092-45b8-86de-158213aa88b3,Izgara Tavuk,"30,00 TL",Izgaralar,9.0
+821918e2-a111-44f4-81a7-fe0020138d43,Penne Arrabbiata,"27,00 TL",Makarnalar,6.0
+d46a2f06-d920-4ece-9dd7-cab2faa56991,Spaghetti Napolitan,"25,00 TL",Makarnalar,5.0
+d72cd980-9387-4d87-a16b-07394f3e5099,Fettuccine Alfredo,"27,00 TL",Makarnalar,7.0
+ee388ba3-ef3b-444c-9136-9252e9733acf,Spaghetti Bolognese,"30,00 TL",Makarnalar,5.0
+295abaec-05d9-4682-8a3f-104c131d6d0a,Beyaz Peynirli Akdeniz Salata,"16,00 TL",Salatalar,5.0
+3f822cf0-8fb7-43d5-b668-06728d951324,Fit Salata,"17,00 TL",Salatalar,5.0
+41a8a208-1e67-4b1d-ba6a-50c537bc8098,Sezar Salata,"20,00 TL",Salatalar,4.0
+82b4e26f-6cd2-4bd5-9bdf-0870ffb9e1eb,Füme Salata,"29,00 TL",Salatalar,5.0
+8982f2a8-dc8c-4eed-82c9-910a46072461,Ton Balıklı Salata,"19,00 TL",Salatalar,5.0
+d504c2d2-7476-4f50-a98c-783d8851c8d9,Roka Salatası,"17,00 TL",Salatalar,5.0
+f95dbfe5-77e0-4e49-a578-c4fa3dae658d,Tavuklu Salata,"19,00 TL",Salatalar,9.0
+0555fb78-56a0-483f-b508-3408561fa3c4,Aperitif Sepeti,"27,00 TL",Yan Ürünler,5.0
+09f5c97f-b638-4382-9273-02636aa8ec62,Soğan Halkası (10 Adet),"10,00 TL",Yan Ürünler,5.0
+25c1cf57-c477-454b-82d4-5927b9cf8b22,Elma Dilim Patates Kızartması,"10,00 TL",Yan Ürünler,5.0
+3de12d15-7c18-45ab-af8e-7acfcbfc36b8,Parmak Patates Kızartması,"10,00 TL",Yan Ürünler,5.0
+6c15b4cd-3ff4-4a81-9f39-a356a8a4ff91,Piliç Sepeti,"19,00 TL",Yan Ürünler,7.0
+089aa76a-8b50-4926-aa97-6d8924ca57b5,Çikolatalı Brownie,"10,00 TL",Tatlılar,5.0
+4f1297b6-a49b-495a-b202-56f7e59e656d,Çikolatalı Pizza (Small),"20,00 TL",Tatlılar,15.0
+5440a849-9015-4cab-aee5-a3939884c689,Meyveli Çikolatalı Pizza (Large),"32,00 TL",Tatlılar,15.0
+620e4208-30ec-4c57-a09d-43d5913c9b78,Sufle,"10,00 TL",Tatlılar,14.0
+66486dc5-3743-46b2-bcb2-f209c4bc39bb,Meyveli Çikolatalı Pizza (Medium),"27,00 TL",Tatlılar,15.0
+74c287a8-d08e-468e-b5da-0cc823407713,Çikolatalı Pizza (Large),"27,00 TL",Tatlılar,15.0
+b21a0e66-378f-4c72-8d3d-30ad47e4e551,Meyveli Çikolatalı Pizza (Small),"22,00 TL",Tatlılar,15.0
+c3c46af4-94d6-4ae6-bdc2-071d374fde35,Çikolatalı Pizza (Medium),"25,00 TL",Tatlılar,15.0
+9d7cbbe9-fa94-4080-acc9-2b44083062b2,Coca-Cola Şekersiz (20 cl.),"5,00 TL",İçecekler,5.0
+4ef1f2fd-2799-47ec-a2fb-85b0699324a5,Poşet,"0,25 TL",Poşet,5.0

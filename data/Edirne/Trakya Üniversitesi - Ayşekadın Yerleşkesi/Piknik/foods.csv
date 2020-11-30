@@ -1,0 +1,40 @@
+food_id,food_name,food_price,food_category,food_score
+511e55c8-77dc-4d42-aab8-54d057126ec2,2'li Tavuk Burger Menü,"30,00 TL",Menüler,2.0
+2AD237E9-C454-4AA7-90AE-AC5A69E5D97B,5'li Islak Hamburger Menü,"55,00 TL",Menüler,1.0
+97FAF52E-DB6D-441E-8293-C98E9C745BB0,10'lu Burger Menü,"100,00 TL",Menüler,5.0
+AACD1E45-7341-439D-8E90-225A7BB21B57,Öğrenci Menüsü,"15,00 TL",Menüler,10.0
+2e256365-d8a8-4029-a692-e9d6858aacc4,6'lı Tilki Burger Menü,"63,00 TL",Menüler,5.0
+fafa7040-cc30-4552-a04b-97f863977c0c,Alayına Tilki Menü,"20,00 TL",Menüler,5.0
+cbb4a34d-acb2-4c33-8d0a-550c05489fb3,Çıtır Tavuk Burger Menü,"20,00 TL",Menüler,2.0
+22b2f3a9-91ee-49d6-9e98-63a37969f69f,Double Burger Menü,"36,00 TL",Menüler,7.0
+110aa6b8-3d17-43c4-86f2-f3de4f5916ad,Double Tavuk Burger Menü,"26,00 TL",Menüler,4.0
+b85ed801-b02f-41bb-a121-b597cf4de18b,Karışık Izgara Menü,"38,00 TL",Menüler,5.0
+329e512a-a78b-468e-b6ab-4fd5ee6934a8,Maç Menüsü,"23,00 TL",Menüler,5.0
+3b52ff33-2ef7-4793-a882-7bbd80a4341e,Piknik Menü,"20,00 TL",Menüler,5.0
+420f5f27-4c83-4a15-8016-dd86e97f4919,Şef Burger Menü,"46,00 TL",Menüler,5.0
+ce14667a-524a-4bc0-bcf3-1b4328bfdb65,Tavuk Burger Menü,"21,00 TL",Menüler,2.0
+6aa91711-177f-4370-b26f-4effb3e11e78,Tavuk Şiş Dürüm Menü,"24,00 TL",Menüler,0.0
+4edb7659-45eb-4855-9e94-2b12693f95fe,Tilki Burger Menü,"18,00 TL",Menüler,5.0
+28EBA75B-D4C0-42F6-83CC-81E4947AF68E,Türk Burgeri,"30,00 TL",Burgerler,5.0
+be83e828-e8dd-44e7-bf43-931ea8e573d5,Double Burger,"25,00 TL",Burgerler,7.0
+b4f3070f-2790-446b-b255-33c6e1ade780,Islak Hamburger,"10,00 TL",Burgerler,6.0
+e2d0e29f-b784-4527-9125-ae38b1ba4736,Islak Tavuk Burger,"8,00 TL",Burgerler,0.0
+43408FA2-CAB6-473B-A8BC-5915FD825ECD,Tavuk Burger,"15,00 TL",Burgerler,2.0
+3E911A18-992A-4D1A-A6EA-E6D588F89EF1,Acılı Tavuk Tantuni Dürüm,"14,00 TL",Ekmek Arası Ürünler & Dürümler,0.0
+94798da4-abf9-498f-a332-d76cee40ea34,Ekmek Arası Köftepat,"30,00 TL",Ekmek Arası Ürünler & Dürümler,5.0
+0983FC0E-E08E-4D65-A819-BC6BC874E6BF,Kaşarlı Tavuk Şiş Dürüm,"22,00 TL",Ekmek Arası Ürünler & Dürümler,0.0
+abdbf26f-9b63-47cd-a1a2-5c8541935cb1,Köfte Dürüm,"22,00 TL",Ekmek Arası Ürünler & Dürümler,4.0
+9e42ebe9-4ea7-46c8-9f8f-16bc04dd4bd5,Tam Ekmek Arası Tavuk Köftesi,"22,00 TL",Ekmek Arası Ürünler & Dürümler,2.0
+35f78dfd-e5dd-418f-857b-ab9842631d1f,Yarım Ekmek Arası Tavuk Köftesi,"17,00 TL",Ekmek Arası Ürünler & Dürümler,2.0
+451ddd42-e7f7-437e-a9f5-651fb720611f,Yarım Ekmek Arası Tavuk Şiş,"17,00 TL",Ekmek Arası Ürünler & Dürümler,2.0
+4CEDB7D9-ECC4-4D07-BB34-BFDEDD4660D9,Çıtır Tavuk Lokum,"17,00 TL",Diğer Lezzetler,2.0
+d95cbd46-a401-439d-9eae-0ea46a76943b,Patates Kızartması,"9,00 TL",Yan Ürünler,2.0
+fedcc190-c58d-48fa-86bf-69d8daadde39,Patates Kızartması (Küçük),"7,00 TL",Yan Ürünler,2.0
+648b1b96-6338-4ab5-a2ed-f8d43e40f748,Patatesli Sigara Böreği (4 Adet),"10,00 TL",Yan Ürünler,5.0
+54b69a17-f0fb-4764-90ed-2970d9de8bac,Peynirli Sigara Böreği (4 Adet),"10,00 TL",Yan Ürünler,5.0
+45e828de-4f1a-457c-9af3-7bab4a2e1bd9,Pirinç Pilavı,"8,00 TL",Yan Ürünler,5.0
+4e9792db-69fc-4614-8d5a-a2c14b40cc7c,Soğan Halkası (115 gr.),"8,00 TL",Yan Ürünler,6.0
+64b5ebc2-f9a1-4b85-a09e-74b560fbc84b,Sosisli Duble Patates Kızartması,"9,00 TL",Yan Ürünler,2.0
+2a66432d-33fd-4a4e-9254-83f680428fc8,Tiramisu,"12,00 TL",Tatlılar,5.0
+407a236d-59c9-408e-9973-02282479409b,Su,"2,50 TL",İçecekler,5.0
+2866b0d0-5d40-4101-8de7-ead398061c47,Poşet,"0,25 TL",Poşet,5.0

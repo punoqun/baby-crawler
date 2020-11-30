@@ -1,0 +1,36 @@
+food_id,food_name,food_price,food_category,food_score
+08ce159a-fd00-42b7-8287-e818150aacfb,İzmir Eritme Kaşarlı Sandviç Menü,"21,00 TL",Menüler,3.0
+895aba05-5b2f-4ad6-90c5-08565587de74,İzmir Sandviç Menü,"18,00 TL",Menüler,3.0
+925fb543-612c-4c53-90e7-e32a4b481d73,Tavuk Döner Dürüm Menü,"17,00 TL",Menüler,11.0
+c3c4457d-3445-49ec-8879-8d5c82700e5d,Tavuk Döner Dürüm Menü 2,"19,00 TL",Menüler,14.0
+85fe67a0-10e5-4f41-83d1-e1280a531082,Tavuk Döner Dürüm Menü 3,"34,50 TL",Menüler,12.0
+838be03a-2e27-4aaf-aa39-8ba9ecbf14b7,Tavuk Döner Dürüm Menü 4,"62,00 TL",Menüler,10.0
+43b5ef31-e213-4d1f-af34-65084488d192,Yengen Sandviç Menü,"18,00 TL",Menüler,5.0
+bd6de59f-0917-449a-a988-d3cc8211ac46,Kaşarlı Tost,"9,00 TL",Tostlar,5.0
+61c8bcc2-ff05-4ed0-9304-51a6f4cbfff5,Sucuklu Tost,"9,00 TL",Tostlar,5.0
+b1851e6b-4694-46d3-b1af-8d6f831dbeb2,Kaşarlı Sucuklu Tost,"11,00 TL",Tostlar,5.0
+7537f211-0698-4fb7-972e-628b4a6064ca,Kaşarlı Sucuklu Yumurtalı Tost,"12,00 TL",Tostlar,5.0
+c9e86476-b5cf-488f-8b39-ae5993355528,3/4 Ekmek Arası Tavuk Döner,"14,00 TL",Tavuk Dönerler,8.0
+7779e1ae-2a15-4e96-8d21-1da5b11b1f6a,Pilav Üstü Tavuk Döner,"20,00 TL",Tavuk Dönerler,11.0
+020b2e4e-4699-41ed-8ae0-20ceb40fd4bd,Tam Ekmek Arası Tavuk Döner,"14,00 TL",Tavuk Dönerler,14.0
+637d1972-bc17-4310-89c2-c5f9700504c8,Tavuk Döner,"18,00 TL",Tavuk Dönerler,9.0
+d354a223-def2-4a29-b025-9ce5939b35eb,Yarım Ekmek Arası Tavuk Döner,"10,00 TL",Tavuk Dönerler,8.0
+bcdf55ae-3378-43f4-b481-efc3ec35929f,Et Döner,"16,00 TL",Et Dönerler,8.0
+19a391dc-304a-4efb-a393-872536fa391a,Zurna Et Döner Dürüm,"18,00 TL",Et Dönerler,10.0
+cf5e9596-fd92-459c-a5c7-c7f1c19fc873,Et Döner (180 gr.),"23,00 TL",Et Dönerler,8.0
+33d201c7-e786-48bf-9bbc-7343cb813edb,Pilav Üstü Et Döner (180 gr.),"25,00 TL",Et Dönerler,10.0
+2c0c4b68-976d-4c94-92ad-d7b6995a3be8,Et Döner Dürüm,"15,00 TL",Et Dönerler,10.0
+0aa9b240-8f7c-4447-aa34-fd9eb1137eca,Veggie Dürüm,"9,00 TL",Dürümler,7.0
+47d888bd-6ac4-4399-a8ef-a1aadda3e20d,İzmir Eritme Kaşarlı Sandviç,"15,00 TL",Sandviçler & Ekmek Arası Ürünler,3.0
+d987ddf8-8810-46d4-9b11-f999e6e506c1,Cips Sandviç,"9,00 TL",Sandviçler & Ekmek Arası Ürünler,5.0
+30cbe4b0-daed-48da-b36c-ca83c6054fde,Yengen Sandviç,"12,00 TL",Sandviçler & Ekmek Arası Ürünler,5.0
+7059d715-3a0c-47ac-ac9b-f5e31a1f6437,Sosisli Sandviç,"11,00 TL",Sandviçler & Ekmek Arası Ürünler,5.0
+304FB296-9A9A-40E3-994C-4DF6A85A66E9,Ekmek Arası Kasap Köfte,"15,00 TL",Sandviçler & Ekmek Arası Ürünler,4.0
+014897e5-081f-4316-9b2c-dc09255e42ae,Hamburger (Büyük),"17,00 TL",Diğer Lezzetler,5.0
+5ef6a73d-12ac-48e6-9de7-4d93742c65eb,Izgara Köfte,"25,00 TL",Diğer Lezzetler,5.0
+f2593e76-b2fc-4293-9229-f52492389b2e,Patates Kızartması,"10,00 TL",Yan Ürünler,4.0
+3abc3f60-d0db-4a11-9e38-356216d3648c,Patates Kızartması (Küçük),"5,00 TL",Yan Ürünler,4.0
+fbcdf298-b5ac-45a4-b7ba-cc90995d6e25,Pilav,"5,00 TL",Yan Ürünler,7.0
+9c79059a-c75e-432c-a06a-e56ed2399b93,Pepsi (25 cl.),"5,00 TL",İçecekler,5.0
+d50bd2b6-4b87-4ede-9f50-709c43ee2b39,Yedigün (25 cl.),"5,00 TL",İçecekler,5.0
+fe22fd57-0387-48b2-9c70-b3c1f3c3ae06,Poşet,"0,25 TL",Poşet,5.0

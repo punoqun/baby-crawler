@@ -1,0 +1,21 @@
+food_id,food_name,food_price,food_category,food_score
+d1e2d18d-964a-46f7-bd18-7ec072f9b57c,Menü 1,"16,00 TL",Menüler,8.0
+e43f8793-fc29-43d5-b3a9-95a16b3a49de,Menü 2,"18,00 TL",Menüler,5.0
+81f8390e-5b5b-49d2-a707-e0d4d7bee444,Menü 3,"8,00 TL",Menüler,10.0
+785da5d6-05da-4620-81aa-af73498bf700,Menü 4,"32,00 TL",Menüler,5.0
+59f23e62-688f-4569-8654-00d7c528e565,Menü 5,"55,00 TL",Menüler,3.0
+025cbd5e-7a66-4cec-b9bd-013e792e1f1f,Menü 6,"9,00 TL",Menüler,5.0
+0da6a61d-53fd-4577-8116-283c71518790,Menü 7,"42,00 TL",Menüler,5.0
+1a3a16c6-0657-4082-99ff-397618d41f7f,Menü 8,"55,00 TL",Menüler,5.0
+26603602-23e7-4148-a54a-51221b94fe37,Menü 9,"29,00 TL",Menüler,5.0
+cc4a2ae9-c0c8-42b3-acf6-72d26aa224b9,Kaşarlı Tost,"7,00 TL",Tostlar,5.0
+72fde61b-70ae-465c-9284-9c74bd29e041,Karışık Tost,"12,00 TL",Tostlar,5.0
+71515e71-d0e4-4b76-841b-e2cc62f4ccd5,Çiğ Köfte Dürüm,"6,00 TL",Çiğ Köfteler,11.0
+82216099-2ae8-413e-ba2e-725ad76a788d,Double Çiğ Köfte Dürüm,"9,00 TL",Çiğ Köfteler,11.0
+94670fe4-c7ab-4b7a-9344-85ed69d743e0,Çiğ Köfte (300 gr.),"16,00 TL",Çiğ Köfteler,6.0
+b74cb7cc-e924-4aa3-b642-b7199500b645,Çiğ Köfte (500 gr.),"26,00 TL",Çiğ Köfteler,6.0
+c499ec22-7ada-4bbf-ad4d-bd7a47c25949,Çiğ Köfte (750 gr.),"36,00 TL",Çiğ Köfteler,6.0
+c95bc9bf-1a25-4d1f-89f1-424434347a48,Çiğ Köfte (1 kg.),"50,00 TL",Çiğ Köfteler,6.0
+6a515a75-ab95-42a3-97c0-0daefa3a9526,Lavaş (Adet),"0,50 TL",Yan Ürünler,5.0
+fd1429c0-5852-45d3-b4db-0a76abcb8652,Turşu Suyu (30 cl.),"3,50 TL",İçecekler,5.0
+19ecaf7d-41b1-482f-b196-1aa8188ef1e2,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,39 @@
+food_id,food_name,food_price,food_category,food_score
+95b80021-9968-4802-a8a3-f84a003f691f,Büyük Lahmacun,"15,75 TL",Ara Sıcaklar,14.0
+1e77826b-87d7-473b-b1df-47c1906f79e4,Soğanlı Cevizli Nar Ekşili Lahmacun (Büyük),"15,75 TL",Ara Sıcaklar,15.0
+a324567f-a9a2-4f8b-a3ee-cdf985280757,Sebzeli Fındık Lahmacun,"9,75 TL",Ara Sıcaklar,8.0
+d91e72d6-f302-4e63-b4e3-f795c43d3936,Haşlama İçli Köfte (Adet),"11,00 TL",Ara Sıcaklar,8.0
+514f5bab-c62f-4664-af37-6ed16a5f082b,Oruk Kebabı,"62,00 TL",Kebaplar,5.0
+f3f18efe-e308-4b86-a92c-6f76cd585397,Sebzeli Bahar Kebap Dürüm,"57,50 TL",Kebaplar,5.0
+27F3CA33-1588-41DC-BD8B-A523BE4DCF84,Alinazik Kebap (Et Şişten),"68,50 TL",Kebaplar,5.0
+5ECC9D29-4356-42A0-AF67-D5CFF3E7594D,Abugannuş Kebap (Kıymadan),"63,50 TL",Kebaplar,5.0
+16AE2215-9F32-4189-8E7D-5CAF7CE397A5,Abugannuş Kebap (Et Şişten),"68,50 TL",Kebaplar,5.0
+1078b351-b196-4a2a-993a-c45af47ca52b,Alinazik Kebap (Kıymadan),"63,50 TL",Kebaplar,5.0
+8aed2281-b16c-4a80-a5a3-6370726e92e0,Haşhaşlı Kebap,"57,50 TL",Kebaplar,5.0
+f6baccef-5667-4c12-9120-a94188288a0c,Piliç Yaprak Kanat,"50,50 TL",Izgaralar,5.0
+DDD2D048-5CE2-4B6B-B879-40D5354188CB,Karışık Izgara,"81,00 TL",Izgaralar,6.0
+26c9e0ac-8a1e-47b0-afb6-f8a0de4442c7,Urfa Dürüm,"57,50 TL",Dürümler,5.0
+49d4119b-ef5a-419a-8f22-cce137f3e875,Adana Dürüm,"57,50 TL",Dürümler,7.0
+4559cbf5-7020-4e0f-99bc-41fbd697d8d8,Piliç Şiş Dürüm,"50,50 TL",Dürümler,5.0
+e4a5bd8b-38a7-4c2d-9057-93abc756c449,Kuzu Şiş Dürüm,"65,50 TL",Dürümler,7.0
+da70223e-1e89-468b-9ccd-7655f7535ad2,Harman Salata,"22,25 TL",Salatalar,5.0
+fafda2c1-55d9-4006-baf0-33887ed4a16e,Kaşık Salata,"22,25 TL",Salatalar,5.0
+dc5f7450-bf22-4d68-9221-a50dd2e20923,Abugannuş,"63,50 TL",Diğer Lezzetler,5.0
+b9026ad5-a41b-41ed-a954-2fbcf03ee326,Çoban Kavurma,"70,00 TL",Diğer Lezzetler,5.0
+960a928c-2340-4dd5-894a-efca6961a52c,Et Sote,"70,00 TL",Diğer Lezzetler,5.0
+9B53E046-4DC8-4C07-9775-554C73DAE526,Semizotu,"22,25 TL",Yan Ürünler,5.0
+CB3DEE55-FC26-45B9-ACC8-539541BFBFEE,Acılı Ezme,"22,25 TL",Yan Ürünler,5.0
+2E2A0C0D-B20C-44A6-9739-8B4F9C4DE1DD,Soslu Patlıcan,"22,25 TL",Yan Ürünler,5.0
+7120B6ED-7853-43E0-95ED-3D75DB760629,Borani,"22,25 TL",Yan Ürünler,5.0
+892EF5F0-49CA-4B02-9B9F-8A052C83EF50,Çalı Fasulye,"22,25 TL",Yan Ürünler,5.0
+af00b503-b6db-43a0-8e38-271254ae4661,Antep Turşu,"22,25 TL",Yan Ürünler,5.0
+734eb9a3-024c-48d9-897a-8ee6108b080b,Açık Pide,"1,50 TL",Yan Ürünler,5.0
+d86e0c1c-d79f-48f0-be48-ddf79e6e4810,Tırnak Pide,"1,50 TL",Yan Ürünler,5.0
+28493E74-5FB4-40D0-800B-886EC272A94A,Antep Turşu (2 kg.),"60,00 TL",Yan Ürünler,5.0
+72EC6CFC-FDE0-444C-A5C2-889A0D8F633F,Antep Turşu (5 kg.),"90,00 TL",Yan Ürünler,5.0
+adc1eefe-2548-46e2-94ca-e8f3aaee6753,Fıstıklı Şöbiyet,"30,00 TL",Kaşıbeyaz Baklavaları,5.0
+8da18b14-6188-4fa5-bd19-327be58b2a35,FuseTea (33 cl.),"6,00 TL",İçecekler,5.0
+02ef212c-c1a8-4061-a158-ab81ecb4fa54,"Su (1,5 L.)","5,00 TL",İçecekler,5.0
+b3d23583-ed51-4694-853d-2ebbdab05c36,Kare Özel Baklava (1 kg.),"150,00 TL",Kiloluk Kaşıbeyaz Baklavaları,5.0
+9356aa7d-fe2e-461a-83a6-d111584c26de,Fıstıklı Şöbiyet (1 kg.),"140,00 TL",Kiloluk Kaşıbeyaz Baklavaları,5.0
+f51473ee-9496-4e80-bee9-475cb505f591,Su Böreği (1 kg.),"50,00 TL",Kiloluk Börekler,5.0

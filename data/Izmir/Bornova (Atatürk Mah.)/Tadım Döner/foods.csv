@@ -1,0 +1,39 @@
+food_id,food_name,food_price,food_category,food_score
+5d25b477-0644-46b4-8201-b1eef921e8b8,Öğrenci Menü 1,"18,50 TL",Menüler,3.0
+3bf3dfe9-e7cc-4396-a1b5-a82e0ca6f621,Öğrenci Menü 2,"20,00 TL",Menüler,6.0
+456f3f4d-23c1-4d25-b177-f85534a7d12a,Öğrenci Menü 3,"26,00 TL",Menüler,-5.0
+c3c99aad-d53c-4fca-9d26-134af7afa149,2'li Kanka Menü,"33,00 TL",Menüler,3.0
+2eb097ad-590a-45ad-9f96-362062caa12b,Hamburger Menü,"25,00 TL",Menüler,3.0
+f97617d7-d168-436f-8407-831f5f057cec,Karışık Sandviç Menü,"30,00 TL",Menüler,7.0
+de8823a2-1b1c-4dab-897b-dbb4ab9a051e,5'li Hamburger Menü,"60,00 TL",Menüler,3.0
+4db9994f-85f7-456a-abea-75609015f4f8,5'li Karışık Sandviç Menü,"65,00 TL",Menüler,7.0
+cb6dabaf-33e9-4ed5-8afb-2790bf2288c5,5'li Duble Karışık Sandviç Menü,"70,00 TL",Menüler,7.0
+b1900df9-7509-4ebd-8aa6-7127beffd3c7,Kardelen Kebabı,"30,00 TL",Et Dönerler,5.0
+76202b85-4d0c-474d-a653-c39164f0f9f5,Et Döner Dürüm,"14,00 TL",Et Dönerler,-3.0
+f30381cd-d97e-4706-b183-ea4e5914631f,Kaşarlı Et Döner Dürüm,"16,00 TL",Et Dönerler,-2.0
+6a02549d-7824-421f-9394-4d009664bba5,Yarım Ekmek Arası Et Döner,"14,00 TL",Et Dönerler,-7.0
+a4b15777-3281-4c32-97bc-8f9a19300961,Yarım Ekmek Arası Kaşarlı Et Döner,"16,00 TL",Et Dönerler,-6.0
+c4c70677-b189-4197-8943-2f200749b1b3,Bazlama Et Döner,"14,00 TL",Et Dönerler,3.0
+0d8154c0-582d-4c69-99d1-1e71099636b1,Bazlama Kaşarlı Et Döner,"16,00 TL",Et Dönerler,4.0
+6b44caf6-591f-40b2-b81b-502c77841a62,3/4 Ekmek Arası Et Döner,"18,00 TL",Et Dönerler,-7.0
+622986a2-d1f1-4ff7-b063-344e49b5825f,Yarım Ekmek Arası Tavuk Döner,"10,00 TL",Tavuk Dönerler,-2.0
+647a22ae-0a70-427e-8c02-3f360af4886a,Bazlama Tavuk Döner,"10,00 TL",Tavuk Dönerler,9.0
+7212dacc-de7f-4e8f-8e51-c8efd4fe0ed5,Bazlama Kaşarlı Tavuk Döner,"12,00 TL",Tavuk Dönerler,10.0
+f936a047-e58f-4b59-8d96-40885e015713,Kaşarlı Tavuk Döner Dürüm,"12,00 TL",Tavuk Dönerler,4.0
+533ce92d-c819-4bb5-b089-e17c72f89f54,Yarım Ekmek Arası Kaşarlı Tavuk Döner,"12,00 TL",Tavuk Dönerler,-1.0
+600bc229-7b9a-4057-ba8e-a094aaa8a897,3/4 Ekmek Arası Tavuk Döner,"13,00 TL",Tavuk Dönerler,3.0
+e1b9a45b-a9c5-48a1-a594-7300e111d617,Karışık Duble Sandviç,"14,00 TL",Tostlar & Sandviçler,14.0
+8dcb87e7-52af-4ad7-a8b8-75a94e6dcebb,Sosisli Kaşarlı Sandviç,"14,00 TL",Tostlar & Sandviçler,6.0
+fda9d8e8-1295-4315-980b-587a3b1f740e,Salamlı Kaşarlı Sandviç,"14,00 TL",Tostlar & Sandviçler,6.0
+91afef46-6c5e-4538-81cf-3af8c3505d1a,Sucuklu Kaşarlı Sandviç,"14,00 TL",Tostlar & Sandviçler,6.0
+516102c0-61b0-4780-9fb1-4238b301989b,Ayvalık Tostu,"12,00 TL",Tostlar & Sandviçler,5.0
+68402a93-ef86-4a84-8615-222702c48166,Yarım Ekmek Karışık Sandviç,"15,00 TL",Tostlar & Sandviçler,4.0
+bb51cc5f-ca03-4ada-848f-c065ba5a66cc,Sucuk Ekmek,"12,00 TL",Tostlar & Sandviçler,0.0
+f287c90d-f922-44ee-93f4-baa4632a47e1,Yarım Ekmek Eritme Sandviç,"15,00 TL",Tostlar & Sandviçler,0.0
+FFE7723F-1908-4C8A-9C84-222FDCB8933F,Kaşarlı Domatesli Tost,"12,00 TL",Tostlar & Sandviçler,6.0
+D571C042-D761-4AA7-BFB8-0CBB331E528E,Sucuklu Kaşarlı Kumru,"14,00 TL",Tostlar & Sandviçler,7.0
+03e6eeea-9746-46e0-bc40-d831916586de,Yarım Ekmek Arası Kaşarlı Izgara Köfte,"15,00 TL",Köfteler,0.0
+82561a4b-35d7-4026-a61d-4b0f01957c6b,Bazlama Ekmeğine Izgara Köfte,"13,00 TL",Köfteler,10.0
+f5d8f998-4ed5-4e07-9c72-86fc4e6b9222,Bazlama Ekmeğine Kaşarlı Izgara Köfte,"15,00 TL",Köfteler,11.0
+90df5a86-658e-4f1a-ba06-922549bdf257,Su,"1,50 TL",İçecekler,9.0
+e9076a05-6ec0-49b6-93dd-34427d0658d2,Poşet,"0,25 TL",Poşet,5.0

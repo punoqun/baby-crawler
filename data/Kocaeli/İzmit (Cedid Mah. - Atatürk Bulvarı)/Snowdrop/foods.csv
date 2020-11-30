@@ -1,0 +1,46 @@
+food_id,food_name,food_price,food_category,food_score
+24c6a0b4-c75a-4efa-8d61-ed42c27449b2,Margarita Pizza,"19,50 TL",Pizzalar,5.0
+19ec10e7-229f-4439-bb81-7fc2ef39c35f,Sucuklu Pizza,"26,50 TL",Pizzalar,5.0
+76538cdb-a611-46c9-a783-c142f384c50a,Dört Peynirli Pizza,"27,50 TL",Pizzalar,5.0
+8b987377-0864-414b-b5c2-f218fb89ed96,Snowdrop Special Pizza,"29,50 TL",Pizzalar,5.0
+745b6369-65b5-49d3-a408-5959d57ec616,Tavuk Burger,"16,50 TL",Burgerler,10.0
+3768f72e-e5e2-47d4-8cad-70c819e2c4f5,Hamburger,"21,50 TL",Burgerler,5.0
+251c865e-bf94-40ec-a247-5edb41956e5e,Cheeseburger,"23,50 TL",Burgerler,5.0
+161d3c40-d7e1-4191-8b9f-163664cdda87,Ev Yapımı Köfte,"31,50 TL",Köfteler,5.0
+A99EB9CD-60ED-4E15-83D4-D27A011FC928,Yarım Ekmek Arası Köfte,"15,00 TL",Köfteler,5.0
+284A9FC9-27C4-439B-97B9-78EAEFE17C6D,Köfte Dürüm,"17,00 TL",Köfteler,5.0
+9adbe069-c96d-4302-bf3d-611a38fcf6f7,Izgara Tavuk Göğüs,"29,50 TL",Beyaz Etler,5.0
+6cef29a6-8134-410d-b7c0-2d69a7ce8161,Tavuk Şnitzel,"31,50 TL",Beyaz Etler,5.0
+12879bc9-4d82-4bbf-bbdf-df4eddb57b50,Çıtır Pane Tavuk,"23,50 TL",Beyaz Etler,5.0
+ec0035a9-0e40-4152-ae54-d338d3768c30,Köri Soslu Tavuklu Mantarlı Penne,"26,50 TL",Makarnalar,5.0
+88b45fff-896b-4b44-85e8-68456c87cb91,Kremalı Tavuk Penne,"26,50 TL",Makarnalar,5.0
+b05919a4-83c9-4e97-96bc-dc97fb3f49eb,Spagetti Napolitan,"21,50 TL",Makarnalar,5.0
+49b138d4-c5b6-456e-ae4a-f412e006cc17,Fettuccine Alfredo,"29,50 TL",Makarnalar,5.0
+dc269630-ca96-4f80-9707-c9a1f2f3cd96,Sade Noodle,"21,50 TL",Noodles,2.0
+07e20f36-7b3c-4e6d-87df-fa67c3cf3202,Sebzeli Noodle,"26,50 TL",Noodles,2.0
+fce4a2f5-8254-4fa9-8e38-2b4df89b4d46,Tavuklu Noodle,"29,50 TL",Noodles,2.0
+746e80c7-7253-4515-a08f-2dd405d34034,Tavuklu Wrap,"26,50 TL",Wraps,5.0
+70a074ee-cf8d-486c-a31f-6783c67f09a0,Etli Wrap,"37,50 TL",Wraps,5.0
+3d49ee6d-bb34-4d9c-ac2d-cb69d2182cda,Kaşarlı Tost,"13,50 TL",Tostlar,5.0
+0bf3ff6b-b38c-4663-b9b8-ccce18961969,Karışık Tost,"16,50 TL",Tostlar,5.0
+efb7126c-75a0-4b5c-9400-5b60e9569b56,Domatesli Peynirli Tost,"13,50 TL",Tostlar,5.0
+5044bcf4-f783-49fe-a756-fee934cd9971,Snowdrop Sandviç,"14,50 TL",Sandviçler,5.0
+42276bdf-7672-4fcc-9aa8-46afb2930f46,Sigara Böreği,"11,50 TL",Aperitifler,5.0
+a04b7882-9d41-4a22-ae78-cc89a3a68ef0,Paçanga Böreği,"11,50 TL",Aperitifler,5.0
+1a3599bd-7457-4149-ac4b-32e7722cadc5,Patates Kızartması,"13,50 TL",Aperitifler,5.0
+9fbe4059-643c-42a2-a103-2551e91395ff,Mevsim Salata,"11,50 TL",Salatalar,5.0
+6215bbbc-ff01-4d77-af34-de59f63bcc60,Ton Balıklı Salata,"25,50 TL",Salatalar,5.0
+d3a13d06-e822-4f45-97cb-3316465441ba,Sezar Salata,"24,50 TL",Salatalar,5.0
+1879d094-85f9-42cb-856e-7636abfd429d,Hellim Peynirli Salata,"23,50 TL",Salatalar,5.0
+a0dffa20-03d9-499c-b6d5-34156edc06e4,Sütlaç,"14,00 TL",Tatlılar,5.0
+c9694c9a-bc39-4998-b507-78f53dd9ab33,Waffle,"23,00 TL",Tatlılar,10.0
+585cae8f-4bed-41ff-ad8e-48ca982cff2f,Sufle,"15,00 TL",Tatlılar,5.0
+706cc065-bb74-40aa-8341-5e00204ccd1c,Tiramisu,"15,00 TL",Tatlılar,10.0
+0d3622fa-5df6-43c4-a714-d053175b420f,Mozaik Pasta,"15,00 TL",Tatlılar,5.0
+024ad109-3f70-485a-b441-a0d3f4c5b412,Frambuazlı Cheesecake,"15,00 TL",Tatlılar,5.0
+424287d6-d6bc-4f9a-a3a9-a66d3fbc7242,Limonlu Cheesecake,"15,00 TL",Tatlılar,5.0
+f38b690c-fbfe-4ab6-bfc3-033b41fb048c,Muzlu Mag,"14,00 TL",Tatlılar,5.0
+9e6c983e-193e-406b-a061-032964a67f43,Çilekli Mag,"14,00 TL",Tatlılar,5.0
+653ad2ac-2a18-42be-8cc2-7ae9fd6be124,Orman Meyveli Pasta,"18,00 TL",Tatlılar,5.0
+43ccd456-729f-4f7c-a67e-d04d5eb8a98e,Fıstık Rüyası Pasta,"18,00 TL",Tatlılar,5.0
+61e535e1-5aa9-4fbc-8240-15976d483b66,Poşet,"0,25 TL",Poşet,5.0

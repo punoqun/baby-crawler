@@ -1,0 +1,35 @@
+food_id,food_name,food_price,food_category,food_score
+66e391b4-0728-4c5e-aebf-b000aa972309,Çiğ Köfte Dürüm,"5,50 TL",Çiğ Köfteler,12.0
+d9ffb4dd-d7ff-4bfd-9e6a-d1372fbec192,Çiğ Köfte Maksi Dürüm,"7,50 TL",Çiğ Köfteler,12.0
+c48bcc96-8b94-4e3d-b5bb-0cdd802c3ca8,Çiğ Köfte (250 gr.),"13,50 TL",Çiğ Köfteler,5.0
+ac6bc5b0-500d-4964-87d2-6b0cda86480d,Çiğ Köfte (300 gr.),"16,00 TL",Çiğ Köfteler,5.0
+0b1f359e-ba0d-4010-b31c-d62740100a73,Çiğ Köfte (400 gr.),"20,00 TL",Çiğ Köfteler,5.0
+69e8bbc7-9f6f-47b4-acd9-3ead24898bca,Çiğ Köfte (500 gr.),"23,50 TL",Çiğ Köfteler,10.0
+195c11f6-3f8e-4e2d-80b1-cae51f028c5d,Çiğ Köfte (800 gr.),"37,00 TL",Çiğ Köfteler,5.0
+d7fe32b1-bb7e-4794-a3c2-d9b3c8cd571e,Çiğ Köfte (1 kg.),"45,00 TL",Çiğ Köfteler,5.0
+0015fefc-724e-465f-a567-d1bd1c6c781f,Çiğ Köfte (500 gr.) (Garnitürsüz),"19,00 TL",Çiğ Köfteler,5.0
+03b78ab9-0bf6-459b-ad68-c3974544e8ba,Çiğ Köfte (800 gr.) (Garnitürsüz),"30,00 TL",Çiğ Köfteler,5.0
+a32fd81e-233e-4ff2-81cf-d90937e56975,Çiğ Köfte (1 kg.) (Garnitürsüz),"37,00 TL",Çiğ Köfteler,5.0
+09209996-4b52-4c19-a123-ca5a4a0020b4,Yarım Ekmek Arası Patso Sandviç,"7,50 TL",Ekmek Arası Ürünler,5.0
+a02350bb-1aef-4639-9ac0-134c6344d263,Yarım Ekmek Arası Kaşarlı Patso Sandviç,"9,00 TL",Ekmek Arası Ürünler,5.0
+f8bac07e-9120-49f0-b394-b0ea7ddcb65f,Yarım Ekmek Arası Sosisli Patso Sandviç,"10,00 TL",Ekmek Arası Ürünler,5.0
+fc1c0687-34c5-454c-a0f1-c9f1bdc5e53d,Yarım Ekmek Arası Karışık Patso Sandviç,"12,00 TL",Ekmek Arası Ürünler,5.0
+d4a1ff7f-c52c-48db-98a2-be33ae831a56,Yarım Ekmek Arası Tavuk Nugget,"8,00 TL",Ekmek Arası Ürünler,7.0
+2B3E81E0-829B-474D-A856-0F1E89C36388,Midye Dolma (5 Adet),"10,00 TL",Diğer Lezzetler,6.0
+D6FC90BA-B5AE-4345-91B6-8900A6FDC600,Midye Dolma (10 Adet),"20,00 TL",Diğer Lezzetler,6.0
+c80586d8-0398-4f9f-9bfb-86091eab619c,Midye Dolma (20 Adet),"37,00 TL",Diğer Lezzetler,6.0
+ee962048-bcf9-4b2f-b42f-51b3c00de21c,Midye Dolma (30 Adet),"55,00 TL",Diğer Lezzetler,6.0
+9218f9fd-6d80-44e2-9cd6-8d4c467f6392,Midye Dolma (50 Adet),"90,00 TL",Diğer Lezzetler,6.0
+f6f67968-ebb5-4e07-8ca8-401d949dc13c,Midye Dolma (80 Adet),"145,00 TL",Diğer Lezzetler,6.0
+90f5da4f-ccd0-4e25-972a-6670b95f3879,Midye Dolma (100 Adet),"180,00 TL",Diğer Lezzetler,6.0
+b5b73e09-4394-46b7-829a-5515869f7b70,Patates Kızartması,"7,00 TL",Yan Ürünler,5.0
+8ce73455-275a-4f03-9a5a-1f68f0061576,Lavaş (Adet),"0,50 TL",Yan Ürünler,5.0
+98c4de15-29df-4d8e-9967-b7c22129ff08,Limon (Adet),"2,00 TL",Yan Ürünler,5.0
+2d481c10-3d63-4c90-8bd2-09d46af8cf9c,Nar Ekşisi (25 cc.),"0,50 TL",Yan Ürünler,5.0
+6ddd0378-416d-4b97-a529-9eb7f7c079e4,Acı Sos (25 cc.),"0,50 TL",Yan Ürünler,5.0
+A087B491-20EE-4EEE-985C-29A75D775AC8,Uludağ Limonata (33 cl.),"3,50 TL",İçecekler,5.0
+C1C6B282-36DB-47E8-B796-F1A7BA58628D,Niğde Gazozu (25 cl.),"3,00 TL",İçecekler,5.0
+1B8842FE-98A9-4CE2-86B2-ABC006AAD731,Uludağ Limonata (1 L.),"6,50 TL",İçecekler,5.0
+B1D0F7E7-A1D1-4789-8477-683815ED901C,"Su (1,5 L.)","3,00 TL",İçecekler,5.0
+939107C3-8FC5-4BB4-9A55-8AC5671C2A9B,"Fanta (2,5 L.)","8,50 TL",İçecekler,5.0
+97fa07f4-e25f-42a7-ab31-4243778b8a78,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,44 @@
+food_id,food_name,food_price,food_category,food_score
+721421c9-362a-48ef-9b09-1a0c0e15e379,Peynirli Gözleme,"22,00 TL",Gözlemeler,7.0
+6c53ca00-9ccc-4905-bc0f-86f7be3a2998,Patatesli Gözleme,"23,00 TL",Gözlemeler,7.0
+d57917a7-be86-4e57-a3ac-a8cd2018515d,Ispanaklı Gözleme,"23,00 TL",Gözlemeler,7.0
+f733125d-4ed0-4c9c-9f4f-e96881ed879d,Sucuklu Kaşarlı Gözleme,"26,00 TL",Gözlemeler,7.0
+1c281f20-e56c-4f6d-8315-c4c18dcfea04,Kıymalı Kaşarlı Gözleme,"27,00 TL",Gözlemeler,7.0
+27be11f2-ddbc-4106-9333-d1c9af5b5fde,Kendi Tostunu Kendin Yap,"3,00 TL",Tostlar,5.0
+b2d3a497-c7ee-4def-810a-f40641a83751,Sena Kaşarlı Tost,"8,50 TL",Tostlar,6.0
+b32a2fc4-0d1c-4d5a-8aa9-acf9a0ced8cd,Sena Karışık Tost,"12,00 TL",Tostlar,13.0
+e8bebdff-030a-4e8c-b6ad-6a76554ddcb3,Sena Yengen Tost,"13,00 TL",Tostlar,6.0
+21222c65-2ea9-4189-80ff-e1ee73734619,Sena Beyaz Peynirli Tost,"10,00 TL",Tostlar,6.0
+481ce5a7-306b-49ae-a5f0-051ab750614a,Sena 3 Peynirli Tost,"14,00 TL",Tostlar,5.0
+57c543e0-eaaf-4158-a67c-7ce4361b75c0,Sena Süper Ayvalık Tost,"20,00 TL",Tostlar,8.0
+8e611e3b-e7a9-416f-bca6-7cd4273ceec5,Sena Bazlama Tost,"24,00 TL",Tostlar,6.0
+92ed4958-64d8-4b4d-ad26-9cc19de6c021,Sena Eggy Tost,"28,00 TL",Tostlar,6.0
+a331a777-8e66-4fae-ac68-28cd5d35b646,Kendi Sandviçini Kendin Yarat,"2,00 TL",Soğuk Sandviçler (26 cm.),10.0
+54a44927-b067-4834-9700-550837724fd1,Sena Tatlı & Tuzlu Sandviç,"26,00 TL",Soğuk Sandviçler (26 cm.),5.0
+5c3f8dbb-b401-413a-a500-1153031f89a8,Sena Tatlı Sandviç,"26,00 TL",Soğuk Sandviçler (26 cm.),5.0
+9454f93e-a82c-43e8-92ab-afa0a2e3c19a,Sena Süper Karışık Sandviç,"32,00 TL",Soğuk Sandviçler (26 cm.),9.0
+a0a71dd5-644b-4b40-987a-ec19d2cf1ae3,Sena Klasik Karışık Sandviç,"26,00 TL",Soğuk Sandviçler (26 cm.),7.0
+82d106a0-b60f-4352-885d-fa1f93d6ae51,Sena Simit Sandviç,"14,00 TL",Soğuk Sandviçler (26 cm.),5.0
+2cc7703d-09e7-4b04-aed8-6257ec3dd6f4,Sena Beyaz Peynirli Sandviç,"16,00 TL",Soğuk Sandviçler (26 cm.),5.0
+00dba066-6498-44d1-b87f-7bbc52d380dc,Sena Dört Peynirli Sandviç,"28,00 TL",Soğuk Sandviçler (26 cm.),5.0
+1a8689b6-9ac5-40ab-98ec-5aed185ee855,Sena Tulum Peynirli Sandviç,"16,00 TL",Soğuk Sandviçler (26 cm.),5.0
+1b5b633e-b0c7-4ff2-a5b1-a7c6c60c7b08,Sena Egg Sandviç,"24,00 TL",Soğuk Sandviçler (26 cm.),5.0
+e45ebb03-252f-43e0-9cdc-10f6587fab14,Sena Tonton Sandviç,"28,00 TL",Soğuk Sandviçler (26 cm.),5.0
+cb32fa5f-57c2-4f11-ae97-6425f79cd883,Sena Şarküteri Sandviç,"40,00 TL",Soğuk Sandviçler (26 cm.),5.0
+bb171a0a-86cf-4174-b7f5-5a3011ed1349,Sena Fit Sandviç,"28,00 TL",Soğuk Sandviçler (26 cm.),5.0
+be909b78-5028-4e44-84e8-137cc93340e9,Sena Club Sandviç,"30,00 TL",Soğuk Sandviçler (26 cm.),5.0
+943b652f-c74a-4cad-a38f-8a79c21aab94,Sena Special Sandviç,"28,00 TL",Sıcak Sandviçler,5.0
+d7bf54d6-c7b7-4e83-b4f2-0380e99538b8,Sena Barbekü Soslu Tavuk Sandviç,"24,00 TL",Sıcak Sandviçler,5.0
+6fb1e100-351f-4e53-b6cd-ed2e088b1221,Sena Barbekü Soslu Bonfile Sandviç,"30,00 TL",Sıcak Sandviçler,5.0
+8515909a-a1bb-4907-a803-2c4695f5bd6a,Sena Chicken Royal Sandviç,"22,00 TL",Sıcak Sandviçler,5.0
+1731cb0b-ed53-4de9-b4c8-cfd9b2707073,Sena Köfte Ekmek,"22,00 TL",Sıcak Sandviçler,5.0
+2618cbd2-44f9-4c21-8f53-fd6e53c615b8,Sena Patso Sandviç,"17,00 TL",Sıcak Sandviçler,10.0
+33227381-4eae-4e13-920e-41e995971997,Sena Goralı Sandviç,"12,00 TL",Sıcak Sandviçler,5.0
+423e5b2d-edb5-4c73-a0ed-ed96507fa37a,Sena Grill Roll,"23,00 TL",Sıcak Sandviçler,5.0
+49e73bbf-568e-4ece-9ed8-493269dc700b,Patates Tava,"15,00 TL",Yan Ürünler,3.0
+c7f5c1df-45c4-4824-933a-951790071ef4,Turşu Tabağı,"10,00 TL",Yan Ürünler,5.0
+68d2a08b-1603-45a6-9660-72c6966b5868,Ruffles Cips,"11,00 TL",Yan Ürünler,5.0
+e5c1f2c1-5cd9-4b80-9975-55fa6d448d16,Karışık Zeytin Tabağı,"10,00 TL",Yan Ürünler,7.0
+b18af126-6f56-40c7-978a-6f72e2b32a66,Fındıklı Fırın Sütlaç,"15,00 TL",Tatlılar,5.0
+b34c9ad9-b199-4804-b9c9-7f8599d33cf8,Taze Sıkma Portakal Suyu,"15,00 TL",Vitamin Bar,3.0
+3c9c30e1-a02e-4f78-9d32-75d5414d4ee9,Poşet,"0,25 TL",Poşet,5.0

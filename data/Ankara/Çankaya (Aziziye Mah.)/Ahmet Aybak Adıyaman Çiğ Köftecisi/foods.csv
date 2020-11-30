@@ -1,0 +1,40 @@
+food_id,food_name,food_price,food_category,food_score
+7CB0C237-71FC-44C0-AF6D-33FE616038BB,Ekonomik Çiğ Köfte Menü 1,"23,00 TL",Menüler,35.0
+8EB8E1A4-2E8F-4815-A7B9-D0BF7BC8CF70,Ekonomik Çiğ Köfte Menü 2,"32,00 TL",Menüler,24.0
+2328956C-C79A-4310-A1EC-4B846665C728,Ekonomik Çiğ Köfte Menü 3,"37,00 TL",Menüler,19.0
+9774198E-0EC6-44E7-B48F-C2A5703FDF79,Ekonomik Çiğ Köfte Menü 4,"45,00 TL",Menüler,21.0
+EC998EBC-22BD-43D5-8B8E-DCC76E7521D1,Çiğ Köfte Mega Dürüm Menü 1,"11,00 TL",Menüler,35.0
+ACE2B5B8-30B6-4764-84F7-A51AD436D270,Çiğ Köfte Mega Dürüm Menü 2,"30,00 TL",Menüler,23.0
+d8738f90-6832-405a-9f31-ff86a8ac694a,Çiğ Köfte Dürüm,"6,00 TL",Çiğ Köfteler,21.0
+EEDE21CD-CB12-4FD2-A323-4A82C11DB73C,Çiğ Köfte Dürüm (Çift Lavaş),"7,00 TL",Çiğ Köfteler,21.0
+6ac089a7-d89f-4fcf-bb79-eb3571cf4a3e,Mega Çiğ Köfte Dürüm,"9,00 TL",Çiğ Köfteler,25.0
+88628B02-B3F9-465E-8F21-A88C37ADD644,Ultra Mega Çiğ Köfte Dürüm,"10,50 TL",Çiğ Köfteler,20.0
+d7ccfcbc-9b42-454d-8f88-b1fc08ac0e65,Çiğ Köfte (200 gr.),"11,00 TL",Çiğ Köfteler,21.0
+B988F447-2415-4C29-B304-982387DD5A6F,Double Çiğ Köfte Dürüm,"11,50 TL",Çiğ Köfteler,21.0
+0f4819a8-5080-44e1-8dcf-7b20fa894381,Çiğ Köfte (400 gr.),"20,00 TL",Çiğ Köfteler,21.0
+8724B077-80A9-4C3D-B701-BACCC64FA682,Çiğ Köfte (800 gr.) (Garnitürsüz),"29,00 TL",Çiğ Köfteler,21.0
+1dee79d2-574b-4dea-afa3-83ac754d2763,Çiğ Köfte (600 gr.),"29,00 TL",Çiğ Köfteler,21.0
+48BF79A8-E163-4A94-BB06-493277ECADE5,Çiğ Köfte (1 kg.) (Garnitürsüz),"35,00 TL",Çiğ Köfteler,21.0
+502d8c9e-5ebf-4b43-b816-3fae7b9b9e81,Çiğ Köfte (800 gr.),"36,00 TL",Çiğ Köfteler,21.0
+82d963a4-6825-43b8-bd91-670a8ad5aad6,Çiğ Köfte (1 kg.),"45,00 TL",Çiğ Köfteler,21.0
+1baf52b6-ffee-4b48-a8c9-44e7c228004a,Rus Salatası (150 gr.),"6,00 TL",Mezeler,5.0
+b36cf0c5-c380-4064-800e-9fba23b2de98,Kızartma İçli Köfte (Adet),"6,00 TL",Mezeler,5.0
+28562159-20c7-4b1d-a1fc-3eae59933f83,Şakşuka (150 gr.),"7,50 TL",Mezeler,5.0
+B3B5D48F-7408-47C9-9997-8D55D19C9BBF,Acılı Ezme (150 gr.),"6,00 TL",Mezeler,5.0
+4A1BD8D3-F12A-44E4-AE6D-11959C489F8F,Zeytinyağlı Yaprak Sarma (200 gr.),"7,00 TL",Mezeler,5.0
+628aebf6-f539-4789-9e71-a4c8f90b4331,Lavaş (Adet),"0,50 TL",Ekstralar,6.0
+FFF4AA77-1B3A-446D-9D06-BC83B3429335,Limon,"2,00 TL",Ekstralar,5.0
+2A18BE34-E6A4-48A9-A2A2-9C9EE4C8E934,Iceberg Marul (Yarım),"2,50 TL",Ekstralar,7.0
+D0DBBAF1-5F62-4F3C-8E9D-42D1DC567FD2,Cin Biberi,"3,00 TL",Ekstralar,5.0
+7401b343-713b-434a-b2d5-03f742e96be4,Midye Dolma (Adet) (Orta),"1,25 TL",Midye Dolmalar,12.0
+2E2ABA80-5A8F-4257-87B5-84F1C6743667,Midye Dolma (Adet) (Büyük),"1,75 TL",Midye Dolmalar,12.0
+E42EB24D-1F24-4D42-96A2-B417A2BE29BB,Midye Dolma (20 Adet) (Orta),"22,00 TL",Midye Dolmalar,7.0
+CB4BC785-47AE-4D9D-924D-6CDCFED34AB1,Midye Dolma (30 Adet) (Orta),"33,00 TL",Midye Dolmalar,7.0
+9B731D1A-7EBF-4BB8-8D64-20D188257A8F,Midye Dolma (20 Adet) (Büyük),"30,00 TL",Midye Dolmalar,7.0
+E4AA8660-4EAA-42F3-8769-223870F52838,Midye Dolma (30 Adet) (Büyük),"48,00 TL",Midye Dolmalar,7.0
+d5f8f898-81af-46d0-a34f-2e50494a9ed0,Tavuklu Pilav,"15,00 TL",Yan Ürünler,2.0
+b0125c3d-f0bd-4c08-b6a1-7a5e2f538699,Tavuk Tantuni,"15,00 TL",Yan Ürünler,-1.0
+491F5700-ADC4-4CF8-95C9-62F314FEF30E,"Adana Şalgam Suyu (1,5 L.)","15,00 TL",İçecekler,5.0
+a5f87983-d1ad-4eeb-83cb-a0c369ad17fa,Zeytinyağlı Yaprak Sarma (1 kg.),"35,00 TL",Kiloluk Ürünler,5.0
+BBEA0EFC-A1A2-4610-837C-4BAEAA5EBDDD,Zeytinyağlı Yaprak Sarma (500 gr.),"17,50 TL",Kiloluk Ürünler,5.0
+07b57ba2-d792-40ab-aef9-18548159c1aa,Poşet,"0,25 TL",Poşet,5.0

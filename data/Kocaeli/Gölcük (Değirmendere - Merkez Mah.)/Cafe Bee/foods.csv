@@ -1,0 +1,47 @@
+food_id,food_name,food_price,food_category,food_score
+214c6c80-ac21-4470-a9e9-68108d2f34af,Kumru Sandviç Menü,"28,00 TL",Menüler,7.0
+83164c65-e0c9-4b1e-83a9-d5696f0a78b6,Bee Burger Menü,"31,00 TL",Menüler,12.0
+bdb47688-e287-4bab-825b-3e0e63474360,Cheeseburger Menü,"32,00 TL",Menüler,10.0
+7a699db7-e0ed-4e98-a66e-f2d3faedad2a,Sosisli Amerikanlı Sandviç Menü,"24,00 TL",Menüler,5.0
+d79eef56-d341-447c-a47f-2d24181ed91e,Köfteli Sandviç Menü,"24,00 TL",Menüler,5.0
+187ce0c0-b350-4b46-9da5-ada7e36ab889,Tavuklu Sandviç Menü,"20,00 TL",Menüler,6.0
+f05ad26f-ac8f-4eb7-9d1a-05b3259a4974,Kahvaltı Tabağı,"25,00 TL",Kahvaltılıklar,5.0
+1c20d1c0-920e-4dc9-8586-87cc6822ac02,Kaşarlı Bazlama Tost,"16,00 TL",Tostlar,5.0
+2a362ae3-c314-4039-ba9e-5246677663d3,Karışık Bazlama Tost,"19,00 TL",Tostlar,5.0
+529ab231-5948-4365-b834-13d0dcab79de,Köfteli Sandviç,"18,00 TL",Sandviçler,5.0
+01fc98cf-e60f-4cbb-82c2-d218ef51d611,Sucuklu Sandviç,"18,00 TL",Sandviçler,5.0
+d3cb83a9-68ef-48ab-b696-5c8a111295ec,Tavuklu Sandviç,"16,00 TL",Sandviçler,6.0
+6eaea038-4677-44f4-ae33-73b5a5775e56,Peynirli Sandviç,"15,00 TL",Sandviçler,5.0
+0d1e8659-e046-4f87-aa4e-1f077458f3d3,Patates Kızartması,"10,00 TL",Atıştırmalıklar,1.0
+9b25ee5e-ef7c-4c5c-b419-7dc4789756a0,Soğan Halkası,"10,00 TL",Atıştırmalıklar,5.0
+b86bab83-10b7-4944-964d-98426e3cd05e,Sigara Böreği,"12,00 TL",Atıştırmalıklar,5.0
+93f9cf84-14be-4ad2-8449-0a840877fc9a,Sosis Tabağı,"14,00 TL",Atıştırmalıklar,5.0
+50630811-fd44-4808-90fe-23dc727e5b96,Nugget Tabağı,"14,00 TL",Atıştırmalıklar,5.0
+93751543-37fd-4c25-8b20-166720474b9e,Bee Burger,"25,00 TL",Burgerler,12.0
+132a4c59-eaf2-45de-8a8c-d49bdcbede9e,Cheeseburger,"26,00 TL",Burgerler,5.0
+930bc429-e45b-4c15-bcb2-f5362a1a7954,Izgara Tavuk Göğüs,"24,00 TL",Ana Yemekler,8.0
+156fc89d-7f18-473e-83d6-bcd0c29ccfae,Izgara Köfte,"26,00 TL",Ana Yemekler,5.0
+030db3fd-013f-4931-b67a-1fab60257e1b,Çıtır Tavuk,"25,00 TL",Ana Yemekler,8.0
+10ebe7a9-30ab-4ae3-a514-f103d6cd1b48,Izgara Tavuk Sarma,"25,00 TL",Ana Yemekler,8.0
+c9dcd597-99b7-4b19-86de-e0ba92e3976f,Pideli Köfte,"30,00 TL",Ana Yemekler,5.0
+d07980f3-6260-433b-9470-4ca9bb539b47,Karışık Izgara,"39,00 TL",Ana Yemekler,5.0
+49ff3ce6-9b01-4ddc-b26a-058934969144,Penne Napolitan,"22,00 TL",Makarnalar,5.0
+e518667f-a06b-404c-9930-022599b3c2d8,Penne Arrabbiata,"22,00 TL",Makarnalar,5.0
+011e4e11-8fdb-4729-bb15-a7bcc9cdade6,Tavuklu Penne Alfredo,"24,00 TL",Makarnalar,6.0
+2094ce68-189b-4fa1-a836-ce5eb5cf471f,Tavuklu El Pesto,"24,00 TL",Makarnalar,8.0
+7774b941-48a0-4458-8028-c2da456494b0,Tavuklu Wrap,"24,00 TL",Wrapler,6.0
+e51a1241-1817-41f6-85ab-a788683b693b,Köfteli Wrap,"26,00 TL",Wrapler,5.0
+07f43043-fada-47b5-8a80-2c5a78091941,Etli Wrap,"28,00 TL",Wrapler,5.0
+0460f60d-ae71-4fa8-a90b-44108c0daed6,Izgara Hellim Salata,"24,00 TL",Salatalar,5.0
+79646a2d-e5cd-4313-9a1f-a3ab130ad53a,Ton Balıklı Salata,"25,00 TL",Salatalar,5.0
+8b3e024c-927a-47df-9b43-6390993eb84a,Tavuklu Sezar Salata,"25,00 TL",Salatalar,6.0
+97cacde9-807a-46b6-a3c6-105994847369,Izgara Biftekli Salata,"30,00 TL",Salatalar,5.0
+fb7c050d-6799-4f42-841c-97fb7c95447b,Akdeniz Salata,"22,00 TL",Salatalar,5.0
+ca844568-455e-4a0d-97ed-6a65d8049f93,Çikolata Rüyası,"15,00 TL",Tatlılar,5.0
+86bc54b6-34a1-43d2-ad83-64d1ccc35b76,Çilekli Mag,"15,00 TL",Tatlılar,5.0
+147d59ff-97b1-4616-9067-dc7a03d998d6,Fıstık Rüyası,"15,00 TL",Tatlılar,5.0
+2f8618da-99f2-412a-9827-eeb24498f05a,Frambuazlı Cheesecake,"15,00 TL",Tatlılar,5.0
+ab348034-2bd0-4adb-b0ed-c1e18dc27182,Limonlu Cheesecake,"15,00 TL",Tatlılar,5.0
+6f415613-672e-41da-a93e-d64ca4f122e5,Meyve Tabağı,"18,00 TL",Tatlılar,5.0
+408d4637-460c-4e8f-9cef-c5edb6fb6658,Sade Dondurma (1 kg.),"55,00 TL",Tatlılar,7.0
+e52769be-3af4-4777-afb9-6e84e9399500,Poşet,"0,25 TL",Poşet,5.0

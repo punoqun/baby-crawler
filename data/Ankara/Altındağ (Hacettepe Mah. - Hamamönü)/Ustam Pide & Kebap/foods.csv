@@ -1,0 +1,29 @@
+food_id,food_name,food_price,food_category,food_score
+9111bc6b-1825-47e2-8285-14791cc85e4f,Menü 1,"85,00 TL",Menüler,20.0
+78acaa10-cad9-463f-a941-6d169685c851,Menü 2,"25,00 TL",Menüler,16.0
+93542e59-908c-48d7-ad24-849abcd5f55c,Menü 3,"42,00 TL",Menüler,5.0
+ee24ef2d-7d83-4f36-bad9-3cd1ce931591,Menü 4,"75,00 TL",Menüler,4.0
+f9922fd5-c797-4596-a0ee-85a302dd0eaa,Menü 5,"140,00 TL",Menüler,7.0
+75fde92a-f369-46d3-b88e-c93e95141258,Adana Kebap,"22,00 TL",Kebap & Izgaralar,11.0
+c53b8d66-5d9b-4d43-84ce-95aa3f9e33fb,Sarma Beyti Kebap,"23,00 TL",Kebap & Izgaralar,8.0
+5fa155c5-64b1-4478-95ba-88b6221171d4,Yoğurtlu Adana Kebap,"23,00 TL",Kebap & Izgaralar,6.0
+01bc24f4-a767-4419-8b78-0ff298f6abcc,Tavuk Şiş,"18,00 TL",Kebap & Izgaralar,5.0
+b6d3946d-d9fb-4317-a893-c9aaf5f29847,Tavuk Kanat,"22,00 TL",Kebap & Izgaralar,5.0
+d1798f2a-87b1-40a4-9f39-ec13dddc1c86,Izgara Köfte,"20,00 TL",Kebap & Izgaralar,4.0
+7846e908-0839-4211-99e7-24c82f0b8870,Karışık Izgara (1 Kişilik),"40,00 TL",Kebap & Izgaralar,8.0
+54ee8754-e0ff-4d3e-9d2b-74576904cfd8,Lahmacun,"9,00 TL",Fırın Ürünleri,13.0
+9691930e-7a85-42e1-a546-f613cd2d5f83,Kıymalı Pide,"15,00 TL",Fırın Ürünleri,14.0
+3b5cbc8d-8866-4111-9335-6b151347b6cc,Kuşbaşılı Pide,"22,00 TL",Fırın Ürünleri,11.0
+178c5c16-58e1-427d-908e-2097e5cc7bbf,Kaşarlı Pide,"19,00 TL",Fırın Ürünleri,9.0
+ffd31d60-6ddc-473e-be8b-ed853dc95d7d,Kuşbaşılı Kaşarlı Pide,"24,00 TL",Fırın Ürünleri,11.0
+df77bd15-66f0-47b4-85d5-618938cc40d7,Kıymalı Kaşarlı Pide,"17,00 TL",Fırın Ürünleri,14.0
+c4eded29-8ead-447c-8c58-14bc50927581,Beyaz Peynirli Pide,"16,00 TL",Fırın Ürünleri,9.0
+9020fe01-5632-43e5-9ad9-f879d115bb02,Tavuklu Pide,"18,00 TL",Fırın Ürünleri,9.0
+931ca15a-a034-4b53-97a2-d2a0b9877a14,Karışık Pide,"22,00 TL",Fırın Ürünleri,12.0
+377326d4-d666-4bf3-aacc-9acad548b665,Kaşarlı Sucuklu Pide,"23,00 TL",Fırın Ürünleri,9.0
+30d7f216-4b8e-4770-8397-30122f80e9ed,Kiremitte Köfte,"23,00 TL",Kiremitte Ürünler,4.0
+a130a7b0-8a97-4581-94e5-023a08eaa74b,Kiremitte Tavuk,"20,00 TL",Kiremitte Ürünler,5.0
+9bf39871-d6af-407f-ab99-d6b610ebf608,Kiremitte Kuşbaşı,"25,00 TL",Kiremitte Ürünler,7.0
+f03d9968-fd44-4a70-b89f-b22a18402cb2,Kiremitte Kıyma,"20,00 TL",Kiremitte Ürünler,10.0
+302cced2-a1d6-4308-bb04-b13709143a2f,Künefe,"10,00 TL",Tatlılar,4.0
+0f4f4d55-ea78-4ede-bb7b-ccfe04182e7f,Poşet,"0,25 TL",Poşet,5.0

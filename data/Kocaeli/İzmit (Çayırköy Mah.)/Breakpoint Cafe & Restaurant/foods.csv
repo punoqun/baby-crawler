@@ -1,0 +1,38 @@
+food_id,food_name,food_price,food_category,food_score
+94543d19-9e4f-4ab6-9661-902bd90419f4,Ton Balıklı Sandviç,"24,00 TL",Sandviçler,5.0
+b849f0d5-1027-458d-ae9a-e54abc6d9b38,Club Sandviç,"22,00 TL",Sandviçler,5.0
+d0c9eaab-9e71-4a91-b93b-fa69e4aa4970,Peynirli Sandviç,"20,00 TL",Sandviçler,5.0
+d62f7de8-3280-4b03-90c7-6bf26355c99a,Beef Sandviç,"35,00 TL",Sandviçler,5.0
+dee4aa3b-6293-49ac-bd7d-5b060d3173a7,Izgara Tavuk Sandviç,"25,00 TL",Sandviçler,5.0
+465805ba-fdf8-4eb9-a585-c7c2ecec5162,Cheeseburger,"30,00 TL",Burgerler,5.0
+59142e2c-b389-42aa-82dd-91941295fdf9,Izgara Tavuk Burger,"27,00 TL",Burgerler,5.0
+60ab0f54-8528-4f9e-a003-5a962786b3d7,Breakpoint Burger,"38,00 TL",Burgerler,5.0
+62775ccd-0124-49ee-8fa6-7e1129f6f01c,Hamburger,"28,00 TL",Burgerler,5.0
+ec48cd82-1fc2-4387-baf9-67e9e08e376a,Beef Burger (Acılı),"40,00 TL",Burgerler,5.0
+0e0f8476-b8e6-421a-ab85-7973e2b90c91,Veggie Pizza (32 cm.),"28,00 TL",Pizzalar (1 - 2 Kişilik),4.0
+7d9dad25-581d-4c11-ae49-aea8ed0cebfe,Karışık Pizza (32 cm.),"30,00 TL",Pizzalar (1 - 2 Kişilik),9.0
+7e08581b-b376-4391-91ec-c46df0aa2283,Pepperoni Pizza (32 cm.),"30,00 TL",Pizzalar (1 - 2 Kişilik),4.0
+8a4f0587-94ae-4306-9667-57a094456a8b,Margherita Pizza (32 cm.),"26,00 TL",Pizzalar (1 - 2 Kişilik),4.0
+8c553a51-7766-4b94-a334-3339cc8e047a,Tavuklu Pizza (32 cm.),"28,00 TL",Pizzalar (1 - 2 Kişilik),6.0
+e0fe117f-4306-4ba3-8fd8-5a6a809fb8fa,Acılı Pizza (32 cm.),"36,00 TL",Pizzalar (1 - 2 Kişilik),4.0
+f6fba23a-508e-437c-b83b-6b65d043203b,Alaturka Pizza (32 cm.),"40,00 TL",Pizzalar (1 - 2 Kişilik),4.0
+127f2396-d819-40c3-9b6a-9df5f245ea7c,Breakpoint Wrap,"35,00 TL",Wraps,11.0
+3b8b4062-5b13-4dc2-bd77-b02d7efe942b,Tavuklu Wrap,"28,00 TL",Wraps,13.0
+ee18e8e3-a473-42aa-a5af-02416b57e540,Etli Wrap,"38,00 TL",Wraps,11.0
+97F3D9A9-0347-4532-BA61-48B6C7E64F00,Yarım Ekmek Arası Izgara Köfte,"16,00 TL",Ekmek Arası Ürünler,7.0
+4981A6E9-C2F9-4A06-8BB6-3137341620C2,3/4 Ekmek Arası Izgara Sucuk,"24,00 TL",Ekmek Arası Ürünler,5.0
+4566006B-254F-4AAD-9009-7E9B4F1BF2B5,Tam Ekmek Arası Izgara Sucuk,"30,00 TL",Ekmek Arası Ürünler,5.0
+6c39aead-65c2-4c0f-9fe9-17a0f319cc3c,3/4 Ekmek Arası Izgara Köfte,"24,00 TL",Ekmek Arası Ürünler,7.0
+138c7537-a497-4624-8553-1083cf7d7428,Tam Ekmek Arası Izgara Köfte,"30,00 TL",Ekmek Arası Ürünler,7.0
+340AF4A1-E0A1-4715-B69A-BB5B24AADFF2,Köri Soslu Tavuk,"33,00 TL",Yan Ürünler,5.0
+3b5083c8-4bff-43ef-ab39-adc81ec225ae,Cajun Finger,"28,00 TL",Yan Ürünler,3.0
+6d68ed39-e75a-4a10-b386-60db3afe8fcd,Breakpoint Mix Tabağı,"40,00 TL",Yan Ürünler,5.0
+b91b0f70-5d45-49f9-8d16-a328daa3fb54,Soğan Halkası (6 Adet),"15,00 TL",Yan Ürünler,5.0
+f40dff89-087b-42ba-a3c0-4a118ff2091b,Patates Kızartması,"15,00 TL",Yan Ürünler,5.0
+98529BEB-0E5C-4E89-AAC0-7E11EA9A2078,Barbekü Soslu Tavuk,"33,00 TL",Yan Ürünler,5.0
+83B79830-C7A4-42F8-9339-90A501725D4D,Dağ Kekikli Tavuk,"33,00 TL",Yan Ürünler,10.0
+70BD1531-47A4-4612-B428-D3ADD273D2DB,Meksika Soslu Tavuk,"33,00 TL",Yan Ürünler,5.0
+D1565E78-9175-4655-BB87-7455F4A092C1,Mushroom Chicken,"33,00 TL",Yan Ürünler,5.0
+AA1A6E14-915C-40FB-8266-BA60574852CD,Izgara Köfte,"33,00 TL",Yan Ürünler,7.0
+1B53221C-402E-4BC9-A5FE-28F77742C568,Beğendili Köfte,"38,00 TL",Yan Ürünler,7.0
+680e4a03-e512-434a-bdca-2d7f6dc4d61c,Poşet,"0,25 TL",Poşet,5.0

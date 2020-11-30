@@ -1,0 +1,39 @@
+food_id,food_name,food_price,food_category,food_score
+05211a5c-b6d5-4ec5-82d6-e42e65c909d6,Izgara Köfte Dürüm Menü 2,"25,00 TL",Mega Ekonomik Menüler,7.0
+5e742d1d-2884-41b0-8605-3a779803b6a6,İzmir Kumru Dürüm Menü 2,"25,00 TL",Mega Ekonomik Menüler,20.0
+608c4b99-944e-44ea-bff1-0db8bfd393d6,İzmir Kumru Sandviç Menü 2,"25,00 TL",Mega Ekonomik Menüler,20.0
+da3b1e8a-67e2-405b-9cee-5b10d0634fbc,Ayvalık Tostu Menü 2,"25,00 TL",Mega Ekonomik Menüler,5.0
+bd8b4381-1aef-4cb4-acdd-0e2f66a31e0d,Ekmek Arası Köfte Menü 2,"25,00 TL",Mega Ekonomik Menüler,7.0
+ae0d7820-1122-4079-b081-c310a7b94f40,Ekmek Arası Sucuk Menü 2,"25,00 TL",Mega Ekonomik Menüler,7.0
+98fc7736-5a11-4902-a841-9eca19ba3f9f,Kavurmalı Tost Menü 2,"25,00 TL",Mega Ekonomik Menüler,7.0
+0fc01e13-0f3c-45f9-8c1c-e0c01050c941,Double Kumru Menü 2,"29,00 TL",Mega Ekonomik Menüler,22.0
+92db722e-10aa-4e7e-830c-d2ebc839b2ce,Steak Burger Menü,"26,00 TL",Ekonomik Menüler,3.0
+73AC26DA-A6D9-4577-B6AB-3A4F3FA03982,Patso Sandviç Menü,"19,00 TL",Ekonomik Menüler,6.0
+c56dd617-3180-48ed-8d75-75f1e8618bd7,Izgara Köfte Dürüm Menü 1,"22,50 TL",Ekonomik Menüler,-1.0
+588acfd6-a4ac-4df0-8290-a338da3c0560,Double Kumru Menü 1,"24,00 TL",Ekonomik Menüler,14.0
+d022b964-a2eb-4cb1-9f79-b6965b786693,Duble Tavuk Şnitzel Burger Menü 1,"24,00 TL",Ekonomik Menüler,-1.0
+0185f830-e768-4f77-979b-1bd50687453e,İzmir Kumru Dürüm Menü 1,"22,50 TL",Ekonomik Menüler,12.0
+9dd29908-24c6-4a4c-b28f-76bbc41392d3,İzmir Kumru Sandviç Menü 1,"21,00 TL",Ekonomik Menüler,17.0
+1c9bef1c-ebdb-42ed-b932-f99d5c1696f5,Ayvalık Tostu Menü 1,"21,00 TL",Ekonomik Menüler,-3.0
+b6c26f75-a332-462c-97b4-a419cebc64cb,Ekmek Arası Köfte Menü 1,"21,00 TL",Ekonomik Menüler,-1.0
+56a35bfb-4cd2-45dd-91ef-acd19d9f6736,Ekmek Arası Sucuk Menü 1,"21,00 TL",Ekonomik Menüler,-1.0
+ab65ecb5-99d1-42fe-bf3a-f5028e7349e9,Kavurmalı Tost Menü 1,"21,00 TL",Ekonomik Menüler,-1.0
+aedb0400-61a3-482e-bf51-1d95bcd227d0,Kavurmalı Tost,"14,00 TL",Tostlar,5.0
+0C0C66BA-A174-4C63-ABD1-7198650093EA,Soğuk Sandviç,"7,00 TL",Sandviçler,5.0
+9f1424a2-3602-4392-9941-bbe8bae94755,İzmir Kumru Sandviç,"14,00 TL",Sandviçler,23.0
+968c9097-7bcf-47c7-b65e-5800ed0b1f85,Patso Sandviç,"9,00 TL",Sandviçler,13.0
+5430fca5-cd50-4a58-a2a1-85d305865acb,Sosisli Kaşarlı Patso Sandviç,"11,00 TL",Sandviçler,10.0
+043f54e3-8cd3-4b44-8895-35b23039dd8a,Goralı Sandviç,"7,00 TL",Sandviçler,5.0
+93f0f2fe-a9de-43b4-bd1d-aa072bc8858f,Sosisli Sandviç,"6,00 TL",Sandviçler,7.0
+4e933d04-fc44-43c0-b2c7-3507a25fe13a,Double Kumru Sandviç,"17,00 TL",Sandviçler,20.0
+b4ec1171-be2e-4570-91e4-c253c4eb4331,Ekmek Arası Sucuk,"13,00 TL",Ekmek Arası Ürünler,5.0
+731d0d5f-8ed0-4185-bc59-d1293f64637f,Ekmek Arası Köfte,"14,00 TL",Ekmek Arası Ürünler,5.0
+654535e1-7a17-4b2a-a10e-da67064e07b2,İzmir Kumru Dürüm,"14,00 TL",Dürümler,18.0
+5e79e0d8-6bc6-4de5-bccd-cbe84bbfbcc1,Izgara Köfte Dürüm,"14,00 TL",Dürümler,5.0
+1b66031f-b1a3-4055-a59f-f54ddf9f1420,Patates Kızartması,"7,00 TL",Diğer Lezzetler,5.0
+43acf307-ee41-4306-9fd8-d69173fd49b0,Sütlaç,"7,00 TL",Tatlılar,5.0
+cae34267-660c-4b9f-86a3-e07b8ed014ae,Kazandibi,"7,00 TL",Tatlılar,5.0
+bc8195d6-0d99-40f4-a9d2-2725b59724a1,Supangle,"7,00 TL",Tatlılar,5.0
+d6d62e95-a06c-4dd1-bdec-e786c9f7dafd,Profiterol,"7,00 TL",Tatlılar,5.0
+a55b5459-9aa6-4e6f-a460-26973d6fdde0,Kıbrıs Tatlısı,"7,00 TL",Tatlılar,5.0
+b6bc82d4-e3b4-4070-aeb0-d81930a93d7c,Poşet,"0,25 TL",Poşet,5.0

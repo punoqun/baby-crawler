@@ -1,0 +1,60 @@
+food_id,food_name,food_price,food_category,food_score
+054627b5-c60a-4067-8678-5fa1f088c2d8,Kazandibi,"15,00 TL",Tatlılar,5.0
+247a39e7-a7df-4d73-8694-cc98e7130404,Bademli Keşkül,"15,00 TL",Tatlılar,5.0
+8c611f59-54a1-484e-a41c-fe0f9ce25a29,Antep Fıstıklı Muhallebi,"15,00 TL",Tatlılar,5.0
+9eaef11e-991e-4ca1-a6b1-4077b2987118,Supangle,"15,00 TL",Tatlılar,5.0
+708c5090-1820-42e7-84ec-44b76d99141d,Çilekli Mag,"17,25 TL",Maglar,6.0
+e33214a4-42a8-48df-915a-351e3381e211,Oreolu Çilekli Mag,"17,25 TL",Maglar,11.0
+48482ae1-1a0b-4610-8ab9-d236b69ffc3a,Oreolu Çikolatalı Mag,"17,25 TL",Maglar,5.0
+e0251028-3423-49ba-85b4-25d4fb4a2971,Orman Meyveli Mag,"17,25 TL",Maglar,5.0
+9abc12e6-6871-489d-be35-d5147bfe3b2a,Muzlu Bisküvili Mag,"17,25 TL",Maglar,6.0
+9a2b6f15-346e-43f6-8908-b46d5bb65480,Damla Çikolatalı Mag,"17,25 TL",Maglar,5.0
+e4460fae-4f3b-4012-ac75-513f54a83933,"Whıte Pearl
+Pasta (4 Kişilik)","56,25 TL",Ladiva Pastalar (4 Kişilik),5.0
+2bfe8196-215f-4120-824c-a63a592d5122,"Chocolate Banana
+Pasta (4 Kişilik)","56,25 TL",Ladiva Pastalar (4 Kişilik),5.0
+f0af82c7-15bb-4faf-a757-a863dd4fc4cc,"Chocolate Banana
+Pasta (6 Kişilik)","71,25 TL",Ladiva Pastalar (6 Kişilik),5.0
+4679de8f-f59b-45ee-a243-471424acfd8b,Frambuazlı Amerikan Cheesecake,"20,25 TL",Ladiva Dilim Pastalar,5.0
+1151c35d-8731-45fa-ae6b-1768cc3fd1e3,Çikolatalı Çilekli Triff,"18,75 TL",Ladiva Dilim Pastalar,6.0
+3f47bef3-1018-4793-ba17-7e7ee3f399d5,Çilekli Pavlova,"15,00 TL",Ladiva Dilim Pastalar,18.0
+4882ebcc-8017-4458-879b-f1aa93dcea23,Mozaik Pasta,"15,00 TL",Ladiva Dilim Pastalar,4.0
+ab5e7fee-5539-4285-bdea-2bf69445023f,Orman Meyveli Pasta,"18,75 TL",Ladiva Dilim Pastalar,4.0
+5ffc7663-285e-40d5-9600-c4d12752fe54,La Diva Special Pasta,"18,75 TL",Ladiva Dilim Pastalar,9.0
+a088798d-7cfe-40ba-8d22-f8215e4007b9,Polka Pasta,"18,75 TL",Ladiva Dilim Pastalar,4.0
+f07365e4-019d-4c43-a036-ce6973f83130,Brownie,"15,00 TL",Ladiva Dilim Pastalar,5.0
+cc41b132-a853-425e-8dd1-44ecce40853e,Klasik Ekler,"11,25 TL",Petifürler,4.0
+d2d7989e-09ad-4d2a-8e86-13029bf8b87d,Çikolatalı Ekler,"11,25 TL",Petifürler,4.0
+592efc31-46dd-4634-8afa-7368db15b61d,Frambuazlı Ekler,"11,25 TL",Petifürler,4.0
+ea69eb0e-bd4a-4df3-8f82-141ec556737e,Kivili Tartolet,"11,25 TL",Petifürler,5.0
+af57f2fb-4707-4408-8207-b7f4718cf704,Muzlu Tartolet,"11,25 TL",Petifürler,6.0
+f7472b6c-5e4d-4d6f-b8be-c574cc48b053,Makaron (6 Adet),"31,50 TL",Petifürler,5.0
+9C3BA68B-A41D-4FB8-BD04-EB3D98E95A20,Muzlu Çikolatalı Tartolet,"11,25 TL",Petifürler,6.0
+8111d470-29f4-4169-a746-e7a4d43d7849,Klasik Ekler (500 gr.),"26,25 TL",Petifürler (500 gr.),4.0
+f9732e6f-9026-495d-a1f6-09d46d8a10e1,Çikolatalı Ekler (500 gr.),"26,25 TL",Petifürler (500 gr.),4.0
+b45c09b6-bc10-4ff5-9f45-a5af81eaa69f,Frambuazlı Ekler (500 gr.),"26,25 TL",Petifürler (500 gr.),4.0
+209be927-b1ac-4d6b-97ca-ed1d5b702744,Kivili Tartolet (500 gr.),"26,25 TL",Petifürler (500 gr.),5.0
+9f030bed-94a9-4d28-a491-e7b5ae7619a0,Muzlu Tartolet (500 gr.),"26,25 TL",Petifürler (500 gr.),6.0
+fe2e2e64-34a1-43bf-9bcc-976032fe91ef,Klasik Ekler (1 kg.),"52,50 TL",Petifürler (1 kg.),4.0
+93deee93-02b4-4f24-a63a-3a2849ec4634,Çikolatalı Ekler (1 kg.),"52,50 TL",Petifürler (1 kg.),4.0
+c553608c-c3a5-425d-a3dd-22cc731d03cf,Frambuazlı Ekler (1 kg.),"52,50 TL",Petifürler (1 kg.),4.0
+ce722494-4ad6-4d7e-afc0-b23fc149bf14,Kivili Tartolet (1 kg.),"52,50 TL",Petifürler (1 kg.),5.0
+10e5b918-c864-43cd-b922-e6b18afa7f06,Muzlu Tartolet (1 kg.),"52,50 TL",Petifürler (1 kg.),6.0
+bd4dd964-8962-493a-84b2-7ea81f8d31bf,Biscotti,"10,50 TL",Diğer Lezzetler,5.0
+a0e5bf8e-546d-47dd-8c7d-4c5b27e5060e,Susamlı Çubuk,"9,00 TL",Diğer Lezzetler,5.0
+f2ade7d6-a42f-412a-80aa-637e582b7beb,Ay Çekirdekli Çubuk,"9,00 TL",Diğer Lezzetler,5.0
+f9b1297a-7e00-4458-8598-eaec06cfdf0d,Yaprak Galeta,"9,00 TL",Diğer Lezzetler,5.0
+81566be2-3c90-41e1-be21-6f734965165b,Tatlı Kurabiye,"15,00 TL",Kurabiyeler,5.0
+fa840ab0-9f73-490f-b1bd-21f0a8a86fa1,Tuzlu Kurabiye,"15,00 TL",Kurabiyeler,5.0
+D63FE4C4-59E0-4113-87C7-5610AF7B87FE,Acı Badem Kurabiyesi,"9,00 TL",Kurabiyeler,5.0
+2cd3dfe5-377d-4d9e-8a52-90fc28bd8052,Böğürtlenli Dondurma (1 kg.),"71,25 TL",Kiloluk Dondurmalar,5.0
+b5a7ee58-5430-4877-a18a-d7b6dd5ed94e,Damla Sakızlı Dondurma (1 kg.),"71,25 TL",Kiloluk Dondurmalar,5.0
+34196427-84a7-422f-a654-69cf4d1ac418,Fındıklı Dondurma (1 kg.),"71,25 TL",Kiloluk Dondurmalar,5.0
+12b27f0f-cf4c-43a8-865a-259771091698,İtalyan Karamelli Dondurma (1 kg.),"71,25 TL",Kiloluk Dondurmalar,5.0
+89f568e4-a0dd-4d72-8af1-bf1e8300ebe4,Karadutlu Dondurma (1 kg.),"71,25 TL",Kiloluk Dondurmalar,5.0
+b94d720c-bef9-4151-b2c7-a598566ab5b6,Karamelli Dondurma (1 kg.),"71,25 TL",Kiloluk Dondurmalar,5.0
+26019908-1929-45f1-a18f-a2ab2b293dfe,Sade Sütlü Dondurma (1 kg.),"71,25 TL",Kiloluk Dondurmalar,5.0
+f7ecc29c-7ece-4479-accb-fcf09c0497c3,Siyah Üzümlü Dondurma (1 kg.),"71,25 TL",Kiloluk Dondurmalar,5.0
+851d80bc-4d18-4c68-b4ef-650fa48c181c,Vanilyalı Dondurma (1 kg.),"71,25 TL",Kiloluk Dondurmalar,5.0
+32bebd1d-9dd0-4c33-ac64-016079af0755,Yeşil Elmalı Dondurma (1 kg.),"71,25 TL",Kiloluk Dondurmalar,5.0
+df0885c7-3051-4ba8-8872-67e301bb4a67,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,35 @@
+food_id,food_name,food_price,food_category,food_score
+6883d2f3-a1e7-4c8b-aab0-69fe2048305e,Adana Kebap,"25,00 TL",Kebaplar,4.0
+85599fea-6f57-4a12-a92c-3d37da831dd7,Urfa Kebap,"25,00 TL",Kebaplar,3.0
+ad8fdc97-72c7-4e31-bd4a-b000b9a25e3b,Izgara Köfte,"20,00 TL",Izgaralar,4.0
+b8db3f26-e568-4723-89bc-280f779dbf06,Lahmacun,"10,00 TL",Lahmacunlar,12.0
+c611deb7-9bc1-44dd-b761-1e32d1eb1c5e,Antep Usulü Lahmacun,"10,00 TL",Lahmacunlar,7.0
+c13bbfcc-be47-4af0-8b44-533bd116b5a0,Tabak Altı Lahmacun,"7,50 TL",Lahmacunlar,7.0
+4e8ee6ab-812f-4658-9e26-4946d8e89bb4,Fındık Lahmacun,"2,00 TL",Lahmacunlar,11.0
+271bfe59-2ac8-43b8-8e25-75259b942105,Cevizli Lahmacun,"12,00 TL",Lahmacunlar,7.0
+1faced9f-2c4e-4c3e-811a-2bdd5cddbd2f,Çarşaf Lahmacun,"12,00 TL",Lahmacunlar,7.0
+5efe437d-acb1-43c3-b839-dfeeda3172f7,Peymacun,"10,00 TL",Lahmacunlar,5.0
+3283e369-837c-44d2-bcb8-073d91c12703,Kıymalı Pide,"15,00 TL",Pideler,9.0
+eab674b1-5f94-4fdb-a1a1-599cb2430222,Kuşbaşılı Pide,"20,00 TL",Pideler,8.0
+f7c183a5-51a1-43af-912a-1e991e078aa2,Kaşarlı Pide,"15,00 TL",Pideler,8.0
+f8151d55-724d-493c-b8f7-e13b5cc0fad0,Karışık Pide,"22,00 TL",Pideler,8.0
+406e1a70-ddd1-4882-af5f-399f8d2d70c6,Special Pide,"20,00 TL",Pideler,8.0
+7dd4a655-ba51-4cea-be15-f435e1a60a44,Osmanlı Pide,"25,00 TL",Pideler,8.0
+f5613568-816b-4a11-9a95-e99a53b4d0fd,Sucuklu Kaşarlı Pide,"18,00 TL",Pideler,8.0
+65ec68c0-5ab2-4381-8852-648cfa4e3390,Tavuklu Kaşarlı Pide,"18,00 TL",Pideler,8.0
+e8986827-b102-4b76-939d-0b31666014a9,Kıymalı Karadeniz Pidesi,"20,00 TL",Pideler,3.0
+cad7a4b1-cc50-48bd-aec2-860b4a636cd5,Kavurmalı Pide,"20,00 TL",Pideler,8.0
+c2adbd99-18fc-4caf-b758-2d475e33bc5f,Beyaz Peynirli Pide,"15,00 TL",Pideler,8.0
+206ebb98-64de-45cd-8d6c-e546103804f2,Mantarlı Kaşarlı Pide,"15,00 TL",Pideler,8.0
+3d5dc7a0-6eb6-4c68-a501-10891d255f3e,Sebzeli Pide,"16,00 TL",Pideler,8.0
+e3c5fb4e-10a9-4ca8-ad79-b7d1c42bff4c,Kıymalı Kaşarlı Pide,"18,00 TL",Pideler,4.0
+db006665-9adc-4bba-badb-7edd2acd9dc5,Kuşbaşılı Kaşarlı Pide,"22,00 TL",Pideler,8.0
+868e02d1-fe89-45e4-abc7-707b9770e062,Etli Ekmek,"20,00 TL",Pideler,3.0
+b3da2780-b1df-4360-af95-104c26da43de,Mevlana Pide,"20,00 TL",Pideler,8.0
+58b9e8b3-c531-4025-8e73-d0a71906322f,Urfa Pizza,"32,00 TL",Pizzalar (1-2 Kişilik),5.0
+0201105d-3aee-4aa9-81af-0ff8ed318c1d,Kiremitte Köfte,"22,00 TL",Diğer Lezzetler,4.0
+4c66d52d-45ea-4060-9831-14ad598eaf2b,Kiremitte Et Şiş,"27,00 TL",Diğer Lezzetler,3.0
+ed8c0b2d-6ab5-4e87-a940-fbf7632982a3,Çiğ Köfte (12 Sıkım),"15,00 TL",Yan Ürünler,6.0
+687c7a60-27a0-499a-af6d-b6f5fd8a661d,Cappy Karışık (33 cl.),"5,00 TL",İçecekler,5.0
+4be68edf-124f-425f-80b3-8793fdfb0629,Izgara Köfte (1 kg.) (Pişirilmiş),"90,00 TL",Kiloluk Ürünler,4.0
+4b630221-e947-4288-952d-7e15e7be4aaa,Poşet,"0,25 TL",Poşet,5.0

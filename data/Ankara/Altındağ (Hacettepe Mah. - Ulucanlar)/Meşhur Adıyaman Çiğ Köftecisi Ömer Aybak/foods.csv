@@ -1,0 +1,40 @@
+food_id,food_name,food_price,food_category,food_score
+E71D8F6E-B79B-4FED-A107-9F4D03B996B0,Çiğ Köfte Dürüm (90 gr.) Menü,"8,50 TL",Menüler,18.0
+44EACCD9-BCEB-4639-954B-0B6B759FF2CF,Çiğ Köfte Dürüm (130 gr.) Menü,"11,00 TL",Menüler,18.0
+8AB134AB-F0D0-4D2C-AE9C-2177C3C1A9CE,Çiğ Köfte Dürüm (170 gr.) Menü,"13,00 TL",Menüler,18.0
+0A178058-9B9F-4B20-B937-D94D263A076A,Çiğ Köfte (1 kg.) Menü,"55,00 TL",Menüler,13.0
+F84777F0-40E0-493C-A6FB-C93CC4072C89,Çiğ Köfte (800 gr.) Menü,"48,00 TL",Menüler,13.0
+FC706600-34D3-4A20-870F-EA1EB4471796,Çiğ Köfte (600 gr.) Menü,"38,00 TL",Menüler,13.0
+086C6AE8-3221-4D62-A00E-49AF74AE2157,Çiğ Köfte (500 gr.) Menü,"34,00 TL",Menüler,13.0
+94FD6DF1-8836-4F87-AF66-039217849D2A,Çiğ Köfte (400 gr.) Menü,"30,00 TL",Menüler,13.0
+6862BA61-9338-4D75-B82F-A035847AAE39,Çiğ Köfte (300 gr.) Menü,"25,00 TL",Menüler,13.0
+712434C5-C5EE-4855-930E-69FFA9A908E9,İçli Köfte & Dürüm Menü (Tek Kişilik),"21,00 TL",Menüler,5.0
+DD8091E4-D71C-40DB-A9A6-73CFB9A50227,İçli Köfte & Dürüm Menü (2 Kişilik),"34,00 TL",Menüler,5.0
+2698E708-2E74-4F16-9327-094E251CFF47,Tatlı & Dürüm Menü,"17,00 TL",Menüler,7.0
+8EFA487B-0174-4267-A9B3-5FF213E4B278,İçli Köfte & Çiğ Köfte Menü,"36,00 TL",Menüler,13.0
+1a0426cb-4960-4dc7-8a01-77a57e866b3a,Çiğ Köfte Dürüm (90 gr.),"6,50 TL",Çiğ Köfteler,13.0
+e5f45b9f-461c-4bc4-88b0-11bad85a7ce0,Çiğ Köfte Dürüm (130 gr.),"9,00 TL",Çiğ Köfteler,13.0
+62AF2A7F-BB87-486F-818D-488A264071D2,Çiğ Köfte Dürüm (170 gr.),"11,00 TL",Çiğ Köfteler,13.0
+56DA1E67-2B11-4A08-80E1-8EF303E59716,Çiğ Köfte (300 gr.),"18,00 TL",Çiğ Köfteler,13.0
+36588427-44dd-429a-bf9f-55ef5856cd1e,Çiğ Köfte (400 gr.),"23,50 TL",Çiğ Köfteler,13.0
+C80DA70D-0E5D-4147-8831-E251048A4C1F,Çiğ Köfte (500 gr.) (Garnitürsüz),"20,00 TL",Çiğ Köfteler,13.0
+92D453CC-E1C0-404A-91FB-2A34217173FC,Çiğ Köfte (500 gr.),"27,00 TL",Çiğ Köfteler,13.0
+7cc5f5cb-74a4-4aa2-9fde-cce1cbae3340,Çiğ Köfte (600 gr.),"31,00 TL",Çiğ Köfteler,13.0
+E5E874FE-EABC-44BA-9250-B66A1FF69B38,Çiğ Köfte (1 kg.) (Garnitürsüz),"36,00 TL",Çiğ Köfteler,13.0
+9d9fd37c-d05d-4528-bcaf-2eb78ff9a090,Çiğ Köfte (1 kg.),"48,00 TL",Çiğ Köfteler,13.0
+BD688340-8622-4D2C-AE76-1CCFCBABF4D4,El Yapımı Kızartma İçli Köfte (Adet),"6,00 TL",Diğer Lezzetler,9.0
+4A250205-8FB2-47EE-B47C-6613CA3020B0,El Yapımı Kızartma İçli Köfte (2 Adet),"11,50 TL",Diğer Lezzetler,9.0
+54967681-CA68-4EBD-BCC3-9A5A04D41434,Nar Ekşisi (15 gr.),"0,50 TL",Yan Ürünler,5.0
+66CD75DB-971A-47F3-B7B1-371C0E844616,Lavaş (Adet),"0,50 TL",Yan Ürünler,5.0
+43350049-6830-4E39-BF25-78CEF3734F11,Göbek Marul (Çeyrek),"2,50 TL",Yan Ürünler,5.0
+301497f8-7584-4b6c-a789-2dedbe492c1d,Göbek Marul (Yarım),"4,50 TL",Yan Ürünler,5.0
+6BDA297D-6E54-4C0E-BBB8-854355314D4E,Limon Adet,"2,00 TL",Yan Ürünler,5.0
+d474c834-f852-433f-9c3d-5aa566c3ba42,Eker Çikolatalı Puding (100 gr.),"3,00 TL",Tatlılar,5.0
+2a6185ac-3fbb-4e51-8163-e807dee7cfc7,Eker Sakızlı Muhallebi (100 gr.),"3,00 TL",Tatlılar,5.0
+1d73f100-d8bb-45dd-a337-4f7d8f1848bf,Eker Sütlaç (100 gr.),"3,00 TL",Tatlılar,5.0
+3477404f-0fb1-437a-849d-8771e6c4cef8,Eker Kazandibi (100 gr.),"3,00 TL",Tatlılar,5.0
+1f8128bf-761d-4035-8bc7-f03a0f117ce6,Niğde Gazozu (25 cl.),"3,00 TL",İçecekler,5.0
+88a7bfaa-b815-4a99-aae6-3810f8ccfee7,Ömer Aybak Turşu Suyu (20 cl.),"3,00 TL",İçecekler,7.0
+8dd14bc6-072e-4e90-9f26-142dfd9bcf11,Erikli Su (50 cl.),"2,00 TL",İçecekler,5.0
+B0FD2993-49F2-4C25-AF76-C0CE5AF04556,Erikli Su (1 L.),"3,00 TL",İçecekler,5.0
+7b21a821-162c-4968-a86b-865a5f95a72d,Poşet,"0,25 TL",Poşet,5.0

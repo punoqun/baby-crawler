@@ -1,0 +1,37 @@
+food_id,food_name,food_price,food_category,food_score
+404DDB28-6837-4655-B8D0-521223B2BD0B,2'li Pizza Menü,"58,00 TL",Menüler,-2.0
+09903D54-EE35-481F-BD19-2F6095E05F96,2'li Cheeseburger Menü,"63,00 TL",Menüler,16.0
+D5C9AF04-A216-46E6-B592-F2C2C8997E57,2'li Mexican Wrap Menü,"55,00 TL",Menüler,12.0
+2eb96ca3-f513-4d55-9621-986816183d4f,Kaşık Patates,"20,00 TL",Atıştırmalıklar,7.0
+4e649907-e7e1-4275-b5e1-b5d2b9d3bf77,Kaju Baharatlı Çubuk Patates,"20,00 TL",Atıştırmalıklar,7.0
+6972ddb1-cb3c-4712-a034-1e9c16a2b4eb,Çubuk Patates,"19,00 TL",Atıştırmalıklar,7.0
+93318370-4159-4373-ab4f-486bfd2b2e71,Çıtır Piliç,"32,00 TL",Atıştırmalıklar,3.0
+c936e725-0183-4e1d-b681-6ba47695912d,Anne Patates,"21,00 TL",Atıştırmalıklar,7.0
+16825da3-071d-4d7a-9686-008ceb2643d4,Karmakarışık Pizza,"33,00 TL",Pizzalar (1-2 Kişilik),10.0
+171a99fd-4f46-46b1-a82e-3bfaceb46756,Barbekü Soslu Pizza,"35,00 TL",Pizzalar (1-2 Kişilik),-3.0
+17b96efa-ce71-4e5c-885b-2dcffc7c0f7e,Carpaccio Pizza,"41,00 TL",Pizzalar (1-2 Kişilik),-1.0
+6833c985-3748-4d27-b320-56c9b0254054,Kovan Pizza,"39,00 TL",Pizzalar (1-2 Kişilik),6.0
+9333de2d-70da-4360-a132-828ab63663ae,Bonfile Pizza,"41,00 TL",Pizzalar (1-2 Kişilik),-1.0
+9f73fa49-ab87-4ecb-86cb-7434588d20ea,4 Peynirli Pizza,"35,00 TL",Pizzalar (1-2 Kişilik),-6.0
+b36ad113-395a-4ec6-8ffd-f3e43ef9515a,Veggie Pizza,"29,00 TL",Pizzalar (1-2 Kişilik),-1.0
+d72b0ed5-7750-4101-9e93-9e35a808cfc6,Mantarlı Pizza,"31,00 TL",Pizzalar (1-2 Kişilik),-1.0
+d8b5be5c-459d-4307-a089-a8012a36a2ea,Margarita Pizza,"29,00 TL",Pizzalar (1-2 Kişilik),-1.0
+e573e651-4ff5-405c-9b13-f74638fa6dbf,Baharatlı Tavuklu Pizza,"35,00 TL",Pizzalar (1-2 Kişilik),1.0
+6375da1c-560e-471e-afa0-5027239e3a93,Bonfile Penne,"41,00 TL",Makarnalar,3.0
+63c4aef0-f6ab-4415-9c6a-f0233ee1e5dc,4 Peynirli Penne,"35,00 TL",Makarnalar,-2.0
+686a7d57-334a-4db8-894e-f5f0242a43a7,Domatesli Penne,"30,00 TL",Makarnalar,3.0
+6901b040-fd1a-41c7-85d7-82c69b6c48de,Penne Alfredo,"31,00 TL",Makarnalar,2.0
+d35f6b2a-e7c7-4d8c-9665-ff0b8eaff3e1,Penne Arrabbiata,"31,00 TL",Makarnalar,3.0
+2eaa8a75-fd5f-4c3b-a3d3-583c67a2aea7,Kovan Burger,"41,00 TL",Burgerler,17.0
+33885bf2-ee1e-4591-9a1c-e366ea8155c5,Demi Glace Burger,"39,00 TL",Burgerler,5.0
+73702235-6dab-4b8e-b80d-49b92e9da6bc,Black Burger,"37,00 TL",Burgerler,5.0
+fd5f528c-45c3-4739-ad91-84f89bbe6b29,Cheeseburger,"39,00 TL",Burgerler,12.0
+0845e27a-84dd-4f27-af1a-d4090509bbd1,Combo Wrap,"37,00 TL",Wraps,9.0
+1c5bffc2-dc9b-4e2a-bc4b-d91a7f060cfb,Mexican Wrap,"33,00 TL",Wraps,13.0
+895672ff-3d8b-437f-ae23-162e4bd366e8,Bonfile Wrap,"41,00 TL",Wraps,9.0
+67be8727-9315-4637-96c4-eebf0a36e93a,Tavuklu Sezar Salata,"31,00 TL",Salatalar,6.0
+969e2ec6-b15b-4c67-88d9-676645118459,Rokalı Parmesanlı Salata,"27,00 TL",Salatalar,5.0
+519d6d7c-8c64-4827-ba5a-a45e7dcfe76a,Kovan Salata,"29,00 TL",Salatalar,12.0
+3bc727ee-5811-459a-8c75-2388cc553ceb,Bonfile Salata,"39,00 TL",Salatalar,5.0
+5eaa681d-9418-45d1-963f-862f53beaabe,Çikolatalı Donut,"10,00 TL",Donutlar,6.0
+50267b9a-5e31-4990-97d2-751b6efec754,Red Bull (25 cl.),"16,00 TL",İçecekler,5.0

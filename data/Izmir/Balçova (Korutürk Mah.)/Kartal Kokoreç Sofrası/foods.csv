@@ -1,0 +1,36 @@
+food_id,food_name,food_price,food_category,food_score
+034E5530-A018-4596-8887-A5716A8AF6F9,Kokoreç Menü,"22,50 TL",Ekonomik Menüler,13.0
+0072487a-d36c-481f-8662-ee6d6572c081,Süt Kuzu Kokoreç Dürüm,"22,00 TL",Kokoreçler,13.0
+0fa0281f-ca5f-4bc2-b2aa-6647c5159f76,3/4 Ekmek Arası Süt Kuzu Kokoreç,"32,00 TL",Kokoreçler,10.0
+af1ba359-521b-49b8-8236-db66a4e6a62a,Süt Kuzu Kokoreç,"42,00 TL",Kokoreçler,13.0
+f60bceb5-1e8b-4bd3-92c8-0874c64e3700,Tam Ekmek Arası Süt Kuzu Kokoreç,"42,00 TL",Kokoreçler,10.0
+2575f0ba-de38-4236-af26-1bdfb8aa7e4d,Çeyrek Ekmek Arası Süt Kuzu İstanbul Kokoreç,"16,00 TL",İstanbul Kokoreçler,10.0
+d1feb1aa-820d-458f-9a01-e463de5580bc,Süt Kuzu İstanbul Kokoreç Dürüm,"25,00 TL",İstanbul Kokoreçler,13.0
+e4baf06f-7285-4df8-abd8-25b9784b8639,3/4 Ekmek Arası Süt Kuzu İstanbul Kokoreç,"36,00 TL",İstanbul Kokoreçler,10.0
+a75e0263-4b5e-42ae-a328-ee22a82f0690,Süt Kuzu İstanbul Kokoreç,"48,00 TL",İstanbul Kokoreçler,13.0
+2aabe3ec-6c4f-48cf-8f1e-72bb89b68f55,Tam Ekmek Arası Süt Kuzu İstanbul Kokoreç,"48,00 TL",İstanbul Kokoreçler,10.0
+88134f82-7fd9-42ca-871d-b295a8b97ebd,Çeyrek Ekmek Arası Karışık,"16,00 TL",Spesiyaller,1.0
+8a9cc2a4-d7b6-4c39-a493-baa2da76226d,Yarım Ekmek Arası Karışık,"24,00 TL",Spesiyaller,-1.0
+e1577be7-e375-4a06-8941-4159a1ebb2d1,Karışık Dürüm,"25,00 TL",Spesiyaller,5.0
+0d8ba8ee-9835-43e0-b9e3-5d34beb006a5,3/4 Ekmek Arası Karışık,"36,00 TL",Spesiyaller,1.0
+f307bc7c-4d9d-4a16-aafb-b0eb9727eec1,Karışık,"48,00 TL",Spesiyaller,5.0
+a759feb6-521b-4215-ae5a-2ec66698fc8e,Tam Ekmek Arası Karışık,"48,00 TL",Spesiyaller,1.0
+846ac4f0-c888-4ccb-a6b5-8cac9c9a3d3f,Çeyrek Ekmek Arası Kasap Köfte,"10,00 TL",Izgara Köfteler,12.0
+a6cf21c9-4a75-452b-804a-c2d1ce783fdb,3/4 Ekmek Arası Kasap Köfte,"24,00 TL",Izgara Köfteler,12.0
+93dddeb8-e5d7-46b1-890a-267454b6fbc0,Tam Ekmek Arası Kasap Köfte,"32,00 TL",Izgara Köfteler,12.0
+7057c8c6-3da3-41b1-9a8e-5b4e6ce58bdd,Kasap Köfte Dürüm,"17,00 TL",Izgara Köfteler,16.0
+93abad10-4718-4af8-972d-1f9e9139c53a,Çeyrek Ekmek Arası Dana Kasap Sucuk,"12,00 TL",Izgara Sucuklar,2.0
+9a2c1fa3-e0a9-413a-b7b8-4d81153fd6fe,3/4 Ekmek Arası Dana Kasap Sucuk,"29,00 TL",Izgara Sucuklar,2.0
+445a07be-ab12-425c-abe0-69c8236883f6,Dana Kasap Sucuk,"38,00 TL",Izgara Sucuklar,6.0
+7abaa686-2f1f-42ad-864d-ba695f0da938,Tam Ekmek Arası Dana Kasap Sucuk,"38,00 TL",Izgara Sucuklar,2.0
+5d61b303-2928-4524-9445-c63c9d3da24e,Çeyrek Ekmek Arası Izgara Tavuk,"9,00 TL",Izgara Tavuklar,1.0
+e42be9c3-eed7-4ad0-81dc-6f8e63a0927d,Yarım Ekmek Arası Izgara Tavuk,"14,00 TL",Izgara Tavuklar,-1.0
+4e0057e7-f9f0-4b76-8b46-0bcdf57da46a,Izgara Tavuk Dürüm,"15,00 TL",Izgara Tavuklar,5.0
+7ecc63c8-0c64-4eb7-b3e8-bf87ed97b819,3/4 Ekmek Arası Izgara Tavuk,"21,00 TL",Izgara Tavuklar,1.0
+031f620d-2103-43f5-a11b-a65cdadb7ba4,Tam Ekmek Arası Izgara Tavuk,"28,00 TL",Izgara Tavuklar,1.0
+f4e9a8b2-99d4-42db-8879-ead7bfa85e40,Kelle Söğüş,"54,00 TL",Diğer Lezzetler,16.0
+0f33d428-dd8d-479f-9785-144d28c50b32,Eker Supangle,"6,00 TL",Tatlılar,5.0
+dcb3329c-f16c-4be6-99d1-62fbfeb97d12,Niğde Gazozu (25 cl.),"4,50 TL",İçecekler,5.0
+fb2da7e3-9737-4535-99f7-7a11760d6677,Adanus Şalgam Suyu (30 cl.),"5,00 TL",İçecekler,5.0
+4a0b8cef-1b0d-4e2c-babb-68598a4debe1,Su,"2,00 TL",İçecekler,7.0
+a8bd664e-9a58-441d-8c1f-f02adccf6c67,Poşet,"0,25 TL",Poşet,5.0

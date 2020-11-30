@@ -1,0 +1,46 @@
+food_id,food_name,food_price,food_category,food_score
+d2712c42-d4c4-4db8-8b85-ba38216de1f8,3'lü Dürüm Menü,"44,99 TL",Ekonomik Menüler,4.0
+dfe1cea3-ed52-419f-b825-bf44b8a4f09c,4'lü Dürüm Menü,"61,99 TL",Ekonomik Menüler,4.0
+66fdb659-4c8d-4484-aea7-d779c03e2e25,5'li Dürüm Menü,"71,99 TL",Ekonomik Menüler,4.0
+2e632dee-e07f-429e-ad17-22a68289a96c,Adana Dürüm Menü,"15,90 TL",Ekonomik Menüler,0.0
+f555942c-d088-4462-9c6b-08d2e3770469,Ciğer Şiş Dürüm Menü,"16,90 TL",Ekonomik Menüler,4.0
+d3a8a4f1-0be7-4f91-8da8-75c50b8a2128,İçecekli 3'lü Dürüm Menü,"39,99 TL",Ekonomik Menüler,4.0
+140a7538-94bc-4a99-ab2d-c1e9e43883ed,İçecekli 4'lü Dürüm Menü,"54,99 TL",Ekonomik Menüler,4.0
+fcac1352-1f7e-49d3-b5d2-c0b69fc15fc2,İçecekli 5'li Dürüm Menü,"59,99 TL",Ekonomik Menüler,4.0
+fe921d5a-7b33-4b5c-b8c9-5ee4da0593bb,Kuşbaşı Dürüm Menü,"15,90 TL",Ekonomik Menüler,4.0
+a0c46040-e655-4316-92f0-bb7c60dcded9,Tavuk Şiş Dürüm Menü,"15,90 TL",Ekonomik Menüler,4.0
+e4320ca9-e980-481f-a066-002d8d5b8460,Tavuk Şiş Dürüm Menü 2,"15,99 TL",Ekonomik Menüler,-6.0
+269840ba-f107-4ec7-bacc-105e610de6e5,Urfa Dürüm Menü,"15,90 TL",Ekonomik Menüler,4.0
+db51c32f-f2dc-4f77-8be9-756c643b1fcb,Çorba & Dürüm Menü,"15,50 TL",Çorbalı Menüler,2.0
+4db3dc9e-04d8-492a-a2f9-9c9806ba7938,Çorba & Tavuk Kanat Menü,"24,99 TL",Çorbalı Menüler,2.0
+d1341a48-2a59-4ca8-82b7-b6e9fb72eede,Çorba & Kebap Menü,"26,99 TL",Çorbalı Menüler,2.0
+ba99dac5-026c-4f3f-8d4c-694386ff6f64,Çorba & Izgara Menü,"27,99 TL",Çorbalı Menüler,2.0
+0771e51e-bc7a-46fd-8bec-f66191c99ef4,Kahvaltı Tabağı,"25,00 TL",Kahvaltılıklar,5.0
+f96dfa48-0f4c-4556-ad45-d56b0466d2d1,Karışık Tost,"12,99 TL",Tostlar,5.0
+7fbc3386-fcd6-4677-8b88-f73134c6ebdc,Adana Kebap,"28,00 TL",Kebaplar,-4.0
+0f6be022-2aa8-4c6a-8795-710e1f9deca4,Urfa Kebap,"28,00 TL",Kebaplar,5.0
+b50bc53e-f601-48f8-9277-0c8a9ea9aac5,Ciğer Şiş,"28,00 TL",Izgaralar,5.0
+9397323e-b85c-459c-87bc-5b2d8ebbf8aa,Kuşbaşı Şiş,"28,00 TL",Izgaralar,5.0
+1551e5d2-889e-4c29-b9e0-7fd197a5efdf,Tavuk Kanat,"20,00 TL",Izgaralar,5.0
+63e2b603-bddc-4b4d-8297-df1d534fbb16,Tavuk Şiş,"26,00 TL",Izgaralar,5.0
+6571609c-d696-479e-8a28-f299379d68bd,Adana Dürüm,"14,00 TL",Dürümler,1.0
+a2097678-3e69-4044-b20a-387ff63ac063,Arabi Dürüm,"17,99 TL",Dürümler,5.0
+89b22809-5843-44bf-a1a3-0d77fbaabe42,Urfa Dürüm,"14,00 TL",Dürümler,5.0
+19bdbf2c-d4e5-44d1-b60e-053fccbd2ec7,Kuşbaşı Dürüm,"14,00 TL",Dürümler,5.0
+db7b4f31-f519-46de-b3ce-3d9c32b3baaa,Tavuk Şiş Dürüm,"13,00 TL",Dürümler,5.0
+5c69d568-a134-48f1-aaa6-296f0545ff4a,Ciğer Şiş Dürüm,"14,00 TL",Dürümler,5.0
+da6834dd-cff1-401a-8980-4d21d809d297,Et Sote,"17,00 TL",Diğer Lezzetler,5.0
+b841461f-95a2-49a4-9fdd-f22ca1d1fb4a,Patates Kızartması,"9,00 TL",Yan Ürünler,1.0
+BDF9C1D9-CAC5-41D0-9BC8-800294E3ED2E,Midye Dolma (1 kg.),"60,00 TL",Yan Ürünler,3.0
+87E5AF23-4E8C-4180-A2C7-D6FCE1131DE3,Midye Dolma (750 gr.),"50,00 TL",Yan Ürünler,3.0
+015026A4-4D05-4BC5-BF49-EBAA069E35EA,Midye Dolma (500 gr.),"35,00 TL",Yan Ürünler,3.0
+34DCEFD6-CE4F-40D7-BA1F-893340563A08,Midye Dolma (250 gr.),"20,00 TL",Yan Ürünler,3.0
+fbcbd8b3-f13b-495a-aa99-2406433afbc4,Elma Dilim Patates Kızartması,"8,00 TL",Yan Ürünler,1.0
+a3a01938-bc96-49d0-a227-3c7105799d41,Kızartma İçli Köfte (Adet),"6,00 TL",Yan Ürünler,5.0
+8faaf543-c417-420c-bb1b-17458e61533e,Menemen,"12,99 TL",Yan Ürünler,5.0
+0c262727-60ef-4693-bb17-1fa19534156d,Sigara Böreği (8 Adet),"10,00 TL",Yan Ürünler,5.0
+761e3377-a2f1-402a-a09e-74177c1af282,Soğan Halkası & Patates Kızartması,"10,99 TL",Yan Ürünler,1.0
+0683c94a-925a-4c72-868a-9ca0318109c1,Soğan Halkası & Patates Kızartması & Sigara Böreği,"14,50 TL",Yan Ürünler,1.0
+462f1569-d332-4fbd-8aed-32662926fa80,Niğde Gazozu (25 cl.),"4,00 TL",İçecekler,5.0
+dcff5e38-1f43-40d7-b745-d869798eec77,Churchill,"7,00 TL",İçecekler,5.0
+42f2b0b2-43be-4cc6-8673-3c88382412a0,Poşet,"0,25 TL",Poşet,5.0

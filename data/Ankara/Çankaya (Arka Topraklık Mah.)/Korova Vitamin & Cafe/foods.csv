@@ -1,0 +1,22 @@
+food_id,food_name,food_price,food_category,food_score
+a7cab145-7484-46ff-932c-abe89ec354ca,L Menü,"35,00 TL",Menüler,11.0
+237d2ef4-ca94-41b9-91f5-67b605d62164,S Menü,"25,00 TL",Menüler,12.0
+3f85fc0b-5fba-440a-83ae-e70550c673f8,D Menü,"50,00 TL",Menüler,5.0
+ba463d74-bc40-4527-848f-2c2b35c35a10,Menü 1,"27,50 TL",Menüler,9.0
+12801139-7b4f-4cd9-8834-e4ecb3a6ffc4,Menü 2,"22,00 TL",Menüler,2.0
+93AF12EE-9297-43C9-A329-2D77F247A801,Corn Dog Menü,"25,00 TL",Menüler,5.0
+097b98b3-96e6-4f6c-ad67-cd4c59200f3b,Kaşarlı Tost,"17,00 TL",Tostlar,4.0
+e9f398aa-f009-4c93-ae50-9fdd56067b41,Sucuklu Tost,"15,00 TL",Tostlar,4.0
+b7bd472f-e2cc-4e25-97ed-baa788646d9f,Karışık Tost,"20,00 TL",Tostlar,4.0
+6fe8958c-4b60-4875-9d96-a0e18d7e94fb,Sanayi Tostu,"20,00 TL",Tostlar,9.0
+e91efe08-6432-45a8-be1f-047fb0480fa4,Bazlama Ekmeğine Karışık Tost,"20,00 TL",Tostlar,6.0
+C9383C17-440B-44F2-AFAA-D160C0A7634D,Kumru Sandviç,"15,00 TL",Ekmek Arası Ürünler & Burgerler,13.0
+98d85159-03a0-4d09-a9c2-5a620ee6c82e,Hot Dog Sandviç,"10,00 TL",Sandviçler,5.0
+aea735e4-550f-4d63-b9db-307014e07a39,Patso Sandviç,"15,00 TL",Sandviçler,3.0
+3C649AFE-0005-481A-9948-B6B279E917E7,Çıtır Tavuk Sandviç,"15,00 TL",Sandviçler,12.0
+a346c98e-9fed-481a-877a-fc991fb01a5f,Cajun Baharatlı Tavuk Dürüm,"20,00 TL",Dürümler,12.0
+417B31B9-507E-49FA-B2A6-7D6688E32DF0,Tavuklu Pilav (300 gr.),"15,00 TL",Diğer Lezzetler,9.0
+5c51495a-1818-4193-b093-ef2af5ac64f2,Sıcak Sepeti,"20,00 TL",Yan Ürünler,5.0
+CF34F95B-02B8-4E37-8C54-AA13FA50182B,Patates Kızartması (Orta),"8,00 TL",Yan Ürünler,7.0
+42ce67c7-8e8f-457e-97e0-88204d0d9e5d,Sufle,"10,00 TL",Tatlılar,5.0
+609d4a68-8602-4c8a-89cb-3c383e8b3dd3,Çamlıca Gazoz (20 cl.),"3,75 TL",İçecekler,5.0

@@ -1,0 +1,52 @@
+food_id,food_name,food_price,food_category,food_score
+3387c77a-4fbe-47b7-a556-979473cb7f7c,Izgara Köfte Menü,"40,00 TL",Menüler,6.0
+524e22d9-3e9a-4daf-aeef-c7cbf6d15616,Yarım Ekmek Arası Sucuk Menü,"25,00 TL",Menüler,4.0
+35c28424-b37c-40e3-9b9e-dbeddfc395e6,Yarım Ekmek Arası Köfte Menü,"30,00 TL",Menüler,6.0
+e3312a15-9807-4308-abfa-f5a214821d27,Zurna Dürüm Menü,"28,00 TL",Menüler,5.0
+f1b3b234-4f03-42a1-a6ba-2aafbd51739f,Tavuk Dürüm Menü,"20,00 TL",Menüler,4.0
+ae28e7d2-946a-4814-8aed-906c1077c2c8,Dürüm Menü,"24,00 TL",Menüler,3.0
+415588ef-39b8-45c4-9aaf-dd54cfd75fe2,Kaşarlı Tost,"9,00 TL",Tostlar,5.0
+298ba891-a2e0-41cd-9d39-b1674dafffd9,Sucuklu Tost,"12,00 TL",Tostlar,5.0
+3d2caffd-5756-4e4f-ab2c-33cafb4ad9c0,Karışık Tost,"12,00 TL",Tostlar,5.0
+c9c33f4b-2d85-4c70-80e5-baff4f3f29f2,Ayvalık Tostu,"17,50 TL",Tostlar,5.0
+06ca78ab-d3c1-4b96-ab63-3aa9191952c8,Tavuk Döner,"22,00 TL",Tavuk Dönerler,3.0
+d1113ff9-7535-4123-9219-957d7b161b49,3/4 Ekmek Arası Bol Tavuk Döner,"17,50 TL",Tavuk Dönerler,3.0
+1b054610-b1f4-450b-aac6-64da9c26b884,3/4 Ekmek Arası Tavuk Döner,"14,00 TL",Tavuk Dönerler,3.0
+2d98c120-21bb-4e58-8315-7687c605f5cb,Bol Tavuk Döner Dürüm,"15,00 TL",Tavuk Dönerler,2.0
+34c88b44-726d-414b-9c8a-9b5a5f406e8f,Tam Ekmek Arası Bol Tavuk Döner,"22,00 TL",Tavuk Dönerler,4.0
+3975bf2a-cdbd-4953-b3af-a920c8c6be8f,Tam Ekmek Arası Tavuk Döner,"16,00 TL",Tavuk Dönerler,4.0
+21b89065-3201-4e97-875f-aa10f340992c,Tavuk Döner Dürüm,"12,00 TL",Tavuk Dönerler,2.0
+711f1585-bb41-4734-887a-dce3d0aa2467,Tombik Ekmek Arası Bol Tavuk Döner,"14,00 TL",Tavuk Dönerler,3.0
+d3134463-4511-4678-9276-3e5d8aff34a6,Tombik Ekmek Arası Tavuk Döner,"9,00 TL",Tavuk Dönerler,3.0
+6c3dff66-dc4c-436d-986f-0f28cf5d4375,Yarım Ekmek Arası Bol Tavuk Döner,"12,00 TL",Tavuk Dönerler,3.0
+c802ef64-b06e-4482-ad1d-8f49a4990a59,Yarım Ekmek Arası Tavuk Döner,"8,00 TL",Tavuk Dönerler,8.0
+05a65ad5-27d9-4a4a-9dfc-db4430c06d1d,Zurna Tavuk Döner Dürüm (130 gr.),"17,50 TL",Tavuk Dönerler,9.0
+d7d05fe4-fd50-4f94-a310-205f45fa3b9d,Zurna Tavuk Döner Dürüm (160 gr.),"20,00 TL",Tavuk Dönerler,9.0
+3081ca6c-61b9-4655-ac78-4c1745e83b26,Zurna Tavuk Döner Dürüm (190 gr.),"23,00 TL",Tavuk Dönerler,4.0
+75f5a1ed-01df-4252-a5e4-42f0d2fab0c2,Zurna Tavuk Döner Dürüm (220 gr.),"27,00 TL",Tavuk Dönerler,4.0
+20BDAE1D-7FFC-41A8-8526-3FC81F381307,Zurna Tavuk Döner Dürüm (270 gr.),"31,00 TL",Tavuk Dönerler,4.0
+bed3e3f4-2cce-4311-9d42-6c5b97db6b7b,Zurna Tavuk Döner Dürüm (300 gr.),"35,00 TL",Tavuk Dönerler,4.0
+9d7d2a33-5f95-4652-9f54-5933860ee834,Sade Patso,"13,00 TL",Patsolar & Sandviçler,4.0
+441d1831-b638-491b-8c33-dd063867e468,Sosisli Patso,"15,50 TL",Patsolar & Sandviçler,4.0
+5ce91b66-636d-4047-b4e3-2610ce2afbd0,Kaşarlı Patso,"15,50 TL",Patsolar & Sandviçler,4.0
+13005741-50fe-4f62-9081-75334ad03d6b,Tavuk Dönerli Patso,"17,00 TL",Patsolar & Sandviçler,5.0
+93d25db9-d296-4fd8-9b2a-1e0bfc993333,Sosisli Sandviç,"6,00 TL",Patsolar & Sandviçler,5.0
+6d5dc42d-5592-485d-81fc-a8695b1c6b40,Hamburger,"18,00 TL",Burgerler,5.0
+df0dd3bf-b6c5-42a2-b584-dcf4c37c5a04,Cheeseburger,"20,00 TL",Burgerler,5.0
+43fc0949-7593-4d47-8bca-5cb65336f571,Izgara Köfte,"35,00 TL",Köfteler,7.0
+fe7195fd-0097-419d-b71f-0fbc0bfa555f,Yarım Ekmek Arası Köfte,"20,00 TL",Köfteler,7.0
+c8e824cc-c97f-408f-9094-d24e894d3304,3/4 Ekmek Arası Köfte,"28,00 TL",Köfteler,7.0
+3672e90f-5d20-4ad9-99a2-f07df32bbc9d,Tam Ekmek Arası Köfte,"35,00 TL",Köfteler,8.0
+82d610e0-5119-4c31-881d-427261cf1ffa,Köfte Dürüm,"24,00 TL",Köfteler,6.0
+4a77cb77-2fb1-4afd-aa28-2d162fc70b69,Yarım Ekmek Arası Sucuk,"15,00 TL",Ekmek Arası Ürünler,5.0
+441f9282-0d9d-4935-a192-21acf0ee58b6,Tam Ekmek Arası Sucuk,"27,00 TL",Ekmek Arası Ürünler,6.0
+e5419587-b984-4e77-b3af-2050a1fdea21,Çiğ Köfte Dürüm,"6,00 TL",Çiğ Köfteler,6.0
+0346faf2-3eb5-4801-b77a-4b526330d94e,Duble Çiğ Köfte Dürüm,"10,00 TL",Çiğ Köfteler,6.0
+96a39601-5c34-42b6-bd3c-c583d58edf30,Çiğ Köfte (250 gr.),"14,00 TL",Çiğ Köfteler,7.0
+1024c2d2-bba1-4505-aa40-a67d895d0d9c,Çiğ Köfte (500 gr.),"23,00 TL",Çiğ Köfteler,7.0
+f10aa1fc-c534-439c-ad62-37d2a862df04,Çiğ Köfte (1 kg.),"45,00 TL",Çiğ Köfteler,7.0
+21091c33-086a-4c11-91a8-ac76eeeca363,Patates Kızartması,"12,00 TL",Yan Ürünler,5.0
+defdd780-7115-4abe-be00-1e633520a49c,Çamlıca Gazoz (20 cl.),"4,00 TL",İçecekler,5.0
+ef8a8419-b5fa-4491-8624-597f0000ad51,Limonata (1 L.),"10,00 TL",İçecekler,5.0
+7bf29fce-5409-43b3-9bc6-2798659994ef,"Fanta (2,5 L.)","12,00 TL",İçecekler,5.0
+9abd2f09-71fd-462b-bd34-143a94856fbb,Poşet,"0,25 TL",Poşet,5.0

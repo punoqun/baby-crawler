@@ -1,0 +1,41 @@
+food_id,food_name,food_price,food_category,food_score
+ea6a1d39-513e-4a98-8958-3dddb58c6552,2'li Kokoreç Menü,"60,00 TL",Menüler,22.0
+731ba1d7-95e5-4515-8c24-26995cf28263,2'li Sucuk Menü,"52,00 TL",Menüler,7.0
+c5957e93-7ab1-407f-a707-087db52405bb,3/4 Ekmek Arası Süt Kuzu Kokoreç Menü,"40,00 TL",Menüler,25.0
+84c3171c-54c8-47b2-8510-960a3edf2d24,3'lü Sucuk Menü,"56,00 TL",Menüler,7.0
+0393461e-5631-4ecb-be0a-0f1155349ac0,4'lü Kokoreç Menü,"85,00 TL",Menüler,22.0
+3a6d5e82-6e8f-4809-aaeb-cf317e876304,Köfte Menü,"28,00 TL",Menüler,6.0
+19a44b7d-d241-4ce2-b93f-2cf8d423cfa3,Kokoreç Menü,"32,00 TL",Menüler,22.0
+bcd1ffa6-87d7-4cd8-8cef-898d87b8206f,Sucuk Menü,"28,00 TL",Menüler,7.0
+0d483ef2-f5b4-4c9b-9898-caa308e61c8b,Yarım Ekmek Arası Süt Kuzu Kokoreç Menü,"30,00 TL",Menüler,28.0
+f4b16094-204d-4de6-9460-e7da5ae3cfc0,3/4 Ekmek Arası Kuzu Kokoreç,"32,50 TL",Kokoreçler,30.0
+3A772AF5-2E22-4B5E-83C5-566198979D75,Yarım Ekmek Arası Doy Doy Kokoreç,"27,50 TL",Kokoreçler,26.0
+b6d4363c-a3f5-4d4e-9481-740e408f2481,Çeyrek Ekmek Arası Duble Kuzu Kokoreç,"25,00 TL",Kokoreçler,22.0
+716c6dcf-f394-4e8b-9ce6-6af3e9793743,Çeyrek Ekmek Arası Kuzu Kokoreç,"13,00 TL",Kokoreçler,28.0
+ef328e05-58a4-4d4e-b7f8-98f71bc214f6,Yarım Ekmek Arası Atom Kokoreç,"25,00 TL",Kokoreçler,32.0
+99f591ab-babd-4b3d-8a45-c7253cea17a8,Yarım Ekmek Arası Atomix Kokoreç,"25,00 TL",Kokoreçler,28.0
+277e1f66-8e68-4c4f-b490-ff618a3e6e6c,Yarım Ekmek Arası Duble Atom Kokoreç,"50,00 TL",Kokoreçler,31.0
+315ccf71-04b3-413b-8385-b35088223e5c,Yarım Ekmek Arası Duble Kuzu Kokoreç,"40,00 TL",Kokoreçler,27.0
+8a70a235-d7f6-40b0-8ff5-0f3fd7c5ecce,Yarım Ekmek Arası Kuzu Bademli Kokoreç,"28,00 TL",Kokoreçler,28.0
+7ec27948-84f0-47b7-bc2d-7c1db8e0c9d4,Yarım Ekmek Arası Kuzu Kokoreç,"20,00 TL",Kokoreçler,33.0
+738E712A-5CC8-4606-A06C-F8D4A5A031AD,3/4 Ekmek Arası Doy Doy Kokoreç,"37,50 TL",Kokoreçler,23.0
+f00b5f58-fed0-47ac-8fb3-8e394ec3508d,Ekmek Arası Köfte,"18,00 TL",Köfteler,7.0
+a694a49d-c873-4479-880c-b16b64d6967b,3/4 Ekmek Arası Köfte,"32,00 TL",Köfteler,9.0
+0ddc7b4a-3af0-4a33-9be4-e3e119c7a30f,Tam Ekmek Arası Köfte,"35,00 TL",Köfteler,5.0
+9a242e76-84bf-4d1e-ad7a-f3305cc4733e,Ekmek Arası Sucuk,"16,00 TL",Ekmek Arası Ürünler,8.0
+fa9d6038-88cd-4e63-bb3f-acac36ffb8c3,Ekmek Arası Kaşarlı Sucuk,"18,00 TL",Ekmek Arası Ürünler,8.0
+be132874-8a51-4d96-be38-cb97c8807e05,Çeyrek Ekmek Arası Sucuk,"12,00 TL",Ekmek Arası Ürünler,8.0
+000c1528-1458-4d98-9fc2-fc860786291f,Çeyrek Ekmek Arası Duble Sucuk,"24,00 TL",Ekmek Arası Ürünler,7.0
+f55e0916-0c9c-4654-a3bf-385b6ddb9492,3/4 Ekmek Arası Sucuk,"30,00 TL",Ekmek Arası Ürünler,10.0
+251dded1-d910-41af-b432-423d43926b53,Yarım Ekmek Arası Kuzu Badem,"25,00 TL",Ekmek Arası Ürünler,12.0
+6e1e3703-8e42-468c-b206-687bc4500a72,Çeyrek Ekmek Arası Kuzu Badem,"15,00 TL",Ekmek Arası Ürünler,6.0
+93685e03-ac1a-4280-a814-ff4b629c9c57,Yarım Ekmek Arası Kuzu Uykuluk,"25,00 TL",Ekmek Arası Ürünler,13.0
+495fd312-6e97-4e62-9f39-a8850f2e5352,Çeyrek Ekmek Arası Kuzu Uykuluk,"15,00 TL",Ekmek Arası Ürünler,7.0
+5339093F-6146-4870-A435-B876B19F44D9,Mega Çiğ Köfte Dürüm,"9,00 TL",Çiğ Köfteler,6.0
+692F223B-7927-4472-8F8D-9938A47BA5EC,Çiğ Köfte Dürüm,"6,00 TL",Çiğ Köfteler,6.0
+142155a4-29c2-40ec-93e6-cc8349e62675,Sakıpağa Supangle,"8,00 TL",Tatlılar,5.0
+768e2d87-e598-4afe-867f-ec66d404906d,Sakıpağa Keşkül,"8,00 TL",Tatlılar,5.0
+60636e26-ed8e-4cf4-b0f7-b4a6a30e216d,Adanus Şalgam Suyu (25 cl.),"6,00 TL",İçecekler,5.0
+a589d87f-90fd-453e-8433-d4eb32dc3ec4,Niğde Gazozu (25 cl.),"5,00 TL",İçecekler,5.0
+6b6462d3-b6be-418e-be09-92c1f9345eda,Ayran (20 cl.) (Cam Şişe),"4,50 TL",İçecekler,5.0
+e95d3ec5-1d0d-4122-bd4d-0d2f5a51256e,Su,"3,00 TL",İçecekler,7.0

@@ -1,0 +1,50 @@
+food_id,food_name,food_price,food_category,food_score
+25b1344c-f014-47fd-bb91-b022751f426c,Tek Kişilik Menü,"29,99 TL",Menüler,9.0
+201430f4-e470-418a-aa53-5156099b1ba1,Aile Boyu Menü,"64,99 TL",Menüler,6.0
+69403a9a-5418-4867-8830-ca94183f3d9e,Dopdolu Menü,"44,99 TL",Menüler,6.0
+994303f6-9f16-422a-8111-3d845d18f694,Single Menü,"39,99 TL",Menüler,6.0
+da2221ff-7746-45da-a7ed-8e2c86ea122c,Double Menü,"59,99 TL",Menüler,11.0
+6acb187e-a3e4-43f3-af0a-a7d96170fb37,Party Menü,"64,99 TL",Menüler,7.0
+25b0fb33-9147-4249-91ab-eaf11d5492e9,Öğrenci Dostu Menü,"44,99 TL",Menüler,8.0
+cacdbcd9-8080-4003-afca-6e12c9198c38,Combo Tabağı Menü,"24,99 TL",Menüler,6.0
+8c3844cc-bad1-4579-8b80-a5daaeec8d68,4 Peynirli Pizza (Orta),"23,99 TL",Orta Boy Pizzalar (26 cm.),17.0
+FD85B05C-C4C5-4504-B7A4-E13BE55D16E7,Kokoreçli Pizza (Orta),"29,99 TL",Orta Boy Pizzalar (26 cm.),20.0
+7EA9227C-7FE6-49D0-9BA1-046811A5893B,Kavurmalı Kasap Sucuklu Pizza (Orta),"29,99 TL",Orta Boy Pizzalar (26 cm.),16.0
+97ad75b1-24c5-4251-9aab-306650884ee3,Bollywood Pizza (Orta),"23,99 TL",Orta Boy Pizzalar (26 cm.),14.0
+3ff09665-f2bf-42a2-b96e-33bf7967e46c,Buffalo Pizza (Orta),"24,99 TL",Orta Boy Pizzalar (26 cm.),11.0
+633f5c8c-f387-45c1-bc18-54bdffc14c14,Burger Pizza (Orta),"24,99 TL",Orta Boy Pizzalar (26 cm.),14.0
+e54f7588-b6f6-43b0-bdfd-474d0813a8bf,Chicago Pizza (Orta),"24,99 TL",Orta Boy Pizzalar (26 cm.),14.0
+c87cfcfb-2fd0-4358-bbbd-6be695a77a94,Country Pizza (Orta),"24,99 TL",Orta Boy Pizzalar (26 cm.),16.0
+8cd729df-b7cc-43d2-939e-8fefcb93c5bd,Köylüm Pizza (Orta),"23,99 TL",Orta Boy Pizzalar (26 cm.),14.0
+676f9ec4-82a4-4b3f-a499-b387fc95bd3a,Pan Karışık Pizza (Orta),"22,99 TL",Orta Boy Pizzalar (26 cm.),22.0
+05e810b9-5f3f-48dc-a897-3508dad722fe,Pan Kumru Pizza (Orta),"22,99 TL",Orta Boy Pizzalar (26 cm.),17.0
+edc30b94-db73-4b25-bb93-a286763df62d,Pimento Pizza (Orta),"23,99 TL",Orta Boy Pizzalar (26 cm.),14.0
+c9ec7ed5-7382-428a-a2f2-ab60f9aca985,Raclette Pizza (Orta),"24,99 TL",Orta Boy Pizzalar (26 cm.),14.0
+5a0bc88d-7ac9-4e97-949c-f72b2a4c5be2,Sarımsaklım Pizza (Orta),"23,99 TL",Orta Boy Pizzalar (26 cm.),14.0
+f318fd5f-bcd5-41f0-9c36-e9e00a5ec56d,Ton Balıklı Pizza (Orta),"24,99 TL",Orta Boy Pizzalar (26 cm.),14.0
+81726d24-7fcf-43f0-ad04-eb296b1ce3bf,Veggie Pizza (Orta),"22,99 TL",Orta Boy Pizzalar (26 cm.),14.0
+f745d68f-fb1b-4bc6-bc1a-bbf035cbef03,Western Pizza (Orta),"23,99 TL",Orta Boy Pizzalar (26 cm.),14.0
+ebc5be57-db88-4f0b-9373-eb0b6f814586,4 Peynirli Pizza (Büyük),"29,99 TL",Büyük Boy Pizzalar (30 cm.),17.0
+B479F58E-56B6-48FE-B7B2-5561039501AF,Kokoreçli Pizza (Büyük),"31,99 TL",Büyük Boy Pizzalar (30 cm.),20.0
+6CD8D513-6D24-40A9-8D42-499810E89A04,Kavurmalı Kasap Sucuklu Pizza (Büyük),"39,99 TL",Büyük Boy Pizzalar (30 cm.),16.0
+3a122e3b-870e-4c17-a856-c3974cded732,Bollywood Pizza (Büyük),"29,99 TL",Büyük Boy Pizzalar (30 cm.),14.0
+e27ccc2c-c5d9-4180-94bc-3ce04e387409,Buffalo Pizza (Büyük),"31,99 TL",Büyük Boy Pizzalar (30 cm.),11.0
+bb56c91d-6d21-4bf1-a66e-0c8c1f24557d,Burger Pizza (Büyük),"31,99 TL",Büyük Boy Pizzalar (30 cm.),14.0
+033c6952-21cc-4ec0-a563-571449af2d04,Chicago Pizza (Büyük),"31,99 TL",Büyük Boy Pizzalar (30 cm.),14.0
+a9109d9f-167f-43b3-a83d-2d367b60b14f,Country Pizza (Büyük),"31,99 TL",Büyük Boy Pizzalar (30 cm.),16.0
+58344a68-0db0-4a81-b4b1-48dafd825f38,Köylüm Pizza (Büyük),"29,99 TL",Büyük Boy Pizzalar (30 cm.),14.0
+787603b8-e52e-4df1-bf5c-9b5bc6d93290,Pan Karışık Pizza (Büyük),"27,99 TL",Büyük Boy Pizzalar (30 cm.),22.0
+866157aa-4522-4471-ada7-a6e6672035b3,Pan Kumru Pizza (Büyük),"27,99 TL",Büyük Boy Pizzalar (30 cm.),17.0
+db80df45-6af5-42c3-9ac5-1eee3e50ac32,Pimento Pizza (Büyük),"29,99 TL",Büyük Boy Pizzalar (30 cm.),14.0
+df48467c-a7be-4757-9f43-5ef4dfbd5a3a,Raclette Pizza (Büyük),"29,99 TL",Büyük Boy Pizzalar (30 cm.),14.0
+2a0a7881-68bd-4dae-830e-309e058fc088,Sarımsaklım Pizza (Büyük),"27,99 TL",Büyük Boy Pizzalar (30 cm.),14.0
+620d3f17-f96b-4a61-9945-b41807736d15,Ton Balıklı Pizza (Büyük),"34,99 TL",Büyük Boy Pizzalar (30 cm.),14.0
+595579f0-7ad2-4a76-9dbe-19a00aef49e0,Veggie Pizza (Büyük),"27,99 TL",Büyük Boy Pizzalar (30 cm.),14.0
+b7c307dd-16ca-495c-8994-809544280d18,Western Pizza (Büyük),"29,99 TL",Büyük Boy Pizzalar (30 cm.),14.0
+cc5e3d09-a855-47aa-92f8-9ed89c547062,Patates Kızartması,"6,99 TL",Yan Ürünler,5.0
+b45f63aa-1291-4ada-9cb9-c008f3b7ffb7,Soğan Halkası (5 Adet),"6,99 TL",Yan Ürünler,5.0
+d50b42e4-f49a-4c7a-b136-5d34a73a9dcb,Sarımsaklı Ekmek,"12,00 TL",Yan Ürünler,4.0
+96e48895-b86d-4ab5-a4db-dde2b3e58608,Tavuk Nugget (6 Adet),"6,99 TL",Yan Ürünler,5.0
+4c5596bd-60df-460a-9515-b04c1cdd8ee3,Çikolatalı Sufle,"7,99 TL",Tatlılar,7.0
+90d3b7e3-7fbc-4c01-a418-79dbb09020bc,7UP (1 L.),"5,99 TL",İçecekler,5.0
+63d2fbc1-973a-49d2-b7df-e7150c2cf2d3,Poşet,"0,25 TL",Poşet,5.0

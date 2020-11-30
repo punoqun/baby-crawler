@@ -1,0 +1,54 @@
+food_id,food_name,food_price,food_category,food_score
+f1d0ff1d-04d0-4fbd-9912-49369d15ce52,10'lu Lahmacun Menü,"78,00 TL",Menüler,9.0
+d6cb236b-70c6-45fb-897f-ce69fc763be9,7'li Lahmacun Menü,"55,00 TL",Menüler,9.0
+137c3faf-294f-4dbe-9406-24aabdda4ead,20'li Lahmacun Menü,"140,00 TL",Menüler,9.0
+6a31d2bc-a024-4331-8ff4-50b401d9bfff,4'li Lahmacun Menü,"34,00 TL",Menüler,9.0
+718262d9-6534-494d-948e-aaee3361f205,Kaşarlı Pide Menü,"28,00 TL",Menüler,4.0
+83cc1d98-30df-41e0-903a-70bc4ae9b8aa,Kıymalı Kaşarlı Pide Menü,"27,00 TL",Menüler,4.0
+d24006ef-f97a-4228-864e-3a3df492adb2,Dürüm Menü,"20,00 TL",Menüler,6.0
+B85D1BC3-1DDD-4DF7-B549-94CABC2B62FA,Yağsız Çürük Çorbası,"32,00 TL",Çorbalar,5.0
+3eb6a181-ed2c-40a5-9168-d2f41769229e,Urfa Kebap,"30,00 TL",Kebaplar & Izgaralar,7.0
+16f3e7f2-9dd6-4b42-87d5-d6cf7088896c,Tavuk Kanat,"28,00 TL",Kebaplar & Izgaralar,4.0
+8cd7d06d-15a3-4bda-82f4-d42afc1d704d,Karışık Kebap,"65,00 TL",Kebaplar & Izgaralar,8.0
+13fc782f-a7f6-4110-ba7b-1756249f6ae1,Patlıcanlı Kebap,"38,00 TL",Kebaplar & Izgaralar,8.0
+ced5f244-b2a1-4930-a1f9-1feead9086e2,Adana Kebap,"30,00 TL",Kebaplar & Izgaralar,6.0
+355a9940-74ea-477f-be3e-4671ca7aa87f,Sarma Beyti Kebap,"37,00 TL",Kebaplar & Izgaralar,6.0
+b55f9de4-801d-4295-a359-7a98f21c25f5,Baran 4 Special Kebap,"75,00 TL",Kebaplar & Izgaralar,16.0
+b37719b4-1b5c-4c4a-b9ad-8f39e6ae7e47,Alinazik Kebap (Kıymadan),"37,00 TL",Kebaplar & Izgaralar,8.0
+6d9663a2-5a83-4956-97e8-50d348500578,Domatesli Kebap,"37,00 TL",Kebaplar & Izgaralar,8.0
+162829b1-7169-4c4a-8c1a-7d463b75e162,Tavuk Şiş,"28,00 TL",Kebaplar & Izgaralar,4.0
+CDEB5C0F-573E-4125-9005-DB0047A18122,Fındık Lahmacun,"5,00 TL",Fırın Ürünleri,9.0
+0AD18995-0968-42D2-82BB-174EDC372D91,Kaşarlı Lahmacun,"12,00 TL",Fırın Ürünleri,8.0
+885bb02b-56b3-4e59-964f-65db4e52bb63,Karışık Pide,"28,00 TL",Fırın Ürünleri,5.0
+b89a48a6-6644-4dca-b3bd-0107ab95e8af,Kaşarlı Pide,"24,00 TL",Fırın Ürünleri,4.0
+c365ee50-0707-4371-8ce2-3ec48a2b62e2,Kaşarlı Sucuklu Pide,"26,00 TL",Fırın Ürünleri,4.0
+3e732085-a0fc-4d7a-b86f-041b3889cc80,Kavurmalı Kaşarlı Pide,"32,00 TL",Fırın Ürünleri,4.0
+5A5FACF9-8B78-4EDD-8046-AE7170B32348,Kıymalı Kaşarlı Pide,"26,00 TL",Fırın Ürünleri,4.0
+24071fed-7516-4795-b5e9-fb2bdefe6759,Kıymalı Pide,"24,00 TL",Fırın Ürünleri,5.0
+13961A0F-8100-463C-B8D6-99E9C809294E,Kuşbaşı Kaşarlı Pide,"28,00 TL",Fırın Ürünleri,4.0
+4789fa7d-2e32-46ca-8480-8633e1cdacf1,Kuşbaşılı Pide,"26,00 TL",Fırın Ürünleri,5.0
+ec0abb65-17b9-40e1-8501-37e6ccffa1d6,Özel Sarımsaklı Lahmacun,"10,00 TL",Fırın Ürünleri,11.0
+7235d670-40b6-4dfb-b29f-ecf1dc2c53fc,Fırın Güveç,"28,00 TL",Sulu Yemekler,2.0
+80e18729-21a2-4bb7-a868-60ea1b08a5d3,Mumbar,"40,00 TL",Sulu Yemekler,5.0
+C4FFFA11-38F3-4C8B-9E4B-FD93703C3B4E,Tereyağında Kavrulmuş Bumbar,"43,00 TL",Sulu Yemekler,5.0
+0b3a2d3b-735c-416c-9c58-1483db714208,Urfa Dürüm,"18,00 TL",Dürümler,5.0
+a68b5749-252c-4a15-ab45-9c8728b0dd87,Tavuk Şiş Dürüm,"16,00 TL",Dürümler,5.0
+09df0fd6-2368-4fc0-9fb6-ac57d94c0507,Adana Dürüm,"18,00 TL",Dürümler,4.0
+F85FBF91-6556-43F9-8180-31E4BCD7511D,Kaşarlı Adana Dürüm,"22,00 TL",Dürümler,3.0
+1EB9BE8D-034C-4085-B370-1E7015D7C26C,Kaşarlı Urfa Dürüm,"22,00 TL",Dürümler,4.0
+B704F2E0-7E69-4964-8978-C1DA13A35232,Kaşarlı Tavuk Dürüm,"20,00 TL",Dürümler,4.0
+C0A57BAB-A631-487D-B30F-C4B35750143A,Ciğer Şiş Dürüm,"20,00 TL",Dürümler,6.0
+18118439-292F-4582-9FBA-9F9176676DE1,Cacık,"10,00 TL",Yan Ürünler,5.0
+7a48e037-7df8-46f8-ba84-70899adae8de,Mevsim Salata,"10,00 TL",Salatalar,5.0
+E71A6948-0F43-4F90-A9D2-535E870F6DF2,Söğüş Salata,"10,00 TL",Salatalar,5.0
+956234e9-9b53-43a3-b62f-bc15167c0711,Çoban Salata,"10,00 TL",Salatalar,5.0
+c877e6c9-d6bb-4476-ba67-fdc180ce25de,Ezme Salata,"10,00 TL",Salatalar,5.0
+d25021cb-cf2a-45d1-a295-f17537306d58,Fıstıklı Künefe,"15,00 TL",Tatlılar,3.0
+e0f7a753-a113-4ce6-adce-170885efd78c,Sütlaç,"10,00 TL",Tatlılar,5.0
+81C7E52F-61A3-43C4-9F8C-7C101D3D580A,Katmer,"18,00 TL",Tatlılar,5.0
+A46E5C75-962D-4788-92F4-43330E6EEB3A,Fruko (1 L.),"8,00 TL",İçecekler,5.0
+5DF72ABE-95FE-4FEF-898F-17167D5AF9BE,"Lipton Ice Tea (1,5 L.)","12,00 TL",İçecekler,5.0
+403374F2-A633-4EA1-ADFF-CD61B968D63F,"Su (1,5 L.)","5,00 TL",İçecekler,5.0
+56363F8F-B7E0-4662-8961-2EB62595CF52,"Fanta (2,5 L.)","12,00 TL",İçecekler,5.0
+10028147-A877-4F4E-A519-7779C0609219,"Yedigün (2,5 L.)","12,00 TL",İçecekler,5.0
+51e95d69-f47b-49d3-96d9-e16c117d7eb7,Poşet,"0,25 TL",Poşet,5.0

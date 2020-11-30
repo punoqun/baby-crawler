@@ -1,0 +1,33 @@
+food_id,food_name,food_price,food_category,food_score
+f794df6c-f8ee-4bbd-a225-e9641e4b5b54,Kaşarlı Tost,"7,00 TL",Tostlar,3.0
+8e273cb6-7f3e-4799-a953-6993d912380c,Sucuklu Tost,"7,00 TL",Tostlar,3.0
+a809690a-75ed-4ae6-a5ce-c971785f0c98,Karışık Tost,"8,00 TL",Tostlar,10.0
+831a7257-4394-4dd2-bda1-58490d25ac64,Kavurmalı Kaşarlı Tost,"13,00 TL",Tostlar,3.0
+9f5e38e9-cbaa-4032-95e8-0be81351181f,Pastırmalı Kaşarlı Tost,"16,00 TL",Tostlar,3.0
+ebbcc38a-91c3-439b-a312-954d1a96d455,Çift Kaşarlı Tost,"9,00 TL",Tostlar,3.0
+b7736e4a-1aca-4fce-8fe7-71d65545b683,Hindi Fümeli Kaşarlı Tost,"9,00 TL",Tostlar,3.0
+9df94dd9-f19d-4930-b7cf-362f2688b6e0,Beyaz Peynirli Tost,"9,00 TL",Tostlar,3.0
+ae759f80-25f1-43a2-b37e-a274ede0d493,Kaburgarlı Kaşarlı Tost,"18,00 TL",Tostlar,3.0
+2ceed2da-2e85-4c39-8699-32a088fdc909,Kıymalı Kaşarlı Tost,"8,00 TL",Tostlar,10.0
+9b761d3e-41fe-4af8-9907-6b09eb8dc235,Karman Çorban Tost,"16,00 TL",Tostlar,3.0
+4617176d-ce28-40f8-8c2d-0ac064d5e864,Doyuran Tost,"17,00 TL",Tostlar,5.0
+7aa12732-b786-4bb6-99cd-6674e87c1fa7,Cheddarlı Tost,"12,00 TL",Tostlar,3.0
+c6cc0db8-5460-4555-a4da-232f51804fbe,Barbekülü Tost,"9,00 TL",Tostlar,3.0
+539a2297-7bcd-4102-8ce2-240309c4ddff,Arap Saçı Tost,"9,00 TL",Tostlar,3.0
+2721fbae-a809-4b33-85a1-b884fa364fae,Kendi Tostunu Kendin Yap,"6,00 TL",Tostlar,5.0
+3f49163b-c439-4646-b274-4d3d1337b4b7,Nutella Tost,"12,00 TL",Tostlar,3.0
+EB4DC388-0567-4989-8E5F-DC37EE8C50F2,Karışık Tost Menü,"15,00 TL",Menüler,10.0
+bec0782a-9033-4f37-9171-5283449af8cf,Domatesli Sandviç,"7,00 TL",Soğuk Sandviçler,5.0
+a19b5236-9312-4e2b-b94e-d4852630c291,Kaşarlı Sandviç,"9,00 TL",Soğuk Sandviçler,5.0
+6defd64a-da7c-452d-854d-4948b2463193,Ton Balıklı Sandviç,"14,00 TL",Soğuk Sandviçler,5.0
+68bcbd5f-97da-406d-8334-67c287ccba31,Patso Sandviç,"8,00 TL",Sıcak Sandviçler,5.0
+62779d72-5b63-4001-96df-f3de5f7f7818,Patsosis,"9,00 TL",Sıcak Sandviçler,5.0
+c3234a29-bb30-403b-b549-8173219ef64f,Patso Nugget Sandviç,"12,00 TL",Sıcak Sandviçler,5.0
+f4600933-cf60-4c16-b245-806929728a0f,Patates Kızartması (Büyük),"10,00 TL",Yan Ürünler,5.0
+ad7e349b-bb1b-47cd-b06a-7af59b8708ee,Patates Kızartması (Küçük),"8,00 TL",Yan Ürünler,5.0
+e235dde9-052b-4589-b71f-066797e1fce8,Soğan Halkası (12 Adet),"15,00 TL",Yan Ürünler,5.0
+fddbf9bf-9251-45fe-b612-f2e49fcfd2eb,Soğan Halkası (4 Adet),"8,00 TL",Yan Ürünler,5.0
+8814d2c0-a813-4652-927f-778115e45832,Soğan Halkası (8 Adet),"12,00 TL",Yan Ürünler,5.0
+4a390292-20c7-4200-a8aa-bc207b527b6d,Pepsi (25 cl.),"3,00 TL",İçecekler,5.0
+5eb90b90-e0d6-4f0f-936c-f7c76a5d8d2a,Fruko (25 cl.),"3,00 TL",İçecekler,5.0
+713f31d6-c6ed-42b3-87a8-ef7052e565f6,Yedigün (25 cl.),"3,00 TL",İçecekler,5.0

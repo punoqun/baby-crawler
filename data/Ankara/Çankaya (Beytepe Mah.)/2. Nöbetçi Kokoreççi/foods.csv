@@ -1,0 +1,52 @@
+food_id,food_name,food_price,food_category,food_score
+42fc5540-47b2-47e9-8db6-30445f3b2023,Çiğ Köfte Dürüm Menü 1,"13,00 TL",Ekonomik Menüler,34.0
+705f8bfe-a98c-467a-8d0e-5b8575ac9a96,Çiğ Köfte Dürüm Menü 2,"10,00 TL",Ekonomik Menüler,20.0
+2565638e-cd2a-4be2-b1aa-21d1bdcbf90c,Kaşarlı Tavuk Göğsü (10 Adet) Menü,"33,00 TL",Ekonomik Menüler,8.0
+7d390645-7f10-4aa3-849b-7e7c2030ef61,Kaşarlı Tavuk Göğsü (13 Adet) Menü,"38,00 TL",Ekonomik Menüler,8.0
+41c8c2d6-ac33-4fe8-aaf9-8916007a9c8b,Kaşarlı Tavuk Göğsü (6 Adet) Menü,"27,00 TL",Ekonomik Menüler,8.0
+37F1ED8E-7FF6-4CC3-BA26-887ABF2DC78B,Kaşarlı Tavuk Parçaları (6 Adet) Menü,"26,00 TL",Ekonomik Menüler,8.0
+34e3a030-246d-4047-b524-67363b29624a,Mega Çiğ Köfte Dürüm Menü 1,"16,00 TL",Ekonomik Menüler,34.0
+8e835f03-e9f4-4839-88b6-e7e80b2b1639,Mega Çiğ Köfte Dürüm Menü 2,"13,00 TL",Ekonomik Menüler,25.0
+60f313b3-06ca-4db0-9f85-a9d58ed9c043,Sıcak Sepeti Menü,"20,00 TL",Ekonomik Menüler,7.0
+31489063-4de4-4765-96ff-578e3c7e1703,Sıcak Sepeti Menü 2,"38,00 TL",Ekonomik Menüler,11.0
+b1feeceb-d1d9-43d4-b42c-f452f70754ec,Tam Ekmek Arası Izgara Köfte Menü,"32,00 TL",Ekonomik Menüler,15.0
+ca1b549b-464b-4181-9f3a-7c18701b166a,Tam Ekmek Arası Izgara Sucuk Menü,"32,00 TL",Ekonomik Menüler,14.0
+95b4372c-d082-479b-b90a-a8e73056f7b6,Tam Ekmek Arası Izgara Tavuk Menü,"28,00 TL",Ekonomik Menüler,14.0
+71c3ffcc-47d7-4a44-87a7-3592c7ba4d85,Ekmek Arası Sade Kuzu Kokoreç Menü,"37,00 TL",Ekonomik Menüler,6.0
+ed56387b-5d30-42a9-8162-9f4f936cddd9,Ekmek Arası Sebzeli Kokoreç Menü,"37,00 TL",Ekonomik Menüler,6.0
+1f87109c-7302-432f-a55e-325f1f5436c2,Yarım Ekmek Arası Izgara Köfte Menü,"28,00 TL",Ekonomik Menüler,10.0
+560d1915-818d-43a4-af9a-9acfd30e4c09,Yarım Ekmek Arası Izgara Sucuk Menü,"28,00 TL",Ekonomik Menüler,9.0
+7d3ae936-0830-4ac7-a79c-8a7758501277,Yarım Ekmek Arası Izgara Tavuk Menü,"25,00 TL",Ekonomik Menüler,9.0
+b79f1409-941c-436e-868f-de4e0b51165a,Yarım Ekmek Arası Sade Kuzu Kokoreç,"22,00 TL",Kokoreçler,8.0
+bc09292b-1a4a-45f3-9a2e-969eb8a5650f,Tam Ekmek Arası Sade Kuzu Kokoreç,"27,00 TL",Kokoreçler,13.0
+a3fcfcec-7204-4a83-9057-5f9d28746f7e,Yarım Ekmek Arası Sebzeli Kokoreç,"22,00 TL",Kokoreçler,8.0
+ae4545cd-3348-4c1c-9b1e-8086873ca849,Tam Ekmek Arası Sebzeli Kokoreç,"27,00 TL",Kokoreçler,13.0
+33aee37e-b0a7-4ed3-9afc-d9e80557b4a6,Izgara Köfte,"25,00 TL",Köfteler,8.0
+e05da9ca-772d-480f-9336-00a85fa15806,Yarım Ekmek Arası Izgara Köfte,"18,00 TL",Köfteler,10.0
+e9070553-9917-4120-a4b4-7fbc95705ca0,Tam Ekmek Arası Izgara Köfte,"22,00 TL",Köfteler,15.0
+3f279aef-e43e-4189-af97-13e5d017395e,Izgara Tavuk,"22,00 TL",Tavuklar,7.0
+3c7cfc7f-085a-4ff8-9b4f-041767f710cf,Yarım Ekmek Arası Izgara Tavuk,"15,00 TL",Tavuklar,9.0
+2cb77694-fb06-4aab-bb65-e96243dace7c,Tam Ekmek Arası Izgara Tavuk,"18,00 TL",Tavuklar,14.0
+8b68cdc1-801e-435f-b1fd-5553d1566b2c,Kaşarlı Tavuk Göğüs (6 Adet),"21,00 TL",Tavuklar,12.0
+1bb38591-6b1e-4d1a-9be5-c19b02f5265b,Kaşarlı Tavuk Göğüs (8 Adet),"25,00 TL",Tavuklar,7.0
+1be6bafb-4730-4eb6-a78d-022902080b7f,Kaşarlı Tavuk Göğüs (10 Adet),"27,00 TL",Tavuklar,12.0
+ec998c6a-f06d-4ec7-ab45-33a39197252d,Kaşarlı Tavuk Göğüs (13 Adet),"32,00 TL",Tavuklar,7.0
+de3a39a0-3959-419e-af36-29e7f897951d,Çiğ Köfte (200 gr.),"14,00 TL",Çiğ Köfteler,15.0
+47d5e012-c44f-4df3-b55a-3aaa49a850be,Çiğ Köfte (400 gr.),"20,00 TL",Çiğ Köfteler,15.0
+880bb4b5-66c7-4b70-b29a-14b6980d61a8,Çiğ Köfte (1 kg.),"45,00 TL",Çiğ Köfteler,17.0
+97b55a63-516e-4ee1-ae11-8f9180270cb7,Yarım Ekmek Arası Izgara Sucuk,"18,00 TL",Ekmek Arası Ürünler,9.0
+2aacc300-94d4-4466-9959-270d740dfa4c,Tam Ekmek Arası Izgara Sucuk,"23,00 TL",Ekmek Arası Ürünler,14.0
+c1945a6b-7e19-4b96-957c-3c1f14980e10,Tam Ekmek Arası Arnavut Ciğeri,"23,00 TL",Ekmek Arası Ürünler,14.0
+8070d796-9bae-41be-9343-1af07b5b354d,Yarım Ekmek Arası Arnavut Ciğeri,"18,00 TL",Ekmek Arası Ürünler,9.0
+eeaa68ef-04dc-49ac-bd52-5b23e495eff4,Patates Kızartması,"7,00 TL",Yan Ürünler,8.0
+0d47fd56-fe51-4802-913b-540a3cbf5a29,İçli Köfte (2 Adet),"14,00 TL",Yan Ürünler,16.0
+ef4117e5-7ef7-40b5-984b-a98788ffbcf8,Soğan Halkası (10 Adet),"11,00 TL",Yan Ürünler,5.0
+9C6625EB-4F5D-4EF4-B83F-4689A0C234F8,Acı Sos (80 gr.),"3,00 TL",Yan Ürünler,5.0
+401d6e04-051d-49a1-9d26-08af1b325945,Patates Kroket (10 Adet),"12,00 TL",Yan Ürünler,8.0
+9ecffd43-b1d4-4388-9c7b-fea2f2db9a75,Patates Kroket (20 Adet),"20,00 TL",Yan Ürünler,8.0
+5511cc89-9d45-4040-a52c-84351f0630bd,Çikolatalı Puding,"3,50 TL",Tatlılar,5.0
+ae89d407-b8c1-421f-b817-d654095c7337,Sütlaç,"3,50 TL",Tatlılar,5.0
+7ae2d42a-859a-4f77-9f24-f62624ea8423,Sakızlı Muhallebi,"3,50 TL",Tatlılar,5.0
+037df13d-17e8-4169-babf-8079e1b82a21,Kazandibi,"3,50 TL",Tatlılar,5.0
+9187df23-6bc7-4d8a-8555-729d94581aeb,Su,"2,00 TL",İçecekler,7.0
+35bfff25-76c8-4118-b8e9-474832ca3fab,Poşet,"0,25 TL",Poşet,5.0

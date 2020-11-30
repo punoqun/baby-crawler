@@ -1,0 +1,33 @@
+food_id,food_name,food_price,food_category,food_score
+89f243f3-a44e-4d03-b89b-ed2802867e8e,Lahmacun,"7,00 TL",Fırın Ürünleri,13.0
+be074b4d-7c6e-4eb9-90c8-1afdd52deb2c,Antep Lahmacun,"9,00 TL",Fırın Ürünleri,15.0
+8c8680a8-a075-479d-b5ab-c9c01e6d5ed0,Kuşbaşılı Pide,"25,00 TL",Fırın Ürünleri,4.0
+f9527fa6-1481-47f2-922e-cbaffd167dca,Kıymalı Pide,"20,00 TL",Fırın Ürünleri,4.0
+bb869ec0-f38d-41df-994b-ffc3b6400fa0,Kaşarlı Pide,"20,00 TL",Fırın Ürünleri,4.0
+c14ddcc0-f0f3-4ff3-853b-609ac5ed4a01,Karışık Pide,"25,00 TL",Fırın Ürünleri,4.0
+8bc4b82c-4c82-4c26-8387-53e50298df2a,Tavuk Kanat,"22,00 TL",Kebaplar & Izgaralar,-6.0
+b605d92b-af75-42c9-8031-7089ea40d60c,Adana Kebap,"25,00 TL",Kebaplar & Izgaralar,1.0
+66d6f25a-6e14-42e0-b51b-20355274d990,Urfa Kebap,"25,00 TL",Kebaplar & Izgaralar,5.0
+658b8b92-e1ce-4a15-a18f-59f4edae09f8,Tavuk Şiş,"22,00 TL",Kebaplar & Izgaralar,2.0
+e402506a-35f2-48bb-887c-6a6c9c32f37e,Çöp Şiş,"33,00 TL",Kebaplar & Izgaralar,5.0
+1c175550-04c9-432f-8482-e0c01d0d49e9,Patlıcanlı Kebap,"35,00 TL",Kebaplar & Izgaralar,5.0
+de9f9395-ee8d-4406-9cfc-09aaf16be694,Domatesli Kebap,"33,00 TL",Kebaplar & Izgaralar,5.0
+36875127-e8da-496e-b117-3aa14171eb46,Pilav Üstü Tavuk Döner,"17,00 TL",Tavuk Dönerler,2.0
+32aa193e-1c9a-4700-9df3-f56b248ad5d7,Tavuk Döner Dürüm,"12,00 TL",Tavuk Dönerler,2.0
+02d26ece-e1af-4701-93ac-f57644f4b895,Tam Ekmek Arası Tavuk Döner,"12,00 TL",Tavuk Dönerler,2.0
+27b11b57-4da8-4140-81ea-62aa6a75b5f7,Kaşarlı Tavuk Döner Dürüm,"15,00 TL",Tavuk Dönerler,2.0
+89d5b962-4d53-45f3-bb11-536b596d613b,İskender (Et Dönerden),"30,00 TL",Et Dönerler,5.0
+60df1d2e-16a7-4932-9383-bc3af54c9837,Adana Dürüm,"16,00 TL",Dürümler,5.0
+07bbcf62-22e7-4518-967b-93763e7232df,Urfa Dürüm,"16,00 TL",Dürümler,4.0
+3afdea57-9f10-4b04-8894-6a42302fcbbf,Çöp Şiş Dürüm,"18,00 TL",Dürümler,4.0
+61eadb9e-7e8d-4359-81c2-665f8ce27e88,Tavuk Şiş Dürüm,"16,00 TL",Dürümler,1.0
+389997e0-7375-4e8c-9dc5-2d2aa40348a6,Kaşarlı Tavuk Sote,"18,00 TL",Diğer Lezzetler,2.0
+01216135-d9b9-405c-b029-4f66f8f5dd44,Kaşarlı Et Sote,"25,00 TL",Diğer Lezzetler,3.0
+5027c063-25cf-4487-89d0-001077c58e13,Kuru Fasulye,"10,00 TL",Diğer Lezzetler,5.0
+dd26bf8d-db37-43f7-94f8-dd280106c08b,Pirinç Pilavı,"6,00 TL",Diğer Lezzetler,5.0
+712bd3b1-85c9-4d4d-bb93-d8b1ccf0ccef,Bulgur Pilavı,"6,00 TL",Diğer Lezzetler,3.0
+83fbbe2c-f269-4be4-99b5-3b362983d498,Sütlaç,"10,00 TL",Tatlılar,7.0
+9df24be7-35fd-4969-8899-423f4d99dbee,Tavuk Kanat (1 kg.),"40,00 TL",Kiloluk Ürünler (Pişirilmiş),-6.0
+afc79629-e808-429c-b43e-4d0a42531d6a,Tavuk Pirzola (1 kg.),"40,00 TL",Kiloluk Ürünler (Pişirilmiş),2.0
+45402602-5BB2-4391-827A-325951373599,Çıtır Pirzola (1 kg.),"35,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+055349d1-49bc-4bfa-ab92-a4f210e89894,Poşet,"0,25 TL",Poşet,5.0

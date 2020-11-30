@@ -1,0 +1,42 @@
+food_id,food_name,food_price,food_category,food_score
+129e4ee4-ae1a-4997-91ad-4577ad7bb5ae,Patatesli Poğaça,"2,50 TL",Kahvaltılıklar,4.0
+2576c7ec-b125-42d9-be91-556ad04871d3,Zeytinli Simit,"6,00 TL",Kahvaltılıklar,4.0
+5429b6bf-ded7-499c-a375-bcc0a9958997,Sade Açma,"3,00 TL",Kahvaltılıklar,5.0
+5c1b2475-75fa-423d-8de2-3993de9980e4,Kaşarlı Simit,"6,00 TL",Kahvaltılıklar,5.0
+5ea0039f-7f14-45c6-a2b4-d70a30dea3e3,Çikolatalı Simit,"6,00 TL",Kahvaltılıklar,5.0
+62f2baa2-3c0e-4c00-b8e8-6ef769776cf1,Simit,"3,00 TL",Kahvaltılıklar,10.0
+760a208d-9c19-4cf8-a384-d4bd6197dd17,Zeytinli Poğaça,"2,50 TL",Kahvaltılıklar,4.0
+8910d520-848e-48ae-959c-f2af48428943,Kaşarlı Sucuklu Simit,"6,00 TL",Kahvaltılıklar,5.0
+a24a858f-5bb9-4cd2-b9b7-9ead0eb9336d,Kaşarlı Poğaça,"2,50 TL",Kahvaltılıklar,5.0
+c52f88d5-767d-4bbd-bc39-7c1539dd46a0,Sade Poğaça,"2,50 TL",Kahvaltılıklar,5.0
+d750110b-d7b2-4422-97fd-6ec0f50df9cb,Menemen,"15,00 TL",Kahvaltılıklar,5.0
+fc47cf13-54f7-4243-a785-9b5a396b9b8e,Peynirli Poğaça,"2,50 TL",Kahvaltılıklar,5.0
+50784361-7feb-4bfc-bbf5-193c158c00d2,Sucuklu Omlet,"12,00 TL",Omletler,5.0
+baabab1b-c86e-4f94-9cfa-b18b2730e4cc,Kaşarlı Sucuklu Omlet,"12,00 TL",Omletler,5.0
+c64820b9-b976-46a7-b2a8-0ff7e6564854,Kaşarlı Omlet,"12,00 TL",Omletler,5.0
+de989a34-5c3c-4941-98d5-3a156bf640be,Peynirli Omlet,"12,00 TL",Omletler,5.0
+f9e64125-f7fe-4577-bffe-a2c956b3ae62,Sade Omlet,"10,00 TL",Omletler,5.0
+1364631c-c2c6-41a4-be61-534acc176113,Patatesli Gözleme,"12,00 TL",Gözlemeler,6.0
+56761637-721e-47cb-9e86-bec06f701b85,Kaşarlı Sucuklu Gözleme,"12,00 TL",Gözlemeler,12.0
+5db75676-25b0-4f06-a8f7-b281d50b6b2c,Ispanaklı Gözleme,"12,00 TL",Gözlemeler,7.0
+600c92cb-2b08-42ee-926b-ca253a718024,Peynirli Gözleme,"12,00 TL",Gözlemeler,7.0
+8fa5bc83-b4cc-486b-8865-207b838e5206,Kaşarlı Gözleme,"12,00 TL",Gözlemeler,7.0
+66212440-0b3a-463c-8326-cd3545d99010,Kaşarlı Tost,"12,00 TL",Tostlar,6.0
+796edd91-07e4-4e15-ac6d-52fd39c22a65,Karışık Tost,"12,00 TL",Tostlar,11.0
+aaf846ec-1223-4b12-ab58-101702ee5e5a,Sucuklu Tost,"12,00 TL",Tostlar,6.0
+37af14b4-421c-4483-a283-1f97c3e32c7b,Izgara Köfte,"22,50 TL",Kebaplar & Izgaralar,5.0
+56190d41-cf3f-49f6-b383-72d7d4729d62,Acılı Izgara Köfte,"22,50 TL",Kebaplar & Izgaralar,5.0
+72df2fa5-2bac-4c24-8832-8a404e2b57d3,Izgara Tavuk Kanat,"22,50 TL",Kebaplar & Izgaralar,2.0
+c85be495-5123-4209-85aa-f502654b22a7,Çıtır Tavuk Izgara,"20,00 TL",Kebaplar & Izgaralar,2.0
+e62f62b6-e8a9-4de0-98a1-b24c6d8f3e13,Tavuk Pirzola,"25,00 TL",Kebaplar & Izgaralar,4.0
+51ea6007-36f6-4139-9d81-99771e435a01,Yarım Ekmek Arası Köfte,"15,00 TL",Ekmek Arası Ürünler,7.0
+314990f0-f6bd-43e5-9311-2e81ced20064,Sigara Böreği,"12,00 TL",Yan Ürünler,5.0
+514c02ef-ebe2-4806-bb79-e9428513d084,Pilav,"12,00 TL",Yan Ürünler,5.0
+64545999-66b0-401d-90c7-3401b6d503f4,Sosis kızartma,"12,00 TL",Yan Ürünler,5.0
+c4778911-ff5b-407a-8f76-c189177f4b03,Patates Kızartması,"12,00 TL",Yan Ürünler,4.0
+1d485af0-dacb-45d1-9a9b-48924e8bb43d,Izgara Köfte (1 kg.),"85,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+23848fca-68b8-4056-8b7d-b66d67654d77,Izgara Tavuk Kanat (1 kg.),"45,00 TL",Kiloluk Ürünler (Pişirilmiş),2.0
+7b4f3006-ebd2-46c2-9e87-f94fafe36622,Tavuk Pirzola (1 kg.),"50,00 TL",Kiloluk Ürünler (Pişirilmiş),4.0
+c5f08375-a96f-40aa-9287-80df03147664,Izgara Çıtır Tavuk (1 kg.),"40,00 TL",Kiloluk Ürünler (Pişirilmiş),2.0
+f437b0e2-682e-4cb5-8704-bb89d1f7406a,Acılı Izgara Köfte (1 kg.),"85,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+ea6ceb0e-fdb8-420f-8754-865ea64cb6e5,Poşet,"0,25 TL",Poşet,5.0

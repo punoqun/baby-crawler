@@ -1,0 +1,40 @@
+food_id,food_name,food_price,food_category,food_score
+DDBBCDB0-FB50-415A-92E1-74252CCC2898,Hamburger Menü,"35,00 TL",Menüler,2.0
+a64a1215-6aa6-45cf-a0ae-aacce56a538e,Sarma Beyti Kebap,"48,00 TL",Kebaplar,3.0
+05774d6b-208c-4c27-8d41-de7125d1b053,Patlıcanlı Kebap,"48,00 TL",Kebaplar,3.0
+3364df8d-76f9-409d-971f-30e57b64498d,Alinazik Kebap (Kıymadan),"48,00 TL",Kebaplar,3.0
+590238ce-28dc-4b89-9a0f-620da5643ca7,Yoğurtlu Kebap (Kıymadan),"48,00 TL",Kebaplar,3.0
+4759e311-424b-4cdb-b971-b4d82d933a6e,Kuzu Çöp Şiş,"32,00 TL",Izgaralar,4.0
+abf7144e-aa05-4ccc-bfc5-67924b93ed8a,Yağlı Kara Şiş (Kuzudan),"50,00 TL",Izgaralar,5.0
+b1119f7b-c90b-44e8-b0ea-e942cab62934,Kuzu Külbastı,"45,00 TL",Izgaralar,4.0
+217f7df3-d014-4a24-ae36-954b67a7e42b,Kasap Köfte,"50,00 TL",Izgaralar,5.0
+90730eb4-d00c-4aae-bd88-5fd4d229d712,Tavuk Şiş (Kemiksiz),"32,00 TL",Izgaralar,1.0
+a7f5acf9-3813-4f72-83ff-a598cbcad174,Tavuk Kelebek,"32,00 TL",Izgaralar,1.0
+d843dc28-b368-4b19-8991-24de4b6d5e70,Tavuk Kanat,"32,00 TL",Izgaralar,1.0
+e97cea0a-c0b5-4058-9980-0e2ec798a437,Dana Lokum (250 gr.),"90,00 TL",Izgaralar,5.0
+6276BC11-9A8F-4B8A-BD23-B4C56E11A754,Büryan,"50,00 TL",Izgaralar,5.0
+7b73ef63-b280-4e70-be49-c1e472ac70e1,Kıymalı Pide,"30,00 TL",Fırın Ürünleri,7.0
+a8e786cd-12b8-4112-b719-ceef9a0e52d1,Etli Pide,"30,00 TL",Fırın Ürünleri,7.0
+eb1729db-7ca6-4242-8aed-80c06983369a,Et Sote,"50,00 TL",Diğer Lezzetler,5.0
+309e3a11-cceb-469b-8e8e-a708f6aa8c35,Tavuk Sote,"35,00 TL",Diğer Lezzetler,1.0
+204dbb92-10bb-432f-a4bb-8df1a957810f,Kiremitte Kuzu Pirzola,"50,00 TL",Diğer Lezzetler,4.0
+5716db70-c78c-4849-ae63-83aa150d0ff4,Makarna,"30,00 TL",Diğer Lezzetler,10.0
+0f69c434-e397-4a6a-aee8-69402fd31e7e,Köri Soslu Tavuklu Makarna,"30,00 TL",Diğer Lezzetler,10.0
+faae0175-dfd9-46aa-9cf0-65a039d9ae87,Sebzeli Makarna,"30,00 TL",Diğer Lezzetler,10.0
+ee661f1a-fdde-4502-8cd6-0928b12376e4,Adana Dürüm,"27,00 TL",Dürümler,2.0
+bf48133b-13fa-46a2-8b85-e81e09717df8,Urfa Dürüm,"27,00 TL",Dürümler,5.0
+3054f08f-703d-4f69-89f6-b0a06b4b3d2b,Kuzu Çöp Şiş Dürüm,"27,00 TL",Dürümler,4.0
+f152befc-66d0-4316-a69c-da10da3bd517,Kuzu Şiş Dürüm,"27,00 TL",Dürümler,4.0
+a43267c0-aa91-4bf6-885c-483cfca058e9,Ciğer Şiş Dürüm,"27,00 TL",Dürümler,3.0
+92ac530c-2ab6-470e-995d-ef1949c3f0a1,Tavuk Şiş (Kemiksiz) Dürüm,"25,00 TL",Dürümler,1.0
+045c037b-0aed-4262-b622-8727c7182fda,Sade Humus,"17,00 TL",Mezeler,8.0
+183eba1e-7c69-427f-9702-925a18dd9ba8,Sucuklu Humus,"18,00 TL",Mezeler,8.0
+f01e8334-b47b-44de-9182-74e19a1a3a8a,Sucuklu Kaşarlı Humus,"18,00 TL",Mezeler,9.0
+1d997402-fa42-46a6-abcf-1aa0c28616ff,Pastırmalı Humus,"18,00 TL",Mezeler,10.0
+dde85d9d-e035-4b2c-ac48-5fe7e73272b4,Pastırmalı Kaşarlı Humus,"18,00 TL",Mezeler,11.0
+E8A332EA-1542-4E3D-9C14-3A2E4FDDE348,Patates Kızartması,"15,00 TL",Mezeler,5.0
+bad5a2ac-526d-4550-b613-8da135c91493,Kaymaklı Cevizli Kadayıf,"20,00 TL",Tatlılar,3.0
+6af7f731-22b0-472c-ac8c-9f840556f3d5,Künefe,"15,00 TL",Tatlılar,4.0
+487abe15-4465-4fd8-94af-1d3c0814f1cc,Su,"3,00 TL",İçecekler,3.0
+2b33770e-f3b6-4c2d-96a4-98029a7bc837,Su (1 L.),"3,00 TL",İçecekler,3.0
+25581bc2-7022-4ab3-b809-c6e67131ffc2,Poşet,"0,25 TL",Poşet,5.0

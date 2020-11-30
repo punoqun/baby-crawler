@@ -1,0 +1,76 @@
+food_id,food_name,food_price,food_category,food_score
+7a7ebdfa-bec3-4934-8d8c-6f349e24b7c2,Menü 1,"58,00 TL",Ekonomik Menüler,23.0
+6510ab88-7de0-4fa2-bec8-e544979bc8e1,Menü 2,"39,00 TL",Ekonomik Menüler,7.0
+ee89f57c-a61c-4fef-b9be-7c67593a7b73,Menü 3,"35,00 TL",Ekonomik Menüler,6.0
+e23de2bf-7311-4561-a8e1-431cfdbef6de,Menü 4,"29,00 TL",Ekonomik Menüler,6.0
+c3416708-c261-43c6-9fdd-44cd1ddb9880,Menü 5,"90,00 TL",Ekonomik Menüler,7.0
+00d4c4f4-065e-483e-bcc9-ecbc9445f80d,Menü 6,"34,00 TL",Ekonomik Menüler,5.0
+28008551-1614-4298-8ee2-8332578022a5,Menü 7,"31,00 TL",Ekonomik Menüler,5.0
+71427c60-9fdd-4cfc-87e8-d4750ca44374,Menü 8,"43,00 TL",Ekonomik Menüler,7.0
+1fc4355c-4824-4e31-83a5-18a914ead589,Menü 9,"95,00 TL",Ekonomik Menüler,4.0
+21384cc2-57cb-48df-90a4-a632a4671a36,Menü 10,"70,00 TL",Ekonomik Menüler,15.0
+f8116acd-bce9-4656-9228-188d5f5471e9,Et Tantuni,"30,00 TL",Et Tantuniler,13.0
+9d848456-a370-434a-9bf4-2353375ed126,Kaşarlı Et Tantuni,"23,00 TL",Et Tantuniler,13.0
+44f3c08d-62b8-420b-abca-e63a7fb3a095,Yoğurtlu Et Tantuni,"24,00 TL",Et Tantuniler,17.0
+de976975-91e9-4e88-b1a7-d0cf8927f6ac,Et Tantuni Dürüm,"18,00 TL",Et Tantuniler,18.0
+1981254b-38d0-48e1-800b-89dfb1b6a731,Patlıcanlı Et Tantuni,"35,00 TL",Et Tantuniler,13.0
+18232d2a-6ced-4ec0-a3f6-d2bd45df0d7a,Yarım Ekmek Arası Et Tantuni,"18,00 TL",Et Tantuniler,13.0
+608b8b3c-8148-42be-b2aa-63910a2b2bcd,Çeyrek Ekmek Arası Et Tantuni,"10,00 TL",Et Tantuniler,13.0
+15449a18-e1a0-4748-893e-b3e7714f6ec5,Tavuk Tantuni,"20,00 TL",Tavuk Tantuniler,20.0
+6134ec3a-9a1b-49ae-8feb-296f3f99b13b,Kaşarlı Tavuk Tantuni,"18,00 TL",Tavuk Tantuniler,20.0
+ed124fb4-77c7-4050-9165-e289dad7923d,Yoğurtlu Tavuk Tantuni,"19,00 TL",Tavuk Tantuniler,24.0
+ee3cb84a-688b-4217-b78e-c411aa98356d,Tavuk Tantuni Dürüm,"13,00 TL",Tavuk Tantuniler,25.0
+569a4377-45ae-4d46-ae2c-6a4a8b512450,Patlıcanlı Tavuk Tantuni,"25,00 TL",Tavuk Tantuniler,20.0
+14d675c5-63f6-43ba-87c9-b8529f0b1c45,Yarım Ekmek Arası Tavuk Tantuni,"13,00 TL",Tavuk Tantuniler,20.0
+57805d9a-fae8-4026-8dd9-276f40de54e6,Çeyrek Ekmek Arası Tavuk Tantuni,"7,00 TL",Tavuk Tantuniler,20.0
+bfd9a60a-9a14-4a56-a01a-6ac9884bdaf4,Lahmacun,"8,00 TL",Fırın Ürünleri,16.0
+e9439abb-56ae-4bc7-bbaf-0cd66463fa82,İsotlu Lahmacun,"9,00 TL",Fırın Ürünleri,11.0
+8b006533-f3c9-4a31-a16f-1b9661bfdf62,Cevizli Lahmacun,"10,00 TL",Fırın Ürünleri,11.0
+29b60e9e-81f4-4de9-a65c-a1389c6a43ae,Kaşarlı Lahmacun,"9,00 TL",Fırın Ürünleri,11.0
+6961a24f-5549-4e3a-b1a5-7e4a5343ea87,Fındık Lahmacun,"5,00 TL",Fırın Ürünleri,11.0
+85b78b15-1ae2-4a62-b6d8-4bb273d3c52e,Antep Lahmacun,"9,00 TL",Fırın Ürünleri,11.0
+c0433f48-86f2-4b9b-a7a2-9b2bfa1070d4,Kaşarlı Pide,"24,00 TL",Fırın Ürünleri,2.0
+4b3d7157-bb5b-45e7-80cb-6062c5a000bc,Kıymalı Pide,"24,00 TL",Fırın Ürünleri,2.0
+c37339c8-3038-49ce-b2da-d77830f62d0b,Kıymalı Kaşarlı Pide,"25,00 TL",Fırın Ürünleri,2.0
+475509bf-7964-4709-88df-a8e453fb1e25,Kuşbaşılı Pide,"27,00 TL",Fırın Ürünleri,2.0
+c1cc186b-56c1-4037-b6c5-27d66b693581,Kuşbaşılı Kaşarlı Pide,"30,00 TL",Fırın Ürünleri,2.0
+7f95179d-5e1d-42b6-8350-a7a5f2041006,Kavurmalı Pide,"30,00 TL",Fırın Ürünleri,2.0
+3bb4e2b1-e5d7-44fd-87d7-94ef7af79420,Kavurmalı Kaşarlı Pide,"30,00 TL",Fırın Ürünleri,2.0
+3792d7d7-0114-4422-ac48-23ca17d61416,Mantarlı Kaşarlı Pide,"25,00 TL",Fırın Ürünleri,2.0
+fcad1874-f740-44c9-9d49-52e1ea8921cb,Pastırmalı Pide,"30,00 TL",Fırın Ürünleri,2.0
+446aef15-9d0d-4f06-b604-37364bd20098,Pastırmalı Kaşarlı Pide,"30,00 TL",Fırın Ürünleri,2.0
+d1d1cbee-9497-4a8b-85fb-588bdf8155bf,Tavuklu Pide,"24,00 TL",Fırın Ürünleri,2.0
+8a588651-8d61-44fe-8590-29af6c24243e,Tavuklu Kaşarlı Pide,"25,00 TL",Fırın Ürünleri,2.0
+2632f0a8-873d-43c9-ae07-f90bada5819d,Sucuklu Kaşarlı Pide,"25,00 TL",Fırın Ürünleri,2.0
+0eed32ba-2294-433d-ab81-ad93d03802b3,Karışık Pide,"30,00 TL",Fırın Ürünleri,2.0
+71c99899-33db-4a22-99cd-7386c8c1d416,Atom Pide,"35,00 TL",Fırın Ürünleri,2.0
+1a200068-4efa-4590-a11c-3e4259b105c6,Nutella Pide,"20,00 TL",Fırın Ürünleri,2.0
+bb070671-575f-4ef8-959d-37593fd25626,Kuşbaşılı Kaşarlı Mantarlı Pide,"30,00 TL",Fırın Ürünleri,2.0
+0cc7f298-d6b0-4a7e-8a93-26c2ca3a0d6c,Kuşbaşılı Mantarlı Pide,"30,00 TL",Fırın Ürünleri,2.0
+1a8f39e9-1e27-42b8-b538-9f110fe2452f,Tavuklu Mantarlı Kaşarlı Pide,"27,00 TL",Fırın Ürünleri,2.0
+dac56e1b-8ac6-4aec-8756-6589b9fe6c3e,Tavuklu Mantarlı Pide,"25,00 TL",Fırın Ürünleri,2.0
+230705c9-c126-4568-bd5c-6ad040fc8a4b,Et Sote,"40,00 TL",Diğer Lezzetler,-1.0
+2261a961-b37b-498d-8366-4519aaf789b2,Kaşarlı Et Sote,"40,00 TL",Diğer Lezzetler,-1.0
+e8c8f3dc-0e64-4682-b10b-99ef8d0edb55,Tavuk Sote,"30,00 TL",Diğer Lezzetler,6.0
+a1f1d834-a1c0-4bd7-b2d6-41cce319c73a,Kaşarlı Tavuk Sote,"30,00 TL",Diğer Lezzetler,6.0
+0e90827e-61a0-4741-9a69-d807ccf2880d,Çiğ Köfte Dürüm,"8,00 TL",Çiğ Köfteler,10.0
+bdaa40af-a4cf-434f-bf15-f477ac0aaab8,Çiğ Köfte (7 Sıkım),"8,00 TL",Çiğ Köfteler,10.0
+d8f19b5e-11e4-454c-a370-bcef26d7038a,Çiğ Köfte (13 Sıkım),"15,00 TL",Çiğ Köfteler,10.0
+58edee78-81a6-46a5-8c3f-b3fea2c3a2f5,Çiğ Köfte (500 gr.),"25,00 TL",Çiğ Köfteler,10.0
+c7de30bd-a3a3-468a-8905-b6625246ce5f,Çiğ Köfte (1 kg.),"50,00 TL",Çiğ Köfteler,10.0
+2b8d76c8-430c-43e7-8eca-07322b590099,Turşu,"8,00 TL",Yan Ürünler,5.0
+29ca70dd-74cf-46cd-8f90-e0a8062c386e,Cacık,"12,00 TL",Yan Ürünler,5.0
+1b97c419-b789-4d74-967f-8a25ce78d6d7,Mevsim Salata,"10,00 TL",Salatalar,5.0
+129c2bbd-90f9-4959-8d75-d3f6051ff0b3,Çoban Salata,"12,00 TL",Salatalar,5.0
+b8c635a4-917b-471e-b369-a9ac399dad8c,Gavurdağı Salata,"15,00 TL",Salatalar,5.0
+487835ec-acad-4790-a378-59a7553f2b54,Ezme Salata,"12,00 TL",Salatalar,5.0
+E055D84B-B145-482E-8480-FD33D04FCCC4,Yaprak Sarma (10 Adet),"17,00 TL",Salatalar,5.0
+16857B43-3F9E-4386-81C3-14C8A13E9F38,Fıstıklı Antep Dolama,"20,00 TL",Tatlılar,5.0
+7ee93d11-9c9c-4103-8715-8b7fea883d18,İrmik Helvası,"15,00 TL",Tatlılar,5.0
+100a9813-e27b-4833-aad7-5d56621b22a5,Kadayıf,"15,00 TL",Tatlılar,4.0
+ada1009a-72f0-4c8e-946c-0ad1de67fdc3,Katmer,"18,00 TL",Tatlılar,2.0
+0e078ab8-483c-4de5-9024-373e40febfde,Künefe,"15,00 TL",Tatlılar,2.0
+121cf5bd-1877-42cd-b644-40fba3b4f613,Sufle,"15,00 TL",Tatlılar,6.0
+67B67C8E-CF46-4C44-8E63-6EB3BC70AE59,Uludağ Limonata (1 L.),"10,00 TL",İçecekler,5.0
+6E18EBFA-9924-4D28-BAF7-579B6A83B822,Uludağ Limonata Şekersiz (1 L.),"10,00 TL",İçecekler,5.0
+3bdb5810-34f3-44a3-87ed-755aced2a5a7,Poşet,"0,25 TL",Poşet,5.0

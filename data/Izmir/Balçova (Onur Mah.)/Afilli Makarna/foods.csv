@@ -1,0 +1,56 @@
+food_id,food_name,food_price,food_category,food_score
+4616d656-ebe4-4d3c-8e96-a95e7799c0b2,Köri Soslu Tavuklu Spaghetti,"26,00 TL",Makarnalar,10.0
+ae3697d4-7a4f-4f10-8ba6-4199945251b2,Café de Paris Soslu Tavuklu Penne,"26,00 TL",Makarnalar,-5.0
+4b9d4ce1-1c09-4388-b779-19f6809a30ff,Café de Paris Soslu Tavuklu Spaghetti,"26,00 TL",Makarnalar,-5.0
+6bc1878c-41bb-4f5a-976e-0e11b2637b26,Soya Soslu Tavuklu Penne,"26,00 TL",Makarnalar,5.0
+a3a4b439-28a3-4973-94a8-4cff788a42f9,Soya Soslu Tavuklu Spaghetti,"26,00 TL",Makarnalar,5.0
+ad69e00f-5012-4628-8f8d-e06fefad9261,Soya Soslu Sebzeli Tavuklu Spaghetti,"26,00 TL",Makarnalar,5.0
+54ffb54c-d715-4f73-9c28-6f09707938f2,Soya Soslu Sebzeli Penne,"22,00 TL",Makarnalar,5.0
+c471f6b0-c5fe-4b28-b3fc-f79f67bacb79,Soya Soslu Sebzeli Spaghetti,"22,00 TL",Makarnalar,5.0
+dbd9b6a3-5198-4fb3-8dc7-3501bb74cf26,Kaşarlı Mantarlı Penne,"22,00 TL",Makarnalar,5.0
+1c8b4a62-d5ca-4c6f-ab24-cc6e04df852c,Kaşarlı Mantarlı Spaghetti,"22,00 TL",Makarnalar,5.0
+7cc4fb4d-b44e-4019-9065-bb136ae19b61,Soya Soslu Sebzeli Tavuklu Penne,"26,00 TL",Makarnalar,5.0
+2973ca56-55b7-478c-a0c6-1da9f1fe64eb,Cafe de Paris Soslu Penne,"22,00 TL",Makarnalar,-6.0
+43b2f02a-4f9f-4892-bb11-60a0fd5a91ce,Cafe de Paris Soslu Spaghetti,"22,00 TL",Makarnalar,-6.0
+74479974-FE69-4245-A1FC-D9F477709FE3,Napolitan Tavuklu Spaghetti,"26,00 TL",Makarnalar,5.0
+16A0034F-F4E7-46E5-972D-64858109E6AE,Napolitan Tavuklu Penne,"26,00 TL",Makarnalar,5.0
+842c2449-df3c-46cd-8cc5-194ea115487f,Napoten Penne,"22,00 TL",Makarnalar,5.0
+51ef9934-c2cf-4b7b-a965-87d81dccce18,Napoliten Spaghetti,"22,00 TL",Makarnalar,5.0
+BCF4C5C0-B501-43DE-9ED7-AB355CAF78E8,Kaşarlı Mantarlı Tavuklu Penne,"26,00 TL",Makarnalar,5.0
+6DA9284D-B73C-46D1-8097-AF3B0DB13BC9,Kaşarlı Mantarlı Tavuklu Spaghetti,"26,00 TL",Makarnalar,5.0
+f607637f-3de7-4764-b321-6ddc5fb541ac,Alfredo Soslu Penne,"26,00 TL",Makarnalar,10.0
+64b67179-fb8f-47c0-a400-024b3b6286a0,Alfredo Soslu Spaghetti,"26,00 TL",Makarnalar,5.0
+f139d419-5dbd-49e0-8ec8-ee0d87dd2cbd,Bolognese Soslu Penne,"26,00 TL",Makarnalar,5.0
+28169d5b-9e25-400e-8451-f7671532c203,Bolognese Soslu Spaghetti,"26,00 TL",Makarnalar,10.0
+5b66b5a2-dc6b-4f8b-a468-59a8aa5941d3,Kaşarlı Penne,"18,00 TL",Makarnalar,5.0
+072aa51d-e954-4ffc-bb89-a0ab84145a2c,Kaşarlı Spaghetti,"18,00 TL",Makarnalar,5.0
+61296844-9a77-4f64-8d9d-9272eb78b9ab,Köri Soslu Penne,"22,00 TL",Makarnalar,5.0
+0028f103-0d26-423a-8a43-00631c5d2f37,Köri Soslu Spaghetti,"22,00 TL",Makarnalar,5.0
+1e721e38-fc4b-4eb0-be74-77b2d60518e3,Kremalı Tavuklu Penne,"26,00 TL",Makarnalar,5.0
+8c8fa927-e24e-4f1c-b379-37da78216451,Mexica Soslu Penne,"22,00 TL",Makarnalar,5.0
+90b8dd49-1793-4570-9cdd-01ecb4fa6fca,Mexica Sossu Spaghetti,"22,00 TL",Makarnalar,5.0
+b86d26eb-616f-4a5d-b9fe-319327b54b59,Pesto Soslu Penne,"26,00 TL",Makarnalar,5.0
+9415d777-bce3-4393-b62c-1e7dd05df136,Sade Penne,"14,00 TL",Makarnalar,5.0
+c71f61a3-499b-42bd-bbda-0af328fdfe5d,Sade Spaghetti,"14,00 TL",Makarnalar,5.0
+18b2692e-d45d-4218-a427-15973d079aa4,Köri Soslu Tavuklu Penne,"26,00 TL",Makarnalar,5.0
+d865c614-5703-41c2-884d-6651c63d6110,Tavuklu Penne,"22,00 TL",Makarnalar,5.0
+05b4e584-a29e-4135-82be-856045a20076,Tavuklu Spaghetti,"22,00 TL",Makarnalar,5.0
+f88bbe14-0ef6-4ea4-bbdf-fb6f7f6260e2,Ton Balıklı Penne,"26,00 TL",Makarnalar,5.0
+904c946e-88a3-4418-9106-93e182d803ad,Ton Balıklı Spaghetti,"26,00 TL",Makarnalar,5.0
+D9C027C1-04C5-4737-A077-A8E9F4EF8240,Kaşarlı Mantarlı Tavuk,"30,00 TL",Tavuklu Yemekler,5.0
+53CD1B5D-260C-4DF4-BAF4-353DBC2DC09E,Cafede Paris Soslu Tavuk,"30,00 TL",Tavuklu Yemekler,5.0
+7A322119-070B-48DE-916A-4956750FFB0E,Mexico Soslu Tavuk,"30,00 TL",Tavuklu Yemekler,5.0
+6CE8C103-17B0-4849-9714-0753C431A21B,Soya Soslu Tavuk,"30,00 TL",Tavuklu Yemekler,5.0
+91F6F5A5-6E68-43EE-AE6E-821C6C16E5BD,Barbeque Soslu Tavuk,"30,00 TL",Tavuklu Yemekler,5.0
+B8C72122-A0BF-4CD3-885F-8D039A7E83BB,Köri Soslu Tavuk,"30,00 TL",Tavuklu Yemekler,5.0
+627C9D04-0712-4A0A-A9CA-F918170DE939,Alftedo Soslu Tavuk,"30,00 TL",Tavuklu Yemekler,5.0
+b005989b-1336-4ad9-9b65-b93bbe854511,Yoğurt,"3,00 TL",Yan Ürünler,5.0
+722d656b-f25e-4bc7-8975-43cf2e57127d,İçim Dolcia Çikolatalı Fındıklı Puding (110 gr.),"3,00 TL",Tatlılar,5.0
+ef4e93eb-b16c-401e-ad17-0773a70302c9,İçim Dolcia Muzlu Puding (110 gr.),"3,00 TL",Tatlılar,5.0
+3674489b-9515-4747-9d33-3046e389eff6,İçim Dolcia Çikolatalı Puding (110 gr.),"3,00 TL",Tatlılar,5.0
+F82405F8-E346-43FF-9357-B74771C3BAAB,Yaban Mersinli Mozaik Pasta (Dilim),"12,00 TL",Tatlılar,7.0
+474CF26D-6491-49BA-9BE2-D662E34735DD,Cevizli Mozaik Pasta (Dilim),"12,00 TL",Tatlılar,9.0
+1C294B98-6E58-418E-B5E6-3BCD92F4F696,Kakaolu Mozaik Pasta (Dilim),"12,00 TL",Tatlılar,9.0
+FB81B8FA-A9BB-4142-86B5-B0A45807DE82,Çikolatalı Pasta (Dilim),"14,00 TL",Tatlılar,5.0
+58BE224E-97E3-4906-B0C9-AD4429D877D5,Limonlu Cheesecake (Dilim),"14,00 TL",Tatlılar,5.0
+76cd0e86-bab0-4dc1-a171-db645570c661,Niğde Gazozu (25 cl.),"3,50 TL",İçecekler,5.0

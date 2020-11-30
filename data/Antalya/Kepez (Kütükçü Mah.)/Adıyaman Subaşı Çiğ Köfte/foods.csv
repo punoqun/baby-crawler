@@ -1,0 +1,41 @@
+food_id,food_name,food_price,food_category,food_score
+97eec002-cccc-4a82-a0c1-0b64d097fa0b,Tost Menü,"19,00 TL",Menüler,8.0
+37F8F4FF-817A-481E-9DA9-E5E726E7EE9F,İzmir Kumru Menü,"22,00 TL",Menüler,4.0
+7DF2BF2D-8231-4E15-AA4F-53AB3CE95796,Piskopat Menü,"23,00 TL",Menüler,5.0
+737b8d2f-57b2-4774-81a6-da96f44573c1,Çiğ Köfte Dürüm,"6,00 TL",Çiğ Köfteler,12.0
+80f390fd-f0c3-4bd3-a860-2007cbee2349,Mega Çiğ Köfte Dürüm,"8,00 TL",Çiğ Köfteler,12.0
+278d43b9-bac4-49d4-bf60-d03c0977a452,Çiğ Köfte (200 gr.),"12,00 TL",Çiğ Köfteler,8.0
+f67e688e-563b-4a7c-adcb-ca33a11551fd,Çiğ Köfte (Yarım),"15,00 TL",Çiğ Köfteler,8.0
+b9760916-79b1-4084-8740-e14346d5a415,Çiğ Köfte (Tam),"18,00 TL",Çiğ Köfteler,8.0
+8564cac4-9dbc-476a-ba63-7ce3123a775b,Çiğ Köfte (500 gr.),"22,00 TL",Çiğ Köfteler,8.0
+4c723be5-43f2-472d-aaea-49300edf3fe9,Çiğ Köfte (650 gr.),"30,00 TL",Çiğ Köfteler,8.0
+2052c6ad-4d3a-4d5f-aa44-964683890198,Aile Boyu Çiğ Köfte,"35,00 TL",Çiğ Köfteler,8.0
+dabb5f20-a586-4099-863f-5755ff38af37,Çiğ Köfte (1 kg.),"44,00 TL",Çiğ Köfteler,8.0
+8F2E48C8-F096-4799-B751-FE05F839D6F3,Çiğ Köfte (1 kg.) (Garnitürsüz.),"25,00 TL",Çiğ Köfteler,8.0
+dbd1867d-b528-45f9-a8b1-a6150b346bb8,Sucuklu Tost,"8,00 TL",Tostlar,9.0
+a138e8f7-5d50-461e-8903-21a59606a9a7,Kaşarlı Tost,"8,00 TL",Tostlar,9.0
+aabbfdac-1ca0-46fb-80f1-3515230c6df2,Karışık Tost,"10,00 TL",Tostlar,9.0
+4DE1EEDF-3049-47EC-995A-27A7DD277F37,Yumurtalı Sucuklu Tost,"9,00 TL",Tostlar,9.0
+83EDBB11-CF72-40F9-B94E-E9CAE7A8BF55,Yumurtalı Kaşarlı Tost,"9,00 TL",Tostlar,9.0
+DE8227F7-A3D5-411E-9A49-858CA8C7DEAF,Yumurtalı Karışık Tost,"10,00 TL",Tostlar,9.0
+eafed206-f3cc-4770-9919-70e6ee56df55,Psikopat Tost,"12,00 TL",Tostlar,11.0
+034CD88D-33AB-4089-B1F6-32B193BD645F,Ham Psikopat Tost,"14,00 TL",Tostlar,9.0
+2db2a13b-5081-4832-a7f2-127a746bea14,Cazgır Tost,"14,00 TL",Tostlar,9.0
+771b234c-feaa-4900-898f-c7df5601e87d,Pintost,"15,00 TL",Tostlar,5.0
+5759b140-dbaf-4c19-950a-0e81d9e18b78,Çirkef Tost,"16,00 TL",Tostlar,9.0
+C022848C-1CC8-41D1-9C07-5AC3530EF555,Patso Sandviç,"10,00 TL",Sandviçler,5.0
+1B35DE8F-D609-49E2-B924-B566497E1D8A,İzmir Kumru Sandviç,"13,00 TL",Sandviçler,5.0
+91088B2B-D909-4218-8B51-ABA0BEDEFD8C,Yengen Sandviç,"12,00 TL",Sandviçler,5.0
+86E90AFD-F22F-4841-9FC8-AE3C3840CB74,Sosisli Patso Sandviç,"12,00 TL",Sandviçler,5.0
+166255A2-3259-49F1-AF3F-B21CA6E517B1,Lavaş (Adet),"0,50 TL",Yan Ürünler,5.0
+31D8AE7F-451D-47A5-ADFD-477B7DB02E48,Nar Ekşisi (15 gr.),"0,50 TL",Yan Ürünler,5.0
+C18660DA-EB38-4334-B305-1CD258583CB4,Ketçap (10 gr.),"1,00 TL",Yan Ürünler,5.0
+8A8C2713-8ACC-42BD-9AA5-DF735183D618,Mayonez (10 gr.),"1,00 TL",Yan Ürünler,5.0
+B7049143-507D-4D6D-89A1-4510DF894F79,Salatalık Turşusu,"1,00 TL",Yan Ürünler,5.0
+2D6D89B3-E9AA-4B50-9955-BD2F76B9E158,Patates Kızartması (Orta),"7,00 TL",Yan Ürünler,5.0
+BE435B49-9604-4F4F-8D03-7BFE93749C0F,Cin Biber Turşusu,"1,00 TL",Yan Ürünler,5.0
+E6273956-684A-4AB2-A2E3-F6070E2B8C59,Juss Power Hits (50 cl.),"5,00 TL",İçecekler,5.0
+80FC866A-19D4-42BA-8CDC-EA869F2D77A6,Beyoğlu Gazozu (25 cl.),"3,00 TL",İçecekler,5.0
+F867A192-867F-41A9-A444-F9333958435E,Zencefilli Gazoz (20 cl.),"3,00 TL",İçecekler,5.0
+D94B5B9E-3CC3-4B1C-8150-ABFF2B589D05,Lezzet Odağı Şalgam Suyu (1 L.),"6,00 TL",İçecekler,5.0
+066bfcb1-209f-4eca-afaf-00f7f4ded246,Poşet,"0,25 TL",Poşet,5.0

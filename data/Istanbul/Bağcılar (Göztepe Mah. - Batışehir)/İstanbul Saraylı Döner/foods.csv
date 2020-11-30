@@ -1,0 +1,33 @@
+food_id,food_name,food_price,food_category,food_score
+00a0e7bf-ae48-4a3d-a103-00f83850f209,Anadolu Burger Menü,"30,80 TL",Menüler,9.0
+3f1016ec-f833-4201-af20-872bc2de5a16,Cheeseburger Menü,"30,80 TL",Menüler,6.0
+02f48caa-3f80-46ca-8b41-7cfcf294ca9c,Dublex Burger Menü,"35,80 TL",Menüler,9.0
+669e618f-c918-43e5-b1b8-e8a1c55551d2,Medium Burger Menü,"24,80 TL",Menüler,9.0
+d7cc27c1-4068-4f4b-8a71-fbda8881d778,Saraylı Burger Menü,"30,80 TL",Menüler,10.0
+183d88c0-6c26-4d2b-9104-45e232af93bd,Triplex Burger Menü,"40,80 TL",Menüler,9.0
+8b956c8c-d0c5-49d8-81a0-d6352d674eb6,Menü 1,"90,00 TL",Menüler,9.0
+1ff9e68e-7bd3-4323-9d33-767d1a6c0be0,Saraylı Sarma (Et Dönerden),"33,50 TL",Et Dönerler,6.0
+75c26ed1-d29a-49a2-ace0-79063037dca5,Eti Bol İskender (Et Dönerden),"41,50 TL",Et Dönerler,3.0
+9cc561c0-84da-4a77-a018-50e2bf62d47f,Pilav Üstü Et Döner,"29,50 TL",Et Dönerler,-1.0
+C4AF723B-9674-4873-A7E3-1561B3329CD0,Yarım Ekmek Arası Et Döner,"19,90 TL",Et Dönerler,-1.0
+DEA89B99-6F23-4736-A517-07E9CCE30912,3/4 Ekmek Arası Et Döner,"29,50 TL",Et Dönerler,-1.0
+94957af7-691b-4734-b827-0de387a1e1c4,Saraylı Dönerli Pide,"28,50 TL",Fırın Ürünleri,8.0
+f5507208-d55c-4249-b39c-4c222a643f14,Karışık Pide,"27,50 TL",Fırın Ürünleri,4.0
+b41d18da-d119-45ca-ae92-cff2bcffa9fd,Kasap Köfte & Pilav,"26,50 TL",Kebaplar & Izgaralar,6.0
+0d28facc-8554-4320-b6e7-119553144777,İskender (Pideli Köfteden),"26,50 TL",Kebaplar & Izgaralar,2.0
+38785f69-5013-477e-9b61-670f682b4336,Adana Dürüm,"19,50 TL",Dürümler,5.0
+f0a21a6e-f458-4879-84d1-c06d117e90a0,Urfa Dürüm,"19,50 TL",Dürümler,3.0
+35e96d64-2e94-4645-b6b3-b2d859a99ac0,Beyti Dürüm,"19,50 TL",Dürümler,5.0
+113B1A09-5A92-4470-877D-E3CC9580BCA4,Medium Burger,"15,90 TL",Burgerler,8.0
+0304AA8E-CCBC-4643-82AA-170CFF3F2F9F,Saraylı Burger,"22,90 TL",Burgerler,14.0
+57E05566-F9F7-4271-AA96-6461850E2057,Cheeseburger,"22,90 TL",Burgerler,5.0
+79E5CD61-481E-41F8-8536-904FE309B36D,Anadolu Burger,"22,90 TL",Burgerler,8.0
+B37B8116-FEB7-4C84-883E-7DF83C554470,Dublex Burger,"27,90 TL",Burgerler,8.0
+7e6fa398-8f1c-4c0c-bdbf-9a0759b07b5d,Triplex Burger,"32,90 TL",Burgerler,8.0
+8faaf417-db5d-41f5-84ee-0ade7cae2d74,Tombik Ekmek Arası Köfte,"21,50 TL",Ekmek Arası Ürünler,6.0
+F2483C10-0BC9-44A6-9F67-FD7E1E21A2EC,Soğuk Baklava,"14,50 TL",Tatlılar,4.0
+935e1928-3b1e-4764-b54c-b35c40dea4ea,Kabak Tatlısı,"12,50 TL",Tatlılar,3.0
+67fd55de-80c2-4684-9f23-5156dbfa282f,Demirhindi Şerbeti (25 cl.),"6,00 TL",İçecekler,5.0
+96A9B579-925A-41E6-B05F-A90830B11339,Et Döner (500 gr.),"114,50 TL",Kiloluk Et Dönerler (Pişirilmiş),-1.0
+7547E2A9-9246-4167-8A0D-3DA3818BAF63,Et Döner (1 kg.),"229,50 TL",Kiloluk Et Dönerler (Pişirilmiş),-1.0
+65652d67-c156-4072-8eaf-403662a30e1b,Poşet,"0,25 TL",Poşet,5.0

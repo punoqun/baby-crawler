@@ -1,0 +1,50 @@
+food_id,food_name,food_price,food_category,food_score
+ff0ea417-af91-4dee-bde5-c6a915c0a1ce,Kaşarlı Simit,"3,00 TL",Kahvaltılıklar,2.0
+0818e098-1a0b-4827-97f3-f2a5fa11f83d,Patatesli Açma,"3,00 TL",Kahvaltılıklar,2.0
+ef784d80-59cb-4afc-b191-5fd2c90945ea,Peynirli Çatal Börek,"6,00 TL",Kahvaltılıklar,2.0
+508BDC78-690F-4D97-AD5B-81EB51C867CF,Peynirli Simit,"3,00 TL",Kahvaltılıklar,3.0
+2eb46b48-22ab-40c5-8032-4b7ee3fcf8dd,Peynirli Su Böreği,"5,00 TL",Kahvaltılıklar,5.0
+6cc612ee-cb7b-43c6-948a-4bc36154dbf3,Sakallı Poğaça,"3,00 TL",Kahvaltılıklar,6.0
+979bc62c-e06c-49d2-a072-2202d0948024,Simit,"1,50 TL",Kahvaltılıklar,8.0
+6F91585A-4B42-42EF-A4D4-B78366FFAC2B,Tulum Peyniri,"1,50 TL",Kahvaltılıklar,5.0
+2296aa2a-6f87-49ff-8d6d-a01b264b569f,Tuzlu Kurabiye,"10,00 TL",Kurabiyeler,5.0
+a2633eb8-2954-41ae-9291-d422b719c9d9,Tatlı Kurabiye,"10,00 TL",Kurabiyeler,7.0
+8537F6D3-8E21-4510-98DE-29BFBE351ADF,Beze,"3,00 TL",Tatlılar,5.0
+67044cd1-c3f5-4173-a61e-9ec88db69b09,Cevizli Baklava,"10,00 TL",Tatlılar,3.0
+8D3AF846-881D-4DEA-8101-50FBF79ED910,Çikolatalı Aşk Yolu,"12,00 TL",Tatlılar,5.0
+b1b82ac1-0d75-44b3-99ad-668eee0d15b6,Çikolatalı Nazar Special,"8,00 TL",Tatlılar,3.0
+A82C697A-5F9C-4A4B-B73C-069C470DDB54,Çikolatalı Pasta (Adet),"12,00 TL",Tatlılar,4.0
+780b3321-ac40-4dbe-9de1-ebc64410383b,Frambuazlı Aşk Yolu,"12,00 TL",Tatlılar,5.0
+1daaad36-8da4-485a-ae7e-26e8793370ea,Halka Tatlı,"3,00 TL",Tatlılar,7.0
+32c165ed-a7df-49f7-814c-0c77157416be,İtalyan Tiramisu,"8,00 TL",Tatlılar,6.0
+061d836b-5e4e-4fb3-be2f-ae222a8e9a79,Kalburabastı,"10,00 TL",Tatlılar,5.0
+1991d775-4592-41c2-989c-9a48ee6a51ab,Makaron,"2,00 TL",Tatlılar,5.0
+3b2c4c19-dc85-4c64-af6e-44e115cbf6a8,Meyve Şöleni,"12,00 TL",Tatlılar,8.0
+FD1B5E59-B856-4B95-A12A-97A15A38C0FD,Meyveli Pasta (Adet),"12,00 TL",Tatlılar,7.0
+db74a396-4f16-4a7e-bf2a-a96d2b108644,Muhallebi,"8,00 TL",Tatlılar,5.0
+ea1762c4-ba6c-4c22-b987-00754ada68e4,Muzlu Nazar Special,"8,00 TL",Tatlılar,3.0
+17A7D153-9585-4B62-835D-F390A5FB3930,Özel Cevizli Baklava,"60,00 TL",Tatlılar,2.0
+401f22ea-c484-4fb2-b6af-1231a9f29fa4,Rulo Pasta,"12,00 TL",Tatlılar,4.0
+e2dab103-3ad2-4fc4-bdb4-462ff298d1c3,Şekerpare,"10,00 TL",Tatlılar,5.0
+0c56ef47-7be3-4aeb-a189-f3311df33902,Tulumba Tatlısı,"10,00 TL",Tatlılar,5.0
+D898748D-A80A-4BA5-A6BA-D6F947220D30,Çikolatalı Pasta (4 Kişilik),"30,00 TL",Pastalar (4 Kişilik),4.0
+40503E54-5B72-4EAE-A9A2-D1255292DA10,Çikolatalı Pasta (6 Kişilik),"40,00 TL",Pastalar (6 Kişilik),4.0
+c456c483-5efb-4987-b4cd-3688bdf60ccd,Meyveli Pasta (6 Kişilik),"40,00 TL",Pastalar (6 Kişilik),7.0
+795f9e0e-48a9-420c-83e9-c0a608247b1f,Çikolatalı Muzlu Pasta (6 Kişilik),"40,00 TL",Pastalar (6 Kişilik),4.0
+f33a6e06-3bd8-47fb-979b-9949174549de,Çikolatalı Krokanlı Pasta (6 Kişilik),"40,00 TL",Pastalar (6 Kişilik),6.0
+b79fe0d8-8f30-4597-9fb7-a847fdb6b7b8,Kestaneli Çikolatalı Pasta (6 Kişilik),"40,00 TL",Pastalar (6 Kişilik),4.0
+BA7D133B-22B5-4BC0-8A85-EF83474C9FA5,Çikolatalı Pasta (8 Kişilik),"50,00 TL",Pastalar (8 Kişilik),4.0
+15590b70-e2fd-4c63-b5f2-57eb330fdf99,Meyveli Pasta (8 Kişilik),"50,00 TL",Pastalar (8 Kişilik),7.0
+bc740ba7-f80e-40bf-8a7a-1539b624d773,Çikolatalı Muzlu Pasta (8 Kişilik),"50,00 TL",Pastalar (8 Kişilik),4.0
+59EF7ECA-E642-4E32-9C4F-0405C51AFCC7,Çikolatalı Pasta (10 Kişilik),"60,00 TL",Pastalar (10 Kişilik),4.0
+9f248730-d8a8-498b-b48f-34793908c97a,Meyveli Pasta (10 Kişilik),"60,00 TL",Pastalar (10 Kişilik),7.0
+75F7FD8A-D9B4-4E4C-B469-E58338507359,Cappy (20 cl.),"3,00 TL",İçecekler,5.0
+3159D997-4739-4B90-8399-465B863ABC28,"Fanta (2,5 L.)","9,00 TL",İçecekler,5.0
+158d63a8-b031-41b0-9e13-fe3707b15c96,Cevizli Baklava (1 kg.),"40,00 TL",Kiloluk Ürünler,3.0
+3f1f15c7-d7b9-41c8-92e9-a564067ae89c,Şekerpare (1 kg.),"30,00 TL",Kiloluk Ürünler,5.0
+4e027826-8929-4258-bbb1-0f416b2b27f6,Kalburabastı (1 kg.),"30,00 TL",Kiloluk Ürünler,5.0
+524bfa25-7d4f-4328-a787-3dbe37cb7c6b,Tatlı Kurabiye (1 kg.),"30,00 TL",Kiloluk Ürünler,7.0
+5cd0c7ae-f514-4743-989d-79c5ed916e27,Kadayıf (1 kg.),"30,00 TL",Kiloluk Ürünler,5.0
+6ef27757-f2df-47bd-a0b6-090d6b1b466a,Kandil Simiti (1 kg.),"30,00 TL",Kiloluk Ürünler,5.0
+dae7c8ea-439f-4e58-b451-e76db44b6961,Tuzlu Kurabiye (1 kg.),"30,00 TL",Kiloluk Ürünler,5.0
+159b0819-6f83-46f5-8baa-ad472b044d75,Poşet,"0,25 TL",Poşet,4.0

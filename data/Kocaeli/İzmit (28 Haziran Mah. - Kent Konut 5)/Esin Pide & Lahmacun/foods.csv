@@ -1,0 +1,33 @@
+food_id,food_name,food_price,food_category,food_score
+dd97a76f-6e9e-4c0b-84ee-67f844f7430e,Kavurmalı Kaşarlı Pide,"25,00 TL",Fırın Ürünleri,5.0
+8f995f60-03e7-4855-8b0d-2fc37e4403f7,Pastilli Kaşarlı Pide,"25,00 TL",Fırın Ürünleri,5.0
+3cada522-bb62-41f4-a88d-62988b6c11a3,Lahmacun,"6,50 TL",Fırın Ürünleri,19.0
+99adbc9e-00e0-4a41-b1ae-f57aa1f94006,Kaşarlı Pide,"17,00 TL",Fırın Ürünleri,5.0
+884daf96-0a5d-4fcb-b37a-224f012b6c67,Sucuklu Kaşarlı Pide,"22,00 TL",Fırın Ürünleri,5.0
+2712cbc6-35c2-4766-bbd5-16274d9058a5,Kuşbaşılı Pide,"25,00 TL",Fırın Ürünleri,5.0
+f2426ada-6cfd-4cb0-89c5-779427bd4148,Kuşbaşılı Kaşarlı Pide,"25,00 TL",Fırın Ürünleri,5.0
+1d4c5afe-ce54-42b0-9ec9-45ab2f2821c3,Kıymalı Pide,"20,00 TL",Fırın Ürünleri,5.0
+2b9b1ec9-160f-4e11-9bfa-fd75a9e828ba,Kıymalı Kaşarlı Pide,"18,00 TL",Fırın Ürünleri,5.0
+bdc1f2d9-9101-4003-980d-97a49f358f6b,Karışık Pide,"22,00 TL",Fırın Ürünleri,5.0
+4e62ebe2-6eb7-4ec6-b091-e3e32ee97dba,Karışık Pizza (Küçük),"20,00 TL",Fırın Ürünleri,5.0
+8a6940c3-0ee3-4f27-bf77-94ce6461c7d2,Karışık Pizza (Orta),"25,00 TL",Fırın Ürünleri,5.0
+7d03c229-4f36-41a5-9f31-c1aee05c259f,Karışık Pizza (Büyük),"32,00 TL",Fırın Ürünleri,5.0
+c106267a-c46c-4f04-a139-1f7ada990e8a,Adana Kebap,"28,00 TL",Kebaplar,5.0
+994a7211-3c91-4a36-8611-266a87056884,Urfa Kebap,"28,00 TL",Kebaplar,5.0
+1ded5ad6-65a7-4612-9a66-09e99f8e4f5b,Tavuk Izgara,"18,00 TL",Izgaralar,5.0
+d3799f98-374e-4bd1-8357-8a43f17517ca,Izgara Köfte,"25,00 TL",Köfteler,5.0
+f9648051-3cd9-4724-afca-084f432ee895,Yarım Ekmek Arası Köfte,"15,00 TL",Köfteler,5.0
+d6c5e498-be7f-4748-8bbd-34c6f3d05f97,Adana Dürüm,"15,00 TL",Dürümler,10.0
+76f8da5b-871d-474a-904d-89f13dd39363,Urfa Dürüm,"15,00 TL",Dürümler,5.0
+f26569e6-0402-4aad-9e25-97477545249c,Izgara Tavuk Dürüm,"18,00 TL",Dürümler,5.0
+fc625cc0-0ce0-4e2a-b710-93089d5a6bef,Izgara Köfte Dürüm,"25,00 TL",Dürümler,5.0
+7ba966b3-77c9-45c2-9319-0829f91db230,Et Döner Dürüm,"15,00 TL",Dürümler,5.0
+c1066095-7ddb-42bb-b3b6-cb11de6ed276,Tavuk Döner Dürüm,"15,00 TL",Dürümler,5.0
+8b285048-84cf-40aa-9d2b-74ccf3dc4933,Mevsim Salata (Küçük),"2,50 TL",Salatalar,7.0
+7f15d80b-18d5-49b4-a01c-5338fdaa08e9,Mevsim Salata (Orta),"3,50 TL",Salatalar,7.0
+6f57b0a5-1b3a-4d05-af05-de4b91efd831,Mevsim Salata (Büyük),"5,00 TL",Salatalar,7.0
+018d5dec-1fc2-4148-9d57-e5824a61bf09,Künefe,"15,00 TL",Tatlılar,5.0
+04212560-92e9-42a2-b947-3bf062737f6b,Nestea (33 cl.),"5,00 TL",İçecekler,5.0
+1fee0a21-aa18-4aba-9dbf-1a3cf8e50e30,Su,"1,50 TL",İçecekler,5.0
+99ca149d-df41-4282-8d6c-5924bc723ced,"Fanta (2,5 L.)","9,00 TL",İçecekler,5.0
+66118ce8-a90b-4e60-9e8a-ebe1f9a72263,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,35 @@
+food_id,food_name,food_price,food_category,food_score
+a72503e5-2207-4be9-8810-da0808653151,Lahmacun Menü 1,"32,00 TL",Menüler,-12.0
+24d0c611-d730-4f08-8561-4cad73f1462a,Lahmacun Menü 2,"52,00 TL",Menüler,-23.0
+bb6616bb-b2c8-4f23-820b-63a372980dd1,Lahmacun Menü 3,"78,00 TL",Menüler,-12.0
+3c75035b-5892-494e-95ab-b1ee06bcfa9f,Lahmacun Menü 4,"98,00 TL",Menüler,-11.0
+7758e638-1fd4-40d8-8f14-7ca8f5f993da,Sarımsaklı Lahmacun,"12,00 TL",Lahmacunlar,-2.0
+abdbef60-292d-4674-b359-db7091207de6,Lahmacun,"10,00 TL",Lahmacunlar,3.0
+098613a1-8c9c-4038-a16b-e7afe5b425bf,Kıymalı Pide,"23,00 TL",Pideler,4.0
+20249a04-36d7-4e54-9c18-a64034ac8a76,Kaşarlı Pide,"22,00 TL",Pideler,4.0
+4ae5e91a-4346-4dad-98c9-15442b42c52d,Kıymalı Kaşarlı Pide,"25,00 TL",Pideler,4.0
+6909c558-994c-468d-b79d-802249a48d4f,Kuşbaşılı Pide,"28,00 TL",Pideler,4.0
+8b33243c-89b7-4124-8b95-7f5b6ef16d4a,Kavurmalı Pide,"35,00 TL",Pideler,4.0
+ee58017b-0d4a-428b-9b5a-5367e05df983,Kavurmalı Kaşarlı Pide,"35,00 TL",Pideler,4.0
+fc0b6335-f0a6-48f5-b916-78cf8ad1e774,Sucuklu Kaşarlı Pide,"25,00 TL",Pideler,4.0
+2140602d-744a-45f9-a551-565ed051cb7f,Çöp Şiş,"35,00 TL",Kebaplar & Izgaralar,5.0
+2885ef20-60b4-4181-b41e-868fd8521bfc,Kilis Oruk Kebabı,"30,00 TL",Kebaplar & Izgaralar,8.0
+8102d246-6ea0-4d3b-96cc-04119355fd4e,Patlıcanlı Kebap,"35,00 TL",Kebaplar & Izgaralar,4.0
+a1297f74-d2e3-4b3e-8d41-a19cd7152979,Haşhaşlı Kebap,"30,00 TL",Kebaplar & Izgaralar,4.0
+ab2bc49d-c698-4a50-9b4b-23110f246605,Domatesli Kebap,"30,00 TL",Kebaplar & Izgaralar,4.0
+c8d01795-bf7e-4b35-8cb1-de25d34242e4,Alinazik Kebabı (Et Şişten),"38,00 TL",Kebaplar & Izgaralar,5.0
+d03b309e-ecdf-4721-8413-0038113e8440,Sarma Beyti Kebap,"35,00 TL",Kebaplar & Izgaralar,4.0
+9EDC3AD1-8D11-4DED-8A92-D25D54AB1F31,Special Kilis Karışık Kebap,"75,00 TL",Kebaplar & Izgaralar,7.0
+aafd14c3-b77b-4f99-ae63-3b5de67094a1,Kuşbaşı Tava,"35,00 TL",Tavada Ürünler,5.0
+cca97bf9-4cc9-4a26-8ca3-fa0216819214,Tavuk Sote,"25,00 TL",Tavada Ürünler,4.0
+df3aef13-ceec-4350-80bc-69efe710b562,Sac Kavurma,"33,00 TL",Tavada Ürünler,5.0
+1ead9e74-5335-439a-b665-aabc291f1d39,Et Şiş Dürüm,"18,00 TL",Dürümler,6.0
+9ebae107-99a1-4487-9dad-f9b0fdc7ee92,Adana Dürüm,"16,00 TL",Dürümler,3.0
+f97a4c07-d632-46fe-934f-70378c680cba,Lahmacun Arası Adana Dürüm,"26,00 TL",Dürümler,-8.0
+6508724A-E458-4661-BB73-5A3165B5CAB7,Special Kilis Dürüm,"22,00 TL",Dürümler,9.0
+e74a3be9-4cd7-4b64-a5fc-c55fc6e0ee0b,Gavurdağı Salata,"20,00 TL",Salatalar,5.0
+49ec6ffd-14ca-4e3a-8851-b77af1fc2f32,Çoban Salata,"15,00 TL",Salatalar,5.0
+ef66d139-9789-45ae-b147-a26bb85c6089,Patlıcan Söğürme,"20,00 TL",Salatalar,5.0
+70e849da-4a6e-4fca-9106-16dd81d062f5,Pirzoladan Tavuk Şiş (1 kg.) (Pişirilmiş),"60,00 TL",Kiloluk Ürünler,4.0
+e758750d-7de3-4905-a2ba-68e298d41696,Tavuk Kanat (1 kg.) (Pişirilmiş),"55,00 TL",Kiloluk Ürünler,-1.0
+4dea9faa-bdc3-483c-85f9-5541142f483c,Poşet,"0,25 TL",Poşet,5.0

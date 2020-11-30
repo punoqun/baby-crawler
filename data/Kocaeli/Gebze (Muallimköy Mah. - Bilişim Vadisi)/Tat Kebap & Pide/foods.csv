@@ -1,0 +1,31 @@
+food_id,food_name,food_price,food_category,food_score
+04627c1b-d958-49af-a44f-0614d32a3a63,Adana Kebap,"25,00 TL",Izgaralar & Kebaplar,5.0
+3290a2a7-78c3-4fc5-ba18-c23fb21e4458,Tavuk Kanat,"23,00 TL",Izgaralar & Kebaplar,5.0
+33c287d9-c428-44e8-8975-b011f75c6548,Karışık Kebap,"55,00 TL",Izgaralar & Kebaplar,5.0
+41b7051d-2c17-4d6b-a282-9a065d596f3c,Urfa Kebap,"25,00 TL",Izgaralar & Kebaplar,5.0
+475b8364-257a-48cb-a2ff-ad878638491e,Beyti Kebap (Açık),"25,00 TL",Izgaralar & Kebaplar,5.0
+501760ec-2b38-40d9-874a-9eac703c3e86,Izgara Köfte,"30,00 TL",Izgaralar & Kebaplar,5.0
+f5cad50e-91b4-45ca-b70d-2226559940f5,Domatesli Kebap,"30,00 TL",Izgaralar & Kebaplar,5.0
+17be128d-567c-408b-8bc6-e893b783078c,Sucuklu Pide,"15,00 TL",Pideler,5.0
+2118e9a4-0554-4caa-a431-6ed3f2b5b55b,Karışık Pide,"20,00 TL",Pideler,5.0
+34f48846-43a7-488c-a010-eb5e4875e9d7,Sebzeli Pide,"15,00 TL",Pideler,5.0
+3d51d6fc-9e84-4706-b407-0df013732612,Kuşbaşılı Pide,"22,00 TL",Pideler,5.0
+566e6a21-286a-489b-a89d-feafde3169bd,Kuşbaşılı Kaşarlı Pide,"23,00 TL",Pideler,5.0
+5e15a459-2f35-42a3-bffa-29589a3814b4,Trabzon Pidesi,"17,00 TL",Pideler,5.0
+71ec2694-d55f-4d5c-9688-393e0cad1546,Kavurmalı Pide,"25,00 TL",Pideler,5.0
+74a60b41-2270-447c-bbd5-a6918daeed2b,Kavurmalı Kaşarlı Pide,"27,00 TL",Pideler,5.0
+7eb87493-aebe-4688-8c2c-8e9f8dcb8c3c,Kaşarlı Pide,"15,00 TL",Pideler,5.0
+88192ff3-debb-4b84-8c0c-dccacfdf1a61,Mantarlı Pide,"15,00 TL",Pideler,5.0
+ac1607ca-ca3b-459b-aae4-fba8a8c23fde,Kıymalı Pide,"15,00 TL",Pideler,5.0
+db09b74a-d3a8-4c3d-af0f-1a05e4bcdd31,Yumurtalı Pide,"13,00 TL",Pideler,5.0
+fe40aa07-9b2d-41f3-a630-c0247a03cc1f,Kıymalı Kaşarlı Pide,"17,00 TL",Pideler,5.0
+2d9072cb-3486-4f64-b6f9-8efd0aa325f9,Acılı Lahmacun,"5,50 TL",Lahmacunlar,10.0
+5ded5307-4c19-4c95-b799-b1ca85aca954,Çıtır Lahmacun,"5,50 TL",Lahmacunlar,10.0
+79ac2d61-035c-42a7-a3d0-5c914c6c1f70,İsotlu Lahmacun,"5,50 TL",Lahmacunlar,5.0
+55378538-43a0-4a04-8391-13726c7f4ab8,Karışık Pizza,"25,00 TL",Pizzalar,5.0
+c1541670-ccdb-4173-b9d8-bc200218c565,Veggie Pizza,"20,00 TL",Pizzalar,5.0
+51759e71-5138-4589-86ef-6f8738a05e6f,Adana Dürüm,"15,00 TL",Dürümler,10.0
+ae78367e-e7c7-41a2-ba36-2a09be529628,Çöp Şiş Dürüm,"15,00 TL",Dürümler,5.0
+e9ba90b0-eec2-4c33-8777-9fe5bfe032a4,Urfa Dürüm,"15,00 TL",Dürümler,5.0
+4a6a25b9-9f61-49b8-b2b2-c19904dcb048,Yarım Ekmek Arası Izgara Köfte,"15,00 TL",Ekmek Arası Ürünler,5.0
+57908d07-3783-4bed-9d04-67b8060077f4,Poşet,"0,25 TL",Poşet,5.0

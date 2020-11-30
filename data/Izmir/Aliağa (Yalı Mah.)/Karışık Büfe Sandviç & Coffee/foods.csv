@@ -1,0 +1,34 @@
+food_id,food_name,food_price,food_category,food_score
+e1194bef-bc05-452b-bf03-794448a5b956,Leziz Hamburger Menü,"25,50 TL",Menüler,8.0
+024fd79a-d2c3-4262-a661-d3d83fa9c59a,Dev Burger Menü,"31,50 TL",Menüler,11.0
+6124849c-af65-4b83-bbac-24ab8d1b2bdb,2'li Ayvalık Tostu Menü,"29,00 TL",Menüler,6.0
+25ffd95b-c51c-41a6-8e9e-d47567c78201,2'li Kaşarlı Ayvalık Tostu Menü,"26,00 TL",Menüler,6.0
+0d900028-de01-4279-a67e-98a1627dc44c,2'li Ekmek Arası Köfte Menü,"32,00 TL",Menüler,7.0
+BBE46377-7ECD-4135-A9DF-08E63A53FF05,Ayvalık Tost Menü,"15,50 TL",Menüler,10.0
+F75D35DC-6B1C-474D-8677-A7197627AFF5,Karışık Sandviç Menü,"18,00 TL",Menüler,6.0
+93cf52ee-1a4c-4da8-be35-e2c6feea9268,Ayvalık Tostu,"9,00 TL",Tostlar,10.0
+8011df46-2149-48a7-9e6f-4f5315d13ca5,Aliağa Tostu,"10,00 TL",Tostlar,14.0
+5a8bc5f7-67fa-43fd-8b1e-664cedc93a21,Ekstra Yumurtalı Aliağa Tostu,"12,00 TL",Tostlar,11.0
+7354e5df-9ca5-4297-8c7c-8efef3280023,Kaşarlı Ayvalık Tostu,"7,00 TL",Tostlar,5.0
+06A727C3-3CB6-406A-920C-A8057EA639D8,3/1 Yumurtalı Aliağa Tost,"18,00 TL",Tostlar,15.0
+8362a8b3-a4bc-470d-8822-1cae29e36724,Ekmek Arası Köfte,"11,00 TL",Ekmek Arası Ürünler,6.0
+bb049a15-ec67-4429-ae2a-2f7d78dd6cb4,Karışık Sandviç,"13,00 TL",Sandviçler,10.0
+ca5c0d9b-cc37-491c-93a9-019b35d83403,Soğuk Sandviç,"15,00 TL",Sandviçler,3.0
+43ce1015-424b-484c-a0f8-34e9fc5a6a40,Kavurmalı Sandviç,"20,00 TL",Sandviçler,5.0
+77e839ed-a4d3-4fb7-880e-282c8500457d,Tatlı Sandviç,"20,00 TL",Sandviçler,5.0
+616de31e-a7d5-4746-a6fc-b18a31664351,Leziz Hamburger,"20,00 TL",Burgerler,7.0
+14256ac3-9216-44e7-9dff-39079c6edd09,Dev Burger,"26,00 TL",Burgerler,10.0
+6a32c969-9d28-4da6-a174-ba9ebc0ec3cd,Dolma Burger,"30,00 TL",Burgerler,7.0
+5217F56E-F16D-4820-8E18-BC107736E7CB,Patates Kızartması,"6,00 TL",Yan Ürünler,6.0
+521F2DA6-8A88-401A-80A8-B9436CB5771E,Soğan Halkası (6 Adet),"5,00 TL",Yan Ürünler,6.0
+B3E35345-12C1-4056-BF7B-49AAA32F445B,Ketçap (10 gr.),"1,25 TL",Yan Ürünler,4.0
+1F2E4323-311C-4006-8ACA-B0D4734518DA,Soğan Halkası (12 Adet),"9,00 TL",Yan Ürünler,6.0
+65450d9b-7825-4999-ace4-91fc39105830,Ton Balıklı Salata,"15,00 TL",Salatalar,7.0
+9AF93858-633F-4B15-AFCD-1FE869E05648,Sprite (20 cl),"4,00 TL",İçecekler,5.0
+ea9b2d8c-6d47-4961-a1aa-fd677da51513,Yedigün (20 cl.),"3,00 TL",İçecekler,5.0
+a9bff356-eea8-48c5-8666-d995debf43fd,7UP (20 cl.),"3,00 TL",İçecekler,5.0
+4322C054-2FC7-43CE-917B-99D17912A3CF,Uludağ Limonata (25 cl.),"4,00 TL",İçecekler,5.0
+23CB5161-9366-41D7-B1D0-40EA020EFF84,Acılı Şalgam Suyu (30 cl.),"4,50 TL",İçecekler,5.0
+0C4F6CF2-3974-4533-8C9E-B462C003ACD6,Ayran (20 cl.) (Bardak),"3,00 TL",İçecekler,5.0
+828898e4-38bb-4cd0-9fc9-c71d2de12b15,Fruko (1 L.),"7,00 TL",İçecekler,5.0
+4cbfc86b-b7fd-4dee-a209-985940c94f2f,Poşet,"0,25 TL",Poşet,5.0

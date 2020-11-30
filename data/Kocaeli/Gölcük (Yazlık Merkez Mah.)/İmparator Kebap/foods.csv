@@ -1,0 +1,29 @@
+food_id,food_name,food_price,food_category,food_score
+3af14947-8675-48f3-900a-11b33a5b840a,Adana Kebap,"27,00 TL",Kebaplar,6.0
+7901998b-bd24-45f7-854f-26aab563acaa,Urfa Kebap,"27,00 TL",Kebaplar,7.0
+59934716-2f59-4a00-a62c-35e7565b65da,Tavuk Pirzola,"22,00 TL",Kebaplar,4.0
+09EC4B39-A636-409A-AB07-91708A6E7BC7,Akçaabat Köfte,"27,00 TL",Kebaplar,4.0
+25D92E14-AABB-416E-A57C-C04257FCA02C,Izgara Sucuk,"27,00 TL",Kebaplar,5.0
+1d567335-9a82-47cc-b6c2-32a8c687e4b3,Lahmacun,"7,00 TL",Fırın Ürünleri,10.0
+D5AB045E-9A3A-42BE-BEC1-042885F14406,Kıymalı Kaşarlı Pide,"22,00 TL",Fırın Ürünleri,10.0
+567f969e-830c-4df4-bc8d-03cadf412640,Kavurmalı Kaşarlı Pide,"27,00 TL",Fırın Ürünleri,3.0
+78a7636f-77d7-4250-bcd9-af2fd2270502,Kıymalı Pide,"22,00 TL",Fırın Ürünleri,5.0
+a23fbcc8-d728-4421-9d4e-248c2636a5eb,Kavurmalı Pide,"27,00 TL",Fırın Ürünleri,3.0
+ef0a3507-3d27-4f39-9e77-3e4af852fb72,Kuşbaşılı Pide,"25,00 TL",Fırın Ürünleri,5.0
+0f12615c-7545-4c03-9d58-b6c13dbb39b5,Kaşarlı Pide,"20,00 TL",Fırın Ürünleri,5.0
+e5ca8ab1-426c-4c46-871d-5059561b63de,Kuşbaşılı Kaşarlı Pide,"25,00 TL",Fırın Ürünleri,5.0
+708a0e7a-be27-4371-a339-82c9edc08dea,Trabzon Yağlısı,"21,00 TL",Fırın Ürünleri,5.0
+2e406e90-f868-45d0-800e-cb3ad9017664,Kaşarlı Sucuklu Pide,"22,00 TL",Fırın Ürünleri,5.0
+8e10940a-46c7-4eb2-a7e9-641551aa990b,Sucuklu Pide,"22,00 TL",Fırın Ürünleri,5.0
+3effea43-863f-4c93-ba1e-f479332db343,Karışık Pide,"27,00 TL",Fırın Ürünleri,7.0
+5ED41A7C-92B2-49C5-9234-610A489D965F,Akçaabat Köfte Dürüm,"15,00 TL",Dürümler,4.0
+B596CF44-4E29-492F-8304-A96B59C18F46,Adana Dürüm,"19,00 TL",Dürümler,9.0
+F9950B3C-DA0D-47B2-91F6-1888F08D06A9,Urfa Dürüm,"19,00 TL",Dürümler,5.0
+2e8c9158-5713-4152-9549-6dd90f1d545d,Tavuk Dürüm,"13,00 TL",Dürümler,4.0
+200D4662-FDB4-4B57-8EBD-D98811F0C85E,Izgara Sucuk Dürüm,"17,00 TL",Dürümler,5.0
+9527368b-1cde-49a5-9b31-5b9ddf77fb02,Ekmek Arası Izgara Köfte,"13,00 TL",Ekmek Arası Ürünler,3.0
+D9B774C0-1A6C-497A-BE21-5A9D0828F0EE,Tam Ekmek Arası Akçaabat Köfte,"25,00 TL",Ekmek Arası Ürünler,3.0
+46b00371-a009-4e2e-abb5-3be66997c2a4,Yarım Ekmek Arası Izgara Tavuk,"12,00 TL",Ekmek Arası Ürünler,3.0
+02c46130-7908-4ec4-a929-a078005ca3d8,Tam Ekmek Arası Izgara Tavuk,"22,00 TL",Ekmek Arası Ürünler,3.0
+EF50D989-F5CC-43AF-B2FD-0935745ACA5F,Ekmek Arası Izgara Sucuk,"15,00 TL",Ekmek Arası Ürünler,4.0
+400778fa-d667-4fc0-b5fd-2cdfd12d5b45,Poşet,"0,25 TL",Poşet,5.0

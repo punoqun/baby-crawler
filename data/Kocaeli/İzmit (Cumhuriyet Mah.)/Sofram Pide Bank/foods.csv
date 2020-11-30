@@ -1,0 +1,47 @@
+food_id,food_name,food_price,food_category,food_score
+ecb62419-a14c-4201-a820-b9a813be24db,Pastırmalı Pide,"25,00 TL",Pideler,8.0
+4DE491CE-A321-4741-BC34-2018F5AB92C0,Pastırmalı Kaşarlı Pide,"25,00 TL",Pideler,10.0
+A71235E0-F12F-4D02-BDBB-70F6FF66AA92,Sofram Pide Ekmeği,"4,00 TL",Pideler,10.0
+df15b725-4211-4748-9aa1-fc7630768075,Ispanaklı Kıymalı Pide,"15,00 TL",Pideler,8.0
+1b242099-8023-4a18-a24e-dffebd5b6be1,Ispanaklı Peynirli Pide,"15,00 TL",Pideler,12.0
+a8d99b7e-46c6-4460-9b84-f33c33f2c5a8,Karışık Pide,"22,00 TL",Pideler,8.0
+0b0cbfd8-33ed-4f54-aa27-d8702c0a7219,Kaşarlı Pide,"16,00 TL",Pideler,10.0
+dab6ab22-9823-485f-9a11-c53a91957491,Kavurmalı Kaşarlı Pide,"22,00 TL",Pideler,8.0
+7ce7edc4-aed2-47b0-8c91-4d6229409376,Kavurmalı Pide,"22,00 TL",Pideler,6.0
+bbbceef9-d6a7-4271-b629-adb06fbb51c1,Kıymalı Karadeniz Pide,"19,00 TL",Pideler,5.0
+e22b0742-823e-468a-b624-0bcbfb5feab5,Kıymalı Kaşarlı Pide,"19,00 TL",Pideler,8.0
+f03a0e6c-798e-4a02-9259-aea4c5246f55,Kuşbaşılı Kaşarlı Pide,"22,00 TL",Pideler,10.0
+e6dda83c-06b9-4f10-9bb8-02e78fe3094c,Kuşbaşılı Pide,"22,00 TL",Pideler,8.0
+1148e593-3862-41f7-930a-2b51f57875c9,Mantarlı Kaşarlı Pide,"16,00 TL",Pideler,10.0
+dde6da13-360e-43a0-b25c-12924df611b9,Mantarlı Pide,"16,00 TL",Pideler,8.0
+4141db56-eab0-44c6-b2e9-fc28729d81eb,Mevlana Pide,"18,00 TL",Pideler,8.0
+17561ec4-7f24-458f-b3d7-cda7b4f3c481,"Patatesli Kaşarlı Pide (1,5 Porsiyon)","22,50 TL",Pideler,10.0
+5a1d368b-5bd4-45fe-9c7c-5df6558b264b,Patatesli Kaşarlı Pide,"15,00 TL",Pideler,10.0
+3c0f9641-c1b8-4ecc-9163-95d1e9c829df,Sofram Pizza,"22,00 TL",Pideler,11.0
+45dec194-7b5d-40f0-8893-b5986533bd2a,Sucuklu Kaşarlı Pide,"20,00 TL",Pideler,12.0
+425bd0b1-323b-4314-9cf9-468e7b6994ac,Sucuklu Pide,"20,00 TL",Pideler,10.0
+07a504bb-c11e-4583-9f0a-e819b8e3a7c1,Tavuklu Pide,"16,00 TL",Pideler,7.0
+db58ba35-e477-49e3-b0d4-d9af512eef46,Kıymalı Kır Pidesi,"3,50 TL",Kır Pideleri,6.0
+82acf073-24e5-4332-9542-8bfe301ef7f3,Peynirli Kır Pidesi,"3,50 TL",Kır Pideleri,5.0
+4422044f-eeaf-4188-870a-2e3cd48e92da,Patatesli Kır Pidesi,"3,50 TL",Kır Pideleri,8.0
+4DD8CE5F-1C05-4973-890C-F09205C778AE,Sucuklu Kaşarlı Pizza (Mini),"8,00 TL",Pizzalar,13.0
+3408ED7D-E6BF-4503-8729-3EB2CC1F841F,Kıymalı Kaşarlı Pizza (Mini),"8,00 TL",Pizzalar,9.0
+1021CF43-6A2B-4BE2-829B-C65E5071AD6A,Kaşarlı Domatesli Biberli Pizza (Mini),"8,00 TL",Pizzalar,11.0
+f197a158-e41e-4d52-a9aa-140d55f2fa7b,Yarım Ekmek Arası Et Tantuni,"15,00 TL",Et Tantuniler,9.0
+e08fcdab-81af-4831-a842-f3f36f4a2a99,Et Tantuni Dürüm,"15,00 TL",Et Tantuniler,10.0
+1174c50c-a78a-4fab-bd62-19253e8e5ac7,Yoğurtlu Et Tantuni,"18,00 TL",Et Tantuniler,12.0
+d2d7aa57-8288-4e8f-9ce2-e569ff17c06b,Yarım Ekmek Arası Tavuk Tantuni,"10,00 TL",Tavuk Tantuniler,6.0
+4c4ea59b-316b-4dfa-9d86-3ba6bf3b561c,Tavuk Tantuni Dürüm,"10,00 TL",Tavuk Tantuniler,7.0
+a65b3257-ed23-406b-832d-1d869ff79004,Yoğurtlu Tavuk Tantuni,"13,00 TL",Tavuk Tantuniler,9.0
+d3e0061d-3640-434b-936f-33bb7a8cac3e,Et Sote,"22,00 TL",Diğer Lezzetler,5.0
+1b8cfaa0-8a04-4aca-b610-6214086c6c26,Tavuk Sote,"18,00 TL",Diğer Lezzetler,2.0
+a38c578e-4e2a-4c1c-b45f-192022c27d49,Mantar Sote,"18,00 TL",Diğer Lezzetler,5.0
+d0d3e094-e8e7-4029-8472-49eb5c7a1d87,Patates Kızartması,"9,00 TL",Yan Ürünler,3.0
+228491b6-4190-4e34-b034-72500b3bb91a,Soğan Halkası,"8,00 TL",Yan Ürünler,7.0
+15536ffa-179d-46ad-b05a-46f2e1804ea7,Turşu (Adet),"0,75 TL",Yan Ürünler,10.0
+a9a41f80-eb66-453f-81c1-ad98a69e20b7,Fırın Sütlaç,"8,00 TL",Tatlılar,5.0
+9ecc728d-6f58-4148-a925-3611f963a8cb,Künefe,"10,00 TL",Tatlılar,5.0
+d72debca-9af0-411e-830c-297a4e18783d,Antep Katmeri,"12,00 TL",Tatlılar,5.0
+4c9da18f-b0ab-4e4a-8285-896be77a6a78,Çoban Salata,"6,00 TL",Salatalar,5.0
+0a25d2c4-47c6-44aa-ac28-a2ca5fa5ffcb,Çenesuyu,"1,00 TL",İçecekler,5.0
+91b68013-765f-4427-9666-e157210544f0,Poşet,"0,25 TL",Poşet,5.0

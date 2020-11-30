@@ -1,0 +1,35 @@
+food_id,food_name,food_price,food_category,food_score
+AE7F6B73-5006-436C-831D-AC7B3192AF44,Hamburger Menü,"29,00 TL",Menüler,5.0
+6ea8bf26-44d3-4df2-9b99-163c5ed06b3d,Cheeseburger Menü,"32,00 TL",Menüler,5.0
+158ee351-ed2d-4651-9518-6beb64e26ba0,Double Cheeseburger Menü,"39,00 TL",Menüler,5.0
+2a6f50e2-b29b-4caa-939f-e5eac253a91b,Sarımsaklı Ekmek,"7,50 TL",Başlangıçlar,5.0
+414b6609-21cc-42a1-acde-0b4c6d4696ff,Corn Dog,"20,00 TL",Başlangıçlar,5.0
+6f9e0628-da7d-49f5-9f89-37d1e2b6865e,3 Peynirli Tepsi Böreği,"15,00 TL",Başlangıçlar,5.0
+8914f507-bd29-43f7-82c5-56b238e658e1,Sıcak Sepeti,"27,00 TL",Başlangıçlar,7.0
+8b4d0ea2-603a-41d2-bd8f-e2b6e946a604,Patates Kızartması,"12,00 TL",Başlangıçlar,5.0
+9a67d8fd-ddbe-419c-8d9d-f01256692d36,Sosis Tabağı,"15,00 TL",Başlangıçlar,5.0
+aeb738c8-8de1-4fd8-bcbf-0ebcf69ff6bf,Sigara Böreği,"8,00 TL",Başlangıçlar,7.0
+e4c3f09a-09e6-4c7c-9632-b13c0c5fc21f,Çin Böreği,"20,00 TL",Başlangıçlar,5.0
+03d5fce0-7ccc-4d35-bfa9-3b6c94b14dd2,Karışık Bazlama Tost,"18,00 TL",Tostlar,10.0
+82eca9e3-64fb-43a1-bae1-1215ae470d13,Pizza Tost,"16,00 TL",Tostlar,5.0
+8dc8ec6f-0e99-49d2-9d04-24c9fab9e56a,Karışık Tost,"17,00 TL",Tostlar,5.0
+f867f9e7-4262-481d-99e3-d2a5e5885aa3,Kaşarlı Tost,"15,00 TL",Tostlar,7.0
+123887fa-e2ab-4cd8-9a09-46c49ad03533,Kumru Sandviç,"20,00 TL",Sandviçler,11.0
+464a0213-c937-4678-b018-6e5ea2e76aac,Mia Special,"22,00 TL",Sandviçler,5.0
+a6811130-28f2-4513-872c-237d78ac8179,Hot Dog Sandviç,"15,00 TL",Sandviçler,7.0
+e96726da-66c7-4e57-8b4f-36e55b9e4bba,Köfte Sandviç,"20,00 TL",Sandviçler,5.0
+7D0877DA-CD02-4378-B2CA-A5527F9FB329,Patsosis,"15,00 TL",Sandviçler,5.0
+3911C319-0700-4ABA-8575-7AE986D0B882,Patso,"13,00 TL",Sandviçler,10.0
+B4DB710E-6BF5-42FE-B123-E1884FF38796,Patsolu Kumru,"20,00 TL",Sandviçler,6.0
+14F22822-44AB-471D-A2F6-92835792D17C,Rus Salatalı Sandviç,"12,00 TL",Sandviçler,5.0
+C76725C7-265F-43A4-9899-722ED4569EC8,İtalyan Salatalı Sandviç,"14,00 TL",Sandviçler,5.0
+6C280853-EC54-43B2-A506-454FCC352580,Ton Balıklı Sandviç,"20,00 TL",Sandviçler,5.0
+3AFC18EE-B593-4664-A2EE-D2C22F75B4C3,Clup Sandviç,"18,00 TL",Sandviçler,5.0
+2e472fae-4c70-4b41-af2e-54557fb63cb8,Et Döner,"29,00 TL",Et Dönerler,5.0
+ce70281e-3cf3-4c0b-bb0c-9a68b41b56d4,Tavuk Döner,"24,00 TL",Tavuk Dönerler,5.0
+D5D55289-1683-4D0A-AF00-7110FA8BA740,Rus Salatası (200 gr.),"10,00 TL",Mezeler,5.0
+510D0E4F-C63F-4BB5-B88B-E9912E8F3888,İtalyan Salata (200 gr.),"12,00 TL",Mezeler,5.0
+E4891327-ECC2-422C-812D-86D7757EDF7B,Haydari (200 gr.),"15,00 TL",Mezeler,5.0
+3C2B6626-D5D7-4317-B5AC-7DBCAF31B4E3,Bomba Waffle,"30,00 TL",Tatlılar,5.0
+0BD49535-89F7-4A8C-8CE5-D688A1FB4528,Mozaik Pasta,"10,00 TL",Tatlılar,5.0
+7624bc64-443e-4c9a-9655-ea182b98fa5b,Poşet,"0,25 TL",Poşet,5.0

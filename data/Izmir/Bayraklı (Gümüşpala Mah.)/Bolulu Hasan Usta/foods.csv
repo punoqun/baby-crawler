@@ -1,0 +1,50 @@
+food_id,food_name,food_price,food_category,food_score
+6b191909-6a9e-431a-b9f9-8b1092ddfb94,Rulo Börek (Adet),"7,50 TL",Börekler,5.0
+074ff4b2-590e-4cea-9914-005d8c1706ca,Klasik Burger,"32,00 TL",Burgerler,5.0
+44aef5d0-4728-4b5b-a1af-389a3fd4efc9,Cheeseburger,"35,00 TL",Burgerler,5.0
+f4e539bb-446b-49a9-8cdc-629c914d626c,Tavuklu Dürüm,"30,00 TL",Dürümler,5.0
+2e36dd35-f074-49ac-92db-e97c33d45eef,Köfteli Dürüm,"32,00 TL",Dürümler,5.0
+125600c1-35ec-4c3f-bc46-3462ef4d0b68,Etli Dürüm,"34,00 TL",Dürümler,5.0
+cdd564c8-7881-45ef-819a-b1a3dd9a44b5,Tel Kadayıf Şinitzel,"34,00 TL",Ana Yemekler,5.0
+3781a956-3f76-4034-95bc-4a901230a978,Ustanını Köftesi,"38,00 TL",Ana Yemekler,5.0
+037856be-09cb-4a05-bc0e-e6e805b830df,Bolulu Külbastı,"44,00 TL",Ana Yemekler,4.0
+790edced-f7d9-41fd-bc4e-b29f05afe69b,Çökertme Kebabı,"46,00 TL",Ana Yemekler,5.0
+fc0c1983-2209-419b-82f8-c92fa53d8d06,Yaprak Kebap,"46,00 TL",Ana Yemekler,5.0
+8ca2e735-0280-4949-a758-2b4fa6715358,Tavuk Külbastı,"30,00 TL",Ana Yemekler,4.0
+95c7d48d-67de-4399-b0c2-8841eb76b99d,Köfteli Düdük,"34,00 TL",Makarnalar,5.0
+a3a97b90-1325-40b1-b650-f933f186e1b2,Tavuklu Mantarlı,"32,00 TL",Makarnalar,5.0
+bd5bd892-2fa5-45e3-9835-57f0d4c07733,Acılı Etli,"36,00 TL",Makarnalar,5.0
+9538c918-52ff-460c-90c6-d097e458578b,Mantı,"32,00 TL",Makarnalar,5.0
+13bbcaf2-ada4-4b2b-812a-c68cf17c7a6a,Çıtır Mantı,"32,00 TL",Makarnalar,5.0
+c4418818-aeae-4d0d-aecc-ca47e96e3af1,Tavuklu Sezar Salata,"32,00 TL",Salatalar,5.0
+ee52e95b-e627-47de-be4c-05f4a6b827a3,Ton Balıklı Salata,"34,00 TL",Salatalar,5.0
+cce82420-92fb-4677-82ba-23d1d146cd6d,Parmesanlı Bonfile Salata,"34,00 TL",Salatalar,5.0
+d393c12c-2977-4bd2-83e4-3abcaaaac6c0,Peynirli Portakallı Kinoalı Salata,"25,00 TL",Salatalar,5.0
+3b70eab9-bad3-4d6b-8775-80cd5cca79e2,Hindistan Cevizli Trileçe,"18,00 TL",Tatlılar,5.0
+1ffe4c60-f9f2-43c8-9b7f-3dd2e2e4a2ff,Antep Fıstıklı Kazandibi,"20,00 TL",Tatlılar,5.0
+462cb302-1af8-4442-89fb-dfcf9eadef12,Künefe,"24,00 TL",Tatlılar,5.0
+fad07b53-23e6-4795-89d2-18cbc0345030,Kaymaklı Künefe,"30,00 TL",Tatlılar,5.0
+235243ef-98c8-4cbc-af37-366f8538623c,Ekmek Kadayıfı (Kaymaksız),"18,00 TL",Tatlılar,3.0
+d4db74e7-e978-416a-a946-2fc68b462ce4,Kaymak (Porsiyon),"6,00 TL",Tatlılar,5.0
+460d2761-b2ea-4461-9a45-cb2462776e05,Makaron (7'li Kutu),"35,00 TL",Makaronlar,5.0
+bc2e53d5-60a7-4ab3-9fed-8394f682d20a,Makaron (4'lü Kutu),"20,00 TL",Makaronlar,5.0
+83cbb885-02b0-4106-a7d2-553bb8887466,Dondurma (Az),"15,00 TL",Dondurmalar,7.0
+7265fa31-5bf5-4829-89c8-f7078863b2f3,Dondurma (Tam),"20,00 TL",Dondurmalar,7.0
+bc668ca8-f9f8-4e61-a282-52cf7176c944,Dondurmalı Kağıt Helva,"21,00 TL",Dondurmalar,5.0
+e9a71328-cdce-47d4-b5ef-f64bd9741924,Kavunlu Dondurma (Tam),"20,00 TL",Dondurmalar,7.0
+35b9f681-0c73-46e7-9cb0-72065cc8b480,Un Kurabiyesi (250 gr.),"19,00 TL",Kurabiyeler,5.0
+c226ea7b-a589-498f-89b3-c72b7ae31860,Susamlı Tuzlu Kurabiye (250 gr.),"14,00 TL",Kurabiyeler,5.0
+608382cf-983e-4d08-9bd8-0db6731d9f5b,Karışık Tahıllı Tuzlu Kurabiye (250 gr.),"14,00 TL",Kurabiyeler,5.0
+61379c67-4c9f-4022-8eb2-803220b5a613,Haşhaşlı Tuzlu Kurabiye (250 gr.),"14,00 TL",Kurabiyeler,5.0
+197989f9-9a98-4da9-a8c7-bb7973bddd2e,Kravat Madlen Çikolata (145 gr.),"35,00 TL",Çikolatalar & Şekerler,5.0
+3c4bdecf-afaa-40d1-98d1-4eb849f9a1a5,Madlen Çikolata (390 gr.),"70,00 TL",Çikolatalar & Şekerler,5.0
+a3bdf243-4d6f-4a13-a8b5-4c5569d7f898,Badem Şekeri (Paket) (75 gr.),"11,50 TL",Çikolatalar & Şekerler,3.0
+3adaaed0-a4d8-4353-a255-ebd6d11d5f1a,Ananas Bademli Pasta (1 Kişilik),"21,00 TL",Tek Pastalar,3.0
+e11d7cd3-c2f4-484c-91a1-6186d5eca937,Kıtır Krokan Pasta (1 Kişilik),"21,00 TL",Tek Pastalar,4.0
+e09f03cd-a3bd-4588-b2c5-19a8a76fc2be,Fıstık Gibi Pasta (1 Kişilik),"23,00 TL",Tek Pastalar,5.0
+57b90dcd-c601-4dd4-8946-96cd6f835ec9,Havuçlu Kek (1 Kişilik),"13,00 TL",Tek Pastalar,5.0
+1cc9a36d-1b90-4f1f-ba9c-3eaece7e16bb,Ekşi Tatlı Vişne Pasta (4-6 Kişilik),"85,00 TL",Yaş Pastalar (4-6 Kişilik),5.0
+9ecbe925-75b3-4129-a2e2-3ef53335edd7,Ekşi Tatlı Vişne Pasta (8 Kişilik),"115,00 TL",Yaş Pastalar (8 Kişilik),5.0
+dde329bf-13a6-4ebd-873a-530bcf37ac02,Kıtır Krokan Pasta (8 Kişilik),"115,00 TL",Yaş Pastalar (8 Kişilik),4.0
+6a39058b-9148-4228-a3bf-5f2dc1691c60,Fıstık Gibi Pasta (8 Kişilik),"125,00 TL",Yaş Pastalar (8 Kişilik),5.0
+7b9aa966-4aa3-4dec-9ed5-e6178f13c5dc,Su,"3,50 TL",İçecekler,3.0

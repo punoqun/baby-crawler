@@ -1,0 +1,43 @@
+food_id,food_name,food_price,food_category,food_score
+59977aea-8e38-4a55-a59c-5164a8c1aa18,Asansör,"41,50 TL",Şerbetli Tatlılar,5.0
+5745498e-a726-49ce-b4cc-d8b533734e95,Kestaneli Mag (Bardak),"21,50 TL",Bardak Pastalar,5.0
+701f2608-23d7-47a0-ac2a-129a5d5b7b86,Balkabaklı (Bardak),"21,50 TL",Bardak Pastalar,5.0
+10e9afa6-94a2-4f19-af3b-95cc770fe689,Ananaslı Bademli (Bardak),"21,50 TL",Bardak Pastalar,5.0
+9d729e50-5124-40f4-8774-e5cfeb7d3e10,Sakızlı Markiz (Bardak),"21,50 TL",Bardak Pastalar,5.0
+18a7d869-802b-4306-8911-8c4f2e499c4d,Yer Fıstıklı Çikolatalı (Bardak),"21,50 TL",Bardak Pastalar,5.0
+064cec33-49e6-4c80-b092-a90a273c053f,Özsüt Sade Cheesecake (Dilim),"25,50 TL",Özsüt Pastaları (Dilim),9.0
+2af9a6f6-ad20-498f-8e37-bae731005888,Çilekli Cheesecake (Dilim),"23,50 TL",Özsüt Pastaları (Dilim),5.0
+b945ec1d-0c6d-4dd5-9e76-a1e6049966c1,Çikolatalı Crystalline (Dilim),"27,00 TL",Özsüt Pastaları (Dilim),5.0
+76f3d41f-6ae4-4504-8360-ed1cec5d4141,Oranjetta (Dilim),"25,50 TL",Özsüt Pastaları (Dilim),5.0
+648a0404-3af4-4045-afad-04270cf1ffe4,Vişneli Cheesecake (Dilim),"25,50 TL",Özsüt Pastaları (Dilim),6.0
+846ea70c-d057-4396-9802-161192d6b900,Limonlu Cheesecake (Dilim),"23,50 TL",Özsüt Pastaları (Dilim),5.0
+bdd7f359-3ed2-4465-91c8-def0819d5bff,Frambuazlı Cheesecake (Dilim),"25,50 TL",Özsüt Pastaları (Dilim),5.0
+be1122bc-192e-4584-a459-9e16668a5c75,Çikolatalı Cheesecake (Dilim),"25,50 TL",Özsüt Pastaları (Dilim),5.0
+594883a8-33dc-4be2-9a15-78055785d4c5,Dondurma (1 kg.),"72,00 TL",Dondurmalar,12.0
+4ec90c36-774b-411b-983c-346dfc41f8ea,Taze Sıkma Portakal Suyu,"17,00 TL",İçecekler,5.0
+1b56d880-58de-457d-a19d-957305fbab48,Karadut Şerbeti,"17,00 TL",İçecekler,5.0
+b5682f48-1477-4804-8e70-7e0dbab65f6f,Yaban Mersini Şerbeti,"17,00 TL",İçecekler,5.0
+df8a8c2f-2f98-4586-ab9d-651c9f34652b,Frenk Üzümü Şerbeti,"17,00 TL",İçecekler,5.0
+071dda6c-0ff0-4fe6-8642-3b0cb94aa7ab,Böğürtlen Şerbeti,"17,00 TL",İçecekler,5.0
+119ed1f9-d291-4d4f-94e9-86860e450d86,Frenk Üzümü Şerbeti (1 L.),"37,00 TL",İçecekler,5.0
+f6372590-4d8e-4570-8602-b25108422d4f,Yaban Mersini Şerbeti (1 L.),"37,00 TL",İçecekler,5.0
+eadd355a-38bd-44f9-a93e-d801ec4def80,Karadut Şerbeti (1 L.),"37,00 TL",İçecekler,5.0
+5fcd7c58-29cb-44b6-83b6-f4473edba0ee,Böğürtlen Şerbeti (1 L.),"37,00 TL",İçecekler,5.0
+bdcaa20c-931f-42d6-9f56-5dad2136cb83,Orange & Strawberry Frozen,"22,00 TL",Soğuk İçecekler,5.0
+d0ac579f-bc99-4430-88ef-5a4fbd098836,Lementa Frozen,"22,00 TL",Soğuk İçecekler,5.0
+ae5ddcdc-8750-4a91-ae15-56f5c30af010,Red Berries Frozen,"22,00 TL",Soğuk İçecekler,5.0
+4b7400a1-f4ba-46eb-8062-f4efd0a2a6e3,Vanilyalı Milkshake,"22,00 TL",Soğuk İçecekler,6.0
+e0beefe7-6984-4abc-9ea1-c03de36bd5ce,Çilekli Milkshake,"22,00 TL",Soğuk İçecekler,6.0
+4359bcbe-5442-4651-aa79-8f79d41ecf45,Muzlu Milkshake,"22,00 TL",Soğuk İçecekler,6.0
+3122d67e-65e3-425f-bb6a-a6a289c66ac9,Çikolatalı Milkshake,"22,00 TL",Soğuk İçecekler,6.0
+3fd3c545-ea0f-4067-9930-4fc763921417,Çilekli Smoothie,"22,00 TL",Soğuk İçecekler,5.0
+ba132c13-86e8-4cf3-969f-86d94799098b,Ahududulu Smoothie,"22,00 TL",Soğuk İçecekler,5.0
+6205d326-2c3b-4dab-b0b1-c9a70c3a6db1,Mangolu Smoothie,"22,00 TL",Soğuk İçecekler,5.0
+f8e10d4e-2c7e-40fe-ac9d-d1bd4f2a67ad,Şeftalili Smoothie,"22,00 TL",Soğuk İçecekler,5.0
+c690b790-6d49-46d4-83ec-7cdd1ce1bc71,Cookie Frappe,"22,00 TL",Soğuk Kahveler,4.0
+f4bf677b-d5eb-4d67-93cd-825a8bfcd3b8,Vanilla Espresso Frappe,"22,00 TL",Soğuk Kahveler,5.0
+2b69b55f-cbbe-4c5c-9651-9679132250f3,Frappe Latte,"22,00 TL",Soğuk Kahveler,5.0
+88ce469f-2579-40f8-a32a-550c0edf6a54,Iced Cafe Mocha,"22,00 TL",Soğuk Kahveler,5.0
+24a798ff-89f0-4887-a72c-53fddf884c88,Iced Latte,"22,00 TL",Soğuk Kahveler,5.0
+8d45bb07-1249-4522-8eac-20feccb919a0,Iced Caramel Mocha,"22,00 TL",Soğuk Kahveler,5.0
+e31239a1-1081-46a0-b406-4e7147dc1628,Kazandibi (1 kg.),"86,00 TL",Kiloluk Ürünler,8.0

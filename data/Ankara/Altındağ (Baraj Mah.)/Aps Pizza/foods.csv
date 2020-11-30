@@ -1,0 +1,51 @@
+food_id,food_name,food_price,food_category,food_score
+1a69a95c-3f80-4867-9651-54c19b3bb054,Aps Menü 1,"40,90 TL",Menüler,17.0
+1c6359fd-3b6f-468a-8f5e-16f2e8c49d1c,Aps Menü 2,"27,90 TL",Menüler,23.0
+c7d22bd4-5998-463c-80b0-30414f971bc5,Aps Menü 3,"47,90 TL",Menüler,15.0
+7e3b5ba9-05e9-4193-a493-efd516bd65c2,Aps Menü 4,"32,90 TL",Menüler,14.0
+5085eb68-3ad7-4ad4-be29-c0885b213445,Aps Menü 5,"57,90 TL",Menüler,15.0
+0542d5c1-154a-4a95-a423-ea7bad20c492,Menü 1,"26,90 TL",Menüler,17.0
+9ee96679-f955-4cf3-9abe-78feeab72943,Menü 2,"30,90 TL",Menüler,23.0
+31ff8893-8cca-4508-97ae-0f2d02da7cb6,Menü 3,"37,90 TL",Menüler,15.0
+1f6dd064-e714-41a8-8512-ef12892a02e4,Menü 4,"52,90 TL",Menüler,9.0
+be7deef4-cc3c-4a6f-968e-5b98ac6db751,Menü 5,"45,90 TL",Menüler,15.0
+46be30b0-d4f8-4b73-bdd5-b4dabbe521a9,Menü 6,"38,90 TL",Menüler,7.0
+89db1f2c-aa58-4c28-9576-a63c636d4b9d,Teklif Menü,"42,90 TL",Menüler,7.0
+6e9ffc37-2ae2-4281-bb39-adb162b097c2,Margharita Pizza (Küçük),"19,90 TL",Küçük Boy Pizzalar (22 cm.),41.0
+6d296814-9caf-4848-9bfc-853ed5989ea0,Mantarlı Pizza (Küçük),"19,90 TL",Küçük Boy Pizzalar (22 cm.),41.0
+f69a7634-41c0-4538-840d-817e0444442e,Veggie Pizza (Küçük),"19,90 TL",Küçük Boy Pizzalar (22 cm.),41.0
+6b4bf248-b18f-4c83-aade-16b4f4678971,Sosisli Pizza (Küçük),"19,90 TL",Küçük Boy Pizzalar (22 cm.),41.0
+d37d3170-82a1-4e3b-9d1e-15c45aecd32f,Sucuklu Pizza (Küçük),"19,90 TL",Küçük Boy Pizzalar (22 cm.),41.0
+81f3def1-9f26-4e69-98b4-78793c4dcc4d,Salamlı Pizza (Küçük),"19,90 TL",Küçük Boy Pizzalar (22 cm.),41.0
+7a2673ee-7ab4-43ca-9f2e-70a2d18d7788,Karışık Pizza (Küçük),"19,90 TL",Küçük Boy Pizzalar (22 cm.),46.0
+5c307f01-b428-44d7-bfbd-40a74f3294ab,Meksika Ateşi Pizza (Küçük),"19,90 TL",Küçük Boy Pizzalar (22 cm.),41.0
+e8b197c2-20d7-4d60-850c-56b2de3dfd97,Turkish Pizza (Küçük),"21,90 TL",Küçük Boy Pizzalar (22 cm.),43.0
+c7eacd16-98c7-461c-b4df-6877c24d767e,Ton Balıklı Pizza (Küçük),"21,90 TL",Küçük Boy Pizzalar (22 cm.),41.0
+2642b2a3-b3b4-42b0-b393-470d3f00643a,Pastırmalı Pizza (Küçük),"21,90 TL",Küçük Boy Pizzalar (22 cm.),47.0
+2e097f62-1f9a-4d03-b63e-5c2839ebd095,Margharita Pizza (Orta),"23,90 TL",Orta Boy Pizzalar (26 cm.),41.0
+08440878-e43d-43bf-afcb-63b4d61171b4,Mantarlı Pizza (Orta),"23,90 TL",Orta Boy Pizzalar (26 cm.),41.0
+5a3c70ee-93f8-45e0-bd50-c7086b27f136,Veggie Pizza (Orta),"23,90 TL",Orta Boy Pizzalar (26 cm.),41.0
+0b387c4b-4f97-43ac-b5f3-9862a2047d09,Sosisli Pizza (Orta),"23,90 TL",Orta Boy Pizzalar (26 cm.),41.0
+0cc3929a-b1e6-462c-b4a8-43b4ad2ed58b,Sucuklu Pizza (Orta),"23,90 TL",Orta Boy Pizzalar (26 cm.),41.0
+8c3ba54b-d8f5-40e4-b692-97e90f1a2796,Salamlı Pizza (Orta),"23,90 TL",Orta Boy Pizzalar (26 cm.),41.0
+3c62baed-cf15-4ea0-af8b-adf2791b8c35,Karışık Pizza (Orta),"23,90 TL",Orta Boy Pizzalar (26 cm.),51.0
+5efb31f8-5c3a-422d-a034-e5df2b400101,Meksika Ateşi Pizza (Orta),"23,90 TL",Orta Boy Pizzalar (26 cm.),41.0
+68709b15-9ec3-4c22-8973-02a56fcdd17d,Turkish Pizza (Orta),"25,90 TL",Orta Boy Pizzalar (26 cm.),43.0
+2b74cb4e-f7df-4a7b-b551-59e70304cef3,Ton Balıklı Pizza (Orta),"25,90 TL",Orta Boy Pizzalar (26 cm.),41.0
+66553c0d-b08a-4886-9c94-fe08b6bcbff7,Pastırmalı Pizza (Orta),"25,90 TL",Orta Boy Pizzalar (26 cm.),47.0
+27820f65-5253-42ab-81cb-cc1b99cc5dc0,Margharita Pizza (Büyük),"28,90 TL",Büyük Boy Pizzalar (30 cm.),41.0
+54649ef2-aa6a-4929-9392-4bd8dd6ba56f,Mantarlı Pizza (Büyük),"28,90 TL",Büyük Boy Pizzalar (30 cm.),41.0
+39a34450-46a4-459a-8c5f-513a3df93257,Veggie Pizza (Büyük),"28,90 TL",Büyük Boy Pizzalar (30 cm.),41.0
+51fa5311-96e3-4924-ac4a-33a9bde63c07,Sosisli Pizza (Büyük),"28,90 TL",Büyük Boy Pizzalar (30 cm.),41.0
+c6eef482-58cc-4bc7-ab1b-a46e48261c81,Sucuklu Pizza (Büyük),"28,90 TL",Büyük Boy Pizzalar (30 cm.),41.0
+8376aca5-672e-4979-8c07-c825b8fa97ec,Salamlı Pizza (Büyük),"28,90 TL",Büyük Boy Pizzalar (30 cm.),41.0
+1495cec0-952d-4a49-82d3-23105d53975c,Karışık Pizza (Büyük),"28,90 TL",Büyük Boy Pizzalar (30 cm.),51.0
+307c9b55-f514-4269-9e06-edf1141aa553,Meksika Ateşi Pizza (Büyük),"28,90 TL",Büyük Boy Pizzalar (30 cm.),41.0
+add14ad3-2cb3-47dd-aec1-401de1ca88e0,Turkish Pizza (Büyük),"30,90 TL",Büyük Boy Pizzalar (30 cm.),43.0
+6547871b-ef75-41bc-9de4-f2091b80b874,Ton Balıklı Pizza (Büyük),"30,90 TL",Büyük Boy Pizzalar (30 cm.),41.0
+6897df36-3f59-42f7-90f4-2d313e84b3a6,Pastırmalı Pizza (Büyük),"30,90 TL",Büyük Boy Pizzalar (30 cm.),47.0
+c0ee1caf-724a-4785-9948-5a5aa10ea6eb,Patates Kızartması,"8,00 TL",Yan Ürünler,5.0
+87ab600b-196b-49b9-80b1-3ec1e4db8804,Soğan Halkası (8 Adet),"6,00 TL",Yan Ürünler,5.0
+0742c2b2-d41f-41bc-9269-25d0cff8e2aa,Nugget (8 Adet),"6,00 TL",Yan Ürünler,5.0
+0d2f0889-d374-428f-9e17-5b19a5d44aa0,Sufle,"8,00 TL",Tatlılar,6.0
+3f0cad23-fcb3-46d2-960b-75efcae9c1a2,Coca-Cola (20 cl.) (Cam Şişe),"4,00 TL",İçecekler,5.0

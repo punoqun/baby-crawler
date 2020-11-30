@@ -1,0 +1,73 @@
+food_id,food_name,food_price,food_category,food_score
+5da23224-bb4e-4399-a0f4-fc0705d7360a,Ezme,"15,00 TL",Mezeler,5.0
+eb381276-e87b-472f-9e8e-5e766dd5aadc,Haydari,"15,00 TL",Mezeler,5.0
+12524db4-8476-4e3b-8647-551f27dda02c,Atom,"15,00 TL",Mezeler,5.0
+6c064cdc-6ed3-4fe9-8ee7-d6ac7bc34ca4,Rus Salatası,"15,00 TL",Mezeler,5.0
+5acdcf15-41f7-4d44-9dca-82fce3805149,Patlıcan Salatası,"15,00 TL",Mezeler,5.0
+af8e2430-856c-46f5-b8ce-9e3578a23d5a,Köpoğlu,"15,00 TL",Mezeler,5.0
+9ae3a00e-ae3c-45ad-87b8-64760a81143f,Zeytin Salata,"15,00 TL",Mezeler,5.0
+c4ae1c36-43c6-4882-bf37-944d9bd8613e,Humus,"15,00 TL",Mezeler,5.0
+446c2f60-df51-4f36-9a1b-db183a8fb5ff,Hibeş,"15,00 TL",Mezeler,5.0
+560958d3-547b-4d5d-a856-fb9ffd46ea13,Karışık Turşu,"10,00 TL",Mezeler,5.0
+97c74ed0-c1d8-4abd-aaf1-9cffd1d08519,Girit Ezmesi,"15,00 TL",Mezeler,5.0
+ff375f46-9fad-49f1-998b-b52419691671,Muhammara,"15,00 TL",Mezeler,5.0
+da379832-6d85-41b6-aef3-892735891275,Deniz Börülcesi,"15,00 TL",Mezeler,5.0
+d0d9d2b7-c351-4deb-a748-ad463cc856a7,Arnavut Ciğeri,"24,00 TL",Mezeler,5.0
+efecf1e9-d89c-4b75-9d8a-a161a8415abe,Yaprak Sarma,"18,00 TL",Mezeler,5.0
+DA8FF1DA-E6BC-480E-AC4D-09DB2BD9B677,Tuzsuz Çekirdek (250 gr.),"8,00 TL",Mezeler,5.0
+6AB36BDC-0EFF-45A9-8E10-194794738D97,Tuzlu Çekirdek (250 gr.),"8,00 TL",Mezeler,5.0
+F4515599-2148-4B75-80EC-78D8052101C0,Kabak Çekirdeği (250 gr.),"10,00 TL",Mezeler,5.0
+A12C18F4-28DE-43C6-A6D9-E5CE5F30EA5B,Ceviz (250 gr.),"29,00 TL",Mezeler,5.0
+973EF3E6-42E3-496F-8015-ADB6797E556F,Antep Fıstığı (250 gr.),"36,00 TL",Mezeler,5.0
+491C7D7C-7AEB-4A6C-BDD1-D50C17E119C9,Badem (250 gr.),"36,00 TL",Mezeler,5.0
+FC7F126E-59CD-4B3B-8DCB-0CD738C7F92D,Kaju (250 gr.),"36,00 TL",Mezeler,5.0
+D03D3ADD-2151-4DE5-A9A9-812B2F9E1C81,Fındık (250 gr.),"29,00 TL",Mezeler,5.0
+0A756607-88C8-49AD-87FA-2A3CDE7BBC0B,Tuzlu Fıstık (250 gr.),"12,50 TL",Mezeler,5.0
+9D1C9B0C-B981-4BE0-9BB2-D28F89DF8B31,Soslu Fıstık (250 gr.),"8,00 TL",Mezeler,5.0
+97F58592-3E86-47E6-8061-DF2D8BFB2CE0,Beyaz Leblebi (250 gr.),"8,00 TL",Mezeler,5.0
+578D5435-0199-4B46-9205-ABF7A1E6B1D8,Sarı Leblebi (250 gr.),"8,00 TL",Mezeler,5.0
+45FBD8AD-28C7-4267-9F23-5DD757149D87,Soslu Mısır (250 gr.),"8,00 TL",Mezeler,5.0
+e86c8888-75ba-4e33-8294-531c64759e6b,Ezme (1 kg.),"35,00 TL",Kiloluk Mezeler,5.0
+89170a53-6f7f-447d-9dcf-4a79b38e950b,Haydari (1 kg.),"40,00 TL",Kiloluk Mezeler,5.0
+968165b8-6df3-421e-a9df-147f219c08d0,Atom (1 kg.),"45,00 TL",Kiloluk Mezeler,5.0
+1d7ce355-9800-439b-9364-c9ef8ad57657,Rus Salatası (1 kg.),"40,00 TL",Kiloluk Mezeler,5.0
+1052732c-8e40-4ede-96b2-9e31a52a865e,Patlıcan Salatası (1 kg.),"45,00 TL",Kiloluk Mezeler,5.0
+eee9905e-5c4b-4c4c-9c63-e739c7373986,Köpoğlu (1 kg.),"45,00 TL",Kiloluk Mezeler,5.0
+9ba97a11-ad18-4279-85b5-17a9bce555da,Zeytin Salata (1 kg.),"40,00 TL",Kiloluk Mezeler,5.0
+9fac9d85-4d63-4ec8-b873-698a53dcf7da,Humus (1 kg.),"50,00 TL",Kiloluk Mezeler,5.0
+73a8bf11-60e9-445b-98dd-bdf347a7f4e2,Hibeş (1 kg.),"65,00 TL",Kiloluk Mezeler,5.0
+c23b36f9-c984-4c96-afc1-b53d155993d6,Karışık Turşu (1 kg.),"25,00 TL",Kiloluk Mezeler,5.0
+b969909d-7f30-41ae-9591-133f407d80a8,Grit Ezme (1 kg.),"55,00 TL",Kiloluk Mezeler,5.0
+c09069f5-ece6-417a-aa21-fdbc055118a5,Muhamara (1 kg.),"5,00 TL",Kiloluk Mezeler,5.0
+d09a9c85-6fc9-42d1-bc65-c21902660a33,Deniz Börülcesi (1 kg.),"55,00 TL",Kiloluk Mezeler,5.0
+a3613ea7-d63d-4fba-871f-1e321061dd14,Arnavut Ciğeri (1 kg.),"120,00 TL",Kiloluk Mezeler,5.0
+d5cacfb0-68ec-4199-8788-1f92855e89c0,Yaprak Sarma (1 kg.),"65,00 TL",Kiloluk Mezeler,5.0
+F315C546-2C86-4CD8-8B92-24609E2197C3,Peynir Dolgulu Biber (1 kg.),"60,00 TL",Kiloluk Mezeler,5.0
+5819A279-CBEA-4840-BACB-A8340127FC8E,Orman Meyveli Cheesecake,"15,00 TL",Tatlılar,10.0
+5B1004FB-CBEB-4C1B-BD30-6019B6B78C0D,Washington Tatlısı,"15,00 TL",Tatlılar,10.0
+77A6C05C-268E-4AF1-A684-DC214E7BBE3B,N Kalpli Pasta,"28,00 TL",Tatlılar,5.0
+EA3ED452-280B-4BE0-9212-ADB523EE1987,Kazandibi,"12,50 TL",Tatlılar,5.0
+A58C50F4-C03E-4E25-A00A-6C74F8E54B10,Sütlaç,"12,50 TL",Tatlılar,5.0
+B160BF47-63F3-476F-B58B-DCDC3073F64F,Brownie (Dilim),"12,50 TL",Tatlılar,5.0
+3DE91317-AF86-495E-86B3-1D93792CAEC9,Ekler,"12,50 TL",Tatlılar,5.0
+BD34BF25-57CF-424E-A5E9-F9ED2150D92A,Sufle,"15,00 TL",Tatlılar,5.0
+AFED3581-3C60-4BB6-97C9-7C7DCBBFD231,Tiramisu,"15,00 TL",Tatlılar,5.0
+09F3DD9E-6E9D-4512-92ED-60959D3A2BF0,Beyaz Çikolatalı Pasta,"15,00 TL",Tatlılar,5.0
+674984C6-46B9-4C7F-B866-BC21A10637CB,Beyaz Profiterollü Pasta,"15,00 TL",Tatlılar,5.0
+2157041B-165A-4DE3-80D4-C227677DFAA8,Cookie Cheesecake,"15,00 TL",Tatlılar,10.0
+065CDD50-9E12-4517-8A45-C2EBE18EE91C,Çikolatalı Bella Pasta,"15,00 TL",Tatlılar,5.0
+6C53B934-268D-410B-A515-0E51AD661AD9,Çikolatalı Cheesecake,"15,00 TL",Tatlılar,5.0
+B8CDABD8-B23F-4549-A227-D61CE87622A6,Devil's Cake,"15,00 TL",Tatlılar,5.0
+5F197527-F51C-4B97-85CA-0176D8EE5864,Fıstık Şöleni,"15,00 TL",Tatlılar,5.0
+05F70E1E-0A1A-4A11-836E-5843486E518C,Frambuazlı Cheesecake,"15,00 TL",Tatlılar,5.0
+78B99344-6550-4D50-94CA-9CF7224282C1,Latte Mono,"15,00 TL",Tatlılar,5.0
+3B83D5CC-93A3-4825-AFB2-E813501DD586,Limonlu Cheesecake,"15,00 TL",Tatlılar,5.0
+C48B33F8-1867-40FC-A192-9C0DC63BA56A,Mozaik Pasta,"15,00 TL",Tatlılar,5.0
+9A8680CA-6915-4C05-9308-4A0A4E565072,Muzlu Çikolatalı Pasta,"15,00 TL",Tatlılar,5.0
+95642AFD-51E6-49C8-B683-682075715089,N Snickers,"15,00 TL",Tatlılar,5.0
+73758327-2C39-4E0E-A2F7-C0104CE4D905,N Ballım,"15,00 TL",Tatlılar,5.0
+d79538e7-811a-4e01-84a2-d9c814fc2d74,Pepsi Twist (33 cl.),"5,00 TL",İçecekler,5.0
+09efb358-5389-42f1-b46a-f83a10b55740,Pepsi Twist (1 L.),"7,00 TL",İçecekler,5.0
+b49b715a-ca0f-4ff8-9d20-d753725cabcb,Fruko (1 L.),"7,00 TL",İçecekler,5.0
+4742513f-2b64-4ca8-a1b5-3a9742b83ef1,Cappy (1 L.),"7,00 TL",İçecekler,5.0
+c38d1410-4081-40d4-83ef-c15c7709b7c4,Poşet,"0,25 TL",Poşet,5.0

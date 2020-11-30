@@ -1,0 +1,35 @@
+food_id,food_name,food_price,food_category,food_score
+b839f4c6-6397-4c62-9404-20b2ddda156f,Menü 1,"36,00 TL",Orta Boy Pizza Menüleri,43.0
+1a58567c-b494-4670-989a-09cfaf9af68d,3 Orta Boy Pizza Menü,"75,00 TL",Orta Boy Pizza Menüleri,33.0
+c3e8a9f0-69c6-407a-86b6-61118d8576a6,2'li Sade Menü,"63,00 TL",Orta Boy Pizza Menüleri,5.0
+975d6b8d-c7c5-4451-ba29-edd498900ee4,2 Orta Boy Pizza Menü,"50,00 TL",Orta Boy Pizza Menüleri,29.0
+14ad680c-87de-4ef1-b07c-8b9308a7373b,2'li Menü,"80,00 TL",Orta Boy Pizza Menüleri,5.0
+02e49358-4c19-41e3-869e-a5852e995d87,Menü 2,"50,00 TL",Büyük Boy Pizza Menüleri,11.0
+EEF51FD2-12A2-497B-9E16-8D13CFCD292B,Büyük & Orta Pizza Menü,"63,00 TL",Büyük Boy Pizza Menüleri,24.0
+12160903-447c-4dcb-af7e-c1350c1fc745,Büyük Menü,"67,50 TL",Büyük Boy Pizza Menüleri,8.0
+9d128dec-bd92-4bee-a667-441e7bae0864,Aile Menü 1,"98,00 TL",Büyük Boy Pizza Menüleri,40.0
+24d4cd9b-ed67-42ad-b870-e44d15df53a2,3'lü Büyük Boy Pizza,"109,00 TL",Büyük Boy Pizza Menüleri,23.0
+6b9681d4-11da-44ce-b4ad-3ea6efee7eba,Nugget (6 Adet),"9,00 TL",Başlangıçlar,5.0
+1ec4bae6-a8f2-46ac-b1d6-61c9ff34bc28,Soğan Halkası (10 Adet),"9,00 TL",Başlangıçlar,5.0
+55becfe9-d4e6-4a51-8c22-11643bc75ee9,Patates Kızartması,"8,50 TL",Başlangıçlar,10.0
+41d61ebd-2a9f-4fce-827e-5d2725cac1fd,Elma Dilim Patates Kızartması,"9,00 TL",Başlangıçlar,9.0
+d7bb8fb4-fd7f-4427-95d1-ee111a04c7a5,Çıtır Tavuk Parçaları (3 Adet),"13,00 TL",Başlangıçlar,7.0
+df7a3a37-8aff-428f-a7ec-64d834f2eb71,Chili Hot Pizza (Büyük),"39,50 TL",Büyük Boy Pizzalar,18.0
+3d960cd5-b188-4307-b985-0ebd005a54d9,BBQ Chicken Pizza (Büyük),"39,50 TL",Büyük Boy Pizzalar,18.0
+57d8cbc0-27be-49ba-855d-9ec743e7ac26,Acılı Chicken Pizza (Büyük),"39,50 TL",Büyük Boy Pizzalar,18.0
+19edd925-9f3f-440d-9d3f-363504355336,Full Pizza (Büyük),"39,50 TL",Büyük Boy Pizzalar,24.0
+93134355-e3fd-410c-9d86-fb69db4d87c6,Mantarlı Pizza (Büyük),"39,50 TL",Büyük Boy Pizzalar,18.0
+f1bdb177-249a-4f2d-a939-383ac61ed05c,Sucuklu Pizza (Büyük),"39,50 TL",Büyük Boy Pizzalar,18.0
+a083affd-523b-4b51-b260-e7aef4863393,Salamlı Pizza (Büyük),"39,50 TL",Büyük Boy Pizzalar,18.0
+a6fd62ba-a269-4954-8fdb-7b5ea4aa3dd4,Chili Hot Pizza (Orta),"27,50 TL",Orta Boy Pizzalar,18.0
+2f8863f7-caf0-4d84-824a-478ce5475753,BBQ Chicken Pizza (Orta),"27,50 TL",Orta Boy Pizzalar,18.0
+573f6584-a27a-48cd-a76a-6e6857507381,Acılı Chicken Pizza (Orta,"27,50 TL",Orta Boy Pizzalar,18.0
+e7c8c06b-85a8-4ad5-8986-8613e1e737d3,Full Pizza (Orta),"27,50 TL",Orta Boy Pizzalar,24.0
+97f47e59-9710-4cbc-ad32-de8b1998d17c,Mantarlı Pizza (Orta),"27,50 TL",Orta Boy Pizzalar,18.0
+3416b1e1-6bfd-4bd1-8495-25cf075e26a8,Sucuklu Pizza (Orta),"27,50 TL",Orta Boy Pizzalar,18.0
+07a8bec9-c54a-414b-8219-e3a874ee8b6a,Salamlı Pizza (Orta),"27,50 TL",Orta Boy Pizzalar,18.0
+833f66f3-c1aa-49c4-be41-521befd044f5,Full Pizza (Küçük),"23,50 TL",Küçük Boy Pizzalar,24.0
+13915400-15da-45d5-8c7f-08ea7315ab6f,Mantarlı Pizza (Küçük),"23,50 TL",Küçük Boy Pizzalar,18.0
+9f216dd2-44d2-4663-8c76-278d98a2e34d,Sucuklu Pizza (Küçük),"23,50 TL",Küçük Boy Pizzalar,18.0
+9ecf88c6-1a85-4ded-9250-091abe38ea5b,Salamlı Pizza (Küçük),"23,50 TL",Küçük Boy Pizzalar,18.0
+983fda8c-c1ee-4678-aa18-a518144511a0,Doğuş Ice Tea Şeftali (1 L.),"7,00 TL",İçecekler,5.0

@@ -1,0 +1,80 @@
+food_id,food_name,food_price,food_category,food_score
+960ba500-d5d7-4a12-b078-a4d05a3f420f,Baba Burger Menü,"27,00 TL",Ekonomik Menüler,5.0
+c03f3da8-1d5c-4663-9497-68797fe6815e,Tavuk Döner Dürüm & Çorba Menü,"30,00 TL",Ekonomik Menüler,3.0
+63eb334e-9d5f-48f2-aa3c-3398bbcf9a66,Et Döner Dürüm Menü,"22,50 TL",Ekonomik Menüler,0.0
+2710e20e-329f-4719-aafb-97e3f20bd305,Tavuk Dürüm Döner Menü 2,"17,50 TL",Ekonomik Menüler,-4.0
+2699acfa-7c87-49de-8704-7a818e07a79b,Et Döner,"28,00 TL",Et Dönerler,-2.0
+85434f73-be3d-47e0-9090-73a6c1ea60ea,Shawarma Et Döner Dürüm,"16,00 TL",Et Dönerler,4.0
+41a73a5b-fe44-4fdb-98c0-66e03e946ffb,Shawarma Kaşarlı Et Döner Dürüm,"19,00 TL",Et Dönerler,4.0
+55CBC258-ADC4-4172-A465-68B73A743752,Antakya Usulü Et Döner Dürüm,"17,00 TL",Et Dönerler,0.0
+074b80c7-3626-47f3-82ff-73d99795a6e0,Pilav Üstü Et Döner,"28,00 TL",Et Dönerler,-2.0
+8b0c8a99-4dfb-47f1-b855-da40ec2881c8,İskender (Et Dönerden),"30,00 TL",Et Dönerler,7.0
+606111ae-d289-4bd1-9c01-2e8432da430a,Et Döner Dürüm,"15,00 TL",Et Dönerler,0.0
+46a87ab8-fd07-4eee-8f19-9344fddaa720,Kaşarlı Et Döner Dürüm,"18,00 TL",Et Dönerler,0.0
+74b312c5-81cc-4f11-94ac-e641d2eeee95,Zurna Et Döner Dürüm,"30,00 TL",Et Dönerler,-1.0
+a26dc75f-f2de-4d28-9443-ce0408f6aa70,Kaşarlı Zurna Et Dürüm,"36,00 TL",Et Dönerler,1.0
+8ede8f13-c8eb-4aa5-9f85-72e3f4bc9d6e,Boru Et Döner Dürüm,"17,00 TL",Et Dönerler,-2.0
+a252dd82-0920-4cad-b030-e857dda59fb6,Psikopat Et Döner Dürüm,"16,50 TL",Et Dönerler,-2.0
+dd7b5475-116f-4ad4-a2fc-2e8dfc038a7b,Psikopat Kaşarlı Et Döner Dürüm,"19,50 TL",Et Dönerler,-2.0
+07a225cc-042a-4dea-9651-8732f49fe661,Psikopat Zurna Et Döner Dürüm,"33,00 TL",Et Dönerler,-3.0
+cdf729f9-a0a5-42e6-b3d0-054b91e1929e,Psikopat Kaşarlı Zurna Et Döner Dürüm,"39,00 TL",Et Dönerler,-3.0
+12a40abb-56d2-427b-9792-b3f74411db37,Psikopat Boru Et Döner Dürüm,"18,50 TL",Et Dönerler,-4.0
+fdd8f4cd-2adf-4b94-a131-0d6ee763ae48,Et Döner Sandviç,"15,00 TL",Et Dönerler,-2.0
+73482e0e-788c-40a9-8be5-e26f0dc4296b,Et Döner Sandviç (85 gr.),"22,50 TL",Et Dönerler,-2.0
+e4f773ae-c875-45de-990c-3e0f54a92f42,Kaşarlı Et Döner Sandviç,"18,00 TL",Et Dönerler,-2.0
+4993d306-cd0c-4350-b1a5-a0e284c5ad4e,Psikopat Et Döner Sandviç,"16,50 TL",Et Dönerler,-4.0
+a235b075-e175-4471-ac2b-48c997ce7302,Psikopat Et Döner Sandviç (85 gr.),"24,00 TL",Et Dönerler,-4.0
+c09e7405-723b-456c-8e23-3f423eb6d80c,Psikopat Kaşarlı Et Döner Sandviç,"19,50 TL",Et Dönerler,-4.0
+bad46e7c-d9b3-4d0f-8fa4-e061dac77ebe,Tombik Ekmek Arası Et Döner,"15,00 TL",Et Dönerler,-2.0
+379bea84-5961-4e11-a4b1-0b5fa34cef70,Psikopat Tombik Ekmek Arası Et Döner,"16,50 TL",Et Dönerler,-4.0
+2fa85ad7-a9d0-4c52-ab1a-9b4c11cce4ab,3/4 Ekmek Arası Et Döner,"22,50 TL",Et Dönerler,-2.0
+1da8b317-4f2d-4b1f-8052-f12f89a4dfb4,Psikopat 3/4 Ekmek Arası Et Döner,"24,00 TL",Et Dönerler,-4.0
+1cfa02c5-5046-420b-9b5d-bc4b91f6ec42,Tavuk Döner,"18,00 TL",Tavuk Dönerler,1.0
+9a7759ef-b335-42e1-9ba5-7dfd4890326b,Shawarma Tavuk Döner Dürüm,"11,00 TL",Tavuk Dönerler,12.0
+99b8eb5e-202e-4335-8ea1-2cf6ccec05ed,Shawarma Kaşarlı Tavuk Döner Dürüm,"14,00 TL",Tavuk Dönerler,7.0
+9CF907B6-2C02-4EF7-9344-86A5D18F6863,Antakya Usulü Tavuk Döner Dürüm,"12,00 TL",Tavuk Dönerler,3.0
+646ca003-8769-4a46-a96a-34da9519eef9,İskender (Tavuk Dönerden),"20,00 TL",Tavuk Dönerler,7.0
+ff511d4c-cdec-4651-baa2-f59ca0e408b1,Pilav Üstü Tavuk Döner,"20,00 TL",Tavuk Dönerler,1.0
+5b74a2b5-2658-4e14-8437-8d4dd9153079,Tavuk Döner Dürüm,"10,00 TL",Tavuk Dönerler,8.0
+725e5c1c-d69e-4f58-b6f1-6ecb623028a0,Kaşarlı Tavuk Döner Dürüm,"13,00 TL",Tavuk Dönerler,3.0
+c881ebd3-e67c-4849-9a71-5b799dfbc05d,Zurna Tavuk Döner Dürüm,"20,00 TL",Tavuk Dönerler,2.0
+49dca251-c9aa-4f6d-ad09-752c1bdf19df,Zurna Kaşarlı Tavuk Döner Dürüm (80 cm.),"26,00 TL",Tavuk Dönerler,2.0
+355ae00b-7ccf-4ee3-be6d-d5bfc03e7b23,Boru Tavuk Döner Dürüm,"12,00 TL",Tavuk Dönerler,0.0
+98aec135-ce92-4509-ac99-11cac74ba268,Psikopat Tavuk Döner Dürüm,"11,50 TL",Tavuk Dönerler,6.0
+c2c7dcac-bc85-4d5f-bd9e-39a344af00a5,Psikopat Kaşarlı Tavuk Döner Dürüm,"14,50 TL",Tavuk Dönerler,1.0
+9bc3b9c2-ad8f-4b2d-8590-e113acdb47f5,Psikopat Zurna Tavuk Döner Dürüm,"23,00 TL",Tavuk Dönerler,0.0
+6f4f2940-926f-4ed1-8645-a83af3872d75,Psikopat Kaşarlı Zurna Tavuk Döner Dürüm,"29,00 TL",Tavuk Dönerler,0.0
+e51f9008-7659-4a9d-b825-793330c71a21,Psikopat Boru Tavuk Döner Dürüm,"13,50 TL",Tavuk Dönerler,-2.0
+1349b13b-846b-4410-839d-a9ce706e8fab,Tavuk Döner Sandviç,"10,00 TL",Tavuk Dönerler,1.0
+8d63557c-9150-47a9-b227-2efb7cd89152,Tavuk Döner Sandviç (100 gr.),"14,50 TL",Tavuk Dönerler,1.0
+e8728b8d-f9b1-47ce-a8b2-c666d9f3c9a0,Kaşarlı Tavuk Döner Sandviç,"13,00 TL",Tavuk Dönerler,1.0
+6891557d-5308-4ced-a9cf-e29e04bb62fc,Psikopat Tavuk Döner Sandviç,"11,50 TL",Tavuk Dönerler,-1.0
+d96b1485-e66c-4563-800b-92fecef0a3e6,Psikopat Tavuk Döner Sandviç (100 gr.),"16,00 TL",Tavuk Dönerler,-1.0
+f700db55-6a76-46a8-9386-1e4def75ae9d,Psikopat Kaşarlı Tavuk Döner Sandviç,"14,50 TL",Tavuk Dönerler,-1.0
+c50aa3e6-141f-4eb3-b12e-68538b9219e0,Tombik Ekmek Arası Tavuk Döner,"10,00 TL",Tavuk Dönerler,1.0
+f9c6f8e3-172c-4ffc-83ec-74540177fae8,Psikopat Tombik Ekmek Arası Tavuk Döner,"11,50 TL",Tavuk Dönerler,-1.0
+c8f5f372-6d2f-4866-a00b-84bba3db8f3d,3/4 Ekmek Arası Tavuk Döner,"15,00 TL",Tavuk Dönerler,1.0
+667360c9-d8c5-427e-929b-0e8afa2d4480,Psikopat 3/4 Ekmek Arası Tavuk Döner,"16,50 TL",Tavuk Dönerler,-1.0
+485edc41-48c9-4be8-a222-18ab43043a80,Tam Ekmek Arası Tavuk Döner,"20,00 TL",Tavuk Dönerler,0.0
+3896a57c-c570-4c14-8ae3-a374b02506c6,Psikopat Tam Ekmek Arası Tavuk Döner,"23,00 TL",Tavuk Dönerler,-2.0
+47150662-bcf2-4311-a332-334f9ba69e72,Izgara Köfte,"23,00 TL",Köfteler,5.0
+93dfe93a-d9b7-4f2d-a73e-448fe398bd4e,Kaşarlı Köfte,"26,00 TL",Köfteler,5.0
+ecbc6880-465b-431b-9198-a19ae049504b,İskender (Köfteden),"28,00 TL",Köfteler,7.0
+88441a15-406f-4a08-a693-8de790fa0b4c,Izgara Köfte Dürüm,"15,00 TL",Köfteler,7.0
+6acaa586-ba3b-4d3e-9516-e937fc6b68ac,Kaşarlı Köfte Dürüm,"18,00 TL",Köfteler,7.0
+91797f9a-61f6-47d8-8506-2a862870f98f,Ekmek Arası Izgara Köfte,"15,00 TL",Köfteler,5.0
+25e3ad47-a7db-4e66-bcdc-be8a068dd4ff,Psikopat Izgara Köfte Sandviç,"16,50 TL",Köfteler,3.0
+7b17b6a2-79c1-4104-8b5d-5e3f7e2447b9,Baba Burger,"18,00 TL",Burgerler,5.0
+db9154bd-5603-42ca-a0c4-36ee91037c87,Big Daddy Burger,"20,00 TL",Burgerler,5.0
+0d898781-da60-4532-bf3a-701470ecfc80,Patates Kızartması,"10,00 TL",Yan Ürünler,5.0
+6258098d-a0d7-4a15-86ec-1976ff8d38a7,Tavuk Nugget,"12,50 TL",Yan Ürünler,3.0
+223d75d7-062c-438f-be49-5da91655ef9e,Acı Biber Turşusu (300 gr.),"6,00 TL",Yan Ürünler,6.0
+C28987A3-374F-4DF5-8880-8BC1F0C01598,Katmer,"20,00 TL",Tatlılar,3.0
+80ca0ebd-2ea3-485f-b4de-9748c73ac9f3,Hamsiköy Sütlacı,"12,00 TL",Tatlılar,5.0
+902f14d8-3529-432b-ad5a-f9dde4367191,Künefe,"15,00 TL",Tatlılar,6.0
+0644825D-1D96-4914-99E0-797EBA103B42,Algida Maraş Usulü Cup Dondurma (100 ml.),"5,00 TL",Dondurmalar,5.0
+12150993-8C4A-44CF-B4D0-44182706F2A7,Cornetto Disc Milka (140 ml.),"7,50 TL",Dondurmalar,5.0
+79d78fbd-347c-433c-aede-824162682bf4,Su,"1,50 TL",İçecekler,7.0
+BB6425CC-2172-46F0-9A9B-8DFFB66201D4,"Su (1,5 L.)","4,00 TL",İçecekler,7.0
+E7EF6BCF-06A5-4A46-A8C3-BAF1BB92955C,Shawarma Sos (50 gr.),"5,00 TL",Soslar,9.0
+4f8708ef-d1af-40a6-90b4-89665e63e638,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,25 @@
+food_id,food_name,food_price,food_category,food_score
+26bf5896-3371-4445-ba40-3648982dfc95,Kaşarlı Tost,"12,00 TL",Tostlar,4.0
+5dfcb79d-9799-4ce4-a269-80e7a8cd41c2,Sucuklu Tost,"12,00 TL",Tostlar,4.0
+e033254a-d6a0-474b-98cb-a8cd1c6d0d71,Kaşarlı Sucuklu Tost,"13,00 TL",Tostlar,4.0
+ebf02347-a4ae-4a19-a000-994585e4b25d,Kavurmalı Kaşarlı Tost,"16,00 TL",Tostlar,4.0
+2e6ba2cb-93f6-4744-8797-2bd2071452f7,Ayvalık Tostu,"15,00 TL",Tostlar,2.0
+1df27e83-c305-4526-994d-2c23a6b1291d,Çikolatalı Tost,"10,00 TL",Tostlar,4.0
+e4f69aae-582f-44ba-9f31-6bbfd1d3a917,Sınırsız Malzemeli Kumpir,"24,50 TL",Kumpirler,18.0
+713a2dfb-6072-4560-8570-f3db0b27bc22,Tavuklu Kumpir,"26,00 TL",Kumpirler,13.0
+d5e3e558-5e78-46d3-b133-3e8c3c56afad,Sucuklu Kumpir,"26,00 TL",Kumpirler,13.0
+d4f2b51e-5879-4ed5-b245-1e47929b675b,Köfteli Kumpir,"28,00 TL",Kumpirler,13.0
+16fbac0f-5e9f-4b53-b850-0bf2c96bfa2c,Sosisli Kumpir,"25,00 TL",Kumpirler,13.0
+cd2b76f8-7a59-4156-aa47-29162b0f8196,Karışık Kumpir,"30,00 TL",Kumpirler,13.0
+7c28fd79-96a6-47ce-9463-12f94b86a375,Sınırsız Malzemeli Waffle,"24,50 TL",Waffles,9.0
+aa3e77da-c7a6-4230-85ce-8669d32440a6,Yarım Ekmek Arası Izgara Köfte,"16,00 TL",Köfteler,3.0
+85069f2c-ffbe-4e6d-b32a-d226cdca91c2,Izgara Köfte,"23,00 TL",Köfteler,5.0
+741a7e65-91b2-4e44-ab0c-3bf7bc517066,Yarım Ekmek Arası İnegöl Köfte,"16,00 TL",Köfteler,3.0
+1b628e65-2b28-4ce1-a4f7-553cb08dad60,Akçaabat Köfte,"23,00 TL",Köfteler,5.0
+32d98c7d-b700-4c49-8656-3e13045485e6,İnegöl Köfte,"22,00 TL",Köfteler,5.0
+081bacc2-04ee-4942-ae77-b284394eadbe,Tavuk Kanat,"20,00 TL",Izgaralar,3.0
+67e5a095-6508-42f3-a14b-43ae13654370,Tavuk Şiş,"20,00 TL",Izgaralar,5.0
+08c72e78-6f6a-4e75-9587-1c5b805dc880,Algida Maraş Usulü Cup Dondurma (100 ml.),"6,00 TL",Dondurmalar,5.0
+6c78e36f-d6fb-41b2-9956-05bb969e6764,Carte d'Or Premium Çikolata Cup (100 ml.),"7,00 TL",Dondurmalar,4.0
+4c3ce8ec-f583-4a97-be70-23ff56100964,Algida Carte d'Or Mini Cup Çikolata Karnavalı (110 ml.),"7,00 TL",Dondurmalar,4.0
+b7fc94e8-9183-4d58-81e0-65ecd467ff3e,Poşet,"0,25 TL",Poşet,5.0

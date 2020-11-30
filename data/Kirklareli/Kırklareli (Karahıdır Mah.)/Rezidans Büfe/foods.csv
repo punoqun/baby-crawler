@@ -1,0 +1,33 @@
+food_id,food_name,food_price,food_category,food_score
+c75b7337-8611-425d-9044-3a0c7143c1a1,Yarım Ekmek Arası Kaşarlı Tost,"6,00 TL",Tostlar,24.0
+7898F4C8-B35A-4629-8F84-D81959C82002,Klasik Tost,"8,00 TL",Tostlar,4.0
+C8AC5CAF-6124-4A1F-8F06-3BD80211FB89,Şefin Tostu,"14,00 TL",Tostlar,13.0
+A15403D6-FA37-4873-ADAB-82745E6C23CB,Pastırmalı Kaşarlı Tost,"14,00 TL",Tostlar,4.0
+8c608ee7-0c54-4add-a5d0-eff2cda7a1d1,Yarım Ekmek Arası Sucuklu Kaşarlı Tost,"7,00 TL",Tostlar,24.0
+9f7b3d09-14aa-40cf-8089-edbf980da68d,Özel Karışık Tost,"10,00 TL",Tostlar,4.0
+f5553c92-a404-4014-b305-c1e1fd32eaaa,Kavurmalı Kaşarlı Tost,"13,00 TL",Tostlar,4.0
+3d268857-992f-47ef-b11b-6360fe576db8,Yumurtalı Kaşarlı Tost,"10,00 TL",Tostlar,4.0
+7573d466-2133-4e69-a139-6113b8285ed8,Yumurtalı Sucuklu Tost,"11,00 TL",Tostlar,4.0
+345e3262-d5d8-476b-b7ac-5d9275ee1d4f,Yumurtalı Sucuklu Kaşarlı Tost,"12,00 TL",Tostlar,4.0
+ce68c317-48f7-4b02-bf21-2bd2c28982a7,Yumurtalı Kavurmalı Sucuklu Kaşarlı Tost,"14,50 TL",Tostlar,4.0
+a7025185-26d4-4b94-824e-ad1193209aa7,Tam Ekmek Arası Atom Tost,"20,00 TL",Tostlar,28.0
+9d1405cc-dbbc-47ce-9734-67cf96028f84,Hamburger,"9,00 TL",Burgerler,7.0
+645C226E-C163-4BF4-8FFB-A943EB07100F,Tavuk Burger,"7,50 TL",Burgerler,5.0
+fa5f9a7c-afd6-4ae1-b5d8-c7b8b6650bf5,Ekmek Arası Piliç Çevirme,"10,00 TL",Ekmek Arası Ürünler & Sandviçler,31.0
+aabc1688-f423-411f-81e7-7bca9156333d,Patso,"7,00 TL",Ekmek Arası Ürünler & Sandviçler,3.0
+3aac7a5d-b349-40a0-8ba5-6fed300af17b,Sosisli Patso,"8,00 TL",Ekmek Arası Ürünler & Sandviçler,3.0
+6469735f-e2ac-44c5-9080-da8ea26bb244,Yarım Ekmek Arası Köfte,"10,00 TL",Ekmek Arası Ürünler & Sandviçler,27.0
+fdfd2f96-ff87-42ee-b10a-3f8f211e6e8d,Tavuk Dönerli Patso,"9,50 TL",Ekmek Arası Ürünler & Sandviçler,3.0
+ef872089-ee3b-4e7f-a3ea-da067c8294fb,Karışık Patso,"10,00 TL",Ekmek Arası Ürünler & Sandviçler,3.0
+af022f10-cc48-4a73-abc7-2a7a7c6e18fc,Double Ultra Lüks Sandviç,"11,00 TL",Ekmek Arası Ürünler & Sandviçler,12.0
+2e5a334d-42e5-4625-8ce4-f2a5ad72cd9e,Ton Balıklı Sandviç,"12,00 TL",Ekmek Arası Ürünler & Sandviçler,7.0
+b59c7e87-8679-4b95-8671-34b7a6b08e58,Kumru Sandviç,"12,00 TL",Ekmek Arası Ürünler & Sandviçler,7.0
+9996944a-48d4-4aef-b17c-21989e86d287,Yarım Ekmek Arası Dana Ciğer,"15,00 TL",Ekmek Arası Ürünler & Sandviçler,25.0
+0082ADB2-6DF1-403C-BD82-C528798AD5FF,Sosisli Paçanga Böreği,"8,00 TL",Börekler,5.0
+11A88E9A-78E2-4E92-B161-6CDBDDAD4603,Kaşarlı Sosisli Paçanga Böreği,"9,00 TL",Börekler,5.0
+D8A506B7-E5A8-4B38-A82F-C09D05C68EE5,Sucuklu Paçanga Böreği,"8,00 TL",Börekler,5.0
+4E6808CA-7812-450C-B940-7BA0A33CEA48,Sucuklu Kaşarlı Paçanga Böreği,"9,00 TL",Börekler,5.0
+C80C8892-FB29-4C45-A4F4-BBEEA90471CF,Pastırmalı Paçanga Böreği,"10,00 TL",Börekler,5.0
+9D1CB44E-4A0C-4069-8816-90E8F3F1EE01,Peynirli Sigara Böreği,"6,50 TL",Börekler,10.0
+3e8b268c-60dd-442d-bb5d-115f488701b5,Patates Kızartması,"6,50 TL",Yan Ürünler,7.0
+2F893586-96AE-418F-9416-7BE5D68EC4B7,Soğan Halkası (8 Adet),"8,00 TL",Yan Ürünler,5.0

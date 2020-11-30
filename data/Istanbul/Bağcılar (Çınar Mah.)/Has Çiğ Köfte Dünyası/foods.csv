@@ -1,0 +1,44 @@
+food_id,food_name,food_price,food_category,food_score
+0fb5cb5c-b248-4546-b7f0-7ba93b5a5a79,Menü 1,"7,50 TL",Menüler,29.0
+c721576f-38dc-4dbd-b4d3-5e97ebaee222,Menü 2,"9,50 TL",Menüler,13.0
+bca25275-55a7-45b2-a4cf-0a0df729a96d,Menü 3,"19,00 TL",Menüler,11.0
+25e6f44c-eee0-4e62-a158-b0d343fa7139,Menü 4,"28,00 TL",Menüler,15.0
+dc6e7c8c-5b94-476c-bfb0-af2903240259,Menü 5,"36,00 TL",Menüler,12.0
+1c2d0cab-ac9a-4bb9-b115-818c9ed3436d,Menü 7,"60,00 TL",Menüler,8.0
+217c1277-b37a-4d21-a472-e8bd0646315d,Çiğ Köfte Dürüm,"6,50 TL",Çiğ Köfteler,34.0
+def11654-6314-4712-a56e-13fb1ec6d6b0,Duble Çiğ Köfte Dürüm,"8,50 TL",Çiğ Köfteler,34.0
+fb534c2f-c83c-4298-a7b9-4676aa65e18d,Çiğ Köfte (250 gr.),"14,00 TL",Çiğ Köfteler,25.0
+274988dc-e9bf-43b8-afdf-75bed2cffac5,Çiğ Köfte (350 gr.),"19,00 TL",Çiğ Köfteler,25.0
+02137804-1220-4af9-9c93-264fac3c3731,Çiğ Köfte (450 gr.),"23,00 TL",Çiğ Köfteler,25.0
+2892d08d-793e-41de-9586-d17cc99eaed8,Çiğ Köfte (550 gr.),"27,00 TL",Çiğ Köfteler,25.0
+455a965d-a42c-4e04-b352-e8b7f4c708fa,Çiğ Köfte (650 gr.),"31,00 TL",Çiğ Köfteler,25.0
+511f47d9-b90d-4412-98c3-fdb995106d6b,Çiğ Köfte (750 gr.),"34,00 TL",Çiğ Köfteler,25.0
+58852cb4-3b44-493f-bb5f-fed154d16158,Çiğ Köfte (850 gr.),"37,00 TL",Çiğ Köfteler,25.0
+971b8ab3-5563-4224-b294-b76af6a695a8,Çiğ Köfte (1 kg.),"45,00 TL",Çiğ Köfteler,25.0
+dbf43ff0-39d9-4255-a64d-5d859a3f31d5,Çiğ Köfte (250 gr.) (Garnitürsüz),"10,00 TL",Çiğ Köfteler,25.0
+6c43e4ec-0665-4e87-bc64-026661e1cb5e,Çiğ Köfte (500 gr.) (Garnitürsüz),"16,00 TL",Çiğ Köfteler,25.0
+f7d471bb-e5ac-4bdd-a3a7-942200186c53,Çiğ Köfte (1 kg.) (Garnitürsüz),"28,00 TL",Çiğ Köfteler,25.0
+1aa749d6-9c20-4fba-acd1-e284a78a2cd2,Karışık Turşu (Bardak) (200 ml.),"3,00 TL",Yan Ürünler,5.0
+790a16ec-1e7e-4e13-b8b2-a38846afc0ec,Lavaş Ekmeği (Adet),"0,50 TL",Yan Ürünler,5.0
+cc817dec-8453-4bbd-9d71-a9fc1788517d,Lavaş Ekmeği (50 Adet),"20,00 TL",Yan Ürünler,5.0
+d21535cb-5fae-4ebd-9990-3c3636290cf4,Yeşillik Tabağı,"9,00 TL",Yan Ürünler,7.0
+c0f76852-389b-41b9-ba6b-d9f4f617b736,Cevizli Burma Kadayıf (Adet) (Büyük),"5,00 TL",Tatlılar,4.0
+d365c924-84cf-48ea-9171-a038e8cbbc86,Kıbrıs Tatlısı,"5,00 TL",Tatlılar,5.0
+da95e1ff-5597-409d-a846-29959ec5a34e,Bisküvili Pudingli Pasta,"5,00 TL",Tatlılar,5.0
+FE52E7FC-8213-4193-9C7B-D4A5B39E06CC,Profiterol,"5,00 TL",Tatlılar,5.0
+E0486435-8FBA-4637-A002-8050B1457B75,Revani,"5,00 TL",Tatlılar,5.0
+A6ED68E1-CB7E-49AB-A5EB-8E3169E42909,Kazandibi,"5,00 TL",Tatlılar,5.0
+F9809940-9E76-4BEC-9DB7-C5CAB7B3406D,Supangle,"5,00 TL",Tatlılar,5.0
+C2BE2465-B324-4AF7-8F08-5B50653C23E5,Mag,"5,00 TL",Tatlılar,5.0
+D49C4BEE-DE8D-46F1-BBC5-46716B528149,Kağıt Helva,"2,50 TL",Tatlılar,5.0
+0A940900-FBFA-4EA4-95E9-CFFBBEDD5BF7,Çekme Helva,"3,00 TL",Tatlılar,5.0
+DFD0C159-5A98-468C-959C-7562EB950EBB,Fırın Sütlaç,"5,00 TL",Tatlılar,5.0
+FBDD5FFE-35E9-430E-B266-BB3487F1138C,Yedigün (33 ci.),"5,00 TL",İçecekler,5.0
+3CB3BAA7-BD80-45B5-8760-0E970CD5FD87,Yedigün (20 cl.),"3,50 TL",İçecekler,5.0
+5E9F6633-D428-4A77-B74C-22DBA8DB5D0C,Tropicana (33 ci.),"5,00 TL",İçecekler,5.0
+C8695DA3-D318-4204-B530-FE1B589780A6,Lipton Ice Tea (33 ci.),"5,00 TL",İçecekler,5.0
+d1dc8733-154d-4463-8398-775f187fee78,Limonata,"4,50 TL",İçecekler,5.0
+83300744-5642-40BF-B4FA-D1A788AF0F8F,Acılı Ayran,"3,00 TL",İçecekler,7.0
+6F26E9D2-12D0-4B24-89A9-0B8F2DE88502,Didi (25 cl.),"3,50 TL",İçecekler,5.0
+d7ed72fb-dbef-43bd-bd8d-ced7ac141fa7,Fruko (1 L.),"6,00 TL",İçecekler,5.0
+9dfd1e58-7228-465a-a546-f422b9205e9a,Poşet,"0,25 TL",Poşet,3.0

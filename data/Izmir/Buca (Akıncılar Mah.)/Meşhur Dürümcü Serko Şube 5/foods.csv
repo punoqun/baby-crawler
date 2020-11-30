@@ -1,0 +1,44 @@
+food_id,food_name,food_price,food_category,food_score
+62B03A06-CD67-4D1E-AAC4-938FA6B0B88A,Adana Dürüm & Çorba Menü,"26,00 TL",Ekonomik Menüler,-1.0
+473FACEC-6AE6-4275-97C6-35AD227F2B18,Adana Dürüm & Patates Menü,"23,00 TL",Ekonomik Menüler,-5.0
+EE9E113F-FB48-4BA1-A91E-9B342B1C630F,Adana Kebap Menü,"45,00 TL",Ekonomik Menüler,-2.0
+789FAC59-D9AF-4680-8D1E-4129893BBAED,Ciğer Şiş Dürüm & Patates Menü,"26,00 TL",Ekonomik Menüler,-1.0
+3A83D2F3-0193-4ABF-8F6F-71B12395615F,Ciğer Şiş Menü,"50,00 TL",Ekonomik Menüler,0.0
+2D695168-2555-442B-B253-6C40ED3BF521,Kuzu Şiş Dürüm & Çorba Menü,"31,00 TL",Ekonomik Menüler,2.0
+109deb75-e807-401e-bb27-0c621aa51a87,Öğrenci Menü 1,"23,00 TL",Ekonomik Menüler,18.0
+8f46edb3-c036-4045-95d0-513a6955015d,Öğrenci Menü 2,"20,00 TL",Ekonomik Menüler,-6.0
+3cb75a09-5104-4d69-8451-f9e4b402216d,Öğrenci Menü 3,"20,00 TL",Ekonomik Menüler,1.0
+84b5ad9c-4ac9-4038-a502-2658b9c33032,Öğrenci Menü 4,"21,00 TL",Ekonomik Menüler,1.0
+72B5C22E-C1D7-44A0-BC15-586DE885131D,Tavuk Kanat Menü,"45,00 TL",Ekonomik Menüler,-6.0
+8C35617F-6298-433E-8FD0-FCB819CB4244,Tavuk Şiş Dürüm & Çorba Menü,"23,00 TL",Ekonomik Menüler,-3.0
+04C0A4F5-3D16-424C-93FB-E7879B0CA71B,Tavuk Şiş Dürüm & Patates Menü,"21,00 TL",Ekonomik Menüler,-7.0
+1F99B3F3-6B8A-4229-80EB-11179F5F581F,Tavuk Şiş Menü,"40,00 TL",Ekonomik Menüler,-6.0
+3C4559D1-C065-415B-B394-F11197BBC8B0,Urfa Dürüm & Çorba Menü,"26,00 TL",Ekonomik Menüler,4.0
+BF624249-FCDD-4317-BB95-B585480E75D1,Urfa Dürüm & Patates Menü,"23,00 TL",Ekonomik Menüler,0.0
+F995BCEE-3EEA-4532-8676-925B78862901,Urfa Kebap Menü,"45,00 TL",Ekonomik Menüler,3.0
+e9a2695a-2001-4e62-b050-6f758db0b07e,Kuzu Şiş Dürüm,"21,00 TL",Dürümler,5.0
+d8f629ac-6a0b-42da-aa2b-ebee9f0fc0ef,Kaşarlı Urfa Dürüm,"19,00 TL",Dürümler,7.0
+11569825-48d5-471f-9057-d2d03420e386,Eti Bol Adana Dürüm,"24,00 TL",Dürümler,-1.0
+0de9f00e-a8a6-490a-b4c8-c3efa7fad8fd,Eti Bol Urfa Dürüm,"24,00 TL",Dürümler,5.0
+3761c44c-8fcf-433c-8ed8-c5ad2f874f7e,Eti Bol Tavuk Şiş Dürüm,"21,00 TL",Dürümler,-2.0
+5f195734-beb1-4be6-a7a0-61daa716982f,Eti Bol Kuzu Şiş Dürüm,"31,50 TL",Dürümler,3.0
+59adb572-bcd4-4dab-9181-7f5965c312f5,Kaburga Şiş Dürüm,"21,00 TL",Dürümler,7.0
+C8FE6E31-B6FD-4107-9F61-5FF50612F9BF,Eti Bol Kaşarlı Adana Dürüm,"28,00 TL",Dürümler,-1.0
+6BCE1057-4F75-40B3-87C6-EB6401A59F41,Eti Bol Kaşarlı Urfa Dürüm,"28,00 TL",Dürümler,5.0
+BF4F5876-5AF2-43EC-B3DB-43F09721651A,Eti Bol Kaşarlı Tavuk Şiş Dürüm,"25,50 TL",Dürümler,-2.0
+BC0C94D6-FA1A-4FA4-A2F2-3EFBD62E118B,Eti Bol Kaşarlı Kuzu Şiş Dürüm,"36,00 TL",Dürümler,3.0
+1226B85F-37EE-4D5F-9825-0E85A301F17A,Ciğer Şiş Dürüm,"19,50 TL",Dürümler,6.0
+AC621EE0-726D-4397-ACD4-10E56F3FF5EF,Etibol Ciğer Şiş Dürüm,"29,50 TL",Dürümler,6.0
+04be8311-065a-43af-b575-3e47ace13fff,Ayvalık Tostu,"12,00 TL",Tostlar,8.0
+7865D684-3D82-4BAE-B070-D4C235326A52,Karışık Sandviç,"12,00 TL",Sandviçler,5.0
+394B92F9-1A4C-4829-875F-FE5103A0B52C,Maxi Karışık Sandviç,"15,00 TL",Sandviçler,5.0
+43577566-0EE9-4246-9424-6FCBB6646474,Patso Sandviç,"10,00 TL",Sandviçler,5.0
+3c1a00fa-5364-40c4-8a8d-d956f1e4bd56,Kuzu Şiş,"45,00 TL",Kebaplar & Izgaralar,3.0
+f44ade7b-ca7b-4f45-9525-c204c4f21ae9,Kaburga Şiş,"45,00 TL",Kebaplar & Izgaralar,5.0
+1C08C9DD-8D3B-438D-B316-8DED24D55F57,Ciğer Şiş,"40,00 TL",Kebaplar & Izgaralar,4.0
+0A0CCBFE-F093-4C0D-8695-DB34EA98A6DD,Tavuk Kanat,"35,00 TL",Kebaplar & Izgaralar,-2.0
+cc11f010-9a81-4b96-9b19-a238bd9c88b4,Hamburger,"15,00 TL",Burgerler,5.0
+08ed7faa-7cdd-4dd1-b8f1-11639cfae8fd,Patates Kızartması,"9,00 TL",Yan Ürünler,1.0
+ae2f660f-13a2-46ca-b17c-e4b7fcce77d2,Acılı Şalgam Suyu (33 cl.),"4,50 TL",İçecekler,5.0
+521e2bde-7d93-4540-b6e9-4da8641b98bc,Su,"2,00 TL",İçecekler,6.0
+c1c58548-0bd8-4978-9115-50aced2d3541,Poşet,"0,25 TL",Poşet,5.0

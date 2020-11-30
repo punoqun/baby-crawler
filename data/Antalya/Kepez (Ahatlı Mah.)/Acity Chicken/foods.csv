@@ -1,0 +1,24 @@
+food_id,food_name,food_price,food_category,food_score
+e3c2c3ec-ba7e-4a7a-bfa3-a05a2df35768,A City Chicken,"24,90 TL",Tavuklar,9.0
+abe08b42-f5e1-4f25-8167-6da6f4c00728,Barbekülüm Tavuk,"22,90 TL",Tavuklar,12.0
+80c4ec66-d9e6-41dd-8bb9-8ed6bb56a9c0,Chilim Tavuk,"22,90 TL",Tavuklar,7.0
+7122ef59-560f-4cff-85ad-1e33543894d6,Körilim Tavuk,"22,90 TL",Tavuklar,12.0
+83c5564d-f36e-41b1-aa9c-e5757acfd71d,Mexico Tavuk,"22,90 TL",Tavuklar,7.0
+3cdd856a-0523-4edf-b4c8-90874ef729e2,Soya Soslu Tavuk,"22,90 TL",Tavuklar,7.0
+e693d52d-c08a-403d-888d-307343b6add6,Taze Kekiklim Tavuk,"22,90 TL",Tavuklar,7.0
+fa33444b-d1ef-40c3-82fe-aa541737beb9,Patates Kızartması,"9,90 TL",Yan Ürünler,5.0
+48127289-36ef-4067-8bbc-4b1ac2a5310e,Elma Dilim Patates Kızartması,"9,90 TL",Yan Ürünler,5.0
+48e14058-c3b3-4ec0-abd2-18b21b944bb1,Tavuk Nugget (6 Adet),"12,90 TL",Yan Ürünler,7.0
+0745fabd-b542-4db6-8624-d2021ecd27ce,Tavuk Nugget (9 Adet),"16,90 TL",Yan Ürünler,7.0
+bce69fbe-69aa-4208-a39e-d4b105be0809,Soğan Halkası (6 Adet),"5,90 TL",Yan Ürünler,5.0
+d743dfe6-1a31-4700-b167-8169beb3d72a,Soğan Halkası (9 Adet),"9,90 TL",Yan Ürünler,5.0
+98e39929-9f91-44ef-8517-602c6c79967f,Crispy Tavuk (6 Adet),"18,90 TL",Yan Ürünler,7.0
+fb2053d0-34ce-48a5-9011-358b99114690,Crispy Tavuk (9 Adet),"24,90 TL",Yan Ürünler,7.0
+49c48c3e-efd7-4bea-ab5c-377035e95804,Çıtır Tavuk Parçaları,"12,90 TL",Yan Ürünler,7.0
+2b7a8582-01b7-4f66-93cb-ca9ac086f10a,Sufle,"9,90 TL",Tatlılar,5.0
+8c9edc99-4387-4be2-ad28-033d7ebefe9a,Sufle (2 Adet),"17,90 TL",Tatlılar,5.0
+2e8e350d-aa5e-4e5a-a5f8-2570c02d4974,Dondurmalı İrmik Helvası,"13,90 TL",Tatlılar,5.0
+654813d7-a170-4bd6-ba83-7f2b22a739c4,Beyoğlu Gazozu (25 cl.),"4,50 TL",İçecekler,5.0
+97b7bcf5-a305-441d-a460-44e83af436ce,Zencefilli Beyoğlu Gazozu (25 cl.),"4,50 TL",İçecekler,5.0
+640833a4-22ad-47cb-8c42-bcf0a99aabed,Limonlu Beyoğlu Gazozu (25 cl.),"4,50 TL",İçecekler,5.0
+68aa25cd-1b16-40b4-90c7-c30bcd82bf48,Poşet,"0,25 TL",Poşet,5.0

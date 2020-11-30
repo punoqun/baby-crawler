@@ -1,0 +1,48 @@
+food_id,food_name,food_price,food_category,food_score
+63aef70c-a977-4bce-a737-36f93e5d680f,İzmir Menü,"23,00 TL",Menüler,11.0
+7614c7af-7979-480a-8654-2cb82eec07a9,Sosisli Menü,"18,00 TL",Menüler,5.0
+791b3aad-2d59-464f-9a39-75c0493ea95f,Yengen Menü,"18,00 TL",Menüler,5.0
+b1203288-5893-40ba-8e4b-0ddfd0144ba3,Hamburger Menü,"20,00 TL",Menüler,7.0
+e83c5d07-e95a-4c56-8f71-2c9dcf7c2ebb,Yarım Ekmek Arası Köfte Menü,"22,00 TL",Menüler,5.0
+C2F7D123-3CD9-4E6B-B912-F157CFEE58A9,Kavurmalı Kaşarlı Tost,"20,00 TL",Tostlar,7.0
+2D59CE6E-47AF-4ECC-BBBA-CF8F185E2A8B,Kavurmalı Tost,"18,00 TL",Tostlar,7.0
+09A36DA0-D403-4277-AD4C-F7904335638F,Full Karışık Tost,"15,00 TL",Tostlar,7.0
+90390DC8-7BD6-4346-A330-F4C3BDB02696,Beyaz Peynirli Tost,"9,00 TL",Tostlar,7.0
+6FD8B8E2-96FF-45E2-A2CA-8CD134DBE802,Bazlama tost,"15,00 TL",Tostlar,4.0
+83D129B5-AA14-4D09-AC71-E14CDFC01AFA,Tulum Peynirli tost,"15,00 TL",Tostlar,4.0
+3F660622-AC8D-4F9D-A96A-DE78E0F70132,Salamlı Tost,"10,00 TL",Tostlar,7.0
+B2E64719-FDAB-4F5C-92E6-02B0D8087390,Salamlı Kaşarlı Tost,"12,00 TL",Tostlar,7.0
+4a4e59bd-442b-49bd-8e8f-0d877290e8a3,Yumurtalı Tost,"9,00 TL",Tostlar,7.0
+620d7ade-b7d8-494e-8dd0-3616bdf76b53,Kaşarlı Tost,"9,00 TL",Tostlar,7.0
+ccf20dcc-a8dc-4eaa-9b35-dd5dd1df2835,Sucuklu Tost,"9,00 TL",Tostlar,7.0
+e30ef82b-16dd-48ea-91b5-af97138cee5d,Sucuklu Yumurtalı Tost,"12,00 TL",Tostlar,7.0
+b188be9f-601b-4991-9cc9-732df44bbde9,Karışık Tost,"10,00 TL",Tostlar,7.0
+11d57d2b-1406-4adb-a902-89c1ebbbc58b,İzmir Eritme Sandviç,"20,00 TL",Sandviçler & Burgerler,6.0
+3a033469-ecd0-4850-80be-aeab6bfe7c44,Yengen Sandviç,"12,00 TL",Sandviçler & Burgerler,5.0
+8b76b0b6-b92a-4682-aeca-a4089b7bf845,Hamburger,"15,00 TL",Sandviçler & Burgerler,7.0
+c4d6b50b-dc87-4623-ac1c-259f4936ceab,Sosisli Sandviç,"10,00 TL",Sandviçler & Burgerler,5.0
+AECB162A-04EF-4ABD-8A3C-A2A404A9BA83,Çember,"20,00 TL",Sandviçler & Burgerler,5.0
+61C6E995-6EBB-4062-B29F-77162F77D0BA,Hot Dog,"10,00 TL",Sandviçler & Burgerler,5.0
+A45BB881-2B25-4959-AE82-7CAF88B120A5,Double Hamburger,"20,00 TL",Sandviçler & Burgerler,7.0
+6BB7C893-E14B-4743-BCE1-CCF2A87B6B9F,Double Cheeseburger,"22,00 TL",Sandviçler & Burgerler,5.0
+B3B508AA-F931-4629-B03B-E8E87D510681,Cheeseburger,"16,00 TL",Sandviçler & Burgerler,5.0
+be980388-b72f-4553-b997-1cd30190bbbb,Yarım Ekmek Arası Köfte,"14,00 TL",Ekmek Arası Ürünler,5.0
+AADBF180-3795-4841-8D2D-66C160120418,Tavuklu Sıcak Sandviç,"12,00 TL",Ekmek Arası Ürünler,5.0
+5E34CC74-0EFD-4B9B-BC60-E29266CDB736,Ton Balıklı Sandviç (Soğuk),"12,00 TL",Ekmek Arası Ürünler,5.0
+A721A297-D40D-4A5F-8FB7-8A8E4DD240DE,Beyaz Peynirli Domatesli Sandviç,"12,00 TL",Ekmek Arası Ürünler,5.0
+5766A2E0-A638-4EEF-8613-BDD631578BB7,Salamlı Kaşarlı Sandviç,"12,00 TL",Ekmek Arası Ürünler,5.0
+6263D3AB-E95B-448D-BD8E-D8785F5FA7BB,Kaşar Peynirli Sandviç,"12,00 TL",Ekmek Arası Ürünler,5.0
+932B61D0-9E7A-4151-9FAF-AFDC45571AEF,Kavurmalı Sandviç,"20,00 TL",Ekmek Arası Ürünler,5.0
+70F174ED-69FA-417F-BE92-29DAB6F0D1C4,Karışık Soğuk Sandviç,"15,00 TL",Ekmek Arası Ürünler,5.0
+B23FDA7D-41A6-42BC-A798-48C963CEBA38,Patso Sade,"8,00 TL",Ekmek Arası Ürünler,5.0
+F936FB02-4F02-468F-841E-246734C30F72,Patso Köfteli,"15,00 TL",Ekmek Arası Ürünler,10.0
+890FC936-BC20-469B-89F7-AEBB48C4AD41,Tavuklu Patso,"14,00 TL",Ekmek Arası Ürünler,5.0
+4e30aa6a-429b-4ed0-be1b-fdb227d75a24,"Coca-Cola (1,5 L.)","7,50 TL",İçecekler,5.0
+fa3ef22a-b601-4ec3-bb3e-fc7da41790f5,"Fanta (1,5 L.)","7,50 TL",İçecekler,5.0
+24d8fc80-4d78-4a67-a8cd-771cc1d7dd3b,"Sprite (1,5 L.)","7,50 TL",İçecekler,5.0
+362c8dca-3642-4701-819a-c65fdc644713,Coca-Cola (2 L.),"8,50 TL",İçecekler,5.0
+67f56d8c-bef2-41f4-8d3b-61642f9c1371,Fanta (2 L.),"9,00 TL",İçecekler,5.0
+7ddfa7fe-388a-42bb-8262-84f41bfcf2a8,"Coca-Cola Şekersiz (2,5 L.)","9,50 TL",İçecekler,5.0
+86d37008-90bc-4160-a46e-eab84f4629f7,"Fanta (2,5 L.)","9,50 TL",İçecekler,5.0
+14b584cf-e5a2-4cbf-aad3-159d7d52a6d0,"Sprite (2,5 L.)","9,50 TL",İçecekler,5.0
+26da0233-bbcf-4b25-88a9-51f60f7b8f6f,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,156 @@
+food_id,food_name,food_price,food_category,food_score
+5d02ba58-b44f-4acd-a01c-0e4d2384b49d,Kahvaltı Tabağı,"23,85 TL",Kahvaltılıklar,6.0
+b04b6787-699b-455f-af9d-106cee991590,Özel Ev Yapımı Boşnak Börekleri (100 gr.),"8,55 TL",Boşnak Börekleri,8.0
+b3412b2f-1c31-4cef-8d4b-63699bd39247,Özel Pırasalı Boşnak Böreği,"14,85 TL",Boşnak Börekleri,8.0
+7ba16719-b089-437c-a5a7-f78341fb660e,Özel Bal Kabaklı Boşnak Böreği,"14,85 TL",Boşnak Börekleri,8.0
+dcf7564d-9957-495e-ac63-31ac84e6c1bd,Özel Kıymalı Boşnak Böreği,"15,75 TL",Boşnak Börekleri,8.0
+55686471-9bc0-40b7-bdde-c3db95e5bf32,Özel Kıymalı Boşnak Mantı Böreği (Duble),"30,60 TL",Boşnak Börekleri,8.0
+e6f78848-39cf-4427-b4fc-d08d4cab6a55,Özel Peynirli Su Böreği,"13,95 TL",Su Börekleri,6.0
+cf59582c-dd6a-4210-94c0-1bb829c86a20,Özel Ispanaklı Su Böreği,"13,95 TL",Su Börekleri,6.0
+d5315e8d-45db-42d6-996e-34d7de8d972b,Özel Peynirli Kaşarlı Su Böreği,"15,75 TL",Su Börekleri,6.0
+eae812ed-80f3-4481-826b-27b74c95e84b,Özel Kıymalı Su Böreği,"15,75 TL",Su Börekleri,6.0
+e623a6b1-acfb-454c-80b9-bd6ee87f65b6,Özel Duble Beyaz Peynirli Kaşarlı Su Böreği,"16,65 TL",Su Börekleri,6.0
+e1c2f857-aa83-43d9-a2ed-99919c6fde1f,Özel Duble Mantarlı Kaşarlı Su Böreği,"17,55 TL",Su Börekleri,6.0
+60f24475-54c3-4df2-ae8b-7f0def239f89,Kıymalı & Yoğurtlu & Özel Tereyağlı Soslu Boşnak Mantı Böreği,"22,05 TL",Mantılar,8.0
+d871fd8e-f329-4b8c-a00a-0d771fc8c774,Ev Yapımı Dana Etli Kayseri Mantısı,"29,25 TL",Mantılar,5.0
+f35a61e6-97f5-4e68-b5a2-5d9cf60c84e5,Ev Yapımı Dana Etli Özbek Mantısı,"29,25 TL",Mantılar,5.0
+48c4c2d1-2501-4f7b-94cb-60ef6d33967e,Özel Pırasalı Boşnak Böreği (500 gr.),"26,55 TL",Kiloluk Boşnak Börekleri (Pişirme seçiminize göre servis süresi 45 dakikadır.),8.0
+d8da48d3-bf24-409b-ad7d-83bd0a6a48dd,Özel Bal Kabaklı Boşnak Böreği (500 gr.),"26,55 TL",Kiloluk Boşnak Börekleri (Pişirme seçiminize göre servis süresi 45 dakikadır.),8.0
+a8f52e02-5a33-4c6b-93b8-48574a0e16ec,Özel Kıymalı Boşnak Böreği (500 gr.),"31,05 TL",Kiloluk Boşnak Börekleri (Pişirme seçiminize göre servis süresi 45 dakikadır.),8.0
+fd611ccf-d103-4d05-b1d6-a377c1e980ec,Zeytinyağlı Yaprak Sarma (500 gr.),"24,75 TL",Kiloluk Zeytinyağlılar,5.0
+375f231d-c83c-43a7-bf83-09c1c328108e,Özel Peynirli Su Böreği (500 gr.),"23,85 TL",Kiloluk Su Börekleri,6.0
+8E4F2B5D-434C-4011-BEC7-DD7685EA5157,Özel Adana Su Böreği (500 gr.),"26,55 TL",Kiloluk Su Börekleri,6.0
+d19b02af-9d52-4860-9b0d-ba1a22485cb3,Özel Ispanaklı Su Böreği (500 gr.),"23,85 TL",Kiloluk Su Börekleri,6.0
+e8249b65-77b2-4780-ab42-dc290c0f83b1,Özel Kıymalı Su Böreği (500 gr.),"26,55 TL",Kiloluk Su Börekleri,6.0
+0fe8d4b1-7f61-4579-8967-839059fef24e,Özel Peynirli Kaşarlı Su Böreği (500 gr.),"26,55 TL",Kiloluk Su Börekleri,6.0
+a0b4a6e2-675b-4ae7-add9-a5bf3d2e178e,Özel Duble Mantarlı Kaşarlı Su Böreği (500 gr.),"31,05 TL",Kiloluk Su Börekleri,6.0
+2ba783a4-6442-4e84-9bb0-bea4e0f20977,Özel Duble Peynirli Kaşarlı Su Böreği (500 gr.),"29,25 TL",Kiloluk Su Börekleri,6.0
+6f76e64c-b1ea-4d28-8f5c-05e589157521,Mix Trileçe (8 Adet),"86,40 TL",Trileçeler,5.0
+1E317931-A829-4A7C-8F25-1577398ECCA6,Özel Trileçe (4 Adet),"49,50 TL",Trileçeler,5.0
+0fa829bc-08a8-4419-a881-70b29b6d81d2,Mix Trileçe (16 Adet),"158,40 TL",Trileçeler,5.0
+ebe530f7-34be-490b-aa94-3b325c2dbab2,Mix Trileçe (32 Adet),"266,40 TL",Trileçeler,5.0
+ec609043-6550-4361-9a23-8e62fa685342,Karamelli Trileçe (3 Adet),"35,10 TL",Trileçeler,5.0
+4b292ecf-a71c-4702-b7db-0d327a647c27,Frambuazlı Trileçe (3 Adet),"35,10 TL",Trileçeler,3.0
+4ccf95a5-f470-4e44-bf18-79f5a3d1b2ef,Damla Sakızlı Trileçe (3 Adet),"35,10 TL",Trileçeler,5.0
+463770e4-82fa-48a6-bc85-7e525752df57,Çilekli Trileçe,"12,60 TL",Trileçeler,5.0
+33823d5e-4965-4796-97a1-64ee2aff9f66,Çilekli Trileçe (3 Adet),"35,10 TL",Trileçeler,5.0
+a0361e10-678d-4445-809b-0afc6edc3ab3,Hindistan Cevizli Trileçe (3 Adet),"35,10 TL",Trileçeler,5.0
+fbfea64d-eb18-4f3d-894e-49a2a329b633,Limonlu Trileçe (3 Adet),"35,10 TL",Trileçeler,6.0
+751c95b4-d393-4c59-8d18-c67a1c63e061,Portakallı Trileçe (3 Adet),"35,10 TL",Trileçeler,5.0
+17bc0178-f2bc-4e87-af8c-3f06ca7641fd,Yaban Mersinli Trileçe (3 Adet),"35,10 TL",Trileçeler,5.0
+0771e328-21c9-4cda-b035-8d50126bea11,Vişneli Trileçe (3 Adet),"35,10 TL",Trileçeler,5.0
+0433c035-9e0c-485a-a645-92f85bdd8430,Çikolatalı Trileçe (3 Adet),"35,10 TL",Trileçeler,5.0
+d1a38fc1-ed7e-4e42-b34a-15cab00d4cd3,Antep Fıstıklı Trileçe (3 Adet),"43,20 TL",Trileçeler,5.0
+4290e101-81e8-4b76-a1cf-d149047c5995,8'li Mini Trileçe,"46,80 TL",Trileçeler,5.0
+db732967-863d-4453-8acb-0f31696e1590,16'lı Mini Trileçe,"90,00 TL",Trileçeler,5.0
+a7b4b69a-5c80-43a7-830b-41cf3804383f,32'li Mini Trileçe,"165,60 TL",Trileçeler,5.0
+1efac785-87cb-4b15-a4b3-805866f58311,64'lü Mini Trileçe,"266,40 TL",Trileçeler,5.0
+e61fff5b-3900-4f33-a7b0-360035a49ee8,Bask Cheesecake (12 Kişilik),"179,10 TL",Spesiyal Tatlılar,5.0
+b399395b-fa6b-4284-86ae-89b18f9da116,Bask Cheesecake (3 Dilim),"55,35 TL",Spesiyal Tatlılar,5.0
+fc93fa20-2aa8-498f-afdf-bebb3b7e25b2,Bask Cheesecake (Dilim),"20,25 TL",Spesiyal Tatlılar,5.0
+41f76fe3-2802-4662-82d8-e9fdd9918c27,Boz Antep Fıstıklı Gurme Profiterol,"19,80 TL",Spesiyal Tatlılar,5.0
+0FFB1223-8684-4CDF-B461-33DAE361C741,Frambuazlı İzmir Bomba,"7,65 TL",Spesiyal Tatlılar,3.0
+dbf218dd-cfc2-484a-88f0-32e8eb576b1a,İrmik Sufle,"15,75 TL",Spesiyal Tatlılar,5.0
+f0b22c13-07ea-46c6-a1d3-d8bb0bf2a67e,İzmir Bomba,"6,75 TL",Spesiyal Tatlılar,10.0
+2c71cf2e-40f0-41a2-9a8d-f57f1a48687f,Medovik,"15,75 TL",Spesiyal Tatlılar,5.0
+F920E9C2-AED9-4F51-9831-622491953E34,Orijinal Bask Cheesecake,"23,85 TL",Spesiyal Tatlılar,5.0
+D0E1523D-F173-45ED-A08B-903C5A8C3BE6,Orijinal Bask Cheesecake (3 Dilim),"66,15 TL",Spesiyal Tatlılar,5.0
+e4ea5e3f-83ee-4cbf-adb8-58b74cab99d9,Özel Bademli Fındıklı Ev Yapımı Güllaç,"14,85 TL",Spesiyal Tatlılar,5.0
+b80b2144-e5a3-417f-b75f-a2c828450ecf,Özel Çikolatalı Rulo Pasta,"5,85 TL",Spesiyal Tatlılar,4.0
+54c68288-187c-4846-9086-fa337df1a615,Özel Çikolatalı Rulo Pasta (Büyük),"13,95 TL",Spesiyal Tatlılar,4.0
+5fe76596-3d68-4958-9c1e-79e5c0728311,Özel Çilekli Rulo Pasta,"5,85 TL",Spesiyal Tatlılar,4.0
+f48e4b00-0dea-4254-af4c-3343408ac2a1,Özel Çilekli Rulo Pasta (Büyük),"13,95 TL",Spesiyal Tatlılar,4.0
+1b1026d5-f279-422b-b1ea-03671ddad7ea,Özel Gurme Profiterol,"15,30 TL",Spesiyal Tatlılar,5.0
+b17000e4-0257-4a3f-aa64-af4a51c9e0f9,Özel Hatay Çıtır Kabak Tatlısı (Adet),"13,95 TL",Spesiyal Tatlılar,5.0
+cfe42d36-8526-4188-a879-52430dbf1e66,Özel İrmik Tatlısı (Sütlü),"13,05 TL",Spesiyal Tatlılar,5.0
+b0da7561-96cd-465f-ae83-d72a59650bff,Özel Muzlu Rulo Pasta,"5,85 TL",Spesiyal Tatlılar,4.0
+1b1f5b59-e2c9-4d97-b3d8-798751811939,Özel Muzlu Rulo Pasta (Büyük),"13,95 TL",Spesiyal Tatlılar,4.0
+B921E659-E3A5-415F-A227-B4EDFA6D0BDA,Sütlava Cevizli (Dilim),"9,45 TL",Spesiyal Tatlılar,5.0
+d11bd21a-449a-45e3-ad21-3c1d231a84fd,Sütlava Antep Fıstıklı (3 Dilim),"27,00 TL",Spesiyal Tatlılar,5.0
+342e1f92-1c58-4760-9c26-a9264c18cdd6,Sütlava Antep Fıstıklı (Dilim),"10,35 TL",Spesiyal Tatlılar,5.0
+dd9c8283-5b57-447a-bc3f-c86762260010,Sütlava Beyaz Çikolatalı (3 Dilim),"21,60 TL",Spesiyal Tatlılar,5.0
+36429ce9-1aae-4e03-9d6c-c04f992164ad,Sütlava Beyaz Çikolatalı (Dilim),"8,55 TL",Spesiyal Tatlılar,5.0
+f742aedd-2aa1-459a-af1b-7ecff5f7e26c,Sütlava Bitter Çikolatalı (3 Dilim),"21,60 TL",Spesiyal Tatlılar,5.0
+dd36eb48-58d0-46f7-a638-b06692db3834,Sütlava Bitter Çikolatalı (Dilim),"8,55 TL",Spesiyal Tatlılar,5.0
+3D143BA3-E0B9-4F79-A8DB-8DD5ED17C9DF,Sütlava Boz Antep Fıstıklı Bitter (Soğuk Baklava),"17,55 TL",Spesiyal Tatlılar,5.0
+F2BC0A48-8528-4E00-BFEF-0A4679F88690,Sütlava Boz Antep Fıstıklı Sütlü Bitter (Soğuk Baklava),"49,05 TL",Spesiyal Tatlılar,5.0
+27D14F92-F38E-4534-80A8-3F0A582C8224,Sütlava Cevizli (3 Dilim),"24,30 TL",Spesiyal Tatlılar,5.0
+6040b038-d539-45e6-bf45-d3941cb3d9fb,Sütlava Fındıklı (3 Dilim),"24,30 TL",Spesiyal Tatlılar,5.0
+b8cec461-d520-496e-b20c-b2576d25f495,Sütlava Fındıklı (Dilim),"9,45 TL",Spesiyal Tatlılar,5.0
+c0336ebd-0b8f-4a97-bcea-74d8a2197085,Sütlava Sade (3 Dilim),"18,90 TL",Spesiyal Tatlılar,5.0
+e1aaf305-1f3e-495b-9ef4-6257a6a3e185,Sütlava Sade (Dilim),"7,65 TL",Spesiyal Tatlılar,5.0
+7ebd5b64-4fdf-4d36-b15f-999ca4b2553b,Tadımlık Rulo Pasta (3 Adet),"9,45 TL",Spesiyal Tatlılar,4.0
+f1f6447d-236c-43ad-9be2-0a8a827c5c4c,Özel Gurme Profiterol (500 gr.),"35,10 TL",Spesiyal Kiloluk Tatlılar,5.0
+5c369351-f277-44ad-987e-dcd22dec3df8,Özel Hatay Çıtır Kabak Tatlısı (500 gr.),"26,10 TL",Spesiyal Kiloluk Tatlılar,5.0
+25d7c140-0954-4338-98db-e02f3436851d,Özel İrmik Tatlısı (Sütlü) (500 gr.),"26,10 TL",Spesiyal Kiloluk Tatlılar,5.0
+ad508d67-26dd-46ed-a5b4-66d5ccbbe823,Özel İrmik Tatlısı (Sütlü) (1 kg.),"48,60 TL",Spesiyal Kiloluk Tatlılar,5.0
+1835fdbb-918e-4cce-99b3-f3fbae0acbc4,Özel İrmik Tatlısı (Sütlü) (2 kg.),"84,60 TL",Spesiyal Kiloluk Tatlılar,5.0
+00ba2447-9773-4cd9-9611-c0fd52b620a3,Çilekli Rulo Baton Pasta (8 - 10 Kişilik),"66,00 TL",Baton Pastalar (8 - 10 Kişilik),3.0
+8cc44fb5-87e2-4378-b243-432e3e5ead0c,Muzlu Rulo Baton Pasta (8 - 10 Kişilik),"66,00 TL",Baton Pastalar (8 - 10 Kişilik),3.0
+52f30f0e-5f11-41ea-8119-bd044d5f07c5,Çikolatalı Rulo Baton Pasta (8 - 10 Kişilik),"66,00 TL",Baton Pastalar (8 - 10 Kişilik),3.0
+6444b95f-a989-4b27-a2d1-ef9eeb6d43bd,Özel Maraş Dondurması (1 Top),"4,13 TL",Ado Maraş Dondurmaları,5.0
+60659813-45f7-48b6-a553-8f5e33201b94,Özel Maraş Dondurması (250 gr.),"16,88 TL",Ado Maraş Dondurmaları,5.0
+3885fde2-c613-4479-8b44-4affb2be34d7,Özel Maraş Dondurması (1 kg.),"55,50 TL",Ado Maraş Dondurmaları,5.0
+71b5fb09-5ffa-4dda-85fd-89f9168a1700,Ado Marasta Sade Özel Kesme Maraş Dondurması (70 gr.),"4,88 TL",Ado Maraş Dondurmaları,5.0
+bb23c1cd-5af6-45c0-9367-f6d9e8bb001d,Ado Marasta Sade Özel Maraş Dondurması (100 gr.),"5,63 TL",Ado Maraş Dondurmaları,5.0
+ab99d8a1-5b4a-4806-9bab-1160d9e1e6b8,Ado Marasta Çikolatalı Özel Maraş Dondurması (100 gr.),"5,63 TL",Ado Maraş Dondurmaları,5.0
+5c3aa35f-8de3-4b81-b1ec-1fe19c68fc0c,Ado Marasta Sade Özel Maraş Dondurması (140 gr.),"7,13 TL",Ado Maraş Dondurmaları,5.0
+750e38ba-6811-4ede-9bd0-b991feedc252,Ado Marasta Sade Özel Maraş Dondurması (250 gr.),"13,13 TL",Ado Maraş Dondurmaları,5.0
+e1118aa1-1401-4eb5-8d48-956323188e84,Ado Marasta Sade Özel Maraş Dondurması (500 gr.),"24,38 TL",Ado Maraş Dondurmaları,5.0
+48b3f72f-caed-4e06-a999-9d8d90b2f263,Ado Marasta Maraş Dondurması Antep Fıstıklı & Çikolatalı & Sade Mix (Top) (500 gr.),"25,88 TL",Ado Maraş Dondurmaları,5.0
+75ab9497-c633-42bc-9a20-166d1dd5161a,Ado Marasta Özel Maraş Dondurması Sade Kesme Baton (500 gr.),"24,38 TL",Ado Maraş Dondurmaları,5.0
+4629374b-5c1f-44f4-89b5-858c67339403,Ado Marasta Özel Maraş Dondurması Çikolatalı Kesme Baton (500 gr.),"24,38 TL",Ado Maraş Dondurmaları,5.0
+0c0bfaf6-505b-4806-8470-7d8aeaec814e,Ketçi Keçi Sütlü Antep Fıstıklı Dondurma (100 ml.),"22,05 TL",Ketçi Keçi Sütlü Dondurmalar,5.0
+b05a7ae4-2da6-41e3-97de-35493013aa41,"Ketçi Keçi Sütlü Şekersiz Hurma Özlü Sade Dondurma (1,2 L.)","89,10 TL",Ketçi Keçi Sütlü Dondurmalar,5.0
+C1AD7D33-ED3B-4EB2-8A1D-2BF54D287A56,Kechy Gurme Sade Dondurma (100 ml.),"10,35 TL",Ketçi Keçi Sütlü Dondurmalar,5.0
+E7DC6177-0A1F-4AC6-AB73-B1D7CF1D4920,Kechy Gurme Sade Dondurma (500 ml.),"45,00 TL",Ketçi Keçi Sütlü Dondurmalar,5.0
+96CCC3B5-7598-40BA-BAD6-B1A6C2E0554F,Kechy Gurme Sade Dondurma (1000 ml.),"85,50 TL",Ketçi Keçi Sütlü Dondurmalar,5.0
+5F6F30EE-FB2F-464A-A897-28BBA040A3C0,Kechy Gurme Bitter Dondurma (100 ml.),"10,35 TL",Ketçi Keçi Sütlü Dondurmalar,5.0
+15B8EB63-98FF-4782-87BB-9A447C139D17,Kechy Gurme Bitter Dondurma (500 ml.),"45,00 TL",Ketçi Keçi Sütlü Dondurmalar,5.0
+9D70A094-86B0-4296-B2B7-30E93AE0BDD8,Kechy Gurme Bitter Dondurma (1000 ml.),"85,50 TL",Ketçi Keçi Sütlü Dondurmalar,5.0
+b2f57150-6eef-4d24-873a-4d2cc626cf11,Ketçi Keçi Sütlü Antep Fıstıklı Dondurma (250 ml.),"53,10 TL",Ketçi Keçi Sütlü Dondurmalar,5.0
+29e17550-db13-48b2-bc18-80a44d619c03,Ketçi Keçi Sütlü Antep Fıstıklı Dondurma (500 ml.),"107,10 TL",Ketçi Keçi Sütlü Dondurmalar,5.0
+f85bb2eb-a5ca-4623-b557-371629a95fae,Ketçi Keçi Sütlü Dondurma (Top),"8,10 TL",Ketçi Keçi Sütlü Dondurmalar,5.0
+d2f2884f-dbe5-4902-8650-0798ca26bc37,Ketçi Keçi Sütlü Ham Kakaolu Dondurma (100 ml.),"13,95 TL",Ketçi Keçi Sütlü Dondurmalar,5.0
+bdf54c84-154c-41f9-bfdb-ad5427edde0b,Ketçi Keçi Sütlü Ham Kakaolu Dondurma (250 ml.),"33,75 TL",Ketçi Keçi Sütlü Dondurmalar,5.0
+3851c3c5-239a-4084-b3af-f224b9358686,Ketçi Keçi Sütlü Ham Kakaolu Dondurma (500 ml.),"60,75 TL",Ketçi Keçi Sütlü Dondurmalar,5.0
+e72b094f-1e23-451f-ae89-d14c6ff3af1e,Ketçi Keçi Sütlü Sade Dondurma (100 ml.),"10,35 TL",Ketçi Keçi Sütlü Dondurmalar,5.0
+f9146d70-c01b-4501-a9f1-2e5e10267437,Ketçi Keçi Sütlü Sade Dondurma (250 ml.),"24,75 TL",Ketçi Keçi Sütlü Dondurmalar,5.0
+29fe301e-ec02-4a4f-b51f-5743ad41b3eb,Ketçi Keçi Sütlü Sade Dondurma (500 ml.),"47,25 TL",Ketçi Keçi Sütlü Dondurmalar,5.0
+01781d23-e50a-4c16-b753-5a99c97a67bc,"Ketçi Keçi Sütlü Sade Maraş Kol Dondurma (1,2 L.)","84,60 TL",Ketçi Keçi Sütlü Dondurmalar,5.0
+ff2d7e9d-af67-43bf-bebe-ec57279674e1,Ketçi Keçi Sütlü Şekersiz Hurma Özlü Sade Dondurma (100 ml.),"12,15 TL",Ketçi Keçi Sütlü Dondurmalar,5.0
+042116b8-d565-4cf1-a4c4-f6d2951e25d9,Ketçi Keçi Sütlü Şekersiz Hurma Özlü Sade Dondurma (250 ml.),"29,25 TL",Ketçi Keçi Sütlü Dondurmalar,5.0
+4c52dacc-4beb-4ce2-817e-e294604ccb02,Ketçi Keçi Sütlü Şekersiz Hurma Özlü Sade Dondurma (500 ml.),"56,25 TL",Ketçi Keçi Sütlü Dondurmalar,5.0
+a862e830-c225-4d4b-8079-aaa6e282bd1f,Karamelli Trileçe (Tepsi),"134,10 TL",Tepsi Trileçeler,5.0
+0576eca8-8466-493c-b0af-961e1ad5aeae,Frambuazlı Trileçe (Tepsi),"134,10 TL",Tepsi Trileçeler,3.0
+371f2b6c-5ea3-4d50-85b2-36a84d4493e8,Hindistan Cevizli Trileçe (Tepsi),"134,10 TL",Tepsi Trileçeler,5.0
+e76394f3-0c70-4599-bb67-aa6404850e87,Çikolatalı Trileçe (Tepsi),"134,10 TL",Tepsi Trileçeler,5.0
+7101de5a-b0af-4f4f-8d9f-156ca578a83e,Frambuazlı Çikolatalı Damla Sakızlı Trileçe (Tepsi),"161,10 TL",Tepsi Trileçeler,3.0
+a73cc374-5be0-459a-90ab-9e2544e18d69,Karamelli Hindistan Cevizli Çilekli Trileçe (Tepsi),"161,10 TL",Tepsi Trileçeler,5.0
+009ecb26-4faa-4d00-b412-1c45e9580e4d,Limonlu Karamelli Vişneli Trileçe (Tepsi),"134,10 TL",Tepsi Trileçeler,6.0
+7928af5d-33cd-4568-a579-f98197ba283c,Yaban Mersinli Portakallı Karamelli Trileçe (Tepsi),"161,10 TL",Tepsi Trileçeler,5.0
+2f756ec8-42a2-46bc-8db6-ed92f599d35c,Çilekli Trileçe (Tepsi),"134,10 TL",Tepsi Trileçeler,5.0
+47a75858-ae23-4c1c-ac3f-e18b28551af5,Damla Sakızlı Trileçe (Tepsi),"134,10 TL",Tepsi Trileçeler,5.0
+09536f86-b66c-4e99-bbad-710612bc6915,Limonlu Trileçe (Tepsi),"134,10 TL",Tepsi Trileçeler,6.0
+3405b5e8-42b5-4b86-85f3-2543de54166a,Portakallı Trileçe (Tepsi),"134,10 TL",Tepsi Trileçeler,5.0
+27c2b64e-7277-44e5-94bb-87de6ca21b47,Vişneli Trileçe (Tepsi),"134,10 TL",Tepsi Trileçeler,5.0
+327f8d1a-63f2-4233-aab4-fe52875143e3,Yaban Mersinli Trileçe (Tepsi),"116,10 TL",Tepsi Trileçeler,5.0
+d83613b1-107c-4966-af69-aaa40bf059e0,Antep Fıstıklı Trileçe (Tepsi),"179,10 TL",Tepsi Trileçeler,5.0
+0aefc0ef-4468-4fcf-9024-f6659181c6c3,Coca-Cola Light (20 cl.),"6,75 TL",İçecekler,5.0
+ca1be30e-fc0f-4c7c-9f3a-8a1086e77195,Coca-Cola Şekersiz (20 cl.),"6,75 TL",İçecekler,5.0
+2C011BF5-A1CB-4DAE-BF51-0A683280BED5,Schweppes Mandalina (25 cl.),"7,65 TL",İçecekler,5.0
+3B3F9D5B-90B6-465D-8F9E-DECD2545E098,Zencefilli Beyoğlu Gazozu (25 cl.),"6,75 TL",İçecekler,5.0
+97ce2370-4b34-43dc-a60d-150c022294e0,Ev Yapımı Limonata,"11,25 TL",İçecekler,5.0
+8a6d6bdf-26b9-427b-9504-549bb37b4fe2,Brownissa,"11,25 TL",İçecekler,5.0
+e1710c36-acf8-4d77-ba70-3b0546fb3489,Taze Sıkma Karadut Suyu,"11,25 TL",İçecekler,5.0
+b7d26263-f553-4f34-9edc-2fdecdd6daab,Taze Sıkma Nar Suyu,"11,25 TL",İçecekler,5.0
+bc9bbba6-bd56-40a6-8fab-31ec5b06a863,Taze Sıkma Portakal Suyu,"13,05 TL",İçecekler,5.0
+1174eb9f-1b6a-4e0e-b3f3-1386b8181c6c,Taze Sıkma Çilekli Limonata,"13,05 TL",İçecekler,5.0
+13031eb7-7dee-4ac7-815a-1b68a8c6c41e,Niğde Gazozu (25 cl.),"5,40 TL",İçecekler,5.0
+6c58611f-c3d0-4084-9210-29ef51b132d2,Çamlıca Gazoz (25 cl.),"5,40 TL",İçecekler,5.0
+fdb5110e-4032-44a6-9192-2732fe5e3aae,Süt (20 cl.),"2,70 TL",İçecekler,7.0
+c7b96d6b-02d7-4e61-a010-e5a2d716355c,Erikli Su (33 cl.) (Cam Şişe),"4,50 TL",İçecekler,6.0
+2ee5620f-a00a-4586-b620-d4e1dc30ea55,Erikli Su (50 cl.),"2,70 TL",İçecekler,6.0
+fb27748e-86f8-4ebf-b5c1-b675d8d84ee2,Erikli Su (1 L.),"4,50 TL",İçecekler,6.0
+388891ec-3b9c-47a8-a778-91951bb390b3,"Erikli Su (1,5 L.)","5,40 TL",İçecekler,6.0
+d3048bc4-406c-43c3-aa67-94b312fd4bec,Poşet,"0,25 TL",Poşet,5.0

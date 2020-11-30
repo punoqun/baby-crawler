@@ -1,0 +1,79 @@
+food_id,food_name,food_price,food_category,food_score
+3ecf38a2-40cc-4f58-867c-d92e0fef96cf,Patates Kızartması,"12,50 TL",Aperitifler,7.0
+40f8d4df-11a9-4a5d-bb4a-60c12e7678ff,Elma Dilim Patates Kızartması,"13,50 TL",Aperitifler,7.0
+53ca2637-62d7-4e28-ae48-80e38a0aa9dd,Sigara Böreği,"13,50 TL",Aperitifler,5.0
+44633f5d-3eec-484d-b299-4b0594abda08,Sosis Tava,"14,50 TL",Aperitifler,5.0
+c0ec09eb-8368-4a91-b907-3b4afc416c96,Sosis Sarma,"16,50 TL",Aperitifler,5.0
+f3b6f904-7cad-413f-8b00-2f6bd7b35b14,Sıcak Sepeti,"21,50 TL",Aperitifler,7.0
+a8b26e67-f8fa-423d-8db5-6736789da4d9,Kaşarlı Gözleme,"13,50 TL",Gözlemeler,6.0
+ad5277ea-f23d-4fad-bbd4-91f4ecdcfe0d,Karışık Gözleme,"15,50 TL",Gözlemeler,6.0
+b739c477-79cf-4ed1-9cda-5a55e3f328bd,Patatesli Gözleme,"14,50 TL",Gözlemeler,6.0
+7a2dd5f0-03a0-4bb4-8aeb-24d7fa3c8527,Beyaz Peynirli Gözleme,"12,50 TL",Gözlemeler,6.0
+673d2c8b-946d-4481-8405-f719e98fa924,Kıymalı Gözleme,"16,50 TL",Gözlemeler,6.0
+028288d0-967e-4f31-8f86-c8994bfff10e,Soslu Kıymalı Gözleme,"18,50 TL",Gözlemeler,5.0
+1f606644-5b8d-47a9-9c47-4e969cbf1e58,Çıtır Tavuk Sandviç,"17,50 TL",Sandviçler,8.0
+5dfbe787-c6be-43b6-8a70-4893f091f3ba,Köfte Sandviç,"21,50 TL",Sandviçler,5.0
+47f077be-8136-47bc-8c53-96f1fea457db,Ton Balıklı Sandviç,"19,50 TL",Sandviçler,5.0
+795077be-e735-4dea-b5b5-c0c1da2ce823,Soğuk Sandviç,"14,50 TL",Sandviçler,5.0
+ef304d54-3d79-4d01-b133-0321ce322d84,Steak Sandviç,"22,50 TL",Sandviçler,5.0
+a7045ca9-7a23-4b92-a425-80431b3758af,Tavuk Sandviç,"18,50 TL",Sandviçler,8.0
+dfc8b9ec-bce0-47cc-88bd-e86b03cd1323,Kumru Sandviç,"15,50 TL",Sandviçler,5.0
+fd7ef616-c7cc-4759-89ad-45b8249f6e01,Karışık Izgara,"53,50 TL",Kırmızı Etler,5.0
+a0c819ed-f5f4-44ef-84bd-bf8b106773e6,Sacda Et Sote,"34,50 TL",Kırmızı Etler,5.0
+a5f2c5e4-a50a-4117-8843-c8fe257166d3,Dana Külbastı,"32,50 TL",Kırmızı Etler,5.0
+a6bf2f52-3345-4fff-a8dc-e7eabdb49d32,Beğendili Dana Külbastı,"35,50 TL",Kırmızı Etler,5.0
+68a9eeca-e6ba-4cf3-9587-8bda5a16ca81,Yoğurtlu Izgara Köfte,"25,50 TL",Kırmızı Etler,5.0
+5419bd19-9d70-4e57-9d9d-0f67a4572115,Izgara Köfte,"23,50 TL",Kırmızı Etler,5.0
+927D3563-D157-412E-B59D-5DB40E00250B,Köri Soslu Tavuk,"25,50 TL",Beyaz Etler,16.0
+7A2483DE-2028-4405-8152-CA6C4C35C39A,Tavuk Kanat,"25,50 TL",Beyaz Etler,8.0
+5989f584-0f62-4707-8758-e591b2c923c3,Tavuk Special,"23,50 TL",Beyaz Etler,8.0
+5d36b0f9-0342-40f8-8c26-cc7da78f0fad,Tavuk Meksikan,"24,50 TL",Beyaz Etler,8.0
+6ec73113-a33c-4925-8f64-3a9dc6efcd50,BBQ Soslu Tavuk,"25,50 TL",Beyaz Etler,7.0
+5fa669e1-a0b0-4585-a56f-96a91ef24fcf,Mantar Soslu Tavuk,"25,50 TL",Beyaz Etler,9.0
+206ca8b6-f68f-4ed7-8b49-91ab74bdca5a,Soya Soslu Tavuk,"22,50 TL",Beyaz Etler,7.0
+c2c90638-2f14-4ed7-bd0a-e9fcd4859180,Tavuk Pirzola,"25,50 TL",Beyaz Etler,8.0
+c441adc0-061f-4664-b224-8cd7ff837287,Tavuk Külbastı,"25,50 TL",Beyaz Etler,8.0
+c4e7fa16-67e0-4eae-b998-513c97dbeb80,Tavuk Kavurma,"25,00 TL",Beyaz Etler,8.0
+944bba3b-00b4-4fac-aa47-13dcdd18cacf,Beğendili Tavuk Külbastı,"26,50 TL",Beyaz Etler,8.0
+90f213f1-747a-41cf-8d45-2ecbec144c14,Sacda Tavuk Sote,"25,50 TL",Beyaz Etler,8.0
+ed6d8eae-cac2-42f2-8bc1-a6510e37f674,Tavuk Schnitzel,"21,50 TL",Beyaz Etler,8.0
+11cd3c89-8852-4097-83c7-b0cf1b43e974,Combo Fajita,"35,50 TL",Fajitas,5.0
+51c35921-e6e5-4324-af65-b00d1063e326,Köfte Fajita,"27,50 TL",Fajitas,5.0
+8e90d637-576a-4bc6-8330-495447a486f3,Dana Fajita,"32,50 TL",Fajitas,5.0
+ccad626a-7ffa-4f9c-8ba0-813a5e0fc770,Tavuk Fajita,"25,50 TL",Fajitas,8.0
+e8ab719b-c68e-4fdf-92f1-85505a88cccf,Hamburger,"22,50 TL",Burgerler,6.0
+beaf7f20-6d6e-4ee9-82a7-109dc4215008,Cheeseburger,"24,50 TL",Burgerler,5.0
+5ff4d8cd-5917-4375-bf12-2321f381d751,Mexican Burger,"25,50 TL",Burgerler,5.0
+16c731c5-9ea8-4947-a350-4682f9493e8f,Tavuk Burger,"21,50 TL",Burgerler,8.0
+3180449d-e26f-4437-83f7-ae68a50c995a,Etli Wrap,"25,50 TL",Wraps,4.0
+40884bca-b306-477a-8300-ebc223fc981c,Tavuklu Wrap,"20,50 TL",Wraps,4.0
+ff947c86-3408-4da8-a64c-31d301bb71b6,Köfteli Wrap,"22,50 TL",Wraps,4.0
+411ad87f-9417-4123-8671-bb05554cc9e9,Spaghetti Bolonez,"16,50 TL",Makarnalar,5.0
+5dd4e71f-a469-4732-9ea8-53c632453553,Spaghetti Napoliten,"14,50 TL",Makarnalar,5.0
+aa05271c-f20d-4254-b8c7-d08aa59e6962,Penne Arrabbiata,"14,50 TL",Makarnalar,5.0
+c9ab21f8-9669-44b9-9872-7a671cd1275a,Fettuccine Alfredo,"18,50 TL",Makarnalar,5.0
+8586531d-1651-4e63-9236-e85245f64e6c,Kayseri Mantısı,"18,50 TL",Makarnalar,5.0
+88c3279d-d67b-449c-aae3-568577c04346,Sade Kumpir,"13,50 TL",Kumpirler,19.0
+9a2f0bc8-4283-47a5-afab-a30f748f267b,Kaşarlı Kumpir,"15,50 TL",Kumpirler,19.0
+a2a45d2d-91ed-45ef-9cdf-e14815857f09,Tavuklu Kumpir,"20,50 TL",Kumpirler,19.0
+3f3e6278-1452-4286-bbcf-e691c6210501,Ton Balıklı Kumpir,"21,50 TL",Kumpirler,19.0
+02bd0929-26ff-483e-bef2-fd120126ea55,Karışık Kumpir,"23,50 TL",Kumpirler,24.0
+3fdf069f-ad66-4db1-ade3-8f00afb42a16,Dana Etli Ilık Salata,"21,50 TL",Salatalar,7.0
+34b19312-fe53-49bb-b976-2531d5937f4b,Akdeniz Salata,"15,50 TL",Salatalar,7.0
+316e3829-bc5c-4436-a280-ffb45bab8f41,Sezar Salata,"18,50 TL",Salatalar,7.0
+79e79934-150c-44bb-86fc-ff99014cbf6b,Mevsim Salata,"14,50 TL",Salatalar,7.0
+abe34234-ee3f-4f2a-8525-a88b54d68f9d,Ton Balıklı Salata,"17,50 TL",Salatalar,7.0
+b41ce70d-6ffd-466a-b56b-a23b0dc1fd79,Çoban Salata,"15,50 TL",Salatalar,7.0
+e0b51ea6-19e1-4806-9ddf-799e3e48a5c5,Bademli Tavuk Salata,"20,50 TL",Salatalar,9.0
+5504F269-F2CF-4980-86F3-5964DD749651,Waffle,"18,50 TL",Tatlılar,12.0
+7CDE3158-C81A-4036-B158-6786398D837B,Latte Pasta,"14,50 TL",Tatlılar,7.0
+B4B0D7B5-6D1A-43C4-9A8C-86F574DD319D,Marlenka,"14,50 TL",Tatlılar,5.0
+FBA43BE4-1D5F-4538-BBE6-91075D443F44,Profiterol Pasta,"14,50 TL",Tatlılar,5.0
+9EB6F89D-6510-4943-AF02-2F0CA07413BC,Cocostar Pasta,"14,50 TL",Tatlılar,7.0
+A99A171D-66E0-40C4-97F3-4BEB4BBDBA4E,Muzlu Çikolatalı Pasta,"14,50 TL",Tatlılar,7.0
+431C6BE4-3EA1-405E-8AC0-7A9E187E987E,Fıstık Rüyası,"14,50 TL",Tatlılar,7.0
+B298966E-2E47-4258-B628-BEBC0E9AEF97,Devil's Pasta,"14,50 TL",Tatlılar,7.0
+BE1D9C0C-FA20-4607-BFA7-41AD6388BB4D,Brownie,"14,50 TL",Tatlılar,5.0
+A0ADB02D-CA7D-4597-AFE3-537267C0E5E6,Fırın Sütlaç (200 gr.),"14,50 TL",Tatlılar,5.0
+6A43D3B4-CAE5-46CF-A5C1-4EBD2BD1FF8E,Taze Sıkma Portakal Suyu,"15,00 TL",İçecekler,9.0
+8b89e873-448e-4bb7-9881-2d68199568ae,Poşet,"0,25 TL",Poşet,5.0

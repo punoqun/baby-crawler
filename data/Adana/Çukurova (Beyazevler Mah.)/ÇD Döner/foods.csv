@@ -1,0 +1,24 @@
+food_id,food_name,food_price,food_category,food_score
+058081e7-c610-4429-86fd-f165ad95581a,Cheeseburger Menü,"22,00 TL",Menüler,3.0
+f5c9e4d2-649d-4a5c-a12a-963073ac0774,Double Burger Menü,"30,00 TL",Menüler,3.0
+1d943191-a3cd-4b69-b55e-a0558c1776ac,Hamburger Menü,"20,00 TL",Menüler,0.0
+692459c4-b9b5-4585-8fd1-de6b2ca07134,Tavuk Burger Menü,"15,00 TL",Menüler,1.0
+83aa6c4c-6c21-426e-bc20-da1260f6e82b,Kampanyalı Tavuk Döner Menü,"15,00 TL",Menüler,-2.0
+873cbbcb-b29f-4281-a306-3ea549a3e088,Et Döner Menü,"20,00 TL",Menüler,-1.0
+b252de9d-cbd5-49c9-9509-34315d04058f,Tavuk Döner Dürüm Menü 1,"12,50 TL",Menüler,1.0
+5b0e8b8b-d618-4d42-8e1c-cbf558b6408a,Tavuk Döner Dürüm Menü 2,"16,00 TL",Menüler,2.0
+72c0cb87-8eaf-4463-b0f3-ddbebc472f6f,Et Döner,"15,00 TL",Et Dönerler,1.0
+1721d047-0a5e-41b9-9367-50821dd1fe46,Pilav Üstü Et Döner,"22,00 TL",Et Dönerler,1.0
+9b64d0e8-ba3c-4a8a-bdac-f98385829b71,Et Döner Dürüm,"15,00 TL",Et Dönerler,1.0
+56cbf58e-9875-414f-9fdd-63d6ccf694a1,İskender (Et Dönerden),"22,00 TL",Et Dönerler,5.0
+9d974f9c-a9b4-44ff-8957-5156749b8775,Mantarlı Köri Soslu Dürüm (Vejeteryan),"9,00 TL",Tavuk Dönerler,7.0
+d8370d24-cc1c-4f32-87e7-311d22d37365,Pide Arası Tavuk Döner,"10,00 TL",Tavuk Dönerler,0.0
+44ceeb0c-f08a-44ba-ad15-e37a55ee12ae,Pilav Üstü Tavuk Döner,"18,00 TL",Tavuk Dönerler,0.0
+b5197fff-0830-463a-bf7c-af2ed34a6271,Tavuk Döner Dürüm,"10,00 TL",Tavuk Dönerler,5.0
+b063f783-31e7-4471-be57-6a4713d291f8,ÇD Special Tavuk Döner Dürüm,"15,00 TL",Tavuk Dönerler,7.0
+5004e276-32e1-439b-ad15-719f84ab16a3,Çiğ Köfte (1 kg.) (Garnitürsüz),"34,00 TL",Çiğ Köfteler,5.0
+1d698e72-5d6c-4bb8-a46e-9067d898214b,Çiğ Köfte (1 kg.),"42,00 TL",Çiğ Köfteler,5.0
+39b2cc83-aef1-4e42-a3fd-f014f6e1d81d,Çiğ Köfte Dürüm,"6,00 TL",Çiğ Köfteler,5.0
+6f5cacc8-117b-4063-bfcf-977e0d61704a,Çiğ Köfte (Tam),"12,00 TL",Çiğ Köfteler,5.0
+eec505dc-3bad-4598-a605-ff35e5f6134c,Patates Kızartması,"5,00 TL",Yan Ürünler,3.0
+388db015-9325-4e56-a16a-179a602521c8,Su,"1,50 TL",İçecekler,5.0

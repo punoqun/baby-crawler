@@ -1,0 +1,56 @@
+food_id,food_name,food_price,food_category,food_score
+89D38652-9853-4BC9-B581-646799FE9C6E,2'li Lahmacun Menü,"18,75 TL",Menüler,12.0
+C004CB0B-60B1-4B17-B622-75B18D5FD0A8,Yarım ekmek Arası Köfte & Tatlı Menü,"17,25 TL",Menüler,-7.0
+62ED9A58-72DB-4F64-BEB4-E095D8709617,Adana Kebap Menü,"26,25 TL",Menüler,6.0
+1d460b58-ffa5-450d-8b90-2ea1e9f18120,Kasap Köfte Menü 2,"22,50 TL",Menüler,-1.0
+8933975A-6401-46BA-8FB4-587044C62226,Kıymalı Pide Menü,"24,00 TL",Menüler,10.0
+59A3855F-92C1-4753-85CE-D0DE548925C3,Kuşbaşılı Pide Menü,"26,25 TL",Menüler,14.0
+E9CEBC91-01CB-4E89-A65A-34B0BCE08B06,Sultanahmet Köftesi Menü,"29,25 TL",Menüler,11.0
+56B193C9-0CEE-40C6-B752-D92F3501F0A1,Tavuk Şiş Menü,"27,75 TL",Menüler,2.0
+688c79e9-d0ed-4bee-a517-d5c726f08aa4,Menemen,"15,00 TL",Kahvaltılıklar,5.0
+91920e4b-2a16-4590-bdb1-196e3d927433,Sade Omlet,"15,00 TL",Kahvaltılıklar,5.0
+3f263c7a-db20-4bca-92ea-e0c7d47124cd,Kahvaltı Tabağı,"22,50 TL",Kahvaltılıklar,6.0
+2C7AEC24-7AB4-48C2-ABCF-BFD2527CC1D4,Kaşarlı Menemen,"16,50 TL",Kahvaltılıklar,5.0
+3595939F-6D4B-4A09-A5F0-18FA3B7AA146,Sucuklu Menemen,"20,25 TL",Kahvaltılıklar,5.0
+9a8b5422-5014-4cc4-b9b6-fe2b66687d8a,Alinazik Kebap,"36,00 TL",Kebaplar,5.0
+2d1f316e-7ef8-4c1b-8800-ddce3ad6705e,Domatesli Kebap,"36,00 TL",Kebaplar,5.0
+b3234e9b-6647-4787-bdb0-a220f742807a,Patlıcanlı Kebap,"36,00 TL",Kebaplar,5.0
+7081dfd3-bc29-4ae8-a920-fdd3b4a46c86,Kaşarlı Köfte,"22,50 TL",Izgaralar,0.0
+dd67d5cd-c881-425c-9868-d374d91f6128,Beef Stroganoff,"40,50 TL",Izgaralar,5.0
+0e83510b-64d8-4783-bbc3-86f4a3d88bac,Dana Bonfile,"52,50 TL",Izgaralar,5.0
+92d9adab-f46b-4759-a863-9c25b85ac2f5,Kuzu Şiş,"43,50 TL",Izgaralar,5.0
+7bf00736-98d1-495e-baef-b876f4c5f219,Soslu Pideli Tavuk,"25,13 TL",Izgaralar,2.0
+acfb304b-f812-4f02-8aa9-76055331998a,Tavuk Şnitzel,"26,25 TL",Izgaralar,2.0
+53cc2609-8e70-4068-b886-e62aa4f66848,Karışık Izgara,"60,00 TL",Izgaralar,5.0
+d3f5e382-766d-4363-b48d-a0540c83f461,Çöp Şiş,"30,75 TL",Izgaralar,5.0
+59E8E19D-F792-474B-B619-1DD7FBB3B609,Karışık Pide,"27,75 TL",Fırın Ürünleri,10.0
+BFA95C04-0820-48C2-93C3-5DD21E96B71E,Kavurmalı Kaşarlı Pide,"27,75 TL",Fırın Ürünleri,10.0
+5caa30af-ff67-4cf6-b5dc-43e189e5f70b,Köfteli Buritto,"31,50 TL",Dürümler,5.0
+965fe480-9e1a-47a5-917f-35f0b6490288,Tavuklu Buritto,"24,00 TL",Dürümler,5.0
+9c8e174d-24d8-4b2f-beed-2bcc64bff1b9,Köfteli Fajita,"33,75 TL",Dürümler,7.0
+61c8860e-d3fc-406e-a712-e9903f4abba4,Tavuklu Fajita,"33,75 TL",Dürümler,7.0
+B498FB2D-3A92-4FD8-8E0D-2E535519A6DF,Tavuk Dürüm,"13,50 TL",Dürümler,2.0
+94d3633e-02b1-4747-86d7-5d235b7b5d57,Köfte Dürüm,"13,50 TL",Dürümler,0.0
+11846b42-f639-48a4-9f12-8d4bdaa5e0f6,3/4 Ekmek Arası Köfte,"20,25 TL",Ekmek Arası Ürünler,0.0
+ccaf4d6f-a14c-4adb-b23d-a33134eab7da,Tam Ekmek Arası Köfte,"21,75 TL",Ekmek Arası Ürünler,0.0
+7f46f565-212f-4f29-9942-d6162f92c685,Arnavut Ciğeri,"21,00 TL",Diğer Lezzetler,5.0
+f6ff431b-ca1b-40cc-afbd-50c564c64fea,Tas Kebabı,"24,00 TL",Diğer Lezzetler,5.0
+1763b62b-e931-4252-a697-bee3517c84dc,Pilav,"6,75 TL",Yan Ürünler,3.0
+b36c65ed-9722-4005-ad59-6ebf1a1ab1e9,Patates Kızartması,"12,00 TL",Yan Ürünler,5.0
+d6132fa5-bef4-4e44-a503-0f4139868e0f,Göbek Salata,"11,25 TL",Salatalar,4.0
+b7f364cb-7fea-4816-8bfe-ac530ef31f1f,Dondurmalı Helva,"13,50 TL",Tatlılar,4.0
+68518eb0-f729-4181-b9ca-9cdeac3d17b9,Künefe,"12,75 TL",Tatlılar,3.0
+538FD4BE-388F-4E08-B81B-B4F9F3106974,Cevizli Baklava (4 Adet),"13,50 TL",Tatlılar,3.0
+7AB7B5A4-E93A-470E-A6F5-9B064707D575,Fıstıklı Baklava (4 Adet),"14,25 TL",Tatlılar,3.0
+23598269-4EC9-4B36-A793-31E5BE9C2320,Fıstıklı Sarma (4 Adet),"16,50 TL",Tatlılar,5.0
+B3563EF1-0ACD-4E3B-98E0-99F151BE4AD9,Sultanahmet Köfte (1 kg.) (Pişirilmiş),"93,75 TL",Kiloluk Ürünler (Pişirilmiş),6.0
+D5A21CC4-FF08-4129-AF4F-55510920198B,Sultanahmet Köfte (500 gr.) (Pişirilmiş),"48,75 TL",Kiloluk Ürünler (Pişirilmiş),6.0
+7FE86B15-9506-49BE-9E56-28D537276593,Sultanahmet Köfte (500 gr.) (Pişirilmemiş),"33,75 TL",Kiloluk Ürünler (Pişirilmemiş),6.0
+e8193085-aec1-455a-b034-aa70a021f45e,Sultanahmet Köfte (1 kg.) (Pişirilmemiş),"67,50 TL",Kiloluk Ürünler (Pişirilmemiş),6.0
+FC8D9F3C-9A88-4705-A846-11D597858857,Cevizli Baklava (500 gr.),"20,25 TL",Kiloluk Tatlılar,3.0
+ADC22F10-38B5-4552-82DE-84D1A376E30A,Cevizli Baklava (1 kg.),"39,75 TL",Kiloluk Tatlılar,3.0
+6CA09215-99BD-4154-8CD8-4B4AD4834F12,Fıstıklı Sarma (500 gr.),"32,25 TL",Kiloluk Tatlılar,5.0
+4FE1D6FD-4EFD-40BC-9112-00EED7FB0553,Fıstıklı Sarma (1 kg.),"63,75 TL",Kiloluk Tatlılar,5.0
+7A270558-46A6-419D-B4B3-A05DBB741F91,Fıstıklı Baklava (1 kg.),"56,25 TL",Kiloluk Tatlılar,3.0
+E2ECA1DC-6FC1-40F6-832A-137BF1ED7E20,Fıstıklı Baklava (500 gr.),"28,50 TL",Kiloluk Tatlılar,3.0
+f2caf8c7-c68b-4004-934d-2593962e1eb3,Poşet,"0,25 TL",Poşet,5.0

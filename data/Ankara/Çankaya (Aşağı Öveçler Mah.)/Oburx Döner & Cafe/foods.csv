@@ -1,0 +1,79 @@
+food_id,food_name,food_price,food_category,food_score
+319f4fb0-02b9-4ff8-9a76-baf74cdf2986,Süper Kampüs Menü,"125,00 TL",Kampanyalı Menüler,7.0
+6acccbe3-78b0-4e72-a336-d6e4e9538bbf,2'li Hatay Usulü Tavuk Döner Dürüm Menü,"30,00 TL",Kampanyalı Menüler,-4.0
+ec60d8e6-5d54-4173-8ebb-d1013c211c45,3'lü Hatay Usulü Tavuk Döner Dürüm Menü,"45,00 TL",Kampanyalı Menüler,-4.0
+f9b9bd58-cd06-494a-b54e-ba40b8b34308,4'lü Hatay Usulü Tavuk Döner Dürüm Menü,"60,00 TL",Kampanyalı Menüler,-4.0
+e2eb732a-e2f8-471f-9268-847e4a0ac8db,5'li Hatay Usulü Tavuk Döner Dürüm Menü,"75,00 TL",Kampanyalı Menüler,-4.0
+7dcf3913-287d-42ae-b788-0b8b7610335b,6'lı Hatay Usulü Tavuk Döner Dürüm Menü,"90,00 TL",Kampanyalı Menüler,-4.0
+32085ebf-7d2f-451a-9ca8-4bb41db16098,7'li Hatay Usulü Tavuk Döner Dürüm Menü,"105,00 TL",Kampanyalı Menüler,-4.0
+32f3302d-1373-4c0b-a4af-464e92f189ba,8'li Hatay Usulü Tavuk Döner Dürüm Menü,"118,00 TL",Kampanyalı Menüler,-4.0
+51dfd07a-5efe-4bad-8b51-204852542ab9,9'lu Hatay Usulü Tavuk Döner Dürüm Menü,"135,00 TL",Kampanyalı Menüler,-4.0
+b54e10c0-872d-4cc2-b3f5-5ed6b8f96954,10'lu Hatay Usulü Tavuk Döner Dürüm Menü,"149,00 TL",Kampanyalı Menüler,-4.0
+0b4fe156-5fb3-4ff3-9208-b5a18a9a9c3b,3'lü Grup Menü,"65,00 TL",Kampanyalı Menüler,3.0
+b8507986-5a29-4974-ba53-2f7047160fa0,4'lü Grup Menü,"85,00 TL",Kampanyalı Menüler,3.0
+45e47ba2-9544-4036-9528-d8ecc13a26c7,5'li Grup Menü,"108,00 TL",Kampanyalı Menüler,3.0
+254aa749-79fc-40b3-ad8a-164fbe1be006,7'li Grup Menü,"150,00 TL",Kampanyalı Menüler,3.0
+ef4bac0a-ca69-4354-830b-4f67be53f996,8'li Grup Menü,"175,00 TL",Kampanyalı Menüler,3.0
+953f1530-90f9-43c8-8f4a-c644786a9526,9'lu Grup Menü,"199,00 TL",Kampanyalı Menüler,3.0
+777dfb8e-261e-402d-9556-55e6561508f1,Izgara Köfte Menü,"24,00 TL",Menüler,2.0
+950c02b8-79a9-4549-8a1d-c5ce0429b971,Ekmek Arası Köfte Menü,"20,00 TL",Menüler,-6.0
+b2386f5f-b4fc-4b7e-a1ba-e8bc2c3c9d62,Ekmek Arası Arnavut Ciğeri Menü,"17,00 TL",Menüler,-4.0
+1e680e21-cb86-4805-9d31-1a812f718989,Hamburger Menü,"15,00 TL",Menüler,3.0
+734ccfa7-1525-4da0-a631-688acbaf4b7b,Tavuk Burger Menü,"16,00 TL",Menüler,1.0
+911c3736-2a94-46f7-8c22-5df4e48e0e2c,Cheeseburger Menü,"16,00 TL",Menüler,3.0
+0ed49d44-8f57-47b1-965d-c376bd558ce3,Sucuk Ekmek Menü,"17,00 TL",Menüler,-5.0
+31d33e62-7d61-401d-8ec5-c979bc0c655e,Ekmek Arası Tavuk Sote Menü,"16,00 TL",Menüler,-7.0
+82176272-6077-4462-8c82-832ee520a156,Köyüm Tost Menü,"17,00 TL",Menüler,1.0
+ea18e71f-4a83-42d0-85ba-0a9b2942aa9f,Dev Egeli Tost Menü,"15,00 TL",Menüler,1.0
+a4f7eb59-7852-4a99-a937-c65ee2e71e98,Patates Ekmek Menü,"12,00 TL",Menüler,-7.0
+6ef1c68f-b3b3-4446-9658-ffca939bc73d,Tavuk Döner Sandviç Menü,"15,00 TL",Menüler,0.0
+87b169b5-da9c-4105-b14b-8a6aa89dc176,Kumru Sandviç Menü,"16,00 TL",Menüler,6.0
+b98734db-6d84-44df-ac20-86e08c9b367d,Ayvalık Tostu Menü,"16,00 TL",Menüler,3.0
+8f6cffb5-a631-421b-bb8d-ec53e8c5c7c2,Tavuk Döner Menü,"19,00 TL",Menüler,0.0
+ef8f0259-6466-41a2-9813-85c69fecd9c1,Hatay Usulü Tavuk Döner Dürüm Menü,"16,00 TL",Menüler,-4.0
+c9feacef-1403-4e19-a3b4-7c0a5b052cc4,Tavuk Biftekli Sandviç Menü,"17,00 TL",Menüler,1.0
+4a3e7988-a274-4990-8adb-504969aa1e6b,Arnavut Ciğer Menü,"22,00 TL",Menüler,2.0
+c33c0223-c68b-4348-91a8-1b2f3c8e8f3f,Tavuk Şiş Dürüm Menü,"18,00 TL",Menüler,-2.0
+fbcaf333-828c-47e5-a7e0-6f10ee8c85d6,Tavuk Külbastı Menü,"24,00 TL",Menüler,1.0
+9fd48835-9365-4ce6-ac9d-4cc8b4481225,Tavuk Şiş Menü,"24,00 TL",Menüler,1.0
+0224fd1f-89b6-413f-a72a-37bac424d8f0,Karışık Bazlama Tost Menü,"17,00 TL",Menüler,1.0
+f97d4fc6-3f1f-4cba-816b-aa31d5961d20,Kaşarlı Tost,"8,00 TL",Tostlar,2.0
+2b5db35a-ff1f-4d70-a6c9-00acbc14d2e8,Dev Egeli Tost,"10,00 TL",Tostlar,3.0
+81ac04ec-5d86-477e-842d-201751d14dfd,Karışık Tost,"9,00 TL",Tostlar,3.0
+6ab354c2-6608-4339-a859-6b2791a7a957,Ayvalık Tostu,"10,00 TL",Tostlar,5.0
+4efc7fb3-550c-4545-b0ba-ae99ef0e675f,Kaşarlı Bazlama Tost,"9,00 TL",Tostlar,2.0
+a153d602-b0db-4930-a394-cd95f244d4b3,Köyüm Tost,"10,00 TL",Tostlar,3.0
+ed2941d5-ee2b-487a-9f93-f60d5892f79c,Karışık Bazlama Tost,"10,00 TL",Tostlar,3.0
+3d536444-86af-4c58-873c-734ab855c2d3,Kavurmalı Bazlama Tost,"16,00 TL",Tostlar,3.0
+e4753496-a74e-4105-bc6d-05f506d7cfc0,Kumru Sandviç,"10,00 TL",Sandviçler,8.0
+dafd416c-be99-4e1d-a5d7-363d790d9dbc,Tavuk Biftekli Sandviç,"11,00 TL",Sandviçler,3.0
+55f944e8-8585-43eb-a12e-a304382281b8,Hamburger,"9,00 TL",Burgerler,5.0
+3ca39b6c-f8e6-4939-98bc-015b5c90270f,Tavuk Burger,"9,00 TL",Burgerler,3.0
+4b70fdcf-cdc5-4da7-b9be-2ce0b82a1c0c,Cheeseburger,"10,00 TL",Burgerler,5.0
+39df612d-6632-4c72-8c5e-d28da8f4a7db,Tavuk Döner,"13,00 TL",Tavuk Dönerler,2.0
+f94cfeae-78a1-4c7c-a170-2bf6552b2191,Tavuk Döner Dürüm,"10,00 TL",Tavuk Dönerler,-1.0
+d3b62fe5-32cd-4884-8f0a-55651662f240,Yarım Ekmek Arası Tavuk Döner,"8,00 TL",Tavuk Dönerler,-6.0
+4b3e9994-253c-4635-a2b1-9226349ce32f,Hatay Usulü Tavuk Döner Dürüm,"10,00 TL",Tavuk Dönerler,-2.0
+8b523926-1d61-4b29-b5ae-b3fc4c9124ca,Arnavut Ciğeri,"16,00 TL",Ana Yemekler,6.0
+489e08b4-91b4-4ba0-947b-d5968f5e62e9,Tavuk Şiş,"17,00 TL",Ana Yemekler,3.0
+d31b3905-e9a5-434a-9924-a348d4b755e7,Izgara Köfte,"18,00 TL",Ana Yemekler,4.0
+29b8e882-b5ea-4d86-94da-acd03798e0ce,Tavuk Külbastı,"16,00 TL",Ana Yemekler,3.0
+45b93b0e-6b17-411f-beda-63909831909f,Ekmek Arası Patates Kızartması,"8,00 TL",Dürümler & Ekmek Arası Ürünler,-5.0
+128b9d92-c41c-4dac-9c4c-94b875a7f01c,Ekmek Arası Tavuk Sote,"10,00 TL",Dürümler & Ekmek Arası Ürünler,-5.0
+6c07340c-607d-4a7c-a38d-75158c05cc3b,Arnavut Ciğeri Dürüm,"11,00 TL",Dürümler & Ekmek Arası Ürünler,8.0
+ed85cb46-87f0-4e53-9437-459a9585ee62,Ekmek Arası Arnavut Ciğeri,"11,00 TL",Dürümler & Ekmek Arası Ürünler,-2.0
+5e4053a1-af19-4281-951c-7cdba74f6dc6,Tavuk Şiş Dürüm,"11,00 TL",Dürümler & Ekmek Arası Ürünler,0.0
+0b11bb2c-b2ee-42f8-9590-b92d2b5c530c,Ekmek Arası Köfte,"14,00 TL",Dürümler & Ekmek Arası Ürünler,-4.0
+aac35e1f-44bc-486c-abec-74c6da9d2783,Köfte Dürüm,"14,00 TL",Dürümler & Ekmek Arası Ürünler,1.0
+5cd9cdce-0afd-40fe-a915-a2fda7f698f9,Ekmek Arası Sucuk,"11,00 TL",Dürümler & Ekmek Arası Ürünler,-3.0
+6afb9192-4e3d-468b-a0b3-1cf20c629ce9,Çiğ Köfte (250 gr.),"12,50 TL",Çiğ Köfteler,4.0
+bc5e1a45-625a-4f4d-a3d5-d1c86e8c7ee5,Çiğ Köfte (500 gr.),"25,00 TL",Çiğ Köfteler,4.0
+b33e08b5-7c2e-4fea-a5c3-4496338687c5,Çiğ Köfte (750 gr.),"35,00 TL",Çiğ Köfteler,4.0
+5a1db5a9-342c-4402-bdad-421465ee83b3,Çiğ Köfte (1 kg.),"45,00 TL",Çiğ Köfteler,4.0
+28c0235a-9ad9-4c0d-8f27-5b22981200b5,Burma Kadayıf,"9,00 TL",Tatlılar,5.0
+9b4d9680-fc59-46d1-a708-6ff844f502c4,Niğde Gazozu (25 cl.),"4,00 TL",İçecekler,5.0
+7586da6d-7d42-49f6-af3f-847f13ad00bd,Doğanay Şalgam Suyu (33 cl.),"5,00 TL",İçecekler,5.0
+bf74ee54-075e-4ff4-aa7b-973c8cb23f85,Su,"2,00 TL",İçecekler,7.0
+15c11b6e-2d15-4c79-b791-e2d5a9c01cec,"Su (1,5 L.)","5,00 TL",İçecekler,7.0
+bc1992a5-2a21-4ef3-a08c-74891804ad6c,"Yedigün (2,5 L.)","12,00 TL",İçecekler,5.0
+ffaf470d-c4fb-4ca7-83a2-06d339985cac,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,37 @@
+food_id,food_name,food_price,food_category,food_score
+34f0475f-f41c-4cf2-bbde-a6477bdf57e3,Ekmek Arası Uykuluk Menü,"17,00 TL",Menüler,5.0
+BE668004-A5A2-47B4-814D-6878D1DCD103,Adana Dürüm Menü,"24,00 TL",Menüler,7.0
+F2FB925B-8ED2-45A9-AEFA-B727682AD042,Tavuk Şiş Dürüm Menü,"24,00 TL",Menüler,10.0
+37A84E0C-89C5-4D17-88FD-76F857F16BFF,Ciğer Şiş Dürüm Menü,"24,00 TL",Menüler,3.0
+CB0C82ED-5B79-4514-98AD-F5864580F46F,Yürek Şiş Dürüm Menü,"24,00 TL",Menüler,5.0
+CF396B87-1014-4E0D-BA49-B243920F0801,Böbrek Şiş Dürüm Menü,"24,00 TL",Menüler,5.0
+94854fae-79a5-4dc7-b855-08b028dbe34a,Sucuk Ekmek Menü,"12,50 TL",Menüler,5.0
+1bdb0b25-2e93-4519-8ec1-a467d9b48975,Çeyrek Ekmek Arası Sade Kokoreç,"13,00 TL",Kokoreçler,-5.0
+1747a948-8347-402b-975a-3fd227d56184,Yarım Ekmek Aras�� Sade Kokoreç,"17,00 TL",Kokoreçler,-5.0
+08a90c65-96e1-4995-9875-82890e3da33c,Tam Ekmek Arası Sade Kokoreç,"25,00 TL",Kokoreçler,-7.0
+dc207191-6108-4849-99a7-367d9dcb4716,Çeyrek Ekmek Arası Sebzeli Kokoreç,"13,00 TL",Kokoreçler,-5.0
+b945dd4d-ee8f-4a03-85f9-6b6ac6bc827c,Yarım Ekmek Arası Sebzeli Kokoreç,"17,00 TL",Kokoreçler,-5.0
+a7ec60c9-abe9-4f9a-a55c-f3a4234dc10e,Tam Ekmek Arası Sebzeli Kokoreç,"25,00 TL",Kokoreçler,-7.0
+b8fff2b4-563f-4b63-93a9-db8b3e879217,Adana Kebap,"22,00 TL",Kebaplar,7.0
+638f9250-aed5-4e57-b1e3-ad8adc4f7917,Urfa Kebap,"22,00 TL",Kebaplar,6.0
+1e19330a-1b08-446b-a846-e2a26dce7c16,Maraş Kebap,"22,00 TL",Kebaplar,6.0
+64ff80c2-669f-4c06-9e0a-602d3997868c,Ciğer Şiş,"22,00 TL",Izgaralar,3.0
+df62bbf6-b951-45f9-b90c-dad9482a7747,Tavuk Şiş,"22,00 TL",Izgaralar,10.0
+55b6b58e-c77c-408a-ac0e-714aee38cd26,Tavuk Kanat,"22,00 TL",Izgaralar,10.0
+ece9d082-3b4f-4129-88fc-7a4619ff5993,Yürek Şiş,"22,00 TL",Izgaralar,5.0
+c3dd5a34-8e38-4461-a746-902d97ed85e1,Böbrek Şiş,"22,00 TL",Izgaralar,5.0
+a9a90a11-28da-4dbb-b1ca-67581951e4a0,Izgara Köfte,"25,00 TL",Izgaralar,5.0
+8a040833-ecc7-4da7-86df-4b7ca24d492d,Kuzu Şiş,"25,00 TL",Izgaralar,5.0
+611ca068-0d55-4e7d-9368-d79473bf4fd1,Karışık Izgara,"45,00 TL",Izgaralar,5.0
+803b75f4-3f84-4609-bc40-fc448d5f26e3,Adana Dürüm,"15,00 TL",Dürümler,12.0
+693a01e2-1696-42c0-aad0-d9ce27fce218,Özel Urfa Dürüm,"15,00 TL",Dürümler,6.0
+31e732f1-0872-4681-9823-095c7094b20c,Ciğer Şiş Dürüm,"15,00 TL",Dürümler,3.0
+a46dec62-9b0f-4725-9815-6348528d5005,Yürek Şiş Dürüm,"15,00 TL",Dürümler,5.0
+9b5a0e71-76b6-4db0-8e0c-684106a68941,Böbrek Şiş Dürüm,"15,00 TL",Dürümler,5.0
+0c2c793b-2b1d-4ad9-b021-6ecd8717a2b0,Tavuk Şiş Dürüm,"15,00 TL",Dürümler,10.0
+b9cac3bf-91ea-4357-b8d7-ad54da177dcb,Kuzu Şiş Dürüm,"17,00 TL",Dürümler,5.0
+3c94c728-efef-44b5-a5b0-d03060c39b44,Maraş Dürüm,"15,00 TL",Dürümler,11.0
+e1e96903-a635-4163-8d6b-6a92ea0331df,Midye Dolma (Orta) (Adet),"1,00 TL",Yan Ürünler,9.0
+98066C9B-DFE4-493A-8950-67F7BBEDDA74,Karamelli Trileçe,"7,00 TL",Tatlılar,5.0
+534ba2d8-010b-45f0-82ea-d9bfd746020c,Su,"2,00 TL",İçecekler,7.0
+6a6ab7b8-09c3-4f1e-b68a-959bae7d1338,Poşet,"0,25 TL",Poşet,5.0

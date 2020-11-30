@@ -1,0 +1,61 @@
+food_id,food_name,food_price,food_category,food_score
+1e2245c2-64e6-41ba-9cd7-5583a5009be8,Islak Hamburger Menü,"80,00 TL",Menüler,-9.0
+8551a520-59b3-4ee2-8c5d-972c47ad101e,Jumbo Menü 1,"75,00 TL",Menüler,-3.0
+d30c64d6-fbf7-41df-a584-0cca29dab49e,Jumbo Menü 2,"75,00 TL",Menüler,5.0
+ee9be167-17a1-4ac4-8eb8-ab1c6b3a0946,Menü 1,"32,00 TL",Menüler,-3.0
+c648b6db-f55e-4843-800b-ff539a081f6c,Menü 2,"32,00 TL",Menüler,5.0
+9df398d2-bcc8-48da-86ee-91251703cce2,Menü 3,"33,00 TL",Menüler,4.0
+0bf48c46-b66c-4c79-88e4-6b664c0cf525,Menü 4,"38,00 TL",Menüler,5.0
+06742d68-2765-4dc3-b34a-32e28f3aaf10,Menü 5,"32,00 TL",Menüler,7.0
+093bb308-2e4e-4423-9fdd-29d1d062697a,Menü 6,"47,00 TL",Menüler,5.0
+27b60b75-3038-4509-975b-0ea6979ee75f,Menü 7,"37,00 TL",Menüler,5.0
+54fcb99a-6302-410e-ab24-13192bdf9784,Menü 8,"35,00 TL",Menüler,7.0
+9ae9d3dc-b585-42d7-989c-26e7e20fad90,Menü 9,"33,00 TL",Menüler,7.0
+a0376eed-aa30-48a3-992d-0663687f6a45,Menü 10,"32,00 TL",Menüler,4.0
+6af6420f-a668-46f7-82c0-9c9cc02f4bdc,Menü 11,"32,00 TL",Menüler,5.0
+d121e5b4-3656-4d3c-b229-7999615ed95c,Menü 12,"32,00 TL",Menüler,3.0
+f4da7d7d-81f8-4dc0-91eb-0b950c0ec837,Menü 13,"32,00 TL",Menüler,5.0
+76eef7fc-811c-4abb-b155-85f9044ebc3a,Menü 14,"33,00 TL",Menüler,5.0
+d27679a8-69e6-42b4-9d6b-2adebc104af5,Menü 15,"25,00 TL",Menüler,5.0
+6a39b699-62cb-4fd9-8fb7-5c9f074e26a6,Menü 16,"45,00 TL",Menüler,5.0
+eb4eafcb-3aab-43a3-add1-c9048f2ecca3,Menü 17,"50,00 TL",Menüler,5.0
+932703f2-53ff-4932-a2c2-1f04bfc05b98,Menü 18,"60,00 TL",Menüler,5.0
+d80c5820-2400-4f09-a089-60c9b68aec0c,Menü 19,"45,00 TL",Menüler,5.0
+b8431b3b-20e8-4353-a6d4-74c8950db906,Menü 20,"75,00 TL",Menüler,7.0
+51827a68-efa5-43f4-807a-f33d9ef9fa27,Menü 21,"80,00 TL",Menüler,5.0
+6f25d32a-7ce0-45d0-a132-882c7a40caa6,Menü 23,"55,00 TL",Menüler,5.0
+8bd93073-80fb-46c8-94eb-03ce207eb0e8,Menü 24,"33,00 TL",Menüler,5.0
+ea9cb56b-f0d4-4586-89fd-c2a1593c3bd7,Menü 25,"36,00 TL",Menüler,5.0
+20d3c6f8-46dc-414e-8b5d-1544f5030347,Sosis Tabağı,"30,00 TL",Kahvaltılar,3.0
+28dcfd84-99ec-4dc9-8036-9ab18852f9e6,Ayvalık Ekmeğine Kaşarlı Tost,"17,00 TL",Ayvalık Tostları,-2.0
+3c95905d-f6b2-4df8-8b51-92ec1f7ea3a0,Ayvalık Ekmeğine Karışık Tost,"18,00 TL",Ayvalık Tostları,-3.0
+6530c3e2-0544-4f5f-8cfd-10118429a71b,Ayvalık Ekmeğine Dilli Kaşarlı Tost,"30,00 TL",Ayvalık Tostları,-2.0
+dd02040c-3469-4ab6-bcc5-474ff63fb872,Ayvalık Ekmeğine Beyaz Peynirli Tost,"17,00 TL",Ayvalık Tostları,-4.0
+a7f98f5a-2640-4fa7-8a0e-96efb2a97d8d,Islak Kaşarlı Burger,"8,50 TL",Burgerler,-3.0
+2047481a-7fc2-4fbd-a970-b75d39f85388,Islak Cheeseburger,"8,50 TL",Burgerler,-6.0
+ed4b98da-4392-4d5f-97b3-fb5be4d86b50,Lüks Burger,"9,50 TL",Burgerler,5.0
+89bfd0b0-70ad-4556-a3a9-91d10d142447,Kasap Köfte,"30,00 TL",Köfteler,3.0
+ea348062-07ae-42c3-a621-ece24a73666a,Kasap Köfte Dürüm,"21,00 TL",Köfteler,3.0
+779c2d64-29aa-40c6-9d7e-f157c9a81a12,Kaşarlı Kasap Köfte Dürüm,"22,00 TL",Köfteler,4.0
+27bb07d0-e10e-4d25-bd73-bfbeace2cb58,Yarım Ekmek Kasap Köfte,"18,00 TL",Köfteler,3.0
+4f11a90d-8692-4613-b11e-a0b288d5a45b,Pide Kasap Köfte,"18,00 TL",Köfteler,3.0
+0f9bb2bc-bc10-421d-97d5-f4a4a15261c5,Kumru Sandviç,"19,00 TL",Sıcak Sandviçler,5.0
+d41fe04d-5cad-43e4-9c21-346101d7b5f3,Kaşarlı Patso Sandviç,"14,00 TL",Sıcak Sandviçler,7.0
+426f4b0f-17d5-4332-9160-4bcd2c45d85e,Karışık Soğuk Sandviç,"15,00 TL",Soğuk Sandviçler,4.0
+5fc598ca-8160-432c-b7a6-0a6a1179d04d,Soğuk Sandviç,"12,00 TL",Soğuk Sandviçler,4.0
+01324193-5a29-4f62-8aed-1ce1d39b9ba6,Duble Patates Kızartması,"18,00 TL",Yan Ürünler,2.0
+2d3f941d-b8a3-4e76-8a50-6981199ed1d3,Turşu,"9,00 TL",Yan Ürünler,5.0
+22d37bf9-f253-448a-b063-2eafc0b784d4,Fırın Sütlaç,"15,00 TL",Tatlılar,5.0
+1ca2a372-ae55-4b17-a9b2-33abf9e7e9f8,Kıbrıs Tatlısı,"15,00 TL",Tatlılar,5.0
+631f05e5-806a-4d45-806d-a81fe7ccde5f,Karamelli Trileçe,"15,00 TL",Tatlılar,7.0
+955bb761-96fb-4d34-ad67-19c42082888a,Profiterol,"15,00 TL",Tatlılar,5.0
+05bb424a-4540-49a2-b6a1-9dcf0599c4db,Red Bull Energy (25 cl.),"15,00 TL",İçecekler,5.0
+e76990ae-2b7e-463f-89b5-a1c64817e698,Limonata (33 cl.),"7,00 TL",İçecekler,5.0
+ce6f9586-2b67-4f83-9d52-7d4813bf99eb,Taze Sıkma Elma & Nar Suyu,"12,00 TL",Vitamin Bar,5.0
+6ce6a3dc-178d-4186-8362-9fb84a47f368,Taze Sıkma Portakal & Nar Suyu,"12,00 TL",Vitamin Bar,5.0
+5f393391-93a2-4c5c-b4ce-b06823d2f167,Taze Sıkma Portakal & Elma & Havuç & Nar Suyu,"12,00 TL",Vitamin Bar,5.0
+18ab02d8-c939-496d-a9c5-a930ac2edf0e,Taze Sıkma Greyfurt & Nar Suyu,"12,00 TL",Vitamin Bar,5.0
+fdf99e49-7c99-4e3b-a7a9-afac27609359,Taze Sıkma Elma & Havuç Suyu,"11,00 TL",Vitamin Bar,5.0
+de9d86e4-c963-492c-a0e6-20d9f0c2892a,Taze Sıkma Portakal & Elma & Nar Suyu,"12,00 TL",Vitamin Bar,5.0
+7fa57119-6408-40cd-92f5-297d705e2494,Taze Sıkma Portakal & Greyfurt Suyu,"12,00 TL",Vitamin Bar,5.0
+6fc28d02-0983-4200-8cfe-e3b9674f4c3c,Poşet,"0,25 TL",Poşet,5.0

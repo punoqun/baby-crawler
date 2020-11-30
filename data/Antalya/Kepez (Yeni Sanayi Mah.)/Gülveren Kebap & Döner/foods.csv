@@ -1,0 +1,38 @@
+food_id,food_name,food_price,food_category,food_score
+db78457f-c822-4aac-befe-574010be7796,Adana Dürüm Menü,"15,00 TL",Menüler,16.0
+bc5710a7-ac13-4bc6-8a75-d4babd75d900,Pilav Üstü Tavuk Döner (200 gr.) Menü,"22,50 TL",Menüler,18.0
+2c580470-0a93-4596-9ee5-64e53002dcc9,Urfa Dürüm Menü,"15,00 TL",Menüler,7.0
+1e29d695-e7ea-4dab-9e84-f54ecbdf0b98,Izgara Köfte Dürüm Menü,"15,00 TL",Menüler,10.0
+701dff1c-6505-450b-9f87-3b9e19c7f58c,Tavuk Şiş Dürüm Menü,"15,00 TL",Menüler,16.0
+1c211539-5f75-4cc7-950c-e13aa4c2e0eb,Tavuk Şiş & Tatlı Menü,"21,00 TL",Menüler,16.0
+96557add-9256-4b93-a646-1b56531fa5a5,Yarım Ekmek Arası Kokoreç Menü,"15,00 TL",Menüler,17.0
+0f2336a1-be5a-45fd-82e9-8dd9afa70fe1,Tam Ekmek Arası Kokoreç Menü,"22,50 TL",Menüler,21.0
+346e0c32-c262-4f70-9fa2-aafa9077e1e7,3'lü Dürüm Menü,"37,50 TL",Menüler,7.0
+915192d0-9556-4c2c-b30e-6603fe0c098f,Sucuklu Tost,"11,25 TL",Tostlar,5.0
+90f88d60-38f0-4a0e-86ad-e7d6db16eba8,Kaşarlı Tost,"11,25 TL",Tostlar,5.0
+5b8d226b-936e-467f-b84c-65c78d96a5a5,Yumurtalı Tost,"11,25 TL",Tostlar,5.0
+552bef59-5f8b-45c2-9698-9e6bb2738b71,Çikolatalı Tost,"11,25 TL",Tostlar,5.0
+3d1d7aed-e439-4aa7-bc1a-80ffde9b0cde,Beyaz Peynirli Domatesli Tost,"11,25 TL",Tostlar,5.0
+5423b9f2-31e8-458a-87ca-9b9c9a6522c8,Sucuklu Kaşarlı Tost,"12,75 TL",Tostlar,5.0
+92a0a155-9c7a-4823-9182-a76ccd873398,Sucuklu Yumurtalı Tost,"12,75 TL",Tostlar,5.0
+96facecf-9d35-4c25-837c-6f57c7c965bc,Sucuklu Kaşarlı Yumurtalı Tost,"15,00 TL",Tostlar,5.0
+9de73324-97bc-440b-afc4-5c67b96c70a8,Tavuk Döner (50 gr.),"7,50 TL",Tavuk Dönerler,16.0
+8f354d67-a2c6-4d55-8f6c-26ef8105c674,Tavuk Döner (100 gr.),"11,25 TL",Tavuk Dönerler,16.0
+5e20b9ef-ada6-42ec-9b08-fb9386ec09ef,Tavuk Döner (150 gr.),"12,75 TL",Tavuk Dönerler,16.0
+2b9a7cfb-3fcc-478e-81ec-62eb4eab9d55,Tavuk Döner (200 gr.),"18,75 TL",Tavuk Dönerler,16.0
+7ab29e1d-7c90-4b05-bd9f-a3a0779f8f8d,Pilav Üstü Tavuk Döner (100 gr.),"15,00 TL",Tavuk Dönerler,16.0
+4f181d8e-be07-4799-8406-1ed314c100e2,Pilav Üstü Tavuk Döner (150 gr.),"18,75 TL",Tavuk Dönerler,16.0
+e85fa5ca-262f-4420-94f9-b3ae54cffff2,Adana Kebap Menü,"22,50 TL",Kebap & Izgara Menüleri,15.0
+5e651f90-8bcc-4257-ba4e-ff2206c566cc,Urfa Kebap Menü,"22,50 TL",Kebap & Izgara Menüleri,11.0
+acac0eee-426e-4dd4-a2db-eec8976ef2ca,Ciğer Şiş Menü,"22,50 TL",Kebap & Izgara Menüleri,7.0
+68e35874-a86f-44bd-8ad2-3ed57ef16b0b,Tavuk Şiş Menü,"20,25 TL",Kebap & Izgara Menüleri,16.0
+307ed34b-b0d5-4436-87cc-96baa33a3fcb,Izgara Köfte Menü,"22,50 TL",Kebap & Izgara Menüleri,10.0
+4843da83-c1ae-4b5b-b97b-8ff3babf6845,Adana Dürüm,"11,25 TL",Dürümler,14.0
+9d9cc600-3ba9-4611-a733-7961ce9a30d3,Urfa Dürüm,"11,25 TL",Dürümler,5.0
+4cf7ea33-e617-47ea-88ce-0f50e98c629a,Ciğer Şiş Dürüm,"11,25 TL",Dürümler,5.0
+3953569a-32bd-4a05-ac3a-8a23d4132bd2,Tavuk Şiş Dürüm,"11,25 TL",Dürümler,19.0
+a7ce1352-68cf-452a-bb21-66161e78f36c,Izgara Köfte Dürüm,"11,25 TL",Dürümler,8.0
+2dcdf691-cefc-4469-8c74-7dbe2a09adf8,Yarım Ekmek Arası Köfte,"11,25 TL",Ekmek Arası Ürünler,7.0
+4cd52f4e-395e-4f79-b937-e69bf9d58728,Yarım Ekmek Arası Kokoreç,"11,25 TL",Ekmek Arası Ürünler,15.0
+efc61f7f-2e14-44f1-8a6a-5342a1a7cd6a,Tam Ekmek Arası Kokoreç,"21,00 TL",Ekmek Arası Ürünler,19.0
+e4c7612c-4264-4969-b63d-dccecfab13ea,Poşet,"0,25 TL",Poşet,5.0

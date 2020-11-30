@@ -1,0 +1,38 @@
+food_id,food_name,food_price,food_category,food_score
+584e9281-c4dc-4a09-9115-7dc9f641f10e,Biftekli Sandviç,"32,00 TL",Sıcak Sandviçler,5.0
+75be924e-1956-42fb-b243-d1847715e379,Biftekli Mantarlı Sandviç,"31,00 TL",Sıcak Sandviçler,7.0
+a1c12e3e-0270-4a1d-be57-6dc831d4368a,Tavuklu Mantarlı Sandviç,"24,00 TL",Sıcak Sandviçler,7.0
+a6a527d9-34ec-46b7-b412-6180c2f4c452,Mantarlı Sandviç,"24,00 TL",Sıcak Sandviçler,7.0
+eb3ef999-8d3c-4031-8a17-b1436ef020a1,Tavuklu Sandviç,"24,00 TL",Sıcak Sandviçler,5.0
+5EDADBBC-21BE-4DBB-BCA1-DF06A7D992CE,Philadelphia Cheesesteak Sandviç,"31,00 TL",Sıcak Sandviçler,5.0
+44ff2a09-fd37-49a5-9dba-7891f229e4c8,Karışık Sandviç,"25,00 TL",Soğuk Sandviçler,5.0
+5904bddf-f18f-4972-ad17-2016f956e13f,Peynirli Sandviç,"21,00 TL",Soğuk Sandviçler,5.0
+75ba2b30-51dd-428a-8909-de821babd181,Ton Balıklı Sandviç,"29,00 TL",Soğuk Sandviçler,5.0
+768f9a99-3f94-45dd-b531-5e7d9a53485e,Dana Jambonlu Sandviç,"22,00 TL",Soğuk Sandviçler,5.0
+3857fa32-6f22-4afd-91e3-edc71452d16a,Biftekli Quesadilla,"30,00 TL",Quesdaillalar,5.0
+47584071-be53-4402-8292-689d2f48c368,Tavuklu Quesadilla,"24,00 TL",Quesdaillalar,5.0
+895d6e10-801a-4019-8163-075740954d66,Peynirli Quesadilla,"24,00 TL",Quesdaillalar,5.0
+b734325a-ceed-412e-9fb7-f97f24b6e869,Sebzeli Quesadilla,"24,00 TL",Quesdaillalar,5.0
+a1083d23-496b-48b5-b215-69ded6685043,Tavuk Tortilla Dürüm,"24,00 TL",Dürümler,9.0
+b85a5edf-a776-456f-9ad3-523d787792c0,Biftek Tortilla Dürüm,"30,00 TL",Dürümler,10.0
+E20CF9D4-54DC-425A-91BA-1E947823EB41,Cheddar Soslu Kıtır Dürüm,"25,00 TL",Dürümler,10.0
+482628e6-29b7-49f1-9b29-a6e1ef81456d,Tortilla Burger,"30,00 TL",Burgerler,5.0
+7adb340a-1d02-49b5-95ba-a4022f53794f,Mantar Cheeseburger,"32,00 TL",Burgerler,7.0
+7f1f45cf-7122-428f-a7df-6e4b345414e1,Bacon Burger,"35,00 TL",Burgerler,5.0
+e1ccba25-982f-45c4-bd9f-ee2a270594dc,Hamburger,"28,00 TL",Burgerler,4.0
+ec97e1fd-0912-4b28-a916-e121231bb792,Hellim Burger,"25,00 TL",Burgerler,5.0
+f2dc4afc-175f-4b24-bb00-953057bf70f0,Cheeseburger,"30,00 TL",Burgerler,5.0
+C5A64753-76C7-444C-957E-FEC43A1C400E,Steak Burger,"35,00 TL",Burgerler,5.0
+A8FCB732-B9A1-40D9-A2EE-E519D64D4B8D,Tavukburger,"30,00 TL",Burgerler,5.0
+c2045d78-8a79-4660-990e-280346903522,Margherita Pizza,"24,00 TL",Pizzalar,7.0
+589EBFF7-4D08-43A7-8D09-A6525DCAC9E9,Tavuklu Pizza,"30,00 TL",Pizzalar,7.0
+f0c1e152-807b-48d6-8f96-9ad4061407b6,Mantarlı Pizza,"24,00 TL",Pizzalar,9.0
+8969bdb7-87df-4ad3-8856-028c607df906,Mantarlı Jambonlu Pizza,"30,00 TL",Pizzalar,9.0
+98a2158a-89a8-4913-91db-621fe90d08ac,Ege Pizza,"27,00 TL",Pizzalar,7.0
+9d99555a-bfbb-4f29-a15f-d9b1e019f3a5,Akdeniz Pizza,"27,00 TL",Pizzalar,7.0
+c8737fe7-a114-4223-a0b5-dda04e5bf3c6,Sakal Pizza,"33,00 TL",Pizzalar,9.0
+2f701ef1-741e-42ed-9c79-37542b9befbe,Karışık Pizza,"33,00 TL",Pizzalar,7.0
+1687ead4-bdaa-486b-81a5-a322d568f830,Kasap Sucuklu Pizza,"24,00 TL",Pizzalar,7.0
+6d73260a-aa1a-4f54-bbae-73a991c3770f,Dört Peynirli Pizza,"33,00 TL",Pizzalar,9.0
+27732733-c27a-4c0b-ae75-f2f07725cfe1,Off Road Pizza,"38,00 TL",Pizzalar,7.0
+c50cf952-2b82-4801-a54c-e66098b41ecf,Poşet,"0,25 TL",Poşet,5.0

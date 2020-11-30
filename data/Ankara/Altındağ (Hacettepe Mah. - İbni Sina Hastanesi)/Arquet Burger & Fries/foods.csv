@@ -1,0 +1,37 @@
+food_id,food_name,food_price,food_category,food_score
+9fdd9cae-a1b9-4f5d-b7ac-3bdc9016d3c1,Klasik Burger Menü,"30,00 TL",Burger Menüleri,10.0
+24788217-4482-4c0e-8633-825b95b82c78,Cheeseburger Menü,"33,00 TL",Burger Menüleri,12.0
+d1a66991-3f9a-4712-adb0-c7f0cd720929,Crispy Burger Menü,"38,00 TL",Burger Menüleri,14.0
+8e409cb1-971f-4475-b291-4c477da8efd3,Arquet Burger Menü,"39,00 TL",Burger Menüleri,10.0
+72197a3d-9733-4b36-8242-d8b499486710,Hellim Burger Menü,"35,00 TL",Burger Menüleri,7.0
+9b97321a-3110-4b74-a2c8-b30a65bac1cd,Füme Etli Burger Menü,"36,00 TL",Burger Menüleri,8.0
+abc297c4-8273-4697-b5b8-fe28a076ad16,Big Arquet Burger Menü,"49,00 TL",Burger Menüleri,10.0
+5353e412-6b66-4dc8-82ad-75b15a4475e9,Jalapeno Madness Burger Menü,"39,00 TL",Burger Menüleri,8.0
+ad6831c9-9534-406f-a5f2-b9d2c6f87548,Izgara Tavuk Burger Menü,"24,00 TL",Burger Menüleri,9.0
+6e74ecba-3a58-44b8-985b-2d80e7435b74,Cheddarlı Tavuk Burger Menü,"25,00 TL",Burger Menüleri,9.0
+3bbf5b80-aa6f-4a0a-a275-60885967d9fe,3 in 1 Burger Menü,"39,00 TL",Burger Menüleri,103.0
+9bcffe24-5c9f-495a-8cc0-cfc85ec8c02e,Smoked Chicken Burger Menü,"26,00 TL",Fries Menüler,8.0
+10dadb38-7478-4e41-8954-2125944f675f,Cajun Wrap Menü,"25,00 TL",Fries Menüler,10.0
+47b4e0c7-dc10-4864-9949-d7be5113eed1,Hot Chicken Burger Menü,"24,00 TL",Fries Menüler,8.0
+faa7702c-7450-4a77-945d-b1a168531d0b,Cajun Burger Menü,"24,00 TL",Fries Menüler,13.0
+4949f8ca-e7a7-4d9b-985e-16b9d6ef9952,Cajun Sepeti Single Menü,"29,00 TL",Fries Menüler,15.0
+cd24f6fc-dd3e-4dd2-9d8e-ec85af859782,Cajun Sepeti Double Menü,"55,00 TL",Fries Menüler,10.0
+75dcb332-d956-4621-ac2d-3f6c1f852306,Special Box Menü,"27,50 TL",Fries Menüler,5.0
+6bd3e49f-8246-4e02-b83a-f436f536de07,Klasik Burger,"27,00 TL",Burgerler,10.0
+fb212522-1ed0-43c2-8816-33072e2a2217,Cheeseburger,"29,00 TL",Burgerler,7.0
+cdd523fb-52ca-49e5-a7cf-0447adb3f11b,Crispy Burger,"35,00 TL",Burgerler,9.0
+801871d5-60fa-47ce-b9fa-0549abbbe96f,Arquet Burger,"36,00 TL",Burgerler,10.0
+f009af82-935d-49b5-a189-acf6f431f8f5,Hellim Burger,"31,00 TL",Burgerler,7.0
+5d25ed48-ade2-4f63-a121-45c62fc3c7db,Füme Etli Burger,"32,00 TL",Burgerler,8.0
+23b4cf43-f7f1-435b-a31a-31b7638f7bf8,Big Arquet Burger,"45,00 TL",Burgerler,10.0
+c751d372-0258-4a78-a00e-4d597c7e5058,Jalapeno Madness Burger,"35,00 TL",Burgerler,8.0
+9b20107f-0416-4885-83e3-e1fad22acc16,Izgara Tavuk Burger,"20,00 TL",Burgerler,9.0
+ce9b6d3b-6b93-4224-8562-9629de98c07f,Cheddarlı Tavuk Burger,"24,00 TL",Burgerler,9.0
+935f2c26-dcb2-4621-b4ff-1636d37dd289,Cajun Sepeti (500 gr.),"51,00 TL",Yan Ürünler,10.0
+e5471a17-9058-4d41-a291-75e1fa5c129d,Sosis Sepeti,"24,00 TL",Yan Ürünler,5.0
+560341fc-02a4-4780-b25b-eee4590a42ec,Halkalı Sepet,"22,00 TL",Yan Ürünler,5.0
+04de3b27-37b4-4091-b564-26a0fe651f3a,Patates Kızartması (400 gr.),"15,00 TL",Yan Ürünler,13.0
+faaacd39-d541-4885-98ff-11883697ef5b,Karışık Sepet,"27,50 TL",Yan Ürünler,5.0
+0a8eccdc-44b2-4e72-8eae-ac9f074d54ce,Sos Seti,"2,50 TL",Soslar,4.0
+c7ed335f-8df7-4263-a25e-c9e3b75603d7,Louisiana Sauce,"4,00 TL",Soslar,5.0
+2f1ecba9-4848-4a35-9261-366f19ce5558,Acılı Mayonez Sos,"4,00 TL",Soslar,6.0

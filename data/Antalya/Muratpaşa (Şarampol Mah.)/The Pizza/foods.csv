@@ -1,0 +1,60 @@
+food_id,food_name,food_price,food_category,food_score
+266F03BB-FC88-4E6E-AF0E-D61CDD9956D2,Pi Üçlü Menü,"109,90 TL",Ekonomik Menüler,29.0
+2399f980-94d8-433d-819a-923b566242f5,Pi Extra Menü,"69,90 TL",Ekonomik Menüler,34.0
+71912965-ede3-4100-9568-2ad77905f01b,Pi Friends Menü,"94,90 TL",Ekonomik Menüler,29.0
+c3fa8826-4d0a-4caa-ae39-a6a90e32d776,Pi Menü,"64,90 TL",Ekonomik Menüler,29.0
+079FB647-8510-4CC7-995D-9AB8A87793DE,Pi Misafir Menü,"144,90 TL",Ekonomik Menüler,29.0
+46BADBBF-CEB0-438E-A996-309E5BB44631,Pi One Menü,"39,90 TL",Ekonomik Menüler,29.0
+7abffa2f-ede0-466a-a450-ffbd16849e88,Pi Pide Menü,"64,90 TL",Ekonomik Menüler,29.0
+7d639f7e-3ef8-40c1-9e1d-a52b7f4e0e7e,Pi Sabah Menü,"59,90 TL",Ekonomik Menüler,31.0
+7F0B4846-D0DA-47BC-BF9C-6A920FE27727,Pi Special,"99,80 TL",Ekonomik Menüler,25.0
+988bd08d-b6cf-465d-bf83-802a1e87e16a,Pi Delüx Pizza (Orta),"33,90 TL",Orta Boy Pizzalar (28 cm.) (1 - 2 Kişilik),34.0
+1dc1e0ae-d7d7-4143-b12c-001b09cb360a,Pi Dö Patso Pizza (Orta),"32,90 TL",Orta Boy Pizzalar (28 cm.) (1 - 2 Kişilik),34.0
+4dcdec11-3253-4077-82f3-7176a5891c33,Pi Dö Pizza (Orta),"31,90 TL",Orta Boy Pizzalar (28 cm.) (1 - 2 Kişilik),34.0
+cf664c6b-1f1b-4519-a856-98218cfb7444,Pi Gıdak Pizza (Orta),"32,90 TL",Orta Boy Pizzalar (28 cm.) (1 - 2 Kişilik),34.0
+897e92ae-a9d3-439b-a198-a5899eb7eb60,Pi Kavurma Şöleni Pizza (Orta),"36,90 TL",Orta Boy Pizzalar (28 cm.) (1 - 2 Kişilik),33.0
+5c55ff76-3094-4d88-8da4-c7b92551f4bf,Pi Margarita Pizza (Orta),"26,90 TL",Orta Boy Pizzalar (28 cm.) (1 - 2 Kişilik),34.0
+9d080471-379b-41af-b0b1-9f4a17a023b3,Pi Mix Pizza (Orta),"31,90 TL",Orta Boy Pizzalar (28 cm.) (1 - 2 Kişilik),41.0
+8aa11898-023a-4caa-8e70-e832168a7e74,Pi Pastırma Pizza (Orta),"35,90 TL",Orta Boy Pizzalar (28 cm.) (1 - 2 Kişilik),34.0
+d1a88b08-9719-4d92-9d69-3262839b6a67,Pi Peynir Pizza (Orta),"31,90 TL",Orta Boy Pizzalar (28 cm.) (1 - 2 Kişilik),33.0
+a101c995-7913-4578-b09c-f822ea05eaec,Pi Sanita Pizza (Orta),"30,90 TL",Orta Boy Pizzalar (28 cm.) (1 - 2 Kişilik),34.0
+B8621D47-EAF3-4A69-B548-AF9023AAD77E,Pi Simit Pizza (Orta),"32,90 TL",Orta Boy Pizzalar (28 cm.) (1 - 2 Kişilik),34.0
+e41ca5c0-ad89-415d-9174-7e2e60b38533,Pi Sosis Pizza (Orta),"30,90 TL",Orta Boy Pizzalar (28 cm.) (1 - 2 Kişilik),34.0
+1c705dbf-6f1b-4dbe-a7ea-d2169e857cd3,Pi Sucukçu Pizza (Orta),"32,90 TL",Orta Boy Pizzalar (28 cm.) (1 - 2 Kişilik),34.0
+2928cb7f-c098-4b88-9d96-09460af56645,Pi Tonno Pizza (Orta),"32,90 TL",Orta Boy Pizzalar (28 cm.) (1 - 2 Kişilik),34.0
+38b6ff03-57ab-4bdd-ae45-24f3ad134be2,Pi Turca Pizza (Orta),"33,90 TL",Orta Boy Pizzalar (28 cm.) (1 - 2 Kişilik),34.0
+bdcada7f-9681-4b89-9944-dbabe65f10fd,Pi Vegi Pizza (Orta),"28,90 TL",Orta Boy Pizzalar (28 cm.) (1 - 2 Kişilik),34.0
+ac601823-d46c-41b2-a42d-10b26f57aca5,Pi Volo Pizza (Orta),"29,90 TL",Orta Boy Pizzalar (28 cm.) (1 - 2 Kişilik),34.0
+e00cefc8-4830-486a-b498-5106a5d7d8ff,Pi Delüx Pizza (Büyük),"41,90 TL",Büyük Boy Pizzalar (33 cm.) (2 - 3 Kişilik),34.0
+d7ab8a16-8a2e-4d60-a402-8d218320af56,Pi Dö Patso Pizza (Büyük),"40,90 TL",Büyük Boy Pizzalar (33 cm.) (2 - 3 Kişilik),34.0
+33997e8d-6e57-4bb8-a9fd-845e24236a6f,Pi Dö Pizza (Büyük),"39,90 TL",Büyük Boy Pizzalar (33 cm.) (2 - 3 Kişilik),34.0
+4f78ce8c-cabb-4739-80f3-033bd5ae27b4,Pi Gıdak Pizza (Büyük),"40,90 TL",Büyük Boy Pizzalar (33 cm.) (2 - 3 Kişilik),34.0
+649fc6b6-aa52-46ed-af6e-26fc23fb8207,Pi Kavurma Şöleni Pizza (Büyük),"44,90 TL",Büyük Boy Pizzalar (33 cm.) (2 - 3 Kişilik),33.0
+ba18eca0-b328-43a2-89f5-4c50dcb112ca,Pi Margarita Pizza (Büyük),"34,90 TL",Büyük Boy Pizzalar (33 cm.) (2 - 3 Kişilik),34.0
+77be1138-9484-4e51-a393-ad2723c1347b,Pi Mix Pizza (Büyük),"39,90 TL",Büyük Boy Pizzalar (33 cm.) (2 - 3 Kişilik),41.0
+b60190fd-0f6f-4b95-8666-517a5ce9c2a5,Pi Pastırma Pizza (Büyük),"43,90 TL",Büyük Boy Pizzalar (33 cm.) (2 - 3 Kişilik),34.0
+57a9efd6-749e-40d0-99a0-e2d04767db32,Pi Peynir Pizza (Büyük),"39,90 TL",Büyük Boy Pizzalar (33 cm.) (2 - 3 Kişilik),33.0
+436e4b12-68a8-45af-95b0-c4735a6134e6,Pi Sanita Pizza (Büyük),"38,90 TL",Büyük Boy Pizzalar (33 cm.) (2 - 3 Kişilik),34.0
+49BE62A3-B6FA-47ED-B542-CE33DAF2F0BE,Pi Simit Pizza (Büyük),"40,90 TL",Büyük Boy Pizzalar (33 cm.) (2 - 3 Kişilik),34.0
+587d552e-4902-49bf-9e20-40b44502c008,Pi Sosis Pizza (Büyük),"38,90 TL",Büyük Boy Pizzalar (33 cm.) (2 - 3 Kişilik),34.0
+56ea77e6-4442-4e71-bf42-0fb1ac29b8ed,Pi Sucukcu Pizza (Büyük),"40,90 TL",Büyük Boy Pizzalar (33 cm.) (2 - 3 Kişilik),34.0
+cf2071de-9620-467c-9074-53520678e311,Pi Tonno Pizza (Büyük),"40,90 TL",Büyük Boy Pizzalar (33 cm.) (2 - 3 Kişilik),34.0
+dd5f1827-c84d-48f6-a89f-d50cadb605ec,Pi Turca Pizza (Büyük),"41,90 TL",Büyük Boy Pizzalar (33 cm.) (2 - 3 Kişilik),34.0
+68976ee9-8fc3-43f8-a68a-4f5ff60cc2f5,Pi Vegi Pizza (Büyük),"36,90 TL",Büyük Boy Pizzalar (33 cm.) (2 - 3 Kişilik),34.0
+8366625d-75c8-4e10-a476-c5af03c686c4,Pi Volo Pizza (Büyük),"37,90 TL",Büyük Boy Pizzalar (33 cm.) (2 - 3 Kişilik),34.0
+021aa8b8-71b7-4a30-8246-3801fcacd82f,Pi Mix Pide,"33,90 TL",Pideler,27.0
+179fb17d-b8c6-4202-855a-29458a3e0ebb,Pisabah Pide,"28,90 TL",Pideler,5.0
+30472fff-08b7-4609-a9fe-23913ce4f342,Piet Pide,"31,90 TL",Pideler,5.0
+5ad44150-65ed-436c-85a0-b5ed4f5ca027,Piturca Pide,"28,90 TL",Pideler,5.0
+6fdb6816-2bb2-4db1-806c-004b87412868,Pipopeye Pide,"27,90 TL",Pideler,5.0
+f54b4c43-c297-451f-b7e4-68f4e7e388e7,Pidö Pide,"29,90 TL",Pideler,5.0
+06e3a6c7-aef0-48d6-a845-eeadac81a225,Tavuk Nugget (10 Adet),"14,90 TL",Yan Ürünler,3.0
+e8c9d48e-6893-4643-9823-89cce37f9f0f,Patates Kızartması,"12,90 TL",Yan Ürünler,7.0
+D2E9FCF5-826A-447B-9C32-CB3A5AAD883D,Soğan Halkası (12 Adet),"14,90 TL",Yan Ürünler,5.0
+2411828D-0DB1-4489-944C-7FBB602F58B6,Pi Mix Box,"14,90 TL",Yan Ürünler,27.0
+BCBC283F-4279-4E05-BDAE-E2377F7F8A1F,Pi Çıtır Box,"17,50 TL",Yan Ürünler,25.0
+d086d1c1-6d6a-4b33-bd7a-56c40f9219f6,Yedigün (20 cl.),"5,00 TL",İçecekler,5.0
+2ec89411-63b9-4cf6-8a92-93c9d99a5b08,Niğde Gazozu (20 cl.),"4,50 TL",İçecekler,5.0
+7BD290FD-8754-4CA0-884B-7CB6306C921A,Limonata,"4,50 TL",İçecekler,5.0
+0ed84e0c-8aed-4c78-b794-5daec5f0450b,7UP (1 L.),"9,00 TL",İçecekler,5.0
+4A37C50E-58A9-4DE9-8658-8A1039803CC5,"Yedigün (2,5 L.)","8,50 TL",İçecekler,5.0

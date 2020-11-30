@@ -1,0 +1,41 @@
+food_id,food_name,food_price,food_category,food_score
+7dc9b234-5799-42ee-8a59-1c7390b20036,Patlıcanlı Kebap,"50,00 TL",Kebaplar,3.0
+03ac2fb8-5f5f-485f-9274-cd9b428faa37,Izgara Köfte,"31,00 TL",Izgaralar,5.0
+4499777c-3004-457a-baef-a9975572786e,Karışık Izgara,"55,00 TL",Izgaralar,3.0
+0e68c601-d9a5-4973-9204-7f0f9e12b904,Kuzu Ciğer (8 Şiş),"31,00 TL",Izgaralar,5.0
+190f9f25-4a74-4c54-aa27-87551fcafedf,Kuzu Küşleme,"50,00 TL",Izgaralar,5.0
+a066ed97-a007-46e2-9874-17d20250d9f7,Kaz Başı,"50,00 TL",Izgaralar,5.0
+6ca4fd68-767f-4d74-a9fd-fcc2dc142c6b,Kuzu Külbastı,"50,00 TL",Izgaralar,5.0
+C301A855-6E3F-42D4-8D2D-AF5F35E02CBC,Lahmacun (20 Adet),"80,00 TL",Lahmacunlar,5.0
+c569a1e1-da27-44d9-ad88-4eb1bb586fab,Kemiksiz Tavuk But,"31,00 TL",Tavuklar,7.0
+579e0908-9492-49df-a9da-c96e1e68fac7,Tavuk Pirzola,"31,00 TL",Tavuklar,5.0
+e77d6a1a-5bec-4a73-a24e-8e7d580403d8,Tavuk Kavurma,"39,00 TL",Tavada Ürünler,5.0
+8e7ac002-af7a-4ad9-8b16-691ef8b7215c,Şaşlık Kavurma,"50,00 TL",Tavada Ürünler,8.0
+49e7d4a6-6eb4-4841-b71b-584de5835c33,Et Sac Kavurma,"50,00 TL",Tavada Ürünler,4.0
+8d89980c-1439-4d27-bb66-c921435bfdbb,Tavuk Kıyma Dürüm (3 Adet),"36,00 TL",Dürümler,3.0
+ab05fe33-51ee-43a4-8726-85f2e83e5f30,Kuşbaşı Dürüm,"22,00 TL",Dürümler,3.0
+9b9e9a7d-3b3e-48e6-a784-9dd73882803c,Çöp Şiş Dürüm,"22,00 TL",Dürümler,3.0
+308d00b7-474a-4630-9b75-4e6453bd9a75,Ciğer Şiş Dürüm,"22,00 TL",Dürümler,3.0
+0ae05977-397d-4228-8fab-53b6918c8126,Tavuk Şiş Dürüm,"22,00 TL",Dürümler,3.0
+8c985463-8451-46c8-bcc1-ef39096625ec,Adana Dürüm,"22,00 TL",Dürümler,10.0
+b5ab6e4c-4b68-4978-859a-f0065cac4960,Patates Kızartması,"10,00 TL",Yan Ürünler,5.0
+6dac927a-9c3e-4060-8522-76a2a8fb2c48,Dondurmalı İrmik Tatlısı,"14,00 TL",Tatlılar,5.0
+07685088-308a-4a01-8259-796b6011115c,Açık Ayran (50 cl.),"5,00 TL",İçecekler,6.0
+a64c4b58-293b-4ff3-b99e-5ddb58b0c66d,Limonlu Soda,"2,50 TL",İçecekler,5.0
+346ec6f3-3197-4519-bb62-bc0b42eca0b4,Su,"2,00 TL",İçecekler,5.0
+35da85dc-43d8-4258-98ed-6d9e6b5f1c12,Açık Ayran (1 L.),"8,00 TL",İçecekler,6.0
+4a395ce8-6860-4fff-a431-3cb578a2c158,"Açık Ayran (1,5 L.)","12,00 TL",İçecekler,6.0
+7dd67e76-f625-4459-b046-d7c6324aed2b,"Su (1,5 L.)","4,00 TL",İçecekler,5.0
+36fd8758-dbe9-4a7a-95e3-2b48929463a1,"Fanta (2,5 L.)","12,00 TL",İçecekler,5.0
+0e62979a-37ca-4075-aee6-5907272fa76b,"Yedigün (2,5 L.)","12,00 TL",İçecekler,5.0
+34B098FF-6A3F-4EAB-A926-3D4AD3B8A426,Adana Kebap (1 kg.),"135,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+142BE3CD-D5D5-42CA-805D-D26B0AE1A58C,Kuşbaşı Kebap (1 kg.),"145,00 TL",Kiloluk Ürünler (Pişirilmiş),3.0
+9F61B10E-DD68-477D-B444-DDFB419606EE,Izgara Köfte (1 kg.),"135,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+FE999924-2326-4580-A906-3AA8A528925B,Şaşlık Kebabı (1 kg.),"160,00 TL",Kiloluk Ürünler (Pişirilmiş),8.0
+F9A860B5-FBEE-4ED4-AB68-CA6CE172A317,Tavuk But (1 kg.) (Kemiksiz),"55,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+55E2D6FC-A3C3-4046-9E2A-82B86E8C74B5,Tavuk But (1 kg.) (Kemikli),"55,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+1A3BDF6E-03F7-4D7F-96F1-12830477FCBE,Tavuk Kanat (1 kg.),"55,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+59E430E4-B9A2-4955-9B4A-F72951763B27,Tavuk Pirzola (1 kg.),"55,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+86D79A3A-9D06-48BD-908A-A5B9FBE68D5F,Tavuk Kıyma (1 kg.),"55,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+9c43f75a-d232-4614-a46c-c0cc7f3d5087,Kuzu Pirzola (1 kg.),"145,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+46841472-1bd9-4860-9492-bec19453f9a1,Poşet,"0,25 TL",Poşet,5.0

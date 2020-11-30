@@ -1,0 +1,54 @@
+food_id,food_name,food_price,food_category,food_score
+218cabd6-c35e-435e-ab53-114920b7971f,10'lu Lahmacun Menü,"60,00 TL",Menüler,9.0
+AF681636-2D52-442C-8D4A-16300B12FC43,15'li Lahmacun Menü,"90,00 TL",Menüler,9.0
+00AE80F6-2073-4310-84FF-27FAED0B9989,Kahvaltı Tabağı,"20,00 TL",Kahvaltılıklar,5.0
+C3A9BD55-D273-42C2-9633-620F0ABC6D0E,Kıymalı Menemen,"16,00 TL",Kahvaltılıklar,6.0
+2A6B78F5-ED63-43E8-920F-86F9F2FC1C81,Kaşarlı Menemen,"16,00 TL",Kahvaltılıklar,8.0
+0E3127BA-EA22-45C3-8BA4-14152CABD17B,Menemen,"14,00 TL",Kahvaltılıklar,6.0
+fc49c09a-0713-457c-a97d-c1bbaeeea554,Adana Kebap,"27,00 TL",Kebaplar,5.0
+5babc5c2-5a02-49c7-9ff8-a8a5c2642a55,Urfa Kebap,"27,00 TL",Kebaplar,7.0
+409d6d2a-296b-47e5-ae6e-2af02eed6974,İskender (Kebaptan),"32,00 TL",Kebaplar,0.0
+11376b6d-5a32-4ac7-845b-b6453922eaff,Patlıcanlı Kebap,"32,00 TL",Kebaplar,9.0
+9b2fd2cd-9449-4f29-ab78-46d6f9f65485,Domatesli Kebap,"32,00 TL",Kebaplar,7.0
+5b9d64b4-2618-49c2-bcb3-92da41155fca,Alinazik Kebap (Kıymadan),"32,00 TL",Kebaplar,7.0
+15649422-8dd5-46cf-bf06-d4d01a5a8503,Fırın Beyti Kebap,"32,00 TL",Kebaplar,7.0
+89a871b7-dfea-4f21-a5f8-d8e02305d312,Sarma Beyti Kebap,"32,00 TL",Kebaplar,7.0
+0fb537a0-e353-4802-9f33-1c11a425a3a4,Izgara Köfte,"25,00 TL",Izgaralar,7.0
+1383d0f8-266b-4e10-87ad-c1a6dfa68813,Tavuk Şiş,"23,00 TL",Izgaralar,8.0
+021110ee-9017-403a-b0a1-c09f7363c266,Tavuk Kanat,"23,00 TL",Izgaralar,7.0
+c1337711-a36b-425f-8d36-eff8abc33d72,Tavuk Pirzola,"24,00 TL",Izgaralar,10.0
+0d75b322-d1ac-41c6-b45e-34ea981108dd,Çöp Şiş,"33,00 TL",Izgaralar,5.0
+2f7eadea-7600-4656-8722-f5304f3535d6,Spesiyal Tavuk,"30,00 TL",Izgaralar,8.0
+12453831-004e-4ed9-b517-d001cff69481,Karışık Izgara,"45,00 TL",Izgaralar,20.0
+fba29635-15c4-4c77-b095-26d47d1bab73,Lahmacun,"6,00 TL",Fırın Ürünleri,11.0
+b4cdf632-9d47-4d67-859a-03d34647fba8,Kaşarlı Pide,"20,00 TL",Fırın Ürünleri,5.0
+238e4288-be19-42de-8506-b212fef6d97d,Kıymalı Pide,"20,00 TL",Fırın Ürünleri,3.0
+0eebcf7d-b554-458b-a2fb-10f16b4b56be,Kuşbaşılı Pide,"23,00 TL",Fırın Ürünleri,1.0
+8ffe95d9-f57e-410c-a871-db83300e5298,Kuşbaşılı Kaşarlı Pide,"23,00 TL",Fırın Ürünleri,8.0
+65374c9b-5805-4c3c-bb8b-c95c9e6cfed6,Karışık Pide,"23,00 TL",Fırın Ürünleri,18.0
+d7d04be1-bcf6-425c-b859-eb21da5c958f,Kaşarlı Sucuklu Pide,"21,00 TL",Fırın Ürünleri,6.0
+7165cbdf-27fd-40e0-8ced-3f140ae19f46,Kavurmalı Kaşarlı Pide,"27,00 TL",Fırın Ürünleri,5.0
+69ed10ac-c688-4f42-b1cd-9694d74c0214,Kavurmalı Pide,"27,00 TL",Fırın Ürünleri,3.0
+2456116b-582c-4882-a6fd-8b7880922d9f,Kıymalı Kaşarlı Pide,"22,00 TL",Fırın Ürünleri,5.0
+5a635a22-1545-4853-99e8-ce73737b1a42,Adana Dürüm,"18,00 TL",Dürümler,7.0
+c14a63a1-3a3a-4773-8bd5-b7361e8105c8,Urfa Dürüm,"18,00 TL",Dürümler,3.0
+1692e0d1-0f1f-4c08-ba73-aa9bd9b3b56e,Çöp Şiş Dürüm,"20,00 TL",Dürümler,3.0
+21cfbeef-3898-4963-906e-9b6ed4598d5f,Tavuk Şiş Dürüm,"16,00 TL",Dürümler,6.0
+04a30d89-3522-4a8a-a2e1-50b46316141b,Izgara Köfte Dürüm,"18,00 TL",Dürümler,5.0
+923e47da-e8ea-4646-ab5b-489ca0300902,Yarım Ekmek Arası Izgara Köfte,"18,00 TL",Ekmek Arası Ürünler,5.0
+b3028ae9-6793-4f78-bcef-64a286f1568e,Çoban Salata,"10,00 TL",Salatalar,12.0
+75fc127f-8cf2-43a4-9459-e908786084ee,Mevsim Salata,"10,00 TL",Salatalar,12.0
+55110224-2259-4749-9bf2-0f7a0e1d7f1e,Gavurdağı Salata,"10,00 TL",Salatalar,12.0
+34315341-48f1-4d2f-9c9b-b8d1b6454610,Fıstıklı Kadayıf,"12,00 TL",Tatlılar,7.0
+767C0D76-E5B5-4A09-9DCB-5C7A2A7E9C76,Eker Puding,"4,00 TL",Tatlılar,5.0
+4048dc84-c383-496e-a32f-7f317bafb21b,Algida Maraş Usulü Cup Dondurma (100 ml.),"6,00 TL",Dondurmalar,5.0
+a52e79b6-3cb6-44a5-bb7f-bdb0a0971755,Algida Maraş Usulü Dilim Dondurma (82 ml.),"6,00 TL",Dondurmalar,5.0
+eff3a76a-124b-4da2-8264-df2ac7e4f1d4,Carte d'Or Monoportion Çikolata Karnavalı (105 ml.),"7,00 TL",Dondurmalar,5.0
+85d87438-98cf-4f09-bcbf-80d6f2ed7304,Carte d'Or Monoportion Çilek Yoğurt (105 ml.),"7,00 TL",Dondurmalar,5.0
+76e7d6b4-c09f-4715-899e-0b5d60232355,Algida Maraş Dondurmalı Supangle,"12,00 TL",Dondurmalar,5.0
+b888dca6-0f67-487b-8505-a2a72d060c8d,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"12,00 TL",Dondurmalar,5.0
+9de59c25-16d2-4f80-9a4f-e1d6af7fd553,Algida Carte d'Or Volcano Cup (160 ml.),"13,00 TL",Dondurmalar,5.0
+e330b79c-70d8-4ccc-92b7-1f596b6bbb21,Tamek (33 cl.),"5,00 TL",İçecekler,5.0
+524c4951-021d-4863-9c93-5c3407e7261e,Ayran (20 cl.) (Cam Şişe),"4,00 TL",İçecekler,5.0
+29cab4b9-f1ae-4b2a-8b7e-bff8b94226f9,"Yedigün (2,5 L.)","10,00 TL",İçecekler,5.0
+e2fa9193-d5e5-494d-844d-3038bde544a9,Poşet,"0,25 TL",Poşet,5.0

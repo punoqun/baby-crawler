@@ -1,0 +1,49 @@
+food_id,food_name,food_price,food_category,food_score
+949ee93a-a086-45f4-bc14-2b2fcaae0ee0,10'lu Lahmacun Menü,"67,50 TL",Menüler,5.0
+8b6c68a4-0951-48c7-9b14-dfc707adcb4b,Meksika Ateşi Pizza Menü,"20,18 TL",Menüler,6.0
+bb2df3cc-b69c-4f12-a86c-38d5fdf29522,Karışık Pizza Menü,"22,43 TL",Menüler,6.0
+b3745781-b8e8-403d-acf3-e70fdd609c0a,Kıymalı Pide Menü,"20,25 TL",Menüler,11.0
+C7C90544-2928-4DCE-B651-6E40DE896D00,Tavuklu Pide Menü,"20,93 TL",Menüler,5.0
+ca94fdcb-d4f5-4d6e-b909-185b1877b3ca,5'li Lahmacun Menü,"37,50 TL",Menüler,5.0
+EBE6D7BD-D66C-423E-A135-6DC609AF1857,Patatesli Pide Menü,"18,68 TL",Menüler,5.0
+3b6dee07-9ce8-4a63-bf56-3275b235d486,Tombik Ekmek Arası Köfte Menü,"20,18 TL",Menüler,5.0
+6f77bad7-9e18-43af-9966-d5af5b39fa98,Kavurmalı Pide Menü,"32,18 TL",Menüler,5.0
+7FD44BFA-822B-4082-9970-44C18B034F9E,Kemik Sulu Mecimek Çorbası,"7,50 TL",Çorbalar,5.0
+DD17B164-63AE-43CA-ACB5-693D8D57DF04,Mantarlı Güveç,"18,75 TL",Pideler,5.0
+7D2272BB-E580-4319-B5F3-079868E9F06A,Tavuklu Güveç,"18,75 TL",Pideler,5.0
+1DAD33FB-25FC-42EC-AF37-0D0C31796C9F,Kuşbaşı Güveç,"22,50 TL",Pideler,8.0
+EC4F3283-65E2-4DE0-AEFA-A73A9DF577A4,Karışık Güveç,"26,25 TL",Pideler,5.0
+21BB927B-08F4-46FD-AAFF-09A91B5CC870,Kaşar Peynirli Pide,"15,75 TL",Pideler,5.0
+04631228-feb9-4044-8242-2d22679990fd,Kıymalı Pide (Açık),"17,25 TL",Pideler,11.0
+122c368a-366b-4a4b-a587-5c902dd7b613,Kıymalı Pide (Kapalı),"17,25 TL",Pideler,16.0
+b2079e80-2702-4693-92b4-3f6fc2053b52,Kıymalı Kaşarlı Pide,"18,75 TL",Pideler,16.0
+43ced462-6a64-4513-b281-39825b321e4c,Kuşbaşılı Pide,"19,50 TL",Pideler,6.0
+7a2694f0-a316-456d-8e0d-97c3d643b3b0,Kuşbaşılı Kaşarlı Pide,"21,00 TL",Pideler,11.0
+0c3bf57a-bfd9-40fe-ae2e-96783c3d257d,Pastırmalı Kaşarlı Pide,"23,25 TL",Pideler,5.0
+a405441a-bf84-4f0a-8305-031ada455084,Sucuklu Kaşarlı Pide,"19,50 TL",Pideler,5.0
+e49e4e1a-861c-42c1-9fae-253af8f21a01,Kavurmalı Kaşarlı Pide,"23,25 TL",Pideler,5.0
+ea8b6a70-5516-40a4-9137-62e095a77188,Sosisli Kaşarlı Pide,"18,75 TL",Pideler,5.0
+ce32464f-dded-45ea-94ec-b87b097e6d1c,Tavuklu Kaşarlı Pide,"18,75 TL",Pideler,5.0
+afec8c84-a831-4b32-b4c3-38eadd675f32,Karadeniz Ateşi,"19,50 TL",Pideler,5.0
+c1ab1196-20ab-47d6-870a-ec0d5a2cc678,Karışık Pide (Sucuklu),"27,00 TL",Pideler,5.0
+9c13c50a-be55-449b-aabd-a14897ad2ece,Karışık Pide (Pastırmalı),"28,50 TL",Pideler,5.0
+54be0f17-c409-4726-85e4-0ae3dbcd11db,Yoğurtlu Pide,"22,50 TL",Pideler,5.0
+0261a23b-9d9b-4b58-8fd9-3f8b1f4d9445,Kuşbaşılı Ufo Pide,"27,00 TL",Pideler,6.0
+f3e0fc2f-69de-46b8-bb09-8a2cd7e100a1,Tavuklu Ufo Pide,"24,75 TL",Pideler,5.0
+4d8cc5ef-2068-42cc-a7a9-dc288a86702b,Vejetaryen Ufo Pide,"23,25 TL",Pideler,5.0
+639fc03d-1cd1-4d20-9671-01431445a05f,Patatesli Kaşarlı Pide,"15,75 TL",Pideler,5.0
+702f4a5b-b1ed-49f3-8264-9273622afbeb,Ispanaklı Beyaz Peynirli Pide,"15,75 TL",Pideler,5.0
+b2ffbdb2-6ce6-4394-895c-96986a46a16c,Peynirli Pide,"15,75 TL",Pideler,5.0
+4dcce841-ea0e-4dea-8dd6-9afe91d123a5,Mantı,"19,50 TL",Makarnalar,5.0
+8a5c1812-88c1-43bf-9f01-f8236fc06bce,Spaghetti Bolognese,"19,50 TL",Makarnalar,5.0
+c3ce2358-ceb1-4343-9d6d-3d19aa88189a,Penne Arrabbiata,"18,75 TL",Makarnalar,5.0
+14bcf3ae-74d2-4a1a-9780-2e36fd7b31eb,Özel Akdeniz Salatası,"17,25 TL",Salatalar,5.0
+b11e43d8-98fa-491d-bd60-752b75b0059b,Ton Balıklı Salata,"18,75 TL",Salatalar,7.0
+15b581ba-3f8d-4398-af04-759c9f5ac418,Mevsim Salata,"8,25 TL",Salatalar,7.0
+4ac8068f-269f-47b1-abec-6fee322ecbb9,Çoban Salata,"8,25 TL",Salatalar,7.0
+f844c3f1-e73a-4873-ac41-c2783501a01c,Izgara Köfte,"22,13 TL",Diğer Lezzetler,5.0
+80ac6e7d-51c1-4e65-bb1e-a040baff99fe,Soslu Elma Dilim Patates Kızartması,"9,00 TL",Yan Ürünler,5.0
+edd47ed4-8671-4149-80e7-366a59c4b38e,Cacık,"8,25 TL",Yan Ürünler,5.0
+009a166f-646c-46fd-98b1-ba40ab33ebf8,Künefe,"9,00 TL",Tatlılar,5.0
+101DAA88-AACB-43FB-B642-EC96ECC86A17,Çikolatalı Sufle,"6,75 TL",Tatlılar,5.0
+C7797142-523F-4BFB-9082-68BEF8EC922A,Katmer,"11,25 TL",Tatlılar,5.0

@@ -1,0 +1,95 @@
+food_id,food_name,food_price,food_category,food_score
+e71f25ab-6d2d-4e51-9f3f-067dd6966fa7,Dany Menü,"28,00 TL",Menüler,2.0
+58d8ea25-61fe-41a8-a2da-fdadf58d81b0,Jumbo Dany Menü,"33,00 TL",Menüler,-2.0
+c4dd047b-6246-4553-80d3-b349eff86ea5,Chicky Menü,"20,00 TL",Menüler,2.0
+320e8239-cfe2-474e-98b4-c839302718fe,Chicky Cheese Menü,"22,00 TL",Menüler,2.0
+dc4c1275-c23b-4e44-a5d4-b9e6aecb7e8a,Chicky Mexicano Menü,"21,50 TL",Menüler,2.0
+ac688958-7aff-450f-b0eb-8a2aa36f60c2,Chicky Cheese Mexicano Menü,"23,50 TL",Menüler,2.0
+3d926777-c4c3-45d8-92d9-56c0ad483f77,Chicky Tavuk İskender Menü,"24,00 TL",Menüler,-1.0
+4601c560-d1b6-4b8c-a98f-e7e9d32a20c7,Chicky Fix Menü,"26,00 TL",Menüler,2.0
+b4fd3855-6ac0-4ad8-9a6f-39b70a564b1a,Jumbo Chicky Menü,"23,00 TL",Menüler,3.0
+475bac45-aeed-47d5-b2e6-e6ba0f504eea,Jumbo Chicky Mexicano Menü,"22,50 TL",Menüler,-2.0
+128c3d0f-d724-4652-9e34-fdfd546dcbba,Jumbo Chicky Cheese Menü,"25,00 TL",Menüler,-2.0
+fe1c9d5b-8b02-4d80-aa6f-bca14a8231ae,Jumbo Chicky Cheese Mexicano Menü,"26,50 TL",Menüler,-2.0
+48f53af7-16e8-4175-9a7a-2e43528b316e,Jumbo Chicky Fix Menü,"29,00 TL",Menüler,-2.0
+ec39efd0-8cff-4f46-97ef-a7df2245bc92,Twin Chicky Menü,"29,00 TL",Menüler,2.0
+ff061915-dcbd-4208-873b-410d022cb96c,Twin Mexicano Chicky Menü,"31,00 TL",Menüler,2.0
+bb5d692a-9413-4816-a29b-c52bc8482d0f,Twin Cheese Chicky Menü,"35,00 TL",Menüler,2.0
+7a60f856-ad1e-41ab-9251-bd45e3ed6dd2,Twin Cheese Mexicano Chicky Menü,"38,00 TL",Menüler,2.0
+99d2e36f-13de-4eea-9a51-efa0ce9ae034,Löp Löp Chicky Menü,"26,50 TL",Menüler,-1.0
+0613c21e-1092-4302-a25f-a3d7ded61095,Löp Löp Mexicano Chicky Menü,"28,00 TL",Menüler,-1.0
+416663b1-e955-42fe-9c80-5a41ab2282d4,Löp Löp Cheese Chicky Menü,"29,00 TL",Menüler,-1.0
+51733371-2b79-417c-91f8-0b2641edb664,Löp Löp Cheese Mexicano Chicky Menü,"30,00 TL",Menüler,-1.0
+3a80338a-b0a1-4233-8fa3-131b1373ffa3,King Chicky Menü,"29,50 TL",Menüler,3.0
+a6a43e09-1b36-48f5-9425-e7df0765ccf5,King Mexicano Chicky Menü,"31,00 TL",Menüler,3.0
+56f1a13b-4d3e-4289-b4a0-5b33a2ca1e9d,King Cheese Chicky Menü,"31,50 TL",Menüler,3.0
+da77d4b2-16c0-4352-bb57-8e6077816aa7,King Cheese Mexicano Chicky Menü,"33,00 TL",Menüler,3.0
+f7e1e89a-2409-41e1-b614-87ad97d0ed80,Kanka Chicky Menü,"45,00 TL",Menüler,2.0
+bf87c105-95e5-41ea-b653-e579ca00467a,3'lü Jumbo Chicky Menü,"53,50 TL",Menüler,-2.0
+41f791c7-036e-43ba-8436-d34e26688d8b,3'lü Jumbo Cheese Chicky Menü,"60,00 TL",Menüler,-2.0
+b7fbfbe4-7f1b-4606-a7f9-b6bbcfb58bd7,3'lü Jumbo Mexicano Chicky Menü,"58,00 TL",Menüler,-2.0
+ebdc9c95-896a-499e-b9fa-1f79105f67c3,3'lü Jumbo Cheese Mexicano Chicky Menü,"64,00 TL",Menüler,-2.0
+14b5bd4d-f2ff-4a4f-9cf8-e62cc8ec64f5,5'li Chicky Menü,"61,00 TL",Menüler,2.0
+20966237-f4f8-4d03-ac82-16c25c87fe6f,Süper Fırsat Menü 1,"59,00 TL",Menüler,-20.0
+51205561-7590-458a-bdca-5dc3be89a3d9,Süper Fırsat Menü 2,"73,00 TL",Menüler,-19.0
+c93c7560-4330-4386-9858-05701c520855,Süper Fırsat Menü 3,"90,00 TL",Menüler,4.0
+f3eb286e-0bd0-414b-a06f-e6d303c3d3f7,Chicky,"12,00 TL",Dürümler,5.0
+69cc44a5-ad6c-4cce-b2dc-cc9f3697de91,Chicky Mexicano,"13,50 TL",Dürümler,5.0
+acf28578-c5f2-4160-a377-8321fed14858,Chicky Cheese,"14,00 TL",Dürümler,5.0
+824d9cd3-7be9-411a-b053-79c766d1b892,Chicky Cheese Mexicano,"15,50 TL",Dürümler,5.0
+c49ddfc6-786e-4fc6-8dd1-7766c7686ef2,Jumbo Chicky,"15,00 TL",Dürümler,6.0
+9192bb01-291c-4bd0-93a0-daec05b36733,Jumbo Chicky Cheese,"17,00 TL",Dürümler,6.0
+ee3a8879-e2df-41de-9f99-f7e0af6cc7db,Jumbo Chicky Mexicano,"16,50 TL",Dürümler,1.0
+a0e42d88-4a47-45d2-91cc-36443a298d6a,Jumbo Chicky Cheese Mexicano,"18,50 TL",Dürümler,1.0
+e486302d-f1fc-413b-ac27-add64f900ebc,King Chicky,"21,00 TL",Dürümler,6.0
+78edda88-c80f-4b71-ae28-de7bdf4be989,King Chicky Cheese,"23,00 TL",Dürümler,6.0
+4903dc66-a006-4e57-9651-cc73cb76828c,King Chicky Mexicano,"22,50 TL",Dürümler,6.0
+52fbd76b-c789-4689-9e69-cf7e6a53edaf,King Chicky Cheese Mexicano,"24,50 TL",Dürümler,6.0
+56a0bdd1-4bfa-483e-93e0-b491516e1cdb,Chicky Hot Chili,"14,00 TL",Dürümler,5.0
+edaa4731-1c4a-4b44-b552-0a7f0b70c689,Chicky Barbekü,"14,00 TL",Dürümler,3.0
+2bf5af17-0e71-456c-a235-c4e8a7c20d0f,Chicky Hardal,"14,00 TL",Dürümler,5.0
+17f8ce6f-d797-49d8-8d32-bb6e9a878035,Chicky Ranch,"14,00 TL",Dürümler,5.0
+ae49798a-1c74-43c7-a858-07fd5239e494,Chicky Körix,"14,00 TL",Dürümler,5.0
+bb75140d-c1af-49f7-aa72-1840f36d9662,Chicky Cheese Hardal,"16,00 TL",Dürümler,5.0
+0620c8c0-c7f1-47f0-9d84-9e0b632d2d41,Chicky Hot Chili Cheese,"16,00 TL",Dürümler,5.0
+e8d6ee4e-84c8-4f3d-9809-241f51f58582,Jumbo Chicky Hot Chili,"17,00 TL",Dürümler,1.0
+2b7cf6c5-c5db-442c-be3f-9bb8b222bff8,Jumbo Chicky Barbekü,"17,00 TL",Dürümler,-1.0
+bd5b3bd3-3c3b-4888-8833-b3363ba43f34,Jumbo Chicky Hardallı,"17,00 TL",Dürümler,2.0
+94e23391-517c-43af-b2ae-2e623cdebb68,Jumbo Chicky Ranch,"17,00 TL",Dürümler,1.0
+532ef8f5-72dc-4020-bc23-4e642fa56343,Jumbo Chicky Körix,"17,00 TL",Dürümler,1.0
+e64592e9-251c-42ae-83c1-c5c7852a34fd,Jumbo Chicky Cheese Barbekü,"19,00 TL",Dürümler,-1.0
+f0af62ce-d72b-402f-8cd9-5b5de8bbc9b0,Jumbo Chicky Cheese Hardal,"19,00 TL",Dürümler,1.0
+e40592dd-5eed-4e4a-acf1-96a5c06e66f5,Jumbo Chicky Cheese Ranch,"19,00 TL",Dürümler,1.0
+9bfb1998-06e1-4214-aa3e-f876c7a2b4ed,Jumbo Chicky Cheese Körix,"19,00 TL",Dürümler,1.0
+13cf7b46-6363-4a7a-811d-98a8f258ebfd,Jumbo Chicky Cheese Hot Chili,"19,00 TL",Dürümler,1.0
+cad976a7-0b48-4f0a-a23c-1c45d2008bbc,Löp Löp Chicky,"18,00 TL",Dürümler,2.0
+11e73819-5a39-40a6-8e3b-88a6bc259d0f,Löp Löp Chicky Mexicano,"19,50 TL",Dürümler,2.0
+73cdc68c-8b0c-4c42-b1ca-4ae84e251a51,Löp Löp Chicky Chesee,"20,00 TL",Dürümler,2.0
+9d1876f1-452a-4bb0-a0b1-8f5120930032,Löp Löp Chicky Chesee Mexicano,"21,50 TL",Dürümler,2.0
+669c9070-34fc-4949-ae0f-6c94e01033ac,Chicky (Porsiyon),"20,00 TL",Tabakta Chicky'ler,5.0
+cd61712f-dfde-4938-89b3-b66fd158d03a,Chicky Kaşarlı (Porsiyon),"22,00 TL",Tabakta Chicky'ler,6.0
+31f618eb-e7a6-4558-8b57-d97424c45940,Dany,"19,00 TL",Et Dönerler,5.0
+cf58633e-fd76-4fac-bdf5-f57ebfeb7b08,Dany Cheese (Kaşarlı),"21,00 TL",Et Dönerler,5.0
+29e24713-9da7-4e1a-b84b-5917c40abfc7,Dany Mexicano,"20,50 TL",Et Dönerler,5.0
+a66df3ee-f527-4692-b462-c2ab7d5c0e9f,Dany Cheese Mexicano,"22,50 TL",Et Dönerler,5.0
+c2c4b9dc-1d5e-48ed-9647-1428180d74bb,Pilav Üstü Et Döner,"28,00 TL",Et Dönerler,1.0
+d7bed9f4-8ce8-471b-9160-ee93da1e0c21,Jumbo Dany,"24,00 TL",Et Dönerler,1.0
+919dd857-37b5-44ee-836d-d1857fb49cd4,Jumbo Dany Cheese,"26,00 TL",Et Dönerler,1.0
+b000f3bd-bcb0-458c-97fb-a503e56666f7,Jumbo Dany Mexicano,"25,00 TL",Et Dönerler,1.0
+c9fa8c77-8d1f-432d-ab12-a02127ab9910,Jumbo Dany Cheese Mexicano,"27,00 TL",Et Dönerler,1.0
+a319dbf3-a81e-4edb-a3a4-b785e55d7502,King Dany,"32,00 TL",Et Dönerler,6.0
+a32b70c1-ee5e-4848-aac9-2e5567f060bb,King Dany Cheese,"34,00 TL",Et Dönerler,6.0
+3f44a050-6dcb-4583-af16-1f085647b479,King Dany Mexicano,"33,00 TL",Et Dönerler,6.0
+927015a8-acf0-4a34-ab6b-f810b8062a87,King Dany Cheese Mexicano,"35,00 TL",Et Dönerler,6.0
+9bdece62-aa96-4991-aad4-81e108af54fd,Dany İskender (Et Dönerden),"28,00 TL",Et Dönerler,7.0
+d42c5409-bfc2-4bcd-8358-eff6c8845305,Et Döner (250 gr.),"30,00 TL",Et Dönerler,3.0
+70576344-a103-417b-8ab3-e62c917f6928,Et Döner (500 gr.),"58,00 TL",Et Dönerler,3.0
+b51e776e-36e0-4c09-8403-3a3e22844f60,Et Döner (1 kg.),"110,00 TL",Et Dönerler,3.0
+9f06f6cb-b64b-48d3-949c-e534a2fdf091,Patates Kızartması,"7,00 TL",Yan Ürünler,-1.0
+a5d9852c-6384-405f-970d-c4193270bdcc,Duble Patates Kızartması,"12,00 TL",Yan Ürünler,-2.0
+ebc38158-aaaf-4eb1-8390-c07321f1756f,Supangle,"5,00 TL",Tatlılar,5.0
+524b295c-36b5-4b0e-8d8e-9d7489b25d75,Keşkül,"5,00 TL",Tatlılar,4.0
+911460b8-6986-47d0-9021-06f3ccaabe2b,Şalgam Suyu,"4,00 TL",İçecekler,5.0
+a81beb6b-7f01-4ac1-92c0-ad61465a33c0,Su,"2,00 TL",İçecekler,5.0
+394a8d0d-7c5c-4908-9c2c-5a32c63339c9,Red Bull (25 cl.),"8,00 TL",İçecekler,5.0
+429a194c-9e62-4e63-b91d-3d455bb467e5,Poşet,"0,25 TL",Poşet,5.0

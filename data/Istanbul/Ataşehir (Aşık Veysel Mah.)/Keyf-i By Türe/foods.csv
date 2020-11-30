@@ -1,0 +1,64 @@
+food_id,food_name,food_price,food_category,food_score
+5AAEF752-A735-4CCB-80E3-929B667DD908,Tavuklu Pilav Menü,"23,00 TL",Menüler,9.0
+6A6EE361-9177-4131-B584-6C0A91093B73,2'li Tavuklu Pilav Menü,"50,00 TL",Menüler,9.0
+756d2577-2283-45d8-b30f-9fb1872cf9c7,Keyf-İ Köfte Menü,"26,00 TL",Menüler,5.0
+ff9af3d9-6159-4ad8-9cae-e5cd6a13adbc,Keyf-İ Kokoreç Menü,"28,00 TL",Menüler,11.0
+91AFE3CF-3D9D-438A-A95E-A085DB5C9C07,Çiğ Köfte (500 gr.) Menü,"30,00 TL",Menüler,6.0
+FC40E9D9-70C0-41A5-848B-35ABACA02DBE,Çiğ Köfte (1 kg.) Menü,"50,00 TL",Menüler,6.0
+a74c1f78-817d-4e23-b516-f61a7450c92b,Keyf-i Special Çorba,"30,00 TL",Çorbalar,12.0
+397febbe-98a8-47fb-88ef-facd031cf33a,Kelle Paça & Ayak Paça Çorbası,"25,00 TL",Çorbalar,2.0
+380ac874-2d63-43af-b5c9-a30dfb35c2c0,Damar Çorbası,"23,00 TL",Çorbalar,5.0
+79c49d94-fdef-42f4-bb67-1d3ee7e00852,Kelle Paça & Tuzlama Çorbası,"25,00 TL",Çorbalar,2.0
+9c15ad99-4695-41d1-ba60-ec5e67228192,Tuzlama & İşkembe Çorbası,"25,00 TL",Çorbalar,4.0
+5db7918e-8052-4092-afb8-943093d9520e,Kelle Paça & İşkembe Çorbası,"25,00 TL",Çorbalar,1.0
+7d6c9754-cccc-4f81-8c4c-4593c2eb365e,Damar & Tuzlama Çorbası,"25,00 TL",Çorbalar,5.0
+E9B5B99B-2A1C-49BA-8757-B9E910189DDB,İzmir Usulü Yarım Ekmek Arası Kokoreç,"25,00 TL",Kokoreçler,21.0
+52887BA2-8BC4-4530-96CF-A04C3E473909,İzmir Usulü Çeyrek Ekmek Arası Kokoreç,"15,00 TL",Kokoreçler,19.0
+B6B727CF-AED8-438B-BAE4-D466464014C3,İzmir Usulü Tam Ekmek Arası Kokoreç,"48,00 TL",Kokoreçler,17.0
+D68181BE-81EF-4E25-8022-BFEEB3C97A73,Yarım Ekmek Arası Sade Kokoreç,"25,00 TL",Kokoreçler,19.0
+415B1A69-DC2E-4A3C-8670-8D156AC2C29C,Çeyrek Ekmek Arası Sade Kokoreç,"15,00 TL",Kokoreçler,17.0
+B16C68A7-E8C1-4417-9022-5BED2471CDDB,3/4 Ekmek Arası Sade Kokoreç,"36,00 TL",Kokoreçler,17.0
+525A234C-E01A-4D17-92B7-08096E70E0FD,3/4 Ekmek Arası İzmir Usulü Kokoreç,"36,00 TL",Kokoreçler,19.0
+FC019AAC-7E51-4711-BB17-58DE29324178,Tam Ekmek Arası Sade Kokoreç,"48,00 TL",Kokoreçler,15.0
+62ec523e-7e69-4e24-8e28-99dfc8717e58,Kokoreç,"40,00 TL",Kokoreçler,11.0
+651cd676-eddc-441a-80a8-5abb9392746e,Halka Kokoreç,"50,00 TL",Kokoreçler,11.0
+4150939b-d783-4e30-ac15-3cdeacb828ce,Sade Kokoreç,"50,00 TL",Kokoreçler,11.0
+1dd8cea4-97f3-4618-b78a-393b9cc16633,Çeyrek Ekmek Arası Sebzeli Kokoreç,"12,00 TL",Kokoreçler,17.0
+9c3d15ac-d8c9-4050-9563-f180558bd777,Tam Ekmek Arası Sebzeli Kokoreç,"35,00 TL",Kokoreçler,15.0
+d86326a6-f7ee-4097-a93a-bd9240db5681,Yarım Ekmek Arası Sebzeli Kokoreç,"20,00 TL",Kokoreçler,19.0
+dc80c6ca-98bf-4b7f-a8ae-7540134032cf,3/4 Ekmek Arası Sebzeli Kokoreç,"30,00 TL",Kokoreçler,17.0
+4bd3d29d-c37e-403c-8efb-f1611b82ac1d,Izgara Köfte,"25,00 TL",Izgaralar,7.0
+273CBCB0-D8EC-44B9-9CC7-3DF07CFA9722,Karışık Izgara,"25,00 TL",Izgaralar,7.0
+D00871D8-9DAB-421E-8893-466AE0A186A1,Özel Soslu Izgara Tavuk,"23,00 TL",Izgaralar,15.0
+C9609CFE-EA6B-4F84-B0D0-1ACE8C9904B8,3/4 Ekmek Arası Özel Soslu Izgara Tavuk,"20,00 TL",Ekmek Arası Ürünler,21.0
+92E46C8A-D6AF-4D03-96B5-F85F54AFE009,Tam Ekmek Arası Özel Soslu Izgara Tavuk,"24,00 TL",Ekmek Arası Ürünler,19.0
+895BFF8C-790C-4A6D-BE51-79F0B3F2B0A7,Yarım Ekmek Arası Özel Soslu Izgara Tavuk,"12,00 TL",Ekmek Arası Ürünler,28.0
+7b62ee93-b928-448f-9a1d-c605730c2ec7,Yarım Ekmek Arası Izgara Köfte,"15,00 TL",Ekmek Arası Ürünler,20.0
+7d01af81-139d-44c9-abd5-42bf5c2ba911,3/4 Ekmek Arası Izgara Köfte,"23,00 TL",Ekmek Arası Ürünler,13.0
+71b25fee-c157-4490-97bc-799585274dc2,Tam Ekmek Arası Izgara Köfte,"28,00 TL",Ekmek Arası Ürünler,11.0
+E2F33509-FC78-4636-88DF-36296C69E2EC,Kuru Fasulye (300 gr.),"14,00 TL",Ana Yemekler,1.0
+75c717b5-b550-4ecd-bd72-ed924192a068,Tavuk Pilav,"13,00 TL",Ana Yemekler,15.0
+db76ebc3-9b7f-4c0d-897a-a6c9bbe81ab9,Tavuk Pilav (Büyük Boy),"15,00 TL",Ana Yemekler,15.0
+0f4cdde9-5fe6-46bb-bd61-291eeb9cd1c2,Pilav Üstü Kuru Fasulye,"13,00 TL",Ana Yemekler,4.0
+60223e0c-37b0-4bfd-b9c6-91c9b9c2b468,Pilav Üstü Kuru Fasulye (Büyük Boy),"15,00 TL",Ana Yemekler,4.0
+1be949ed-e29f-4688-981a-9ab679171c4b,Pirinç Pilavı,"9,00 TL",Ana Yemekler,7.0
+40865fb4-e821-40bb-84fb-11b86f8874bd,Pirinç Pilavı (Büyük Boy),"10,00 TL",Ana Yemekler,7.0
+a4df5662-88d3-4aeb-801f-19f2e0b5df25,Pilav Üstü Köfte,"15,00 TL",Ana Yemekler,8.0
+d082bc6b-459f-48aa-b0fc-8cd050aafcba,Pilav & Tavuk & Kuru Fasulye,"15,00 TL",Ana Yemekler,11.0
+483FDBA8-056F-48C8-B2AF-D4DC275863A7,Çiğ Köfte (200 gr.),"10,00 TL",Çiğ Köfteler,6.0
+A25FE619-9694-49CE-B861-E7AFC1E3B46D,Çiğ Köfte (400 gr.),"20,00 TL",Çiğ Köfteler,6.0
+FEF9B8A5-4B42-49EC-BB73-159272F6285F,Çiğ Köfte (600 gr.),"30,00 TL",Çiğ Köfteler,6.0
+5126D19C-53E1-4F74-AFA2-2861814E429F,Çiğ Köfte (1 kg.) (Garnitürsüz),"35,00 TL",Çiğ Köfteler,6.0
+788948BA-14B6-49D8-A40E-C510A6294A75,Çiğ Köfte (1 kg.),"47,00 TL",Diğer Lezzetler,6.0
+5D7AE670-B3B9-44F8-A3EE-8C478748E123,Cacık,"8,00 TL",Yan Ürünler,5.0
+26942EB0-F9F0-412B-A916-3EF2897484C7,Göbek Marul (Tam),"7,00 TL",Yan Ürünler,5.0
+6BB0C439-EFB0-49EB-A367-5F821B9430BB,Göbek Marul (Yarım),"4,00 TL",Yan Ürünler,5.0
+B5D0A321-B03E-4322-9A47-45011DA2EF91,Limon,"2,00 TL",Yan Ürünler,5.0
+B13A2F3E-A8AC-4535-859B-B4863B506CF4,Lavaş (Adet),"1,00 TL",Yan Ürünler,5.0
+6AC1ACCE-250D-4850-A460-3CD7CEBCD36C,Sirke,"1,00 TL",Yan Ürünler,5.0
+ac889324-1a3a-487b-92e4-1bdc2f55a4f9,Yoğurt,"6,00 TL",Yan Ürünler,5.0
+07F4F174-4391-4BF3-BD35-263E198A02B0,Çoban Salata,"10,00 TL",Salatalar,5.0
+9ca52d69-3e94-4943-b782-7d1ce8e850c5,Fırın Sütlaç,"10,00 TL",Tatlılar,5.0
+d17d08b6-15ef-4063-b5a7-449b0c653fa0,Çamlıca Gazoz (20 cl.),"5,00 TL",İçecekler,5.0
+1000cf32-9259-4e81-874a-8c7078b6c428,Su (30 cl.),"2,00 TL",İçecekler,9.0
+19d12f50-70ae-4c50-b834-c25e5365688e,Poşet,"0,25 TL",Poşet,5.0

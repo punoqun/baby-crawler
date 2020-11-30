@@ -1,0 +1,43 @@
+food_id,food_name,food_price,food_category,food_score
+e80370da-3dc2-444f-b08d-f976105684ae,Edwinstone Burger Menü,"31,50 TL",Menüler,21.0
+87c9c095-41c1-45cc-93d6-5a51a3e5fdb4,Hamburger Menü,"25,50 TL",Menüler,7.0
+e1cf704f-72b9-4c16-be76-07e65f7ffe5f,Arkadaş Menü 1,"49,50 TL",Menüler,36.0
+40d43add-237c-4e77-bb26-f61fa766956d,Arkadaş Menü 2,"72,00 TL",Menüler,9.0
+b5d7a749-ffb6-4c10-8122-7718c349c1a8,Cheeseburger Menü,"28,50 TL",Menüler,10.0
+95ed7628-ffef-4f18-a64d-245cf2f3d639,Vahd-et Burger,"32,50 TL",Burgerler,26.0
+c46fa382-6b81-44c4-9052-ea9f1eba6e0f,Sherwood Burger,"24,00 TL",Burgerler,21.0
+5cc116a6-19ba-4e7a-938f-17b1bd259d3e,Hamburger,"21,50 TL",Burgerler,7.0
+91e93cbc-42ad-4988-baf4-d5f48617cb2f,Cheeseburger,"23,50 TL",Burgerler,5.0
+ef4eb793-fb07-4f38-8542-f96b375b84cc,CC-Louisina Burger,"23,50 TL",Burgerler,21.0
+0da32353-e09e-4f28-b9e8-f989f2544223,Chicken Burger,"19,00 TL",Burgerler,21.0
+3167cdd1-429b-431b-903d-8936fbb0baa0,Şnitzel Burger,"18,50 TL",Burgerler,21.0
+a9a82cdd-c429-491e-91fd-f788492bc10a,Vahd-et'in Şövalyesi Burger,"38,50 TL",Burgerler,21.0
+5232ea19-2177-47f9-95dd-2c2be99b2363,Devs Burger,"39,50 TL",Burgerler,26.0
+5e35176a-e93f-456a-aa73-ba896ad357a3,Edwinstone Burger,"26,50 TL",Burgerler,21.0
+9c7ed61d-aab6-470a-bb78-4bdfbf2089a4,Daf Burger,"25,00 TL",Burgerler,21.0
+8e5dacbd-a204-422c-a30b-7b7484a73137,Izgara Vahd-et Köfte,"28,00 TL",Izgaralar,8.0
+870adf3c-c670-4ef5-9090-5aa79c9b1e68,Izgara Tavuk Külbastı,"25,50 TL",Izgaralar,4.0
+68c977ed-aaad-4c16-9282-63847c78451f,Vahd-et Izgara Köfte Sandviç,"18,50 TL",Sandviçler,8.0
+71cf8953-a2e5-4145-8445-ac6aa203b05e,Chicken Sandviç,"15,50 TL",Sandviçler,5.0
+4313cb3f-962b-4fa1-949d-8a3c76a88728,Ayvalık Tostu,"19,00 TL",Tostlar,5.0
+3f5e603b-de4a-4879-bba6-24f02c7ff77f,Kaşarlı Tost,"15,50 TL",Tostlar,5.0
+5389be61-53b3-4b30-b201-765a09192176,Karışık Tost,"16,50 TL",Tostlar,5.0
+e1909c24-7c3e-4b4c-bd2a-91655d354cb0,Beyaz Peynirli Tost,"13,50 TL",Tostlar,5.0
+1dfdfd74-d280-4630-9e66-d66c4e69a3ef,Kaşarlı Bazlama Tost,"17,50 TL",Tostlar,5.0
+2c0ea401-ad80-4d48-90bf-64c77c250a02,Sucuklu Kaşarlı Bazlama Tost,"19,00 TL",Tostlar,5.0
+cb561918-49d7-4c6b-9745-ff2b328e2d99,Karışık Bazlama Tost,"19,50 TL",Tostlar,5.0
+b6091807-ce7f-4fb3-9286-14251331a1e2,Beyaz Peynirli Domatesli Tost,"14,50 TL",Tostlar,5.0
+e2fe5933-31ee-4ef3-971e-7aceac3075b4,Tavuklu Bazlama Tost,"23,00 TL",Tostlar,5.0
+0abcb92c-95db-4853-871a-447ad459c576,Köfteli Bazlama Tost,"23,50 TL",Tostlar,5.0
+0861d000-93bc-4b1b-b586-211826a1f839,Cajun Baharatlı Tavuk Sepeti (250 gr.),"22,50 TL",Diğer Lezzetler,6.0
+cc017b1e-d3ab-4906-a0e0-3bb7a0b06aa1,Cajun Baharatlı Tavuk Sepeti (500 gr.),"44,00 TL",Diğer Lezzetler,6.0
+13eebee0-0da4-4e91-8142-677f7d8e85d5,Cajun Baharatlı Tavuk Dürüm,"18,50 TL",Diğer Lezzetler,6.0
+7e0e46ff-7597-43bf-9535-70989cf61100,Patates Tava,"13,50 TL",Yan Ürünler,11.0
+074f37a9-f54b-46bf-b4cf-fe7ea6236082,Sosis Sepeti,"16,50 TL",Yan Ürünler,5.0
+954618da-f931-474e-b058-e811ec2c7788,Soğan Halkası,"16,50 TL",Yan Ürünler,5.0
+b0fc7ff5-802d-467e-8687-8c68f6a72fba,Karmançorman,"25,00 TL",Yan Ürünler,5.0
+00733c17-4475-4b98-b066-ce5f32b571aa,Kaymaklı Ekmek Kadayıfı (XL),"16,50 TL",Tatlılar,1.0
+a1737463-c9ec-407d-b2d1-788900ab0122,Kazandibi,"8,50 TL",Tatlılar,5.0
+936f450c-7455-4f50-88ba-ebc9b2d96b5b,"Su (1,5 L.)","4,00 TL",İçecekler,7.0
+6917286c-9f01-441b-aa23-dd11493204fe,"Fanta (2,5 L.)","13,00 TL",İçecekler,5.0
+b1f89f18-e738-4704-8233-f11d578b898d,Poşet,"0,25 TL",Poşet,5.0

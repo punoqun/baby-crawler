@@ -1,0 +1,61 @@
+food_id,food_name,food_price,food_category,food_score
+b1267aba-37fb-4169-92ac-884530e41f39,Çiğ Köfte (1 kg.) Menü,"64,00 TL",Menüler,8.0
+ce7953d0-03ec-4d0a-80f2-320d82843859,Çiğ Köfte (750 gr.) Menü,"49,00 TL",Menüler,8.0
+33a7ba0b-0eb3-43d6-895a-ed702998d59a,Çiğ Köfte (600 gr.) Menü,"44,00 TL",Menüler,8.0
+442973f8-313b-47bb-86c3-254352439b8a,Çiğ Köfte (500 gr.) Menü,"36,00 TL",Menüler,8.0
+82849bc3-02dd-4793-a319-a7886ffa7b2e,Çiğ Köfte (250 gr.) Menü,"27,00 TL",Menüler,8.0
+c1776a35-024a-4ce1-b055-ab227eb7ce47,4'lü Çiğ Köfte Dürüm Menü,"69,00 TL",Menüler,8.0
+b46a033c-5326-4164-a3fb-102e320021a5,4'lü Mega Çiğ Köfte Dürüm Menü,"63,00 TL",Menüler,8.0
+f2ddd925-4734-4a81-8894-6d8e0dd33f4a,Çiğ Köfte Dürüm,"7,00 TL",Çiğ Köfteler,13.0
+fcfd7f4c-f676-4bd0-8406-3f2e3c554d57,Mega Çiğ Köfte Dürüm,"10,00 TL",Çiğ Köfteler,13.0
+65383291-1bb3-41ba-bd58-57ac8a5726ce,Çiğ Köfte (250 gr.),"15,00 TL",Çiğ Köfteler,13.0
+8c1098c4-05b2-4292-a4e9-336f98b29a4e,Çiğ Köfte (500 gr.),"29,00 TL",Çiğ Köfteler,8.0
+83df96d6-3ebd-4aba-bdad-02689720f042,Çiğ Köfte (600 gr.),"33,00 TL",Çiğ Köfteler,8.0
+37fcd702-c03d-4ed6-aca8-2eb0b05a5790,Çiğ Köfte (750 gr.),"42,00 TL",Çiğ Köfteler,8.0
+90fd116d-f641-43a7-8f1c-6efd0dcf2d48,Çiğ Köfte (1 kg.),"49,00 TL",Çiğ Köfteler,8.0
+13e70b47-6276-4711-93c8-cd0f60aa8fac,Bardakta Mısır (Büyük),"8,00 TL",Diğer Lezzetler,3.0
+535eee84-3165-419e-b5b0-8d74529503be,Bardakta Mısır (Duble),"15,00 TL",Diğer Lezzetler,3.0
+9442a7c0-0a59-4374-9431-3bf71dff0e4f,Midye Dolma (10 Adet),"19,00 TL",Diğer Lezzetler,7.0
+615973be-5e9d-4c6d-b03c-438907edca9a,Midye Dolma (20 Adet),"29,00 TL",Diğer Lezzetler,7.0
+9eb0bc9d-20a7-455d-895c-b930941e0505,Midye Dolma (30 Adet),"43,00 TL",Diğer Lezzetler,7.0
+b9ccd14d-c35d-4235-a0da-af6d09241353,Midye Dolma (50 Adet),"67,00 TL",Diğer Lezzetler,7.0
+9e096a74-39a2-48f2-afad-8f890688e266,Lavaş (2 Adet),"1,50 TL",Yan Ürünler,5.0
+CE6EA7CD-A19B-4DAE-8704-7341375D8F19,Lavaş (50 Adet),"27,00 TL",Yan Ürünler,5.0
+5b15fa44-7b35-4fe5-8ef3-926f96c558d6,Göbek Marul (Tam),"8,00 TL",Yan Ürünler,5.0
+d87b8a10-b4ae-47d0-8104-4fcf6b35466c,Göbek Marul (Yarım),"4,00 TL",Yan Ürünler,5.0
+073b0c0a-ea99-41ed-a350-17ca6d3d313c,Limon (Adet),"2,00 TL",Yan Ürünler,5.0
+dcf42dc3-8533-42ef-9276-6af2db6eafed,Ballı Badem (5 Adet),"9,00 TL",Tatlılar,5.0
+d6de7338-fabf-4c6d-a6c3-18a6b7462461,Halka Tatlısı (Büyük),"6,00 TL",Tatlılar,5.0
+908db769-5a1a-48fa-b265-2a915b3b0fd4,Halka Tatlısı (Küçük),"4,00 TL",Tatlılar,5.0
+ef92544c-20ba-4903-b0e1-33234bf19345,Ballı Badem (7 Adet),"13,00 TL",Tatlılar,5.0
+7a3d63b2-0840-49ff-852c-587672a7e79e,Bisküvili Pasta,"5,50 TL",Tatlılar,5.0
+545edd00-9145-439c-acea-28eddfadcc16,Burma Kadayıf (Adet),"5,50 TL",Tatlılar,5.0
+5eb6be8c-1953-46eb-8bce-45cddd6b44e7,Fırın Sütlaç,"5,50 TL",Tatlılar,5.0
+f541f926-abe6-40c2-b4cf-a627533a12ae,Frambuazlı Trileçe,"5,50 TL",Tatlılar,5.0
+8385436d-7bf6-4393-88dc-cb7a32672871,Islak Kek (Adet),"5,50 TL",Tatlılar,5.0
+c183f8b3-7048-41e4-b077-ae3a65bef40e,Karamelli Trileçe,"5,50 TL",Tatlılar,5.0
+d8ffd445-b187-41aa-856f-a4accc361d75,Kazandibi,"5,50 TL",Tatlılar,5.0
+8bc46209-a8a8-4a26-bb7f-25eee2cefb6e,Kemalpaşa Tatlısı,"5,50 TL",Tatlılar,5.0
+3a17adc1-9d6d-428c-8189-ac589348d72c,Kıbrıs Tatlısı,"5,50 TL",Tatlılar,5.0
+047670a6-e375-4e54-a614-2aeb171ab4d9,Krem Şokola Pasta,"5,50 TL",Tatlılar,5.0
+05068cbf-3c58-4e42-822f-2c2df8c9fe0e,Mag Pasta,"5,50 TL",Tatlılar,5.0
+991089b1-e994-456e-91e1-490668297faa,Muzlu Cup,"5,50 TL",Tatlılar,5.0
+d8ed6546-a1eb-47e2-928e-a18b40244a13,Muzlu Pasta,"5,50 TL",Tatlılar,5.0
+14cec91d-018e-42b7-9a59-085030278286,Profiterol,"5,50 TL",Tatlılar,5.0
+6c3a6b7e-9c2b-4625-a894-1a76872e4508,Revani,"5,50 TL",Tatlılar,5.0
+380833af-8beb-49c3-b1b2-f78a9f26f851,Şekerpare,"5,50 TL",Tatlılar,5.0
+dfdb0805-2f88-4648-bb18-d4b4d33f8650,Supangle,"5,50 TL",Tatlılar,5.0
+bdd9fd43-bb0a-42ad-900a-4c779eb884d5,Tavukgöğsü,"5,50 TL",Tatlılar,5.0
+d7206c99-373a-445c-abc9-4b880e34592d,Tiramisu,"5,50 TL",Tatlılar,5.0
+3c2befbd-7c66-4c99-aa03-63a79e6793e9,Fanta (25 cl.),"5,00 TL",İçecekler,5.0
+bfb1cbcf-a08a-42b3-8df8-08faa6e2b91a,Çamlıca Gazoz (20 cl.),"5,00 TL",İçecekler,5.0
+73692133-F352-4AEE-816F-346D8D295139,Turşu Suyu (20 cl.),"4,00 TL",İçecekler,5.0
+59afdec4-a4bd-4ed8-b2ff-cdee99750455,Bardak Limonata (20 cl.),"4,00 TL",İçecekler,5.0
+99ab30e4-210d-4e81-b7c7-ff7b1343563c,Doğanay Şalgam Suyu (1 L.),"9,00 TL",İçecekler,5.0
+49636b10-9018-4d6c-bdb0-26288fd62328,"Su (1,5 L.)","4,00 TL",İçecekler,5.0
+8b1388a0-d36a-4927-8efa-a190bedaf7eb,"Fanta (2,5 L.)","12,00 TL",İçecekler,5.0
+46faa0c0-dd9e-4902-9308-c2404b27d611,Su (5 L.),"7,00 TL",İçecekler,5.0
+8118eae8-7195-4529-8766-4bb0df21c98a,Halka Tatlısı (1 kg.),"37,00 TL",Kiloluk Tatlılar,5.0
+bc816f88-e178-46c8-a5ac-c407e57440b4,Ballı Badem (1 kg.),"55,00 TL",Kiloluk Tatlılar,5.0
+ef6a394c-dd3e-4371-bdab-f3d827283fd8,Burma Kadayıf (1 kg.),"55,00 TL",Kiloluk Tatlılar,5.0
+97049fbe-758d-478b-b0f3-176d4f4e3348,Poşet,"0,25 TL",Poşet,5.0

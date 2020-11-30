@@ -1,0 +1,52 @@
+food_id,food_name,food_price,food_category,food_score
+41ea79a6-1627-4f5f-9b53-45970ad6215c,Kelle Etli Mercimek Çorbası,"18,00 TL",Çorbalar,7.0
+0eb7c84b-b66d-435c-b0ee-4a1970a1f062,Dil Çorbası,"24,00 TL",Çorbalar,5.0
+e2d74447-a42e-4db7-be28-01abee6bb5f2,Dil Çorbası (Az),"12,00 TL",Çorbalar,5.0
+ec73e6fc-b6ff-4e25-bbb9-258e5f84f9dd,Ezogelin Çorbası (Az),"9,00 TL",Çorbalar,3.0
+d2883bc9-6284-427d-b654-a8169994c6ae,İşkembe Çorbası (Az),"10,00 TL",Çorbalar,5.0
+2ddf9e2c-63ed-40e1-81ae-bf8aeab5d42a,İşkembe Suyu Çorbası (Tanesiz),"9,00 TL",Çorbalar,5.0
+e98a1ae6-e4a0-497b-a1eb-38ecbdd39b35,Karışık Çorba (Az),"13,00 TL",Çorbalar,6.0
+f3ed41b5-39b5-49b4-a53f-f0b75832e436,Kelle & İşkembe Çorbası,"22,00 TL",Çorbalar,7.0
+3b609d9e-67d6-493f-bf2b-7a64dafcb9ca,Kelle & Tuzlama Çorbası,"23,00 TL",Çorbalar,7.0
+444d18fe-b4ac-469d-b507-c389be2959f2,Kelle Paça Çorbası (Az),"12,00 TL",Çorbalar,7.0
+3aab9c78-2a03-45ad-a5e1-4ababc820c9b,Kelle Suyu Çorbası (Tanesiz),"11,00 TL",Çorbalar,7.0
+092c8c3a-9636-4b28-b91a-ff8e71a71131,Tuzlama Çorbası (Az),"13,00 TL",Çorbalar,5.0
+644807f4-9725-445f-a358-4f336f8c2ae5,Yanak Çorbası,"24,00 TL",Çorbalar,5.0
+ac50525b-1b30-4bbd-853e-e7f8b92cf7d9,Yanak Çorbası (Az),"13,00 TL",Çorbalar,5.0
+a4a50a9b-3123-49a4-9dcd-958fbb1825af,Tavuk Kanat,"33,00 TL",Izgaralar & Kebaplar,11.0
+b02e5b8b-9296-46f3-b3a5-676d71dada4e,Izgara Tavuk,"29,00 TL",Izgaralar & Kebaplar,11.0
+fbe3cd45-ecc5-45a4-af3f-0601fb2d914b,Çeyrek Izgara Tavuk,"15,00 TL",Izgaralar & Kebaplar,10.0
+1621b723-feb5-4b29-8f1b-2c3f9490a5b8,Yaprak Ciğer Dürüm,"28,00 TL",Ciğerler,10.0
+624c7be6-8c8e-4663-a3db-f4abbb5ed951,Yarım Ekmek Arası Yaprak Ciğer,"28,00 TL",Ciğerler,7.0
+f1f903d0-2f95-4b4d-aa13-6a800f8221b7,Çeyrek Ekmek Arası Ciğer Tava,"17,00 TL",Ciğerler,3.0
+66c052dd-53f2-4bb7-a92c-d0a811265fb2,Yaprak Ciğer,"31,00 TL",Ciğerler,10.0
+11b54520-e19b-4876-bd37-6295bf8b181e,Yarım Ekmek Arası Izgara Köfte,"24,00 TL",Köfteler,0.0
+3975e227-053a-4c15-9eb1-79c658b339ee,Çeyrek Ekmek Arası Izgara Köfte,"15,00 TL",Köfteler,-1.0
+48d0386c-8556-417e-89ac-694be3e3e329,Çeyrek Izgara Köfte,"17,00 TL",Köfteler,2.0
+99f5c83d-160b-4073-bca9-fb619e03a2b8,Tam Ekmek Arası Izgara Köfte,"26,00 TL",Köfteler,0.0
+a9927652-f4e9-4a8e-8ac2-72180d2eaef0,3/4 Ekmek Arası Izgara Köfte,"25,00 TL",Köfteler,0.0
+b3f9f91c-677c-4291-a7fc-854edb37024e,Izgara Köfte,"28,00 TL",Köfteler,3.0
+bbe0ece8-38a9-40ea-9bb7-b8d771b36fd3,Çeyrek Izgara Köfte Dürüm,"15,00 TL",Köfteler,2.0
+dc555ea7-4e5c-4766-8228-90745fcc9a31,Izgara Köfte Dürüm,"25,00 TL",Köfteler,3.0
+9ece6adb-99ed-45cc-9de6-a30ae72dbcc6,"Yarım Ekmek Arası Kokoreç (1,5 Porsiyon)","36,00 TL",Kokoreçler,1.0
+b48e1021-775a-4e1c-9157-b855f6f8cbf9,3/4 Çeyrek Ekmek Arası Kokoreç,"25,00 TL",Kokoreçler,0.0
+d9d77c53-671c-4116-80c1-f913e5a75c0a,"Tam Ekmek Arası Kokoreç (1,5 Porsiyon)","38,00 TL",Kokoreçler,1.0
+e3e3141e-072b-4062-8847-e74d29241e76,Çeyrek Ekmek Arası Kokoreç,"16,00 TL",Kokoreçler,0.0
+858818f5-c790-46ec-b648-5aee9a8a8cf9,Izgara Sucuk,"29,00 TL",Sucuklar,5.0
+c61ffe02-089b-4846-941d-284d2c3e7e28,Çeyrek Izgara Sucuk,"17,00 TL",Sucuklar,4.0
+37dd8528-1200-409d-b15a-5f02590e5702,Yarım Ekmek Arası Izgara Sucuk,"27,00 TL",Sucuklar,2.0
+a8ec8e40-c5ee-49cc-a683-5fa3e81d666b,Tam Ekmek Arası Izgara Sucuk,"28,00 TL",Sucuklar,2.0
+e941fad5-1f50-45dc-acb2-f50b299bce9c,Çeyrek Ekmek Arası Izgara Sucuk,"15,00 TL",Sucuklar,1.0
+cb659dcf-95a2-4f69-9b8c-89b95e91780b,3/4 Ekmek Arası Izgara Tavuk,"25,50 TL",Dürümler & Ekmek Arası Ürünler,8.0
+2875801F-4231-4DEA-877B-58D5CEB5A585,Et Tantuni Ekmek,"28,00 TL",Dürümler & Ekmek Arası Ürünler,3.0
+16AF2F03-8C31-4B6C-B1F4-E57D2E2CD93B,Tavuk Tantuni Dürüm,"16,00 TL",Dürümler & Ekmek Arası Ürünler,17.0
+13CA9EB4-7D72-4FB6-B95E-8B477D11C902,Tavuk Tantuni Ekmek,"18,00 TL",Dürümler & Ekmek Arası Ürünler,9.0
+878f2dbb-dc5b-4651-af05-0e1c5e413222,Çeyrek Ekmek Arası Izgara Tavuk,"15,00 TL",Dürümler & Ekmek Arası Ürünler,7.0
+80c4663b-28a7-4c43-89c3-cf8c8546bf35,Çeyrek Tavuk Dürüm,"15,00 TL",Dürümler & Ekmek Arası Ürünler,10.0
+c25aed84-1188-4544-bb91-8c9e440c5f02,Tavuk Dürüm,"25,50 TL",Dürümler & Ekmek Arası Ürünler,16.0
+b92d3465-e126-49cd-81d5-100f19761f4b,Yarım Ekmek Arası Antrikot,"42,00 TL",Dürümler & Ekmek Arası Ürünler,2.0
+79fb7509-cc62-4126-af1b-50ed7742d6eb,Yarım Ekmek Arası Izgara Tavuk,"25,50 TL",Dürümler & Ekmek Arası Ürünler,8.0
+8066bea7-cd11-42e5-a813-2479545ddf01,Pilav Üstü Tavuk,"29,50 TL",Diğer Lezzetler,13.0
+09CCBFD5-01CD-4F3C-BF34-C3DC9AB9A144,Çiğ Köfte Dürüm (100 gr.),"8,00 TL",Diğer Lezzetler,3.0
+34fe2bb7-bbd5-427f-af3f-daf7ed4bc773,Yayık Ayran (33 cl.),"6,00 TL",İçecekler,5.0
+b02d2c59-f492-4f88-87f1-9810a1b819d1,Poşet,"0,25 TL",Poşet,5.0

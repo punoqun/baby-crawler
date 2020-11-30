@@ -1,0 +1,60 @@
+food_id,food_name,food_price,food_category,food_score
+19c7be98-ca4b-4508-97e4-b2f7aae70402,2'li Islak Hamburger Menü,"23,90 TL",Menüler,10.0
+3b14ee3c-6125-4de6-b194-a2f5f4b2ca3f,Sanayi Tostu Menü,"23,90 TL",Menüler,29.0
+154abe84-c714-465a-bc38-24d4accfdd8e,4'lü Islak Hamburger Menü,"37,90 TL",Menüler,10.0
+f9d7a082-8b6f-4a87-a30c-c9002bc9bbb1,6'lı Islak Hamburger Menü,"59,90 TL",Menüler,10.0
+c5e13735-f6ac-4170-b9c8-ff928584420a,Klasik Burger Menü,"26,90 TL",Menüler,3.0
+32d12946-efdc-403d-a976-09b504a7937b,Saçmelii Burger Menü,"29,90 TL",Menüler,3.0
+a0434ca3-1b02-4d77-af18-98d7b0ce150c,Ejder Ateşi Burger Menü,"29,90 TL",Menüler,3.0
+4d549551-88c1-4292-ad68-ac88c58f55c1,Yörük Burger Menü,"29,90 TL",Menüler,3.0
+e5890412-5381-4624-a17c-bc4de3c75a4c,2'li Klasik Burger Menü,"49,90 TL",Menüler,3.0
+cce39ee2-65a1-497a-b144-cbd0968b71c3,2'li Saçmelii Burger Menü,"54,90 TL",Menüler,3.0
+965fcdc6-da1b-483e-b272-e923bd5b9f0c,Yarım Ekmek Arası Cheddarlı Özel Tost,"15,00 TL",Tostlar,27.0
+a2439e27-d832-440d-ba84-6869bc362dda,Tam Ekmek Arası Cheddarlı Özel Tost,"26,00 TL",Tostlar,28.0
+2335d489-72ab-4407-b15f-844da761fb56,Tam Ekmek Arası Kasap Sucuk Tost,"21,00 TL",Tostlar,31.0
+6448b0e5-6ee0-42d4-a069-35cb59b674b3,Yarım Ekmek Arası Kasap Sucuk Tost,"13,00 TL",Tostlar,30.0
+c042a59e-0635-4a60-829e-bd9bb7847fd6,Tam Ekmek Arası Saçmelii Tost,"33,00 TL",Tostlar,28.0
+95529934-52af-4bb5-84b6-69734cb5f448,Yarım Ekmek Arası Saçmelii Tost,"18,00 TL",Tostlar,27.0
+17e29ec4-1d28-4305-9f58-f7fe5efd9f5d,Karışık Bazlama Tost,"13,00 TL",Tostlar,28.0
+3bb70cdf-5ba5-466a-ad72-665d7db156ad,Kaşarlı Bazlama Tost,"11,00 TL",Tostlar,28.0
+4df91d8f-ed93-47c1-99cc-de009487390e,Kavurmalı Tost,"15,00 TL",Tostlar,29.0
+5840776e-b311-431b-bbb3-0907e2ed0914,Karışık Tost,"12,00 TL",Tostlar,28.0
+7c3aa184-034d-42ee-8293-babb09f74d85,Sucuklu Tost,"10,00 TL",Tostlar,28.0
+7fba1760-1a28-421b-af7f-67e9a6ee8806,Karışık Peynirli Tost,"14,00 TL",Tostlar,30.0
+88f7c148-0b5d-41f5-bf30-2679998406c6,Yengen Tost,"12,00 TL",Tostlar,29.0
+bfb40908-40d8-4bd0-a930-8c357d7f5b14,Enişten Tost,"12,00 TL",Tostlar,28.0
+cd0b48a9-0286-4158-bd4f-d6bf0d90847f,Beyaz Peynirli Tost,"12,00 TL",Tostlar,30.0
+e3827495-4de8-4b79-8d71-858766f24374,Tulum Peynirli Tost,"13,00 TL",Tostlar,30.0
+e5a670ef-ff8d-4a74-bd6d-818a26637bce,Ayvalık Tostu,"18,00 TL",Tostlar,11.0
+ea819c86-2a1e-484e-9f4d-a29d8e551655,Tam Ekmek Arası Sanayi Tostu,"18,50 TL",Tostlar,35.0
+edb282f2-0ca5-4fcf-af68-27af15778b68,Kavurmalı Bazlama Tost,"17,00 TL",Tostlar,29.0
+fe1fd96f-770a-4a92-95cc-42125afafe09,Kaşarlı Tost,"8,00 TL",Tostlar,28.0
+28bc3c9d-4d2f-4152-9f1c-ec5d5ad83844,Tam Ekmek Arası Kavurmalı Sanayi Tostu,"23,00 TL",Tostlar,31.0
+4a1c080b-ff39-41ae-a6e4-8e5e976cf9da,Yarım Ekmek Arası Sanayi Tostu,"12,00 TL",Tostlar,28.0
+edca03b1-877b-4d78-869d-94a228cdb709,Yarım Ekmek Arası Kıymalı Sanayi Tostu,"12,50 TL",Tostlar,28.0
+7a63a7c7-d7d7-4069-997c-5b0d554864ef,Tam Ekmek Arası Kıymalı Sanayi Tostu,"22,00 TL",Tostlar,30.0
+08665a66-6078-4090-98c4-15460598d906,Tam Ekmek Arası Kasap Sucuklu Sanayi Tostu,"21,00 TL",Tostlar,38.0
+42ae394a-febd-4a09-b42f-b6702cf92673,Yarım Ekmek Arası Kasap Sucuklu Sanayi Tostu,"13,00 TL",Tostlar,36.0
+17b7e375-8736-4bf2-a821-1481e1c1b8b2,Sosisli Sandviç,"8,00 TL",Sıcak Sandviçler,4.0
+0731b893-6e99-4e47-81eb-191da370f2e8,Saçmelii Burger,"26,90 TL",Burgerler,3.0
+2e881cb6-e83f-4eb4-a5cf-a527f4375d1d,Kaşarlı Islak Hamburger,"9,00 TL",Burgerler,10.0
+90642b6a-3c55-4541-b853-2d05ab7484c2,Islak Hamburger,"8,00 TL",Burgerler,10.0
+960b29e7-2932-4d68-a906-0b58a26c65c0,Yörük Burger,"26,90 TL",Burgerler,3.0
+9687357e-8284-4335-b6f5-ad5df7eb72d6,Mayonezli Turşulu Islak Hamburger,"8,50 TL",Burgerler,10.0
+ca2f90f9-f9a8-49e5-ad41-588fd05b647c,Ejder Ateşi Burger,"26,90 TL",Burgerler,3.0
+de31e6b3-48d7-491b-98d6-58e95e789fa4,Klasik Burger,"23,90 TL",Burgerler,3.0
+55c0957e-231c-4f8c-9dbc-1523a5fdda61,Cheddar Peynirli Islak Hamburger,"10,00 TL",Burgerler,12.0
+626df43f-e452-4126-8be7-8952ba18ade8,Soğan Halkası (8 Adet),"7,00 TL",Yan Ürünler,5.0
+9e2ecd04-0168-4460-8e25-67d0b6100770,Patates Kızartması,"7,00 TL",Yan Ürünler,5.0
+a6ccc4c4-b9bb-4715-90bc-e4870fd20487,Algida Maraş Usulü Cup Dondurma (100 ml.),"6,00 TL",Dondurmalar,6.0
+4c60be83-fada-442f-9e9c-9b69a25654bd,Algida Carte d'Or Mini Cup Çilekli Yoğurtlu (110 ml.),"6,00 TL",Dondurmalar,6.0
+417f1abd-9f1c-406a-b413-75cda63fd9c8,Carte d'Or Premium Kaymak Cup (100 ml.),"7,00 TL",Dondurmalar,5.0
+52a964b9-9ff4-46c4-ac26-a7f62477dfd7,Carte d'Or Premium Çikolata Cup (100 ml.),"7,00 TL",Dondurmalar,5.0
+38a2dbb9-6117-4701-bfa8-72e4b2a10938,Kahveli Ankara Gazozu (25 cl.),"4,00 TL",İçecekler,7.0
+134427c6-441d-40b9-9d24-2afd2dafee56,Su,"2,00 TL",İçecekler,5.0
+b51461e7-f0b9-4bb8-b66e-90a03f78e151,Atom,"14,00 TL",Vitamin Bar,5.0
+77910e29-1baf-4a05-ba00-b46bc6dad1fe,Gripin (50 cl.),"12,00 TL",Vitamin Bar,5.0
+a9243566-3a9a-47b8-845d-79a234e51403,Taze Sıkma Portakal Suyu (50 cl.),"12,00 TL",Vitamin Bar,8.0
+175620a5-dbbe-470b-9577-f5c9493c58e8,Taze Sıkma Nar Suyu (50 cl.),"14,00 TL",Vitamin Bar,5.0
+eb59e0c5-6abb-45a5-b5c2-7ab5e5ef99ad,Taze Sıkma Greyfurt Suyu (50 cl.),"12,00 TL",Vitamin Bar,5.0
+f978012f-5dd0-4129-a11a-a65ade45eb63,Poşet,"0,25 TL",Poşet,5.0

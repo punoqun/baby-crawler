@@ -1,0 +1,56 @@
+food_id,food_name,food_price,food_category,food_score
+a45915b5-b419-4d66-a5f6-b534a4afe61e,Közde Et Döner,"34,50 TL",Et Dönerler,17.0
+66374f13-ea06-4419-b8a4-d21371d9c05e,Et Döner (150 gr.),"43,50 TL",Et Dönerler,10.0
+ecdd9d42-f0d4-40d3-bce0-55fd072bfaac,Pilav Üstü Et Döner,"36,00 TL",Et Dönerler,13.0
+b072ee00-bf41-4e62-80cc-b7187e2f79fc,İskender (Et Dönerden),"37,50 TL",Et Dönerler,1.0
+058d18ea-cd8c-4c45-ac6e-9eee12e545f3,Yoğurtlu Et Döner,"37,50 TL",Et Dönerler,10.0
+b7aec6cb-4965-4b02-aa19-a0db1672ee83,Et Döner Dürüm,"23,00 TL",Et Dönerler,18.0
+384a428e-6d5b-40b5-84c7-a39d0fe57949,Kaşarlı Et Döner Dürüm,"25,00 TL",Et Dönerler,13.0
+0ee6e891-ff0b-4ebc-8e57-ab1291c48bcc,Tombik Ekmeğe Et Döner,"20,00 TL",Et Dönerler,10.0
+1b3066b2-244c-4bd8-a7c6-24f4b54503d6,Yarım Ekmek Arası Et Döner,"20,00 TL",Et Dönerler,11.0
+0846a24e-a3d0-489b-8a1f-5f3e7354d3e0,Sandviç Ekmeğine Et Döner,"20,00 TL",Et Dönerler,10.0
+fba86c3d-1a42-4cd2-bcc9-920426a6e8ab,3/4 Ekmek Arası Et Döner,"27,00 TL",Et Dönerler,12.0
+d7f56f22-ae32-495e-b4a6-542fb68865e6,Double Et Döner Dürüm,"40,00 TL",Et Dönerler,13.0
+20e552ee-ba54-4181-b558-59a6a2e7abbe,Double Kaşarlı Et Döner Dürüm,"42,50 TL",Et Dönerler,13.0
+e8ad70ce-f4f8-436d-a5aa-44f576d9e16c,Double Yarım Ekmek Arası Et Döner,"40,00 TL",Et Dönerler,11.0
+e41358e9-dea8-4230-a38c-18fa3c1f2e33,Tam Ekmek Arası Et Döner,"27,00 TL",Et Dönerler,14.0
+9ae2929f-af1d-4259-b6b4-bb9ceb165022,Tam Ekmek Arası Duble Et Döner,"40,00 TL",Et Dönerler,13.0
+6a3ca10d-54d8-4ba5-94c0-e2a5e586ea53,Et Döner (250 gr.),"70,00 TL",Et Dönerler,10.0
+0790f11b-b015-4623-808e-59f242c1cbc8,Et Dönerden Kızartma İçli Köfte (Adet),"9,00 TL",Spesiyaller,6.0
+dce4eb0c-7761-400c-983e-b5fe97bb298d,Kuvasya Çiğ Köfte (500 gr.) (Garnitürsüz),"22,00 TL",Çiğ Köfteler,5.0
+046f6a9f-54c0-4566-ae91-f4ddcbb05ef4,Kuvasya Çiğ Köfte (1 kg.) (Garnitürsüz),"44,00 TL",Çiğ Köfteler,5.0
+8c5d5be3-9010-41a0-9d8c-1be36f34b293,Kaşık Salata,"12,00 TL",Salatalar,5.0
+d65dfbda-c869-4f00-a647-91cced0d3fbf,Çoban Salata,"12,00 TL",Salatalar,5.0
+de00984a-a3cc-420c-a8be-2ddcfa2fad15,Mevsim Salata,"12,00 TL",Salatalar,5.0
+cc3769a0-7be5-4ccf-a6ac-3f4312e046fe,Patates Kızartması,"10,00 TL",Yan Ürünler,9.0
+00eafe02-6640-4184-b152-8c53c70f4e97,Pirinç Pilav,"10,00 TL",Yan Ürünler,3.0
+c9dbf15d-23fb-44e2-b95e-4381fc382bd1,Spesiyal Lavaş (Adet),"1,00 TL",Yan Ürünler,5.0
+611d6701-a2cf-4b82-95dc-e444080e235d,Manda Yoğurdu (200 gr.),"12,00 TL",Yan Ürünler,5.0
+b859b06a-649e-4e73-aeaf-a17eb8f1b2cc,Special Turşu,"5,00 TL",Yan Ürünler,5.0
+5f4c502b-cebc-4727-ac70-af0607cb93a5,Künefe,"16,00 TL",Tatlılar,2.0
+6a1d0d2a-0b4b-4410-b22e-8ae0a893561c,Dondurmalı Künefe,"20,00 TL",Tatlılar,2.0
+00223a86-1b11-4038-9087-9fd1d7b5d254,Havuç Dilim Baklava (Dondurmalı),"21,00 TL",Tatlılar,6.0
+2ba04036-cb77-4d0c-9f69-419eca6986e9,Kabak Tatlısı,"12,00 TL",Tatlılar,5.0
+e3e60d50-3490-4930-85c0-c7184571c3c1,Kemalpaşa Tatlıdı (Dondurmalı),"16,00 TL",Tatlılar,5.0
+5d824a74-473f-4acc-8a31-bad0d4066d07,Fırın Sütlaç,"12,00 TL",Tatlılar,7.0
+1e72b245-d2e9-4c89-aec1-6af8d94fd8c5,Kaymaklı Künefe,"17,00 TL",Tatlılar,0.0
+412d56fa-f065-4436-a560-750a1062f9be,Cevizli Kabak Tatlısı,"12,00 TL",Tatlılar,5.0
+44d3a024-f431-4cf5-b6a0-5d406b8d9bbd,Kaymaklı Kabak Tatlısı,"15,00 TL",Tatlılar,3.0
+daf1e6c9-d1ba-42d9-95e5-9153cf0ce954,Cevizli & Tahinli Kabak Tatlısı,"12,00 TL",Tatlılar,5.0
+e71c507e-851e-4c4e-b087-3b84b8c4c072,Peynirli Kemalpaşa Tatlısı,"12,00 TL",Tatlılar,5.0
+fb92a8ec-a360-4af7-8566-fc286d583953,Havuç Dilimi Baklava,"17,00 TL",Tatlılar,6.0
+e461fc16-e0cf-493c-8501-a4eba8ed6f6e,Alpedo Sade Maraş Dondurma (6 Dilim),"35,00 TL",Dondurmalar,9.0
+4d46aa5c-1655-4792-8c91-5a08b14a17b9,Alpedo Kase Dondurma (90 gr.),"6,00 TL",Dondurmalar,7.0
+81fefdcc-e1b9-4130-ae79-210199f6b474,Alpedo Kesme Karışık Dondurma (6 Dilim),"40,00 TL",Dondurmalar,7.0
+1e13abee-7d06-4e0c-955b-40bd0059b62a,Niğde Gazozu (25 cl.),"5,50 TL",İçecekler,5.0
+821ddaaf-1fe8-4764-9d5f-6a276a7c6f6a,Maltana Armut (27 cl.),"5,50 TL",İçecekler,5.0
+99036e30-155d-4b58-94a8-b88ac36d432b,Maltana Enerji (27 cl.),"5,50 TL",İçecekler,5.0
+ab3edb39-0598-439a-b2c1-e58359708652,Maltana Şeftali (27 cl.),"5,50 TL",İçecekler,5.0
+cc08b5bb-c451-4e1c-ae5f-16e6f4058ee9,Maltana Ananas (27 cl.),"5,50 TL",İçecekler,5.0
+cf0970c2-254e-4c65-8f29-e71aab253ac6,Karadut Şerbeti (33 cl.),"5,50 TL",İçecekler,7.0
+08ae194c-924f-4218-baba-01eefc51584d,Açık Ayran (1 L.),"17,00 TL",İçecekler,7.0
+a88051dc-7e47-4fde-a5c0-6e8beea5e8f6,Karadut Şerbeti (1 L.),"17,00 TL",İçecekler,7.0
+3de0d6c4-f6b0-49d5-8047-6b387bac9676,Et Döner (500 gr.) (Pişirilmiş),"140,00 TL",Kiloluk Ürünler,10.0
+99b2ccdd-6d14-4137-9173-604e860cf2d2,Et Döner (1 kg.) (Pişirilmiş),"280,00 TL",Kiloluk Ürünler,10.0
+2ce64604-a3b6-4c59-bf26-5ab474bc9f78,Et Döner (750 gr.) (Pişirilmiş),"210,00 TL",Kiloluk Ürünler,10.0
+453dd18f-79d4-4b3b-9be9-7c4749b4d7e3,Poşet,"0,25 TL",Poşet,5.0

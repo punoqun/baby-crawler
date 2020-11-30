@@ -1,0 +1,26 @@
+food_id,food_name,food_price,food_category,food_score
+3525ef37-0e7e-4ed0-b882-5c77404b790d,Bol Malzemeli Ateş Zurna Menü,"24,00 TL",Menüler,33.0
+cbde8fbe-12b9-4f27-a013-4c5e00cebe8f,Ateş Zurna Et Döner Dürüm Menü,"28,00 TL",Menüler,29.0
+399823b5-e584-4d7b-9ba0-cc5cc546bb8e,Ateş Klasik Et Döner Dürüm Menü,"24,00 TL",Menüler,19.0
+AC1AB313-B952-4A74-9807-22BC5EE3B4E0,Ateş 4'lü Zurna Menü,"70,00 TL",Menüler,27.0
+49C5042F-3AE9-4927-A7D2-A08F66AB2C21,Ateş 4'lü Klasik Menü,"60,00 TL",Menüler,16.0
+C0FB824C-4263-4EF2-8DC8-1EC68063EA92,Ateş 4'lü Efsane Menü,"85,00 TL",Menüler,20.0
+50AE6500-5E5A-46AD-9FF9-17C90ADEBAE8,Ateş 4'lü Gurme Menü,"77,00 TL",Menüler,16.0
+c8326ad4-e171-452b-838a-3b0e2b10bf75,Ateş Klasik Tavuk Döner,"12,00 TL",Tavuk Dönerler,19.0
+2dc651b3-f3a9-433c-88e1-104495f019db,Ateş Special Tavuk Döner,"13,00 TL",Tavuk Dönerler,19.0
+64420593-0948-43b0-bf31-ca9de25667ee,Bol Malzemeli Ateş Zurna Tavuk Döner,"15,00 TL",Tavuk Dönerler,35.0
+e2a239ab-7b99-410b-9b5c-152f9bb6f43e,Ateş Acılı Tavuk Döner,"12,00 TL",Tavuk Dönerler,19.0
+8cdae409-7bd3-4b87-b77d-b653fc008f89,Ateş Gurme Tavuk Döner,"17,00 TL",Tavuk Dönerler,19.0
+6b5c2ed8-065f-4eb2-85e0-5a280aaf0d27,Ateş Efsanesi Tavuk Döner,"20,00 TL",Tavuk Dönerler,19.0
+91f3bb25-7bb2-470b-9dbf-72c95c60049d,Special Zurna Tavuk Döner,"16,00 TL",Tavuk Dönerler,23.0
+091DC398-2AFF-44BA-B7ED-72A2911DBB6F,Gobit Ekmek Arası Tavuk Döner,"14,00 TL",Tavuk Dönerler,8.0
+46E8929D-197B-4150-B4D9-B902AA249DD8,Gobit Ekmek Arası Kaşarlı Tavuk Döner,"16,00 TL",Tavuk Dönerler,8.0
+023CE80B-B75D-4654-A0D9-B0B2E42B75BA,Gobit Ekmek Arası Cheddarlı Tavuk Döner,"18,00 TL",Tavuk Dönerler,8.0
+F9BAEB4F-ED96-4E37-B7FF-26CC52B43EB0,Ateş Klasik Et Döner,"17,00 TL",Et Dönerler,14.0
+E2BCA084-8B48-441B-B1F6-B17278AC1171,Ateş Zurna Et Döner,"21,00 TL",Et Dönerler,24.0
+65921001-A062-4DEA-A6EC-2DA2E3E21243,Ateş Efsanesi Et Döner,"25,00 TL",Et Dönerler,14.0
+F279D6AD-5B1E-4F34-B624-CE4308A2F844,Gobit Ekmek Arası Et Döner,"18,00 TL",Et Dönerler,3.0
+959899B3-4DDB-4043-8AFC-82B9C8B14D07,Gobit Ekmek Arası Kaşarlı Et Döner,"20,00 TL",Et Dönerler,3.0
+07C1D61C-E7E0-4351-B6F7-880DEE3CA82D,Gobit Ekmek Arası Cheddarlı Et Döner,"22,00 TL",Et Dönerler,3.0
+e273f2f2-16aa-4972-b548-0d750c21085d,Eker Çikolatalı Puding,"4,00 TL",Tatlılar,5.0
+1ede4b56-c11c-41e9-9302-29da7b74cc30,Poşet,"0,25 TL",Poşet,4.0

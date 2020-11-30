@@ -1,0 +1,25 @@
+food_id,food_name,food_price,food_category,food_score
+473712cd-aa12-4834-8253-728ebeb5ff84,Dil Çorbası,"22,00 TL",Çorbalar,3.0
+232ed7c4-a8eb-4cdf-9fcc-8e25bf2879a5,Damar Çorbası,"22,00 TL",Çorbalar,5.0
+45434a8d-ee3c-4b49-9006-f2b188545fd9,Kokteyl Çorba,"28,00 TL",Çorbalar,13.0
+2776d5b6-e8c6-48a7-8de5-f9ebbf71e7b9,Adana Kebap,"28,00 TL",Kebaplar,5.0
+3bb7af49-9781-4f67-af4a-7bc7b423397a,Urfa Kebap,"28,00 TL",Kebaplar,5.0
+379e3636-0bfe-46d1-a834-be194d065894,Domatesli Kebap,"30,00 TL",Kebaplar,5.0
+1d4dfdc1-1c8d-4c1e-b48b-ed685f7eb8b1,Patlıcanlı Kebap,"30,00 TL",Kebaplar,5.0
+3dd5726e-3c56-4ce1-bbf4-65d7a41a89aa,Çorbacı Spesiyal Kebap,"75,00 TL",Kebaplar,9.0
+5eda2400-58ed-45fb-8076-caa7d9daf254,Tavuk Şiş,"24,00 TL",Izgaralar,12.0
+6de683a3-040a-4357-87f6-b27d29054e00,Tavuk Kanat,"28,00 TL",Izgaralar,12.0
+defbe1e6-dcbf-4fd5-ace1-b38e447787c3,Kuzu Şiş,"32,00 TL",Izgaralar,5.0
+3017af5c-7e13-4282-8f34-25112ad90181,Izgara Köfte,"24,00 TL",Izgaralar,5.0
+2e330ea0-1748-4183-aafb-f0d8deb72e07,Tavuk Kelebek,"24,00 TL",Izgaralar,12.0
+b34a2dc5-151b-4cdd-8f1c-4287cb6146f8,Karışık Izgara,"65,00 TL",Izgaralar,5.0
+ceb9892d-19d2-4ca6-9398-81d213aa092a,Adana Dürüm,"14,00 TL",Dürümler,5.0
+cb0a0cc7-42ce-477f-9bec-e65fe892bf69,Urfa Dürüm,"14,00 TL",Dürümler,5.0
+63b5505b-bb72-4a10-959f-7045a337e340,Tavuk Şiş Dürüm,"14,00 TL",Dürümler,12.0
+5f16cc95-ee83-4f89-b2dc-80f75f9cd451,Köfte Dürüm,"14,00 TL",Dürümler,5.0
+54385b16-c8f8-4ef6-93f7-3baf19a1b187,Dil Söğüş,"25,00 TL",Söğüşler,3.0
+a3349d8f-2b2e-48a1-a3b4-a1bbc48cca6f,Beyin Söğüş,"25,00 TL",Söğüşler,5.0
+60d0b6e4-cdee-4415-b4c5-8c0919f08f23,Kokteyl Söğüş,"30,00 TL",Söğüşler,5.0
+1ff7f0be-c1be-4327-8f47-72ab1cd7583f,Künefe,"13,00 TL",Tatlılar,5.0
+b664deda-5169-4c09-9a01-20512baf5f72,Kabak Tatlısı,"13,00 TL",Tatlılar,5.0
+d3f69213-c9fc-46c9-b967-d60c8374b4be,Poşet,"0,25 TL",Poşet,5.0

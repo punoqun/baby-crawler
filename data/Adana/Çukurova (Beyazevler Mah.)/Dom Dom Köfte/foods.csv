@@ -1,0 +1,31 @@
+food_id,food_name,food_price,food_category,food_score
+6f645e83-318a-4a63-a344-4719718ded29,Dom Dom Kasap Köfte (140 gr.),"30,00 TL",Köfteler,7.0
+4d586118-db14-43aa-981c-7304209e6dae,Dom Dom Soslu Köfte (140 gr.),"28,00 TL",Köfteler,7.0
+490d8fa1-2888-479b-98d1-4ef58ddbdb1f,Dom Dom Yarım Ekmek Arası Köfte,"18,00 TL",Köfteler,12.0
+0089374F-BEB7-400F-81D2-572D74319BAE,Etli Çökertme Kebabı,"29,90 TL",Kırmızı Etler,5.0
+D20D4278-666D-4299-86A5-71CB60EFF678,Et Dürüm (100 gr.),"17,90 TL",Kırmızı Etler,5.0
+EEE0CF09-A513-4369-B829-F20DE5FB36CA,Ciğer Tantuni,"10,90 TL",Kırmızı Etler,5.0
+49fc4ad0-2f21-44c9-957f-1b38d336ef00,Köfteli Çökertme Kebabı,"29,90 TL",Kırmızı Etler,5.0
+4e901568-3434-40f9-80d9-62409c949ed6,Köri Soslu Tavuk,"20,00 TL",Beyaz Etler,10.0
+91f26b91-8094-4927-b608-557cf778d3cf,Tavuklu Burrito,"23,00 TL",Beyaz Etler,5.0
+aaeda8ce-90b9-4a48-ac21-0e64d142d753,Izgara Tavuk Göğüs,"18,00 TL",Beyaz Etler,5.0
+462ce031-7c2e-4a84-9dd0-d15c31801414,Tavuklu Çökertme Kebabı,"29,90 TL",Beyaz Etler,5.0
+0b416a88-8521-447a-9d61-2053729ab4bf,Dom Dom Pizza (25 cm.),"23,00 TL",Pizzalar (1-2 Kişilik),6.0
+c7526aec-30eb-4f98-9dc4-6ab70ced0268,Margarita Pizza (25 cm.),"20,00 TL",Pizzalar (1-2 Kişilik),6.0
+56f50b2b-99e6-44f4-857c-d47de4b56a1f,Vejetaryen Pizza (25 cm.),"20,00 TL",Pizzalar (1-2 Kişilik),6.0
+d4f32215-faaa-46ac-b831-539052817804,Ton Balıklı Pizza (25 cm.),"20,00 TL",Pizzalar (1-2 Kişilik),6.0
+b863a5ac-cc4b-4df6-b550-413d780b816f,Cheeseburger,"26,00 TL",Burgerler,5.0
+5d20804f-90fc-4965-974b-28bf06b82abd,BBQ Burger,"26,00 TL",Burgerler,5.0
+89b1bfd2-12df-4889-a60e-41c99fea6876,Class Burger,"23,00 TL",Burgerler,5.0
+1c3f70f5-e355-4e49-ae56-701f4725a834,Kremalı Mantarlı Penne,"20,00 TL",Makarnalar,5.0
+a6f5a1eb-8e06-4908-a286-9413536d7659,Köri Soslu Penne,"21,00 TL",Makarnalar,5.0
+42a2c0c4-ce96-480f-82a4-262f69304e5a,Penne Mexicano,"20,00 TL",Makarnalar,5.0
+5f03de08-f16b-4de6-9b85-dd95e584afb0,Penne Arrabbiata,"20,00 TL",Makarnalar,5.0
+59fc37d1-7d4e-42b6-93dc-2d09b87ec129,Domates Soslu Penne,"15,00 TL",Makarnalar,5.0
+FB00E792-13E1-4209-8B4E-34C1238F2731,Tavada Tavuk,"12,90 TL",Dürümler,5.0
+C6ACB126-AFE6-492B-A8F8-5CCF37DD5C6F,Tavuk Dürüm,"15,00 TL",Dürümler,5.0
+612364F5-BE52-473A-A820-C639D28A89D0,Et Dürüm,"23,00 TL",Dürümler,5.0
+C0D5D9AA-C755-4536-B6E0-686FC987F770,Et Tantuni Dürüm,"18,00 TL",Dürümler,10.0
+dbbd1bc0-8dc7-4c77-a205-d115d734590e,Patates Kızartması,"8,00 TL",Aperitifler,5.0
+d59d1cda-6833-44bc-946d-ac4dbcc79a85,Elma Dilim Patates Kızartması,"8,00 TL",Aperitifler,5.0
+c2dfc372-dc02-4c2e-b1b3-0a3ba7489f0c,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,45 @@
+food_id,food_name,food_price,food_category,food_score
+056ae676-e8e1-4ef7-b336-281491c666b0,Acı Pack Chicken Burger Kampanya Menü,"21,00 TL",Ekonomik Menüler,9.0
+7dff3e34-523c-4c79-8405-53a25cf2ef6d,Pack Chicken Burger Kampanya Menü,"21,00 TL",Ekonomik Menüler,9.0
+df66053d-7485-4911-abf1-7f25b78d03dd,Süper 2'li Menü,"23,00 TL",Ekonomik Menüler,8.0
+b434e0e4-cdcf-4bea-ac7e-43bf763f3ffd,Fırsat Menü,"24,50 TL",Ekonomik Menüler,3.0
+d2d1e681-3ce5-4ebc-b835-a12cba6bb445,Süper 3'lü Menü,"26,50 TL",Ekonomik Menüler,13.0
+5b288dd0-edbe-4d21-87ce-a1cd72607cf3,2'li Hamburger Menü,"27,00 TL",Ekonomik Menüler,1.0
+5a4bed2e-4007-4745-9f2c-569ecb5ab0d8,Tıka Basa Menü,"35,00 TL",Ekonomik Menüler,8.0
+0d38f1e6-b2f0-46b0-a9ac-8b0bfd67a744,Party Menü,"40,00 TL",Ekonomik Menüler,4.0
+7e722954-2c4e-4e21-aaa1-fe2160063041,Dört Dörtlük Menü,"45,00 TL",Ekonomik Menüler,4.0
+1f7696a3-2025-40dd-941b-af575ec61a4d,Kumru Sandviç,"13,00 TL",Sandviçler,2.0
+e58d20d5-5e58-406e-91e6-fc5b7bea92fd,Tavuklu Kaşarlı Sandviç,"13,00 TL",Sandviçler,2.0
+b73f0541-ced7-48e4-884e-6e836cc644b8,Chicken Burger,"10,00 TL",Burgerler,6.0
+a97b955a-b3f2-4005-b85b-9f3e36fc9ac3,Pack Chicken Burger,"15,00 TL",Burgerler,10.0
+b4f6002d-ca9d-46dc-8a70-f0c3a21a4c40,Acı Pack Chicken Burger,"15,00 TL",Burgerler,10.0
+fe358791-bec5-468d-8074-929afac282b1,Hamburger,"11,00 TL",Burgerler,-3.0
+d257556b-7798-4440-a485-c977fb26b98b,Cheeseburger,"13,00 TL",Burgerler,6.0
+2ebabeb0-7490-48b9-b399-58eae9826f79,Double Chicken Burger,"14,00 TL",Burgerler,4.0
+2f25a387-b3ae-4789-89e4-21fb2ddbe01f,Big Burger (115 gr.),"20,00 TL",Extra Burgerler (115 gr.),6.0
+a08ca941-66ea-43d6-820d-107b40de6fc9,Big Cheese Burger (115 gr.),"23,00 TL",Extra Burgerler (115 gr.),7.0
+4f59c5ca-e261-452b-a6ae-61b976c0afd0,BBQ Burger (115 gr.),"23,00 TL",Extra Burgerler (115 gr.),6.0
+5dc0d5d4-b883-4028-a8d6-e146c180e0fb,Caramelize Onion Burger (115 gr.),"24,00 TL",Extra Burgerler (115 gr.),6.0
+6a408111-acb5-4b36-860c-fd6eecc44e60,Packet Burger (115 gr.),"26,00 TL",Extra Burgerler (115 gr.),10.0
+bc098c32-db52-4a12-a8e9-efc1e920ba10,Mushroom Burger (115 gr.),"24,00 TL",Extra Burgerler (115 gr.),6.0
+eeba5758-cc6b-44b6-960e-6109f0eee94c,Mexican Burger (115 gr.),"24,00 TL",Extra Burgerler (115 gr.),6.0
+cd4d6232-0029-437d-aeb3-d0b417129bf8,Hellim Burger (115 gr.),"25,00 TL",Extra Burgerler (115 gr.),6.0
+2bad58f7-2613-453a-a20c-3a069c2fab86,Türk Usulü Burger (115 gr.),"26,00 TL",Extra Burgerler (115 gr.),6.0
+1d592b76-7c70-4426-839b-98bcd4f4733d,Steak Burger (115 gr.),"31,00 TL",Extra Burgerler (115 gr.),6.0
+6bfc779b-d02c-4271-a432-d329e99c20d9,Gurme Burger (115 gr.),"34,00 TL",Extra Burgerler (115 gr.),5.0
+1718c36c-f436-4c1f-aee8-b91436bb6ac6,Big Burger (170 gr.),"29,00 TL",Extra Burgerler (170 gr.),6.0
+597b235e-efb7-4d52-bebb-61855c78cd0f,Big Cheese Burger (170 gr.),"32,00 TL",Extra Burgerler (170 gr.),7.0
+34208a8d-cc7e-4539-86ad-d82fe338dad6,BBQ Burger (170 gr.),"32,00 TL",Extra Burgerler (170 gr.),6.0
+9b904641-1374-4126-87e8-5e2945dfd710,Caramelize Burger (170 gr.),"33,00 TL",Extra Burgerler (170 gr.),6.0
+9ab6b972-500c-4733-a47a-c01b9a7df6b3,Mushroom Burger (170 gr.),"33,00 TL",Extra Burgerler (170 gr.),6.0
+4af4a26a-bedc-4902-952b-14b9b5a667b7,Packet Burger (170 gr.),"35,00 TL",Extra Burgerler (170 gr.),10.0
+5a6520c4-b01f-4612-a4e0-62eb2f66e469,Mexican Burger (170 gr.),"33,00 TL",Extra Burgerler (170 gr.),6.0
+44487c6d-3b50-48b3-8355-3620f17441d6,Hellim Burger (170 gr.),"34,00 TL",Extra Burgerler (170 gr.),6.0
+852a56db-616d-41f6-9d1d-e32aa7553f07,Türk Usulü Burger (170 gr.),"35,00 TL",Extra Burgerler (170 gr.),6.0
+29d3e77b-2317-4a93-8a5c-f295b95a21ee,Steak Burger (170 gr.),"40,00 TL",Extra Burgerler (170 gr.),6.0
+4c72fba9-e3b2-45f2-84bd-0dde5dda79f4,Gurme Burger (170 gr.),"43,00 TL",Extra Burgerler (170 gr.),5.0
+bf86ca1a-170a-4bcb-baa7-355e168715e8,Çıtır TavukTopları (12'li),"10,00 TL",Yan Ürünler,3.0
+4cbf50ad-8da7-49ac-9d0d-212351641311,Nugget (6'lı),"10,00 TL",Yan Ürünler,5.0
+2be4977a-1e7d-4c67-b7a2-f6548405493c,Soğan Halkası (8'li),"10,00 TL",Yan Ürünler,5.0
+bc592dda-8c52-41e3-b384-643c141ca37b,Patates Kızartması,"10,00 TL",Yan Ürünler,6.0
+6c2eb837-03a3-4365-8f8e-ae729aee444b,Poşet,"0,25 TL",Poşet,5.0

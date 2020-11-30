@@ -1,0 +1,127 @@
+food_id,food_name,food_price,food_category,food_score
+f0e8e5fd-659b-42ef-9f6f-60ff3bb98128,Maxi Karışık Sandviç Menü,"16,45 TL",Sandviç Menüleri,7.0
+e2ab4fb6-c0c7-4438-9d9f-ec1950c24a66,Mega Löp Sandviç Menü,"16,45 TL",Sandviç Menüleri,4.0
+32d8a8f0-f3db-4a00-9abf-c3695de8aeb1,Full Karışık Sandviç Menü,"11,90 TL",Sandviç Menüleri,5.0
+015645de-a0e9-4da4-842a-c4911f46de66,Çeşme Kumru Sandviç Menü,"12,60 TL",Sandviç Menüleri,1.0
+eba2b9d3-dcbd-4bbb-b0ab-6bc31b76728a,Yumurtalı Maxi Sandviç Menü,"11,90 TL",Sandviç Menüleri,1.0
+9135e5be-cc12-4e45-960b-848bd9e8ca61,Öğrenci Menü,"21,00 TL",Sandviç Menüleri,8.0
+ece0183a-6e3c-4faf-8c15-1a605446571b,4'lü Menü,"41,30 TL",Sandviç Menüleri,5.0
+1365a254-b9e9-45cf-9a61-92392c0bd765,Ekonomik Menü,"23,80 TL",Sandviç Menüleri,5.0
+5d296a09-bdcd-467b-9347-341d000201cc,Cheddarlı Maxi Sandviç Menü,"15,40 TL",Sandviç Menüleri,0.0
+19ed7d67-040e-446e-bb6a-712d27b3219a,Ton Balıklı Sandviç Menü,"10,50 TL",Sandviç Menüleri,4.0
+b648f0e8-4e30-43f8-a258-4c6a9ae1c965,Kavurmalı Sandviç Menü,"17,50 TL",Sandviç Menüleri,4.0
+77ccc2bc-bb9f-4b35-9d0a-4fa32d5c36cf,Peynir Delisi Sandviç Menü,"12,25 TL",Sandviç Menüleri,2.0
+0b0e651a-7d34-4268-8b17-5b208b275472,Special Big Bang Dana Antrikot Sandviç Menü,"17,50 TL",Sandviç Menüleri,4.0
+3b8ed8be-05ae-482c-953c-06ff8a3dc362,Duble Maxi Karışık Sandviç Menü,"15,40 TL",Sandviç Menüleri,-3.0
+5f24d952-9085-45c3-8904-df7f1bcaa055,Antakya Tavuk Döner Dürüm Menü,"11,55 TL",Ekonomik Menüler,3.0
+6aecab32-eaca-4f8c-9ff4-bfaab65ba82c,Bazlama Ekmeğinde Et Döner Menü,"16,10 TL",Ekonomik Menüler,5.0
+a4db7f9f-2472-4320-92f7-af5178f07ea4,Bazlama Ekmek Arası Izgara Köfte Menü,"14,00 TL",Ekonomik Menüler,5.0
+fdb2a10f-f68a-4d8b-aca3-3f39e4e063b5,Bazlama Ekmek Arası Tavuk Döner Menü,"12,25 TL",Ekonomik Menüler,0.0
+850b4fbd-4f6c-44f8-891f-647706cdfc91,Ekmek Arası Köfte Menü,"11,90 TL",Ekonomik Menüler,6.0
+604066d0-624d-4003-b267-7f5cce0a973b,Ekmek Arası Sucuk Köfte Menü,"11,90 TL",Ekonomik Menüler,6.0
+d5365cdc-7b3e-46bf-bdfb-7face9c737c3,Et Döner Dürüm Menü,"16,10 TL",Ekonomik Menüler,4.0
+80b0535c-b0fd-4190-b837-28f0e1e10682,Ayvalık Tost Menü,"14,00 TL",Tost Menüleri,6.0
+eb8d8e77-9385-4ccc-bc12-16f2a6d02082,Nostaji Tost Menü,"11,20 TL",Tost Menüleri,8.0
+d53532d4-cd5b-4208-8dbf-8f91cc15ac7f,Cheddarlı Tost Menü,"12,95 TL",Tost Menüleri,7.0
+f15e6ed8-5596-4acf-9e4c-25f9b61b49cc,Tavuklu Ayvalık Tostu Menü,"11,20 TL",Tost Menüleri,3.0
+c9f46d9e-0e03-4bee-b41f-b8a327ffd600,Karışık Bazlama Tost Menü,"14,00 TL",Tost Menüleri,8.0
+fe2be0e2-e642-49a5-8fd3-30dc1a6e8226,Bazlama Tost Menü,"14,00 TL",Tost Menüleri,7.0
+2ffc8411-30d7-4d2f-aa44-59ed24369f96,Efsane Bazlama Tost Menü,"17,50 TL",Tost Menüleri,11.0
+721c15cf-9ee7-471d-b531-a5d825f0909a,Kavurmalı Bazlama Tost Menü,"17,50 TL",Tost Menüleri,7.0
+f16d750e-709e-4c30-b22d-d0628ec99e15,Üç Katlı Tost Menü,"14,70 TL",Tost Menüleri,8.0
+076845d2-8b47-4216-a46a-d29f0866225d,Tire Tost Menü,"13,30 TL",Tost Menüleri,8.0
+b2e36b9b-140a-46bc-981f-4f4bfe923358,Hamburger Menü,"16,45 TL",Burger Menüleri,11.0
+05b41c17-25fe-4181-b736-7d7bf2b6f10f,Cheeseburger Menü,"16,80 TL",Burger Menüleri,5.0
+c0198db1-ad66-4f1e-b635-f731e08d9fc3,Chicken Burger Menü,"11,90 TL",Burger Menüleri,5.0
+84edca90-7698-4102-a406-a5e3d26f757c,Lokum Burger Menü,"18,20 TL",Burger Menüleri,6.0
+ab43bcc7-a195-4e8c-8501-ffb538938e7a,Cheddarlı Burger Menü,"15,05 TL",Burger Menüleri,4.0
+b46e60c6-b1a8-4038-ba86-aebc253d0480,Et Sever Burger Menü,"17,50 TL",Burger Menüleri,4.0
+900a7ef9-43aa-4591-9c19-3e4f06b23977,Deli Dolu Burger Menü,"21,00 TL",Burger Menüleri,5.0
+56e22281-8812-4d8c-a502-54205f1a47a5,Kral Burger Menü,"19,60 TL",Burger Menüleri,5.0
+6a1ad671-491e-4f18-9e19-a564c58b03cd,Karışık Sandviç,"11,20 TL",Sandviçler,5.0
+7cc9983e-f248-4bb4-ad71-ce4146817916,Üç Parça Karışık Sandviç,"11,90 TL",Sandviçler,5.0
+c1d50fd7-e4dd-4277-b45c-07c3ef2e21b3,Sayaslı Maxi Karışık Sandviç,"9,80 TL",Sandviçler,2.0
+5c43d9ef-ce6d-4ee4-9fe5-8375fdff1f0c,Atom Maxi Sandviç,"11,55 TL",Sandviçler,1.0
+c7981350-be4a-443f-990f-2f5d5befdb06,Maxi Mozarella Peynirli Sandviç,"11,20 TL",Sandviçler,-1.0
+d737efd2-d6e8-43b8-b7f4-70fbf8dcac18,Karışık Patso Sandviç,"11,55 TL",Sandviçler,7.0
+a96d721d-61cd-4e2f-8112-86f7d7d197a7,Salamlı Patso Sandviç,"9,10 TL",Sandviçler,6.0
+7cd4632c-3dde-4e80-a2f7-7df5aaa5235a,Peynirli Patso Sandviç,"10,50 TL",Sandviçler,4.0
+c83a13d0-cdaf-4b0c-94d1-402158917316,Sucuklu Kaşarlı Patso Sandviç,"10,50 TL",Sandviçler,6.0
+922E308D-696B-458A-9FE4-F6C18AB50C76,Kumru Et Döner Sandviç,"11,90 TL",Sandviçler,3.0
+ca7c517b-b7aa-4b40-bf27-49a8941d1a2b,Maxi Karışık Sandviç,"11,55 TL",Sandviçler,2.0
+31610d4f-aa51-4f4d-a84d-58c1d59e22c4,Duble Maxi Karışık Sandviç,"13,30 TL",Sandviçler,2.0
+686360a2-ce35-4707-875b-fd66bd7a9008,Cheddarlı Maxi Sandviç,"11,90 TL",Sandviçler,0.0
+e135dd47-2de3-490a-b6d7-f5ef5d624fd5,Mega Löp Sandviç,"12,60 TL",Sandviçler,4.0
+4697eaed-0afb-4d33-ae5d-ac548df3e276,Yumurtalı Maxi Sandviç,"10,50 TL",Sandviçler,1.0
+d7cbbf31-1a63-4fee-8f82-fb7d5103bd6d,Ton Balıklı Sandviç,"7,70 TL",Sandviçler,4.0
+ce05d480-a083-438b-8413-afa38096db38,Kavurmalı Sandviç,"15,40 TL",Sandviçler,4.0
+1a2c7b41-2d86-49aa-8ed7-10fc25fd7431,Maxipat Sandviç,"10,50 TL",Sandviçler,4.0
+ea5be772-959d-4af5-926c-6de934ebd3a8,Yengen Kumru Sandviç,"8,40 TL",Sandviçler,2.0
+a043ad0f-d4e8-4879-ad14-bf0198d39ceb,Çeşme Kumru Sandviç,"10,50 TL",Sandviçler,1.0
+efede77d-fed7-49ff-a35a-ba82d619965a,Full Karışık Sandviç,"9,80 TL",Sandviçler,5.0
+a571bb25-cf69-4a2b-b936-f67a585a8bcd,Tavuk Bonfile Sandviç,"4,55 TL",Sandviçler,-3.0
+a05d4762-02b4-462b-bc9b-c193b6ea797d,Kaşarlı Köfte Sandviç,"9,45 TL",Sandviçler,4.0
+0d73b8f4-a35d-44a9-88f4-433a79a61f97,Izgara Sucuk Sandviç,"7,70 TL",Sandviçler,4.0
+c36176ee-eccf-48a9-8760-f25b77f22fca,Salçalı Kumru Sandviç,"8,40 TL",Sandviçler,2.0
+eb841cde-31f1-4c79-9ff5-631ac2257e26,Zurna Maxi,"9,45 TL",Sandviçler,0.0
+fd44002e-af5a-489f-8c60-d28b69b4115e,Special Big Bang Dana Antrikot Sandviç,"14,00 TL",Sandviçler,4.0
+1237710a-594c-46d4-bd86-a578156620a2,Atom Maxi Bazlama Sandviç,"12,25 TL",Bazlamalar,0.0
+a7ce1b61-3dd9-4a0d-8e55-15f473300086,Üç Katlı Tost,"10,50 TL",Bazlamalar,8.0
+efab0c29-3fea-44d7-97b5-bd969d4759d4,Bazlama Tost,"9,80 TL",Bazlamalar,7.0
+0ec279b7-d5ff-484c-b9ff-65615a2fbb47,Efsane Bazlama Tost,"13,30 TL",Bazlamalar,11.0
+aea0e384-d6c5-4814-87c7-80d44646056f,Karışık Bazlama Tost,"11,20 TL",Bazlamalar,8.0
+f63c6361-daa6-4028-b0e2-d8b4050ee672,Bazlama Ekmek Arası Izgara Köfte,"10,50 TL",Bazlamalar,5.0
+f3b61646-7b70-4335-a2d2-4c6b5a187253,Bazlama Ekmek Arası Tavuk Döner,"9,45 TL",Bazlamalar,0.0
+43765dfc-01b2-41cc-b3e9-1eb474b7511a,Peynirli Delisi Sandviç,"10,50 TL",Bazlamalar,2.0
+53f58705-a2ca-4d08-961a-294206c7c0a3,Ayvalık Tost,"9,10 TL",Tostlar,6.0
+8033ea10-700a-419e-b3c0-b2fe6309cbe2,Kavurmalı Tost,"14,00 TL",Tostlar,8.0
+a433973f-4ce2-4419-8c6c-337f26b5f471,Baba Tost,"8,40 TL",Tostlar,8.0
+507fcf70-5d75-4000-8a25-ae42f6377b1f,Tire Tost,"9,10 TL",Tostlar,8.0
+f44b8530-6809-46ba-b231-424d0a11c8db,Zeytinella Tost,"7,70 TL",Tostlar,8.0
+63e8b973-b552-4dcf-9aaf-6f4098cd6714,Nostaji Tost,"8,40 TL",Tostlar,8.0
+b9e08e94-226d-40df-8fa6-ed1b4f45c960,Kaşarlı Ayvalık Tostu,"7,00 TL",Tostlar,3.0
+a6523624-9a29-4c9d-ad7d-47b384e4d4ac,Sucuklu Ayvalık Tostu,"6,30 TL",Tostlar,3.0
+82ebf076-75cd-4749-9941-227c71903cb6,Pastırmalı Tost,"10,50 TL",Tostlar,8.0
+d75c7467-a86c-41d2-9d3d-9c95f4689a1b,Cheddarlı Tost,"9,80 TL",Tostlar,7.0
+4da8f06f-e7e2-4721-a14f-7946b9f0e9c4,Nutella Tost,"5,25 TL",Tostlar,8.0
+f415bad4-aba7-4fab-ba51-5fc3e4df4b23,Et Döner Dürüm,"9,10 TL",Et Dönerler,4.0
+9bb44beb-05da-473f-a0e0-63ee89145742,Bazlama Ekmeğinde Et Döner,"11,20 TL",Et Dönerler,5.0
+7192a759-ecc2-4ac9-8026-fbbbff3c8090,Tavuk Dönerli Ayvalık Tostu,"7,00 TL",Tavuk Dönerler,-4.0
+bf24fdb9-a03b-4cbc-8d39-4d96674c5120,Antakya Tavuk Döner Dürüm,"8,05 TL",Tavuk Dönerler,-2.0
+dc259df1-83c6-4f54-b2f2-88ab750a8b04,Yarım Ekmek Arası Tavuk Döner Dürüm,"7,00 TL",Tavuk Dönerler,-1.0
+fc4d5716-ce51-4753-adf9-0824c47b3665,3/4 Ekmek Arası Tavuk Döner,"10,50 TL",Tavuk Dönerler,-1.0
+BA42EC97-4238-4C1D-ADBC-B520B42FFDB2,Çılgın Tavuk Döner Dürüm,"9,10 TL",Tavuk Dönerler,-4.0
+05382a73-e76f-420a-8874-e29187b77906,Cheeseburger,"13,30 TL",Burgerler,5.0
+a9b7db26-deb4-4380-8c26-d9e39a1f36e1,Hamburger,"12,60 TL",Burgerler,11.0
+f75e9347-681e-405a-a0da-33e54e1d206d,Duble Burger,"14,70 TL",Burgerler,0.0
+92103db2-af7f-4f74-ad59-7ea10e242c1a,Triple Burger,"14,00 TL",Burgerler,5.0
+ae6c555b-785b-4605-a626-28e30d66d006,Chicken Burger,"9,10 TL",Burgerler,5.0
+f17ab80f-8a33-46a0-88ac-70cfde2c6626,Lokum Burger,"13,30 TL",Burgerler,6.0
+18f44232-8e9a-4b55-8b34-9637cdeecd47,Cheddarlı Burger,"11,20 TL",Burgerler,4.0
+58cabd0f-8633-44bb-8a32-4c3c145ef6d6,Et Sever Burger,"14,00 TL",Burgerler,4.0
+a5ef474f-e430-4d92-8fea-2b9d3a45360a,Deli Dolu Burger,"17,50 TL",Burgerler,5.0
+4a2fe177-eddc-4b64-a9e4-4d728367cc83,Kral Burger,"18,20 TL",Burgerler,5.0
+053E6552-81CA-48FD-8BB3-BA295C2F98A1,Efso Burger,"14,00 TL",Burgerler,5.0
+d5cbffe2-4370-4e33-b8f5-3dcd27c3dee9,Ekmek Arası Izgara Kasap Köfte,"9,80 TL",Ekmek Arası Ürünler,6.0
+380fb36f-cc32-4a6e-b70a-73bf81fa74c4,Ekmek Arası Sucuk Köfte,"9,10 TL",Ekmek Arası Ürünler,6.0
+fd7111ab-08ed-4fc6-9467-a79c404d196c,Köfte Dürüm,"7,00 TL",Dürümler,3.0
+3a84d5d5-a1ca-4a52-9aef-416cecc80aea,Patates Kızartması,"3,50 TL",Yan Ürünler,-4.0
+1bf509af-b8c2-4db8-a93a-42bf66d0edce,Çıtır Patates Kızartması,"4,90 TL",Yan Ürünler,-4.0
+77626359-4399-472a-92cf-fd58b3fdc2ca,Tavuk Nugget (4 Adet),"3,50 TL",Yan Ürünler,-2.0
+BE13268B-68B9-4DC9-B9E8-9F4B434C5709,İçli Köfte (Büyük) (Adet),"4,20 TL",Yan Ürünler,5.0
+a563e5a6-4037-43b2-aff2-1bc50d697301,Şambalı Tatlısı (Adet),"1,75 TL",Tatlılar,5.0
+9a5d25a1-ea48-4f85-9ea6-b9180ccf1f9c,Şambalı Tatlısı (3 Adet),"4,20 TL",Tatlılar,5.0
+39452B07-1414-43C9-8C7D-7876A9A46A73,Algida Magnum Badem (100 ml.),"6,93 TL",Dondurmalar,5.0
+8FCFBB44-7AF9-4B21-BC04-80AC2A105EF4,Algida Magnum Beyaz (100 ml.),"6,93 TL",Dondurmalar,5.0
+CCDA267A-CC16-439C-B927-E7F11AD103FA,Carte d'Or Premium Kaymak Cup (100 ml.),"4,90 TL",Dondurmalar,5.0
+01A01F9E-C1CD-4FBA-BD89-4CA45A078D2B,Algida Classics Cookie Cup (105 ml.),"4,20 TL",Dondurmalar,5.0
+099E7497-CD54-4D6C-A23D-070FB6FF0EDE,Algida Maraş Usulü Cup Dondurma (100 ml.),"3,50 TL",Dondurmalar,5.0
+F3B10803-D432-4792-8EF7-F1A4E2E1D47B,Algida Carte d'Or Mini Cup Çilekli Yoğurtlu (110 ml.),"4,90 TL",Dondurmalar,5.0
+4E85BFA4-5705-4128-AAF1-D268A537B161,Algida Carte d'Or Mini Cup Çikolata Karnavalı (110 ml.),"4,90 TL",Dondurmalar,5.0
+E066565B-1589-47F7-8879-2D8AF5E6FAB4,Algida Maraş Usulü Dondurmalı İrmik Helvası (150 ml.),"7,00 TL",Dondurmalar,5.0
+A0D033BA-89CC-4174-9D88-D3110C4B1AA3,Carte d'Or Dondurmalı Volcano,"8,40 TL",Dondurmalar,5.0
+b8c58bdd-534f-4e5c-a9da-8bd3fc71ac9b,Cappy Şeftali (33 cl.),"3,50 TL",İçecekler,5.0
+97f1e19f-ceb9-4a03-97d5-3ad734eafaf8,Niğde Gazozu (25 cl.),"2,10 TL",İçecekler,5.0
+8f98f538-1441-4c20-a6f3-c5a9cdf25071,Su,"1,05 TL",İçecekler,6.0
+a0dd0a48-6fdd-4d09-8f77-edd0c5f63c08,"Su (1,5 L.)","1,75 TL",İçecekler,6.0
+59a8facf-d24b-4e43-b40c-ff4015ab9ec7,Poşet,"0,25 TL",Poşet,5.0

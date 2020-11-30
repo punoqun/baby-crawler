@@ -1,0 +1,20 @@
+food_id,food_name,food_price,food_category,food_score
+ec7f2096-5f92-445a-9978-693cb4e3c6bc,Menü 1,"36,50 TL",Menüler,3.0
+e8c284b7-cab2-41af-98bd-bd422af59312,Menü 2,"33,50 TL",Menüler,5.0
+38210108-f4c7-4d94-9be4-10af74070a28,Zurna Menü 1,"17,50 TL",Menüler,3.0
+6bf09d40-a2b2-4f05-8e13-7920f92784aa,Zurna Menü 2,"18,50 TL",Menüler,5.0
+e80fdec9-bef5-4c1b-bcf8-a1d44a4d53b6,Zurna Menü 3,"22,00 TL",Menüler,4.0
+a4bf716b-b6ce-46c4-8c27-d213ffe7a26d,Zurna Menü 4,"51,00 TL",Menüler,2.0
+c318add5-869f-4ef5-9a98-81f35c895550,Zurna Menü 5,"66,00 TL",Menüler,4.0
+5f399e10-3de2-4ada-8157-73c26ffe151e,Hatay Usulü Et Döner Dürüm,"15,00 TL",Et Dönerler,19.0
+27d9d79f-06af-4970-9ecd-31dbd4e44185,Zurna Et Döner Dürüm,"20,00 TL",Et Dönerler,14.0
+869cfa22-903b-4e87-a44e-d0db6c7b7684,Yarım Ekmek Arası Et Döner,"15,00 TL",Et Dönerler,13.0
+bbff1307-3a0f-4d4d-8349-e164b1daeb72,3/4 Ekmek Arası Et Döner,"20,00 TL",Et Dönerler,13.0
+221112b9-b756-41ee-9b11-363b466a43a1,Tam Ekmek Arası Et Döner,"25,00 TL",Et Dönerler,13.0
+2b00514a-9b46-405a-a366-effd51bbbc25,Yarım Ekmek Arası Tavuk Döner,"9,00 TL",Tavuk Dönerler,10.0
+1964d42a-73d2-4871-b4a0-1cb7134e75d0,3/4 Ekmek Arası Tavuk Döner,"15,00 TL",Tavuk Dönerler,10.0
+6adc414d-4e2d-4a31-aef7-e362599d8c1b,Tam Ekmek Arası Tavuk Döner,"18,00 TL",Tavuk Dönerler,10.0
+23066b76-979b-453e-a36b-9e1ab6fcd732,Hatay Usulü Tavuk Döner Dürüm,"10,00 TL",Tavuk Dönerler,16.0
+a405a4ce-645c-4876-8516-7dfe9021500b,Zurna Tavuk Döner Dürüm,"15,00 TL",Tavuk Dönerler,16.0
+166d8e8c-fed0-4a8e-b088-345fca03777b,Su,"1,50 TL",İçecekler,5.0
+5095809f-b440-4056-beec-7b3034adb09f,Poşet,"0,25 TL",Poşet,5.0

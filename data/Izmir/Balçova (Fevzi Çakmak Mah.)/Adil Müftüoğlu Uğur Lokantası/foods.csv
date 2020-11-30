@@ -1,0 +1,36 @@
+food_id,food_name,food_price,food_category,food_score
+2e101a5b-3aaf-41c4-97db-8d003274cde9,Tavuk Tas Kebabı,"29,00 TL",Ana Yemekler,7.0
+4642c361-fe63-474d-a057-df12cbc5f651,Patlıcanlı Kebap,"42,00 TL",Ana Yemekler,5.0
+e135c788-f22b-4d36-aefe-e2161097be94,Avcı Kebabı,"34,00 TL",Ana Yemekler,7.0
+f66c9419-3b30-4ce3-903c-7ec50dfac5c5,Kuzu Tas Kebabı,"45,00 TL",Ana Yemekler,5.0
+68a9ce4f-76c7-4e86-b401-f2b05fc027e8,Ciğer Sarma,"42,00 TL",Ana Yemekler,7.0
+6a9b7049-ea19-417b-aef0-c84255e2c52c,Kuzu Tandır,"46,00 TL",Ana Yemekler,10.0
+d6a64791-a9d3-4704-8ef6-8c4813a436db,Kuzu Kapama,"45,00 TL",Ana Yemekler,5.0
+c68c4d24-9b4b-4c1a-9d85-94c93057e223,Ankara Tava,"45,00 TL",Ana Yemekler,7.0
+110a8baf-8e50-4ca0-8cff-b169ff371109,Güveçte Kuru Fasulye,"20,00 TL",Ana Yemekler,7.0
+1703268c-33eb-4911-ad8e-0650e187d7b2,Taze Fasulye,"26,00 TL",Ana Yemekler,5.0
+68ecd728-8e6b-4f4a-af67-f833a1a69cc4,Kıymalı Karnabahar,"26,00 TL",Ana Yemekler,5.0
+88dd8ad7-2d50-4fb3-98f8-3c27a05719e8,Ispanak,"21,00 TL",Ana Yemekler,4.0
+82c954e0-8fb4-4a29-9ee7-b67f6cd36620,Kıymalı Lahana Sarma,"28,00 TL",Ana Yemekler,5.0
+bb8f408a-26d5-49a2-b3cf-c972f4510411,Kıymalı Pazı Sarma,"28,00 TL",Ana Yemekler,5.0
+dbb0138f-3e84-4787-9cb8-8a6c3dfeab89,Karnıyarık,"29,00 TL",Ana Yemekler,5.0
+93cd03de-26c7-4e91-bfb1-cfeb2f28dd2e,İzmir Köfte,"33,00 TL",Ana Yemekler,17.0
+f06b1774-9e97-4f14-a569-101101a2dd35,Dana Güveç,"42,00 TL",Ana Yemekler,6.0
+7ab12447-1204-458e-bb3c-7240f1558b93,Dana Rosto,"42,00 TL",Ana Yemekler,5.0
+8821d902-9e2f-40c5-869b-42861cb78e02,Kuzu Güveç,"45,00 TL",Ana Yemekler,6.0
+d8cc915a-e926-4606-8752-5e7bde981170,Kuzu Haşlama,"45,00 TL",Ana Yemekler,5.0
+26db1cbc-3262-4583-858d-05ce1c64f27d,Pirinç Pilavı,"10,00 TL",Pilavlar,10.0
+bd8e2fa7-df7f-4462-93e4-a7d4ffb36cc5,Bulgur Pilavı,"10,00 TL",Pilavlar,5.0
+cba70893-0cc0-45e1-95be-fdcc48eb90c6,Arpa Şehriye Pilavı,"10,00 TL",Pilavlar,5.0
+75b53a63-dea9-4b85-b189-fe570863cdb6,Pancar,"15,00 TL",Mezeler,5.0
+a5bb8c67-9eee-4b03-b94d-1a98116dc1be,Yoğurtlu Köz Patlıcan,"15,00 TL",Mezeler,5.0
+a65a7d4a-cc75-4a3a-8a04-631608d2935f,Kabak Boranı,"15,00 TL",Mezeler,5.0
+0aff7fae-545a-4c83-9dde-f369e918b38c,Çilek Kompostusu,"10,00 TL",Yan Ürünler ,5.0
+3902e30e-0666-42e3-bb77-bcfcbb3c91c4,Salata,"15,00 TL",Yan Ürünler ,8.0
+6ed1dd74-78d9-424f-9cdc-f37e640850f7,Cacık,"10,00 TL",Yan Ürünler ,5.0
+d42eb90b-dbc9-4965-b1ea-e72d60e38880,Yoğurt,"10,00 TL",Yan Ürünler ,5.0
+fcacdf5b-b96f-4d44-8873-d9c65563ecde,Ayva Kompostusu,"10,00 TL",Yan Ürünler ,5.0
+1e28c9f8-391b-4c2e-86de-eaa12fb85763,Krem Şokola,"13,00 TL",Tatlılar,5.0
+2f2f61e5-77bc-45b4-9ddc-db0a0c535def,Lor Tatlısı,"7,00 TL",Tatlılar,14.0
+62e3a8a7-503d-4981-859a-9d7fe0f02663,Fırın Sütlaç,"13,00 TL",Tatlılar,7.0
+adaaab77-020f-4746-9f9b-eee8e4acbe66,Poşet,"0,25 TL",Poşet,5.0

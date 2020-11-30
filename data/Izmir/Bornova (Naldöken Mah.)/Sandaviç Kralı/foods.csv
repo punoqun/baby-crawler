@@ -1,0 +1,51 @@
+food_id,food_name,food_price,food_category,food_score
+9c41d129-8138-48f1-84a9-7b854628936c,3'lü Burger Menü,"89,00 TL",Menüler,6.0
+4c6e0083-6129-400b-83ba-e68c2fcbac4f,Kral 3'lü Menü,"28,00 TL",Menüler,4.0
+40595af2-e946-43cc-bbef-a7f914d1790a,2'li Special Burger Menü,"50,00 TL",Menüler,6.0
+facd61b6-a86d-44de-942c-d04ec232490f,2'li Tavuk Burger Menü,"50,00 TL",Menüler,5.0
+e93c4420-dbef-4273-99bd-4666a5e0cd67,2'li XXL Sandviç Menü,"45,00 TL",Menüler,6.0
+d3f0c00c-ed38-49b3-b137-f4405286d5a0,Chicken Tenders Menü,"25,00 TL",Menüler,2.0
+9f2c2667-8239-4423-abb8-63dff411e16b,Duble Maxi Sandviç Menü,"37,00 TL",Menüler,6.0
+dc4a8459-9a82-4425-85ba-e0e72caf0b3b,Extra Cheese Menü,"37,00 TL",Menüler,2.0
+e3df37ff-b610-4fce-993c-e9c92c5965fc,İkiz Kumru Menü,"37,00 TL",Menüler,5.0
+78acf315-2b41-47a3-87b1-26b0d4791a8c,Karışık Ayvalık Tostu,"9,99 TL",Tostlar,14.0
+840c330b-1181-4ad8-95a8-19937f0abe7c,3 Peynirli Tost,"11,00 TL",Tostlar,6.0
+db30cba9-adc3-4ba3-b223-5fe11e607bce,Tavuklu Bazlama Sandviç,"15,99 TL",Sandviçler,8.0
+95bd20f7-7cc1-4272-ada4-d7658a71a880,Kavurmalı Bazlama Sandviç,"21,99 TL",Sandviçler,7.0
+d1bf4515-ca67-4b75-bd0d-a7e06ecd8644,Sucuklu Bazlama Sandviç,"16,99 TL",Sandviçler,7.0
+9d0b9d2f-6b80-4435-9da9-58f30274d3f3,3 Peynirli Bazlama Sandviç,"11,99 TL",Sandviçler,7.0
+9c4c9268-a86a-4d4e-b6c9-73d9b34667ae,XXL Sandviç,"13,99 TL",Sandviçler,12.0
+cefeaea3-bcc1-42c7-b1e8-2ddaf6c54e62,Maxi Sandviç,"10,99 TL",Sandviçler,7.0
+dde34469-c8b4-42c5-bebc-42adb7e99af0,Full Karışık Sandviç,"10,99 TL",Sandviçler,17.0
+b8c7caac-a17e-45b6-9e59-177783e476c9,Çeşme Kurmu Sandviç,"11,99 TL",Sandviçler,9.0
+45110f9c-8cfc-4069-8dce-49a6480b6ead,İzmir Kumru Sandviç,"13,99 TL",Sandviçler,7.0
+7b795cf1-6768-4dab-9799-18535d1ffc4d,Süper Kumru Sandviç,"14,99 TL",Sandviçler,12.0
+9cce1b93-23ee-438f-ba98-fa583e128df4,Sayaslı Kumru Sandviç,"14,99 TL",Sandviçler,8.0
+d5e58086-621c-4217-8598-b008e80e3417,Bigdog Hot Dog Sandviç,"13,99 TL",Sandviçler,7.0
+aef63f03-d83e-4484-806d-6c26575bad2c,Hamburger,"14,99 TL",Burgerler,12.0
+42d3435b-58a8-4b32-89ec-49f3147b76a0,Cheeseburger,"19,99 TL",Burgerler,3.0
+4237a91b-13f0-43a4-b27f-7d98bec33974,Tavuk Burger,"15,99 TL",Burgerler,6.0
+c4c89dd8-efb8-464e-b0d3-7393f5a6f9c7,Baba Burger,"17,99 TL",Burgerler,7.0
+92d0c407-6262-46c0-a8d0-52f5569f2686,Bol Burger,"24,99 TL",Burgerler,7.0
+01e6d4d1-78ed-4121-9951-0057b0eb43e6,El Bombası Burger,"23,99 TL",Burgerler,17.0
+0339c8ee-67c0-4ab2-a702-03b7376716ee,Et Sever Burger,"29,99 TL",Burgerler,7.0
+aa0c09e7-f603-477b-b8b7-becb3cc4f4b3,Gurme Burger,"19,99 TL",Burgerler,8.0
+8e27d4e0-74f4-42f3-9b07-057df719000f,Lokum Burger,"33,99 TL",Burgerler,7.0
+a0b05a14-6507-4a52-9fb1-9c0e774f0a70,Special Burger,"18,99 TL",Burgerler,7.0
+222cf914-d916-436c-a1d0-ad3f6e490db0,Special Etli Burger,"24,99 TL",Burgerler,7.0
+e8bc9e26-00af-4175-af8f-1aeb401a0c2e,Special Tavuklu Burger,"16,99 TL",Burgerler,8.0
+5c622e66-c107-4e87-b074-2c659e7e6a56,Steak Burger,"25,99 TL",Burgerler,7.0
+cb79af67-8fa4-49ba-a9d9-c460b3c8b9ab,İki Katlı Burger,"33,00 TL",Burgerler,5.0
+bd7ffb82-adb9-4352-bf48-e1764dd7eb58,Üç Katlı Burger,"55,00 TL",Burgerler,7.0
+ee281454-e1fc-43b3-9e38-5ce195990923,Dört Katlı Burger,"73,00 TL",Burgerler,7.0
+635248d2-657e-4947-8b40-56fb3484b42d,Beş Katlı Burger,"90,00 TL",Burgerler,7.0
+e87fa72e-ace3-48b5-b173-f3ee3a48a180,Ekmek Arası Tavuk,"12,00 TL",Ekmek Arası Ürünler,1.0
+7a74da5a-af19-4916-a79a-2d4e07ee5431,Ekmek Arası Kaşarlı Tavuk,"15,00 TL",Ekmek Arası Ürünler,1.0
+40521638-b819-4929-a62c-9855c4131858,Ekmek Arası Köfte,"12,00 TL",Ekmek Arası Ürünler,3.0
+e123cfd7-3ed7-4a1d-864a-eda2bfaf56f2,Ekmek Arası Kaşarlı Köfte,"15,00 TL",Ekmek Arası Ürünler,3.0
+7699365a-4e15-4908-a65c-9a37cd5f89c6,Çemberde Kavurma,"18,99 TL",Diğer Lezzetler,5.0
+17d30d97-a4af-4e2b-b3a0-74f1ee2a950c,Patates Kızartması,"7,00 TL",Yan Ürünler,1.0
+5a16f1d2-0dba-4c01-af46-f17a3f294130,Chicken Tenders (3 Adet),"7,50 TL",Yan Ürünler,3.0
+93c75448-5479-4210-81ff-a8d377245ed4,Chicken Tenders (6 Adet),"14,00 TL",Yan Ürünler,3.0
+aab4b607-5870-4e42-bccd-4bf1a2da5501,Su (20 cl.),"2,00 TL",İçecekler,2.0
+80fad08b-8510-4e9c-84ff-19b1baa7632f,Poşet,"0,25 TL",Poşet,5.0

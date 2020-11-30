@@ -1,0 +1,61 @@
+food_id,food_name,food_price,food_category,food_score
+324c1634-8db7-4ba1-be73-8d80fefe4882,Yarım Ekmek Arası Tavuk Döner Menü,"9,00 TL",Menüler,2.0
+01B2E892-7477-4AA7-93D7-11CB65089C25,Ev Yapımı Köfte Menü,"23,00 TL",Menüler,3.0
+2B039EF9-787D-4B30-A2A9-A7D2C956E7BD,Dürüm Tavuk Döner Menü,"14,00 TL",Menüler,2.0
+2DE19737-F249-4453-BEAA-6FC307D64AA2,Dürüm Ciğer Menü,"15,00 TL",Menüler,5.0
+E1B04EB6-CBFD-424A-BE25-348A32EC3150,Dürüm Köfte Menü,"21,00 TL",Menüler,3.0
+55e4cdd0-680c-4af5-ad93-6a16ad335818,Bazlama Ekmek Arası Tavuk Döner Menü,"10,00 TL",Menüler,9.0
+3dc2fa91-4109-472c-b819-0ca4c31c4f61,Ekmek Arası Ev Köftesi Menü,"12,00 TL",Menüler,5.0
+15329136-eafe-48b3-b206-760903222849,Bazlama Ekmek Arası Karışık Tost Menü,"11,00 TL",Menüler,8.0
+91C3D3E4-31C4-45B6-9290-15F74B6659B6,Atom Tost,"14,00 TL",Tostlar,3.0
+617B0BCD-FEC9-4AFE-AC23-9FDE67F39C38,Sucuklu Yumurtalı Kaşarlı Bazlama Tost,"11,00 TL",Tostlar,13.0
+77F7C2FD-9771-4B3D-BF12-2B2054A3C514,Rus Salatalı Ayvalık Tostu,"13,00 TL",Tostlar,9.0
+A55A69AE-7928-469F-A9CA-88D45C23407A,Ekmek Arası Kaşarlı Tost,"9,00 TL",Tostlar,3.0
+3478EEEF-8A48-49A5-B85E-92F7EABD1EE2,Ekmek Arası Sucuklu Tost,"9,00 TL",Tostlar,5.0
+41D2A216-8A1F-401A-8B17-D829B8FCC9BD,Ekmek Arası Karışık Tost,"10,00 TL",Tostlar,1.0
+ACF00ED5-7B5F-4BFD-9C2D-DF88ED256565,Ekmek Arası Sucuklu Yumurtalı Kaşarlı Tost,"11,00 TL",Tostlar,5.0
+055E0F64-2B2A-495E-BCA6-3EFEC97446E5,Kavurmalı Kaşarlı Tost,"15,00 TL",Tostlar,3.0
+9784804F-B425-4A47-8934-55D2D9F8B55A,Kavurmalı Tost,"13,00 TL",Tostlar,3.0
+119D4BED-383D-4613-ADEC-35364C61FED0,Kavurmalı Yumurtalı Tost,"15,00 TL",Tostlar,3.0
+DA6A5DA4-F6E4-4211-A3FE-FDF1554F1D52,Kavurmalı Bazlama Tost,"14,00 TL",Tostlar,11.0
+5A423C10-D555-4B2A-BE28-051BA8E691CE,Kavurmalı Kaşarlı Bazlama Tost,"16,00 TL",Tostlar,11.0
+e3a3003d-ee4f-468a-90ca-3a06cb71223d,Kaşarlı Ayvalık Tostu,"10,00 TL",Tostlar,9.0
+9b2d08f9-8f78-4a2f-af96-4b6a5b148811,Sucuklu Ayvalık Tostu,"10,00 TL",Tostlar,11.0
+e08f2495-78f9-4097-8400-df10dcf177f4,Karışık Ayvalık Tostu,"11,00 TL",Tostlar,12.0
+aee9e2ab-f339-4f21-b8f1-f55f6eb52f70,Bazlama Ekmek Arası Kaşarlı Tost,"9,00 TL",Tostlar,10.0
+3a5e928e-038c-4f54-9a98-bfe7d3146ef1,Bazlama Ekmek Arası Sucuklu Tost,"9,00 TL",Tostlar,12.0
+72265d8f-00fc-4f1a-bdb4-cb23e505d027,Bazlama Ekmek Arası Karışık Tost,"10,00 TL",Tostlar,8.0
+93364a06-b758-4c3d-b32f-60fb451097cb,Kumru Sandviç,"12,00 TL",Sandviçler,14.0
+ad0f45a0-ac62-42ba-9b52-2b7e2f981cd5,Yarım Ekmek Arası Tavuk Döner,"8,00 TL",Ekmek Arası Ürünler & Dürümler,2.0
+3C8DDA02-2B67-4F95-A16C-9D01DCE72E27,Ekmek Arası Arnavut Ciğeri,"10,00 TL",Ekmek Arası Ürünler & Dürümler,8.0
+9814EA31-0D52-4E54-9AA3-E3481FEE2ACC,Ekmek Arası Et döner (100 gr.),"12,00 TL",Ekmek Arası Ürünler & Dürümler,8.0
+ECA8FFEA-9758-47F8-A30F-C9826E6954D0,Bazlama Ekmek Arası Et Döner (100 gr.),"13,00 TL",Ekmek Arası Ürünler & Dürümler,13.0
+AD9C865F-889E-47CF-919C-A1BA396E1E47,Bazlama Ekmek Arası Et Döner (80 gr.),"11,00 TL",Ekmek Arası Ürünler & Dürümler,13.0
+B2574576-49F1-4EF3-AC75-CD720E0BC3C1,Tavuk Döner Dürüm,"9,00 TL",Ekmek Arası Ürünler & Dürümler,2.0
+5948C2D5-C08D-4D07-AAE4-766C66F2BC06,Ciğer Dürüm,"11,00 TL",Ekmek Arası Ürünler & Dürümler,5.0
+9B1481AF-35C0-4DA4-92A8-E48C6147A280,Et Döner Dürüm,"13,00 TL",Ekmek Arası Ürünler & Dürümler,6.0
+52E67AFB-3D73-4186-8DAE-22AD674F7E88,Izgara Köfte Dürüm,"12,00 TL",Ekmek Arası Ürünler & Dürümler,3.0
+1cf46f37-6263-43c7-b48c-667cc7d98f69,Bazlama Ekmek Arası Tavuk Döner,"9,00 TL",Ekmek Arası Ürünler & Dürümler,9.0
+34a6d5df-b6fe-4b84-bbd5-105297bf51d0,Ekmek Arası Ev Köftesi,"11,00 TL",Ekmek Arası Ürünler & Dürümler,5.0
+ee0da324-8061-4fd1-a7c4-a3df5326ed31,Ekmek Arası Sucuk,"10,00 TL",Ekmek Arası Ürünler & Dürümler,9.0
+14b2a196-8fcb-4d49-8681-65847b99c943,Ekmek Arası Patates Kızartması,"10,00 TL",Ekmek Arası Ürünler & Dürümler,3.0
+4da56f00-416b-47be-bbc6-f55099fc17ff,Ekmek Arası Kokoreç,"20,00 TL",Ekmek Arası Ürünler & Dürümler,2.0
+70C6C9F0-A84E-4A6C-B4A3-978EEEF8D169,Ekmek Arası Sebzeli Kokoreç,"22,00 TL",Ekmek Arası Ürünler & Dürümler,2.0
+231360f1-32b5-4777-9e36-ee8b08879335,Çiğ Köfte Dürüm,"4,00 TL",Çiğ Köfteler,3.0
+4a25b35a-8dda-4fce-bb82-f9cc979ed4f3,Çiğ Köfte (1 kg.),"40,00 TL",Çiğ Köfteler,3.0
+0F0CD74E-C121-411F-B15C-17AB4F0FDF13,Et Döner (80 gr.),"10,00 TL",Diğer Lezzetler,6.0
+005705f6-1711-494b-a077-6cb74293b4d5,Patates Kızartması (2 Kişilik),"12,00 TL",Yan Ürünler,3.0
+72d1eac9-2213-4577-a6c2-526a4ce8e7da,Soğan Halksaı (2 Kişilik),"12,00 TL",Yan Ürünler,5.0
+2AECDE50-E5A3-41FC-A830-9A1986641EB3,Midye Dolma (Adet),"1,50 TL",Yan Ürünler,8.0
+10559A7B-B1D0-4299-9628-2359B3B15966,Patates Kızartması,"6,00 TL",Yan Ürünler,3.0
+B3900B7F-3374-4CB2-BCBB-9996CC4FFA88,Soğan Halkası,"6,00 TL",Yan Ürünler,5.0
+1B8F5FDC-ADC9-4955-8865-4EFF5AF7D3F2,Ekler (4 Adet),"7,50 TL",Tatlılar,5.0
+801AFC84-2C42-44B5-90C2-E39016A503C4,Çikolatalı Pasta (Adet),"15,00 TL",Tatlılar,5.0
+CF887F74-DAB4-4C82-956B-097DC1F0FA2E,Alman Pastası (Dilim),"5,00 TL",Tatlılar,5.0
+9177B244-2EB9-43EB-A323-7899C037C778,Cevizli Baklava,"8,00 TL",Tatlılar,5.0
+BCD8F574-8E03-455D-B01F-24F4018DAA5D,Kadayıf,"8,00 TL",Tatlılar,5.0
+1AE22AAD-C620-47A2-8660-B7C6A3B178ED,Cevizli Baklava (1 kg.),"50,00 TL",Kiloluk Tatlılar,5.0
+D3693F33-9055-48E6-9672-1AA5C8E3150D,Cevizli Baklava (500 gr.),"30,00 TL",Kiloluk Tatlılar,5.0
+848F2E27-7A7D-4B32-B40C-359591A443DF,Kadayıf (1 kg.),"50,00 TL",Kiloluk Tatlılar,5.0
+DDB13A75-71AF-4E5D-A5EA-80FF475BD812,Kadayıf (500 gr.),"30,00 TL",Kiloluk Tatlılar,5.0
+29974e7a-2165-4efe-bbf3-fd494623a378,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,39 @@
+food_id,food_name,food_price,food_category,food_score
+11fb9fa9-9ea7-487c-90d3-7d8cc9c04cd9,Menü 1,"27,50 TL",Menüler,15.0
+fb821687-2af8-4f5d-9bed-ba21c8cd4fc0,Menü 2,"26,00 TL",Menüler,5.0
+429b1e15-5431-4371-b412-8a85d45b42e6,Menü 3,"27,50 TL",Menüler,6.0
+093ab4ba-377c-4c63-ace0-c478495b2f66,Menü 4,"26,00 TL",Menüler,4.0
+84bcf061-b09a-4a8c-947b-a225346e884d,Menü 5,"25,00 TL",Menüler,-1.0
+98ac86c4-0826-4d8b-a005-c6f77bdf4f3c,Menü 6,"23,50 TL",Menüler,2.0
+77283193-7e5d-42d5-b596-2ec3f0580ab2,Menü 7,"27,50 TL",Menüler,0.0
+09d2471d-d0f2-4ddf-a1f8-b106fd9f1b90,Menü 8,"26,00 TL",Menüler,2.0
+1ab32731-f5fc-4341-a28b-bd14a54e8751,Menü 9,"27,50 TL",Menüler,2.0
+54dd342c-6f3b-4e91-97a3-84c0dd4b5937,Menü 10,"26,00 TL",Menüler,14.0
+3790d788-57d8-41cc-bfa3-15224fe3459a,Menü 11,"25,00 TL",Menüler,2.0
+ede3387b-256f-4517-950e-f295780611dc,Menü 12,"23,50 TL",Menüler,3.0
+e377aee5-61dc-4b1b-9f2f-0eebc179cf71,Sayaslı Maxi Sandviç Menü,"28,50 TL",Menüler,5.0
+45a3928d-0417-4516-920b-21b5898ea61d,Sayaslı Maxi Sandviç Menü 2,"27,00 TL",Menüler,8.0
+71fc44be-fd88-43e3-b419-97f8fe8c41e6,Tavuk Şnitzel Menü,"23,00 TL",Menüler,2.0
+27142a49-feb4-4d52-a47f-bb6f2e6d8e32,Sucuklu Kaşarlı Tost,"14,00 TL",Tostlar,4.0
+11d35898-907f-4f5c-b84e-44806ae0c0de,Kaşarlı Tost,"13,00 TL",Tostlar,4.0
+744ecbc5-b171-44d6-b773-a3347ea78a73,Ayvalık Tostu,"13,00 TL",Tostlar,3.0
+7ab6f88d-0309-46a5-9b4d-b1bb60880dfe,Maxi Karışık Sandviç,"17,00 TL",Sandviçler,13.0
+8c4c8fd2-8db1-4bc5-bd2b-42ac1b9b321d,Full Karışık Sandviç,"17,00 TL",Sandviçler,9.0
+6f0939fe-8f10-4a65-aeb3-04b59c63f9b5,Patso Sandviç,"13,00 TL",Sandviçler,7.0
+06FED12F-D3AA-44D6-8DCC-294832277EE5,Sayaslı Maxi Sandviç,"18,00 TL",Sandviçler,8.0
+5071f5cd-ff48-46ab-aaba-5417bceea4f5,Ekmek Arası Köfte,"16,00 TL",Ekmek Arası Ürünler,3.0
+db5f48e5-32ea-4615-9f4b-6311b8f9ae3e,Ekmek Arası Sucuk,"14,00 TL",Ekmek Arası Ürünler,3.0
+8283ff69-7681-4564-801e-108ecf65ae1f,Ekmek Arası Tavuk,"12,00 TL",Ekmek Arası Ürünler,3.0
+438701c1-ffdb-4b1f-ac0d-ca65c634724c,Hamburger,"16,00 TL",Diğer Lezzetler,6.0
+1FE01CCE-A78F-44A0-BAE4-FCB3EE6968F4,Battalbey Çiğ Köfte (500 gr.),"25,00 TL",Diğer Lezzetler,6.0
+128189b0-1cdd-478a-abde-0a1a934306aa,Çiğ Köfte Dürüm,"6,00 TL",Diğer Lezzetler,11.0
+21b1ed46-62e0-4c59-8ff9-5b932b02d842,Çiğ Köfte (1 kg.),"50,00 TL",Diğer Lezzetler,6.0
+19e2f2ae-c69f-478f-89f7-8da405d67ef3,Patates Kızartması,"11,00 TL",Yan Ürünler,4.0
+0951b8d1-f085-491f-a75a-b0b7c4c4e71a,Tavuk Nugget (3 Adet),"4,00 TL",Yan Ürünler,5.0
+4ee259c3-9348-4d24-a7b7-12ac7bca6ea0,Soğan Halkası (8 Adet),"8,00 TL",Yan Ürünler,5.0
+486c9953-aeb3-41c6-8f7a-1d4091d18b75,Tavuk Şnitzel,"5,00 TL",Yan Ürünler,5.0
+0ff4c8ac-d85d-4560-86a7-e8520429f958,Çıtır Filero,"7,00 TL",Yan Ürünler,5.0
+D60E3D29-EDED-414E-BECD-37AE7A297D8A,Künefe,"12,00 TL",Tatlılar,5.0
+80224966-ef75-437b-9f6d-f81094320cc5,Niğde Gazozu (25 cl.),"3,50 TL",İçecekler,5.0
+e529d9b8-f948-418b-9175-f55e0206f3d3,Acılı Şalgam Suyu (33 cl.),"4,00 TL",İçecekler,5.0
+ee58c476-c151-44b3-a5cc-7b8a67147910,Poşet,"0,25 TL",Poşet,5.0

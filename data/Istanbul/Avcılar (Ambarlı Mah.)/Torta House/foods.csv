@@ -1,0 +1,47 @@
+food_id,food_name,food_price,food_category,food_score
+500444a5-6b62-4e1c-810f-081809a0c5e8,Peynirli Börek (150 gr.),"15,00 TL",Kahvaltılıklar,6.0
+2CDE6A8B-F6C0-4B64-BD63-60C1061C00A8,Turta,"13,00 TL",Kahvaltılıklar,6.0
+7405f91e-5a3a-4b96-90d4-403ef7511697,Dereotlu Peynirli Ev Poğaçası,"5,00 TL",Kahvaltılıklar,10.0
+0f680d17-8703-4d1a-a005-bbc811272206,Sade Kruvasan,"8,00 TL",Kahvaltılıklar,4.0
+7f2c5772-a1fd-46b4-8f5c-90c1108ae14e,Çikolatalı Kruvasan,"11,00 TL",Kahvaltılıklar,5.0
+beca03ec-404b-4714-9b99-2532b948c383,İncirli Kruvasan,"11,00 TL",Kahvaltılıklar,5.0
+826cb325-fe07-44ba-977d-2f7eae70a943,Karamelli Trileçe,"15,00 TL",Trileçeler,18.0
+9ea16fc5-3c6c-42d2-ad96-bbccad3a2cf3,Frambuazlı Trileçe,"15,00 TL",Trileçeler,17.0
+2fc4aa2b-388e-4945-b754-3d164eb53d35,Çilekli Trileçe,"15,00 TL",Trileçeler,10.0
+6dadda58-dfdc-4d70-8963-82d0561b75b6,Hindistan Cevizli Trileçe,"15,00 TL",Trileçeler,9.0
+7d3ffb92-b472-43d8-8a33-572c1baa0f3e,Limonlu Trileçe,"15,00 TL",Trileçeler,9.0
+a3bf4866-258f-4143-a5bb-b13c5ed90792,Muzlu Trileçe,"15,00 TL",Trileçeler,9.0
+e8b7feb3-08c3-496b-9327-5c9e1838e7e8,Yaban Mersinli Trileçe,"15,00 TL",Trileçeler,9.0
+1cdd8bb4-8a0f-4b62-9eee-909e92316466,Portakallı Trileçe,"15,00 TL",Trileçeler,9.0
+b01ddf00-e262-43bd-8ffe-9ba79bfa26e0,Kahveli Trileçe,"17,00 TL",Trileçeler,9.0
+4196a9a8-3558-4880-aad9-c48974d2c437,Oreolu Trileçe,"18,00 TL",Trileçeler,9.0
+9c320984-1eee-4c77-b647-adcb223a6f38,Nutellalı Trileçe,"18,00 TL",Trileçeler,10.0
+8f0674a9-9f2b-4e7a-9cc8-1f61673fecea,Lotus Biscoff Trileçe,"21,00 TL",Trileçeler,13.0
+ace0d2d9-7dff-49cd-b41f-65755902af59,Fıstık Ezmeli Trileçe,"21,00 TL",Trileçeler,9.0
+e9c86f7d-9362-4380-9255-d6e036cb1db6,Kara Orman Pasta,"30,00 TL",Pastalar,11.0
+20aefbc4-d22e-4250-b9c8-ef76052a3baa,Marlenka,"20,50 TL",Pastalar,5.0
+447f4ae6-acb8-44a6-ad97-74496c2c3d5b,Medovik Pasta,"20,50 TL",Pastalar,7.0
+130778fa-d792-4f98-a4e1-01b24a11504d,Ganaj Pasta,"27,00 TL",Pastalar,5.0
+8ceeffca-8bc8-4320-bc90-52c86437318a,Napolyon Pasta,"18,00 TL",Pastalar,5.0
+0B3BD372-D4D1-4DC2-911C-09A9572D2E21,Profiterol (1 kg.),"65,00 TL",Pastalar,5.0
+9A8E4B26-0A4F-45FF-806B-2EEAF87AE858,Profiterol (500 gr.),"32,50 TL",Pastalar,5.0
+b90b78b1-c66e-4636-b259-7897ed1225ce,Meyveli Mag,"18,00 TL",Cup Tatlılar,5.0
+be8c1636-e85c-425b-9c36-a5a522da773a,Nutellalı Mag,"20,00 TL",Cup Tatlılar,6.0
+ec381477-c74a-4e20-aee5-8c5551e6e915,Black Star Mag,"22,00 TL",Cup Tatlılar,5.0
+8d8aab09-9fe2-4acc-91bd-3ac7ece64552,Oreolu Mag,"19,00 TL",Cup Tatlılar,5.0
+BE140B3F-1056-48BC-96DA-52C87181B02A,Sütlaç (200 gr.),"16,00 TL",Cup Tatlılar,5.0
+18cd33e4-999c-482a-9924-ae1f92fe4b87,Kıbrıs Tatlısı,"17,00 TL",Şerbetli Tatlılar,5.0
+45c6e06b-67bb-4f8a-b48d-e43bf6039d27,Şekerpare (250 gr.),"12,50 TL",Şerbetli Tatlılar,5.0
+67ebad04-8788-40db-90f6-b709fca7276b,Bask Cheesecake,"23,00 TL",Cheesecakeler,10.0
+65315C77-C7A3-4CE4-A2E6-6C164E7CDE59,Oreolu Cheesecake,"26,00 TL",Cheesecakeler,6.0
+3074634D-546D-44DC-82B8-0C9A774F0E27,Orman Meyveli Cheesecake,"26,00 TL",Cheesecakeler,6.0
+66A07186-43FE-44CE-9F48-FA826C5D710B,Lotus Biscoff Cheesecake,"26,00 TL",Cheesecakeler,10.0
+8b3840f8-d153-43bf-b763-7f7050fc4588,Pasta Cheesecake,"30,00 TL",Cheesecakeler,6.0
+10ca79a4-88be-495b-abf8-478bb78a87ac,Çilekli Limonata,"12,00 TL",İçecekler,6.0
+ae619042-3bd8-4b38-98d3-522747b05dc1,Naneli Limonata,"12,00 TL",İçecekler,5.0
+f0871b6e-29b1-4850-b09b-24161f8ab228,San Pellegrino (25 cl.),"9,00 TL",İçecekler,4.0
+D02C0D81-C633-4359-A65D-0BB958F2349A,Filtre Kahve,"12,00 TL",İçecekler,6.0
+4C048CDC-CC9B-457D-B616-2AE263F4271F,Soğuk Kahve,"13,00 TL",İçecekler,7.0
+848286ba-5308-432e-a335-49be26d35946,Şekerpare (500 gr.),"25,00 TL",Kiloluk Şerbetli Tatlılar,5.0
+cec35893-4917-4b68-b02a-837f1b6580f5,Şekerpare (1 kg.),"50,00 TL",Kiloluk Şerbetli Tatlılar,5.0
+077ad566-53ff-4002-b382-81a01e1c0e7a,Poşet,"0,25 TL",Poşet,5.0

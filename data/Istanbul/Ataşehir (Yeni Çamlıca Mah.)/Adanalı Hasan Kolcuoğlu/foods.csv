@@ -1,0 +1,35 @@
+food_id,food_name,food_price,food_category,food_score
+C2D2041B-CA21-41FC-A33E-D28CCEB3EB7F,Ofis Menüsü,"55,00 TL",Menüler,5.0
+6DE66878-B795-4D49-9E72-6E4F870C69BE,2 Kişilik Evde Kal Menüsü,"250,00 TL",Menüler,9.0
+aa23be3c-20e0-44cc-8cfb-28a8c8a23006,Sucuklu Kaşarlı Pide,"30,00 TL",Fırın Ürünleri,6.0
+0ce23f25-2402-4158-b950-c450133ccb8b,Adana Kebap,"36,00 TL",Kebaplar,6.0
+83338ce6-b210-44f7-b229-d1e99283680a,Urfa Kebap,"36,00 TL",Kebaplar,5.0
+d9bda1f0-740a-4095-892b-c6d2ad124e84,Domatesli Kebap,"38,00 TL",Kebaplar,6.0
+29dcade2-cbdc-48de-87dc-f7af18ec41da,Patlıcanlı Kebap,"50,00 TL",Kebaplar,6.0
+5f3fe1e0-ae01-46cc-b15c-8b1dca368722,Fıstıklı Kebap,"50,00 TL",Kebaplar,6.0
+157f7c3e-6379-4ea1-830d-20971f4730a1,Sarma Beyti Kebap,"40,00 TL",Kebaplar,5.0
+32b7279c-59ee-49d0-9720-d197a7ee201e,Fırın Beyti Kebap,"40,00 TL",Kebaplar,5.0
+9604f512-ed00-41a4-bed8-399b6ca9a0d3,Antrikot,"52,00 TL",Izgaralar,5.0
+6f6c91fb-c0b4-46e3-9e0e-d59f0f1e3172,Kuzu Pirzola,"50,00 TL",Izgaralar,4.0
+5415f271-cc61-44c4-99bc-bf58c969868f,Kuzu Kaburga,"44,00 TL",Izgaralar,4.0
+74fa98ce-70be-4c9d-ad96-07d1e97d0c60,Lokum,"50,00 TL",Izgaralar,5.0
+10818662-c3f7-4be2-b676-0939dafb6994,Yağlı Karalı,"52,00 TL",Izgaralar,5.0
+e82f3017-b23c-4f2e-8842-f23cb73067de,Şaşlık,"60,00 TL",Izgaralar,5.0
+86675572-a686-41ba-9361-7b3f08ea2b26,Çöp Şiş,"48,00 TL",Izgaralar,5.0
+9a994548-20d9-412a-8020-abc2b9a162ac,Kuzu Şiş,"48,00 TL",Izgaralar,4.0
+db23abc3-feb4-4735-884e-ff9adff35d06,Izgara Köfte,"35,00 TL",Izgaralar,3.0
+d352e4b8-ec88-467e-b08b-69e6b234604a,Izgara Sucuk,"35,00 TL",Izgaralar,4.0
+971b48b5-fefa-40f9-9147-20f498b81f48,Arpacı Steak,"52,00 TL",Izgaralar,5.0
+6be3bbf9-18e4-4914-bea9-a02d0f71774b,Izgara Kanat,"34,00 TL",Izgaralar,5.0
+3ca3e8f8-c5c4-428c-b481-b7a317242a2f,Tavuk Şiş,"32,00 TL",Izgaralar,8.0
+6d868b9f-ccf4-42fe-b402-ea29d924fe6b,Acı Soslu Tavuk Şiş,"32,00 TL",Izgaralar,6.0
+d827ddf3-f8d2-42b9-96cd-9a4a0a190ef8,Adana Dürüm,"34,00 TL",Dürümler,1.0
+28824572-3906-4d49-8531-a809222a11bf,Urfa Dürüm,"34,00 TL",Dürümler,4.0
+924dbe8b-f001-41d5-bd22-d3942a78bcf5,Tavuk Şiş Dürüm,"38,00 TL",Dürümler,8.0
+f65558a7-c0ac-4955-b65d-bcfffec06377,Çöp Şiş Dürüm,"38,00 TL",Dürümler,5.0
+d4e5197f-e606-4122-9325-9bb63e93f052,Tavuk Sote (Tava) (200 gr.),"37,00 TL",Diğer Lezzetler,8.0
+d6a24a2c-aa8e-44fa-b017-ffd7d558177d,Bulgur Pilavı,"10,00 TL",Diğer Lezzetler,5.0
+368d87e8-6cc5-44fe-9a0c-c2387f40bae1,Patates Kızartması,"18,00 TL",Yan Ürünler,5.0
+628c9175-50b7-49b0-bb17-6723d3f4bbe6,Haydari,"12,00 TL",Mezeler,5.0
+c658bc39-0f60-488d-ba6a-fa7eff39dd23,Künefe,"15,00 TL",Tatlılar,3.0
+eff3eeed-a87a-42e1-beaf-12fcfa42e6d4,Poşet,"0,25 TL",Poşet,5.0

@@ -1,0 +1,35 @@
+food_id,food_name,food_price,food_category,food_score
+C5259B0A-793B-4EDC-A960-60B9AEE76CC9,Karışık Tavuk Sepeti Menü,"22,50 TL",Menüler,15.0
+1460ad88-d7e8-4663-86e5-7965c76ded95,3'lü Combo Bazlama Tost Menü,"18,75 TL",Menüler,4.0
+7e57e561-e3ff-4397-ba93-50151e15d488,Brunch 3'lü Combo Tost Menü,"17,63 TL",Menüler,3.0
+ebeca041-b6ae-49be-b8a1-43f1843806ed,Cheeseburger (Large) Menü,"19,88 TL",Menüler,6.0
+026a5d61-2889-466c-9669-5b88aca4a88f,Cheeseburger (X Large) Menü,"24,38 TL",Menüler,6.0
+293b3280-078f-4e25-ac28-d699a1092310,Hamburger (Large) Menü,"18,75 TL",Menüler,12.0
+08513d3b-bdfd-4ad1-9ff9-03758e532c01,Hamburger (X Large) Menü,"23,25 TL",Menüler,12.0
+53a11196-9094-4b73-95fd-4e9a72cd3430,Izgara Köfte Sandviç Menü,"18,00 TL",Menüler,3.0
+71252ea2-7a01-40e6-a1ca-1b669bb8c8ae,Karışık Tost Menü,"13,50 TL",Menüler,8.0
+b29b032c-09d1-431c-bf07-5aeb476bd6d8,Kaşarlı Bazlama Tost Menü,"13,50 TL",Menüler,3.0
+7b28f747-ccee-4d11-b530-387622517119,Kaşarlı Tost Menü,"12,00 TL",Menüler,2.0
+ad480882-9433-43b6-a18f-d24615ef940f,Sucuklu Tost Menü,"12,00 TL",Menüler,3.0
+50209088-b75b-4acb-b904-8b1acb4a7340,Kaşarlı Tost,"10,88 TL",Tostlar,2.0
+5fd2c34e-a21e-482a-abcc-45ac32338310,Sucuklu Tost,"10,88 TL",Tostlar,3.0
+b1f1603f-61d2-4937-bab7-d339fbd233fa,Karışık Tost,"12,00 TL",Tostlar,3.0
+554f9ce3-79fa-4101-a68b-376acd375c54,Brunch 3'lü Combo Tost,"16,88 TL",Tostlar,3.0
+1f34c6ca-4baa-4765-8540-db15808839e4,Kaşarlı Bazlama Tost,"12,00 TL",Tostlar,3.0
+545f5d34-6a09-4d53-aafd-faa8b9c06186,3'lü Combo Bazlama Tost,"17,63 TL",Tostlar,4.0
+4f4c2d4e-3403-4d13-afe2-c101013d084b,Izgara Köfte Sandviç,"16,50 TL",Sandviçler,3.0
+15974d39-6554-4332-8712-a13be8c8e490,Hamburger (X Large),"21,75 TL",Burgerler,12.0
+15c99dcd-1894-4a68-a9f1-7da9a65cb707,Cheeseburger (X Large),"22,50 TL",Burgerler,6.0
+38922bd3-43c4-4a4f-ab54-4db1feac6458,Cheeseburger (Large),"18,75 TL",Burgerler,6.0
+cc3b0fa3-c644-4fc4-8902-9d0d78722883,Hamburger (Large),"17,63 TL",Burgerler,12.0
+3A24A90E-9FDD-4E30-ADD6-0BF0568F8175,Limon Steak Burger,"21,38 TL",Burgerler,5.0
+D25F6476-E290-4B83-A2F8-AA6FA099180D,Limon Füme Burger,"26,25 TL",Burgerler,5.0
+906768AA-EA27-468D-935B-9CCECDDAB30A,Soğan Halkası (10 Adet),"9,38 TL",Yan Ürünler,5.0
+AAD4B74B-5796-42C7-B278-14F0083871C3,Karışık Tavuk Sepeti,"21,00 TL",Yan Ürünler,10.0
+1a07334a-79a5-4d61-acdd-b685733511e7,Elma Dilim Patates Kızartması,"11,25 TL",Yan Ürünler,6.0
+a726e589-879e-4709-82fe-32b6c1ff090c,Parmak Patates Kızartması,"11,25 TL",Yan Ürünler,6.0
+ac164f67-c5fa-4992-b744-363d3d02aba4,Tek Meyveli Çikolatalı Waffle,"13,88 TL",Waffles,7.0
+1EFDBE6A-E7B2-4327-B1F0-E0B4F71C59D9,Sade Çikolatalı Waffle,"11,25 TL",Waffles,4.0
+fa90c992-255a-4cf6-b90e-21fde4cda3c7,Çikolatalı İdeal Waffle,"16,50 TL",Waffles,5.0
+95fc4d29-d17a-4fce-93a9-17f3dd3ddc92,Çikolatalı Mix Waffle,"17,25 TL",Waffles,10.0
+b4704226-c002-48a2-82e0-360b4441f852,Poşet,"0,25 TL",Poşet,5.0

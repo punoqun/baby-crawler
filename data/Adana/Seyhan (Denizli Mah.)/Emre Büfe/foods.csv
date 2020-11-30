@@ -1,0 +1,32 @@
+food_id,food_name,food_price,food_category,food_score
+1c3d7410-db50-4036-8648-7b273ba42531,Hamburger Ekmeğine Karışık Tost,"10,00 TL",Tostlar & Sandviçler,3.0
+43809e97-6c3f-4201-9e3f-ab59f1407c31,Yengen Tost,"12,00 TL",Tostlar & Sandviçler,8.0
+462a25dc-df25-4dcb-b49f-cc781ad9f3c6,Süt Ekmeğine Karışık Tost,"10,00 TL",Tostlar & Sandviçler,8.0
+5dbb4fb0-6ba8-449c-b585-1d1b2ff2a73b,Hamburger Ekmeğine Kaşarlı Tost,"10,00 TL",Tostlar & Sandviçler,3.0
+c22cb047-7908-470a-851d-9770a23c873c,Süt Ekmeğine Kaşarlı Tost,"10,00 TL",Tostlar & Sandviçler,3.0
+d48510b4-cd22-443d-b762-fbba759b22c3,Sucuklu Sandviç,"12,00 TL",Tostlar & Sandviçler,5.0
+df16a805-5211-4162-acf7-7c06330407d7,Jumbo Kaşarlı Tost,"15,00 TL",Tostlar & Sandviçler,8.0
+57C8FFB2-6E9A-4DC0-AC5C-3428B1B23650,Tavuk Tantuni,"13,00 TL",Tostlar & Sandviçler,5.0
+E7C435AA-23D8-47E8-9718-64269279053C,Köfte Dürüm,"20,00 TL",Tostlar & Sandviçler,5.0
+B85BA389-2A84-4631-AA69-F610991BC498,Hamburger,"20,00 TL",Tostlar & Sandviçler,5.0
+499BB2E5-E32B-462D-B7AE-382CA9A651E0,Kumru,"18,00 TL",Tostlar & Sandviçler,5.0
+F95CF6E6-AA86-42AB-AE3B-18E966F8BCF5,Soğuk Sandviç,"12,00 TL",Tostlar & Sandviçler,5.0
+4A8577F7-AF4E-4623-A4FF-99586DCC728A,Patso Dürüm,"10,00 TL",Tostlar & Sandviçler,5.0
+0D4A889E-67D5-465A-9500-2FB8446F3DED,Patates Kızartması,"7,00 TL",Yan Ürünler,5.0
+5aac2c6e-6438-4061-bd81-b7b71e5b9a02,Coca-Cola (30 cl.),"5,00 TL",İçecekler,5.0
+bc7da72e-391b-4785-8d34-4a9244ac9da7,Coca-Cola Şekersiz (20 cl.),"4,00 TL",İçecekler,5.0
+0078826c-b528-4f29-abc8-19db4d557640,Limonata (25 cl.),"3,00 TL",Vitamin Bar,5.0
+36525d5c-3312-459c-8b4e-f0d0f8505176,Atom (75 cl.),"20,00 TL",Vitamin Bar,5.0
+3dafe6a9-25db-46f1-99ec-0213d0077d91,Taze Sıkma Ananas Suyu (25 cl.),"15,00 TL",Vitamin Bar,5.0
+80a345f6-58c2-4ccc-82d4-d871a9de5472,Taze Sıkma Vişne Suyu (25 cl.),"3,00 TL",Vitamin Bar,5.0
+9a558914-473a-496a-ac52-c137e1c939a4,Taze Sıkma Nar Suyu (25 cl.),"6,00 TL",Vitamin Bar,5.0
+a63e9b65-4a51-4107-a404-90b8f0fde6d7,Taze Sıkma Elma Suyu (25 cl.),"6,00 TL",Vitamin Bar,5.0
+b4bb66ea-af0e-49ed-8bcc-2abaa4ee9b6c,Taze Sıkma Portakal Suyu (25 cl.),"6,00 TL",Vitamin Bar,3.0
+b8085802-ceb6-4b47-bc5b-05a30a2c9e1c,Karışık Kokteyl Suyu (25 cl.),"6,00 TL",Vitamin Bar,5.0
+ba9bd3cf-2ead-441e-a626-d7c239287518,Avokadolu Muzlu Süt (75 cl.),"20,00 TL",Vitamin Bar,7.0
+c411f036-8476-4834-a399-083253ea4131,Taze Sıkma Greyfurt Suyu (25 cl.),"6,00 TL",Vitamin Bar,5.0
+c965f5f3-8641-4dbf-81f2-aeeff415249a,Ballı Muzlu Süt (75 cl.),"18,00 TL",Vitamin Bar,7.0
+e3ac778f-d46b-4c50-9988-77da569c842f,Taze Sıkma Havuç Suyu (25 cl.),"6,00 TL",Vitamin Bar,5.0
+e3ba8f8a-53fe-4361-9b55-b446098b8e65,Çilekli Muzlu Süt (75 cl.),"19,00 TL",Vitamin Bar,7.0
+f4dd44ab-c9b5-4015-a95d-ee5768384373,Muzlu Süt (75 cl.),"15,00 TL",Vitamin Bar,7.0
+8246dbf2-5373-4911-ad08-dc93a1b447cd,Poşet,"0,25 TL",Poşet,5.0

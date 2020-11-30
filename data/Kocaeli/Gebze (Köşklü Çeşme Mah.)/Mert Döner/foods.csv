@@ -1,0 +1,30 @@
+food_id,food_name,food_price,food_category,food_score
+347cbb16-8a93-4ba8-8c96-a5e4d8015da0,15'li Lahmacun Menü,"90,00 TL",Menüler,16.0
+E1017673-0610-45A1-8A18-6D5A70037C45,Soğansız Lahmacun,"9,00 TL",Fırın Ürünleri,15.0
+560e4772-58de-4fce-bfac-0adf1d52a754,Kaşarlı Pide,"20,00 TL",Fırın Ürünleri,4.0
+a2cf94d9-5d50-45c6-86e7-be6113300e28,Kıymalı Pide,"20,00 TL",Fırın Ürünleri,3.0
+5b09e35e-d51d-416a-aed1-53bbcad98c10,Kıymalı Yumurtalı Pide,"21,00 TL",Fırın Ürünleri,3.0
+2ffc0a76-923f-4ed6-bd50-076d860c4906,Kıymalı Kaşarlı Pide,"21,00 TL",Fırın Ürünleri,3.0
+366e5b01-f555-4728-8242-009399554e28,Kaşarlı Sucuklu Pide,"22,00 TL",Fırın Ürünleri,4.0
+d75ae830-2459-4182-9e43-de2f4f859fd7,Kuşbaşılı Kaşarlı Pide,"25,00 TL",Fırın Ürünleri,4.0
+07790be5-6870-43af-8283-eda235a2bfd2,Kuşbaşılı Pide,"25,00 TL",Fırın Ürünleri,4.0
+2cf2dccd-0433-455b-b8cc-0f3edbf3ce06,Karışık Pide,"25,00 TL",Fırın Ürünleri,2.0
+a55d671a-2190-4fd3-abee-b41c762cdf46,Kavurmalı Pide,"29,00 TL",Fırın Ürünleri,4.0
+219cc689-b506-47f4-8a3e-e7cefd95d3ff,Et Döner Dürüm,"18,00 TL",Dönerler,5.0
+162fa77a-2e2f-4c8b-ae8f-c4e33adeaecd,Pilav Üstü Et Döner,"29,00 TL",Dönerler,3.0
+bc69d152-68a0-40fe-bc4a-587a5619f579,Yarım Ekmek Arası Et Döner,"14,00 TL",Dönerler,1.0
+06eeb044-1235-4e9e-bbb6-0f120f21b3ab,Tombik Et Döner,"14,00 TL",Dönerler,0.0
+a30c5d83-ed46-4a9d-a5df-005f4d3cd8fe,3/4 Ekmek Arası Et Döner,"21,00 TL",Dönerler,1.0
+72f84faf-5f5a-4680-ad07-8bec15bc4faf,Tam Ekmek Arası Et Döner,"25,00 TL",Dönerler,1.0
+3822bf26-96d0-4a5c-82f2-5d169f61e833,Domatesli Kebap,"30,00 TL",Kebaplar,5.0
+c2f80111-fe6c-43c6-82ca-5276581d8d33,Patlıcanlı Kebap,"30,00 TL",Kebaplar,5.0
+ab2dc1e7-91ee-4884-9321-3e21a19fc806,Beyti Sarma,"30,00 TL",Kebaplar,5.0
+17f4e481-d5f4-44d4-a9b5-0b730ac60dcf,Karışık Kebap,"55,00 TL",Kebaplar,3.0
+f8aa3602-71dd-41f2-a058-a8729d0bab12,Tavuk Kanat,"25,00 TL",Izgaralar,4.0
+92e2460d-b458-4640-92d7-b3eaa027605d,Et Şiş,"29,00 TL",Izgaralar,4.0
+2b5ee811-3a5b-4af1-9fa7-11669befeeeb,Adana Dürüm,"18,00 TL",Dürümler,2.0
+712ba99a-8e8b-4468-b8bc-b3205592d47b,Urfa Dürüm,"18,00 TL",Dürümler,3.0
+7e888a08-4dac-42fb-8511-a52d5e1055b6,Mevsim Salata,"8,00 TL",Yan Ürünler,8.0
+4d733392-7fbd-4196-9921-8aed437ee74b,Ezme Salata,"8,00 TL",Yan Ürünler,8.0
+d7843d6e-fccb-452c-a48a-a4dec00ab503,Çiğ Köfte,"15,00 TL",Yan Ürünler,9.0
+52170533-dfca-41ea-9740-82ad3b4de2ad,Fırın Sütlaç,"8,00 TL",Tatlılar,7.0

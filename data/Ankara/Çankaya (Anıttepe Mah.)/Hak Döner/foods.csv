@@ -1,0 +1,39 @@
+food_id,food_name,food_price,food_category,food_score
+80e94052-c0ae-4eea-a368-c731b9996208,Menü 1,"31,00 TL",Menüler,10.0
+a7668d81-8ea8-43a7-b018-eb6b198ca79a,Menü 3,"29,00 TL",Menüler,5.0
+4c7228f9-d782-4eea-bda4-92b4a2caff06,Menü 4,"28,00 TL",Menüler,5.0
+71985080-cbe5-4d01-ba46-8cfd130df371,Menü 5,"25,00 TL",Menüler,5.0
+96d8dfd7-e68f-423b-8695-3c772efa39ea,Menü 6,"23,00 TL",Menüler,5.0
+1B0DD4DD-22BD-47D4-9967-8BF3C530ABD7,Izgara Köfte (1 kg.) Menü,"120,00 TL",Menüler,5.0
+9C7E76B0-E416-40C0-82A8-9F7A6C95A769,Menemen,"15,00 TL",Kahvaltılıklar,5.0
+40bd69d0-4f74-42ea-9861-11fcf8f31890,Ekmek Arası Et Döner (100 gr.),"20,00 TL",Et Dönerler,12.0
+4b24deb8-929d-48d8-88b1-aaf726085391,Ekmek Arası Tavuk Döner (100 gr.),"14,00 TL",Tavuk Dönerler,10.0
+2126c9b7-6aa7-41a5-8ddb-0f777ba43a81,Ekmek Arası Izgara Köfte (150 gr.),"23,00 TL",Köfteler,5.0
+381a5bbb-38db-4de8-844c-5a487946f9be,Ekmek Arası Arnavut Ciğeri (100 gr.),"20,00 TL",Ciğerler,5.0
+35936F52-D075-4B37-A400-ABC5E01E6ADB,Barbunya Pilaki,"18,00 TL",Ana Yemekler,5.0
+1A942818-48C5-466E-85B0-126CBA19D435,Biber Dolması,"12,00 TL",Ana Yemekler,5.0
+CCBF8E78-4C5A-44AE-958E-377385BC2DEC,İslim Kebabı,"18,00 TL",Ana Yemekler,5.0
+B9142FDE-9693-4618-A574-8C9E8312F916,Karnıyarık,"17,00 TL",Ana Yemekler,5.0
+DB1307F9-0A7C-4988-8A2B-98329AB6F70B,Lahana Sarması,"17,00 TL",Ana Yemekler,5.0
+C8981D84-A14B-4DAA-89C9-4C31F97B3EFE,Patlıcan Kebabı,"18,00 TL",Ana Yemekler,5.0
+F4B40BC4-AC80-4A34-9B98-FAAE31A2E9E7,Tavuk Sote,"18,00 TL",Ana Yemekler,5.0
+9613EB33-25CE-458C-BCB0-27CDEB3A8F30,Tavuklu Bulgur Pilavı,"17,00 TL",Ana Yemekler,5.0
+4D98D19A-44B7-4A60-8311-316DEF483D01,Tavuklu Pirinç Pilavı,"18,00 TL",Ana Yemekler,5.0
+021440c3-0123-488a-aeaa-44b54ca3596f,Nohutlu Pirinç Pilavı,"18,00 TL",Ana Yemekler,5.0
+C703DB86-5FFA-4C6A-BF1C-9FC588D91C0B,Zeytinyağlı Taze Fasulye,"12,00 TL",Ana Yemekler,5.0
+6B1AA7A9-78DE-43A4-9B4A-338A7806508F,Zeytinyağlı Yaprak Sarma,"15,00 TL",Ana Yemekler,5.0
+528F0699-FC4A-4EAE-B2B0-3AB9A3ED1DDF,Kızartma İçli Köfte,"5,00 TL",Yan Ürünler,5.0
+3D1ABE37-C8C7-4511-AA9E-1FBB71D83A07,Sigara Böreği,"12,00 TL",Yan Ürünler,5.0
+364E10C2-B016-473C-9091-610AD27AF959,Pirinç Pilavı,"12,00 TL",Yan Ürünler,5.0
+6B98CF10-E370-439D-BB9B-13DF31A16466,Bulgur Pilavı,"12,00 TL",Yan Ürünler,5.0
+B7346243-50FC-4320-8B09-A6D21894E57E,Cacık & Turşu,"17,00 TL",Yan Ürünler,5.0
+AD4109F6-8B7A-47C3-907A-DDF4F92A3353,Susamlı Simit,"10,00 TL",Kuru Pastalar,5.0
+F81341C4-8A00-458E-B0A2-E53B78E7EF34,Un Kurabiyesi,"10,00 TL",Kuru Pastalar,5.0
+954C0964-258E-42BC-A730-641B70411D6F,Brownie,"12,00 TL",Tatlılar,5.0
+a2030047-cf4b-4561-882f-49cf2bc24ad9,Hamsiköy Sütlacı,"17,00 TL",Tatlılar,5.0
+B4901D86-B02B-4E55-82AB-EBFB4295C167,Kemalpaşa Tatlısı,"12,00 TL",Tatlılar,5.0
+58f2f912-2e21-4765-ba73-3c77d0b01830,Künefe,"23,00 TL",Tatlılar,5.0
+C590BE2F-C6B4-4E24-8428-3BE398AB5371,Revani,"12,00 TL",Tatlılar,5.0
+b589f875-5561-4914-a19f-8b4bb21c072c,Et Döner (500 gr.),"80,00 TL",Kiloluk Ürünler (Pişirilmiş),7.0
+68a50132-dc80-4d0b-b1c8-1b28c65a28b6,Tavuk Döner (500 gr.),"45,00 TL",Kiloluk Ürünler (Pişirilmiş),5.0
+68b1917a-9afb-46c7-b918-29469f44db9b,Poşet,"0,25 TL",Poşet,5.0

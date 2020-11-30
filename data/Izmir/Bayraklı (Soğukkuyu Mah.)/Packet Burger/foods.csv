@@ -1,0 +1,40 @@
+food_id,food_name,food_price,food_category,food_score
+01d40136-7407-458b-ad4f-ea491dce4f91,Süper 2'li Menü,"23,00 TL",Ekonomik Menüler,9.0
+a16e9a73-4f87-48ab-8d60-498f20a0f535,Fırsat Menü,"24,50 TL",Ekonomik Menüler,9.0
+3bc985c8-53fe-40c9-8fea-6e309d6c9209,Süper 3'lü Menü,"26,50 TL",Ekonomik Menüler,14.0
+11233d9d-be66-4120-b1cc-ba8c21e909db,2'li Hamburger Menü,"32,00 TL",Ekonomik Menüler,10.0
+2e81a9a0-3a57-4c25-bf87-335ad8183dbe,Tıka Basa Menü,"45,00 TL",Ekonomik Menüler,4.0
+1c367116-2f6a-4c9b-af5a-3c98eb2e98c7,Party Menü,"45,00 TL",Ekonomik Menüler,6.0
+bb6dd888-d6f0-4568-83e0-69cc4bbdd939,Dört Dörtlük Menü,"45,00 TL",Ekonomik Menüler,9.0
+1ed8b70f-b157-4e24-814a-df6fd9b16e4b,Kumru Sandviç,"13,00 TL",Sandviçler,5.0
+11665964-e0dc-4735-aa34-784969f5950f,Chicken Burger,"10,00 TL",Burgerler,4.0
+679df87d-b7a5-4132-8139-ab22ba817a9d,Big Chicken Burger,"19,00 TL",Burgerler,4.0
+201c78b5-d6d0-46b1-9732-459a37c410ef,Hamburger,"11,00 TL",Burgerler,11.0
+0f4a9f66-94bc-48bb-8e50-ffa1ff540f7d,Cheeseburger,"13,00 TL",Burgerler,6.0
+cd3f0dde-7ba0-4ae3-a8bd-1598171f6e05,Double Chicken Burger,"14,00 TL",Burgerler,4.0
+25a47e26-77a8-40e4-9af9-47d14fa7bfc9,Big Burger (115 gr.),"20,00 TL",Extra Burgerler (115 gr.),3.0
+8ba27f94-8688-432c-9e05-c491911f8201,Big Cheeseburger (115 gr.),"23,00 TL",Extra Burgerler (115 gr.),6.0
+64b232c7-bb12-439d-9acf-f8272db6fc54,Veggie Burger (115 gr.),"18,00 TL",Extra Burgerler (115 gr.),6.0
+b83cb489-d84d-43d2-b326-85ae1d1b643f,BBQ Burger (115 gr.),"20,00 TL",Extra Burgerler (115 gr.),3.0
+6abdacdf-e960-4990-b6b5-4c53cdf48ae0,Caramelize Onion Burger (115 gr.),"24,00 TL",Extra Burgerler (115 gr.),2.0
+4cc68154-abb3-4388-8def-74aad276d7d5,Packet Burger (115 gr.),"26,00 TL",Extra Burgerler (115 gr.),5.0
+ae0c599f-09ff-49cc-871b-afff7773c099,Mushroom Burger (115 gr.),"24,00 TL",Extra Burgerler (115 gr.),5.0
+72f2d3d0-0dab-48ac-aa2e-9ec94dce1c94,Mexican Burger (115 gr.),"24,00 TL",Extra Burgerler (115 gr.),3.0
+e9720416-fc38-411a-9e15-d97dd137515d,Hellim Burger (115 gr.),"25,00 TL",Extra Burgerler (115 gr.),3.0
+0b7b72d5-f691-471f-9821-dd75832bf9b5,Türk Usulü Burger (115 gr.),"26,00 TL",Extra Burgerler (115 gr.),3.0
+cb6d848e-6063-40e3-ada8-a1f81c532808,Steak Burger (115 gr.),"31,00 TL",Extra Burgerler (115 gr.),3.0
+e409aa4f-c3cc-49f9-ae7b-8928f6278767,Gurme Burger (115 gr.),"34,00 TL",Extra Burgerler (115 gr.),2.0
+eee6b94a-d800-4ef0-bbea-b8a38cf13b7d,Big Burger (170 gr.),"35,00 TL",Extra Burgerler (170 gr.),3.0
+c655bd0d-1e75-48f7-8878-84a76334e561,Big Cheese Burger (170 gr.),"36,00 TL",Extra Burgerler (170 gr.),5.0
+42a48f58-ee3c-43a8-afbf-3df412ed05fe,BBQ Burger (170 gr.),"36,00 TL",Extra Burgerler (170 gr.),3.0
+16eaea44-7618-42ce-88a9-7c509edcf8d0,Caramelize Burger (170 gr.),"37,00 TL",Extra Burgerler (170 gr.),3.0
+5d101530-428a-4385-9e19-882d89b8c1cf,Mushroom Burger (170 gr.),"40,00 TL",Extra Burgerler (170 gr.),5.0
+c1e83fd4-882d-4553-91b7-1aed500d5e1e,Packet Burger (170 gr.),"40,00 TL",Extra Burgerler (170 gr.),5.0
+4806c903-b1e1-45ca-afb9-10daf3af78bf,Mexican Burger (170 gr.),"40,00 TL",Extra Burgerler (170 gr.),3.0
+6711157e-df0a-499d-ad5b-fd9bee37c877,Hellim Burger (170 gr.),"40,00 TL",Extra Burgerler (170 gr.),3.0
+11f831f3-92c1-4904-b172-0564412d2f6c,Türk Usulü Burger (170 gr.),"42,00 TL",Extra Burgerler (170 gr.),3.0
+ccaf5f9c-51e8-4f7b-aa5b-74a049c2a7ca,Steak Burger (170 gr.),"45,00 TL",Extra Burgerler (170 gr.),3.0
+afbbef22-4810-4b3c-9377-fd92ba59de04,Gurme Burger (170 gr.),"50,00 TL",Extra Burgerler (170 gr.),2.0
+f6026f79-ca0e-44ba-8d24-15d2316e6926,Çıtır TavukTopları (12'li),"10,00 TL",Yan Ürünler,5.0
+b057bf71-c3ef-4efe-8b06-3a4f3e79cc82,Patates Kızartması,"10,00 TL",Yan Ürünler,3.0
+403dfb43-a214-4c7f-82df-73737b89b19c,Poşet,"0,25 TL",Poşet,5.0

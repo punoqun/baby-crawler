@@ -1,0 +1,35 @@
+food_id,food_name,food_price,food_category,food_score
+7ebe36dd-245c-449f-86ef-d2d904e8a0c3,Tam Ekmek Arası Köfte Menü,"22,00 TL",Ekonomik Menüler,3.0
+2f5aa121-dad8-4add-a78e-28d0c5a4862b,Ciğer Tava Menü,"35,00 TL",Ekonomik Menüler,5.0
+0d1fafae-3c30-4aae-ba35-b168bc00d1f4,Yarım Ekmek Arası Ciğer Menü,"15,00 TL",Ekonomik Menüler,3.0
+f7d8483b-b25b-42c0-b15d-bed830e550be,Tam Ekmek Arası Et Döner Menü,"22,00 TL",Ekonomik Menüler,3.0
+469bd792-ca7e-4afb-af6b-13662a895e69,Et Döner Menü,"25,00 TL",Ekonomik Menüler,5.0
+ff999813-ac44-4ed0-be72-ff0b835a0195,Et Döner Dürüm Menü,"18,00 TL",Ekonomik Menüler,5.0
+a11351d4-87be-46a9-8791-6409a01e0564,Kuru Fasulye Menü,"19,90 TL",Ekonomik Menüler,3.0
+800F1DAA-F7C9-4277-B4DF-FA7D1B66E509,Atom Ekmek Arası Et Döner,"15,00 TL",Ekonomik Menüler,3.0
+04981a9b-916a-4b84-aacd-70e3ef9dd08c,Dana Kavurma Menü,"40,00 TL",Ekonomik Menüler,5.0
+9b64ce2c-b6e9-4403-aad7-0e001394c6cb,Izgara Köfte Menü,"29,90 TL",Ekonomik Menüler,5.0
+a639ca77-bab4-489d-8f9f-842bf4ac1ffd,Kasap Köfte (1 kg.) Menü,"79,90 TL",Ekonomik Menüler,5.0
+50742734-0451-4634-9893-fc17161efab9,Kasap Köfte (500 gr.) Menü,"49,90 TL",Ekonomik Menüler,5.0
+e0bc9c0a-0776-4ec9-87c9-bdf77e893f22,Pilav Üstü Et Döner Menü,"25,00 TL",Ekonomik Menüler,6.0
+7de82bc4-ca7b-49c9-84eb-1901c1eb0ac0,Tombik Ekmek Arası Et Döner Menü 2,"15,00 TL",Ekonomik Menüler,-4.0
+7e4e646e-6b50-4c46-afdc-db452ce6fe5f,Yarım Ekmek Arası Et Döner Menü,"22,00 TL",Ekonomik Menüler,3.0
+38700f0c-4d17-4d3e-b62e-ffcddd4b42c7,Yarım Ekmek Arası Et Döner Menü 2,"15,00 TL",Ekonomik Menüler,-4.0
+07279f76-6d21-44f6-928c-40247421d4d2,Arnavut Ciğeri,"28,00 TL",Ana Yemekler,5.0
+6aaa9c29-848e-4ac0-8111-e7c855d69cbb,Dana Kavurma,"33,00 TL",Ana Yemekler,5.0
+caf45346-0465-49a6-ad31-26e9533cebca,Izgara Köfte,"28,00 TL",Ana Yemekler,5.0
+645C37CB-8055-4666-9DED-700CB279464C,Kuru Fasulye,"15,00 TL",Ana Yemekler,3.0
+56ce26cd-eace-4d78-a09e-4aa088470072,Et Döner,"25,00 TL",Et Dönerler,5.0
+085565a6-3106-4dad-809f-630f61c3bd28,Ekmek Arası Köfte,"17,00 TL",Ekmek Arası Ürünler,3.0
+13c79338-bd9a-4551-b43a-4b1b7a96c58a,Yarım Ekmek Arası Dana Kavurma,"20,00 TL",Ekmek Arası Ürünler,3.0
+1208f039-138d-4ac4-b0e5-8d5143746cee,Tam Ekmek Arası Ciğer,"22,00 TL",Ekmek Arası Ürünler,3.0
+d7fbcfd5-bfcb-459d-894d-36592fd54e32,Domatesli Pilav,"12,00 TL",Pilavlar,6.0
+b3321b06-f7fa-4ad6-88e6-2160bdb01b6c,Tavuklu Pilav,"15,00 TL",Pilavlar,4.0
+6d46862f-5f19-420e-a9fd-893db32addd7,Ciğerli Pilav,"20,00 TL",Pilavlar,6.0
+d2fb7dd9-b974-43e3-b11c-90cd4e811cec,Kavurmalı Pilav,"27,00 TL",Pilavlar,6.0
+961ac936-4adc-4ed5-8c3a-18753ad9dcd3,Tereyağlı Pirinç Pilavı,"10,00 TL",Pilavlar,5.0
+d2da8e69-848f-4796-a737-f722871abe1f,Fırın Sütlaç,"10,00 TL",Tatlılar,5.0
+acc30f64-9db4-4b39-91e3-741ff62c5404,Süt Helvası,"10,00 TL",Tatlılar,10.0
+9D2E0EB7-AF8E-4298-9B3B-960389C70319,Şıra (30 cl.),"7,00 TL",İçecekler,5.0
+29f3192f-6e3f-42cb-9847-6fcbb4388c26,Su,"2,00 TL",İçecekler,6.0
+307bd186-3eeb-4e78-abd5-59854ce60547,Poşet,"0,25 TL",Poşet,5.0

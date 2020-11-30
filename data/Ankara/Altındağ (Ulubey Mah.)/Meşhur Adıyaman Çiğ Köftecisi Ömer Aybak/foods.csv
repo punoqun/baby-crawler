@@ -1,0 +1,26 @@
+food_id,food_name,food_price,food_category,food_score
+67d89a7d-75b0-4a34-b62c-6413140634e6,Menü 1,"60,00 TL",Menüler,15.0
+1a7c2135-4437-4502-8a44-bc97a7786e6b,Menü 2,"45,00 TL",Menüler,4.0
+a4fe32d3-4d77-4544-b37b-e7839b35ad3f,Menü 3,"35,00 TL",Menüler,9.0
+c292f143-50df-4d22-8b91-c91ecd68bf39,Menü 4,"20,00 TL",Menüler,7.0
+ddc7080f-f8ae-4c82-ba0b-af7f26335d6d,Çiğ Köfte Dürüm,"6,00 TL",Çiğ Köfteler,9.0
+f3d23bb8-9fb5-4468-9563-f8bc49529b82,Mega Çiğ Köfte Dürüm,"11,00 TL",Çiğ Köfteler,10.0
+b025de60-0625-463b-b56a-f372f5104381,Çiğ Köfte (300 gr.),"17,00 TL",Çiğ Köfteler,4.0
+f549ea48-8be8-4c3a-8999-fb0e0281f016,Çiğ Köfte (500 gr.),"27,50 TL",Çiğ Köfteler,4.0
+2d80b73b-a2ec-4c91-b29a-dbcc3a1665fb,Çiğ Köfte (750 gr.),"40,00 TL",Çiğ Köfteler,4.0
+d403ee79-f381-40c2-b096-4bdcb1ba1d17,Çiğ Köfte (1 kg.),"50,00 TL",Çiğ Köfteler,4.0
+02e57d49-b093-44d7-b71b-444acff64c68,Lavaş (Adet),"1,00 TL",Yan Ürünler,4.0
+20282ddb-ea7a-40a3-bc0b-f7772bfa9536,Nar Ekşisi (1 kg.),"17,50 TL",Yan Ürünler,4.0
+048caed7-0ffc-4886-936a-fa3222358de8,Limon (Adet),"2,00 TL",Yan Ürünler,5.0
+2e594867-99d2-4857-9eb7-aae93c3cadb0,İzmir Usulü Midye Dolma (Orta Boy),"1,50 TL",Yan Ürünler,7.0
+6e209cae-186f-497d-a423-e4ca29700f66,Hatay Usulü Kızartma İçli Köfte (Adet),"6,00 TL",Yan Ürünler,8.0
+b92504df-d9eb-4830-adaa-69e1fc565a00,Iceberg Marul,"5,00 TL",Yan Ürünler,6.0
+50bd25a2-0158-44d8-9407-d6388411fe86,Beypazarı Limonlu Soda (20 cl.),"2,50 TL",İçecekler,5.0
+07454971-e526-4f3c-9983-fb25035104fc,Beypazarı Soda (20 cl.),"2,00 TL",İçecekler,5.0
+430aed26-3a1d-4a5a-ae2e-0fd117298103,"Eker Ayran (1,5 L.)","11,00 TL",İçecekler,3.0
+281ABC69-ABA9-4ABF-BAD5-7FAF9E264E1D,Turşu (1 kg.),"22,50 TL",Kiloluk Ürünler,4.0
+4C68B754-B2B8-4B52-B821-6D89565F2211,Turşu (650 gr.),"17,50 TL",Kiloluk Ürünler,4.0
+3453ADA1-2F9F-4D3B-93EE-BACBB3B12E4C,Turşu (450 gr.),"12,50 TL",Kiloluk Ürünler,4.0
+3966C340-5F53-4295-B501-2694BA2A9A58,Ev Yapımı Acılı Turşu (650 gr.),"17,50 TL",Kiloluk Ürünler,4.0
+636A4E54-66B6-43C7-99EF-7DC41E19582B,Ev Yapımı Acılı Turşu (450 gr.),"12,50 TL",Kiloluk Ürünler,4.0
+18572905-9454-42ac-906e-c42a6892ba9c,Poşet,"0,25 TL",Poşet,5.0

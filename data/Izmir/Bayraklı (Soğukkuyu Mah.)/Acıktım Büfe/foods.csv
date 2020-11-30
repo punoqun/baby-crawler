@@ -1,0 +1,36 @@
+food_id,food_name,food_price,food_category,food_score
+be4c04af-5d74-41ae-9f5e-9b1ce51ffe97,Karışık Ayvalık Tostu Menü,"30,00 TL",Menüler,13.0
+14af9884-bd75-47c6-90c6-2ca198bdfc7d,Çiğ Köfte Menü,"40,00 TL",Menüler,10.0
+13365f53-b430-4f0e-b813-84588bd4438d,Çiğ Köfte Dürüm Menü,"15,00 TL",Menüler,10.0
+1eb36fae-a4af-4c94-8657-d2f4946f65aa,Çiğ Köfte (1 kg.) Menü,"75,00 TL",Menüler,10.0
+e3d4da20-b701-45e4-a0bb-01fdaf2f85d8,Çiğ Köfte (500 gr.) Menü,"45,00 TL",Menüler,10.0
+e579d58a-0923-47f8-8d7e-e2482c6b8917,2'li Karışık Ayvalık Tostu Menü,"60,00 TL",Menüler,13.0
+6601ceeb-86be-4567-ab6b-5ac7a121847b,Ekonomik Menü,"75,00 TL",Menüler,6.0
+7c112f68-4b53-4579-bbb3-9c749943f5ee,2'li Menü,"22,00 TL",Menüler,6.0
+5237f28a-8b42-4a7a-9bc5-51d7c8dc6be3,Çeşme Kumru Menü,"30,00 TL",Menüler,11.0
+a7a78d10-9d6e-4a9f-ac98-bd388885db24,Karışık Jumbo Sandviç Menü,"30,00 TL",Menüler,18.0
+a0fdf960-8e52-4a64-bb5b-edf945f9dea4,Yarım Ekmek Arası Tavuk Menü,"20,00 TL",Menüler,2.0
+efceb652-67f8-40c5-933a-99bef9baa322,Jumbo Karışık Sandviç Menü,"25,00 TL",Menüler,13.0
+e1daa56a-9b4f-4849-8bd8-eb2fc2d71a22,Jumbo Karışık Yumurtalı Sandviç Menü,"25,00 TL",Menüler,17.0
+fba253d4-9f52-42c4-8e90-932a41a94b84,Jumbo Karışık Sayaslı Sandviç Menü,"25,00 TL",Menüler,13.0
+303d6b1e-3859-4317-a389-f02d5217686a,Yarım Ekmek Arası Kaşarlı Sucuk Menü,"20,00 TL",Menüler,2.0
+086479eb-0bb9-4fb9-a578-08f7307b5163,Karışık Ayvalık Tostu,"18,00 TL",Tostlar,12.0
+6f1d8cd5-be00-488f-bfcc-73bdaf7f1e64,Sade Ayvalık Tostu,"18,00 TL",Tostlar,12.0
+93a73c31-b390-4da3-b827-2096652c4d75,Sanayi Tostu,"18,00 TL",Tostlar,18.0
+ed5a3346-bb75-42f9-bd89-a85f710a2f30,Sucuklu & Kaşarlı & Domatesli Tost,"18,00 TL",Tostlar,9.0
+4dba8a3c-af91-439d-9119-f1f6ce0c4633,Karışık Sayaslı Jumbo Sandviç,"22,00 TL",Sandviçler,12.0
+a2e822a0-579e-4fff-8a35-b447a99e9807,Karışık Jumbo Sandviç,"20,00 TL",Sandviçler,17.0
+e4e36564-6acc-40f3-99c8-d7818afe28ce,Karışık Yumurtalı Jumbo Sandviç,"22,00 TL",Sandviçler,16.0
+2d3a9ea0-f57b-4f44-9775-a65423cfd225,İzmir Kumru,"20,00 TL",Kumrular,8.0
+352e84c6-b371-4af2-abbf-af64ce41b3dc,Çeşme Kumru,"20,00 TL",Kumrular,10.0
+b768ef8d-fbe8-47fc-a35b-9818ee85255d,Kumru,"20,00 TL",Kumrular,8.0
+0fd70f38-ec0b-402a-a119-880dd6d30c92,Yarım Ekmek Arası Tavuk,"15,00 TL",Ekmek Arası Ürünler,1.0
+8a09828e-857b-4534-983f-aba85e4ba707,Yarım Ekmek Arası Köfte,"17,00 TL",Ekmek Arası Ürünler,5.0
+afc8203d-a3b2-4505-952f-5f7b5b28ff45,Yarım Ekmek Arası Kaşarlı Tavuk,"18,00 TL",Ekmek Arası Ürünler,1.0
+df2a6782-bcf1-4977-a733-01efb821ba21,Yarım Ekmek Arası Kaşarlı Köfte,"20,00 TL",Ekmek Arası Ürünler,5.0
+2bb89bd5-bc3d-4499-b48f-f01e777c443e,Soğan Halkası (7 Adet),"13,00 TL",Yan Ürünler,3.0
+573697dd-9fe9-4167-88be-d6b5307768da,Patates Kızartması,"15,00 TL",Yan Ürünler,6.0
+607aa5fd-5917-482e-b48e-f56c5fed2191,Duble Patates Kızartması,"20,00 TL",Yan Ürünler,7.0
+c8d111e3-ff84-4b60-86b8-298e1a29123a,Sarıkız Limonlu Soda (20 cl.),"4,00 TL",İçecekler,5.0
+dfc59b85-9148-4c5b-a5a2-02a7073b96e6,Sarıkız Soda (20 cl.),"4,00 TL",İçecekler,5.0
+859066c8-6dc6-4ff8-b4bb-172472059fdb,Poşet,"0,25 TL",Poşet,5.0

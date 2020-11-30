@@ -1,0 +1,25 @@
+food_id,food_name,food_price,food_category,food_score
+ba07bfa1-2dbb-4c62-9955-b7b65fda978d,Balıkesir Atom Kokoreç,"48,00 TL",Kokoreçler,-5.0
+35b5d9db-3efc-4cf7-8175-760b4f6eb134,Kokoreç,"42,00 TL",Kokoreçler,-4.0
+c48626af-cd69-4c25-a2ec-2c7eae541b90,Çeyrek Ekmek Arası Kokoreç,"13,00 TL",Kokoreçler,-7.0
+cf1b1b99-c406-4e70-9886-e4b26902aa44,Yarım Ekmek Arası Kokoreç,"20,00 TL",Kokoreçler,-2.0
+d79c91d4-a2b0-47db-9d25-78ef1b2d2322,3/4 Ekmek Arası Kokoreç,"30,00 TL",Kokoreçler,-7.0
+873a04f1-97a7-4549-8843-c65bfb22af93,Tam Ekmek Arası Kokoreç,"40,00 TL",Kokoreçler,-5.0
+7c493468-2698-4b5b-9f4c-cf95f8bffa31,Yaprak Ciğer,"30,00 TL",Ana Yemekler,5.0
+c9626979-76a7-4a6e-85c8-d22969c34bb6,Izgara Köfte,"25,00 TL",Ana Yemekler,4.0
+a2dc8c02-cd8c-4583-8c60-39de0b6fb4e6,Izgara Sucuk,"25,00 TL",Ana Yemekler,5.0
+6c479e5b-658a-48e8-a0bc-6db9c9c13a72,Yarım Ekmek Arası Yaprak Ciğer,"17,00 TL",Ekmek Arası Ürünler,2.0
+967b9f70-1e60-4ee7-982e-0dfd60b47f97,3/4 Ekmek Arası Yaprak Ciğer,"25,00 TL",Ekmek Arası Ürünler,2.0
+b929bbea-285e-432d-b011-82053cef099a,Tam Ekmek Arası Yaprak Ciğer,"30,00 TL",Ekmek Arası Ürünler,4.0
+5cbdcbfe-619b-4c15-a1b9-0423db006373,Yarım Ekmek Arası Sucuk,"15,00 TL",Ekmek Arası Ürünler,2.0
+21680674-0c07-484d-93b1-e24de2651dcb,3/4 Ekmek Arası Sucuk,"20,00 TL",Ekmek Arası Ürünler,2.0
+6637c15c-509f-47bd-a8f3-f35ff6bcab6d,Tam Ekmek Arası Sucuk,"25,00 TL",Ekmek Arası Ürünler,4.0
+01ad8757-1a0f-4386-b731-5ce439456b5a,Yarım Ekmek Arası Köfte,"15,00 TL",Ekmek Arası Ürünler,1.0
+ca7f4bb0-cd63-4d1b-b3d1-1dc1cbfe0004,3/4 Ekmek Arası Köfte,"20,00 TL",Ekmek Arası Ürünler,1.0
+faac0d08-0840-4fc5-9678-9fddfd2581bc,Tam Ekmek Arası Köfte,"25,00 TL",Ekmek Arası Ürünler,3.0
+f9d61335-8379-42d3-aec0-ed37b538e301,Midye Dolma (10 Adet),"15,00 TL",Yan Ürünler,4.0
+864cf6e2-5853-46b3-9a4b-6d1f8afac0c1,Sütlaç,"13,00 TL",Tatlılar,10.0
+04aa8247-c3e9-4444-b38b-23a298b0e0a3,Peynir Tatlısı,"10,00 TL",Tatlılar,5.0
+6ce2a766-19f4-417e-a279-3fc63f751ee2,Atom,"19,00 TL",Tatlılar,4.0
+5266f219-7364-4546-9234-af02bb80aaea,Niğde Gazozu (20 cl.),"4,00 TL",İçecekler,5.0
+a016ddab-6b51-41ed-ac6c-d473a254d326,Su,"1,50 TL",İçecekler,5.0

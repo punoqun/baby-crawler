@@ -1,0 +1,54 @@
+food_id,food_name,food_price,food_category,food_score
+9250e622-1450-43ab-bf6c-fa49abff9b16,5'li Lahmacun Menü,"60,00 TL",Menüler,-10.0
+fc746e23-0dea-475b-9941-ed567d2cbeba,Çikolatalım (Kapalı) Menü,"22,00 TL",Menüler,4.0
+ea831d2e-7ec3-4bd9-9a8a-5927137d344b,Kiremitte Kaşarlı Köfte Menü,"27,00 TL",Menüler,7.0
+468410cf-c0bc-4257-ae1b-40e32935a90e,Kiremitte Kaşarlı Kuşbaşı Menü,"30,00 TL",Menüler,7.0
+6536dcc8-afd7-4cac-a8f1-213644e571d9,Kiremitte Kaşarlı Tavuk Menü,"23,00 TL",Menüler,8.0
+d7b61cfd-11d2-480d-bb28-d48cadf42353,Kiremitte Mantar Kaşar Menü,"22,00 TL",Menüler,8.0
+f3dbb99f-7dfc-41e1-98c0-0deb57c24f9f,Lahmacun & Çorba Menü,"20,00 TL",Menüler,-8.0
+9e86a9ce-f5e7-4bed-8814-86160c2565fe,Lahmacun Menü 2,"15,00 TL",Menüler,-14.0
+b31334c4-9986-4241-bd1a-5b8bcb03a390,Öğrenci Menü,"25,00 TL",Menüler,11.0
+e8fa6c3c-50c3-4e2e-b888-b69e889443a1,Pizza Menü 1 (1 Kişilik),"20,00 TL",Menüler,10.0
+df905848-b41c-4068-8826-15a93bc5e506,Pizza Menü 2 (1 Kişilik),"24,00 TL",Menüler,1.0
+98741680-42ea-4c87-80eb-f8e6d0e3cff2,5'li Beyaz Peynirli Pide Menü,"90,00 TL",Pide Menüleri,13.0
+258c7af8-914f-4d7a-9733-ad4f2417a98d,Beyaz Peynirli Pide & Çorba Menü,"29,00 TL",Pide Menüleri,15.0
+0c08b332-8950-4b9d-94ca-7457ab824435,Beyaz Peynirli Pide (Kapalı) Menü 2,"22,00 TL",Pide Menüleri,8.0
+fd2fd0b6-c04f-40b2-a37a-fae8fee463e4,Beyaz Peynirli Pide Menü,"22,00 TL",Pide Menüleri,13.0
+d1a7c28d-e864-4ffa-805b-61e4d5f0b98f,Dört Mevsim Pide Menü 2,"32,00 TL",Pide Menüleri,8.0
+19240ec4-c383-44d1-913a-804788b538fd,Ispanaklı Pide Menü 2,"22,00 TL",Pide Menüleri,9.0
+bebb0963-6af3-4d98-96e1-4a920c85efe3,Karadeniz Usulü Kıymalı Yumurtalı Pide (Yuvarlak) Menü,"30,00 TL",Pide Menüleri,9.0
+572d287d-d5ef-4fff-98b3-1e8cd55f1306,Karışık Pide Menü,"26,00 TL",Pide Menüleri,13.0
+20e9700c-9949-4f25-a927-75619152c08c,Kaşarlı Pide (Kapalı) & Çorba Menü,"29,00 TL",Pide Menüleri,17.0
+c89c366b-8218-4580-b077-795466f26667,Kaşarlı Pide Menü 2,"22,00 TL",Pide Menüleri,10.0
+059c1bd7-2522-4479-a93e-8e26c235e36a,Kaşarlı Tahinli Cevizli Pide Menü,"24,00 TL",Pide Menüleri,15.0
+06e2154d-846b-45d0-9ee3-0331e1ae654e,Kaşarlı Yağlı Pide Menü,"25,00 TL",Pide Menüleri,15.0
+ca406fcd-56cb-447d-9b8a-336729fcf6a9,Kavurmalı Kaşarlı Yumurtalı Pide Menü Menü,"45,00 TL",Pide Menüleri,15.0
+52ba8439-e695-4b72-ab5f-5faf661a8f5e,Kavurmalı Pide Menü,"42,00 TL",Pide Menüleri,13.0
+bb2eae79-d031-4dc0-873d-ebde5ee7bdf3,Kıymalı Kaşarlı Pide Menü,"24,00 TL",Pide Menüleri,9.0
+381ccce8-322c-49d0-a3a3-fb97ad419b88,Kıymalı Pide & Çorba Menü,"29,00 TL",Pide Menüleri,9.0
+8117f81e-2561-4647-8e18-237d091e9391,Kıymalı Pide (Kapalı) Menü,"27,00 TL",Pide Menüleri,7.0
+9bd1f131-ded0-4068-86d0-68e959e3e055,Kıymalı Yumurtalı Pide & Tatlı Menü,"21,00 TL",Pide Menüleri,7.0
+a87fa4e6-c3bb-4d3f-a525-4690532f48ba,Kuşbaşı Kaşarlı Pide Menü,"34,00 TL",Pide Menüleri,14.0
+1b54568c-0d36-421d-a7d8-081698b020e6,Kuşbaşılı Pide Menü 2,"29,50 TL",Pide Menüleri,8.0
+e4affc79-8647-432c-92ab-cec08f49dc68,Mantarlı Pide Menü 2,"22,00 TL",Pide Menüleri,8.0
+0ec4f1e0-a833-4462-b7fc-29fb1ea8d30d,Menü 1,"22,00 TL",Pide Menüleri,8.0
+cbaa687c-e2c7-4414-8340-46956ce9cb22,Menü 2,"20,00 TL",Pide Menüleri,-1.0
+73174f72-3164-4376-b9ab-69602ab2811d,Menü 3,"20,00 TL",Pide Menüleri,0.0
+5d4a55a4-c7c4-45c2-b218-2fb65280b6ce,Menü 4,"20,00 TL",Pide Menüleri,1.0
+c110155c-1370-4386-98e5-4b86eb03712d,Menü 5,"20,00 TL",Pide Menüleri,-2.0
+fe929295-f251-4a52-be55-9d095cb034bc,Pastırmalı Pide Menü 2,"42,00 TL",Pide Menüleri,8.0
+SAPE010402,Semsek Pide Menü,"20,00 TL",Pide Menüleri,13.0
+3648f3af-d799-4dc1-8f31-799f4e758a0c,Semsek Pide Menü 2,"22,00 TL",Pide Menüleri,8.0
+e6a00a24-9de3-484d-b0a9-c32b298ddf44,Special Pide (Yuvarlak) Menü 2,"45,00 TL",Pide Menüleri,8.0
+ec25f3da-ac2d-4803-bb37-a8cdb5a32023,Sucuklu Kaşarlı Pide Menü 2,"26,00 TL",Pide Menüleri,10.0
+06fb5fab-cd07-4d25-85f1-889b900e8a28,Tavuklu Kaşarlı Pide Menü,"65,00 TL",Pide Menüleri,14.0
+700b7518-1d18-4f2e-be12-f39d53304e6d,Tavuklu Kaşarlı Pide Menü 2,"23,00 TL",Pide Menüleri,9.0
+0cf54520-788a-4b42-a3b1-6415c78f7856,Tavuklu Pide Menü 2,"22,00 TL",Pide Menüleri,7.0
+0f7ca821-a43d-49d1-8397-5e31569929f5,Ustam Pide Menü,"45,00 TL",Pide Menüleri,14.0
+703bb6e2-23e4-451d-a33a-8b3dfd8a198d,Ustam Pide Menü 2,"34,00 TL",Pide Menüleri,9.0
+01C6833F-FC88-4DA0-8BD7-4950FED0A0B3,Dana Kavurma Çorbası,"18,00 TL",Çorbalar,7.0
+0221A985-DF0E-4757-9C95-4FA3C5BADAF6,Gül Katmer,"20,00 TL",Tatlılar,1.0
+f3fa6e6b-83bf-42da-add3-f63943a9cee5,Fıstıklı Katmer,"17,00 TL",Tatlılar,1.0
+b6577228-904b-4e46-8e1d-7dd0458fdb69,Lipton İce Tea (33 cl.),"5,00 TL",İçecekler,5.0
+SAPE010312,Su,"1,50 TL",İçecekler,9.0
+9bd38799-4472-49f5-a81c-017289bd46e2,Poşet,"0,25 TL",Poşet,7.0

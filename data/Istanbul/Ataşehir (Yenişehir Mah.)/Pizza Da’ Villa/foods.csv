@@ -1,0 +1,52 @@
+food_id,food_name,food_price,food_category,food_score
+56214dd3-8e34-406e-9e8d-1a3829fa15cc,2 Adet Orta Boy Pizza Menü,"56,00 TL",Menüler,21.0
+2eb63cc0-8f3f-442a-89f8-b7ae92b2d96f,3 Adet Orta Boy Pizza Menü,"78,00 TL",Menüler,21.0
+08040097-15fc-4f4d-aa3e-2c4fe879ac6a,2 Adet Büyük Boy Pizza Menü,"67,00 TL",Menüler,21.0
+81b07104-1df8-44fd-b722-bbf47707cca0,3 Adet Büyük Boy Pizza Menü,"93,00 TL",Menüler,21.0
+8b4ff6fc-dbe2-404c-a0b1-76fc1eadb74f,Kendi Pizzanı Kendin Yap (Orta Boy),"36,00 TL",Pizzalar (Orta Boy),9.0
+571c3496-13cd-48d6-ae79-d1e791d250c8,Margherita Pizza (Orta Boy),"28,00 TL",Pizzalar (Orta Boy),26.0
+f12b5955-f982-4379-ae97-5e09f549c049,Mafia Pizza (Orta Boy),"36,00 TL",Pizzalar (Orta Boy),21.0
+c0314bb3-fa4c-4a32-9cb3-10a69d192d8b,Bahçe Pizza (Orta Boy),"33,00 TL",Pizzalar (Orta Boy),21.0
+e3c32dbd-3eba-4060-aeb3-0aa7c5d9597e,4 Peynirli Pizza (Orta Boy),"33,00 TL",Pizzalar (Orta Boy),23.0
+532e343d-cede-421b-b370-b48e1d7c97c2,Vegetarian Pizza (Orta Boy),"36,00 TL",Pizzalar (Orta Boy),21.0
+3da9354b-8c3b-4682-8b81-5db6cc2e5297,Karışık Pizza (Orta Boy),"36,00 TL",Pizzalar (Orta Boy),26.0
+360191a4-93d4-4965-be8b-680c8b7e4e0b,BBQ Tavuk Pizza (Orta Boy),"34,00 TL",Pizzalar (Orta Boy),21.0
+9b4ff3eb-42e1-453d-aafe-1d40e8644cb2,Al Tonno Pizza (Orta Boy),"35,00 TL",Pizzalar (Orta Boy),21.0
+88e65324-8438-4232-b641-1f6086925ca6,Sardinya Pizza (Orta Boy),"41,00 TL",Pizzalar (Orta Boy),21.0
+7f5a57c0-5f3e-43d6-a0ff-a9edfb5d8a1f,Villa Special Pizza (Orta Boy),"45,00 TL",Pizzalar (Orta Boy),22.0
+2072b5d5-0054-4d7d-93c8-61949e627fbc,Arabiata Pizza (Orta Boy),"37,00 TL",Pizzalar (Orta Boy),21.0
+216e54a3-bd9e-4537-a630-03242f617ec7,Alaturka Pizza (Orta Boy),"37,00 TL",Pizzalar (Orta Boy),21.0
+e8c77f57-fb47-41b2-8bbb-6e27068c1b4e,Napoli Pizza (Orta Boy),"47,00 TL",Pizzalar (Orta Boy),21.0
+7e453af8-250a-4141-87ee-df42800ca80a,Kendi Pizzanı Kendin Yap (Büyük Boy),"45,00 TL",Pizzalar (Büyük Boy),9.0
+5eed2d26-6c01-42d3-8a93-d83a10a2ee33,Margherita Pizza (Büyük Boy),"34,00 TL",Pizzalar (Büyük Boy),26.0
+a8112b88-24c6-429d-8991-ef18576edbf1,Mafia Pizza (Büyük Boy),"45,00 TL",Pizzalar (Büyük Boy),21.0
+da15b981-59dd-4f99-b76a-444d6dddf697,Bahçe Pizza (Büyük Boy),"41,00 TL",Pizzalar (Büyük Boy),21.0
+014f2c8d-084b-467b-9dad-47d03ed21e4b,4 Peynirli Pizza (Büyük Boy),"41,00 TL",Pizzalar (Büyük Boy),23.0
+2c494343-53e7-4ba3-8a52-54f6ef5ccec7,Vegetarian Pizza (Büyük Boy),"45,00 TL",Pizzalar (Büyük Boy),21.0
+16c8484d-c298-488a-9895-d1fd817a7454,Karışık Pizza (Büyük Boy),"45,00 TL",Pizzalar (Büyük Boy),21.0
+93a9deb0-3b21-4869-84c7-e165de9a5ecb,BBQ Tavuk Pizza (Büyük Boy),"43,00 TL",Pizzalar (Büyük Boy),21.0
+3b002dc4-228a-4668-bcc2-ab0f089ae315,Al Tonno Pizza (Büyük Boy),"44,00 TL",Pizzalar (Büyük Boy),21.0
+92e7d431-3a95-44f7-95a5-779ccc7319a3,Sardinya Pizza (Büyük Boy),"51,00 TL",Pizzalar (Büyük Boy),21.0
+dd2dd2e7-24ff-4dc0-86f3-3e81aed55b00,Villa Special Pizza (Büyük Boy),"55,00 TL",Pizzalar (Büyük Boy),22.0
+0c3b781c-78d4-4393-ac1d-888e38ee5201,Arabiata Pizza (Büyük Boy),"46,00 TL",Pizzalar (Büyük Boy),21.0
+5c08517e-3b32-4525-9287-40849a2dbedc,Alaturka Pizza (Büyük Boy),"46,00 TL",Pizzalar (Büyük Boy),21.0
+058b5f74-bb22-4dd6-a0b1-ed995cf7fc79,Napoli Pizza (Büyük Boy),"59,00 TL",Pizzalar (Büyük Boy),21.0
+19aa7379-35f7-4530-a130-a1ca8e4b5f5c,New York Pizza (Orta Boy),"28,00 TL",Ekonomik Pizzalar (Orta Boy),21.0
+ccddce14-a7d3-4bc1-89fa-451a0521a996,Mexico Pizza (Orta Boy),"28,00 TL",Ekonomik Pizzalar (Orta Boy),21.0
+5f5d6475-6286-410f-ac38-43e488ea3c4e,Caprese Pizza (Orta Boy),"28,00 TL",Ekonomik Pizzalar (Orta Boy),21.0
+92ab0482-a022-4bac-881c-01e1714c33cb,Sebzeli Pizza (Orta Boy),"28,00 TL",Ekonomik Pizzalar (Orta Boy),21.0
+914a3d77-9258-41e6-81be-bee6fbdb44c7,Tavuklu Pizza (Orta Boy),"28,00 TL",Ekonomik Pizzalar (Orta Boy),21.0
+6975e105-c148-42c7-b994-2751dc8a7e88,Empoli Pizza (Orta Boy),"28,00 TL",Ekonomik Pizzalar (Orta Boy),21.0
+3c96e96b-72f3-4af2-a2ea-094309961116,New York Pizza (Büyük Boy),"34,00 TL",Ekonomik Pizzalar (Büyük Boy),21.0
+a62c29d1-259b-4081-b8b4-c22282395eea,Mexico Pizza (Büyük Boy),"34,00 TL",Ekonomik Pizzalar (Büyük Boy),21.0
+1c91fc89-e675-4462-80ca-ce1210349c2e,Caprese Pizza (Büyük Boy),"34,00 TL",Ekonomik Pizzalar (Büyük Boy),21.0
+fc2f2de9-6392-4db0-8bf1-b41521549adf,Sebzeli Pizza (Büyük Boy),"34,00 TL",Ekonomik Pizzalar (Büyük Boy),21.0
+f8000b91-0ce9-4c63-b67e-768e953b5981,Tavuklu Pizza (Büyük Boy),"34,00 TL",Ekonomik Pizzalar (Büyük Boy),21.0
+98feda1b-a603-4d0b-a260-5062e6a13808,Empoli Pizza (Büyük Boy),"34,00 TL",Ekonomik Pizzalar (Büyük Boy),21.0
+17f8e0be-dc53-4981-a34d-afb8b407c761,Muzlu Bisküvili Mag,"19,00 TL",Tatlılar,5.0
+77648055-6e24-46ef-9d64-d5d752db8677,Çilekli Oreolu Mag,"19,00 TL",Tatlılar,5.0
+9ec1c95e-e684-4e22-984a-6c4042737417,Carte d'Or Monoportion Çilek Yoğurt (105 ml.),"9,00 TL",Tatlılar,5.0
+8f101e0c-2818-4272-8fa1-4d288ccfaff4,Carte d'Or Monoportion Çikolata Karnavalı (105 ml.),"9,00 TL",Tatlılar,5.0
+8bc239e1-3b72-4c2e-8aae-aacdf4895b4a,Algida Carte d'Or Volcano Cup (160 ml.),"16,00 TL",Tatlılar,5.0
+d43a0b2a-a521-4971-8dd9-f42ccae3a464,Çikolatalı Calzone,"24,00 TL",Tatlılar,5.0
+8a845007-66d3-4c67-98ec-b5a367bedd4c,Poşet,"0,25 TL",Poşet,5.0
