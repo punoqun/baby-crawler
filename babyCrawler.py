@@ -318,7 +318,8 @@ def localDishesnComments(city, dist='', rest='',min=0,max=5,sort_rest=False,date
         if 'foods.csv' in files:
             restaurant = root[root.rfind('/')+1:]
             l_foods = pd.read_csv(root+'/foods.csv')
-            
+            r_score = pd.read_csv(root+'/restaurant_metadata.csv')
+            r_s = r_score.at[0,'taste']
             if date != 'Year':
                 fav_foods = pd.read_csv(root+'/favorites.csv')
                 favs = str(fav_foods.values.tolist())
@@ -326,6 +327,7 @@ def localDishesnComments(city, dist='', rest='',min=0,max=5,sort_rest=False,date
                 foods = filter_comments(comment_list, l_foods.values.tolist(), date=date, favs=favs)
                 # print(foods)
                 l_foods = pd.DataFrame(foods,columns=['food_id', 'food_name', 'food_price', 'food_category', 'food_score'])
+                l_foods['food_score']*=r_s
             l_foods['rest_name'] = restaurant
             ret_foods = pd.concat((ret_foods,l_foods),axis=0)
 
