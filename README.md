@@ -42,8 +42,11 @@ pip install -r requirements.txt
 ## Internal Calculations
 ### Food Score
 Food score is a completely relative scoring system based on the reviews and the restaurants' flavor scorings. 
+
 It's calculated as follows:
+
 Favorite food items have 10.0 base score while all others have 5.0, then for every comment in the selected time frame; if that comment has a perfect flavor scoring it adds a point for every food item on that restaurants menu, and then if the comment has a spesific name of a food item and has above average flavor scoring (it was 6.958 for all comments in my database I rounded it to 7.0) that item's score is incremented by 2, and all other related items (if pepperoni pizza gets mentioned pepperoni pizza's score increments by 2.0 and all other pizza's gets incremented by 1.0).
+
 If the comment has below the 20 percentile (it was 3.84 for all comments I rounded up to 4.0) it does the opposite of the above, and if it has 1.0 flavor score it decreases all food scores by 1.0 for that restaurant.
 
 While displaying the food items every food score is multiplied by the restaurants' flavor score then it gets scaled between 0 and 5. Which means if you see a score of 5.0 for one food item and 4.0 from another that means the first one is %20 better than the second one.
