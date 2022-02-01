@@ -1,5 +1,5 @@
 # baby-crawler
-Yet another Yemeksepeti crawler, but with complete gui and half-crawled data. Made as a BIL573 project.
+Yet another Yemeksepeti crawler, but with complete gui and half-crawled data. 
 ##  Installation
 **1-** Clone, or Download and extract, the repository into your selected directory.
 
